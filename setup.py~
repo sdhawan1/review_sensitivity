@@ -1,0 +1,120 @@
+import os #need this package to scrape the locally stored data files
+import nltk
+from nltk.probability import FreqDist #frequency distribution statistics finder
+from collections import Counter #another tool to count frequencies
+from bs4 import BeautifulSoup # for extracting stuff from htmls   
+from collections import defaultdict #import a "dictionary" data type: to create dict of lists 
+
+### important global variables ###
+datadir = os.path.abspath(os.path.join(os.path.dirname(__file__),"..")) #get parent directory
+datadir += '/movie/'
+rvfilenames = os.listdir(datadir) #open a file: open(datadir+rvfilenames)
+reviewerdir = os.getcwd() + '/reviewerdata/'
+moviedir = os.getcwd() + '/moviedata/'
+
+def setup_bymovie():
+    #find the title and authors of all movie reviews & store?
+    if not os.path.isfile(os.getcwd() + '/movie_names'): #if there is no file with all titles, create it.
+        f = open("movie_names", 'w')
+        for rvfile in rvfilenames:
+            try: #in some rare cases, the movie's name cannot be found this way. If it can, record it.
+                soup = BeautifulSoup(open(datadir + rvfile))
+                title = soup.find("title").get_text().encode('utf8')
+                print title
+                f.write( title+'\n' )
+            except:
+                print "error: couldn't find title\n"
+                f.write(' \n')
+        f.close()
+
+    #get the titles of movies from the file of movies
+    movienames = defaultdict(list)
+    fileno = 0
+    with open("movie_names") as openfileobject:
+        for line in openfileobject:
+            if not movienames:
+                movienames[line] = [fileno]
+            elif line in movienames:
+                movienames[line].extend([fileno])
+            else:
+                movienames[line] = [fileno]
+            fileno += 1
+    return movienames
+
+def setup_byreviewer():
+    #find the title and authors of all movie reviews & store?
+    if not os.path.isfile(os.getcwd() + '/reviewer_names'): #if there is no file with all titles, create it.
+        f = open("reviewer_names", 'w')
+        for rvfile in rvfilenames:
+            try:
+                soup = BeautifulSoup(open(datadir + rvfile))
+                #try to work with exceptional control flow on the below.
+                reviewer = soup.find("h3").a.text
+                print reviewer
+                f.write( reviewer+'\n' )
+            except:
+                print "error: couldn't find file \n"
+                f.write(' \n')
+                continue
+        f.close()
+
+    #get the indices of the reviewers from the file of reviewers.              
+    reviewernames = defaultdict(list)
+    fileno = 0
+    with open("reviewer_names") as openfileobject:
+        for line in openfileobject: #on each line is an author name: create a dictionary with the name as the key.
+            if not reviewernames:
+                reviewernames[line] = [fileno]
+            elif line in reviewernames:
+                reviewernames[line].extend([fileno])
+            else:
+                reviewernames[line] = [fileno]
+            fileno += 1
+    return reviewernames
+
+#output all the reviews that each reviewer has
+def write_num_reviewers():
+    revnames = setup_byreviewer()
+    for k in revnames:
+        print len(revnames[k])
+
+#output all the reviews that each movie has
+def write_num_movies():
+    movienames = setup_bymovie()
+    for k in movienames:
+        print len(movienames[k])
+
+
+def collect_revs_bycritic():
+    #start with just one critic
+    numfiles = 0
+    reviewerfiles = setup_byreviewer()
+    for key in reviewerfiles:
+        #open the next file.
+        print "review number " + str(numfiles)
+        numfiles += 1
+        f = open(reviewerdir + "reviewers" + str(numfiles), 'w')    
+        #start writing to the file
+        f.write("Authors\n")
+        f.write(str(key))
+        f.write( "Number of Reviews\n")
+        f.write( str(len(reviewerfiles[key])) + '\n')
+        #find all the files with the given author and do the following:
+        for index in reviewerfiles[key]:
+            rvfile = rvfilenames[index]
+            soup = BeautifulSoup(open(datadir + rvfile))
+            title = soup.find("title").get_text().encode('utf8')
+            f.write("\nTitle\n")
+            f.write(title+'\n')
+            #get all the text of the review and print it on the screen.
+            paragraphs = soup.findAll("p")
+            for p in paragraphs:
+                if p.get("class") == ['flush']:
+                    break
+                f.write(p.get_text().encode('utf8'))
+                f.write('\n')
+                #allfiles += p.get_text()
+        f.close()
+    
+##main method: for now, just want to write movies
+collect_revs_bycritic()
