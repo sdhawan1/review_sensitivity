@@ -1,0 +1,31 @@
+0. CAPSULE: Money talks                 ... pos = 0     	neg = 0.0  
+1. In this movie they d                 ... pos = 0.0   	neg = 1.125
+2. The worst part about                 ... pos = 0.0   	neg = 1.0  
+3. I'm reminded, oddly,                 ... pos = 0.5   	neg = 0.125
+4. I've never enjoyed w                 ... pos = 1.25  	neg = 0.5  
+5. It is a few gorgeous                 ... pos = 0.25  	neg = 0.875
+6. It's just so very, v                 ... pos = 1.125 	neg = 0.0  
+7. The plot (what there                 ... pos = 0.125 	neg = 0.25 
+8. It also brings back                  ... pos = 0.125 	neg = 0.125
+9. That sounds odd, com                 ... pos = 1.875 	neg = 1.25 
+10. For enemies, we get                 ... pos = 0.0   	neg = 0.125
+11. What're they going t                ... pos = 0.0   	neg = 0.0  
+12. The story is handled                ... pos = 0.0   	neg = 0.25 
+13. In this movie they a                ... pos = 0.75  	neg = 0.375
+14. Malcom we know about                ... pos = 1.0   	neg = 0.125
+15. Aside from the way t                ... pos = 0.0   	neg = 0.25 
+16. They're only smart e                ... pos = 0.0   	neg = 0.0  
+17. There's no sense tha                ... pos = 0.0   	neg = 0.25 
+18. There are so many li                ... pos = 0.375 	neg = 0.25 
+19. For instance.                       ... pos = 0.0   	neg = 0    
+20. Pete Postlewaite's c                ... pos = 1.375 	neg = 0.125
+21. The incidental roles                ... pos = 0.125 	neg = 0.0  
+22. There is a magnifice                ... pos = 0.5   	neg = 0.125
+23. It is a work of real                ... pos = 0.0   	neg = 0.25 
+24. Buy it and read it w                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1258-1046 is Positive        ... pos = 9.75  	neg = 7.375
+Overall score of document
+Total Pos = 9.75
+Total Neg = 7.375
+---------------------------------------------------------------------------

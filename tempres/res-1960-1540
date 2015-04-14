@@ -1,0 +1,37 @@
+0. Rated on a 4-star sc                 ... pos = 0.375 	neg = 0.0  
+1. Written by Ben Young                 ... pos = 0.125 	neg = 0    
+2. Photographed by Enri                 ... pos = 0.0   	neg = 0.0  
+3. It's only two weeks                  ... pos = 0.75  	neg = 0.375
+4. "Boiler Room" is oft                 ... pos = 0.125 	neg = 0.125
+5. It's also a  very se                 ... pos = 0.5   	neg = 0.0  
+6. His name is Seth (Gi                 ... pos = 0.375 	neg = 0.125
+7. When his father, a f                 ... pos = 0.75  	neg = 0.0  
+8. Seth can't handle da                 ... pos = 0.375 	neg = 0.0  
+9. He determines to fin                 ... pos = 0.125 	neg = 0.0  
+10. Then one of his frie                ... pos = 0.125 	neg = 0.0  
+11. Marlin -- a  telemar                ... pos = 0.0   	neg = 0.125
+12. This is more dishone                ... pos = 0.5   	neg = 1.375
+13. And it pays better.                 ... pos = 0.0   	neg = 0.0  
+14. That's made clear in                ... pos = 0.375 	neg = 0.125
+15. "Work here," he tell                ... pos = 0.0   	neg = 0.125
+16. Anybody who  says mo                ... pos = 0.0   	neg = 0.875
+17. ". The guys know Oli                ... pos = 0.25  	neg = 0.875
+18. They proudly  recite                ... pos = 0.25  	neg = 0.0  
+19. When they're all on                 ... pos = 1.5   	neg = 1.75 
+20. Since we are so enga                ... pos = 0.75  	neg = 0.0  
+21. He is a well-written                ... pos = 1.625 	neg = 1.0  
+22. The climate in J.T.                 ... pos = 0.0   	neg = 0.0  
+23. Marlin teaches him t                ... pos = 0.125 	neg = 1.875
+24. Seth has to be sucke                ... pos = 0.625 	neg = 0.375
+25. All of the movie's d                ... pos = 0.125 	neg = 0.125
+26. Brokers' conversatio                ... pos = 0.25  	neg = 0.0  
+27. And Seth's scenes  w                ... pos = 1.5   	neg = 0.375
+28. The characters talk                 ... pos = 1.125 	neg = 0.0  
+29. "Boiler Room" works                 ... pos = 0.5   	neg = 0.0  
+30. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1960-1540 is Positive        ... pos = 13.125 	neg = 9.75 
+Overall score of document
+Total Pos = 13.125
+Total Neg = 9.75
+---------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+0. To think that the tw                 ... pos = 0.0   	neg = 0.0  
+1. It is true, Tom Shad                 ... pos = 0.625 	neg = 0.25 
+2. Robin Williams bring                 ... pos = 2.75  	neg = 0.25 
+3. Discovering his tale                 ... pos = 0.125 	neg = 0.25 
+4. Toting a fake white                  ... pos = 0.25  	neg = 0.375
+5. If at least a smile                  ... pos = 0.875 	neg = 0.125
+6. I'm not at all surpr                 ... pos = 1.125 	neg = 0.125
+7. At the same time, it                 ... pos = 0.25  	neg = 0.5  
+8. But you have to appl                 ... pos = 0.75  	neg = 0.0  
+9. Despite the obviousl                 ... pos = 0.375 	neg = 0.25 
+10. One scene, in partic                ... pos = 0.625 	neg = 0.0  
+11. And yet, the filmmak                ... pos = 0.25  	neg = 0.375
+12. Robin Williams is ag                ... pos = 1.375 	neg = 0.25 
+13. He's the heart and s                ... pos = 0.25  	neg = 0.0  
+14. Amazingly, he never                 ... pos = 0.125 	neg = 0.0  
+15. He gets and excellen                ... pos = 2.125 	neg = 0.125
+16. Monica Potter is als                ... pos = 0.875 	neg = 0.125
+17. There's lots of emot                ... pos = 0.625 	neg = 0.25 
+18. Whether they are goo                ... pos = 1.0   	neg = 1.0  
+19. Patch Adams is a mov                ... pos = 0.25  	neg = 0.125
+20. Jamey Hughton was a                 ... pos = 0.5   	neg = 0.125
+21. Canada).. .                         ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4411-693 is Positive         ... pos = 15.125 	neg = 4.5  
+Overall score of document
+Total Pos = 15.125
+Total Neg = 4.5
+---------------------------------------------------------------------------

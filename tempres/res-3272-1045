@@ -1,0 +1,41 @@
+0. Curtis Edmonds -- bl                 ... pos = 0.25  	neg = 0.0  
+1. Baffled by two bruta                 ... pos = 0.0   	neg = 0.0  
+2. The search for the m                 ... pos = 0.0   	neg = 0.75 
+3. The same concept is                  ... pos = 0.333 	neg = 0.125
+4. Our hero is Ethan Ha                 ... pos = 1.0   	neg = 0.625
+5. The only "network" y                 ... pos = 0.0   	neg = 0.125
+6. Like a light-skinned                 ... pos = 0.0   	neg = 0.5  
+7. When the murder of a                 ... pos = 0.0   	neg = 0.0  
+8. The futuristic trapp                 ... pos = 0.25  	neg = 0.5  
+9. Hawke, innocent of t                 ... pos = 0.125 	neg = 0.375
+10. That's not interesti                ... pos = 0.0   	neg = 0.0  
+11. The characters aren'                ... pos = 0.875 	neg = 0.0  
+12. Hawke plays his poor                ... pos = 0.25  	neg = 0.375
+13. Uma Thurman is waste                ... pos = 0.625 	neg = 0.5  
+14. The supporting cast                 ... pos = 0.625 	neg = 0.0  
+15. All the performances                ... pos = 0.25  	neg = 0.625
+16. My question is this.                ... pos = 0.0   	neg = 0.125
+17. You're parents, righ                ... pos = 0.0   	neg = 0    
+18. You can make your ki                ... pos = 0.0   	neg = 0.625
+19. You would think that                ... pos = 1.25  	neg = 0.0  
+20. But in "Gattaca", it                ... pos = 0.0   	neg = 0.375
+21. (The set design look                ... pos = 0.0   	neg = 0.375
+22. ) The "Gattaca" empl                ... pos = 0.25  	neg = 0.875
+23. Looks as though they                ... pos = 0.0   	neg = 0.375
+24. If this is the point                ... pos = 0.75  	neg = 0.125
+25. And if they're going                ... pos = 0.375 	neg = 0.0  
+26. I was driving down G                ... pos = 1.0   	neg = 0.125
+27. But there's no subve                ... pos = 0.625 	neg = 0.75 
+28. "Gattaca" (the name,                ... pos = 0.25  	neg = 0.125
+29. To it's credit, the                 ... pos = 1.5   	neg = 0.125
+30. But as entertainment                ... pos = 0.0   	neg = 1.125
+31. The Hollywood Stock                 ... pos = 0.0   	neg = 0.125
+32. No jury in the world                ... pos = 0.0   	neg = 0.25 
+33. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+34. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3272-1045 is Positive        ... pos = 10.583 	neg = 10.0 
+Overall score of document
+Total Pos = 10.583
+Total Neg = 10.0
+---------------------------------------------------------------------------

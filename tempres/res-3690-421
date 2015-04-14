@@ -1,0 +1,35 @@
+0. It is so very rare t                 ... pos = 0.75  	neg = 0.625
+1. Such a film would ma                 ... pos = 0.0   	neg = 0.5  
+2. Such a film would fi                 ... pos = 0.25  	neg = 0.0  
+3. Not for the benefit                  ... pos = 0.25  	neg = 0.0  
+4. Tom Tykwer's "Run Lo                 ... pos = 0.125 	neg = 0.125
+5. It is a film so fren                 ... pos = 0.5   	neg = 0.125
+6. "Run Lola Run" start                 ... pos = 0.25  	neg = 0.75 
+7. The film is the prod                 ... pos = 0.625 	neg = 0.125
+8. The title character                  ... pos = 1.375 	neg = 0.125
+9. Red-haired Lola(Fran                 ... pos = 0.0   	neg = 0.0  
+10. Through tears, he te                ... pos = 0.0   	neg = 0.0  
+11. The money that he wa                ... pos = 0.0   	neg = 0.25 
+12. Manni has 20 minutes                ... pos = 0.125 	neg = 0.125
+13. Lola explains that h                ... pos = 0.25  	neg = 0.125
+14. She tells him to wai                ... pos = 0.125 	neg = 0.0  
+15. Full speed ahead, Lo                ... pos = 0.0   	neg = 0.0  
+16. Her quest leads her                 ... pos = 0.0   	neg = 0.375
+17. This plot, of Lola r                ... pos = 0.625 	neg = 0.125
+18. Each one of her atte                ... pos = 1.25  	neg = 0.375
+19. It's almost impossib                ... pos = 0.625 	neg = 0.125
+20. The end of the mille                ... pos = 0.625 	neg = 0.25 
+21. A film, that is 80 m                ... pos = 0.875 	neg = 0.5  
+22. In my book, writer-d                ... pos = 0.125 	neg = 0.125
+23. Looking back at 1999                ... pos = 0.0   	neg = 0.25 
+24. You could combine "T                ... pos = 0.0   	neg = 0.0  
+25. "Run Lola Run" is pu                ... pos = 0.0   	neg = 0.125
+26. This German gem may                 ... pos = 0.375 	neg = 0.25 
+27. In essence, "Run Lol                ... pos = 0.0   	neg = 0.125
+28. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3690-421 is Positive         ... pos = 9.125 	neg = 5.625
+Overall score of document
+Total Pos = 9.125
+Total Neg = 5.625
+---------------------------------------------------------------------------

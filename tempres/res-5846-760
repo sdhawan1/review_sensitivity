@@ -1,0 +1,10 @@
+0. Director: Scott Silv                 ... pos = 0.125 	neg = 0.375
+1. US Distribution: MGM                 ... pos = 0.625 	neg = 0.0  
+2. The story has all th                 ... pos = 1.375 	neg = 1.875
+3. By sheer force of ta                 ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5846-760 is Negative         ... pos = 2.125 	neg = 2.5  
+Overall score of document
+Total Pos = 2.125
+Total Neg = 2.5
+---------------------------------------------------------------------------

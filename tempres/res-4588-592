@@ -1,0 +1,52 @@
+0. See other reviews by                 ... pos = 0.75  	neg = 0.25 
+1. The stories that att                 ... pos = 0.375 	neg = 0.125
+2. Albeit that those ar                 ... pos = 0.625 	neg = 0.25 
+3. It can be argued tha                 ... pos = 1.375 	neg = 0.375
+4. But whatever the cau                 ... pos = 0.875 	neg = 0.75 
+5. Ed Pekurny (Mathew M                 ... pos = 0.0   	neg = 0.625
+6. He is about 30 years                 ... pos = 0.0   	neg = 0.125
+7. His role model is Bu                 ... pos = 0.375 	neg = 0.375
+8. His father left him                  ... pos = 0.375 	neg = 0.25 
+9. His older brother,                   ... pos = 1.875 	neg = 0.125
+10. On the other side of                ... pos = 0.25  	neg = 0.125
+11. They are wealthy and                ... pos = 1.25  	neg = 0.0  
+12. As of  late, their n                ... pos = 0.0   	neg = 1.0  
+13. " Cynthia has a plan                ... pos = 0.125 	neg = 0.0  
+14. The risk is major, b                ... pos = 0.625 	neg = 0.25 
+15. Of course, Ed is sel                ... pos = 0.375 	neg = 0.125
+16. This process is most                ... pos = 0.125 	neg = 0.25 
+17. However, that soon                  ... pos = 0.125 	neg = 0.0  
+18. (A typical Hollywood                ... pos = 0.125 	neg = 0.0  
+19. ). Mathew McConaughe                ... pos = 0.25  	neg = 0.125
+20. Often upstaged  by W                ... pos = 0.5   	neg = 1.375
+21. One scene in particu                ... pos = 0.625 	neg = 0.25 
+22. Other scenes are rem                ... pos = 0.875 	neg = 1.0  
+23. Fortunately, the sup                ... pos = 1.75  	neg = 0.125
+24. As the movie  takes                 ... pos = 0.125 	neg = 0.125
+25. Ellen DeGeneres in p                ... pos = 0.75  	neg = 0.125
+26. At one point she has                ... pos = 0.75  	neg = 0.625
+27. However, instead of                 ... pos = 2.375 	neg = 0.0  
+28. Despite the fine ens                ... pos = 0.0   	neg = 0.125
+29. The movie has a very                ... pos = 0.5   	neg = 0.125
+30. The problem with tha                ... pos = 0.5   	neg = 0.375
+31. So,  despite sending                ... pos = 0.75  	neg = 0.0  
+32. However, the questio                ... pos = 0.5   	neg = 0.375
+33. After all, almost al                ... pos = 0.75  	neg = 0.0  
+34. But  when a comparis                ... pos = 0.875 	neg = 0.25 
+35. And you also realize                ... pos = 0.625 	neg = 0.0  
+36. A realization must b                ... pos = 0.875 	neg = 0.125
+37. And that is that the                ... pos = 0.5   	neg = 0.125
+38. We may not want to a                ... pos = 0.0   	neg = 1.0  
+39. And this movie is ma                ... pos = 0.75  	neg = 0.125
+40. It pokes fun in a wa                ... pos = 0.875 	neg = 0.125
+41. So, overall Edtv has                ... pos = 0.0   	neg = 0.0  
+42. The acting is good;                 ... pos = 0.0   	neg = 1.0  
+43. The  message is very                ... pos = 1.75  	neg = 0.25 
+44. Ultimately I did enj                ... pos = 0.875 	neg = 0.0  
+45. But I never gave my                 ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4588-592 is Positive         ... pos = 28.125 	neg = 12.75
+Overall score of document
+Total Pos = 28.125
+Total Neg = 12.75
+---------------------------------------------------------------------------

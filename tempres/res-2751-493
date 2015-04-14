@@ -1,0 +1,69 @@
+0. Steve Martin was hil                 ... pos = 0.25  	neg = 0.125
+1. Eddie Murphy was hil                 ... pos = 0.25  	neg = 0.125
+2. Therefore, we know b                 ... pos = 0.25  	neg = 0.125
+3. Yes, I know, I am th                 ... pos = 0.0   	neg = 0.125
+4. Anyway, we know thes                 ... pos = 0.0   	neg = 0.0  
+5. However, it seems th                 ... pos = 0.375 	neg = 0.125
+6. For every Dr. Dolitt                 ... pos = 0.0   	neg = 0.0  
+7. But, Bowfinger is a                  ... pos = 0.0   	neg = 0.125
+8. It capitalizes on th                 ... pos = 0.375 	neg = 0.0  
+9. Now, most of you hav                 ... pos = 0.0   	neg = 0.0  
+10. In my opinion, it is                ... pos = 0.375 	neg = 0.125
+11. I gave it four stars                ... pos = 0.0   	neg = 0.0  
+12. My review of Bowfing                ... pos = 0.0   	neg = 0.125
+13. Just to reiterate my                ... pos = 0.0   	neg = 0.125
+14. Bowfinger, like The                 ... pos = 0.0   	neg = 0.125
+15. It does not need Osc                ... pos = 1.125 	neg = 0.125
+16. Now on with my revie                ... pos = 0.0   	neg = 0.0  
+17. Bowfinger is hilario                ... pos = 0.25  	neg = 0.125
+18. If you have any idea                ... pos = 0.25  	neg = 0.125
+19. It combines a clever                ... pos = 0.75  	neg = 0.0  
+20. No matter what kind                 ... pos = 1.0   	neg = 0.5  
+21. Either way, Bowfinge                ... pos = 1.0   	neg = 0.125
+22. Steve Martin wrote t                ... pos = 0.0   	neg = 0.0  
+23. He plays Bobby Bowfi                ... pos = 0.0   	neg = 0.0  
+24. However, he fails mi                ... pos = 0.125 	neg = 0.125
+25. He thinks he strikes                ... pos = 0.25  	neg = 0.0  
+26. Right from the get-g                ... pos = 0.25  	neg = 0.0  
+27. It moves on with Bob                ... pos = 0.0   	neg = 0.0  
+28. He finds a studio ex                ... pos = 0.25  	neg = 0.375
+29. So, Bowfinger tries                 ... pos = 0.0   	neg = 1.125
+30. But, Bowfinger canno                ... pos = 0.25  	neg = 0.0  
+31. What is his plan?                   ... pos = 0     	neg = 0.125
+32. To get his actors to                ... pos = 0.25  	neg = 0.0  
+33. Let's just say comed                ... pos = 0.0   	neg = 0.0  
+34. Steve Martin is grea                ... pos = 0.0   	neg = 0.125
+35. Not only does he moc                ... pos = 0.625 	neg = 0.375
+36. This makes it a uniq                ... pos = 0.625 	neg = 0.25 
+37. Eddie Murphy is back                ... pos = 0.0   	neg = 0.25 
+38. He does double duty                 ... pos = 0.25  	neg = 0.375
+39. He plays both roles                 ... pos = 0.0   	neg = 0.0  
+40. Kit Ramsey is a blac                ... pos = 0.5   	neg = 0.375
+41. Jiff, on the other h                ... pos = 0.625 	neg = 0.875
+42. Murphy plays both ro                ... pos = 0.0   	neg = 0.0  
+43. His Jiff character f                ... pos = 1.125 	neg = 0.375
+44. This film probably w                ... pos = 0.375 	neg = 0.125
+45. We believe that Murp                ... pos = 0.5   	neg = 0.0  
+46. The supporting cast                 ... pos = 0.375 	neg = 0.125
+47. They do not get in t                ... pos = 0.125 	neg = 0.625
+48. Christine Baranski p                ... pos = 0.0   	neg = 0.25 
+49. Jamie Kennedy plays                 ... pos = 0.25  	neg = 0.0  
+50. He does not go over                 ... pos = 0.125 	neg = 0.0  
+51. The only member of t                ... pos = 0.375 	neg = 0.125
+52. She starts off as a                 ... pos = 0.375 	neg = 0.625
+53. " once she gets off                 ... pos = 0.0   	neg = 0.625
+54. But, she then become                ... pos = 0.375 	neg = 0.25 
+55. The transition is ha                ... pos = 0.625 	neg = 0.125
+56. Overall, Bowfinger i                ... pos = 0.0   	neg = 0.125
+57. Besides, Austin Powe                ... pos = 0.375 	neg = 0.125
+58. It is witty, clever                 ... pos = 1.375 	neg = 0.125
+59. It does not rely on                 ... pos = 0.75  	neg = 0.5  
+60. And it is aided by t                ... pos = 0.25  	neg = 0.125
+61. You will not see Mur                ... pos = 1.0   	neg = 0.0  
+62. Four Stars out of Fo                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2751-493 is Positive         ... pos = 18.75 	neg = 10.875
+Overall score of document
+Total Pos = 18.75
+Total Neg = 10.875
+---------------------------------------------------------------------------

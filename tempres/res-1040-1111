@@ -1,0 +1,29 @@
+0. REVIEW: John Carpent                 ... pos = 2.125 	neg = 0.25 
+1. It is how Village Ro                 ... pos = 0.0   	neg = 0.125
+2. Full of juicy tidbit                 ... pos = 0.375 	neg = 1.25 
+3. But are we laughing                  ... pos = 0.25  	neg = 0.0  
+4. Probably not, given                  ... pos = 0.0   	neg = 0.0  
+5. But in the cosmos of                 ... pos = 0.25  	neg = 0.5  
+6. The easiest way for                  ... pos = 0.25  	neg = 0.125
+7. So you can imagine h                 ... pos = 0.25  	neg = 0.5  
+8. This plan involves t                 ... pos = 0.625 	neg = 0.0  
+9. If you're expecting                  ... pos = 0.125 	neg = 0.0  
+10. Vampires is a "real"                ... pos = 0.0   	neg = 0.125
+11. Trouble is, John Car                ... pos = 0.625 	neg = 0.875
+12. Even greater a probl                ... pos = 0.875 	neg = 0.5  
+13. Valek's quest to giv                ... pos = 0.5   	neg = 0.125
+14. In some ways, James                 ... pos = 0.0   	neg = 0.125
+15. His western macho ma                ... pos = 0.25  	neg = 0.625
+16. You get the feeling                 ... pos = 0.0   	neg = 0.125
+17. Another interesting                 ... pos = 0.125 	neg = 1.125
+18. Even if Vampires is                 ... pos = 0.0   	neg = 0.75 
+19. The gothic western s                ... pos = 1.5   	neg = 0.125
+20. It's just a place th                ... pos = 0.0   	neg = 0.0  
+21. But are we laughing                 ... pos = 0.25  	neg = 0.0  
+22. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1040-1111 is Positive        ... pos = 8.625 	neg = 7.25 
+Overall score of document
+Total Pos = 8.625
+Total Neg = 7.25
+---------------------------------------------------------------------------

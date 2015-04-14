@@ -1,0 +1,26 @@
+0. STARRING:  (voices o                 ... pos = 0.5   	neg = 0.0  
+1. It was a technologic                 ... pos = 0.125 	neg = 0.125
+2. More importantly to                  ... pos = 0.125 	neg = 0.0  
+3. Four years later, we                 ... pos = 0.125 	neg = 0.0  
+4. Fortunately, we also                 ... pos = 0.75  	neg = 0.0  
+5. ). This time, Buzz L                 ... pos = 0.5   	neg = 0.25 
+6. The plot thickens wh                 ... pos = 0.125 	neg = 0.125
+7. Woody has to choose                  ... pos = 0.625 	neg = 0.0  
+8. While the resolution                 ... pos = 0.375 	neg = 0.5  
+9. The movie is liberal                 ... pos = 1.75  	neg = 0.625
+10. Better still, Disney                ... pos = 0.75  	neg = 0.125
+11. In both cases, the s                ... pos = 0.375 	neg = 0.0  
+12. Obviously, the compu                ... pos = 3.375 	neg = 0.125
+13. Much of the first fi                ... pos = 1.25  	neg = 0.0  
+14. Like the French impr                ... pos = 1.25  	neg = 0.125
+15. One quickly gets the                ... pos = 0.25  	neg = 0.0  
+16. In their world, a to                ... pos = 0.0   	neg = 0.0  
+17. Collectors, with the                ... pos = 0.25  	neg = 0.0  
+18. In the real world of                ... pos = 0.5   	neg = 0.5  
+19. It'll make you wonde                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-395-1184 is Positive         ... pos = 13.625 	neg = 2.5  
+Overall score of document
+Total Pos = 13.625
+Total Neg = 2.5
+---------------------------------------------------------------------------

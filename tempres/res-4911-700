@@ -1,0 +1,28 @@
+0. Release Date: April                  ... pos = 0.875 	neg = 0.125
+1. " And indeed, there'                 ... pos = 0.125 	neg = 0.125
+2. This philosophical f                 ... pos = 0.375 	neg = 0.25 
+3. Gosnell (HOME ALONE                  ... pos = 1.375 	neg = 0.125
+4. In this case, Chicag                 ... pos = 0.125 	neg = 0.375
+5. Unfortunately, in he                 ... pos = 0.125 	neg = 1.625
+6. " To the rescue come                 ... pos = 0.875 	neg = 0.125
+7. " Soon Josie is in t                 ... pos = 0.25  	neg = 0.125
+8. Throughout this stor                 ... pos = 0.625 	neg = 0.25 
+9. The first of these t                 ... pos = 1.25  	neg = 0.375
+10. This idea gets dropp                ... pos = 0.375 	neg = 0.125
+11. The third subplot, w                ... pos = 0.25  	neg = 1.375
+12. And finally, the fou                ... pos = 0.0   	neg = 0.125
+13. Truly, his story hol                ... pos = 0.875 	neg = 0.375
+14. The cast carries off                ... pos = 0.875 	neg = 0.625
+15. Barrymore gives a la                ... pos = 0.875 	neg = 0.625
+16. She proves here that                ... pos = 0.25  	neg = 0.25 
+17. In terms of support,                ... pos = 0.25  	neg = 0.5  
+18. There is not a stand                ... pos = 0.0   	neg = 0.125
+19. In terms of romantic                ... pos = 0.25  	neg = 0.375
+20. There are those who                 ... pos = 1.625 	neg = 0.0  
+21. Nothing ever comes t                ... pos = 1.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4911-700 is Positive         ... pos = 13.375 	neg = 8.25 
+Overall score of document
+Total Pos = 13.375
+Total Neg = 8.25
+---------------------------------------------------------------------------

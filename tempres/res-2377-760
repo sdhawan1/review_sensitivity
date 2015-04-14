@@ -1,0 +1,61 @@
+0. Copyright 1998 Natha                 ... pos = 0.25  	neg = 0.125
+1. "  It was clear to m                 ... pos = 0.125 	neg = 0.75 
+2. Imagine my surprise                  ... pos = 0.5   	neg = 0.625
+3. And I was impressed.                 ... pos = 0.125 	neg = 0.125
+4. In fact, I was much                  ... pos = 0.5   	neg = 0.625
+5. It's kiddie-porn hac                 ... pos = 0.0   	neg = 0.0  
+6. I suppose this kind                  ... pos = 1.0   	neg = 0.5  
+7. Cruel Intentions is                  ... pos = 1.0   	neg = 1.25 
+8. I also hate Ryan Phi                 ... pos = 0.125 	neg = 0.25 
+9. Phillippe plays (che                 ... pos = 0     	neg = 0.0  
+10. Wow.                                ... pos = 0     	neg = 0.375
+11. Isn't that a memorab                ... pos = 0.25  	neg = 0.0  
+12. I could just say it                 ... pos = 0.0   	neg = 0.0  
+13. Sebastian Valmont.                  ... pos = 0     	neg = 0    
+14. It kind of rolls off                ... pos = 0.125 	neg = 0.625
+15. Sebastian Valmont is                ... pos = 0.25  	neg = 0.875
+16. He has all the money                ... pos = 0.0   	neg = 0.25 
+17. And, luckily, his pa                ... pos = 0.5   	neg = 0.0  
+18. The ones who do are                 ... pos = 0.25  	neg = 0.125
+19. Sebastian Valmont li                ... pos = 0.125 	neg = 0.0  
+20. Since these two rich                ... pos = 0.625 	neg = 0.75 
+21. Kathryn wants Sebast                ... pos = 0.75  	neg = 0.75 
+22. But it's too easy fo                ... pos = 0.875 	neg = 0.25 
+23. "  So, Sebastian Val                ... pos = 0.75  	neg = 0.375
+24. But -- dear God!                    ... pos = 0     	neg = 0.0  
+25. -- Sebastian Valmont                ... pos = 0.0   	neg = 0.0  
+26. Dangerous Liaisons i                ... pos = 2.5   	neg = 0.25 
+27. Cruel Intentions is                 ... pos = 2.25  	neg = 1.125
+28. Kathryn Merteuil is                 ... pos = 0.375 	neg = 0.792
+29. She is supposed to b                ... pos = 0.875 	neg = 0.375
+30. Gellar, while aesthe                ... pos = 0.625 	neg = 0.75 
+31. Witherspoon has a tr                ... pos = 3.25  	neg = 0.375
+32. ), but she does some                ... pos = 0.25  	neg = 1.125
+33. But I can't forget M                ... pos = 0.375 	neg = 0.75 
+34. I have to give him c                ... pos = 0.875 	neg = 0.0  
+35. And there's one poin                ... pos = 0.125 	neg = 0.375
+36. True, he is bad, but                ... pos = 1.375 	neg = 1.25 
+37. Kumble has drained a                ... pos = 1.875 	neg = 0.75 
+38. The film fails in ev                ... pos = 0.0   	neg = 0.375
+39. First of all, nobody                ... pos = 0.125 	neg = 0.0  
+40. Even the "intellectu                ... pos = 0.0   	neg = 0.75 
+41. For a while, the mov                ... pos = 0.375 	neg = 0.5  
+42. Cruel Intentions als                ... pos = 0.0   	neg = 0.625
+43. Earlier I mentioned                 ... pos = 0.0   	neg = 0.667
+44. So, if we hate them,                ... pos = 0.125 	neg = 0.25 
+45. Titillation, of cour                ... pos = 0.0   	neg = 0.0  
+46. It can't even work u                ... pos = 1.625 	neg = 0.0  
+47. It's interesting to                 ... pos = 0.0   	neg = 0.125
+48. Kumble is clearly fa                ... pos = 0.875 	neg = 0.125
+49. ] the antagonist is                 ... pos = 0.0   	neg = 0.125
+50. But kids don't act l                ... pos = 0.0   	neg = 0.0  
+51. Nobody acts like thi                ... pos = 0     	neg = 0.0  
+52. In his translation,                 ... pos = 1.375 	neg = 0.125
+53. The result is a pict                ... pos = 0.625 	neg = 1.625
+54. I'll give Cruel Inte                ... pos = 0.5   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2377-760 is Positive         ... pos = 28.5  	neg = 22.709
+Overall score of document
+Total Pos = 28.5
+Total Neg = 22.709
+---------------------------------------------------------------------------

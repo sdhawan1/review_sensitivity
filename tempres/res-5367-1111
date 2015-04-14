@@ -1,0 +1,35 @@
+0. GO Cast: Sarah Polle                 ... pos = 0.0   	neg = 0.0  
+1. Freeman, Katie Holme                 ... pos = 0.125 	neg = 0.125
+2. Todd: Wow, I didn't                  ... pos = 1.375 	neg = 0.5  
+3. Out of nowhere comes                 ... pos = 1.625 	neg = 0.375
+4. Liman worked with a                  ... pos = 0.375 	neg = 0.125
+5. It's also masterfull                 ... pos = 0.625 	neg = 0.125
+6. In other words, 'Go'                 ... pos = 0.0   	neg = 0.125
+7. Why do critics and v                 ... pos = 0.25  	neg = 0.125
+8. It seems that nowada                 ... pos = 1.125 	neg = 0.625
+9. 'Go' implements all                  ... pos = 1.0   	neg = 0.0  
+10. Todd: You come to me                ... pos = 1.0   	neg = 0.0  
+11. Ronna: Todd I would                 ... pos = 0.0   	neg = 0.0  
+12. Todd: How would you                 ... pos = 0     	neg = 0.0  
+13. The story is separat                ... pos = 1.0   	neg = 0.125
+14. The first - and prob                ... pos = 0.875 	neg = 0.125
+15. So, she plans to sel                ... pos = 0.375 	neg = 0.0  
+16. The deal goes awry a                ... pos = 0.125 	neg = 1.0  
+17. The second part of t                ... pos = 0.25  	neg = 0.5  
+18. Simon's friend: Just                ... pos = 0.0   	neg = 0.25 
+19. The third section, m                ... pos = 1.875 	neg = 0.0  
+20. Katie Holmes, of 'Da                ... pos = 0.375 	neg = 0    
+21. All cast members con                ... pos = 1.375 	neg = 0.0  
+22. '  Each actor gets a                ... pos = 0.5   	neg = 0.0  
+23. 'Go' is equipped wit                ... pos = 0.0   	neg = 0.125
+24. It's the closest thi                ... pos = 1.25  	neg = 0.125
+25. Intricately plotted                 ... pos = 2.875 	neg = 0.125
+26. My favorite movie so                ... pos = 1.625 	neg = 0.0  
+27. Todd: Ronna, I just                 ... pos = 0.0   	neg = 0.0  
+28. Ronna: Here and I ju                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5367-1111 is Positive        ... pos = 20.0  	neg = 4.5  
+Overall score of document
+Total Pos = 20.0
+Total Neg = 4.5
+---------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+0. Well...I must admit                  ... pos = 0.375 	neg = 0.0  
+1. The movie begins wit                 ... pos = 0.375 	neg = 0.5  
+2. Mysteriously, theit                  ... pos = 0.5   	neg = 0.0  
+3. A man it an 18-wheel                 ... pos = 0.0   	neg = 0    
+4. Kirk is skeptical bu                 ... pos = 0.125 	neg = 0.125
+5. Eventually he fiqure                 ... pos = 0.0   	neg = 0.875
+6. Hmm...this is where                  ... pos = 0.0   	neg = 0.125
+7. This movie (as I sai                 ... pos = 0.0   	neg = 0.0  
+8. It showed the length                 ... pos = 0.0   	neg = 0.0  
+9. But so much of the m                 ... pos = 0.25  	neg = 0.5  
+10. Thats not that big o                ... pos = 0.0   	neg = 0.0  
+11. I just think that if                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5064-1021 is Negative        ... pos = 1.625 	neg = 2.375
+Overall score of document
+Total Pos = 1.625
+Total Neg = 2.375
+---------------------------------------------------------------------------

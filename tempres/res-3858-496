@@ -1,0 +1,28 @@
+0. **** (out of 4) Dire                 ... pos = 1.375 	neg = 0.25 
+1. If you can  become i                 ... pos = 0.25  	neg = 0.0  
+2. On the other hand, i                 ... pos = 1.25  	neg = 0.0  
+3. Kiss the  Girls is t                 ... pos = 0.0   	neg = 0.125
+4. Morgan Freeman stars                 ... pos = 0.0   	neg = 0.125
+5. Cross is a quietly i                 ... pos = 0.75  	neg = 0.25 
+6. The police chief war                 ... pos = 0.5   	neg = 0.625
+7. All of the kidnap vi                 ... pos = 1.625 	neg = 0.125
+8. Judd plays a lonely                  ... pos = 0.25  	neg = 0.0  
+9. She is kidnapped fro                 ... pos = 0.625 	neg = 0.125
+10. The kidnapper's dung                ... pos = 0.0   	neg = 0    
+11. While spending  time                ... pos = 1.5   	neg = 0.125
+12. Then in an absolutel                ... pos = 1.5   	neg = 0.5  
+13. The sequence ends wi                ... pos = 0.375 	neg = 0.0  
+14. >From then on, the m                ... pos = 0.5   	neg = 0.0  
+15. The teaming up of tw                ... pos = 0.25  	neg = 0.125
+16. Freeman and Judd wor                ... pos = 0.375 	neg = 0.75 
+17. Kiss the Girls does                 ... pos = 0.125 	neg = 1.0  
+18. With such talent on                 ... pos = 0.625 	neg = 0.0  
+19. Gary Fleder shows an                ... pos = 0.25  	neg = 0.375
+20. Kiss the Girls may h                ... pos = 0.0   	neg = 0.125
+21. Let's get  Freeman a                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3858-496 is Positive         ... pos = 12.5  	neg = 4.75 
+Overall score of document
+Total Pos = 12.5
+Total Neg = 4.75
+---------------------------------------------------------------------------

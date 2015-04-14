@@ -1,0 +1,34 @@
+0. Cast: Adam Sandler,                  ... pos = 0.25  	neg = 0.25 
+1. It has a level of sw                 ... pos = 0.0   	neg = 0.125
+2. I expected more of t                 ... pos = 0.625 	neg = 0.0  
+3. But The Wedding Sing                 ... pos = 0.5   	neg = 0.0  
+4. Adam Sandler plays t                 ... pos = 0.875 	neg = 0.0  
+5. The day before his o                 ... pos = 0.0   	neg = 0.0  
+6. He then starts to fa                 ... pos = 0.625 	neg = 0.0  
+7. Trouble is that she'                 ... pos = 0.0   	neg = 0.875
+8. On top of that, the                  ... pos = 0.0   	neg = 0.25 
+9. Oh what to do?                       ... pos = 0     	neg = 0.0  
+10. The Wedding Singer t                ... pos = 1.125 	neg = 0.375
+11. The gimmicks I'm ref                ... pos = 0.0   	neg = 0.125
+12. See that?                           ... pos = 0.0   	neg = 0    
+13. It's a Rubix Cube!                  ... pos = 0.0   	neg = 0    
+14. Remember those?                     ... pos = 0.125 	neg = 0    
+15. It's funny!                         ... pos = 0     	neg = 0    
+16. It's a Rubix Cube!                  ... pos = 0.0   	neg = 0    
+17. That guy dressed lik                ... pos = 0     	neg = 0.0  
+18. He's funny!                         ... pos = 0     	neg = 0    
+19. Jokes like that are                 ... pos = 0.25  	neg = 0.75 
+20. I say that The Weddi                ... pos = 0.875 	neg = 0.0  
+21. She's just so cute i                ... pos = 0.5   	neg = 0.0  
+22. Late in the film it                 ... pos = 0.0   	neg = 1.25 
+23. It didn't matter tha                ... pos = 0.625 	neg = 0.0  
+24. For a few moments, I                ... pos = 0.875 	neg = 0.0  
+25. For a film this weak                ... pos = 0.5   	neg = 1.0  
+26. [PG-13]. The Jackson                ... pos = 0.0   	neg = 0.0  
+27. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4133-515 is Positive         ... pos = 8.0   	neg = 5.375
+Overall score of document
+Total Pos = 8.0
+Total Neg = 5.375
+---------------------------------------------------------------------------

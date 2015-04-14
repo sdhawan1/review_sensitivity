@@ -1,0 +1,35 @@
+0. Lost Highway  * * *                  ... pos = 0.0   	neg = 0.125
+1. Written by Lynch and                 ... pos = 0.0   	neg = 0.125
+2. Starring Bill Pullma                 ... pos = 0.0   	neg = 0.0  
+3. When I left the thea                 ... pos = 0.0   	neg = 0.0  
+4. " In his first featu                 ... pos = 0.5   	neg = 0.125
+5. You won't "know" wha                 ... pos = 0.5   	neg = 0.0  
+6. It is difficult to d                 ... pos = 0.0   	neg = 0.125
+7. I can, however, desc                 ... pos = 1.25  	neg = 0.25 
+8. They are, naturally                  ... pos = 1.375 	neg = 0.375
+9. The next morning, Fr                 ... pos = 0.25  	neg = 0.75 
+10. He is convicted of h                ... pos = 0.0   	neg = 1.0  
+11. The perplexed prison                ... pos = 0.75  	neg = 0.25 
+12. I would be giving aw                ... pos = 1.5   	neg = 1.125
+13. This description mig                ... pos = 0.25  	neg = 0.625
+14. On the contrary, Los                ... pos = 0.25  	neg = 0.125
+15. The film does not re                ... pos = 2.25  	neg = 0.0  
+16. There are recurring                 ... pos = 2.0   	neg = 0.25 
+17. We, the audience, ar                ... pos = 1.5   	neg = 0.25 
+18. All of this proceeds                ... pos = 0.375 	neg = 0.0  
+19. As is often the case                ... pos = 0.75  	neg = 0.25 
+20. There are scenes whe                ... pos = 2.125 	neg = 0.5  
+21. Lynch's direction an                ... pos = 0.875 	neg = 0.25 
+22. Well, most of the ti                ... pos = 0.75  	neg = 0.25 
+23. The   main character                ... pos = 3.25  	neg = 1.125
+24. Lynch's typically gr                ... pos = 0.75  	neg = 0.125
+25. It's not exactly exp                ... pos = 0.375 	neg = 2.875
+26. That said, these min                ... pos = 1.0   	neg = 0.0  
+27. It is a one-way ride                ... pos = 1.25  	neg = 0.25 
+28. Visit my Film Review                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5865-716 is Positive         ... pos = 23.875 	neg = 11.125
+Overall score of document
+Total Pos = 23.875
+Total Neg = 11.125
+---------------------------------------------------------------------------

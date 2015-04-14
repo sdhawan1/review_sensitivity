@@ -1,0 +1,41 @@
+0. BULWORTH (Fox - 1998                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0     	neg = 0    
+3. " - U.S.                             ... pos = 0.0   	neg = 0    
+4. Senator Jay Billingt                 ... pos = 0.5   	neg = 0.0  
+5. While the film's sca                 ... pos = 0.125 	neg = 1.0  
+6. It's the eve of the                  ... pos = 0.375 	neg = 0.0  
+7. Incumbent Democratic                 ... pos = 0.875 	neg = 1.5  
+8. After ordering a hit                 ... pos = 0.0   	neg = 0.0  
+9. Liberated by his imp                 ... pos = 1.25  	neg = 0.0  
+10. Ultimately transform                ... pos = 0.375 	neg = 0.25 
+11. Bulworth is reborn -                ... pos = 0.625 	neg = 0.5  
+12. BULWORTH is at its b                ... pos = 1.625 	neg = 0.25 
+13. There's discernable                 ... pos = 1.875 	neg = 0.375
+14. It's only through Mr                ... pos = 0.25  	neg = 0.0  
+15. We've got the making                ... pos = 1.125 	neg = 0.125
+16. Mr. Beatty's a famou                ... pos = 1.625 	neg = 0.0  
+17. The film allows its                 ... pos = 1.25  	neg = 0.0  
+18. Corrupt officials, s                ... pos = 0.125 	neg = 0.625
+19. If the film spins it                ... pos = 0.0   	neg = 0.0  
+20. Distracting at    be                ... pos = 2.0   	neg = 1.625
+21. Best left on the cut                ... pos = 1.0   	neg = 1.5  
+22. When I first saw the                ... pos = 1.75  	neg = 0.125
+23. In fact, this is a f                ... pos = 0.125 	neg = 0.875
+24. This is clearly a pe                ... pos = 0.75  	neg = 0.25 
+25. Consistently amusing                ... pos = 1.375 	neg = 0.0  
+26. Mr. Beatty's a    wo                ... pos = 0.375 	neg = 0.875
+27. Taking a sizable ris                ... pos = 0.5   	neg = 0.75 
+28. The remainder of the                ... pos = 0.0   	neg = 0.125
+29. Ms. Berry, a    lumi                ... pos = 3.0   	neg = 0.875
+30. Meanwhile, Mr. Platt                ... pos = 2.5   	neg = 0.25 
+31. Mr. Beatty has spent                ... pos = 0.125 	neg = 0.375
+32. The elements are pre                ... pos = 1.625 	neg = 0.125
+33. -- Alex Fung (aw220@                ... pos = 0.375 	neg = 0.0  
+34. "      - Jennifer Ja                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1840-717 is Positive         ... pos = 27.875 	neg = 12.625
+Overall score of document
+Total Pos = 27.875
+Total Neg = 12.625
+---------------------------------------------------------------------------

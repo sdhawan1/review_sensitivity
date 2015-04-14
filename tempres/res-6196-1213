@@ -1,0 +1,31 @@
+0. Following in the gra                 ... pos = 1.125 	neg = 1.125
+1. Even though narrowly                 ... pos = 0.25  	neg = 0.25 
+2. The story centres ar                 ... pos = 0.0   	neg = 0.0  
+3. It's proves to be qu                 ... pos = 0.0   	neg = 0.625
+4. American Pie has it'                 ... pos = 0.0   	neg = 0.0  
+5. But in-between these                 ... pos = 0.625 	neg = 0.5  
+6. The script, by Adam                  ... pos = 0.5   	neg = 0.0  
+7. Boredom sets in, the                 ... pos = 0.25  	neg = 0.75 
+8. Still, the character                 ... pos = 1.5   	neg = 0.625
+9. The four leading lad                 ... pos = 0.0   	neg = 1.125
+10. The girls are O.K, a                ... pos = 0.5   	neg = 0.125
+11. One highlight of the                ... pos = 0.25  	neg = 0.125
+12. He provides some of                 ... pos = 0.0   	neg = 0.0  
+13. American Pie is also                ... pos = 0.25  	neg = 0.125
+14. Many of the jokes ca                ... pos = 0.25  	neg = 0.375
+15. There are also some                 ... pos = 0.75  	neg = 0.25 
+16. Although the belly l                ... pos = 0.25  	neg = 0.125
+17. As per standard in c                ... pos = 0.75  	neg = 1.125
+18. The direction is pre                ... pos = 0.625 	neg = 0.25 
+19. It looks as though c                ... pos = 0.125 	neg = 1.0  
+20. American Pie is a od                ... pos = 1.0   	neg = 0.125
+21. I knew the gag was f                ... pos = 0.0   	neg = 0.125
+22. This combined with t                ... pos = 0.75  	neg = 1.0  
+23. But the cast and the                ... pos = 0.75  	neg = 0.903
+24. American Pie is wort                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6196-1213 is Negative        ... pos = 10.5  	neg = 11.153
+Overall score of document
+Total Pos = 10.5
+Total Neg = 11.153
+---------------------------------------------------------------------------

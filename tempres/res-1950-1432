@@ -1,0 +1,23 @@
+0. I was getting worrie                 ... pos = 0.25  	neg = 0.125
+1. I'd foregone their l                 ... pos = 0.0   	neg = 0.25 
+2. FARGO, set in 1987,                  ... pos = 0.375 	neg = 0.25 
+3. Their latest effort                  ... pos = 0.125 	neg = 0.0  
+4. Frances McDormand (J                 ... pos = 0.0   	neg = 0.375
+5. Piecing together clu                 ... pos = 0.5   	neg = 1.125
+6. Given that North Dak                 ... pos = 0.0   	neg = 0.25 
+7. The landscape they f                 ... pos = 0.5   	neg = 0.25 
+8. The spectre of Bunya                 ... pos = 0.125 	neg = 0.125
+9. And yes, to perpetua                 ... pos = 0.625 	neg = 0.75 
+10. The violence isn't o                ... pos = 1.0   	neg = 1.0  
+11. It is to the Coens c                ... pos = 0.875 	neg = 0.875
+12. Their light steps fr                ... pos = 1.125 	neg = 0.125
+13. Most of this is due                 ... pos = 0.375 	neg = 0.125
+14. Her chipper equanimi                ... pos = 0.875 	neg = 0.125
+15. Her performance, alo                ... pos = 0.25  	neg = 0.0  
+16. What's interesting i                ... pos = 0.75  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-1950-1432 is Positive        ... pos = 7.75  	neg = 6.5  
+Overall score of document
+Total Pos = 7.75
+Total Neg = 6.5
+---------------------------------------------------------------------------

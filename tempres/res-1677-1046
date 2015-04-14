@@ -1,0 +1,48 @@
+0. THE SWEET HEREAFTER                  ... pos = 0.625 	neg = 1.25 
+1. This is one of the b                 ... pos = 0.625 	neg = 0.125
+2. it is not a tearjerk                 ... pos = 1.875 	neg = 0.75 
+3. We do.                               ... pos = 0     	neg = 0.0  
+4. It is one of the bes                 ... pos = 0.375 	neg = 0.125
+5. -- since Kurosawa's                  ... pos = 0     	neg = 0    
+6. Somewhere in Canada,                 ... pos = 0.0   	neg = 1.25 
+7. A busload of fourtee                 ... pos = 0.0   	neg = 0.75 
+8. A lawyer, Mitchell S                 ... pos = 0.625 	neg = 0.0  
+9. Maybe they can get s                 ... pos = 0.875 	neg = 0.625
+10. Stephens is himself                 ... pos = 0.0   	neg = 0.125
+11. His daughter is not                 ... pos = 0.375 	neg = 0.75 
+12. The first time we se                ... pos = 0.125 	neg = 0.0  
+13. She is stuck in some                ... pos = 0.0   	neg = 0.625
+14. He mouths one nicety                ... pos = 0.0   	neg = 0.125
+15. Holm's performance i                ... pos = 2.125 	neg = 0.125
+16. The movie is not a f                ... pos = 0.625 	neg = 0.5  
+17. The parents of some                 ... pos = 0.25  	neg = 0.0  
+18. Some of them are hun                ... pos = 1.125 	neg = 0.0  
+19. Some are bitter and                 ... pos = 0.75  	neg = 0.25 
+20. Some have lost just                 ... pos = 0.25  	neg = 0.125
+21. Nicole (Sarah Polley                ... pos = 1.75  	neg = 0.125
+22. At first we think he                ... pos = 1.125 	neg = 0.625
+23. (The movie uses the                 ... pos = 0.0   	neg = 0.625
+24. )  She is lonely, an                ... pos = 0.125 	neg = 0.125
+25. Her performance, too                ... pos = 1.5   	neg = 0.375
+26. The story is drawn f                ... pos = 0.875 	neg = 0.125
+27. The director, the gi                ... pos = 1.0   	neg = 0.625
+28. He simply lets each                 ... pos = 0.375 	neg = 0.875
+29. One of the ways we s                ... pos = 0.125 	neg = 0.125
+30. Here, Holm's charact                ... pos = 1.375 	neg = 1.75 
+31. The way this scene i                ... pos = 1.875 	neg = 0.25 
+32. ". The film is also                 ... pos = 0.5   	neg = 0.125
+33. I had the chance to                 ... pos = 1.375 	neg = 0.5  
+34. No; the town is seen                ... pos = 0.625 	neg = 0.125
+35. Egoyan has filmed ev                ... pos = 0.75  	neg = 0.0  
+36. The only indulgence                 ... pos = 0.875 	neg = 0.125
+37. And then there are t                ... pos = 0.25  	neg = 0.875
+38. Why?                                ... pos = 0     	neg = 0.0  
+39. Since this is not a                 ... pos = 0.375 	neg = 0.125
+40. Some things cannot b                ... pos = 0.375 	neg = 0.5  
+41. But some of us, sadl                ... pos = 0.25  	neg = 1.375
+---------------------------------------------------------------------------
+./temp/tmp-1677-1046 is Positive        ... pos = 26.125 	neg = 16.875
+Overall score of document
+Total Pos = 26.125
+Total Neg = 16.875
+---------------------------------------------------------------------------

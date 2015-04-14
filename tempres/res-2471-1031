@@ -1,0 +1,31 @@
+0. SAVING PRIVATE RYAN                  ... pos = 0.75  	neg = 1.0  
+1. Still, as extremely                  ... pos = 1.625 	neg = 0.875
+2. The movie demolishes                 ... pos = 0.375 	neg = 0.125
+3. For those of us who                  ... pos = 0.75  	neg = 0.125
+4. Part of the afore-me                 ... pos = 0.25  	neg = 0.25 
+5. Though Miller's forc                 ... pos = 1.0   	neg = 0.0  
+6. Among the lives lost                 ... pos = 0.375 	neg = 1.625
+7. When the government                  ... pos = 1.0   	neg = 0.125
+8. But tragedy begets t                 ... pos = 0.0   	neg = 0.625
+9. While it's perhaps u                 ... pos = 1.614 	neg = 0.0  
+10. While Armageddon's c                ... pos = 0.75  	neg = 0.75 
+11. When death is portra                ... pos = 0.0   	neg = 0.125
+12. Not surprisingly, Sp                ... pos = 0.625 	neg = 0.125
+13. " That connection is                ... pos = 1.375 	neg = 0.0  
+14. Tom Hanks' performan                ... pos = 1.625 	neg = 0.125
+15. But Hanks installs e                ... pos = 1.0   	neg = 0.25 
+16. With a few exception                ... pos = 0.125 	neg = 0.25 
+17. Giovanni Ribisi, a r                ... pos = 1.5   	neg = 0.75 
+18. Jeremy Davies ("Span                ... pos = 1.75  	neg = 0.125
+19. Also strong are Adam                ... pos = 0.75  	neg = 0.0  
+20. " . With "Saving Pri                ... pos = 1.0   	neg = 0.125
+21. He's done the unthin                ... pos = 0.75  	neg = 0.125
+22. If anyone criticizes                ... pos = 0.75  	neg = 1.125
+23. Even the quiet, medi                ... pos = 0.75  	neg = 0.25 
+24. A guaranteed lock on                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2471-1031 is Positive        ... pos = 20.864 	neg = 9.0  
+Overall score of document
+Total Pos = 20.864
+Total Neg = 9.0
+---------------------------------------------------------------------------

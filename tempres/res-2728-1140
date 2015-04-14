@@ -1,0 +1,42 @@
+0. A couple of months a                 ... pos = 0.375 	neg = 0.125
+1. Followed swiftly by                  ... pos = 0.5   	neg = 0.25 
+2. Then I started readi                 ... pos = 1.5   	neg = 0.0  
+3. Well, I thought stil                 ... pos = 0.125 	neg = 0.5  
+4. 'Here', of course, w                 ... pos = 0.0   	neg = 0.125
+5. I'll admit, when I t                 ... pos = 1.25  	neg = 0.75 
+6. I'd heard good thing                 ... pos = 1.0   	neg = 0.875
+7. That, let me tell yo                 ... pos = 0.125 	neg = 0.0  
+8. I knew this fact onl                 ... pos = 0.375 	neg = 0.625
+9. The acting throughou                 ... pos = 0.75  	neg = 0.125
+10. Seriously.                          ... pos = 0     	neg = 0.0  
+11. I've never been a bi                ... pos = 1.25  	neg = 0.75 
+12. Even Travolta's grea                ... pos = 1.0   	neg = 0.0  
+13. My favourite Cage sc                ... pos = 0.25  	neg = 0.25 
+14. Half drugged out of                 ... pos = 0.375 	neg = 0.0  
+15. " he mutters coldly.                ... pos = 0.0   	neg = 0    
+16. Now don't go thinkin                ... pos = 1.0   	neg = 0.125
+17. That's what really m                ... pos = 0.375 	neg = 0.0  
+18. It's an action movie                ... pos = 1.25  	neg = 0.0  
+19. Suspension of disbel                ... pos = 0.125 	neg = 0.125
+20. Several action scene                ... pos = 0.375 	neg = 0.375
+21. The part where Arche                ... pos = 0.875 	neg = 0.75 
+22. Whilst Cage's and Tr                ... pos = 1.75  	neg = 0.125
+23. Joan Allen, who usua                ... pos = 0.5   	neg = 0.375
+24. I like the fact that                ... pos = 0.875 	neg = 0.0  
+25. Gina Gershon was sur                ... pos = 0.125 	neg = 0.125
+26. Other movies would h                ... pos = 2.875 	neg = 0.375
+27. Dominique Swain, who                ... pos = 1.0   	neg = 0.125
+28. Faults?                             ... pos = 0.0   	neg = 0    
+29. Well...there were so                ... pos = 0.0   	neg = 0.125
+30. First, the movie's e                ... pos = 2.375 	neg = 0.375
+31. After the two combat                ... pos = 0.25  	neg = 0.0  
+32. There were certain b                ... pos = 0.125 	neg = 1.5  
+33. Overall, this movie                 ... pos = 0.0   	neg = 0.125
+34. But I thought it was                ... pos = 0.0   	neg = 0.125
+35. Many critics have cl                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2728-1140 is Positive        ... pos = 23.75 	neg = 9.125
+Overall score of document
+Total Pos = 23.75
+Total Neg = 9.125
+---------------------------------------------------------------------------

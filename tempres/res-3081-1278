@@ -1,0 +1,37 @@
+0. There is a special-e                 ... pos = 0.0   	neg = 0.125
+1. Samuel L. Jackson ra                 ... pos = 0.875 	neg = 0.0  
+2. ), only to be rudely                 ... pos = 0.25  	neg = 0.125
+3. I'm not sure if this                 ... pos = 0.375 	neg = 1.375
+4. I'd like to complime                 ... pos = 0.0   	neg = 0.0  
+5. General Cinema, on 6                 ... pos = 0.625 	neg = 0.0  
+6. Maybe it was just th                 ... pos = 0.125 	neg = 0.125
+7. Sometimes, extraneou                 ... pos = 0.125 	neg = 0.875
+8. And, I guess that's                  ... pos = 0.0   	neg = 0.25 
+9. The premise is nifty                 ... pos = 0.0   	neg = 0.25 
+10. "We'll go down, to g                ... pos = 0.0   	neg = 0.0  
+11. But, how; what with                 ... pos = 0.0   	neg = 0.0  
+12. Swim 200 feet to the                ... pos = 0.75  	neg = 0.25 
+13. Not to mention avoid                ... pos = 0.0   	neg = 0.0  
+14. Because they move li                ... pos = 0.0   	neg = 0.125
+15. Not good odds.                      ... pos = 1.125 	neg = 0    
+16. Plan B: stay put, an                ... pos = 0.5   	neg = 0.125
+17. The scenario reminde                ... pos = 0.5   	neg = 0.125
+18. DBS has none of that                ... pos = 0.0   	neg = 0.0  
+19. Also, the film looks                ... pos = 0.875 	neg = 0.375
+20. Visual highlights in                ... pos = 0.5   	neg = 0.0  
+21. The shark attacks ar                ... pos = 0.75  	neg = 0.625
+22. The cinema- tography                ... pos = 0.25  	neg = 0.125
+23. Yet, alas, looks are                ... pos = 0.5   	neg = 0.375
+24. Uh uh, not with this                ... pos = 0.0   	neg = 0.375
+25. Me.                                 ... pos = 0     	neg = 0.0  
+26. Cuz, I'm trust-worth                ... pos = 0.375 	neg = 0.375
+27. The prologue, about                 ... pos = 0.0   	neg = 0.0  
+28. And the action, when                ... pos = 0.0   	neg = 0.375
+29. In an interview, for                ... pos = 0.125 	neg = 0.0  
+30. Nope.. .                            ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3081-1278 is Positive        ... pos = 8.625 	neg = 6.375
+Overall score of document
+Total Pos = 8.625
+Total Neg = 6.375
+---------------------------------------------------------------------------

@@ -1,0 +1,72 @@
+0. Batman and Robin (19                 ... pos = 0.625 	neg = 0.0  
+1. Fox, Coolio.                         ... pos = 0.0   	neg = 0    
+2. Written by: Akiva Go                 ... pos = 0.0   	neg = 0    
+3. Directed by: Joel Sc                 ... pos = 0.0   	neg = 0.25 
+4. Running Time: 130 mi                 ... pos = 0     	neg = 0.0  
+5. Ed Wood is alive and                 ... pos = 0.125 	neg = 0.375
+6. Run for your lives!                  ... pos = 0     	neg = 0.0  
+7. "Batman and Robin" i                 ... pos = 1.875 	neg = 1.0  
+8. As the "film" begins                 ... pos = 0.625 	neg = 0.375
+9. Freeze, who has brok                 ... pos = 1.0   	neg = 0.125
+10. The opening scene ma                ... pos = 0.0   	neg = 0.875
+11. Anyway, soon they ha                ... pos = 0.0   	neg = 1.375
+12. George Clooney steps                ... pos = 0.0   	neg = 0.25 
+13. It's not Clooney's f                ... pos = 0.0   	neg = 0.125
+14. Batman is known as t                ... pos = 0.25  	neg = 0.5  
+15. Joel Schumacher (vom                ... pos = 0.0   	neg = 0.375
+16. He always has a lame                ... pos = 0.0   	neg = 0.0  
+17. Speaking of puns, th                ... pos = 0.0   	neg = 0.25 
+18. Freeze has to say.                  ... pos = 0.0   	neg = 0.0  
+19. He hardly has one li                ... pos = 0.125 	neg = 0.375
+20. After the first two,                ... pos = 0.125 	neg = 0.0  
+21. But, alas, it contin                ... pos = 0.0   	neg = 0.0  
+22. As with "Batman Fore                ... pos = 1.125 	neg = 0.25 
+23. One villain is all t                ... pos = 0.0   	neg = 0.625
+24. Bane is the worst of                ... pos = 0.125 	neg = 2.25 
+25. Here he's just a mas                ... pos = 0.0   	neg = 0.125
+26. And he's also amazin                ... pos = 0.375 	neg = 0.0  
+27. Pull one out, and he                ... pos = 0.0   	neg = 0.0  
+28. If he walks into a c                ... pos = 0.0   	neg = 0.0  
+29. Poison Ivy is way to                ... pos = 0.25  	neg = 1.25 
+30. Gotham City now repr                ... pos = 0.375 	neg = 0.0  
+31. The laws of gravity                 ... pos = 0.25  	neg = 0.25 
+32. Also, it seems that                 ... pos = 0.125 	neg = 1.25 
+33. Batman's not protect                ... pos = 0.125 	neg = 0.75 
+34. Perhaps it's Joel Sc                ... pos = 0.25  	neg = 2.0  
+35. Instead, to punish t                ... pos = 0.25  	neg = 0.875
+36. To go into further d                ... pos = 0.5   	neg = 0.625
+37. So I'll just mention                ... pos = 0     	neg = 0.375
+38. Now, when Alicia Sil                ... pos = 0.0   	neg = 0.375
+39. Now, keep in mind th                ... pos = 0.625 	neg = 0.125
+40. Also keep in mind th                ... pos = 0.75  	neg = 0    
+41. Anyway, she arrives,                ... pos = 0.0   	neg = 0.0  
+42. She actually has to                 ... pos = 0.0   	neg = 0.125
+43. But the moment which                ... pos = 0.25  	neg = 1.125
+44. Poison Ivy arrives a                ... pos = 0.0   	neg = 0.375
+45. Batman and Robin, wh                ... pos = 1.0   	neg = 0.0  
+46. Soon the audience st                ... pos = 0.0   	neg = 0.0  
+47. Batman increases the                ... pos = 0.375 	neg = 0.0  
+48. This is absolutely t                ... pos = 0.0   	neg = 0.375
+49. Think about this for                ... pos = 0.0   	neg = 0.0  
+50. What bank honors thi                ... pos = 0.75  	neg = 0.0  
+51. Did they call Batman                ... pos = 0.0   	neg = 0.0  
+52. Only Batman can use                 ... pos = 0.0   	neg = 0.0  
+53. Perhaps goes to Ace                 ... pos = 0.0   	neg = 0.0  
+54. At that moment it be                ... pos = 2.375 	neg = 1.0  
+55. I do give the film c                ... pos = 0.375 	neg = 0.0  
+56. One is the casting o                ... pos = 0.5   	neg = 0.5  
+57. Also, as with "Batma                ... pos = 0.0   	neg = 0.375
+58. It looks like every                 ... pos = 0.0   	neg = 0.875
+59. The set design, cost                ... pos = 0.25  	neg = 0.25 
+60. I'm all for a silly                 ... pos = 0.0   	neg = 0.125
+61. Sometimes I like shu                ... pos = 0.125 	neg = 0.0  
+62. But to consider "Bat                ... pos = 0.25  	neg = 0.25 
+63. Please someone stop                 ... pos = 0.0   	neg = 0.625
+64. [PG-13]. --  Chuck D                ... pos = 0.125 	neg = 0.0  
+65. Movie news, film rel                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4883-515 is Negative         ... pos = 16.25 	neg = 23.375
+Overall score of document
+Total Pos = 16.25
+Total Neg = 23.375
+---------------------------------------------------------------------------

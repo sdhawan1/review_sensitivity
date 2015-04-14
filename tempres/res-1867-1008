@@ -1,0 +1,58 @@
+0. **1/2 (out of 4) ANN                 ... pos = 0.625 	neg = 0.5  
+1. The lush, exotic set                 ... pos = 0.75  	neg = 0.0  
+2. One could easily enj                 ... pos = 0.625 	neg = 0.0  
+3. But ANNA AND THE KIN                 ... pos = 0.125 	neg = 0.375
+4. There are gratuitous                 ... pos = 0.375 	neg = 0.0  
+5. The movie starts in                  ... pos = 0.0   	neg = 0.125
+6. The British schoolte                 ... pos = 0.125 	neg = 0.125
+7. It's the story told                  ... pos = 0.125 	neg = 0.0  
+8. My own prejudiced no                 ... pos = 0.0   	neg = 0.125
+9. For a while, this is                 ... pos = 0.125 	neg = 0.125
+10. Anna settles in to t                ... pos = 0.375 	neg = 0.0  
+11. Her bold, cocky ways                ... pos = 0.875 	neg = 0.0  
+12. Because he invited A                ... pos = 0.125 	neg = 0.0  
+13. (He quickly learns h                ... pos = 0.0   	neg = 0.0  
+14. Instead, he watches                 ... pos = 0.625 	neg = 0.5  
+15. On the other hand, A                ... pos = 1.125 	neg = 0.125
+16. ". Their relationshi                ... pos = 0.375 	neg = 0.125
+17. Their mutual affecti                ... pos = 0.875 	neg = 0.125
+18. Afterwards, Mongkut                 ... pos = 0.125 	neg = 0.125
+19. She of course refuse                ... pos = 0.0   	neg = 0.375
+20. It represents a new                 ... pos = 0.75  	neg = 0.0  
+21. Her refusal of the k                ... pos = 0.75  	neg = 0.375
+22. The king no longer s                ... pos = 1.625 	neg = 0.25 
+23. The first half of th                ... pos = 0.625 	neg = 0.0  
+24. The chemistry betwee                ... pos = 1.125 	neg = 0.125
+25. The themes of power,                ... pos = 1.625 	neg = 0.0  
+26. But the movie loses                 ... pos = 0.0   	neg = 0.0  
+27. It becomes less abou                ... pos = 0.125 	neg = 0.0  
+28. Little problems abou                ... pos = 0.25  	neg = 1.375
+29. One is of a young co                ... pos = 0.625 	neg = 0.25 
+30. Both ostensibly tie                 ... pos = 0.0   	neg = 0.125
+31. But they are so prom                ... pos = 0.75  	neg = 0.125
+32. The movie loses cred                ... pos = 0.0   	neg = 0.375
+33. Mongkut tells Anna t                ... pos = 1.625 	neg = 0.0  
+34. The editor (Roger Bo                ... pos = 0.0   	neg = 0.0  
+35. In other words, the                 ... pos = 0.0   	neg = 0.125
+36. It says that Mongkut                ... pos = 1.375 	neg = 1.0  
+37. A movie about cultur                ... pos = 0.0   	neg = 0.25 
+38. It does even worse i                ... pos = 0.0   	neg = 0.625
+39. What started out as                 ... pos = 0.25  	neg = 1.0  
+40. All the while Anna (                ... pos = 0.125 	neg = 0    
+41. ) is nowhere to be f                ... pos = 0.0   	neg = 0.5  
+42. At this point, the e                ... pos = 0.0   	neg = 0.75 
+43. The movie's main rel                ... pos = 0.0   	neg = 0.0  
+44. The 20 minutes it ta                ... pos = 0.0   	neg = 0.125
+45. If there is a single                ... pos = 0.125 	neg = 1.0  
+46. An explosion for the                ... pos = 0.5   	neg = 0.0  
+47. There's no mystery a                ... pos = 0.25  	neg = 0.0  
+48. It bends over backwa                ... pos = 0.25  	neg = 0.125
+49. I can't decide if th                ... pos = 0.25  	neg = 0.125
+50. What I am sure of is                ... pos = 0.375 	neg = 0.375
+51. "I'm a filmmaker and                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1867-1008 is Positive        ... pos = 20.875 	neg = 11.75
+Overall score of document
+Total Pos = 20.875
+Total Neg = 11.75
+---------------------------------------------------------------------------

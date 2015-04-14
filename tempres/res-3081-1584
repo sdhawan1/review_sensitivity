@@ -1,0 +1,47 @@
+0. Warning: the followi                 ... pos = 0.0   	neg = 0    
+1. I'm not kidding , fo                 ... pos = 0.0   	neg = 0.125
+2. Read this and you wi                 ... pos = 0.875 	neg = 0.125
+3. I'm talking about on                 ... pos = 0.125 	neg = 0.5  
+4. Really.                              ... pos = 0     	neg = 0.0  
+5. Trust me on this , t                 ... pos = 0.0   	neg = 0.125
+6. One of those scenes                  ... pos = 0.5   	neg = 1.5  
+7. Oh yeah , it's a doo                 ... pos = 0.0   	neg = 0.0  
+8. If you don't want to                 ... pos = 0.5   	neg = 0.25 
+9. Okay , enough of thi                 ... pos = 0     	neg = 0.125
+10. Read on if you have                 ... pos = 0.0   	neg = 0.125
+11. I know what you are                 ... pos = 0.25  	neg = 0.0  
+12. "Oh but Matthew , he                ... pos = 0.0   	neg = 0.0  
+13. " Bite me.                          ... pos = 0     	neg = 0.5  
+14. You are wayyyy off i                ... pos = 0.25  	neg = 0.75 
+15. The sharks eat Samue                ... pos = 0.0   	neg = 0.125
+16. They eat him somewhe                ... pos = 0.0   	neg = 0.625
+17. He's only the second                ... pos = 0.0   	neg = 0.0  
+18. Whoah.                              ... pos = 0     	neg = 0    
+19. Nothing quite says "                ... pos = 0.25  	neg = 0.625
+20. " like a flick's onl                ... pos = 0.0   	neg = 0.25 
+21. Deep Blue Sea takes                 ... pos = 0.25  	neg = 0.125
+22. In other words , pla                ... pos = 1.125 	neg = 0.25 
+23. If you still think t                ... pos = 0.625 	neg = 0.0  
+24. In a summer strangel                ... pos = 0.625 	neg = 0.625
+25. Altough a swim will                 ... pos = 0.25  	neg = 0.375
+26. Might as well have h                ... pos = 0.25  	neg = 0.5  
+27. Anyway...                           ... pos = 0     	neg = 0.0  
+28. It's not a typical s                ... pos = 1.5   	neg = 1.0  
+29. ) and the only true                 ... pos = 1.25  	neg = 0.5  
+30. ( The Phantom Menace                ... pos = 0.625 	neg = 0.25 
+31. This is not a movie                 ... pos = 0.5   	neg = 0.5  
+32. Now I like to be int                ... pos = 0.875 	neg = 0.125
+33. It feels even better                ... pos = 1.75  	neg = 1.375
+34. ) and several genuin                ... pos = 0.625 	neg = 0.75 
+35. Granted , director R                ... pos = 1.25  	neg = 1.75 
+36. Aside from a clear h                ... pos = 0.5   	neg = 0.75 
+37. Overall , this is th                ... pos = 0.375 	neg = 0.125
+38. You know it's not a                 ... pos = 0.75  	neg = 0.125
+39. Deep Blue Sea: 8.5 o                ... pos = 0.0   	neg = 0.125
+40. ) , a shark with a v                ... pos = 1.625 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-3081-1584 is Positive        ... pos = 17.5  	neg = 15.5 
+Overall score of document
+Total Pos = 17.5
+Total Neg = 15.5
+---------------------------------------------------------------------------

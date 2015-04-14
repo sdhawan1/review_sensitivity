@@ -1,0 +1,41 @@
+0. Traditionally, a com                 ... pos = 0.75  	neg = 1.125
+1. It's important to ge                 ... pos = 0.875 	neg = 0.0  
+2. And the rules are si                 ... pos = 0.625 	neg = 0.25 
+3. Give us a starting p                 ... pos = 0.125 	neg = 0.125
+4. Or, in a movie bette                 ... pos = 0.125 	neg = 0.75 
+5. Thing is, though, it                 ... pos = 0.125 	neg = 0.125
+6. Instead of involving                 ... pos = 1.625 	neg = 0.25 
+7. What the narrator's                  ... pos = 2.25  	neg = 1.875
+8. And now, after allow                 ... pos = 0.625 	neg = 0.375
+9. Think Slacker, or--a                 ... pos = 0.0   	neg = 0.0  
+10. Lots of scene-hoppin                ... pos = 1.25  	neg = 0.25 
+11. Yet, all the same, y                ... pos = 0.25  	neg = 0.0  
+12. Why?                                ... pos = 0     	neg = 0.0  
+13. Because of the prefa                ... pos = 1.125 	neg = 0.25 
+14. What the preface doe                ... pos = 0.75  	neg = 0.5  
+15. That'll be the rush                 ... pos = 2.0   	neg = 0.125
+16. Magnolia quietly pro                ... pos = 0.125 	neg = 0.0  
+17. Which puts us into t                ... pos = 0.625 	neg = 0.0  
+18. Before it comes, tho                ... pos = 0.875 	neg = 0.75 
+19. We don't know if Fra                ... pos = 0.875 	neg = 0.375
+20. And it's refreshing                 ... pos = 0.125 	neg = 0.0  
+21. To see how it all fi                ... pos = 1.0   	neg = 0.375
+22. As close as you look                ... pos = 0.125 	neg = 0.375
+23. And you couldn't hav                ... pos = 0     	neg = 0.0  
+24. Really.                             ... pos = 0     	neg = 0.0  
+25. Seriously.                          ... pos = 0     	neg = 0.0  
+26. Part of you might fe                ... pos = 0.375 	neg = 1.0  
+27. The nearest approxim                ... pos = 0.25  	neg = 0.25 
+28. I would say Magnolia                ... pos = 0.75  	neg = 1.125
+29. Suffice it to say th                ... pos = 1.5   	neg = 0.0  
+30. It's to cinema as Si                ... pos = 0.375 	neg = 0.125
+31. And, like it or not,                ... pos = 0.75  	neg = 0.0  
+32. You don't look at so                ... pos = 0.125 	neg = 0.75 
+33. And, in Magnolia's c                ... pos = 0.125 	neg = 0.125
+34. (c)2000 Stephen Grah                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4191-965 is Positive         ... pos = 20.5  	neg = 11.25
+Overall score of document
+Total Pos = 20.5
+Total Neg = 11.25
+---------------------------------------------------------------------------

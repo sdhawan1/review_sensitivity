@@ -1,0 +1,82 @@
+0. **** (out of 4) The                  ... pos = 0.5   	neg = 0.125
+1. I knew it would be a                 ... pos = 0.25  	neg = 1.125
+2. The sequence is righ                 ... pos = 0.125 	neg = 0.125
+3. Spielberg's approach                 ... pos = 0.0   	neg = 0.125
+4. There are no establi                 ... pos = 0.25  	neg = 0.25 
+5. We never know how th                 ... pos = 1.125 	neg = 0.125
+6. In a sense, the firs                 ... pos = 0.375 	neg = 0.875
+7. The sequence is full                 ... pos = 1.0   	neg = 0.25 
+8. For each soldier the                 ... pos = 0.375 	neg = 0.125
+9. Yet this whole seque                 ... pos = 0.5   	neg = 0.25 
+10. If it were cut, the                 ... pos = 0.0   	neg = 0.25 
+11. But the film's plot                 ... pos = 0.0   	neg = 0.25 
+12. It is merely a threa                ... pos = 0.375 	neg = 0.125
+13. SAVING PRIVATE RYAN                 ... pos = 0.25  	neg = 0.125
+14. There are distinct v                ... pos = 0.75  	neg = 0.0  
+15. In that sense, the t                ... pos = 0.875 	neg = 0.25 
+16. The plot is that Cap                ... pos = 0.875 	neg = 0.125
+17. Ryan's three brother                ... pos = 0.0   	neg = 0.0  
+18. A general back in Wa                ... pos = 1.125 	neg = 0.125
+19. But as I said, the f                ... pos = 0.0   	neg = 0.125
+20. It is about the war                 ... pos = 0.0   	neg = 0.125
+21. The film follows Mil                ... pos = 0.0   	neg = 0.0  
+22. From the rainy town                 ... pos = 0.0   	neg = 0.25 
+23. >From an isolated ne                ... pos = 0.0   	neg = 0.125
+24. In each episode, Spi                ... pos = 0.0   	neg = 0.0  
+25. At Normandy, one sol                ... pos = 0.375 	neg = 0.0  
+26. Miller points out th                ... pos = 0.625 	neg = 0.375
+27. By advancing, their                 ... pos = 0.625 	neg = 0.25 
+28. When Miller and his                 ... pos = 0.25  	neg = 0.125
+29. Yet Ryan's life is w                ... pos = 1.125 	neg = 0.125
+30. An exponential curve                ... pos = 0.875 	neg = 0.125
+31. At the site of the p                ... pos = 0.25  	neg = 0.0  
+32. He ordered a steel p                ... pos = 0.0   	neg = 0.875
+33. But the weight of th                ... pos = 0.0   	neg = 0.5  
+34. While talking to his                ... pos = 0.0   	neg = 0.0  
+35. He believes there mu                ... pos = 0.5   	neg = 0.625
+36. Losing 96 men must m                ... pos = 0.375 	neg = 0.125
+37. True or not, it is o                ... pos = 0.5   	neg = 0.125
+38. In one of the film's                ... pos = 0.125 	neg = 0.0  
+39. Most of Miller's men                ... pos = 0.875 	neg = 0.25 
+40. They cannot take him                ... pos = 0.375 	neg = 1.125
+41. The movie is very we                ... pos = 0.5   	neg = 0.125
+42. That's not surprisin                ... pos = 0.5   	neg = 0.0  
+43. Thankfully, this tim                ... pos = 0.0   	neg = 0.25 
+44. InAMISTAD, there wer                ... pos = 0.5   	neg = 0.25 
+45. It was downright dis                ... pos = 0.625 	neg = 0.125
+46. In SAVING PRIVATE RY                ... pos = 1.375 	neg = 0.25 
+47. During battle scenes                ... pos = 0.0   	neg = 0.125
+48. The picture is jitte                ... pos = 0.5   	neg = 0.125
+49. It's as though Spiel                ... pos = 0.5   	neg = 0.0  
+50. I can't say what the                ... pos = 0.125 	neg = 0.125
+51. The film also pays v                ... pos = 0.625 	neg = 0.0  
+52. As Miller prepares f                ... pos = 0.75  	neg = 0    
+53. It's a detail that m                ... pos = 0.375 	neg = 0    
+54. For a time the camer                ... pos = 0.0   	neg = 0.0  
+55. At two points in the                ... pos = 0.625 	neg = 0.0  
+56. Finally, the casting                ... pos = 0.875 	neg = 0.125
+57. At first he seems un                ... pos = 0.125 	neg = 0.125
+58. He's too much the ni                ... pos = 0.125 	neg = 0.25 
+59. His voice is a gentl                ... pos = 0.0   	neg = 0.125
+60. And yet, that seems                 ... pos = 0.75  	neg = 0.375
+61. There were gruff gen                ... pos = 0.375 	neg = 0.5  
+62. And that makes the v                ... pos = 0.0   	neg = 0.75 
+63. One final comment is                ... pos = 0.0   	neg = 0.125
+64. I believe this film                 ... pos = 0.5   	neg = 0.0  
+65. Soldiers are disembo                ... pos = 0.25  	neg = 0.125
+66. Perhaps the most dif                ... pos = 0.125 	neg = 0.125
+67. in the heart.                       ... pos = 0.25  	neg = 0    
+68. It is hard to imagin                ... pos = 0.5   	neg = 1.625
+69. Spielberg handles th                ... pos = 0.0   	neg = 0    
+70. He deals with a grue                ... pos = 0.5   	neg = 0.0  
+71. One scene reminds us                ... pos = 0.0   	neg = 0.5  
+72. No scene glorifies t                ... pos = 0.0   	neg = 0.375
+73. Still, the standard                 ... pos = 0.75  	neg = 0.125
+74. Let us hope the next                ... pos = 1.25  	neg = 0.125
+75. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-1008 is Positive        ... pos = 29.0  	neg = 16.625
+Overall score of document
+Total Pos = 29.0
+Total Neg = 16.625
+---------------------------------------------------------------------------

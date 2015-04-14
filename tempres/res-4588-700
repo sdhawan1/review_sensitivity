@@ -1,0 +1,27 @@
+0. Release Date: March                  ... pos = 0.875 	neg = 0.75 
+1. The use of one man a                 ... pos = 0.0   	neg = 0.125
+2. This latest media-ve                 ... pos = 0.375 	neg = 1.125
+3. If not for the been-                 ... pos = 1.625 	neg = 0.125
+4. EDTV starts at RealT                 ... pos = 0.375 	neg = 0.0  
+5. Although the network                 ... pos = 0.0   	neg = 0.125
+6. To boost ratings, th                 ... pos = 0.75  	neg = 0.25 
+7. Cynthia chooses San                  ... pos = 1.0   	neg = 0.0  
+8. It alienates his gir                 ... pos = 1.75  	neg = 0.125
+9. The ending is a clev                 ... pos = 0.875 	neg = 0.125
+10. In fact, a large per                ... pos = 1.5   	neg = 0.375
+11. However, while THE T                ... pos = 0.125 	neg = 0.0  
+12. Any larger elements                 ... pos = 0.375 	neg = 0.125
+13. Director Howard's in                ... pos = 0.25  	neg = 0.25 
+14. The grass may be gre                ... pos = 0.25  	neg = 0.25 
+15. The cast is a dynami                ... pos = 0.625 	neg = 0.125
+16. McConaughey is not c                ... pos = 2.0   	neg = 0.875
+17. Most of Ed's family,                ... pos = 0.25  	neg = 0    
+18. Truly, only Jenna El                ... pos = 1.0   	neg = 0.125
+19. Then again, EDTV is                 ... pos = 0.125 	neg = 0.125
+20. " In this respect it                ... pos = 1.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4588-700 is Positive         ... pos = 15.75 	neg = 5.0  
+Overall score of document
+Total Pos = 15.75
+Total Neg = 5.0
+---------------------------------------------------------------------------

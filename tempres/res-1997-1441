@@ -1,0 +1,48 @@
+0. This film is a brill                 ... pos = 1.0   	neg = 0.125
+1. The arena football m                 ... pos = 0.875 	neg = 0.25 
+2. OK.  Stop.                           ... pos = 0     	neg = 0.0  
+3. "Starship Troopers"                  ... pos = 0.0   	neg = 0.125
+4. I'm not sure about t                 ... pos = 0.375 	neg = 0.125
+5. " It's combat scienc                 ... pos = 0.5   	neg = 0.0  
+6. The film picks up th                 ... pos = 0.375 	neg = 0.25 
+7. Then there are other                 ... pos = 0.625 	neg = 0.125
+8. Woo hoo!                             ... pos = 0     	neg = 0.0  
+9. The film, however, i                 ... pos = 0.125 	neg = 0.125
+10. It skips through the                ... pos = 1.875 	neg = 1.5  
+11. The heart of the nov                ... pos = 0.25  	neg = 0.125
+12. You may disagree str                ... pos = 0.375 	neg = 0.0  
+13. The code is expresse                ... pos = 0.875 	neg = 0.25 
+14. The film's fatal fla                ... pos = 0.5   	neg = 0.625
+15. At most, it makes ve                ... pos = 1.0   	neg = 0.0  
+16. No code or vision po                ... pos = 0.25  	neg = 0.5  
+17. And when the protago                ... pos = 1.5   	neg = 0.0  
+18. There's no convictio                ... pos = 0.0   	neg = 0.25 
+19. But, the one positiv                ... pos = 0.25  	neg = 0.0  
+20. To wit:. 1) Where el                ... pos = 0.125 	neg = 0.0  
+21. Crow T. Robot will h                ... pos = 0.75  	neg = 1.375
+22. You'll know when.                   ... pos = 0     	neg = 0.0  
+23. 2) The continuing mi                ... pos = 0.0   	neg = 0.125
+24. I'm sure he can play                ... pos = 0.75  	neg = 0.0  
+25. Well, maybe not.                    ... pos = 0.0   	neg = 0.0  
+26. 3) The insistence of                ... pos = 0.0   	neg = 0.0  
+27. It's sort of like th                ... pos = 0.0   	neg = 1.0  
+28. [Actually, this lead                ... pos = 0.25  	neg = 0.125
+29. In the novel, there                 ... pos = 0.75  	neg = 0.0  
+30. Humanity has an equa                ... pos = 0.375 	neg = 0.125
+31. I find this scarier,                ... pos = 0.0   	neg = 0.0  
+32. ]. 4) 24th Century T                ... pos = 0.75  	neg = 0.375
+33. 5) 24th Century Musi                ... pos = 0.25  	neg = 0.375
+34. 6) Tug-o-war with th                ... pos = 0     	neg = 0.0  
+35. Humanity has apparen                ... pos = 1.25  	neg = 0.125
+36. 7) Arena football.                  ... pos = 0.0   	neg = 0.0  
+37. Played with a silver                ... pos = 0.0   	neg = 0.0  
+38. 'Nuff said.                         ... pos = 0     	neg = 0.0  
+39. I have to credit the                ... pos = 1.125 	neg = 0.25 
+40. There was a nice ref                ... pos = 0.0   	neg = 0.125
+41. The Internet: an emp                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-1441 is Positive        ... pos = 17.125 	neg = 8.375
+Overall score of document
+Total Pos = 17.125
+Total Neg = 8.375
+---------------------------------------------------------------------------

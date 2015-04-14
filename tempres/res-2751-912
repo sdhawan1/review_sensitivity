@@ -1,0 +1,46 @@
+0. CrankyCriticŽ movie                 ... pos = 0.125 	neg = 0.25 
+1. Cranky wishes he had                 ... pos = 0.75  	neg = 0.625
+2. What makes it even w                 ... pos = 0.625 	neg = 1.375
+3. ". And how many Fall                 ... pos = 0.25  	neg = 0.0  
+4. For once, we get a m                 ... pos = 0.25  	neg = 0.0  
+5. By whacking the funn                 ... pos = 0.375 	neg = 0.125
+6. And not a single vom                 ... pos = 0.0   	neg = 0.625
+7. Good old fashioned f                 ... pos = 0.75  	neg = 0.25 
+8. This may be one of t                 ... pos = 0.5   	neg = 0.375
+9. Simply, anyone who s                 ... pos = 1.0   	neg = 0.75 
+10. Let's begin with Rob                ... pos = 0.375 	neg = 0.625
+11. Bowfinger, known for                ... pos = 0.875 	neg = 0.125
+12. It's called Chubby R                ... pos = 0.125 	neg = 0.0  
+13. Thus, chubby.                       ... pos = 0.125 	neg = 0    
+14. The problem is, the                 ... pos = 0.0   	neg = 0.5  
+15. Someone like Jerry R                ... pos = 0.125 	neg = 0.0  
+16. Someone like Kit Ram                ... pos = 0.75  	neg = 0.125
+17. My lawyers say I sho                ... pos = 0.0   	neg = 0.0  
+18. ) and who use a brai                ... pos = 0.625 	neg = 0    
+19. Bowfinger comes up w                ... pos = 0.0   	neg = 0.75 
+20. A film.                             ... pos = 0.0   	neg = 0    
+21. Let's talk about the                ... pos = 1.875 	neg = 0.25 
+22. I won't spoil it.                   ... pos = 0.0   	neg = 0.0  
+23. There's Carol (Chris                ... pos = 0.375 	neg = 0.0  
+24. Daisy (Heather Graha                ... pos = 1.0   	neg = 0.75 
+25. Scream star Jamie Ke                ... pos = 0.25  	neg = 1.125
+26. Finally, there's Jif                ... pos = 0.0   	neg = 0.75 
+27. With stolen equipmen                ... pos = 0.125 	neg = 0.625
+28. Eddie Murphy does hi                ... pos = 0.875 	neg = 0.0  
+29. Here, doing only a p                ... pos = 0.25  	neg = 0.0  
+30. Steve Martin, also r                ... pos = 0.75  	neg = 0.375
+31. And director Frank O                ... pos = 0.0   	neg = 0.125
+32. On average, a first                 ... pos = 0.25  	neg = 0.0  
+33. Were Cranky able to                 ... pos = 0.625 	neg = 1.375
+34. It could have been e                ... pos = 0.375 	neg = 0.125
+35. Thanks, Frank.                      ... pos = 0.125 	neg = 0    
+36. All the characters f                ... pos = 1.25  	neg = 0.375
+37. Cranky CriticŽ is a                ... pos = 0.0   	neg = 0.125
+38. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+39. On the web at http:/                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2751-912 is Positive         ... pos = 16.0  	neg = 12.5 
+Overall score of document
+Total Pos = 16.0
+Total Neg = 12.5
+---------------------------------------------------------------------------

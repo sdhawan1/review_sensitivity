@@ -1,0 +1,71 @@
+0. Taylor Hackford's la                 ... pos = 0.125 	neg = 0.875
+1. The premise is playe                 ... pos = 0.125 	neg = 1.75 
+2. Or, for that matter,                 ... pos = 0.0   	neg = 0.0  
+3. These are real quest                 ... pos = 1.625 	neg = 0.5  
+4. The plot: Kevin Loma                 ... pos = 0.375 	neg = 0.125
+5. His success in winni                 ... pos = 1.25  	neg = 0.125
+6. And so it turns out                  ... pos = 0.0   	neg = 0.0  
+7. Pretend that you don                 ... pos = 0.0   	neg = 0.5  
+8. How much more intere                 ... pos = 0.125 	neg = 0.75 
+9. It would be "The Fir                 ... pos = 0.375 	neg = 0.25 
+10. There's plenty of ro                ... pos = 0.0   	neg = 0.25 
+11. Firm: where's your c                ... pos = 0.0   	neg = 0.375
+12. Lawyer: well, maybe                 ... pos = 0.0   	neg = 0.125
+13. There are a variety                 ... pos = 0.5   	neg = 0.375
+14. What we do get, as y                ... pos = 1.0   	neg = 1.25 
+15. Mary Ann's deteriora                ... pos = 1.375 	neg = 0.125
+16. Things spin way out                 ... pos = 0.75  	neg = 0.625
+17. Various twists ensue                ... pos = 0.75  	neg = 0.0  
+18. Where did this go wr                ... pos = 0     	neg = 0.75 
+19. One of the problems                 ... pos = 1.125 	neg = 0.5  
+20. True, there is exact                ... pos = 0.625 	neg = 0.25 
+21. But he's so painfull                ... pos = 1.0   	neg = 0.875
+22. Does he neglect his                 ... pos = 0.0   	neg = 0.0  
+23. Obtuse?                             ... pos = 0.0   	neg = 0    
+24. Stupid?                             ... pos = 0     	neg = 0.125
+25. It's hard to tell.                  ... pos = 0.0   	neg = 0.75 
+26. This is, in other wo                ... pos = 1.25  	neg = 2.375
+27. He's just there, and                ... pos = 0     	neg = 0.0  
+28. The part might have                 ... pos = 0.625 	neg = 0.625
+29. (Response to Pacino'                ... pos = 0.0   	neg = 0.25 
+30. What is he?                         ... pos = 0.0   	neg = 0.125
+31. Joking?                             ... pos = 0.375 	neg = 0    
+32. Bitter?                             ... pos = 0.125 	neg = 0    
+33. Bemused?                            ... pos = 0.0   	neg = 0    
+34. Rueful?                             ... pos = 0     	neg = 0    
+35. The world may never                 ... pos = 0.0   	neg = 0.0  
+36. ). Pacino is quite g                ... pos = 1.125 	neg = 0.375
+37. The guess here is th                ... pos = 0.5   	neg = 0.375
+38. As John Milton, Beel                ... pos = 0.875 	neg = 0.25 
+39. ), Pacino is appropr                ... pos = 0.375 	neg = 0.875
+40. (Lip-syncing to Fran                ... pos = 0.0   	neg = 0    
+41. ) The contrast betwe                ... pos = 1.125 	neg = 0.5  
+42. Theron steals virtua                ... pos = 1.25  	neg = 0.0  
+43. (Her role is that of                ... pos = 0.375 	neg = 0.5  
+44. Reeves, though his r                ... pos = 0.5   	neg = 0.25 
+45. ) Most of the visual                ... pos = 1.125 	neg = 0.0  
+46. If there is a downsi                ... pos = 1.125 	neg = 0.125
+47. (Plus, though it isn                ... pos = 0.75  	neg = 0.25 
+48. ). As noted, there i                ... pos = 0.625 	neg = 0.125
+49. That's his right, of                ... pos = 0.625 	neg = 1.0  
+50. Ivey has little to d                ... pos = 0.0   	neg = 0.25 
+51. Her character is wea                ... pos = 1.5   	neg = 0.125
+52. And the only other c                ... pos = 1.625 	neg = 0.125
+53. ") seem just a bit b                ... pos = 0.25  	neg = 0.25 
+54. Like, who you tryin'                ... pos = 0.0   	neg = 0.0  
+55. The point is that th                ... pos = 0.0   	neg = 1.25 
+56. All that was require                ... pos = 0.625 	neg = 1.0  
+57. But Reeves has no ap                ... pos = 0.0   	neg = 0.0  
+58. Again, the idea isn'                ... pos = 0.625 	neg = 0.75 
+59. A conflict between g                ... pos = 1.5   	neg = 1.5  
+60. Despite the drawback                ... pos = 1.25  	neg = 0.125
+61. The visuals are skil                ... pos = 1.625 	neg = 0.5  
+62. If you can suspend d                ... pos = 1.25  	neg = 0.625
+63. The room is as you l                ... pos = 0.75  	neg = 0.875
+64. --from "Interim," by                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6270-1232 is Positive        ... pos = 34.875 	neg = 26.625
+Overall score of document
+Total Pos = 34.875
+Total Neg = 26.625
+---------------------------------------------------------------------------

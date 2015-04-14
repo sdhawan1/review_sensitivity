@@ -1,0 +1,32 @@
+0. If a better movie co                 ... pos = 0.25  	neg = 0.0  
+1. "The English Patient                 ... pos = 0.75  	neg = 0.125
+2. It is in many ways (                 ... pos = 1.875 	neg = 0.25 
+3. Every time I tried t                 ... pos = 2.375 	neg = 1.625
+4. And I'm rarely so ha                 ... pos = 1.125 	neg = 0.875
+5. This is, in a way, a                 ... pos = 0.0   	neg = 0.125
+6. On the one hand it c                 ... pos = 0.0   	neg = 0.0  
+7. On the other, I'd ha                 ... pos = 0.125 	neg = 0.0  
+8. Forgive me if I writ                 ... pos = 0.25  	neg = 0.0  
+9. The script is truly                  ... pos = 1.125 	neg = 0.125
+10. Each character is a                 ... pos = 0.875 	neg = 0.25 
+11. I was particularly f                ... pos = 1.125 	neg = 0.125
+12. At the end I realize                ... pos = 0.125 	neg = 0.25 
+13. Calling this simply                 ... pos = 0.0   	neg = 0.125
+14. It deals with attrac                ... pos = 2.75  	neg = 0.375
+15. Oh, forget it.                      ... pos = 0.25  	neg = 0.0  
+16. I can't make a compl                ... pos = 0.0   	neg = 0.0  
+17. As David Lynch said,                ... pos = 0.0   	neg = 0.125
+18. Everything about the                ... pos = 0.0   	neg = 0.125
+19. The cinematography o                ... pos = 0.75  	neg = 0.125
+20. The music is perfect                ... pos = 0.0   	neg = 0.125
+21. The audio mix is the                ... pos = 0.25  	neg = 0.125
+22. It is clearly eviden                ... pos = 0.875 	neg = 0.25 
+23. This is the kind of                 ... pos = 0.0   	neg = 0.25 
+24. It's ample balm for                 ... pos = 0.0   	neg = 0.5  
+25. If we don't hear the                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1911-777 is Positive         ... pos = 15.0  	neg = 6.0  
+Overall score of document
+Total Pos = 15.0
+Total Neg = 6.0
+---------------------------------------------------------------------------

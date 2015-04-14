@@ -1,0 +1,54 @@
+0. USA.                                 ... pos = 0     	neg = 0.0  
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director - Michael B                 ... pos = 0.375 	neg = 1.5  
+3. Production Company -                 ... pos = 0.0   	neg = 0    
+4. Bruce Willis (Harry                  ... pos = 0.125 	neg = 0.125
+5. Frost), Liv Tyler (G                 ... pos = 0.5   	neg = 0.375
+6. In the same way 1997                 ... pos = 0.0   	neg = 1.25 
+7. Despite the commonal                 ... pos = 0.875 	neg = 0.625
+8. A likely comparison                  ... pos = 1.25  	neg = 0.625
+9. `Armageddon' comes w                 ... pos = 0.0   	neg = 0.125
+10. It has a reported bu                ... pos = 0.5   	neg = 0.0  
+11. Perhaps the most  am                ... pos = 0.125 	neg = 0.25 
+12. One certainly can't                 ... pos = 0.5   	neg = 0.125
+13. One has been  bombar                ... pos = 1.0   	neg = 0.125
+14. If only then there h                ... pos = 0.0   	neg = 0.25 
+15. Unlike `Titanic', wh                ... pos = 0.375 	neg = 0.0  
+16. Director Michael Bay                ... pos = 0.25  	neg = 0.125
+17. The film is conceive                ... pos = 0.5   	neg = 0.375
+18. But all Bay seems ca                ... pos = 0.5   	neg = 0.75 
+19. Each action sequence                ... pos = 1.125 	neg = 0.625
+20. The writing is absur                ... pos = 0.5   	neg = 0.375
+21. It is  hard to belie                ... pos = 0.5   	neg = 1.625
+22. " and the digital co                ... pos = 0.125 	neg = 0.0  
+23. And despite the pres                ... pos = 0.375 	neg = 2.5  
+24. It has been a long t                ... pos = 0.0   	neg = 0.5  
+25. It wants to be a fil                ... pos = 0.125 	neg = 0.125
+26. Heroism here is repr                ... pos = 0.25  	neg = 0.25 
+27. It is clear that the                ... pos = 0.25  	neg = 0.125
+28. But all the heroism                 ... pos = 0.125 	neg = 0.0  
+29. The sweat and the st                ... pos = 0.0   	neg = 0.375
+30. The film  wants to c                ... pos = 1.25  	neg = 0.75 
+31. And what the film en                ... pos = 0.125 	neg = 0.125
+32. I would be greatly c                ... pos = 0.625 	neg = 0.625
+33. Everybody on the opp                ... pos = 0.0   	neg = 1.0  
+34. In  its opening mome                ... pos = 0.625 	neg = 0.875
+35. " While one may not                 ... pos = 1.125 	neg = 0.5  
+36. Similarly the film g                ... pos = 1.125 	neg = 0.75 
+37. And it doesn't just                 ... pos = 0.0   	neg = 0.0  
+38. It is not merely the                ... pos = 0.125 	neg = 1.0  
+39. One cannot remember                 ... pos = 0.125 	neg = 0.0  
+40. Like `Independance                  ... pos = 0.375 	neg = 0.25 
+41. It is not merely a f                ... pos = 0.375 	neg = 0.375
+42. All the  heroic posi                ... pos = 0.0   	neg = 0.0  
+43. And the background                  ... pos = 0.125 	neg = 0.625
+44. As a  non-American I                ... pos = 0.5   	neg = 0.75 
+45. Most unbelievable of                ... pos = 0.5   	neg = 1.25 
+46. Give me a break !                   ... pos = 0.0   	neg = 0.0  
+47. All of this  in itse                ... pos = 1.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-6217-108 is Negative         ... pos = 18.5  	neg = 22.375
+Overall score of document
+Total Pos = 18.5
+Total Neg = 22.375
+---------------------------------------------------------------------------

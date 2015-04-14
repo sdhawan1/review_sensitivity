@@ -1,0 +1,23 @@
+0. The Happy Bastard's                  ... pos = 0.875 	neg = 1.5  
+1. (Remember the pathet                 ... pos = 0.125 	neg = 0.875
+2. Yikes!                               ... pos = 0     	neg = 0    
+3. )  But guess what- D                 ... pos = 2.0   	neg = 0.25 
+4. The story is pretty                  ... pos = 0.125 	neg = 0.375
+5. As he matures into a                 ... pos = 2.875 	neg = 0.75 
+6. From there, Tarzan f                 ... pos = 0.125 	neg = 0.0  
+7. The voicework here i                 ... pos = 0     	neg = 0.25 
+8. Tony Goldwyn is very                 ... pos = 2.75  	neg = 1.0  
+9. The movie is superb                  ... pos = 0.875 	neg = 0.125
+10. When Tarzan tree-sur                ... pos = 0.375 	neg = 0.75 
+11. I couldn't believe m                ... pos = 0.625 	neg = 0.75 
+12. And the music's not                 ... pos = 0.0   	neg = 0.875
+13. Fortunately, there's                ... pos = 2.0   	neg = 0.875
+14. There's some great a                ... pos = 0.125 	neg = 0.0  
+15. But, of course, it's                ... pos = 0.0   	neg = 0.0  
+16. This is easily one o                ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1548-1292 is Positive        ... pos = 13.75 	neg = 8.625
+Overall score of document
+Total Pos = 13.75
+Total Neg = 8.625
+---------------------------------------------------------------------------

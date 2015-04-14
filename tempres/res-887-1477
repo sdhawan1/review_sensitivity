@@ -1,0 +1,67 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring the voices                  ... pos = 0.0   	neg = 0.0  
+2. Written by Peter Lor                 ... pos = 0.0   	neg = 0.0  
+3. Directed by Peter Lo                 ... pos = 0.0   	neg = 0.0  
+4. Rated G.. I know tha                 ... pos = 0.125 	neg = 0.0  
+5. "Fun" is a noun, and                 ... pos = 0.0   	neg = 0.25 
+6. But that's the word                  ... pos = 0.0   	neg = 0.0  
+7. " No wonder: This is                 ... pos = 0.0   	neg = 0.5  
+8. " So to hell with We                 ... pos = 0.0   	neg = 0.375
+9. I can't remember  th                 ... pos = 0.125 	neg = 0.0  
+10. The chickens at Twee                ... pos = 0.25  	neg = 0.0  
+11. Living in a  concent                ... pos = 0.375 	neg = 0.0  
+12. One night, a brash A                ... pos = 0.375 	neg = 0.0  
+13. Rocky promises to te                ... pos = 0.222 	neg = 0.25 
+14. She orders a huge pi                ... pos = 0.0   	neg = 0.125
+15. " What sort of pies?                ... pos = 0.0   	neg = 0.0  
+16. Chicken  pies, of co                ... pos = 0.0   	neg = 0.0  
+17. Co-director Nick Par                ... pos = 0.0   	neg = 0.75 
+18. " The latter two wer                ... pos = 1.75  	neg = 0.125
+19. Part of what made th                ... pos = 1.125 	neg = 0.125
+20. "The Wrong Trousers,                ... pos = 1.25  	neg = 0.875
+21. But in the hands of                 ... pos = 0.5   	neg = 0.0  
+22. Now teaming with co-                ... pos = 0.375 	neg = 0.0  
+23. " The plot is largel                ... pos = 0.125 	neg = 0.375
+24. Thing  is, the film                 ... pos = 0.5   	neg = 1.375
+25. Part of  it is the o                ... pos = 0.0   	neg = 0.125
+26. Park and Lord milk t                ... pos = 0.875 	neg = 1.125
+27. But they're *chicken                ... pos = 0.0   	neg = 0.0  
+28. Another thing that h                ... pos = 1.25  	neg = 0.25 
+29. There are references                ... pos = 0.25  	neg = 0.0  
+30. " The chase sequence                ... pos = 0.0   	neg = 0.0  
+31. " There's even a nod                ... pos = 1.125 	neg = 0.25 
+32. The "Braveheart" ref                ... pos = 0.0   	neg = 0.125
+33. When you consider ju                ... pos = 1.875 	neg = 0.125
+34. Consider this: Since                ... pos = 0.125 	neg = 0.5  
+35. Out of all those, ma                ... pos = 0.0   	neg = 0.375
+36. Why?                                ... pos = 0     	neg = 0.0  
+37. Because once you got                ... pos = 0.625 	neg = 1.0  
+38. They were  only funn                ... pos = 0.0   	neg = 0.375
+39. Conversely, "Chicken                ... pos = 0.75  	neg = 0.0  
+40. If you've never seen                ... pos = 0.125 	neg = 0.125
+41. Even if you have no                 ... pos = 0.875 	neg = 0.375
+42. Park,  Lord, and scr                ... pos = 1.0   	neg = 0.375
+43. Enjoyment of this mo                ... pos = 0.125 	neg = 0.125
+44. The voice cast turns                ... pos = 2.625 	neg = 0.75 
+45. Ginger is perfect, s                ... pos = 2.25  	neg = 0.125
+46. She has warm, human                 ... pos = 0.25  	neg = 0.0  
+47. The characters' inev                ... pos = 0.0   	neg = 0.0  
+48. Poor Mr. Tweedy (Ton                ... pos = 1.125 	neg = 0.0  
+49. Jane Horrocks delive                ... pos = 1.5   	neg = 0.125
+50. They  even come up w                ... pos = 0.5   	neg = 0.0  
+51. One  might have expe                ... pos = 0.75  	neg = 1.625
+52. The film manages to                 ... pos = 0.625 	neg = 0.125
+53. The animation  is fi                ... pos = 0.0   	neg = 0.125
+54. Remember that this w                ... pos = 1.125 	neg = 0.625
+55. This movie possesses                ... pos = 1.375 	neg = 0.0  
+56. As  in such top-notc                ... pos = 0.0   	neg = 0.0  
+57. Certainly a  passive                ... pos = 2.625 	neg = 0.0  
+58. Anyway, the movie's                 ... pos = 0.125 	neg = 0.0  
+59. Funnest damn movie I                ... pos = 0.0   	neg = 0.125
+60. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-887-1477 is Positive         ... pos = 30.972 	neg = 14.0 
+Overall score of document
+Total Pos = 30.972
+Total Neg = 14.0
+---------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+0. "You have to turn ar                 ... pos = 0.0   	neg = 0.0  
+1. You don't have a dri                 ... pos = 0.0   	neg = 0.0  
+2. " "Excuse me?                        ... pos = 0     	neg = 0.0  
+3. " "You don't have a                  ... pos = 0.0   	neg = 0.0  
+4. " "Is that the worst                 ... pos = 0.0   	neg = 0.5  
+5. ". Starring Albert B                 ... pos = 0.0   	neg = 0.0  
+6. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+7. The movie is about M                 ... pos = 0.125 	neg = 0.25 
+8. I think Albert Brook                 ... pos = 0.0   	neg = 0.125
+9. He hasn't made a bad                 ... pos = 1.75  	neg = 1.25 
+10. At their worst his f                ... pos = 2.125 	neg = 0.375
+11. The Muse, his new fi                ... pos = 1.125 	neg = 0.125
+12. Charming, hilarious                 ... pos = 2.375 	neg = 0.25 
+13. Brooks handles his t                ... pos = 0.5   	neg = 1.0  
+14. Our protagonist is S                ... pos = 0.625 	neg = 0.25 
+15. Why?                                ... pos = 0     	neg = 0.0  
+16. Because he has "lost                ... pos = 0.0   	neg = 0    
+17. Understandably Steve                ... pos = 0.25  	neg = 0    
+18. I began to wonder my                ... pos = 0.0   	neg = 0.0  
+19. You hear that so oft                ... pos = 0.25  	neg = 0.125
+20. That is what everyon                ... pos = 0.375 	neg = 0.25 
+21. They all advise that                ... pos = 0.0   	neg = 0.625
+22. That's not an option                ... pos = 0.0   	neg = 0.25 
+23. He's left up the cre                ... pos = 0.0   	neg = 1.0  
+24. He pleads with his e                ... pos = 0.625 	neg = 0.0  
+25. Jack divulges that h                ... pos = 0.0   	neg = 0.0  
+26. That's right -- a Mu                ... pos = 0.125 	neg = 0.125
+27. The Muse's name is S                ... pos = 0.0   	neg = 0.125
+28. First you have to ge                ... pos = 0.125 	neg = 0.0  
+29. If she does decide t                ... pos = 0.0   	neg = 0.125
+30. She takes Steve on.                 ... pos = 0.0   	neg = 0.0  
+31. She orders that he p                ... pos = 0.0   	neg = 0.375
+32. If he does, she insi                ... pos = 0.25  	neg = 0.125
+33. The relationship bet                ... pos = 0.0   	neg = 0.0  
+34. Brooks, bless his so                ... pos = 0.5   	neg = 0.0  
+35. What he does do, how                ... pos = 0.125 	neg = 0.125
+36. At that point, vario                ... pos = 0.25  	neg = 0.25 
+37. As if that wasn't en                ... pos = 0.0   	neg = 0.0  
+38. The film's biggest c                ... pos = 0     	neg = 0.875
+39. They keep a-flyin',                 ... pos = 0.0   	neg = 0.125
+40. Well, almost.                       ... pos = 0.0   	neg = 0    
+41. As a matter of fact,                ... pos = 0.0   	neg = 0.0  
+42. This one may not be                 ... pos = 0.875 	neg = 0.25 
+43. Its claim to fame, h                ... pos = 0.5   	neg = 0.125
+44. And make no mistake,                ... pos = 2.125 	neg = 1.0  
+45. I doubt she will bec                ... pos = 0.75  	neg = 0.0  
+46. Equally successful i                ... pos = 0.625 	neg = 0.125
+47. Albert Brooks is as                 ... pos = 1.25  	neg = 0.375
+48. Unlike most other Al                ... pos = 1.0   	neg = 0.125
+49. It's even better if                 ... pos = 0.25  	neg = 0.375
+50. Even if you're not a                ... pos = 1.5   	neg = 0.25 
+51. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+52. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1963-563 is Positive         ... pos = 20.5  	neg = 11.25
+Overall score of document
+Total Pos = 20.5
+Total Neg = 11.25
+---------------------------------------------------------------------------

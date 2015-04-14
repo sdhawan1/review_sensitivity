@@ -1,0 +1,36 @@
+0. Techies and software                 ... pos = 0.375 	neg = 0.625
+1. ' Sure, a really coo                 ... pos = 0.25  	neg = 1.375
+2. Wells-inspired way-b                 ... pos = 0     	neg = 0.0  
+3. Those waiting for a                  ... pos = 1.5   	neg = 0.625
+4. This stylish potboil                 ... pos = 0.75  	neg = 0.625
+5. Not nearly as jarrin                 ... pos = 0.875 	neg = 0.25 
+6. But what makes the t                 ... pos = 0.875 	neg = 0.375
+7. Film Noir 101.                       ... pos = 0.0   	neg = 0    
+8. For such a high-prof                 ... pos = 0.375 	neg = 0.125
+9. The able cast is hea                 ... pos = 0.375 	neg = 0.5  
+10. The two men are on t                ... pos = 1.0   	neg = 0.0  
+11. The simulated world                 ... pos = 0.125 	neg = 0.125
+12. While the younger Ha                ... pos = 0.25  	neg = 0.5  
+13. One night, after one                ... pos = 0.875 	neg = 0.75 
+14. An intimidating cop                 ... pos = 0.875 	neg = 0.875
+15. Enter Jane (Gretchen                ... pos = 1.5   	neg = 0.0  
+16. Shooting off major s                ... pos = 0.5   	neg = 0.625
+17. If that weren't enou                ... pos = 1.75  	neg = 0.0  
+18. A suspicious bartend                ... pos = 0.75  	neg = 0.0  
+19. But the bartender, o                ... pos = 0.5   	neg = 0.0  
+20. The bartender -- who                ... pos = 1.125 	neg = 0.75 
+21. Follow me so far?                   ... pos = 0.0   	neg = 0.0  
+22. Loosely adapted from                ... pos = 0.375 	neg = 1.625
+23. It doesn't measure u                ... pos = 1.0   	neg = 0.375
+24. The film's reach exc                ... pos = 0.5   	neg = 0.0  
+25. The most advanced th                ... pos = 1.75  	neg = 0.0  
+26. While `13th Floor' a                ... pos = 0.625 	neg = 0.625
+27. The film's most clev                ... pos = 2.375 	neg = 0.25 
+28. Also, with the sober                ... pos = 1.625 	neg = 0.0  
+29. These intriguing the                ... pos = 1.875 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-6290-1006 is Positive        ... pos = 24.75 	neg = 11.75
+Overall score of document
+Total Pos = 24.75
+Total Neg = 11.75
+---------------------------------------------------------------------------

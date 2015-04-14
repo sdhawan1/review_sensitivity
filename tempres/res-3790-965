@@ -1,0 +1,38 @@
+0. Three Kings opens ju                 ... pos = 0.125 	neg = 1.0  
+1. With an opening like                 ... pos = 0.0   	neg = 0.625
+2. It does.                             ... pos = 0.0   	neg = 0    
+3. It even gets side-sp                 ... pos = 0.5   	neg = 0.75 
+4. Journalist Adrianna                  ... pos = 0.0   	neg = 0.75 
+5. " No one seems to, e                 ... pos = 0.0   	neg = 0.625
+6. First there's the Am                 ... pos = 0.125 	neg = 0.0  
+7. Next there's Chief (                 ... pos = 0.25  	neg = 0.0  
+8. Last there's the who                 ... pos = 0.75  	neg = 0.0  
+9. As the trailer spell                 ... pos = 0.0   	neg = 0.25 
+10. But of course everyt                ... pos = 0.0   	neg = 1.0  
+11. It's no big leap fro                ... pos = 0.125 	neg = 0.5  
+12. It even happens like                ... pos = 1.125 	neg = 1.375
+13. Nevertheless, though                ... pos = 1.375 	neg = 0.875
+14. War movies tend to w                ... pos = 0.5   	neg = 0.125
+15. It takes an especial                ... pos = 0.375 	neg = 0.0  
+16. Three Kings isn't Ku                ... pos = 0.5   	neg = 0.5  
+17. Or, rather, it seems                ... pos = 1.25  	neg = 0.875
+18. But of course this '                ... pos = 2.625 	neg = 1.625
+19. And then of course t                ... pos = 0.375 	neg = 0.25 
+20. At least it strays f                ... pos = 0.75  	neg = 0.375
+21. In the end, though--                ... pos = 0.25  	neg = 0.25 
+22. In case we miss this                ... pos = 0.625 	neg = 0.5  
+23. The point gets made,                ... pos = 0     	neg = 0.0  
+24. And it's not the onl                ... pos = 0.125 	neg = 0.625
+25. In this case, howeve                ... pos = 0.25  	neg = 0.125
+26. At one point a tanke                ... pos = 0.125 	neg = 0.0  
+27. Before we can, thoug                ... pos = 1.25  	neg = 0.125
+28. It shows.                           ... pos = 0.0   	neg = 0    
+29. The only thing missi                ... pos = 0.875 	neg = 0.125
+30. Which is to say ther                ... pos = 0.5   	neg = 0.625
+31. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-965 is Positive         ... pos = 14.75 	neg = 13.875
+Overall score of document
+Total Pos = 14.75
+Total Neg = 13.875
+---------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+0. Cast: Bruce Willis,                  ... pos = 0.0   	neg = 0.0  
+1. Writer: Mitchell Kap                 ... pos = 0.0   	neg = 0    
+2. Director: Jonathan L                 ... pos = 0.0   	neg = 0    
+3. Review by Scott Hunt                 ... pos = 0.0   	neg = 0.0  
+4. I kept thinking abou                 ... pos = 0.0   	neg = 0.0  
+5. At it's best moments                 ... pos = 0.5   	neg = 0.0  
+6. It comes from some o                 ... pos = 0.875 	neg = 0.0  
+7. There is a certain c                 ... pos = 0.875 	neg = 0.125
+8. Those moments weren'                 ... pos = 0.25  	neg = 0.125
+9. The Whole Nine Yards                 ... pos = 0.0   	neg = 0.5  
+10. That all changes whe                ... pos = 0.0   	neg = 0.0  
+11. Because of Tulip's k                ... pos = 0.125 	neg = 0.0  
+12. The story careens al                ... pos = 1.0   	neg = 0.125
+13. Perry and Willis bot                ... pos = 1.125 	neg = 0.0  
+14. Perry is the same ch                ... pos = 1.75  	neg = 0.125
+15. Willis is the same p                ... pos = 0.125 	neg = 0.625
+16. The difference this                 ... pos = 0.25  	neg = 0.125
+17. The acting may not b                ... pos = 0.0   	neg = 0.25 
+18. Perry runs the gamut                ... pos = 1.625 	neg = 0.0  
+19. He bounces through t                ... pos = 0.125 	neg = 0.0  
+20. He is amusing to beh                ... pos = 0.0   	neg = 0.125
+21. Willis manages to tu                ... pos = 0.75  	neg = 0.0  
+22. You think you know w                ... pos = 1.75  	neg = 0.625
+23. There are other nice                ... pos = 0.25  	neg = 0.0  
+24. Amanda Peet, as Jill                ... pos = 0.625 	neg = 0.125
+25. Natasha Henstridge a                ... pos = 1.125 	neg = 0    
+26. Duncan, as another h                ... pos = 1.125 	neg = 0.125
+27. That isn't to say th                ... pos = 0.375 	neg = 0.0  
+28. It's obvious that Po                ... pos = 0.0   	neg = 0.125
+29. The problem is that                 ... pos = 0.0   	neg = 1.0  
+30. Arquette adopts what                ... pos = 0.125 	neg = 0.25 
+31. Pollock garbles his                 ... pos = 0.375 	neg = 0.25 
+32. The Whole Nine Yards                ... pos = 0.0   	neg = 0.0  
+33. I found myself chuck                ... pos = 0.25  	neg = 0.75 
+34. Just because it fall                ... pos = 1.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-487-1217 is Positive         ... pos = 16.5  	neg = 5.625
+Overall score of document
+Total Pos = 16.5
+Total Neg = 5.625
+---------------------------------------------------------------------------

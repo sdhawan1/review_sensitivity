@@ -1,0 +1,49 @@
+0. Starring Johnny Depp                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. There are                  ... pos = 0.375 	neg = 0.0  
+2. If I used them all,                  ... pos = 0.5   	neg = 0.0  
+3. Some movies go beyon                 ... pos = 0.25  	neg = 0.0  
+4. I probably can't giv                 ... pos = 0.0   	neg = 0.125
+5. I'll try, but listen                 ... pos = 0.25  	neg = 0.0  
+6. It is an adaptation                  ... pos = 1.125 	neg = 0.125
+7. The general plot (es                 ... pos = 0.25  	neg = 0.125
+8. It is, of course, th                 ... pos = 0.75  	neg = 1.375
+9. Or, that is what the                 ... pos = 0.75  	neg = 1.0  
+10. Enter Ichabod Crane                 ... pos = 0.0   	neg = 0.0  
+11. A cynical, fancy-sch                ... pos = 0.875 	neg = 0.125
+12. Of course, he doesn'                ... pos = 0.25  	neg = 1.0  
+13. He receives what see                ... pos = 2.125 	neg = 0.25 
+14. He does eventually h                ... pos = 0.0   	neg = 0.125
+15. What he is not sure                 ... pos = 0.375 	neg = 0.25 
+16. Certain clues lead h                ... pos = 0.25  	neg = 0.125
+17. Since nobody in the                 ... pos = 0.25  	neg = 0.75 
+18. Meanwhile, Ichabod f                ... pos = 0.25  	neg = 1.125
+19. She is, of course, d                ... pos = 0.5   	neg = 0.125
+20. At the risk of makin                ... pos = 0.75  	neg = 0.375
+21. Every shot, every fr                ... pos = 0.75  	neg = 0.375
+22. Ordinary is obviousl                ... pos = 0.0   	neg = 0.5  
+23. ) is not familiar wi                ... pos = 0.0   	neg = 0.125
+24. All visual elements                 ... pos = 0.25  	neg = 0.875
+25. I have yet to see th                ... pos = 0.875 	neg = 0.75 
+26. If I don't see an Ar                ... pos = 0.125 	neg = 0.125
+27. Aside from being aes                ... pos = 0.5   	neg = 0.125
+28. The prevalent horror                ... pos = 1.0   	neg = 0.0  
+29. Every sequence is ex                ... pos = 0.25  	neg = 0.625
+30. Visually adept movie                ... pos = 0.375 	neg = 0.125
+31. In Sleepy Hollow, ev                ... pos = 0.0   	neg = 0.0  
+32. I think Johnny Depp,                ... pos = 0.25  	neg = 0.125
+33. His Ichabod is aweso                ... pos = 0.875 	neg = 0.125
+34. He's like the anti-h                ... pos = 0     	neg = 0.0  
+35. There's a scene some                ... pos = 0.5   	neg = 0.875
+36. Ichabod, frightened,                ... pos = 0.625 	neg = 0.75 
+37. There's another wher                ... pos = 0.0   	neg = 0.125
+38. The beauty about sce                ... pos = 1.75  	neg = 0.75 
+39. Sleepy Hollow takes                 ... pos = 1.125 	neg = 0.0  
+40. I have no doubt in m                ... pos = 1.375 	neg = 0.375
+41. It is simple in plot                ... pos = 0.0   	neg = 0.125
+42. Heads Will Roll and                 ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6111-563 is Positive         ... pos = 20.625 	neg = 14.0 
+Overall score of document
+Total Pos = 20.625
+Total Neg = 14.0
+---------------------------------------------------------------------------

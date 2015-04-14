@@ -1,0 +1,26 @@
+0. I have sat through e                 ... pos = 0.0   	neg = 0.375
+1. But all those years                  ... pos = 0.625 	neg = 0.0  
+2. `Saving Private Ryan                 ... pos = 0.625 	neg = 0.0  
+3. Tom Hanks plays Capt                 ... pos = 0.375 	neg = 0.25 
+4. Ryan's three brother                 ... pos = 0.0   	neg = 0.25 
+5. Miller's crew consis                 ... pos = 1.875 	neg = 0.25 
+6. The most fully devel                 ... pos = 1.125 	neg = 0.25 
+7. He doesn't want to b                 ... pos = 0.125 	neg = 0.375
+8. The first twenty-fiv                 ... pos = 1.25  	neg = 0.5  
+9. The battle scenes ar                 ... pos = 0.25  	neg = 0.25 
+10. You feel as if you a                ... pos = 0.25  	neg = 0.0  
+11. All the battle scene                ... pos = 1.25  	neg = 0    
+12. The acting is marvel                ... pos = 0.75  	neg = 0.125
+13. The whole ensemble i                ... pos = 1.25  	neg = 0.125
+14. Tom Hanks gives the                 ... pos = 1.625 	neg = 0.0  
+15. Everything else is e                ... pos = 0.625 	neg = 0.375
+16. `Saving Private Ryan                ... pos = 0.875 	neg = 0.125
+17. It was re-released i                ... pos = 0.0   	neg = 0.125
+18. If you missed it the                ... pos = 0.25  	neg = 0.25 
+19. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-1529 is Positive        ... pos = 13.125 	neg = 3.625
+Overall score of document
+Total Pos = 13.125
+Total Neg = 3.625
+---------------------------------------------------------------------------

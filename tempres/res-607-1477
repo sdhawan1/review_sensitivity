@@ -1,0 +1,60 @@
+0. Year: 1999.                          ... pos = 0     	neg = 0    
+1. Starring Tobey Magui                 ... pos = 0.0   	neg = 0.0  
+2. Directed by Lasse Ha                 ... pos = 0.0   	neg = 0.0  
+3. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+4. If any lessons can b                 ... pos = 0.0   	neg = 1.875
+5. The other is that th                 ... pos = 0.375 	neg = 0.25 
+6. It's not hard to see                 ... pos = 1.125 	neg = 1.25 
+7. It possesses all the                 ... pos = 2.0   	neg = 0.125
+8. That, of course, is                  ... pos = 0.125 	neg = 0.375
+9. " Not one moment goe                 ... pos = 1.875 	neg = 0.125
+10. Too bad "The Cider H                ... pos = 2.625 	neg = 1.375
+11. It's mostly well-mad                ... pos = 0.0   	neg = 0.0  
+12. Homer Wells (Tobey M                ... pos = 0.375 	neg = 0.25 
+13. Brought up at the St                ... pos = 0.0   	neg = 0.0  
+14. Cloud's Orphanage in                ... pos = 0.625 	neg = 0.125
+15. " So Dr. Larch teach                ... pos = 0.25  	neg = 0.0  
+16. Homer, however, refu                ... pos = 0.125 	neg = 0.0  
+17. Dr. Larch has no qua                ... pos = 0.5   	neg = 0.5  
+18. When Homer grows old                ... pos = 1.0   	neg = 0.125
+19. Homer asks to leave                 ... pos = 0.5   	neg = 0.125
+20. Homer then proceeds                 ... pos = 1.0   	neg = 0.0  
+21. Thrown out into the                 ... pos = 0.5   	neg = 0.125
+22. There are things to                 ... pos = 0.25  	neg = 0.0  
+23. " The actors, for ex                ... pos = 0.375 	neg = 0.5  
+24. His understated calm                ... pos = 3.25  	neg = 0.0  
+25. Charlize Theron is f                ... pos = 0.75  	neg = 0.875
+26. The interplay betwee                ... pos = 0.0   	neg = 0.125
+27. Michael Caine and De                ... pos = 0.25  	neg = 0.0  
+28. Caine's New Englande                ... pos = 1.875 	neg = 0.625
+29. Singer Erykah Badu i                ... pos = 1.25  	neg = 0.125
+30. John Irving adapted                 ... pos = 0.375 	neg = 0.875
+31. This being an Import                ... pos = 1.25  	neg = 0.625
+32. Irving seemingly isn                ... pos = 1.125 	neg = 0.0  
+33. When the film finall                ... pos = 0.875 	neg = 0.125
+34. Playing with an audi                ... pos = 0.875 	neg = 0.25 
+35. I was with the film                 ... pos = 0.625 	neg = 0.125
+36. Plot developments th                ... pos = 0.125 	neg = 0.625
+37. Furthermore, for all                ... pos = 0.25  	neg = 1.125
+38. It does deliver a fa                ... pos = 1.875 	neg = 0.125
+39. That's fine, but Hom                ... pos = 0.75  	neg = 0.375
+40. Where is the counter                ... pos = 0.25  	neg = 0.875
+41. The film is most def                ... pos = 0.75  	neg = 0.125
+42. This critic isn't ev                ... pos = 1.375 	neg = 0.125
+43. "The Cider House Rul                ... pos = 1.125 	neg = 0.25 
+44. This is a perfectly,                ... pos = 2.0   	neg = 0.125
+45. Irving's screenplay                 ... pos = 1.125 	neg = 0.25 
+46. Several things here                 ... pos = 0.375 	neg = 0.125
+47. "The Cider House Rul                ... pos = 0.0   	neg = 1.125
+48. Toss in some beautif                ... pos = 2.5   	neg = 0.25 
+49. But those looking fo                ... pos = 0.75  	neg = 0.375
+50. Sadly, "The Cider Ho                ... pos = 1.0   	neg = 0.75 
+51. There is no narrativ                ... pos = 0.75  	neg = 0.375
+52. As a picture that de                ... pos = 1.375 	neg = 0.375
+53. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-607-1477 is Positive         ... pos = 42.625 	neg = 18.25
+Overall score of document
+Total Pos = 42.625
+Total Neg = 18.25
+---------------------------------------------------------------------------

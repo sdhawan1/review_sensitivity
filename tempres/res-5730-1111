@@ -1,0 +1,42 @@
+0. Cast: Roberto Benign                 ... pos = 1.125 	neg = 0.25 
+1. For Italian Jew Guid                 ... pos = 0.625 	neg = 0.25 
+2. Life is full of plea                 ... pos = 1.5   	neg = 0.125
+3. Life is beautiful.                   ... pos = 0.75  	neg = 0.125
+4. "X years later," thi                 ... pos = 0.0   	neg = 0.625
+5. Orefice's surroundin                 ... pos = 1.125 	neg = 0.25 
+6. Signs on shop window                 ... pos = 0.25  	neg = 0.0  
+7. Life is not easy, bu                 ... pos = 0.625 	neg = 0.125
+8. By the time Life is                  ... pos = 1.25  	neg = 0.25 
+9. When World War II is                 ... pos = 0.5   	neg = 0.25 
+10. Instead of revealing                ... pos = 0.75  	neg = 0.25 
+11. Giosue must avoid th                ... pos = 0.75  	neg = 0.5  
+12. The remarkable thing                ... pos = 1.25  	neg = 0.5  
+13. Benigni's character                 ... pos = 1.125 	neg = 0.5  
+14. These are colorful a                ... pos = 0.75  	neg = 0    
+15. As we giggle, though                ... pos = 0.125 	neg = 0.25 
+16. Benigni (also the di                ... pos = 0.75  	neg = 0.0  
+17. While we laugh, our                 ... pos = 0.0   	neg = 0.0  
+18. That is why Life is                 ... pos = 0.75  	neg = 0.375
+19. Due to the film's co                ... pos = 0.375 	neg = 0.125
+20. Never since critics                 ... pos = 0.0   	neg = 0.25 
+21. Strange as it may so                ... pos = 2.0   	neg = 0.25 
+22. If it had just focus                ... pos = 0.625 	neg = 0.0  
+23. Films like Saving Pr                ... pos = 2.375 	neg = 0.125
+24. Roberto Benigni's pe                ... pos = 0.125 	neg = 0.5  
+25. But as the story mov                ... pos = 1.5   	neg = 0.25 
+26. Benigni shows unusua                ... pos = 1.25  	neg = 0.0  
+27. Just dubbing this ac                ... pos = 0.75  	neg = 0.125
+28. If there is a defini                ... pos = 1.5   	neg = 0.375
+29. On occasions, Benign                ... pos = 0.375 	neg = 0.125
+30. That's fair enough w                ... pos = 0.875 	neg = 0.625
+31. So too, is this film                ... pos = 0.0   	neg = 0.375
+32. Despite its depressi                ... pos = 1.5   	neg = 0.375
+33. Roberto Benigni does                ... pos = 0.0   	neg = 0.0  
+34. In that way, we cry                 ... pos = 0.375 	neg = 0.0  
+35. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5730-1111 is Positive        ... pos = 27.875 	neg = 8.125
+Overall score of document
+Total Pos = 27.875
+Total Neg = 8.125
+---------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+0. Rating: * (out of **                 ... pos = 0.0   	neg = 0.875
+1. Well, said "Squad" c                 ... pos = 0.875 	neg = 0.25 
+2. A contemporary take                  ... pos = 1.375 	neg = 0.0  
+3. How curious that the                 ... pos = 0.625 	neg = 0.5  
+4. They are Julie, Pete                 ... pos = 1.25  	neg = 0.375
+5. Their plight involve                 ... pos = 0.375 	neg = 0.25 
+6. They pout a lot and                  ... pos = 0.25  	neg = 0.0  
+7. When you're supposed                 ... pos = 0     	neg = 0.125
+8. ", you'll instead en                 ... pos = 0.375 	neg = 0.625
+9. " or "Aren't thrille                 ... pos = 0.125 	neg = 0.0  
+10. ". Not that Danes, E                ... pos = 0.0   	neg = 0.0  
+11. Danes can do the tro                ... pos = 0.25  	neg = 0.375
+12. Ditto for Ribisi's (                ... pos = 0.625 	neg = 0.375
+13. But Epps - poor Epps                ... pos = 0     	neg = 0.0  
+14. Epps ("Higher Learni                ... pos = 0.0   	neg = 1.0  
+15. All this sloppiness                 ... pos = 0.0   	neg = 1.0  
+16. They must think that                ... pos = 0.5   	neg = 1.875
+17. Characters are non-e                ... pos = 1.375 	neg = 0.375
+18. Plot hardly escapes                 ... pos = 0     	neg = 0.5  
+19. And the one genre el                ... pos = 0.0   	neg = 0.125
+20. All those quick to p                ... pos = 0.0   	neg = 1.0  
+21. Here's a small-to-bi                ... pos = 0.0   	neg = 0.0  
+22. Š 1999 Jamie Peck E                ... pos = 0.25  	neg = 0.0  
+23. If you think this mo                ... pos = 0.0   	neg = 0.375
+24. " -Roger Ebert on "V                ... pos = 0     	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5846-1031 is Negative        ... pos = 8.25  	neg = 10.875
+Overall score of document
+Total Pos = 8.25
+Total Neg = 10.875
+---------------------------------------------------------------------------

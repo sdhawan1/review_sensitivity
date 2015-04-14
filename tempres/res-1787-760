@@ -1,0 +1,42 @@
+0. Copyright 1999 Natha                 ... pos = 0.625 	neg = 1.625
+1. Several thousand yea                 ... pos = 0.25  	neg = 0.0  
+2. Imhotep is still ali                 ... pos = 0.625 	neg = 0.125
+3. He proceeds to unlea                 ... pos = 0.0   	neg = 0.125
+4. Anyone who takes Ste                 ... pos = 0.0   	neg = 0.5  
+5. This is not a seriou                 ... pos = 0.0   	neg = 0.125
+6. It's a two-hour joke                 ... pos = 0.0   	neg = 0.25 
+7. It's also relentless                 ... pos = 0.125 	neg = 0.0  
+8. Purists will agree t                 ... pos = 1.75  	neg = 1.25 
+9. You see, Stephen Som                 ... pos = 1.0   	neg = 0.5  
+10. So many horror films                ... pos = 0.5   	neg = 0.75 
+11. The Mummy is a film                 ... pos = 0.0   	neg = 0.875
+12. It also features gle                ... pos = 0.5   	neg = 0.125
+13. " would not have bee                ... pos = 0.25  	neg = 0.125
+14. But I can't avoid ad                ... pos = 0.75  	neg = 0.0  
+15. Speaking of dust, Th                ... pos = 0.0   	neg = 0.125
+16. There is so much dir                ... pos = 0.125 	neg = 0.375
+17. In fact, one of the                 ... pos = 0.0   	neg = 0.25 
+18. The characters are c                ... pos = 1.375 	neg = 0.0  
+19. The Mummy is a loose                ... pos = 0.375 	neg = 0.125
+20. I can recommend this                ... pos = 1.625 	neg = 1.25 
+21. The cast, too, is in                ... pos = 0.0   	neg = 0.625
+22. Brendan Fraser, an a                ... pos = 0.875 	neg = 0.875
+23. Rachel Weisz, playin                ... pos = 1.375 	neg = 0.5  
+24. John Hannah is on ha                ... pos = 0.0   	neg = 0.125
+25. Kevin J. O'Connor, w                ... pos = 0.375 	neg = 0.125
+26. There are parts in T                ... pos = 0.5   	neg = 0.0  
+27. The hissing cat is o                ... pos = 0.0   	neg = 0.25 
+28. Sommers makes the mo                ... pos = 0.5   	neg = 0.25 
+29. "  The film is adequ                ... pos = 0.75  	neg = 0.375
+30. On the whole, howeve                ... pos = 0.375 	neg = 0.125
+31. That, I believe, wil                ... pos = 0.25  	neg = 0.125
+32. The Mummy had a good                ... pos = 0.75  	neg = 0.125
+33. Fans going in expect                ... pos = 0.125 	neg = 0.125
+34. I wasn't disappointe                ... pos = 0.625 	neg = 0.375
+35. And though I believe                ... pos = 2.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1787-760 is Positive         ... pos = 18.5  	neg = 12.625
+Overall score of document
+Total Pos = 18.5
+Total Neg = 12.625
+---------------------------------------------------------------------------

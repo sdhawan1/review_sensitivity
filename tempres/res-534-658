@@ -1,0 +1,41 @@
+0. Written and Directed                 ... pos = 0.125 	neg = 0.125
+1. The movie is a colle                 ... pos = 0.625 	neg = 0.75 
+2. It is not so much ab                 ... pos = 0.125 	neg = 0.25 
+3. Malick created poetr                 ... pos = 0.0   	neg = 0    
+4. The question is: Is                  ... pos = 0.75  	neg = 1.0  
+5. Unfortunately, I'm n                 ... pos = 0.75  	neg = 0.875
+6. I didn't enjoy the m                 ... pos = 0.75  	neg = 0.0  
+7. I have to be honest.                 ... pos = 0.375 	neg = 0.125
+8. That's not say that                  ... pos = 1.0   	neg = 0.0  
+9. I didn't enjoy the f                 ... pos = 0.75  	neg = 0.75 
+10. What insights did I                 ... pos = 0.125 	neg = 0.0  
+11. None, and it took th                ... pos = 0.125 	neg = 0.0  
+12. Malick uses the war                 ... pos = 0.25  	neg = 0.0  
+13. It wasn't so much ab                ... pos = 1.0   	neg = 0.0  
+14. Each character had m                ... pos = 1.0   	neg = 0.125
+15. Lines that didn't de                ... pos = 0.125 	neg = 0.25 
+16. All of those are top                ... pos = 0.25  	neg = 0.0  
+17. A battle would be wa                ... pos = 1.0   	neg = 0.375
+18. Is this what war fee                ... pos = 0.0   	neg = 0.125
+19. I don't know, I've n                ... pos = 0.0   	neg = 0.125
+20. Who am I to say?                    ... pos = 0.0   	neg = 0.125
+21. But by placing these                ... pos = 0.0   	neg = 0.125
+22. Rather than letting                 ... pos = 1.375 	neg = 1.125
+23. A few would have mad                ... pos = 0.375 	neg = 0.0  
+24. After awhile it seem                ... pos = 0.0   	neg = 0.125
+25. I just never felt th                ... pos = 0.0   	neg = 0.0  
+26. The movie looked goo                ... pos = 0.75  	neg = 0.0  
+27. Malick created a hea                ... pos = 0.125 	neg = 0.0  
+28. The battle scenes se                ... pos = 0.0   	neg = 0.25 
+29. The camera was frenz                ... pos = 0.0   	neg = 0.25 
+30. One of the moments t                ... pos = 0.0   	neg = 0.125
+31. I'm sure this is the                ... pos = 0.75  	neg = 0.5  
+32. I've been searching                 ... pos = 0.375 	neg = 0.25 
+33. Perhaps as I write m                ... pos = 0.0   	neg = 0.125
+34. Or perhaps I'm right                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-534-658 is Positive          ... pos = 13.25 	neg = 8.0  
+Overall score of document
+Total Pos = 13.25
+Total Neg = 8.0
+---------------------------------------------------------------------------

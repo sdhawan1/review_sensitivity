@@ -1,0 +1,42 @@
+0. RATING: *** 1/2 out                  ... pos = 0.125 	neg = 0.25 
+1. Although another ali                 ... pos = 0.125 	neg = 0.125
+2. The brilliant acting                 ... pos = 1.625 	neg = 0.125
+3. Director Barry Sonne                 ... pos = 0.125 	neg = 0.125
+4. The story behind MEN                 ... pos = 0.0   	neg = 0.375
+5. The Men in Black, or                 ... pos = 0.25  	neg = 0.125
+6. The MiB are responsi                 ... pos = 1.125 	neg = 0    
+7. A though job, indeed                 ... pos = 0.0   	neg = 0    
+8. The film opens with                  ... pos = 0.5   	neg = 0.0  
+9. Presumably, these "a                 ... pos = 0.25  	neg = 0.0  
+10. That is, until the M                ... pos = 0.0   	neg = 0.125
+11. Agent Kay selects a                 ... pos = 0.0   	neg = 0.125
+12. When the alien makes                ... pos = 1.75  	neg = 0.625
+13. The device, describe                ... pos = 0.0   	neg = 0.125
+14. >From here, we are i                ... pos = 0.875 	neg = 0.0  
+15. Edwards, a police of                ... pos = 0.0   	neg = 0.125
+16. The criminal gives a                ... pos = 2.375 	neg = 0.0  
+17. Edwards continues to                ... pos = 0.875 	neg = 0.125
+18. Edwards doesn't take                ... pos = 1.0   	neg = 0.625
+19. Back at the police s                ... pos = 0.0   	neg = 0.0  
+20. He informs Edwards t                ... pos = 0.25  	neg = 0.5  
+21. He has Edwards ident                ... pos = 0.125 	neg = 0.0  
+22. Edwards arrives and                 ... pos = 0.25  	neg = 0.125
+23. After goofing up for                ... pos = 0.125 	neg = 0.75 
+24. In the meantime, an                 ... pos = 0.875 	neg = 0.0  
+25. Edgar (Vincent D'Ono                ... pos = 0.5   	neg = 0.125
+26. The "bug", as he is                 ... pos = 0.375 	neg = 0.25 
+27. And it up to the MiB                ... pos = 0.0   	neg = 0.0  
+28. MEN IN BLACK delight                ... pos = 0.75  	neg = 0.125
+29. The special effects                 ... pos = 1.0   	neg = 0.375
+30. Screenwriter Ed Solo                ... pos = 0.375 	neg = 0.0  
+31. All ages will enjoy                 ... pos = 0.5   	neg = 0    
+32. It is an extremely f                ... pos = 0.875 	neg = 0.25 
+33. Although it runs a v                ... pos = 1.625 	neg = 0.125
+34. The ending of the fi                ... pos = 1.75  	neg = 0.125
+35. A sequel is already                 ... pos = 0.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-917-97 is Positive           ... pos = 20.625 	neg = 6.375
+Overall score of document
+Total Pos = 20.625
+Total Neg = 6.375
+---------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+0. When I first heard t                 ... pos = 0.125 	neg = 0.125
+1. '  Starring Costner?                 ... pos = 0     	neg = 0.0  
+2. God help us!                         ... pos = 0.0   	neg = 0.0  
+3. "  When I found out                  ... pos = 0.0   	neg = 0.125
+4. '  Please, God, make                 ... pos = 0     	neg = 0.0  
+5. ". As it turns out,                  ... pos = 0.125 	neg = 0.375
+6. Despite being set in                 ... pos = 1.75  	neg = 0.125
+7. The setting, however                 ... pos = 1.0   	neg = 0.0  
+8. The struggle of a de                 ... pos = 1.25  	neg = 0.125
+9. Costner's nameless c                 ... pos = 1.25  	neg = 0.25 
+10. Our hero escapes and                ... pos = 0.5   	neg = 0.0  
+11. Taking the uniform a                ... pos = 0.25  	neg = 0.625
+12. "  He is shocked at                 ... pos = 0.875 	neg = 0.125
+13. One young disciple,                 ... pos = 0.375 	neg = 0.0  
+14. Ford spreads The Pos                ... pos = 1.125 	neg = 0.0  
+15. As war breaks out be                ... pos = 0.875 	neg = 0.0  
+16. His lie of the Resto                ... pos = 0.25  	neg = 0    
+17. "Postman" is an odd                 ... pos = 1.375 	neg = 0.25 
+18. What could have been                ... pos = 0.625 	neg = 0.75 
+19. Tate is the stand-ou                ... pos = 0.125 	neg = 0.125
+20. Ford Lincoln Mercury                ... pos = 2.5   	neg = 0.125
+21. His performance sell                ... pos = 0.0   	neg = 0.0  
+22. Interestingly, as Ta                ... pos = 1.375 	neg = 0.375
+23. Olivia Williams make                ... pos = 1.0   	neg = 0.0  
+24. When they first meet                ... pos = 0.25  	neg = 0.75 
+25. Predictably, the hus                ... pos = 0.5   	neg = 0.25 
+26. However, their relat                ... pos = 1.875 	neg = 0    
+27. "The Postman" is Cos                ... pos = 0.375 	neg = 0.125
+28. Perhaps that alone g                ... pos = 0.375 	neg = 0    
+29. .                                   ... pos = 0     	neg = 0    
+30. . . .                               ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4039-1265 is Positive        ... pos = 20.125 	neg = 4.625
+Overall score of document
+Total Pos = 20.125
+Total Neg = 4.625
+---------------------------------------------------------------------------

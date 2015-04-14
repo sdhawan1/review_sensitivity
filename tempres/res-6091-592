@@ -1,0 +1,36 @@
+0. ---A copy of this re                 ... pos = 1.0   	neg = 0.5  
+1. At the end of two ho                 ... pos = 1.5   	neg = 0.0  
+2. Rather, you come awa                 ... pos = 1.375 	neg = 0.0  
+3. "Hello, I am Andy an                 ... pos = 0.0   	neg = 0.125
+4. I wish it was better                 ... pos = 0.25  	neg = 0.125
+5. Soon you  learn that                 ... pos = 0.125 	neg = 0.375
+6. Credits role, you  a                 ... pos = 0.75  	neg = 0.0  
+7. Anyone that gets  up                 ... pos = 0.5   	neg = 0.25 
+8. Soon Andy is back on                 ... pos = 0.375 	neg = 0.125
+9. Kaufman's roots are                  ... pos = 0.25  	neg = 0.0  
+10. Years later Kaufman                 ... pos = 1.0   	neg = 0.125
+11. Tapping his guitar                  ... pos = 0.0   	neg = 0.0  
+12. Andy returns with a                 ... pos = 0.25  	neg = 0.125
+13. Like many stars, Kau                ... pos = 0.0   	neg = 0.125
+14. Agent George Shapiro                ... pos = 0.5   	neg = 0.75 
+15. Kaufman begins to pe                ... pos = 0.875 	neg = 0.0  
+16. Whether it be wrestl                ... pos = 0.125 	neg = 0.125
+17. But everything that                 ... pos = 0.375 	neg = 0.0  
+18. Academy Award winnin                ... pos = 1.25  	neg = 0.0  
+19. Here is  joined by s                ... pos = 1.0   	neg = 0.25 
+20. There is little doub                ... pos = 1.125 	neg = 0.5  
+21. The other person who                ... pos = 0.125 	neg = 0.25 
+22. Once considered a fu                ... pos = 1.5   	neg = 0.0  
+23. Much like Robin  Wil                ... pos = 1.625 	neg = 0.25 
+24. Andy Kaufman probabl                ... pos = 0.0   	neg = 0    
+25. Some people are of t                ... pos = 2.0   	neg = 0.25 
+26. Regardless,  Kaufman                ... pos = 0.5   	neg = 0.25 
+27. This film will likel                ... pos = 0.375 	neg = 0.0  
+28. Although Man on the                 ... pos = 1.75  	neg = 0.25 
+29. Andy Kaufman aimed t                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6091-592 is Positive         ... pos = 20.75 	neg = 4.75 
+Overall score of document
+Total Pos = 20.75
+Total Neg = 4.75
+---------------------------------------------------------------------------

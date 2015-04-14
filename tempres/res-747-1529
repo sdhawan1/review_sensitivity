@@ -1,0 +1,24 @@
+0. THE FULL MONTY is a                  ... pos = 0.625 	neg = 0.5  
+1. It's written and dir                 ... pos = 0.0   	neg = 0.0  
+2. How did this movie w                 ... pos = 0.0   	neg = 0.0  
+3. Its been rumored tha                 ... pos = 0.25  	neg = 0.25 
+4. And to think its abo                 ... pos = 0.0   	neg = 0.0  
+5. Six steel workers wh                 ... pos = 0.25  	neg = 0.875
+6. Inspired by the succ                 ... pos = 0.25  	neg = 0.0  
+7. As the six team up t                 ... pos = 0.0   	neg = 0.25 
+8. For instance, Dave(M                 ... pos = 1.0   	neg = 0.875
+9. So when the night of                 ... pos = 0.25  	neg = 0.125
+10. As I said before thi                ... pos = 1.0   	neg = 0.125
+11. The writing and dire                ... pos = 0.25  	neg = 0.0  
+12. The acting is appeal                ... pos = 0.875 	neg = 0.125
+13. THE FULL MONTY recei                ... pos = 0.375 	neg = 0.0  
+14. Which left me wonder                ... pos = 0.375 	neg = 0.0  
+15. While THE FULL MONTY                ... pos = 1.5   	neg = 0.125
+16. Still, THE FULL MONT                ... pos = 0.375 	neg = 0.125
+17. -----== Posted via D                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-747-1529 is Positive         ... pos = 7.375 	neg = 3.375
+Overall score of document
+Total Pos = 7.375
+Total Neg = 3.375
+---------------------------------------------------------------------------

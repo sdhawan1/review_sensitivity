@@ -1,0 +1,33 @@
+0. Release Date: March                  ... pos = 1.5   	neg = 1.375
+1. It's interesting to                  ... pos = 0.0   	neg = 0.125
+2. There's a scene in P                 ... pos = 0.5   	neg = 0.5  
+3. Why?                                 ... pos = 0     	neg = 0.0  
+4. Because among the ma                 ... pos = 0.25  	neg = 0.0  
+5. Those three alone ha                 ... pos = 0.5   	neg = 0.125
+6. And perhaps that's t                 ... pos = 1.25  	neg = 0    
+7. There's a somewhat-d                 ... pos = 0.0   	neg = 0.25 
+8. The leads, Governor                  ... pos = 0.5   	neg = 0.0  
+9. Other main character                 ... pos = 1.375 	neg = 0.0  
+10. Finally, on the oppo                ... pos = 0.75  	neg = 0.625
+11. The range of the cas                ... pos = 1.125 	neg = 0.5  
+12. There is no word in                 ... pos = 0.0   	neg = 0.375
+13. But the story that a                ... pos = 0.875 	neg = 0.25 
+14. PRIMARY COLORS, the                 ... pos = 0.75  	neg = 0.5  
+15. The movie, which sta                ... pos = 1.125 	neg = 0.25 
+16. Of course, everythin                ... pos = 0.0   	neg = 0.625
+17. While that may be th                ... pos = 0.0   	neg = 0.75 
+18. Emma Thompson, too,                 ... pos = 0.375 	neg = 0.25 
+19. This movie is not th                ... pos = 0.375 	neg = 0.125
+20. Its running time of                 ... pos = 0.0   	neg = 0.5  
+21. There is no powerful                ... pos = 0.875 	neg = 0.875
+22. This may be a textbo                ... pos = 0.125 	neg = 0.25 
+23. When the only recent                ... pos = 1.125 	neg = 1.0  
+24. Nevertheless, it may                ... pos = 0.25  	neg = 0.125
+25. The bottom line is t                ... pos = 0.375 	neg = 0.125
+26. FINAL AWARD FOR "PRI                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1279-700 is Positive         ... pos = 14.5  	neg = 9.5  
+Overall score of document
+Total Pos = 14.5
+Total Neg = 9.5
+---------------------------------------------------------------------------

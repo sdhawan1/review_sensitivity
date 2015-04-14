@@ -1,0 +1,32 @@
+0. Max Fischer, a fifte                 ... pos = 0.75  	neg = 0.0  
+1. His classmates appla                 ... pos = 0.25  	neg = 0    
+2. And then Max wakes u                 ... pos = 0.0   	neg = 0.625
+3. A new lecturer is in                 ... pos = 0.75  	neg = 0.375
+4. Blume will become hi                 ... pos = 0.25  	neg = 0.25 
+5. The movie is anythin                 ... pos = 1.625 	neg = 0.375
+6. Max's grades are dro                 ... pos = 0.375 	neg = 0.0  
+7. (His favourite is Dr                 ... pos = 0.75  	neg = 0.25 
+8. ) Rushmore is not so                 ... pos = 0.125 	neg = 0.125
+9. No action better dem                 ... pos = 1.875 	neg = 1.0  
+10. Rosemary is a few ye                ... pos = 1.625 	neg = 0.25 
+11. The film features a                 ... pos = 1.375 	neg = 0.0  
+12. (Max attends Rushmor                ... pos = 0.0   	neg = 0.0  
+13. ) One of the real re                ... pos = 0.5   	neg = 0.125
+14. His comedy here is s                ... pos = 1.125 	neg = 0.75 
+15. One scene in particu                ... pos = 0.0   	neg = 0.25 
+16. Not to give Schwartz                ... pos = 0.0   	neg = 0.0  
+17. Where did this guy c                ... pos = 0     	neg = 0.0  
+18. Schwartzman's perfor                ... pos = 0.375 	neg = 0.375
+19. (The answer is, "no,                ... pos = 0.0   	neg = 0.125
+20. ) Further research u                ... pos = 0.375 	neg = 0.125
+21. No other member of S                ... pos = 0.25  	neg = 0.25 
+22. He has none of DiCap                ... pos = 1.0   	neg = 0.0  
+23. Congratulations to A                ... pos = 1.5   	neg = 0.125
+24. (Though I was disapp                ... pos = 0.375 	neg = 0.875
+25. ) If there's an adje                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1299-1545 is Positive        ... pos = 15.375 	neg = 6.5  
+Overall score of document
+Total Pos = 15.375
+Total Neg = 6.5
+---------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+0. Three out of four ex                 ... pos = 0.125 	neg = 0.5  
+1. .                                    ... pos = 0     	neg = 0    
+2. .                                    ... pos = 0     	neg = 0    
+3. " (you can figure ou                 ... pos = 0.0   	neg = 0.125
+4. My brain doesn't wor                 ... pos = 0.75  	neg = 0.0  
+5. At least, at the scr                 ... pos = 0.0   	neg = 0.0  
+6. All the bewildered l                 ... pos = 0.125 	neg = 0.375
+7. For this flick is a                  ... pos = 0.375 	neg = 1.0  
+8. Don't mistake me, he                 ... pos = 0.0   	neg = 0.75 
+9. .                                    ... pos = 0     	neg = 0    
+10. .                                   ... pos = 0     	neg = 0    
+11. in a sort of straigh                ... pos = 0.5   	neg = 0.625
+12. Make no mistake, thi                ... pos = 1.875 	neg = 1.125
+13. Sometimes more than                 ... pos = 0.0   	neg = 0    
+14. Everyone, that is, e                ... pos = 0.0   	neg = 0.625
+15. Without giving too m                ... pos = 0.375 	neg = 0.625
+16. Tudeski is on the ru                ... pos = 0.0   	neg = 0.25 
+17. His neighbor is a Ch                ... pos = 0.0   	neg = 0.125
+18. Sophie is, to be kin                ... pos = 0.0   	neg = 0.75 
+19. Oz recognizes the hi                ... pos = 0.0   	neg = 0.0  
+20. The wife packs him o                ... pos = 0.0   	neg = 0.625
+21. Oz has no intention                 ... pos = 0.0   	neg = 0.375
+22. Which brings us to T                ... pos = 0.0   	neg = 0.0  
+23. Cynthia is considere                ... pos = 0.125 	neg = 0.25 
+24. Finally, there's Oz'                ... pos = 2.375 	neg = 0.0  
+25. The Whole Nine Yards                ... pos = 0.0   	neg = 0.25 
+26. There are the occasi                ... pos = 2.0   	neg = 1.5  
+27. It is an in one ear                 ... pos = 0.0   	neg = 0.125
+28. Matthew Perry's prat                ... pos = 0.625 	neg = 0.5  
+29. On average, a first                 ... pos = 0.25  	neg = 0.0  
+30. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+31. The Whole Nine Yards                ... pos = 0.625 	neg = 0.125
+32. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+33. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+34. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-487-912 is Negative          ... pos = 10.5  	neg = 10.875
+Overall score of document
+Total Pos = 10.5
+Total Neg = 10.875
+---------------------------------------------------------------------------

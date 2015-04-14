@@ -1,0 +1,50 @@
+0. Starring-Giovanni Ri                 ... pos = 0.625 	neg = 0.625
+1. The broker, a new re                 ... pos = 0.375 	neg = 0.0  
+2. Marlin, is 19-year o                 ... pos = 0.0   	neg = 0.125
+3. Seth is urging Harry                 ... pos = 0.375 	neg = 0.375
+4. Harry, who has a rel                 ... pos = 0.625 	neg = 0.25 
+5. But Seth is a skille                 ... pos = 1.125 	neg = 0.125
+6. This environment set                 ... pos = 0.0   	neg = 0.0  
+7. Seth was not always                  ... pos = 0.625 	neg = 0.125
+8. After pushing aside                  ... pos = 0.625 	neg = 0.375
+9. As of now, Seth is r                 ... pos = 0.0   	neg = 0.125
+10. This is an entrepren                ... pos = 0.5   	neg = 0.125
+11. With dreams of once                 ... pos = 0.375 	neg = 0.125
+12. A lesser-known firm                 ... pos = 0.0   	neg = 0.0  
+13. Marlin is searching                 ... pos = 0.375 	neg = 0.125
+14. Scenes in which Seth                ... pos = 1.25  	neg = 0.125
+15. He is taught to abid                ... pos = 0.5   	neg = 0.625
+16. Seth grows to enjoy                 ... pos = 1.5   	neg = 0.0  
+17. Like a junior `Wall                 ... pos = 0.625 	neg = 0.0  
+18. But it's the human s                ... pos = 0.0   	neg = 0.0  
+19. Seth's rough relatio                ... pos = 0.875 	neg = 1.5  
+20. Above all, `Boiler R                ... pos = 0.0   	neg = 0.625
+21. Ribisi (the comic re                ... pos = 1.25  	neg = 0.375
+22. Nia Long is excellen                ... pos = 1.25  	neg = 0.5  
+23. Marlin, and Ron Rifk                ... pos = 0.0   	neg = 0    
+24. Confidential') adds                 ... pos = 0.625 	neg = 0    
+25. It's also nice to se                ... pos = 1.0   	neg = 0.125
+26. But the name you'll                 ... pos = 0.0   	neg = 0.25 
+27. Along with an impres                ... pos = 0.125 	neg = 0.778
+28. Who is this guy, you                ... pos = 0.0   	neg = 0.125
+29. Before February 2000                ... pos = 0.25  	neg = 0.5  
+30. Now, it appears as i                ... pos = 0.125 	neg = 0.125
+31. The actor certainly                 ... pos = 0.375 	neg = 0.0  
+32. Although Diesel is t                ... pos = 1.125 	neg = 0.125
+33. The level of excitem                ... pos = 0.125 	neg = 0.25 
+34. Debut director Ben Y                ... pos = 0.125 	neg = 0.875
+35. There are a few big                 ... pos = 0.25  	neg = 0.0  
+36. The rap soundtrack g                ... pos = 0.125 	neg = 1.0  
+37. But it's still one b                ... pos = 0.25  	neg = 0.125
+38. In one priceless exa                ... pos = 0.25  	neg = 0.625
+39. Disgusted with his a                ... pos = 0.75  	neg = 0.0  
+40. I'm no good at sales                ... pos = 0.875 	neg = 0.25 
+41. It just makes good b                ... pos = 0.75  	neg = 0.0  
+42. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+43. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1960-693 is Positive         ... pos = 20.0  	neg = 11.403
+Overall score of document
+Total Pos = 20.0
+Total Neg = 11.403
+---------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+0. Written by: Marc Nor                 ... pos = 0.25  	neg = 0.25 
+1. Even women's roles a                 ... pos = 0.25  	neg = 0.0  
+2. A girl named Viola (                 ... pos = 0.5   	neg = 0.25 
+3. Meanwhile, separated                 ... pos = 0.625 	neg = 0.0  
+4. He falls in love wit                 ... pos = 0.625 	neg = 0.375
+5. Viola loves Will in                  ... pos = 0.75  	neg = 0.0  
+6. Will love prevail?                   ... pos = 0.75  	neg = 0    
+7. Will Romeo and Julie                 ... pos = 0.125 	neg = 0.125
+8. Opinion: A movie whe                 ... pos = 2.0   	neg = 0.625
+9. Gwyneth Paltrow exce                 ... pos = 0.5   	neg = 0    
+10. Viola's schemes, alo                ... pos = 1.75  	neg = 0.0  
+11. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1433-416 is Positive         ... pos = 8.125 	neg = 1.75 
+Overall score of document
+Total Pos = 8.125
+Total Neg = 1.75
+---------------------------------------------------------------------------

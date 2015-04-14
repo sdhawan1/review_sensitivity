@@ -1,0 +1,53 @@
+0. While going into thi                 ... pos = 0.0   	neg = 0.25 
+1. "  Never did I think                 ... pos = 0.0   	neg = 0.125
+2. The trailers made th                 ... pos = 0.75  	neg = 0.875
+3. I was worried that t                 ... pos = 0.25  	neg = 1.625
+4. Because of the high                  ... pos = 0.125 	neg = 0.25 
+5. The entire film is e                 ... pos = 0.625 	neg = 0.25 
+6. I will tell you this                 ... pos = 0.125 	neg = 0.0  
+7. Laurence Fishburne i                 ... pos = 0.0   	neg = 0.75 
+8. He is one of few in                  ... pos = 0.0   	neg = 0.75 
+9. Trinity, played by C                 ... pos = 0.0   	neg = 0.125
+10. This group is out to                ... pos = 0.0   	neg = 0.125
+11. They believe "the on                ... pos = 0.125 	neg = 0.125
+12. In their quest to ov                ... pos = 0.875 	neg = 0.0  
+13. Right now, it must s                ... pos = 1.125 	neg = 0.625
+14. The special effects                 ... pos = 1.0   	neg = 0.25 
+15. Some of the visual e                ... pos = 0.375 	neg = 0.25 
+16. They are very realis                ... pos = 1.625 	neg = 0    
+17. Particularly, in a s                ... pos = 1.625 	neg = 0.875
+18. In many films, the f                ... pos = 1.75  	neg = 0.375
+19. Not only the effects                ... pos = 1.125 	neg = 0.375
+20. The sound and effect                ... pos = 0.5   	neg = 0.375
+21. The music is upbeat                 ... pos = 1.75  	neg = 0.25 
+22. The acting in The Ma                ... pos = 0.0   	neg = 0.125
+23. The characters of Ne                ... pos = 0.875 	neg = 0.0  
+24. They are hardly deve                ... pos = 0.5   	neg = 0.0  
+25. Keanu Reeves is very                ... pos = 1.75  	neg = 0.125
+26. Although Trinity is                 ... pos = 1.75  	neg = 0.25 
+27. Laurence Fisburne's                 ... pos = 1.625 	neg = 0.125
+28. He explained what th                ... pos = 0.5   	neg = 0.25 
+29. The character of Mor                ... pos = 1.5   	neg = 0.125
+30. The setting in The M                ... pos = 0.625 	neg = 0.0  
+31. Places contained out                ... pos = 1.125 	neg = 0.0  
+32. I would not be surpr                ... pos = 0.75  	neg = 0.125
+33. It certainly deserve                ... pos = 1.0   	neg = 0    
+34. The costume design i                ... pos = 0.25  	neg = 0.125
+35. Neo, Trinity, and Mo                ... pos = 0.625 	neg = 0.0  
+36. The agents all wear                 ... pos = 0.0   	neg = 0.5  
+37. They almost seem lik                ... pos = 0.125 	neg = 0.25 
+38. Just to give you som                ... pos = 1.125 	neg = 0.0  
+39. Empire Strikes Back,                ... pos = 0.75  	neg = 0.625
+40. Not only is it a gre                ... pos = 0.375 	neg = 0.25 
+41. The action sequences                ... pos = 0.5   	neg = 0.0  
+42. With the special eff                ... pos = 0.25  	neg = 0.25 
+43. The action sequences                ... pos = 0.25  	neg = 0.0  
+44. The Matrix is an ins                ... pos = 0.75  	neg = 0.125
+45. No science fiction m                ... pos = 1.5   	neg = 0.125
+46. The Bottom Line- Jus                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5409-864 is Positive         ... pos = 32.25 	neg = 12.125
+Overall score of document
+Total Pos = 32.25
+Total Neg = 12.125
+---------------------------------------------------------------------------

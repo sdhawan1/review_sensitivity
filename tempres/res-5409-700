@@ -1,0 +1,32 @@
+0. Release Date: March                  ... pos = 0.875 	neg = 0.25 
+1. There is no question                 ... pos = 1.625 	neg = 0.125
+2. Whereas classic adve                 ... pos = 1.5   	neg = 0.125
+3. The latest in this v                 ... pos = 2.25  	neg = 0.375
+4. Unlike many sci-fi m                 ... pos = 0.25  	neg = 0.5  
+5. It runs 135 minutes                  ... pos = 0.875 	neg = 0.375
+6. Contrary to popular                  ... pos = 0.75  	neg = 0.0  
+7. In this regard, the                  ... pos = 0.75  	neg = 0.125
+8. With its flashy mass                 ... pos = 0.0   	neg = 0.125
+9. The script is charac                 ... pos = 0.5   	neg = 0.625
+10. But, like the card s                ... pos = 0.375 	neg = 0.375
+11. The viewers don't ca                ... pos = 0.25  	neg = 0.75 
+12. And right around the                ... pos = 0.25  	neg = 0.0  
+13. As the movie explain                ... pos = 1.375 	neg = 0.5  
+14. Billions of human be                ... pos = 0.25  	neg = 0.125
+15. Only a select group                 ... pos = 0.625 	neg = 0.125
+16. Morpheus and his cre                ... pos = 0.875 	neg = 0.125
+17. The cast plays out t                ... pos = 0.5   	neg = 0.0  
+18. The set design is ve                ... pos = 1.125 	neg = 0.5  
+19. The costumes, as wel                ... pos = 0.0   	neg = 0.125
+20. For instance, the ma                ... pos = 0.0   	neg = 0.0  
+21. The casting cannot b                ... pos = 0.25  	neg = 0.375
+22. Supports in Carrie-A                ... pos = 0.5   	neg = 0    
+23. One of the best comp                ... pos = 1.25  	neg = 0.25 
+24. The Alex Proyas film                ... pos = 0.375 	neg = 0.375
+25. The better picture b                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5409-700 is Positive         ... pos = 18.0  	neg = 6.375
+Overall score of document
+Total Pos = 18.0
+Total Neg = 6.375
+---------------------------------------------------------------------------

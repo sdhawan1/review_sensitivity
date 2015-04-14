@@ -1,0 +1,50 @@
+0. I saw the first trai                 ... pos = 0.125 	neg = 0.0  
+1. I looked forward to                  ... pos = 0.0   	neg = 0.0  
+2. "  Hmmm.                             ... pos = 0     	neg = 0    
+3. I decided to read th                 ... pos = 0.0   	neg = 0.0  
+4. Despite the fact tha                 ... pos = 1.625 	neg = 0.25 
+5. I was half right.                    ... pos = 0.0   	neg = 0.125
+6. The film concerns th                 ... pos = 0.625 	neg = 0.25 
+7. (In the book we lear                 ... pos = 0.0   	neg = 0.0  
+8. Public Service is sy                 ... pos = 0.0   	neg = 0.125
+9. One of them (played                  ... pos = 0.0   	neg = 0.25 
+10. Johnny Rico (played                 ... pos = 1.625 	neg = 0.25 
+11. his girlfriend Carme                ... pos = 0.125 	neg = 0.375
+12. They all three take                 ... pos = 0.875 	neg = 0.0  
+13. In between we have R                ... pos = 0.125 	neg = 0.0  
+14. In the novel, we lea                ... pos = 1.25  	neg = 0.75 
+15. It's an element that                ... pos = 0.0   	neg = 0.0  
+16. During his training,                ... pos = 0.0   	neg = 0.125
+17. Carman on the other                 ... pos = 0.25  	neg = 1.0  
+18. She graduates early                 ... pos = 0.0   	neg = 0.125
+19. Joining Johnny in th                ... pos = 2.375 	neg = 0.375
+20. Finally, after 55 mi                ... pos = 0.0   	neg = 0.0  
+21. The Earth forces ass                ... pos = 1.5   	neg = 0.125
+22. The special effects                 ... pos = 1.0   	neg = 1.375
+23. " which usually happ                ... pos = 0.0   	neg = 0.0  
+24. The bugs were creepy                ... pos = 0.0   	neg = 1.0  
+25. The space scenes are                ... pos = 0.375 	neg = 0.0  
+26. The bugs were overse                ... pos = 0.5   	neg = 0.125
+27. The action in the la                ... pos = 0.125 	neg = 0.125
+28. A lot of the action                 ... pos = 1.375 	neg = 1.125
+29. If I hadn't read the                ... pos = 0.125 	neg = 0.0  
+30. I think that Paul Ve                ... pos = 0.0   	neg = 0.125
+31. In an interview with                ... pos = 0.0   	neg = 0.125
+32. "  The same thing wa                ... pos = 0.0   	neg = 0.125
+33. Because Verhoven was                ... pos = 0.0   	neg = 0.125
+34. "  Furthermore, the                 ... pos = 0.25  	neg = 1.375
+35. "  A better choice f                ... pos = 0.0   	neg = 0.375
+36. Verhoven has too man                ... pos = 1.0   	neg = 2.375
+37. I believe Total Reca                ... pos = 0.25  	neg = 0.25 
+38. He's out to shock or                ... pos = 0.0   	neg = 0.125
+39. Starship Troopers, h                ... pos = 0.75  	neg = 0.375
+40. The same factors tha                ... pos = 0.75  	neg = 0.0  
+41. I probably should no                ... pos = 0.25  	neg = 1.0  
+42. The second time is w                ... pos = 0.75  	neg = 0.375
+43. Out of the $3.50 I p                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1997-674 is Positive         ... pos = 18.0  	neg = 14.75
+Overall score of document
+Total Pos = 18.0
+Total Neg = 14.75
+---------------------------------------------------------------------------

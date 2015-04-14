@@ -1,0 +1,36 @@
+0. "Psycho" is cinemati                 ... pos = 0.375 	neg = 0.125
+1. Suspenseful, scary,                  ... pos = 0.75  	neg = 0.875
+2. With an unpredictabl                 ... pos = 0.375 	neg = 0.625
+3. It's extremely hard                  ... pos = 1.375 	neg = 0.75 
+4. The most one can do                  ... pos = 0.0   	neg = 0.125
+5. But so what if all o                 ... pos = 0.625 	neg = 0.0  
+6. It's not a remake, i                 ... pos = 0.0   	neg = 0.0  
+7. At first I was afrai                 ... pos = 0.125 	neg = 0.5  
+8. At least then they'd                 ... pos = 0.625 	neg = 0.0  
+9. Now I wonder why I p                 ... pos = 0.75  	neg = 0.375
+10. I do not in any way                 ... pos = 0.125 	neg = 0.125
+11. The only Hitchcock f                ... pos = 0.0   	neg = 0.125
+12. Anything else I know                ... pos = 0.0   	neg = 0.0  
+13. "  However superfici                ... pos = 0.75  	neg = 0.875
+14. Even the sets, the c                ... pos = 0.125 	neg = 0.125
+15. I don't know if it w                ... pos = 0.5   	neg = 0.25 
+16. Norman Bates's world                ... pos = 0.125 	neg = 0.125
+17. You could literally                 ... pos = 0.0   	neg = 0.125
+18. Here, Vince Vaughn's                ... pos = 0.0   	neg = 0.25 
+19. Instead, this Bates                 ... pos = 0.5   	neg = 0.625
+20. The same goes for An                ... pos = 0.875 	neg = 0.625
+21. The shower scene wou                ... pos = 1.5   	neg = 0.125
+22. In short, the movie                 ... pos = 0.0   	neg = 0.125
+23. I couldn't see the p                ... pos = 0.0   	neg = 0.0  
+24. While those that hav                ... pos = 0.125 	neg = 0.625
+25. When the initial thr                ... pos = 0.625 	neg = 1.375
+26. Gus Van Sant, a most                ... pos = 0.75  	neg = 0.125
+27. Well, at least they                 ... pos = 0.0   	neg = 0.0  
+28. * The dates in the b                ... pos = 0.375 	neg = 0.125
+29. I think it's rather                 ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-6044-977 is Positive         ... pos = 11.875 	neg = 9.375
+Overall score of document
+Total Pos = 11.875
+Total Neg = 9.375
+---------------------------------------------------------------------------

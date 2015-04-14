@@ -1,0 +1,56 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.125
+1. The concept of the m                 ... pos = 0.25  	neg = 0.625
+2. At the end of the mo                 ... pos = 0.5   	neg = 0.0  
+3. And wouldn't that be                 ... pos = 0.0   	neg = 0.125
+4. You have this man wh                 ... pos = 0.0   	neg = 1.0  
+5. He escapes to find t                 ... pos = 0.125 	neg = 0.0  
+6. Hey, it might not be                 ... pos = 0.0   	neg = 0.75 
+7. The heart of The Tru                 ... pos = 0.25  	neg = 0.125
+8. We see a lot of the                  ... pos = 0.0   	neg = 0.0  
+9. In fact, great big c                 ... pos = 0.5   	neg = 0.625
+10. (Would they really n                ... pos = 0.0   	neg = 0.125
+11. )  Truman Burbank is                ... pos = 0.0   	neg = 0.75 
+12. The most colorful th                ... pos = 0.875 	neg = 0.125
+13. The mantra of sitcom                ... pos = 1.0   	neg = 0.25 
+14. I don't myself agree                ... pos = 0.0   	neg = 0.0  
+15. Truman is utterly, t                ... pos = 0.125 	neg = 0.25 
+16. You'd think that wit                ... pos = 1.125 	neg = 0.25 
+17. There just doesn't s                ... pos = 0.125 	neg = 0.125
+18. We see people around                ... pos = 0.5   	neg = 0.125
+19. And because the TV s                ... pos = 0.375 	neg = 0.0  
+20. The Truman Show, lik                ... pos = 0.0   	neg = 0.875
+21. Anyone who's watched                ... pos = 0.625 	neg = 1.25 
+22. "  What's bothering                 ... pos = 0.0   	neg = 0.5  
+23. Just as Murder, She                 ... pos = 1.0   	neg = 0.0  
+24. Which it does, but i                ... pos = 0.25  	neg = 0.375
+25. You want comedy?                    ... pos = 0     	neg = 0.125
+26. Well, outside of Tru                ... pos = 0.125 	neg = 0.0  
+27. Carrey has a couple                 ... pos = 0.0   	neg = 1.125
+28. Laura Linney plays T                ... pos = 0.125 	neg = 0.375
+29. You want drama?                     ... pos = 0.0   	neg = 0.125
+30. There's a couple of                 ... pos = 0.625 	neg = 0.0  
+31. Without giving away                 ... pos = 0.375 	neg = 0.0  
+32. We jump from this to                ... pos = 0.0   	neg = 0.375
+33. And then we jump bac                ... pos = 0.75  	neg = 0.0  
+34. If there's no comedy                ... pos = 0.0   	neg = 0.5  
+35. Maybe there's a mess                ... pos = 0.0   	neg = 0.625
+36. In Gattaca, like The                ... pos = 0.0   	neg = 0.25 
+37. As Gattaca plods on                 ... pos = 0.125 	neg = 0.0  
+38. Fair enough.                        ... pos = 0     	neg = 0.0  
+39. The message from The                ... pos = 0.0   	neg = 0.125
+40. It's not nice to imp                ... pos = 0.0   	neg = 0.0  
+41. I know there are peo                ... pos = 0.75  	neg = 0.0  
+42. Fine.                               ... pos = 0.0   	neg = 0    
+43. I'm glad you enjoyed                ... pos = 0.375 	neg = 0    
+44. Me, I'm waiting for                 ... pos = 0.375 	neg = 0.0  
+45. It would almost have                ... pos = 0.0   	neg = 0.125
+46. Movie Reviews: http:                ... pos = 0     	neg = 0.125
+47. No jury in the world                ... pos = 0.0   	neg = 0.25 
+48. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+49. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5847-1045 is Negative        ... pos = 11.25 	neg = 12.5 
+Overall score of document
+Total Pos = 11.25
+Total Neg = 12.5
+---------------------------------------------------------------------------

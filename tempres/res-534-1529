@@ -1,0 +1,30 @@
+0. It was hard to watch                 ... pos = 0.625 	neg = 0.875
+1. ' Since both films w                 ... pos = 0.375 	neg = 0.25 
+2. While `A Thin Red Li                 ... pos = 0.625 	neg = 0.125
+3. The plot is very loo                 ... pos = 0.5   	neg = 0.125
+4. Sgt.                                 ... pos = 0     	neg = 0    
+5. Edward Welsh (Sean P                 ... pos = 0.0   	neg = 0.25 
+6. Capt.                                ... pos = 0     	neg = 0    
+7. James 'Bugger' Staro                 ... pos = 0.375 	neg = 0.125
+8. Lt. Col. Gordon Tall                 ... pos = 0.5   	neg = 0.25 
+9. The list could go on                 ... pos = 1.125 	neg = 0.0  
+10. There are also tons                 ... pos = 0.25  	neg = 0.5  
+11. That is the main pro                ... pos = 1.0   	neg = 0.5  
+12. There are just too m                ... pos = 1.125 	neg = 0.25 
+13. Since we don't know                 ... pos = 0.0   	neg = 0.0  
+14. There are other weak                ... pos = 0.25  	neg = 0.0  
+15. `A Thin Red Line' is                ... pos = 0.25  	neg = 0.75 
+16. Then there are the e                ... pos = 1.75  	neg = 0.0  
+17. This becomes tiresom                ... pos = 0.0   	neg = 0.25 
+18. Not just to focus ju                ... pos = 0.125 	neg = 0.125
+19. It's chock-full of g                ... pos = 0.75  	neg = 0.0  
+20. Also the cinematogra                ... pos = 1.75  	neg = 0.125
+21. While `A Thin Red Li                ... pos = 1.0   	neg = 0.125
+22. If you have a good a                ... pos = 0.875 	neg = 0.0  
+23. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-534-1529 is Positive         ... pos = 13.25 	neg = 4.625
+Overall score of document
+Total Pos = 13.25
+Total Neg = 4.625
+---------------------------------------------------------------------------

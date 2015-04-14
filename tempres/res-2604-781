@@ -1,0 +1,56 @@
+0. A frequent error is                  ... pos = 0.0   	neg = 0.75 
+1. A soldier commits ac                 ... pos = 0.0   	neg = 0.125
+2. A common criminal co                 ... pos = 0.125 	neg = 0.0  
+3. A terrorist employs                  ... pos = 0.0   	neg = 0.0  
+4. If the target nation                 ... pos = 0.375 	neg = 0    
+5. It is the fear resul                 ... pos = 0.375 	neg = 0.125
+6. Edward Zwick's THE S                 ... pos = 0.25  	neg = 0.25 
+7. You'd think the open                 ... pos = 0.0   	neg = 0.375
+8. Arab terrorists kill                 ... pos = 0.0   	neg = 0.0  
+9. However, unlike the                  ... pos = 0.25  	neg = 0.0  
+10. In retaliation, the                 ... pos = 0.375 	neg = 0    
+11. Unwittingly involved                ... pos = 0.375 	neg = 0.125
+12. While investigating                 ... pos = 0.0   	neg = 0.5  
+13. Generally, the FBI i                ... pos = 0.0   	neg = 0.625
+14. Even spies from othe                ... pos = 0.5   	neg = 1.0  
+15. Hubbard therefore fi                ... pos = 1.625 	neg = 0.25 
+16. The original tagline                ... pos = 0.0   	neg = 0.25 
+17. "  However true, it                 ... pos = 1.0   	neg = 0.375
+18. Revisiting the scena                ... pos = 0.5   	neg = 0.375
+19. Admittedly, the terr                ... pos = 1.25  	neg = 0.125
+20. ), but the basic pre                ... pos = 0.125 	neg = 0.125
+21. I liked the fact tha                ... pos = 1.25  	neg = 1.125
+22. It provides a very p                ... pos = 1.125 	neg = 0.375
+23. In fact, about halfw                ... pos = 0.625 	neg = 0.0  
+24. Although it may actu                ... pos = 0.0   	neg = 1.125
+25. Throughout, the film                ... pos = 1.375 	neg = 0.25 
+26. What results is a fa                ... pos = 1.25  	neg = 0.125
+27. It actually gets rat                ... pos = 2.0   	neg = 0.5  
+28. I don't know if it's                ... pos = 0.0   	neg = 0.0  
+29. This, combined with                 ... pos = 1.375 	neg = 0.0  
+30. Annette Bening gives                ... pos = 2.125 	neg = 0.125
+31. It's somewhat unfort                ... pos = 0.625 	neg = 0.375
+32. Bruce Willis is pret                ... pos = 0.125 	neg = 0.25 
+33. However, the tension                ... pos = 0.125 	neg = 0.125
+34. Notable is Tony Shal                ... pos = 0.0   	neg = 0.125
+35. The role calls for e                ... pos = 0.75  	neg = 0.5  
+36. Difficult to say the                ... pos = 0.25  	neg = 0.0  
+37. Perhaps best known f                ... pos = 1.875 	neg = 0.0  
+38. Whereas Denzel Washi                ... pos = 0.875 	neg = 0.5  
+39. I therefore found it                ... pos = 1.5   	neg = 0.0  
+40. Revell does a good j                ... pos = 0.0   	neg = 0.0  
+41. It's nowhere near as                ... pos = 0.0   	neg = 0.875
+42. Missteps in THE SIEG                ... pos = 0.25  	neg = 0.125
+43. For example, it's pr                ... pos = 0.0   	neg = 0.375
+44. Unfortunately, there                ... pos = 0.25  	neg = 0.875
+45. In the middle of the                ... pos = 0.125 	neg = 0.5  
+46. Verisimilitude reall                ... pos = 0.625 	neg = 0.0  
+47. The film also gets a                ... pos = 1.625 	neg = 0.25 
+48. A noble gesture, the                ... pos = 0.0   	neg = 0.25 
+49. These flaws are glar                ... pos = 1.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2604-781 is Positive         ... pos = 28.5  	neg = 14.375
+Overall score of document
+Total Pos = 28.5
+Total Neg = 14.375
+---------------------------------------------------------------------------

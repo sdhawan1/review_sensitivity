@@ -1,0 +1,24 @@
+0. A copy of this revie                 ... pos = 0.75  	neg = 0.5  
+1. The movie is an epic                 ... pos = 0.125 	neg = 0.125
+2. Based on the renowne                 ... pos = 0.625 	neg = 0.125
+3. Even more outrageous                 ... pos = 0.125 	neg = 0.375
+4. Anna is accepted by                  ... pos = 0.75  	neg = 0.125
+5. The class she has co                 ... pos = 0.5   	neg = 0.125
+6. The movie is a tale                  ... pos = 0.625 	neg = 0.25 
+7. A movie of such gran                 ... pos = 0.875 	neg = 0.0  
+8. Shot entirely in Mal                 ... pos = 1.625 	neg = 0.0  
+9. Director Andy Tennan                 ... pos = 0.25  	neg = 0.0  
+10. It is big  screen mo                ... pos = 0.125 	neg = 0.125
+11. For Jodie Foster thi                ... pos = 1.0   	neg = 0.25 
+12. Chow Yun-Fat has  co                ... pos = 0.25  	neg = 0.375
+13. " The unforgettable                 ... pos = 2.0   	neg = 0.125
+14. The  extras who play                ... pos = 1.625 	neg = 0.0  
+15. For two and half-hou                ... pos = 0.125 	neg = 0.0  
+16. The film isn't long;                ... pos = 0.0   	neg = 0.0  
+17. Because the movie  t                ... pos = 1.875 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-1867-592 is Positive         ... pos = 13.25 	neg = 3.25 
+Overall score of document
+Total Pos = 13.25
+Total Neg = 3.25
+---------------------------------------------------------------------------

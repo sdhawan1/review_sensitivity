@@ -1,0 +1,23 @@
+0. No one is what you t                 ... pos = 0.25  	neg = 0.375
+1. That is the basis of                 ... pos = 0.625 	neg = 0.125
+2. This psychological t                 ... pos = 0.5   	neg = 0.75 
+3. Which is too bad bec                 ... pos = 0.0   	neg = 1.25 
+4. Belive it, Steve Mar                 ... pos = 0.0   	neg = 1.25 
+5. He is the mystery ma                 ... pos = 0.5   	neg = 0.125
+6. Scott's character, J                 ... pos = 2.25  	neg = 0.625
+7. As his disappointmen                 ... pos = 0.375 	neg = 0.875
+8. The Spanish Prisoner                 ... pos = 1.125 	neg = 0.125
+9. But Michael Douglas                  ... pos = 0.875 	neg = 0.125
+10. As things get more a                ... pos = 0.0   	neg = 0.0  
+11. Though it is a good                 ... pos = 1.875 	neg = 0.375
+12. There are, of course                ... pos = 0.375 	neg = 0.75 
+13. The devices are  jus                ... pos = 0.25  	neg = 0.125
+14. But I have a feeling                ... pos = 0.625 	neg = 0.25 
+15. It just has that fee                ... pos = 0.0   	neg = 0.0  
+16. Comments, complaints                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1888-447 is Positive         ... pos = 9.625 	neg = 7.125
+Overall score of document
+Total Pos = 9.625
+Total Neg = 7.125
+---------------------------------------------------------------------------

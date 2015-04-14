@@ -1,0 +1,39 @@
+0. http://hometown.aol.                 ... pos = 0.125 	neg = 2.903
+1. Making a high budget                 ... pos = 0.75  	neg = 0.5  
+2. Hollywood frustrates                 ... pos = 2.875 	neg = 0.25 
+3. Deep Blue Sea is sup                 ... pos = 0.375 	neg = 0.625
+4. With today's technol                 ... pos = 1.625 	neg = 0.125
+5. If that's what you w                 ... pos = 0.625 	neg = 0.25 
+6. Go see The Blair Wit                 ... pos = 1.375 	neg = 0.25 
+7. Deep Blue Sea takes                  ... pos = 0.25  	neg = 1.0  
+8. Three deadly sharks                  ... pos = 0.25  	neg = 0.75 
+9. Russell Franklin (Sa                 ... pos = 0.25  	neg = 0.5  
+10. In result of the cur                ... pos = 0.25  	neg = 0.125
+11. "  The sharks can no                ... pos = 0.125 	neg = 0.125
+12. What results from a                 ... pos = 0.5   	neg = 0.25 
+13. It's not that hard H                ... pos = 0.0   	neg = 0.75 
+14. To make a good movie                ... pos = 3.625 	neg = 0.125
+15. It's not so difficul                ... pos = 0.5   	neg = 0.375
+16. Although the other 9                ... pos = 2.25  	neg = 0.375
+17. Other than that, Dee                ... pos = 0.25  	neg = 0.25 
+18. LL Cool J shines in                 ... pos = 1.625 	neg = 0.375
+19. Cool J puts feeling                 ... pos = 0.875 	neg = 0.0  
+20. LL Cool J, whose rea                ... pos = 0.625 	neg = 0.375
+21. Aside from Cool J's                 ... pos = 1.25  	neg = 0.25 
+22. Saffron Burrows, who                ... pos = 2.0   	neg = 0.0  
+23. Deep Blue Sea's scre                ... pos = 2.125 	neg = 0.625
+24. The screenplay featu                ... pos = 1.75  	neg = 0.125
+25.  On the positive si                ... pos = 0.375 	neg = 0.375
+26.  Once the main char                ... pos = 1.5   	neg = 0.375
+27. The special effects                 ... pos = 0.25  	neg = 1.25 
+28. They swim around as                 ... pos = 0.25  	neg = 0.625
+29. With today's wonderf                ... pos = 1.125 	neg = 0.25 
+30. The Bottom Line- A f                ... pos = 0.375 	neg = 0.0  
+31. Such strong potentia                ... pos = 0.5   	neg = 0.0  
+32. Sigh. . .                           ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3081-8 is Positive           ... pos = 30.625 	neg = 14.153
+Overall score of document
+Total Pos = 30.625
+Total Neg = 14.153
+---------------------------------------------------------------------------

@@ -1,0 +1,47 @@
+0. Basically, "Last Day                 ... pos = 0.0   	neg = 0.0  
+1. The people right in                  ... pos = 0.375 	neg = 0.125
+2. But I did want to se                 ... pos = 0.125 	neg = 0.125
+3. "The Spanish Prisone                 ... pos = 0.25  	neg = 0.25 
+4. He's the inventor of                 ... pos = 0.125 	neg = 0.125
+5. Perhaps he works for                 ... pos = 0.375 	neg = 0.125
+6. ) blades instead of                  ... pos = 0.0   	neg = 0.0  
+7. Perhaps not.                         ... pos = 0.0   	neg = 0    
+8. It's immaterial: the                 ... pos = 0.375 	neg = 0.125
+9. David Mamet is suppo                 ... pos = 0.0   	neg = 0.25 
+10. I thought the dialog                ... pos = 0.0   	neg = 0.375
+11. He feels compelled t                ... pos = 0.0   	neg = 0.0  
+12. In "House of Games",                ... pos = 0.375 	neg = 0.25 
+13. It works.                           ... pos = 0.0   	neg = 0    
+14. In "Spanish Prisoner                ... pos = 0.5   	neg = 0.0  
+15. Random words and noi                ... pos = 0.0   	neg = 1.0  
+16. "Spanish Prisoner" w                ... pos = 0.0   	neg = 0.125
+17. The ending also feel                ... pos = 0.375 	neg = 0.0  
+18. There was another co                ... pos = 0.0   	neg = 0.25 
+19. When it started is u                ... pos = 0.0   	neg = 0.5  
+20. It comes out of thin                ... pos = 0.0   	neg = 0.375
+21. The cons fall into t                ... pos = 0.25  	neg = 0.0  
+22. Neither is particula                ... pos = 0.5   	neg = 0.375
+23. The comparison with                 ... pos = 0.0   	neg = 0.125
+24. There are a series o                ... pos = 0.25  	neg = 0.0  
+25. They make sense.                    ... pos = 0.0   	neg = 0.0  
+26. Cons are also seen t                ... pos = 0.25  	neg = 1.625
+27. The con men are not                 ... pos = 0.875 	neg = 0.0  
+28. We seem them improvi                ... pos = 0.125 	neg = 0.75 
+29. And they sometimes f                ... pos = 0.0   	neg = 0.125
+30. As a bonus in "House                ... pos = 1.0   	neg = 0.0  
+31. In that film, you ha                ... pos = 0.0   	neg = 0.0  
+32. This impression that                ... pos = 0.0   	neg = 0.125
+33. "Prisoner" plays out                ... pos = 0.125 	neg = 0.125
+34. It's nothing in part                ... pos = 0.0   	neg = 0.25 
+35. One minor plus with                 ... pos = 0.0   	neg = 0.5  
+36. They use the 79th St                ... pos = 0.0   	neg = 0.125
+37. Rich people live the                ... pos = 0.0   	neg = 0.0  
+38. ). "The court determ                ... pos = 0.5   	neg = 0.25 
+39. ". --  "The court de                ... pos = 0.5   	neg = 0.25 
+40. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1888-1441 is Negative        ... pos = 7.25  	neg = 8.625
+Overall score of document
+Total Pos = 7.25
+Total Neg = 8.625
+---------------------------------------------------------------------------

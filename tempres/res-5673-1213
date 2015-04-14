@@ -1,0 +1,34 @@
+0. Wesley Snipes both s                 ... pos = 0.0   	neg = 0.125
+1. Snipes plays 'Blade,                 ... pos = 0.125 	neg = 1.25 
+2. In the opening scene                 ... pos = 0.0   	neg = 0.0  
+3. Blade somehow gets i                 ... pos = 0.0   	neg = 0.125
+4. Blade tries to stop                  ... pos = 0.125 	neg = 0.5  
+5. Yes, that is her nam                 ... pos = 0     	neg = 0.125
+6. ) Blood, guts and ex                 ... pos = 0.0   	neg = 0.0  
+7. The main problem wit                 ... pos = 0.0   	neg = 0.75 
+8. While the audience i                 ... pos = 0.125 	neg = 0.75 
+9. I suppose this is al                 ... pos = 0.625 	neg = 0.5  
+10. When the action come                ... pos = 0.75  	neg = 0.125
+11. Unlike some other mo                ... pos = 0.125 	neg = 0.125
+12. This film is not rea                ... pos = 0.75  	neg = 0.25 
+13. The performers are O                ... pos = 2.125 	neg = 0.0  
+14. However, he's a bit                 ... pos = 0.875 	neg = 0.25 
+15. Dorff is much more f                ... pos = 0.25  	neg = 1.125
+16. He's suitably evil,                 ... pos = 0.375 	neg = 0.75 
+17. Kristofferson delive                ... pos = 0.75  	neg = 0.625
+18. Overall, the cast is                ... pos = 0.0   	neg = 0.625
+19. While in other actio                ... pos = 1.0   	neg = 1.0  
+20. And in some cases, c                ... pos = 1.125 	neg = 0.0  
+21. The film also suffer                ... pos = 0.0   	neg = 0.375
+22. It's a shame, becaus                ... pos = 0.25  	neg = 0.875
+23. Had the film been le                ... pos = 0.625 	neg = 0.25 
+24. Sadly, though, Blade                ... pos = 0.0   	neg = 1.25 
+25. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+26. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+27. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5673-1213 is Negative        ... pos = 10.0  	neg = 11.75
+Overall score of document
+Total Pos = 10.0
+Total Neg = 11.75
+---------------------------------------------------------------------------

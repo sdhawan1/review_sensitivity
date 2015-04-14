@@ -1,0 +1,42 @@
+0. Director:  Robert R                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution:  B                 ... pos = 0.125 	neg = 0.0  
+2. That was for girls,                  ... pos = 0.0   	neg = 0.625
+3. I would watch them f                 ... pos = 0.125 	neg = 0.25 
+4. The horses certainly                 ... pos = 1.875 	neg = 0.5  
+5. I was mildly interes                 ... pos = 0.0   	neg = 0.5  
+6. I wanted to see it b                 ... pos = 0.0   	neg = 0.0  
+7. It turns out, though                 ... pos = 1.125 	neg = 0.0  
+8. I'm fairly certain t                 ... pos = 1.125 	neg = 0.0  
+9. I think he succeeded                 ... pos = 0.375 	neg = 0.125
+10. The film opens with                 ... pos = 1.125 	neg = 0.0  
+11. We then meet Grace's                ... pos = 0.25  	neg = 0.5  
+12. Grace recovers from                 ... pos = 0.625 	neg = 0.125
+13. Although Pilgrim's i                ... pos = 0.375 	neg = 0.25 
+14. She seeks out a man                 ... pos = 0.125 	neg = 0.125
+15. She takes Grace and                 ... pos = 0.125 	neg = 0.125
+16. Perhaps the best thi                ... pos = 0.375 	neg = 0.125
+17. Even without a story                ... pos = 1.125 	neg = 0.125
+18. The opening credits                 ... pos = 1.375 	neg = 0.625
+19. Many scenes in the f                ... pos = 1.375 	neg = 0.375
+20. It's a long picture,                ... pos = 0.5   	neg = 0.5  
+21. Almost equaling Redf                ... pos = 0.375 	neg = 0    
+22. Thomas is a beautifu                ... pos = 2.375 	neg = 0.375
+23. Young Scarlett Johan                ... pos = 0.5   	neg = 0.25 
+24. Redford is also good                ... pos = 0.75  	neg = 0.125
+25. Sam Neill is, unfort                ... pos = 0.75  	neg = 1.0  
+26. I enjoyed The Horse                 ... pos = 0.875 	neg = 0.25 
+27. There are a few scen                ... pos = 1.25  	neg = 0.0  
+28. Grace's dialogue, fo                ... pos = 0.875 	neg = 0.625
+29. The overall focus is                ... pos = 0.0   	neg = 0.125
+30. All of these are wel                ... pos = 0.5   	neg = 0.25 
+31. I am thankful that R                ... pos = 1.125 	neg = 0.375
+32. All in all, I highly                ... pos = 1.125 	neg = 0.5  
+33. There is a lot to ad                ... pos = 1.25  	neg = 0.125
+34. It's a moving film t                ... pos = 0.375 	neg = 0.5  
+35. On a personal level,                ... pos = 1.375 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5766-760 is Positive         ... pos = 25.625 	neg = 9.875
+Overall score of document
+Total Pos = 25.625
+Total Neg = 9.875
+---------------------------------------------------------------------------

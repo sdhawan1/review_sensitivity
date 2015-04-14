@@ -1,0 +1,30 @@
+0. ---Those of you in t                 ... pos = 0.25  	neg = 0.125
+1. Then Bob Dylan wrote                 ... pos = 0.5   	neg = 0.0  
+2. Now Academy Award wi                 ... pos = 1.75  	neg = 0.0  
+3. The man is Rubin "Hu                 ... pos = 0.0   	neg = 1.0  
+4. "Here comes the stor                 ... pos = 0.0   	neg = 0    
+5. " (Did you really th                 ... pos = 0.0   	neg = 0.0  
+6. ) Rubin Carter  (Den                 ... pos = 0.0   	neg = 0.125
+7. But he was also blac                 ... pos = 0.625 	neg = 0.125
+8. When  two black men                  ... pos = 0.0   	neg = 0.75 
+9. The film ventures aw                 ... pos = 0.875 	neg = 0.5  
+10. A crime has been com                ... pos = 0.0   	neg = 0.125
+11. Just bury me please"                ... pos = 0     	neg = 0.0  
+12. Then, when hope was                 ... pos = 1.25  	neg = 0.125
+13. With the help of his                ... pos = 0.5   	neg = 0.375
+14. The Hurricane spends                ... pos = 0.5   	neg = 0.25 
+15. Boxing brings enjoya                ... pos = 0.5   	neg = 0.25 
+16. ) a heartbreak early                ... pos = 0.0   	neg = 0.625
+17. Most of the film is                 ... pos = 0.125 	neg = 0.125
+18. Recently, The Green                 ... pos = 1.0   	neg = 1.5  
+19. Here things are more                ... pos = 1.0   	neg = 0.0  
+20. But Hurricane isolat                ... pos = 0.0   	neg = 0.25 
+21. Denzel Washington gi                ... pos = 0.875 	neg = 1.5  
+22. The supporting cast                 ... pos = 1.75  	neg = 0.0  
+23. Simply put, The Hurr                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-864-592 is Positive          ... pos = 11.5  	neg = 7.875
+Overall score of document
+Total Pos = 11.5
+Total Neg = 7.875
+---------------------------------------------------------------------------

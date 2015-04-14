@@ -1,0 +1,22 @@
+0. Written by: Don Jako                 ... pos = 0.375 	neg = 0.375
+1. In addition, vampire                 ... pos = 0.0   	neg = 0.125
+2. Professional vampire                 ... pos = 0.25  	neg = 0.375
+3. " . Main characters                  ... pos = 1.125 	neg = 0.0  
+4. Their hit squad of s                 ... pos = 0.0   	neg = 0.375
+5. Later the vampire ma                 ... pos = 0.0   	neg = 0    
+6. Then the vampires re                 ... pos = 0     	neg = 0.0  
+7. Then the hit squad r                 ... pos = 0     	neg = 0.0  
+8. They all get ready f                 ... pos = 0.0   	neg = 0.0  
+9. Meanwhile Crow must                  ... pos = 0.375 	neg = 0.0  
+10. Opinion:  Heroes win                ... pos = 0.125 	neg = 0.75 
+11. That was and still i                ... pos = 0.0   	neg = 0.5  
+12. JOHN CARPENTER'S VAM                ... pos = 0.625 	neg = 0.375
+13. The only new innovat                ... pos = 2.5   	neg = 0.625
+14. JOHN CARPENTER'S VAM                ... pos = 2.722 	neg = 0.25 
+15. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1040-416 is Positive         ... pos = 8.097 	neg = 3.875
+Overall score of document
+Total Pos = 8.097
+Total Neg = 3.875
+---------------------------------------------------------------------------

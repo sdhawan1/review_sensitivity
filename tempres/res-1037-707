@@ -1,0 +1,31 @@
+0. The title of this fi                 ... pos = 0.0   	neg = 0.625
+1. It is not a happy st                 ... pos = 2.125 	neg = 0.25 
+2. The story is based a                 ... pos = 0.5   	neg = 0.125
+3. Also involved are th                 ... pos = 0.25  	neg = 0.0  
+4. Trish, the eldest, i                 ... pos = 0.625 	neg = 0.125
+5. While Bill is a good                 ... pos = 1.75  	neg = 0.5  
+6. Helen is a successfu                 ... pos = 0.625 	neg = 0.875
+7. Joy is the youngest,                 ... pos = 0.5   	neg = 0.625
+8. It appears they were                 ... pos = 0.625 	neg = 1.375
+9. After many years of                  ... pos = 0.625 	neg = 0.25 
+10. Allen is a technical                ... pos = 0.0   	neg = 0.375
+11. He is neither attrac                ... pos = 0.875 	neg = 0.375
+12. He is socially inept                ... pos = 0.0   	neg = 1.625
+13. Director Todd Solond                ... pos = 0.375 	neg = 0.0  
+14. It would have been v                ... pos = 1.875 	neg = 0.125
+15. Instead, each charac                ... pos = 1.25  	neg = 0.25 
+16. Although it is not r                ... pos = 0.875 	neg = 0.25 
+17. The film runs a long                ... pos = 0.875 	neg = 0.375
+18. However, the length                 ... pos = 2.125 	neg = 0.5  
+19. For example, when Jo                ... pos = 2.114 	neg = 0.25 
+20. Highly Recommended.                 ... pos = 0.625 	neg = 0    
+21. This is an engaging                 ... pos = 0.875 	neg = 0.125
+22. However, this is a v                ... pos = 0.75  	neg = 0.125
+23. Many disturbing issu                ... pos = 1.0   	neg = 0.25 
+24. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1037-707 is Positive         ... pos = 21.239 	neg = 9.375
+Overall score of document
+Total Pos = 21.239
+Total Neg = 9.375
+---------------------------------------------------------------------------

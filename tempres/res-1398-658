@@ -1,0 +1,35 @@
+0. The Replacement Kill                 ... pos = 0.75  	neg = 0.125
+1. It could have been a                 ... pos = 0.375 	neg = 0.25 
+2. Instead it's a borin                 ... pos = 0.0   	neg = 0.125
+3. It's the American de                 ... pos = 0.125 	neg = 1.125
+4. He has a grace about                 ... pos = 0.375 	neg = 0.125
+5. When you compare him                 ... pos = 0.875 	neg = 0.125
+6. After his internatio                 ... pos = 0.125 	neg = 0.5  
+7. While he does manage                 ... pos = 1.0   	neg = 0.125
+8. It also stars Mira S                 ... pos = 0.375 	neg = 0.0  
+9. She's totally unbeli                 ... pos = 0.0   	neg = 0.5  
+10. To describe the plot                ... pos = 0.0   	neg = 0.125
+11. You don't pay attent                ... pos = 0.0   	neg = 0.25 
+12. Things like that wil                ... pos = 0.125 	neg = 0.0  
+13. Instead, you wait fo                ... pos = 0.0   	neg = 0.0  
+14. The action scenes we                ... pos = 0.5   	neg = 0.125
+15. Director Anotoine Fu                ... pos = 0.0   	neg = 0.25 
+16. But his problem is t                ... pos = 0.0   	neg = 0.375
+17. There's a moment tow                ... pos = 0.0   	neg = 0.875
+18. The bad guy is drivi                ... pos = 0.25  	neg = 1.875
+19. Whether or not it wa                ... pos = 0.0   	neg = 0.25 
+20. Fat didn't look conf                ... pos = 0.375 	neg = 1.0  
+21. Rather than watch Th                ... pos = 0.625 	neg = 1.125
+22. Those movies also br                ... pos = 0.0   	neg = 0.0  
+23. Woo's first film was                ... pos = 0.125 	neg = 0.875
+24. Hollywood let him st                ... pos = 1.0   	neg = 0.0  
+25. Let's hope Fat gets                 ... pos = 0.875 	neg = 0.0  
+26. The Replacement Kill                ... pos = 0.0   	neg = 0.0  
+27. Directed by Antoine                 ... pos = 0.0   	neg = 0    
+28. Starring: Chow Yen F                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1398-658 is Negative         ... pos = 7.875 	neg = 10.125
+Overall score of document
+Total Pos = 7.875
+Total Neg = 10.125
+---------------------------------------------------------------------------

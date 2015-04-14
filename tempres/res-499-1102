@@ -1,0 +1,45 @@
+0. Starring: Edward Nor                 ... pos = 0.0   	neg = 0.0  
+1. Rated R for graphic                  ... pos = 0.625 	neg = 0.375
+2. "American History X"                 ... pos = 0.25  	neg = 0.125
+3. The whole movie is s                 ... pos = 0.5   	neg = 1.375
+4. I think Edward Norto                 ... pos = 0.375 	neg = 0.125
+5. He gets into his cha                 ... pos = 1.875 	neg = 0.125
+6. After a while we sta                 ... pos = 0.125 	neg = 0.0  
+7. The supporting cast                  ... pos = 0.0   	neg = 0.0  
+8. The rest of the cast                 ... pos = 0.0   	neg = 0.0  
+9. The movie starts out                 ... pos = 0.0   	neg = 0.0  
+10. His younger brother                 ... pos = 0.0   	neg = 0.875
+11. Derek gets up quickl                ... pos = 0.0   	neg = 0.0  
+12. The police come and                 ... pos = 0.125 	neg = 0.125
+13. Derek is also a neo-                ... pos = 0.0   	neg = 0.125
+14. Before all this happ                ... pos = 0.0   	neg = 0.0  
+15. Danny having seen wh                ... pos = 0.125 	neg = 0.25 
+16. His grades in school                ... pos = 0.0   	neg = 0.75 
+17. stuff.                              ... pos = 0     	neg = 0.25 
+18. Three years later De                ... pos = 0.0   	neg = 0.0  
+19. A changed man no lon                ... pos = 0.875 	neg = 0.0  
+20. Danny learns that wh                ... pos = 0.125 	neg = 0.625
+21. Now years before Dan                ... pos = 0.0   	neg = 0.125
+22. Since then Derek has                ... pos = 0.0   	neg = 0.125
+23. His mother played su                ... pos = 0.375 	neg = 0.75 
+24. Her other three kids                ... pos = 0.25  	neg = 0.0  
+25. Derek a changed man,                ... pos = 0.125 	neg = 0.25 
+26. 'American History X'                ... pos = 0.375 	neg = 0.125
+27. It has superb acting                ... pos = 1.875 	neg = 0.0  
+28. It's extremely belie                ... pos = 2.0   	neg = 0    
+29. We actually live the                ... pos = 0.875 	neg = 0.0  
+30. We are there right b                ... pos = 2.0   	neg = 0.0  
+31. When the ending come                ... pos = 1.0   	neg = 0.0  
+32. Now the whole movie                 ... pos = 0.0   	neg = 0.375
+33. It deals with race a                ... pos = 0.375 	neg = 0.0  
+34. Edward Furlong gives                ... pos = 0.875 	neg = 0.25 
+35. It's the story throu                ... pos = 0.5   	neg = 0.0  
+36. If you want to see a                ... pos = 0.5   	neg = 0.125
+37. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+38. Brandon Herring Movi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-499-1102 is Positive         ... pos = 16.25 	neg = 7.25 
+Overall score of document
+Total Pos = 16.25
+Total Neg = 7.25
+---------------------------------------------------------------------------

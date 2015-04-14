@@ -1,0 +1,64 @@
+0. Visit Online Film Cr                 ... pos = 0.75  	neg = 0.0  
+1. "  If you are too yo                 ... pos = 0.25  	neg = 1.125
+2. Carrey has gotten so                 ... pos = 0.0   	neg = 0.0  
+3. Apparently, on the s                 ... pos = 0.0   	neg = 0.125
+4. According to the fil                 ... pos = 0.125 	neg = 0.125
+5. These quirks obvious                 ... pos = 0.0   	neg = 0.75 
+6. Through the bug-eyed                 ... pos = 0.125 	neg = 0.556
+7. Forman starts the pi                 ... pos = 0.0   	neg = 1.25 
+8. Then we fall into a                  ... pos = 0.0   	neg = 0.0  
+9. His father tells him                 ... pos = 0.0   	neg = 0.5  
+10. Herein lies the key                 ... pos = 0.125 	neg = 0.125
+11. The movie  traces Ka                ... pos = 0.625 	neg = 0.25 
+12. We do not  see much                 ... pos = 1.125 	neg = 0.0  
+13. So many parts of thi                ... pos = 0.875 	neg = 0.0  
+14. We know Lorne Michae                ... pos = 0.25  	neg = 0.0  
+15. Michaels is deadpan                 ... pos = 0.75  	neg = 0.25 
+16. In part Kaufman's st                ... pos = 0.125 	neg = 0.375
+17. We recognize  most a                ... pos = 0.625 	neg = 0.5  
+18. As David Letterman t                ... pos = 1.25  	neg = 0.5  
+19. The rub  here is obv                ... pos = 0.0   	neg = 0.625
+20. The film reaches its                ... pos = 0.0   	neg = 0.125
+21. And the film is ofte                ... pos = 0.0   	neg = 0.125
+22. Carrey and his direc                ... pos = 0.875 	neg = 0.125
+23. Always obnoxious whe                ... pos = 0.75  	neg = 0.625
+24. At times the film is                ... pos = 0.625 	neg = 1.0  
+25. He taunts a Memphis                 ... pos = 0.25  	neg = 0.0  
+26. Multi-faceted he sur                ... pos = 0.25  	neg = 0.125
+27. As Andy Kaufman's fr                ... pos = 0.125 	neg = 0.0  
+28. We first meet him du                ... pos = 0.125 	neg = 1.82 
+29. Clifton pours a glas                ... pos = 0.625 	neg = 0.25 
+30. Zmuda seems  to be t                ... pos = 0.75  	neg = 0.25 
+31. But even Zmuda is un                ... pos = 0.5   	neg = 0.125
+32. Courtney Love plays                 ... pos = 0.375 	neg = 0.0  
+33. It seems they  meet                 ... pos = 0.0   	neg = 0.125
+34. With Merv innocently                ... pos = 0.0   	neg = 0.625
+35. But backstage he is                 ... pos = 0.125 	neg = 0.125
+36. Later we ponder the                 ... pos = 0.125 	neg = 0.0  
+37. Is it real?                         ... pos = 0.0   	neg = 0.125
+38. Should  we be worrie                ... pos = 0.625 	neg = 0.125
+39. Can deception be  en                ... pos = 0.0   	neg = 0.125
+40. Love has grown into                 ... pos = 1.5   	neg = 0.125
+41. Danny DeVito - a Kau                ... pos = 0.125 	neg = 0    
+42. A smooth actor, DeVi                ... pos = 0.625 	neg = 0.0  
+43. He does well in show                ... pos = 0.25  	neg = 0    
+44. A good agent, he  ge                ... pos = 1.125 	neg = 0.0  
+45. He also humors the m                ... pos = 0.5   	neg = 0.0  
+46. DeVito's performance                ... pos = 1.0   	neg = 0.125
+47. Milos Forman paces t                ... pos = 0.875 	neg = 0.25 
+48. A compliment should                 ... pos = 0.0   	neg = 0.25 
+49. These  themes he exp                ... pos = 0.375 	neg = 0.125
+50. So much of the film                 ... pos = 0.125 	neg = 0.125
+51. There are the  contr                ... pos = 0.75  	neg = 0.0  
+52. After Kaufman contra                ... pos = 0.125 	neg = 0.375
+53. The ultimate irony                  ... pos = 0.0   	neg = 0.125
+54. And after we watch h                ... pos = 1.0   	neg = 0.25 
+55. That's the charm  of                ... pos = 0.0   	neg = 0.0  
+56. There's always some                 ... pos = 0.625 	neg = 0.25 
+57. The person most resp                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6091-71 is Positive          ... pos = 23.125 	neg = 15.001
+Overall score of document
+Total Pos = 23.125
+Total Neg = 15.001
+---------------------------------------------------------------------------

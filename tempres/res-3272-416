@@ -1,0 +1,32 @@
+0. Starring: Ethan Hawk                 ... pos = 2.125 	neg = 0.5  
+1. Unfortunately, Vince                 ... pos = 0.5   	neg = 1.0  
+2. The world is robotic                 ... pos = 0.0   	neg = 0.5  
+3. In order to accompli                 ... pos = 0.25  	neg = 0.0  
+4. As the movie starts,                 ... pos = 0.625 	neg = 0.125
+5. He's wearing a dark                  ... pos = 0.125 	neg = 0.0  
+6. Through a flashback                  ... pos = 0.25  	neg = 0.125
+7. He is an imposter wh                 ... pos = 0.0   	neg = 0.25 
+8. He has risen through                 ... pos = 0.5   	neg = 0.125
+9. (When an accident le                 ... pos = 0.25  	neg = 0.25 
+10. ) To spite the syste                ... pos = 0.0   	neg = 0.125
+11. Vincent has been imp                ... pos = 0.0   	neg = 0.25 
+12. needed in order to f                ... pos = 0.625 	neg = 0.25 
+13. If they can manage t                ... pos = 0.5   	neg = 0.0  
+14. Unfortunately, when                 ... pos = 0.375 	neg = 2.5  
+15. Soon the innocent Vi                ... pos = 0.375 	neg = 0.125
+16. How long can they ma                ... pos = 0.0   	neg = 0.375
+17. This film is a suspe                ... pos = 0.375 	neg = 0.25 
+18. the film is not abou                ... pos = 0.0   	neg = 0.125
+19. The setting of the s                ... pos = 1.875 	neg = 0.25 
+20. 'Gattaca' keeps our                 ... pos = 1.625 	neg = 0.875
+21. A subplot of the fil                ... pos = 0.625 	neg = 0.125
+22. Here, too, the roman                ... pos = 0.375 	neg = 1.0  
+23. On the negative side                ... pos = 0.25  	neg = 0.0  
+24. These last few minut                ... pos = 1.25  	neg = 0.25 
+25. I like the movie bec                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3272-416 is Positive         ... pos = 12.875 	neg = 9.375
+Overall score of document
+Total Pos = 12.875
+Total Neg = 9.375
+---------------------------------------------------------------------------

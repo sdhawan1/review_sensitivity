@@ -1,0 +1,36 @@
+0. "Men in Black", this                 ... pos = 1.125 	neg = 0.125
+1. Will Smith plays Jam                 ... pos = 0.5   	neg = 0.625
+2. It turns out (as it                  ... pos = 0.75  	neg = 0.625
+3. In fact, aliens are                  ... pos = 1.0   	neg = 0.125
+4. "It's just like 'Cas                 ... pos = 0.0   	neg = 0.0  
+5. Much of the feel of                  ... pos = 1.0   	neg = 0.125
+6. The film is at its b                 ... pos = 0.5   	neg = 0.375
+7. The audience is intr                 ... pos = 1.375 	neg = 0.125
+8. Herein lies the main                 ... pos = 0.875 	neg = 1.125
+9. The film is so much                  ... pos = 0.75  	neg = 1.125
+10. Still, Lowell Cunnin                ... pos = 0.75  	neg = 1.0  
+11. Predicta- bility is                 ... pos = 0.0   	neg = 0.375
+12. It simp- ly makes it                ... pos = 0.25  	neg = 0.125
+13. It's clear that ever                ... pos = 1.375 	neg = 0.375
+14. Computer animation,                 ... pos = 1.25  	neg = 0.25 
+15. Kudos to the various                ... pos = 0.375 	neg = 0.25 
+16. Danny Elfman has whi                ... pos = 0.75  	neg = 0.0  
+17. Jones and Smith  (ev                ... pos = 1.75  	neg = 0.125
+18. Both make the most o                ... pos = 1.375 	neg = 0.0  
+19. When the villain sna                ... pos = 0.875 	neg = 0.375
+20. Linda Fi- orentino p                ... pos = 0.625 	neg = 0.0  
+21. It's a shame that sh                ... pos = 0.0   	neg = 1.0  
+22. "People in Black"?).                ... pos = 0.0   	neg = 0    
+23. Vincent D'Onofrio is                ... pos = 1.375 	neg = 0.25 
+24. Bo Welch contin- ues                ... pos = 1.0   	neg = 0.125
+25. A design highlight i                ... pos = 0.125 	neg = 0.125
+26. This is clearly Sonn                ... pos = 1.375 	neg = 0.5  
+27. How can you not like                ... pos = 0.125 	neg = 0.625
+28. With a terrific fina                ... pos = 0.25  	neg = 0    
+29. Recommended.. .                     ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-917-580 is Positive          ... pos = 21.5  	neg = 9.875
+Overall score of document
+Total Pos = 21.5
+Total Neg = 9.875
+---------------------------------------------------------------------------

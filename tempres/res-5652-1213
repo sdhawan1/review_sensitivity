@@ -1,0 +1,17 @@
+0. A sci-fi/adventure s                 ... pos = 0.25  	neg = 0.0  
+1. It's, Star Wars, isn                 ... pos = 0.0   	neg = 0    
+2. And everyone knows t                 ... pos = 0.0   	neg = 0    
+3. But, in this speacil                 ... pos = 1.5   	neg = 0.75 
+4. Hamill, Guiness, Fis                 ... pos = 0.375 	neg = 1.0  
+5. This has to be one o                 ... pos = 0.625 	neg = 0.125
+6. Basically, this has                  ... pos = 0.875 	neg = 0.125
+7. The bad guys are rea                 ... pos = 2.625 	neg = 1.875
+8. And with the new THX                 ... pos = 0.5   	neg = 0.125
+9. So, overall then, I                  ... pos = 0.0   	neg = 0.0  
+10. See it!. .                          ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5652-1213 is Positive        ... pos = 6.75  	neg = 4.0  
+Overall score of document
+Total Pos = 6.75
+Total Neg = 4.0
+---------------------------------------------------------------------------

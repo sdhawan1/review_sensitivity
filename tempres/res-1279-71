@@ -1,0 +1,21 @@
+0. I have not read the                  ... pos = 0.5   	neg = 0.125
+1. First, John Travolta                 ... pos = 0.5   	neg = 1.0  
+2. Emma  Thompson is al                 ... pos = 0.625 	neg = 0.125
+3. In one  scene in whi                 ... pos = 0.125 	neg = 0.25 
+4. Her anger and then h                 ... pos = 0.75  	neg = 0.0  
+5. She'll probably be f                 ... pos = 0.75  	neg = 0.125
+6. As Libby the "Dust B                 ... pos = 1.125 	neg = 0.75 
+7. Bates brings a liter                 ... pos = 1.75  	neg = 0.625
+8. I've read in other r                 ... pos = 0.0   	neg = 0.0  
+9. Henry is the  campai                 ... pos = 0.5   	neg = 0.125
+10. The  trouble is that                ... pos = 0.5   	neg = 0.875
+11. Sure, no one wants t                ... pos = 0.375 	neg = 0.25 
+12. What causes him to s                ... pos = 1.25  	neg = 0.0  
+13. "Primary Colors" spo                ... pos = 1.125 	neg = 0.0  
+14. Mike Nichols'  last                 ... pos = 1.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1279-71 is Positive          ... pos = 11.0  	neg = 4.375
+Overall score of document
+Total Pos = 11.0
+Total Neg = 4.375
+---------------------------------------------------------------------------

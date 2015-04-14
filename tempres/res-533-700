@@ -1,0 +1,23 @@
+0. Release Date: Februa                 ... pos = 2.0   	neg = 0.5  
+1. Many of us have grow                 ... pos = 0.0   	neg = 0.125
+2. But pop sitcoms like                 ... pos = 0.0   	neg = 0.125
+3. Like last year's HOL                 ... pos = 1.75  	neg = 0.5  
+4. This brand new persp                 ... pos = 0.375 	neg = 0.375
+5. Aided by Brendan Fra                 ... pos = 1.25  	neg = 0.0  
+6. Although the jokes a                 ... pos = 0.875 	neg = 0.375
+7. Directed by Hugh Wil                 ... pos = 0.375 	neg = 0.375
+8. Wilson also wrote th                 ... pos = 0.0   	neg = 0.0  
+9. Although perhaps a b                 ... pos = 0.125 	neg = 0.125
+10. It's there that Hele                ... pos = 0.375 	neg = 0.0  
+11. Only then does Adam                 ... pos = 0.0   	neg = 0.0  
+12. While on the surface                ... pos = 0.25  	neg = 0.0  
+13. Both Silverstone and                ... pos = 2.375 	neg = 0.0  
+14. They make the movie                 ... pos = 1.375 	neg = 0.5  
+15. Boiled down, BLAST F                ... pos = 1.625 	neg = 0.125
+16. For those not lookin                ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-533-700 is Positive          ... pos = 14.0  	neg = 3.25 
+Overall score of document
+Total Pos = 14.0
+Total Neg = 3.25
+---------------------------------------------------------------------------

@@ -1,0 +1,61 @@
+0. **1/2 (out of 4) WHY                 ... pos = 0.125 	neg = 0.625
+1. BECAUSE THE DOG IS S                 ... pos = 0.0   	neg = 0.75 
+2. IF THE TAIL WERE SMA                 ... pos = 0.125 	neg = 0.75 
+3. Thus opens Barry Lev                 ... pos = 0.125 	neg = 0.625
+4. The president of the                 ... pos = 0.25  	neg = 0.5  
+5. His spin team has th                 ... pos = 0.5   	neg = 0.0  
+6. Conrad Brean (Robert                 ... pos = 0.0   	neg = 0.25 
+7. Something huge, like                 ... pos = 0.0   	neg = 0.125
+8. And if an event is n                 ... pos = 0.125 	neg = 0.125
+9. Rather than having t                 ... pos = 0.5   	neg = 0.75 
+10. He has the president                ... pos = 0.0   	neg = 0.875
+11. In short, he has the                ... pos = 0.0   	neg = 0.0  
+12. A secret so big that                ... pos = 0.0   	neg = 0.0  
+13. But Conrad's war has                ... pos = 0.0   	neg = 0.25 
+14. A good war has to ha                ... pos = 1.875 	neg = 0.0  
+15. " So Conrad enlists                 ... pos = 0.375 	neg = 0.0  
+16. In turn, Stanley enl                ... pos = 0.125 	neg = 0.0  
+17. Once all the talent                 ... pos = 0.0   	neg = 0.25 
+18. Songs are written, f                ... pos = 0.625 	neg = 0.125
+19. A soulful "We Are Th                ... pos = 0.375 	neg = 0.125
+20. A video clip is manu                ... pos = 0.5   	neg = 0.125
+21. All eyes and ears ar                ... pos = 0.75  	neg = 0.0  
+22. The process appears                 ... pos = 0.0   	neg = 0.125
+23. Problems do arise, a                ... pos = 0.125 	neg = 0.25 
+24. But after we get to                 ... pos = 0.0   	neg = 0.375
+25. Each new problem is                 ... pos = 0.875 	neg = 0.5  
+26. This is nothing!                    ... pos = 0     	neg = 0.125
+27. ") and creativity.                  ... pos = 0.125 	neg = 0    
+28. When the opposing ca                ... pos = 0.0   	neg = 0.25 
+29. When the CIA has the                ... pos = 0.375 	neg = 0.0  
+30. In fact, Conrad admi                ... pos = 0.375 	neg = 0.125
+31. Stanley and Conrad a                ... pos = 0.5   	neg = 0    
+32. Both characters are                 ... pos = 2.125 	neg = 0.0  
+33. Each new obstacle ma                ... pos = 0.375 	neg = 0.125
+34. DeNiro and Hoffman b                ... pos = 0.875 	neg = 0.125
+35. But the movie is not                ... pos = 0.75  	neg = 0.125
+36. Some of the problems                ... pos = 0.75  	neg = 0.75 
+37. But there is one rea                ... pos = 0.125 	neg = 0.5  
+38. IF YOU DON'T WANT TO                ... pos = 0.0   	neg = 0.125
+39. In music, a "picardy                ... pos = 0.0   	neg = 0.125
+40. There is no opposite                ... pos = 0.0   	neg = 0.125
+41. The same appears to                 ... pos = 0.5   	neg = 0.125
+42. An audience will alw                ... pos = 1.25  	neg = 0.75 
+43. WAG THE DOG plays as                ... pos = 0.0   	neg = 0.625
+44. The tone undergoes a                ... pos = 0.75  	neg = 0.5  
+45. On top of that, it a                ... pos = 0.0   	neg = 0.125
+46. Wacky "Albania," tha                ... pos = 0.0   	neg = 1.0  
+47. The change seems del                ... pos = 0.0   	neg = 0.75 
+48. The change is too su                ... pos = 0.875 	neg = 1.5  
+49. I imagine I'm overre                ... pos = 0.0   	neg = 0.5  
+50. Most reviews I've re                ... pos = 0.125 	neg = 0.625
+51. But the tone of the                 ... pos = 0.0   	neg = 0.0  
+52. My last response to                 ... pos = 0.0   	neg = 0.25 
+53. Then again, maybe th                ... pos = 0.0   	neg = 0.125
+54. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4231-1008 is Positive        ... pos = 17.25 	neg = 16.875
+Overall score of document
+Total Pos = 17.25
+Total Neg = 16.875
+---------------------------------------------------------------------------

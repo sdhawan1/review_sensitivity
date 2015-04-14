@@ -1,0 +1,47 @@
+0. by Curtis Edmonds --                 ... pos = 0.125 	neg = 0.75 
+1. With 11 days to go u                 ... pos = 0.125 	neg = 0.25 
+2. DeNiro enlists Holly                 ... pos = 0.625 	neg = 0.0  
+3. And if there wasn't                  ... pos = 0.5   	neg = 0.25 
+4. (A heist comedy?                     ... pos = 0.0   	neg = 0.125
+5. Yup.                                 ... pos = 0     	neg = 0    
+6. DeNiro and Hoffman a                 ... pos = 0.375 	neg = 0.125
+7. ). Wag the Dog succe                 ... pos = 0.5   	neg = 0.75 
+8. OK, maybe it's not "                 ... pos = 0.625 	neg = 0.0  
+9. (Any average person                  ... pos = 0.375 	neg = 0.25 
+10. )  And because we're                ... pos = 2.75  	neg = 1.5  
+11. The beauty of Wag th                ... pos = 1.25  	neg = 1.75 
+12. Nor is it a hard-edg                ... pos = 0.375 	neg = 0.875
+13. Instead, David Mamet                ... pos = 0.806 	neg = 0.25 
+14. It does this by keep                ... pos = 0.875 	neg = 0.75 
+15. DeNiro is playing a                 ... pos = 2.125 	neg = 0.125
+16. It's all:  "What do                 ... pos = 0.625 	neg = 0.0  
+17. What is it that brin                ... pos = 0.5   	neg = 0.125
+18. Baseball," minus the                ... pos = 0.0   	neg = 0.0  
+19. He threatens a lot o                ... pos = 1.125 	neg = 0.0  
+20. It's a very mellow,                 ... pos = 1.125 	neg = 0.0  
+21. Hoffman, on the othe                ... pos = 0.625 	neg = 0.125
+22. This kind of thing i                ... pos = 1.125 	neg = 0.125
+23. Even on the edge of                 ... pos = 0.5   	neg = 0.5  
+24. Insiders note that h                ... pos = 1.375 	neg = 0.125
+25. The best part and th                ... pos = 0.125 	neg = 0.75 
+26. The characters are s                ... pos = 1.125 	neg = 0.125
+27. Anne Heche, is dead-                ... pos = 0.0   	neg = 0.125
+28. Denis Leary (one of                 ... pos = 1.375 	neg = 0.125
+29. They could make a wh                ... pos = 0.375 	neg = 0.0  
+30. Willie Nelson and Me                ... pos = 1.375 	neg = 0.0  
+31. Woody Harrelson has                 ... pos = 0.25  	neg = 0.0  
+32. Craig T. Nelson, as                 ... pos = 0.375 	neg = 0.375
+33. (One of my small gri                ... pos = 0.625 	neg = 0.125
+34. ). Wag the Dog is a                 ... pos = 0.375 	neg = 0.75 
+35. We can solve most of                ... pos = 0.5   	neg = 0.0  
+36. Wag the Dog reminds                 ... pos = 0.125 	neg = 0.625
+37. The Hollywood Stock                 ... pos = 0.0   	neg = 0.25 
+38. Whining is a virus,                 ... pos = 0.0   	neg = 1.0  
+39. I refuse to listen t                ... pos = 0.0   	neg = 0.375
+40. ".   --  Peter Hoeg,                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4231-1045 is Positive        ... pos = 25.056 	neg = 13.375
+Overall score of document
+Total Pos = 25.056
+Total Neg = 13.375
+---------------------------------------------------------------------------

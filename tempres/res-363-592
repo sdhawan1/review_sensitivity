@@ -1,0 +1,27 @@
+0. Runaway Bride has th                 ... pos = 0.875 	neg = 0.25 
+1. Yet it simply isn't                  ... pos = 1.25  	neg = 0.375
+2. Julia Roberts plays                  ... pos = 0.75  	neg = 0.0  
+3. A very flirtatious a                 ... pos = 1.75  	neg = 0.125
+4. Her father even  qui                 ... pos = 0.5   	neg = 0.5  
+5. " Roberts' portrayal                 ... pos = 0.875 	neg = 0.75 
+6. In Pretty Woman, Viv                 ... pos = 0.5   	neg = 0.125
+7. Nearly a decade late                 ... pos = 0.375 	neg = 0.0  
+8. Continuing with the                  ... pos = 1.25  	neg = 0.75 
+9. Runaway Bride is a v                 ... pos = 0.25  	neg = 0.25 
+10. The panoply of scene                ... pos = 1.375 	neg = 0.125
+11. The many scenes out                 ... pos = 1.0   	neg = 0.0  
+12. The city  scenes are                ... pos = 0.5   	neg = 0.0  
+13. The only sexual joke                ... pos = 0.375 	neg = 0.5  
+14. The biggest laughs c                ... pos = 0.0   	neg = 1.125
+15. You can't help but                  ... pos = 0.0   	neg = 0.375
+16. Runaway Bride holds                 ... pos = 1.375 	neg = 0.625
+17. Because of that, it                 ... pos = 0.25  	neg = 0.0  
+18. At one point in the                 ... pos = 0.25  	neg = 0.0  
+19. " Runaway  Bride doe                ... pos = 0.0   	neg = 0.125
+20. But I think the limb                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-363-592 is Positive          ... pos = 13.5  	neg = 6.0  
+Overall score of document
+Total Pos = 13.5
+Total Neg = 6.0
+---------------------------------------------------------------------------

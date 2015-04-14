@@ -1,0 +1,48 @@
+0. Cast: Christian Bale                 ... pos = 0.75  	neg = 1.125
+1. Christian Bale is pe                 ... pos = 0.5   	neg = 0.75 
+2. It seems that Batema                 ... pos = 0.375 	neg = 1.625
+3. As he tries to balan                 ... pos = 1.0   	neg = 0.5  
+4. I was first introduc                 ... pos = 0.125 	neg = 0.25 
+5. I read an Associated                 ... pos = 1.0   	neg = 0.375
+6. As usual when anythi                 ... pos = 0.75  	neg = 0.125
+7. I picked it up and r                 ... pos = 0.0   	neg = 0.125
+8. The movie has a simi                 ... pos = 1.0   	neg = 0.0  
+9. For once, a film has                 ... pos = 0.0   	neg = 0.25 
+10. Both the book and th                ... pos = 0.875 	neg = 0.125
+11. The movie continues                 ... pos = 1.125 	neg = 0.0  
+12. As a result, the fil                ... pos = 0.375 	neg = 0.125
+13. Lions Gate seems to                 ... pos = 0.875 	neg = 1.0  
+14. Screenwriters Mary H                ... pos = 0.25  	neg = 0.625
+15. Some cuts had to be                 ... pos = 0.125 	neg = 0.5  
+16. Thankfully, it IS wa                ... pos = 0.25  	neg = 0.125
+17. Side Note #1: Co-wri                ... pos = 0.375 	neg = 0.0  
+18. The ironic humor of                 ... pos = 0.5   	neg = 0.125
+19. It's a subtle in-jok                ... pos = 0.875 	neg = 0.25 
+20. Despite having a rat                ... pos = 1.375 	neg = 0.5  
+21. The real draw here i                ... pos = 0.0   	neg = 0.125
+22. Whenever I read a no                ... pos = 0.875 	neg = 0.75 
+23. I always had a hard                 ... pos = 0.25  	neg = 1.25 
+24. To say Bale runs awa                ... pos = 1.0   	neg = 0.125
+25. One sequence in part                ... pos = 0.125 	neg = 0.0  
+26. Side Note #2: Despit                ... pos = 0.25  	neg = 0.125
+27. Huey Lewis expressly                ... pos = 1.125 	neg = 0.125
+28. I'm assuming that Co                ... pos = 0.0   	neg = 0.0  
+29. On a similar note, W                ... pos = 2.875 	neg = 0.375
+30. Apparently, Houston                 ... pos = 0.0   	neg = 0.25 
+31. A bigger controversy                ... pos = 0.25  	neg = 0.375
+32. Don't look to the bo                ... pos = 0.0   	neg = 0.875
+33. Several web sites ha                ... pos = 0.375 	neg = 0.75 
+34. There is evidence bo                ... pos = 0.5   	neg = 0.375
+35. The scene seemed ver                ... pos = 1.0   	neg = 0.375
+36. I kept waiting for B                ... pos = 0.0   	neg = 0.375
+37. Other than the few f                ... pos = 0.625 	neg = 1.0  
+38. I think this movie i                ... pos = 1.0   	neg = 0.125
+39. It may not change an                ... pos = 0.375 	neg = 0.0  
+40. I know I will certai                ... pos = 1.0   	neg = 0.125
+41. [R]. Reviewed by Bri                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3687-1241 is Positive        ... pos = 24.125 	neg = 16.0 
+Overall score of document
+Total Pos = 24.125
+Total Neg = 16.0
+---------------------------------------------------------------------------

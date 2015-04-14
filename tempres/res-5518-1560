@@ -1,0 +1,34 @@
+0. Starring Robin Willi                 ... pos = 1.5   	neg = 0.75 
+1. On one hand, it's on                 ... pos = 0.0   	neg = 0.125
+2. The title may come f                 ... pos = 0.125 	neg = 0.0  
+3. Also, Vincent Ward's                 ... pos = 0.0   	neg = 0.125
+4. But on another, much                 ... pos = 0.875 	neg = 0.25 
+5. No other movie in th                 ... pos = 0.0   	neg = 0.25 
+6. There are shots in t                 ... pos = 0.375 	neg = 0.125
+7. In my mind, there is                 ... pos = 0.125 	neg = 0.125
+8. However, as visually                 ... pos = 0.875 	neg = 0.5  
+9. Despite predictably                  ... pos = 1.375 	neg = 0.625
+10. Something with this                 ... pos = 0.125 	neg = 0.0  
+11. The story starts out                ... pos = 0.0   	neg = 0.125
+12. Williams is Chris Ni                ... pos = 0.625 	neg = 0.75 
+13. In a coincidence eve                ... pos = 0.375 	neg = 0.75 
+14. Chris is taken to He                ... pos = 0.25  	neg = 0.125
+15. For a short time, Ch                ... pos = 0.5   	neg = 0.0  
+16. Here is where the st                ... pos = 0.5   	neg = 0.125
+17. Williams' vision of                 ... pos = 0.5   	neg = 0.375
+18. After a while, it is                ... pos = 0.5   	neg = 1.0  
+19. Only with the help o                ... pos = 0.125 	neg = 0.25 
+20. ) will Chris be able                ... pos = 0.875 	neg = 0.125
+21. It is also worth not                ... pos = 0.25  	neg = 0.625
+22. It is still beautifu                ... pos = 1.5   	neg = 0.125
+23. All in all, director                ... pos = 1.375 	neg = 0.25 
+24. The only problem is,                ... pos = 0.0   	neg = 0.375
+25. ) and slapped on a h                ... pos = 1.125 	neg = 0.0  
+26. Note to Hollywood; w                ... pos = 0.0   	neg = 0.0  
+27. *Complimentary movie                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5518-1560 is Positive        ... pos = 14.75 	neg = 7.875
+Overall score of document
+Total Pos = 14.75
+Total Neg = 7.875
+---------------------------------------------------------------------------

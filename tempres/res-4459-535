@@ -1,0 +1,78 @@
+0. Directed by: Bryan S                 ... pos = 0.125 	neg = 0.125
+1. First we have the no                 ... pos = 0.125 	neg = 0.0  
+2. Second, there are th                 ... pos = 1.125 	neg = 0.0  
+3. Professor X and is s                 ... pos = 1.25  	neg = 0.125
+4. The professor is abl                 ... pos = 0.25  	neg = 0.125
+5. His X-men (older  st                 ... pos = 0.625 	neg = 0.5  
+6. Professor Xavier's o                 ... pos = 0.125 	neg = 0.0  
+7. This group believes                  ... pos = 0.5   	neg = 0.0  
+8. Magneto and his flun                 ... pos = 0.125 	neg = 0.125
+9. To do this he requir                 ... pos = 0.5   	neg = 0.0  
+10. The students are  Wo                ... pos = 0.5   	neg = 0.125
+11. Xavier has to determ                ... pos = 0.0   	neg = 0.125
+12. Guess what folks, th                ... pos = 0.0   	neg = 0.125
+13. Bryan  Singer has ma                ... pos = 0.0   	neg = 0.0  
+14. I'd  better warn you                ... pos = 0.25  	neg = 0.875
+15. If the plot sounded                 ... pos = 0.0   	neg = 0.0  
+16. Okay, the rest of th                ... pos = 0.875 	neg = 0.25 
+17. When I first saw the                ... pos = 0.25  	neg = 0.375
+18. In fact, the only th                ... pos = 0.125 	neg = 0.25 
+19. " To say I was pleas                ... pos = 0.5   	neg = 0.25 
+20. Bryan Singer has don                ... pos = 1.0   	neg = 0.625
+21. In fact,  I haven't                 ... pos = 0.25  	neg = 0.25 
+22. I know one of the la                ... pos = 0.375 	neg = 0.375
+23. The Wolverine seen i                ... pos = 0.0   	neg = 0.875
+24. Hugh Jackman is over                ... pos = 0.5   	neg = 0.625
+25. As it turns out this                ... pos = 0.0   	neg = 0.125
+26. Not only is Jackman                 ... pos = 0.0   	neg = 0.875
+27. There are three othe                ... pos = 0.25  	neg = 0.0  
+28. First I want to  cov                ... pos = 1.0   	neg = 0.125
+29. James Marsden ("Goss                ... pos = 0.5   	neg = 1.0  
+30. Tyler Mane (of profe                ... pos = 0.75  	neg = 0.0  
+31. Ray Park ("Star Wars                ... pos = 1.5   	neg = 0.0  
+32. Finally we have Bruc                ... pos = 0.875 	neg = 0.0  
+33. This  character coul                ... pos = 1.25  	neg = 1.25 
+34. Davison keeps his pe                ... pos = 0.125 	neg = 0.0  
+35. The three great perf                ... pos = 0.0   	neg = 0.0  
+36. I can't see anyone b                ... pos = 0.25  	neg = 0.0  
+37. Stewart has all the                 ... pos = 0.625 	neg = 0.0  
+38. The only complaint I                ... pos = 0.0   	neg = 0.875
+39. While he shows up in                ... pos = 0.0   	neg = 0.0  
+40. Ian McKellen seemed                 ... pos = 0.125 	neg = 0.125
+41. The comic version of                ... pos = 0.0   	neg = 0.125
+42. Ian McKellen is obvi                ... pos = 0.625 	neg = 0.375
+43. Fortunately McKellen                ... pos = 1.375 	neg = 0.125
+44. Anna Paquin is anoth                ... pos = 0.125 	neg = 0.375
+45. The comic character                 ... pos = 1.375 	neg = 0.125
+46. Anna  Paquin is, wel                ... pos = 0.0   	neg = 0.125
+47. Thankfully she deliv                ... pos = 1.0   	neg = 0.125
+48. The Rogue character                 ... pos = 1.25  	neg = 0.5  
+49. Paquin plays the rol                ... pos = 0.625 	neg = 1.0  
+50. So how does "X-men"                 ... pos = 0.0   	neg = 0.0  
+51. Obviously  one of th                ... pos = 0.75  	neg = 0.5  
+52. However, well done s                ... pos = 0.375 	neg = 0.25 
+53. The question then be                ... pos = 1.0   	neg = 0.0  
+54. Singer keeps the  ef                ... pos = 0.25  	neg = 0.5  
+55. The first time Storm                ... pos = 0.75  	neg = 0.875
+56. The soundtrack to "X                ... pos = 0.625 	neg = 1.625
+57. Thankfully this is m                ... pos = 0.875 	neg = 0.375
+58. Wolverine gets some                 ... pos = 0.375 	neg = 0.75 
+59. "  There's also a ni                ... pos = 0.5   	neg = 1.0  
+60. Wolverine taps his c                ... pos = 0.625 	neg = 0.0  
+61. " Cyclops responds w                ... pos = 0.875 	neg = 0    
+62. " The movie runs a n                ... pos = 1.0   	neg = 0.0  
+63. Sometimes Singer's d                ... pos = 0.875 	neg = 0.25 
+64. I'd recommend "X-men                ... pos = 0.0   	neg = 0.625
+65. I give it a well ear                ... pos = 0.0   	neg = 0.0  
+66. Comments?                           ... pos = 0     	neg = 0.0  
+67. Send to: johnbeachem                ... pos = 0.375 	neg = 0.125
+68. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+69. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+70. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+71. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4459-535 is Positive         ... pos = 32.625 	neg = 21.375
+Overall score of document
+Total Pos = 32.625
+Total Neg = 21.375
+---------------------------------------------------------------------------

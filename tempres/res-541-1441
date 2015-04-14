@@ -1,0 +1,40 @@
+0. Despite deep, deep m                 ... pos = 0.375 	neg = 1.375
+1. It didn't totally su                 ... pos = 0.0   	neg = 0.875
+2. This is a science fi                 ... pos = 0.125 	neg = 0.125
+3. The visions this fil                 ... pos = 1.625 	neg = 0.25 
+4. The writers, whether                 ... pos = 0.125 	neg = 0.875
+5. Mysteries are solved                 ... pos = 0.75  	neg = 0.125
+6. It's also not a comp                 ... pos = 0.0   	neg = 0.0  
+7. The film concerns a                  ... pos = 0.0   	neg = 0.25 
+8. It's an old plot, th                 ... pos = 0.0   	neg = 0.125
+9. Philip K. Dick has d                 ... pos = 0.5   	neg = 0.0  
+10. While a less pretty                 ... pos = 0.25  	neg = 0.625
+11. We won't get into PK                ... pos = 0.0   	neg = 0.0  
+12. There are a few mome                ... pos = 0.25  	neg = 1.125
+13. At one point, a char                ... pos = 1.0   	neg = 0.125
+14. He uses the powers t                ... pos = 0.75  	neg = 0.0  
+15. (That's what I'd do.                ... pos = 0     	neg = 0.0  
+16. I suppose I shouldn'                ... pos = 0.125 	neg = 0.0  
+17. )  Oh, the god-like                 ... pos = 0.25  	neg = 0.0  
+18. Awe-inspiring, this                 ... pos = 0     	neg = 0    
+19. Actually, thinking a                ... pos = 1.0   	neg = 0.0  
+20. They also have to ge                ... pos = 2.25  	neg = 2.125
+21. The Strangers seem t                ... pos = 0.375 	neg = 0.125
+22. Except for pointy te                ... pos = 0.125 	neg = 0.0  
+23. There is something d                ... pos = 0.25  	neg = 0.125
+24. Yes, some of the goo                ... pos = 0.875 	neg = 0.25 
+25. The art design for t                ... pos = 0.625 	neg = 0.375
+26. The issues of identi                ... pos = 0.375 	neg = 0.375
+27. One question for the                ... pos = 0.0   	neg = 0.0  
+28. The film's productio                ... pos = 0.75  	neg = 0.125
+29. The idea of the myst                ... pos = 0.125 	neg = 0.125
+30. Cinderella focuses o                ... pos = 0.0   	neg = 0.0  
+31. The story is older t                ... pos = 0.125 	neg = 0.125
+32. Oh, one thing they m                ... pos = 1.0   	neg = 0.75 
+33. You'll know which it                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-541-1441 is Positive         ... pos = 14.0  	neg = 10.5 
+Overall score of document
+Total Pos = 14.0
+Total Neg = 10.5
+---------------------------------------------------------------------------

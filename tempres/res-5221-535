@@ -1,0 +1,45 @@
+0. Luc Besson, possibly                 ... pos = 1.0   	neg = 0.0  
+1. While most audience                  ... pos = 0.875 	neg = 0.125
+2. Here in "The Messeng                 ... pos = 0.0   	neg = 0.25 
+3. Most know the story                  ... pos = 0.125 	neg = 0.0  
+4. Joan (Milla Jovovich                 ... pos = 0.375 	neg = 0.25 
+5. Since then she has b                 ... pos = 0.125 	neg = 0.0  
+6. The interesting thin                 ... pos = 0.125 	neg = 0.125
+7. In order to drive th                 ... pos = 0.125 	neg = 0.0  
+8. She begs the dauphin                 ... pos = 0.0   	neg = 0.0  
+9. At the head of this                  ... pos = 0.625 	neg = 0.0  
+10. Successful, the Fren                ... pos = 0.75  	neg = 0.0  
+11. As Joan is unwilling                ... pos = 0.0   	neg = 0.875
+12. This film can be div                ... pos = 0.25  	neg = 0.125
+13. The first, and possi                ... pos = 0.25  	neg = 0.625
+14. During this, we are                 ... pos = 0.5   	neg = 0.75 
+15. This third of the fi                ... pos = 0.5   	neg = 0.25 
+16. It only begins to pi                ... pos = 0.0   	neg = 0.0  
+17. Even with a characte                ... pos = 1.625 	neg = 0.125
+18. The second segment o                ... pos = 0.0   	neg = 0.125
+19. It should be noted h                ... pos = 1.375 	neg = 0.25 
+20. In particular, Richa                ... pos = 0.625 	neg = 0.75 
+21. The battle sequences                ... pos = 1.625 	neg = 0.0  
+22. The final sequence,                 ... pos = 0.875 	neg = 0.375
+23. This segment focuses                ... pos = 0.0   	neg = 0.0  
+24. Joan's conscience fo                ... pos = 0.75  	neg = 0.625
+25. Some of these scenes                ... pos = 1.125 	neg = 0.0  
+26. Despite this, the tr                ... pos = 0.0   	neg = 0.25 
+27. Perhaps the largest                 ... pos = 0.125 	neg = 0.375
+28. The film simply runs                ... pos = 0.25  	neg = 0.375
+29. I can't quite recomm                ... pos = 0.0   	neg = 0.0  
+30. I give "The Messenge                ... pos = 0.0   	neg = 0.0  
+31. Feel free to E-mail                 ... pos = 0.875 	neg = 0.0  
+32. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+33. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+34. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+35. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+36. See it if you've got                ... pos = 0.0   	neg = 0.25 
+37. * - One of the worst                ... pos = 0.0   	neg = 0.375
+38. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5221-535 is Positive         ... pos = 15.25 	neg = 8.375
+Overall score of document
+Total Pos = 15.25
+Total Neg = 8.375
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. Review by Victory A.                 ... pos = 1.0   	neg = 0.125
+1. On the one hand, the                 ... pos = 0.5   	neg = 0.0  
+2. On the other hand, B                 ... pos = 1.625 	neg = 0.0  
+3. This choice is a sma                 ... pos = 1.375 	neg = 0.125
+4. Indeed, the impact o                 ... pos = 0.125 	neg = 0.625
+5. _Beloved_ takes plac                 ... pos = 0.25  	neg = 0.0  
+6. For newly-freed slav                 ... pos = 0.0   	neg = 0.125
+7. Oprah Winfrey is Set                 ... pos = 0.0   	neg = 0.125
+8. What she did not kno                 ... pos = 0.0   	neg = 0.75 
+9. _Beloved_ ultimately                 ... pos = 0.375 	neg = 0    
+10. The film starts off                 ... pos = 0.625 	neg = 1.0  
+11. Invisible hands terr                ... pos = 0.125 	neg = 0.875
+12. Sethe's sons run awa                ... pos = 0.75  	neg = 0.0  
+13. Demme's matter-of-fa                ... pos = 0.25  	neg = 0.125
+14. All of the character                ... pos = 1.5   	neg = 0    
+15. When Paul D (Danny G                ... pos = 0.125 	neg = 0.125
+16. Instead, he asks who                ... pos = 0.125 	neg = 0.125
+17. As in Morrison's nov                ... pos = 0.75  	neg = 0.125
+18. Sethe is the one bei                ... pos = 0.625 	neg = 0.25 
+19. In fact, the ghost i                ... pos = 0.0   	neg = 0.125
+20. The story takes an b                ... pos = 0.125 	neg = 0.25 
+21. Sethe and Denver imm                ... pos = 0.125 	neg = 0.0  
+22. They know not who sh                ... pos = 0.0   	neg = 0.125
+23. Only Paul D is suspi                ... pos = 0.0   	neg = 0.125
+24. Little does the fami                ... pos = 1.125 	neg = 0.25 
+25. Winfrey is arguably                 ... pos = 0.875 	neg = 0.125
+26. She inhabits the rol                ... pos = 1.0   	neg = 1.0  
+27. Lisa Gay Hamilton do                ... pos = 0.375 	neg = 0.375
+28. Danny Glover is affa                ... pos = 0.625 	neg = 0.25 
+29. As Sethe's sage-like                ... pos = 0.125 	neg = 0.0  
+30. The film's least pal                ... pos = 0.5   	neg = 1.0  
+31. Thandie Newton plays                ... pos = 0.75  	neg = 0.75 
+32. Departing from the h                ... pos = 1.5   	neg = 0.0  
+33. Totemic camera shots                ... pos = 1.0   	neg = 0.0  
+34. _Beloved_'s most mem                ... pos = 1.375 	neg = 0.0  
+35. For the most part, t                ... pos = 0.0   	neg = 0.0  
+36. This, combined with                 ... pos = 0.125 	neg = 0.0  
+37. Though the film comp                ... pos = 0.625 	neg = 0.5  
+38. Nothing is spoon-fed                ... pos = 0.25  	neg = 0.375
+39. Morrison's novel is                 ... pos = 0.875 	neg = 0.25 
+40. The movie begins lik                ... pos = 0.0   	neg = 0.75 
+41. Taken as a whole, Be                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3335-66 is Positive          ... pos = 21.875 	neg = 11.0 
+Overall score of document
+Total Pos = 21.875
+Total Neg = 11.0
+---------------------------------------------------------------------------

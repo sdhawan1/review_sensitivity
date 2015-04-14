@@ -1,0 +1,36 @@
+0. Robert Altman is bac                 ... pos = 0.0   	neg = 0.125
+1. After a series of mu                 ... pos = 0.75  	neg = 0.0  
+2. In "Cookie's Fortune                 ... pos = 0.125 	neg = 0.0  
+3. The body is discover                 ... pos = 0.5   	neg = 1.375
+4. (Of course, anyone w                 ... pos = 0.25  	neg = 0.125
+5. )  Suspicion falls o                 ... pos = 0.25  	neg = 0.25 
+6. Altman's trademark i                 ... pos = 1.625 	neg = 0.125
+7. Julianne Moore plays                 ... pos = 0.5   	neg = 0.25 
+8. Liv Tyler plays Cora                 ... pos = 0.0   	neg = 0.0  
+9. Boy wonder Chris O'D                 ... pos = 0.375 	neg = 0.0  
+10. Ned Beatty is also o                ... pos = 1.125 	neg = 0.5  
+11. "  Courtney B. Vance                ... pos = 0.625 	neg = 0.125
+12. And lurking around t                ... pos = 0.125 	neg = 0.125
+13. Altman's genius is t                ... pos = 1.5   	neg = 0.125
+14. Altman and first-tim                ... pos = 0.75  	neg = 0.25 
+15. Many of the funniest                ... pos = 1.875 	neg = 0.0  
+16. Willis' lawyer (Dona                ... pos = 0.125 	neg = 0.25 
+17. Glenn Close gives a                 ... pos = 0.0   	neg = 0    
+18. Camille is a self-ob                ... pos = 0.625 	neg = 0.25 
+19. As I watched Close w                ... pos = 0.625 	neg = 0.25 
+20. Hollywood tends to d                ... pos = 1.0   	neg = 0.0  
+21. It's a joy to see Pa                ... pos = 0.5   	neg = 0    
+22. Even at 72, she reta                ... pos = 0.625 	neg = 0.0  
+23. "Cookie's Fortune" i                ... pos = 0.5   	neg = 0.125
+24. Holly Springs seems                 ... pos = 0.0   	neg = 0.125
+25. Its jail cells are l                ... pos = 1.0   	neg = 0.0  
+26. The only person who                 ... pos = 1.75  	neg = 0.75 
+27. "Cookie's Fortune" i                ... pos = 0.875 	neg = 0.125
+28. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+29. ">http://www.wpd.net                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2673-1265 is Positive        ... pos = 18.0  	neg = 5.25 
+Overall score of document
+Total Pos = 18.0
+Total Neg = 5.25
+---------------------------------------------------------------------------

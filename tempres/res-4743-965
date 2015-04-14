@@ -1,0 +1,42 @@
+0. The trick in a movie                 ... pos = 0.75  	neg = 0.375
+1. Thus winning or losi                 ... pos = 0.25  	neg = 0.25 
+2. It's a common enough                 ... pos = 0.625 	neg = 0.25 
+3. Or, talking Kevin Co                 ... pos = 0.0   	neg = 0.0  
+4. Which is to say Love                 ... pos = 3.0   	neg = 0.25 
+5. None of this is unex                 ... pos = 0.125 	neg = 0.125
+6. What is a surprise,                  ... pos = 0.625 	neg = 0.125
+7. Meaning yes, the bul                 ... pos = 0.0   	neg = 0.0  
+8. It's all flashbacks,                 ... pos = 1.125 	neg = 0.0  
+9. Or, of making us rea                 ... pos = 1.0   	neg = 0.125
+10. Which is all good an                ... pos = 0.75  	neg = 0.125
+11. The problem with non                ... pos = 0.125 	neg = 0.5  
+12. As in repetitive.                   ... pos = 0.0   	neg = 0.0  
+13. As in every scar and                ... pos = 0.0   	neg = 0.0  
+14. In Love of the Game,                ... pos = 0.625 	neg = 0.375
+15. And you can tell whe                ... pos = 0.375 	neg = 1.125
+16. But then it a movie                 ... pos = 0.0   	neg = 0.0  
+17. And it is Kevin Cost                ... pos = 0.0   	neg = 0.125
+18. And it is--in spite                 ... pos = 0.875 	neg = 2.75 
+19. And this 'story of t                ... pos = 1.375 	neg = 0.0  
+20. However, unlike most                ... pos = 1.5   	neg = 0.0  
+21. But of course Billy                 ... pos = 0.875 	neg = 0.0  
+22. Everyone in the movi                ... pos = 0.5   	neg = 0.75 
+23. Which isn't to say y                ... pos = 1.5   	neg = 0.875
+24. Perhaps it's meant t                ... pos = 0.25  	neg = 0.125
+25. The thing is, though                ... pos = 0.375 	neg = 0.125
+26. Which would be fine                 ... pos = 0.625 	neg = 0.375
+27. Or, it tries hard to                ... pos = 0.0   	neg = 1.5  
+28. Meaning it's a littl                ... pos = 0.0   	neg = 0.25 
+29. And this simply beca                ... pos = 0.0   	neg = 0.0  
+30. But so be it.                       ... pos = 0.0   	neg = 0.125
+31. It is satisfying in                 ... pos = 0.5   	neg = 0.125
+32. There is a definite                 ... pos = 2.0   	neg = 0.125
+33. And there is a serio                ... pos = 0.625 	neg = 1.125
+34. Love of the Game is                 ... pos = 0.625 	neg = 0.125
+35. (c) 1999  Stephen Gr                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4743-965 is Positive         ... pos = 21.0  	neg = 12.125
+Overall score of document
+Total Pos = 21.0
+Total Neg = 12.125
+---------------------------------------------------------------------------

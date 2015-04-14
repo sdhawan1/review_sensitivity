@@ -1,0 +1,39 @@
+0. NOTE: Throughout thi                 ... pos = 0.875 	neg = 0.0  
+1. I think that if any                  ... pos = 0.125 	neg = 1.25 
+2. Star Wars - Episode                  ... pos = 0.375 	neg = 0.125
+3. The film turned out                  ... pos = 0.0   	neg = 1.0  
+4. How about Austin Pow                 ... pos = 0.0   	neg = 0.0  
+5. While the sequel to                  ... pos = 0.0   	neg = 0.375
+6. Or for an even bette                 ... pos = 0.0   	neg = 0.5  
+7. The next heavily hyp                 ... pos = 1.125 	neg = 0.125
+8. I was hesitant at fi                 ... pos = 0.125 	neg = 0.125
+9. Lester Burnham (Spac                 ... pos = 0.125 	neg = 0.375
+10. Lester finds his lif                ... pos = 0.25  	neg = 0.625
+11. That all changes whe                ... pos = 0.375 	neg = 0.0  
+12. So he begins working                ... pos = 0.125 	neg = 0.0  
+13. Lifting weights and                 ... pos = 1.0   	neg = 0.25 
+14. Ricky films every he                ... pos = 0.125 	neg = 0.0  
+15. As Lester finds what                ... pos = 0.75  	neg = 0.375
+16. But it's not only th                ... pos = 2.0   	neg = 0.125
+17. Here is a film so wo                ... pos = 2.125 	neg = 0.25 
+18. If this isn't a Best                ... pos = 0.625 	neg = 0.125
+19. Everything about Ame                ... pos = 0.75  	neg = 0.125
+20. The film does howeve                ... pos = 1.375 	neg = 1.375
+21. Both of these things                ... pos = 1.5   	neg = 0.0  
+22. So go and see this f                ... pos = 0.25  	neg = 0.5  
+23. You must see this fi                ... pos = 0.375 	neg = 0    
+24. What are you still r                ... pos = 0.25  	neg = 0    
+25. It's like your not e                ... pos = 0.375 	neg = 0.0  
+26. Go to the theater an                ... pos = 0.5   	neg = 0.0  
+27. The Young-Uns: Ouch,                ... pos = 0.0   	neg = 0    
+28. Lots and lots of sex                ... pos = 0.625 	neg = 1.375
+29. Drug use also rates                 ... pos = 0.0   	neg = 0.125
+30. Violence also rates                 ... pos = 0.125 	neg = 0.0  
+31. Also, bad attitudes                 ... pos = 0.0   	neg = 0.875
+32. Good Age: 17 & Up. A                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-329 is Positive         ... pos = 17.0  	neg = 10.0 
+Overall score of document
+Total Pos = 17.0
+Total Neg = 10.0
+---------------------------------------------------------------------------

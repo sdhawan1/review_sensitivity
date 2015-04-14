@@ -1,0 +1,62 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring Jim Carrey,                 ... pos = 0.0   	neg = 0.0  
+2. Written by Peter Far                 ... pos = 0.0   	neg = 0    
+3. Directed by Bobby Fa                 ... pos = 0.0   	neg = 0    
+4. Rated R.. It seemed                  ... pos = 0.125 	neg = 0.125
+5. What better for the                  ... pos = 0.375 	neg = 0.0  
+6. It's exactly the sor                 ... pos = 0.25  	neg = 0.125
+7. Jim Carrey's signed                  ... pos = 0     	neg = 0.25 
+8. Even better.                         ... pos = 0     	neg = 0.0  
+9. The National Allianc                 ... pos = 0.5   	neg = 0.625
+10. Such a protest seeme                ... pos = 0.875 	neg = 0.75 
+11. Yes, it all seemed p                ... pos = 0.0   	neg = 0.125
+12. It's not for lack of                ... pos = 0.0   	neg = 0.625
+13. The Farrellys utiliz                ... pos = 0.875 	neg = 0.0  
+14. This, of course, mea                ... pos = 0.75  	neg = 0.0  
+15. Soon enough, Charlie                ... pos = 0.875 	neg = 0.75 
+16. This guy isn't above                ... pos = 0.0   	neg = 0.875
+17. Then things start ge                ... pos = 0.0   	neg = 0.625
+18. Some have suggested                 ... pos = 0.0   	neg = 0.375
+19. They're wrong, of co                ... pos = 0.25  	neg = 0.875
+20. " (1999's "Outside P                ... pos = 0.0   	neg = 0.125
+21. ) The brothers' earl                ... pos = 1.25  	neg = 0.125
+22. In "Mary," the Farre                ... pos = 1.0   	neg = 1.125
+23. "Me, Myself & Irene,                ... pos = 0.5   	neg = 0.625
+24. Having been produced                ... pos = 0.0   	neg = 1.0  
+25. The brothers pile on                ... pos = 0.125 	neg = 0.25 
+26. But they haven't com                ... pos = 0.375 	neg = 0.625
+27. The plot, with Carre                ... pos = 0.875 	neg = 0.625
+28. (Think Charlie and I                ... pos = 0.75  	neg = 0.0  
+29. Yeah, me too.                       ... pos = 0     	neg = 0.25 
+30. ) The Farrellys then                ... pos = 1.5   	neg = 1.125
+31. Compared to the curv                ... pos = 1.0   	neg = 0.625
+32. The jokes that do wo                ... pos = 0.625 	neg = 0.0  
+33. Take, for example, t                ... pos = 0.0   	neg = 0.0  
+34. The incongruity of i                ... pos = 1.125 	neg = 1.75 
+35. But by the end of th                ... pos = 0.0   	neg = 0.375
+36. That's too bad, beca                ... pos = 0.0   	neg = 1.25 
+37. "Me, Myself & Irene"                ... pos = 0     	neg = 1.125
+38. There ought to be mo                ... pos = 0.375 	neg = 0.125
+39. This doesn't really                 ... pos = 1.375 	neg = 0.125
+40. The film throws what                ... pos = 0.25  	neg = 0.375
+41. Jim Carrey is a gift                ... pos = 0.5   	neg = 0.375
+42. " It's a great showc                ... pos = 0.5   	neg = 0.125
+43. Carrey doesn't pull                 ... pos = 0.375 	neg = 0.625
+44. Perhaps Carrey can t                ... pos = 0.375 	neg = 0.25 
+45. Zellweger's Irene is                ... pos = 0.75  	neg = 0.375
+46. Irene is nothing in                 ... pos = 0.5   	neg = 0.625
+47. As such, she gives u                ... pos = 0.0   	neg = 0.25 
+48. Chris Cooper is stuc                ... pos = 1.75  	neg = 0.5  
+49. He, like the others,                ... pos = 0.125 	neg = 0.25 
+50. After viewing the sh                ... pos = 0.0   	neg = 0.75 
+51. Maybe their kind of                 ... pos = 0.625 	neg = 0.375
+52. But I don't believe                 ... pos = 1.0   	neg = 0.0  
+53. If the Farrellys are                ... pos = 1.25  	neg = 0.0  
+54. Even after that happ                ... pos = 0.125 	neg = 0.125
+55. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4176-1477 is Positive        ... pos = 23.875 	neg = 22.375
+Overall score of document
+Total Pos = 23.875
+Total Neg = 22.375
+---------------------------------------------------------------------------

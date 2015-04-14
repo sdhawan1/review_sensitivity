@@ -1,0 +1,81 @@
+0. **** (out of 4) Stan                 ... pos = 0.0   	neg = 0.125
+1. I didn't know who he                 ... pos = 0.25  	neg = 0.125
+2. So EYES WIDE SHUT wa                 ... pos = 1.125 	neg = 0.125
+3. Maybe my perception                  ... pos = 2.5   	neg = 0.25 
+4. At a ritzy party, Dr                 ... pos = 0.5   	neg = 0.0  
+5. Bill is approached b                 ... pos = 0.0   	neg = 0.125
+6. They boldly flirt wi                 ... pos = 0.875 	neg = 0.0  
+7. Alice is swept onto                  ... pos = 0.0   	neg = 0.125
+8. She too enjoys the a                 ... pos = 0.875 	neg = 0.25 
+9. Back at home, the tw                 ... pos = 0.625 	neg = 0.125
+10. This is the famous s                ... pos = 0.375 	neg = 0.125
+11. Their thoughts from                 ... pos = 0.625 	neg = 1.375
+12. The talking turns in                ... pos = 0.0   	neg = 0.0  
+13. Alice, a little spac                ... pos = 0.375 	neg = 0.25 
+14. Once, on vacation, s                ... pos = 0.0   	neg = 0.0  
+15. In that moment, she                 ... pos = 1.875 	neg = 0.25 
+16. She had half hoped,                 ... pos = 0.75  	neg = 0.0  
+17. She tells Bill, with                ... pos = 0.0   	neg = 0.125
+18. Their argument is in                ... pos = 0.25  	neg = 0.5  
+19. One of Bill's patien                ... pos = 0.0   	neg = 0.0  
+20. The unfinished fight                ... pos = 0.375 	neg = 0.5  
+21. After being proposit                ... pos = 0.625 	neg = 0.5  
+22. He spends that night                ... pos = 1.0   	neg = 0.125
+23. Hookers, ritualistic                ... pos = 0.625 	neg = 0.75 
+24. But Bill is a newcom                ... pos = 0.25  	neg = 0.125
+25. At every turn, fate,                ... pos = 0.0   	neg = 0.5  
+26. EYES WIDE SHUT is ve                ... pos = 1.25  	neg = 0.125
+27. First off, the actin                ... pos = 0.125 	neg = 0.75 
+28. This was probably To                ... pos = 0.375 	neg = 0.125
+29. There were times whe                ... pos = 1.0   	neg = 0.375
+30. His dip down into ob                ... pos = 0.25  	neg = 0.125
+31. Kidman was equally g                ... pos = 0.875 	neg = 0.25 
+32. During the fight, Al                ... pos = 0.375 	neg = 0.0  
+33. Kidman is able to co                ... pos = 1.125 	neg = 0.125
+34. Later, at the reconc                ... pos = 0.0   	neg = 0.25 
+35. Also, the look of th                ... pos = 0.75  	neg = 0.5  
+36. Kubrick uses a grain                ... pos = 0.5   	neg = 0.625
+37. Many scenes are lit                 ... pos = 0.25  	neg = 0.125
+38. One set -- the party                ... pos = 1.0   	neg = 0.125
+39. Or maybe he did it t                ... pos = 0.125 	neg = 0.25 
+40. The look is consiste                ... pos = 0.25  	neg = 1.25 
+41. Also, the interior s                ... pos = 0.25  	neg = 0.375
+42. I already mentioned                 ... pos = 0.5   	neg = 0.0  
+43. But the most impress                ... pos = 0.125 	neg = 0.125
+44. A perfect circle of                 ... pos = 0.5   	neg = 0.0  
+45. Dozens of figures ga                ... pos = 0.0   	neg = 0.25 
+46. Every figure is mask                ... pos = 0.125 	neg = 0.125
+47. The first glimpse is                ... pos = 0.5   	neg = 0.75 
+48. And yet it grows on                 ... pos = 0.25  	neg = 0.5  
+49. Kubrick's cinematogr                ... pos = 0.25  	neg = 0.0  
+50. One can see a sharp                 ... pos = 0.125 	neg = 0.0  
+51. A few examples come                 ... pos = 0.375 	neg = 0.0  
+52. But when Alice drops                ... pos = 0.375 	neg = 0.0  
+53. Later, after a very                 ... pos = 0.625 	neg = 0.375
+54. The stark, sharp con                ... pos = 0.625 	neg = 0.375
+55. It tells us exactly                 ... pos = 0.875 	neg = 0.0  
+56. Finally, music plays                ... pos = 0.875 	neg = 0.0  
+57. In particular, a sad                ... pos = 0.375 	neg = 0.875
+58. It is like a slower,                ... pos = 0.125 	neg = 0.125
+59. It adds the final di                ... pos = 0.625 	neg = 0.0  
+60. Perhaps the best thi                ... pos = 1.125 	neg = 0.125
+61. In a way, Kubrick is                ... pos = 0.0   	neg = 0.125
+62. He is the guide on a                ... pos = 0.375 	neg = 0.625
+63. I'm sad that there w                ... pos = 0.125 	neg = 1.0  
+64. Nobody else does so                 ... pos = 0.125 	neg = 0.0  
+65. Each movie is a mast                ... pos = 0.75  	neg = 0.125
+66. 2001 has an incredib                ... pos = 0.125 	neg = 0.75 
+67. BARRY LYNDON has unb                ... pos = 0.0   	neg = 0.0  
+68. PATHS OF GLORY is a                 ... pos = 0.5   	neg = 0.125
+69. And EYES WIDE SHUT,                 ... pos = 0.75  	neg = 0.25 
+70. I really only got to                ... pos = 0.375 	neg = 0.75 
+71. But at least I final                ... pos = 0.0   	neg = 0.0  
+72. I hope another direc                ... pos = 1.5   	neg = 0.875
+73. Stanley Kubrick, her                ... pos = 0.0   	neg = 0    
+74. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1684-1008 is Positive        ... pos = 35.375 	neg = 20.0 
+Overall score of document
+Total Pos = 35.375
+Total Neg = 20.0
+---------------------------------------------------------------------------

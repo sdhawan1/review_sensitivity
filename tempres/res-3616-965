@@ -1,0 +1,36 @@
+0. Bringing Out the Dea                 ... pos = 0.125 	neg = 0.0  
+1. Similarly, with croo                 ... pos = 0.125 	neg = 1.125
+2. It makes sense then                  ... pos = 0.0   	neg = 0.0  
+3. ' But if it were tha                 ... pos = 0.125 	neg = 0.25 
+4. These are guys who c                 ... pos = 0.25  	neg = 0.125
+5. All of which is prob                 ... pos = 1.0   	neg = 0.125
+6. Of these 'complex' c                 ... pos = 0.875 	neg = 0.125
+7. This simply because                  ... pos = 0.0   	neg = 0.0  
+8. And it's been so lon                 ... pos = 0     	neg = 0.5  
+9. And, in addition, he                 ... pos = 0.375 	neg = 0.625
+10. Of course, too, he t                ... pos = 0.0   	neg = 1.0  
+11. And it's slowly push                ... pos = 0.0   	neg = 0    
+12. And everyone's dying                ... pos = 0.0   	neg = 0.0  
+13. And he's got an inte                ... pos = 0.0   	neg = 0.0  
+14. Enter Mary Burke (Pa                ... pos = 0.75  	neg = 0.0  
+15. Brings people water                 ... pos = 0.0   	neg = 0.125
+16. All of which suggest                ... pos = 0.375 	neg = 0.0  
+17. He did resuscitate h                ... pos = 0.0   	neg = 0.0  
+18. Too, though, her fat                ... pos = 2.375 	neg = 2.875
+19. Does Pierce get 'sav                ... pos = 0.0   	neg = 0.0  
+20. It's hard to tell.                  ... pos = 0.0   	neg = 0.75 
+21. Or, rather, it's har                ... pos = 0.5   	neg = 1.0  
+22. All the whacked-out                 ... pos = 0.125 	neg = 0.0  
+23. With the right editi                ... pos = 0.75  	neg = 0.0  
+24. Too, it could have b                ... pos = 0.375 	neg = 1.25 
+25. As it is, though, it                ... pos = 0.0   	neg = 0.375
+26. And the bad thing is                ... pos = 0.0   	neg = 1.375
+27. The good thing is yo                ... pos = 0.75  	neg = 0.125
+28. Or, don't feel you m                ... pos = 0.0   	neg = 0.25 
+29. for more like this,                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3616-965 is Negative         ... pos = 8.875 	neg = 12.0 
+Overall score of document
+Total Pos = 8.875
+Total Neg = 12.0
+---------------------------------------------------------------------------

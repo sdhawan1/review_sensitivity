@@ -1,0 +1,35 @@
+0. Starring-Sean Conner                 ... pos = 0.125 	neg = 0.375
+1. Connery will always                  ... pos = 1.25  	neg = 1.0  
+2. His age is starting                  ... pos = 1.0   	neg = 0.25 
+3. In Entrapment he pla                 ... pos = 0.125 	neg = 0.75 
+4. He catches the eye o                 ... pos = 0.0   	neg = 0.0  
+5. ) named Gin Baker, C                 ... pos = 0.0   	neg = 0.0  
+6. With the news that a                 ... pos = 1.125 	neg = 0.25 
+7. So she tracks him do                 ... pos = 0.0   	neg = 0.125
+8. Of course, her boss                  ... pos = 0.25  	neg = 0.0  
+9. But carefully predic                 ... pos = 0.375 	neg = 0.0  
+10. Zeta-Jones is 29, an                ... pos = 0.0   	neg = 0.25 
+11. With this enormous a                ... pos = 0.625 	neg = 0.0  
+12. The answer is a surp                ... pos = 0.125 	neg = 0.125
+13. Director Jon Amiel p                ... pos = 1.0   	neg = 0.125
+14. If this is simply a                 ... pos = 0.875 	neg = 1.0  
+15. In one scene toward                 ... pos = 0.125 	neg = 0.0  
+16. Even if he could pla                ... pos = 0.0   	neg = 0.0  
+17. One disappointement                 ... pos = 0.375 	neg = 0.125
+18. Ving Rhames is once                 ... pos = 0.25  	neg = 0.75 
+19. Maury Chaykin hams i                ... pos = 0.0   	neg = 0.0  
+20. Will Patton has litt                ... pos = 0.375 	neg = 0.25 
+21. Amiel also uses a fa                ... pos = 1.0   	neg = 0.0  
+22. But, Entrapment is s                ... pos = 1.0   	neg = 1.625
+23. The final robbery th                ... pos = 0.25  	neg = 0.25 
+24. I never even glanced                ... pos = 0.0   	neg = 0.0  
+25. Catherine Zeta-Jones                ... pos = 0.5   	neg = 0.125
+26. Reports indicate he                 ... pos = 0.0   	neg = 0    
+27. No matter how old he                ... pos = 0.0   	neg = 0.375
+28. ....................                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3431-693 is Positive         ... pos = 10.75 	neg = 7.75 
+Overall score of document
+Total Pos = 10.75
+Total Neg = 7.75
+---------------------------------------------------------------------------

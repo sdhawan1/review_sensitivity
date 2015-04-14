@@ -1,0 +1,40 @@
+0. Released 1997, will                  ... pos = 0.625 	neg = 0.375
+1. Starring: George Clo                 ... pos = 1.25  	neg = 0.25 
+2. Rating: Zero stars.                  ... pos = 0     	neg = 0.0  
+3. ] Important: all lov                 ... pos = 1.125 	neg = 0    
+4. The latest Bat flick                 ... pos = 0.0   	neg = 1.5  
+5. Chris O' Donnel is f                 ... pos = 0.875 	neg = 1.25 
+6. Arnie isn't far behi                 ... pos = 0.0   	neg = 0    
+7. In fact, with the no                 ... pos = 0.75  	neg = 0.5  
+8. It feels like a long                 ... pos = 1.5   	neg = 1.25 
+9. We are not amused.                   ... pos = 1.125 	neg = 0    
+10. The film takes no ti                ... pos = 0.0   	neg = 0.0  
+11. After the credits th                ... pos = 0.0   	neg = 1.375
+12. Freeze ( whadaya kno                ... pos = 0.5   	neg = 0.0  
+13. ).                                  ... pos = 0     	neg = 0    
+14. Not only does the fo                ... pos = 0.0   	neg = 0.5  
+15. Of course if it was                 ... pos = 1.25  	neg = 0.5  
+16. Not only did I have                 ... pos = 0.0   	neg = 0.75 
+17. And that's how I fel                ... pos = 0.0   	neg = 0.0  
+18. You see, there are n                ... pos = 1.125 	neg = 0.875
+19. And entire scenes ar                ... pos = 0.25  	neg = 1.5  
+20. Which brings us to t                ... pos = 0.0   	neg = 0.125
+21. They talk to themsel                ... pos = 0.125 	neg = 1.125
+22. This film is truly p                ... pos = 0.75  	neg = 0.875
+23. Batman And Robin is                 ... pos = 0.25  	neg = 0.125
+24. Where are the nipple                ... pos = 0.25  	neg = 0.0  
+25. Where did these peop                ... pos = 0.0   	neg = 0.0  
+26. Who cares?                          ... pos = 0.0   	neg = 0.0  
+27. Why the hell was thi                ... pos = 0     	neg = 0.625
+28. I have the informati                ... pos = 0.0   	neg = 1.25 
+29. The film is rated PG                ... pos = 0.25  	neg = 0.125
+30. It should be rated R                ... pos = 0.125 	neg = 0.25 
+31. Some of the sets are                ... pos = 1.0   	neg = 0.0  
+32. I give it no stars.                 ... pos = 0.0   	neg = 0.25 
+33. See Contact or Hercu                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4883-12 is Negative          ... pos = 13.125 	neg = 15.375
+Overall score of document
+Total Pos = 13.125
+Total Neg = 15.375
+---------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+0. Despite its plethora                 ... pos = 0.5   	neg = 1.0  
+1. Sort of.                             ... pos = 0     	neg = 0.0  
+2. I was reminded of th                 ... pos = 0.875 	neg = 0.125
+3. SEVEN is a far super                 ... pos = 0.25  	neg = 0.125
+4. You know right away                  ... pos = 0.75  	neg = 0.25 
+5. After rescuing the h                 ... pos = 1.875 	neg = 0.0  
+6. He is obsessed over                  ... pos = 0.5   	neg = 1.0  
+7. And, thus begins a f                 ... pos = 0.0   	neg = 0.0  
+8. I mentioned loose en                 ... pos = 0.375 	neg = 0.0  
+9. For instance, what d                 ... pos = 0.0   	neg = 0.0  
+10. I mean, except to in                ... pos = 0.0   	neg = 0.0  
+11. And why (SPOILER ale                ... pos = 0.125 	neg = 0.0  
+12. What was the deal wi                ... pos = 0.0   	neg = 0.25 
+13. Those computers the                 ... pos = 0.0   	neg = 0.5  
+14. And, then ARLINGTON                 ... pos = 0.625 	neg = 1.375
+15. Not that I have prob                ... pos = 0.75  	neg = 0.25 
+16. Išm only saying don                ... pos = 0.0   	neg = 0.0  
+17. Had ARLINGTON ROAD p                ... pos = 0.25  	neg = 0.125
+18. Lose Jeff Bridges, o                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1717-1278 is Positive        ... pos = 7.375 	neg = 5.125
+Overall score of document
+Total Pos = 7.375
+Total Neg = 5.125
+---------------------------------------------------------------------------

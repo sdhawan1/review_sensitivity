@@ -1,0 +1,49 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring Nicolas Cag                 ... pos = 0.125 	neg = 0.0  
+2. Screenplay by Scott                  ... pos = 0.0   	neg = 0.0  
+3. Directed by Dominic                  ... pos = 0.0   	neg = 0.0  
+4. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+5. "Gone in Sixty Secon                 ... pos = 0.0   	neg = 0.25 
+6. Logically, intellect                 ... pos = 0.75  	neg = 1.0  
+7. But on a baser, more                 ... pos = 0.375 	neg = 0.0  
+8. I could wax philosop                 ... pos = 0.375 	neg = 1.625
+9. But to give it a low                 ... pos = 0.125 	neg = 0.375
+10. Despite all my  brai                ... pos = 0.625 	neg = 0.0  
+11. The plot deals with                 ... pos = 0.0   	neg = 0.875
+12. To do so, Raines mus                ... pos = 0.625 	neg = 0.125
+13. Being an old pro (wh                ... pos = 0.375 	neg = 0.125
+14. Sound contrived?                    ... pos = 0.0   	neg = 0.0  
+15. Of course it's contr                ... pos = 0     	neg = 0.0  
+16. This film was produc                ... pos = 0.0   	neg = 0.125
+17. He even throws in a                 ... pos = 0.125 	neg = 0.0  
+18. She's played by Ange                ... pos = 0.0   	neg = 0.0  
+19. The  truncated chara                ... pos = 1.875 	neg = 0.0  
+20. After  all, characte                ... pos = 0.875 	neg = 0    
+21. They are merely prop                ... pos = 0.25  	neg = 0.125
+22. In the past, Bruckhe                ... pos = 1.125 	neg = 0.25 
+23. Since he's not much                 ... pos = 0.875 	neg = 0.625
+24. The best thing, then                ... pos = 0.875 	neg = 0.125
+25. Yes, there are still                ... pos = 1.875 	neg = 0.375
+26. Simplicity is a  nec                ... pos = 1.125 	neg = 0.625
+27. "Gone  in Sixty Seco                ... pos = 0.5   	neg = 0.0  
+28. The car chases (and                 ... pos = 0.25  	neg = 0.125
+29. "Gone in Sixty Secon                ... pos = 0.0   	neg = 1.125
+30. It's here the movie                 ... pos = 0.0   	neg = 0.0  
+31. Now, I could complai                ... pos = 0.5   	neg = 1.25 
+32. (Who wrote this scri                ... pos = 0.0   	neg = 0.0  
+33. ) Or I could complai                ... pos = 0.0   	neg = 0.375
+34. ("How bad is it?                    ... pos = 0.0   	neg = 1.0  
+35. " "Bad.                             ... pos = 0     	neg = 0    
+36. ") And I  could cite                ... pos = 1.375 	neg = 1.0  
+37. But if I did that, I                ... pos = 0.125 	neg = 0.125
+38. No, it's not the lea                ... pos = 1.0   	neg = 0.625
+39. What I like about "G                ... pos = 0.125 	neg = 0.25 
+40. It's  considerably l                ... pos = 1.0   	neg = 0.875
+41. I'll take fun, shame                ... pos = 0.125 	neg = 1.125
+42. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1854-1477 is Positive        ... pos = 17.5  	neg = 14.5 
+Overall score of document
+Total Pos = 17.5
+Total Neg = 14.5
+---------------------------------------------------------------------------

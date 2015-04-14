@@ -1,0 +1,47 @@
+0. `Being John Malkovic                 ... pos = 0.875 	neg = 0.375
+1. In all my experience                 ... pos = 0.25  	neg = 0.25 
+2. It's like `Alice in                  ... pos = 0.75  	neg = 0.0  
+3. It's only when you'r                 ... pos = 1.25  	neg = 0.125
+4. It's a wonderfully w                 ... pos = 0.375 	neg = 0.875
+5. `Being John Malkovic                 ... pos = 0.375 	neg = 0.25 
+6. The kind where nothi                 ... pos = 0.0   	neg = 0.75 
+7. ' (that's just an ex                 ... pos = 0.0   	neg = 0.0  
+8. Writer Charlie Kaufm                 ... pos = 0.75  	neg = 0.0  
+9. The only other known                 ... pos = 0.0   	neg = 0.75 
+10. A lot of mind-expand                ... pos = 0.0   	neg = 0    
+11. John Cusack plays Cr                ... pos = 0.0   	neg = 0.5  
+12. Replying to an ad in                ... pos = 0.375 	neg = 0.0  
+13. On this particular f                ... pos = 0.0   	neg = 0.125
+14. The secretary at the                ... pos = 0.0   	neg = 0.125
+15. The boss, Dr. Lester                ... pos = 0.125 	neg = 0.25 
+16. All of this seems ve                ... pos = 0.875 	neg = 0.125
+17. One day, while searc                ... pos = 0.0   	neg = 0.0  
+18. The door is a portal                ... pos = 0.125 	neg = 0.125
+19. For 15 entire minute                ... pos = 0.875 	neg = 0.0  
+20. After this brief tim                ... pos = 0.625 	neg = 0.0  
+21. Interesting, you say                ... pos = 0.0   	neg = 0.0  
+22. Well, my dear reader                ... pos = 0.25  	neg = 0.25 
+23. Craig tells the unbe                ... pos = 0.375 	neg = 0.125
+24. Also gaining the kno                ... pos = 0.125 	neg = 0.125
+25. Together, they conco                ... pos = 0.625 	neg = 0.875
+26. The surprising thing                ... pos = 0.5   	neg = 0.125
+27. It's weird, for cert                ... pos = 0.489 	neg = 0.0  
+28. The visual treatment                ... pos = 2.125 	neg = 0.125
+29. Spike Jonze, recentl                ... pos = 0.125 	neg = 0.0  
+30. Jonze has a keen eye                ... pos = 0.0   	neg = 0    
+31. It's a wild and outl                ... pos = 0.0   	neg = 0.375
+32. The acting (includin                ... pos = 1.5   	neg = 0.625
+33. Why John Malkovich?                 ... pos = 0.0   	neg = 0.0  
+34. I don't know, but on                ... pos = 0.625 	neg = 0.0  
+35. He's such a wonderfu                ... pos = 0.75  	neg = 0.0  
+36. No one in `Being Joh                ... pos = 0.625 	neg = 0.375
+37. For his wonderful wo                ... pos = 1.0   	neg = 0.25 
+38. `Being John Malkovic                ... pos = 0.875 	neg = 0.875
+39. Comments Appreciated                ... pos = 0     	neg = 0.0  
+40. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-200-693 is Positive          ... pos = 17.614 	neg = 8.75 
+Overall score of document
+Total Pos = 17.614
+Total Neg = 8.75
+---------------------------------------------------------------------------

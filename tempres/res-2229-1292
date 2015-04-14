@@ -1,0 +1,25 @@
+0. The Happy Bastard's                  ... pos = 1.25  	neg = 0.0  
+1. Of course!                           ... pos = 0     	neg = 0    
+2. That's the latest sc                 ... pos = 0.875 	neg = 0.0  
+3. He doesn't actually                  ... pos = 0.75  	neg = 0.0  
+4. He's Sonny Coufax, a                 ... pos = 0.0   	neg = 0.625
+5. His girlfriend (Kris                 ... pos = 0.0   	neg = 0.125
+6. Enter a 5-year old k                 ... pos = 0.25  	neg = 0.625
+7. From there, Coufax b                 ... pos = 0.625 	neg = 0.125
+8. He even manages to u                 ... pos = 1.375 	neg = 0.375
+9. The reason I say it'                 ... pos = 0.625 	neg = 0.125
+10. I mean, it fits the                 ... pos = 0.625 	neg = 0.0  
+11. Fortunately, it does                ... pos = 1.25  	neg = 0.375
+12. Sandler does a good                 ... pos = 0.75  	neg = 0.0  
+13. Rob Schneider, howev                ... pos = 0.5   	neg = 0.25 
+14. Stewart, in his mino                ... pos = 0.625 	neg = 0.125
+15. Look for Steve Busce                ... pos = 0.0   	neg = 0.375
+16. He's a hoot.                        ... pos = 0.0   	neg = 0    
+17. Directed by Dennis D                ... pos = 1.5   	neg = 0.0  
+18. Again, there are fau                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2229-1292 is Positive        ... pos = 11.625 	neg = 3.25 
+Overall score of document
+Total Pos = 11.625
+Total Neg = 3.25
+---------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+0. **1/2 (out of 4) THE                 ... pos = 0.125 	neg = 0.625
+1. There are no snappy                  ... pos = 0.875 	neg = 1.25 
+2. None of them were mi                 ... pos = 0     	neg = 0.375
+3. It's worth mentionin                 ... pos = 0.0   	neg = 0.125
+4. Perhaps it is becaus                 ... pos = 0.0   	neg = 0.125
+5. If so, it's a pairin                 ... pos = 0.375 	neg = 0.0  
+6. Antonio Banderas pla                 ... pos = 0.5   	neg = 0.0  
+7. He is caught in a co                 ... pos = 0.375 	neg = 0.125
+8. The two head north o                 ... pos = 0.0   	neg = 0.0  
+9. Later, fleeing some                  ... pos = 0.0   	neg = 0.375
+10. The next day, a boy                 ... pos = 0.25  	neg = 0.0  
+11. The Viking fates dec                ... pos = 0.375 	neg = 0.125
+12. Ahmed the poet is dr                ... pos = 0.5   	neg = 0.25 
+13. The thirteen arrive                 ... pos = 0.125 	neg = 0.0  
+14. The king welcomes th                ... pos = 0.75  	neg = 0.25 
+15. The Vin always decap                ... pos = 0.0   	neg = 0.125
+16. It eventually become                ... pos = 0.25  	neg = 0.25 
+17. Expecting death and                 ... pos = 0.125 	neg = 0.0  
+18. Not many movies port                ... pos = 0.125 	neg = 0.0  
+19. In fact, the only on                ... pos = 0.125 	neg = 0.125
+20. So the setting in TH                ... pos = 0.125 	neg = 0.875
+21. The movie gives us a                ... pos = 0.0   	neg = 0.5  
+22. Since our hero is an                ... pos = 1.0   	neg = 0.125
+23. Having that hero be                 ... pos = 1.125 	neg = 0.25 
+24. It makes the entire                 ... pos = 0.5   	neg = 0    
+25. The movie has high p                ... pos = 1.375 	neg = 0.0  
+26. I was impressed by t                ... pos = 0.125 	neg = 0.5  
+27. A Viking village was                ... pos = 0.0   	neg = 0.25 
+28. A long scene in a ca                ... pos = 0.875 	neg = 1.0  
+29. Much of the movie wa                ... pos = 0.125 	neg = 0.125
+30. The cinematography (                ... pos = 0.125 	neg = 0    
+31. Whether it was the u                ... pos = 0.0   	neg = 0.375
+32. In contrast, the nig                ... pos = 0.125 	neg = 0.125
+33. The look could have                 ... pos = 1.375 	neg = 1.5  
+34. One last noteworthy                 ... pos = 0.125 	neg = 0.125
+35. It's the same trick                 ... pos = 0.625 	neg = 0.25 
+36. Perhaps he drew too                 ... pos = 0.125 	neg = 0.625
+37. Yet in spite of the                 ... pos = 1.25  	neg = 0.0  
+38. I kept waiting for t                ... pos = 0.125 	neg = 0.0  
+39. Clearly, my expectat                ... pos = 0.5   	neg = 1.125
+40. THE 13TH WARRIOR nev                ... pos = 0.5   	neg = 0.125
+41. You won't find explo                ... pos = 0.375 	neg = 0.0  
+42. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-731-1008 is Positive         ... pos = 15.375 	neg = 12.0 
+Overall score of document
+Total Pos = 15.375
+Total Neg = 12.0
+---------------------------------------------------------------------------

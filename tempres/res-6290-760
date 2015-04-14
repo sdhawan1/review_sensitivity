@@ -1,0 +1,13 @@
+0. Director: Josef Rusn                 ... pos = 0.125 	neg = 0.5  
+1. If I hadn't recently                 ... pos = 1.125 	neg = 0.875
+2. Craig Bierko makes a                 ... pos = 0.5   	neg = 0.125
+3. Everything that was                  ... pos = 1.75  	neg = 0.5  
+4. The acting is okay,                  ... pos = 0.875 	neg = 0.25 
+5. There are individual                 ... pos = 0.875 	neg = 0.75 
+6. Producer Roland Emme                 ... pos = 0.0   	neg = 0.903
+---------------------------------------------------------------------------
+./temp/tmp-6290-760 is Positive         ... pos = 5.25  	neg = 3.903
+Overall score of document
+Total Pos = 5.25
+Total Neg = 3.903
+---------------------------------------------------------------------------

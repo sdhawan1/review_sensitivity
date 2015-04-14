@@ -1,0 +1,34 @@
+0. Starring Jared Leto,                 ... pos = 0.0   	neg = 0.625
+1. I don't think the wo                 ... pos = 0.0   	neg = 0.125
+2. To call them horror                  ... pos = 0.25  	neg = 0.75 
+3. They most decidedly                  ... pos = 0.5   	neg = 0    
+4. The contain elements                 ... pos = 1.25  	neg = 0.75 
+5. The setup for "Urban                 ... pos = 0.75  	neg = 0.125
+6. Some lunatic is offi                 ... pos = 0.375 	neg = 0.25 
+7. These are stories we                 ... pos = 0.25  	neg = 0.0  
+8. A premise like that                  ... pos = 0.0   	neg = 0.125
+9. He creates absolutel                 ... pos = 0.125 	neg = 0.5  
+10. Sure it's competentl                ... pos = 0.625 	neg = 0.5  
+11. As for the performan                ... pos = 0.0   	neg = 0.5  
+12. Jared Leto has the p                ... pos = 0.0   	neg = 0.5  
+13. Joshua Jackson steal                ... pos = 0.625 	neg = 0.125
+14. Alicia Witt never co                ... pos = 0.75  	neg = 0.625
+15. And finally, Robert                 ... pos = 0.0   	neg = 0.0  
+16. ) urban legends.                    ... pos = 0.0   	neg = 0.0  
+17. He's good, but is no                ... pos = 0.875 	neg = 0.125
+18. I will say this for                 ... pos = 0.125 	neg = 0.0  
+19. When the killer was                 ... pos = 0.125 	neg = 1.125
+20. That's not entirely                 ... pos = 1.125 	neg = 0    
+21. During the 100 minut                ... pos = 0.25  	neg = 0.875
+22. I guess I did like t                ... pos = 0.125 	neg = 0.125
+23. "Urban Legend" isn't                ... pos = 0.0   	neg = 0.875
+24. It's just not scary,                ... pos = 0.75  	neg = 0.75 
+25. But it is entertaini                ... pos = 0.125 	neg = 0.25 
+26. --  David Nusair                    ... pos = 0.0   	neg = 0.0  
+27. "http://chat.carleto                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5224-1280 is Negative        ... pos = 9.0   	neg = 9.625
+Overall score of document
+Total Pos = 9.0
+Total Neg = 9.625
+---------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+0. VARSITY BLUES Cast:                  ... pos = 1.625 	neg = 0.125
+1. Varsity Blues falls                  ... pos = 0.0   	neg = 0.25 
+2. I openly admit that                  ... pos = 1.25  	neg = 0.375
+3. James "Dawson" Van D                 ... pos = 2.0   	neg = 0.125
+4. At some stages in th                 ... pos = 1.625 	neg = 0.0  
+5. Not only does this r                 ... pos = 0.0   	neg = 0.25 
+6. The West Canaan Coyo                 ... pos = 0.625 	neg = 0.0  
+7. Led by unrelenting c                 ... pos = 0.5   	neg = 0.875
+8. However, star quarte                 ... pos = 1.0   	neg = 0.25 
+9. Moxon soon becomes a                 ... pos = 0.0   	neg = 0.0  
+10. James Van Der Beek i                ... pos = 0.0   	neg = 0.125
+11. If you like him in T                ... pos = 0.875 	neg = 0.125
+12. Jon Voight has lande                ... pos = 0.625 	neg = 0.375
+13. It is a pity that it                ... pos = 2.25  	neg = 0.5  
+14. Aside from this scen                ... pos = 0.125 	neg = 1.125
+15. The football games t                ... pos = 0.25  	neg = 0.375
+16. There was only one s                ... pos = 1.75  	neg = 0.25 
+17. ". Overall, Varsity                 ... pos = 1.0   	neg = 0.125
+18. Still, if you like A                ... pos = 0.0   	neg = 1.625
+---------------------------------------------------------------------------
+./temp/tmp-3414-1111 is Positive        ... pos = 15.5  	neg = 6.875
+Overall score of document
+Total Pos = 15.5
+Total Neg = 6.875
+---------------------------------------------------------------------------

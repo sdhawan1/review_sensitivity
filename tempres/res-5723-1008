@@ -1,0 +1,31 @@
+0. **1/2 (out of 4) As                  ... pos = 0.5   	neg = 1.375
+1. You'd think a movie                  ... pos = 0.0   	neg = 0.0  
+2. But OFFICE SPACE giv                 ... pos = 1.875 	neg = 0.0  
+3. Instead of going for                 ... pos = 1.5   	neg = 0.25 
+4. For example, Peter (                 ... pos = 0.0   	neg = 0.0  
+5. All the professional                 ... pos = 0.0   	neg = 0.375
+6. As naďve and whiteb                 ... pos = 0.375 	neg = 0    
+7. Their detached, mono                 ... pos = 0.0   	neg = 0.375
+8. Then again, some of                  ... pos = 0.25  	neg = 0.375
+9. The movie seems like                 ... pos = 0.375 	neg = 0.125
+10. (Jennifer Aniston is                ... pos = 0.625 	neg = 0.125
+11. ) But eventually, on                ... pos = 0.5   	neg = 0.125
+12. Ironically, his new                 ... pos = 1.25  	neg = 1.125
+13. Peter has not forgot                ... pos = 0.125 	neg = 0.0  
+14. If Mike Judge had mo                ... pos = 0.75  	neg = 0.0  
+15. They could have been                ... pos = 0.0   	neg = 0.125
+16. Wouldn't that be a g                ... pos = 0.625 	neg = 0.125
+17. But it quickly becom                ... pos = 1.75  	neg = 0.75 
+18. They fit the sitcom-                ... pos = 0.125 	neg = 0.0  
+19. You can deduce, even                ... pos = 0.125 	neg = 0.375
+20. OFFICE SPACE has the                ... pos = 0.0   	neg = 1.375
+21. Combined with the mo                ... pos = 0.75  	neg = 1.0  
+22. But luckily for Judg                ... pos = 0.5   	neg = 0.125
+23. Not always, but ofte                ... pos = 0.0   	neg = 0.0  
+24. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5723-1008 is Positive        ... pos = 12.0  	neg = 8.125
+Overall score of document
+Total Pos = 12.0
+Total Neg = 8.125
+---------------------------------------------------------------------------

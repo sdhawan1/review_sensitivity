@@ -1,0 +1,49 @@
+0. Starring  Mel Gibson                 ... pos = 0.0   	neg = 0.0  
+1. Maybe they aren't so                 ... pos = 0.0   	neg = 0.125
+2. But they believe tha                 ... pos = 0.375 	neg = 0.625
+3. Spurred on by the ra                 ... pos = 0.5   	neg = 0.25 
+4. Conspiracy Theory po                 ... pos = 0.125 	neg = 0.0  
+5. It's a clever idea f                 ... pos = 0.875 	neg = 0.0  
+6. But then a couple of                 ... pos = 0.5   	neg = 0.5  
+7. Conspiracy Theory is                 ... pos = 0.75  	neg = 1.903
+8. The picture begins p                 ... pos = 0.5   	neg = 0.0  
+9. The cabbie in questi                 ... pos = 0.25  	neg = 0.5  
+10. NASA is trying to ki                ... pos = 0.0   	neg = 0.875
+11. Jerry Garcia was a C                ... pos = 0.0   	neg = 0.125
+12. The Vietnam War was                 ... pos = 0.0   	neg = 0.125
+13. You get the picture.                ... pos = 0.0   	neg = 0.0  
+14. Fletcher publishes a                ... pos = 0.375 	neg = 0.0  
+15. He also worships fro                ... pos = 0.625 	neg = 0.375
+16. Jerry's life as a bo                ... pos = 1.375 	neg = 0.25 
+17. Apparently one of Je                ... pos = 1.0   	neg = 0.5  
+18. Jerry bites Jonas on                ... pos = 0.25  	neg = 0.625
+19. There's good stuff h                ... pos = 0.75  	neg = 0.25 
+20. His performance is a                ... pos = 1.125 	neg = 0.125
+21. The best scenes in t                ... pos = 0.875 	neg = 0.125
+22. It's filled with fil                ... pos = 0.0   	neg = 0.5  
+23. When he brings Alice                ... pos = 1.125 	neg = 0.625
+24. This scene shows the                ... pos = 1.125 	neg = 0.0  
+25. If the film had focu                ... pos = 0.5   	neg = 0.5  
+26. But the script is de                ... pos = 0     	neg = 0.5  
+27. The crucial torture                 ... pos = 0.5   	neg = 0.375
+28. The plot is pinched                 ... pos = 1.375 	neg = 0.125
+29. The nature of the pr                ... pos = 0.125 	neg = 0.0  
+30. But the script never                ... pos = 0.625 	neg = 0.0  
+31. And the love story b                ... pos = 1.625 	neg = 0.625
+32. As mentioned before,                ... pos = 0.0   	neg = 0.0  
+33. Roberts does what sh                ... pos = 1.125 	neg = 0.125
+34. It's fun to see Patr                ... pos = 0.375 	neg = 1.25 
+35. The supporting perfo                ... pos = 0.625 	neg = 0.75 
+36. Richard Donner fashi                ... pos = 0.0   	neg = 0.875
+37. For all the cash fun                ... pos = 0.125 	neg = 0.5  
+38. It was probably doom                ... pos = 0.0   	neg = 0.125
+39. There is the seed of                ... pos = 0.75  	neg = 0.25 
+40. If you see it, enjoy                ... pos = 0.875 	neg = 0.0  
+41. And if you have a co                ... pos = 0.625 	neg = 0.125
+42. "Reviews for the dis                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3930-176 is Positive         ... pos = 21.75 	neg = 14.528
+Overall score of document
+Total Pos = 21.75
+Total Neg = 14.528
+---------------------------------------------------------------------------

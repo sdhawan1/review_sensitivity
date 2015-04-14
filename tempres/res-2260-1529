@@ -1,0 +1,21 @@
+0. Your Friends And Nei                 ... pos = 0.625 	neg = 0.375
+1. Written and directed                 ... pos = 0.875 	neg = 0.125
+2. The story involves t                 ... pos = 0.375 	neg = 0.125
+3. The character's name                 ... pos = 0.5   	neg = 0.0  
+4. Each of the characte                 ... pos = 1.375 	neg = 0.125
+5. So the group experim                 ... pos = 0.0   	neg = 0.0  
+6. There are some hyste                 ... pos = 1.625 	neg = 0.0  
+7. They are all in a sa                 ... pos = 1.875 	neg = 0.0  
+8. The whole scene is h                 ... pos = 0.25  	neg = 0.125
+9. The enjoyed this mov                 ... pos = 0.375 	neg = 0.125
+10. The film's cast is e                ... pos = 0.25  	neg = 0.125
+11. I would not recommen                ... pos = 2.0   	neg = 0.0  
+12. It did seem to offen                ... pos = 0.25  	neg = 0.0  
+13. Although Your Friend                ... pos = 0.375 	neg = 0.125
+14. -----== Posted via D                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2260-1529 is Positive        ... pos = 10.75 	neg = 1.25 
+Overall score of document
+Total Pos = 10.75
+Total Neg = 1.25
+---------------------------------------------------------------------------

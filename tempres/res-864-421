@@ -1,0 +1,24 @@
+0. THE HURRICANE (Unive                 ... pos = 0.0   	neg = 0.25 
+1. Carter's story (whic                 ... pos = 1.375 	neg = 0.125
+2. But in order to trul                 ... pos = 1.0   	neg = 0.75 
+3. `Movies aren't about                 ... pos = 0.0   	neg = 0.0  
+4. `They're about how t                 ... pos = 0     	neg = 0.0  
+5. ' Jewison has the st                 ... pos = 0.25  	neg = 0.625
+6. Luckily, Denzel Wash                 ... pos = 0.625 	neg = 0.125
+7. Carter's jail scenes                 ... pos = 0.375 	neg = 0.0  
+8. Instead, `The Hurric                 ... pos = 0.0   	neg = 0.25 
+9. But their friendship                 ... pos = 0.375 	neg = 0.75 
+10. Jewison adds a thick                ... pos = 1.125 	neg = 0.125
+11. Not exactly what I e                ... pos = 0.375 	neg = 0.375
+12. Supposedly, Universa                ... pos = 0.625 	neg = 1.125
+13. But what do I know?                 ... pos = 0     	neg = 0.0  
+14. `The Hurricane' was                 ... pos = 0.0   	neg = 0.375
+15. There is a good film                ... pos = 1.25  	neg = 0.875
+16. Norman Jewison may b                ... pos = 0.25  	neg = 0.25 
+17. (opens December 29 i                ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-864-421 is Positive          ... pos = 7.875 	neg = 6.0  
+Overall score of document
+Total Pos = 7.875
+Total Neg = 6.0
+---------------------------------------------------------------------------

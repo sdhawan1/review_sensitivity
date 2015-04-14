@@ -1,0 +1,48 @@
+0. Oh come on - you mus                 ... pos = 0.375 	neg = 0.0  
+1. A child is raised fr                 ... pos = 0.875 	neg = 0.25 
+2. "The Truman Show" ha                 ... pos = 1.375 	neg = 0    
+3. Peter Weir is a skil                 ... pos = 0.625 	neg = 0.125
+4. The writer created t                 ... pos = 0.5   	neg = 0.0  
+5. The central idea is                  ... pos = 0.0   	neg = 0.25 
+6. How do I know it's a                 ... pos = 0.0   	neg = 0.0  
+7. So "The Truman Show"                 ... pos = 0.0   	neg = 0.0  
+8. Jim Carrey, perhaps                  ... pos = 1.0   	neg = 0.25 
+9. Ed Harris gives a to                 ... pos = 0.875 	neg = 0.0  
+10. And the central idea                ... pos = 0.125 	neg = 0.125
+11. Truman's home town i                ... pos = 0.875 	neg = 0.5  
+12. A whole world of mer                ... pos = 0.0   	neg = 0.0  
+13. It's a breathtaking                 ... pos = 0.25  	neg = 0    
+14. Which doesn't explai                ... pos = 0.0   	neg = 0.375
+15. What's wrong with th                ... pos = 0.0   	neg = 0.75 
+16. That's difficult to                 ... pos = 0.0   	neg = 0    
+17. Half of the problem,                ... pos = 0.5   	neg = 0.375
+18. If someone were to w                ... pos = 1.875 	neg = 0.75 
+19. Relying on knowledge                ... pos = 0.375 	neg = 0.125
+20. The other half of th                ... pos = 0.125 	neg = 0.375
+21. It has a story, but                 ... pos = 0.0   	neg = 0.125
+22. Is this a commentary                ... pos = 0.0   	neg = 0.125
+23. If so, it's a very m                ... pos = 0.5   	neg = 0.0  
+24. The vast global audi                ... pos = 1.0   	neg = 0.125
+25. It is only at the ve                ... pos = 0.5   	neg = 0.5  
+26. However, other possi                ... pos = 0.125 	neg = 0.125
+27. Is it a metaphor for                ... pos = 0.375 	neg = 0.125
+28. Maybe - director Chr                ... pos = 0.125 	neg = 0.0  
+29. Is it a gloss on par                ... pos = 0.0   	neg = 0.25 
+30. Truman's behaviour l                ... pos = 0.5   	neg = 0.0  
+31. But still there's th                ... pos = 0.875 	neg = 0.25 
+32. This emptiness leads                ... pos = 0.25  	neg = 0.375
+33. It becomes implausib                ... pos = 0.75  	neg = 1.0  
+34. (The actors all have                ... pos = 1.0   	neg = 0.0  
+35. Their search for Tru                ... pos = 0.625 	neg = 0.625
+36. ) These are doubts t                ... pos = 0.5   	neg = 0.125
+37. In fact, "The Truman                ... pos = 1.375 	neg = 0.5  
+38. It's still a good fi                ... pos = 2.0   	neg = 0.0  
+39. [***/interesting] an                ... pos = 0.75  	neg = 0.0  
+40. -- Paul-Michael Agap                ... pos = 0.0   	neg = 0.0  
+41. Biology, Imperial Co                ... pos = 0.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5847-993 is Positive         ... pos = 21.125 	neg = 9.375
+Overall score of document
+Total Pos = 21.125
+Total Neg = 9.375
+---------------------------------------------------------------------------

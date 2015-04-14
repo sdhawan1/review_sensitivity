@@ -1,0 +1,67 @@
+0. "..Here for his envy                 ... pos = 1.25  	neg = 0.625
+1. " - John Milton.   D                 ... pos = 1.75  	neg = 0.125
+2. The Devil has been p                 ... pos = 0.5   	neg = 0.5  
+3. Every year Hollywood                 ... pos = 0.0   	neg = 0.75 
+4. Yet, there has not b                 ... pos = 1.0   	neg = 0.375
+5. Most of what we see                  ... pos = 0.5   	neg = 1.5  
+6. In either case 90% o                 ... pos = 0.625 	neg = 0.25 
+7. When I went out to s                 ... pos = 0.0   	neg = 0.125
+8. I got neither.                       ... pos = 0     	neg = 0.25 
+9. What I saw was a fab                 ... pos = 1.5   	neg = 0.125
+10. The first surprise w                ... pos = 0.125 	neg = 0.125
+11. Only the fact that s                ... pos = 0.75  	neg = 0.0  
+12. Throughout the pictu                ... pos = 0.625 	neg = 0.0  
+13. Kevin Lomax (Reeves)                ... pos = 0.125 	neg = 0.125
+14. He's a young Florida                ... pos = 0.0   	neg = 0.0  
+15. No matter how repugn                ... pos = 0.75  	neg = 1.125
+16. Soon after he has su                ... pos = 1.25  	neg = 0.875
+17. Here he meets John M                ... pos = 0.75  	neg = 0.0  
+18. It is this charismat                ... pos = 1.75  	neg = 1.0  
+19. This is heaven on ea                ... pos = 0.125 	neg = 0.125
+20. But as Lomax tastes                 ... pos = 0.625 	neg = 0.0  
+21. Winning is no longer                ... pos = 0.5   	neg = 0.375
+22. Soon he starts to re                ... pos = 2.375 	neg = 0.5  
+23. He suddenly realizes                ... pos = 0.25  	neg = 0.5  
+24. I do not intend to r                ... pos = 0.375 	neg = 0.125
+25. 'The Devil's Advocat                ... pos = 0.75  	neg = 0.125
+26. Going after success                 ... pos = 1.375 	neg = 0.625
+27. Winning has become s                ... pos = 0.375 	neg = 0.0  
+28. This is a story abou                ... pos = 0.5   	neg = 0.375
+29. At the end he realiz                ... pos = 0.375 	neg = 0.5  
+30. The characters in th                ... pos = 2.625 	neg = 0.0  
+31. This is probably Ree                ... pos = 0.375 	neg = 0.125
+32. He manages to create                ... pos = 1.5   	neg = 0.0  
+33. Kevin's wife, Mary A                ... pos = 1.25  	neg = 0.875
+34. From being strong, d                ... pos = 2.125 	neg = 0.0  
+35. Charlize Theron grac                ... pos = 0.875 	neg = 0.0  
+36. The most interesting                ... pos = 1.0   	neg = 0.125
+37. The invitation by a                 ... pos = 0.375 	neg = 0.375
+38. Al Pacino is nothing                ... pos = 1.875 	neg = 0.5  
+39. His power and presen                ... pos = 0.0   	neg = 0.25 
+40. This eerie and unset                ... pos = 0.75  	neg = 0.125
+41. At the same time he                 ... pos = 0.125 	neg = 0.0  
+42. I can't imagine an a                ... pos = 0.0   	neg = 0.625
+43. " .                                 ... pos = 0     	neg = 0    
+44. And the fact that Mi                ... pos = 1.125 	neg = 0.625
+45. This is entertaining                ... pos = 0.125 	neg = 0.125
+46. As I have said previ                ... pos = 0.75  	neg = 0.875
+47. The Devil is not sho                ... pos = 0.625 	neg = 1.0  
+48. And the purpose of h                ... pos = 0.25  	neg = 0.125
+49. One of the many inte                ... pos = 0.875 	neg = 0.75 
+50. He appears in human                 ... pos = 1.875 	neg = 0.625
+51. Another thing is tha                ... pos = 1.25  	neg = 0.375
+52. Things appear and di                ... pos = 0.625 	neg = 1.0  
+53. The third element is                ... pos = 0.875 	neg = 0.125
+54. These elements help                 ... pos = 0.75  	neg = 0.5  
+55. Hell is here not a b                ... pos = 0.5   	neg = 0.625
+56. After a thought prov                ... pos = 0.25  	neg = 0.375
+57. If you are looking f                ... pos = 0.75  	neg = 0.75 
+58. "..There is no great                ... pos = 0.75  	neg = 0.375
+59. There is no greater                 ... pos = 0.5   	neg = 0.375
+60. And there is no grea                ... pos = 0.5   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-6270-657 is Positive         ... pos = 46.125 	neg = 23.625
+Overall score of document
+Total Pos = 46.125
+Total Neg = 23.625
+---------------------------------------------------------------------------

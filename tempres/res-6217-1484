@@ -1,0 +1,45 @@
+0. WHEW!                                ... pos = 0     	neg = 0    
+1. Summer blockbusters                  ... pos = 0.125 	neg = 0.0  
+2. You think Godzilla w                 ... pos = 0     	neg = 0.125
+3. Or Deep Impact?                      ... pos = 0.0   	neg = 0.0  
+4. Forget a creature as                 ... pos = 0.75  	neg = 0.0  
+5. In that time, the US                 ... pos = 0.375 	neg = 0.0  
+6. Farfetched?                          ... pos = 0.625 	neg = 0    
+7. ARMAGEDDON makes the                 ... pos = 0.125 	neg = 0.0  
+8. But that's not the p                 ... pos = 0.0   	neg = 0.0  
+9. Michael Bay and Jerr                 ... pos = 1.75  	neg = 0.0  
+10. In that sense, they                 ... pos = 0.125 	neg = 0    
+11. There isn't  much of                ... pos = 0.125 	neg = 0.25 
+12. Willis is as  macho                 ... pos = 0.0   	neg = 0.75 
+13. The movie flows with                ... pos = 0.0   	neg = 0.625
+14. While it's fun, and                 ... pos = 0.125 	neg = 0.25 
+15. Bay and Bruckheimer                 ... pos = 0.0   	neg = 0.125
+16. Literally.                          ... pos = 0     	neg = 0.0  
+17. So they constructed                 ... pos = 0.125 	neg = 0.375
+18. The one problem is o                ... pos = 0.0   	neg = 0.375
+19. Bay and Bruckheimer                 ... pos = 0.0   	neg = 0.25 
+20. The plot's predictab                ... pos = 0.0   	neg = 0.0  
+21. During the space seq                ... pos = 1.0   	neg = 1.75 
+22. Explosion  after exp                ... pos = 0.25  	neg = 0.25 
+23. Bay and Bruckheimer                 ... pos = 0.625 	neg = 0.125
+24. That's not easy to d                ... pos = 0.25  	neg = 0.0  
+25. The only fun  from t                ... pos = 0.5   	neg = 0.0  
+26. Still, there's no de                ... pos = 0.125 	neg = 0.25 
+27. It has  its moments,                ... pos = 0.0   	neg = 0.0  
+28. It's not smart  ente                ... pos = 0.875 	neg = 0.375
+29. You just leave with                 ... pos = 0.125 	neg = 1.0  
+30. The action is  brain                ... pos = 0.25  	neg = 0.125
+31. It's an  enjoyable r                ... pos = 0.5   	neg = 0.875
+32. The film is just too                ... pos = 0.75  	neg = 1.0  
+33. It's a fun ride, but                ... pos = 0.125 	neg = 0.25 
+34. There's too  much in                ... pos = 1.0   	neg = 0.375
+35. If about a half-hour                ... pos = 0.25  	neg = 0.25 
+36. Overall, although an                ... pos = 1.75  	neg = 0.0  
+37. THE X-FILES and THE                 ... pos = 0.5   	neg = 0.125
+38. Maybe it's because                  ... pos = 0     	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6217-1484 is Positive        ... pos = 13.125 	neg = 10.0 
+Overall score of document
+Total Pos = 13.125
+Total Neg = 10.0
+---------------------------------------------------------------------------

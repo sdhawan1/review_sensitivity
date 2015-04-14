@@ -1,0 +1,22 @@
+0. Starring: Robert Duv                 ... pos = 0.5   	neg = 0.25 
+1. In a regrettable cri                 ... pos = 0.222 	neg = 0.0  
+2. To atone for his sin                 ... pos = 0.375 	neg = 0.125
+3. Soon he sets about r                 ... pos = 0.5   	neg = 0.0  
+4. But Sonny knows his                  ... pos = 0.625 	neg = 0.125
+5. Opinion:  This movie                 ... pos = 0.0   	neg = 0.5  
+6. I believe that Rober                 ... pos = 1.625 	neg = 0.25 
+7. Duvall's portrayal o                 ... pos = 2.5   	neg = 0.5  
+8. Incidentally, in rea                 ... pos = 0.0   	neg = 0.125
+9. Since no major Holly                 ... pos = 0.125 	neg = 0.375
+10. In terms of hard-hit                ... pos = 1.5   	neg = 0.0  
+11. Similarly, those wit                ... pos = 0.125 	neg = 0.0  
+12. On the other hand, T                ... pos = 0.375 	neg = 0.125
+13. In terms of plot and                ... pos = 0.625 	neg = 0.125
+14. Teenagers, action fa                ... pos = 0.0   	neg = 0.125
+15. In other words, THE                 ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5199-416 is Positive         ... pos = 9.597 	neg = 2.75 
+Overall score of document
+Total Pos = 9.597
+Total Neg = 2.75
+---------------------------------------------------------------------------

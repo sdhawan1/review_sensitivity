@@ -1,0 +1,30 @@
+0. MPAA: Rated R for la                 ... pos = 0.125 	neg = 0.0  
+1. Runtime: USA 103 / F                 ... pos = 0.25  	neg = 0.125
+2. But then a strange t                 ... pos = 0.375 	neg = 0.0  
+3. Paul can't sleep, he                 ... pos = 0.375 	neg = 0.0  
+4. But what's most impo                 ... pos = 1.375 	neg = 0.0  
+5. Ben Sobol (Billy Chr                 ... pos = 1.0   	neg = 0.125
+6. But no one realizes                  ... pos = 0.625 	neg = 0.5  
+7. By some peculiar cir                 ... pos = 0.75  	neg = 0.0  
+8. Sobol is then offere                 ... pos = 0.25  	neg = 0.125
+9. This is the beginnin                 ... pos = 0.5   	neg = 0.125
+10. This is Harold Ramis                ... pos = 0     	neg = 0.125
+11. Instead of trying to                ... pos = 0.0   	neg = 1.875
+12. ), "Analyze This" is                ... pos = 1.0   	neg = 0.125
+13. Instead of repeating                ... pos = 0.125 	neg = 0.75 
+14. This interesting tac                ... pos = 2.125 	neg = 0.125
+15. The fact that Robert                ... pos = 0.25  	neg = 0.25 
+16. The actor has almost                ... pos = 0.0   	neg = 0.0  
+17. While playing his pa                ... pos = 1.625 	neg = 0.125
+18. He really is a magni                ... pos = 4.25  	neg = 0.5  
+19. Lisa Kudrow, Vitty's                ... pos = 2.375 	neg = 0.0  
+20. And jet, although th                ... pos = 1.125 	neg = 0.625
+21. Those particular ele                ... pos = 0.25  	neg = 0.0  
+22. The characters are t                ... pos = 3.25  	neg = 0.0  
+23. "Analyze This" is a                 ... pos = 1.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5639-657 is Positive         ... pos = 23.75 	neg = 5.625
+Overall score of document
+Total Pos = 23.75
+Total Neg = 5.625
+---------------------------------------------------------------------------

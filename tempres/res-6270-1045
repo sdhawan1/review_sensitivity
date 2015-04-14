@@ -1,0 +1,41 @@
+0. by Curtis Edmonds --                 ... pos = 0.875 	neg = 0.5  
+1. The work is absorbin                 ... pos = 0.0   	neg = 0.25 
+2. His wife, on the oth                 ... pos = 1.25  	neg = 1.125
+3. As her husband becom                 ... pos = 0.375 	neg = 0.125
+4. The husband is hande                 ... pos = 0.375 	neg = 1.0  
+5. As the evidence agai                 ... pos = 0.125 	neg = 0.0  
+6. She begins to have h                 ... pos = 1.25  	neg = 0.0  
+7. The lawyer must choo                 ... pos = 1.125 	neg = 1.625
+8. Sounds like a great                  ... pos = 0.0   	neg = 0.0  
+9. And it almost got ma                 ... pos = 0.0   	neg = 0.25 
+10. Unfortunately, this                 ... pos = 0.125 	neg = 1.0  
+11. What we have is The                 ... pos = 0.0   	neg = 0.5  
+12. Pacino is the senior                ... pos = 0.75  	neg = 1.0  
+13. (Not a bad choice of                ... pos = 0.0   	neg = 0.875
+14. ). Reeves still can'                ... pos = 0.625 	neg = 0.125
+15. Let's not talk about                ... pos = 0.0   	neg = 0.0  
+16. The heart of this mo                ... pos = 0.25  	neg = 0.5  
+17. Both actors do a fin                ... pos = 0.875 	neg = 1.375
+18. Pacino is good in th                ... pos = 1.625 	neg = 0.25 
+19. In the climactic sce                ... pos = 0.25  	neg = 0.75 
+20. And he does such a g                ... pos = 1.125 	neg = 0.125
+21. (I felt the same way                ... pos = 0.0   	neg = 0.0  
+22. )  Pacino isn't the                 ... pos = 0.375 	neg = 0.5  
+23. If Pacino is just li                ... pos = 0.0   	neg = 0.125
+24. We first see her as                 ... pos = 0.125 	neg = 0.0  
+25. Later we see her as                 ... pos = 0.25  	neg = 0.0  
+26. She goes from being                 ... pos = 0.5   	neg = 0.75 
+27. It's an impressive p                ... pos = 0.625 	neg = 0    
+28. What makes The Devil                ... pos = 0.0   	neg = 0.375
+29. By placing the blame                ... pos = 0.125 	neg = 1.25 
+30. There's a wonderful,                ... pos = 1.25  	neg = 0.125
+31. Instead, it's just a                ... pos = 0.0   	neg = 0.625
+32. It's a shame that a                 ... pos = 3.375 	neg = 2.375
+33. I suppose the filmma                ... pos = 0.0   	neg = 0.25 
+34. The Hollywood Stock                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6270-1045 is Negative        ... pos = 17.625 	neg = 17.75
+Overall score of document
+Total Pos = 17.625
+Total Neg = 17.75
+---------------------------------------------------------------------------

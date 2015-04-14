@@ -1,0 +1,57 @@
+0. THE PRINCE OF EGYPT                  ... pos = 0.5   	neg = 0.125
+1. Despite its  mediocr                 ... pos = 0.375 	neg = 0.903
+2. The story is relativ                 ... pos = 0.0   	neg = 0.125
+3. During the Egyptians                 ... pos = 0.25  	neg = 0.25 
+4. The young child grow                 ... pos = 0.375 	neg = 0.125
+5. From that moment, Mo                 ... pos = 0.5   	neg = 0.0  
+6. On the way to that,                  ... pos = 0.0   	neg = 0.25 
+7. Moses is given  a mi                 ... pos = 0.25  	neg = 0.125
+8. The story is develop                 ... pos = 0.75  	neg = 0.625
+9. This film, more  tha                 ... pos = 0.75  	neg = 0.0  
+10. I found  myself aski                ... pos = 0.125 	neg = 0.375
+11. It would have been a                ... pos = 0.0   	neg = 0.125
+12. Instead, the miracle                ... pos = 0.25  	neg = 0.0  
+13. I found myself looki                ... pos = 0.25  	neg = 0.25 
+14. The first half  is q                ... pos = 0.875 	neg = 0.125
+15. The chariot race seq                ... pos = 1.125 	neg = 0.25 
+16. It is certainly a go                ... pos = 1.0   	neg = 0.5  
+17. The voices are super                ... pos = 1.375 	neg = 0.0  
+18. Kilmer and Fiennes a                ... pos = 0.5   	neg = 0    
+19. The relationship bet                ... pos = 0.125 	neg = 0.125
+20. It has to work for t                ... pos = 0.375 	neg = 0.125
+21. The film adds the gu                ... pos = 0.625 	neg = 0.0  
+22. Moses  knows he had                 ... pos = 0.125 	neg = 0.125
+23. It is a great moment                ... pos = 0.0   	neg = 0.125
+24. There  are in fact m                ... pos = 0.875 	neg = 0.125
+25. The score is actuall                ... pos = 1.0   	neg = 1.153
+26. The first song, "Del                ... pos = 0.125 	neg = 1.5  
+27. Much of the latter h                ... pos = 0.375 	neg = 0.125
+28. It  works for the mo                ... pos = 0.0   	neg = 0.0  
+29. The big  number by M                ... pos = 0.0   	neg = 0.125
+30. The song sung by Dan                ... pos = 1.5   	neg = 0.625
+31. Come the  last, rush                ... pos = 0.25  	neg = 0.125
+32. All of God's plagues                ... pos = 0.25  	neg = 0.0  
+33. These were truly  fr                ... pos = 0.875 	neg = 0.875
+34. Yet, it felt rushed.                ... pos = 0.25  	neg = 0    
+35. I wanted more of thi                ... pos = 0.0   	neg = 0.875
+36. Certainly, visual wi                ... pos = 1.0   	neg = 0.375
+37. Certainly, the Red S                ... pos = 0.875 	neg = 0.0  
+38. There is some true u                ... pos = 0.5   	neg = 0.125
+39. There is a  strange                 ... pos = 0.375 	neg = 0.125
+40. On one hand, the fil                ... pos = 0.125 	neg = 0.0  
+41. It wants to be so gr                ... pos = 0.125 	neg = 0.25 
+42. The terrorizing sequ                ... pos = 0.625 	neg = 0.0  
+43. The  character devel                ... pos = 3.25  	neg = 0.375
+44. This is meant to be                 ... pos = 0.5   	neg = 0.25 
+45. But throughout the f                ... pos = 0.0   	neg = 0.125
+46. As a result, things                 ... pos = 2.125 	neg = 1.75 
+47. If Dreamworks  had s                ... pos = 1.0   	neg = 0.0  
+48. Add about 1/2 hour t                ... pos = 0.0   	neg = 0.75 
+49. Still, the mature la                ... pos = 1.0   	neg = 0.5  
+50. Dreamworks could hav                ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4748-1484 is Positive        ... pos = 28.25 	neg = 15.056
+Overall score of document
+Total Pos = 28.25
+Total Neg = 15.056
+---------------------------------------------------------------------------

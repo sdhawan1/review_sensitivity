@@ -1,0 +1,65 @@
+0. Directed by Jonathan                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Mostow                 ... pos = 0.0   	neg = 0.0  
+2. Starring Matthew McC                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 119 mi                 ... pos = 0     	neg = 0.0  
+4. Rated PG for mild la                 ... pos = 0.125 	neg = 0.125
+5. Reviewed on April 30                 ... pos = 0.0   	neg = 0.0  
+6. For the past few yea                 ... pos = 1.125 	neg = 0.125
+7. Even the last great                  ... pos = 1.125 	neg = 0.25 
+8. "U-571" bucks this t                 ... pos = 0.625 	neg = 0.125
+9. The plot here is str                 ... pos = 0.5   	neg = 0.125
+10. A British destroyer                 ... pos = 0.25  	neg = 0    
+11. The Allies are aware                ... pos = 1.0   	neg = 0.125
+12. An American sub is s                ... pos = 0.0   	neg = 0.125
+13. The American troops                 ... pos = 0.5   	neg = 0.0  
+14. All  this has to be                 ... pos = 0.375 	neg = 0.5  
+15. The mission, led by                 ... pos = 0.25  	neg = 0.0  
+16. Then the  American s                ... pos = 0.0   	neg = 0.0  
+17. Trapped on the damag                ... pos = 0.0   	neg = 0.5  
+18. In terms of being sh                ... pos = 1.0   	neg = 0.125
+19. Although the film ta                ... pos = 1.0   	neg = 1.0  
+20. Particularly excitin                ... pos = 0.5   	neg = 0.25 
+21. Having devised a des                ... pos = 0.25  	neg = 0.25 
+22. The  explosions get                 ... pos = 0.25  	neg = 1.0  
+23. It's an engrossing p                ... pos = 0.0   	neg = 0    
+24. But other plot devel                ... pos = 0.25  	neg = 0.0  
+25. For instance, in the                ... pos = 0.0   	neg = 0.0  
+26. In an act of mercy,                 ... pos = 0.0   	neg = 0.125
+27. I was counting  the                 ... pos = 0.125 	neg = 0.125
+28. A lot of the movie f                ... pos = 0.0   	neg = 0.0  
+29. "U-571's" biggest de                ... pos = 0.0   	neg = 0.25 
+30. Part of what makes o                ... pos = 1.25  	neg = 0.125
+31. They might not have                 ... pos = 0.125 	neg = 0.5  
+32. The same cannot be s                ... pos = 0.0   	neg = 0.75 
+33. Even the main stars                 ... pos = 0.875 	neg = 0.0  
+34. Take McConaughey's A                ... pos = 0.0   	neg = 0.0  
+35. At the start of  the                ... pos = 0.0   	neg = 0.0  
+36. Dahlgren doesn't  be                ... pos = 0.375 	neg = 0.125
+37. By the end of "U-571                ... pos = 0.125 	neg = 0.0  
+38. You could almost che                ... pos = 0.0   	neg = 0.625
+39. Tyler is just a  sta                ... pos = 0.5   	neg = 0.75 
+40. McConaughey  does a                 ... pos = 0.0   	neg = 0.125
+41. The other headliners                ... pos = 0.625 	neg = 0    
+42. Harvey Keitel plays                 ... pos = 0.375 	neg = 0.0  
+43. He's an old sea dog                 ... pos = 0.0   	neg = 0.625
+44. Jon Bon Jovi, in his                ... pos = 0.5   	neg = 0.125
+45. Paxton is surprising                ... pos = 0.625 	neg = 0.125
+46. At least "U-571" loo                ... pos = 0.75  	neg = 0.375
+47. Despite the limited                 ... pos = 0.5   	neg = 0.0  
+48. There are some nice                 ... pos = 0.25  	neg = 0.0  
+49. On  the other hand,                 ... pos = 0.125 	neg = 0.25 
+50. Characters sweat  an                ... pos = 1.125 	neg = 0.375
+51. But the feeling that                ... pos = 0.25  	neg = 0.0  
+52. As light entertainme                ... pos = 0.75  	neg = 0.625
+53. It's  fun and exciti                ... pos = 0.375 	neg = 0.75 
+54. But ultimately, as a                ... pos = 0.875 	neg = 0.25 
+55. And in the end, that                ... pos = 0.0   	neg = 0.0  
+56. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+57. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+58. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2114-1444 is Positive        ... pos = 20.125 	neg = 11.625
+Overall score of document
+Total Pos = 20.125
+Total Neg = 11.625
+---------------------------------------------------------------------------

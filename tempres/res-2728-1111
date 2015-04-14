@@ -1,0 +1,42 @@
+0. Been there, done tha                 ... pos = 0.0   	neg = 0.125
+1. This seems to be the                 ... pos = 0.375 	neg = 0.25 
+2. Can you blame them?                  ... pos = 0     	neg = 0.5  
+3. Well after hundreds                  ... pos = 0.0   	neg = 0.0  
+4. But what is this - a                 ... pos = 0.625 	neg = 0.5  
+5. Maybe, just maybe, I                 ... pos = 0.875 	neg = 0.0  
+6. If you think you kno                 ... pos = 0.0   	neg = 0.125
+7. Beginning as a popul                 ... pos = 0.75  	neg = 0.375
+8. And when he did, he                  ... pos = 1.375 	neg = 1.25 
+9. What's so special, y                 ... pos = 0.0   	neg = 0.0  
+10. Well Woo surely goes                ... pos = 0.25  	neg = 0.875
+11. However the greatest                ... pos = 1.125 	neg = 0.125
+12. Woo's latest film, F                ... pos = 1.125 	neg = 0.0  
+13. Just as the suspense                ... pos = 1.0   	neg = 1.0  
+14. Never before has an                 ... pos = 0.0   	neg = 0.125
+15. Never before has the                ... pos = 0.75  	neg = 0.875
+16. Never before have I                 ... pos = 0.25  	neg = 0.75 
+17. His names Castor Tro                ... pos = 0.0   	neg = 0.875
+18. Surrounded by weapon                ... pos = 1.125 	neg = 0.125
+19. On the other side of                ... pos = 0.125 	neg = 0.125
+20. Archer, basing his w                ... pos = 0.0   	neg = 0.5  
+21. But after finally be                ... pos = 0.0   	neg = 1.0  
+22. Archer soon discover                ... pos = 0.125 	neg = 1.5  
+23. After Archer fails t                ... pos = 0.0   	neg = 0.25 
+24. A plastic surgeon re                ... pos = 0.25  	neg = 0.75 
+25. As far as a twist in                ... pos = 0.5   	neg = 0.25 
+26. When Archer is busy                 ... pos = 1.0   	neg = 1.25 
+27. However after making                ... pos = 0.5   	neg = 0.125
+28. Assuming his identit                ... pos = 0.625 	neg = 0.125
+29. Trapped inside each                 ... pos = 1.25  	neg = 0.375
+30. But in no time the s                ... pos = 1.875 	neg = 0.5  
+31. The action scenes ar                ... pos = 1.375 	neg = 0.875
+32. Although I admit tha                ... pos = 0.625 	neg = 0.75 
+33. A silly idea, yes, b                ... pos = 0.25  	neg = 0.5  
+34. Face/Off is quite ho                ... pos = 1.0   	neg = 0.625
+35. This film truly is t                ... pos = 1.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2728-1111 is Positive        ... pos = 20.5  	neg = 17.5 
+Overall score of document
+Total Pos = 20.5
+Total Neg = 17.5
+---------------------------------------------------------------------------

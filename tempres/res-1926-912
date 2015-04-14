@@ -1,0 +1,55 @@
+0. Cranky CriticŽ movi                 ... pos = 0.875 	neg = 0.0  
+1. Usually Cranky gets                  ... pos = 0.0   	neg = 0.0  
+2. But sometimes .                      ... pos = 0.0   	neg = 0.0  
+3. .                                    ... pos = 0     	neg = 0    
+4. .                                    ... pos = 0     	neg = 0    
+5. I've said it a coupl                 ... pos = 0.5   	neg = 0.0  
+6. Great Movies must ma                 ... pos = 1.25  	neg = 0.0  
+7. If a movie accomplis                 ... pos = 0.75  	neg = 0.0  
+8. If it does more, we                  ... pos = 0.5   	neg = 0.5  
+9. American Beauty is t                 ... pos = 0.25  	neg = 0.125
+10. Unlike Election, the                ... pos = 0.125 	neg = 1.0  
+11. Thus, you can approa                ... pos = 0.0   	neg = 0.125
+12. I'm going to start w                ... pos = 0.0   	neg = 0.125
+13. American Beauty is t                ... pos = 0.75  	neg = 0.125
+14. Living in a contente                ... pos = 2.0   	neg = 1.125
+15. Communication proble                ... pos = 0.5   	neg = 0.375
+16. Lester wonders about                ... pos = 0.75  	neg = 0.875
+17. Then, a glimpse of J                ... pos = 0.5   	neg = 0.875
+18. Out come the weights                ... pos = 0.375 	neg = 0.0  
+19. Yeah, the idea of a                 ... pos = 0.0   	neg = 0.375
+20. Cranky saw it happen                ... pos = 0.375 	neg = 0.125
+21. Spacey's Lester is a                ... pos = 0.875 	neg = 0.25 
+22. Angela, it should be                ... pos = 0.0   	neg = 0.125
+23. Carolyn, on the othe                ... pos = 0.25  	neg = 0.125
+24. He's Buddy Kane (Pet                ... pos = 0.0   	neg = 0.0  
+25. The question of "why                ... pos = 0.125 	neg = 0.125
+26. The neighbors to the                ... pos = 0.25  	neg = 0.0  
+27. The neighbors to the                ... pos = 0.625 	neg = 0.25 
+28. This brings alternat                ... pos = 0.0   	neg = 0.0  
+29. For the teens out th                ... pos = 0.25  	neg = 0.0  
+30. Like most teens, the                ... pos = 0.5   	neg = 0.0  
+31. Jane wishes her dad                 ... pos = 0.125 	neg = 0.125
+32. Ricky volunteers to                 ... pos = 0.0   	neg = 0.0  
+33. But American Beauty                 ... pos = 0.5   	neg = 0.25 
+34. It's a black comedy                 ... pos = 0.75  	neg = 0.25 
+35. That's not spilling                 ... pos = 1.375 	neg = 0.125
+36. Whether the cause is                ... pos = 0.0   	neg = 0.875
+37. Writer Alan Ball has                ... pos = 0.875 	neg = 0.0  
+38. Sam Mendes, best kno                ... pos = 0.875 	neg = 0.125
+39. On average, a first                 ... pos = 0.25  	neg = 0.0  
+40. Were Cranky able to                 ... pos = 0.625 	neg = 0.125
+41. Highly recommended.                 ... pos = 0.625 	neg = 0    
+42. Oscar list level.                   ... pos = 0.0   	neg = 0.0  
+43. Cranky didn't expect                ... pos = 0.25  	neg = 0.125
+44. .                                   ... pos = 0     	neg = 0    
+45. .                                   ... pos = 0     	neg = 0    
+46. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+47. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+48. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-912 is Positive         ... pos = 18.875 	neg = 8.75 
+Overall score of document
+Total Pos = 18.875
+Total Neg = 8.75
+---------------------------------------------------------------------------

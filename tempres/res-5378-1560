@@ -1,0 +1,26 @@
+0. You've Got Mail work                 ... pos = 0.75  	neg = 0.0  
+1. In order to make the                 ... pos = 1.875 	neg = 0.125
+2. No real acting was i                 ... pos = 0.375 	neg = 0.25 
+3. Essentially, it goes                 ... pos = 1.25  	neg = 0.125
+4. It's overly sentimen                 ... pos = 1.625 	neg = 0.25 
+5. But oh, how enjoyabl                 ... pos = 0.625 	neg = 0.125
+6. But there must be so                 ... pos = 0.5   	neg = 0.875
+7. It couldn't have bee                 ... pos = 0.0   	neg = 0.25 
+8. I haven't quite yet                  ... pos = 1.375 	neg = 0.125
+9. If you like somethin                 ... pos = 0.125 	neg = 0.0  
+10. Again, the storyline                ... pos = 0.0   	neg = 0.625
+11. Tom Hanks plays Joe                 ... pos = 0.875 	neg = 0.5  
+12. Fox and Kelley soon                 ... pos = 0.5   	neg = 0.375
+13. Little do they know,                ... pos = 1.375 	neg = 0.5  
+14. The rest of the stor                ... pos = 0.875 	neg = 0.125
+15. Sure, there are some                ... pos = 0.5   	neg = 0.5  
+16. All of this, of cour                ... pos = 0.25  	neg = 0.0  
+17. But as foreseeable a                ... pos = 2.0   	neg = 0.25 
+18. When Ryan discovers                 ... pos = 1.375 	neg = 0.25 
+19. *Homepage at http://                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5378-1560 is Positive        ... pos = 17.125 	neg = 5.25 
+Overall score of document
+Total Pos = 17.125
+Total Neg = 5.25
+---------------------------------------------------------------------------

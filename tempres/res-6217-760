@@ -1,0 +1,62 @@
+0. Director:  Michael                  ... pos = 0.25  	neg = 0.0  
+1. ):  Jonathan Hensle                 ... pos = 0.0   	neg = 0.0  
+2. US Distribution:  T                 ... pos = 1.0   	neg = 0.625
+3. Recently, I've seen                  ... pos = 0.0   	neg = 0.0  
+4.   Those men were ta                 ... pos = 0.75  	neg = 0.25 
+5. .                                    ... pos = 0     	neg = 0    
+6. .                                    ... pos = 0     	neg = 0    
+7. well, quite a while.                 ... pos = 0.875 	neg = 1.5  
+8. I certainly don't ca                 ... pos = 0.875 	neg = 0.75 
+9. Of course, skillful                  ... pos = 1.0   	neg = 0.0  
+10. The story is well-th                ... pos = 1.875 	neg = 0.375
+11. Yes, you read that r                ... pos = 0.0   	neg = 0.0  
+12. Armageddon actually                 ... pos = 0.875 	neg = 0.0  
+13. If you don't like th                ... pos = 0.75  	neg = 0.5  
+14. If you've seen Deep                 ... pos = 0.0   	neg = 0.0  
+15. It turns out that an                ... pos = 0.0   	neg = 0.125
+16. So, it's up to the U                ... pos = 0.0   	neg = 0.0  
+17. (Why the U.S. is alw                ... pos = 0.25  	neg = 0.5  
+18. )  Their plan -- to                 ... pos = 0.0   	neg = 0.125
+19. The head driller is                 ... pos = 0.0   	neg = 0.25 
+20. His group of men is                 ... pos = 0.0   	neg = 0.125
+21. (Ben Affleck), Chick                ... pos = 0.25  	neg = 0.0  
+22. There's also an inte                ... pos = 0.25  	neg = 0.25 
+23. A.J.                                ... pos = 0.0   	neg = 0    
+24. and Grace are, of co                ... pos = 1.125 	neg = 0.25 
+25. It's absurd to wish                 ... pos = 0.0   	neg = 1.5  
+26. It's not about story                ... pos = 0.0   	neg = 0.25 
+27. It's incidental, rea                ... pos = 0.75  	neg = 0.5  
+28. But Bay is the one t                ... pos = 0.5   	neg = 0.125
+29. I think most of the                 ... pos = 0.625 	neg = 0.0  
+30. Take the spectacular                ... pos = 0.5   	neg = 0.0  
+31. A meteor flies out o                ... pos = 0.0   	neg = 0.0  
+32. The action itself mi                ... pos = 0.625 	neg = 0.5  
+33. I like his quick-edi                ... pos = 0.125 	neg = 0.0  
+34. It's also very loud,                ... pos = 1.125 	neg = 0.5  
+35. But it's fun to be o                ... pos = 0.125 	neg = 0.75 
+36. The special effects                 ... pos = 0.0   	neg = 1.0  
+37. Deep Impact, visuall                ... pos = 0.25  	neg = 0.375
+38. Special effects are                 ... pos = 2.5   	neg = 0.375
+39. Everything here look                ... pos = 0.375 	neg = 0.625
+40. The effects that don                ... pos = 0.875 	neg = 0.625
+41. Of course, all of th                ... pos = 1.5   	neg = 0.375
+42. The film is two and                 ... pos = 0.125 	neg = 0.875
+43. Much of the film is                 ... pos = 0.625 	neg = 0.125
+44. I won't suggest that                ... pos = 3.0   	neg = 0.25 
+45. In fact, there are t                ... pos = 0.25  	neg = 0.25 
+46. Bruce Willis is terr                ... pos = 1.0   	neg = 0.5  
+47. Tyler and Affleck ar                ... pos = 0.75  	neg = 0.0  
+48. Patton, who is a mag                ... pos = 1.0   	neg = 0.75 
+49. The comic relief fro                ... pos = 0.875 	neg = 0.5  
+50. I wasn't challenged                 ... pos = 0.25  	neg = 1.0  
+51. But the film doesn't                ... pos = 0.75  	neg = 0.375
+52. It's not mindless an                ... pos = 0.0   	neg = 0.25 
+53. It might have been c                ... pos = 1.75  	neg = 1.375
+54. I'm not saying that                 ... pos = 0.5   	neg = 0.0  
+55. What I am saying is                 ... pos = 0.375 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6217-760 is Positive         ... pos = 31.25 	neg = 19.875
+Overall score of document
+Total Pos = 31.25
+Total Neg = 19.875
+---------------------------------------------------------------------------

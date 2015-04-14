@@ -1,0 +1,34 @@
+0. By Nathaniel R. Atch                 ... pos = 0.75  	neg = 0.375
+1. Writer/director Pete                 ... pos = 1.125 	neg = 0.0  
+2. This is, of course,                  ... pos = 0.125 	neg = 0.375
+3. The premise, however                 ... pos = 1.5   	neg = 0.625
+4. Paltrow is fantastic                 ... pos = 0.625 	neg = 0.375
+5. When the story intro                 ... pos = 0.0   	neg = 0.125
+6. In the first scenari                 ... pos = 0.125 	neg = 0.375
+7. She walks out on him                 ... pos = 1.25  	neg = 0.0  
+8. In the second scenar                 ... pos = 0.0   	neg = 0.5  
+9. Howitt develops both                 ... pos = 0.375 	neg = 0    
+10. At first, I thought                 ... pos = 0.375 	neg = 1.0  
+11. This is where the in                ... pos = 0.625 	neg = 0.875
+12. There have been many                ... pos = 0.375 	neg = 0.125
+13. Krzysztof Kieslowski                ... pos = 1.0   	neg = 0.125
+14. I like that film mor                ... pos = 0.25  	neg = 0.0  
+15. Sliding Doors, altho                ... pos = 0.875 	neg = 1.0  
+16. I wouldn't mind so m                ... pos = 0.25  	neg = 0.0  
+17. To begin, the charac                ... pos = 1.375 	neg = 0.125
+18. Paltrow is wonderful                ... pos = 1.25  	neg = 0.625
+19. Lynch, on the other                 ... pos = 1.25  	neg = 0.5  
+20. Hannah is also frust                ... pos = 1.25  	neg = 0.75 
+21. Tripplehorn is attra                ... pos = 2.375 	neg = 0.375
+22. The situations Howit                ... pos = 0.5   	neg = 0.0  
+23. The film wants to be                ... pos = 0.875 	neg = 0.125
+24. Helen turns around t                ... pos = 0.0   	neg = 0.5  
+25. And one of the many                 ... pos = 0.25  	neg = 0.625
+26. Sometimes scenes lik                ... pos = 0.625 	neg = 0.25 
+27. Sliding Doors is cer                ... pos = 0.875 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3333-760 is Positive         ... pos = 20.25 	neg = 10.125
+Overall score of document
+Total Pos = 20.25
+Total Neg = 10.125
+---------------------------------------------------------------------------

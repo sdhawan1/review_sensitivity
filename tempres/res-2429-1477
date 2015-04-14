@@ -1,0 +1,67 @@
+0. Year: 1999 Starring                  ... pos = 0.5   	neg = 0.125
+1. " You know the type:                 ... pos = 0.0   	neg = 0.625
+2. "Any Given Sunday" i                 ... pos = 0.75  	neg = 0.625
+3. Stone's film refuses                 ... pos = 0.0   	neg = 0.0  
+4. "Any Given Sunday" b                 ... pos = 0.875 	neg = 0.625
+5. Like much of the foo                 ... pos = 0.75  	neg = 0.5  
+6. For those interested                 ... pos = 0.0   	neg = 0.125
+7. Al Pacino stars as T                 ... pos = 0.0   	neg = 0.125
+8. Once a proud franchi                 ... pos = 0.625 	neg = 0.125
+9. Their aging star qua                 ... pos = 0.5   	neg = 0.0  
+10. Without him, the tea                ... pos = 0.75  	neg = 0.0  
+11. After the Sharks' ba                ... pos = 0.5   	neg = 0.0  
+12. When he performs wel                ... pos = 0.375 	neg = 0.0  
+13. Tony wants to stay l                ... pos = 1.625 	neg = 0.0  
+14. Unfortunately, Beama                ... pos = 0.25  	neg = 1.5  
+15. "Any Given Sunday" i                ... pos = 0.25  	neg = 0.125
+16. Anyone who doesn't f                ... pos = 0.5   	neg = 0.0  
+17. Those who do will re                ... pos = 0.25  	neg = 0.0  
+18. Many sports movies u                ... pos = 0.5   	neg = 0.375
+19. Stone seems to reali                ... pos = 0.25  	neg = 0.125
+20. In "Any Given Sunday                ... pos = 0.875 	neg = 0.0  
+21. Anyone who has watch                ... pos = 0.25  	neg = 0.375
+22. Stone shows us: he s                ... pos = 0.0   	neg = 0.75 
+23. Most of the football                ... pos = 0.0   	neg = 0.125
+24. We see a play from t                ... pos = 0.0   	neg = 0.0  
+25. We see it from the c                ... pos = 0.0   	neg = 0.625
+26. We see what it's lik                ... pos = 0.375 	neg = 0.0  
+27. To someone unfamilia                ... pos = 0.125 	neg = 0.5  
+28. Veteran football wat                ... pos = 1.125 	neg = 0.25 
+29. "Any Given Sunday" h                ... pos = 0.0   	neg = 0.0  
+30. It truly manages to                 ... pos = 0.625 	neg = 0.0  
+31. Football aficionados                ... pos = 1.0   	neg = 0.125
+32. There are several sp                ... pos = 1.25  	neg = 2.25 
+33. To anyone who has fo                ... pos = 0.5   	neg = 0.25 
+34. But satire it is, an                ... pos = 0.0   	neg = 1.375
+35. The vision of James                 ... pos = 1.125 	neg = 1.5  
+36. You won't find any f                ... pos = 0.625 	neg = 0.125
+37. The casting is remar                ... pos = 0.375 	neg = 0.125
+38. Pacino is dynamic as                ... pos = 1.25  	neg = 0.625
+39. Fans of his comedy w                ... pos = 0.375 	neg = 0.375
+40. Cameron Diaz does an                ... pos = 0.5   	neg = 0.125
+41. She's building quite                ... pos = 0.875 	neg = 0.0  
+42. I particularly enjoy                ... pos = 0.375 	neg = 0.5  
+43. He exists as the per                ... pos = 0.0   	neg = 0.0  
+44. Several real NFL pla                ... pos = 0.0   	neg = 0.125
+45. Taylor, to his credi                ... pos = 0.75  	neg = 0.0  
+46. Stone paces his film                ... pos = 0.625 	neg = 0.0  
+47. These have always an                ... pos = 0.0   	neg = 0.0  
+48. He nearly ruins a sc                ... pos = 0.0   	neg = 0.25 
+49. (Please, Mr. Stone,                 ... pos = 0.0   	neg = 0.0  
+50. ) The director's kin                ... pos = 0.0   	neg = 0.125
+51. He concentrates a li                ... pos = 0.125 	neg = 0.75 
+52. The side stories are                ... pos = 1.0   	neg = 0.375
+53. Certainly the film,                 ... pos = 0.25  	neg = 0.125
+54. Finally, this is a s                ... pos = 0.0   	neg = 0.25 
+55. It's familiar story                 ... pos = 1.375 	neg = 0.375
+56. Again, please keep i                ... pos = 0.25  	neg = 0.0  
+57. I am recommending "A                ... pos = 0.0   	neg = 0.125
+58. For my money, this i                ... pos = 0.875 	neg = 0.5  
+59. Afterward, I almost                 ... pos = 0.0   	neg = 0.125
+60. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2429-1477 is Positive        ... pos = 26.125 	neg = 18.125
+Overall score of document
+Total Pos = 26.125
+Total Neg = 18.125
+---------------------------------------------------------------------------

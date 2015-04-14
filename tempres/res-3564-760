@@ -1,0 +1,20 @@
+0. Director:  Barry Le                 ... pos = 0.0   	neg = 0.0  
+1. Production Company:�                 ... pos = 0.0   	neg = 0.0  
+2. Rated PG-13:  Langu                 ... pos = 1.5   	neg = 2.0  
+3. "  When they said "                 ... pos = 0     	neg = 0.0  
+4. "  In fact, there's                 ... pos = 0.0   	neg = 0.375
+5. I saw Sphere with fo                 ... pos = 2.125 	neg = 0.875
+6.   In fact, one of m                 ... pos = 2.75  	neg = 1.875
+7.   The majority of t                 ... pos = 0.0   	neg = 0.125
+8. Well, let me get on                  ... pos = 0.0   	neg = 0.125
+9.   First, I'm talkin                 ... pos = 1.875 	neg = 0.5  
+10.   Some of the scene                ... pos = 10.75 	neg = 2.875
+11. Since I haven't read                ... pos = 0.75  	neg = 0.875
+12. So, here I am again,                ... pos = 0.75  	neg = 1.625
+13.            This tim                ... pos = 1.375 	neg = 1.75 
+---------------------------------------------------------------------------
+./temp/tmp-3564-760 is Positive         ... pos = 21.875 	neg = 13.0 
+Overall score of document
+Total Pos = 21.875
+Total Neg = 13.0
+---------------------------------------------------------------------------

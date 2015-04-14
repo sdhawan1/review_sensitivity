@@ -1,0 +1,52 @@
+0. SOLDIER (1998) A fil                 ... pos = 0.0   	neg = 0.0  
+1. Copyright 1998 Justi                 ... pos = 0     	neg = 0.0  
+2. Other reviews by me                  ... pos = 0.0   	neg = 0.125
+3. Directed by Paul And                 ... pos = 0.0   	neg = 0.0  
+4. Starring Kurt Russel                 ... pos = 0.0   	neg = 0.0  
+5. Rated R (contains vi                 ... pos = 0.125 	neg = 0.125
+6. 95 mins.                             ... pos = 0.0   	neg = 0    
+7. Synopsis:  In the ne                 ... pos = 0.75  	neg = 0.75 
+8. Believed dead, Todd                  ... pos = 0.125 	neg = 0.125
+9. Todd defends these c                 ... pos = 1.0   	neg = 0.5  
+10. Comments:  On paper,                ... pos = 0.0   	neg = 0.0  
+11. It is written by Dav                ... pos = 0.0   	neg = 0.125
+12. It is directed by Pa                ... pos = 1.0   	neg = 0.25 
+13. It even stars Kurt R                ... pos = 0.875 	neg = 0.0  
+14. Though SOLDIER is an                ... pos = 0.5   	neg = 0.625
+15. SOLDIER begins in th                ... pos = 0.0   	neg = 0.25 
+16. Apparently, on the d                ... pos = 0.125 	neg = 0.375
+17. ) program to raise a                ... pos = 0.625 	neg = 0.0  
+18. Through a series of                 ... pos = 0.0   	neg = 0.125
+19. Already, the audienc                ... pos = 0.75  	neg = 0.5  
+20. SOLDIER never detail                ... pos = 0.25  	neg = 0.0  
+21. Apparently, the only                ... pos = 0.0   	neg = 1.375
+22. What follows is the                 ... pos = 0.0   	neg = 1.0  
+23. Guess who wins.                     ... pos = 0.125 	neg = 0.0  
+24. Having criticized th                ... pos = 0.375 	neg = 0.0  
+25. This is a movie whic                ... pos = 0.625 	neg = 0.125
+26. EVENT HORIZON, Paul                 ... pos = 0.375 	neg = 0.0  
+27. Similarly, SOLDIER c                ... pos = 0.125 	neg = 0.125
+28. The mix of genres wo                ... pos = 0.0   	neg = 0    
+29. Though the story, in                ... pos = 2.375 	neg = 0.25 
+30. Like EVENT HORIZON,                 ... pos = 0.125 	neg = 0.875
+31. SOLDIER is violent;                 ... pos = 0.75  	neg = 0.625
+32. Kurt Russell plays S                ... pos = 0.375 	neg = 0.125
+33. Todd does not have m                ... pos = 0.25  	neg = 0.0  
+34. This silence, howeve                ... pos = 1.375 	neg = 0.0  
+35. SOLDIER, thus, like                 ... pos = 0.625 	neg = 0.125
+36. Russell, though, exa                ... pos = 1.375 	neg = 0.75 
+37. Gary Busey plays his                ... pos = 1.25  	neg = 0.0  
+38. Rising star Jason Sc                ... pos = 0.375 	neg = 0.125
+39. SOLDIER strikes me a                ... pos = 0.0   	neg = 0.0  
+40. Despite the talent b                ... pos = 0.0   	neg = 0.25 
+41. SOLDIER, however, do                ... pos = 0.5   	neg = 0    
+42. It's a little sci-fi                ... pos = 0.0   	neg = 0.5  
+43. It's not worth six b                ... pos = 1.125 	neg = 0.0  
+44. Rated R, SOLDIER con                ... pos = 0.125 	neg = 0.875
+45. Although, to give th                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5559-1002 is Positive        ... pos = 19.5  	neg = 11.0 
+Overall score of document
+Total Pos = 19.5
+Total Neg = 11.0
+---------------------------------------------------------------------------

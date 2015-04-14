@@ -1,0 +1,40 @@
+0. Starring James Spade                 ... pos = 1.0   	neg = 0.0  
+1. Simply put, Crash is                 ... pos = 0.625 	neg = 0.125
+2. Both being a partici                 ... pos = 0.25  	neg = 0.375
+3. James Spader stars a                 ... pos = 0.5   	neg = 0.0  
+4. They share stories o                 ... pos = 0.625 	neg = 0.125
+5. Nice.                                ... pos = 0.0   	neg = 0    
+6. Anyway, good old Jam                 ... pos = 0.75  	neg = 0.125
+7. The result sends Hun                 ... pos = 1.125 	neg = 0.0  
+8. Both Hunter and Spad                 ... pos = 0.0   	neg = 0.375
+9. Sure, makes sense to                 ... pos = 0.25  	neg = 0.0  
+10. Every woman would ju                ... pos = 0.0   	neg = 0.0  
+11. I might add that thi                ... pos = 0.0   	neg = 0.875
+12. Hunter draws Spader                 ... pos = 0.625 	neg = 0.625
+13. Especially if the in                ... pos = 0.25  	neg = 0.0  
+14. Spader brings wifey                 ... pos = 0.0   	neg = 0.25 
+15. The only way to sum                 ... pos = 0.125 	neg = 0.25 
+16. Those that actually                 ... pos = 0.125 	neg = 0.625
+17. The acting is, I gue                ... pos = 0.0   	neg = 0.125
+18. To be honest, the wh                ... pos = 0.375 	neg = 1.125
+19. One standout in this                ... pos = 0.375 	neg = 0.125
+20. While Unger may not                 ... pos = 1.75  	neg = 0.375
+21. (Sorry, bad joke.                   ... pos = 0     	neg = 1.75 
+22. ) In all seriousness                ... pos = 0.375 	neg = 0.125
+23. Which compared to th                ... pos = 0.5   	neg = 0.0  
+24. Crash is not for the                ... pos = 0.375 	neg = 0.125
+25. Actually, Crash migh                ... pos = 0.5   	neg = 0.5  
+26. At the very least, i                ... pos = 0.625 	neg = 0.0  
+27. Not so much at the f                ... pos = 0.625 	neg = 0.125
+28. We all know that the                ... pos = 0.0   	neg = 0.125
+29. What you will be lef                ... pos = 0.125 	neg = 0.125
+30. Director David Crone                ... pos = 0.625 	neg = 0.75 
+31. Here's a piece of ad                ... pos = 0.0   	neg = 0.0  
+32. I think it's time fo                ... pos = 0.0   	neg = 0.0  
+33. Hopefully your new o                ... pos = 1.375 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4608-488 is Positive         ... pos = 13.875 	neg = 9.125
+Overall score of document
+Total Pos = 13.875
+Total Neg = 9.125
+---------------------------------------------------------------------------

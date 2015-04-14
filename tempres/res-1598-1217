@@ -1,0 +1,40 @@
+0. Review by Scott Hunt                 ... pos = 0.0   	neg = 0.125
+1. Fiercely unoriginal,                 ... pos = 0.375 	neg = 0.75 
+2. There are aliens sim                 ... pos = 0.625 	neg = 0.0  
+3. The stranded astrona                 ... pos = 0.0   	neg = 0.25 
+4. The astronauts encou                 ... pos = 0.0   	neg = 0.0  
+5. Interior spacecraft                  ... pos = 0.25  	neg = 0.0  
+6. Instead of using the                 ... pos = 0.25  	neg = 0.125
+7. Mission to Mars take                 ... pos = 1.25  	neg = 0.875
+8. During these surface                 ... pos = 0.875 	neg = 0.0  
+9. It's a plot point re                 ... pos = 0.125 	neg = 0.0  
+10. The rest of the crew                ... pos = 0.25  	neg = 0.375
+11. There is no contenti                ... pos = 0.5   	neg = 0.625
+12. Maybe DePalma was go                ... pos = 0.25  	neg = 0.375
+13. It's the year 2020 a                ... pos = 0.25  	neg = 0.125
+14. A crew, led by Luke                 ... pos = 0.0   	neg = 0.125
+15. Graham is able to tr                ... pos = 0.125 	neg = 1.0  
+16. In response, Earth s                ... pos = 0.0   	neg = 0.0  
+17. Obstacles are put in                ... pos = 0.25  	neg = 0.0  
+18. I should say, McConn                ... pos = 0.0   	neg = 0.0  
+19. Time and again, McCo                ... pos = 0.125 	neg = 1.125
+20. (Mention should be m                ... pos = 0.125 	neg = 0.75 
+21. On a team of profess                ... pos = 0.625 	neg = 0.625
+22. Women serve no purpo                ... pos = 0.0   	neg = 0.0  
+23. ). By the time they                 ... pos = 0.0   	neg = 0.25 
+24. There is an adage in                ... pos = 0.0   	neg = 0.125
+25. " Mission to Mars do                ... pos = 0.0   	neg = 0.125
+26. Repeatedly.                         ... pos = 0     	neg = 0.0  
+27. Characters obsessive                ... pos = 1.125 	neg = 0.125
+28. The film's conclusio                ... pos = 0.0   	neg = 0.125
+29. As I walked out I wo                ... pos = 0.0   	neg = 0.625
+30. The best I could com                ... pos = 0.375 	neg = 0.5  
+31. I have to think what                ... pos = 0.75  	neg = 0.25 
+32. The key to such a ve                ... pos = 0.5   	neg = 0.125
+33. I felt no such earne                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1598-1217 is Negative        ... pos = 9.0   	neg = 9.75 
+Overall score of document
+Total Pos = 9.0
+Total Neg = 9.75
+---------------------------------------------------------------------------

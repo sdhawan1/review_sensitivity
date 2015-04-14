@@ -1,0 +1,24 @@
+0. Written and directed                 ... pos = 0.625 	neg = 0.125
+1. Tom Ripley (Matt Dam                 ... pos = 0.0   	neg = 0.125
+2. Tom travels to Italy                 ... pos = 0.5   	neg = 0.375
+3. The film is delibera                 ... pos = 0.375 	neg = 0.5  
+4. The best aspect of t                 ... pos = 1.125 	neg = 1.25 
+5. This is not an easy                  ... pos = 0.75  	neg = 0.25 
+6. Such actors might be                 ... pos = 0.0   	neg = 1.375
+7. Damon's role here is                 ... pos = 1.0   	neg = 0.75 
+8. With The English Pat                 ... pos = 0.625 	neg = 0.125
+9. Such comparisons wit                 ... pos = 0.25  	neg = 0.75 
+10. Apart from its Hitch                ... pos = 0.625 	neg = 0.875
+11. Some trademark Hitch                ... pos = 2.375 	neg = 0.0  
+12. Even the opening cre                ... pos = 0.375 	neg = 0.375
+13. The current fashion                 ... pos = 0.375 	neg = 1.125
+14. At 139 minutes, The                 ... pos = 0.25  	neg = 0.5  
+15. Hitchcock famously o                ... pos = 0.25  	neg = 0.125
+16. If his bladder could                ... pos = 0.375 	neg = 0.125
+17. (8/10). --  Gary Jon                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-645-312 is Positive          ... pos = 10.875 	neg = 8.75 
+Overall score of document
+Total Pos = 10.875
+Total Neg = 8.75
+---------------------------------------------------------------------------

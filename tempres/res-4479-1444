@@ -1,0 +1,39 @@
+0. A.I.                                 ... pos = 0.0   	neg = 0.0  
+1. ARTIFICIAL INTELLIGE                 ... pos = 0.25  	neg = 0.0  
+2. Screenplay by Spielb                 ... pos = 0.0   	neg = 0.0  
+3. Starring Haley Joel                  ... pos = 0.0   	neg = 0.25 
+4. Running time: 146 mi                 ... pos = 0     	neg = 0.0  
+5. Rated PG by the MFCB                 ... pos = 0.125 	neg = 0    
+6. Reviewed on August 2                 ... pos = 0.0   	neg = 0.0  
+7. Synopsis: David (Osm                 ... pos = 0.75  	neg = 0.5  
+8. But when the son une                 ... pos = 0.0   	neg = 0.5  
+9. His "mother" (O'Conn                 ... pos = 0.5   	neg = 0.125
+10. Finding friendship w                ... pos = 1.0   	neg = 0.75 
+11. Review: How do we de                ... pos = 0.0   	neg = 0.0  
+12. Where does "artifici                ... pos = 0.0   	neg = 0.0  
+13. Is there a differenc                ... pos = 0.875 	neg = 0.125
+14. These are the questi                ... pos = 0.625 	neg = 0.0  
+15. ", a film directed b                ... pos = 0.0   	neg = 0.0  
+16. "A.I.                               ... pos = 0     	neg = 0.0  
+17. " wraps these  conun                ... pos = 0.125 	neg = 0.0  
+18. The  answers are lef                ... pos = 0.75  	neg = 0.0  
+19. Is David's longing f                ... pos = 0.625 	neg = 0.125
+20. Perhaps, but still,                 ... pos = 0.5   	neg = 0.125
+21. Whatever one conclud                ... pos = 0.0   	neg = 0.0  
+22. " is certainly one o                ... pos = 0.5   	neg = 0.125
+23. It is abetted by spe                ... pos = 0.625 	neg = 0.25 
+24. David is endearing,                 ... pos = 0.375 	neg = 0.5  
+25. And Spielberg's visu                ... pos = 0.75  	neg = 0.0  
+26. "'s central contradi                ... pos = 0.0   	neg = 0    
+27. His humans live in a                ... pos = 0.625 	neg = 0.0  
+28. The humans are passi                ... pos = 0.25  	neg = 0.125
+29. And although "A.I.                  ... pos = 0     	neg = 0.0  
+30. " does suffer from a                ... pos = 0.25  	neg = 0.125
+31. Copyright Š 2001 Sh                ... pos = 0.0   	neg = 0.0  
+32. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4479-1444 is Positive        ... pos = 10.0  	neg = 3.625
+Overall score of document
+Total Pos = 10.0
+Total Neg = 3.625
+---------------------------------------------------------------------------

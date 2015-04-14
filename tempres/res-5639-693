@@ -1,0 +1,29 @@
+0. It must be tough to                  ... pos = 0.375 	neg = 0.25 
+1. Just ask Paul Vitti                  ... pos = 0.5   	neg = 0.0  
+2. I can believe it, to                 ... pos = 0.5   	neg = 0.25 
+3. Suffering from reocc                 ... pos = 0.375 	neg = 0.125
+4. And who better than                  ... pos = 0.0   	neg = 0.0  
+5. After appearing in b                 ... pos = 0.875 	neg = 0.0  
+6. Playing Vitti's priv                 ... pos = 2.5   	neg = 0.0  
+7. Casting Robert DeNir                 ... pos = 0.0   	neg = 0.125
+8. Placed in this mobst                 ... pos = 0.875 	neg = 0.0  
+9. It's obvious he's ha                 ... pos = 0.125 	neg = 0.0  
+10. The man behind the c                ... pos = 0.375 	neg = 0.125
+11. Ramis has a knack fo                ... pos = 0.375 	neg = 0.0  
+12. The only character w                ... pos = 1.0   	neg = 0.125
+13. Playing the same dum                ... pos = 0.5   	neg = 0.125
+14. The supporting cast                 ... pos = 0.625 	neg = 0    
+15. Joe Viterelli is hil                ... pos = 0.75  	neg = 0.625
+16. The movie manages to                ... pos = 0.125 	neg = 0.0  
+17. The situation is jus                ... pos = 0.5   	neg = 0.375
+18. It's unfortunate tha                ... pos = 0.0   	neg = 0.0  
+19. But hey, if you're i                ... pos = 0.25  	neg = 0.0  
+20. And near the end, se                ... pos = 0.625 	neg = 0.125
+21. Jamey Hughton was a                 ... pos = 0.5   	neg = 0.125
+22. Canada).. .                         ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5639-693 is Positive         ... pos = 11.75 	neg = 2.375
+Overall score of document
+Total Pos = 11.75
+Total Neg = 2.375
+---------------------------------------------------------------------------

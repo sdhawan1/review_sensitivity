@@ -1,0 +1,38 @@
+0. director: Randall Wa                 ... pos = 2.0   	neg = 0.125
+1. It has a lot of beau                 ... pos = 2.625 	neg = 0.0  
+2. Maybe it has somethi                 ... pos = 0.25  	neg = 0.0  
+3. Or maybe it's becaus                 ... pos = 0.625 	neg = 0.0  
+4. But no, I think it's                 ... pos = 0.25  	neg = 0.25 
+5. There's an underlyin                 ... pos = 0.75  	neg = 0.125
+6. Simply put, it never                 ... pos = 0.125 	neg = 0.0  
+7. The story takes plac                 ... pos = 0.375 	neg = 0.25 
+8. The original Three M                 ... pos = 0.125 	neg = 0.75 
+9. Louis is a self-abso                 ... pos = 0.75  	neg = 1.875
+10. Although D'Artagnan                 ... pos = 0.625 	neg = 0.0  
+11. It turns out that Lo                ... pos = 0.0   	neg = 0.125
+12. In order to maintain                ... pos = 0.125 	neg = 0.25 
+13. The Three Musketeers                ... pos = 0.75  	neg = 0.75 
+14. "The Man in the Iron                ... pos = 0.75  	neg = 0.25 
+15. " Because of his con                ... pos = 0.375 	neg = 1.0  
+16. The fact is, "Braveh                ... pos = 0.625 	neg = 0.25 
+17. "The Man in the Iron                ... pos = 0.875 	neg = 0.25 
+18. Technically, the fil                ... pos = 0.625 	neg = 0.125
+19. Wallace assembled a                 ... pos = 0.0   	neg = 0.0  
+20. The production desig                ... pos = 1.25  	neg = 1.0  
+21. The costumes were de                ... pos = 0.125 	neg = 0.125
+22. ". Ironically, the m                ... pos = 1.0   	neg = 0.625
+23. DiCaprio, hot off "T                ... pos = 0.25  	neg = 0.625
+24. Irons, Malkovich, an                ... pos = 0.0   	neg = 0.625
+25. Their performances a                ... pos = 0.0   	neg = 1.375
+26. Depardieu has some a                ... pos = 0.0   	neg = 0.75 
+27. All these actors hav                ... pos = 0.375 	neg = 0.5  
+28. Of course, some of t                ... pos = 0.5   	neg = 0.625
+29. Not even an actor as                ... pos = 0.625 	neg = 0.75 
+30. But not to love you                 ... pos = 0.875 	neg = 0.125
+31. " But, as bad as tha                ... pos = 0.25  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5987-569 is Positive         ... pos = 17.875 	neg = 14.375
+Overall score of document
+Total Pos = 17.875
+Total Neg = 14.375
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. _Enemy of the State_                 ... pos = 0.0   	neg = 1.0  
+1. It was produced by J                 ... pos = 0.375 	neg = 0.125
+2. It was directed by T                 ... pos = 0.0   	neg = 0.625
+3. The plot--innocent m                 ... pos = 0.5   	neg = 0.125
+4. Even the dialog in t                 ... pos = 0.0   	neg = 0.125
+5. "/"I don't know what                 ... pos = 0     	neg = 0.0  
+6. ". EOTS is the techn                 ... pos = 0.5   	neg = 0.125
+7. This must be hard to                 ... pos = 0.375 	neg = 1.125
+8. _The Net_ is a prime                 ... pos = 0.125 	neg = 0.375
+9. I haven't been thril                 ... pos = 0.125 	neg = 0.125
+10. And that may have be                ... pos = 0.0   	neg = 0.25 
+11. The John Badham one-                ... pos = 0.625 	neg = 0.125
+12. _Enemy of the State_                ... pos = 0.0   	neg = 0.25 
+13. Satellites, normally                ... pos = 0.375 	neg = 0.375
+14. Computers are used i                ... pos = 0.25  	neg = 0.0  
+15. Enemy of the State g                ... pos = 0.875 	neg = 0.5  
+16. They have a contagio                ... pos = 0.375 	neg = 0.0  
+17. They have fun, and t                ... pos = 0.125 	neg = 0.75 
+18. Kudos, especially, t                ... pos = 0.875 	neg = 0.5  
+19. It's not that you ro                ... pos = 0.375 	neg = 0.0  
+20. The final trick up B                ... pos = 0.0   	neg = 0.375
+21. Not that Hackman's i                ... pos = 0.25  	neg = 0.125
+22. Brilliant.                          ... pos = 0.875 	neg = 0    
+23. In both films, Hackm                ... pos = 0.375 	neg = 0.125
+24. In the first film he                ... pos = 0.375 	neg = 0.0  
+25. In this film, he has                ... pos = 0.125 	neg = 0.0  
+26. He comes to the aid                 ... pos = 0.25  	neg = 0.375
+27. Thomas Reynolds (Jon                ... pos = 0.5   	neg = 0.5  
+28. The rest of the film                ... pos = 0.625 	neg = 0.125
+29. The film has several                ... pos = 0.5   	neg = 0.0  
+30. It has a running gag                ... pos = 0.0   	neg = 0.125
+31. It has one of the be                ... pos = 0.375 	neg = 0.5  
+32. And it marks the ret                ... pos = 0.0   	neg = 0.125
+33. Alas, the film does                 ... pos = 0.0   	neg = 0.875
+34. But for the majority                ... pos = 1.125 	neg = 0.0  
+35. Best to watch this o                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5048-630 is Positive         ... pos = 11.75 	neg = 9.75 
+Overall score of document
+Total Pos = 11.75
+Total Neg = 9.75
+---------------------------------------------------------------------------

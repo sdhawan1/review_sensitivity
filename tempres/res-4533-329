@@ -1,0 +1,21 @@
+0. The 1963 thriller Th                 ... pos = 0.25  	neg = 0.25 
+1. No, it's not because                 ... pos = 0.0   	neg = 0.375
+2. Doctor David Marrow                  ... pos = 0.125 	neg = 0.0  
+3. So no one will be ab                 ... pos = 0.375 	neg = 0.375
+4. ) What he tells them                 ... pos = 0.375 	neg = 0.25 
+5. For what reason he d                 ... pos = 0.75  	neg = 0.125
+6. Theo, (Zeta-Jones) E                 ... pos = 1.0   	neg = 0.0  
+7. Eleanor begins recei                 ... pos = 0.25  	neg = 0.0  
+8. At first the group b                 ... pos = 0.875 	neg = 0.25 
+9. The film is sort of                  ... pos = 0.125 	neg = 0.25 
+10. Almost as great as t                ... pos = 0.0   	neg = 0.25 
+11. Of course, the good                 ... pos = 0.875 	neg = 0.875
+12. It is kind of fun to                ... pos = 0.875 	neg = 0.125
+13. While the film has s                ... pos = 2.5   	neg = 0.625
+14. Flashy special effec                ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4533-329 is Positive         ... pos = 9.125 	neg = 4.0  
+Overall score of document
+Total Pos = 9.125
+Total Neg = 4.0
+---------------------------------------------------------------------------

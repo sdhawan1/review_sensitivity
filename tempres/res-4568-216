@@ -1,0 +1,40 @@
+0. I doubt there's a pe                 ... pos = 0.5   	neg = 0.125
+1. It's been said that                  ... pos = 0.25  	neg = 0.5  
+2. Ned Devine (Jimmy Ke                 ... pos = 1.25  	neg = 0.0  
+3. It's difficult to co                 ... pos = 1.0   	neg = 0.125
+4. And yet, "Waking Ned                 ... pos = 0.75  	neg = 0.0  
+5. With its colorful (r                 ... pos = 3.5   	neg = 0.0  
+6. Budgetwise, Jones de                 ... pos = 1.0   	neg = 0.0  
+7. This is the sort of                  ... pos = 1.0   	neg = 0.875
+8. ".         Jackie O'                 ... pos = 0.5   	neg = 0.125
+9. Realizing that one o                 ... pos = 1.0   	neg = 0.75 
+10. Through a series of                 ... pos = 0.375 	neg = 0.0  
+11. Unfortunately, poor                 ... pos = 0.5   	neg = 1.0  
+12. This leaves our frie                ... pos = 1.0   	neg = 0.125
+13. But maybe, just mayb                ... pos = 0.5   	neg = 0.625
+14. No prizes for guessi                ... pos = 0.0   	neg = 0.25 
+15. The characters in th                ... pos = 1.375 	neg = 0.0  
+16. Jackie and Michael a                ... pos = 1.625 	neg = 0.125
+17. By far, Jackie and M                ... pos = 0.75  	neg = 0.5  
+18. James Nesbitt is als                ... pos = 2.625 	neg = 0.375
+19. Unfortunately, altho                ... pos = 1.25  	neg = 0.875
+20. Many other equally f                ... pos = 0.375 	neg = 0.0  
+21. Suffice it to say, t                ... pos = 0.625 	neg = 0.0  
+22. In fact, "Waking Ned                ... pos = 0.875 	neg = 0.125
+23. After having spent n                ... pos = 0.375 	neg = 0.5  
+24. It's a jarring switc                ... pos = 0.375 	neg = 1.0  
+25. It's rather like spe                ... pos = 1.125 	neg = 0.0  
+26. The mood is tainted,                ... pos = 1.75  	neg = 1.25 
+27. Other than this one                 ... pos = 0.25  	neg = 0.875
+28. Kirk Jones and his c                ... pos = 0.0   	neg = 0.0  
+29. Rest assured that if                ... pos = 0.5   	neg = 0.375
+30. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+31. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+32. Thanks.                             ... pos = 0.125 	neg = 0    
+33. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4568-216 is Positive         ... pos = 27.75 	neg = 10.625
+Overall score of document
+Total Pos = 27.75
+Total Neg = 10.625
+---------------------------------------------------------------------------

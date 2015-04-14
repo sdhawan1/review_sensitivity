@@ -1,0 +1,46 @@
+0. CrankyCriticŽ  movi                 ... pos = 0.5   	neg = 0.125
+1. As with an unrelated                 ... pos = 0.0   	neg = 0.375
+2. A more intriguing bi                 ... pos = 0.375 	neg = 0.375
+3. It's hinted at in wr                 ... pos = 1.5   	neg = 0.0  
+4. But we're pretty wel                 ... pos = 0.25  	neg = 0.125
+5. .                                    ... pos = 0     	neg = 0    
+6. .                                    ... pos = 0     	neg = 0    
+7. Stir of Echoes drops                 ... pos = 0.0   	neg = 0.125
+8. It is the story of P                 ... pos = 0.0   	neg = 0.125
+9. lineman Tom Witsky (                 ... pos = 0.125 	neg = 0    
+10. Also in the picture                 ... pos = 0.625 	neg = 0.125
+11. One night at a party                ... pos = 0.0   	neg = 0.125
+12. That may have been t                ... pos = 0.625 	neg = 0.25 
+13. He is tormented at r                ... pos = 1.25  	neg = 1.625
+14. While these blasts o                ... pos = 0.625 	neg = 0.0  
+15. Net result?                         ... pos = 0.0   	neg = 0    
+16. Tom goes, to all int                ... pos = 0.0   	neg = 0.0  
+17. They should have see                ... pos = 0.0   	neg = 0.0  
+18. The grownups thought                ... pos = 0.125 	neg = 0.0  
+19. But she passes infor                ... pos = 0.0   	neg = 0.25 
+20. That leads to some v                ... pos = 0.5   	neg = 0.5  
+21. Jake's got some othe                ... pos = 0.0   	neg = 0.25 
+22. He seems to be "conn                ... pos = 0.5   	neg = 0.25 
+23. He is on a first nam                ... pos = 0.5   	neg = 0.125
+24. Jake is one.                        ... pos = 0.0   	neg = 0.125
+25. So, now, is Tom.                    ... pos = 0.0   	neg = 0.125
+26. And damn if Cranky d                ... pos = 0.0   	neg = 0.5  
+27. The main story of th                ... pos = 0.0   	neg = 0.375
+28. How it affects his l                ... pos = 0.125 	neg = 0    
+29. David Koepp's script                ... pos = 0.0   	neg = 0.625
+30. As I wrote earlier,                 ... pos = 0.0   	neg = 0.0  
+31. Stir of Echoes has e                ... pos = 0.0   	neg = 0.125
+32. Kevin Bacon's Tom cr                ... pos = 1.125 	neg = 0.375
+33. Luckily, Kathryn Erb                ... pos = 1.125 	neg = 0.0  
+34. On average, a first                 ... pos = 0.25  	neg = 0.0  
+35. Were Cranky able to                 ... pos = 0.25  	neg = 0.375
+36. Overall, Cranky like                ... pos = 0.125 	neg = 0.0  
+37. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+38. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+39. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4548-912 is Positive         ... pos = 10.75 	neg = 7.5  
+Overall score of document
+Total Pos = 10.75
+Total Neg = 7.5
+---------------------------------------------------------------------------

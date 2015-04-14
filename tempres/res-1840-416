@@ -1,0 +1,29 @@
+0. Written by: Warren B                 ... pos = 0.875 	neg = 0.0  
+1. ". Synopsis:  In thi                 ... pos = 1.0   	neg = 1.667
+2. On TV the smiling se                 ... pos = 0.625 	neg = 0.375
+3. After taking his las                 ... pos = 0.0   	neg = 0.375
+4. To his surprise, Bul                 ... pos = 1.375 	neg = 0.375
+5. He can say what he a                 ... pos = 0.0   	neg = 0.0  
+6. Elated, Bulworth dec                 ... pos = 0.125 	neg = 0.25 
+7. Thus begins the outr                 ... pos = 0.625 	neg = 0.75 
+8. For example, Bulwort                 ... pos = 0.25  	neg = 0.25 
+9. When voters accuse h                 ... pos = 0.125 	neg = 0.0  
+10. "He tells rich movie                ... pos = 0.25  	neg = 1.125
+11. Bulworth goes to sou                ... pos = 0.125 	neg = 0.0  
+12. As Bulworth's unorth                ... pos = 1.125 	neg = 0    
+13. Refusing to sleep, B                ... pos = 0.0   	neg = 0.0  
+14. He also romances a m                ... pos = 1.25  	neg = 0.0  
+15. What will happen to                 ... pos = 0.125 	neg = 0.0  
+16. The reason why I say                ... pos = 0.375 	neg = 0.875
+17. As the Bulworth char                ... pos = 1.75  	neg = 0.75 
+18. The reason why I say                ... pos = 0.75  	neg = 0.25 
+19. Why else would the u                ... pos = 0.125 	neg = 0.125
+20. I highly recommend t                ... pos = 0.625 	neg = 0.0  
+21. You may like it, or                 ... pos = 0.5   	neg = 0.0  
+22. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1840-416 is Positive         ... pos = 12.0  	neg = 7.292
+Overall score of document
+Total Pos = 12.0
+Total Neg = 7.292
+---------------------------------------------------------------------------

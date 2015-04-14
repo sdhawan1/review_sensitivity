@@ -1,0 +1,39 @@
+0. Cast: Jim Carrey, La                 ... pos = 0.625 	neg = 0.0  
+1. And that this writer                 ... pos = 0.125 	neg = 0.0  
+2. Andrew Niccol wrote                  ... pos = 0.0   	neg = 0.25 
+3. The Truman Show is e                 ... pos = 0.0   	neg = 0.125
+4. But it's still an ex                 ... pos = 1.0   	neg = 0.25 
+5. In fact, the only th                 ... pos = 0.0   	neg = 0.25 
+6. Not that Australian                  ... pos = 0.75  	neg = 0.0  
+7. The man who directed                 ... pos = 1.125 	neg = 0.125
+8. In that way, The Tru                 ... pos = 0.375 	neg = 1.375
+9. Truman Burbank (Jim                  ... pos = 0.0   	neg = 0.125
+10. It's the longest and                ... pos = 0.25  	neg = 0.0  
+11. You see, Truman is u                ... pos = 0.0   	neg = 0.125
+12. Ed Harris plays Chri                ... pos = 0.0   	neg = 0.125
+13. The women in Truman'                ... pos = 0.375 	neg = 0.375
+14. Marlon (Noah Emmeric                ... pos = 0.625 	neg = 0.125
+15. It would be hard for                ... pos = 0.125 	neg = 1.875
+16. The story board of T                ... pos = 1.0   	neg = 0.625
+17. Christof is easily t                ... pos = 1.375 	neg = 0.375
+18. When Marlon tells Tr                ... pos = 0.5   	neg = 0.125
+19. The whole world is w                ... pos = 1.0   	neg = 0.125
+20. Ed Harris gives Chri                ... pos = 1.125 	neg = 0.75 
+21. As Internet reviewer                ... pos = 0.125 	neg = 0.125
+22. ". It will come as a                ... pos = 0.625 	neg = 0.0  
+23. Carrey gives a caref                ... pos = 1.125 	neg = 0.0  
+24. The over-actor of th                ... pos = 0.875 	neg = 1.25 
+25. Not surprisingly, Th                ... pos = 0.75  	neg = 0.0  
+26. It's not a complete                 ... pos = 1.5   	neg = 0.0  
+27. This is perhaps Andr                ... pos = 0.125 	neg = 1.0  
+28. But it's really Trum                ... pos = 1.25  	neg = 0.125
+29. More than anything e                ... pos = 0.0   	neg = 0.75 
+30. As the final moments                ... pos = 0.875 	neg = 0.125
+31. For this fetching no                ... pos = 1.375 	neg = 0.125
+32. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5847-1111 is Positive        ... pos = 19.25 	neg = 10.625
+Overall score of document
+Total Pos = 19.25
+Total Neg = 10.625
+---------------------------------------------------------------------------

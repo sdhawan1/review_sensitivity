@@ -1,0 +1,22 @@
+0. Written by: Gerald D                 ... pos = 1.125 	neg = 1.125
+1. One day Teresa finds                 ... pos = 0.125 	neg = 0.375
+2. Her boss publishes i                 ... pos = 0.0   	neg = 0.0  
+3. As a news project Te                 ... pos = 0.0   	neg = 0.5  
+4. Aside from being in                  ... pos = 3.875 	neg = 0.875
+5. Since soulful, hunky                 ... pos = 1.5   	neg = 1.125
+6. Teresa and Garret cu                 ... pos = 0.5   	neg = 1.5  
+7. Will love prevail fo                 ... pos = 0.75  	neg = 0    
+8. Opinion: MESSAGE IN                  ... pos = 0.5   	neg = 0.25 
+9. The bad news is that                 ... pos = 0.0   	neg = 1.75 
+10. The good news is tha                ... pos = 0.0   	neg = 0.125
+11. Newman steals the sh                ... pos = 1.0   	neg = 0.0  
+12. And Costner is at hi                ... pos = 0.0   	neg = 0.375
+13. MESSAGE IN A BOTTLE                 ... pos = 1.625 	neg = 0.125
+14. But the ending is di                ... pos = 0.0   	neg = 0.375
+15. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3516-416 is Positive         ... pos = 11.0  	neg = 8.625
+Overall score of document
+Total Pos = 11.0
+Total Neg = 8.625
+---------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+0. Review by Laurence M                 ... pos = 0.625 	neg = 0.0  
+1. Artistically speakin                 ... pos = 0.875 	neg = 0.25 
+2. Yet it's also one of                 ... pos = 0.25  	neg = 0.0  
+3. Pulp Fiction only wo                 ... pos = 1.75  	neg = 0.125
+4. The two oscars it di                 ... pos = 1.125 	neg = 0.125
+5. Jackson.                             ... pos = 0.0   	neg = 0    
+6. ) It's main competit                 ... pos = 0.25  	neg = 0.0  
+7. Yet Pulp Fiction was                 ... pos = 0.25  	neg = 0.125
+8. Now don't get me wro                 ... pos = 0.5   	neg = 0.875
+9. It was a wonderfully                 ... pos = 1.125 	neg = 0.125
+10. But that's about all                ... pos = 0.25  	neg = 0.125
+11. Pulp Fiction contain                ... pos = 0.0   	neg = 0.0  
+12. To get to the plot:                 ... pos = 0.375 	neg = 0.25 
+13. The movie is compris                ... pos = 0.0   	neg = 0.125
+14. Not only that, but t                ... pos = 1.125 	neg = 0.625
+15. Pulp Fiction doesn't                ... pos = 1.625 	neg = 0.375
+16. The four stories are                ... pos = 0.875 	neg = 0.0  
+17. The second one conce                ... pos = 0.0   	neg = 0.25 
+18. The third is about a                ... pos = 0.0   	neg = 0.125
+19. There's more to each                ... pos = 0.0   	neg = 0.0  
+20. The first story is t                ... pos = 0.25  	neg = 0.625
+21. That is, until they                 ... pos = 0.0   	neg = 0.125
+22. Those two hitmen, na                ... pos = 0.0   	neg = 0.125
+23. Their scene opens wi                ... pos = 0.0   	neg = 0.0  
+24. Later scenes include                ... pos = 0.25  	neg = 0.125
+25. I'll touch on that o                ... pos = 0.0   	neg = 0.0  
+26. The boxer segment de                ... pos = 0.0   	neg = 0.125
+27. He refuses to do so,                ... pos = 0.0   	neg = 0.125
+28. He escapes, and late                ... pos = 0.125 	neg = 0.0  
+29. The best thing about                ... pos = 1.625 	neg = 0.125
+30. When Vincent and Jul                ... pos = 0.25  	neg = 0.0  
+31. They discuss what ha                ... pos = 0.25  	neg = 0.0  
+32. These conversations                 ... pos = 0.75  	neg = 0.0  
+33. The most humorous sc                ... pos = 0.375 	neg = 0.0  
+34. Vincent accidentally                ... pos = 0.0   	neg = 0.5  
+35. In a panic, they rus                ... pos = 0.375 	neg = 0.0  
+36. This scene works, in                ... pos = 0.0   	neg = 0.625
+37. The sight of all the                ... pos = 0.0   	neg = 0.375
+38. Pulp Fiction was hea                ... pos = 1.0   	neg = 0.5  
+39. When people are shot                ... pos = 0.25  	neg = 0.625
+40. Sure, poor Marvin ha                ... pos = 0.375 	neg = 0.75 
+41. Die Hard with a Veng                ... pos = 1.375 	neg = 1.25 
+42. So what's the deal w                ... pos = 0.0   	neg = 0.0  
+43. Basically, if you're                ... pos = 1.125 	neg = 0.25 
+44. So go to the nearest                ... pos = 0.5   	neg = 0.0  
+45. Or even if you have.                ... pos = 0     	neg = 0.0  
+46. Trust me, you won't                 ... pos = 0     	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6084-648 is Positive         ... pos = 19.875 	neg = 9.875
+Overall score of document
+Total Pos = 19.875
+Total Neg = 9.875
+---------------------------------------------------------------------------

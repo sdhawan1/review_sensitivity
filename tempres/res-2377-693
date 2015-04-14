@@ -1,0 +1,40 @@
+0. MOVIE VIEWS by Jamey                 ... pos = 0.375 	neg = 0.125
+1. The lead roles, inha                 ... pos = 0.0   	neg = 0.125
+2. And despite the fact                 ... pos = 0.875 	neg = 1.5  
+3. And that it is.                      ... pos = 0.0   	neg = 0.125
+4. Judging by the amoun                 ... pos = 1.25  	neg = 0.125
+5. It has shades of rom                 ... pos = 0.875 	neg = 0.25 
+6. This film is about r                 ... pos = 0.0   	neg = 1.25 
+7. Most of the treacher                 ... pos = 0.375 	neg = 0.625
+8. Katherine and her st                 ... pos = 0.375 	neg = 0.0  
+9. But things get too e                 ... pos = 0.25  	neg = 0.25 
+10. He gets bored with t                ... pos = 0.5   	neg = 0.0  
+11. And so, he attempts                 ... pos = 0.375 	neg = 0.0  
+12. His new subject is a                ... pos = 1.489 	neg = 0.25 
+13. Sebastian has high o                ... pos = 0.625 	neg = 0.0  
+14. But on a second insp                ... pos = 0.25  	neg = 0.125
+15. While trying despera                ... pos = 0.75  	neg = 0.625
+16. His once fool-proof                 ... pos = 0.0   	neg = 0.0  
+17. The first hour of Cr                ... pos = 0.75  	neg = 0.125
+18. Well-deserving peopl                ... pos = 0.875 	neg = 0.0  
+19. It also introduces a                ... pos = 1.5   	neg = 0.0  
+20. In one of the film's                ... pos = 0.125 	neg = 0.0  
+21. She then becomes an                 ... pos = 0.375 	neg = 0.0  
+22. There is quite a bit                ... pos = 0.5   	neg = 0.375
+23. Little is shown on-s                ... pos = 0.0   	neg = 0.375
+24. In the two lead role                ... pos = 0.125 	neg = 1.125
+25. Gellar does such an                 ... pos = 0.125 	neg = 1.0  
+26. Reese Witherspoon sh                ... pos = 0.125 	neg = 0.375
+27. Sooner or later, Cru                ... pos = 0.25  	neg = 0.125
+28. Phillippe and Wither                ... pos = 1.25  	neg = 0.125
+29. But, I did enjoy the                ... pos = 2.125 	neg = 0.125
+30. Bearing some resembl                ... pos = 0.25  	neg = 1.625
+31. Director Kumble has                 ... pos = 0.5   	neg = 0.0  
+32. This film is cheap a                ... pos = 0.125 	neg = 1.0  
+33. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2377-693 is Positive         ... pos = 17.364 	neg = 11.75
+Overall score of document
+Total Pos = 17.364
+Total Neg = 11.75
+---------------------------------------------------------------------------

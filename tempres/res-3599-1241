@@ -1,0 +1,31 @@
+0. Cast: Tom Cruise, Th                 ... pos = 0.0   	neg = 0.125
+1. Difficult should be                  ... pos = 0.0   	neg = 0.125
+2. "    ---Agent Swanbe                 ... pos = 0.5   	neg = 0.0  
+3. A Russian scientist                  ... pos = 0.5   	neg = 0.75 
+4. A rogue IMF agent, S                 ... pos = 0.75  	neg = 1.125
+5. Posing as Ethan Hunt                 ... pos = 0.75  	neg = 2.125
+6. The real Ethan Hunt                  ... pos = 0.75  	neg = 0.125
+7. Ethan and Nyah fall                  ... pos = 1.625 	neg = 0.25 
+8. Reluctantly, he sets                 ... pos = 0.25  	neg = 0.125
+9. Ethan must race agai                 ... pos = 0.5   	neg = 0.625
+10. Although the first M                ... pos = 1.125 	neg = 2.125
+11. That problem has bee                ... pos = 1.5   	neg = 0.375
+12. The end result is on                ... pos = 0.375 	neg = 0.5  
+13. Unfortunately, the f                ... pos = 1.625 	neg = 0.875
+14. Ethan's conflict is                 ... pos = 0.5   	neg = 0.875
+15. John Woo handles all                ... pos = 0.0   	neg = 0.375
+16. The surreal nature o                ... pos = 0.5   	neg = 0.25 
+17. Thankfully though, a                ... pos = 0.625 	neg = 0.0  
+18. Robert Towne's scree                ... pos = 0.5   	neg = 0.625
+19. After that, the acti                ... pos = 0.0   	neg = 0.125
+20. The final half hour                 ... pos = 0.75  	neg = 1.625
+21. As far as summer ent                ... pos = 0.0   	neg = 0.125
+22. Anyone looking for h                ... pos = 0.625 	neg = 0.125
+23. Even if you weren't                 ... pos = 0.875 	neg = 0.0  
+24. [PG-13]. Reviewed by                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3599-1241 is Positive        ... pos = 14.625 	neg = 13.375
+Overall score of document
+Total Pos = 14.625
+Total Neg = 13.375
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. Kid yourself not, Pa                 ... pos = 0.0   	neg = 1.0  
+1. The jokes are rare,                  ... pos = 0.875 	neg = 0.25 
+2. Fortunately, though,                 ... pos = 0.75  	neg = 0.125
+3. And one of the  best                 ... pos = 0.375 	neg = 0.0  
+4. Through a combinatio                 ... pos = 1.75  	neg = 0.125
+5. Hunter "Patch" Adams                 ... pos = 0.125 	neg = 0.125
+6. Early scenes show hi                 ... pos = 0.25  	neg = 0.125
+7. Much resembling the                  ... pos = 0.875 	neg = 0.125
+8. But the similarities                 ... pos = 0.625 	neg = 0.375
+9. Soon Patch leaves th                 ... pos = 0.75  	neg = 0.0  
+10. His objective is to                 ... pos = 0.0   	neg = 0.125
+11. So it is that  we no                ... pos = 0.125 	neg = 0.375
+12. Patch is a new stude                ... pos = 0.75  	neg = 0.25 
+13. He has a "prick" for                ... pos = 0.25  	neg = 0.125
+14. He becomes a rebel                  ... pos = 1.375 	neg = 0.25 
+15. The rest of the film                ... pos = 0.625 	neg = 0.0  
+16. Patch encounters eve                ... pos = 1.0   	neg = 1.125
+17. The story is clearly                ... pos = 0.25  	neg = 0.125
+18. Based on the autobio                ... pos = 0.0   	neg = 0.0  
+19. :  Bringing Good Hea                ... pos = 1.625 	neg = 0.0  
+20. This is far from a h                ... pos = 0.125 	neg = 0.625
+21. Robin William is Osc                ... pos = 0.5   	neg = 0.125
+22. He gives what is mos                ... pos = 0.625 	neg = 0.125
+23. Despite much  resemb                ... pos = 1.375 	neg = 0.5  
+24. He also seems to hav                ... pos = 0.625 	neg = 0.375
+25. But the talent doesn                ... pos = 0     	neg = 0.125
+26. Hollywood newcomer P                ... pos = 1.375 	neg = 0.0  
+27. Director Tom Shadyac                ... pos = 0.75  	neg = 0.125
+28. Parts are visually s                ... pos = 2.5   	neg = 0.125
+29. Although it is Willi                ... pos = 0.25  	neg = 0.25 
+30. To not see Patch Ada                ... pos = 0.125 	neg = 0.125
+31. It is an incredible                 ... pos = 0.625 	neg = 0.125
+32. So, do yourself a fa                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4411-592 is Positive         ... pos = 21.25 	neg = 7.25 
+Overall score of document
+Total Pos = 21.25
+Total Neg = 7.25
+---------------------------------------------------------------------------

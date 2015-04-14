@@ -1,0 +1,118 @@
+
+#file with initial / experimental code
+
+import os #need this package to scrape the locally stored data files
+import nltk
+from nltk.probability import FreqDist #frequency distribution statistics finder
+from collections import Counter #another tool to count frequencies
+from bs4 import BeautifulSoup # for extracting stuff from htmls
+from collections import defaultdict #import a "dictionary" data type: to create dict of lists
+
+
+### important global variables ###
+datadir = os.path.abspath(os.path.join(os.path.dirname(__file__),"..")) #get parent directory
+datadir += '/movie/'
+rvfilenames = os.listdir(datadir) #open a file: open(datadir+rvfilenames)
+
+################## setup file of reviewers ######################
+#find the title and authors of all movie reviews & store?                                                                                                             
+if not os.path.isfile(os.getcwd() + '/reviewer_names'): #if there is no file with all titles, create it.                                                              
+    f = open("reviewer_names", 'w')
+    reviewer = ""
+    for rvfile in rvfilenames:
+        try:
+            soup = BeautifulSoup(open(datadir + rvfile))
+            #try to work with exceptional control flow on the below.
+            reviewer = soup.find("h3").a.text
+        except:
+            print "error: couldn't find name"
+            f.write(' \n')
+            continue
+        print reviewer
+        f.write( reviewer+'\n' )
+    f.close()
+
+
+################### find the title and authors of all movie reviews & store? ###################
+if not os.path.isfile(os.getcwd() + '/movie_names'): #if there is no file with all titles, create it.
+    f = open("movie_names", 'w')
+    for rvfile in rvfilenames:
+        try:
+            soup = BeautifulSoup(open(datadir + rvfile))
+            #try to work with exceptional control flow on the below.
+            title = soup.find("title").get_text().encode('utf8')
+        except:
+            print "error: couldn't find title."
+            f.write(' \n')
+            continue
+        print title
+        f.write( title+'\n' )
+    f.close()
+
+################# get the titles of movies from the file of movies ###########################
+movienames = defaultdict(list)
+fileno = 0
+with open("movie_names") as openfileobject:
+    for line in openfileobject:
+        if line in movienames:
+            movienames[line].extend([fileno])
+        else:
+            movienames[line] = [fileno]
+        fileno += 1
+
+
+
+####################for some given list of movies, find all the text###########################
+allfiles = "" #set up structure to get words from all files
+i = 0 #in case we want to limit the data extracted.
+paragraphs = []
+for rvfile in rvfilenames:
+    soup = BeautifulSoup(open(datadir + rvfile))
+    paragraphs = soup.findAll("p")
+    for p in paragraphs:
+        if p.get("class") == ['flush']:
+            break
+        allfiles += p.get_text()
+    i += 1
+    if i > 5:
+        break
+#print allfiles
+
+allfiles_freq = FreqDist()
+for sent in nltk.tokenize.sent_tokenize(allfiles):
+    for word in nltk.tokenize.word_tokenize(sent):
+        allfiles_freq.inc(word)
+
+#print allfiles_freq.items() #this works, but it's probably better to have a preset list of important movie words?
+writing_words = ['plot', 'story', 'audience', 'arc', 'writer', 'writing', 'written', 'concept', 'idea', 'dialog', 'structure']
+acting_words = ['character', 'performance', 'actor', 'acting']
+directing_words = ['director', 'directing', 'direction']
+
+print 'WRITING WORDS:'
+for word in writing_words:
+    print word + ': ' + str(allfiles_freq[word])
+
+print '\nACTING WORDS:'
+for word in acting_words:
+    print word + ': ' + str(allfiles_freq[word])
+
+print '\nDIRECTING WORDS:'
+for word in directing_words:
+    print word + ': ' + str(allfiles_freq[word])
+ 
+"""
+rv1 = open("data/cv000_29416.txt") #open the file; before this, find a way to do it without knowing all the names exactly.
+txt1 = rv1.read() #returns a string containing all characters in the file.
+wds1 = txt1.split()
+
+for wd in wds1:
+    if wd.isalpha():
+        print wd
+    else:
+        wds1 = [x for x in wds1 if x != wd]
+
+print "--------------------------------------------------------------"
+for wd in wds1:
+    print wd
+
+"""

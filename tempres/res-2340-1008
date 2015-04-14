@@ -1,0 +1,52 @@
+0. *** (out of 4) I lik                 ... pos = 0.125 	neg = 0.125
+1. But it's a movie tha                 ... pos = 0.5   	neg = 0.0  
+2. Two-dimensional char                 ... pos = 2.375 	neg = 0.375
+3. While the miners of                  ... pos = 0.0   	neg = 0.375
+4. His first glimpse of                 ... pos = 0.25  	neg = 0.25 
+5. Homer knows just eno                 ... pos = 0.0   	neg = 0.0  
+6. Since his coal-minin                 ... pos = 0.75  	neg = 0.625
+7. Two other friends of                 ... pos = 0.125 	neg = 0.0  
+8. With Quentin's smart                 ... pos = 0.5   	neg = 1.0  
+9. The rocket boys mast                 ... pos = 0.0   	neg = 0.125
+10. But each accomplishm                ... pos = 0.375 	neg = 0.0  
+11. The next rocket has                 ... pos = 0.0   	neg = 0.125
+12. They boys hit severa                ... pos = 0.625 	neg = 0.0  
+13. To solve one problem                ... pos = 0.0   	neg = 0.25 
+14. Another problem is s                ... pos = 0.0   	neg = 0.5  
+15. In the meantime, a s                ... pos = 0.875 	neg = 0.0  
+16. Homer's father is co                ... pos = 0.0   	neg = 0.125
+17. He's dead-set agains                ... pos = 0.375 	neg = 0    
+18. Based on a true stor                ... pos = 1.0   	neg = 0.375
+19. In fact, his father                 ... pos = 0.125 	neg = 0.75 
+20. Graham Chapman plays                ... pos = 0.5   	neg = 0.0  
+21. This poet refuses to                ... pos = 0.75  	neg = 0.0  
+22. It's a funny reversa                ... pos = 0.0   	neg = 0.0  
+23. In spite of Homer's                 ... pos = 0.75  	neg = 0.0  
+24. But OCTOBER SKY stic                ... pos = 0.375 	neg = 0.25 
+25. A forest fire spread                ... pos = 0.5   	neg = 0.0  
+26. All seems lost, so H                ... pos = 0.0   	neg = 0.125
+27. The film actually ta                ... pos = 0.25  	neg = 0.125
+28. I mention it because                ... pos = 0.0   	neg = 0.125
+29. From HOW GREEN WAS M                ... pos = 0.0   	neg = 1.125
+30. But never have I act                ... pos = 0.125 	neg = 0.0  
+31. October Sky gets bon                ... pos = 0.75  	neg = 0.0  
+32. But if that were the                ... pos = 0.0   	neg = 0.25 
+33. In fact, the boys fi                ... pos = 0.0   	neg = 0.0  
+34. They calculate the f                ... pos = 0.0   	neg = 0.375
+35. They found it in a s                ... pos = 0.0   	neg = 0.0  
+36. (Strictly speaking,                 ... pos = 0.0   	neg = 0.0  
+37. They knew flight tim                ... pos = 0.0   	neg = 0.125
+38. Without that, there'                ... pos = 0.0   	neg = 0.375
+39. ). Like I said, the                 ... pos = 0.0   	neg = 0.0  
+40. The plot is trite, t                ... pos = 0.5   	neg = 0.5  
+41. But Homer's story wa                ... pos = 0.0   	neg = 0.25 
+42. In movies with this                 ... pos = 1.0   	neg = 0.0  
+43. Homer's dream was mo                ... pos = 0.875 	neg = 0.125
+44. Ultimately, the emot                ... pos = 0.75  	neg = 0.125
+45. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2340-1008 is Positive        ... pos = 15.125 	neg = 8.875
+Overall score of document
+Total Pos = 15.125
+Total Neg = 8.875
+---------------------------------------------------------------------------

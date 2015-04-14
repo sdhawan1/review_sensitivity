@@ -1,0 +1,43 @@
+0. The summer of 2000 h                 ... pos = 0.625 	neg = 0.0  
+1. OK  it's not the c                 ... pos = 0.5   	neg = 0.25 
+2. The premise?                         ... pos = 0     	neg = 0.0  
+3. A result of quickene                 ... pos = 0.875 	neg = 0.0  
+4. Trouble is, they pos                 ... pos = 0.5   	neg = 0.875
+5. Many mutants are all                 ... pos = 0.5   	neg = 0.25 
+6. Dr. X's nemesis is M                 ... pos = 0.25  	neg = 0.25 
+7. Magneto's specialty                  ... pos = 0.0   	neg = 0.125
+8. A side conflict that                 ... pos = 0.0   	neg = 0.125
+9. In one early scene h                 ... pos = 0.25  	neg = 0.625
+10. (Dr. Grey is telekin                ... pos = 0.0   	neg = 0.125
+11. )  What keeps us eng                ... pos = 0.625 	neg = 0.125
+12. Will he thwart both                 ... pos = 0.125 	neg = 0.0  
+13. The acting is strong                ... pos = 1.375 	neg = 0.125
+14. Stewart delivers a m                ... pos = 1.375 	neg = 0    
+15. I would tend to agre                ... pos = 2.25  	neg = 0.625
+16. This is a pair of se                ... pos = 0.75  	neg = 0.125
+17. Hugh Jackman plays a                ... pos = 0.0   	neg = 0.125
+18. This character is vi                ... pos = 1.125 	neg = 1.0  
+19. The  perverse experi                ... pos = 0.875 	neg = 0.0  
+20. AnyhowWolverine is                ... pos = 0.875 	neg = 0.125
+21. The rest of Wolverin                ... pos = 0.0   	neg = 0.5  
+22. The baddies   Magn                ... pos = 0.5   	neg = 0.25 
+23. Although some of the                ... pos = 1.25  	neg = 0.0  
+24. Bryan Singer keeps a                ... pos = 0.0   	neg = 0.5  
+25. His  scenes are func                ... pos = 0.75  	neg = 0.0  
+26. We need to feel clos                ... pos = 0.375 	neg = 0.375
+27. And character develo                ... pos = 0.875 	neg = 0.0  
+28. If you are a fan of                 ... pos = 0.875 	neg = 0.125
+29. Wolverine appears mo                ... pos = 0.0   	neg = 0.0  
+30. (We are  treated to                 ... pos = 0.375 	neg = 0.0  
+31. )  I think the lack                 ... pos = 0.25  	neg = 0.375
+32. In addition, Jean Gr                ... pos = 0.125 	neg = 0.0  
+33. Good decisions, Mr.                 ... pos = 0.75  	neg = 0.0  
+34. In all, X-MEN does s                ... pos = 0.0   	neg = 0.375
+35. But there is enough                 ... pos = 1.0   	neg = 0.125
+36. Wherever your tastes                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4459-71 is Positive          ... pos = 20.25 	neg = 7.5  
+Overall score of document
+Total Pos = 20.25
+Total Neg = 7.5
+---------------------------------------------------------------------------

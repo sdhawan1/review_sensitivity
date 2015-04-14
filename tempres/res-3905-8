@@ -1,0 +1,35 @@
+0. Last year, M. Night                  ... pos = 1.375 	neg = 0.25 
+1. Since the announceme                 ... pos = 0.0   	neg = 0.125
+2. Will he be able to t                 ... pos = 0.25  	neg = 0.125
+3. Can he create an end                 ... pos = 0.375 	neg = 0.0  
+4. "  The answer to all                 ... pos = 0.0   	neg = 0.25 
+5. A chilling masterpie                 ... pos = 1.25  	neg = 0.125
+6. Bruce Willis (who al                 ... pos = 2.0   	neg = 0.875
+7. Dunne searches for t                 ... pos = 0.625 	neg = 0.125
+8. Price offers an unre                 ... pos = 0.25  	neg = 0.875
+9. His cells react to b                 ... pos = 0.75  	neg = 0    
+10. Price on the other h                ... pos = 0.0   	neg = 0.125
+11. Ever since birth, Pr                ... pos = 0.125 	neg = 0.0  
+12. Price relates these                 ... pos = 1.5   	neg = 0.125
+13. Shyamalan knows audi                ... pos = 1.375 	neg = 0.25 
+14. And what does he do                 ... pos = 0.0   	neg = 0.0  
+15. He, quite frankly, s                ... pos = 0.0   	neg = 0.0  
+16. Unbreakable will und                ... pos = 0.625 	neg = 0.125
+17. " and most likely st                ... pos = 0.0   	neg = 0.125
+18. Shyamalan knows this                ... pos = 0.0   	neg = 0    
+19. Shyamalan has not ma                ... pos = 0.625 	neg = 0.0  
+20. He has made a film t                ... pos = 0.625 	neg = 0.0  
+21. And ultimately, he h                ... pos = 0.125 	neg = 0.0  
+22. (And then laugh at y                ... pos = 0.0   	neg = 0.0  
+23. ). Certainly not a r                ... pos = 0.5   	neg = 0.0  
+24. Shyamalan crafts Unb                ... pos = 1.5   	neg = 0.375
+25. The answer is not re                ... pos = 1.25  	neg = 0.125
+26. But either way the b                ... pos = 0.0   	neg = 0.125
+27. When the credits beg                ... pos = 0.0   	neg = 0.0  
+28. THE BOTTOM LINE: Unb                ... pos = 0.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3905-8 is Positive           ... pos = 15.75 	neg = 4.375
+Overall score of document
+Total Pos = 15.75
+Total Neg = 4.375
+---------------------------------------------------------------------------

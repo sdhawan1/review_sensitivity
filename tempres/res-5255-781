@@ -1,0 +1,49 @@
+0. The world is faced w                 ... pos = 0.375 	neg = 0.125
+1. Elliot Carver is a m                 ... pos = 0.5   	neg = 0.25 
+2. Carver's latest plot                 ... pos = 1.125 	neg = 0.375
+3. The end goal?                        ... pos = 0.0   	neg = 0.0  
+4. Install a puppet gov                 ... pos = 0.125 	neg = 0.0  
+5. To combat this threa                 ... pos = 0.0   	neg = 0.0  
+6. For the second time,                 ... pos = 0.0   	neg = 0.0  
+7. This is not necessar                 ... pos = 1.125 	neg = 0.375
+8. It's okay, though.                   ... pos = 0.0   	neg = 0.125
+9. Brosnan seems to hav                 ... pos = 0.25  	neg = 0.375
+10. Opposite Brosnan are                ... pos = 0.25  	neg = 0.0  
+11. Between these two ne                ... pos = 0.5   	neg = 0.0  
+12. Hatcher may be attra                ... pos = 1.375 	neg = 0.375
+13. She has some moves w                ... pos = 0.125 	neg = 0.375
+14. It is often said tha                ... pos = 0.0   	neg = 0.5  
+15. Starting a war to ge                ... pos = 0.0   	neg = 0.0  
+16. You have to admire s                ... pos = 1.5   	neg = 0.125
+17. Capitalism, not comm                ... pos = 0.375 	neg = 0.5  
+18. Pryce plays the role                ... pos = 0.75  	neg = 0.0  
+19. One of the things yo                ... pos = 0.0   	neg = 0.125
+20. In this film, the vi                ... pos = 0.875 	neg = 0.125
+21. All of the action is                ... pos = 0.375 	neg = 0.75 
+22. The only problem is                 ... pos = 0.0   	neg = 0.5  
+23. Bond has been throug                ... pos = 0.5   	neg = 0.25 
+24. I mean, the man has                 ... pos = 0.0   	neg = 0.25 
+25. It seems to me that                 ... pos = 0.25  	neg = 0.125
+26. We consistently igno                ... pos = 0.5   	neg = 1.125
+27. While watching the f                ... pos = 0.0   	neg = 2.375
+28. Did I miss anything?                ... pos = 0.0   	neg = 0.0  
+29. Oh, yes, his fight t                ... pos = 0.125 	neg = 0.0  
+30. If this were to occu                ... pos = 0.0   	neg = 1.0  
+31. The fact that there                 ... pos = 0.125 	neg = 0.5  
+32. It says that Bond ha                ... pos = 0.25  	neg = 0.25 
+33. In fact, I would eve                ... pos = 0.125 	neg = 0.375
+34. Remember when they t                ... pos = 0.125 	neg = 0.5  
+35. It didn't work, beca                ... pos = 0.0   	neg = 0.0  
+36. The problem with the                ... pos = 0.25  	neg = 0.75 
+37. So here we are with                 ... pos = 0.25  	neg = 0.375
+38. Rather than scoff at                ... pos = 1.5   	neg = 0.125
+39. The familiarity is a                ... pos = 0.75  	neg = 0.25 
+40. What's new about thi                ... pos = 0.375 	neg = 0.625
+41. This one fully recog                ... pos = 0.375 	neg = 0.125
+42. I believe this film                 ... pos = 2.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5255-781 is Positive         ... pos = 17.25 	neg = 14.25
+Overall score of document
+Total Pos = 17.25
+Total Neg = 14.25
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. Starring Katie Holme                 ... pos = 0.75  	neg = 1.0  
+1. That is to say long                  ... pos = 0.5   	neg = 0.5  
+2. At first it seemed a                 ... pos = 0.125 	neg = 0.375
+3. The movie started ou                 ... pos = 0.0   	neg = 0.25 
+4. The director seemed                  ... pos = 0.0   	neg = 1.25 
+5. Happily, the movie s                 ... pos = 1.625 	neg = 0.375
+6. Due in no small part                 ... pos = 1.375 	neg = 0.0  
+7. Go is basically thre                 ... pos = 0.0   	neg = 0.125
+8. They all start at mo                 ... pos = 0.25  	neg = 0.0  
+9. All work very well o                 ... pos = 1.625 	neg = 0.125
+10. There are no predomi                ... pos = 0.25  	neg = 0.25 
+11. All of the cast have                ... pos = 0.0   	neg = 0.125
+12. If I had to focus in                ... pos = 0.125 	neg = 0.0  
+13. Polley and Holmes pl                ... pos = 0.75  	neg = 0.0  
+14. Polley and Holmes th                ... pos = 0.125 	neg = 0.0  
+15. This is a gross simp                ... pos = 0.625 	neg = 0.125
+16. It would also take a                ... pos = 0.0   	neg = 0    
+17. Acting wise, Go is a                ... pos = 0.0   	neg = 0.25 
+18. With the exception o                ... pos = 0.875 	neg = 0.125
+19. Many will be familia                ... pos = 0.125 	neg = 0.125
+20. Anyone that has watc                ... pos = 0.5   	neg = 0.5  
+21. To hear US film crit                ... pos = 0.0   	neg = 0.25 
+22. Canadians have been                 ... pos = 0.625 	neg = 0.25 
+23. I'm guessing that th                ... pos = 0.125 	neg = 0.0  
+24. My only complaint wa                ... pos = 0.0   	neg = 1.0  
+25. To be honest, I don'                ... pos = 1.0   	neg = 0.25 
+26. It's sad that Hollyw                ... pos = 0.0   	neg = 1.0  
+27. Herky jerky camera m                ... pos = 0.0   	neg = 0.0  
+28. Go is cleverly writt                ... pos = 0.375 	neg = 0.125
+29. I would say that Go                 ... pos = 0.75  	neg = 0.125
+30. It will probably ran                ... pos = 0.5   	neg = 0    
+31. If nothing else, it                 ... pos = 0.5   	neg = 0.25 
+32. 8/10 -- Clever story                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5367-488 is Positive         ... pos = 14.0  	neg = 8.75 
+Overall score of document
+Total Pos = 14.0
+Total Neg = 8.75
+---------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+0. Director: Gregory Ho                 ... pos = 0.5   	neg = 0.25 
+1. The film is composed                 ... pos = 1.625 	neg = 0.125
+2. This could have been                 ... pos = 0.625 	neg = 0.125
+3. Too bad, because it                  ... pos = 0.25  	neg = 1.875
+4. The result is an ori                 ... pos = 0.25  	neg = 0.125
+5. Denzel Washington st                 ... pos = 0.375 	neg = 0.0  
+6. In the beginning, we                 ... pos = 0.375 	neg = 0.375
+7. It doesn't take long                 ... pos = 1.0   	neg = 1.75 
+8. He enlists the help                  ... pos = 0.0   	neg = 0.125
+9. Fallen is a strange                  ... pos = 0.375 	neg = 0.375
+10. I immediately knew t                ... pos = 0.75  	neg = 1.0  
+11. Credits, for me, set                ... pos = 0.25  	neg = 0.375
+12. This isn't a severe                 ... pos = 0.0   	neg = 0.375
+13. Washington is a terr                ... pos = 1.0   	neg = 0.375
+14. He sounds too happy,                ... pos = 0.75  	neg = 0.625
+15. It's not really comi                ... pos = 0.5   	neg = 0.25 
+16. In that case, a cent                ... pos = 0.0   	neg = 0.25 
+17. This leads right int                ... pos = 0.0   	neg = 0.875
+18. This is a story that                ... pos = 0.125 	neg = 0.125
+19. The ideas here have                 ... pos = 0.625 	neg = 0.5  
+20. The execution, thoug                ... pos = 0.25  	neg = 0.125
+21. It's creepy just in                 ... pos = 0.625 	neg = 0.125
+22. The director, Gregor                ... pos = 1.125 	neg = 1.625
+23. We get to find out w                ... pos = 0.0   	neg = 0.0  
+24. With the central ide                ... pos = 0.625 	neg = 0.875
+25. Another big mistake                 ... pos = 0.625 	neg = 0.875
+26. There is something a                ... pos = 0.0   	neg = 0.25 
+27. There is one truly b                ... pos = 1.125 	neg = 0.25 
+28. Still, there is a lo                ... pos = 0.0   	neg = 0.125
+29. The performances, fo                ... pos = 0.25  	neg = 0    
+30. Washington is always                ... pos = 0.625 	neg = 0.5  
+31. John Goodman, who pl                ... pos = 1.625 	neg = 0.125
+32. I also liked Davidtz                ... pos = 0.5   	neg = 0.0  
+33. It's a decent film,                 ... pos = 0.25  	neg = 0.375
+34. The ending, too, fee                ... pos = 0.0   	neg = 0.25 
+35. The ideas behind thi                ... pos = 0.75  	neg = 0.0  
+36. As far as the execut                ... pos = 0.0   	neg = 0.25 
+37. I liked the characte                ... pos = 1.625 	neg = 0.125
+38. It's pretty rare tha                ... pos = 0.25  	neg = 1.0  
+39. Last year I went int                ... pos = 0.75  	neg = 0.0  
+40. Fallen promises as m                ... pos = 0.125 	neg = 0.375
+41. Had it been darker a                ... pos = 0.75  	neg = 0.5  
+42. It takes the easier                 ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1773-760 is Positive         ... pos = 21.5  	neg = 18.0 
+Overall score of document
+Total Pos = 21.5
+Total Neg = 18.0
+---------------------------------------------------------------------------

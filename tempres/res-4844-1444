@@ -1,0 +1,49 @@
+0. Directed by Tom Dey.                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Miles                  ... pos = 0.0   	neg = 0.0  
+2. Starring Jackie Chan                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 111 mi                 ... pos = 0     	neg = 0.0  
+4. Rated PG for mild la                 ... pos = 0.125 	neg = 0.125
+5. Reviewed on June 5th                 ... pos = 0.0   	neg = 0.0  
+6. The western genre is                 ... pos = 0.0   	neg = 0.375
+7. Modern revisionism l                 ... pos = 1.375 	neg = 0.875
+8. The richness of the                  ... pos = 1.0   	neg = 0.125
+9. Which is not to say                  ... pos = 1.125 	neg = 1.0  
+10. It's ironic, then, t                ... pos = 0.989 	neg = 0.375
+11. This isn't the kind                 ... pos = 0.5   	neg = 0.0  
+12. But "Shanghai Noon"                 ... pos = 1.25  	neg = 0.125
+13. Jackie Chan plays th                ... pos = 0.0   	neg = 0.125
+14. The princess has bee                ... pos = 1.0   	neg = 0.25 
+15. Chon's job is made m                ... pos = 0.75  	neg = 1.5  
+16. Thrust into an uneas                ... pos = 0.0   	neg = 0.0  
+17. Much of the amusemen                ... pos = 0.875 	neg = 0.25 
+18. One hilarious sequen                ... pos = 0.25  	neg = 0.0  
+19. Chon, having saved a                ... pos = 0.0   	neg = 0.125
+20. Chon knows very litt                ... pos = 0.5   	neg = 1.0  
+21. Groans one Sioux, "N                ... pos = 0.0   	neg = 0.0  
+22. Like that'll help.                  ... pos = 0.0   	neg = 0.0  
+23. " . Similarly, there                ... pos = 0.0   	neg = 0.125
+24. Their interpreter is                ... pos = 0.5   	neg = 1.0  
+25. The script, by Miles                ... pos = 0.0   	neg = 0.25 
+26. Indeed, "Shanghai No                ... pos = 1.25  	neg = 0.0  
+27. And while none of th                ... pos = 2.875 	neg = 0.625
+28. Owen Wilson didn't i                ... pos = 1.25  	neg = 0.0  
+29. It helps, no doubt,                 ... pos = 0.875 	neg = 0.5  
+30. He's a train robber                 ... pos = 1.0   	neg = 0.5  
+31. He's torn between re                ... pos = 2.375 	neg = 1.5  
+32. Chan does his usual                 ... pos = 1.194 	neg = 0.75 
+33. Liu makes the most o                ... pos = 0.75  	neg = 0.0  
+34. Somewhat less succes                ... pos = 1.75  	neg = 0.625
+35. Obviously intended t                ... pos = 1.375 	neg = 0.75 
+36. Nowhere is this more                ... pos = 0.0   	neg = 0.5  
+37. Despite its unconven                ... pos = 1.125 	neg = 0.375
+38. But that's not what                 ... pos = 0.625 	neg = 0.0  
+39. The combination migh                ... pos = 0.375 	neg = 1.125
+40. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+41. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+42. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4844-1444 is Positive        ... pos = 27.558 	neg = 14.875
+Overall score of document
+Total Pos = 27.558
+Total Neg = 14.875
+---------------------------------------------------------------------------

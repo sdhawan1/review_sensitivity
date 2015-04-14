@@ -1,0 +1,52 @@
+0. CrankyCriticŽ movie                 ... pos = 0.25  	neg = 0.0  
+1. If it isn't obvious                  ... pos = 0.0   	neg = 0.125
+2. The creative team be                 ... pos = 0.25  	neg = 0.75 
+3. That being said, no                  ... pos = 0.625 	neg = 0.375
+4. The Captain has done                 ... pos = 0.25  	neg = 2.125
+5. Crime is down, as ar                 ... pos = 0.75  	neg = 0.5  
+6. Only the return of a                 ... pos = 0.375 	neg = 1.375
+7. The Captain, it must                 ... pos = 0.375 	neg = 0.25 
+8. That means Champion                  ... pos = 0.125 	neg = 0.125
+9. If the villains of C                 ... pos = 0.625 	neg = 0.375
+10. There's Mr.                         ... pos = 0     	neg = 0.0  
+11. Furious (Ben Stiller                ... pos = 1.375 	neg = 0.0  
+12. There's The Blue Raj                ... pos = 1.125 	neg = 1.75 
+13. He's not really effe                ... pos = 0.0   	neg = 0.375
+14. Last up is The Shove                ... pos = 0.0   	neg = 0.125
+15. Turning the superher                ... pos = 1.125 	neg = 0.125
+16. Virtually all of the                ... pos = 0.625 	neg = 0.875
+17. Furious and the Blue                ... pos = 0.25  	neg = 0.25 
+18. The Shoveler has a w                ... pos = 0.0   	neg = 0.0  
+19. The production desig                ... pos = 0.25  	neg = 0.125
+20. The high tech talk c                ... pos = 0.75  	neg = 0.375
+21. As in the comics, to                ... pos = 0.375 	neg = 0.375
+22. That means open audi                ... pos = 0.25  	neg = 0.0  
+23. What a motley group                 ... pos = 0.0   	neg = 0    
+24. The remaining superh                ... pos = 1.375 	neg = 3.25 
+25. In this case, it's s                ... pos = 0.0   	neg = 0.125
+26. Rounding off the cas                ... pos = 0.75  	neg = 1.75 
+27. You know they're bad                ... pos = 0.0   	neg = 0.875
+28. Tomake comic heroes                 ... pos = 0.0   	neg = 0.25 
+29. William H. Macy is t                ... pos = 0.0   	neg = 0.125
+30. Janeane Garofalo, ab                ... pos = 0.0   	neg = 0.0  
+31. Basically, she still                ... pos = 0.0   	neg = 0.0  
+32. See it and believe i                ... pos = 0.125 	neg = 0    
+33. Mystery Men gently p                ... pos = 0.5   	neg = 0.125
+34. On the downside, thi                ... pos = 1.375 	neg = 0.5  
+35. There's not enough i                ... pos = 0.5   	neg = 1.375
+36. Parents to whose kid                ... pos = 0.25  	neg = 0.875
+37. On average, a first                 ... pos = 0.25  	neg = 0.0  
+38. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+39. Mystery Men is terri                ... pos = 0.5   	neg = 0.375
+40. There's nothing here                ... pos = 0.75  	neg = 0.625
+41. Cast members William                ... pos = 0.125 	neg = 0.0  
+42. A good time was had                 ... pos = 0.75  	neg = 0.125
+43. Best non-comics in-j                ... pos = 0.375 	neg = 0.0  
+44. ". Cranky CriticŽ i                ... pos = 0.0   	neg = 0.125
+45. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1731-912 is Negative         ... pos = 17.5  	neg = 21.0 
+Overall score of document
+Total Pos = 17.5
+Total Neg = 21.0
+---------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+0. Starring: Denzel Was                 ... pos = 0.125 	neg = 0.5  
+1. father/son relations                 ... pos = 0.125 	neg = 0.5  
+2. His well-meaning fat                 ... pos = 1.125 	neg = 0.0  
+3. Years later the tale                 ... pos = 0.25  	neg = 1.125
+4. Even his girlfriend,                 ... pos = 0.25  	neg = 0.125
+5. Everyone wants to us                 ... pos = 0.125 	neg = 0.0  
+6. Jesus faces temptati                 ... pos = 0.125 	neg = 0.0  
+7. One day the governor                 ... pos = 0.125 	neg = 0.0  
+8. He gives Jake one we                 ... pos = 0.125 	neg = 0.0  
+9. Jake knows it's expl                 ... pos = 0.5   	neg = 0.125
+10. He takes the deal.                  ... pos = 0.0   	neg = 0    
+11. A subplot involves M                ... pos = 0.125 	neg = 0.5  
+12. Opinion:  HE GOT GAM                ... pos = 0.75  	neg = 0.125
+13. It's not often that                 ... pos = 2.375 	neg = 0.625
+14. At the same time, an                ... pos = 0.0   	neg = 0.25 
+15. In our society it is                ... pos = 1.375 	neg = 0.125
+16. But in HE GOT GAME t                ... pos = 0.625 	neg = 0.125
+17. To other people Jesu                ... pos = 0.875 	neg = 0.25 
+18. HE GOT GAME is part                 ... pos = 0.625 	neg = 0.125
+19. In SCREAM the movie                 ... pos = 0.25  	neg = 0.0  
+20. In THE GAME and in D                ... pos = 0.5   	neg = 0    
+21. Next month in Jim Ca                ... pos = 1.625 	neg = 0.25 
+22. It's almost as if th                ... pos = 0.0   	neg = 0.125
+23. In HE GOT GAME, the                 ... pos = 0.875 	neg = 0.375
+24. I predict this inter                ... pos = 0.125 	neg = 0.0  
+25. There are a few mino                ... pos = 1.375 	neg = 1.125
+26. There also seem to b                ... pos = 1.125 	neg = 0.25 
+27. Finally, when Big Ti                ... pos = 0.625 	neg = 0.375
+28. These three things c                ... pos = 0.25  	neg = 0.125
+29. For you basketball f                ... pos = 0.25  	neg = 0.5  
+30. There is solid actin                ... pos = 0.0   	neg = 0.125
+31. As Malone of the NBA                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2092-416 is Positive         ... pos = 16.625 	neg = 7.75 
+Overall score of document
+Total Pos = 16.625
+Total Neg = 7.75
+---------------------------------------------------------------------------

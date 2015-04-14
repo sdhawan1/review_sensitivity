@@ -1,0 +1,36 @@
+0. Starring Mark Whalbe                 ... pos = 0.75  	neg = 0.25 
+1. If a film is only 90                 ... pos = 0.0   	neg = 0.375
+2. But if a film last 2                 ... pos = 1.125 	neg = 0.0  
+3. Boogie Nights falls                  ... pos = 0.0   	neg = 0.25 
+4. The director, Anders                 ... pos = 0.5   	neg = 0.0  
+5. Mark Whalberg, a.k.a                 ... pos = 0.125 	neg = 0.0  
+6. Jack Horner (Reynold                 ... pos = 0.0   	neg = 0.25 
+7. After running away f                 ... pos = 0.0   	neg = 0.0  
+8. In the movie busines                 ... pos = 3.625 	neg = 0.625
+9. We learn about Amber                 ... pos = 0.75  	neg = 1.0  
+10. But the best thing a                ... pos = 1.375 	neg = 0.25 
+11. The direction is fas                ... pos = 0.375 	neg = 0.125
+12. There are some great                ... pos = 0.5   	neg = 0.625
+13. The writing is fabul                ... pos = 1.125 	neg = 0.5  
+14. ) Boogie Nights real                ... pos = 2.0   	neg = 0.25 
+15. Like American Graffi                ... pos = 0.5   	neg = 0.0  
+16. Also, the costumes a                ... pos = 0.25  	neg = 0    
+17. The clothes really d                ... pos = 0.0   	neg = 0.375
+18. The film, although e                ... pos = 1.0   	neg = 0.0  
+19. Firstly, Wahlberg, a                ... pos = 2.0   	neg = 0.125
+20. In both scenes where                ... pos = 0.75  	neg = 0.25 
+21. But the rest of the                 ... pos = 1.25  	neg = 0.0  
+22. Burt Reynolds is bri                ... pos = 1.5   	neg = 0.375
+23. ) Another flaw with                 ... pos = 0.0   	neg = 0.375
+24. It seems Anderson sa                ... pos = 0.0   	neg = 0.5  
+25. It's a shame, really                ... pos = 0.5   	neg = 0.875
+26. But they're small ni                ... pos = 0.25  	neg = 0.0  
+27. Boogie Nights is an                 ... pos = 1.0   	neg = 0.125
+28. Superb directing, wr                ... pos = 1.0   	neg = 0.0  
+29. Whatever you do, do                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4409-1213 is Positive        ... pos = 22.25 	neg = 7.5  
+Overall score of document
+Total Pos = 22.25
+Total Neg = 7.5
+---------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+0. I had been expecting                 ... pos = 0.25  	neg = 0.125
+1. TWISTER was good but                 ... pos = 0.75  	neg = 0.625
+2. But TWISTER had amaz                 ... pos = 0.0   	neg = 0.375
+3. He worrys about a sm                 ... pos = 0.25  	neg = 0.0  
+4. There is one small q                 ... pos = 0.0   	neg = 0.25 
+5. Then a geologist poi                 ... pos = 0.5   	neg = 0.0  
+6. A few hours later la                 ... pos = 0.125 	neg = 0.0  
+7. Then....it starts.                   ... pos = 0.0   	neg = 0.0  
+8. The volcanic eruptio                 ... pos = 0.0   	neg = 0.125
+9. I liked this movie..                 ... pos = 0.125 	neg = 0.125
+10. I was still good non                ... pos = 0.875 	neg = 0.125
+11. It had excellent spe                ... pos = 1.0   	neg = 0.25 
+12. The best view...the                 ... pos = 0.375 	neg = 0.0  
+13. Also...there were in                ... pos = 0.0   	neg = 0.125
+14. So...It was good!                   ... pos = 0.0   	neg = 0.125
+15. !. .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-135-1021 is Positive         ... pos = 4.25  	neg = 2.25 
+Overall score of document
+Total Pos = 4.25
+Total Neg = 2.25
+---------------------------------------------------------------------------

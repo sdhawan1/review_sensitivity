@@ -1,0 +1,37 @@
+0. Starring Tobey Magui                 ... pos = 0.0   	neg = 0.0  
+1. Towards the end of T                 ... pos = 1.75  	neg = 0.0  
+2. " The quote sums up                  ... pos = 0.0   	neg = 0.0  
+3. Individuals are so u                 ... pos = 1.125 	neg = 0.125
+4. Tagging along and de                 ... pos = 1.0   	neg = 0.375
+5. Homer at first is bl                 ... pos = 0.125 	neg = 0.125
+6. Working in an orphan                 ... pos = 0.625 	neg = 0.125
+7. Even though Homer kn                 ... pos = 2.0   	neg = 0.25 
+8. From the books he ha                 ... pos = 0.25  	neg = 0.125
+9. When a young couple                  ... pos = 1.0   	neg = 0.125
+10. The message of the s                ... pos = 1.0   	neg = 0.375
+11. However, throughout                 ... pos = 0.625 	neg = 0.0  
+12. There are very few t                ... pos = 1.875 	neg = 0.125
+13. It seemed like he le                ... pos = 0.375 	neg = 0.5  
+14. Homer hangs around c                ... pos = 1.375 	neg = 0.25 
+15. Wasn't the whole poi                ... pos = 0.0   	neg = 0.0  
+16. Or to make some deci                ... pos = 0.125 	neg = 0.125
+17. There were a some mo                ... pos = 0.25  	neg = 0.125
+18. Another irritating s                ... pos = 0.25  	neg = 0.375
+19. It doesn't seem like                ... pos = 0.75  	neg = 0.0  
+20. Supposedly an attemp                ... pos = 0.0   	neg = 0.125
+21. With such a short di                ... pos = 0.25  	neg = 0.875
+22. These unsatisfactory                ... pos = 1.5   	neg = 0.5  
+23. Delroy Lindo and Mic                ... pos = 2.125 	neg = 0.125
+24. Tobey Maguire, who u                ... pos = 1.5   	neg = 0.25 
+25. The only problem wit                ... pos = 0.875 	neg = 0.625
+26. John Irving, adaptin                ... pos = 1.75  	neg = 0.0  
+27. At times the message                ... pos = 2.25  	neg = 0.75 
+28. Lasse Hallstrom (My                 ... pos = 0.875 	neg = 0.625
+29. The New England scen                ... pos = 1.625 	neg = 0.125
+30. Some unbelievably re                ... pos = 1.875 	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-607-778 is Positive          ... pos = 29.125 	neg = 8.375
+Overall score of document
+Total Pos = 29.125
+Total Neg = 8.375
+---------------------------------------------------------------------------

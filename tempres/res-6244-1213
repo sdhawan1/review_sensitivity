@@ -1,0 +1,36 @@
+0. RUNNING TIME: 1 HOUR                 ... pos = 0     	neg = 0.0  
+1. STARRING HARRISON FO                 ... pos = 2.875 	neg = 0.125
+2. Anne Heche and David                 ... pos = 0.625 	neg = 0.0  
+3. Robin works for a ma                 ... pos = 1.5   	neg = 0.125
+4. The two, obviously,                  ... pos = 0.375 	neg = 0.0  
+5. Comedy and mayhem, p                 ... pos = 0.5   	neg = 0.0  
+6. Six Days, Seven Nigh                 ... pos = 1.375 	neg = 0.125
+7. Harrison Ford is sur                 ... pos = 0.5   	neg = 0.375
+8. His character is a c                 ... pos = 0.875 	neg = 0.75 
+9. Anne Heche, Ellen De                 ... pos = 0.625 	neg = 0.125
+10. Thankfully, there's                 ... pos = 0.25  	neg = 0    
+11. David Schwimmer is g                ... pos = 1.0   	neg = 0.75 
+12. He also has the funn                ... pos = 0.5   	neg = 0.0  
+13. So, Six Days, Seven                 ... pos = 0.75  	neg = 0.625
+14. Director Ivan Reitma                ... pos = 0.75  	neg = 0.125
+15. The comedy is funny,                ... pos = 0.25  	neg = 0.125
+16. Writer Michael Riva                 ... pos = 0.125 	neg = 0.125
+17. Sadly, the script ne                ... pos = 0.125 	neg = 0.875
+18. Although it has many                ... pos = 0.125 	neg = 0.125
+19. Still, there's some                 ... pos = 1.75  	neg = 0.375
+20. ) Six Days, Seven Ni                ... pos = 0.875 	neg = 1.25 
+21. There's also a good                 ... pos = 0.75  	neg = 0.0  
+22. Six Days, Seven Nigh                ... pos = 0.75  	neg = 0.625
+23. In fact, the film is                ... pos = 0.625 	neg = 0.875
+24. Six Days, Seven Nigh                ... pos = 0.0   	neg = 0.125
+25. Although it's no cla                ... pos = 0.875 	neg = 0.75 
+26. Definitely worth wat                ... pos = 0.25  	neg = 0.0  
+27. (Try to watch it wit                ... pos = 0.75  	neg = 0    
+28. ) OVERALL RATING=***                ... pos = 0.0   	neg = 0.0  
+29. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6244-1213 is Positive        ... pos = 19.75 	neg = 8.375
+Overall score of document
+Total Pos = 19.75
+Total Neg = 8.375
+---------------------------------------------------------------------------

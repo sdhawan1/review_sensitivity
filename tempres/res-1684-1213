@@ -1,0 +1,42 @@
+0. Starring Tom Cruise,                 ... pos = 2.25  	neg = 0.125
+1. The two play married                 ... pos = 0.0   	neg = 0    
+2. During a pot induced                 ... pos = 0.0   	neg = 0.0  
+3. Bill is shocked by t                 ... pos = 1.375 	neg = 0.25 
+4. He also stumbles acr                 ... pos = 0.5   	neg = 0.25 
+5. Kubricks career hasn                 ... pos = 0.125 	neg = 0.25 
+6. Of course, he's made                 ... pos = 0.75  	neg = 0.0  
+7. Eyes Wide Shut is a                  ... pos = 2.75  	neg = 0.5  
+8. The film has a stran                 ... pos = 0.5   	neg = 0    
+9. The deliberate grain                 ... pos = 1.5   	neg = 0.0  
+10. The direction is als                ... pos = 0.0   	neg = 0.25 
+11. There's also an appr                ... pos = 1.375 	neg = 1.0  
+12. Another pleasant sur                ... pos = 1.75  	neg = 0.25 
+13. Although Cruise gave                ... pos = 0.0   	neg = 0.0  
+14. But Eyes Wide Shut c                ... pos = 1.125 	neg = 0.0  
+15. Thankfully, h can, a                ... pos = 0.25  	neg = 0.0  
+16. Nicole Kidman, altho                ... pos = 0.0   	neg = 0.125
+17. This is shame, as he                ... pos = 0.25  	neg = 1.0  
+18. ' She's either stone                ... pos = 0.625 	neg = 0.0  
+19. There's a delicious                 ... pos = 0.75  	neg = 0.125
+20. Her pot-induced argu                ... pos = 0.0   	neg = 0.125
+21. Sydney Pollack gives                ... pos = 1.125 	neg = 0.75 
+22. The plot and charact                ... pos = 1.25  	neg = 0.25 
+23. Firstly, it is somew                ... pos = 0.375 	neg = 0.875
+24. Although Kubrick exp                ... pos = 0.5   	neg = 0.0  
+25. Seeing as Kubrick ha                ... pos = 0.0   	neg = 0.5  
+26. Some of the characte                ... pos = 1.5   	neg = 0.25 
+27. The script, written                 ... pos = 0.625 	neg = 0.625
+28. Occasionally, it jus                ... pos = 0.0   	neg = 0.0  
+29. One last note: those                ... pos = 0.875 	neg = 0.25 
+30. Unless you worship N                ... pos = 0.5   	neg = 0.125
+31. Perhaps Warner's sho                ... pos = 1.25  	neg = 0.25 
+32. Eyes Wide Shut is a                 ... pos = 0.875 	neg = 0.125
+33. It's no embarrassmen                ... pos = 0.0   	neg = 0.5  
+34. This review is not t                ... pos = 1.75  	neg = 0.25 
+35. But as many people w                ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1684-1213 is Positive        ... pos = 27.375 	neg = 9.125
+Overall score of document
+Total Pos = 27.375
+Total Neg = 9.125
+---------------------------------------------------------------------------

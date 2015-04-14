@@ -1,0 +1,32 @@
+0. The use of spirits a                 ... pos = 0.125 	neg = 0    
+1. It is a topic that i                 ... pos = 0.5   	neg = 0.25 
+2. The stories involvin                 ... pos = 0.375 	neg = 0.625
+3. When they are used f                 ... pos = 0.625 	neg = 0.625
+4. This film is a rare                  ... pos = 0.625 	neg = 0.25 
+5. The story centers ar                 ... pos = 0.875 	neg = 0.875
+6. Malcolm is an expert                 ... pos = 0.0   	neg = 0.25 
+7. The young man was up                 ... pos = 0.25  	neg = 1.375
+8. After some time, he                  ... pos = 0.375 	neg = 0.625
+9. Malcolm feels that h                 ... pos = 0.125 	neg = 0.0  
+10. Cole claims to see t                ... pos = 0.125 	neg = 0.625
+11. His single mother, L                ... pos = 0.0   	neg = 0.0  
+12. She struggles to hel                ... pos = 1.625 	neg = 0.75 
+13. Cole is initially wa                ... pos = 0.875 	neg = 0.75 
+14. The film is successf                ... pos = 0.625 	neg = 0.125
+15. First, it is a simpl                ... pos = 0.5   	neg = 0.125
+16. Second, its use of s                ... pos = 0.125 	neg = 0.125
+17. This is foremost a s                ... pos = 0.625 	neg = 0.75 
+18. If that aspect had n                ... pos = 0.875 	neg = 0.25 
+19. Although the use of                 ... pos = 0.75  	neg = 0.375
+20. Good performances ar                ... pos = 1.5   	neg = 0.125
+21. The strength of the                 ... pos = 0.625 	neg = 0.125
+22. The main complaint m                ... pos = 0.5   	neg = 0.5  
+23. Highly recommended.                 ... pos = 0.625 	neg = 0    
+24. This film is the rar                ... pos = 0.5   	neg = 0.125
+25. It is anchored by a                 ... pos = 1.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2714-707 is Positive         ... pos = 15.375 	neg = 9.875
+Overall score of document
+Total Pos = 15.375
+Total Neg = 9.875
+---------------------------------------------------------------------------

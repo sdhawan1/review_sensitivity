@@ -1,0 +1,25 @@
+0. There isn't much goo                 ... pos = 0.875 	neg = 0.0  
+1. Not much I can say a                 ... pos = 0.25  	neg = 0.0  
+2. So I'll get my one g                 ... pos = 0.75  	neg = 0.375
+3. In fact there is not                 ... pos = 0.25  	neg = 0.75 
+4. The plot has a tende                 ... pos = 0.375 	neg = 0.875
+5. The plot is impossib                 ... pos = 0.5   	neg = 0.75 
+6. John Murdoch(Rufus S                 ... pos = 0.0   	neg = 0.625
+7. John must find out w                 ... pos = 0.375 	neg = 0.125
+8. mind erasing aliens)                 ... pos = 0.125 	neg = 0.75 
+9. During the film some                 ... pos = 0.875 	neg = 1.0  
+10. Any of these points                 ... pos = 0.625 	neg = 1.125
+11. As I mentioned earli                ... pos = 0.0   	neg = 0.375
+12. The acting is bland,                ... pos = 0.875 	neg = 1.25 
+13. The special effects                 ... pos = 1.0   	neg = 0.5  
+14. The direction is poo                ... pos = 0.25  	neg = 0.5  
+15. Lastly the script is                ... pos = 0.875 	neg = 0.875
+16. If I haven't got my                 ... pos = 0.0   	neg = 1.0  
+17. Lets hope the next m                ... pos = 0.375 	neg = 0.625
+18. -----== Posted via D                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-541-1529 is Negative         ... pos = 8.375 	neg = 11.5 
+Overall score of document
+Total Pos = 8.375
+Total Neg = 11.5
+---------------------------------------------------------------------------

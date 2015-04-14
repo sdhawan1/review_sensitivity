@@ -1,0 +1,28 @@
+0. Written by: Scott Fr                 ... pos = 1.75  	neg = 0.5  
+1. Their plans are comp                 ... pos = 0.25  	neg = 0.0  
+2. While in the trunk,                  ... pos = 1.125 	neg = 0.0  
+3. If it weren't for th                 ... pos = 0.25  	neg = 0.125
+4. Karen escapes, and t                 ... pos = 0.75  	neg = 0.125
+5. When Karen learns Fo                 ... pos = 1.25  	neg = 0.125
+6. Will he catch her or                 ... pos = 0.125 	neg = 0.0  
+7. Will she catch him o                 ... pos = 0.125 	neg = 0.0  
+8. Will they have an ar                 ... pos = 0.125 	neg = 0.0  
+9. Will he fantasize ab                 ... pos = 0.125 	neg = 0.0  
+10. Will she fantasize a                ... pos = 0.125 	neg = 0.0  
+11. And will the ending                 ... pos = 0.75  	neg = 0.125
+12. Opinion: In OUT OF S                ... pos = 1.625 	neg = 0.875
+13. Actually Karen Sisco                ... pos = 0.625 	neg = 1.25 
+14. Contrived, but hey,                 ... pos = 0.0   	neg = 0.0  
+15. The thing is, I alwa                ... pos = 0.125 	neg = 0.625
+16. On the other hand, f                ... pos = 2.625 	neg = 0.25 
+17. One interesting thin                ... pos = 0.125 	neg = 0.125
+18. As long as fans know                ... pos = 1.0   	neg = 0.625
+19. The main idea ("What                ... pos = 0.0   	neg = 1.0  
+20. ") is never left out                ... pos = 0.0   	neg = 0.125
+21. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4998-416 is Positive         ... pos = 12.875 	neg = 6.0  
+Overall score of document
+Total Pos = 12.875
+Total Neg = 6.0
+---------------------------------------------------------------------------

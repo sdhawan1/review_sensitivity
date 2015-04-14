@@ -1,0 +1,54 @@
+0. Suburban America is                  ... pos = 0.0   	neg = 0.125
+1. In actuality, it is                  ... pos = 0.125 	neg = 0.125
+2. The film opens with                  ... pos = 1.125 	neg = 0    
+3. A narration in the v                 ... pos = 2.125 	neg = 0.25 
+4. This immediately sig                 ... pos = 0.875 	neg = 0    
+5. One signal of manipu                 ... pos = 0.875 	neg = 0.375
+6. By notifying the vie                 ... pos = 1.375 	neg = 0.625
+7. Instead, it signals                  ... pos = 0.875 	neg = 0.125
+8. Lester is passing th                 ... pos = 0.0   	neg = 0.125
+9. No part of his life                  ... pos = 0.5   	neg = 0.0  
+10. His relationship wit                ... pos = 0.5   	neg = 0.25 
+11. Although he would li                ... pos = 0.25  	neg = 1.25 
+12. Both Carolyn and Jan                ... pos = 0.625 	neg = 0.0  
+13. Jane is an alienated                ... pos = 0.75  	neg = 0.125
+14. Carolyn is a moderat                ... pos = 0.625 	neg = 0.375
+15. She has focused all                 ... pos = 0.5   	neg = 0.0  
+16. The usual life for t                ... pos = 0.125 	neg = 0.125
+17. Upon seeing Jane's s                ... pos = 0.5   	neg = 0.625
+18. For her part, Angela                ... pos = 0.625 	neg = 0.375
+19. Lester's obsessions                 ... pos = 0.375 	neg = 0    
+20. He has gained meanin                ... pos = 0.375 	neg = 0.25 
+21. The relationship tha                ... pos = 0.25  	neg = 0.5  
+22. Although it appears                 ... pos = 0.0   	neg = 0.625
+23. Still, it is undenia                ... pos = 0.625 	neg = 0.375
+24. Like when a dog runs                ... pos = 0.25  	neg = 1.375
+25. This appears to be t                ... pos = 1.125 	neg = 0.125
+26. A new family moves n                ... pos = 1.25  	neg = 0.0  
+27. Jane is drawn to the                ... pos = 0.5   	neg = 0.125
+28. Jane slowly finds sh                ... pos = 0.125 	neg = 0.0  
+29. Ricky also becomes a                ... pos = 0.125 	neg = 0.0  
+30. Most Americans who d                ... pos = 0.25  	neg = 0.0  
+31. They are a potent sy                ... pos = 0.5   	neg = 0.25 
+32. While guns are used                 ... pos = 0.5   	neg = 0.0  
+33. The narrative presen                ... pos = 0.0   	neg = 0.0  
+34. The strongest suit o                ... pos = 0.5   	neg = 0.125
+35. It mixes moments of                 ... pos = 0.5   	neg = 0.0  
+36. The characters are d                ... pos = 2.625 	neg = 0    
+37. Bening is expressive                ... pos = 0.875 	neg = 0.25 
+38. Bening is able to ex                ... pos = 0.5   	neg = 0.125
+39. However, the clear m                ... pos = 0.25  	neg = 0.125
+40. Lester is a multi-fa                ... pos = 0.875 	neg = 0.125
+41. Spacey captures all                 ... pos = 2.0   	neg = 0.0  
+42. The success of the s                ... pos = 0.25  	neg = 0.125
+43. Although there are s                ... pos = 1.875 	neg = 0.125
+44. Highly recommended.                 ... pos = 0.625 	neg = 0    
+45. The film is ambitiou                ... pos = 1.125 	neg = 0.125
+46. It succeeds with dee                ... pos = 0.875 	neg = 0.0  
+47. The themes addressed                ... pos = 2.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1926-707 is Positive         ... pos = 33.5  	neg = 9.875
+Overall score of document
+Total Pos = 33.5
+Total Neg = 9.875
+---------------------------------------------------------------------------

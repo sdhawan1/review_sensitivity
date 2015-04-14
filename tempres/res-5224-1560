@@ -1,0 +1,38 @@
+0. Urban Legend (1998)                  ... pos = 0.375 	neg = 1.0  
+1. Based on the last fe                 ... pos = 0.5   	neg = 1.125
+2. Thankfully, Legend r                 ... pos = 1.375 	neg = 0.75 
+3. You're all familiar                  ... pos = 0.25  	neg = 0.625
+4. However, just becaus                 ... pos = 0.5   	neg = 0.125
+5. It was, believe it o                 ... pos = 0.625 	neg = 0.125
+6. The thing is, I'm no                 ... pos = 0.875 	neg = 0.125
+7. Maybe it was the abo                 ... pos = 0.0   	neg = 0.625
+8. Or, it could have be                 ... pos = 0.0   	neg = 0.125
+9. More likely, though,                 ... pos = 0.125 	neg = 0.125
+10. I don't think I need                ... pos = 0.375 	neg = 1.0  
+11. Urban Legend begins                 ... pos = 1.0   	neg = 0.0  
+12. A pretty young coed                 ... pos = 0.0   	neg = 0.25 
+13. ) a gas problem (hee                ... pos = 0.0   	neg = 0.25 
+14. One problem, though.                ... pos = 0.0   	neg = 0.25 
+15. Would you want to st                ... pos = 0.0   	neg = 0.125
+16. I thought not.                      ... pos = 0.0   	neg = 0.0  
+17. Predictably, the att                ... pos = 0.375 	neg = 0.375
+18. It's odd, though, wh                ... pos = 0.625 	neg = 0.625
+19. Naturally, the poten                ... pos = 0.125 	neg = 0.625
+20. And the when we leas                ... pos = 0.0   	neg = 0.0  
+21. A decapitation.                     ... pos = 0.0   	neg = 0    
+22. It turns out that th                ... pos = 0.0   	neg = 0.75 
+23. So who is it this ti                ... pos = 0.0   	neg = 0.125
+24. The obvious candidat                ... pos = 0.0   	neg = 0.125
+25. A-ha.                               ... pos = 0     	neg = 0    
+26. Or could it be the f                ... pos = 0.0   	neg = 0.125
+27. Like all movies of t                ... pos = 0.125 	neg = 0.625
+28. And it turns out to                 ... pos = 0.0   	neg = 0.625
+29. I'm not going to pre                ... pos = 1.5   	neg = 0.625
+30. And this flick defin                ... pos = 2.375 	neg = 0.125
+31. *Complimentary movie                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5224-1560 is Positive        ... pos = 12.0  	neg = 11.375
+Overall score of document
+Total Pos = 12.0
+Total Neg = 11.375
+---------------------------------------------------------------------------

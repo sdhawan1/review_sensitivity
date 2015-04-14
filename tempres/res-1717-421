@@ -1,0 +1,22 @@
+0. "Arlington Road" is                  ... pos = 0.0   	neg = 0.125
+1. The film was suppose                 ... pos = 0.0   	neg = 0.5  
+2. However, this was no                 ... pos = 0.125 	neg = 0.125
+3. The film's trailer g                 ... pos = 0.0   	neg = 0.0  
+4. Then, the film's rel                 ... pos = 0.75  	neg = 0.125
+5. That being said, "Ar                 ... pos = 0.25  	neg = 0.25 
+6. He meets his new nei                 ... pos = 0.375 	neg = 0.125
+7. Michael and his girl                 ... pos = 0.75  	neg = 0.0  
+8. However, Michael sta                 ... pos = 1.25  	neg = 0.0  
+9. Is he just imagining                 ... pos = 0.375 	neg = 0.125
+10. I will not give away                ... pos = 0.75  	neg = 0.625
+11. Director Mark Pellin                ... pos = 1.625 	neg = 0.0  
+12. Despite a few formul                ... pos = 0.0   	neg = 0.75 
+13. Jeff Bridges is at h                ... pos = 0.25  	neg = 0.625
+14. The ending of the fi                ... pos = 1.0   	neg = 1.375
+15. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1717-421 is Positive         ... pos = 7.5   	neg = 4.875
+Overall score of document
+Total Pos = 7.5
+Total Neg = 4.875
+---------------------------------------------------------------------------

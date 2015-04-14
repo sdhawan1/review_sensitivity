@@ -1,0 +1,35 @@
+0. Christian Critic's M                 ... pos = 0.875 	neg = 0.5  
+1. For the second time                  ... pos = 0.375 	neg = 0.0  
+2. He doesn't show us a                 ... pos = 0.375 	neg = 0.0  
+3. In MICKEY BLUE EYES,                 ... pos = 0.625 	neg = 0.25 
+4. But soon after Micha                 ... pos = 0.875 	neg = 0.125
+5. ). Even though he gi                 ... pos = 1.125 	neg = 0.625
+6. He quickly finds him                 ... pos = 0.0   	neg = 0.125
+7. When an accident res                 ... pos = 0.25  	neg = 0.75 
+8. As with ANALYZE THIS                 ... pos = 0.75  	neg = 1.375
+9. Add Mr. Grant's cult                 ... pos = 0.125 	neg = 0.125
+10. In what might arguab                ... pos = 0.625 	neg = 1.25 
+11. The result is an hil                ... pos = 0.25  	neg = 0.25 
+12. As he was with NOTTI                ... pos = 0.75  	neg = 0.25 
+13. James Caan gives a v                ... pos = 1.625 	neg = 0.0  
+14. Jeanne Tripplehorn i                ... pos = 0.25  	neg = 0.125
+15. Burt Young is approp                ... pos = 1.25  	neg = 0.125
+16. Joe Viterelli (ANALY                ... pos = 1.25  	neg = 0.125
+17. ". The film was prod                ... pos = 0.0   	neg = 0.125
+18. It was directed by K                ... pos = 0.875 	neg = 0.25 
+19. She had predicted wh                ... pos = 0.0   	neg = 0.25 
+20. ". Her point was val                ... pos = 0.458 	neg = 0.125
+21. Her concern was that                ... pos = 0.5   	neg = 0.375
+22. A debt that could ne                ... pos = 0.0   	neg = 0.25 
+23. This is why we shoul                ... pos = 1.125 	neg = 0.25 
+24. "  As the scriptures                ... pos = 1.625 	neg = 1.0  
+25. " 1 Corinthians 15:3                ... pos = 0.0   	neg = 1.25 
+26. We are told to avoid                ... pos = 0.375 	neg = 0.0  
+27. In contrast, we are                 ... pos = 1.625 	neg = 0.0  
+28. For any actor who wi                ... pos = 1.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3147-305 is Positive         ... pos = 19.333 	neg = 10.0 
+Overall score of document
+Total Pos = 19.333
+Total Neg = 10.0
+---------------------------------------------------------------------------

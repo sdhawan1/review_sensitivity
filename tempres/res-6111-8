@@ -1,0 +1,36 @@
+0. Sleepy Hollow by Joh                 ... pos = 1.125 	neg = 0.125
+1. "  Burton brings a h                 ... pos = 0.25  	neg = 0.125
+2. Also the director of                 ... pos = 1.125 	neg = 1.528
+3. Unfortunately, for t                 ... pos = 0.375 	neg = 0.875
+4. The screenplay for S                 ... pos = 1.125 	neg = 1.528
+5. Exactly like the tal                 ... pos = 0.5   	neg = 0.625
+6. Townspeople gossip a                 ... pos = 1.875 	neg = 1.5  
+7. The story behind the                 ... pos = 0.625 	neg = 0.75 
+8. On his first night o                 ... pos = 1.0   	neg = 0.0  
+9. From that night on,                  ... pos = 0.375 	neg = 0.0  
+10. These two along with                ... pos = 0.5   	neg = 0.625
+11. Once the exposition                 ... pos = 1.875 	neg = 0.75 
+12. The cinematography i                ... pos = 0.0   	neg = 0.125
+13. From the first frame                ... pos = 1.875 	neg = 0.5  
+14. For this reason, Sle                ... pos = 0.625 	neg = 0.125
+15. Sleepy Hollow sets a                ... pos = 1.125 	neg = 0.125
+16. Johnny Depp, who was                ... pos = 1.625 	neg = 0.125
+17. Depp is flawless as                 ... pos = 0.875 	neg = 1.0  
+18. Christina Ricci matu                ... pos = 1.75  	neg = 0.625
+19. Ricci shows increasi                ... pos = 0.125 	neg = 0.125
+20. Ricci conducts herse                ... pos = 0.25  	neg = 0.5  
+21. Never did I think I'                ... pos = 0.0   	neg = 2.153
+22. What makes Sleepy Ho                ... pos = 1.625 	neg = 0.5  
+23. In Sleepy Hollow, th                ... pos = 0.125 	neg = 0.5  
+24. Without a few rare,                 ... pos = 1.0   	neg = 2.375
+25. Tim Burton has every                ... pos = 1.0   	neg = 1.653
+26. A visual heaven it m                ... pos = 0.125 	neg = 0.125
+27. Although Burton isn'                ... pos = 0.875 	neg = 0.375
+28. The Bottom Line: A v                ... pos = 0.625 	neg = 0.0  
+29. A technical flop.. .                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6111-8 is Positive           ... pos = 24.375 	neg = 19.362
+Overall score of document
+Total Pos = 24.375
+Total Neg = 19.362
+---------------------------------------------------------------------------

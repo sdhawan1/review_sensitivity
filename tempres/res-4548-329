@@ -1,0 +1,28 @@
+0. Bad things happen in                 ... pos = 0.0   	neg = 0.875
+1. So many films have b                 ... pos = 0.0   	neg = 0.375
+2. While drunk at a nei                 ... pos = 0.125 	neg = 0.25 
+3. He learns that it is                 ... pos = 0.5   	neg = 0.125
+4. After waking up from                 ... pos = 0.0   	neg = 0.125
+5. After the party thin                 ... pos = 0.0   	neg = 0.0  
+6. Tom begins receiving                 ... pos = 0.0   	neg = 1.0  
+7. The one he's the mos                 ... pos = 0.0   	neg = 0.25 
+8. Even worse, Tom's so                 ... pos = 0.25  	neg = 1.375
+9. And while it at part                 ... pos = 0.0   	neg = 0.25 
+10. Who knows what that                 ... pos = 0.0   	neg = 0.0  
+11. More images come, an                ... pos = 0.0   	neg = 0.125
+12. His search for answe                ... pos = 0.75  	neg = 0.25 
+13. All of this horrifie                ... pos = 0.375 	neg = 0.0  
+14. This is a thriller t                ... pos = 1.0   	neg = 0.875
+15. It stays that way fo                ... pos = 0.0   	neg = 1.125
+16. Acting is surprising                ... pos = 0.375 	neg = 0.125
+17. The only real thing                 ... pos = 0.0   	neg = 0.125
+18. Nothing entirely pla                ... pos = 1.75  	neg = 0.625
+19. The soundtrack is al                ... pos = 0.0   	neg = 0.125
+20. Finally a movie that                ... pos = 0.375 	neg = 0.0  
+21. Not many echoes stir                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4548-329 is Negative         ... pos = 5.625 	neg = 8.0  
+Overall score of document
+Total Pos = 5.625
+Total Neg = 8.0
+---------------------------------------------------------------------------

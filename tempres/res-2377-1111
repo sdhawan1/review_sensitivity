@@ -1,0 +1,22 @@
+0. CRUEL INTENTIONS Cas                 ... pos = 0.875 	neg = 0.375
+1. Kathryn challenges S                 ... pos = 0.0   	neg = 0.75 
+2. If Sebastian loses,                  ... pos = 0.0   	neg = 0    
+3. If he wins, he gets                  ... pos = 0.125 	neg = 0.0  
+4. But Sebastian begins                 ... pos = 1.0   	neg = 0.375
+5. Cruel Intentions has                 ... pos = 1.125 	neg = 0.125
+6. Although this film h                 ... pos = 0.5   	neg = 0.0  
+7. The central romance                  ... pos = 1.375 	neg = 0.625
+8. The script has its u                 ... pos = 0.5   	neg = 0.375
+9. The acting here does                 ... pos = 0.25  	neg = 0.0  
+10. Sarah Michelle Gella                ... pos = 0.25  	neg = 1.75 
+11. Reese Witherspoon, h                ... pos = 0.375 	neg = 0.125
+12. Cruel Intentions is                 ... pos = 0.375 	neg = 0.125
+13. The filmmakers have                 ... pos = 0.25  	neg = 0.125
+14. It has a lot of bick                ... pos = 0.5   	neg = 0.5  
+15. Furthermore, squeezi                ... pos = 1.25  	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-2377-1111 is Positive        ... pos = 8.75  	neg = 6.25 
+Overall score of document
+Total Pos = 8.75
+Total Neg = 6.25
+---------------------------------------------------------------------------

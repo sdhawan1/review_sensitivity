@@ -1,0 +1,59 @@
+0. The U.S. Army utiliz                 ... pos = 0.375 	neg = 0.25 
+1. One particular field                 ... pos = 0.25  	neg = 0.375
+2. Under the "saluting"                 ... pos = 0.125 	neg = 0.25 
+3. The salute is render                 ... pos = 0.125 	neg = 0.25 
+4. In any event, the sa                 ... pos = 0.5   	neg = 0.125
+5. Almost at the very b                 ... pos = 0.625 	neg = 0.0  
+6. Everyone salutes.                    ... pos = 0.0   	neg = 0    
+7. It looked impressive                 ... pos = 0.125 	neg = 0.0  
+8. That little bit show                 ... pos = 0.0   	neg = 0.5  
+9. In fact, this would                  ... pos = 2.375 	neg = 1.375
+10. What results is a fi                ... pos = 0.75  	neg = 0.5  
+11. The first fifteen mi                ... pos = 0.875 	neg = 0.125
+12. Paul Brenner (John T                ... pos = 0.125 	neg = 0.375
+13. Prior to the transac                ... pos = 0.0   	neg = 0.375
+14. So ensues a cat and                 ... pos = 0.125 	neg = 0.0  
+15. Brenner then receive                ... pos = 1.125 	neg = 0.25 
+16. He is teamed with ra                ... pos = 0.875 	neg = 0.125
+17. What I want to know                 ... pos = 0.0   	neg = 0.375
+18. It gives no insight                 ... pos = 0.625 	neg = 0.5  
+19. Does the arms subplo                ... pos = 0.0   	neg = 0.0  
+20. No, so why add this                 ... pos = 0.25  	neg = 0.375
+21. The answer:  It look                ... pos = 0.0   	neg = 0.0  
+22. Or how about the "at                ... pos = 0     	neg = 0.0  
+23. The beginning of THE                ... pos = 0.375 	neg = 0.0  
+24. Nice immersion in th                ... pos = 0.0   	neg = 0.0  
+25. No attention is paid                ... pos = 0.625 	neg = 0.5  
+26. Did the filmmakers s                ... pos = 0.625 	neg = 0.125
+27. Instead of creating                 ... pos = 0.125 	neg = 0.75 
+28. The above examples a                ... pos = 0.0   	neg = 0.75 
+29. As I've already ment                ... pos = 0.625 	neg = 0.125
+30. Brenner, who comes a                ... pos = 0.75  	neg = 0.625
+31. He even delivers an                 ... pos = 0.458 	neg = 0.875
+32. Sunhill, who initial                ... pos = 0.25  	neg = 0.125
+33. Both characters are                 ... pos = 1.375 	neg = 1.125
+34. I could imagine that                ... pos = 0.0   	neg = 0.625
+35. "  I say this becaus                ... pos = 1.875 	neg = 0.0  
+36. An even worse offend                ... pos = 0.375 	neg = 0.75 
+37. I swear the guy says                ... pos = 0.125 	neg = 0.0  
+38. A far cry from his d                ... pos = 0.0   	neg = 0.125
+39. A couple of side cha                ... pos = 1.25  	neg = 0.0  
+40. The only two actors                 ... pos = 1.25  	neg = 0.0  
+41. Woods relishes the r                ... pos = 1.125 	neg = 0.125
+42. Hutton just kind of                 ... pos = 0.0   	neg = 0.875
+43. I haven't read the N                ... pos = 0.0   	neg = 0.375
+44. The movie version ha                ... pos = 1.25  	neg = 1.0  
+45. Every time we're pre                ... pos = 0.625 	neg = 0.125
+46. Instead, when conclu                ... pos = 2.125 	neg = 0.0  
+47. The Army should have                ... pos = 0.375 	neg = 0.5  
+48. Would've been over i                ... pos = 0.0   	neg = 0.125
+49. The film finishes wi                ... pos = 0.5   	neg = 0.0  
+50. Literally during the                ... pos = 0.0   	neg = 1.25 
+51. They both seem kind                 ... pos = 0.75  	neg = 0    
+52. Maybe they were driv                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1224-781 is Positive         ... pos = 26.083 	neg = 17.125
+Overall score of document
+Total Pos = 26.083
+Total Neg = 17.125
+---------------------------------------------------------------------------

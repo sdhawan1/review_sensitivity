@@ -1,0 +1,62 @@
+0. Directed by Stephen                  ... pos = 0.0   	neg = 0    
+1. Screenplay by D.V.                   ... pos = 0.0   	neg = 0.0  
+2. DeVincentis, Steve P                 ... pos = 0.0   	neg = 0.0  
+3. Starring Cusack, Tod                 ... pos = 0.0   	neg = 0.0  
+4. Running time: 113 mi                 ... pos = 0     	neg = 0.0  
+5. Rated AA for offensi                 ... pos = 0.125 	neg = 0.0  
+6. Reviewed on April 12                 ... pos = 0.0   	neg = 0.0  
+7. Here they are, my al                 ... pos = 0.25  	neg = 0.0  
+8. The synopsis (well,                  ... pos = 0.0   	neg = 0.0  
+9. Relationships and mu                 ... pos = 0.125 	neg = 0.25 
+10. John Cusack plays Ro                ... pos = 0.0   	neg = 0.0  
+11. Watching her drive a                ... pos = 0.625 	neg = 0.5  
+12. At a crossroads in h                ... pos = 0.0   	neg = 0.0  
+13. He hopes that in so                 ... pos = 0.75  	neg = 0.0  
+14. Meantime, he's also                 ... pos = 0.75  	neg = 0.0  
+15. There can be little                 ... pos = 0.375 	neg = 0.375
+16. Cusack has always ha                ... pos = 1.0   	neg = 0.0  
+17. In "High Fidelity",                 ... pos = 1.125 	neg = 0    
+18. Rob Gordon is a pret                ... pos = 1.125 	neg = 1.125
+19. His overriding passi                ... pos = 1.125 	neg = 0.75 
+20. For example, to help                ... pos = 0.0   	neg = 0.0  
+21. "Chronologically?                   ... pos = 0     	neg = 0    
+22. " he's asked.                       ... pos = 0     	neg = 0.0  
+23. "Autobiographically,                ... pos = 0.75  	neg = 0.5  
+24. Rob is a well-crafte                ... pos = 1.75  	neg = 0.375
+25. The toughest aspect                 ... pos = 0.0   	neg = 0.125
+26. But Cusack knows how                ... pos = 1.125 	neg = 0.0  
+27. Indeed, these are so                ... pos = 0.875 	neg = 0.125
+28. Cusack might be the                 ... pos = 0.125 	neg = 0.75 
+29. Of particular note a                ... pos = 0.25  	neg = 0.125
+30. Barry is the loud an                ... pos = 0.5   	neg = 0.375
+31. Together, they form                 ... pos = 0.75  	neg = 0.0  
+32. Also very good is Ib                ... pos = 1.25  	neg = 0.125
+33. Hjejle's is the film                ... pos = 1.125 	neg = 0.25 
+34. The relationship                    ... pos = 0.625 	neg = 0.5  
+35. In addition to the m                ... pos = 0.125 	neg = 0.5  
+36. These are a lot of f                ... pos = 1.5   	neg = 0.0  
+37. For example, Tim Rob                ... pos = 1.0   	neg = 0.375
+38. One of the movie's f                ... pos = 0.5   	neg = 0.0  
+39. Needless to say, the                ... pos = 0.375 	neg = 0.375
+40. Catherine Zeta-Jones                ... pos = 0.125 	neg = 0.25 
+41. Based on the 1995 no                ... pos = 1.75  	neg = 0.5  
+42. Particularly interes                ... pos = 0.0   	neg = 0.25 
+43. Our introduction to                 ... pos = 1.75  	neg = 1.25 
+44. As Rob uncovers the                 ... pos = 1.125 	neg = 0.25 
+45. Probably the only re                ... pos = 0.375 	neg = 0.25 
+46. Although it does ari                ... pos = 0.375 	neg = 0.625
+47. But "High Fidelity"                 ... pos = 1.0   	neg = 0.0  
+48. Funny padding, yes,                 ... pos = 0.125 	neg = 0.0  
+49. But this is a minor                 ... pos = 0.0   	neg = 0.125
+50. "High Fidelity" is a                ... pos = 0.5   	neg = 0.75 
+51. It is a film which d                ... pos = 0.125 	neg = 0.125
+52. But in its totality,                ... pos = 1.125 	neg = 0.25 
+53. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+54. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+55. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2963-1444 is Positive        ... pos = 28.875 	neg = 12.125
+Overall score of document
+Total Pos = 28.875
+Total Neg = 12.125
+---------------------------------------------------------------------------

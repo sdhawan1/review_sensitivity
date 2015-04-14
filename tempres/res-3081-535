@@ -1,0 +1,51 @@
+0. Contrary to what the                 ... pos = 0.125 	neg = 0.75 
+1. I don't personally b                 ... pos = 0.375 	neg = 0.25 
+2. The movie is actuall                 ... pos = 0.0   	neg = 0.25 
+3. For example, in one                  ... pos = 1.125 	neg = 0.75 
+4. The window cracks al                 ... pos = 0.0   	neg = 0.0  
+5. Finally, it shatters                 ... pos = 0.875 	neg = 0.0  
+6. I truly believe that                 ... pos = 0.75  	neg = 0.125
+7. This is simply one o                 ... pos = 0.0   	neg = 1.0  
+8. Dr. Susan McAlester                  ... pos = 0.0   	neg = 0.25 
+9. The problem is, she'                 ... pos = 0.0   	neg = 0.625
+10. So she drags her ben                ... pos = 0.0   	neg = 0.5  
+11. Her crew consists of                ... pos = 0.625 	neg = 0.25 
+12. I think there were a                ... pos = 0.0   	neg = 0.375
+13. The sharks at this l                ... pos = 0.625 	neg = 0.75 
+14. True to disaster mov                ... pos = 0.625 	neg = 1.0  
+15. The valiant (though                 ... pos = 0.625 	neg = 1.25 
+16. Before I go any furt                ... pos = 1.5   	neg = 0.5  
+17. I remember reading a                ... pos = 0.125 	neg = 1.125
+18. Anyway, that fear ha                ... pos = 0.375 	neg = 0.375
+19. In this modern age,                 ... pos = 0.375 	neg = 1.0  
+20. I'm afraid not folks                ... pos = 0.0   	neg = 0.0  
+21. These look like some                ... pos = 0.0   	neg = 1.0  
+22. So I sat there, watc                ... pos = 0.25  	neg = 1.5  
+23. How this pitiful exc                ... pos = 0.25  	neg = 0.792
+24. All I can figure, is                ... pos = 0.125 	neg = 0.5  
+25. With the exception o                ... pos = 0.25  	neg = 0.875
+26. As for poor LL Cool                 ... pos = 0.0   	neg = 0.0  
+27. The truth is, I real                ... pos = 0.5   	neg = 0.75 
+28. The man is not an un                ... pos = 0.25  	neg = 1.25 
+29. I believe he could d                ... pos = 0.875 	neg = 0.0  
+30. I don't know if I ca                ... pos = 0.375 	neg = 1.625
+31. However, I would rec                ... pos = 0.25  	neg = 0.125
+32. I suppose there are                 ... pos = 2.0   	neg = 0.75 
+33. "Deep Blue Sea" runs                ... pos = 0.5   	neg = 1.625
+34. Stay far, far away f                ... pos = 0.0   	neg = 0.75 
+35. I grant it a sadly g                ... pos = 0.0   	neg = 0.625
+36. Comments?                           ... pos = 0     	neg = 0.0  
+37. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+38. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+39. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+40. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+41. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+42. See it if you've got                ... pos = 0.0   	neg = 0.25 
+43. * - One of the worst                ... pos = 0.0   	neg = 0.375
+44. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3081-535 is Negative         ... pos = 15.125 	neg = 25.292
+Overall score of document
+Total Pos = 15.125
+Total Neg = 25.292
+---------------------------------------------------------------------------

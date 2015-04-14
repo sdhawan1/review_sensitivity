@@ -1,0 +1,38 @@
+0. A fleet of flying sa                 ... pos = 0.0   	neg = 1.0  
+1. The President (Nicho                 ... pos = 0.5   	neg = 0.125
+2. His chief of the arm                 ... pos = 0.375 	neg = 0.0  
+3. Those little green g                 ... pos = 0.25  	neg = 0.375
+4. "Mars Attacks" came                  ... pos = 0.0   	neg = 0.5  
+5. But that's what it i                 ... pos = 0.375 	neg = 0.375
+6. At times the film ev                 ... pos = 0.5   	neg = 0.375
+7. The Martians are a p                 ... pos = 1.25  	neg = 0    
+8. Conversing in a stra                 ... pos = 1.625 	neg = 0.25 
+9. Their computer anima                 ... pos = 0.5   	neg = 0.75 
+10. )  but it is very ef                ... pos = 0.75  	neg = 0.125
+11. They twitch and snee                ... pos = 0.0   	neg = 0.125
+12. Their tinny flying s                ... pos = 1.0   	neg = 0.0  
+13. "Mars Attacks" is lo                ... pos = 0.875 	neg = 0.25 
+14. Jack Nicholson acts                 ... pos = 0.25  	neg = 0.0  
+15. Pierce Brosnan and S                ... pos = 0.25  	neg = 0.0  
+16. Annette Bening confi                ... pos = 0.0   	neg = 0.125
+17. Rod Steiger delights                ... pos = 0.625 	neg = 0.0  
+18. Attack!                             ... pos = 0     	neg = 0    
+19. Kill!                               ... pos = 0     	neg = 0    
+20. Kill!".                             ... pos = 0     	neg = 0    
+21. But this is perhaps                 ... pos = 0.125 	neg = 0.875
+22. The opportunity to u                ... pos = 0.875 	neg = 0.25 
+23. Bening, delightful a                ... pos = 0.875 	neg = 1.0  
+24. This might have give                ... pos = 0.5   	neg = 0.5  
+25. Sometimes rushed or                 ... pos = 0.5   	neg = 0.25 
+26. [***/interesting] an                ... pos = 0.0   	neg = 0.0  
+27. "Mars Attacks" Direc                ... pos = 0.0   	neg = 0    
+28. Starring Jack Nichol                ... pos = 0.0   	neg = 0.0  
+29. Released 1996.                      ... pos = 0.0   	neg = 0    
+30. ------ paul-michael                 ... pos = 0.75  	neg = 1.5  
+31. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5794-993 is Positive         ... pos = 12.75 	neg = 8.75 
+Overall score of document
+Total Pos = 12.75
+Total Neg = 8.75
+---------------------------------------------------------------------------

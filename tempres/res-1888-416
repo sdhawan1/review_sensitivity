@@ -1,0 +1,51 @@
+0. Starring: Campbell S                 ... pos = 1.25  	neg = 1.625
+1. But actually THE SPA                 ... pos = 0.0   	neg = 0.25 
+2. It's a con game tale                 ... pos = 0.125 	neg = 0.125
+3. THE SPANISH PRISONER                 ... pos = 0.25  	neg = 0.125
+4. Mamet is known for m                 ... pos = 0.0   	neg = 0.125
+5. He often uses theate                 ... pos = 0.0   	neg = 0.25 
+6. The actual plot: The                 ... pos = 1.125 	neg = 0.125
+7. The main character J                 ... pos = 2.0   	neg = 0.25 
+8. But in this situatio                 ... pos = 0.5   	neg = 0.25 
+9. For example, when pe                 ... pos = 0.0   	neg = 0.0  
+10. Joe accepts money no                ... pos = 0.75  	neg = 0.0  
+11. Nor can he decide be                ... pos = 0.0   	neg = 0.0  
+12. Joe's missing acumen                ... pos = 0.75  	neg = 0.5  
+13. Will Joe be spared?                 ... pos = 0.125 	neg = 0.125
+14. Opinion:  Chicago pl                ... pos = 0.0   	neg = 0.0  
+15. He is known for dist                ... pos = 0.75  	neg = 0.75 
+16. Mamet uses live thea                ... pos = 0.0   	neg = 0    
+17. The easiest way to r                ... pos = 0.25  	neg = 0.125
+18. Here are some exampl                ... pos = 0.25  	neg = 0.0  
+19. "  Joe's secretary:                 ... pos = 0.0   	neg = 0    
+20. Dog my cats.                        ... pos = 0     	neg = 0.625
+21. " . I am just as con                ... pos = 0.375 	neg = 0.125
+22. " That's the style.                 ... pos = 0     	neg = 0.0  
+23. In THE SPANISH PRISO                ... pos = 1.5   	neg = 1.403
+24. >From the beginning                 ... pos = 0.5   	neg = 1.0  
+25. And we expect the di                ... pos = 0.0   	neg = 0.0  
+26. But Mamet surprises                 ... pos = 0.0   	neg = 0.0  
+27. Instead of regular s                ... pos = 1.375 	neg = 0.667
+28. Typically, instead o                ... pos = 0.125 	neg = 1.0  
+29. " . In my opinion, t                ... pos = 1.25  	neg = 0.125
+30. The cryptic dialogue                ... pos = 1.0   	neg = 0.375
+31. Thus conversation is                ... pos = 0.5   	neg = 0.875
+32. Meanwhile we in the                 ... pos = 2.375 	neg = 0.25 
+33. Joe cannot decide be                ... pos = 0.0   	neg = 0.0  
+34. He cannot decide whe                ... pos = 0.5   	neg = 0.5  
+35. He can't decide whet                ... pos = 0.125 	neg = 0.125
+36. In fact, the only so                ... pos = 0.25  	neg = 0.75 
+37. This cluelessness co                ... pos = 0.5   	neg = 0.0  
+38. Then THE SPANISH PRI                ... pos = 1.083 	neg = 0.0  
+39. In a lot of movies o                ... pos = 0.125 	neg = 0.125
+40. Usually it's a battl                ... pos = 0.25  	neg = 0.25 
+41. THE SPANISH PRISONER                ... pos = 0.0   	neg = 0.375
+42. A different director                ... pos = 1.625 	neg = 0.0  
+43. But here Mamet's cin                ... pos = 0.625 	neg = 0.125
+44. As a medium for deli                ... pos = 0.5   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1888-416 is Positive         ... pos = 22.708 	neg = 13.32
+Overall score of document
+Total Pos = 22.708
+Total Neg = 13.32
+---------------------------------------------------------------------------

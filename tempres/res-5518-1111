@@ -1,0 +1,33 @@
+0. REVIEW: What Dreams                  ... pos = 3.125 	neg = 0.5  
+1. When Hollywood's lat                 ... pos = 1.25  	neg = 1.125
+2. With this film, the                  ... pos = 0.75  	neg = 0.125
+3. And trust Robin Will                 ... pos = 0.375 	neg = 0.0  
+4. It was Australian di                 ... pos = 0.75  	neg = 0.125
+5. Williams is not as g                 ... pos = 2.625 	neg = 1.5  
+6. Probably a little to                 ... pos = 0.989 	neg = 1.25 
+7. Director Vincent War                 ... pos = 1.375 	neg = 0.625
+8. In the past, when co                 ... pos = 1.375 	neg = 1.5  
+9. The colorful world o                 ... pos = 1.0   	neg = 0.625
+10. Again, Ward tries a                 ... pos = 1.125 	neg = 2.375
+11. Chris Neilson (Robin                ... pos = 0.375 	neg = 0.125
+12. Years earlier his tw                ... pos = 0.375 	neg = 0.0  
+13. Chris discovers that                ... pos = 0.125 	neg = 0.25 
+14. Back on Earth, Annie                ... pos = 0.0   	neg = 0.5  
+15. Upon hearing the new                ... pos = 1.0   	neg = 0.125
+16. Quite an intriguing                 ... pos = 1.25  	neg = 0.0  
+17. Bass is good at his                 ... pos = 1.5   	neg = 0.25 
+18. He is competent enou                ... pos = 1.5   	neg = 0.25 
+19. Thus the film become                ... pos = 0.875 	neg = 0.25 
+20. Frankly, I would hav                ... pos = 0.125 	neg = 0.0  
+21. Over acting aside, R                ... pos = 1.0   	neg = 0.25 
+22. Annabella Sciorra is                ... pos = 1.25  	neg = 0.5  
+23. Other cast members f                ... pos = 0.0   	neg = 0.625
+24. Both Robin Williams                 ... pos = 2.375 	neg = 0.25 
+25. And the answer to ma                ... pos = 0.0   	neg = 0.0  
+26. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5518-1111 is Positive        ... pos = 26.739 	neg = 13.125
+Overall score of document
+Total Pos = 26.739
+Total Neg = 13.125
+---------------------------------------------------------------------------

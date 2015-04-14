@@ -1,0 +1,58 @@
+0. Virtual reality is a                 ... pos = 0.625 	neg = 0.125
+1. Since 'Dark City' (1                 ... pos = 0.0   	neg = 0.25 
+2. The most popular and                 ... pos = 0.125 	neg = 0.125
+3. All the films releas                 ... pos = 0.75  	neg = 0.125
+4. David Cronenberg's e                 ... pos = 0.25  	neg = 0.25 
+5. And when 'The Thirte                 ... pos = 0.0   	neg = 0.125
+6. I admit that this is                 ... pos = 0.125 	neg = 0.25 
+7. It was therefore I w                 ... pos = 0.375 	neg = 0.25 
+8. However, I was posit                 ... pos = 0.25  	neg = 0.125
+9. Matrix was an entert                 ... pos = 0.875 	neg = 0.875
+10. eXistenZ was a viole                ... pos = 1.5   	neg = 0.125
+11. 'The Thirteenth Floo                ... pos = 0.0   	neg = 0.75 
+12. Instead of going aft                ... pos = 1.625 	neg = 0.0  
+13. In a near future...O                ... pos = 0.75  	neg = 0.25 
+14. Right after the firs                ... pos = 0.125 	neg = 0.75 
+15. Douglas Hall (), his                ... pos = 1.0   	neg = 0.5  
+16. A beautiful woman (G                ... pos = 1.5   	neg = 0.5  
+17. The first "download                 ... pos = 0.25  	neg = 0.125
+18. It is the creator's                 ... pos = 0.125 	neg = 0.125
+19. In order to enter th                ... pos = 0.5   	neg = 0.125
+20. This is called conci                ... pos = 0.625 	neg = 0.375
+21. They start to doubt                 ... pos = 0.375 	neg = 0.0  
+22. These innocent peopl                ... pos = 0.5   	neg = 0.625
+23. It is a frightening                 ... pos = 0.875 	neg = 0.125
+24. With an appealing ("                ... pos = 1.25  	neg = 0.75 
+25. Our modern world is                 ... pos = 0.0   	neg = 0.125
+26. The thirties are dif                ... pos = 2.5   	neg = 0.0  
+27. This contrast demons                ... pos = 0.125 	neg = 0.375
+28. Virtual reality is h                ... pos = 0.75  	neg = 0.75 
+29. To some it is just a                ... pos = 0.125 	neg = 0.125
+30. For others - a way t                ... pos = 0.0   	neg = 1.125
+31. Virtual reality is a                ... pos = 1.0   	neg = 0.125
+32. At least that's how                 ... pos = 0.0   	neg = 0.125
+33. But when you're waki                ... pos = 0.5   	neg = 1.125
+34. This, almost narcoti                ... pos = 0.25  	neg = 0    
+35. Some important and i                ... pos = 1.5   	neg = 0.125
+36. what is thought?                    ... pos = 0     	neg = 0.125
+37. who are we?                         ... pos = 0.25  	neg = 0    
+38. If these were answer                ... pos = 0.875 	neg = 0.25 
+39. They are off course                 ... pos = 0.5   	neg = 0.625
+40. The visual aspect of                ... pos = 0.0   	neg = 0.125
+41. Kirk M. Petrucelli h                ... pos = 1.875 	neg = 0.0  
+42. There are some hones                ... pos = 0.625 	neg = 0.25 
+43. A rather unusual thi                ... pos = 0.625 	neg = 0.5  
+44. There are no CGI ani                ... pos = 0.375 	neg = 0.5  
+45. This is a more philo                ... pos = 0.0   	neg = 0.125
+46. This is off course a                ... pos = 0.75  	neg = 1.75 
+47. This film is interes                ... pos = 0.125 	neg = 0.125
+48. It has everything eX                ... pos = 0.0   	neg = 0.125
+49. And then there is a                 ... pos = 1.125 	neg = 0.125
+50. The plot itself is n                ... pos = 1.125 	neg = 0.25 
+51. With this in mind,'T                ... pos = 2.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-6290-657 is Positive         ... pos = 32.125 	neg = 16.75
+Overall score of document
+Total Pos = 32.125
+Total Neg = 16.75
+---------------------------------------------------------------------------

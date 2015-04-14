@@ -1,0 +1,38 @@
+0. Director: Alfonso Cu                 ... pos = 1.0   	neg = 0.25 
+1. Dickens' Great Expec                 ... pos = 0.625 	neg = 0.875
+2. I was pleasantly sur                 ... pos = 2.0   	neg = 0.625
+3. The film version, fo                 ... pos = 0.0   	neg = 0.125
+4. Finn is the name of                  ... pos = 0.875 	neg = 0.25 
+5. The film opens in Fl                 ... pos = 0.625 	neg = 0.0  
+6. Finn brings the conv                 ... pos = 1.0   	neg = 0.125
+7. Later, we meet Finn'                 ... pos = 0.25  	neg = 0.0  
+8. One day, Finn gets a                 ... pos = 0.25  	neg = 0.125
+9. When he arrives at h                 ... pos = 0.0   	neg = 0.0  
+10. The film takes off f                ... pos = 2.375 	neg = 1.125
+11. What I found most fa                ... pos = 0.25  	neg = 0.125
+12. Given that the book                 ... pos = 0.75  	neg = 0.125
+13. The cinematography a                ... pos = 0.875 	neg = 0.0  
+14. The courtyard in fro                ... pos = 0.125 	neg = 1.0  
+15. I also think Hawke i                ... pos = 0.0   	neg = 0.125
+16. Hawke has the kind o                ... pos = 2.0   	neg = 0.5  
+17. Ironically, this per                ... pos = 0.25  	neg = 0.75 
+18. The scenes in which                 ... pos = 1.375 	neg = 0.375
+19. Gwyneth Paltrow play                ... pos = 2.0   	neg = 0.375
+20. I could see how some                ... pos = 0.0   	neg = 0.125
+21. Supporting performan                ... pos = 1.0   	neg = 0.125
+22. Like all films, this                ... pos = 0.0   	neg = 0.125
+23. I wouldn't say that                 ... pos = 0.0   	neg = 0.0  
+24. What the film does t                ... pos = 1.125 	neg = 0.5  
+25. It gets almost repet                ... pos = 1.0   	neg = 0.0  
+26. There are some truly                ... pos = 1.75  	neg = 0.0  
+27. My favorite in the f                ... pos = 0.0   	neg = 0.625
+28. " with her fiancée                 ... pos = 0.0   	neg = 0.0  
+29. After dancing for a                 ... pos = 0.0   	neg = 0.25 
+30. Great Expectations i                ... pos = 1.125 	neg = 0.25 
+31. Unlike the cinematic                ... pos = 2.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5472-760 is Positive         ... pos = 24.875 	neg = 9.0  
+Overall score of document
+Total Pos = 24.875
+Total Neg = 9.0
+---------------------------------------------------------------------------

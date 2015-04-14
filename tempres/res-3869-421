@@ -1,0 +1,16 @@
+0. It may take a second                 ... pos = 0.25  	neg = 0.75 
+1. Another reason why `                 ... pos = 0.0   	neg = 0.25 
+2. He first caught the                  ... pos = 0.5   	neg = 0    
+3. Norton can carry a f                 ... pos = 0.375 	neg = 0.5  
+4. Brad Pitt is charism                 ... pos = 1.0   	neg = 0.25 
+5. Helena (`Wings Of Th                 ... pos = 0.625 	neg = 0.125
+6. The opinions on `Fig                 ... pos = 1.625 	neg = 0.875
+7. It'll be interesting                 ... pos = 1.125 	neg = 0.25 
+8. To quote the tagline                 ... pos = 0.0   	neg = 0.0  
+9. '. . .                               ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3869-421 is Positive         ... pos = 5.5   	neg = 3.0  
+Overall score of document
+Total Pos = 5.5
+Total Neg = 3.0
+---------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+0. Starring the voices                  ... pos = 0.25  	neg = 0.0  
+1. It is a very simple,                 ... pos = 1.125 	neg = 0.125
+2. The short displays t                 ... pos = 1.25  	neg = 0    
+3. The short is very sa                 ... pos = 1.5   	neg = 0.875
+4. The viewing of the l                 ... pos = 1.375 	neg = 0.25 
+5. "Toy Story 2" is a v                 ... pos = 0.125 	neg = 0.125
+6. Every scene is wonde                 ... pos = 0.0   	neg = 0.125
+7. The remarkable detai                 ... pos = 1.125 	neg = 1.25 
+8. What makes this sequ                 ... pos = 1.375 	neg = 0.75 
+9. Both films follow on                 ... pos = 1.125 	neg = 0    
+10. Also both films foll                ... pos = 1.125 	neg = 0.5  
+11. The overall message                 ... pos = 0.25  	neg = 0.875
+12. "Toy Story 2" starts                ... pos = 1.0   	neg = 0.0  
+13. The opening scene gi                ... pos = 0.875 	neg = 1.625
+14. The action presented                ... pos = 1.875 	neg = 0.125
+15. The opening scene of                ... pos = 0.875 	neg = 0.125
+16. Immediately after, t                ... pos = 1.75  	neg = 0.25 
+17. The action never die                ... pos = 0.625 	neg = 0.0  
+18. The animation helps                 ... pos = 0.125 	neg = 0.5  
+19. "Toy Story 2" tells                 ... pos = 0.75  	neg = 0.25 
+20. Woody, Andy's favori                ... pos = 0.125 	neg = 0.25 
+21. It is up to Buzz Lig                ... pos = 0.5   	neg = 0.125
+22. Every actor providin                ... pos = 0.625 	neg = 0.125
+23. This is a good thing                ... pos = 1.0   	neg = 0.875
+24. Every character from                ... pos = 1.75  	neg = 0.0  
+25. The new characters a                ... pos = 1.375 	neg = 0    
+26. The most notable new                ... pos = 0.375 	neg = 0.0  
+27. Both fantastically b                ... pos = 1.125 	neg = 1.375
+28. The only dull moment                ... pos = 0.0   	neg = 0.375
+29. It just seemed out o                ... pos = 0.0   	neg = 0.125
+30. However, this song w                ... pos = 0.375 	neg = 1.125
+31. Another small irrita                ... pos = 0.0   	neg = 0.25 
+32. "Toy Story 2" is the                ... pos = 0.25  	neg = 0.125
+33. I find it hard to be                ... pos = 0.625 	neg = 0.75 
+34. These are small comp                ... pos = 0.25  	neg = 0.0  
+35. "Toy Story 2" is a g                ... pos = 0.125 	neg = 0.125
+36. Multiple viewings do                ... pos = 0.5   	neg = 0.0  
+37. This one should not                 ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-395-778 is Positive          ... pos = 27.5  	neg = 13.75
+Overall score of document
+Total Pos = 27.5
+Total Neg = 13.75
+---------------------------------------------------------------------------

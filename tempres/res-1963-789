@@ -1,0 +1,40 @@
+0. Albert Brooks saves                  ... pos = 0.0   	neg = 0.0  
+1. With a very poor sum                 ... pos = 0.75  	neg = 0.25 
+2. While this may not b                 ... pos = 1.125 	neg = 0.125
+3. In Albert Brook's la                 ... pos = 0.25  	neg = 0.0  
+4. In desperation, he g                 ... pos = 1.25  	neg = 0.125
+5. He asks Jack for som                 ... pos = 0.125 	neg = 0.0  
+6. So Brooks seeks the                  ... pos = 0.0   	neg = 0.125
+7. as a sort of payment                 ... pos = 0.0   	neg = 0.0  
+8. The real punch line                  ... pos = 0.125 	neg = 0.0  
+9. It really makes you                  ... pos = 0.125 	neg = 0.125
+10. The idea itself is p                ... pos = 0.5   	neg = 0.125
+11. Speaking of Brooks,                 ... pos = 0.375 	neg = 0.125
+12. Every time he graces                ... pos = 0.0   	neg = 0.0  
+13. Albert has a very un                ... pos = 2.375 	neg = 0.0  
+14. The real problem wit                ... pos = 0.0   	neg = 0.25 
+15. She wasn't likeable                 ... pos = 0.125 	neg = 0.0  
+16. Brooks had the right                ... pos = 0.0   	neg = 0.0  
+17. In a way, she draine                ... pos = 0.0   	neg = 0.0  
+18. Luckily Brooks could                ... pos = 0.5   	neg = 0.0  
+19. It was a shame that                 ... pos = 1.125 	neg = 1.0  
+20. On a brighter note,                 ... pos = 0.5   	neg = 0.125
+21. She is always a nice                ... pos = 0.5   	neg = 0.25 
+22. The funniest moments                ... pos = 0.5   	neg = 0.625
+23. I mean imagine, Broo                ... pos = 0.0   	neg = 0.625
+24. It was just plain hi                ... pos = 0.25  	neg = 0.125
+25. It just adds to the                 ... pos = 0.625 	neg = 0.25 
+26. Brilliant move by Br                ... pos = 0.875 	neg = 0.0  
+27. As I mentioned befor                ... pos = 0.125 	neg = 0.125
+28. Unlike Bowfinger, th                ... pos = 1.875 	neg = 1.0  
+29. "Bowfinger" had it's                ... pos = 0.0   	neg = 0.375
+30. By the end of the fi                ... pos = 1.25  	neg = 0.0  
+31. For once I'm not ful                ... pos = 0.0   	neg = 0.0  
+32. Thumbs up to Brooks                 ... pos = 0.0   	neg = 0.0  
+33. I think he'll still                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1963-789 is Positive         ... pos = 15.25 	neg = 5.75 
+Overall score of document
+Total Pos = 15.25
+Total Neg = 5.75
+---------------------------------------------------------------------------

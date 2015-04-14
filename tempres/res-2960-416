@@ -1,0 +1,15 @@
+0. Starring: Demi Moore                 ... pos = 1.375 	neg = 0.5  
+1. O-neill (Demi) deals                 ... pos = 0.125 	neg = 0    
+2. The film consists mo                 ... pos = 1.125 	neg = 0.0  
+3. Take a guess.                        ... pos = 0.0   	neg = 0.0  
+4. Will Demi pass this                  ... pos = 1.125 	neg = 0.75 
+5. Opinion: Director Ri                 ... pos = 1.625 	neg = 0.0  
+6. If you can stomach w                 ... pos = 0.625 	neg = 0.0  
+7. If not, you'll proba                 ... pos = 0.0   	neg = 1.375
+8. The moral of this mo                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2960-416 is Positive         ... pos = 6.0   	neg = 2.625
+Overall score of document
+Total Pos = 6.0
+Total Neg = 2.625
+---------------------------------------------------------------------------

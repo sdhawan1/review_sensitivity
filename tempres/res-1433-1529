@@ -1,0 +1,24 @@
+0. There are hardly any                 ... pos = 0.5   	neg = 0.125
+1. It's funny, romantic                 ... pos = 2.375 	neg = 0.0  
+2. At first I thought a                 ... pos = 0.25  	neg = 0.375
+3. The film begins with                 ... pos = 0.875 	neg = 1.125
+4. ' Unfortunately, Wil                 ... pos = 0.125 	neg = 0.875
+5. That is until he mee                 ... pos = 0.375 	neg = 0.125
+6. She is dressed up as                 ... pos = 0.0   	neg = 0.25 
+7. Soon he finds out sh                 ... pos = 1.0   	neg = 0.125
+8. Sadly their love can                 ... pos = 0.875 	neg = 0.875
+9. Will and Viola's rel                 ... pos = 2.0   	neg = 0.125
+10. As the movie progres                ... pos = 0.875 	neg = 0.0  
+11. It's not just the pa                ... pos = 3.25  	neg = 0.125
+12. It's also beautifull                ... pos = 1.375 	neg = 0    
+13. The acting couldn't                 ... pos = 0     	neg = 0.125
+14. Joseph and Gwyneth a                ... pos = 0.625 	neg = 0.625
+15. `Shakespeare in Love                ... pos = 0.25  	neg = 1.25 
+16. Also nominated for t                ... pos = 2.125 	neg = 0.125
+17. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1433-1529 is Positive        ... pos = 16.875 	neg = 6.25 
+Overall score of document
+Total Pos = 16.875
+Total Neg = 6.25
+---------------------------------------------------------------------------

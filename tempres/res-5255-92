@@ -1,0 +1,25 @@
+0. Seen on 31 December                  ... pos = 0.875 	neg = 0.125
+1. For reasons that are                 ... pos = 0.25  	neg = 0.125
+2. Unlike American pict                 ... pos = 0.125 	neg = 0.0  
+3. I was laughing withi                 ... pos = 0.125 	neg = 0.125
+4. In general, if you'v                 ... pos = 0.0   	neg = 0.0  
+5. What separates them                  ... pos = 1.25  	neg = 0.375
+6. Here, media mogul El                 ... pos = 0.5   	neg = 0.0  
+7. Like most 007 movies                 ... pos = 0.125 	neg = 0.0  
+8. As James Bond, Pierc                 ... pos = 0.375 	neg = 0.125
+9. He is prone to weari                 ... pos = 0.0   	neg = 0.125
+10. The "Bond Girls" thi                ... pos = 1.125 	neg = 0.625
+11. Luckily, Hatcher dis                ... pos = 1.875 	neg = 0.375
+12. The villains are equ                ... pos = 1.0   	neg = 0.375
+13. Pryce is perfectly c                ... pos = 1.125 	neg = 1.375
+14. Carver's visage appe                ... pos = 0.125 	neg = 0.0  
+15. Also requisite is th                ... pos = 0.0   	neg = 0.125
+16. Judi Dench continues                ... pos = 0.25  	neg = 0.0  
+17. Joe Don Baker appear                ... pos = 0.625 	neg = 0.0  
+18. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5255-92 is Positive          ... pos = 9.75  	neg = 4.0  
+Overall score of document
+Total Pos = 9.75
+Total Neg = 4.0
+---------------------------------------------------------------------------

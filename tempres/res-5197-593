@@ -1,0 +1,41 @@
+0. CAST: Matt Damon, Ro                 ... pos = 0.625 	neg = 1.0  
+1. Perhaps because I ha                 ... pos = 0.75  	neg = 0.125
+2. For whatever reason,                 ... pos = 0.0   	neg = 0.0  
+3. While  many will sym                 ... pos = 2.0   	neg = 0.0  
+4. ".         Twenty-ye                 ... pos = 0.375 	neg = 0.0  
+5. He solves the  probl                 ... pos = 0.375 	neg = 0.25 
+6. Will does this  anon                 ... pos = 0.375 	neg = 0.0  
+7. He would  rather spe                 ... pos = 0.75  	neg = 0.0  
+8. Lambeau takes time t                 ... pos = 0.25  	neg = 0.0  
+9. Will can  be free if                 ... pos = 1.0   	neg = 0.125
+10. The film hits full s                ... pos = 1.0   	neg = 0.0  
+11. Themes that run thro                ... pos = 0.375 	neg = 0.0  
+12. The  nature of geniu                ... pos = 1.75  	neg = 0.25 
+13. Maguire and Lambeau                 ... pos = 0.625 	neg = 0.0  
+14. Maguire will not att                ... pos = 1.375 	neg = 0.0  
+15. Lambeau, all awards                 ... pos = 1.125 	neg = 0.875
+16. "  They argue about                 ... pos = 0.5   	neg = 0.25 
+17. The screenplay was w                ... pos = 0.75  	neg = 0.125
+18. They have deservedly                ... pos = 0.375 	neg = 0.0  
+19. Affleck was found in                ... pos = 0.25  	neg = 0.75 
+20. "  He opened eyes in                ... pos = 0.5   	neg = 0.125
+21. Robin Williams, gift                ... pos = 0.375 	neg = 0.75 
+22. "  With a character                 ... pos = 1.25  	neg = 0.0  
+23. Skarsgaard, a Swede                 ... pos = 1.0   	neg = 0.125
+24. Minnie Driver perfor                ... pos = 0.75  	neg = 0.25 
+25. Before attending "Go                ... pos = 0.75  	neg = 0.125
+26. A late scene between                ... pos = 0.625 	neg = 0.125
+27. "  Both received Osc                ... pos = 0.625 	neg = 0.0  
+28. "Good Will Hunting"                 ... pos = 0.125 	neg = 0.375
+29. This could be Willia                ... pos = 1.25  	neg = 0.25 
+30. "Good Will Hunting"                 ... pos = 0.25  	neg = 0.0  
+31. Freshman year I was                 ... pos = 0.125 	neg = 0.75 
+32. When Will is reminde                ... pos = 0.25  	neg = 1.25 
+33. "  Neither is this m                ... pos = 0     	neg = 0.375
+34. It does not get caug                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5197-593 is Positive         ... pos = 22.625 	neg = 8.5  
+Overall score of document
+Total Pos = 22.625
+Total Neg = 8.5
+---------------------------------------------------------------------------

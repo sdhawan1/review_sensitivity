@@ -1,0 +1,37 @@
+0. Starring Edward Nort                 ... pos = 0.125 	neg = 0.0  
+1. Directed by Edward N                 ... pos = 0.0   	neg = 0    
+2. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+3. I don't think I'm ex                 ... pos = 1.75  	neg = 0.0  
+4. The idea is just bri                 ... pos = 0.375 	neg = 0.5  
+5. Unfortunately, just                  ... pos = 1.0   	neg = 1.375
+6. This is a movie with                 ... pos = 0.375 	neg = 0.375
+7. Edward Norton direct                 ... pos = 1.25  	neg = 0.0  
+8. Brian Finn (Norton)                  ... pos = 0.0   	neg = 0.25 
+9. Now, in their late 2                 ... pos = 0.125 	neg = 0.0  
+10. They've spent the la                ... pos = 0.0   	neg = 0.5  
+11. Since leather jacket                ... pos = 0.0   	neg = 0.5  
+12. Their lives are rout                ... pos = 1.5   	neg = 0.125
+13. They go to the airpo                ... pos = 0.0   	neg = 0.25 
+14. The reunion is jubil                ... pos = 0.0   	neg = 0.5  
+15. But things don't rem                ... pos = 0.25  	neg = 0.375
+16. Brian, bound by his                 ... pos = 0.25  	neg = 0.75 
+17. Meanwhile, Anna and                 ... pos = 0.625 	neg = 0.375
+18. There's some good st                ... pos = 0.75  	neg = 0.25 
+19. Stiller and Norton a                ... pos = 1.625 	neg = 0.0  
+20. Jenna Elfman, too, i                ... pos = 0.125 	neg = 1.625
+21. The script, by first                ... pos = 0.0   	neg = 0.0  
+22. But thanks to (in al                ... pos = 0.875 	neg = 0.75 
+23. The ending is a giga                ... pos = 0.0   	neg = 0.125
+24. What began as a seri                ... pos = 3.75  	neg = 0.625
+25. That's only sometime                ... pos = 0.5   	neg = 0.0  
+26. You have to have the                ... pos = 0.0   	neg = 0.0  
+27. If it's out of the b                ... pos = 1.25  	neg = 1.375
+28. At a running time of                ... pos = 0.5   	neg = 0.5  
+29. But it failed to sat                ... pos = 0.0   	neg = 0.125
+30. I'm not sure who is                 ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1484-563 is Positive         ... pos = 17.375 	neg = 11.5 
+Overall score of document
+Total Pos = 17.375
+Total Neg = 11.5
+---------------------------------------------------------------------------

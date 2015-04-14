@@ -1,0 +1,28 @@
+0. Hack director Bobby                  ... pos = 0.125 	neg = 0.0  
+1. Armed with the scrip                 ... pos = 0.125 	neg = 0.25 
+2. Kit gives him the bo                 ... pos = 0.0   	neg = 0.0  
+3. His crew will follow                 ... pos = 0.375 	neg = 0.0  
+4. A factor in their fa                 ... pos = 1.0   	neg = 0.625
+5. Bowfinger's merry ba                 ... pos = 0.375 	neg = 0.875
+6. Less familiar faces                  ... pos = 1.125 	neg = 0.0  
+7. Martin's script deli                 ... pos = 0.0   	neg = 0.25 
+8. There's none of the                  ... pos = 0.0   	neg = 0.0  
+9. Story.                               ... pos = 0.0   	neg = 0    
+10. "  Except for the st                ... pos = 0.0   	neg = 0.0  
+11. Bowfinger is a latte                ... pos = 0.75  	neg = 0.25 
+12. Outside of Kit, the                 ... pos = 1.375 	neg = 0.0  
+13. The script also depe                ... pos = 0.625 	neg = 0.25 
+14. If Kit Ramsey didn't                ... pos = 0.0   	neg = 0.125
+15. Despite those flaws,                ... pos = 0.0   	neg = 0.0  
+16. Martin is, as always                ... pos = 1.25  	neg = 0.25 
+17. As Kit, he loudly ra                ... pos = 1.125 	neg = 0.625
+18. Jiff is also easily                 ... pos = 0.25  	neg = 0.125
+19. In the movie's funni                ... pos = 1.25  	neg = 0.0  
+20. ". Bottom line:  "Bo                ... pos = 0.25  	neg = 0.125
+21. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2751-1265 is Positive        ... pos = 10.0  	neg = 3.75 
+Overall score of document
+Total Pos = 10.0
+Total Neg = 3.75
+---------------------------------------------------------------------------

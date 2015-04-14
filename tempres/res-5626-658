@@ -1,0 +1,37 @@
+0. You're inside bowlin                 ... pos = 0.0   	neg = 0.0  
+1. Up and down, up and                  ... pos = 0.25  	neg = 0.0  
+2. The only thing you a                 ... pos = 0.5   	neg = 0.125
+3. What happens when yo                 ... pos = 0     	neg = 0.0  
+4. "The Big Lebowski" f                 ... pos = 0.0   	neg = 0.125
+5. It's filled with a l                 ... pos = 1.75  	neg = 0.0  
+6. At the end of the fi                 ... pos = 0.625 	neg = 0.0  
+7. At the center of "Th                 ... pos = 0.0   	neg = 0.125
+8. The movie opens with                 ... pos = 0.0   	neg = 0.125
+9. And that's the dude.                 ... pos = 0     	neg = 0.0  
+10. "  And that man has                 ... pos = 0.0   	neg = 0.75 
+11. He writes checks for                ... pos = 0.0   	neg = 0.0  
+12. His only identificti                ... pos = 0.0   	neg = 0.125
+13. I've always enjoyed                 ... pos = 1.0   	neg = 0.25 
+14. Here, they've tried                 ... pos = 0.75  	neg = 1.375
+15. The plot moves along                ... pos = 0.0   	neg = 0.0  
+16. It goes something li                ... pos = 0.0   	neg = 0.375
+17. To show that they me                ... pos = 0.625 	neg = 0.0  
+18. The Dude wants a new                ... pos = 0.5   	neg = 0.25 
+19. Said Tycoon tells hi                ... pos = 0.375 	neg = 0.25 
+20. The bowling partner                 ... pos = 0.0   	neg = 0.0  
+21. That's just the firs                ... pos = 0.125 	neg = 0.0  
+22. On second thought, i                ... pos = 0.0   	neg = 0.0  
+23. You never guess wher                ... pos = 0.0   	neg = 0.0  
+24. Did I like "The Big                 ... pos = 0     	neg = 0.0  
+25. No.                                 ... pos = 0     	neg = 0.25 
+26. But that doesn't mea                ... pos = 0     	neg = 0.0  
+27. It has the right kin                ... pos = 0.375 	neg = 0.0  
+28. Maybe I was looking                 ... pos = 1.75  	neg = 0.25 
+29. "The Big Lebowski" (                ... pos = 0.0   	neg = 0.25 
+30. Starring Jeff Daniel                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5626-658 is Positive         ... pos = 8.625 	neg = 4.625
+Overall score of document
+Total Pos = 8.625
+Total Neg = 4.625
+---------------------------------------------------------------------------

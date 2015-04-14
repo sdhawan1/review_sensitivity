@@ -1,0 +1,44 @@
+0. In the movie theater                 ... pos = 0.125 	neg = 0.0  
+1. It said that Les Mis                 ... pos = 0.25  	neg = 0.125
+2. Now if that was so V                 ... pos = 0.25  	neg = 0.375
+3. The date should have                 ... pos = 0.125 	neg = 0.0  
+4. Some later versions                  ... pos = 0.0   	neg = 0.125
+5. And, there is the mu                 ... pos = 0.0   	neg = 0.125
+6. The trivia statement                 ... pos = 0.125 	neg = 0.0  
+7. When did Javert beco                 ... pos = 0.0   	neg = 0.0  
+8. Perhaps it was becau                 ... pos = 0.125 	neg = 0.125
+9. His admission that h                 ... pos = 0.5   	neg = 0.25 
+10. Unless you have read                ... pos = 1.75  	neg = 0.375
+11. It was interesting t                ... pos = 0.625 	neg = 0.125
+12. When I went outside,                ... pos = 0.0   	neg = 0.0  
+13. They  said that they                ... pos = 0.0   	neg = 0.0  
+14. That does not speak                 ... pos = 0.0   	neg = 0    
+15. How many went outsid                ... pos = 0.0   	neg = 0.0  
+16. A brief synopsis is                 ... pos = 0.125 	neg = 1.0  
+17. After his release he                ... pos = 0.125 	neg = 0.125
+18. Ten years later, in                 ... pos = 0.125 	neg = 0.125
+19. Javert, who was a gu                ... pos = 0.125 	neg = 0.25 
+20. Working at Valjean's                ... pos = 0.0   	neg = 0.25 
+21. Her daughter, Cosett                ... pos = 0.0   	neg = 0.75 
+22. Fantine turns to pro                ... pos = 0.5   	neg = 1.25 
+23. As Javert closes in,                ... pos = 0.0   	neg = 0.625
+24. She longs to learn o                ... pos = 0.375 	neg = 0    
+25. During one of her fi                ... pos = 1.0   	neg = 0.25 
+26. The conclusion combi                ... pos = 0.375 	neg = 0.0  
+27. Marius was the big d                ... pos = 0     	neg = 0.875
+28. He came across as a                 ... pos = 0.0   	neg = 0.125
+29. It had to be Cosette                ... pos = 0.0   	neg = 0.25 
+30. She could have done                 ... pos = 0.125 	neg = 0.0  
+31. I don't feel that an                ... pos = 0.0   	neg = 0.125
+32. There were times tha                ... pos = 0.5   	neg = 0.25 
+33. Perhaps it was becau                ... pos = 0.125 	neg = 0.875
+34. Only the scenes with                ... pos = 0.0   	neg = 0.0  
+35. What should have bee                ... pos = 1.0   	neg = 0.25 
+36. Instead of wanting t                ... pos = 0.25  	neg = 0.125
+37. Because it does have                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-4306-989 is Negative         ... pos = 8.625 	neg = 9.625
+Overall score of document
+Total Pos = 8.625
+Total Neg = 9.625
+---------------------------------------------------------------------------

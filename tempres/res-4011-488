@@ -1,0 +1,37 @@
+0. Starring Jennifer Lo                 ... pos = 0.625 	neg = 0.0  
+1. I Know What You Did                  ... pos = 0.0   	neg = 0.0  
+2. Jennifer Love Hewitt                 ... pos = 1.875 	neg = 0.25 
+3. After a night of par                 ... pos = 0.0   	neg = 0.0  
+4. On the way down the                  ... pos = 0.0   	neg = 0.0  
+5. They decide their on                 ... pos = 0.0   	neg = 0.125
+6. Although disposing o                 ... pos = 0.0   	neg = 0.375
+7. When it is accomplis                 ... pos = 0.0   	neg = 0.125
+8. At the end of the su                 ... pos = 0.75  	neg = 1.5  
+9. Over the course of t                 ... pos = 0.125 	neg = 0.375
+10. That is, until Julie                ... pos = 0.125 	neg = 0.125
+11. None of the four, wh                ... pos = 0.0   	neg = 0.0  
+12. Quite quickly all be                ... pos = 0.125 	neg = 0.25 
+13. The note's author go                ... pos = 0.25  	neg = 0.0  
+14. Like Scream, the wri                ... pos = 0.0   	neg = 0.125
+15. As with Scream, scre                ... pos = 0.0   	neg = 0.25 
+16. With blatant scenes                 ... pos = 0.0   	neg = 0.5  
+17. This brings me to th                ... pos = 0.0   	neg = 0.0  
+18. The audience that I                 ... pos = 0.875 	neg = 0.375
+19. This isn't a knock a                ... pos = 0.0   	neg = 0.0  
+20. Nor am I suggesting                 ... pos = 0.0   	neg = 1.375
+21. The audience was lau                ... pos = 0.0   	neg = 0.125
+22. One gets the impress                ... pos = 1.375 	neg = 0.125
+23. If that was their in                ... pos = 0.125 	neg = 0.125
+24. My only complaint wi                ... pos = 0.0   	neg = 0.5  
+25. When the killer's id                ... pos = 0.0   	neg = 0.25 
+26. This could also be s                ... pos = 0.0   	neg = 0.125
+27. You actually have to                ... pos = 0.0   	neg = 0.0  
+28. Which is not to say                 ... pos = 0.25  	neg = 0.375
+29. The four main cast m                ... pos = 1.375 	neg = 0.125
+30. Especially Sarah Mic                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4011-488 is Positive         ... pos = 8.0   	neg = 7.5  
+Overall score of document
+Total Pos = 8.0
+Total Neg = 7.5
+---------------------------------------------------------------------------

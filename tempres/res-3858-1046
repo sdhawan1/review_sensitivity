@@ -1,0 +1,25 @@
+0. CAPSULE: Not the nar                 ... pos = 0.125 	neg = 0.125
+1. KISS THE GIRLS had m                 ... pos = 0.0   	neg = 0.625
+2. It's understandable:                 ... pos = 0.0   	neg = 1.375
+3. There, the similarit                 ... pos = 0.375 	neg = 0.0  
+4. KISS THE GIRLS is no                 ... pos = 0.875 	neg = 0.375
+5. >From the moment Mor                 ... pos = 1.0   	neg = 0.625
+6. He is not rehashing                  ... pos = 1.5   	neg = 0.625
+7. Cross's niece has go                 ... pos = 0.125 	neg = 0.375
+8. He is right, and he                  ... pos = 0.0   	neg = 0.125
+9. : Casanova isn't so                  ... pos = 0.125 	neg = 2.5  
+10. Then there's a huge                 ... pos = 1.125 	neg = 0.125
+11. She is full of guilt                ... pos = 0.125 	neg = 0.375
+12. They're a nice team;                ... pos = 0.5   	neg = 0.0  
+13. There's a great deal                ... pos = 0.0   	neg = 0.125
+14. I will say that the                 ... pos = 0.625 	neg = 0.125
+15. For most of the way,                ... pos = 0.875 	neg = 0.625
+16. Then in the final ac                ... pos = 0.0   	neg = 0.125
+17. It's not a fatal mis                ... pos = 0.375 	neg = 1.125
+18. Despite this, KISS T                ... pos = 1.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3858-1046 is Negative        ... pos = 9.375 	neg = 9.625
+Overall score of document
+Total Pos = 9.375
+Total Neg = 9.625
+---------------------------------------------------------------------------

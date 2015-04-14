@@ -1,0 +1,48 @@
+0. Cast: Bruce Willis,                  ... pos = 0.375 	neg = 0.375
+1. On a return trip fro                 ... pos = 0.375 	neg = 1.5  
+2. To make things even                  ... pos = 0.0   	neg = 0.0  
+3. A comic book art dea                 ... pos = 0.125 	neg = 0.625
+4. Price felt that ther                 ... pos = 0.625 	neg = 0.25 
+5. Price contacts Dunne                 ... pos = 0.75  	neg = 0.25 
+6. Dunne doesn't believ                 ... pos = 0.875 	neg = 0.125
+7. Writer/director M. N                 ... pos = 0.0   	neg = 0.0  
+8. How exactly does one                 ... pos = 0.5   	neg = 0.0  
+9. For Shyamalan, the a                 ... pos = 0.625 	neg = 0.0  
+10. Does this new film m                ... pos = 0.5   	neg = 0.375
+11. The answer to that q                ... pos = 0.75  	neg = 0.125
+12. As far as pacing goe                ... pos = 0.0   	neg = 0.125
+13. It wasn't until the                 ... pos = 1.25  	neg = 0.375
+14. For Unbreakable, Shy                ... pos = 0.25  	neg = 0.25 
+15. The story moves alon                ... pos = 1.125 	neg = 0.125
+16. There are tons of gr                ... pos = 1.125 	neg = 0.25 
+17. The shot seems as th                ... pos = 0.0   	neg = 0.5  
+18. Also very impressive                ... pos = 1.0   	neg = 0.125
+19. Several of the scene                ... pos = 1.125 	neg = 0.0  
+20. One of the best exam                ... pos = 0.375 	neg = 0.125
+21. The music, in combin                ... pos = 0.125 	neg = 0.375
+22. If there was any one                ... pos = 0.375 	neg = 0.25 
+23. The film also boasts                ... pos = 0.375 	neg = 0.75 
+24. Willis turns in a gr                ... pos = 0.125 	neg = 1.0  
+25. His character almost                ... pos = 1.0   	neg = 1.0  
+26. Jackson is one of th                ... pos = 0.25  	neg = 0.75 
+27. Though his hairstyle                ... pos = 0.25  	neg = 0.375
+28. Robin Wright Penn's                 ... pos = 1.125 	neg = 0.125
+29. Spencer Treat Clark,                ... pos = 0.0   	neg = 0.0  
+30. Out of all the chara                ... pos = 1.25  	neg = 0.125
+31. Where the film does                 ... pos = 0.375 	neg = 0.125
+32. Shyamalan has said i                ... pos = 0.0   	neg = 0.25 
+33. " when Unbreakable r                ... pos = 0.0   	neg = 0    
+34. It's not that the en                ... pos = 0.375 	neg = 1.0  
+35. Plus, it almost seem                ... pos = 0.375 	neg = 0.125
+36. Essentially, what al                ... pos = 1.5   	neg = 0.25 
+37. The only real proble                ... pos = 0.0   	neg = 0.375
+38. As long as it isn't                 ... pos = 0.5   	neg = 0.625
+39. One thing seems clea                ... pos = 0.0   	neg = 0.125
+40. Shyamalan definitely                ... pos = 0.875 	neg = 0.0  
+41. Reviewed by Brian Ma                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3905-1241 is Positive        ... pos = 20.625 	neg = 13.125
+Overall score of document
+Total Pos = 20.625
+Total Neg = 13.125
+---------------------------------------------------------------------------

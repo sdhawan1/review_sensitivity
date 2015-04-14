@@ -1,0 +1,41 @@
+0. Director:   Nora Ep                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution: War                 ... pos = 0.0   	neg = 0.0  
+2. Rated PG:  mild lan                 ... pos = 0.125 	neg = 1.0  
+3. He, along with his f                 ... pos = 1.0   	neg = 0.0  
+4. He knows that busine                 ... pos = 0.375 	neg = 0.0  
+5. Nonetheless, Kathlee                 ... pos = 0.5   	neg = 0.375
+6. Kathleen takes it pe                 ... pos = 0.0   	neg = 0.375
+7. What Kathleen and Jo                 ... pos = 0.375 	neg = 0.25 
+8. Because they've made                 ... pos = 0.5   	neg = 0.25 
+9. They both feel guilt                 ... pos = 1.25  	neg = 1.25 
+10. And so begins a surp                ... pos = 0.5   	neg = 0.0  
+11. You've Got Mail coul                ... pos = 0.5   	neg = 0.125
+12. Here we have a movie                ... pos = 0.0   	neg = 0.0  
+13. It's a money-making                 ... pos = 0.0   	neg = 0.0  
+14. It doesn't bother me                ... pos = 1.0   	neg = 0.375
+15. Oh sure, it's gooey                 ... pos = 0.875 	neg = 0.0  
+16. There's no doubt tha                ... pos = 0.0   	neg = 0.25 
+17. What makes You've Go                ... pos = 1.75  	neg = 0.125
+18. I really had to figh                ... pos = 0.0   	neg = 0.625
+19. Any movie that force                ... pos = 0.75  	neg = 0.75 
+20. What You've Got Mail                ... pos = 0.75  	neg = 0.125
+21. Both performers are                 ... pos = 0.75  	neg = 0.0  
+22. You've Got Mail requ                ... pos = 0.375 	neg = 0.5  
+23. Ryan, who is literal                ... pos = 1.5   	neg = 1.25 
+24. Some of the best sce                ... pos = 1.125 	neg = 0.125
+25. Of course, there's a                ... pos = 0.5   	neg = 0.125
+26. Posey is so perfect                 ... pos = 0.125 	neg = 0.625
+27. Kinnear is convincin                ... pos = 1.0   	neg = 1.25 
+28. Coleman has some goo                ... pos = 0.75  	neg = 0.0  
+29. And Ephron ties ever                ... pos = 0.625 	neg = 0.0  
+30. What I really liked                 ... pos = 0.125 	neg = 0.125
+31. It has an emotional                 ... pos = 1.5   	neg = 0.0  
+32. Joe, for instance, i                ... pos = 2.125 	neg = 0.75 
+33. In fact, I'm surpris                ... pos = 0.625 	neg = 0.0  
+34. And even though you                 ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5378-760 is Positive         ... pos = 22.125 	neg = 10.875
+Overall score of document
+Total Pos = 22.125
+Total Neg = 10.875
+---------------------------------------------------------------------------

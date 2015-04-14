@@ -1,0 +1,21 @@
+0. Welcome to 1950s Los                 ... pos = 1.375 	neg = 0.0  
+1. L.A.                                 ... pos = 0.0   	neg = 0    
+2. CONFIDENTIAL display                 ... pos = 0.75  	neg = 0.0  
+3. The story revolves a                 ... pos = 0.25  	neg = 0.25 
+4. These three are out                  ... pos = 0.75  	neg = 0.0  
+5. During their investi                 ... pos = 0.0   	neg = 0.125
+6. During their investi                 ... pos = 0.625 	neg = 0.375
+7. Jack is also getting                 ... pos = 0.0   	neg = 0.5  
+8. This movie has a lot                 ... pos = 0.75  	neg = 0.0  
+9. Director Curtis Hans                 ... pos = 2.5   	neg = 0.125
+10. The acting is flawle                ... pos = 0.75  	neg = 0.125
+11. Guy Pearce, Russell                 ... pos = 0.75  	neg = 0.0  
+12. The cinematography(D                ... pos = 0.875 	neg = 0.125
+13. Lastly the script(Br                ... pos = 0.0   	neg = 0.125
+14. This movie is an Ame                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1450-1529 is Positive        ... pos = 9.5   	neg = 1.875
+Overall score of document
+Total Pos = 9.5
+Total Neg = 1.875
+---------------------------------------------------------------------------

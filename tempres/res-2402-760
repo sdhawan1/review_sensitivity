@@ -1,0 +1,46 @@
+0. By Nathaniel R. Atch                 ... pos = 0.5   	neg = 0.125
+1. Such was the case wi                 ... pos = 0.0   	neg = 0.75 
+2. Before seeing it, th                 ... pos = 0.375 	neg = 0.125
+3. I love the first two                 ... pos = 1.875 	neg = 0.0  
+4. Sure, they're funny                  ... pos = 0.25  	neg = 0.0  
+5. Lethal Weapon 3 is a                 ... pos = 0.0   	neg = 1.278
+6. I figured the fourth                 ... pos = 0.25  	neg = 1.0  
+7. And I was right -- L                 ... pos = 0.0   	neg = 0.125
+8. And, oddly enough, i                 ... pos = 0.5   	neg = 0.0  
+9. It's not risky, nor                  ... pos = 0.75  	neg = 0.125
+10. It also expands on t                ... pos = 1.75  	neg = 0.0  
+11. As the posters all s                ... pos = 0.0   	neg = 0    
+12. "  This, of course,                 ... pos = 0.0   	neg = 0.0  
+13. It also refers to th                ... pos = 1.25  	neg = 0.0  
+14. Five protagonists is                ... pos = 1.125 	neg = 0.625
+15. The story, however,                 ... pos = 0.125 	neg = 0.875
+16. Well, it's actually                 ... pos = 0.0   	neg = 0.5  
+17. It centers around so                ... pos = 2.0   	neg = 2.125
+18. What I've described                 ... pos = 0.875 	neg = 0.375
+19. In any event, direct                ... pos = 0.5   	neg = 0.125
+20. All the female chara                ... pos = 1.125 	neg = 0.0  
+21. Meanwhile, Murtaugh'                ... pos = 0.5   	neg = 0.125
+22. Then there's Leo, wh                ... pos = 0.75  	neg = 0.625
+23. I don't often enjoy                 ... pos = 0.375 	neg = 0.375
+24. This is a film that                 ... pos = 0.25  	neg = 0.125
+25. The film is so succe                ... pos = 2.0   	neg = 0.75 
+26. The action is nothin                ... pos = 0.625 	neg = 0.375
+27. There is, however, a                ... pos = 1.75  	neg = 0.125
+28. And I liked the scen                ... pos = 0.125 	neg = 0.0  
+29. It's odd, really, th                ... pos = 2.375 	neg = 0.0  
+30. It's nice to see tha                ... pos = 1.125 	neg = 0.375
+31. It's also nice to se                ... pos = 3.0   	neg = 0.875
+32. Li makes an effectiv                ... pos = 0.25  	neg = 0.5  
+33. And, of course, Gibs                ... pos = 0.125 	neg = 0.0  
+34. Some people think th                ... pos = 0.0   	neg = 0.0  
+35. I think that it is,                 ... pos = 0.25  	neg = 0.75 
+36. Sure, a better story                ... pos = 1.0   	neg = 0.125
+37. But that's irrelevan                ... pos = 0.0   	neg = 0.875
+38. I also cared about t                ... pos = 2.125 	neg = 0.125
+39. Oh, who needs a stor                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2402-760 is Positive         ... pos = 29.875 	neg = 14.403
+Overall score of document
+Total Pos = 29.875
+Total Neg = 14.403
+---------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+0. What can you say abo                 ... pos = 0.125 	neg = 0.25 
+1. Independence Day is                  ... pos = 0.0   	neg = 1.125
+2. Impressive as some o                 ... pos = 1.125 	neg = 0.75 
+3. The concept is aces,                 ... pos = 0.0   	neg = 0.125
+4. On July 2, an alien                  ... pos = 0.0   	neg = 0.625
+5. The U.S. government                  ... pos = 0.375 	neg = 0.5  
+6. The aliens crash the                 ... pos = 1.0   	neg = 0.875
+7. On July 4, the count                 ... pos = 0.0   	neg = 0.0  
+8. What we have here is                 ... pos = 0.375 	neg = 0.125
+9. The special effects                  ... pos = 1.0   	neg = 0.375
+10. This is perhaps the                 ... pos = 0.5   	neg = 1.5  
+11. So how do you go wro                ... pos = 0.0   	neg = 0.75 
+12. Well, for starters,                 ... pos = 0.125 	neg = 0.0  
+13. Oops.                               ... pos = 0     	neg = 0    
+14. Pullman has seemed i                ... pos = 0.125 	neg = 1.0  
+15. Granted, he's playin                ... pos = 2.625 	neg = 0.125
+16. Jeff Goldblum may th                ... pos = 0.375 	neg = 1.125
+17. Judd Hirsch plays Go                ... pos = 0.625 	neg = 0.25 
+18. Randy Quaid hams it                 ... pos = 0.875 	neg = 0.75 
+19. (Ironic that James D                ... pos = 0.5   	neg = 0.0  
+20. ). The tremendously                 ... pos = 0.75  	neg = 0.25 
+21. This is the first ti                ... pos = 0.375 	neg = 0.25 
+22. In fact, I can't hel                ... pos = 1.0   	neg = 0.125
+23. Instead, Independenc                ... pos = 0.375 	neg = 1.5  
+24. Independence Day is                 ... pos = 0.125 	neg = 1.125
+25. Fast pacing is a vir                ... pos = 1.125 	neg = 0.875
+26. The biggest exceptio                ... pos = 0.0   	neg = 0.125
+27. Tirelessly exploitin                ... pos = 1.375 	neg = 0.0  
+28. Unfortunately, the t                ... pos = 0.0   	neg = 1.375
+29. If only there had be                ... pos = 0.375 	neg = 1.125
+30. As it is, the movie                 ... pos = 0.0   	neg = 0.375
+31. Most observations a                 ... pos = 0.625 	neg = 0.5  
+32. In the absence of an                ... pos = 0.25  	neg = 0.25 
+33. During the movie's b                ... pos = 0.125 	neg = 0.75 
+34. Yes!                                ... pos = 0     	neg = 0    
+35. YES!                                ... pos = 0     	neg = 0    
+36. " like Meg Ryan at K                ... pos = 0.0   	neg = 0.0  
+37. I know it might seem                ... pos = 0.25  	neg = 0.5  
+38. (After the White Hou                ... pos = 0.875 	neg = 0.125
+39. ) George Lucas, Stev                ... pos = 0.0   	neg = 0.5  
+40. And say what you wil                ... pos = 2.25  	neg = 0.0  
+41. Terminator 2 is scar                ... pos = 1.125 	neg = 1.125
+42. Jurassic Park veers                 ... pos = 2.0   	neg = 0.0  
+43. For all its history-                ... pos = 0.625 	neg = 0.125
+44. If those relationshi                ... pos = 1.75  	neg = 0.625
+45. In its misguided que                ... pos = 0.25  	neg = 0.625
+46. All the right button                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4487-436 is Positive         ... pos = 26.125 	neg = 22.5 
+Overall score of document
+Total Pos = 26.125
+Total Neg = 22.5
+---------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+0. Review: Payback Star                 ... pos = 0.0   	neg = 0.0  
+1. It has extreme anlge                 ... pos = 1.0   	neg = 0    
+2. But there is also so                 ... pos = 0.125 	neg = 0.5  
+3. Bright and colorful                  ... pos = 0.0   	neg = 0.0  
+4. There are no redeemi                 ... pos = 1.125 	neg = 0.25 
+5. The hero is a career                 ... pos = 0.5   	neg = 0.125
+6. The good guy of the                  ... pos = 0.75  	neg = 0.0  
+7. Payback is dark, vio                 ... pos = 1.125 	neg = 0.25 
+8. Perhaps what was so                  ... pos = 0.125 	neg = 0.625
+9. (Stolen money of cou                 ... pos = 0.0   	neg = 0.0  
+10. ) In today's market,                ... pos = 0.0   	neg = 0.25 
+11. Most crime films dea                ... pos = 0.0   	neg = 0.0  
+12. It was a joke in Aus                ... pos = 0.0   	neg = 0.625
+13. Here, Porter (Gibson                ... pos = 0.125 	neg = 0.125
+14. (He and a partner pu                ... pos = 0.0   	neg = 0.0  
+15. Tried to kill him to                ... pos = 0.0   	neg = 0.75 
+16. ). I felt that I alw                ... pos = 0.5   	neg = 0.25 
+17. It sounds like that                 ... pos = 0.625 	neg = 0.125
+18. There is nothing ter                ... pos = 1.125 	neg = 0.375
+19. He wanted what was h                ... pos = 0.375 	neg = 1.5  
+20. And so as he goes ab                ... pos = 0.375 	neg = 0.25 
+21. Although he was very                ... pos = 1.375 	neg = 0.375
+22. There is a primal ur                ... pos = 0.0   	neg = 0.125
+23. It is also interesti                ... pos = 0.0   	neg = 0.125
+24. Apparently he was no                ... pos = 0.875 	neg = 0.375
+25. I would like to have                ... pos = 0.25  	neg = 0.125
+26. I can only imagine i                ... pos = 0.5   	neg = 1.125
+27. In either event, Pay                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-709-447 is Positive          ... pos = 10.875 	neg = 8.375
+Overall score of document
+Total Pos = 10.875
+Total Neg = 8.375
+---------------------------------------------------------------------------

@@ -1,0 +1,70 @@
+0. CAST: John Cusack, C                 ... pos = 0.375 	neg = 0.25 
+1. How about..John Malc                 ... pos = 0.0   	neg = 0.0  
+2. Well, maybe you canÂ                 ... pos = 0.0   	neg = 0.0  
+3. If I would choose on                 ... pos = 0.0   	neg = 0.0  
+4. I can guarantee you                  ... pos = 0.0   	neg = 0.0  
+5. Forget formulas, phy                 ... pos = 0.25  	neg = 0.25 
+6. The world is not wha                 ... pos = 0.0   	neg = 0.125
+7. Craig (John Cusack)                  ... pos = 0.625 	neg = 0.75 
+8. He lives in a small                  ... pos = 0.875 	neg = 0.375
+9. Unappreciated and ig                 ... pos = 0.125 	neg = 0.0  
+10. He is then given the                ... pos = 0.0   	neg = 0.125
+11. It should also be ex                ... pos = 0.0   	neg = 0.25 
+12. Squeezed in between                 ... pos = 0.125 	neg = 0.0  
+13. This adds to the com                ... pos = 1.25  	neg = 0    
+14. What follows is one                 ... pos = 0.0   	neg = 0.125
+15. Once there, he disco                ... pos = 0.125 	neg = 0.0  
+16. For brief, virtual-c                ... pos = 0.875 	neg = 0.0  
+17. Experience over.                    ... pos = 0.0   	neg = 0    
+18. But these 15 minutes                ... pos = 0.625 	neg = 0.0  
+19. What clinches the ar                ... pos = 0.0   	neg = 0.125
+20. This unexpected disc                ... pos = 0.125 	neg = 0.0  
+21. When Maxine hears ab                ... pos = 0.125 	neg = 0.375
+22. In no time, there's                 ... pos = 0.75  	neg = 0.25 
+23. Perhaps because Malc                ... pos = 0.5   	neg = 0.125
+24. A common man that ha                ... pos = 1.5   	neg = 0.0  
+25. But it doesn't reall                ... pos = 0.125 	neg = 0.0  
+26. We're all dying to b                ... pos = 0.0   	neg = 0.125
+27. Charlie Kaufman's sc                ... pos = 0.375 	neg = 0.625
+28. But it is also fille                ... pos = 0.0   	neg = 0.125
+29. Several very serious                ... pos = 1.0   	neg = 0.0  
+30. Kaufman takes some s                ... pos = 0.375 	neg = 0.0  
+31. A strange, paranoiac                ... pos = 0.625 	neg = 0.125
+32. The film has layer u                ... pos = 0.375 	neg = 0.0  
+33. And love as a form o                ... pos = 0.875 	neg = 0    
+34. It is a frightening                 ... pos = 0.625 	neg = 0.125
+35. We live in a world w                ... pos = 0.375 	neg = 1.0  
+36. A society where who                 ... pos = 1.0   	neg = 0.25 
+37. The obvious question                ... pos = 0.0   	neg = 0.125
+38. According to society                ... pos = 0.0   	neg = 0    
+39. But will it?                        ... pos = 0.125 	neg = 0.0  
+40. John Cusack must cer                ... pos = 1.875 	neg = 0.5  
+41. Cast against type in                ... pos = 1.5   	neg = 0.0  
+42. Catherine Keener is                 ... pos = 0.625 	neg = 0.625
+43. Yet, and I know that                ... pos = 0.25  	neg = 0.25 
+44. Playing with a sense                ... pos = 0.375 	neg = 0.5  
+45. There is no real Joh                ... pos = 0.0   	neg = 0.375
+46. He is just a vessel,                ... pos = 0.0   	neg = 0.125
+47. For Malcovich as an                 ... pos = 1.0   	neg = 0    
+48. It seems so easy and                ... pos = 1.75  	neg = 0.125
+49. It is a completely d                ... pos = 0.75  	neg = 0.125
+50. First-time director                 ... pos = 0.375 	neg = 0.0  
+51. And the idea of chan                ... pos = 0.125 	neg = 0.125
+52. Look for several amu                ... pos = 0.0   	neg = 0.875
+53. The film is a hilari                ... pos = 0.25  	neg = 0.75 
+54. A philosophic, frigh                ... pos = 0.125 	neg = 0.0  
+55. A film that seems co                ... pos = 0.75  	neg = 0.125
+56. In simple words: thi                ... pos = 1.125 	neg = 0.125
+57. JM Inc. has acquired                ... pos = 0.375 	neg = 0.0  
+58. By traversing this p                ... pos = 0.25  	neg = 0.125
+59. As this other person                ... pos = 1.125 	neg = 0.0  
+60. At the conclusion of                ... pos = 0.0   	neg = 0.0  
+61. A JM Inc. will be th                ... pos = 0.125 	neg = 0.125
+62. CALL NOW!                           ... pos = 0.0   	neg = 0    
+63. !. .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-200-657 is Positive          ... pos = 26.875 	neg = 10.5 
+Overall score of document
+Total Pos = 26.875
+Total Neg = 10.5
+---------------------------------------------------------------------------

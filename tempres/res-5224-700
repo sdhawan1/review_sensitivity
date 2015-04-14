@@ -1,0 +1,30 @@
+0. Release Date: Septem                 ... pos = 0.875 	neg = 1.25 
+1. Along with earlier-t                 ... pos = 1.125 	neg = 0.125
+2. In directing her deb                 ... pos = 0.0   	neg = 0.125
+3. The title shows it -                 ... pos = 0.625 	neg = 1.125
+4. Granted, the urban l                 ... pos = 0.375 	neg = 0.125
+5. Everyone knows most                  ... pos = 0.625 	neg = 0.375
+6. Even that might work                 ... pos = 0.25  	neg = 0.5  
+7. How many people in t                 ... pos = 0.0   	neg = 0.0  
+8. Or who brought the g                 ... pos = 0.5   	neg = 0.375
+9. And that escape rout                 ... pos = 0.25  	neg = 0.125
+10. The bottom line is t                ... pos = 0.25  	neg = 0.25 
+11. The center of the ca                ... pos = 0.0   	neg = 0.125
+12. Alicia Witt (TV's CY                ... pos = 1.5   	neg = 0.375
+13. Her college student                 ... pos = 0.375 	neg = 0.25 
+14. Suddenly other frien                ... pos = 0.125 	neg = 0.0  
+15. The cast is narrowed                ... pos = 0.0   	neg = 0.125
+16. Nothing we haven't s                ... pos = 0.25  	neg = 1.125
+17. Thus the plot.                      ... pos = 0.0   	neg = 0.0  
+18. The only reason we d                ... pos = 0.125 	neg = 1.125
+19. URBAN LEGEND is perh                ... pos = 0.125 	neg = 0.625
+20. After a string of ni                ... pos = 0.875 	neg = 0.5  
+21. And in this case, wh                ... pos = 0.625 	neg = 0.25 
+22. Most of URBAN LEGEND                ... pos = 0.5   	neg = 0.0  
+23. And though the crowd                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5224-700 is Positive         ... pos = 9.5   	neg = 9.0  
+Overall score of document
+Total Pos = 9.5
+Total Neg = 9.0
+---------------------------------------------------------------------------

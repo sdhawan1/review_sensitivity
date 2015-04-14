@@ -1,0 +1,26 @@
+0. When I entered the t                 ... pos = 1.125 	neg = 0.125
+1. The film opens with                  ... pos = 2.25  	neg = 0.5  
+2. Jerry is just a trea                 ... pos = 0.375 	neg = 0.25 
+3. Jerry's manic behavi                 ... pos = 1.75  	neg = 0.875
+4. Several of the key s                 ... pos = 1.0   	neg = 0.0  
+5. There is no doubt th                 ... pos = 0.5   	neg = 0.375
+6. The pair just have t                 ... pos = 0.25  	neg = 0.0  
+7. Conspiracy Theory ta                 ... pos = 0.75  	neg = 0.625
+8. Don't get me wrong t                 ... pos = 2.125 	neg = 1.0  
+9. I feel though that t                 ... pos = 0.125 	neg = 0.625
+10. What started out as                 ... pos = 0.0   	neg = 0.0  
+11. One of his theories                 ... pos = 0.5   	neg = 0.125
+12. ) peters out and whe                ... pos = 0.875 	neg = 0.5  
+13. Also, Conspiracy The                ... pos = 0.375 	neg = 0.375
+14. I'd never have picke                ... pos = 0.625 	neg = 0.0  
+15. Overall, I'd say thi                ... pos = 0.0   	neg = 0.125
+16. The acting was simpl                ... pos = 0.614 	neg = 0.25 
+17. If it wasn't for the                ... pos = 0.125 	neg = 0.625
+18. Many people have sai                ... pos = 0.75  	neg = 1.0  
+19. Anyway, go and see i                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-3930-1140 is Positive        ... pos = 14.114 	neg = 8.0  
+Overall score of document
+Total Pos = 14.114
+Total Neg = 8.0
+---------------------------------------------------------------------------

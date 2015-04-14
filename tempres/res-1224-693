@@ -1,0 +1,37 @@
+0. Starring-John Travol                 ... pos = 0.25  	neg = 0.75 
+1. In the case of The G                 ... pos = 0.375 	neg = 0.125
+2. But at this juncture                 ... pos = 0.0   	neg = 0.375
+3. This predictable sum                 ... pos = 0.0   	neg = 1.125
+4. Get past one moment                  ... pos = 0.0   	neg = 0.0  
+5. Travolta plays Crimi                 ... pos = 0.125 	neg = 0.5  
+6. It turns out that th                 ... pos = 0.0   	neg = 0.125
+7. Let the investigatio                 ... pos = 0     	neg = 0.0  
+8. With the assistance                  ... pos = 0.625 	neg = 0.375
+9. Things begin to get                  ... pos = 0.0   	neg = 0.5  
+10. Woods submits anothe                ... pos = 0.125 	neg = 0.25 
+11. With echoes of his s                ... pos = 1.875 	neg = 0.0  
+12. Here though, the int                ... pos = 0.75  	neg = 0.0  
+13. There are many scene                ... pos = 0.875 	neg = 0.0  
+14. Director Simon West                 ... pos = 0.5   	neg = 0.125
+15. The General's Daught                ... pos = 0.0   	neg = 0.25 
+16. It does not help mat                ... pos = 0.0   	neg = 0.125
+17. A few brief action s                ... pos = 0.0   	neg = 0.0  
+18. From a director who                 ... pos = 0.375 	neg = 0.875
+19. Still, the movie is                 ... pos = 1.0   	neg = 0.125
+20. The acting is very g                ... pos = 1.25  	neg = 0.125
+21. The performances ran                ... pos = 0.0   	neg = 0.75 
+22. Madeleine Stowe mana                ... pos = 0.25  	neg = 0.0  
+23. One of the problems                 ... pos = 0.5   	neg = 0.375
+24. >From minute one, I                 ... pos = 0.125 	neg = 0.375
+25. The script even unwi                ... pos = 0.5   	neg = 0.125
+26. In all fairness, we'                ... pos = 0.5   	neg = 0.0  
+27. The secrets behind t                ... pos = 1.125 	neg = 0.375
+28. The General's Daught                ... pos = 0.25  	neg = 0.875
+29. But it just could ha                ... pos = 0.125 	neg = 0.125
+30. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1224-693 is Positive         ... pos = 11.5  	neg = 8.75 
+Overall score of document
+Total Pos = 11.5
+Total Neg = 8.75
+---------------------------------------------------------------------------

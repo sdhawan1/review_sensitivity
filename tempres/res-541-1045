@@ -1,0 +1,49 @@
+0. by Curtis Edmonds --                 ... pos = 1.125 	neg = 0.375
+1. Confidential again.                  ... pos = 0.125 	neg = 0    
+2. Or go rent Body Heat                 ... pos = 0.5   	neg = 0.0  
+3. Or even -- God help                  ... pos = 0.0   	neg = 0.25 
+4. Alex Proyas's new mo                 ... pos = 0.375 	neg = 0.0  
+5. I screamed, too, "Ge                 ... pos = 0.0   	neg = 0.25 
+6. "  New Line Cinema s                 ... pos = 0.375 	neg = 0.125
+7. I paid $4.25 for a m                 ... pos = 0.125 	neg = 0.0  
+8. You'll hear a lot fr                 ... pos = 0.0   	neg = 0.375
+9. I will admit that th                 ... pos = 0.5   	neg = 0.75 
+10. I've got news for yo                ... pos = 0.25  	neg = 1.625
+11. The movie starts out                ... pos = 0.0   	neg = 0.0  
+12. John Murdoch (Rufus                 ... pos = 0.0   	neg = 0.625
+13. There is a dead, mut                ... pos = 0.0   	neg = 0.625
+14. The phone rings:  it                ... pos = 0.0   	neg = 0.125
+15. All well and good, r                ... pos = 0.75  	neg = 0    
+16. Wrong.                              ... pos = 0     	neg = 0.75 
+17. Apparently, someone                 ... pos = 0.5   	neg = 0.75 
+18. (This is getting to                 ... pos = 0.125 	neg = 0.25 
+19. )  So, the actual be                ... pos = 1.75  	neg = 0.375
+20. It's as though Sam t                ... pos = 0.125 	neg = 0.125
+21. No, wait, that's not                ... pos = 0.0   	neg = 0.25 
+22. It's more like watch                ... pos = 0.5   	neg = 0.875
+23. >From here, the cohe                ... pos = 0     	neg = 0.25 
+24. The characters just                 ... pos = 1.0   	neg = 0.25 
+25. What we're left with                ... pos = 0.0   	neg = 0.75 
+26. We're given aliens w                ... pos = 0.625 	neg = 0.5  
+27. We're given a hero w                ... pos = 0.75  	neg = 0.25 
+28. We're given a whole                 ... pos = 0.875 	neg = 0.625
+29. "  In this movie, no                ... pos = 0.0   	neg = 0.375
+30. Sewell is given the                 ... pos = 0.25  	neg = 0.125
+31. The aliens are tall,                ... pos = 0.25  	neg = 1.125
+32. Sutherland is saddle                ... pos = 0.0   	neg = 0.5  
+33. To its credit, Dark                 ... pos = 0.625 	neg = 0.125
+34. William Hurt is perf                ... pos = 0.5   	neg = 0.875
+35. Jennifer Connelly, p                ... pos = 0.875 	neg = 0.125
+36. But instead of the d                ... pos = 0.0   	neg = 0.25 
+37. The problem with Dar                ... pos = 0.125 	neg = 1.5  
+38. The essence of film                 ... pos = 0.0   	neg = 1.25 
+39. Dark City has not on                ... pos = 1.125 	neg = 0.125
+40. Dark City is like th                ... pos = 0.75  	neg = 0.125
+41. It's an exceptionlly                ... pos = 0.625 	neg = 0.25 
+42. The Hollywood Stock                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-541-1045 is Negative         ... pos = 15.5  	neg = 17.875
+Overall score of document
+Total Pos = 15.5
+Total Neg = 17.875
+---------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+0. Visit Online Film Cr                 ... pos = 0.0   	neg = 0.0  
+1. A film that's hard t                 ... pos = 0.0   	neg = 0.75 
+2. 'The  Faculty.                       ... pos = 0     	neg = 0.0  
+3. '. Kevin Williamson,                 ... pos = 0.625 	neg = 0.125
+4. Into the formulaic p                 ... pos = 0.125 	neg = 0.375
+5. The result is a  mov                 ... pos = 0.125 	neg = 0.625
+6. At Herrington High S                 ... pos = 0.5   	neg = 0.0  
+7. There's Mrs. Drake t                 ... pos = 0.0   	neg = 0.0  
+8. She tells Mrs. Olsen                 ... pos = 1.0   	neg = 0.25 
+9. "Have you seen the s                 ... pos = 0.0   	neg = 0.0  
+10. The whole town is th                ... pos = 0.25  	neg = 0.125
+11. There's also an alco                ... pos = 0.125 	neg = 0.25 
+12. Finally we meet the                 ... pos = 0.5   	neg = 0.5  
+13. It's Coach Williams                 ... pos = 1.5   	neg = 0.5  
+14. It takes awhile for                 ... pos = 0.25  	neg = 0.25 
+15. Casey (Elijah Wood)                 ... pos = 0.75  	neg = 0.25 
+16. Zeke is played by Jo                ... pos = 1.208 	neg = 0.625
+17. From  the trunk of h                ... pos = 0.125 	neg = 0.0  
+18. The final male is St                ... pos = 0.0   	neg = 0.625
+19. Stan's decision pose                ... pos = 0.25  	neg = 0.25 
+20. She implies she'll d                ... pos = 0.0   	neg = 0.0  
+21. Delilah also has  pr                ... pos = 0.25  	neg = 0.25 
+22. The third female is                 ... pos = 0.625 	neg = 0.625
+23. Thus the  stereotype                ... pos = 0.25  	neg = 0.0  
+24. Although the mild-ma                ... pos = 0.25  	neg = 0.0  
+25. It takes a scene of                 ... pos = 0.0   	neg = 0.0  
+26. He corners the six a                ... pos = 0.0   	neg = 0.375
+27. What follows - a tur                ... pos = 0.5   	neg = 0.125
+28. Soon afterwards, we                 ... pos = 0.125 	neg = 0    
+29. Yes, the film is  de                ... pos = 0.75  	neg = 0.375
+30. '  Here even the act                ... pos = 0.0   	neg = 0.125
+31. Many of the other al                ... pos = 0.0   	neg = 0    
+32. Stokely, who wears b                ... pos = 0.125 	neg = 0.25 
+33. She makes use of her                ... pos = 0.5   	neg = 0.125
+34. We also glean elemen                ... pos = 0.25  	neg = 0.125
+35. There's a neat scene                ... pos = 0.0   	neg = 0.5  
+36. '. Water imagery is                 ... pos = 0.25  	neg = 0.125
+37. Rodriguez comes clos                ... pos = 1.0   	neg = 0.0  
+38. ); the tank in the s                ... pos = 0.5   	neg = 0.125
+39. All  these images wo                ... pos = 0.125 	neg = 0.0  
+40. Cool special effects                ... pos = 0.0   	neg = 0.5  
+41. What's gratuitous in                ... pos = 0.0   	neg = 0.0  
+42. For one, the  langua                ... pos = 0.0   	neg = 0.5  
+43. The drug use gives a                ... pos = 0.0   	neg = 0.0  
+44. Most noticeably,  th                ... pos = 0.5   	neg = 0.25 
+45. Bebe Neuwirth as Pri                ... pos = 0.0   	neg = 0.125
+46. Another teacher, Mis                ... pos = 0.0   	neg = 0.125
+47. Again and  again Rod                ... pos = 0.25  	neg = 0.25 
+48. 'The Faculty' knows                 ... pos = 0.0   	neg = 0.125
+49. Though it is not pac                ... pos = 0.75  	neg = 0.125
+50. Fans of science fict                ... pos = 0.625 	neg = 0.0  
+51. Hokey, yes,  but lig                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1561-71 is Positive          ... pos = 15.458 	neg = 10.625
+Overall score of document
+Total Pos = 15.458
+Total Neg = 10.625
+---------------------------------------------------------------------------

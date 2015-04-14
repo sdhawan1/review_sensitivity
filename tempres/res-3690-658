@@ -1,0 +1,42 @@
+0. Run Lola Run could h                 ... pos = 0.375 	neg = 0.125
+1. It breathed life and                 ... pos = 0.375 	neg = 0.625
+2. To write about it is                 ... pos = 0.125 	neg = 0.25 
+3. As odd or cliche as                  ... pos = 1.0   	neg = 0.125
+4. Set to techno music,                 ... pos = 0.25  	neg = 0.125
+5. To sit still to it s                 ... pos = 0.0   	neg = 1.25 
+6. It blends animation,                 ... pos = 1.125 	neg = 0.0  
+7. Five minutes of Lola                 ... pos = 0.5   	neg = 0.125
+8. The story is that Lo                 ... pos = 0.0   	neg = 0.125
+9. Lola runs to help hi                 ... pos = 0.875 	neg = 0.0  
+10. Lola is a wonderful                 ... pos = 2.5   	neg = 0.125
+11. It's impossible to f                ... pos = 0.375 	neg = 0.0  
+12. Along the way, we se                ... pos = 0.125 	neg = 0.0  
+13. A boy offers to sell                ... pos = 0.25  	neg = 0.0  
+14. She refuses, then im                ... pos = 0.375 	neg = 0.25 
+15. Tykwer makes a convi                ... pos = 0.5   	neg = 0.0  
+16. Snap, snap, snap, sn                ... pos = 0.0   	neg = 0.125
+17. Depressing.                         ... pos = 0     	neg = 0.125
+18. This is style mergin                ... pos = 0.125 	neg = 0.125
+19. You couldn't have on                ... pos = 0.0   	neg = 0.0  
+20. But the direction is                ... pos = 1.625 	neg = 0.125
+21. It wastes no time to                ... pos = 0.0   	neg = 0.25 
+22. Anything that seems                 ... pos = 0.125 	neg = 0.75 
+23. Snap, snap, snap and                ... pos = 0.0   	neg = 0.0  
+24. That the movie wasn'                ... pos = 0.125 	neg = 0.0  
+25. It is young and pace                ... pos = 0.0   	neg = 0.125
+26. It offered many of t                ... pos = 0.375 	neg = 0.0  
+27. It was new, or seeme                ... pos = 0.75  	neg = 0.25 
+28. Audiences didn't see                ... pos = 0.25  	neg = 0.25 
+29. Lola also seemed to                 ... pos = 1.375 	neg = 0.25 
+30. While it was a forei                ... pos = 0.5   	neg = 0.25 
+31. Just a few trailers                 ... pos = 0.0   	neg = 0.0  
+32. The success of this                 ... pos = 0.5   	neg = 0.375
+33. It played in indepen                ... pos = 0.0   	neg = 0.5  
+34. However, Lola wasn't                ... pos = 0.375 	neg = 0.0  
+35. What could have been                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3690-658 is Positive         ... pos = 14.875 	neg = 6.875
+Overall score of document
+Total Pos = 14.875
+Total Neg = 6.875
+---------------------------------------------------------------------------

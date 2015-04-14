@@ -1,0 +1,77 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring John Travol                 ... pos = 0.0   	neg = 0.0  
+2. Screenplay by Corey                  ... pos = 0.0   	neg = 0.0  
+3. Shapiro.                             ... pos = 0     	neg = 0    
+4. Directed by Roger Ch                 ... pos = 0.0   	neg = 0    
+5. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+6. "Battlefield Earth"                  ... pos = 0.375 	neg = 0.125
+7. It has to be.                        ... pos = 0.0   	neg = 0.125
+8. The other prospect i                 ... pos = 0.125 	neg = 0.375
+9. Bad Movie Syndrome s                 ... pos = 0.25  	neg = 1.875
+10. Is it as bad as adve                ... pos = 0.0   	neg = 1.0  
+11. Oh yes, very much so                ... pos = 0.625 	neg = 0.0  
+12. The plot is incompre                ... pos = 0     	neg = 0.625
+13. The acting is atroci                ... pos = 0     	neg = 1.0  
+14. The special effects                 ... pos = 0.25  	neg = 1.028
+15. The action is dull.                 ... pos = 0     	neg = 0.125
+16. The implausibilities                ... pos = 0.25  	neg = 0.5  
+17. The dialogue is crin                ... pos = 0     	neg = 0.125
+18. The whole package is                ... pos = 0.25  	neg = 0.5  
+19. I don't even want to                ... pos = 1.25  	neg = 3.375
+20. The year is 3000, th                ... pos = 0.0   	neg = 0.25 
+21. Only a handful of hu                ... pos = 0.375 	neg = 0.0  
+22. One man, Johnny Good                ... pos = 0.125 	neg = 0.125
+23. There he confronts t                ... pos = 0.0   	neg = 0.375
+24. Pressed into slavery                ... pos = 0.0   	neg = 0.0  
+25. Meanwhile, Terl is f                ... pos = 0.0   	neg = 1.125
+26. He decides to give J                ... pos = 0.0   	neg = 0.75 
+27. .                                   ... pos = 0     	neg = 0    
+28. .                                   ... pos = 0     	neg = 0    
+29. ) so the "man-animal                ... pos = 0.0   	neg = 0.125
+30. Terl then plans to k                ... pos = 0.125 	neg = 0.125
+31. Of course, his plan                 ... pos = 0.0   	neg = 0.0  
+32. So many things wrong                ... pos = 0.0   	neg = 0.75 
+33. How about with Travo                ... pos = 0.0   	neg = 0.0  
+34. Early previews for "                ... pos = 0.0   	neg = 0.625
+35. " The movie did noth                ... pos = 0.0   	neg = 0.25 
+36. All that ridiculous                 ... pos = 0.0   	neg = 0.75 
+37. Of course, this make                ... pos = 0.25  	neg = 0.625
+38. The Psychlos are pro                ... pos = 0.625 	neg = 0.125
+39. ("You were going to                 ... pos = 0.0   	neg = 0.25 
+40. Fwahahahahahahahaha!                ... pos = 0     	neg = 0    
+41. "). It's no big surp                ... pos = 0.0   	neg = 0.375
+42. He breaks every kind                ... pos = 0.0   	neg = 0.0  
+43. He underestimates hi                ... pos = 0.125 	neg = 0.0  
+44. (He uses the word "l                ... pos = 0.0   	neg = 0.0  
+45. ) Not content to go                 ... pos = 0.75  	neg = 0.375
+46. (Why this machine is                ... pos = 0.125 	neg = 0.25 
+47. ) He then appears sh                ... pos = 0.75  	neg = 0.0  
+48. No wonder this guy n                ... pos = 0.0   	neg = 0.25 
+49. The plot inconsisten                ... pos = 0.25  	neg = 0.5  
+50. Why do the Psychlos                 ... pos = 0.375 	neg = 0.25 
+51. How come the Psychlo                ... pos = 0.875 	neg = 0.375
+52. How in the world did                ... pos = 0.0   	neg = 0.125
+53. And how do all these                ... pos = 0.0   	neg = 0.0  
+54. There's a whole lot                 ... pos = 0.0   	neg = 0.0  
+55. " Bring a scorecard                 ... pos = 0.0   	neg = 0.25 
+56. Director Roger Chris                ... pos = 0.0   	neg = 0.25 
+57. All the characters a                ... pos = 1.25  	neg = 0.125
+58. The action sequences                ... pos = 0.25  	neg = 0.375
+59. Are these things rea                ... pos = 0.25  	neg = 0.75 
+60. My respect for suppo                ... pos = 0.625 	neg = 0.375
+61. This movie is an abs                ... pos = 0.0   	neg = 0.125
+62. It's not just the sh                ... pos = 0.0   	neg = 0.25 
+63. For most of "Battlef                ... pos = 0.0   	neg = 0.125
+64. It didn't have anyth                ... pos = 0.5   	neg = 1.0  
+65. When I pieced the pl                ... pos = 0.375 	neg = 0.375
+66. Here's how much of a                ... pos = 0.125 	neg = 1.75 
+67. The only thing we ca                ... pos = 0.125 	neg = 0.25 
+68. In fact, I'd think t                ... pos = 0.0   	neg = 0.125
+69. That'll teach me to                 ... pos = 0.5   	neg = 0.875
+70. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5456-1477 is Negative        ... pos = 12.25 	neg = 26.528
+Overall score of document
+Total Pos = 12.25
+Total Neg = 26.528
+---------------------------------------------------------------------------

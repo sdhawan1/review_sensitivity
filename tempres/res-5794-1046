@@ -1,0 +1,48 @@
+0. I admire Tim Burton                  ... pos = 1.0   	neg = 0.0  
+1. THE NIGHTMARE BEFORE                 ... pos = 0.875 	neg = 0.25 
+2. MARS ATTACKS!                        ... pos = 0     	neg = 0.125
+3. on the other hand, f                 ... pos = 0.0   	neg = 0.0  
+4. See, if MARS *had* b                 ... pos = 0.0   	neg = 0.5  
+5. But this is a) an ex                 ... pos = 1.25  	neg = 0.375
+6. Campy movies aren't                  ... pos = 0.75  	neg = 0.5  
+7. MARS is supposed to                  ... pos = 0.0   	neg = 1.0  
+8. It also tries to be                  ... pos = 0.0   	neg = 2.25 
+9. As a whole, it's not                 ... pos = 0.625 	neg = 1.25 
+10. For a movie that cos                ... pos = 0.25  	neg = 0.0  
+11. One of the first thi                ... pos = 0.375 	neg = 0.625
+12. What struck me is th                ... pos = 0.625 	neg = 0.5  
+13. It reminded me of Wa                ... pos = 0.375 	neg = 0.375
+14. In this case, it's c                ... pos = 0.0   	neg = 0.125
+15. You can't kid a kidd                ... pos = 0.0   	neg = 0    
+16. The plot is about wh                ... pos = 0.0   	neg = 0.125
+17. The aliens come, the                ... pos = 0.125 	neg = 0.5  
+18. Actually, the movie                 ... pos = 0.0   	neg = 0.625
+19. Purists would no dou                ... pos = 0.875 	neg = 0.625
+20. To get laughs, of co                ... pos = 0.875 	neg = 0.375
+21. The biggest problem                 ... pos = 0.0   	neg = 0.5  
+22. Any one thing that's                ... pos = 0.0   	neg = 0.25 
+23. were skimmed over, s                ... pos = 0.0   	neg = 0.375
+24. Some of the scenes j                ... pos = 0.375 	neg = 0.625
+25. The Martians aren't                 ... pos = 0.0   	neg = 0.625
+26. (An example: Rod Ste                ... pos = 0.0   	neg = 0.0  
+27. Period.                             ... pos = 0.125 	neg = 0    
+28. No attempt is made t                ... pos = 1.125 	neg = 0.375
+29. ) This is not the sa                ... pos = 0.75  	neg = 0.625
+30. We don't see why the                ... pos = 0.0   	neg = 0.5  
+31. I mentioned the effe                ... pos = 1.5   	neg = 0.25 
+32. Subplots come up, ar                ... pos = 0.375 	neg = 0.25 
+33. As a result, every j                ... pos = 0.0   	neg = 0.25 
+34. The movie quickly re                ... pos = 1.125 	neg = 0.5  
+35. One good example of                 ... pos = 0.25  	neg = 0.25 
+36. The entire punch lin                ... pos = 0.875 	neg = 0.0  
+37. "Curious," he mutter                ... pos = 0.0   	neg = 0    
+38. End of scene.                       ... pos = 0.0   	neg = 0.0  
+39. This scene could hav                ... pos = 0.875 	neg = 0.125
+40. " scam?                             ... pos = 0.0   	neg = 0    
+41. Now right there is o                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5794-1046 is Negative        ... pos = 15.375 	neg = 15.75
+Overall score of document
+Total Pos = 15.375
+Total Neg = 15.75
+---------------------------------------------------------------------------

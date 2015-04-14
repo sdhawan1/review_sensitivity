@@ -1,0 +1,27 @@
+0. Many of the reviews                  ... pos = 1.375 	neg = 1.0  
+1. The plot is complex                  ... pos = 2.25  	neg = 1.0  
+2. What it does deliver                 ... pos = 1.25  	neg = 0.5  
+3. That character is Ri                 ... pos = 0.875 	neg = 0.375
+4. His longtime friend,                 ... pos = 0.125 	neg = 0.125
+5. In the second round,                 ... pos = 0.375 	neg = 0.0  
+6. A drunk stands up an                 ... pos = 0.0   	neg = 0.0  
+7. The defending champ                  ... pos = 0.0   	neg = 0.0  
+8. Then suddenly shots                  ... pos = 0.25  	neg = 0.5  
+9. Director Brian DePal                 ... pos = 0.625 	neg = 0.875
+10. In any case, Rick st                ... pos = 0.875 	neg = 0.125
+11. He eventually tracks                ... pos = 0.625 	neg = 0.0  
+12. He hides her in a ba                ... pos = 0.625 	neg = 0.5  
+13. And we sense that wh                ... pos = 1.0   	neg = 0.625
+14. He doesn't want to b                ... pos = 0.0   	neg = 0.625
+15. Most of the harshest                ... pos = 0.0   	neg = 0.75 
+16. For my money, they'r                ... pos = 0.625 	neg = 0.75 
+17. This wasn't the best                ... pos = 0.875 	neg = 0.375
+18. Had Cage's character                ... pos = 1.5   	neg = 0.75 
+19. SNAKE EYES is certai                ... pos = 2.375 	neg = 0.875
+20. And, most importantl                ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3533-716 is Positive         ... pos = 16.5  	neg = 9.875
+Overall score of document
+Total Pos = 16.5
+Total Neg = 9.875
+---------------------------------------------------------------------------

@@ -1,0 +1,50 @@
+0. Directed by: Michael                 ... pos = 0.25  	neg = 1.0  
+1. There aren't many fi                 ... pos = 0.0   	neg = 0.0  
+2. And of the handful t                 ... pos = 0.875 	neg = 0.0  
+3. While the other seri                 ... pos = 0.0   	neg = 0.25 
+4. The lead actor switc                 ... pos = 0.0   	neg = 0.5  
+5. A strong reliance on                 ... pos = 0.5   	neg = 0.0  
+6. The only problem wit                 ... pos = 0.0   	neg = 0.5  
+7. Basically, everythin                 ... pos = 0.0   	neg = 0.125
+8. Boat scenes?                         ... pos = 0.0   	neg = 0.0  
+9. Check.                               ... pos = 0     	neg = 0.0  
+10. Ski scenes?                         ... pos = 0.0   	neg = 0.0  
+11. Check.                              ... pos = 0     	neg = 0.0  
+12. Outer space scenes?                 ... pos = 0.0   	neg = 0.0  
+13. Check.                              ... pos = 0     	neg = 0.0  
+14. You name it and Bond                ... pos = 0.0   	neg = 0.0  
+15. This gives The World                ... pos = 0.0   	neg = 0.25 
+16. Does this sound fami                ... pos = 0.0   	neg = 0    
+17. A bald, facially-sca                ... pos = 0.125 	neg = 0.375
+18. It should, because n                ... pos = 0.75  	neg = 0.25 
+19. Evil from the Bond-p                ... pos = 0.0   	neg = 0.75 
+20. With nothing new lef                ... pos = 1.0   	neg = 0.375
+21. The story, involving                ... pos = 0.75  	neg = 1.5  
+22. The point of Bond is                ... pos = 0.0   	neg = 0.25 
+23. Yet there is a sense                ... pos = 0.5   	neg = 0.25 
+24. So instead of a ski                 ... pos = 0.0   	neg = 0.25 
+25. Instead of a thrilli                ... pos = 0.5   	neg = 0.0  
+26. Instead of simply be                ... pos = 0.25  	neg = 0.125
+27. Some of the action s                ... pos = 0.25  	neg = 0.125
+28. The acting is what y                ... pos = 0.0   	neg = 0.125
+29. Sophie Marceau does                 ... pos = 0.125 	neg = 0.0  
+30. Marceau has a monoto                ... pos = 0.625 	neg = 0.375
+31. As Dr. Christmas Jon                ... pos = 0.375 	neg = 0.375
+32. Richards is a dreadf                ... pos = 0.625 	neg = 0.875
+33. Brosnan is in usual                 ... pos = 0.375 	neg = 0.625
+34. Robbie Coltrane is a                ... pos = 0.25  	neg = 0.875
+35. About the only thing                ... pos = 0.125 	neg = 0.125
+36. After the traditiona                ... pos = 0.375 	neg = 0.25 
+37. While in no way revo                ... pos = 0.25  	neg = 0.375
+38. The score by David A                ... pos = 1.0   	neg = 0.0  
+39. The bottom line with                ... pos = 0.25  	neg = 0.125
+40. If you have hated ev                ... pos = 0.0   	neg = 0.875
+41. This is an old serie                ... pos = 1.5   	neg = 0.625
+42. One can hope that th                ... pos = 0.875 	neg = 0.0  
+43. The Bottom Line fron                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3999-814 is Negative         ... pos = 12.5  	neg = 12.5 
+Overall score of document
+Total Pos = 12.5
+Total Neg = 12.5
+---------------------------------------------------------------------------

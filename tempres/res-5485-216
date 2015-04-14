@@ -1,0 +1,30 @@
+0. I'll admit that I ha                 ... pos = 0.0   	neg = 0.75 
+1. Andrew Klavan's nove                 ... pos = 1.375 	neg = 0.125
+2. Granted, it also inc                 ... pos = 1.625 	neg = 0.0  
+3. I knew the conversio                 ... pos = 0.75  	neg = 0.375
+4. Even while reading t                 ... pos = 0.375 	neg = 0.875
+5. Clint Eastwood's ada                 ... pos = 1.375 	neg = 0.875
+6. Everett is a newspap                 ... pos = 0.0   	neg = 0.75 
+7. Beachum, however, ha                 ... pos = 0.75  	neg = 0.25 
+8. Everett decides to i                 ... pos = 0.625 	neg = 0.125
+9. Sadly, Beachum is no                 ... pos = 0.0   	neg = 1.0  
+10. I would've liked a b                ... pos = 0.375 	neg = 0.75 
+11. The few scenes we ge                ... pos = 0.25  	neg = 0.0  
+12. If only the tone had                ... pos = 1.25  	neg = 0.625
+13. By focusing on these                ... pos = 0.0   	neg = 0.0  
+14. Clint Eastwood is a                 ... pos = 0.25  	neg = 0.875
+15. We already know the                 ... pos = 1.25  	neg = 1.0  
+16. I'm willing to bet t                ... pos = 0.75  	neg = 0.0  
+17. On more than one occ                ... pos = 0.125 	neg = 0.0  
+18. In this film, he's n                ... pos = 0.125 	neg = 0.0  
+19. "True Crime" is a th                ... pos = 0.5   	neg = 0.125
+20. Why in the world any                ... pos = 1.5   	neg = 0.75 
+21. As is so often the c                ... pos = 0.25  	neg = 0.375
+22. "True Crime" isn't j                ... pos = 0.0   	neg = 0.125
+23. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5485-216 is Positive         ... pos = 13.875 	neg = 9.75 
+Overall score of document
+Total Pos = 13.875
+Total Neg = 9.75
+---------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+0. Director:   Wes And                 ... pos = 0.375 	neg = 0.0  
+1. US Distribution: Bue                 ... pos = 1.125 	neg = 0.5  
+2. Directed by Wes Ande                 ... pos = 1.125 	neg = 0.0  
+3. There isn't a failed                 ... pos = 1.25  	neg = 0.25 
+4. Schwartzman, Murray,                 ... pos = 0.625 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1299-760 is Positive         ... pos = 4.5   	neg = 0.75 
+Overall score of document
+Total Pos = 4.5
+Total Neg = 0.75
+---------------------------------------------------------------------------

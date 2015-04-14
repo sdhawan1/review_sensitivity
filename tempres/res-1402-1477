@@ -1,0 +1,59 @@
+0. Logical time travel                  ... pos = 0.25  	neg = 0.0  
+1. Considering that the                 ... pos = 0.625 	neg = 1.125
+2. Occasionally, we get                 ... pos = 0.0   	neg = 0.0  
+3. Terry Gilliam's "12                  ... pos = 0.0   	neg = 0.125
+4. But more frequently,                 ... pos = 0.125 	neg = 0.0  
+5. There is one questio                 ... pos = 0.75  	neg = 0.375
+6. The "Terminator" fil                 ... pos = 1.25  	neg = 0.875
+7. Is "Frequency" fille                 ... pos = 0.0   	neg = 0.375
+8. Yes.                                 ... pos = 0     	neg = 0.0  
+9. Does it matter?                      ... pos = 0.0   	neg = 0    
+10. Not really.                         ... pos = 0.0   	neg = 0.0  
+11. The film opens in Oc                ... pos = 0.0   	neg = 0    
+12. Firefighter Frank Su                ... pos = 0.5   	neg = 0.0  
+13. The double-pronged s                ... pos = 0.0   	neg = 0.375
+14. A strange occurrence                ... pos = 0.75  	neg = 0.0  
+15. Though both are init                ... pos = 0.625 	neg = 0.5  
+16. Now flooded with mem                ... pos = 0.125 	neg = 0.625
+17. Frank and John now m                ... pos = 1.25  	neg = 0.0  
+18. The premise of "Freq                ... pos = 2.0   	neg = 0.5  
+19. This isn't explained                ... pos = 0.0   	neg = 0.0  
+20. When Frank doesn't d                ... pos = 0.875 	neg = 0.125
+21. The concept also run                ... pos = 0.375 	neg = 0.25 
+22. Sometimes Frank's ch                ... pos = 0.25  	neg = 0.0  
+23. Now, the filmmakers                 ... pos = 1.75  	neg = 1.875
+24. When "Frequency" get                ... pos = 0.125 	neg = 0.875
+25. What matters to a fi                ... pos = 0.0   	neg = 0.5  
+26. The film manages to                 ... pos = 0.0   	neg = 0.125
+27. Director Gregory Hob                ... pos = 2.0   	neg = 0.25 
+28. I liked many of the                 ... pos = 1.125 	neg = 0.125
+29. It actually uses the                ... pos = 0.25  	neg = 0.0  
+30. (Admittedly, this de                ... pos = 0.0   	neg = 0.125
+31. ) I even liked the f                ... pos = 0.875 	neg = 0.0  
+32. Some may find this s                ... pos = 0.5   	neg = 0.875
+33. There are enough sur                ... pos = 0.25  	neg = 0.0  
+34. The other major thin                ... pos = 0.0   	neg = 0.125
+35. Quaid and Caviezel c                ... pos = 0.0   	neg = 0.625
+36. The relationship is                 ... pos = 1.5   	neg = 0.125
+37. Watching the exchang                ... pos = 0.875 	neg = 0.125
+38. The credibility of t                ... pos = 1.5   	neg = 0.5  
+39. Here, we do care, be                ... pos = 0.0   	neg = 0.0  
+40. I also liked some of                ... pos = 0.5   	neg = 0.0  
+41. Elizabeth Mitchell g                ... pos = 0.75  	neg = 0.75 
+42. Andre Braugher, late                ... pos = 0.5   	neg = 0.0  
+43. He has a lovely scen                ... pos = 1.75  	neg = 0.5  
+44. Braugher strikes the                ... pos = 0.875 	neg = 0.0  
+45. Perhaps the only thi                ... pos = 0.625 	neg = 0.875
+46. But that's only beca                ... pos = 0.0   	neg = 0.625
+47. I freely acknowledge                ... pos = 2.375 	neg = 0.25 
+48. Who wouldn't want to                ... pos = 0.0   	neg = 0.125
+49. Or see how their chi                ... pos = 0.0   	neg = 0.0  
+50. "Tell me about your                 ... pos = 0.0   	neg = 0.0  
+51. And don't call me a                 ... pos = 0.125 	neg = 0.0  
+52. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1402-1477 is Positive        ... pos = 28.0  	neg = 14.625
+Overall score of document
+Total Pos = 28.0
+Total Neg = 14.625
+---------------------------------------------------------------------------

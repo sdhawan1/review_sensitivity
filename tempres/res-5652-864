@@ -1,0 +1,55 @@
+0. STAR WARS EPISODE IV                 ... pos = 0.75  	neg = 0.0  
+1. The film Star Wars w                 ... pos = 0.625 	neg = 0.375
+2. The film set a new s                 ... pos = 0.375 	neg = 0.25 
+3. Not only did it set                  ... pos = 0.0   	neg = 0.25 
+4. The plot is one of t                 ... pos = 0.0   	neg = 0.125
+5. The legend of Star W                 ... pos = 0.0   	neg = 0.375
+6. The Jedi were warrio                 ... pos = 0.125 	neg = 0.25 
+7. Darth Vader is the l                 ... pos = 0.125 	neg = 0.125
+8. Ben Obi-Wan Kenobi,                  ... pos = 0.375 	neg = 0.25 
+9. Darth Vader was once                 ... pos = 0.125 	neg = 0.125
+10. Years after the kill                ... pos = 0.0   	neg = 1.0  
+11. R2-D2 and C-3P0 are                 ... pos = 0.625 	neg = 0.0  
+12. While an attack on t                ... pos = 0.0   	neg = 0.25 
+13. to Obi-Wan Kenobi pl                ... pos = 0.0   	neg = 0    
+14. The Princess is capt                ... pos = 0.0   	neg = 0.125
+15. The Jawas, or small                 ... pos = 0.0   	neg = 0.0  
+16. They are bought by L                ... pos = 0.25  	neg = 0    
+17. While Luke is cleani                ... pos = 0.0   	neg = 0.25 
+18. Luke finds this Obi-                ... pos = 0.125 	neg = 0.25 
+19. Luke also learns his                ... pos = 0.0   	neg = 0.125
+20. After Luke's family                 ... pos = 0.375 	neg = 0.125
+21. Ben wants to create                 ... pos = 0.625 	neg = 0    
+22. First, the two must                 ... pos = 0.5   	neg = 0    
+23. Han Solo, played by                 ... pos = 0.625 	neg = 0.0  
+24. After meeting up wit                ... pos = 0.0   	neg = 0.0  
+25. Luke continues his t                ... pos = 0.125 	neg = 0.0  
+26. Star Wars is an amaz                ... pos = 0.0   	neg = 0.125
+27. The plot is so origi                ... pos = 0.125 	neg = 0.125
+28. The special effects,                ... pos = 1.25  	neg = 0.25 
+29. The space scenes in                 ... pos = 0.5   	neg = 0.0  
+30. The ships flown by a                ... pos = 1.125 	neg = 0    
+31. The costumes are als                ... pos = 0.25  	neg = 0.0  
+32. The scenery is so di                ... pos = 0.625 	neg = 0.125
+33. There are a variety                 ... pos = 1.875 	neg = 0.0  
+34. The entire premise o                ... pos = 0.0   	neg = 0.125
+35. The creatures and dr                ... pos = 0.25  	neg = 0    
+36. Even the human chara                ... pos = 1.75  	neg = 0.0  
+37. Every character is e                ... pos = 3.125 	neg = 0.125
+38. The acting on everyo                ... pos = 0.0   	neg = 0.125
+39. Even though the conc                ... pos = 1.0   	neg = 0.875
+40. The acting, setting,                ... pos = 0.0   	neg = 0.25 
+41. If any of these were                ... pos = 0.0   	neg = 1.125
+42. The ending works ver                ... pos = 1.0   	neg = 0.0  
+43. In early 1997, a spe                ... pos = 0.0   	neg = 0.125
+44. The film was re-mast                ... pos = 0.0   	neg = 0.125
+45. A few creatures were                ... pos = 0.0   	neg = 0.25 
+46. Think that's enough?                ... pos = 0     	neg = 0.0  
+47. On May 19, 1999, Sta                ... pos = 1.125 	neg = 0.125
+48. With this, Star Wars                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5652-864 is Positive         ... pos = 20.75 	neg = 8.25 
+Overall score of document
+Total Pos = 20.75
+Total Neg = 8.25
+---------------------------------------------------------------------------

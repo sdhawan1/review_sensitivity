@@ -1,0 +1,56 @@
+0. **1/2 (out of 4) I'v                 ... pos = 0.5   	neg = 0.25 
+1. Ah, if only I could                  ... pos = 0.125 	neg = 0.0  
+2. It was good.                         ... pos = 0.75  	neg = 0.125
+3. You won't hear me te                 ... pos = 0.0   	neg = 0.0  
+4. It's just that I nev                 ... pos = 0.0   	neg = 0.0  
+5. Once you get past th                 ... pos = 0.625 	neg = 0.0  
+6. The movie is set in                  ... pos = 0.375 	neg = 0.125
+7. About thirty NYC cop                 ... pos = 0.0   	neg = 0.25 
+8. Most of the cops are                 ... pos = 0.875 	neg = 1.0  
+9. A deaf ear kept Fred                 ... pos = 0.75  	neg = 0.0  
+10. " In contrast to the                ... pos = 0.25  	neg = 0.625
+11. For all the policing                ... pos = 0.0   	neg = 0.375
+12. When the New York co                ... pos = 0.625 	neg = 0.375
+13. On the one hand, the                ... pos = 0.0   	neg = 0.75 
+14. Besides, these peopl                ... pos = 0.625 	neg = 0.0  
+15. Hanging out with the                ... pos = 0.25  	neg = 0.125
+16. On the other hand, t                ... pos = 1.375 	neg = 0.0  
+17. The movie is intelle                ... pos = 0.25  	neg = 0.375
+18. When Robert de Niro                 ... pos = 0.5   	neg = 0.625
+19. The movie takes itse                ... pos = 0.625 	neg = 0.125
+20. Howard Shore's music                ... pos = 0.5   	neg = 0.0  
+21. ) The weighty, ponde                ... pos = 1.875 	neg = 0.25 
+22. The music was very g                ... pos = 1.875 	neg = 0.125
+23. It seems wrong to fa                ... pos = 0.75  	neg = 1.375
+24. Much has been said a                ... pos = 0.125 	neg = 0.125
+25. He is trying to shed                ... pos = 0.0   	neg = 0.625
+26. He isn't outstanding                ... pos = 1.5   	neg = 0.125
+27. The most obvious dif                ... pos = 0.375 	neg = 0.125
+28. Instead of a hostile                ... pos = 0.625 	neg = 0.0  
+29. Stallone is flat, bu                ... pos = 0.625 	neg = 0.25 
+30. The character's drea                ... pos = 1.125 	neg = 0.5  
+31. But instead of setti                ... pos = 1.5   	neg = 0.5  
+32. The character doesn'                ... pos = 1.875 	neg = 0.125
+33. A low-key approach t                ... pos = 0.875 	neg = 0.125
+34. (Perhaps he found th                ... pos = 0.0   	neg = 0.125
+35. Maybe some defect ke                ... pos = 0.75  	neg = 0.0  
+36. ) . It's possible th                ... pos = 1.375 	neg = 0.0  
+37. The dialogue tells u                ... pos = 0.0   	neg = 0.0  
+38. The flashbacks add t                ... pos = 0.875 	neg = 0.5  
+39. Maybe Mangold though                ... pos = 0.25  	neg = 0.5  
+40. Still, a couple of s                ... pos = 2.0   	neg = 0.25 
+41. Early on, a young NY                ... pos = 0.0   	neg = 0.875
+42. The scene is intercu                ... pos = 0.0   	neg = 0.125
+43. Each has accidentall                ... pos = 0.375 	neg = 0.0  
+44. Another scene that s                ... pos = 0.0   	neg = 0.375
+45. I could say a lot of                ... pos = 0.0   	neg = 0.25 
+46. The vital spark that                ... pos = 0.5   	neg = 0.125
+47. Many people really l                ... pos = 0.125 	neg = 0.375
+48. I just wish I had be                ... pos = 0.0   	neg = 0.5  
+49. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2603-1008 is Positive        ... pos = 28.375 	neg = 13.375
+Overall score of document
+Total Pos = 28.375
+Total Neg = 13.375
+---------------------------------------------------------------------------

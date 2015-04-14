@@ -1,0 +1,40 @@
+0. "Three Kings" Writte                 ... pos = 0.125 	neg = 0.0  
+1. Phil came out and st                 ... pos = 0.0   	neg = 0.0  
+2. "  Everyone cheered                  ... pos = 0.0   	neg = 0.0  
+3. But then Phil starte                 ... pos = 0.875 	neg = 0.125
+4. Somehow we expected                  ... pos = 0.0   	neg = 0.375
+5. At the beginning of                  ... pos = 0.125 	neg = 0.0  
+6. While stripping a pr                 ... pos = 0.0   	neg = 0.0  
+7. Special Forces Major                 ... pos = 0.25  	neg = 0.0  
+8. Archie is ticked off                 ... pos = 0.125 	neg = 1.125
+9. Along with Chief Elg                 ... pos = 0.375 	neg = 0.125
+10. (And, by the way, ye                ... pos = 0.125 	neg = 0.0  
+11. When they find the g                ... pos = 0.125 	neg = 0    
+12. In the village where                ... pos = 0.375 	neg = 0.125
+13. The reason:  Preside                ... pos = 0.375 	neg = 0.0  
+14. However, the America                ... pos = 0.25  	neg = 0.125
+15. When Archie and comp                ... pos = 0.375 	neg = 0.25 
+16. Of course, our heroe                ... pos = 0.25  	neg = 0.75 
+17. A battle breaks out,                ... pos = 0.0   	neg = 0.125
+18. "Three Kings" shifts                ... pos = 0.125 	neg = 0.25 
+19. The movie begins wit                ... pos = 0.0   	neg = 0.625
+20. My favorite moment h                ... pos = 0.125 	neg = 0.0  
+21. When the guys take u                ... pos = 0.0   	neg = 0.375
+22. The switch may be di                ... pos = 0.25  	neg = 0.625
+23. My taste is for the                 ... pos = 0.0   	neg = 0.125
+24. Director David O. Ru                ... pos = 0.0   	neg = 0.375
+25. Despite any flaws in                ... pos = 1.125 	neg = 0.0  
+26. Very few American fi                ... pos = 1.125 	neg = 0.0  
+27. "Three Kings" forces                ... pos = 0.25  	neg = 0.25 
+28. Among the stars, Spi                ... pos = 0.0   	neg = 0.0  
+29. Although he is bette                ... pos = 0.5   	neg = 0.125
+30. While his higher-bil                ... pos = 0.875 	neg = 1.375
+31. Although he begins a                ... pos = 0.875 	neg = 0.0  
+32. Bottom Line:  "Three                ... pos = 1.875 	neg = 0.25 
+33. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-1265 is Positive        ... pos = 10.875 	neg = 7.5  
+Overall score of document
+Total Pos = 10.875
+Total Neg = 7.5
+---------------------------------------------------------------------------

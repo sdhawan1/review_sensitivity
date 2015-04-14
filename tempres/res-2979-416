@@ -1,0 +1,31 @@
+0. Starring: David Duch                 ... pos = 0.75  	neg = 0.25 
+1. But when a few bodie                 ... pos = 0.75  	neg = 0.375
+2. A discredited author                 ... pos = 0.125 	neg = 0.75 
+3. The victims died of                  ... pos = 0.625 	neg = 0.125
+4. Kurtzweil also insis                 ... pos = 0.75  	neg = 0.125
+5. Although it sounds l                 ... pos = 0.0   	neg = 0.0  
+6. In order to acquit t                 ... pos = 0.25  	neg = 0.0  
+7. As a result, the two                 ... pos = 0.5   	neg = 0.0  
+8. Will partners Scully                 ... pos = 0.125 	neg = 0    
+9. Will their insistenc                 ... pos = 1.25  	neg = 0.25 
+10. Opinion: Imagine a d                ... pos = 0.5   	neg = 0.625
+11. For example, suppose                ... pos = 0.25  	neg = 0.375
+12. An unobservant perso                ... pos = 0.5   	neg = 1.5  
+13. Another person, care                ... pos = 0.125 	neg = 0.625
+14. Finally, the person                 ... pos = 1.375 	neg = 0.625
+15. THE X-FILES occurs i                ... pos = 2.375 	neg = 0.125
+16. It seems there are t                ... pos = 1.875 	neg = 0.125
+17. The government, the                 ... pos = 0.875 	neg = 0.0  
+18. Finally there are al                ... pos = 0.25  	neg = 0.0  
+19. In such a convoluted                ... pos = 3.0   	neg = 0.75 
+20. In other words, hero                ... pos = 0.25  	neg = 0.25 
+21. The main goal in the                ... pos = 0.0   	neg = 1.25 
+22. On the other hand, t                ... pos = 1.25  	neg = 0.125
+23. As long as that dist                ... pos = 0.625 	neg = 0.625
+24. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2979-416 is Positive         ... pos = 18.375 	neg = 9.0  
+Overall score of document
+Total Pos = 18.375
+Total Neg = 9.0
+---------------------------------------------------------------------------

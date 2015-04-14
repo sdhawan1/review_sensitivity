@@ -1,0 +1,57 @@
+0. Cast: John Travolta,                 ... pos = 0.125 	neg = 0.75 
+1. In fact, I'll be sur                 ... pos = 0.125 	neg = 1.0  
+2. Based on the novel b                 ... pos = 0.0   	neg = 0.0  
+3. It's the year 3000,                  ... pos = 0.125 	neg = 0.0  
+4. Ok, we are all of 10                 ... pos = 0.375 	neg = 0.125
+5. When were we conquer                 ... pos = 0     	neg = 0.125
+6. The audience is led                  ... pos = 0.125 	neg = 0.25 
+7. Also, why don't we g                 ... pos = 0.0   	neg = 0.0  
+8. How the hell do you                  ... pos = 0.5   	neg = 0.5  
+9. Humans now live as c                 ... pos = 0.125 	neg = 0.0  
+10. They grunt and groan                ... pos = 0.0   	neg = 1.5  
+11. So, when the Psychlo                ... pos = 0.0   	neg = 0.25 
+12. None of these charac                ... pos = 1.125 	neg = 0.125
+13. This is definitely N                ... pos = 0.25  	neg = 0.125
+14. One of the humans wa                ... pos = 0.0   	neg = 0.75 
+15. The "monster" turns                 ... pos = 0.0   	neg = 0.125
+16. He turns around and                 ... pos = 0.875 	neg = 0.0  
+17. So, in 1,000 years t                ... pos = 0.0   	neg = 0.375
+18. Anyway, some of the                 ... pos = 0.5   	neg = 0.5  
+19. The cavemen (led by                 ... pos = 0.375 	neg = 0.125
+20. So these cavemen are                ... pos = 0.375 	neg = 0.125
+21. And, we're supposed                 ... pos = 0.75  	neg = 0.125
+22. One of the ways the                 ... pos = 0.0   	neg = 0.375
+23. So jets left unatten                ... pos = 0.375 	neg = 0.25 
+24. Please, if I leave m                ... pos = 0.0   	neg = 0.625
+25. Why did the Psychlos                ... pos = 0.0   	neg = 0.125
+26. Shouldn't they have                 ... pos = 0.0   	neg = 0.0  
+27. The Psychlos refer t                ... pos = 0.5   	neg = 0.0  
+28. Why aren't they "dog                ... pos = 0     	neg = 0.0  
+29. The Psychlos are aft                ... pos = 0.5   	neg = 0.25 
+30. Why do I even care a                ... pos = 0     	neg = 0.75 
+31. I'm a fan of Travolt                ... pos = 0.75  	neg = 0.875
+32. But how did he possi                ... pos = 0.75  	neg = 0.125
+33. And how did he think                ... pos = 0.75  	neg = 0.125
+34. He's more than capab                ... pos = 1.125 	neg = 0.5  
+35. Now despite the diff                ... pos = 0.875 	neg = 0.375
+36. All of the other ali                ... pos = 0.0   	neg = 0.0  
+37. Also, Travolta's act                ... pos = 0.125 	neg = 0.75 
+38. Ooooo, scary villain                ... pos = 0     	neg = 1.125
+39. As a producer he sho                ... pos = 0.25  	neg = 0.0  
+40. You can make a dumb                 ... pos = 1.5   	neg = 0.625
+41. I did everything I p                ... pos = 0.0   	neg = 0.0  
+42. I cleaned my glasses                ... pos = 0.5   	neg = 0.125
+43. By the time we actua                ... pos = 0.125 	neg = 0.125
+44. Folks, save your cas                ... pos = 0.0   	neg = 0.0  
+45. You'd be more entert                ... pos = 0.25  	neg = 0.625
+46. Unless of course you                ... pos = 0.5   	neg = 0.125
+47. That, and a headache                ... pos = 0.0   	neg = 0.0  
+48. [Editor's Note: For                 ... pos = 0.0   	neg = 0.375
+49. I'm not sure why...                 ... pos = 0.25  	neg = 0.0  
+50. ] . Reviewed by Chuc                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5456-515 is Negative         ... pos = 14.875 	neg = 15.125
+Overall score of document
+Total Pos = 14.875
+Total Neg = 15.125
+---------------------------------------------------------------------------

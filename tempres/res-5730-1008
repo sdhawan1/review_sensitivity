@@ -1,0 +1,69 @@
+0. **** (out of 4) LA V                 ... pos = 0.75  	neg = 0.375
+1. Directed by and star                 ... pos = 1.0   	neg = 0.0  
+2. I mention these fact                 ... pos = 0.625 	neg = 0.125
+3. Mixing humor and con                 ... pos = 1.0   	neg = 0.125
+4. Some say that the ve                 ... pos = 0.625 	neg = 0.25 
+5. Frankly, it's hard t                 ... pos = 0.0   	neg = 0.75 
+6. If you can't forgive                 ... pos = 0.25  	neg = 0.0  
+7. However, if you're w                 ... pos = 0.625 	neg = 0.125
+8. By focusing on the b                 ... pos = 0.5   	neg = 0.625
+9. The movie begins lik                 ... pos = 1.5   	neg = 0.0  
+10. It is Italy, before                 ... pos = 0.0   	neg = 0.125
+11. Guido (Benigni) is a                ... pos = 0.0   	neg = 0.125
+12. He is in love with a                ... pos = 0.625 	neg = 0.125
+13. Through a series of                 ... pos = 0.375 	neg = 0.0  
+14. Guido learns that Do                ... pos = 0.25  	neg = 0.125
+15. Nevertheless, he per                ... pos = 0.75  	neg = 0    
+16. Guido's charm is ama                ... pos = 0.0   	neg = 0.125
+17. In one of the finest                ... pos = 1.5   	neg = 0.75 
+18. The effect marvelous                ... pos = 0.75  	neg = 0.0  
+19. One evening at a par                ... pos = 0.875 	neg = 0.0  
+20. A horse of Guido's u                ... pos = 0.0   	neg = 0.125
+21. A handful of partygo                ... pos = 0.75  	neg = 0.0  
+22. Nevertheless, the fi                ... pos = 0.375 	neg = 0.125
+23. The film cuts forwar                ... pos = 0.0   	neg = 0.0  
+24. Italy has changed dr                ... pos = 0.125 	neg = 0.0  
+25. Guido now has a son,                ... pos = 0.0   	neg = 0    
+26. Meekness is life.                   ... pos = 0.0   	neg = 0.125
+27. The alternative is d                ... pos = 0.0   	neg = 0.125
+28. And as the title rem                ... pos = 0.75  	neg = 0.125
+29. Although he doesn't                 ... pos = 0.125 	neg = 0.375
+30. On their way home on                ... pos = 0.0   	neg = 0.0  
+31. ". How would you exp                ... pos = 0.0   	neg = 0.0  
+32. How do you tell him                 ... pos = 0.25  	neg = 0.0  
+33. Guido not only answe                ... pos = 0.375 	neg = 0.0  
+34. In addition, it illu                ... pos = 0.375 	neg = 0.125
+35. Needless to say, the                ... pos = 0.0   	neg = 0.75 
+36. It isn't long before                ... pos = 0.25  	neg = 1.0  
+37. Now instead of a sin                ... pos = 0.125 	neg = 0.125
+38. In this last half of                ... pos = 0.0   	neg = 0.75 
+39. They are not in a pr                ... pos = 0.75  	neg = 0.0  
+40. There are rules, opp                ... pos = 0.75  	neg = 0.125
+41. If they can only ear                ... pos = 0.625 	neg = 0.0  
+42. The real heart of th                ... pos = 0.375 	neg = 0.125
+43. " He loves his son s                ... pos = 1.0   	neg = 1.5  
+44. The task is overwhel                ... pos = 0.375 	neg = 0.25 
+45. It is this indomitab                ... pos = 1.5   	neg = 1.375
+46. Benigni is great in                 ... pos = 0.0   	neg = 0.125
+47. He knows that fighti                ... pos = 0.0   	neg = 0.625
+48. All he can do is smi                ... pos = 0.25  	neg = 0.125
+49. But Benigni is caref                ... pos = 0.5   	neg = 1.375
+50. He plays the part wi                ... pos = 0.5   	neg = 0.125
+51. This film has stirre                ... pos = 0.125 	neg = 0.625
+52. That a light, often                 ... pos = 2.125 	neg = 0.875
+53. Others blame the dir                ... pos = 0.375 	neg = 0.5  
+54. While I wouldn't arg                ... pos = 0.25  	neg = 0.0  
+55. To the first objecti                ... pos = 0.75  	neg = 0.0  
+56. While his depiction                 ... pos = 0.0   	neg = 0.0  
+57. To the second object                ... pos = 0.0   	neg = 0.25 
+58. Why else do we go to                ... pos = 0.0   	neg = 0.125
+59. Giving myself to the                ... pos = 0.0   	neg = 0.125
+60. Though I often cry a                ... pos = 0.0   	neg = 0.0  
+61. LIFE IS BEAUTIFUL, a                ... pos = 1.875 	neg = 0.25 
+62. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5730-1008 is Positive        ... pos = 27.625 	neg = 16.0 
+Overall score of document
+Total Pos = 27.625
+Total Neg = 16.0
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. Cast:  Nicholas Cage                 ... pos = 0.125 	neg = 0.125
+1. Starring Travolta, B                 ... pos = 0.5   	neg = 0.903
+2. Not ture here.                       ... pos = 0.0   	neg = 0.0  
+3. I went into FACE/OFF                 ... pos = 0.0   	neg = 0.125
+4. This is by far, one                  ... pos = 0.375 	neg = 0.125
+5. Amazing action seque                 ... pos = 0.375 	neg = 0.75 
+6. )  Characterization!                 ... pos = 0     	neg = 0    
+7. John Travolta (PULP                  ... pos = 0.125 	neg = 0.0  
+8. Anti-terrorist squad                 ... pos = 0     	neg = 0.0  
+9. He is still working                  ... pos = 0.0   	neg = 0.125
+10. Cage, you see, had k                ... pos = 0.0   	neg = 0.125
+11. After an amazing sho                ... pos = 0.0   	neg = 0.25 
+12. However everything i                ... pos = 0.125 	neg = 1.0  
+13. So, the doctors reco                ... pos = 0.125 	neg = 0.25 
+14. In a rediculous sequ                ... pos = 0.0   	neg = 0.0  
+15. However Cage is left                ... pos = 0.625 	neg = 0.25 
+16. Prolems begin when C                ... pos = 0.25  	neg = 0.125
+17. The movie really tak                ... pos = 0.5   	neg = 0.625
+18. First he is the evil                ... pos = 0.875 	neg = 0.875
+19. Not that Travolta go                ... pos = 1.125 	neg = 0.0  
+20. Joan ALlen plays Arc                ... pos = 0.5   	neg = 0.25 
+21. Dominique Swain is g                ... pos = 0.0   	neg = 0.125
+22. And Gina Gershon (re                ... pos = 0.875 	neg = 0.125
+23. The action sequences                ... pos = 0.5   	neg = 0.0  
+24. One of the best incl                ... pos = 0.375 	neg = 0.0  
+25. ANother includes a m                ... pos = 0.0   	neg = 0.125
+26. The only prob's i ha                ... pos = 0.0   	neg = 1.0  
+27. This scene is actual                ... pos = 0.0   	neg = 0.125
+28. Thats another stor y                ... pos = 0.375 	neg = 0.125
+29. FACE/OFF runs way to                ... pos = 0.0   	neg = 0.625
+30. It is rated R for vi                ... pos = 0.125 	neg = 0.125
+31. See it, but check yo                ... pos = 0.0   	neg = 0.0  
+32. *** 1/2. Copyright 1                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2728-1368 is Negative        ... pos = 7.875 	neg = 8.278
+Overall score of document
+Total Pos = 7.875
+Total Neg = 8.278
+---------------------------------------------------------------------------

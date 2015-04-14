@@ -1,0 +1,36 @@
+0. Written by: Patrick                  ... pos = 0.0   	neg = 0.0  
+1. Based on a play by F                 ... pos = 1.0   	neg = 0.125
+2. Steven (Michael Doug                 ... pos = 0.125 	neg = 0.25 
+3. But he stands to inh                 ... pos = 0.25  	neg = 0.0  
+4. Emily (Gwyneth Paltr                 ... pos = 0.75  	neg = 0.125
+5. She is a United Nati                 ... pos = 1.0   	neg = 0.25 
+6. Meanwhile David (Vig                 ... pos = 0.5   	neg = 0.125
+7. The story opens with                 ... pos = 0.0   	neg = 0.0  
+8. From then it's a que                 ... pos = 0.0   	neg = 0.0  
+9. The greedy and cleve                 ... pos = 0.5   	neg = 0.0  
+10. Of course, one of th                ... pos = 0.0   	neg = 0.0  
+11. An interesting side                 ... pos = 1.0   	neg = 0.125
+12. Opinion:  On the goo                ... pos = 1.25  	neg = 0.0  
+13. On the bad side, the                ... pos = 0.25  	neg = 0.875
+14. Steven and David see                ... pos = 0.875 	neg = 0.625
+15. Emily shows promisin                ... pos = 0.25  	neg = 0.0  
+16. I was a little bit d                ... pos = 0.0   	neg = 0.875
+17. As soon as Detective                ... pos = 0.0   	neg = 0.0  
+18. Here's a guy who can                ... pos = 0.0   	neg = 0.0  
+19. Karaman is brilliant                ... pos = 0.5   	neg = 0.125
+20. He takes compassion                 ... pos = 0.0   	neg = 1.125
+21. If you liked Michael                ... pos = 0.125 	neg = 0.875
+22. Meanwhile - - as the                ... pos = 0.0   	neg = 0.0  
+23. Mortensen does a gre                ... pos = 0.0   	neg = 0.875
+24. Of the three, Gwynet                ... pos = 0.875 	neg = 0    
+25. Is she a cold and un                ... pos = 0.375 	neg = 0.75 
+26. It's tough to root f                ... pos = 0.875 	neg = 0.125
+27. What good is a schlu                ... pos = 1.25  	neg = 0.125
+28. However, it's intere                ... pos = 0.75  	neg = 0.0  
+29. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1007-416 is Positive         ... pos = 12.5  	neg = 7.5  
+Overall score of document
+Total Pos = 12.5
+Total Neg = 7.5
+---------------------------------------------------------------------------

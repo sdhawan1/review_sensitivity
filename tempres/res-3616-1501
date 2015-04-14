@@ -1,0 +1,50 @@
+0. "Bringing Out The De                 ... pos = 0.625 	neg = 0.0  
+1. It seems unnecessary                 ... pos = 0.125 	neg = 1.0  
+2. ". It's film about 3                 ... pos = 0.0   	neg = 0.0  
+3. From Martin Scorsese                 ... pos = 0.375 	neg = 0.0  
+4. Who set the bar for                  ... pos = 0.0   	neg = 0.0  
+5. The answer is eviden                 ... pos = 0.0   	neg = 0.5  
+6. They each did ground                 ... pos = 0.0   	neg = 0.25 
+7. "Raging Bull" and "T                 ... pos = 1.25  	neg = 0    
+8. That's the reason "D                 ... pos = 0.0   	neg = 0.0  
+9. The first thing we h                 ... pos = 0.125 	neg = 0.125
+10. The opening makes "B                ... pos = 0.125 	neg = 0.0  
+11. "  There's a voiceov                ... pos = 0.0   	neg = 0.0  
+12. He meets a woman set                ... pos = 0.375 	neg = 0.0  
+13. Behind the scenes we                ... pos = 0.0   	neg = 0.0  
+14. With those features,                ... pos = 0.0   	neg = 0.0  
+15. One of the problems                 ... pos = 0.0   	neg = 0.375
+16. The dramatic moments                ... pos = 0.625 	neg = 0.625
+17. And the comedic elem                ... pos = 1.5   	neg = 0.0  
+18. The film gives Frank                ... pos = 0.0   	neg = 0    
+19. The first is a compu                ... pos = 0.125 	neg = 0.125
+20. Trailers, posters, a                ... pos = 0.875 	neg = 0.0  
+21. Why?                                ... pos = 0     	neg = 0.0  
+22. Maybe because he giv                ... pos = 0.875 	neg = 0.5  
+23. It doesn't have any                 ... pos = 0.0   	neg = 0.125
+24. Ving Rhames has alwa                ... pos = 0.0   	neg = 0.125
+25. He has a slickness,                 ... pos = 1.75  	neg = 0.0  
+26. Every one of his rol                ... pos = 0.0   	neg = 0.125
+27. He throws his all in                ... pos = 0.0   	neg = 0.375
+28. The second act of "B                ... pos = 0.625 	neg = 0.125
+29. Rhames injects the f                ... pos = 0.0   	neg = 0.0  
+30. His character Marcus                ... pos = 0.875 	neg = 0.125
+31. Marcus is a ladies'                 ... pos = 0.0   	neg = 0.25 
+32. A man who's also a s                ... pos = 0.5   	neg = 0.0  
+33. Ving Rhames' perform                ... pos = 0.75  	neg = 0.125
+34. "Dead" is hilarious,                ... pos = 0.25  	neg = 0.125
+35. And for its final ac                ... pos = 0.625 	neg = 0.0  
+36. Tom Walls is a psych                ... pos = 0.0   	neg = 0.125
+37. His exit scene is ju                ... pos = 0.0   	neg = 0.125
+38. His character turns                 ... pos = 1.0   	neg = 0.125
+39. When he or Ving Rham                ... pos = 1.0   	neg = 0.0  
+40. When they're not on,                ... pos = 0.0   	neg = 0.0  
+41. Arquette gives one o                ... pos = 0.0   	neg = 0.375
+42. She drags down "Brin                ... pos = 0.5   	neg = 0.25 
+43. I suggest that they                 ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3616-1501 is Positive        ... pos = 16.125 	neg = 6.125
+Overall score of document
+Total Pos = 16.125
+Total Neg = 6.125
+---------------------------------------------------------------------------

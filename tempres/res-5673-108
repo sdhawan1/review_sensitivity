@@ -1,0 +1,36 @@
+0. USA.                                 ... pos = 0     	neg = 0.0  
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director - Stephen N                 ... pos = 0.25  	neg = 1.75 
+3. Production Company -                 ... pos = 0.0   	neg = 0.0  
+4. Wesley Snipes (Blade                 ... pos = 0.25  	neg = 0.375
+5. She  gives birth to                  ... pos = 0.125 	neg = 0.0  
+6. In the present day t                 ... pos = 0.375 	neg = 0.75 
+7. Armed with titanium                  ... pos = 0.25  	neg = 0.25 
+8. Blade finds a  dange                 ... pos = 0.375 	neg = 0.125
+9. Deacon wants to use                  ... pos = 0.625 	neg = 0.5  
+10. 'Blade' is  Norringt                ... pos = 0.0   	neg = 0.125
+11. Although 'Blade' is                 ... pos = 0.375 	neg = 0.375
+12. It is an adaption of                ... pos = 0.625 	neg = 0.125
+13. The adaption comes f                ... pos = 0.625 	neg = 0.125
+14. Goyer conducts  some                ... pos = 0.625 	neg = 0.0  
+15. If 'The Lost Boys',                 ... pos = 0.875 	neg = 0.375
+16. Indeed the film coul                ... pos = 0.0   	neg = 0.875
+17. The plot though beco                ... pos = 0.5   	neg = 0.5  
+18. The film has been cr                ... pos = 1.0   	neg = 0.375
+19. Here Norrington and                 ... pos = 0.125 	neg = 0.0  
+20. The  film never quit                ... pos = 0.375 	neg = 0.625
+21. In an interesting mo                ... pos = 0.0   	neg = 0.0  
+22. One  finds it hard t                ... pos = 0.375 	neg = 0.75 
+23. The man  keeps comin                ... pos = 0.5   	neg = 0.0  
+24. Whenever he does wel                ... pos = 0.75  	neg = 0.25 
+25. Norrington seems to                 ... pos = 0.125 	neg = 0.25 
+26. He gives, for exampl                ... pos = 1.75  	neg = 0.125
+27. Indeed  whenever Sni                ... pos = 2.5   	neg = 0.5  
+28. On the other hand  S                ... pos = 0.75  	neg = 0.5  
+29. Kristofferson is oka                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5673-108 is Positive         ... pos = 14.125 	neg = 9.875
+Overall score of document
+Total Pos = 14.125
+Total Neg = 9.875
+---------------------------------------------------------------------------

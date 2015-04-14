@@ -1,0 +1,60 @@
+0. **1/2 (out of 4) A L                 ... pos = 0.0   	neg = 0.0  
+1. A group of violent t                 ... pos = 0.25  	neg = 0    
+2. One man stands in th                 ... pos = 0.375 	neg = 0.25 
+3. Die Hard!                            ... pos = 0     	neg = 0.0  
+4. A military vessel.                   ... pos = 0.0   	neg = 0.0  
+5. A group of violent t                 ... pos = 0.25  	neg = 0    
+6. One man stands in th                 ... pos = 0.0   	neg = 0    
+7. Under Siege!                         ... pos = 0     	neg = 0.0  
+8. A presidential airbo                 ... pos = 0.0   	neg = 0    
+9. A group of violent t                 ... pos = 0.25  	neg = 0    
+10. One man stands in th                ... pos = 0.25  	neg = 0    
+11. Air Force One!                      ... pos = 0.0   	neg = 0.0  
+12. This formula has gon                ... pos = 0.0   	neg = 0.5  
+13. A cop, okay.                        ... pos = 0.0   	neg = 0.375
+14. A Navy SEAL, alright                ... pos = 0.0   	neg = 0.25 
+15. A president, don't b                ... pos = 0.0   	neg = 0.25 
+16. Because I was expect                ... pos = 0.125 	neg = 0.25 
+17. The president as an                 ... pos = 0.5   	neg = 0.0  
+18. What nonsense!                      ... pos = 0     	neg = 0    
+19. A president who's be                ... pos = 1.25  	neg = 0.125
+20. Don't make me gag!                  ... pos = 0     	neg = 0.0  
+21. You should know that                ... pos = 0.0   	neg = 0.125
+22. It is closer to CON                 ... pos = 0.0   	neg = 0.25 
+23. The plot and the det                ... pos = 0.25  	neg = 0.0  
+24. Now, with that in mi                ... pos = 0.875 	neg = 0.25 
+25. But it is not subtle                ... pos = 0.5   	neg = 0.125
+26. Part of why I expect                ... pos = 0.25  	neg = 0.875
+27. Petersen's latest, O                ... pos = 0.0   	neg = 0.5  
+28. There is a surprisin                ... pos = 0.5   	neg = 0.125
+29. One of the first peo                ... pos = 0.125 	neg = 0.125
+30. Both settings (this                 ... pos = 0.25  	neg = 0.0  
+31. The airplane's defen                ... pos = 0.625 	neg = 0.375
+32. And like the climact                ... pos = 0.625 	neg = 0.0  
+33. If Petersen really i                ... pos = 0.0   	neg = 1.0  
+34. In fact, there are a                ... pos = 0.75  	neg = 0.0  
+35. An early attempt at                 ... pos = 0.0   	neg = 0.0  
+36. There is also an awe                ... pos = 0.875 	neg = 0.125
+37. There is a spark of                 ... pos = 0.0   	neg = 0.375
+38. In the opening scene                ... pos = 0.0   	neg = 0.0  
+39. He vows to use whate                ... pos = 0.5   	neg = 0.25 
+40. It is this absolute                 ... pos = 0.0   	neg = 0.375
+41. Korshunov says "you                 ... pos = 0.625 	neg = 0.125
+42. In Marshall's stated                ... pos = 0.25  	neg = 0.25 
+43. Marshall is the vict                ... pos = 0.875 	neg = 0.125
+44. How beautifully iron                ... pos = 0.875 	neg = 0.25 
+45. Further, when the te                ... pos = 0.625 	neg = 0.125
+46. Okay, he's the bad g                ... pos = 0     	neg = 1.0  
+47. That's expected.                    ... pos = 0     	neg = 0.25 
+48. But when the "Good g                ... pos = 0.0   	neg = 0.375
+49. Petersen didn't real                ... pos = 0.875 	neg = 0.0  
+50. Still, the idea is o                ... pos = 0.125 	neg = 0.125
+51. Because I was expect                ... pos = 0.0   	neg = 0.5  
+52. On the other hand, P                ... pos = 1.25  	neg = 0.125
+53. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6212-1008 is Positive        ... pos = 14.875 	neg = 10.125
+Overall score of document
+Total Pos = 14.875
+Total Neg = 10.125
+---------------------------------------------------------------------------

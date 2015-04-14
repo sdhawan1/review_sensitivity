@@ -1,0 +1,48 @@
+0. I know you look at s                 ... pos = 0.125 	neg = 0.375
+1. If the science is wr                 ... pos = 0.0   	neg = 0.875
+2. That's why I recomme                 ... pos = 0.0   	neg = 0.125
+3. M2M is set 20 years                  ... pos = 0.0   	neg = 0.125
+4. Budweiser comes in w                 ... pos = 0.375 	neg = 0.25 
+5. After a quick introd                 ... pos = 0.375 	neg = 0.0  
+6. While investigating                  ... pos = 0.625 	neg = 0.25 
+7. Soon the wind forms                  ... pos = 0.125 	neg = 0.0  
+8. Earth can't tell wha                 ... pos = 0.25  	neg = 0.25 
+9. Richard, I know you'                 ... pos = 0.0   	neg = 0.0  
+10. At least there are s                ... pos = 1.625 	neg = 0.125
+11. Cinematography, dire                ... pos = 1.125 	neg = 0.25 
+12. Backing up the great                ... pos = 0.0   	neg = 0.125
+13. In two different sce                ... pos = 0.625 	neg = 0.0  
+14. Home theater DVD gee                ... pos = 0.125 	neg = 0.625
+15. In addition, the scr                ... pos = 0.125 	neg = 0.5  
+16. Naturally, I can't s                ... pos = 0.75  	neg = 0.125
+17. But the movie's scie                ... pos = 0.0   	neg = 0.125
+18. One scene crucial to                ... pos = 0.5   	neg = 0.0  
+19. It involves somethin                ... pos = 0.0   	neg = 0.0  
+20. It's a situation tha                ... pos = 0.0   	neg = 0.125
+21. We know it isn't bec                ... pos = 0.0   	neg = 0.0  
+22. Another part that wo                ... pos = 0.0   	neg = 0.125
+23. In fact, a LOT of st                ... pos = 0.25  	neg = 0.125
+24. Since the movie's cl                ... pos = 0.125 	neg = 0.0  
+25. However, I CAN repea                ... pos = 0.5   	neg = 0.0  
+26. After glancing at a                 ... pos = 0.0   	neg = 0.375
+27. ". Finally, with you                ... pos = 0.375 	neg = 0.0  
+28. The movie tells us w                ... pos = 0.5   	neg = 0.0  
+29. I won't say too much                ... pos = 0.125 	neg = 0.5  
+30. But even WITHOUT the                ... pos = 1.375 	neg = 0.125
+31. There were two corny                ... pos = 0.0   	neg = 1.5  
+32. The first happens at                ... pos = 0.625 	neg = 0.0  
+33. The second happens w                ... pos = 0.375 	neg = 0.0  
+34. The film's payoff wa                ... pos = 0.0   	neg = 1.0  
+35. After taking us on a                ... pos = 0.25  	neg = 0.375
+36. In fact, if you've s                ... pos = 0.0   	neg = 0.0  
+37. But I'm sure you'll                 ... pos = 0.25  	neg = 0.0  
+38. If and when you do,                 ... pos = 0.0   	neg = 0.0  
+39. I say it a disappoin                ... pos = 0.0   	neg = 1.375
+40. Hope all is well wit                ... pos = 0.375 	neg = 0.125
+41. Give my best to your                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-1008 is Positive        ... pos = 12.25 	neg = 9.875
+Overall score of document
+Total Pos = 12.25
+Total Neg = 9.875
+---------------------------------------------------------------------------

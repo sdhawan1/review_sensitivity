@@ -1,0 +1,28 @@
+0. Written by the Farre                 ... pos = 0.125 	neg = 0.375
+1. This  must have been                 ... pos = 0.375 	neg = 0.125
+2. They hired Jim Carre                 ... pos = 0.0   	neg = 0.125
+3. The  guy does his be                 ... pos = 0.5   	neg = 0.0  
+4. Carrey leaps, he cra                 ... pos = 0.0   	neg = 0.625
+5. He plays Charlie, a                  ... pos = 0.0   	neg = 0.0  
+6. His troubles start w                 ... pos = 0.0   	neg = 0.0  
+7. When in  the fullnes                 ... pos = 0.0   	neg = 0.0  
+8. He raises them on Ri                 ... pos = 0.625 	neg = 0.125
+9. When Charlie's wife                  ... pos = 0.125 	neg = 0.625
+10. And develops Advance                ... pos = 0.875 	neg = 0.125
+11. In other words, a  s                ... pos = 0.0   	neg = 0    
+12. His alter ego is Han                ... pos = 0.0   	neg = 0.875
+13. Charlie has medicine                ... pos = 0.875 	neg = 0.75 
+14. There's a plot.                     ... pos = 0.0   	neg = 0.0  
+15. Irene P. Waters (get                ... pos = 0.0   	neg = 0.0  
+16. ), played as wallpap                ... pos = 0.847 	neg = 0.125
+17. It's important enoug                ... pos = 1.75  	neg = 0.625
+18. Charlie's supposed t                ... pos = 1.0   	neg = 0.0  
+19. By the end of this m                ... pos = 0.0   	neg = 1.25 
+20. He does some nice  t                ... pos = 0.0   	neg = 0.0  
+21. He works hard for hi                ... pos = 0.25  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-4176-258 is Positive         ... pos = 7.347 	neg = 6.5  
+Overall score of document
+Total Pos = 7.347
+Total Neg = 6.5
+---------------------------------------------------------------------------

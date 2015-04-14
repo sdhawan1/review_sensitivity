@@ -1,0 +1,29 @@
+0. Based on events on t                 ... pos = 0.625 	neg = 0.125
+1. Getting the intervie                 ... pos = 0.375 	neg = 0.125
+2. Michael Mann's film                  ... pos = 0.25  	neg = 0.375
+3. For example, as in h                 ... pos = 1.625 	neg = 0.875
+4. At times the style t                 ... pos = 0.5   	neg = 0.0  
+5. Al Pacino has in rec                 ... pos = 1.875 	neg = 0.0  
+6. But it can't beat Ru                 ... pos = 0.625 	neg = 0.0  
+7. A complex character,                 ... pos = 1.0   	neg = 0.0  
+8. Crowe put on weight                  ... pos = 0.0   	neg = 0.25 
+9. The Insider has prov                 ... pos = 0.875 	neg = 0.25 
+10. In particular, Mike                 ... pos = 0.0   	neg = 0.625
+11. The tobacco company                 ... pos = 0.0   	neg = 0.75 
+12. How accurate the fil                ... pos = 1.125 	neg = 0.375
+13. Does it really matte                ... pos = 0.0   	neg = 0.0  
+14. I think it does.                    ... pos = 0.0   	neg = 0.0  
+15. All The President's                 ... pos = 1.625 	neg = 0.375
+16. Such films can have                 ... pos = 1.125 	neg = 0.0  
+17. Although I've read W                ... pos = 0.0   	neg = 0.125
+18. Probably the same is                ... pos = 2.0   	neg = 0.25 
+19. I think filmmakers h                ... pos = 1.75  	neg = 0.0  
+20. At the other extreme                ... pos = 0.125 	neg = 0.375
+21. Tackling a tricky su                ... pos = 1.5   	neg = 0.875
+22. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6183-312 is Positive         ... pos = 18.0  	neg = 5.75 
+Overall score of document
+Total Pos = 18.0
+Total Neg = 5.75
+---------------------------------------------------------------------------

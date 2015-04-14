@@ -1,0 +1,49 @@
+0. "Are we shooting?                    ... pos = 0     	neg = 0.0  
+1. " Starring George Cl                 ... pos = 0.0   	neg = 0.0  
+2. Rated R.. If Three K                 ... pos = 1.125 	neg = 0.125
+3. It is being vocifero                 ... pos = 0.375 	neg = 0.25 
+4. It is decidely not s                 ... pos = 1.25  	neg = 0.625
+5. No -- the comedy her                 ... pos = 0.75  	neg = 0.625
+6. The amazing thing is                 ... pos = 1.5   	neg = 0.375
+7. It's an unrestrained                 ... pos = 0.375 	neg = 0.0  
+8. It's in the spirit o                 ... pos = 0.125 	neg = 0.0  
+9. It's also the second                 ... pos = 0.75  	neg = 0.0  
+10. Actually, it takes p                ... pos = 0.25  	neg = 0.0  
+11. Bored and thinking o                ... pos = 0.0   	neg = 0.0  
+12. After finding a map                 ... pos = 0.0   	neg = 0.375
+13. This isn't just any                 ... pos = 0.125 	neg = 0.125
+14. Kuwait wants it back                ... pos = 0.25  	neg = 0.25 
+15. Instead, they hope t                ... pos = 0.625 	neg = 0.25 
+16. Let's backtrack for                 ... pos = 0.0   	neg = 0    
+17. As the movie opens,                 ... pos = 0.0   	neg = 0.375
+18. " For those in doubt                ... pos = 0.25  	neg = 0.75 
+19. " You see, none of t                ... pos = 0.125 	neg = 0.0  
+20. One of them remarks                 ... pos = 0.125 	neg = 0.0  
+21. Take a picture.                     ... pos = 0.0   	neg = 0    
+22. ". Be careful what y                ... pos = 0.5   	neg = 1.0  
+23. The "action" they we                ... pos = 0.0   	neg = 0.25 
+24. They come to look fo                ... pos = 0.125 	neg = 0.375
+25. There, they discover                ... pos = 0.5   	neg = 0.0  
+26. They are not allowed                ... pos = 0.625 	neg = 0.0  
+27. Archie's humane inst                ... pos = 0.875 	neg = 0.25 
+28. Three Kings is about                ... pos = 0.125 	neg = 0.375
+29. What are our priorit                ... pos = 0.25  	neg = 0.25 
+30. What would happen if                ... pos = 0.0   	neg = 0.25 
+31. Whose is he to follo                ... pos = 0.0   	neg = 0.125
+32. These questions are                 ... pos = 2.25  	neg = 0.0  
+33. This is a movie wher                ... pos = 1.375 	neg = 0.25 
+34. The standout perform                ... pos = 1.5   	neg = 0.125
+35. For possibly the fir                ... pos = 0.75  	neg = 0.125
+36. Wahlberg plays the m                ... pos = 0.25  	neg = 0.0  
+37. Directed by David O.                ... pos = 1.875 	neg = 0.625
+38. Russell uses an inte                ... pos = 1.375 	neg = 0.0  
+39. Though this elicited                ... pos = 0.5   	neg = 0.5  
+40. " I'm not sure I dis                ... pos = 0.625 	neg = 0.5  
+41. Three Kings is exhil                ... pos = 0.125 	neg = 0.125
+42. It's a better war dr                ... pos = 2.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3790-563 is Positive         ... pos = 23.875 	neg = 9.5  
+Overall score of document
+Total Pos = 23.875
+Total Neg = 9.5
+---------------------------------------------------------------------------

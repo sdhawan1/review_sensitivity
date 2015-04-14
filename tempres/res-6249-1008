@@ -1,0 +1,38 @@
+0. *** (out of 4) There                 ... pos = 0.375 	neg = 0.0  
+1. First, the plot is a                 ... pos = 1.125 	neg = 0.375
+2. It involves a flight                 ... pos = 0.0   	neg = 0.0  
+3. When the cops catch                  ... pos = 0.125 	neg = 0.25 
+4. Then she tells her "                 ... pos = 0.0   	neg = 0.25 
+5. We can't tell what s                 ... pos = 0.375 	neg = 0.0  
+6. Second, the performa                 ... pos = 0.375 	neg = 0    
+7. The most surprising                  ... pos = 1.0   	neg = 0.0  
+8. One is convinced tha                 ... pos = 0.125 	neg = 0.25 
+9. Samuel L. Jackson as                 ... pos = 0.25  	neg = 0.0  
+10. Pam Grier makes a so                ... pos = 0.875 	neg = 0.25 
+11. Third, whether you l                ... pos = 0.5   	neg = 0.375
+12. The cop-funk music,                 ... pos = 0.375 	neg = 0.125
+13. But Jackson's millin                ... pos = 0.0   	neg = 0.375
+14. The pot-smoking blon                ... pos = 0.0   	neg = 0.125
+15. Finally, The cinemat                ... pos = 0.625 	neg = 0.625
+16. (Cinematographer Gui                ... pos = 0.0   	neg = 0.0  
+17. ) Early on, JACKIE B                ... pos = 0.0   	neg = 0.375
+18. Long takes with a st                ... pos = 0.125 	neg = 0.375
+19. In fact, one of the                 ... pos = 0.125 	neg = 0.5  
+20. After quite a while,                ... pos = 0.0   	neg = 0.0  
+21. She was framed out o                ... pos = 0.0   	neg = 0.125
+22. It was a clever way                 ... pos = 0.5   	neg = 0.75 
+23. Toward the end, a cr                ... pos = 1.875 	neg = 0.125
+24. It was a nice little                ... pos = 0.25  	neg = 0.375
+25. Since it is critical                ... pos = 0.25  	neg = 0.25 
+26. One final point is w                ... pos = 0.75  	neg = 0.125
+27. I am constantly surp                ... pos = 0.625 	neg = 0.5  
+28. Actors are chosen fo                ... pos = 1.0   	neg = 0.0  
+29. I think it's great t                ... pos = 0.5   	neg = 0.125
+30. Congratulations to T                ... pos = 0.125 	neg = 0.0  
+31. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-1008 is Positive        ... pos = 12.25 	neg = 6.625
+Overall score of document
+Total Pos = 12.25
+Total Neg = 6.625
+---------------------------------------------------------------------------

@@ -1,0 +1,56 @@
+0. review by Scott Hunt                 ... pos = 0.0   	neg = 0.0  
+1. Visit me at Movie Hu                 ... pos = 0.0   	neg = 0.0  
+2. (4 out of 4 stars).                  ... pos = 0.25  	neg = 0.0  
+3. It's a statement tha                 ... pos = 0.25  	neg = 0.5  
+4. Gladiator is a film                  ... pos = 0.875 	neg = 0.125
+5. Homeric in scale, it                 ... pos = 1.0   	neg = 0.125
+6. Nestled within a gra                 ... pos = 1.125 	neg = 0.0  
+7. Crowe is General Max                 ... pos = 0.0   	neg = 1.0  
+8. Harris effectively c                 ... pos = 2.0   	neg = 0.125
+9. He visits Maximus on                 ... pos = 0.0   	neg = 0.0  
+10. The battle opens the                ... pos = 0.0   	neg = 0    
+11. It's filmed in deepl                ... pos = 0.625 	neg = 0.0  
+12. The whole film is su                ... pos = 2.125 	neg = 0.125
+13. Director Scott uses                 ... pos = 0.0   	neg = 0.0  
+14. His pace is so frene                ... pos = 0.0   	neg = 0.75 
+15. It's disconcerting a                ... pos = 0.375 	neg = 0.5  
+16. As the battle is won                ... pos = 0.0   	neg = 0.375
+17. The contrast between                ... pos = 0.875 	neg = 0.125
+18. As the army tends to                ... pos = 0.75  	neg = 0.875
+19. It is the Ceasar's w                ... pos = 0.0   	neg = 0.625
+20. It's a request that                 ... pos = 0.0   	neg = 0.0  
+21. A simple farmer at h                ... pos = 1.0   	neg = 0.0  
+22. Later, as Aurelius e                ... pos = 1.625 	neg = 0.0  
+23. The scene plays out                 ... pos = 0.0   	neg = 1.0  
+24. Phoenix plays Commod                ... pos = 0.875 	neg = 0.375
+25. He is a man seriousl                ... pos = 0.5   	neg = 0.125
+26. Revealed around the                 ... pos = 0.625 	neg = 0.125
+27. Time and again, much                ... pos = 1.0   	neg = 0.125
+28. I found it a bewilde                ... pos = 0.125 	neg = 0.25 
+29. It seems as if Lucil                ... pos = 0.875 	neg = 0.75 
+30. The implication is t                ... pos = 0.25  	neg = 0.875
+31. When she gives a spe                ... pos = 1.625 	neg = 0.0  
+32. Not to reveal the en                ... pos = 1.0   	neg = 0.125
+33. As each gladiator ev                ... pos = 1.5   	neg = 0.25 
+34. Whether it was Scott                ... pos = 0.25  	neg = 1.0  
+35. As Gladiator (Maximu                ... pos = 0.375 	neg = 0.0  
+36. Commodus comes to re                ... pos = 0.25  	neg = 0.25 
+37. As Commodus manipula                ... pos = 1.25  	neg = 0.375
+38. Crowe's Gladiator is                ... pos = 0.125 	neg = 0.125
+39. For him, fighting is                ... pos = 0.0   	neg = 0.375
+40. He eschews flashines                ... pos = 0.125 	neg = 0.25 
+41. This is not a superm                ... pos = 0.0   	neg = 0.125
+42. He is a simple man,                 ... pos = 1.5   	neg = 0.25 
+43. By downplaying the i                ... pos = 0.875 	neg = 0.0  
+44. Crowe's oft displaye                ... pos = 0.625 	neg = 0.125
+45. His yearnings and se                ... pos = 1.125 	neg = 0.0  
+46. Oliver Reed is an eq                ... pos = 0.875 	neg = 0.125
+47. Djimon Hounsou soulf                ... pos = 0.75  	neg = 0    
+48. Gladiator doesn't co                ... pos = 0.375 	neg = 0.625
+49. It  manages to trave                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2439-1217 is Positive        ... pos = 30.25 	neg = 12.875
+Overall score of document
+Total Pos = 30.25
+Total Neg = 12.875
+---------------------------------------------------------------------------

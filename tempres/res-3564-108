@@ -1,0 +1,63 @@
+0. USA.                                 ... pos = 0     	neg = 0.0  
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director - Barry Lev                 ... pos = 0.0   	neg = 1.0  
+3. Production Company -                 ... pos = 0.0   	neg = 0.0  
+4. Dustin Hoffman (Dr N                 ... pos = 0.625 	neg = 0.375
+5. Entering the craft t                 ... pos = 0.125 	neg = 0.5  
+6. At the heart of the                  ... pos = 0.75  	neg = 0.125
+7. After one of the tea                 ... pos = 0.625 	neg = 0.5  
+8. Nobody, with the exc                 ... pos = 0.25  	neg = 0.0  
+9. In the 1970s  Cricht                 ... pos = 0.375 	neg = 0.0  
+10. But after that point                ... pos = 0.125 	neg = 0.25 
+11. Crichton's appeal wa                ... pos = 0.125 	neg = 1.0  
+12. But after `Star Wars                ... pos = 1.125 	neg = 1.25 
+13. In `The Encyclopedia                ... pos = 0.0   	neg = 0.0  
+14. Nicholls'  slightly                 ... pos = 0.75  	neg = 0.25 
+15. It is a measure  of                 ... pos = 0.0   	neg = 0.625
+16. Crichton also had th                ... pos = 0.375 	neg = 0.0  
+17. `Jurassic Park' was                 ... pos = 0.625 	neg = 0.25 
+18. Crichton's  middle n                ... pos = 0.125 	neg = 0.0  
+19. Although Crichton ha                ... pos = 0.25  	neg = 0.125
+20. The `Jurassic Park'                 ... pos = 0.5   	neg = 0.125
+21. (As of this writing                 ... pos = 0.5   	neg = 0.25 
+22. Certainly `Sphere' i                ... pos = 0.375 	neg = 0.125
+23. In it Crichton  seem                ... pos = 0.125 	neg = 1.25 
+24. Crichton's novels ar                ... pos = 1.125 	neg = 0.125
+25. To return to Nicholl                ... pos = 1.5   	neg = 1.5  
+26. `Jurassic Park' is                  ... pos = 1.375 	neg = 0.25 
+27. `Sphere' comes direc                ... pos = 0.25  	neg = 0.0  
+28. The  script adaption                ... pos = 1.0   	neg = 0.125
+29. And `Sphere' is real                ... pos = 0.75  	neg = 0.125
+30. There is perhaps a l                ... pos = 0.5   	neg = 0.625
+31. There is also an  ex                ... pos = 1.0   	neg = 0.125
+32. Levinson and photogr                ... pos = 0.125 	neg = 0.0  
+33. And the combined eff                ... pos = 0.25  	neg = 0.5  
+34. Levinson and Attanas                ... pos = 0.625 	neg = 0.0  
+35. But oddly `Sphere' h                ... pos = 0.5   	neg = 1.0  
+36. It is puzzling as to                ... pos = 0.75  	neg = 0.5  
+37. One suspects  the re                ... pos = 1.25  	neg = 0.375
+38. There are no show-st                ... pos = 0.5   	neg = 0.25 
+39. Crichton is an oddly                ... pos = 0.5   	neg = 0.125
+40. On one hand he has a                ... pos = 0.625 	neg = 0.125
+41. Underneath all of Cr                ... pos = 0.0   	neg = 0.0  
+42. Crichton fears that                 ... pos = 2.0   	neg = 2.25 
+43. In  `Jurassic Park'                 ... pos = 0.5   	neg = 0.375
+44. And in `Sphere' Cric                ... pos = 0.375 	neg = 0.0  
+45. One film that makes                 ... pos = 0.0   	neg = 0.125
+46. Both are films about                ... pos = 0.25  	neg = 0.0  
+47. But where `Contact'                 ... pos = 3.375 	neg = 1.75 
+48. People have rushed t                ... pos = 0.0   	neg = 0.125
+49. There are undeniable                ... pos = 1.0   	neg = 1.125
+50. A further point of c                ... pos = 1.125 	neg = 0.75 
+51. Of course the one  f                ... pos = 0.5   	neg = 0.125
+52. But `Sphere' and  `T                ... pos = 0.0   	neg = 0.0  
+53. It may be heretical                 ... pos = 1.5   	neg = 0.375
+54. `The Abyss' had some                ... pos = 0.75  	neg = 0.5  
+55. `Sphere' works to a                 ... pos = 1.75  	neg = 0.0  
+56. Possibly this a film                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3564-108 is Positive         ... pos = 33.625 	neg = 21.25
+Overall score of document
+Total Pos = 33.625
+Total Neg = 21.25
+---------------------------------------------------------------------------

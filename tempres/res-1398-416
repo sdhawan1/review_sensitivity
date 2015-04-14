@@ -1,0 +1,57 @@
+0. Starring: Chow Yun-F                 ... pos = 0.375 	neg = 1.0  
+1. The story is simple:                 ... pos = 0.25  	neg = 0.125
+2. This angers his powe                 ... pos = 0.625 	neg = 0.625
+3. At first John's main                 ... pos = 0.375 	neg = 0.5  
+4. So he meets up with                  ... pos = 0.0   	neg = 0.0  
+5. But apparently it's                  ... pos = 0.0   	neg = 0.125
+6. They're in over thei                 ... pos = 0.0   	neg = 0.0  
+7. The rest of the movi                 ... pos = 0.0   	neg = 0.125
+8. ' When the bullets s                 ... pos = 0.0   	neg = 0.0  
+9. THE REPLACEMENT KILL                 ... pos = 0.0   	neg = 0.125
+10. The cinematography i                ... pos = 0.25  	neg = 0.125
+11. Opinion: With THE RE                ... pos = 0.25  	neg = 0.25 
+12. Picture a 1950s blac                ... pos = 0.0   	neg = 0.0  
+13. Outlaw samurai blows                ... pos = 0.25  	neg = 1.0  
+14. But an even nastier                 ... pos = 0.125 	neg = 0.125
+15. The outlaw hero ends                ... pos = 1.625 	neg = 0.25 
+16. Then he walks off in                ... pos = 0.0   	neg = 0.625
+17. Fast forward to the                 ... pos = 0.0   	neg = 0.0  
+18. Take the same movie,                ... pos = 0.25  	neg = 0.25 
+19. Outlaw gunfighter (p                ... pos = 0.25  	neg = 1.0  
+20. But a nastier outlaw                ... pos = 0.125 	neg = 0.375
+21. The outlaw gunfighte                ... pos = 1.125 	neg = 0.25 
+22. Then he rides a hors                ... pos = 0.0   	neg = 0.625
+23. Now it's 1998.                      ... pos = 0.0   	neg = 0    
+24. Add cool music, arts                ... pos = 0.125 	neg = 0.125
+25. The outlaw gunfighte                ... pos = 0.25  	neg = 1.125
+26. But a mafia-type mob                ... pos = 0.375 	neg = 0.125
+27. The oriental assassi                ... pos = 1.125 	neg = 0.0  
+28. Then he rides a plan                ... pos = 0.0   	neg = 0.625
+29. THE REPLACEMENT KILL                ... pos = 1.25  	neg = 0.375
+30. Mira Sorvino does a                 ... pos = 1.25  	neg = 0.125
+31. Stars: 1.                           ... pos = 0     	neg = 0    
+32. Chow Yun-Fat Put sim                ... pos = 0.625 	neg = 0.25 
+33. Fat was born a poor                 ... pos = 0.25  	neg = 0.125
+34. He began laboring at                ... pos = 0.0   	neg = 0.25 
+35. He never completed a                ... pos = 1.0   	neg = 0.0  
+36. A TV network sent tw                ... pos = 0.5   	neg = 0.5  
+37. The rest, as they sa                ... pos = 0.0   	neg = 0.125
+38. Fat - - who hates to                ... pos = 0.125 	neg = 0.625
+39. He once played an id                ... pos = 0.875 	neg = 0.125
+40. And like Susan Lucci                ... pos = 0.0   	neg = 0.25 
+41. Like Richard Gere, C                ... pos = 0.0   	neg = 0.875
+42. And like James Cagne                ... pos = 0.0   	neg = 0.0  
+43. A versatile actor, F                ... pos = 0.25  	neg = 0.0  
+44. Though he has worked                ... pos = 0.0   	neg = 0.125
+45. It took a year and h                ... pos = 0.0   	neg = 0.0  
+46. The burning question                ... pos = 1.875 	neg = 0.25 
+47. 2.                                  ... pos = 0     	neg = 0    
+48. Mira Sorvino  Mira i                ... pos = 0.0   	neg = 0.125
+49. She once spent eight                ... pos = 0.0   	neg = 0.125
+50. She won an Oscar in                 ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1398-416 is Positive         ... pos = 16.375 	neg = 13.75
+Overall score of document
+Total Pos = 16.375
+Total Neg = 13.75
+---------------------------------------------------------------------------

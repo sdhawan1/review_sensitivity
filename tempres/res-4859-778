@@ -1,0 +1,44 @@
+0. Review by Lars Linda                 ... pos = 0.5   	neg = 0.625
+1. You know the type: h                 ... pos = 0.5   	neg = 0.125
+2. Oscar-hungry directo                 ... pos = 0.625 	neg = 0.625
+3. As Gibson delivers l                 ... pos = 0.125 	neg = 0.25 
+4. Oddly enough, The Pa                 ... pos = 0.75  	neg = 0.875
+5. At times absorbing,                  ... pos = 1.75  	neg = 0.5  
+6. I probably would hav                 ... pos = 0.0   	neg = 0.5  
+7. Some of the images a                 ... pos = 1.75  	neg = 0.25 
+8. Like Emmerich's ID4,                 ... pos = 0.25  	neg = 1.0  
+9. Sure it's predictabl                 ... pos = 0.5   	neg = 0.125
+10. And isn't that the p                ... pos = 0.0   	neg = 0.0  
+11. Gibson plays Benjami                ... pos = 1.0   	neg = 0.125
+12. He is left to father                ... pos = 0.0   	neg = 0.125
+13. As the Revolutionary                ... pos = 0.0   	neg = 0.375
+14. But when the oldest                 ... pos = 0.625 	neg = 0.875
+15. Forming a band of ag                ... pos = 1.0   	neg = 0.0  
+16. The best parts of Th                ... pos = 0.75  	neg = 0    
+17. Every time the farme                ... pos = 0.25  	neg = 0.625
+18. And as the tension g                ... pos = 0.125 	neg = 0.125
+19. As for the numerous                 ... pos = 0.375 	neg = 0    
+20. Clearer and more rea                ... pos = 1.25  	neg = 0.0  
+21. You really get a sen                ... pos = 0.125 	neg = 0.125
+22. Everything is perfor                ... pos = 0.25  	neg = 0.125
+23. It's organized, stra                ... pos = 0.0   	neg = 0.625
+24. There is a very inte                ... pos = 0.5   	neg = 0.125
+25. What drives Martin t                ... pos = 0.75  	neg = 0.0  
+26. Played wonderfully b                ... pos = 0.875 	neg = 0.125
+27. This character is vi                ... pos = 1.875 	neg = 0.875
+28. His portrayal has sp                ... pos = 0.25  	neg = 0.0  
+29. " I disagree with th                ... pos = 0.125 	neg = 0.0  
+30. Tavington does not r                ... pos = 0.375 	neg = 0.25 
+31. Besides Tavington, t                ... pos = 0.25  	neg = 0.25 
+32. And stick figures ma                ... pos = 0.875 	neg = 0.875
+33. Heck, why not spend                 ... pos = 0.75  	neg = 0.0  
+34. The Patriot is three                ... pos = 0.125 	neg = 0.125
+35. With an action hero                 ... pos = 1.0   	neg = 0.625
+36. God Bless America!                  ... pos = 0     	neg = 0.0  
+37. And God Bless The Pa                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4859-778 is Positive         ... pos = 20.25 	neg = 11.25
+Overall score of document
+Total Pos = 20.25
+Total Neg = 11.25
+---------------------------------------------------------------------------

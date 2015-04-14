@@ -1,0 +1,40 @@
+0. A copy of thsi revie                 ... pos = 0.25  	neg = 0.25 
+1. Good old Walt's stud                 ... pos = 0.875 	neg = 0.0  
+2. Branches from  the M                 ... pos = 0.375 	neg = 0.0  
+3. This product of the                  ... pos = 0.75  	neg = 0.375
+4. "Back in 1995, retai                 ... pos = 0.0   	neg = 0.125
+5. " Tour  Guide Barbie                 ... pos = 0.875 	neg = 0.0  
+6. (That was after Powe                 ... pos = 0.0   	neg = 0.25 
+7. ) It is no  coincide                 ... pos = 0.125 	neg = 0.5  
+8. The original tale of                 ... pos = 0.125 	neg = 0.125
+9. So was the original                  ... pos = 0.0   	neg = 0.125
+10. Remember what happen                ... pos = 0.125 	neg = 0.0  
+11. It made more money i                ... pos = 0.375 	neg = 0.0  
+12. And with Pokemon qui                ... pos = 1.0   	neg = 0.75 
+13. Woody (voice of Tom                 ... pos = 0.75  	neg = 0.0  
+14. This time around,  t                ... pos = 0.25  	neg = 0.75 
+15. Al (voice of Wayne K                ... pos = 1.125 	neg = 0.125
+16. Soon Woody is abduct                ... pos = 0.125 	neg = 0.25 
+17. Our new hero, Buzz L                ... pos = 1.125 	neg = 0.0  
+18. I couldn't  call mys                ... pos = 0.125 	neg = 0.0  
+19. " He is joined  by M                ... pos = 0.0   	neg = 0.125
+20. Potato Head (voice o                ... pos = 0.0   	neg = 0.625
+21. Their mission entail                ... pos = 0.375 	neg = 0.625
+22. Pixar, the animation                ... pos = 0.375 	neg = 0.0  
+23. In the immediate wak                ... pos = 1.5   	neg = 0.375
+24. Toy Story 2's openin                ... pos = 1.0   	neg = 0.125
+25. It is introduced at                 ... pos = 0.25  	neg = 0.125
+26. Pikachu's Vacation i                ... pos = 0.0   	neg = 0.5  
+27. Needless to say that                ... pos = 0.0   	neg = 0.375
+28. Toy Story 2 also thr                ... pos = 0.125 	neg = 0.625
+29. The animation is so                 ... pos = 0.0   	neg = 0.25 
+30. This is best  highli                ... pos = 0.375 	neg = 0.125
+31. The gang is back and                ... pos = 0.0   	neg = 0.5  
+32. Buzz Lightyear says                 ... pos = 0.375 	neg = 0.125
+33. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-395-592 is Positive          ... pos = 12.75 	neg = 8.125
+Overall score of document
+Total Pos = 12.75
+Total Neg = 8.125
+---------------------------------------------------------------------------

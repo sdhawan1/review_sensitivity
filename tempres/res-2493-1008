@@ -1,0 +1,49 @@
+0. ** (out of 4) Lake P                 ... pos = 0.0   	neg = 1.0  
+1. But for a bad movie,                 ... pos = 0.125 	neg = 1.0  
+2. It has a good cast a                 ... pos = 0.0   	neg = 0    
+3. " What else could yo                 ... pos = 0.0   	neg = 0.625
+4. (Okay, maybe Discove                 ... pos = 0.0   	neg = 0.125
+5. ). Lake Placid comes                 ... pos = 0.25  	neg = 0.75 
+6. and Piranha!                         ... pos = 0     	neg = 0    
+7. Its ancestors never                  ... pos = 1.75  	neg = 0.0  
+8. It is unmistakably a                 ... pos = 0.0   	neg = 0.125
+9. The ferocious animal                 ... pos = 0.25  	neg = 0.5  
+10. Nobody knows how he                 ... pos = 0.0   	neg = 0.0  
+11. The first sign of hi                ... pos = 0.875 	neg = 0.125
+12. Now, some people are                ... pos = 0.25  	neg = 0.0  
+13. Four people ultimate                ... pos = 0.75  	neg = 1.0  
+14. Leaving the monster                 ... pos = 0.625 	neg = 0.25 
+15. Kelly (Fonda) had be                ... pos = 0.75  	neg = 0.75 
+16. Jack (Pullman) is a                 ... pos = 0.125 	neg = 0.125
+17. The plot suggests th                ... pos = 0.375 	neg = 0.25 
+18. They were one of the                ... pos = 0.0   	neg = 0.5  
+19. On the other hand, t                ... pos = 0.0   	neg = 0.125
+20. No, it was not sexua                ... pos = 0.0   	neg = 0.5  
+21. The sheriff was star                ... pos = 0.0   	neg = 0.125
+22. Inevitably, they wou                ... pos = 0.0   	neg = 0.0  
+23. The professor is jus                ... pos = 0.5   	neg = 0.375
+24. Platt and Gleeson sa                ... pos = 0.875 	neg = 0.25 
+25. They fed off each ot                ... pos = 0.0   	neg = 0.875
+26. Their arguments were                ... pos = 0.375 	neg = 0.125
+27. I am sure their elec                ... pos = 2.375 	neg = 0.25 
+28. I wouldn't say they                 ... pos = 0.75  	neg = 1.125
+29. In contrast, the com                ... pos = 0.625 	neg = 0.125
+30. Dolores lives at the                ... pos = 0.0   	neg = 0.0  
+31. It is supposed to be                ... pos = 0.0   	neg = 0.625
+32. Actually, it was kin                ... pos = 0.0   	neg = 1.0  
+33. As for the movie's m                ... pos = 1.375 	neg = 0.125
+34. For the most part, h                ... pos = 0.125 	neg = 0.25 
+35. The image of a huge                 ... pos = 0.75  	neg = 0.375
+36. And when the thing m                ... pos = 0.0   	neg = 0.625
+37. So even though I kno                ... pos = 0.125 	neg = 1.0  
+38. Still, I cannot in g                ... pos = 0.75  	neg = 0.25 
+39. It really is a b-mov                ... pos = 0.0   	neg = 0.125
+40. The plot is pure for                ... pos = 1.25  	neg = 0.5  
+41. If you go, take your                ... pos = 0.125 	neg = 1.0  
+42. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2493-1008 is Negative        ... pos = 16.125 	neg = 16.875
+Overall score of document
+Total Pos = 16.125
+Total Neg = 16.875
+---------------------------------------------------------------------------

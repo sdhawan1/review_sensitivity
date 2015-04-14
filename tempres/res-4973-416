@@ -1,0 +1,19 @@
+0. Starring: Michael Do                 ... pos = 1.0   	neg = 0.625
+1. Synopsis:  Perhaps b                 ... pos = 0.0   	neg = 0.25 
+2. As a birthday presen                 ... pos = 0.5   	neg = 0.0  
+3. He waits for them to                 ... pos = 0.0   	neg = 0.0  
+4. Four or five live-th                 ... pos = 0.375 	neg = 0.5  
+5. Van Orton gets a gun                 ... pos = 0.0   	neg = 0.125
+6. Just when it seems a                 ... pos = 0.25  	neg = 0.25 
+7. Opinion: It's slight                 ... pos = 0.25  	neg = 0.5  
+8. But it doesn't matte                 ... pos = 0.125 	neg = 0.5  
+9. The plot keeps you i                 ... pos = 0.125 	neg = 0.25 
+10. Adding to the murky                 ... pos = 0.25  	neg = 0.375
+11. Michael Douglas turn                ... pos = 1.875 	neg = 0.0  
+12. Deborah Kara Unger p                ... pos = 0.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4973-416 is Positive         ... pos = 5.25  	neg = 3.75 
+Overall score of document
+Total Pos = 5.25
+Total Neg = 3.75
+---------------------------------------------------------------------------

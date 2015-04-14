@@ -1,0 +1,30 @@
+0. Because of our curre                 ... pos = 0.5   	neg = 0.5  
+1. Choices: "Twin Drago                 ... pos = 0.0   	neg = 0.0  
+2. Not wanting to see a                 ... pos = 0.25  	neg = 0.875
+3. About 30 minutes int                 ... pos = 0.625 	neg = 0.625
+4. Called on to produce                 ... pos = 0.5   	neg = 0.625
+5. Things start clickin                 ... pos = 0.0   	neg = 0.0  
+6. The comedy is transf                 ... pos = 0.0   	neg = 0.125
+7. This new play reflec                 ... pos = 1.0   	neg = 0.125
+8. The film is very goo                 ... pos = 1.5   	neg = 0.125
+9. There's, of course,                  ... pos = 0.0   	neg = 1.25 
+10. Fundamentally, Viola                ... pos = 0.375 	neg = 0.125
+11. Her wealthy merchant                ... pos = 0.125 	neg = 1.403
+12. The nobleman in ques                ... pos = 0.0   	neg = 0.25 
+13. It's for the love of                ... pos = 0.75  	neg = 0.0  
+14. The film's writers,                 ... pos = 0.75  	neg = 0.0  
+15. I know a couple of t                ... pos = 1.0   	neg = 0.25 
+16. The disguise of Viol                ... pos = 0.25  	neg = 0.75 
+17. There's also the Sup                ... pos = 0.5   	neg = 0.375
+18. This happens often i                ... pos = 0.0   	neg = 0.0  
+19. I'm sure other revie                ... pos = 0.25  	neg = 0.0  
+20. Shakespeare's phrase                ... pos = 0.875 	neg = 1.0  
+21. One wonders how Shak                ... pos = 1.5   	neg = 0.0  
+22. One wonders how the                 ... pos = 0.875 	neg = 0.0  
+23. This film should get                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1433-1441 is Positive        ... pos = 12.25 	neg = 8.528
+Overall score of document
+Total Pos = 12.25
+Total Neg = 8.528
+---------------------------------------------------------------------------

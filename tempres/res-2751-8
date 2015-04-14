@@ -1,0 +1,42 @@
+0. http://hometown.aol.                 ... pos = 0.125 	neg = 0.0  
+1. Murphy has been in a                 ... pos = 0.0   	neg = 0.875
+2. Martin has been in a                 ... pos = 0.0   	neg = 0.125
+3. Bilko, are nowhere n                 ... pos = 0.25  	neg = 0.375
+4. Both actors are tryi                 ... pos = 0.75  	neg = 0.625
+5. Bobby Bowfinger (Ste                 ... pos = 0.0   	neg = 0.125
+6. After his accountant                 ... pos = 0.0   	neg = 0.125
+7. After Kit declines a                 ... pos = 0.0   	neg = 0.125
+8. Love the setup- Too                  ... pos = 0.625 	neg = 1.25 
+9. As Bowfinger is just                 ... pos = 1.25  	neg = 0.375
+10. Bowfinger realizes t                ... pos = 0.125 	neg = 0.375
+11. Jiff is a nice, inno                ... pos = 0.625 	neg = 0.25 
+12. Eddie Murphy works w                ... pos = 0.0   	neg = 0.0  
+13. The film, at a short                ... pos = 0.5   	neg = 0.125
+14. If the main focus wa                ... pos = 0.5   	neg = 0.25 
+15. It's not that the ch                ... pos = 1.125 	neg = 0.375
+16. Now, maybe if Jiff w                ... pos = 0.0   	neg = 0.125
+17. Martin's screenplay                 ... pos = 0.875 	neg = 0.0  
+18. Yet at other times,                 ... pos = 0.75  	neg = 0.25 
+19. For example- Daisy i                ... pos = 0.875 	neg = 1.0  
+20. Bowfinger never seem                ... pos = 0.0   	neg = 0.875
+21. The only times we ge                ... pos = 2.0   	neg = 1.0  
+22. Baranski overdoes al                ... pos = 1.625 	neg = 0.125
+23. Baranski is the stan                ... pos = 0.875 	neg = 0.25 
+24. Heather Graham attem                ... pos = 0.125 	neg = 0.0  
+25. Although the screenp                ... pos = 1.125 	neg = 0.375
+26. Eddie Murphy is stuc                ... pos = 0.25  	neg = 1.028
+27. Bowfinger isn't the                 ... pos = 0.125 	neg = 0.625
+28. It's not fair to cal                ... pos = 2.125 	neg = 0.125
+29. The screenplay uses                 ... pos = 0.875 	neg = 0.375
+30. Jamie Kennedy's tale                ... pos = 0.5   	neg = 0.25 
+31. If the screenplay is                ... pos = 0.875 	neg = 0.125
+32. In another example,                 ... pos = 0.125 	neg = 0.125
+33. Some of the gags in                 ... pos = 1.375 	neg = 1.875
+34. Frank Oz and Steve M                ... pos = 1.0   	neg = 0.5  
+35. The Bottom Line- Edd                ... pos = 0.0   	neg = 0.778
+---------------------------------------------------------------------------
+./temp/tmp-2751-8 is Positive           ... pos = 21.375 	neg = 15.181
+Overall score of document
+Total Pos = 21.375
+Total Neg = 15.181
+---------------------------------------------------------------------------

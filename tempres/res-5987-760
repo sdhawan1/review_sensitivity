@@ -1,0 +1,45 @@
+0. Director:  Randall                  ... pos = 0.0   	neg = 0.0  
+1. US Distribution:  M                 ... pos = 0.75  	neg = 1.0  
+2. On that note, I'd sa                 ... pos = 0.75  	neg = 0.25 
+3. Randall Wallace's Th                 ... pos = 0.5   	neg = 0.25 
+4. This is not a film o                 ... pos = 0.625 	neg = 0.25 
+5. But I did want it to                 ... pos = 0.0   	neg = 0.25 
+6. "  And while it is t                 ... pos = 1.375 	neg = 0.75 
+7. The result is a fran                 ... pos = 0.5   	neg = 0.25 
+8. DiCaprio plays Louis                 ... pos = 0.875 	neg = 0.0  
+9. He's mostly interest                 ... pos = 0.0   	neg = 0.25 
+10. His personal bodygua                ... pos = 0.0   	neg = 0.125
+11. D'Artagnan was once                 ... pos = 0.0   	neg = 0.125
+12. The musketeers--Aram                ... pos = 0.125 	neg = 0.0  
+13. Conflicts arise when                ... pos = 0.0   	neg = 0.875
+14. When Raul is killed,                ... pos = 0.125 	neg = 0.375
+15. The remaining three                 ... pos = 0.0   	neg = 0.0  
+16. Aramis knows of a ma                ... pos = 0.375 	neg = 0.25 
+17. He is the twin broth                ... pos = 0.5   	neg = 0.25 
+18. The film frequently                 ... pos = 0.0   	neg = 0    
+19. Take, for instance,                 ... pos = 0.125 	neg = 0.0  
+20. DiCaprio, once again                ... pos = 1.0   	neg = 0.0  
+21. Depardieu seems to b                ... pos = 0.5   	neg = 1.0  
+22. The film also allows                ... pos = 0.125 	neg = 0.0  
+23. The film doesn't eve                ... pos = 0.0   	neg = 0.0  
+24. Sure, there's foresh                ... pos = 0.25  	neg = 0.0  
+25. The main characters                 ... pos = 1.25  	neg = 0.5  
+26. I suppose this expla                ... pos = 1.625 	neg = 1.25 
+27. The best example of                 ... pos = 0.375 	neg = 0.25 
+28. This scene does elic                ... pos = 0.0   	neg = 0.25 
+29. On the whole, I'm di                ... pos = 0.0   	neg = 0.0  
+30. Irons and Malkovitch                ... pos = 0.25  	neg = 0.125
+31. DiCaprio is okay, bu                ... pos = 0.875 	neg = 0.75 
+32. Depardieu takes the                 ... pos = 1.0   	neg = 0.375
+33. There are no signifi                ... pos = 1.125 	neg = 1.875
+34. The best in the film                ... pos = 0.75  	neg = 0.25 
+35. What The Man in the                 ... pos = 0.5   	neg = 0.375
+36. The sets are great,                 ... pos = 1.0   	neg = 0.0  
+37. For a film that seem                ... pos = 0.0   	neg = 1.0  
+38. But I think most peo                ... pos = 0.875 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5987-760 is Positive         ... pos = 18.125 	neg = 13.75
+Overall score of document
+Total Pos = 18.125
+Total Neg = 13.75
+---------------------------------------------------------------------------

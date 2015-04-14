@@ -1,0 +1,23 @@
+0. Mumford Directed by:                 ... pos = 0.625 	neg = 0.25 
+1. He is highly success                 ... pos = 1.375 	neg = 0.25 
+2. Among his patients a                 ... pos = 1.0   	neg = 0.375
+3. Everything seems ide                 ... pos = 0.0   	neg = 0.125
+4. But there are proble                 ... pos = 0.25  	neg = 0.25 
+5. Mumford isn't quite                  ... pos = 0.0   	neg = 0.25 
+6. A rejected patient,                  ... pos = 0.125 	neg = 1.5  
+7. The local billionair                 ... pos = 0.125 	neg = 0.0  
+8. And Mumford finds hi                 ... pos = 0.625 	neg = 0.0  
+9. I watched this film                  ... pos = 0.375 	neg = 0.5  
+10. Of course, this film                ... pos = 0.25  	neg = 0.125
+11. But I suspect some p                ... pos = 0.125 	neg = 0.625
+12. This is a funny movi                ... pos = 0.0   	neg = 0.125
+13. It's also pretty obv                ... pos = 0.0   	neg = 0.125
+14. You are  never surpr                ... pos = 0.375 	neg = 0.0  
+15. But it does make you                ... pos = 0.0   	neg = 0.0  
+16. And what more can yo                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5743-812 is Positive         ... pos = 5.25  	neg = 4.625
+Overall score of document
+Total Pos = 5.25
+Total Neg = 4.625
+---------------------------------------------------------------------------

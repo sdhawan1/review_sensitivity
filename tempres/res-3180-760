@@ -1,0 +1,40 @@
+0. Director:  Terry Gi                 ... pos = 0.5   	neg = 0.125
+1. He's disoriented fro                 ... pos = 0.0   	neg = 0.0  
+2. He finds a flashligh                 ... pos = 0.375 	neg = 0.0  
+3. He doesn't remember                  ... pos = 0.125 	neg = 0.25 
+4. He gets off the bed                  ... pos = 0.375 	neg = 0.625
+5. As he, confused, mov                 ... pos = 0.25  	neg = 0.125
+6. If the above descrip                 ... pos = 0.375 	neg = 0.0  
+7. Fear and Loathing in                 ... pos = 0.75  	neg = 0.5  
+8. It's often a funny m                 ... pos = 1.0   	neg = 0.5  
+9. It's a painful and d                 ... pos = 0.25  	neg = 0.75 
+10. Many critics would c                ... pos = 0.375 	neg = 0.0  
+11. I haven't read it be                ... pos = 0.0   	neg = 0.25 
+12. I love Gilliam as a                 ... pos = 0.875 	neg = 0.125
+13. Both Brazil and The                 ... pos = 1.375 	neg = 0.0  
+14. Fear and Loathing ha                ... pos = 1.25  	neg = 0.625
+15. But he seems to go o                ... pos = 0.625 	neg = 0.75 
+16. There is, in fact, a                ... pos = 0.125 	neg = 0.125
+17. It centers around Du                ... pos = 1.0   	neg = 0.0  
+18. There are a many cam                ... pos = 0.25  	neg = 1.125
+19. There's one about a                 ... pos = 0.0   	neg = 0.125
+20. If there's one thing                ... pos = 0.0   	neg = 0.375
+21. The film begins on a                ... pos = 0.5   	neg = 0.625
+22. They think they see                 ... pos = 0.125 	neg = 0.0  
+23. They pick up a hitch                ... pos = 0.875 	neg = 0.0  
+24. Later, they drop aci                ... pos = 0.5   	neg = 1.0  
+25. Gilliam's presentati                ... pos = 0.875 	neg = 0.125
+26. The way the floor mo                ... pos = 0.875 	neg = 0.75 
+27. Depp, with this role                ... pos = 2.0   	neg = 0.125
+28. Del Toro is also goo                ... pos = 1.0   	neg = 0.25 
+29. But the film is too                 ... pos = 0.125 	neg = 0.375
+30. I'm sure Thompson's                 ... pos = 1.0   	neg = 0.125
+31. We get three (yes, t                ... pos = 0.0   	neg = 0.0  
+32. What Duke and Gonzo                 ... pos = 0.5   	neg = 1.5  
+33. I think that implica                ... pos = 0.875 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-3180-760 is Positive         ... pos = 19.125 	neg = 12.0 
+Overall score of document
+Total Pos = 19.125
+Total Neg = 12.0
+---------------------------------------------------------------------------

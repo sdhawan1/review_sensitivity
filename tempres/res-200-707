@@ -1,0 +1,35 @@
+0. The art of puppetry                  ... pos = 0.0   	neg = 0.125
+1. However, when taken                  ... pos = 0.5   	neg = 0.375
+2. While acting require                 ... pos = 1.0   	neg = 0.125
+3. This curious film be                 ... pos = 0.0   	neg = 0.375
+4. He is a master of hi                 ... pos = 1.0   	neg = 1.125
+5. Craig happens to fin                 ... pos = 0.625 	neg = 0.125
+6. His dextrous fingers                 ... pos = 0.75  	neg = 0.0  
+7. >From its outset, it                 ... pos = 0.25  	neg = 0.25 
+8. The opening scene of                 ... pos = 0.125 	neg = 0.125
+9. Lotte's eclectic men                 ... pos = 0.5   	neg = 0.5  
+10. It is not surprising                ... pos = 1.375 	neg = 0.125
+11. Although that medium                ... pos = 0.625 	neg = 0.875
+12. Among his works are                 ... pos = 0.25  	neg = 0.0  
+13. Jonez capably transl                ... pos = 0.375 	neg = 0.125
+14. The emergence of mor                ... pos = 0.0   	neg = 0.0  
+15. First, Craig becomes                ... pos = 0.625 	neg = 0.125
+16. The second, and more                ... pos = 0.375 	neg = 0.125
+17. It seems that whoeve                ... pos = 0.125 	neg = 0.125
+18. The participant expe                ... pos = 0.625 	neg = 0.0  
+19. The most interesting                ... pos = 0.0   	neg = 0.125
+20. That is, the role pl                ... pos = 1.75  	neg = 0.625
+21. The film is not flaw                ... pos = 0.25  	neg = 0.375
+22. However, this is dwa                ... pos = 0.125 	neg = 0.125
+23. The film aspires to                 ... pos = 1.375 	neg = 0.25 
+24. Highly recommended.                 ... pos = 0.625 	neg = 0    
+25. This is a film of ex                ... pos = 0.375 	neg = 0.125
+26. The surreal story is                ... pos = 1.75  	neg = 0.125
+27. Director Spike Jonez                ... pos = 1.0   	neg = 0.0  
+28. Viewers who desire a                ... pos = 1.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-200-707 is Positive          ... pos = 17.5  	neg = 6.75 
+Overall score of document
+Total Pos = 17.5
+Total Neg = 6.75
+---------------------------------------------------------------------------

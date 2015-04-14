@@ -1,0 +1,14 @@
+0. Ingredients: Heaven,                 ... pos = 1.0   	neg = 0.5  
+1. After death, Christy                 ... pos = 0.125 	neg = 0.0  
+2. Annie is hardest to                  ... pos = 0.125 	neg = 0.875
+3. Opinion: WHAT DREAMS                 ... pos = 0.375 	neg = 0.125
+4. In its portrayal of                  ... pos = 2.625 	neg = 0.625
+5. That being said, des                 ... pos = 2.375 	neg = 0.125
+6. The movie's main val                 ... pos = 0.5   	neg = 0.0  
+7. Copyright Š 1998 by                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5518-416 is Positive         ... pos = 7.125 	neg = 2.375
+Overall score of document
+Total Pos = 7.125
+Total Neg = 2.375
+---------------------------------------------------------------------------

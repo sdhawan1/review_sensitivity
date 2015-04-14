@@ -1,0 +1,45 @@
+0. More MOVIE VIEWS by                  ... pos = 0.0   	neg = 0.875
+1. They dress up in thr                 ... pos = 0.5   	neg = 0.375
+2. This sounds like it                  ... pos = 0.25  	neg = 0.125
+3. Despite it's sporadi                 ... pos = 0.625 	neg = 0.625
+4. The premise is certa                 ... pos = 0.25  	neg = 0.125
+5. In futuristic Champi                 ... pos = 0.0   	neg = 0.0  
+6. Sporting more produc                 ... pos = 0.375 	neg = 0.625
+7. But lately, it seems                 ... pos = 0.0   	neg = 0.25 
+8. Losing the spotlight                 ... pos = 0.5   	neg = 0.0  
+9. But alas, the plan b                 ... pos = 0.0   	neg = 0.375
+10. Enter a squad of sec                ... pos = 0.0   	neg = 0.375
+11. Mr.                                 ... pos = 0     	neg = 0.0  
+12. Furious (Ben Stiller                ... pos = 2.625 	neg = 2.625
+13. The fate of the city                ... pos = 0.0   	neg = 0.125
+14. I know, it doesn't l                ... pos = 0.75  	neg = 0.375
+15. While Mystery Men ce                ... pos = 0.5   	neg = 0.625
+16. Too many gags fall f                ... pos = 0.0   	neg = 0.25 
+17. Everything becomes c                ... pos = 0.125 	neg = 0.5  
+18. Still, there are bit                ... pos = 0.875 	neg = 0.125
+19. Wes Studi plays The                 ... pos = 0.5   	neg = 0.0  
+20. His pointless lesson                ... pos = 0.0   	neg = 0.875
+21. ' Studi, best known                 ... pos = 0.375 	neg = 0.125
+22. Most of the cast far                ... pos = 0.0   	neg = 0.0  
+23. Stiller is believabl                ... pos = 2.25  	neg = 0.25 
+24. Macy is wonderful (a                ... pos = 0.75  	neg = 0.125
+25. Azaria does a remark                ... pos = 0.75  	neg = 1.25 
+26. Geoffrey Rush is som                ... pos = 0.5   	neg = 0.375
+27. All of the actors, d                ... pos = 0.0   	neg = 0.25 
+28. There are amusing on                ... pos = 0.25  	neg = 0.0  
+29. Debating whether bus                ... pos = 0.25  	neg = 0.0  
+30. Captain Amazing does                ... pos = 0.0   	neg = 0    
+31. ' Hmmm... perhaps a                 ... pos = 0.0   	neg = 0.25 
+32. But even with clever                ... pos = 1.0   	neg = 0.0  
+33. Laughs are absent fr                ... pos = 0.375 	neg = 0.375
+34. I certainly won't ar                ... pos = 0.25  	neg = 0.25 
+35. But with more skillf                ... pos = 0.625 	neg = 0.0  
+36. For most, this will                 ... pos = 0.25  	neg = 0.125
+37. But take a look at t                ... pos = 0.0   	neg = 0.5  
+38. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1731-693 is Positive         ... pos = 15.5  	neg = 13.125
+Overall score of document
+Total Pos = 15.5
+Total Neg = 13.125
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. To model a human's D                 ... pos = 0.25  	neg = 0.375
+1. "  But  in the cold                  ... pos = 0.125 	neg = 0.375
+2. Any person who enter                 ... pos = 0.0   	neg = 0.5  
+3. As the movie so  blu                 ... pos = 0.625 	neg = 0.0  
+4. This is one of the m                 ... pos = 1.125 	neg = 0.25 
+5. The film follows the                 ... pos = 0.625 	neg = 0.5  
+6. At the time of his b                 ... pos = 0.0   	neg = 0.875
+7. Once Hugo is "born",                 ... pos = 0.25  	neg = 1.0  
+8. Luckily for Vincent,                 ... pos = 0.625 	neg = 0.375
+9. As Vincent grows up,                 ... pos = 0.75  	neg = 0.375
+10. Enter Jeromre, a ver                ... pos = 1.5   	neg = 0.125
+11. But, after a failed                 ... pos = 0.0   	neg = 1.25 
+12. Deciding to cash in                 ... pos = 0.125 	neg = 0.0  
+13. Of course with every                ... pos = 1.25  	neg = 0.125
+14. Brushing as much hai                ... pos = 0.125 	neg = 0.625
+15. Vincent soon becomes                ... pos = 1.625 	neg = 0.25 
+16. A lively romantic su                ... pos = 1.875 	neg = 0.875
+17. But Gattaca has much                ... pos = 1.125 	neg = 0.125
+18. The claustrophobic a                ... pos = 0.125 	neg = 0.375
+19. The very thought of                 ... pos = 2.375 	neg = 0.625
+20. So Gattaca's basic i                ... pos = 0.0   	neg = 0.5  
+21. It is not so much a                 ... pos = 1.0   	neg = 0.625
+22. Many may argue that                 ... pos = 0.375 	neg = 0.125
+23. For example in Steve                ... pos = 0.125 	neg = 0.125
+24. But Gattaca quite ob                ... pos = 0.5   	neg = 0.75 
+25. The all-important qu                ... pos = 0.0   	neg = 1.0  
+26. For the scientific                  ... pos = 0.125 	neg = 0.25 
+27. When creating a film                ... pos = 3.375 	neg = 0.375
+28. It truly takes skill                ... pos = 2.125 	neg = 0.0  
+29. Andrew  Nicol does t                ... pos = 2.25  	neg = 0.5  
+30. As an avid fan of nu                ... pos = 4.375 	neg = 1.5  
+31. If you are able to o                ... pos = 1.0   	neg = 0.25 
+32. Its still early days                ... pos = 0.375 	neg = 0.0  
+33. 5 stars out of 5 Dar                ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3272-1111 is Positive        ... pos = 31.375 	neg = 15.125
+Overall score of document
+Total Pos = 31.375
+Total Neg = 15.125
+---------------------------------------------------------------------------

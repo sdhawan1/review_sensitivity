@@ -1,0 +1,63 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring Tommy Lee J                 ... pos = 0.5   	neg = 0.0  
+2. Written by James Web                 ... pos = 0.0   	neg = 0.0  
+3. Directed by William                  ... pos = 0.0   	neg = 0    
+4. Rated R.. Have you e                 ... pos = 0.25  	neg = 1.125
+5. That you weren't sur                 ... pos = 0.375 	neg = 1.125
+6. Such was my reaction                 ... pos = 0.0   	neg = 0.125
+7. " As with most films                 ... pos = 1.5   	neg = 0.875
+8. The bad points perfe                 ... pos = 2.875 	neg = 0.875
+9. The themes are contr                 ... pos = 0.25  	neg = 0.5  
+10. Every time you think                ... pos = 0.0   	neg = 0.375
+11. The result is a film                ... pos = 1.0   	neg = 0.375
+12. Col. Hayes Hodges (T                ... pos = 0.75  	neg = 0.0  
+13. Now old friends, Hod                ... pos = 0.125 	neg = 0.25 
+14. Upon arriving, Child                ... pos = 0.25  	neg = 0.0  
+15. After evacuating the                ... pos = 0.125 	neg = 0.0  
+16. He gives them the or                ... pos = 0.0   	neg = 0    
+17. Reports of the shoot                ... pos = 0.375 	neg = 0.125
+18. Looking for a scapeg                ... pos = 0.375 	neg = 0.5  
+19. Childers, eschewing                 ... pos = 0.25  	neg = 0.25 
+20. ". "Rules of Engagem                ... pos = 0.75  	neg = 1.875
+21. So that's exactly wh                ... pos = 0.125 	neg = 0.0  
+22. The good: The cast h                ... pos = 0.5   	neg = 0.125
+23. Jones and Jackson ar                ... pos = 0.25  	neg = 0.0  
+24. Guy Pearce does a de                ... pos = 2.125 	neg = 0.75 
+25. The bad: These chara                ... pos = 1.25  	neg = 0.0  
+26. The camaraderie betw                ... pos = 0.556 	neg = 0.5  
+27. ") and an unbelievab                ... pos = 0.0   	neg = 0.625
+28. The supporting chara                ... pos = 2.0   	neg = 2.0  
+29. They're not.                        ... pos = 0.0   	neg = 0    
+30. Anne Archer's part a                ... pos = 0.0   	neg = 2.5  
+31. Her attempt to breat                ... pos = 0.875 	neg = 0.875
+32. The good: There are                 ... pos = 0.5   	neg = 0.0  
+33. Director William Fri                ... pos = 1.0   	neg = 0.125
+34. Likewise, some of th                ... pos = 0.875 	neg = 1.0  
+35. It's not "A Few Good                ... pos = 1.5   	neg = 0.375
+36. The bad: For every p                ... pos = 0.25  	neg = 0.0  
+37. There is the aforeme                ... pos = 0.0   	neg = 0.125
+38. Then there's virtual                ... pos = 0.0   	neg = 0.0  
+39. Every time you think                ... pos = 1.875 	neg = 1.75 
+40. didn't just release                 ... pos = 0.25  	neg = 0.375
+41. (Why didn't Childers                ... pos = 0.125 	neg = 0.0  
+42. The Marines had a ta                ... pos = 0.625 	neg = 0.0  
+43. ). But thin characte                ... pos = 1.625 	neg = 0.625
+44. Unfortunately, this                 ... pos = 0.0   	neg = 1.375
+45. Some reviewers have                 ... pos = 0.0   	neg = 0.0  
+46. I can understand how                ... pos = 0.875 	neg = 1.125
+47. " If that's the case                ... pos = 0.0   	neg = 0.0  
+48. Even so, if we' re s                ... pos = 1.25  	neg = 0.0  
+49. We see that his firi                ... pos = 0.25  	neg = 0.875
+50. The film seems to re                ... pos = 2.5   	neg = 0.625
+51. Too bad the film ult                ... pos = 1.25  	neg = 3.875
+52. Perhaps one of the d                ... pos = 0.875 	neg = 0.125
+53. And what may be the                 ... pos = 0.125 	neg = 0.5  
+54. "Rules of Engagement                ... pos = 0.25  	neg = 1.25 
+55. I suppose "Rules" is                ... pos = 0.625 	neg = 0.125
+56. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1213-1477 is Positive        ... pos = 34.056 	neg = 30.0 
+Overall score of document
+Total Pos = 34.056
+Total Neg = 30.0
+---------------------------------------------------------------------------

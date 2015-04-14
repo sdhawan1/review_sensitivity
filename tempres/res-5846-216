@@ -1,0 +1,26 @@
+0. Absolutely nothing h                 ... pos = 1.125 	neg = 0.625
+1. Three juvenile delin                 ... pos = 0.25  	neg = 0.25 
+2. Although they lack e                 ... pos = 0.0   	neg = 0.125
+3. The "kids" in questi                 ... pos = 0.75  	neg = 0.0  
+4. "They can get into p                 ... pos = 0.375 	neg = 0.0  
+5. The outcasts sign ab                 ... pos = 0.0   	neg = 0.0  
+6. When Greer is found                  ... pos = 0.625 	neg = 0.125
+7. Knowing they've been                 ... pos = 0.0   	neg = 0.125
+8. Julie apparently thi                 ... pos = 0.5   	neg = 0.625
+9. It's up to Linc to s                 ... pos = 0.0   	neg = 0.5  
+10. Excuse me, I mispoke                ... pos = 0.25  	neg = 0.25 
+11. "  To be a villain,                 ... pos = 2.0   	neg = 0.625
+12. "The Mod Squad" just                ... pos = 1.625 	neg = 0.75 
+13. The idenity of film'                ... pos = 0.25  	neg = 0.25 
+14. I mean, duh.                        ... pos = 0     	neg = 0.0  
+15. Giovanni Ribisi is r                ... pos = 0.625 	neg = 0.5  
+16. He's supposed to be                 ... pos = 0.625 	neg = 0.875
+17. Claire Danes, who is                ... pos = 1.25  	neg = 1.0  
+18. It's so cute!                       ... pos = 0     	neg = 0.0  
+19. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5846-216 is Positive         ... pos = 10.625 	neg = 6.625
+Overall score of document
+Total Pos = 10.625
+Total Neg = 6.625
+---------------------------------------------------------------------------

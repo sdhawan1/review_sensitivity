@@ -1,0 +1,30 @@
+0. The day starts off a                 ... pos = 0.125 	neg = 0.625
+1. Unknown to Helen, he                 ... pos = 0.0   	neg = 0.25 
+2. The SLIDING DOORS of                 ... pos = 0.0   	neg = 0.0  
+3. Then, the film goes                  ... pos = 0.0   	neg = 0.5  
+4. Switch to forward an                 ... pos = 0.0   	neg = 0.25 
+5. >From this point on                  ... pos = 0.25  	neg = 0.0  
+6. To enable the viewer                 ... pos = 1.75  	neg = 0.0  
+7. In one scenario Hele                 ... pos = 0.0   	neg = 0.0  
+8. In the other, she on                 ... pos = 0.5   	neg = 0.125
+9. While Gerry, Lydia,                  ... pos = 1.375 	neg = 0.125
+10. One Helen becomes a                 ... pos = 0.25  	neg = 0.0  
+11. It is a wonderful ac                ... pos = 1.25  	neg = 0.125
+12. Although Gerry tries                ... pos = 0.25  	neg = 0.75 
+13. Enter James, a charm                ... pos = 0.625 	neg = 0.0  
+14. The movie is so well                ... pos = 0.125 	neg = 0.125
+15. Sometimes you're wan                ... pos = 0.125 	neg = 0.125
+16. Other times you want                ... pos = 0.5   	neg = 0.125
+17. There are many chara                ... pos = 1.25  	neg = 0.0  
+18. It is definitely a s                ... pos = 0.25  	neg = 0.125
+19. What if?                            ... pos = 0     	neg = 0    
+20. In my case it partic                ... pos = 0.0   	neg = 0.0  
+21. As luck would have i                ... pos = 0.125 	neg = 0.25 
+22. I entered the Underg                ... pos = 0.125 	neg = 0.0  
+23. I couldn't help but                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3333-989 is Positive         ... pos = 8.875 	neg = 3.5  
+Overall score of document
+Total Pos = 8.875
+Total Neg = 3.5
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. Director: Barry Sonn                 ... pos = 0.125 	neg = 0.0  
+1. US Distribution: War                 ... pos = 0.0   	neg = 0.0  
+2. Rated R: Action viol                 ... pos = 0.5   	neg = 1.125
+3. You can feel the dol                 ... pos = 0.0   	neg = 0.0  
+4. It's one of those lu                 ... pos = 0.125 	neg = 0.125
+5. It's a massively unr                 ... pos = 0.0   	neg = 0.25 
+6. The film is so obvio                 ... pos = 0.5   	neg = 0.125
+7. And boy, I wish I co                 ... pos = 0.25  	neg = 1.125
+8. The fact is, I enjoy                 ... pos = 1.75  	neg = 0.875
+9. What makes Wild Wild                 ... pos = 0.125 	neg = 0.875
+10. It's the textbook de                ... pos = 0.125 	neg = 1.375
+11. The film is the late                ... pos = 0.0   	neg = 0.5  
+12. Will Smith stars as                 ... pos = 0.125 	neg = 0.0  
+13. West is teamed up wi                ... pos = 0.0   	neg = 0.125
+14. Marshal who produces                ... pos = 0.5   	neg = 0.0  
+15. Further developments                ... pos = 1.375 	neg = 2.125
+16. Salma Hayek is also                 ... pos = 1.75  	neg = 0.375
+17. Wild Wild West suffe                ... pos = 1.125 	neg = 0.75 
+18. Barry Sonnenfeld is                 ... pos = 0.25  	neg = 0.625
+19. Consider, for instan                ... pos = 0.25  	neg = 0.0  
+20. It's an amazing spec                ... pos = 0.75  	neg = 0.0  
+21. If that makes Wild W                ... pos = 0.125 	neg = 2.0  
+22. Some critics have st                ... pos = 0.125 	neg = 0.25 
+23. Both actors have pro                ... pos = 0.25  	neg = 0.5  
+24. Smith has kind of a                 ... pos = 0.75  	neg = 0.625
+25. Nonetheless, he has                 ... pos = 0.25  	neg = 0.0  
+26. The same goes for Kl                ... pos = 0.125 	neg = 0.0  
+27. Kline is a more expe                ... pos = 0.875 	neg = 0.375
+28. Branagh is absolutel                ... pos = 0.0   	neg = 0.625
+29. His performance is s                ... pos = 0.625 	neg = 0.75 
+30. The scenes with Bran                ... pos = 0.375 	neg = 0.0  
+31. There is a brain in                 ... pos = 0.5   	neg = 0.5  
+32. And then there's the                ... pos = 0.125 	neg = 0.5  
+33. Even though the prod                ... pos = 0.5   	neg = 1.25 
+34. I mean, we're talkin                ... pos = 0.0   	neg = 0.0  
+35. Barry Sonnenfeld has                ... pos = 0.125 	neg = 0.5  
+36. Psychosis Rating:                  ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2843-760 is Negative         ... pos = 14.5  	neg = 18.25
+Overall score of document
+Total Pos = 14.5
+Total Neg = 18.25
+---------------------------------------------------------------------------

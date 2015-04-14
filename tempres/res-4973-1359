@@ -1,0 +1,33 @@
+0. Michael Douglas play                 ... pos = 0.25  	neg = 0.125
+1. Flashbacks show us h                 ... pos = 0.125 	neg = 0.0  
+2. Today is Nicholas' 4                 ... pos = 0.625 	neg = 0.125
+3. The flashbacks show                  ... pos = 0.25  	neg = 0.125
+4. Could he succumb to                  ... pos = 0.5   	neg = 0    
+5. Conrad, his not-so-s                 ... pos = 0.875 	neg = 0.0  
+6. "It will change your                 ... pos = 0.125 	neg = 0    
+7. Skeptical, Nicholas                  ... pos = 0.125 	neg = 0.125
+8. Feingold, a very un-                 ... pos = 0.75  	neg = 0.0  
+9. After completing a b                 ... pos = 0.25  	neg = 0.125
+10. And an eerie start i                ... pos = 0.125 	neg = 0.125
+11. That night at home,                 ... pos = 0.125 	neg = 0.0  
+12. The next day, Nichol                ... pos = 0.0   	neg = 0.0  
+13. " And we're off.                    ... pos = 0     	neg = 0.625
+14. An ambulance, a stal                ... pos = 0.25  	neg = 0.0  
+15. Next day, Connie sho                ... pos = 0.0   	neg = 0.25 
+16. Stranded when his ca                ... pos = 0.0   	neg = 0.0  
+17. It's getting a littl                ... pos = 0.0   	neg = 0.25 
+18. Reality is sliding,                 ... pos = 0.75  	neg = 0.125
+19. This movie's setup s                ... pos = 0.875 	neg = 0.25 
+20. Once the real action                ... pos = 0.125 	neg = 0.625
+21. The incidents were t                ... pos = 0.25  	neg = 0.625
+22. Nicholas was given a                ... pos = 0.125 	neg = 0.75 
+23. One elaborate break-                ... pos = 0.25  	neg = 1.25 
+24. In fact, he was way                 ... pos = 0.125 	neg = 0.375
+25. There is one clever                 ... pos = 0.625 	neg = 0.25 
+26. Michael Douglas does                ... pos = 2.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-4973-1359 is Positive        ... pos = 9.5   	neg = 6.875
+Overall score of document
+Total Pos = 9.5
+Total Neg = 6.875
+---------------------------------------------------------------------------

@@ -1,0 +1,62 @@
+0. This is the first re                 ... pos = 0.125 	neg = 0.125
+1. It riled me up so mu                 ... pos = 0.125 	neg = 0.0  
+2. This movie purports                  ... pos = 0.125 	neg = 0.25 
+3. Tod Solonz wrote and                 ... pos = 0.0   	neg = 0.0  
+4. "Welcome to the Doll                 ... pos = 0.75  	neg = 0.0  
+5. The high school itse                 ... pos = 0.0   	neg = 0.375
+6. As somebody who fled                 ... pos = 0.375 	neg = 0.625
+7. The one thing I did                  ... pos = 0.875 	neg = 0.875
+8. She remained anxious                 ... pos = 0.375 	neg = 0.0  
+9. I preferred to thumb                 ... pos = 0.625 	neg = 0.0  
+10. Since "Welcome to th                ... pos = 1.125 	neg = 0.0  
+11. Much more.                          ... pos = 0.125 	neg = 0    
+12. In fact, too much mo                ... pos = 0.125 	neg = 0.25 
+13. "Happiness" begins w                ... pos = 0.0   	neg = 0.0  
+14. They are on a date i                ... pos = 0.375 	neg = 0.0  
+15. She, a plain but not                ... pos = 0.125 	neg = 0.25 
+16. He proceeds to give                 ... pos = 0.0   	neg = 0.25 
+17. She sits there passi                ... pos = 0.25  	neg = 0.625
+18. This exercise in hum                ... pos = 0.25  	neg = 0.0  
+19. Next we meet the wom                ... pos = 0.0   	neg = 0.0  
+20. The sister picks up                 ... pos = 0.125 	neg = 1.125
+21. The sister listens t                ... pos = 0.0   	neg = 0.25 
+22. Meanwhile, we discov                ... pos = 0.5   	neg = 0.5  
+23. In a conversation be                ... pos = 0.25  	neg = 0    
+24. The purpose of the s                ... pos = 2.5   	neg = 0.125
+25. ". When it finally d                ... pos = 0.0   	neg = 0.125
+26. The prologue set the                ... pos = 0.0   	neg = 0.0  
+27. In the mid-80s, SNL                 ... pos = 0.5   	neg = 0.0  
+28. It depicted ordinary                ... pos = 0.0   	neg = 0.875
+29. One was supposed to                 ... pos = 0.0   	neg = 0.75 
+30. If you were a member                ... pos = 0.0   	neg = 0.25 
+31. If you were a "hip"                 ... pos = 0.375 	neg = 0.125
+32. This aesthetic event                ... pos = 0.375 	neg = 0.25 
+33. With Solonz, you are                ... pos = 0.75  	neg = 0.0  
+34. This is not the coll                ... pos = 0.625 	neg = 0.25 
+35. He actually produced                ... pos = 0.375 	neg = 0.0  
+36. The aesthetic of hum                ... pos = 0.625 	neg = 0.125
+37. You will discover it                ... pos = 0.125 	neg = 0.875
+38. His latest, "Friends                ... pos = 0.125 	neg = 0.0  
+39. " Mr. Cranky, one of                ... pos = 0.375 	neg = 0.125
+40. Barry is self-absorb                ... pos = 0.0   	neg = 0.125
+41. Jerry is self-absorb                ... pos = 0     	neg = 0.125
+42. Cary is self-absorbe                ... pos = 0.0   	neg = 0.125
+43. Mary is indecisive n                ... pos = 0.375 	neg = 0.125
+44. Terri is decisive ag                ... pos = 0.5   	neg = 0.125
+45. Cheri is non-aggress                ... pos = 0     	neg = 0.125
+46. Basically, this all                 ... pos = 0.125 	neg = 0.375
+47. ". Sounds like a Sat                ... pos = 0.0   	neg = 0.0  
+48. What interests me ab                ... pos = 0.125 	neg = 0.25 
+49. They enjoy the revie                ... pos = 1.0   	neg = 0.0  
+50. " But they are not c                ... pos = 1.0   	neg = 0.0  
+51. Instead what they ar                ... pos = 0.375 	neg = 0.125
+52. Television is the ul                ... pos = 0.0   	neg = 0.125
+53. It has the propensit                ... pos = 0.125 	neg = 1.0  
+54. When you watch a Sat                ... pos = 0.625 	neg = 0.625
+55. We should expect muc                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1037-268 is Positive         ... pos = 17.75 	neg = 12.625
+Overall score of document
+Total Pos = 17.75
+Total Neg = 12.625
+---------------------------------------------------------------------------

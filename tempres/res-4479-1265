@@ -1,0 +1,52 @@
+0. "A.I.                                ... pos = 0     	neg = 0.0  
+1. : Artificial Intelli                 ... pos = 0.25  	neg = 0.25 
+2. A studio head respon                 ... pos = 0.0   	neg = 0.0  
+3. "  This is possibly                  ... pos = 0.375 	neg = 0.25 
+4. " linked  them to th                 ... pos = 0.0   	neg = 0.0  
+5. Stanley Kubrick work                 ... pos = 0.25  	neg = 0.0  
+6. Before his  death, K                 ... pos = 0.0   	neg = 0.0  
+7. Little probably  rem                 ... pos = 0.0   	neg = 0.25 
+8. " except for the use                 ... pos = 0.5   	neg = 0.125
+9. (Some  of Kubrick's                  ... pos = 0.25  	neg = 0.125
+10. "). The plot explore                ... pos = 0.25  	neg = 0.0  
+11. ) constitutes human                 ... pos = 0.0   	neg = 0    
+12. The A.I.                            ... pos = 0.0   	neg = 0.0  
+13. in question  belongs                ... pos = 1.0   	neg = 0.75 
+14. Up til now, mechas h                ... pos = 2.125 	neg = 0.125
+15. Enter Monica and  He                ... pos = 0.0   	neg = 0.125
+16. Henry brings David h                ... pos = 0.0   	neg = 0.0  
+17. However, Martin  mir                ... pos = 0.125 	neg = 0.0  
+18. Naturally, he resent                ... pos = 0.75  	neg = 0.75 
+19. After an accident ne                ... pos = 0.5   	neg = 0.0  
+20. Once a mecha has att                ... pos = 0.375 	neg = 0.25 
+21. However, Monica cann                ... pos = 0.375 	neg = 0.375
+22. Taking his cue from                 ... pos = 1.0   	neg = 0.0  
+23. As companions he  ha                ... pos = 0.0   	neg = 0.0  
+24. The premise seems si                ... pos = 0     	neg = 0.875
+25. Why would anyone cre                ... pos = 0.0   	neg = 0.0  
+26. Why would anyone wan                ... pos = 0.625 	neg = 0.375
+27. Kubrick specialized                 ... pos = 0.375 	neg = 0.75 
+28. However,  Spielberg                 ... pos = 0.625 	neg = 0.5  
+29. Something about scie                ... pos = 0.0   	neg = 0.0  
+30. His aliens in "Close                ... pos = 0.75  	neg = 0    
+31. (But even Ewoks trie                ... pos = 0.0   	neg = 0.5  
+32. )  The treacle of a                 ... pos = 0.25  	neg = 0.375
+33. However, Spielberg s                ... pos = 0.375 	neg = 0.125
+34. There is a  point wh                ... pos = 0.0   	neg = 0.25 
+35. It's a  good ending,                ... pos = 1.0   	neg = 0.0  
+36. Spielberg seems unwi                ... pos = 0.25  	neg = 0.875
+37. At the heart of the                 ... pos = 0.25  	neg = 0.25 
+38. " is probably Spielb                ... pos = 0.125 	neg = 0.125
+39. He has a well-docume                ... pos = 0.25  	neg = 0.0  
+40. This theme explains                 ... pos = 0.375 	neg = 0.125
+41. David's "father" Hen                ... pos = 0.0   	neg = 0.75 
+42. As David's quest  de                ... pos = 0.5   	neg = 0.125
+43. Spielberg's greatest                ... pos = 2.25  	neg = 0.25 
+44. This aspect of his                  ... pos = 0.0   	neg = 0.125
+45. But judging by the s                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4479-1265 is Positive        ... pos = 16.125 	neg = 9.875
+Overall score of document
+Total Pos = 16.125
+Total Neg = 9.875
+---------------------------------------------------------------------------

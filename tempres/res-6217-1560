@@ -1,0 +1,39 @@
+0. Armageddon (1998) *                  ... pos = 0.5   	neg = 1.5  
+1. Stories have been re                 ... pos = 1.125 	neg = 1.5  
+2. Armageddon is as stu                 ... pos = 0.0   	neg = 0.375
+3. But I loved every fr                 ... pos = 0.5   	neg = 0.0  
+4. Believe me, I'm just                 ... pos = 0.75  	neg = 0.0  
+5. Hell, I don't even k                 ... pos = 0.125 	neg = 0.5  
+6. The previews were so                 ... pos = 0.0   	neg = 1.0  
+7. I'm sorry, but "Some                 ... pos = 0     	neg = 0.625
+8. " isn't quite the ta                 ... pos = 0.0   	neg = 0.0  
+9. It isn't too wise ei                 ... pos = 0.25  	neg = 1.125
+10. I mean, let's face i                ... pos = 0.25  	neg = 0.5  
+11. Neither of them even                ... pos = 0.5   	neg = 0.25 
+12. Of course, you all k                ... pos = 0.0   	neg = 0.0  
+13. When the Earth is th                ... pos = 0.0   	neg = 0.25 
+14. ) to go into space (                ... pos = 0     	neg = 0.0  
+15. ) and implant a nucl                ... pos = 0.0   	neg = 0.0  
+16. In the coarse of all                ... pos = 1.125 	neg = 0.0  
+17. Belonging to the for                ... pos = 0.625 	neg = 0.5  
+18. Also, there's the al                ... pos = 0.0   	neg = 0.0  
+19. He kind of reminded                 ... pos = 0.0   	neg = 0.0  
+20. Then on the flip sid                ... pos = 1.375 	neg = 0.5  
+21. Basically, that's ab                ... pos = 0.0   	neg = 0.0  
+22. As I said, this is h                ... pos = 0.0   	neg = 0.125
+23. It's another summer                 ... pos = 1.25  	neg = 0.125
+24. Case in point: NASA                 ... pos = 0.0   	neg = 0.125
+25. Another example: at                 ... pos = 0.5   	neg = 0.125
+26. How pretentious is t                ... pos = 0     	neg = 0.25 
+27. Want another one?                   ... pos = 0.0   	neg = 0.25 
+28. Okay; before the oil                ... pos = 0.5   	neg = 0.875
+29. Did Michael Bay atte                ... pos = 0.0   	neg = 0.0  
+30. But naturally, all t                ... pos = 0.125 	neg = 0.25 
+31. And don't get me wro                ... pos = 1.0   	neg = 2.25 
+32. So even if you don't                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6217-1560 is Negative        ... pos = 10.875 	neg = 13.0 
+Overall score of document
+Total Pos = 10.875
+Total Neg = 13.0
+---------------------------------------------------------------------------

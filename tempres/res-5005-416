@@ -1,0 +1,31 @@
+0. Starring: Matt Dillo                 ... pos = 0.125 	neg = 0.875
+1. Turns out, WILD THIN                 ... pos = 0.0   	neg = 0.625
+2. The good thing about                 ... pos = 0.875 	neg = 1.625
+3. In the small wealthy                 ... pos = 0.375 	neg = 0.0  
+4. The film proceeds wi                 ... pos = 0.75  	neg = 0.125
+5. So much for the long                 ... pos = 0.125 	neg = 0.375
+6. Now the movie starts                 ... pos = 0.0   	neg = 0.0  
+7. When persistent cop                  ... pos = 0.125 	neg = 0.625
+8. Even more important,                 ... pos = 0.875 	neg = 0.0  
+9. What's going on here                 ... pos = 0     	neg = 0.0  
+10. Who is connected to                 ... pos = 0.0   	neg = 0.125
+11. Opinion:  Fans of sc                ... pos = 0.625 	neg = 0.75 
+12. On the other hand, C                ... pos = 1.625 	neg = 0.25 
+13. WILD THINGS falls un                ... pos = 0.0   	neg = 0.5  
+14. ' But in a way, it's                ... pos = 0.375 	neg = 0.25 
+15. Instead of featuring                ... pos = 0.375 	neg = 0.375
+16. Another thing that's                ... pos = 1.875 	neg = 1.625
+17. Very original.                      ... pos = 0.5   	neg = 0    
+18. Director John McNaug                ... pos = 1.0   	neg = 0.125
+19. The big questions in                ... pos = 0.0   	neg = 0.375
+20. But just when the cr                ... pos = 0.0   	neg = 0.375
+21. Suspenseful erotic t                ... pos = 0.0   	neg = 0.0  
+22. Not quite.                          ... pos = 0.0   	neg = 0    
+23. More like B-grade wh                ... pos = 0.0   	neg = 0.25 
+24. But I'll say this: t                ... pos = 0.125 	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-5005-416 is Negative         ... pos = 9.75  	neg = 10.5 
+Overall score of document
+Total Pos = 9.75
+Total Neg = 10.5
+---------------------------------------------------------------------------

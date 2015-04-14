@@ -1,0 +1,30 @@
+0. DOUBLE JEOPARDY (M).                 ... pos = 0     	neg = 0.25 
+1. (Paramount/UIP) Dire                 ... pos = 0.375 	neg = 0.0  
+2. This exciting suspen                 ... pos = 0.625 	neg = 0.625
+3. Yet he proves himsel                 ... pos = 1.125 	neg = 0.0  
+4. Slickly written by D                 ... pos = 0.25  	neg = 0.375
+5. The film centres aro                 ... pos = 0.25  	neg = 0.0  
+6. She is covered in bl                 ... pos = 0.5   	neg = 0.125
+7. Eventually, Libby is                 ... pos = 0.375 	neg = 0.375
+8. When she is sentence                 ... pos = 0.5   	neg = 0.125
+9. But Angela soon disa                 ... pos = 0.0   	neg = 0.25 
+10. By chance Libby disc                ... pos = 0.625 	neg = 0.125
+11. Realising that she h                ... pos = 0.0   	neg = 0.5  
+12. A fellow inmate info                ... pos = 0.0   	neg = 0.375
+13. However, Libby is no                ... pos = 0.75  	neg = 1.875
+14. She doesn't want to                 ... pos = 0.125 	neg = 0.25 
+15. But first she has to                ... pos = 0.25  	neg = 0.0  
+16. Jones is again in Fu                ... pos = 1.25  	neg = 0.25 
+17. The desperate chase                 ... pos = 0.0   	neg = 0.25 
+18. Judd has her meaties                ... pos = 1.0   	neg = 0.375
+19. With The Terminator,                ... pos = 1.75  	neg = 0.0  
+20. Greenwood (from Exot                ... pos = 0.375 	neg = 1.625
+21. Even the scenery, ra                ... pos = 1.375 	neg = 0.5  
+22. The plot has a few f                ... pos = 0.25  	neg = 0.25 
+23. Double Jeopardy's su                ... pos = 0.875 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5789-1014 is Positive        ... pos = 12.625 	neg = 8.875
+Overall score of document
+Total Pos = 12.625
+Total Neg = 8.875
+---------------------------------------------------------------------------

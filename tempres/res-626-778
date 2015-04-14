@@ -1,0 +1,35 @@
+0. Reviewed by Lars Lin                 ... pos = 0.0   	neg = 0.75 
+1. It only tastes good                  ... pos = 0.75  	neg = 0.5  
+2. OK, maybe that was a                 ... pos = 0.125 	neg = 0.625
+3. Basically, a Massach                 ... pos = 0.125 	neg = 0.5  
+4. " How much time does                 ... pos = 0.125 	neg = 0    
+5. Not nearly enough.                   ... pos = 0.0   	neg = 0.0  
+6. So he spends the maj                 ... pos = 0.25  	neg = 1.125
+7. Audiences want to se                 ... pos = 0.0   	neg = 1.375
+8. The last quarter of                  ... pos = 0.125 	neg = 0.625
+9. I have yet to read S                 ... pos = 0.375 	neg = 0.625
+10. Based on a true stor                ... pos = 1.75  	neg = 0.625
+11. Using a wonderfully                 ... pos = 0.125 	neg = 0.0  
+12. Right away the centr                ... pos = 2.5   	neg = 1.0  
+13. So many problems str                ... pos = 0.0   	neg = 0.25 
+14. It is not the all-st                ... pos = 0.875 	neg = 0.25 
+15. Allen Payne's charac                ... pos = 0.875 	neg = 0.125
+16. Are we supposed to r                ... pos = 1.0   	neg = 0.0  
+17. Fichtner's character                ... pos = 0.875 	neg = 0.25 
+18. The remaining four f                ... pos = 1.0   	neg = 0.375
+19. Me!                                 ... pos = 0     	neg = 0    
+20. " Ooooh real creativ                ... pos = 0.0   	neg = 0    
+21. As the script advanc                ... pos = 0.125 	neg = 0.0  
+22. Only when the storm                 ... pos = 0.0   	neg = 0.5  
+23. The computer-generat                ... pos = 0.25  	neg = 0.375
+24. I can only imagine i                ... pos = 0.25  	neg = 0.625
+25. This is loud, joltin                ... pos = 0.0   	neg = 0.25 
+26. The Perfect Storm wa                ... pos = 0.0   	neg = 2.25 
+27. The maelstrom lived                 ... pos = 0.0   	neg = 0.125
+28. I guess I'll stick t                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-626-778 is Negative          ... pos = 11.5  	neg = 13.125
+Overall score of document
+Total Pos = 11.5
+Total Neg = 13.125
+---------------------------------------------------------------------------

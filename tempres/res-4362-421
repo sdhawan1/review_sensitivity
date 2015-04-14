@@ -1,0 +1,40 @@
+0. It is 1999, and Amer                 ... pos = 0.125 	neg = 0.25 
+1. In 1998, the year of                 ... pos = 0.125 	neg = 0.625
+2. This year, we have t                 ... pos = 0.625 	neg = 0.625
+3. Matthew Broderick pl                 ... pos = 0.0   	neg = 0.0  
+4. As you may have gues                 ... pos = 0.0   	neg = 0.125
+5. The only presidentia                 ... pos = 0.5   	neg = 0.125
+6. But Mr. McAllister h                 ... pos = 0.0   	neg = 0.625
+7. A couple years befor                 ... pos = 0.5   	neg = 0.25 
+8. When the news broke                  ... pos = 0.125 	neg = 0.125
+9. Mr. McAllister is ju                 ... pos = 0.25  	neg = 0.125
+10. So, that seems to be                ... pos = 0.0   	neg = 0.375
+11. And the battle begin                ... pos = 0.0   	neg = 0    
+12. The first pawn that                 ... pos = 0.125 	neg = 0.25 
+13. He doesn't really ca                ... pos = 0.125 	neg = 0.375
+14. Paul has no hard fee                ... pos = 0.375 	neg = 1.0  
+15. But Tracy feels noth                ... pos = 0.989 	neg = 0.25 
+16. Then, there is Tammy                ... pos = 0.0   	neg = 0.25 
+17. After her best frien                ... pos = 0.375 	neg = 0.0  
+18. She feels that peopl                ... pos = 0.0   	neg = 0.0  
+19. Sound familiar?                     ... pos = 0.0   	neg = 0    
+20. Probably, if you've                 ... pos = 0.0   	neg = 0.25 
+21. Director Alexander P                ... pos = 0.0   	neg = 0.375
+22. He made the abortion                ... pos = 0.0   	neg = 0.0  
+23. And ELECTION, his la                ... pos = 2.0   	neg = 0.125
+24. But the problem lies                ... pos = 0.875 	neg = 0.25 
+25. The only marginally                 ... pos = 1.0   	neg = 0.625
+26. Reese Witherspoon, w                ... pos = 2.75  	neg = 0.125
+27. That is not to say t                ... pos = 0.0   	neg = 0.5  
+28. And as for Matthew B                ... pos = 0.0   	neg = 0.0  
+29. Forget FERRIS BUELLE                ... pos = 0.875 	neg = 1.875
+30. And to have to liste                ... pos = 0.0   	neg = 0.875
+31. To all the critics w                ... pos = 0.875 	neg = 0.75 
+32. But, needless to say                ... pos = 0.5   	neg = 1.0  
+33. But after the presid                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4362-421 is Positive         ... pos = 13.114 	neg = 12.25
+Overall score of document
+Total Pos = 13.114
+Total Neg = 12.25
+---------------------------------------------------------------------------

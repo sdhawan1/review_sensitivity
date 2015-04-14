@@ -1,0 +1,49 @@
+0. I rented this movie                  ... pos = 0.5   	neg = 0.0  
+1. This movie got prais                 ... pos = 1.875 	neg = 1.125
+2. First of all, the ca                 ... pos = 0.125 	neg = 0.125
+3. Tobey Maguire and Re                 ... pos = 0.25  	neg = 0.0  
+4. They play their role                 ... pos = 0.5   	neg = 0    
+5. With a plot as unbel                 ... pos = 0.375 	neg = 0.125
+6. Tobey and Reese (Bud                 ... pos = 2.125 	neg = 0.375
+7. William H. Macy, an                  ... pos = 0.75  	neg = 0.25 
+8. He also displays bel                 ... pos = 0.5   	neg = 0.5  
+9. He does this perfect                 ... pos = 0.75  	neg = 0.125
+10. Joan Allen is equall                ... pos = 0.0   	neg = 0.125
+11. Her character is the                ... pos = 1.375 	neg = 0.125
+12. She is very naďve,                 ... pos = 2.375 	neg = 0.125
+13. Her lack of chemistr                ... pos = 0.625 	neg = 0.5  
+14. As said before, Jeff                ... pos = 0.0   	neg = 0.875
+15. His character displa                ... pos = 1.125 	neg = 0.0  
+16. His character is ver                ... pos = 2.5   	neg = 0.75 
+17. This film could have                ... pos = 0.5   	neg = 0.25 
+18. The movie is very pr                ... pos = 1.0   	neg = 0.125
+19. It challenges the is                ... pos = 0.25  	neg = 0    
+20. I really was not exp                ... pos = 0.125 	neg = 0.875
+21. They demonstrate the                ... pos = 0.25  	neg = 0.0  
+22. The only major flaw                 ... pos = 0.0   	neg = 0.125
+23. Some films are not m                ... pos = 0.25  	neg = 0.5  
+24. Pleasantville is one                ... pos = 0.0   	neg = 0.125
+25. This film could have                ... pos = 0.125 	neg = 0.125
+26. First, they are amaz                ... pos = 0.375 	neg = 0    
+27. Then they want to ha                ... pos = 0.0   	neg = 0.125
+28. Then they do not wan                ... pos = 0.0   	neg = 0.125
+29. Then the war ensues                 ... pos = 0.0   	neg = 0.0  
+30. This is all strung o                ... pos = 0.125 	neg = 0.875
+31. Some movies need a l                ... pos = 0.0   	neg = 0.0  
+32. Saving Private Ryan                 ... pos = 0.375 	neg = 0.75 
+33. This film is only tw                ... pos = 0.25  	neg = 0.625
+34. Length is everything                ... pos = 0.0   	neg = 0.125
+35. If you can nail down                ... pos = 0.125 	neg = 0.0  
+36. Pleasantville can mo                ... pos = 1.25  	neg = 0.125
+37. Overall, Pleasantvil                ... pos = 1.875 	neg = 0.125
+38. I went in expecting                 ... pos = 0.0   	neg = 0.0  
+39. I left learning an i                ... pos = 1.25  	neg = 0.0  
+40. Luckily, Pleasantvil                ... pos = 0.5   	neg = 0.0  
+41. Only if it could hav                ... pos = 0.0   	neg = 0.0  
+42. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1978-493 is Positive         ... pos = 24.5  	neg = 10.125
+Overall score of document
+Total Pos = 24.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

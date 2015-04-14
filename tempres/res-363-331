@@ -1,0 +1,37 @@
+0. Directed by Garry Ma                 ... pos = 0.0   	neg = 0.0  
+1. Starring Richard Ger                 ... pos = 0     	neg = 0.0  
+2. What first comes to                  ... pos = 0.25  	neg = 0.25 
+3. So, you'll probably                  ... pos = 0.0   	neg = 0.125
+4. Well it's not, becau                 ... pos = 0.25  	neg = 0.0  
+5. The rest is pretty m                 ... pos = 0.125 	neg = 0.25 
+6. What else do you exp                 ... pos = 0.0   	neg = 0.0  
+7. The opening scene wa                 ... pos = 0.5   	neg = 0.125
+8. From the movie title                 ... pos = 0.0   	neg = 0.125
+9. ) you can guess.                     ... pos = 0     	neg = 0.0  
+10. Julia Roberts is a R                ... pos = 0.0   	neg = 0.25 
+11. The story: Ike Graha                ... pos = 0.5   	neg = 0.125
+12. That day he decided                 ... pos = 0.0   	neg = 0.0  
+13. And the victim is Ma                ... pos = 0.5   	neg = 0.125
+14. Maggie sends a compl                ... pos = 0.0   	neg = 0.125
+15. But he doesn't give                 ... pos = 0.0   	neg = 0.0  
+16. He goes to Hale to f                ... pos = 0.5   	neg = 0.125
+17. So the story continu                ... pos = 0.0   	neg = 0.0  
+18. For Julia Roberts, a                ... pos = 0.5   	neg = 0.125
+19. Something like Consp                ... pos = 0     	neg = 0.0  
+20. And Gere shouldn't l                ... pos = 0.0   	neg = 0.125
+21. But they did.                       ... pos = 0     	neg = 0.0  
+22. They probably did a                 ... pos = 0.75  	neg = 0.875
+23. It was a typical Hol                ... pos = 0.125 	neg = 0.125
+24. I think Adam Sandler                ... pos = 0.0   	neg = 0.0  
+25. There was one time w                ... pos = 0.0   	neg = 0.375
+26. Half of the church f                ... pos = 0.375 	neg = 0.125
+27. And a joke about Fed                ... pos = 0.0   	neg = 0.25 
+28. But that's about it.                ... pos = 0.0   	neg = 0.0  
+29. My last words, if yo                ... pos = 0.375 	neg = 0.0  
+30. But if you prefer a                 ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-363-331 is Positive          ... pos = 5.625 	neg = 3.625
+Overall score of document
+Total Pos = 5.625
+Total Neg = 3.625
+---------------------------------------------------------------------------

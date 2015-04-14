@@ -1,0 +1,35 @@
+0. Cast: Cate Blanchett                 ... pos = 0.75  	neg = 0.125
+1. Set in the 1500's, i                 ... pos = 0.5   	neg = 0.0  
+2. My philosophy regard                 ... pos = 0.25  	neg = 0.375
+3. Don't just look the                  ... pos = 0.25  	neg = 1.0  
+4. But thanks to some t                 ... pos = 1.5   	neg = 0.125
+5. Wings of the Dove, f                 ... pos = 2.125 	neg = 0.125
+6. As was The Crucible                  ... pos = 1.5   	neg = 0.125
+7. Elizabeth does nothi                 ... pos = 0.25  	neg = 1.0  
+8. After the death of Q                 ... pos = 0.0   	neg = 0.125
+9. England is in a disa                 ... pos = 0.25  	neg = 1.875
+10. Chief advisor Sir Wi                ... pos = 0.625 	neg = 0.0  
+11. But Elizabeth is enj                ... pos = 0.25  	neg = 0.125
+12. She values the opini                ... pos = 0.0   	neg = 0.75 
+13. With the responsibil                ... pos = 1.5   	neg = 0.0  
+14. Michael Hirst, who h                ... pos = 0.25  	neg = 1.125
+15. A considerable porti                ... pos = 0.5   	neg = 0.625
+16. We are amply told wh                ... pos = 0.625 	neg = 0.25 
+17. Rush's Walsingham ea                ... pos = 1.875 	neg = 0.5  
+18. The paradox of his p                ... pos = 0.5   	neg = 0.125
+19. It's that sort of ir                ... pos = 0.875 	neg = 0.75 
+20. Geoffrey Rush is wel                ... pos = 1.875 	neg = 0.625
+21. Speculation has rise                ... pos = 1.25  	neg = 0.125
+22. She is bound to plea                ... pos = 0.375 	neg = 0.125
+23. Blancett has a look                 ... pos = 1.0   	neg = 1.125
+24. Critics are no doubt                ... pos = 2.125 	neg = 1.25 
+25. But as people after                 ... pos = 2.5   	neg = 0.375
+26. I hadn't been able t                ... pos = 0.625 	neg = 0.375
+27. That's strange, sinc                ... pos = 3.625 	neg = 0.5  
+28. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3961-1111 is Positive        ... pos = 28.0  	neg = 13.625
+Overall score of document
+Total Pos = 28.0
+Total Neg = 13.625
+---------------------------------------------------------------------------

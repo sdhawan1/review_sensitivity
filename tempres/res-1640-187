@@ -1,0 +1,60 @@
+0. A Sony Pictures Ente                 ... pos = 0.25  	neg = 0.0  
+1. Mark Wahlberg, Lou D                 ... pos = 0.0   	neg = 0.0  
+2. Co-producers, Craig                  ... pos = 0.25  	neg = 0.0  
+3. Screenplay,.  We've                  ... pos = 0.125 	neg = 0.0  
+4. Films such as "2 Day                 ... pos = 0.0   	neg = 0.0  
+5. Now we have a new en                 ... pos = 0.75  	neg = 0.0  
+6. While the film is fa                 ... pos = 1.0   	neg = 0.25 
+7. The film opens with                  ... pos = 0.0   	neg = 0.625
+8. The comedic nature o                 ... pos = 0.0   	neg = 1.0  
+9. Melvin lives in a su                 ... pos = 0.0   	neg = 0.125
+10. His lover is Chantel                ... pos = 0.75  	neg = 0.625
+11. However, the real su                ... pos = 0.875 	neg = 0.375
+12. A Jewish American Pr                ... pos = 0.125 	neg = 0.625
+13. Melvin is a man with                ... pos = 1.25  	neg = 0.25 
+14. Melvin is a hit man                 ... pos = 0.0   	neg = 0.125
+15. But he is so concern                ... pos = 0.5   	neg = 0.125
+16. After going on a job                ... pos = 0.25  	neg = 0.75 
+17. Their employer, Pari                ... pos = 0.5   	neg = 0.125
+18. Moreover, for once i                ... pos = 0.0   	neg = 0    
+19. The plot takes a tur                ... pos = 0.0   	neg = 0.0  
+20. Unfortunately, Jiro                 ... pos = 0.5   	neg = 1.625
+21. Well the kidnapping                 ... pos = 0.0   	neg = 0.0  
+22. Unfortunately, it tu                ... pos = 0.0   	neg = 1.25 
+23. He orders Cisco to f                ... pos = 0.0   	neg = 0.0  
+24. In an effort to save                ... pos = 0.0   	neg = 0.0  
+25. Now the plot as stat                ... pos = 0.125 	neg = 0.125
+26. Nevertheless, the ch                ... pos = 2.5   	neg = 0.0  
+27. "The Big Hit" is a r                ... pos = 1.125 	neg = 0.25 
+28. One surprising and w                ... pos = 0.375 	neg = 0    
+29. Mr. Gould brings thi                ... pos = 1.75  	neg = 0.375
+30. In fact Mort Schulma                ... pos = 1.125 	neg = 0.125
+31. Lainie Kazan as Mrs.                ... pos = 0.25  	neg = 0.75 
+32. She is the ultimate                 ... pos = 0.0   	neg = 0.125
+33. "The Big Hit" is sur                ... pos = 0.25  	neg = 0.375
+34. Lou Diamond Phillips                ... pos = 0.875 	neg = 0.0  
+35. This is not what you                ... pos = 0.0   	neg = 0.125
+36. However, it is a per                ... pos = 1.0   	neg = 0.25 
+37. Christina Applegate                 ... pos = 0.75  	neg = 0.0  
+38. Her character of Pam                ... pos = 1.25  	neg = 0.25 
+39. This brings us to Ma                ... pos = 0.0   	neg = 0    
+40. His Melvin is a vari                ... pos = 1.0   	neg = 0.125
+41. A complete milquetoa                ... pos = 0.125 	neg = 0.0  
+42. While this performan                ... pos = 1.125 	neg = 0.125
+43. His scenes with Chin                ... pos = 0.875 	neg = 0.0  
+44. As they marinate and                ... pos = 0.5   	neg = 0.5  
+45. Director Chi-Kirk Wo                ... pos = 0.0   	neg = 0.0  
+46. His knowing referenc                ... pos = 1.0   	neg = 0.125
+47. Director Wong has ma                ... pos = 0.25  	neg = 0.0  
+48. He guided Jackie Cha                ... pos = 0.5   	neg = 0.0  
+49. While there are surl                ... pos = 1.125 	neg = 0.75 
+50. "The Big Hit", while                ... pos = 0.0   	neg = 0.125
+51. On a scale of *****                 ... pos = 0.0   	neg = 0.0  
+52. It is a surprising d                ... pos = 0.625 	neg = 0.25 
+53. Copyright 1998 R. L                 ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1640-187 is Positive         ... pos = 26.375 	neg = 13.0 
+Overall score of document
+Total Pos = 26.375
+Total Neg = 13.0
+---------------------------------------------------------------------------

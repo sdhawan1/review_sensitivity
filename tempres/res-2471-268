@@ -1,0 +1,65 @@
+0. The only thing surpr                 ... pos = 0.75  	neg = 0.25 
+1. I fully expected a m                 ... pos = 0.125 	neg = 0.25 
+2. " What I saw was an                  ... pos = 0.75  	neg = 0.125
+3. "Walk in the Sun," a                 ... pos = 0.0   	neg = 0.0  
+4. A group of GI's are                  ... pos = 0.25  	neg = 0.625
+5. The enemy is faceles                 ... pos = 0.0   	neg = 1.375
+6. Our soldiers, by the                 ... pos = 1.25  	neg = 0.5  
+7. The reason that CP'e                 ... pos = 0.25  	neg = 0.25 
+8. " So patriotic were                  ... pos = 0.5   	neg = 0.125
+9. The buzz about Spiel                 ... pos = 0.375 	neg = 0.125
+10. This decision roughl                ... pos = 0.75  	neg = 0.0  
+11. The question of what                ... pos = 0.125 	neg = 0.5  
+12. A war movie ultimate                ... pos = 0.75  	neg = 0.0  
+13. The audience is at t                ... pos = 0.0   	neg = 0.125
+14. " The suspense is si                ... pos = 0.5   	neg = 0.25 
+15. Who will get slashed                ... pos = 0.125 	neg = 0.0  
+16. The most interesting                ... pos = 0.25  	neg = 0.125
+17. The acid-spitting  m                ... pos = 0.25  	neg = 0.0  
+18. All the soldiers wan                ... pos = 0.125 	neg = 0.25 
+19. Since the aesthetic                 ... pos = 0.875 	neg = 0.0  
+20. What would compel a                 ... pos = 0.125 	neg = 0.0  
+21. It is not really too                ... pos = 0.0   	neg = 1.125
+22. When Spielberg is no                ... pos = 1.125 	neg = 0.25 
+23. Movies like "Amistad                ... pos = 0.75  	neg = 0.0  
+24. In "Amistad," this r                ... pos = 0.0   	neg = 0.125
+25. In "Schindler's List                ... pos = 0.0   	neg = 0.125
+26. General George Marsh                ... pos = 1.875 	neg = 0.125
+27. Marshall tells his f                ... pos = 0.125 	neg = 0.375
+28. Once this decision i                ... pos = 0.625 	neg = 0.125
+29. Their trek through h                ... pos = 0.875 	neg = 0.75 
+30. Unfortunately, "Savi                ... pos = 1.25  	neg = 0.875
+31. " The stories about                 ... pos = 0.375 	neg = 0.0  
+32. This should not come                ... pos = 0.125 	neg = 0.125
+33. Standing above this                 ... pos = 0.25  	neg = 0.0  
+34. " Not only is Genera                ... pos = 0.25  	neg = 0.625
+35. There is one plot de                ... pos = 0.5   	neg = 0.125
+36. Hank's men have capt                ... pos = 0.0   	neg = 0.0  
+37. They want to kill hi                ... pos = 0.0   	neg = 0.875
+38. In the climax of the                ... pos = 0.0   	neg = 0.0  
+39. After he is captured                ... pos = 0.0   	neg = 0.125
+40. The moral of the sto                ... pos = 1.375 	neg = 1.625
+41. Warren Beatty, anoth                ... pos = 0.0   	neg = 0.125
+42. " "Bulworth" attempt                ... pos = 0.375 	neg = 0.0  
+43. This politician deci                ... pos = 0.5   	neg = 0.25 
+44. This, of course, is                 ... pos = 0.375 	neg = 0.25 
+45. The reason that WWII                ... pos = 1.364 	neg = 0.375
+46. People rallied aroun                ... pos = 0.0   	neg = 0.125
+47. Good workers were li                ... pos = 1.5   	neg = 0.125
+48. They went to work in                ... pos = 0.375 	neg = 0.0  
+49. Anybody who struck d                ... pos = 0.0   	neg = 0.125
+50. After WWII the "bad                 ... pos = 0.125 	neg = 0    
+51. No longer was it the                ... pos = 0.0   	neg = 0.875
+52. Instead it was the f                ... pos = 0.375 	neg = 0.125
+53. In order to get peop                ... pos = 0.375 	neg = 0.0  
+54. Instead they have to                ... pos = 0.5   	neg = 0.125
+55. It is also necessary                ... pos = 0.125 	neg = 0.125
+56. If there is one thin                ... pos = 0.25  	neg = 0.25 
+57. Although speaking fo                ... pos = 0.75  	neg = 0.25 
+58. (http://www.panix.co                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2471-268 is Positive         ... pos = 24.614 	neg = 15.375
+Overall score of document
+Total Pos = 24.614
+Total Neg = 15.375
+---------------------------------------------------------------------------

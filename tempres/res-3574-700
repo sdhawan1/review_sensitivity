@@ -1,0 +1,24 @@
+0. Release Date: Novemb                 ... pos = 0.25  	neg = 0.0  
+1. Directed by: Frank C                 ... pos = 0.0   	neg = 1.25 
+2. The formula isn't un                 ... pos = 0.375 	neg = 1.125
+3. Or perhaps you'd arg                 ... pos = 1.25  	neg = 0.0  
+4. But maybe you'd most                 ... pos = 0.5   	neg = 0.0  
+5. You'd be right on al                 ... pos = 0.0   	neg = 0.25 
+6. Although the comic h                 ... pos = 1.944 	neg = 0.0  
+7. The producers won't                  ... pos = 0.125 	neg = 1.25 
+8. The cast is one big                  ... pos = 0.375 	neg = 0.375
+9. Sandler himself is t                 ... pos = 0.0   	neg = 0.25 
+10. At 32 years old, how                ... pos = 0.375 	neg = 0.75 
+11. There, a football co                ... pos = 0.5   	neg = 0.0  
+12. Although against his                ... pos = 0.125 	neg = 0.375
+13. Anything on the char                ... pos = 1.0   	neg = 0.25 
+14. And everything else,                ... pos = 0.5   	neg = 0.625
+15. Neither works partic                ... pos = 0.25  	neg = 0.25 
+16. In all, there's a ce                ... pos = 0.125 	neg = 0.125
+17. But for the adolesce                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3574-700 is Positive         ... pos = 7.694 	neg = 7.0  
+Overall score of document
+Total Pos = 7.694
+Total Neg = 7.0
+---------------------------------------------------------------------------

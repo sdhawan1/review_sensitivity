@@ -1,0 +1,36 @@
+0. It's 1962, and the C                 ... pos = 0.5   	neg = 0.125
+1. But inventor Calvin                  ... pos = 0.0   	neg = 0.125
+2. He's got an elaborat                 ... pos = 0.0   	neg = 0.125
+3. Just as Calvin takes                 ... pos = 0.125 	neg = 0.125
+4. Thinking that the Bo                 ... pos = 0.25  	neg = 0.0  
+5. The shelter has a co                 ... pos = 0.0   	neg = 0.0  
+6. Adam Webber (Brendan                 ... pos = 0.375 	neg = 0.125
+7. Up top, a malt shop                  ... pos = 0.0   	neg = 0.125
+8. Eventually it become                 ... pos = 0.0   	neg = 0.625
+9. In 1997 when Calvin                  ... pos = 0.0   	neg = 0.5  
+10. Horrified, he decide                ... pos = 0.0   	neg = 0.0  
+11. Raised in an artific                ... pos = 0.75  	neg = 0.625
+12. But Adam meets Eve (                ... pos = 0.0   	neg = 0.0  
+13. Eve and her gay best                ... pos = 0.625 	neg = 0.0  
+14. Adam and Eve fall in                ... pos = 0.75  	neg = 0.0  
+15. Brendan Fraser seems                ... pos = 0.75  	neg = 0.25 
+16. "  This project coul                ... pos = 0.25  	neg = 0.125
+17. A.                                  ... pos = 0.0   	neg = 0    
+18. "  "Blast" tries to                 ... pos = 0.125 	neg = 0.0  
+19. For example, when he                ... pos = 0.875 	neg = 0.5  
+20. A Negro!                            ... pos = 0.0   	neg = 0    
+21. "  Fraser's amiabili                ... pos = 0.0   	neg = 0.25 
+22. The funniest moments                ... pos = 0.625 	neg = 0.0  
+23. In the scenes showin                ... pos = 0.625 	neg = 0.0  
+24. These extremely conf                ... pos = 1.0   	neg = 0.5  
+25. This premise could h                ... pos = 0.25  	neg = 0.125
+26. However, screenwrite                ... pos = 0.625 	neg = 0.5  
+27. Pity.                               ... pos = 0.125 	neg = 0    
+28. Bottom line:  Pleasa                ... pos = 0.75  	neg = 0.25 
+29. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-533-1265 is Positive         ... pos = 9.375 	neg = 5.0  
+Overall score of document
+Total Pos = 9.375
+Total Neg = 5.0
+---------------------------------------------------------------------------

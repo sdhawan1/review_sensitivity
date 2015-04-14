@@ -1,0 +1,45 @@
+0. This is how it is: e                 ... pos = 0.25  	neg = 0.375
+1. But Mulder  (David D                 ... pos = 0.875 	neg = 0.375
+2. Knowing this will at                 ... pos = 1.625 	neg = 0.125
+3. Equipped with their                  ... pos = 1.0   	neg = 0.25 
+4. It's not long before                 ... pos = 0.0   	neg = 0.5  
+5. There's a lot to adm                 ... pos = 0.625 	neg = 0.0  
+6. It keyed  into a pre                 ... pos = 0.5   	neg = 0.375
+7. It's a very  likeabl                 ... pos = 0.625 	neg = 0.0  
+8. This may explain why                 ... pos = 0.25  	neg = 0.125
+9. The beginning is adm                 ... pos = 0.75  	neg = 0.125
+10. After this creepy op                ... pos = 0.125 	neg = 0.0  
+11. Things then get  ver                ... pos = 1.125 	neg = 0.0  
+12. To be fair, it's onl                ... pos = 0.25  	neg = 0.125
+13. Is that so bad?                     ... pos = 0     	neg = 1.0  
+14. Movie and TV can be                 ... pos = 1.5   	neg = 0.125
+15. "The X Files" shows                 ... pos = 0.125 	neg = 0.0  
+16. The soundtrack blair                ... pos = 0.0   	neg = 0.25 
+17. A  rollcall of chara                ... pos = 0.875 	neg = 0.0  
+18. The  malevolent Canc                ... pos = 0.875 	neg = 0.75 
+19. But worst of all, ov                ... pos = 0.625 	neg = 0.5  
+20. (Plot  intricacies a                ... pos = 1.0   	neg = 0.0  
+21. Excuse me.                          ... pos = 0     	neg = 0.0  
+22. )  At the end  of th                ... pos = 0.0   	neg = 0.25 
+23. In a conspiracy the                 ... pos = 1.375 	neg = 0.625
+24. But "The X Files" sl                ... pos = 0.25  	neg = 0.0  
+25. The unseen conspirac                ... pos = 0.375 	neg = 0.0  
+26. The actions of some                 ... pos = 0.875 	neg = 0.125
+27. And at the end of th                ... pos = 0.875 	neg = 0.0  
+28. Hardcore X-philes wi                ... pos = 0.75  	neg = 0.625
+29. More casual fans wil                ... pos = 0.75  	neg = 0.5  
+30. Those who have never                ... pos = 0.5   	neg = 0.625
+31. Conversely, the  hoo                ... pos = 2.125 	neg = 0.625
+32. [**/ok] and unmarked                ... pos = 0.0   	neg = 0.375
+33. "The X Files" Releas                ... pos = 0.0   	neg = 0    
+34. Directed by Rob Bowm                ... pos = 0.0   	neg = 0    
+35. Written by Chris Car                ... pos = 0.0   	neg = 0    
+36. Music by Mike Oldfie                ... pos = 0.0   	neg = 0    
+37. Starring David Ducho                ... pos = 0.0   	neg = 0.125
+38. -- Paul-Michael Agap                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2979-993 is Positive         ... pos = 20.875 	neg = 8.875
+Overall score of document
+Total Pos = 20.875
+Total Neg = 8.875
+---------------------------------------------------------------------------

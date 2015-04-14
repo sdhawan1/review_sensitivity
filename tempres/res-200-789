@@ -1,0 +1,38 @@
+0. "Being John Malkovic                 ... pos = 0.0   	neg = 0.25 
+1. Today's films are ei                 ... pos = 0.75  	neg = 0.5  
+2. Malkovich falls unde                 ... pos = 0.0   	neg = 0.25 
+3. This strangely provo                 ... pos = 0.75  	neg = 0.125
+4. John Cusack plays a                  ... pos = 0.0   	neg = 0.5  
+5. His wife (Cameron Di                 ... pos = 0.625 	neg = 0.0  
+6. When Cusack finally                  ... pos = 0.125 	neg = 0.0  
+7. When he reaches the                  ... pos = 0.0   	neg = 0.125
+8. It's there that he d                 ... pos = 0.25  	neg = 0.0  
+9. Meanwhile, Cusack me                 ... pos = 1.0   	neg = 0.25 
+10. The only problem is,                ... pos = 0.0   	neg = 0.625
+11. The whole portal thi                ... pos = 0.375 	neg = 0.0  
+12. Being inside Malkovi                ... pos = 0.375 	neg = 0.0  
+13. I don't want to give                ... pos = 0.125 	neg = 0.625
+14. In my opinion, this                 ... pos = 0.875 	neg = 0.125
+15. It's really quite sc                ... pos = 0.0   	neg = 0.875
+16. It makes you wonder                 ... pos = 0.0   	neg = 0.0  
+17. Even if the script i                ... pos = 0.0   	neg = 0.125
+18. It could have lead u                ... pos = 0.0   	neg = 0.0  
+19. It tried to explain                 ... pos = 0.125 	neg = 0.5  
+20. Other than that, I h                ... pos = 1.0   	neg = 0.0  
+21. The acting was quite                ... pos = 0.75  	neg = 0.125
+22. John Cusack has fina                ... pos = 1.0   	neg = 0.125
+23. He's by far the most                ... pos = 1.125 	neg = 0.125
+24. Cameron Diaz was her                ... pos = 1.0   	neg = 1.625
+25. John Malkovich himse                ... pos = 0.125 	neg = 0.0  
+26. Who else's mind woul                ... pos = 0.125 	neg = 0.125
+27. The director, Spike                 ... pos = 0.125 	neg = 0.0  
+28. I knew he was bizzar                ... pos = 0.125 	neg = 0.125
+29. He too is likely too                ... pos = 0.0   	neg = 0.625
+30. "Being John Malkovic                ... pos = 1.25  	neg = 0.125
+31. What's even better i                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-200-789 is Positive          ... pos = 12.0  	neg = 8.375
+Overall score of document
+Total Pos = 12.0
+Total Neg = 8.375
+---------------------------------------------------------------------------

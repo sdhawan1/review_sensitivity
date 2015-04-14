@@ -1,0 +1,27 @@
+0. Did you ever see tha                 ... pos = 0.0   	neg = 0.75 
+1. Do you remember the                  ... pos = 0.375 	neg = 1.0  
+2. Tim Burton remembers                 ... pos = 0.75  	neg = 0.0  
+3. Here's another gem f                 ... pos = 1.375 	neg = 0.125
+4. Set firmly in the 18                 ... pos = 1.0   	neg = 0.0  
+5. No one-liners.                       ... pos = 0     	neg = 0.25 
+6. No provision for a s                 ... pos = 0.0   	neg = 0.25 
+7. Its only nudge to th                 ... pos = 2.875 	neg = 0.25 
+8. This movie is so  ou                 ... pos = 1.375 	neg = 0.125
+9. New York constable                   ... pos = 0.625 	neg = 0.5  
+10. The  townsfolk blame                ... pos = 0.125 	neg = 0.5  
+11. A  first-hand encoun                ... pos = 0.0   	neg = 0.0  
+12. Depp's transition fr                ... pos = 1.25  	neg = 1.0  
+13. The seeds have alrea                ... pos = 0.125 	neg = 0.625
+14. The concerns of the                 ... pos = 0.75  	neg = 0.25 
+15. ) but by its finale                 ... pos = 0.5   	neg = 0.0  
+16. The usual lightning                 ... pos = 0.875 	neg = 1.125
+17. Every swirling mass                 ... pos = 0.625 	neg = 2.0  
+18. Irrespective of its                 ... pos = 0.375 	neg = 0.125
+19. But if it's "suppose                ... pos = 0.375 	neg = 1.875
+20. sburridge@hotmail.co                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6111-1432 is Positive        ... pos = 13.625 	neg = 10.75
+Overall score of document
+Total Pos = 13.625
+Total Neg = 10.75
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. This is the best fil                 ... pos = 0.375 	neg = 0.125
+1. If TITANIC (****) wi                 ... pos = 0.625 	neg = 0.125
+2. The sad fact is that                 ... pos = 0.25  	neg = 0.875
+3. Nothing against TITA                 ... pos = 0.375 	neg = 0.375
+4. CONFIDENTIAL is just                 ... pos = 0.25  	neg = 0.125
+5. LA.                                  ... pos = 0.0   	neg = 0    
+6. CONFIDENTIAL is a ma                 ... pos = 1.125 	neg = 0.875
+7. They are thrown into                 ... pos = 0.75  	neg = 0.375
+8. Every aspect of this                 ... pos = 0.375 	neg = 0.625
+9. Who would expected a                 ... pos = 0.75  	neg = 0.5  
+10. Who would have expec                ... pos = 0.0   	neg = 0.25 
+11. The cast is fantasti                ... pos = 0.5   	neg = 0.125
+12. Guy Pearce is quite                 ... pos = 0.5   	neg = 1.25 
+13. Kevin Spacey deliver                ... pos = 0.75  	neg = 0.0  
+14. Russel Crowe hasn't                 ... pos = 0.75  	neg = 0.125
+15. James Cromwell conti                ... pos = 0.0   	neg = 0.375
+16. All hope of a Best P                ... pos = 0.75  	neg = 0.125
+17. TITANIC didn't recie                ... pos = 0.0   	neg = 0.0  
+18. The distinction that                ... pos = 1.125 	neg = 0.375
+19. If CONFIDENTIAL come                ... pos = 0.125 	neg = 0.125
+20. Remember Fargo, Pulp                ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1450-1338 is Positive        ... pos = 9.5   	neg = 6.75 
+Overall score of document
+Total Pos = 9.5
+Total Neg = 6.75
+---------------------------------------------------------------------------

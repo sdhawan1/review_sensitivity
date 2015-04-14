@@ -1,0 +1,31 @@
+0. "The Siege" does the                 ... pos = 0.0   	neg = 0.0  
+1. Meaning that it is c                 ... pos = 0.25  	neg = 0.125
+2. Instead of taking th                 ... pos = 0.5   	neg = 0.0  
+3. They gave us an easy                 ... pos = 0.25  	neg = 1.0  
+4. The film's premise i                 ... pos = 0.0   	neg = 0.375
+5. It features Denzel W                 ... pos = 0.375 	neg = 0.0  
+6. These guys mean busi                 ... pos = 0.0   	neg = 0.375
+7. They want the releas                 ... pos = 0.75  	neg = 0.25 
+8. Denzel almost immedi                 ... pos = 0.75  	neg = 0.0  
+9. The scenes between t                 ... pos = 0.5   	neg = 0.0  
+10. Bening in particular                ... pos = 1.25  	neg = 0.125
+11. But then the movie b                ... pos = 0.375 	neg = 1.0  
+12. The parallels are ob                ... pos = 0.25  	neg = 1.25 
+13. But it doesn't work                 ... pos = 1.5   	neg = 0.125
+14. Why did this annoy m                ... pos = 0     	neg = 0.0  
+15. Because it's dishone                ... pos = 0.0   	neg = 0.25 
+16. But instead it mixes                ... pos = 0.0   	neg = 0.0  
+17. The Willis character                ... pos = 0.875 	neg = 1.75 
+18. There's a lot of goo                ... pos = 0.75  	neg = 0.0  
+19. They're just short-                 ... pos = 0     	neg = 0.0  
+20. Tony Shalhoub, for i                ... pos = 0.375 	neg = 0.25 
+21. And I mentioned Beni                ... pos = 0.0   	neg = 0.125
+22. But by the fatally r                ... pos = 0.25  	neg = 0.75 
+23. Sent via Deja.com ht                ... pos = 0.0   	neg = 0.0  
+24. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2604-1046 is Positive        ... pos = 9.0   	neg = 7.75 
+Overall score of document
+Total Pos = 9.0
+Total Neg = 7.75
+---------------------------------------------------------------------------

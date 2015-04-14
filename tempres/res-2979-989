@@ -1,0 +1,30 @@
+0. It's risky to try to                 ... pos = 0.375 	neg = 0.0  
+1. Mainly you're trying                 ... pos = 1.875 	neg = 0.25 
+2. At the same time, yo                 ... pos = 0.125 	neg = 0.125
+3. How can you possibly                 ... pos = 0.625 	neg = 0.625
+4. However it's done, t                 ... pos = 0.125 	neg = 0.0  
+5. As the feature begin                 ... pos = 0.875 	neg = 0.125
+6. But it isn't.                        ... pos = 0.0   	neg = 0.0  
+7. As different charact                 ... pos = 1.5   	neg = 0.0  
+8. Obviously, the cigar                 ... pos = 0.0   	neg = 0.25 
+9. There is a scene whe                 ... pos = 0.125 	neg = 0.125
+10. You could tell by th                ... pos = 0.0   	neg = 0.375
+11. They don't explain w                ... pos = 0.5   	neg = 0.0  
+12. The movie moves alon                ... pos = 0.75  	neg = 0.0  
+13. There is a lot of ac                ... pos = 0.375 	neg = 0.125
+14. But then, neither ar                ... pos = 0.25  	neg = 0.25 
+15. They have made caree                ... pos = 0.0   	neg = 0.5  
+16. This movie really ma                ... pos = 0.0   	neg = 0.0  
+17. When it's finally ov                ... pos = 0.0   	neg = 0    
+18. You don't know what                 ... pos = 0.0   	neg = 0.0  
+19. It just makes you wa                ... pos = 0.0   	neg = 0.125
+20. They will probably h                ... pos = 0.75  	neg = 0.0  
+21. It is a highly enter                ... pos = 0.75  	neg = 0.125
+22. I want to see it aga                ... pos = 0.375 	neg = 0.25 
+23. I give it a B+.. .                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2979-989 is Positive         ... pos = 9.375 	neg = 3.25 
+Overall score of document
+Total Pos = 9.375
+Total Neg = 3.25
+---------------------------------------------------------------------------

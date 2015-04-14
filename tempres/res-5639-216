@@ -1,0 +1,32 @@
+0. Paul Vitti (Robert D                 ... pos = 0.875 	neg = 0.0  
+1. Things aren't as sim                 ... pos = 1.125 	neg = 0.125
+2. "What, are we gonna                  ... pos = 0.5   	neg = 0.0  
+3. " sneers Vitti in re                 ... pos = 0.0   	neg = 0.0  
+4. But there are other                  ... pos = 1.125 	neg = 0.5  
+5. The members of Vitti                 ... pos = 0.625 	neg = 0.25 
+6. Hoping to reclaim hi                 ... pos = 0.5   	neg = 0.125
+7. Sobol wants nothing                  ... pos = 0.125 	neg = 1.125
+8. Soon the two men are                 ... pos = 0.375 	neg = 0.0  
+9. Harold Ramis's "Anal                 ... pos = 0.25  	neg = 0.125
+10. "  Funny and clever,                ... pos = 0.5   	neg = 0.0  
+11. The jokes are sly, r                ... pos = 1.25  	neg = 1.0  
+12. "  It is, quite simp                ... pos = 0.0   	neg = 0.125
+13. The interplay betwee                ... pos = 0.0   	neg = 0.625
+14. Sobol also challenge                ... pos = 0.625 	neg = 0.375
+15. De Niro makes Vitti                 ... pos = 1.0   	neg = 0.125
+16. It's a clever direct                ... pos = 1.625 	neg = 0.25 
+17. Much of the film rem                ... pos = 0.125 	neg = 0.0  
+18. ", the Bill Murray/R                ... pos = 0.125 	neg = 0.0  
+19. The same thing happe                ... pos = 1.75  	neg = 0.0  
+20. Only two minor items                ... pos = 0.875 	neg = 0.25 
+21. "  I was hoping for                 ... pos = 0.25  	neg = 0.125
+22. These are not major                 ... pos = 0.75  	neg = 0.0  
+23. Great acting, great                 ... pos = 0.0   	neg = 0.5  
+24. Oh man, I am *so* th                ... pos = 0.0   	neg = 0.125
+25. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5639-216 is Positive         ... pos = 14.75 	neg = 5.75 
+Overall score of document
+Total Pos = 14.75
+Total Neg = 5.75
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. Starring Antonio Ban                 ... pos = 0.0   	neg = 0.0  
+1. Directed By Martin C                 ... pos = 0.0   	neg = 0    
+2. Running Time: 2 hour                 ... pos = 1.375 	neg = 0.125
+3. Steven Spielberg may                 ... pos = 0.25  	neg = 0.125
+4. And he knows a money                 ... pos = 0.25  	neg = 0.0  
+5. The Mask of Zorro ha                 ... pos = 0.0   	neg = 0.0  
+6. Hopkins plays Don Di                 ... pos = 0.125 	neg = 0.0  
+7. A fighter for the pe                 ... pos = 0.0   	neg = 0.25 
+8. The film cuts to twe                 ... pos = 0.25  	neg = 0.0  
+9. However, he's far to                 ... pos = 0.5   	neg = 0.25 
+10. Banderas motive?                    ... pos = 0     	neg = 0.0  
+11. To avenge the death                 ... pos = 1.25  	neg = 0.625
+12. With the scene set,                 ... pos = 1.0   	neg = 0.0  
+13. Banderas and Hopkins                ... pos = 0.375 	neg = 0.625
+14. Hopkins seems to com                ... pos = 1.0   	neg = 1.0  
+15. As the bad guys, Wil                ... pos = 0.125 	neg = 1.75 
+16. The audience does ha                ... pos = 0.125 	neg = 1.0  
+17. Catherine Zeta-Jones                ... pos = 0.625 	neg = 0.25 
+18. The chemistry is exc                ... pos = 1.0   	neg = 0.125
+19. There's a delightful                ... pos = 1.125 	neg = 0.875
+20. The director, fresh                 ... pos = 1.375 	neg = 0.0  
+21. The action is well d                ... pos = 0.0   	neg = 0.125
+22. The cast help a lot,                ... pos = 0.75  	neg = 0.125
+23. Although the film is                ... pos = 0.5   	neg = 0.5  
+24. However, the film is                ... pos = 0.25  	neg = 0.75 
+25. It manages to hold t                ... pos = 1.0   	neg = 0.0  
+26. Screenwriters John E                ... pos = 0.0   	neg = 1.375
+27. Although they've bou                ... pos = 0.125 	neg = 0.375
+28. There's lots of litt                ... pos = 0.375 	neg = 0.75 
+29. The main story seems                ... pos = 0.25  	neg = 0.875
+30. This sets up for a T                ... pos = 0.125 	neg = 0.25 
+31. However, this doesn'                ... pos = 0.5   	neg = 0.25 
+32. In the end however,                 ... pos = 0.125 	neg = 0.0  
+33. It suitable for ever                ... pos = 0.125 	neg = 0.0  
+34. You won't regret it.                ... pos = 0.0   	neg = 0    
+35. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+36. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-249-1213 is Positive         ... pos = 14.875 	neg = 12.375
+Overall score of document
+Total Pos = 14.875
+Total Neg = 12.375
+---------------------------------------------------------------------------

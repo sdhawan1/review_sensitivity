@@ -1,0 +1,54 @@
+0. Director:  John Dah                 ... pos = 0.125 	neg = 0.75 
+1. It involves a lot of                 ... pos = 0.125 	neg = 0.0  
+2. As we were driving o                 ... pos = 0.25  	neg = 0.25 
+3. I've lived in Reno m                 ... pos = 0.5   	neg = 0.25 
+4. Apparently, my frien                 ... pos = 0.125 	neg = 0.125
+5. The fact is, most lo                 ... pos = 0.125 	neg = 0.125
+6. I, myself, have spen                 ... pos = 0.0   	neg = 0.0  
+7. Nobody knows anythin                 ... pos = 0.0   	neg = 0.0  
+8. It's a mystery unles                 ... pos = 0.0   	neg = 0.0  
+9. That's why gambling                  ... pos = 0.25  	neg = 0.125
+10. Sure, we ignore it f                ... pos = 0.25  	neg = 0.5  
+11. As I understand it,                 ... pos = 0.625 	neg = 0.0  
+12. That's probably why                 ... pos = 0.125 	neg = 0.25 
+13. It also makes gambli                ... pos = 0.125 	neg = 0.25 
+14. Of course, it's more                ... pos = 0.0   	neg = 0.0  
+15. It tells the story o                ... pos = 1.0   	neg = 0.25 
+16. The film stars the u                ... pos = 0.0   	neg = 0.625
+17. He vows never to go                 ... pos = 0.0   	neg = 0.0  
+18. He gets a "real" job                ... pos = 0.0   	neg = 0.0  
+19. Everything is going                 ... pos = 0.625 	neg = 0.5  
+20. Worm is, of course,                 ... pos = 0.0   	neg = 1.125
+21. Then, predictably, M                ... pos = 0.375 	neg = 0.375
+22. Okay, so a lot of th                ... pos = 0.0   	neg = 0.25 
+23. Rounders is a smooth                ... pos = 0.875 	neg = 0.25 
+24. Of course Mike is go                ... pos = 0.0   	neg = 0.125
+25. Of course Worm is go                ... pos = 0     	neg = 1.0  
+26. Of course Mike's goi                ... pos = 0.5   	neg = 0.875
+27. And, of course, ther                ... pos = 0.0   	neg = 0.25 
+28. I could see the gear                ... pos = 0.0   	neg = 0.0  
+29. Interestingly, the p                ... pos = 0.25  	neg = 0.125
+30. Dahl (The Last Seduc                ... pos = 1.375 	neg = 0.5  
+31. It's probably the wa                ... pos = 0.0   	neg = 0.0  
+32. Dahl doesn't use a l                ... pos = 0.5   	neg = 0.125
+33. The film is ridiculo                ... pos = 1.25  	neg = 0.125
+34. It's such a well-don                ... pos = 0.875 	neg = 0.125
+35. The screenplay is go                ... pos = 2.125 	neg = 0.125
+36. Damon, unlike many o                ... pos = 0.75  	neg = 0.125
+37. (My only concern is                 ... pos = 1.125 	neg = 0.5  
+38. )  Norton, on the ot                ... pos = 0.875 	neg = 0.0  
+39. He's a strong screen                ... pos = 0.75  	neg = 0.0  
+40. John Malkovitch has                 ... pos = 0.5   	neg = 0.0  
+41. Supporting performan                ... pos = 1.875 	neg = 0.125
+42. I didn't much like t                ... pos = 0.125 	neg = 0.0  
+43. The girlfriend subpl                ... pos = 0.0   	neg = 0.375
+44. Overall, though, I d                ... pos = 0.125 	neg = 0.5  
+45. And, as my friend po                ... pos = 0.25  	neg = 0.0  
+46. John Dahl and his ar                ... pos = 0.25  	neg = 0.75 
+47. It just makes me wan                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5699-760 is Positive         ... pos = 19.0  	neg = 12.125
+Overall score of document
+Total Pos = 19.0
+Total Neg = 12.125
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. Starring Steve Marti                 ... pos = 0.0   	neg = 0.0  
+1. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+2. Steve Martin is one                  ... pos = 1.75  	neg = 0.5  
+3. That much I knew bef                 ... pos = 0.125 	neg = 0.0  
+4. What I didn't know,                  ... pos = 1.25  	neg = 0.375
+5. Mind you, this is no                 ... pos = 0.375 	neg = 0.125
+6. No?                                  ... pos = 0     	neg = 0.25 
+7. How 'bout A Simple T                 ... pos = 0.0   	neg = 0.0  
+8. ), a satirical yet g                 ... pos = 0.625 	neg = 0.0  
+9. Martin is Bobby Bowf                 ... pos = 0.375 	neg = 0.625
+10. His accountant buddy                ... pos = 0.0   	neg = 0.0  
+11. Bowfinger brings the                ... pos = 0.0   	neg = 0.0  
+12. The producer likes i                ... pos = 1.0   	neg = 0.0  
+13. Ramsey says no but B                ... pos = 0.625 	neg = 0.375
+14. He decides to make t                ... pos = 0.0   	neg = 0.0  
+15. The problem is that                 ... pos = 0.875 	neg = 0.375
+16. ), shouting lines an                ... pos = 0.375 	neg = 0.5  
+17. Bowfinger tells them                ... pos = 0.0   	neg = 0.0  
+18. Sooner than later, a                ... pos = 0.75  	neg = 0.0  
+19. He holds auditions f                ... pos = 0.375 	neg = 0.0  
+20. Jiff (Murphy again)                 ... pos = 0.125 	neg = 0.25 
+21. Bowfinger may not be                ... pos = 0.625 	neg = 0.125
+22. It's also one of the                ... pos = 0.375 	neg = 0    
+23. Steve Martin's writi                ... pos = 0.5   	neg = 0.125
+24. Bowfinger, as a whol                ... pos = 2.625 	neg = 0.125
+25. Not even Austin Powe                ... pos = 0.125 	neg = 0.0  
+26. There is not a trace                ... pos = 0.375 	neg = 0.25 
+27. It exaggerates and i                ... pos = 0.75  	neg = 0.625
+28. In fact, if I was as                ... pos = 0.0   	neg = 0.25 
+29. Much like the Austin                ... pos = 0.375 	neg = 0.375
+30. And that can make fo                ... pos = 0.75  	neg = 0.0  
+31. In addition to his g                ... pos = 1.125 	neg = 0.125
+32. He put thought and l                ... pos = 1.75  	neg = 0.125
+33. As for his similarly                ... pos = 0.75  	neg = 0.0  
+34. Indeed, he has only                 ... pos = 0.0   	neg = 0.125
+35. Still, Murphy makes                 ... pos = 0.0   	neg = 0.0  
+36. For the time that he                ... pos = 0.0   	neg = 0.25 
+37. Eddie Murphy may be                 ... pos = 0.75  	neg = 0.125
+38. Bowfinger is enterta                ... pos = 0.375 	neg = 0.125
+39. It never claims to b                ... pos = 1.125 	neg = 0.625
+40. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+41. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2751-563 is Positive         ... pos = 21.125 	neg = 6.75 
+Overall score of document
+Total Pos = 21.125
+Total Neg = 6.75
+---------------------------------------------------------------------------

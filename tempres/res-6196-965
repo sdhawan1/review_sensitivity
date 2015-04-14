@@ -1,0 +1,35 @@
+0. American Pie: the la                 ... pos = 0.375 	neg = 0.0  
+1. In American Pie, hap                 ... pos = 0.375 	neg = 0.75 
+2. Too, though, the tra                 ... pos = 0.0   	neg = 0.25 
+3. With a logline like                  ... pos = 1.125 	neg = 0.375
+4. What is new ground,                  ... pos = 1.125 	neg = 0.75 
+5. But there are people                 ... pos = 0.5   	neg = 0.25 
+6. Specifically, four h                 ... pos = 0.375 	neg = 0.625
+7. They are well-practi                 ... pos = 0.25  	neg = 0.125
+8. And they do have lot                 ... pos = 0.125 	neg = 0.25 
+9. Which is to say it a                 ... pos = 0.0   	neg = 0.125
+10. But of course they b                ... pos = 1.0   	neg = 0.875
+11. Well, this is how it                ... pos = 0.0   	neg = 0.125
+12. For the other two, t                ... pos = 0.375 	neg = 0.0  
+13. Fifty percent's bett                ... pos = 0.25  	neg = 1.125
+14. And there are some g                ... pos = 0.5   	neg = 0.875
+15. I just though it was                ... pos = 0.0   	neg = 0.375
+16. ". The teen movie wo                ... pos = 1.75  	neg = 0.25 
+17. Which is to say it's                ... pos = 0.75  	neg = 0.75 
+18. And high school is o                ... pos = 0.25  	neg = 0.125
+19. That's more or less                 ... pos = 0.125 	neg = 0.125
+20. How similar we all a                ... pos = 0.625 	neg = 0.0  
+21. American Pie is no B                ... pos = 0.0   	neg = 0.375
+22. It does play some to                ... pos = 1.0   	neg = 0.0  
+23. As are all the varia                ... pos = 0.75  	neg = 0.25 
+24. No, American Pie, wh                ... pos = 0.75  	neg = 0.25 
+25. It's more of a She's                ... pos = 0.75  	neg = 0.625
+26. Just be happy that J                ... pos = 0.625 	neg = 0.125
+27. It could have been a                ... pos = 1.125 	neg = 0.125
+28. (c) 1999, Stephen Gr                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6196-965 is Positive         ... pos = 14.875 	neg = 9.875
+Overall score of document
+Total Pos = 14.875
+Total Neg = 9.875
+---------------------------------------------------------------------------

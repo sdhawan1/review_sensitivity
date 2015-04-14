@@ -1,0 +1,43 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.125
+1. "  David Mamet's new                 ... pos = 0.875 	neg = 0.125
+2. The pigeon is Joe Ro                 ... pos = 0.0   	neg = 0.125
+3. "The Process" is a v                 ... pos = 0.25  	neg = 0.375
+4. If you haven't seen                  ... pos = 0.0   	neg = 0.75 
+5. Go rent House of Gam                 ... pos = 0.0   	neg = 0.0  
+6. Those of us who have                 ... pos = 0.0   	neg = 0.0  
+7. The Spanish Prisoner                 ... pos = 0.0   	neg = 0.0  
+8. The rapid-fire, inte                 ... pos = 0.75  	neg = 0.125
+9. The confidence game                  ... pos = 1.5   	neg = 0.875
+10. (I refuse to spoil t                ... pos = 0.375 	neg = 0.375
+11. ). And yet, for all                 ... pos = 1.0   	neg = 0.625
+12. And it's a weak movi                ... pos = 0.875 	neg = 0.5  
+13. Part of it is that M                ... pos = 0.0   	neg = 0.125
+14. Part of it is that S                ... pos = 0.5   	neg = 0.625
+15. Scott gets called a                 ... pos = 0.875 	neg = 0.125
+16. And it's not fair to                ... pos = 0.25  	neg = 0.125
+17. You would think that                ... pos = 1.25  	neg = 1.5  
+18. Mamet favorite Ricky                ... pos = 0.0   	neg = 1.0  
+19. Steve Martin (unseen                ... pos = 0.375 	neg = 0    
+20. Bilko, can that be r                ... pos = 0.0   	neg = 0.125
+21. ) is a Dirty Rotten                 ... pos = 0.375 	neg = 0.875
+22. Ben Gazarra is in th                ... pos = 0.125 	neg = 0.25 
+23. The saving grace of                 ... pos = 0.5   	neg = 0.125
+24. Mamet has put some o                ... pos = 0.5   	neg = 0.0  
+25. "  "Dog my cats.                    ... pos = 0     	neg = 0.0  
+26. ") but she is impres                ... pos = 1.0   	neg = 0.125
+27. She has a very odd d                ... pos = 1.5   	neg = 0.375
+28. This is her first bi                ... pos = 0.5   	neg = 0.125
+29. The movie's mantra i                ... pos = 0.0   	neg = 0.125
+30. "The Process" is val                ... pos = 0.5   	neg = 0.375
+31. And there's a proces                ... pos = 0.75  	neg = 0.375
+32. But any process is o                ... pos = 0.75  	neg = 0.125
+33. The Hollywood Stock                 ... pos = 0.0   	neg = 0.125
+34. No jury in the world                ... pos = 0.0   	neg = 0.25 
+35. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+36. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1888-1045 is Positive        ... pos = 15.375 	neg = 10.875
+Overall score of document
+Total Pos = 15.375
+Total Neg = 10.875
+---------------------------------------------------------------------------

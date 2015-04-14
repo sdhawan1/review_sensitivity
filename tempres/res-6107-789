@@ -1,0 +1,38 @@
+0. Arnold Schwarzenegge                 ... pos = 0.875 	neg = 1.125
+1. It's hard seeing Arn                 ... pos = 0.0   	neg = 0.75 
+2. Freeze in Batman And                 ... pos = 0.0   	neg = 0.25 
+3. Once again Arnold ha                 ... pos = 1.0   	neg = 0.125
+4. In this so called da                 ... pos = 0.125 	neg = 0.625
+5. With the help of a t                 ... pos = 0.25  	neg = 0.625
+6. Parts of this are ac                 ... pos = 0.375 	neg = 0.0  
+7. Yes, the film is tha                 ... pos = 0.0   	neg = 1.125
+8. Anyway, this definit                 ... pos = 0.375 	neg = 0.0  
+9. It just wasn't the t                 ... pos = 0.0   	neg = 0.0  
+10. Sure he gave us a fe                ... pos = 1.25  	neg = 0.25 
+11. It's understandable,                ... pos = 0.375 	neg = 0.125
+12. Aside form that, he                 ... pos = 0.125 	neg = 0.0  
+13. I'm sorry to say thi                ... pos = 0.25  	neg = 0.625
+14. Speaking of action,                 ... pos = 0.0   	neg = 0.125
+15. There was hardly any                ... pos = 0     	neg = 0.125
+16. The devil made a few                ... pos = 0.0   	neg = 0.375
+17. The ending was chang                ... pos = 0.625 	neg = 0.625
+18. I was at least hopin                ... pos = 0.0   	neg = 0.5  
+19. I also don't know wh                ... pos = 0.125 	neg = 0.375
+20. There was really no                 ... pos = 0.25  	neg = 1.5  
+21. The budget should ha                ... pos = 0.125 	neg = 0.625
+22. It's pitiful to see                 ... pos = 0.0   	neg = 0.667
+23. Do they even read th                ... pos = 0.0   	neg = 0.0  
+24. It sure doesn't seem                ... pos = 0.375 	neg = 0.0  
+25. Thankfully Gabriel's                ... pos = 0.5   	neg = 0.0  
+26. When he walks down t                ... pos = 0.0   	neg = 0.375
+27. The guy is creepy lo                ... pos = 0.0   	neg = 0.125
+28. When it's all over,                 ... pos = 0.0   	neg = 0.0  
+29. Don't bother to see                 ... pos = 0.0   	neg = 0.375
+30. It's just another mo                ... pos = 0.625 	neg = 0.125
+31. Save your money and                 ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6107-789 is Negative         ... pos = 7.75  	neg = 11.667
+Overall score of document
+Total Pos = 7.75
+Total Neg = 11.667
+---------------------------------------------------------------------------

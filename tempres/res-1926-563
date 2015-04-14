@@ -1,0 +1,46 @@
+0. "I will sell this ho                 ... pos = 0.25  	neg = 0.0  
+1. " Starring Kevin Spa                 ... pos = 0.0   	neg = 0.0  
+2. Rated R.. In my revi                 ... pos = 0.875 	neg = 0.0  
+3. I realize that we al                 ... pos = 1.0   	neg = 0.0  
+4. But in the case of A                 ... pos = 0.625 	neg = 0.0  
+5. If you haven't yet s                 ... pos = 0.25  	neg = 0.0  
+6. Now.                                 ... pos = 0.0   	neg = 0    
+7. Stop reading this re                 ... pos = 0.0   	neg = 0.0  
+8. I'll wait here.                      ... pos = 0     	neg = 0.0  
+9. Welcome Back.                        ... pos = 0.25  	neg = 0    
+10. If you followed my a                ... pos = 0.0   	neg = 0.25 
+11. ), I'm sure you've j                ... pos = 0.25  	neg = 0.0  
+12. American Beauty is a                ... pos = 2.125 	neg = 0.125
+13. It's humorous but it                ... pos = 0.375 	neg = 0.75 
+14. Mixing comedy and th                ... pos = 1.0   	neg = 0.25 
+15. Lester Burnham (Kevi                ... pos = 0.375 	neg = 0    
+16. He is living life wi                ... pos = 0.0   	neg = 0.375
+17. He is bored, depress                ... pos = 0.0   	neg = 0.25 
+18. He barely ever talks                ... pos = 0.0   	neg = 0.625
+19. But one day, when he                ... pos = 0.375 	neg = 0.0  
+20. What he sees is the                 ... pos = 0.125 	neg = 0.125
+21. He develops a lust f                ... pos = 1.125 	neg = 0    
+22. But for the first ti                ... pos = 0.125 	neg = 0.125
+23. This crush is only t                ... pos = 0.0   	neg = 0.125
+24. Lester proceeds to m                ... pos = 0.375 	neg = 0.625
+25. "), buying drugs fro                ... pos = 1.375 	neg = 0.25 
+26. His new attitude fur                ... pos = 1.75  	neg = 0.375
+27. And the Burnhams's n                ... pos = 1.0   	neg = 0.125
+28. Ricky Fitts (Wes Ben                ... pos = 0.25  	neg = 0.0  
+29. Colonel Fitts, the f                ... pos = 1.25  	neg = 0.125
+30. Kevin Spacey has nev                ... pos = 1.0   	neg = 0.375
+31. He never plays his d                ... pos = 3.0   	neg = 0.0  
+32. Spacey is poignant a                ... pos = 0.5   	neg = 0.125
+33. Equally astonishing                 ... pos = 1.625 	neg = 0.75 
+34. At two hours and ten                ... pos = 0.625 	neg = 0.375
+35. It's a complicated,                 ... pos = 0.25  	neg = 0.625
+36. Powerfully and cynic                ... pos = 0.75  	neg = 0.125
+37. It claims that this                 ... pos = 0.625 	neg = 0.125
+38. The dark, deeply iro                ... pos = 0.75  	neg = 0.0  
+39. American Beauty is j                ... pos = 1.125 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1926-563 is Positive         ... pos = 25.375 	neg = 7.5  
+Overall score of document
+Total Pos = 25.375
+Total Neg = 7.5
+---------------------------------------------------------------------------

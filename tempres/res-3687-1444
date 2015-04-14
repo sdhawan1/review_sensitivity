@@ -1,0 +1,61 @@
+0. Directed by Mary Har                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Harron                 ... pos = 0.0   	neg = 0.0  
+2. Starring Christian B                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 102 mi                 ... pos = 0     	neg = 0.0  
+4. Rated R for extreme                  ... pos = 0.25  	neg = 0.125
+5. Reviewed on April 17                 ... pos = 0.0   	neg = 0.0  
+6. Few movies have enge                 ... pos = 0.125 	neg = 0.0  
+7. Not only has there b                 ... pos = 0.25  	neg = 2.0  
+8. But those who have s                 ... pos = 0.0   	neg = 0.25 
+9. This is not a movie                  ... pos = 0.25  	neg = 0.125
+10. Does the lead charac                ... pos = 0.875 	neg = 0.0  
+11. Yes, and the implica                ... pos = 0.0   	neg = 0.125
+12. But this very fact -                ... pos = 1.25  	neg = 0.25 
+13. The killings themsel                ... pos = 1.125 	neg = 0.0  
+14. There is none of the                ... pos = 2.0   	neg = 0.375
+15. In one of the movie'                ... pos = 1.25  	neg = 0.75 
+16. Instead, "American P                ... pos = 0.0   	neg = 0.0  
+17. First, and most obvi                ... pos = 1.0   	neg = 0.125
+18. And second, it serve                ... pos = 0.875 	neg = 0.125
+19. Patrick Bateman is a                ... pos = 0.0   	neg = 0.125
+20. His day seems to con                ... pos = 0.625 	neg = 0.5  
+21. Bragging rights are                 ... pos = 0.5   	neg = 0.0  
+22. Several of them are                 ... pos = 0.875 	neg = 0.375
+23. Certainly, Bateman's                ... pos = 0.25  	neg = 0.375
+24. Indeed, Bateman and                 ... pos = 0.375 	neg = 0.125
+25. Their slicked-back h                ... pos = 0.25  	neg = 0.5  
+26. A running gag is mad                ... pos = 0.25  	neg = 1.0  
+27. But unlike his confr                ... pos = 0.625 	neg = 0.125
+28. "American Psycho" do                ... pos = 0.5   	neg = 0.5  
+29. Bateman, we learn, t                ... pos = 0.375 	neg = 0.25 
+30. Early on, Bateman re                ... pos = 0.375 	neg = 0.0  
+31. Later, Bateman gazes                ... pos = 0.125 	neg = 0.25 
+32. "There is simply not                ... pos = 0.0   	neg = 0.375
+33. Indeed, Bateman does                ... pos = 0.375 	neg = 0.125
+34. When he does speak,                 ... pos = 0.125 	neg = 1.375
+35. Bateman is entirely                 ... pos = 0.875 	neg = 0.125
+36. He instructs his sec                ... pos = 0.5   	neg = 0.0  
+37. Indeed, the murders                 ... pos = 0.25  	neg = 0.5  
+38. In one telling scene                ... pos = 2.0   	neg = 1.5  
+39. "American Psycho" gr                ... pos = 0.125 	neg = 0.25 
+40. The reality of the f                ... pos = 0.875 	neg = 0.25 
+41. Unusually, for a pic                ... pos = 0.5   	neg = 0.0  
+42. Some viewers may fin                ... pos = 0.625 	neg = 0.125
+43. Apart from Bale's st                ... pos = 0.75  	neg = 0.625
+44. Willem  Dafoe occupi                ... pos = 0.5   	neg = 0.0  
+45. It seems fairly clea                ... pos = 0.375 	neg = 0.25 
+46. Indeed, some may tak                ... pos = 1.0   	neg = 0.0  
+47. But I find it  hard                 ... pos = 1.375 	neg = 1.125
+48. What kind of ending                 ... pos = 0.125 	neg = 0.625
+49. "American Psycho" is                ... pos = 2.25  	neg = 0.25 
+50. The look it provides                ... pos = 0.375 	neg = 1.0  
+51. Now, if you'll excus                ... pos = 0.0   	neg = 0.0  
+52. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+53. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+54. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3687-1444 is Positive        ... pos = 27.875 	neg = 16.875
+Overall score of document
+Total Pos = 27.875
+Total Neg = 16.875
+---------------------------------------------------------------------------

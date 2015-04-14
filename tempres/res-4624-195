@@ -1,0 +1,53 @@
+0. There are some prett                 ... pos = 0.375 	neg = 0.25 
+1. The stars I'm referr                 ... pos = 0.5   	neg = 0.0  
+2. Yes, in terms of act                 ... pos = 0.0   	neg = 0.125
+3. .                                    ... pos = 0     	neg = 0    
+4. .                                    ... pos = 0     	neg = 0    
+5. well, more like a fa                 ... pos = 0.0   	neg = 0.0  
+6. Kinda pretty, short-                 ... pos = 0.125 	neg = 0.25 
+7. LOST IN SPACE, as if                 ... pos = 0.0   	neg = 0.125
+8. It's the year 2058,                  ... pos = 0.5   	neg = 0.875
+9. John Robinson (Willi                 ... pos = 0.0   	neg = 0.125
+10. Earth's entire exist                ... pos = 1.25  	neg = 0.625
+11. John's family consis                ... pos = 1.625 	neg = 0.125
+12. Despite everyone's r                ... pos = 0.125 	neg = 0.0  
+13. Unknown to anyone bu                ... pos = 0.0   	neg = 1.0  
+14. Dr. Smith (Gary Oldm                ... pos = 0.0   	neg = 0.5  
+15. When everything that                ... pos = 0.25  	neg = 1.875
+16. As for the audience,                ... pos = 0.25  	neg = 1.125
+17. It's hard to tell wh                ... pos = 1.625 	neg = 2.5  
+18. Chabert is basically                ... pos = 0.0   	neg = 1.0  
+19. If you, like me, wer                ... pos = 0.125 	neg = 0.375
+20. That's just her norm                ... pos = 0.0   	neg = 0.0  
+21. In yet another examp                ... pos = 1.0   	neg = 2.625
+22. ), it makes you want                ... pos = 0.0   	neg = 0.125
+23. Graham is a babe - t                ... pos = 0.75  	neg = 0.625
+24. Hurt, the black hole                ... pos = 0.0   	neg = 0.875
+25. If Hurt were availab                ... pos = 0.75  	neg = 0.25 
+26. Johnson isn't dull,                 ... pos = 0.0   	neg = 0.0  
+27. Want an example of h                ... pos = 0.0   	neg = 0.25 
+28. How about when he co                ... pos = 0.375 	neg = 0.0  
+29. Hey, don't laugh - t                ... pos = 0.125 	neg = 0.0  
+30. But alas, if you tho                ... pos = 1.0   	neg = 1.375
+31. Why hire an actress?                ... pos = 0.0   	neg = 0.0  
+32. They could've had a                 ... pos = 0.0   	neg = 0.0  
+33. Now that would've ha                ... pos = 0.0   	neg = 0.0  
+34. LOST IN SPACE luckil                ... pos = 0.5   	neg = 0.0  
+35. The special effects                 ... pos = 2.0   	neg = 0.75 
+36. Unfortunately, Oldma                ... pos = 0.375 	neg = 1.875
+37. While the special ef                ... pos = 1.125 	neg = 0.5  
+38. CONTACT, for example                ... pos = 0.0   	neg = 0.0  
+39. LOST IN SPACE just h                ... pos = 0.125 	neg = 0.75 
+40. ), wooden and corny                 ... pos = 0.625 	neg = 1.375
+41. Then again, with an                 ... pos = 0.375 	neg = 0.125
+42. What an awful note t                ... pos = 0.0   	neg = 1.0  
+43. The attempt to be fa                ... pos = 1.625 	neg = 1.625
+44. Well, danger potenti                ... pos = 0.0   	neg = 0.0  
+45. Danger!                             ... pos = 0     	neg = 0    
+46. This movie crash lan                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4624-195 is Negative         ... pos = 17.5  	neg = 25.375
+Overall score of document
+Total Pos = 17.5
+Total Neg = 25.375
+---------------------------------------------------------------------------

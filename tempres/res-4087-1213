@@ -1,0 +1,32 @@
+0. Running Time: 124 mi                 ... pos = 0.5   	neg = 0.25 
+1. Bruce Willis plays a                 ... pos = 0.0   	neg = 0.0  
+2. His latest job is to                 ... pos = 1.5   	neg = 0.375
+3. Although the film is                 ... pos = 1.0   	neg = 0.5  
+4. Quite frankly, it's                  ... pos = 0.0   	neg = 0.0  
+5. His Irish accent is                  ... pos = 0.875 	neg = 0.625
+6. In fact, the audienc                 ... pos = 0.375 	neg = 1.125
+7. Willis is great fun                  ... pos = 1.625 	neg = 0.875
+8. His character is jus                 ... pos = 1.25  	neg = 2.25 
+9. If someone like Chri                 ... pos = 1.375 	neg = 0.5  
+10. Poitier is pretty mu                ... pos = 0.25  	neg = 0.375
+11. There's nothing outs                ... pos = 1.0   	neg = 1.375
+12. However, Verona is f                ... pos = 2.0   	neg = 0.125
+13. She deserves to be i                ... pos = 1.25  	neg = 1.125
+14. Michael Caton-Jones                 ... pos = 0.0   	neg = 0.125
+15. But, like most of th                ... pos = 0.0   	neg = 0.25 
+16. He dosen't really at                ... pos = 0.5   	neg = 0.625
+17. And that's the probl                ... pos = 0.0   	neg = 0.25 
+18. It plays it terrible                ... pos = 0.0   	neg = 0.625
+19. It dosen't attempt t                ... pos = 0.625 	neg = 0.75 
+20. This is stuck right                 ... pos = 0.5   	neg = 0.375
+21. The music is quite g                ... pos = 0.875 	neg = 0.25 
+22. The effects are O.K                 ... pos = 1.0   	neg = 0.25 
+23. But, generally, The                 ... pos = 0.0   	neg = 0.125
+24. I can't heavely faul                ... pos = 0.25  	neg = 0.125
+25. Resonably entertaini                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4087-1213 is Positive        ... pos = 16.875 	neg = 13.25
+Overall score of document
+Total Pos = 16.875
+Total Neg = 13.25
+---------------------------------------------------------------------------

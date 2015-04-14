@@ -1,0 +1,29 @@
+0. Starring Adam Sandle                 ... pos = 0.0   	neg = 0.0  
+1. It's amazing how a c                 ... pos = 0.5   	neg = 0.0  
+2. Take Adam Sandler.                   ... pos = 0.0   	neg = 0.0  
+3. On the basis of his                  ... pos = 0.125 	neg = 0.0  
+4. " and "What the Hell                 ... pos = 0.0   	neg = 0.5  
+5. "), he's the best th                 ... pos = 0.75  	neg = 0.0  
+6. But when you put him                 ... pos = 0.0   	neg = 0.0  
+7. I kind of enjoyed Ha                 ... pos = 1.0   	neg = 0.125
+8. Seriously, I'm willi                 ... pos = 0.5   	neg = 0.125
+9. In fact, I found thi                 ... pos = 0.0   	neg = 0.25 
+10. The first half hour                 ... pos = 1.875 	neg = 0.375
+11. Granted, after the f                ... pos = 0.625 	neg = 0.125
+12. You're all familiar                 ... pos = 2.875 	neg = 0.75 
+13. And believe me, I'm                 ... pos = 0.25  	neg = 0.0  
+14. If you would actuall                ... pos = 0.0   	neg = 0.5  
+15. The only things that                ... pos = 1.25  	neg = 0.5  
+16. I mean, they should                 ... pos = 0.875 	neg = 0.375
+17. Kudos to both of the                ... pos = 0.0   	neg = 0    
+18. My advice to Adam is                ... pos = 1.5   	neg = 0.125
+19. Rely more on actual                 ... pos = 2.0   	neg = 0.125
+20. Or maybe even show w                ... pos = 0.75  	neg = 0.625
+21. With the obvious and                ... pos = 0.125 	neg = 0.125
+22. See all of Jason's r                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3574-1560 is Positive        ... pos = 15.0  	neg = 4.625
+Overall score of document
+Total Pos = 15.0
+Total Neg = 4.625
+---------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+0. Warning: This review                 ... pos = 0.5   	neg = 0.0  
+1. Do not read further                  ... pos = 0.5   	neg = 0.5  
+2. I ha't.                              ... pos = 0     	neg = 0.0  
+3. It is engendered.                    ... pos = 0.0   	neg = 0.125
+4. Hell and night Must                  ... pos = 0.875 	neg = 0.5  
+5. I think ALIEN: RESUR                 ... pos = 0.75  	neg = 0.75 
+6. Jeunet remains a cul                 ... pos = 0.875 	neg = 0.0  
+7. For its own reasons,                 ... pos = 0.125 	neg = 0.0  
+8. The result is a mixe                 ... pos = 0.375 	neg = 0.75 
+9. The film begins when                 ... pos = 0.0   	neg = 0.0  
+10. She's part of extral                ... pos = 0.375 	neg = 0.0  
+11. Alas, the aliens get                ... pos = 0.75  	neg = 0.125
+12. What we should under                ... pos = 1.375 	neg = 0.125
+13. For better and worse                ... pos = 0.0   	neg = 0.875
+14. This isn't to say th                ... pos = 0.75  	neg = 0.375
+15. That's why the space                ... pos = 0.5   	neg = 0.0  
+16. So who cares if it's                ... pos = 0.0   	neg = 0.375
+17. Jeunet's visions als                ... pos = 0.0   	neg = 0.0  
+18. Screenwriter Joss Wh                ... pos = 0.0   	neg = 0.0  
+19. With this film, TOY                 ... pos = 0.0   	neg = 0.125
+20. Of course, we said t                ... pos = 0.0   	neg = 0.375
+21. Whedon and Jeunet ar                ... pos = 1.5   	neg = 1.125
+22. Jeunet resorts to a                 ... pos = 0.5   	neg = 0.625
+23. His willingness to l                ... pos = 0.0   	neg = 0.25 
+24. How she survives the                ... pos = 0.0   	neg = 0.75 
+25. Whedon, for his part                ... pos = 0.125 	neg = 0.75 
+26. He comes up with a f                ... pos = 0.25  	neg = 0.625
+27. I just hurt people,                 ... pos = 0.0   	neg = 0.0  
+28. Nevertheless, Whedon                ... pos = 1.25  	neg = 0.125
+29. She turns out to be                 ... pos = 0.0   	neg = 0.25 
+30. Call is a technologi                ... pos = 0.0   	neg = 0.375
+31. That shapes her agen                ... pos = 0.0   	neg = 0.0  
+32. Her anger, though, i                ... pos = 0.375 	neg = 0.0  
+33. She also hates herse                ... pos = 0.25  	neg = 0.5  
+34. Except for Ripley an                ... pos = 2.125 	neg = 0.0  
+35. "Can't believe I alm                ... pos = 0.875 	neg = 0.25 
+36. Having given Call su                ... pos = 0.125 	neg = 0.625
+37. It's suggested (main                ... pos = 0.5   	neg = 0.125
+38. It's an intriguing i                ... pos = 0.25  	neg = 0.0  
+39. As one of the few Ho                ... pos = 0.614 	neg = 0.0  
+40. She's strong in supp                ... pos = 1.625 	neg = 0.875
+41. We can only hope the                ... pos = 0.5   	neg = 0.125
+42. No, ALIEN: RESURRECT                ... pos = 0.0   	neg = 0.375
+43. Ripley was human in                 ... pos = 0.5   	neg = 0.125
+44. She responds by rais                ... pos = 0.375 	neg = 0.0  
+45. She's coiled, like a                ... pos = 0.0   	neg = 0.0  
+46. She seems to be hear                ... pos = 0.0   	neg = 0.25 
+47. At first she's sligh                ... pos = 0.75  	neg = 0.0  
+48. Maturity has given W                ... pos = 1.375 	neg = 0.25 
+49. Even when Ripley's h                ... pos = 1.5   	neg = 0.375
+50. This performance is                 ... pos = 0.375 	neg = 0.125
+51. So powerful is her p                ... pos = 0.875 	neg = 0.375
+52. Jeunet has his visio                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2335-739 is Positive         ... pos = 24.364 	neg = 14.625
+Overall score of document
+Total Pos = 24.364
+Total Neg = 14.625
+---------------------------------------------------------------------------

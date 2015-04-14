@@ -1,0 +1,32 @@
+0. There is only so muc                 ... pos = 0.125 	neg = 0.125
+1. Several films base t                 ... pos = 1.125 	neg = 0.25 
+2. I think that this mu                 ... pos = 0.875 	neg = 0.75 
+3. The public seems to                  ... pos = 0.875 	neg = 0.125
+4. What starts out as a                 ... pos = 0.375 	neg = 0.5  
+5. Porter (Gibson, who�                 ... pos = 0.0   	neg = 0.75 
+6. They leave him for d                 ... pos = 0.0   	neg = 0.0  
+7. But Porter is alive                  ... pos = 0.875 	neg = 0.375
+8. But in order to find                 ... pos = 0.25  	neg = 0.0  
+9. Somehow, (I don’t                  ... pos = 0.625 	neg = 1.125
+10. Will Mel Gibson die?                ... pos = 0.125 	neg = 0.0  
+11. Or will he overcome                 ... pos = 0.125 	neg = 0.875
+12. Seriously, does anyo                ... pos = 0.0   	neg = 0.0  
+13. Payback is an exampl                ... pos = 0.0   	neg = 1.0  
+14. The film is extremel                ... pos = 1.0   	neg = 0.75 
+15. Another depressing f                ... pos = 0.625 	neg = 0.875
+16. Plus Lucy Liu’s ch                ... pos = 0.875 	neg = 0.125
+17. She’s basically th                ... pos = 0.0   	neg = 0.0  
+18. I also see no reason                ... pos = 1.75  	neg = 0.5  
+19. The film played to m                ... pos = 0.0   	neg = 0.0  
+20. But this film is way                ... pos = 0.875 	neg = 0.5  
+21. Female Gibson fans w                ... pos = 0.375 	neg = 0.25 
+22. So, if your looking                 ... pos = 0.0   	neg = 0.0  
+23. The Young-Uns: Blood                ... pos = 0.0   	neg = 0.0  
+24. S&M sex scenes, heav                ... pos = 0.0   	neg = 0.25 
+25. Good Age 17 & Up. A                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-709-329 is Positive          ... pos = 11.625 	neg = 9.125
+Overall score of document
+Total Pos = 11.625
+Total Neg = 9.125
+---------------------------------------------------------------------------

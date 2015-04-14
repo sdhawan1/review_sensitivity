@@ -1,0 +1,36 @@
+0. As a late summer act                 ... pos = 0.0   	neg = 0.375
+1. The production was d                 ... pos = 0.0   	neg = 0.625
+2. There was also a feu                 ... pos = 0.125 	neg = 0.25 
+3. Despite all of the a                 ... pos = 0.125 	neg = 0.375
+4. Antonio Banderas was                 ... pos = 0.625 	neg = 0.125
+5. Banderas plays an Ar                 ... pos = 0.0   	neg = 0.25 
+6. He stumbles into the                 ... pos = 0.0   	neg = 0.25 
+7. A messenger arrives,                 ... pos = 0.0   	neg = 0.625
+8. But these attackers                  ... pos = 0.25  	neg = 0.0  
+9. They are the Wendol                  ... pos = 0.25  	neg = 0.0  
+10. A thirteen man defen                ... pos = 0.0   	neg = 0.25 
+11. What I've described                 ... pos = 0.5   	neg = 0.125
+12. What remains is a se                ... pos = 1.125 	neg = 1.0  
+13. Don't be deceived wh                ... pos = 0.0   	neg = 0.75 
+14. When McTiernan bring                ... pos = 0.25  	neg = 0.0  
+15. The battle scenes ar                ... pos = 1.5   	neg = 0.0  
+16. The intellectual asp                ... pos = 1.125 	neg = 1.375
+17. The are many problem                ... pos = 0.25  	neg = 0.25 
+18. When first accompany                ... pos = 1.125 	neg = 0.0  
+19. McTiernan also manag                ... pos = 1.625 	neg = 0.5  
+20. Don't look for The 1                ... pos = 1.125 	neg = 0.5  
+21. Another thing I like                ... pos = 0.25  	neg = 0.25 
+22. You may think the ot                ... pos = 0.0   	neg = 0.125
+23. ' popping up occasio                ... pos = 0.375 	neg = 0.0  
+24. A few of these chara                ... pos = 0.875 	neg = 0.125
+25. And then there's the                ... pos = 1.0   	neg = 0.125
+26. Omar Sharif is welco                ... pos = 0.625 	neg = 0.125
+27. The summer of 1999 h                ... pos = 0.25  	neg = 0.125
+28. The 13th Warrior is                 ... pos = 0.75  	neg = 0.875
+29. For action fans crav                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-731-693 is Positive          ... pos = 14.25 	neg = 9.75 
+Overall score of document
+Total Pos = 14.25
+Total Neg = 9.75
+---------------------------------------------------------------------------

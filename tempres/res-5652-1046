@@ -1,0 +1,40 @@
+0. STAR WARS did for th                 ... pos = 0.375 	neg = 0.0  
+1. For every American u                 ... pos = 0.875 	neg = 0.0  
+2. What is most astonis                 ... pos = 0.25  	neg = 0.25 
+3. It has the same roma                 ... pos = 0.75  	neg = 0.0  
+4. Audiences in the Sev                 ... pos = 1.0   	neg = 1.5  
+5. STAR WARS slaked tha                 ... pos = 1.0   	neg = 0.125
+6. Aside from being pos                 ... pos = 1.875 	neg = 0.125
+7. Many of the movie's                  ... pos = 0.625 	neg = 0.0  
+8. When Ben (Obi-Wan) K                 ... pos = 0.5   	neg = 0.5  
+9. Such is destiny.                     ... pos = 0.0   	neg = 0.125
+10. And when Ben perks u                ... pos = 0.25  	neg = 0.0  
+11. ", Ben looks sidelon                ... pos = 0.125 	neg = 0.375
+12. Not yet," in a way t                ... pos = 0.25  	neg = 0.25 
+13. Han Solo (Harrison F                ... pos = 1.375 	neg = 0.25 
+14. Look carefully at th                ... pos = 0.0   	neg = 0.375
+15. Han does not sound l                ... pos = 1.5   	neg = 0.0  
+16. The relationship wit                ... pos = 0.0   	neg = 0.375
+17. (Another thing that                 ... pos = 0.375 	neg = 0.25 
+18. We learn just enough                ... pos = 0.25  	neg = 0.125
+19. ). There has been a                 ... pos = 1.5   	neg = 1.125
+20. For the most part, t                ... pos = 0.5   	neg = 0.0  
+21. I will not ruin any                 ... pos = 1.125 	neg = 0.125
+22. The chess game.                     ... pos = 0.0   	neg = 0    
+23. The 'droid scrapheap                ... pos = 0     	neg = 0    
+24. All of these touches                ... pos = 0.0   	neg = 0.125
+25. In a couple of place                ... pos = 0.625 	neg = 0.875
+26. In many cases, they                 ... pos = 0.5   	neg = 0.125
+27. The now-primitive co                ... pos = 0.25  	neg = 0.25 
+28. They were a labor of                ... pos = 1.125 	neg = 0.375
+29. Also untouched: a go                ... pos = 1.0   	neg = 0.125
+30. It's not just anothe                ... pos = 0.0   	neg = 0.125
+31. This is the real rea                ... pos = 0.875 	neg = 0.125
+32. In a way which is st                ... pos = 0.75  	neg = 0.625
+33. And it is still a he                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5652-1046 is Positive        ... pos = 19.625 	neg = 9.25 
+Overall score of document
+Total Pos = 19.625
+Total Neg = 9.25
+---------------------------------------------------------------------------

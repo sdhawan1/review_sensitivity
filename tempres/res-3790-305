@@ -1,0 +1,43 @@
+0. Christian Critic's M                 ... pos = 0.625 	neg = 0.0  
+1. Hype and political p                 ... pos = 0.0   	neg = 0.375
+2. THREE KINGS, in usin                 ... pos = 0.125 	neg = 1.0  
+3. Writer/director Davi                 ... pos = 0.0   	neg = 1.125
+4. He has crafted the m                 ... pos = 0.0   	neg = 0.125
+5. The opening scene al                 ... pos = 0.875 	neg = 0.0  
+6. Archie Gates (George                 ... pos = 0.0   	neg = 0.25 
+7. His current assignme                 ... pos = 0.25  	neg = 0.875
+8. With the discovery o                 ... pos = 0.375 	neg = 0.25 
+9. "   The map indicate                 ... pos = 0.25  	neg = 0.75 
+10. With the war now ove                ... pos = 0.125 	neg = 0.0  
+11. Of course, their int                ... pos = 0.25  	neg = 0.0  
+12. But as they travel d                ... pos = 0.25  	neg = 0.0  
+13. The film slowly take                ... pos = 0.625 	neg = 0.25 
+14. Encouraged to rise u                ... pos = 0.875 	neg = 0.125
+15. Seeing this, Archie                 ... pos = 1.125 	neg = 0    
+16. Mr. Russell continue                ... pos = 0.75  	neg = 0.0  
+17. Mr. Clooney again di                ... pos = 0.0   	neg = 0.75 
+18. His Archie is a griz                ... pos = 0.5   	neg = 1.5  
+19. Mark Wahlberg (BOOGI                ... pos = 0.375 	neg = 0.125
+20. Troy Barlow, new fat                ... pos = 1.0   	neg = 0.0  
+21. In perhaps the most                 ... pos = 0.125 	neg = 0.125
+22. During the experienc                ... pos = 0.0   	neg = 0    
+23. The film has a disti                ... pos = 0.0   	neg = 0.375
+24. Alternating between                 ... pos = 0.375 	neg = 1.75 
+25. The film does includ                ... pos = 0.75  	neg = 0.125
+26. After all, this is a                ... pos = 0.0   	neg = 0.125
+27. In war, bullets are                 ... pos = 0.25  	neg = 0.0  
+28. This movie, more tha                ... pos = 0.125 	neg = 0.125
+29. The salient point of                ... pos = 1.5   	neg = 0.25 
+30. As individuals, we a                ... pos = 0.0   	neg = 0.0  
+31. As believers, our vi                ... pos = 0.0   	neg = 1.0  
+32. As we commit ourselv                ... pos = 1.0   	neg = 0.0  
+33. Archie claims that t                ... pos = 1.0   	neg = 0.125
+34. That is only true if                ... pos = 0.5   	neg = 0.125
+35. The greatest need th                ... pos = 1.375 	neg = 0.25 
+36. Armed with a knowled                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-305 is Positive         ... pos = 16.375 	neg = 11.875
+Overall score of document
+Total Pos = 16.375
+Total Neg = 11.875
+---------------------------------------------------------------------------

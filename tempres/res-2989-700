@@ -1,0 +1,29 @@
+0. Release Date: Decemb                 ... pos = 0.625 	neg = 0.25 
+1. But that statement i                 ... pos = 0.0   	neg = 0.25 
+2. Such a style is the                  ... pos = 0.0   	neg = 0.25 
+3. Rather than being a                  ... pos = 1.125 	neg = 0.125
+4. The Gigi Levangie st                 ... pos = 1.0   	neg = 0.875
+5. Luke (Ed Harris) and                 ... pos = 1.75  	neg = 0.0  
+6. Unfortunately, the s                 ... pos = 0.0   	neg = 1.0  
+7. Naturally, Isabel an                 ... pos = 1.875 	neg = 0.0  
+8. The two children are                 ... pos = 0.5   	neg = 0.75 
+9. As the story proceed                 ... pos = 0.375 	neg = 0.125
+10. For her credit, Juli                ... pos = 0.375 	neg = 0.125
+11. It's easily the most                ... pos = 1.125 	neg = 0.125
+12. She contributes to m                ... pos = 0.25  	neg = 0.625
+13. The rest of the cast                ... pos = 0.0   	neg = 1.0  
+14. Both Sarandon and Ma                ... pos = 0.75  	neg = 0.0  
+15. Liam Aiken plays the                ... pos = 0.625 	neg = 0.25 
+16. Ed Harris, for all o                ... pos = 0.375 	neg = 0.5  
+17. Watching the movie i                ... pos = 0.0   	neg = 0.125
+18. Although the story s                ... pos = 0.25  	neg = 1.25 
+19. All of the gusto abo                ... pos = 1.125 	neg = 0.25 
+20. There's no reason fo                ... pos = 0.375 	neg = 0.5  
+21. As a lighter outing                 ... pos = 0.375 	neg = 0.0  
+22. But there's little t                ... pos = 0.5   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-2989-700 is Positive         ... pos = 13.375 	neg = 9.375
+Overall score of document
+Total Pos = 13.375
+Total Neg = 9.375
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. Unlike most movie re                 ... pos = 0.125 	neg = 0.0  
+1. Usually when someone                 ... pos = 0.0   	neg = 0.125
+2. Otherwise, they woul                 ... pos = 0.0   	neg = 0.0  
+3. So if you're looking                 ... pos = 0.0   	neg = 0.0  
+4. My reviews are nothi                 ... pos = 0.375 	neg = 0.875
+5. With that out of the                 ... pos = 0.0   	neg = 0.0  
+6. I was actually quite                 ... pos = 0.0   	neg = 0.625
+7. It was the first tim                 ... pos = 0.125 	neg = 0.75 
+8. To say "This is Reev                 ... pos = 0.0   	neg = 0.125
+9. " sure doesn't mean                  ... pos = 0.75  	neg = 0.125
+10. But it is quite obvi                ... pos = 0.0   	neg = 0.25 
+11. And Pacino was devil                ... pos = 0.75  	neg = 0.125
+12. An Oscar nomination?                ... pos = 0.0   	neg = 0    
+13. If the Academy has a                ... pos = 0.125 	neg = 0.125
+14. The superbly deliver                ... pos = 0.0   	neg = 0.125
+15. Truly one of the bes                ... pos = 1.0   	neg = 0    
+16. The visuals of the m                ... pos = 0.625 	neg = 0.125
+17. I didn't want to bli                ... pos = 0     	neg = 0.125
+18. This film's climax w                ... pos = 0.875 	neg = 0.125
+19. The very, VERY end o                ... pos = 1.0   	neg = 0.625
+20. They wrapped this mo                ... pos = 0.0   	neg = 0.375
+21. I almost have to won                ... pos = 0.25  	neg = 0.75 
+22. Overall, I was extre                ... pos = 1.5   	neg = 0.125
+23. !. .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6270-195 is Positive         ... pos = 7.5   	neg = 5.5  
+Overall score of document
+Total Pos = 7.5
+Total Neg = 5.5
+---------------------------------------------------------------------------

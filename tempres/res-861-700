@@ -1,0 +1,30 @@
+0. Release Date: August                 ... pos = 1.625 	neg = 0.625
+1. At first glance, the                 ... pos = 0.75  	neg = 0.875
+2. The episodic fallbac                 ... pos = 0.375 	neg = 0.25 
+3. THE AVENGERS, a spin                 ... pos = 0.625 	neg = 0.625
+4. Everyone involved he                 ... pos = 0.0   	neg = 0.0  
+5. His last big-screen                  ... pos = 0.0   	neg = 0.125
+6. Here, his work appro                 ... pos = 0.375 	neg = 0.125
+7. The characters are l                 ... pos = 1.5   	neg = 0.875
+8. All three principals                 ... pos = 0.25  	neg = 0.0  
+9. Connery's work here                  ... pos = 0.25  	neg = 0.25 
+10. Ralph Fiennes and Um                ... pos = 1.625 	neg = 0.375
+11. If anything, the mov                ... pos = 0.5   	neg = 0.75 
+12. Even though Connery                 ... pos = 0.625 	neg = 1.625
+13. Also, the movie's on                ... pos = 1.0   	neg = 1.0  
+14. Finally, in typical                 ... pos = 0.375 	neg = 1.625
+15. Both elicit attentio                ... pos = 0.0   	neg = 0.25 
+16. But any ground made                 ... pos = 0.0   	neg = 0.625
+17. John Steed (Fiennes)                ... pos = 1.125 	neg = 0.0  
+18. Prospero, it seems,                 ... pos = 0.5   	neg = 0.125
+19. In the wrong hands (                ... pos = 0.0   	neg = 1.25 
+20. De Wynter will bomba                ... pos = 0.125 	neg = 0.0  
+21. Several questions ar                ... pos = 0.25  	neg = 0.625
+22. Overall, THE AVENGER                ... pos = 0.25  	neg = 1.0  
+23. FINAL AWARD FOR "THE                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-861-700 is Negative          ... pos = 12.625 	neg = 13.0 
+Overall score of document
+Total Pos = 12.625
+Total Neg = 13.0
+---------------------------------------------------------------------------

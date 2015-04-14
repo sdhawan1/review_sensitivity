@@ -1,0 +1,65 @@
+0. If any recent trend                  ... pos = 0.25  	neg = 0.125
+1. It's jump-on-the-ban                 ... pos = 0.625 	neg = 1.25 
+2. Why is this happenin                 ... pos = 0.0   	neg = 0.125
+3. It  could be said th                 ... pos = 0.625 	neg = 0.25 
+4. Or it could be some                  ... pos = 0.375 	neg = 1.0  
+5. It's really more sim                 ... pos = 0.875 	neg = 0.625
+6. Because,  folks, pos                 ... pos = 0.0   	neg = 0.625
+7. This kind of honesty                 ... pos = 0.5   	neg = 0.125
+8. It's Hollywood wavin                 ... pos = 0.0   	neg = 0.625
+9. So, for the most par                 ... pos = 0.125 	neg = 0.125
+10. Their treatment is w                ... pos = 1.0   	neg = 0.125
+11. But a few exceptions                ... pos = 2.625 	neg = 1.75 
+12. Which brings us to L                ... pos = 0.5   	neg = 0.5  
+13. LOST IN SPACE was or                ... pos = 0.125 	neg = 1.125
+14. Soon LOST IN SPACE b                ... pos = 0.625 	neg = 1.875
+15. In fact, for many yo                ... pos = 0.625 	neg = 0.0  
+16. LOST IN SPACE went b                ... pos = 0.125 	neg = 0.125
+17. One particularly ter                ... pos = 0.625 	neg = 0.125
+18. With a memory of the                ... pos = 0.625 	neg = 0.25 
+19. Nevertheless, the 19                ... pos = 0.125 	neg = 0.625
+20. It may be affectiona                ... pos = 2.125 	neg = 0.125
+21. Its most apparent st                ... pos = 0.375 	neg = 0.875
+22. It's strange that th                ... pos = 0.375 	neg = 0.25 
+23. monsters and critter                ... pos = 0.625 	neg = 1.0  
+24. There's a woman with                ... pos = 0.0   	neg = 0.0  
+25. Look!                               ... pos = 0     	neg = 0    
+26. There's a guy wearin                ... pos = 0.0   	neg = 0.25 
+27. )  The second streng                ... pos = 0.875 	neg = 0.125
+28. There are spins on t                ... pos = 1.125 	neg = 0.875
+29. Fine so far, but wil                ... pos = 0.125 	neg = 0.0  
+30. Fandom is a difficul                ... pos = 0.0   	neg = 0.25 
+31. The elements of the                 ... pos = 1.875 	neg = 0.25 
+32. Who, for example, co                ... pos = 0.0   	neg = 0.5  
+33. I wouldn't have thou                ... pos = 0.0   	neg = 0.125
+34. Jack Johnson similar                ... pos = 0.125 	neg = 0.0  
+35. I  suspect it may be                ... pos = 1.5   	neg = 1.375
+36. At least the Robinso                ... pos = 0.0   	neg = 0.25 
+37. Perversely, it is th                ... pos = 0.875 	neg = 0.25 
+38. Hearing  the voice o                ... pos = 0.75  	neg = 0.0  
+39. ) The only major dep                ... pos = 2.125 	neg = 0.25 
+40. And  about time.                    ... pos = 0.0   	neg = 0.0  
+41. I'm wary of making a                ... pos = 2.875 	neg = 0.0  
+42. But I can say person                ... pos = 0.5   	neg = 0.125
+43. LOST IN SPACE works.                ... pos = 0.0   	neg = 0.0  
+44. It is able to exist                 ... pos = 1.125 	neg = 0.125
+45. I'd go as far as say                ... pos = 0.75  	neg = 0.125
+46. But once again, this                ... pos = 0.0   	neg = 0.25 
+47. Most of them came fr                ... pos = 1.0   	neg = 0.375
+48. However, as much as                 ... pos = 0.625 	neg = 0.125
+49. Humorless Don, who f                ... pos = 0.75  	neg = 0.25 
+50. "), was where we cou                ... pos = 0.625 	neg = 0.5  
+51. It makes you think a                ... pos = 0.0   	neg = 0.125
+52. The series LOST IN S                ... pos = 0.0   	neg = 0.0  
+53. Some may ask why any                ... pos = 0.0   	neg = 0.25 
+54. Fans will reply that                ... pos = 0.125 	neg = 0.875
+55. The facts, according                ... pos = 0.0   	neg = 0.625
+56. It's a shame the fil                ... pos = 0.25  	neg = 0.75 
+57. As it stands, this n                ... pos = 0.875 	neg = 0.0  
+58. I guess we can look                 ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4624-1432 is Positive        ... pos = 32.75 	neg = 23.0 
+Overall score of document
+Total Pos = 32.75
+Total Neg = 23.0
+---------------------------------------------------------------------------

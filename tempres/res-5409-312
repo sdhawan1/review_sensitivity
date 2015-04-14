@@ -1,0 +1,22 @@
+0. In The Matrix, write                 ... pos = 0.625 	neg = 0.875
+1. The film seems to st                 ... pos = 0.25  	neg = 0.5  
+2. He plays Neo, a gorm                 ... pos = 0.75  	neg = 0.0  
+3. Keanu can do gormles                 ... pos = 0     	neg = 0.375
+4. Mercifully, his thes                 ... pos = 0.75  	neg = 0.75 
+5. We, and Keanu, are a                 ... pos = 1.25  	neg = 0.0  
+6. Laurence Fishburne p                 ... pos = 0.25  	neg = 0.625
+7. Hugo Weaving plays c                 ... pos = 0.5   	neg = 1.125
+8. But the real star is                 ... pos = 0.5   	neg = 0.25 
+9. In the illusory worl                 ... pos = 0.875 	neg = 0.125
+10. This provides our he                ... pos = 1.0   	neg = 0.25 
+11. The "flo-mo" process                ... pos = 0.25  	neg = 0.625
+12. When such techniques                ... pos = 1.75  	neg = 0.125
+13. Such sequences are h                ... pos = 1.875 	neg = 0.0  
+14. Towards the end, The                ... pos = 0.25  	neg = 1.0  
+15. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-312 is Positive         ... pos = 11.875 	neg = 6.625
+Overall score of document
+Total Pos = 11.875
+Total Neg = 6.625
+---------------------------------------------------------------------------

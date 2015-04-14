@@ -1,0 +1,28 @@
+0. Films that are anima                 ... pos = 0.5   	neg = 0.0  
+1. Mainly because peopl                 ... pos = 0.25  	neg = 0.25 
+2. Dreamwork Entertainm                 ... pos = 0.75  	neg = 1.625
+3. Antz's plot is simpl                 ... pos = 0.375 	neg = 0.375
+4. Troubled by ideas of                 ... pos = 0.25  	neg = 0.0  
+5. In an endeavor to me                 ... pos = 0.5   	neg = 0.0  
+6. Soon after while Z i                 ... pos = 0.0   	neg = 0.5  
+7. Z doesn't do much fi                 ... pos = 0.625 	neg = 0.375
+8. While being introduc                 ... pos = 0.25  	neg = 0.125
+9. Now both Z & Bala ar                 ... pos = 0.25  	neg = 0.375
+10. Unfortunately for Z,                ... pos = 0.625 	neg = 2.125
+11. The General is not g                ... pos = 0.0   	neg = 0.75 
+12. The strongest point                 ... pos = 0.5   	neg = 0.0  
+13. Woody Allen is just                 ... pos = 0.125 	neg = 0.125
+14. Tons of other big na                ... pos = 0.0   	neg = 0.0  
+15. Another strong point                ... pos = 0.625 	neg = 0.375
+16. When you get right d                ... pos = 0.0   	neg = 0.5  
+17. Z is fighting a batt                ... pos = 0.125 	neg = 0.125
+18. While all this may b                ... pos = 0.75  	neg = 0.25 
+19. There was no need to                ... pos = 0.5   	neg = 1.5  
+20. So what you end up w                ... pos = 1.625 	neg = 1.375
+21. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-1529 is Negative          ... pos = 8.625 	neg = 10.75
+Overall score of document
+Total Pos = 8.625
+Total Neg = 10.75
+---------------------------------------------------------------------------

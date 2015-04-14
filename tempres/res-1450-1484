@@ -1,0 +1,60 @@
+0. Starring: Kevin Spac                 ... pos = 0.0   	neg = 0.0  
+1. Quickly shut down yo                 ... pos = 0.0   	neg = 0.0  
+2. Confidential.                        ... pos = 0.125 	neg = 0    
+3. Then see it again.                   ... pos = 0.0   	neg = 0.0  
+4. Are you back?                        ... pos = 0.25  	neg = 0    
+5. Good.                                ... pos = 0.75  	neg = 0    
+6. Now we can talk                      ... pos = 0.375 	neg = 0.125
+7. Welcome to Curtis Ha                 ... pos = 0.25  	neg = 0    
+8. Confidential", a  tr                 ... pos = 0.0   	neg = 0.0  
+9. If  possible, LAC mi                 ... pos = 0     	neg = 0.625
+10. Hanson sets up a bru                ... pos = 2.375 	neg = 0.625
+11. "L.A Confidential" i                ... pos = 0.375 	neg = 0.125
+12. It's the best  5 mov                ... pos = 0.375 	neg = 0    
+13. The plot revolves ar                ... pos = 1.0   	neg = 0.25 
+14. White is a brutal to                ... pos = 1.0   	neg = 0.5  
+15. Exley is the son of                 ... pos = 1.375 	neg = 0.5  
+16. The story essentiall                ... pos = 0.75  	neg = 0.0  
+17. The  police take the                ... pos = 0.5   	neg = 0.0  
+18. White  and another p                ... pos = 0.25  	neg = 0.5  
+19. This results in Exle                ... pos = 0.625 	neg = 0.0  
+20. There's one storylin                ... pos = 0.0   	neg = 0    
+21. Here's another.                     ... pos = 0     	neg = 0.125
+22. Gossip king Sid Hudg                ... pos = 0.5   	neg = 0.0  
+23. In exchange, Vincenn                ... pos = 0.0   	neg = 0.0  
+24. Vincennes is also th                ... pos = 0.75  	neg = 0.125
+25. Vincennes  therefore                ... pos = 0.375 	neg = 0.25 
+26. Spacey plays this ro                ... pos = 0.625 	neg = 0.25 
+27. That's two.                         ... pos = 0.0   	neg = 0    
+28. I told you L.A.                     ... pos = 0.0   	neg = 0.0  
+29. Confidential had 5.                 ... pos = 0.125 	neg = 0.0  
+30. Here's the major  on                ... pos = 0.0   	neg = 0    
+31. A prominent business                ... pos = 0.25  	neg = 0.5  
+32. It turns out this  b                ... pos = 0.0   	neg = 0.125
+33. All of these plots l                ... pos = 0.0   	neg = 0.125
+34. There are dozens of                 ... pos = 0.25  	neg = 0.75 
+35. Not only does this m                ... pos = 0.0   	neg = 0.125
+36. The line between goo                ... pos = 0.25  	neg = 0.875
+37. Hanson places  his s                ... pos = 0.375 	neg = 0.25 
+38. James Cromwell, as                  ... pos = 0.0   	neg = 0.125
+39. Kim Basinger makes t                ... pos = 0.0   	neg = 0.0  
+40. The Wonders from Dow                ... pos = 1.75  	neg = 0.0  
+41. Crowe and Pearce are                ... pos = 0.25  	neg = 0.0  
+42. Spacey is  his usual                ... pos = 0.875 	neg = 0.125
+43. His sheer confidence                ... pos = 0.25  	neg = 0    
+44. Every plot-line come                ... pos = 0.625 	neg = 0.0  
+45. Everyone is pitch-pe                ... pos = 0.0   	neg = 0.375
+46. Hanson and Brian Hel                ... pos = 0.75  	neg = 0.625
+47. I can't think of any                ... pos = 0.0   	neg = 0.0  
+48. L.A.                                ... pos = 0.0   	neg = 0    
+49. Confidential may suf                ... pos = 0.5   	neg = 0.75 
+50. LAC shows us a dirty                ... pos = 0.0   	neg = 0.375
+51. It's gorgeously done                ... pos = 0.0   	neg = 0    
+52. Hollywood hasn't bee                ... pos = 0.75  	neg = 0.5  
+53. This is the best fil                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1450-1484 is Positive        ... pos = 20.0  	neg = 9.75 
+Overall score of document
+Total Pos = 20.0
+Total Neg = 9.75
+---------------------------------------------------------------------------

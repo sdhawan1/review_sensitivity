@@ -1,0 +1,24 @@
+0. [filmcritic.com pres                 ... pos = 0.0   	neg = 0.0  
+1. You can find the rev                 ... pos = 0.0   	neg = 0.0  
+2. Luc Besson, imaginat                 ... pos = 1.375 	neg = 0.0  
+3. A car crash of a mov                 ... pos = 0.125 	neg = 0.125
+4. Joan of Arc, one of                  ... pos = 0.375 	neg = 1.25 
+5. Luc, put down the Br                 ... pos = 0.125 	neg = 0.875
+6. Also, the last thing                 ... pos = 0.125 	neg = 0.125
+7. I wanted to understa                 ... pos = 3.0   	neg = 0.125
+8. I DO!                                ... pos = 0     	neg = 0.0  
+9. But I just can't.                    ... pos = 0     	neg = 0.0  
+10. I just didn't want t                ... pos = 0.125 	neg = 0.125
+11. Besson's inability o                ... pos = 1.625 	neg = 0.25 
+12. When Joan is faced w                ... pos = 0.0   	neg = 0.25 
+13. On the positive side                ... pos = 0.625 	neg = 0.75 
+14. One bright star in t                ... pos = 0.5   	neg = 0.125
+15. At least Besson can                 ... pos = 0.0   	neg = 0.0  
+16. Where are you Jean R                ... pos = 0.25  	neg = 0.125
+17. -- Christopher Null                 ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5221-1220 is Positive        ... pos = 8.25  	neg = 4.125
+Overall score of document
+Total Pos = 8.25
+Total Neg = 4.125
+---------------------------------------------------------------------------

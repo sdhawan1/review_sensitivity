@@ -1,0 +1,36 @@
+0. It took me too long                  ... pos = 0.25  	neg = 0.75 
+1. No one wanted to see                 ... pos = 0.0   	neg = 0.375
+2. They knew what they                  ... pos = 0.0   	neg = 0.125
+3. It's not a buddy mov                 ... pos = 0.125 	neg = 0.0  
+4. It's an experience,                  ... pos = 0.125 	neg = 0.875
+5. After the academy ha                 ... pos = 1.875 	neg = 0.5  
+6. I wasn't going to mi                 ... pos = 0.0   	neg = 0.0  
+7. It is the best movie                 ... pos = 0.375 	neg = 0.125
+8. It competes with All                 ... pos = 0.5   	neg = 0.0  
+9. But to me, it rises                  ... pos = 0.375 	neg = 0.375
+10. Yes, Omaha beach wil                ... pos = 1.0   	neg = 1.625
+11. Of course in war the                ... pos = 0.875 	neg = 0.625
+12. We don't see them in                ... pos = 0.375 	neg = 0.25 
+13. )  After three hours                ... pos = 0.375 	neg = 0.0  
+14. We were quiet as we                 ... pos = 0.625 	neg = 0.125
+15. Ryan is a movie that                ... pos = 0.375 	neg = 0.5  
+16. You don't want to de                ... pos = 0.0   	neg = 0.125
+17. Much has been writte                ... pos = 0.125 	neg = 0.375
+18. I never realized, ev                ... pos = 0.125 	neg = 0.125
+19. You almost smell the                ... pos = 0.0   	neg = 0.0  
+20. It is a triumph that                ... pos = 0.375 	neg = 0.75 
+21. Ryan is honest, viol                ... pos = 1.375 	neg = 0.125
+22. We weep because we h                ... pos = 0.0   	neg = 0.75 
+23. He opens and closes                 ... pos = 0.0   	neg = 0    
+24. Pride?                              ... pos = 0.625 	neg = 0    
+25. Patriotism?                         ... pos = 0.125 	neg = 0    
+26. Yes, but it's also a                ... pos = 0.375 	neg = 0.0  
+27. What's the point in                 ... pos = 0.125 	neg = 0.0  
+28. " Because it fills y                ... pos = 0.75  	neg = 0.125
+29. After I got home fro                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-658 is Positive         ... pos = 11.875 	neg = 8.625
+Overall score of document
+Total Pos = 11.875
+Total Neg = 8.625
+---------------------------------------------------------------------------

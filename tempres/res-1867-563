@@ -1,0 +1,40 @@
+0. Starring Jodie Foste                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Andy Ten                 ... pos = 0.0   	neg = 0    
+2. Rated PG- 13.                        ... pos = 0.125 	neg = 0    
+3. Anna and the King is                 ... pos = 0.25  	neg = 0.5  
+4. Though good-looking,                 ... pos = 0.75  	neg = 0.5  
+5. So much money was sp                 ... pos = 0.125 	neg = 0.25 
+6. This is Jodie Foster                 ... pos = 1.375 	neg = 0.75 
+7. She's trapped in the                 ... pos = 0.75  	neg = 0.375
+8. The king likes her s                 ... pos = 0.375 	neg = 0.25 
+9. The eldest prince is                 ... pos = 0.75  	neg = 0.375
+10. Why do you punish me                ... pos = 0.0   	neg = 0.0  
+11. ), but soon gets to                 ... pos = 0.0   	neg = 0.0  
+12. Meanwhile, Siam come                ... pos = 0.0   	neg = 0.0  
+13. The king and his clo                ... pos = 0.25  	neg = 0.375
+14. She is not sure what                ... pos = 0.5   	neg = 0.25 
+15. He, though self-righ                ... pos = 1.25  	neg = 0.125
+16. There is a scene in                 ... pos = 0.125 	neg = 0.125
+17. It's your classic de                ... pos = 1.75  	neg = 1.25 
+18. Anna then comes in a                ... pos = 0.0   	neg = 0.0  
+19. The sequence was the                ... pos = 1.125 	neg = 0.375
+20. I'm usually a sucker                ... pos = 1.0   	neg = 0.625
+21. This remains true th                ... pos = 0.75  	neg = 0.0  
+22. We never develop con                ... pos = 0.25  	neg = 0.0  
+23. This ludicrously lon                ... pos = 0.0   	neg = 0.625
+24. I do not doubt Tenna                ... pos = 1.25  	neg = 1.5  
+25. The sets and scenery                ... pos = 1.625 	neg = 0.25 
+26. Even Terrence Malick                ... pos = 0.125 	neg = 0.25 
+27. We feel like the cam                ... pos = 0.75  	neg = 0.125
+28. I liked both Foster                 ... pos = 0.25  	neg = 0.0  
+29. Foster's generally s                ... pos = 1.625 	neg = 0.125
+30. Yun-Fat is especiall                ... pos = 1.125 	neg = 0.125
+31. What does Anna and t                ... pos = 1.25  	neg = 0.25 
+32. The cast is great, t                ... pos = 0.75  	neg = 0.5  
+33. This is an emotionle                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1867-563 is Positive         ... pos = 20.5  	neg = 10.0 
+Overall score of document
+Total Pos = 20.5
+Total Neg = 10.0
+---------------------------------------------------------------------------

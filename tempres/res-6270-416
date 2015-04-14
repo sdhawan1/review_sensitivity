@@ -1,0 +1,22 @@
+0. Starring: Keanu Reev                 ... pos = 1.25  	neg = 0.5  
+1. When small town guy                  ... pos = 0.75  	neg = 0.0  
+2. But he doesnt realiz                 ... pos = 0.25  	neg = 0.375
+3. The film Devils Advo                 ... pos = 0.125 	neg = 0.5  
+4. Lomax, a man of aver                 ... pos = 1.125 	neg = 0.375
+5. Opinion: This is one                 ... pos = 0.25  	neg = 0.625
+6. Typically, we get to                 ... pos = 1.125 	neg = 0.625
+7. I felt better a few                  ... pos = 0.875 	neg = 0.875
+8. This film boasts a t                 ... pos = 0.0   	neg = 0.0  
+9. For example, in term                 ... pos = 0.25  	neg = 1.125
+10. Pacinos monologues a                ... pos = 0.5   	neg = 0.5  
+11. Trivia: In the story                ... pos = 0.0   	neg = 0.0  
+12. This is a play on wo                ... pos = 0.125 	neg = 0.375
+13. In real life John Mi                ... pos = 1.875 	neg = 0.125
+14. Milton believed he h                ... pos = 0.25  	neg = 0.125
+15. Typical of Miltons m                ... pos = 1.5   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6270-416 is Positive         ... pos = 10.25 	neg = 6.625
+Overall score of document
+Total Pos = 10.25
+Total Neg = 6.625
+---------------------------------------------------------------------------

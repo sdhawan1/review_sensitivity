@@ -1,0 +1,44 @@
+0. Starring Garry Shand                 ... pos = 0.125 	neg = 0.0  
+1. Directed by Mike Nic                 ... pos = 0.0   	neg = 0    
+2. Rated R.. One of the                 ... pos = 1.0   	neg = 0.125
+3. You can either have                  ... pos = 0.25  	neg = 0.375
+4. Or you can aim highe                 ... pos = 1.875 	neg = 0.375
+5. The latter, however,                 ... pos = 0.125 	neg = 0.0  
+6. Mike Nichols's new m                 ... pos = 0.625 	neg = 0.0  
+7. is missing that last                 ... pos = 0.0   	neg = 0.125
+8. "Men are from Mars,                  ... pos = 0.5   	neg = 1.375
+9. Literally.                           ... pos = 0     	neg = 0.0  
+10. He's an alien from a                ... pos = 0.125 	neg = 0.125
+11. There are a couple o                ... pos = 0.25  	neg = 0.25 
+12. His planet consists                 ... pos = 0.125 	neg = 0.25 
+13. The catch phrases he                ... pos = 0.0   	neg = 0.0  
+14. Also, he is missing                 ... pos = 0.75  	neg = 0.375
+15. Yes, that's right --                ... pos = 0.0   	neg = 0.0  
+16. Harold takes a likin                ... pos = 0.375 	neg = 0.0  
+17. She is vulnerable at                ... pos = 0.375 	neg = 0.125
+18. Their relationship d                ... pos = 0.125 	neg = 1.5  
+19. Meanwhile, a Federal                ... pos = 1.0   	neg = 0.0  
+20. There are actually a                ... pos = 1.25  	neg = 0.0  
+21. First and foremost i                ... pos = 1.125 	neg = 0.25 
+22. In her last film, Am                ... pos = 1.25  	neg = 0.5  
+23. Here, she gets a cha                ... pos = 0.75  	neg = 0.125
+24. Garry Shandling does                ... pos = 0.5   	neg = 0.25 
+25. The running gag, of                 ... pos = 0.0   	neg = 0.5  
+26. It gets somewhat pre                ... pos = 0.0   	neg = 0.0  
+27. The movie really is                 ... pos = 0.875 	neg = 0.125
+28. It feels incomplete                 ... pos = 1.375 	neg = 0.375
+29. Nothing makes sense.                ... pos = 0.0   	neg = 0.25 
+30. The film doesn't bot                ... pos = 0.5   	neg = 0.25 
+31. The whole scenario r                ... pos = 0.75  	neg = 0.0  
+32. The film's set-up fi                ... pos = 0.125 	neg = 0.0  
+33. I have seen far wors                ... pos = 0.0   	neg = 0.625
+34. What Planet Are You                 ... pos = 0.25  	neg = 0.0  
+35. at least manages to                 ... pos = 1.25  	neg = 0.0  
+36. Garry Shandling, in                 ... pos = 0.625 	neg = 0.375
+37. And Mike Nichols, wh                ... pos = 0.25  	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-3994-563 is Positive         ... pos = 18.5  	neg = 9.75 
+Overall score of document
+Total Pos = 18.5
+Total Neg = 9.75
+---------------------------------------------------------------------------

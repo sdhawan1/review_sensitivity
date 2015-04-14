@@ -1,0 +1,35 @@
+0. In famed comedian Ad                 ... pos = 0.0   	neg = 0.0  
+1. Sonny lives with apa                 ... pos = 0.0   	neg = 0.5  
+2. The day after Kevin'                 ... pos = 0.0   	neg = 0.125
+3. (Cole and Dylan Spro                 ... pos = 0.125 	neg = 0.875
+4. Along the hour and a                 ... pos = 0.125 	neg = 0.0  
+5. This is usually a go                 ... pos = 0.75  	neg = 0.25 
+6. After meeting lawyer                 ... pos = 0.375 	neg = 0.125
+7. After an agency thre                 ... pos = 0.5   	neg = 1.125
+8. The relationship bet                 ... pos = 0.0   	neg = 0.5  
+9. Leslie Mann deserves                 ... pos = 2.125 	neg = 1.75 
+10. Joey Lauren Adams' c                ... pos = 1.5   	neg = 0.375
+11. Joey Lauren Adams is                ... pos = 0.625 	neg = 0.5  
+12. Big Daddy is an enjo                ... pos = 1.125 	neg = 0.375
+13. Adam Sandler is at t                ... pos = 0.875 	neg = 0.125
+14. After Big Daddy, I t                ... pos = 0.25  	neg = 0.5  
+15. Adam Sandler is lika                ... pos = 0.125 	neg = 0.5  
+16. I doubted that Sandl                ... pos = 0.75  	neg = 0.875
+17. Big Daddy is powered                ... pos = 0.0   	neg = 0.25 
+18. The use of the song                 ... pos = 1.0   	neg = 0.875
+19. Big Daddy tries to b                ... pos = 0.125 	neg = 1.125
+20. The frequent sequenc                ... pos = 1.5   	neg = 0.125
+21. With Big Daddy, Sand                ... pos = 1.0   	neg = 0.125
+22. Your own comedy genr                ... pos = 0.0   	neg = 1.25 
+23. In 1998's The Weddin                ... pos = 0.5   	neg = 0.125
+24. Sandler's previous f                ... pos = 0.75  	neg = 0.25 
+25. Sandler is very lika                ... pos = 1.375 	neg = 0.25 
+26. The Bottom Line- A f                ... pos = 1.25  	neg = 0.125
+27. Unfortunately, Big D                ... pos = 0.0   	neg = 1.125
+28. Director Dennis Duga                ... pos = 0.875 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-2229-8 is Positive           ... pos = 17.625 	neg = 14.875
+Overall score of document
+Total Pos = 17.625
+Total Neg = 14.875
+---------------------------------------------------------------------------

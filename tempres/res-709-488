@@ -1,0 +1,29 @@
+0. Starring Mel Gibson;                 ... pos = 0.75  	neg = 0.125
+1. In other words, it's                 ... pos = 1.0   	neg = 0.125
+2. Gibson plays a crook                 ... pos = 0.0   	neg = 0.125
+3. Mel's partner needed                 ... pos = 0.0   	neg = 0.875
+4. So he puts a couple                  ... pos = 0.0   	neg = 0.625
+5. But, Mel isn't dead                  ... pos = 0.875 	neg = 0.25 
+6. To make matters wors                 ... pos = 0.5   	neg = 0.75 
+7. His ex partner has a                 ... pos = 0.0   	neg = 0.625
+8. Payback is often a v                 ... pos = 0.75  	neg = 0.125
+9. To its credit, there                 ... pos = 1.5   	neg = 0.125
+10. The film appears a b                ... pos = 0.5   	neg = 0.25 
+11. When the director re                ... pos = 0.0   	neg = 0.25 
+12. So as a result while                ... pos = 0.625 	neg = 0.625
+13. It's always tough to                ... pos = 1.25  	neg = 0.375
+14. In this case, Gibson                ... pos = 1.25  	neg = 0.0  
+15. But hey, its Mel, so                ... pos = 0.25  	neg = 0.125
+16. My guess is that if                 ... pos = 0.0   	neg = 0.25 
+17. Gibson is Gibson, wh                ... pos = 1.0   	neg = 0.875
+18. He almost guarantees                ... pos = 0.75  	neg = 0.375
+19. This time out Mel is                ... pos = 1.75  	neg = 0.125
+20. The man who steals t                ... pos = 0.75  	neg = 1.125
+21. If I had one big dis                ... pos = 0.0   	neg = 0.875
+22. In the end, Payback                 ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-709-488 is Positive          ... pos = 13.625 	neg = 9.25 
+Overall score of document
+Total Pos = 13.625
+Total Neg = 9.25
+---------------------------------------------------------------------------

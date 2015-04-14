@@ -1,0 +1,28 @@
+0. Release Date: Octobe                 ... pos = 0.25  	neg = 0.0  
+1. Walsh, Don Knotts Di                 ... pos = 0.625 	neg = 0.0  
+2. Although Twentieth C                 ... pos = 2.0   	neg = 0.25 
+3. So when a movie like                 ... pos = 0.75  	neg = 0.0  
+4. Although the atmosph                 ... pos = 1.375 	neg = 0.125
+5. Quite the opposite i                 ... pos = 1.125 	neg = 0.125
+6. The story, both abou                 ... pos = 0.75  	neg = 0.0  
+7. Not in recent memory                 ... pos = 0.875 	neg = 0.5  
+8. Kudos to both he and                 ... pos = 0.375 	neg = 0    
+9. It stars Tobey Magui                 ... pos = 0.0   	neg = 0.125
+10. " Maguire, as the re                ... pos = 0.75  	neg = 0.25 
+11. It's not long before                ... pos = 0.0   	neg = 0.5  
+12. Soon hues of color c                ... pos = 1.0   	neg = 0.625
+13. At one end is a soda                ... pos = 0.0   	neg = 0.25 
+14. Walsh) and his chamb                ... pos = 0.25  	neg = 0.0  
+15. Fine performances ar                ... pos = 0.25  	neg = 0.0  
+16. Maguire and Withersp                ... pos = 1.0   	neg = 0.0  
+17. Walsh (in his latest                ... pos = 0.0   	neg = 0    
+18. Daniels brings an at                ... pos = 2.375 	neg = 0.0  
+19. For Daniels, it's hi                ... pos = 0.625 	neg = 0.0  
+20. Also of lesser note                 ... pos = 1.125 	neg = 0.125
+21. There's not much to                 ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1978-700 is Positive         ... pos = 16.125 	neg = 3.0  
+Overall score of document
+Total Pos = 16.125
+Total Neg = 3.0
+---------------------------------------------------------------------------

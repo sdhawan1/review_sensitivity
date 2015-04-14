@@ -1,0 +1,28 @@
+0. Release Date: Februa                 ... pos = 3.0   	neg = 0.375
+1. AT FIRST SIGHT, a re                 ... pos = 0.875 	neg = 0.625
+2. Eventually, that may                 ... pos = 0.125 	neg = 0.25 
+3. Those leading names                  ... pos = 1.125 	neg = 0.0  
+4. Costner has it all b                 ... pos = 0.625 	neg = 0.5  
+5. Robin Wright Penn, o                 ... pos = 1.0   	neg = 0.375
+6. Newman lends comic r                 ... pos = 1.25  	neg = 0.0  
+7. Here, Costner plays                  ... pos = 0.25  	neg = 0.75 
+8. Jogging along the be                 ... pos = 1.0   	neg = 0.375
+9. Using professional c                 ... pos = 0.25  	neg = 0.0  
+10. The two share a comm                ... pos = 0.625 	neg = 0.0  
+11. All of this is very                 ... pos = 0.75  	neg = 0.125
+12. The movie plays out                 ... pos = 0.125 	neg = 0.5  
+13. Gone is the silent b                ... pos = 0.875 	neg = 0.5  
+14. The red-blooded Amer                ... pos = 0.5   	neg = 0.75 
+15. " . Truth be told, t                ... pos = 0.875 	neg = 0.625
+16. The drama is solid,                 ... pos = 0.0   	neg = 0.125
+17. When the sequences b                ... pos = 0.5   	neg = 0.125
+18. There's not a specif                ... pos = 0.0   	neg = 0.125
+19. The ending does not                 ... pos = 0.625 	neg = 0.0  
+20. On the whole, this i                ... pos = 2.375 	neg = 0.0  
+21. But it just might be                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-3516-700 is Positive         ... pos = 16.75 	neg = 6.75 
+Overall score of document
+Total Pos = 16.75
+Total Neg = 6.75
+---------------------------------------------------------------------------

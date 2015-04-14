@@ -1,0 +1,34 @@
+0. Film review (C) 1997                 ... pos = 0.0   	neg = 0.0  
+1. Starring Jodie Foste                 ... pos = 0.0   	neg = 0.0  
+2. Contact  is a film t                 ... pos = 0.625 	neg = 0.125
+3. It is intended to pr                 ... pos = 0.75  	neg = 0.875
+4. The film succeeds wo                 ... pos = 0.25  	neg = 0.0  
+5. The portrayal of the                 ... pos = 0.25  	neg = 0.125
+6. The aliens in Contac                 ... pos = 0.375 	neg = 0.5  
+7. They know we exist,                  ... pos = 0.0   	neg = 0.125
+8. The film wisely refr                 ... pos = 1.625 	neg = 0.0  
+9. Most of the film, ho                 ... pos = 0.625 	neg = 0.125
+10. Scientists are enthu                ... pos = 2.0   	neg = 0.625
+11. The debate is fueled                ... pos = 0.875 	neg = 0.375
+12. The film is partly s                ... pos = 2.0   	neg = 0.375
+13. Still, the film fall                ... pos = 0.0   	neg = 0.5  
+14. The two "sides" are                 ... pos = 0.625 	neg = 0.25 
+15. Palmer Joss occupies                ... pos = 0.0   	neg = 0.0  
+16. Then again, the film                ... pos = 1.0   	neg = 0.125
+17. Contact  is accurate                ... pos = 0.625 	neg = 0.125
+18. The film's one clear                ... pos = 0.0   	neg = 0.125
+19. For one thing, it re                ... pos = 2.75  	neg = 0.125
+20. The romance rarely,                 ... pos = 2.625 	neg = 1.0  
+21. Instead, the romance                ... pos = 0.0   	neg = 0.125
+22. Granted, this is a p                ... pos = 1.5   	neg = 0.25 
+23. The successes of Con                ... pos = 0.125 	neg = 0.0  
+24. Even if the social c                ... pos = 1.0   	neg = 0.0  
+25. Contact  doesn't qui                ... pos = 2.0   	neg = 0.125
+26. And I would not be s                ... pos = 0.875 	neg = 0.25 
+27. Grade: A. .                         ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3534-716 is Positive         ... pos = 22.5  	neg = 6.25 
+Overall score of document
+Total Pos = 22.5
+Total Neg = 6.25
+---------------------------------------------------------------------------

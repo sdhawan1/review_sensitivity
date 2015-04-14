@@ -1,0 +1,51 @@
+0. "Deep Impact", disas                 ... pos = 0.25  	neg = 0.125
+1. But when it's over,                  ... pos = 0.25  	neg = 0.125
+2. I'll be fair.                        ... pos = 0     	neg = 0.125
+3. Instead of becoming                  ... pos = 0.125 	neg = 0.625
+4. It falls short, I su                 ... pos = 1.375 	neg = 1.0  
+5. "Deep Impact" opens                  ... pos = 0.125 	neg = 0.0  
+6. There's something up                 ... pos = 0.125 	neg = 0.0  
+7. He rushes out the do                 ... pos = 0.0   	neg = 0.0  
+8. Right off the bat th                 ... pos = 0.0   	neg = 1.5  
+9. No matter.                           ... pos = 0.0   	neg = 0.25 
+10. The movie skips ahea                ... pos = 0.0   	neg = 0.0  
+11. Not-so- intrepid rep                ... pos = 0.0   	neg = 0.0  
+12. ) stumbles across a                 ... pos = 0.125 	neg = 0.375
+13. Lerner is played by                 ... pos = 0.0   	neg = 0.375
+14. Later on, when she's                ... pos = 0.0   	neg = 0.625
+15. Of course, the scand                ... pos = 0.0   	neg = 0.125
+16. ", or an Extinction                 ... pos = 0.0   	neg = 0.0  
+17. In a nice little sce                ... pos = 0.0   	neg = 0.625
+18. In a movie where a l                ... pos = 0.75  	neg = 0.375
+19. When the news finall                ... pos = 0.0   	neg = 0.0  
+20. This is, of course,                 ... pos = 0.0   	neg = 0.125
+21. The probe, named the                ... pos = 0.0   	neg = 0.125
+22. There's a moment whe                ... pos = 1.125 	neg = 2.25 
+23. This seems to be the                ... pos = 0.25  	neg = 0.625
+24. Sure, there's panic                 ... pos = 0.625 	neg = 0.0  
+25. There's a truly jaw-                ... pos = 0.625 	neg = 0.0  
+26. At least we don't ge                ... pos = 0.0   	neg = 0.5  
+27. But... somehow... th                ... pos = 0.375 	neg = 0.25 
+28. The script tries to                 ... pos = 0.5   	neg = 0.5  
+29. One is Lerner's estr                ... pos = 0.625 	neg = 0.875
+30. When disaster finall                ... pos = 0.375 	neg = 0.5  
+31. Are we supposed to s                ... pos = 0.5   	neg = 0.375
+32. They blew away the B                ... pos = 0.0   	neg = 0    
+33. "  The effects show                 ... pos = 0.0   	neg = 0.25 
+34. What emotional invol                ... pos = 0.875 	neg = 0.125
+35. And then we get the                 ... pos = 0.375 	neg = 0.25 
+36. What would have work                ... pos = 0     	neg = 0.0  
+37. I'm not sure.                       ... pos = 0.25  	neg = 0    
+38. Part of the problem                 ... pos = 0.25  	neg = 1.5  
+39. Somewhere along the                 ... pos = 0.125 	neg = 0.625
+40. Don't get me wrong.                 ... pos = 0     	neg = 0.75 
+41. This isn't a bad mov                ... pos = 0.0   	neg = 0.875
+42. It's professional-lo                ... pos = 0.875 	neg = 0    
+43. I guess the big prob                ... pos = 0.125 	neg = 0.75 
+44. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1674-1046 is Negative        ... pos = 11.0  	neg = 17.5 
+Overall score of document
+Total Pos = 11.0
+Total Neg = 17.5
+---------------------------------------------------------------------------

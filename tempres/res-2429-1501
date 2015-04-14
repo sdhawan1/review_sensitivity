@@ -1,0 +1,46 @@
+0. Cast: Al Pacino, Cam                 ... pos = 0.875 	neg = 0.125
+1. Men's Journal calls                  ... pos = 0.5   	neg = 0.5  
+2. " He's the main man                  ... pos = 0.0   	neg = 0.0  
+3. ". What is it about                  ... pos = 0.0   	neg = 0.125
+4. Why of all sports do                 ... pos = 0.125 	neg = 0.0  
+5. Maybe because wrestl                 ... pos = 0.5   	neg = 0.5  
+6. With Oliver Stone, w                 ... pos = 0.5   	neg = 0.0  
+7. "Fight Club is not f                 ... pos = 0.0   	neg = 0.125
+8. You aren't watching                  ... pos = 0.375 	neg = 0.0  
+9. After Fight Club, wa                 ... pos = 0.0   	neg = 0.5  
+10. ". Today, Stone feel                ... pos = 0.25  	neg = 0.25 
+11. Commercials interrup                ... pos = 0.0   	neg = 0.125
+12. They have taken a on                ... pos = 0.75  	neg = 0.125
+13. It wrecks the concen                ... pos = 0.0   	neg = 0.25 
+14. ". Welcome to the pl                ... pos = 0.5   	neg = 0.0  
+15. " Included in Stone'                ... pos = 0.875 	neg = 0.375
+16. Here for support are                ... pos = 0.5   	neg = 0.0  
+17. They're all a part o                ... pos = 0.625 	neg = 0.125
+18. These guys are invol                ... pos = 0.5   	neg = 0.0  
+19. Yes, we all know Sto                ... pos = 0.625 	neg = 0.5  
+20. This one is especial                ... pos = 0.0   	neg = 1.0  
+21. "Any Given Sunday" a                ... pos = 1.5   	neg = 0.0  
+22. Oliver uses just abo                ... pos = 0.5   	neg = 0.25 
+23. Also on the soundtra                ... pos = 0.25  	neg = 0.25 
+24. Stone probably has t                ... pos = 0.5   	neg = 0.125
+25. From minute one Oliv                ... pos = 0.0   	neg = 0.625
+26. Sadly, this is a pri                ... pos = 0.0   	neg = 0.75 
+27. Dialogue in this fil                ... pos = 0.75  	neg = 0.125
+28. Al Pacino is at his                 ... pos = 1.0   	neg = 0.125
+29. So where did "Sunday                ... pos = 0     	neg = 0.75 
+30. What happened?                      ... pos = 0.0   	neg = 0    
+31. Clichés happened.                  ... pos = 0.0   	neg = 0    
+32. Every sports film cl                ... pos = 0.0   	neg = 0.125
+33. There's the torch ha                ... pos = 0.25  	neg = 0    
+34. There's the Big Spee                ... pos = 0.0   	neg = 0.0  
+35. Worst of all, "Any G                ... pos = 0.0   	neg = 1.0  
+36. ". Do I recommend se                ... pos = 0.0   	neg = 0.0  
+37. You betcha.                         ... pos = 0     	neg = 0    
+38. It's the most realis                ... pos = 0.75  	neg = 0.0  
+39. "Sunday" is the clos                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2429-1501 is Positive        ... pos = 13.125 	neg = 8.875
+Overall score of document
+Total Pos = 13.125
+Total Neg = 8.875
+---------------------------------------------------------------------------

@@ -1,0 +1,85 @@
+0. By Nathaniel R. Atch                 ... pos = 0.875 	neg = 0.125
+1. I love Ralph Fiennes                 ... pos = 0.625 	neg = 0.0  
+2. I love Uma Thurman.                  ... pos = 1.25  	neg = 0.0  
+3. I love Sean Connery.                 ... pos = 0.625 	neg = 0.0  
+4. Hell, I'm even a big                 ... pos = 0.0   	neg = 0.5  
+5. I saw the fantastic                  ... pos = 0.375 	neg = 0.125
+6. A few months into th                 ... pos = 1.125 	neg = 0.125
+7. Then, in this final                  ... pos = 0.25  	neg = 0.25 
+8. And that the actors                  ... pos = 0.0   	neg = 0.125
+9. And that it was dire                 ... pos = 0.0   	neg = 0.125
+10. My expectations fell                ... pos = 0.0   	neg = 0.25 
+11. The film I saw today                ... pos = 0.125 	neg = 0.0  
+12. This is a lousy, inc                ... pos = 0.0   	neg = 1.25 
+13. I would slam it hard                ... pos = 0.625 	neg = 0.0  
+14. But sets are ultimat                ... pos = 0.5   	neg = 0.5  
+15. That's the main prob                ... pos = 0.5   	neg = 0.25 
+16. It's like a chore, a                ... pos = 0.0   	neg = 0.375
+17. It also feels like i                ... pos = 0.0   	neg = 0.125
+18. This is just plain d                ... pos = 0     	neg = 0.25 
+19. The Avengers is a fi                ... pos = 0.125 	neg = 0.125
+20. Frequent readers of                 ... pos = 0.25  	neg = 0.125
+21. I wasn't alive then.                ... pos = 0.125 	neg = 0.0  
+22. I don't even watch t                ... pos = 0.125 	neg = 0.0  
+23. I'm very sorry that                 ... pos = 0.5   	neg = 1.25 
+24. I didn't know and lo                ... pos = 1.25  	neg = 0.125
+25. I also doubt that fa                ... pos = 0.75  	neg = 0.0  
+26. Based on what the fi                ... pos = 0.0   	neg = 0.25 
+27. They are to work tog                ... pos = 1.0   	neg = 0.25 
+28. It seems that there                 ... pos = 0.0   	neg = 0.25 
+29. His name is De Wynte                ... pos = 0.0   	neg = 0.125
+30. He is a crazy Scotti                ... pos = 0.0   	neg = 0.5  
+31. Our heroes had bette                ... pos = 0     	neg = 0.25 
+32. .                                   ... pos = 0     	neg = 0    
+33. .                                   ... pos = 0     	neg = 0    
+34. the weather will kee                ... pos = 0.375 	neg = 1.25 
+35. Along the way there                 ... pos = 0.375 	neg = 1.375
+36. For example, our her                ... pos = 0.25  	neg = 0.25 
+37. Now, killer bugs don                ... pos = 0.0   	neg = 0.375
+38. The purpose of the b                ... pos = 0.0   	neg = 0.375
+39. They're never even d                ... pos = 0.125 	neg = 0.375
+40. The special effects                 ... pos = 0.0   	neg = 2.375
+41. Like so many scenes                 ... pos = 0.0   	neg = 0.125
+42. And I guarantee you,                ... pos = 0.125 	neg = 0.0  
+43. I stopped thinking a                ... pos = 0.875 	neg = 0.0  
+44. The Avengers has cle                ... pos = 0.75  	neg = 0.125
+45. There are several sc                ... pos = 0.25  	neg = 0.0  
+46. In addition, many of                ... pos = 0.0   	neg = 1.125
+47. The scenes that don'                ... pos = 0.875 	neg = 0.125
+48. They aren't.                        ... pos = 0     	neg = 0    
+49. The action scenes sh                ... pos = 0.0   	neg = 0.25 
+50. They aren't, either.                ... pos = 0     	neg = 0.0  
+51. And what about this                 ... pos = 0.0   	neg = 0.375
+52. Oh, it makes me weep                ... pos = 0.0   	neg = 1.5  
+53. We're talking Ralph                 ... pos = 0.875 	neg = 0.0  
+54. I love the guy.                     ... pos = 0.625 	neg = 0.0  
+55. I've loved all his f                ... pos = 0.5   	neg = 0    
+56. He seems like he wan                ... pos = 0.75  	neg = 0.125
+57. And Thurman, in all                 ... pos = 0.625 	neg = 0.5  
+58. (I don't blame her c                ... pos = 0.625 	neg = 2.25 
+59. )  Connery, however,                ... pos = 0.125 	neg = 0.125
+60. Who is to blame?                    ... pos = 0.0   	neg = 0.625
+61. Is it the screenwrit                ... pos = 0.0   	neg = 0.125
+62. Perhaps, although I                 ... pos = 0.75  	neg = 0.25 
+63. Is it the actors?                   ... pos = 0.0   	neg = 0.125
+64. For God's sake, no -                ... pos = 0.25  	neg = 0.375
+65. I blame director Jer                ... pos = 0.0   	neg = 0.625
+66. His best film, Benny                ... pos = 0.375 	neg = 0.625
+67. Add to that a lack o                ... pos = 0.0   	neg = 0.625
+68. If The Avengers has                 ... pos = 0.0   	neg = 0.0  
+69. The sets (by Stuart                 ... pos = 0.875 	neg = 0.375
+70. I like the final set                ... pos = 0.0   	neg = 0.0  
+71. I admired the overhe                ... pos = 0.625 	neg = 0.0  
+72. I also enjoyed Micha                ... pos = 0.375 	neg = 0.0  
+73. But this stuff is ro                ... pos = 1.0   	neg = 0.625
+74. Inspiration, for ins                ... pos = 0.0   	neg = 0.125
+75. Maybe a little bit o                ... pos = 0.0   	neg = 0.25 
+76. Or a sense of purpos                ... pos = 0.0   	neg = 0.0  
+77. Most of all, though,                ... pos = 0.875 	neg = 0.0  
+78. Damn this movie for                 ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-861-760 is Negative          ... pos = 24.75 	neg = 25.5 
+Overall score of document
+Total Pos = 24.75
+Total Neg = 25.5
+---------------------------------------------------------------------------

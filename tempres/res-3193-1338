@@ -1,0 +1,28 @@
+0. Scream is the best a                 ... pos = 0.375 	neg = 0.625
+1. Horror films were pr                 ... pos = 1.125 	neg = 0.25 
+2. Now like Halloween,                  ... pos = 0.5   	neg = 1.875
+3. Scream starts with a                 ... pos = 0.375 	neg = 0.0  
+4. A girl is home alone                 ... pos = 0.0   	neg = 0.5  
+5. She gets a phone cal                 ... pos = 0.0   	neg = 0.875
+6. The stranger then pu                 ... pos = 0.125 	neg = 0.375
+7. These scenes are tau                 ... pos = 0.0   	neg = 1.125
+8. After the opening te                 ... pos = 0.0   	neg = 0.0  
+9. ) and gives them sat                 ... pos = 0.125 	neg = 0.0  
+10. The group consists o                ... pos = 0.625 	neg = 0.5  
+11. The film has many ke                ... pos = 0.5   	neg = 0    
+12. As when Kennedy expl                ... pos = 0.75  	neg = 0.375
+13. " He yells as Campbe                ... pos = 0.0   	neg = 0.25 
+14. There is also a wond                ... pos = 0.75  	neg = 0.5  
+15. A lot of credit has                 ... pos = 0.375 	neg = 0.125
+16. They both handle the                ... pos = 0.0   	neg = 0.0  
+17. The script, which wa                ... pos = 0.5   	neg = 0.25 
+18. So funny that most h                ... pos = 0.625 	neg = 0.875
+19. Craven is a natural                 ... pos = 0.0   	neg = 0.125
+20. He tried a similar m                ... pos = 2.0   	neg = 0.625
+21. He plays this film e                ... pos = 1.75  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-3193-1338 is Positive        ... pos = 10.5  	neg = 9.875
+Overall score of document
+Total Pos = 10.5
+Total Neg = 9.875
+---------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+0. It's a western, an a                 ... pos = 0.0   	neg = 0.0  
+1. But it's  also a Jac                 ... pos = 0.5   	neg = 0.0  
+2. The story is simple,                 ... pos = 0.75  	neg = 0.25 
+3. Owen Wilson costars                  ... pos = 0.0   	neg = 0.625
+4. When the two find th                 ... pos = 0.5   	neg = 0.0  
+5. Wilson is  really ch                 ... pos = 0.75  	neg = 1.125
+6. The story is really                  ... pos = 1.375 	neg = 0.125
+7. This is how action m                 ... pos = 0.25  	neg = 0.125
+8. Chad'z Movie Page is                 ... pos = 0     	neg = 0.125
+9. New reviews of the l                 ... pos = 0.875 	neg = 0.0  
+10. Have I sold out?                    ... pos = 0.0   	neg = 0.0  
+11. Visit my page and de                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4844-1385 is Positive        ... pos = 5.0   	neg = 2.375
+Overall score of document
+Total Pos = 5.0
+Total Neg = 2.375
+---------------------------------------------------------------------------

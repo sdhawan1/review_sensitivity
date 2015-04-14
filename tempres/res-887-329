@@ -1,0 +1,49 @@
+0. In the tradition of                  ... pos = 0.125 	neg = 0.125
+1. Not only do sharp wi                 ... pos = 1.0   	neg = 0.375
+2. This is one of the f                 ... pos = 0.0   	neg = 0.125
+3. Veteran animation st                 ... pos = 0.875 	neg = 0.125
+4. Director and Aardman                 ... pos = 0.0   	neg = 0.375
+5. The screenplay by Ka                 ... pos = 1.0   	neg = 0.125
+6. There is a perfect b                 ... pos = 0.0   	neg = 0.375
+7. Ginger is the ambiti                 ... pos = 0.5   	neg = 0.125
+8. She focuses on getti                 ... pos = 0.0   	neg = 0.0  
+9. Mrs. Tweedy is an ev                 ... pos = 0.375 	neg = 0.875
+10. She ignores her spou                ... pos = 0.375 	neg = 0.0  
+11. Seeking more money,                 ... pos = 0.0   	neg = 0.0  
+12. There may be hope  f                ... pos = 0.375 	neg = 0.125
+13. Rocky the Rooster is                ... pos = 0.0   	neg = 0.125
+14. Through several misu                ... pos = 0.125 	neg = 0.0  
+15. In actuality,  Rocky                ... pos = 0.0   	neg = 0.0  
+16. However, he soon has                ... pos = 0.125 	neg = 1.125
+17. How  much longer can                ... pos = 0.125 	neg = 0.0  
+18. The comic actions of                ... pos = 0.5   	neg = 0.0  
+19. Chicken Run is reall                ... pos = 0.0   	neg = 0.125
+20. The jokes are that f                ... pos = 0.375 	neg = 0.25 
+21. One of my  favorite                 ... pos = 0.125 	neg = 0.0  
+22. This prompts Mac, th                ... pos = 0.5   	neg = 0.0  
+23. " Another highlight                 ... pos = 0.125 	neg = 0.25 
+24. There's also two hil                ... pos = 0.875 	neg = 0.0  
+25. All the voices are e                ... pos = 1.25  	neg = 0    
+26. Mel Gibson plays the                ... pos = 1.125 	neg = 0.0  
+27. For all of the littl                ... pos = 0.5   	neg = 0.375
+28. Elements from all th                ... pos = 0.0   	neg = 0.0  
+29. Another  large chunk                ... pos = 0.125 	neg = 0.375
+30. Many movies get spoo                ... pos = 0.0   	neg = 0.0  
+31. The familiarity felt                ... pos = 0.375 	neg = 0.625
+32. It felt like I'd  se                ... pos = 0.0   	neg = 0.0  
+33. A feeling not felt t                ... pos = 0.0   	neg = 0.0  
+34. Every chicken in thi                ... pos = 0.0   	neg = 0.0  
+35. You will find people                ... pos = 1.0   	neg = 0.0  
+36. Despite the human  r                ... pos = 1.125 	neg = 0.5  
+37. This is a movie inte                ... pos = 0.0   	neg = 0.125
+38. Never before has  an                ... pos = 0.875 	neg = 0.0  
+39. Chicken Run is  pure                ... pos = 1.25  	neg = 0.125
+40. The crazy antics are                ... pos = 0.625 	neg = 0.625
+41. Will we be seeing a                 ... pos = 0.125 	neg = 0.125
+42. I sure hope so.. .                  ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-887-329 is Positive          ... pos = 16.5  	neg = 7.5  
+Overall score of document
+Total Pos = 16.5
+Total Neg = 7.5
+---------------------------------------------------------------------------

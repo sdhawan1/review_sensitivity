@@ -1,0 +1,31 @@
+0. Written by: Written                  ... pos = 0.5   	neg = 0.125
+1. West attends a party                 ... pos = 0.0   	neg = 0.625
+2. "Sorry I made the mi                 ... pos = 0.0   	neg = 0.625
+3. Meanwhile Gordon fal                 ... pos = 0.0   	neg = 0.375
+4. "She's a breath of f                 ... pos = 0.75  	neg = 0.0  
+5. The kidnapper, a sci                 ... pos = 0.0   	neg = 0.375
+6. As West, Gordon and                  ... pos = 0.0   	neg = 0.25 
+7. Opinion: These days                  ... pos = 0.0   	neg = 0.5  
+8. It sounds like an ol                 ... pos = 0.125 	neg = 0.5  
+9. The song makes a pre                 ... pos = 0.375 	neg = 0.125
+10. WILD WILD WEST (1999                ... pos = 0.125 	neg = 0.25 
+11. Usually in cop buddy                ... pos = 0.625 	neg = 0.25 
+12. Unfortunately, in WI                ... pos = 0.25  	neg = 1.25 
+13. James West has initi                ... pos = 0.75  	neg = 0.0  
+14. West is a Civil War                 ... pos = 0.25  	neg = 0.375
+15. On the other hand, i                ... pos = 0.0   	neg = 0.125
+16. WILD WILD WEST is th                ... pos = 0.125 	neg = 0.625
+17. A bad guy gets elect                ... pos = 0.0   	neg = 1.0  
+18. I didn't see any bat                ... pos = 0.0   	neg = 0.0  
+19. West plucks a flatte                ... pos = 0.625 	neg = 0.0  
+20. Huh?                                ... pos = 0     	neg = 0    
+21. Loveless captures Ri                ... pos = 0.125 	neg = 1.125
+22. And so on.                          ... pos = 0     	neg = 0.0  
+23. Given a choice betwe                ... pos = 0.0   	neg = 0.0  
+24. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2843-416 is Negative         ... pos = 4.625 	neg = 8.625
+Overall score of document
+Total Pos = 4.625
+Total Neg = 8.625
+---------------------------------------------------------------------------

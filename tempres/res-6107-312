@@ -1,0 +1,28 @@
+0. I have no objection                  ... pos = 1.0   	neg = 1.875
+1. Compares to End Of D                 ... pos = 1.0   	neg = 1.0  
+2. The film is not tech                 ... pos = 0.125 	neg = 1.0  
+3. Arnold Schwartzenegg                 ... pos = 0.0   	neg = 0.0  
+4. Geddit?                              ... pos = 0     	neg = 0    
+5. ) who is part of the                 ... pos = 0.75  	neg = 1.0  
+6. He is actually the D                 ... pos = 0.0   	neg = 0.5  
+7. Lucifer is on a miss                 ... pos = 0.5   	neg = 1.0  
+8. For reasons unexplai                 ... pos = 0.375 	neg = 0.25 
+9. We know all this, bu                 ... pos = 0.0   	neg = 0.25 
+10. But then nothing muc                ... pos = 0.125 	neg = 0.25 
+11. The selected Bride o                ... pos = 0.0   	neg = 0.5  
+12. The way in which Can                ... pos = 0.25  	neg = 0.875
+13. Sheesh.                             ... pos = 0     	neg = 0    
+14. Having mysteriously                 ... pos = 0.375 	neg = 0.25 
+15. (Trust me, I cannot                 ... pos = 0.0   	neg = 0.25 
+16. ) Then all he has to                ... pos = 0.75  	neg = 0.875
+17. Arnie's limitations                 ... pos = 1.25  	neg = 0.0  
+18. Gabriel Byrne is act                ... pos = 1.75  	neg = 1.0  
+19. I do not know how mu                ... pos = 0.25  	neg = 0.625
+20. This crude amalgam o                ... pos = 0.0   	neg = 0.125
+21. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6107-312 is Negative         ... pos = 9.5   	neg = 11.625
+Overall score of document
+Total Pos = 9.5
+Total Neg = 11.625
+---------------------------------------------------------------------------

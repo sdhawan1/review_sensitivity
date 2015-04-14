@@ -1,0 +1,45 @@
+0. "Can a woman trust y                 ... pos = 0.0   	neg = 0.0  
+1. " "As long as her in                 ... pos = 0.125 	neg = 0.625
+2. ". Starring Pierce B                 ... pos = 0.0   	neg = 0.0  
+3. Rated R.. The Thomas                 ... pos = 1.375 	neg = 0.125
+4. It's not.                            ... pos = 0.0   	neg = 0    
+5. But the movie moves                  ... pos = 1.125 	neg = 0.625
+6. Ridiculous performan                 ... pos = 0.375 	neg = 1.375
+7. It's like a lemon au                 ... pos = 0.0   	neg = 0.0  
+8. Besides making the c                 ... pos = 2.25  	neg = 0.875
+9. This is his second m                 ... pos = 1.5   	neg = 1.0  
+10. In a James Bond-ish                 ... pos = 0.125 	neg = 0    
+11. ), Pierce Brosnan pl                ... pos = 0.875 	neg = 0.125
+12. He's thrill-seeker e                ... pos = 0.0   	neg = 0.125
+13. When he illicitly ge                ... pos = 1.375 	neg = 0.0  
+14. Crown loves a good c                ... pos = 1.625 	neg = 0.875
+15. how?).                              ... pos = 0     	neg = 0    
+16. They sleep together                 ... pos = 0.375 	neg = 0.0  
+17. ) and fall in love (                ... pos = 0.625 	neg = 0.0  
+18. how?                                ... pos = 0     	neg = 0    
+19. when?                               ... pos = 0     	neg = 0    
+20. ) and that puts dear                ... pos = 0.0   	neg = 0.0  
+21. Aside from the numer                ... pos = 1.0   	neg = 0.25 
+22. McTiernan's intentio                ... pos = 0.5   	neg = 1.25 
+23. As such, Crown rarel                ... pos = 0.75  	neg = 0.0  
+24. If the filmmakers wa                ... pos = 0.0   	neg = 0.0  
+25. Rene Russo's laughab                ... pos = 0.0   	neg = 0.0  
+26. Constantly leering,                 ... pos = 1.5   	neg = 0.125
+27. She's more of a femm                ... pos = 0.75  	neg = 0.0  
+28. Rene Russo is anothe                ... pos = 0.0   	neg = 0.25 
+29. It has a fancy coati                ... pos = 0.75  	neg = 0.25 
+30. Despite all of the a                ... pos = 0.5   	neg = 0.25 
+31. It's very well-direc                ... pos = 0.5   	neg = 0    
+32. It also benefits fro                ... pos = 4.0   	neg = 1.125
+33. I can't recommend Th                ... pos = 0.5   	neg = 0.0  
+34. It's a film by someo                ... pos = 0.0   	neg = 0.0  
+35. Unfortunately it's d                ... pos = 0.375 	neg = 1.125
+36. But if your debating                ... pos = 0.625 	neg = 0.75 
+37. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+38. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1730-563 is Positive         ... pos = 23.5  	neg = 11.125
+Overall score of document
+Total Pos = 23.5
+Total Neg = 11.125
+---------------------------------------------------------------------------

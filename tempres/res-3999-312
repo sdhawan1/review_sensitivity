@@ -1,0 +1,26 @@
+0. The World Is Not Eno                 ... pos = 0.0   	neg = 0.25 
+1. The rest of this rev                 ... pos = 0.0   	neg = 0.25 
+2. The film, the third                  ... pos = 0.75  	neg = 0.125
+3. The plot is hardly w                 ... pos = 0.5   	neg = 0.625
+4. The whole thing is u                 ... pos = 1.375 	neg = 0.375
+5. We know what to expe                 ... pos = 0.0   	neg = 0.375
+6. There never was a ti                 ... pos = 0.625 	neg = 0.375
+7. The team behind this                 ... pos = 0.0   	neg = 0.0  
+8. Director Michael Apt                 ... pos = 0.5   	neg = 0.125
+9. Pierce Brosnan is at                 ... pos = 0.375 	neg = 0.875
+10. He brings a cool, su                ... pos = 1.125 	neg = 0.375
+11. There are three main                ... pos = 1.125 	neg = 0.0  
+12. We are meant to beli                ... pos = 0.75  	neg = 0.5  
+13. Given the concentrat                ... pos = 0.5   	neg = 0.375
+14. Pleasing on the eye                 ... pos = 1.5   	neg = 1.375
+15. Thank goodness for E                ... pos = 1.875 	neg = 0.0  
+16. The other leading la                ... pos = 1.625 	neg = 0.125
+17. Despite its lapses i                ... pos = 1.0   	neg = 2.5  
+18. But then again, it i                ... pos = 0.0   	neg = 0.125
+19. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3999-312 is Positive         ... pos = 14.625 	neg = 8.75 
+Overall score of document
+Total Pos = 14.625
+Total Neg = 8.75
+---------------------------------------------------------------------------

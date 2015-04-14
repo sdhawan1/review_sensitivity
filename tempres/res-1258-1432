@@ -1,0 +1,40 @@
+0. A few years ago I sa                 ... pos = 0.25  	neg = 0.0  
+1. Before it was halfwa                 ... pos = 0.0   	neg = 0.25 
+2. My viewing of the fi                 ... pos = 0.0   	neg = 0.25 
+3. You go to see Welles                 ... pos = 0.75  	neg = 0.0  
+4. I have never respond                 ... pos = 0.0   	neg = 0.0  
+5. In the case of THE L                 ... pos = 0.0   	neg = 0.5  
+6. Dinosaurs on the ram                 ... pos = 0     	neg = 0.5  
+7. Your expectations ar                 ... pos = 0.75  	neg = 0    
+8. If you go in expecti                 ... pos = 0.75  	neg = 0.125
+9. Having attended a pr                 ... pos = 2.75  	neg = 0.5  
+10. It may not be fashio                ... pos = 0.0   	neg = 0.125
+11. Why?                                ... pos = 0     	neg = 0.0  
+12. That question could                 ... pos = 0.25  	neg = 0.25 
+13. Or, more simply, it                 ... pos = 0.75  	neg = 0.125
+14. As for my own reacti                ... pos = 0.125 	neg = 0    
+15. As far as adventure                 ... pos = 0.75  	neg = 0.125
+16. It may be an even be                ... pos = 0.0   	neg = 0.125
+17. The first forty-five                ... pos = 0.125 	neg = 0.125
+18. The dinosaur attacks                ... pos = 0.5   	neg = 1.25 
+19. Spielberg restrains                 ... pos = 1.375 	neg = 1.0  
+20. The dinosaurs work:                 ... pos = 2.25  	neg = 0.125
+21. Fans of Crichton's b                ... pos = 0.625 	neg = 0.125
+22. And it's great to se                ... pos = 0.0   	neg = 0.25 
+23. Screenwriter David K                ... pos = 0.25  	neg = 0.25 
+24. Spielberg choreograp                ... pos = 0.875 	neg = 0.75 
+25. JURASSIC PARK's unde                ... pos = 0.5   	neg = 0.375
+26. THE LOST WORLD is da                ... pos = 0.25  	neg = 0.75 
+27. This, ultimately, ma                ... pos = 1.375 	neg = 0.125
+28. Will there be a thir                ... pos = 0.125 	neg = 0.125
+29. If so, Spielberg doe                ... pos = 0.0   	neg = 0.125
+30. With THE LOST WORLD                 ... pos = 0.75  	neg = 0.25 
+31. It's about as good a                ... pos = 1.125 	neg = 1.125
+32. JURASSIC PARK 3: An                 ... pos = 0.0   	neg = 0.125
+33. I'd pay to see that.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1258-1432 is Positive        ... pos = 17.25 	neg = 9.75 
+Overall score of document
+Total Pos = 17.25
+Total Neg = 9.75
+---------------------------------------------------------------------------

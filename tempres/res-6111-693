@@ -1,0 +1,35 @@
+0. In Tim Burton's `Sle                 ... pos = 0.5   	neg = 0.75 
+1. He rides a beautiful                 ... pos = 0.75  	neg = 0.0  
+2. Burton's update on W                 ... pos = 1.125 	neg = 0.0  
+3. Writer Andrew Kevin                  ... pos = 2.125 	neg = 0.375
+4. As `Sleepy Hollow' o                 ... pos = 0.125 	neg = 0.625
+5. Landau plays a promi                 ... pos = 1.25  	neg = 0.25 
+6. After two more murde                 ... pos = 0.875 	neg = 0.75 
+7. Landlord Baltus Von                  ... pos = 1.5   	neg = 0.25 
+8. Crane is not a man o                 ... pos = 0.625 	neg = 0.5  
+9. First and foremost,                  ... pos = 1.25  	neg = 0.125
+10. As with virtually al                ... pos = 1.5   	neg = 0    
+11. The Horseman F/X are                ... pos = 1.5   	neg = 0.0  
+12. But why did I enjoy                 ... pos = 0.5   	neg = 0.0  
+13. Although enjoyable,                 ... pos = 0.5   	neg = 0.125
+14. It was the light com                ... pos = 0.5   	neg = 0.125
+15. The film has the swe                ... pos = 1.875 	neg = 0.375
+16. This is certainly no                ... pos = 0.25  	neg = 0.25 
+17. As the film progress                ... pos = 0.5   	neg = 0.875
+18. The momentum is slow                ... pos = 0.625 	neg = 0.75 
+19. It's more effective                 ... pos = 1.75  	neg = 0.75 
+20. Still, we are still                 ... pos = 1.125 	neg = 0    
+21. The costuming is exc                ... pos = 1.0   	neg = 0.375
+22. The supporting cast                 ... pos = 0.5   	neg = 0    
+23. A blonde Christina R                ... pos = 0.125 	neg = 0.25 
+24. Walken, Michael Goug                ... pos = 0.75  	neg = 0.0  
+25. I suppose the streng                ... pos = 1.0   	neg = 0.625
+26. All of this is not t                ... pos = 0.0   	neg = 0.25 
+27. `Sleepy Hollow' is a                ... pos = 1.0   	neg = 0.125
+28. If you've got a dece                ... pos = 1.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-6111-693 is Positive         ... pos = 26.25 	neg = 9.125
+Overall score of document
+Total Pos = 26.25
+Total Neg = 9.125
+---------------------------------------------------------------------------

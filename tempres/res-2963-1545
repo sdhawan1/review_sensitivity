@@ -1,0 +1,56 @@
+0. starring John Cusack                 ... pos = 0.0   	neg = 0.0  
+1. Devincentis & Steve                  ... pos = 0.625 	neg = 0.0  
+2. "The movie looks lik                 ... pos = 1.25  	neg = 0.625
+3. Usually a clunky plo                 ... pos = 1.25  	neg = 0.5  
+4. " (Roger Ebert, The                  ... pos = 0.5   	neg = 0.0  
+5. "It's hard to rememb                 ... pos = 1.375 	neg = 1.125
+6. " (Jay Carr, The Bos                 ... pos = 0.0   	neg = 0    
+7. "It's the first grea                 ... pos = 0.25  	neg = 0.0  
+8. " (Joe Leydon, Varie                 ... pos = 0.625 	neg = 0    
+9. "Few actors could pu                 ... pos = 0.0   	neg = 0.625
+10. " (Scott Renshaw, Sc                ... pos = 0.0   	neg = 0.0  
+11. "I enjoyed myself im                ... pos = 0.625 	neg = 0    
+12. " (Desson Howe, Wash                ... pos = 1.5   	neg = 0.0  
+13. The film is percepti                ... pos = 0.625 	neg = 0.125
+14. Youthful males will                 ... pos = 1.5   	neg = 0.125
+15. The first question h                ... pos = 0.5   	neg = 0.125
+16. " Do sad songs ruin                 ... pos = 0.0   	neg = 1.375
+17. A chicken/egg scenar                ... pos = 0.0   	neg = 0.125
+18. This is what the fan                ... pos = 1.75  	neg = 0.75 
+19. Rob prisms the minut                ... pos = 1.125 	neg = 1.125
+20. (To get personal aga                ... pos = 2.0   	neg = 0.5  
+21. ). Of course, when w                ... pos = 1.5   	neg = 0.75 
+22. (He's also organizin                ... pos = 0.375 	neg = 0.0  
+23. ). Those aforementio                ... pos = 0.875 	neg = 0.0  
+24. Barry will loudly, p                ... pos = 0.25  	neg = 0.75 
+25. ignorant.                           ... pos = 0.0   	neg = 0    
+26. (Surprise, surprise:                ... pos = 0.125 	neg = 0.5  
+27. Naturally, Rob presu                ... pos = 0.125 	neg = 0.125
+28. ) Black's character                 ... pos = 1.75  	neg = 0.125
+29. Laura (Iben Hjejle),                ... pos = 0.25  	neg = 0.25 
+30. He'll sit idly by as                ... pos = 0.75  	neg = 0.625
+31. Eventually, Rob cont                ... pos = 1.125 	neg = 1.25 
+32. Don't allow his curr                ... pos = 1.25  	neg = 0.25 
+33. The source book, by                 ... pos = 0.25  	neg = 0.125
+34. (It has, profoundly                 ... pos = 0.0   	neg = 0.0  
+35. ) B-sides, these kin                ... pos = 0.125 	neg = 0.125
+36. (Additionally in his                ... pos = 0.375 	neg = 0.0  
+37. ). Perhaps I mischar                ... pos = 0.25  	neg = 0.125
+38. Rather, it's a movie                ... pos = 0.5   	neg = 0.0  
+39. It's a testament to                 ... pos = 2.25  	neg = 0.875
+40. One particularly unf                ... pos = 1.0   	neg = 0.625
+41. (He's not afraid of                 ... pos = 0.0   	neg = 0.75 
+42. ). Rob, Barry, and D                ... pos = 1.375 	neg = 0.25 
+43. Not quite as fleshed                ... pos = 1.125 	neg = 0.125
+44. Far more problematic                ... pos = 0.875 	neg = 0.125
+45. A few late-in-the-ga                ... pos = 0.25  	neg = 0.0  
+46. It's a shame, for in                ... pos = 0.625 	neg = 0.75 
+47. '" Luckily, the movi                ... pos = 1.375 	neg = 0    
+48. Twenty years from no                ... pos = 1.125 	neg = 0.125
+49. It already feels fro                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2963-1545 is Positive        ... pos = 35.375 	neg = 15.75
+Overall score of document
+Total Pos = 35.375
+Total Neg = 15.75
+---------------------------------------------------------------------------

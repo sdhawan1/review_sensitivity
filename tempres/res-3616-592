@@ -1,0 +1,37 @@
+0. Martin Scorsese's Br                 ... pos = 0.375 	neg = 0.125
+1. The movie, despite t                 ... pos = 1.375 	neg = 0.0  
+2. Those seeking deep a                 ... pos = 0.5   	neg = 0.125
+3. But those looking  f                 ... pos = 1.375 	neg = 0.625
+4. "This film takes pla                 ... pos = 0.5   	neg = 0.0  
+5. Those 13 words and t                 ... pos = 0.875 	neg = 0.0  
+6. The audience can gat                 ... pos = 0.625 	neg = 0.125
+7. Just in case any dou                 ... pos = 0.375 	neg = 0.0  
+8. From there emerges t                 ... pos = 0.5   	neg = 0.0  
+9. For the next 58 hour                 ... pos = 1.0   	neg = 0.375
+10. Peirce fringes on in                ... pos = 0.875 	neg = 0.0  
+11. He gets them all, fr                ... pos = 0.0   	neg = 0.0  
+12. " This makes for an                 ... pos = 0.0   	neg = 0.0  
+13. And then there are                  ... pos = 0.375 	neg = 0.0  
+14. Like  all the other                 ... pos = 0.125 	neg = 0.375
+15. Bringing out the Dea                ... pos = 0.375 	neg = 1.0  
+16. Scorsese  creates th                ... pos = 0.625 	neg = 0.25 
+17. Highlights include t                ... pos = 0.25  	neg = 0.125
+18. This summer, another                ... pos = 1.5   	neg = 0.5  
+19. In Eyes Wide  Shut,                 ... pos = 1.25  	neg = 0.125
+20. Scorsese's look  int                ... pos = 0.875 	neg = 0.5  
+21. The men we meet run                 ... pos = 0.0   	neg = 0.0  
+22. They know each other                ... pos = 0.5   	neg = 0.0  
+23. Another summer film                 ... pos = 0.5   	neg = 0.125
+24. Throughout Summer of                ... pos = 0.25  	neg = 0.75 
+25. In Bringing out the                 ... pos = 0.0   	neg = 0.0  
+26. Stretchers, crying f                ... pos = 2.125 	neg = 0.125
+27. Bringing out the Dea                ... pos = 0.25  	neg = 0.125
+28. Like the  other cere                ... pos = 0.875 	neg = 0.625
+29. Early on,  Peirce te                ... pos = 0.75  	neg = 0.125
+30. " So is Martin Scors                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3616-592 is Positive         ... pos = 19.0  	neg = 6.25 
+Overall score of document
+Total Pos = 19.0
+Total Neg = 6.25
+---------------------------------------------------------------------------

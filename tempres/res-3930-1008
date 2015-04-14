@@ -1,0 +1,32 @@
+0. **1/2 (out of 4) The                 ... pos = 0.0   	neg = 0.875
+1. Don't take it seriou                 ... pos = 0.5   	neg = 0.0  
+2. Richard Donner (who                  ... pos = 0.0   	neg = 0.0  
+3. Gibson plays Jerry F                 ... pos = 0.0   	neg = 1.0  
+4. I say that Donner fo                 ... pos = 0.0   	neg = 0.125
+5. He's not mean or ang                 ... pos = 0.375 	neg = 0.0  
+6. The important thing                  ... pos = 1.375 	neg = 0.75 
+7. Still, Donner went t                 ... pos = 1.0   	neg = 0.25 
+8. By the time we see t                 ... pos = 0.0   	neg = 0.0  
+9. " . Soon, though, we                 ... pos = 0.0   	neg = 0.25 
+10. He is put through a                 ... pos = 0.0   	neg = 0.875
+11. At this point, we've                ... pos = 1.0   	neg = 0.625
+12. As Jerry tries to es                ... pos = 0.0   	neg = 0.5  
+13. But visually, the sc                ... pos = 1.125 	neg = 1.75 
+14. It's the Keystone Ko                ... pos = 0.0   	neg = 0.625
+15. But the music tells                 ... pos = 0.0   	neg = 0.625
+16. Julia Roberts is wor                ... pos = 0.375 	neg = 0.125
+17. When Jerry is able t                ... pos = 0.375 	neg = 0.125
+18. The movie really hum                ... pos = 0.5   	neg = 0.0  
+19. Too soon, the movie                 ... pos = 0.0   	neg = 0.25 
+20. The movie was probab                ... pos = 0.0   	neg = 0.75 
+21. By now, there have b                ... pos = 0.25  	neg = 0.125
+22. For the most part, t                ... pos = 0.5   	neg = 0.25 
+23. CONSPIRACY THEORY do                ... pos = 0.0   	neg = 0.0  
+24. But you may have to                 ... pos = 0.0   	neg = 0.0  
+25. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3930-1008 is Negative        ... pos = 7.375 	neg = 9.875
+Overall score of document
+Total Pos = 7.375
+Total Neg = 9.875
+---------------------------------------------------------------------------

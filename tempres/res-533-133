@@ -1,0 +1,35 @@
+0. "Blast From The Past                 ... pos = 0.125 	neg = 0.0  
+1. This year's "Blast F                 ... pos = 0.25  	neg = 0.375
+2. The story is one tha                 ... pos = 0.0   	neg = 0.125
+3. Convinced that the C                 ... pos = 0.25  	neg = 0.125
+4. 35 years later, they                 ... pos = 0.5   	neg = 0.0  
+5. Adam (Brendan Fraser                 ... pos = 0.0   	neg = 0.375
+6. Enter Eve (Alicia Si                 ... pos = 0.0   	neg = 0.25 
+7. She knows what a liq                 ... pos = 0.0   	neg = 0.125
+8. Over the next hour a                 ... pos = 1.125 	neg = 0.125
+9. Yes, it's a romantic                 ... pos = 0.25  	neg = 0.0  
+10. So what?                            ... pos = 0     	neg = 0.0  
+11. Fraser, with goofy c                ... pos = 0.0   	neg = 0.25 
+12. " Once again, he pul                ... pos = 0.0   	neg = 0.625
+13. The always-lovely Si                ... pos = 1.0   	neg = 0.125
+14. And Dave Foley, in t                ... pos = 1.125 	neg = 0.75 
+15. Back in the 1960s, W                ... pos = 0.0   	neg = 0.0  
+16. Christopher Walken h                ... pos = 1.625 	neg = 0.125
+17. While Walken raises                 ... pos = 0.375 	neg = 0.375
+18. Visually, "Blast Fro                ... pos = 0.25  	neg = 0.125
+19. Aurally, though, it'                ... pos = 0.75  	neg = 0    
+20. The soundtrack is ne                ... pos = 0.5   	neg = 0.125
+21. And those tunes are                 ... pos = 1.25  	neg = 0.0  
+22. Pardon the pun, but                 ... pos = 0.0   	neg = 0.0  
+23. There's only one maj                ... pos = 0.5   	neg = 0.0  
+24. The first half-hour                 ... pos = 1.0   	neg = 0.125
+25. But that's what the                 ... pos = 0.0   	neg = 0.125
+26. Blast through the fi                ... pos = 1.125 	neg = 0.125
+27. (This review was ori                ... pos = 0.375 	neg = 0.125
+28. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-533-133 is Positive          ... pos = 12.375 	neg = 4.5  
+Overall score of document
+Total Pos = 12.375
+Total Neg = 4.5
+---------------------------------------------------------------------------

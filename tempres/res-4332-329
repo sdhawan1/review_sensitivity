@@ -1,0 +1,45 @@
+0. There are some actor                 ... pos = 2.0   	neg = 0.0  
+1. Fran Drescher will f                 ... pos = 0.625 	neg = 0.125
+2. All these people are                 ... pos = 1.375 	neg = 0.875
+3. Anthony Hopkins on t                 ... pos = 0.375 	neg = 0.125
+4. This is the only rea                 ... pos = 0.375 	neg = 1.375
+5. It does not matter i                 ... pos = 0.875 	neg = 0.5  
+6. You could probably w                 ... pos = 1.25  	neg = 0.0  
+7. But the movie can't                  ... pos = 0.75  	neg = 0.25 
+8. Dr. Theo Calder is a                 ... pos = 0.5   	neg = 0.25 
+9. He wants to begin se                 ... pos = 0.375 	neg = 0.125
+10. Ethan Powell (Hopkin                ... pos = 0.25  	neg = 0.375
+11. He lived in the fore                ... pos = 0.0   	neg = 1.25 
+12. In the first intervi                ... pos = 0.125 	neg = 0.25 
+13. One, he doesn't spea                ... pos = 0.0   	neg = 0.0  
+14. Two, he hasn't exper                ... pos = 0.25  	neg = 0.375
+15. Three, the doctors a                ... pos = 0.0   	neg = 0.0  
+16. How dramatic, how th                ... pos = 0.625 	neg = 0.0  
+17. Eventually he does g                ... pos = 0.75  	neg = 0.125
+18. There’s some messa                ... pos = 0.0   	neg = 0.375
+19. Dr. Calder soon expa                ... pos = 0.125 	neg = 0.25 
+20. The problems with th                ... pos = 0.875 	neg = 0.25 
+21. Plus, oh my God!                    ... pos = 0     	neg = 0.0  
+22. everyone in the pris                ... pos = 1.75  	neg = 0.125
+23. OK, let us take a po                ... pos = 0.0   	neg = 0.0  
+24. See it and if you do                ... pos = 0.125 	neg = 0.0  
+25. (NOTE: The preceding                ... pos = 0.125 	neg = 1.125
+26. ) The acting in the                 ... pos = 0.0   	neg = 0.75 
+27. Hopkins does nothing                ... pos = 0.625 	neg = 1.5  
+28. This is not entirely                ... pos = 0.5   	neg = 0.125
+29. The script could eas                ... pos = 1.0   	neg = 0.25 
+30. The soapy emotion th                ... pos = 0.75  	neg = 0.0  
+31. The setting is unint                ... pos = 0.125 	neg = 1.5  
+32. You could rip up all                ... pos = 0.0   	neg = 0.0  
+33. You could warn peopl                ... pos = 0.0   	neg = 0.75 
+34. Whatever you can do                 ... pos = 0.625 	neg = 0.375
+35. So if you haven’t                 ... pos = 0.25  	neg = 0.0  
+36. The Young-Uns: The f                ... pos = 0.5   	neg = 0.0  
+37. It is also senseless                ... pos = 0.25  	neg = 0.125
+38. Good Age: No One Who                ... pos = 1.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4332-329 is Positive         ... pos = 19.125 	neg = 13.875
+Overall score of document
+Total Pos = 19.125
+Total Neg = 13.875
+---------------------------------------------------------------------------

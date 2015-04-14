@@ -1,0 +1,51 @@
+0. Starring Neve Campbe                 ... pos = 0.375 	neg = 0.0  
+1. Review by Laurence M                 ... pos = 1.125 	neg = 0.25 
+2. Which isn't really a                 ... pos = 0.0   	neg = 0.875
+3. So what's so differe                 ... pos = 0.625 	neg = 0.0  
+4. One main thing: it t                 ... pos = 0.0   	neg = 0.0  
+5. A good one, though.                  ... pos = 0.75  	neg = 0    
+6. The film opens with                  ... pos = 0.0   	neg = 0.0  
+7. She starts to cook s                 ... pos = 0.0   	neg = 0.0  
+8. Although I can't rec                 ... pos = 0.0   	neg = 0.0  
+9. At first the phone c                 ... pos = 0.375 	neg = 0.0  
+10. Needless to say, Dre                ... pos = 0.0   	neg = 0.0  
+11. Very messily.                       ... pos = 0.625 	neg = 0    
+12. Kudos to the special                ... pos = 0.75  	neg = 0.0  
+13. Because dead people                 ... pos = 1.5   	neg = 0.75 
+14. Although the "killer                ... pos = 0.375 	neg = 0.25 
+15. Of course, that pesk                ... pos = 2.375 	neg = 1.5  
+16. Even the principal i                ... pos = 0.0   	neg = 0.125
+17. You know, the Fonz f                ... pos = 0.625 	neg = 0.0  
+18. Like I said earlier,                ... pos = 0.375 	neg = 0.125
+19. The murders are viol                ... pos = 0.5   	neg = 1.125
+20. There's little suspe                ... pos = 0     	neg = 0.375
+21. We know who the kill                ... pos = 0.0   	neg = 0.5  
+22. But this isn't a bad                ... pos = 0.0   	neg = 0.875
+23. It's very good.                     ... pos = 1.25  	neg = 0    
+24. For horror fans, it'                ... pos = 0.375 	neg = 0.25 
+25. For example, Stu Mac                ... pos = 0.0   	neg = 0.375
+26. Billy Loomis is name                ... pos = 0.0   	neg = 0.125
+27. Even Wes Craven has                 ... pos = 0.0   	neg = 0.5  
+28. The body count in th                ... pos = 1.5   	neg = 0.375
+29. I can recall offhand                ... pos = 1.125 	neg = 0.0  
+30. Of course, one of th                ... pos = 0.0   	neg = 0.5  
+31. Which brings us to t                ... pos = 0.0   	neg = 0    
+32. The killer is known                 ... pos = 0.0   	neg = 0.875
+33. It's pretty good, ac                ... pos = 0.75  	neg = 0.125
+34. It'd scare me if he                 ... pos = 0.0   	neg = 0.0  
+35. There are a few qual                ... pos = 0.5   	neg = 0.125
+36. This movie was origi                ... pos = 0.625 	neg = 1.625
+37. Apparently, this dec                ... pos = 0.75  	neg = 0.25 
+38. Also, some scenes ar                ... pos = 1.0   	neg = 0.0  
+39. Are we to believe th                ... pos = 1.0   	neg = 0.0  
+40. And the killer's mot                ... pos = 0.125 	neg = 0.5  
+41. But these are minor                 ... pos = 0.5   	neg = 0.0  
+42. Rent the movie.                     ... pos = 0     	neg = 0.0  
+43. It's one of the bett                ... pos = 0.0   	neg = 0.0  
+44. I'm just waiting for                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3193-648 is Positive         ... pos = 19.875 	neg = 12.375
+Overall score of document
+Total Pos = 19.875
+Total Neg = 12.375
+---------------------------------------------------------------------------

@@ -1,0 +1,47 @@
+0. By now, the vast maj                 ... pos = 0.125 	neg = 0.0  
+1. They will probably h                 ... pos = 1.75  	neg = 0.0  
+2. This is quite a sham                 ... pos = 0.0   	neg = 0.875
+3. I'm glad to have see                 ... pos = 0.375 	neg = 0.0  
+4. After seeing it, I w                 ... pos = 1.0   	neg = 0.125
+5. Dr. Malcolm Crowe (W                 ... pos = 0.0   	neg = 0.125
+6. The film opens with                  ... pos = 1.125 	neg = 0.0  
+7. However, a patient o                 ... pos = 0.5   	neg = 0.25 
+8. Next autumn, we see                  ... pos = 0.25  	neg = 0.125
+9. His marriage is fall                 ... pos = 0.75  	neg = 0.375
+10. Crowe's newest patie                ... pos = 0.75  	neg = 1.0  
+11. Sear is showing very                ... pos = 0.875 	neg = 0.75 
+12. Crowe slowly earns t                ... pos = 0.0   	neg = 0.0  
+13. I know almost everyo                ... pos = 0.25  	neg = 0.25 
+14. I often hear Bruce W                ... pos = 2.125 	neg = 0.125
+15. He is capable of bre                ... pos = 0.125 	neg = 0.125
+16. Here, he plays a qui                ... pos = 1.0   	neg = 0.25 
+17. His talents really s                ... pos = 0.125 	neg = 0.375
+18. If Osmet doesn't rec                ... pos = 1.5   	neg = 0.125
+19. This is a wonderful                 ... pos = 0.75  	neg = 0.125
+20. Touching, chilling,                 ... pos = 0.125 	neg = 0.25 
+21. This is not to say i                ... pos = 0.25  	neg = 0.125
+22. As for the much talk                ... pos = 1.125 	neg = 0.0  
+23. It's also not there                 ... pos = 0.0   	neg = 0.0  
+24. If one looks back on                ... pos = 0.75  	neg = 0.375
+25. As I said, the flaws                ... pos = 0.875 	neg = 0.0  
+26. The music is, at tim                ... pos = 1.0   	neg = 0.25 
+27. Whenever anything su                ... pos = 0.5   	neg = 0.0  
+28. " is played.                        ... pos = 0     	neg = 0.125
+29. At the start of the                 ... pos = 1.125 	neg = 0.0  
+30. I expected the frame                ... pos = 0.25  	neg = 0.25 
+31. Despite these minute                ... pos = 0.25  	neg = 0.375
+32. I reccomend everyone                ... pos = 0.0   	neg = 0.0  
+33. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+34. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+35. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+36. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+37. See it if you've got                ... pos = 0.0   	neg = 0.25 
+38. * - One of the worst                ... pos = 0.0   	neg = 0.375
+39. See it only if you e                ... pos = 0.375 	neg = 0.0  
+40. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-535 is Positive         ... pos = 20.875 	neg = 8.5  
+Overall score of document
+Total Pos = 20.875
+Total Neg = 8.5
+---------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+0. Seen on 24 December                  ... pos = 0.375 	neg = 0.625
+1. Other reviewers have                 ... pos = 0.0   	neg = 0.0  
+2. While it does remind                 ... pos = 0.0   	neg = 0.0  
+3. *The Sweet Hereafter                 ... pos = 0.0   	neg = 0.625
+4. The story that drive                 ... pos = 0.5   	neg = 1.25 
+5. As if monetary compe                 ... pos = 0.5   	neg = 0.0  
+6. This sort of lawsuit                 ... pos = 0.625 	neg = 0.0  
+7. Also, it means he ha                 ... pos = 0.0   	neg = 0.0  
+8. There are also two p                 ... pos = 0.25  	neg = 0.0  
+9. First, there is the                  ... pos = 0.125 	neg = 0.5  
+10. Or, as he put it, hi                ... pos = 1.0   	neg = 0.0  
+11. " Also, there is the                ... pos = 0.0   	neg = 0.125
+12. This is one of the s                ... pos = 0.875 	neg = 0.125
+13. A lot of the parents                ... pos = 1.25  	neg = 0.125
+14. Director Atom Egoyan                ... pos = 0.75  	neg = 0.0  
+15. There is a strong se                ... pos = 0.5   	neg = 0.125
+16. Unfortunately, from                 ... pos = 0.0   	neg = 1.125
+17. Holm is shown having                ... pos = 0.625 	neg = 0.125
+18. Where that fits into                ... pos = 0.625 	neg = 0.125
+19. I think that because                ... pos = 1.25  	neg = 1.0  
+20. There is also the ta                ... pos = 1.75  	neg = 1.0  
+21. You are on the edge                 ... pos = 0.5   	neg = 0.0  
+22. Even when the charac                ... pos = 1.625 	neg = 0.375
+23. A town losing 14 chi                ... pos = 1.125 	neg = 0    
+24. It's just a shame th                ... pos = 0.0   	neg = 1.0  
+25. *The Sweet Hereafter                ... pos = 0.5   	neg = 0.0  
+26. Feeling sorry for th                ... pos = 0.0   	neg = 1.375
+27. There is more after                 ... pos = 0.5   	neg = 0.125
+28. Written by Atom Egoy                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1677-92 is Positive          ... pos = 15.25 	neg = 9.875
+Overall score of document
+Total Pos = 15.25
+Total Neg = 9.875
+---------------------------------------------------------------------------

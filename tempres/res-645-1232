@@ -1,0 +1,34 @@
+0. Anthony Minghella's                  ... pos = 0.625 	neg = 0.0  
+1. And just as Minghell                 ... pos = 1.625 	neg = 0.75 
+2. Matt Damon plays the                 ... pos = 0.5   	neg = 0.125
+3. Plans change when To                 ... pos = 0.625 	neg = 0.0  
+4. One of the main them                 ... pos = 0.75  	neg = 0.25 
+5. The film then shifts                 ... pos = 0.0   	neg = 0.0  
+6. The Ripley of Highsm                 ... pos = 0.125 	neg = 0.25 
+7. Damon gives Ripley's                 ... pos = 3.375 	neg = 0.125
+8. He assumes the doubl                 ... pos = 0.625 	neg = 0.375
+9. (There is no sense,                  ... pos = 0.25  	neg = 0.5  
+10. ) The irony, of cour                ... pos = 0.625 	neg = 0.5  
+11. The effect is very H                ... pos = 1.5   	neg = 0.5  
+12. Law's portrayal of D                ... pos = 0.5   	neg = 0.25 
+13. (On the other hand,                 ... pos = 2.25  	neg = 2.25 
+14. ). As with English P                ... pos = 1.375 	neg = 0.375
+15. Tanned and expensive                ... pos = 0.5   	neg = 0.125
+16. Over the course of t                ... pos = 1.125 	neg = 0.0  
+17. The transformation f                ... pos = 0.75  	neg = 0.5  
+18. Just as the desert d                ... pos = 3.375 	neg = 0.0  
+19. But the overall feel                ... pos = 0.625 	neg = 0.625
+20. The power of Talente                ... pos = 0.0   	neg = 0.0  
+21. Minghella plays up t                ... pos = 1.25  	neg = 0.125
+22. Ironically, his doub                ... pos = 0.0   	neg = 0.875
+23. A grimmer irony is t                ... pos = 1.0   	neg = 0.75 
+24. The ultimate result                 ... pos = 1.625 	neg = 0.75 
+25. Damon's performance                 ... pos = 0.125 	neg = 0.375
+26. Equal parts characte                ... pos = 1.75  	neg = 0.125
+27. Catch it before it l                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-645-1232 is Positive         ... pos = 26.875 	neg = 10.5 
+Overall score of document
+Total Pos = 26.875
+Total Neg = 10.5
+---------------------------------------------------------------------------

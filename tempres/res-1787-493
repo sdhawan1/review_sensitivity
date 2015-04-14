@@ -1,0 +1,48 @@
+0. Brendan Fraser alway                 ... pos = 0.125 	neg = 0.125
+1. He can do well at th                 ... pos = 0.0   	neg = 0.875
+2. Also, he can read th                 ... pos = 0.5   	neg = 0.0  
+3. Now, coming out on v                 ... pos = 0.0   	neg = 0.0  
+4. Up or down?                          ... pos = 0     	neg = 0.0  
+5. Well, it is a mix of                 ... pos = 0.0   	neg = 0.125
+6. Brendan Fraser's per                 ... pos = 0.625 	neg = 0.5  
+7. His sharp wit and ab                 ... pos = 0.25  	neg = 0.125
+8. It was a box office                  ... pos = 0.125 	neg = 0.125
+9. The movie, as a whol                 ... pos = 0.125 	neg = 0.125
+10. The film starts with                ... pos = 0.0   	neg = 0.0  
+11. This part leaves you                ... pos = 0.125 	neg = 0.0  
+12. However, things will                ... pos = 0.25  	neg = 0    
+13. An Egyptologist, pla                ... pos = 0.5   	neg = 0.0  
+14. Things set into moti                ... pos = 0.0   	neg = 0.0  
+15. But, the film basica                ... pos = 0.0   	neg = 0.125
+16. This is when things                 ... pos = 0.0   	neg = 0.125
+17. Fraser's performance                ... pos = 0.25  	neg = 0.125
+18. I had doubts about t                ... pos = 0.25  	neg = 0.0  
+19. His performance prov                ... pos = 0.75  	neg = 0.125
+20. Speaking of that, th                ... pos = 0.375 	neg = 1.0  
+21. Rachel Weisz gives a                ... pos = 0.5   	neg = 0.125
+22. The supporting cast,                ... pos = 0.375 	neg = 0.125
+23. Despite Weisz's adeq                ... pos = 0.0   	neg = 0.25 
+24. She basically stands                ... pos = 0.625 	neg = 0.0  
+25. John Hannah is even                 ... pos = 0.0   	neg = 0.75 
+26. He is just the dumb                 ... pos = 0.125 	neg = 0.75 
+27. Sure, he does get a                 ... pos = 1.25  	neg = 1.375
+28. Arnold Vosloo, who p                ... pos = 0.75  	neg = 0.0  
+29. Ironically, he has v                ... pos = 0.75  	neg = 0.5  
+30. But, he does demand                 ... pos = 0.5   	neg = 0.25 
+31. The best moments of                 ... pos = 1.25  	neg = 0.875
+32. The graphics in this                ... pos = 1.125 	neg = 0.0  
+33. When the Mummy is no                ... pos = 0.5   	neg = 0.25 
+34. The results are noth                ... pos = 1.0   	neg = 0.25 
+35. The computer generat                ... pos = 0.0   	neg = 0.625
+36. Combine that with a                 ... pos = 0.875 	neg = 0.0  
+37. All in all, most peo                ... pos = 0.5   	neg = 0.0  
+38. Sure, it does have s                ... pos = 0.875 	neg = 0.0  
+39. Besides, I would rat                ... pos = 1.75  	neg = 0.875
+40. However, the support                ... pos = 1.125 	neg = 0.125
+41. Two And A Half Stars                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1787-493 is Positive         ... pos = 18.25 	neg = 10.625
+Overall score of document
+Total Pos = 18.25
+Total Neg = 10.625
+---------------------------------------------------------------------------

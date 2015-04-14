@@ -1,0 +1,41 @@
+0. I remember critics t                 ... pos = 0.25  	neg = 0.0  
+1. The former is about                  ... pos = 0.25  	neg = 0.25 
+2. Both are said to be                  ... pos = 0.25  	neg = 0.125
+3. Both are comedies.                   ... pos = 0.25  	neg = 0    
+4. Russell would seem t                 ... pos = 0.75  	neg = 0.125
+5. However, despite a n                 ... pos = 0.75  	neg = 0.125
+6. "Three Kings" is not                 ... pos = 0.0   	neg = 0.125
+7. It begins just as th                 ... pos = 0.0   	neg = 0.125
+8. As we learn through                  ... pos = 0.0   	neg = 0.625
+9. The day the war ends                 ... pos = 0.0   	neg = 0.0  
+10. Upon further inspect                ... pos = 0.875 	neg = 0.25 
+11. Archie, who is suppo                ... pos = 0.5   	neg = 0.5  
+12. The four soldiers go                ... pos = 0.0   	neg = 0.125
+13. But when they reach                 ... pos = 0.5   	neg = 0.0  
+14. The war is over, but                ... pos = 0.25  	neg = 0.125
+15. President Bush has t                ... pos = 0.625 	neg = 0.25 
+16. The soldiers decide                 ... pos = 0.5   	neg = 0.0  
+17. The morals of these                 ... pos = 0.125 	neg = 0.0  
+18. Their new mission is                ... pos = 0.375 	neg = 0.125
+19. However, when Desert                ... pos = 0.125 	neg = 0.5  
+20. "Three Kings" has so                ... pos = 0.875 	neg = 0.375
+21. "Three Kings", howev                ... pos = 1.125 	neg = 0.125
+22. Some of the shots ar                ... pos = 1.0   	neg = 0.0  
+23. I don't think that w                ... pos = 0.25  	neg = 0.125
+24. During some parts of                ... pos = 0.5   	neg = 0.25 
+25. In quite a few scene                ... pos = 0.875 	neg = 0.375
+26. The buzz on "Three K                ... pos = 1.125 	neg = 0.125
+27. David O. Russell has                ... pos = 0.375 	neg = 0.0  
+28. "Three Kings" manage                ... pos = 0.125 	neg = 0.0  
+29. Up and coming actors                ... pos = 0.875 	neg = 0.5  
+30. The ending is a big                 ... pos = 0.25  	neg = 0.125
+31. Unsung heroes are ca                ... pos = 0.875 	neg = 0.5  
+32. If these "Three King                ... pos = 0.25  	neg = 0.25 
+33. But, hey, "Three Kin                ... pos = 0.75  	neg = 0.125
+34. Highly recommended,                 ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-421 is Positive         ... pos = 16.25 	neg = 6.25 
+Overall score of document
+Total Pos = 16.25
+Total Neg = 6.25
+---------------------------------------------------------------------------

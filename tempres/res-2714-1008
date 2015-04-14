@@ -1,0 +1,38 @@
+0. ***1/2 (out of 4) Pe                 ... pos = 0.0   	neg = 0.625
+1. I recommend The Sixt                 ... pos = 0.25  	neg = 0.5  
+2. If you think you mig                 ... pos = 0.125 	neg = 0.5  
+3. THE SIXTH SENSE may                  ... pos = 0.375 	neg = 0.375
+4. The mood is tense, b                 ... pos = 0.375 	neg = 0.125
+5. The movie is not so                  ... pos = 0.5   	neg = 0.125
+6. Cole (Haley Joel Osm                 ... pos = 0.25  	neg = 1.375
+7. He has a secret that                 ... pos = 0.875 	neg = 0.125
+8. Their best hope for                  ... pos = 0.75  	neg = 0.75 
+9. Dr. Crowe (Bruce Wil                 ... pos = 0.375 	neg = 0.125
+10. He saw a case remark                ... pos = 0.125 	neg = 0.0  
+11. This time, however,                 ... pos = 0.25  	neg = 0.125
+12. Dr. Crowe slowly bui                ... pos = 0.125 	neg = 0.625
+13. He is finally able t                ... pos = 0.5   	neg = 0.125
+14. Cole finally confide                ... pos = 0.0   	neg = 0.625
+15. These undead souls a                ... pos = 0.75  	neg = 0.0  
+16. Cole is wakened by t                ... pos = 0.125 	neg = 1.125
+17. Dr. Crowe's job sudd                ... pos = 0.0   	neg = 0.625
+18. The film is not perf                ... pos = 0.875 	neg = 0.375
+19. Shyamalan's directio                ... pos = 0.625 	neg = 0.375
+20. Willis breaks from h                ... pos = 0.125 	neg = 0.0  
+21. Osment is above aver                ... pos = 1.0   	neg = 0.875
+22. ). But the best thin                ... pos = 0.375 	neg = 0.125
+23. It is that all the e                ... pos = 0.625 	neg = 0.125
+24. The movie is shot un                ... pos = 0.5   	neg = 0.125
+25. When night comes and                ... pos = 0.375 	neg = 0.625
+26. The ghosts are rarel                ... pos = 0.25  	neg = 0    
+27. We share Cole's hope                ... pos = 0.375 	neg = 0.25 
+28. As I said, the film                 ... pos = 0.0   	neg = 0.125
+29. The introduction to                 ... pos = 0.0   	neg = 1.625
+30. Look for this movie                 ... pos = 0.0   	neg = 0.375
+31. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-1008 is Negative        ... pos = 10.875 	neg = 12.875
+Overall score of document
+Total Pos = 10.875
+Total Neg = 12.875
+---------------------------------------------------------------------------

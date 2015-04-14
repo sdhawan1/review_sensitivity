@@ -1,0 +1,31 @@
+0. OFFICE SPACE (Fox -                  ... pos = 0.125 	neg = 0.75 
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 1.125 	neg = 0.625
+3. Anyone who's had the                 ... pos = 1.125 	neg = 0.875
+4. In not-quite-a-spoof                 ... pos = 0.0   	neg = 0.25 
+5. Immediately    estab                 ... pos = 1.25  	neg = 1.75 
+6. The trio hate their                  ... pos = 0.125 	neg = 2.25 
+7. "  Lo and behold, Pe                 ... pos = 0.875 	neg = 0.0  
+8. The skewering of the                 ... pos = 1.5   	neg = 0.5  
+9. Office drudges will                  ... pos = 2.875 	neg = 0.625
+10. Whether it's Samir's                ... pos = 2.75  	neg = 0.25 
+11. The film gets so man                ... pos = 0.5   	neg = 0.25 
+12. From the serpentine                 ... pos = 0.0   	neg = 0.0  
+13. " to the mind-bendin                ... pos = 0.0   	neg = 1.0  
+14. (I was hoping that t                ... pos = 1.125 	neg = 0.875
+15. ).    It's when the                 ... pos = 0.125 	neg = 0.625
+16. A misguided and tire                ... pos = 0.0   	neg = 0.125
+17. The film is all too                 ... pos = 1.625 	neg = 0.375
+18. These subplots aren'                ... pos = 2.125 	neg = 1.25 
+19. It's only logical fo                ... pos = 0.0   	neg = 1.0  
+20. Among recent feature                ... pos = 1.75  	neg = 0.25 
+21. It's far too    disp                ... pos = 1.0   	neg = 0.875
+22. -- Alex Fung (aw220@                ... pos = 0.125 	neg = 0.125
+23. Half the time I have                ... pos = 0.0   	neg = 0.25 
+24. " - Martin Landau. .                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5723-717 is Positive         ... pos = 20.125 	neg = 15.125
+Overall score of document
+Total Pos = 20.125
+Total Neg = 15.125
+---------------------------------------------------------------------------

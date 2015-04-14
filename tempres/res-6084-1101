@@ -1,0 +1,39 @@
+0. Dir: Quentin Tarenti                 ... pos = 0.625 	neg = 0.0  
+1. Screenplay: Quentin                  ... pos = 0.0   	neg = 0.125
+2. From Orson Welles to                 ... pos = 1.0   	neg = 0.0  
+3. Quentin Tarentino, w                 ... pos = 0.0   	neg = 0.25 
+4. It shows no signs of                 ... pos = 0.0   	neg = 0.25 
+5. Instead it is the po                 ... pos = 0.125 	neg = 0.125
+6. As the title suggest                 ... pos = 0.5   	neg = 0.75 
+7. Just as SHORT CUTS i                 ... pos = 0.25  	neg = 1.0  
+8. Surprisingly enough,                 ... pos = 0.25  	neg = 0.125
+9. As the hapless hitma                 ... pos = 0.625 	neg = 0.875
+10. Between jobs he ratt                ... pos = 0.125 	neg = 0.0  
+11. Jackson tends more t                ... pos = 0.5   	neg = 0.0  
+12. Travolta and Jackson                ... pos = 0.0   	neg = 0.75 
+13. The various story se                ... pos = 0.875 	neg = 0.0  
+14. Each story is really                ... pos = 0.875 	neg = 0.625
+15. Even samurai films g                ... pos = 0.0   	neg = 0.0  
+16. The stories quickly                 ... pos = 0.875 	neg = 0.125
+17. Almost all the chara                ... pos = 1.0   	neg = 0    
+18. Hitman Travolta poin                ... pos = 1.125 	neg = 0.75 
+19. Jackson quotes the "                ... pos = 0.0   	neg = 0.0  
+20. Tarantino's ear for                 ... pos = 0.25  	neg = 0.125
+21. The little throw awa                ... pos = 1.125 	neg = 0.25 
+22. Just when you peg a                 ... pos = 0.75  	neg = 0.75 
+23. Tarentino also uses                 ... pos = 1.875 	neg = 0.625
+24. This structure works                ... pos = 0.0   	neg = 0.125
+25. While the film is, a                ... pos = 0.25  	neg = 0.125
+26. A bizarre S& M scene                ... pos = 0.0   	neg = 0.25 
+27. Another is that some                ... pos = 0.625 	neg = 1.0  
+28. Uma Thurman is reall                ... pos = 0.625 	neg = 0.125
+29. And while Tarentino                 ... pos = 0.25  	neg = 0.0  
+30. With actors of the c                ... pos = 0.25  	neg = 0.125
+31. Those minor quibbles                ... pos = 0.25  	neg = 0.125
+32. It delivers on the p                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6084-1101 is Positive        ... pos = 15.0  	neg = 9.375
+Overall score of document
+Total Pos = 15.0
+Total Neg = 9.375
+---------------------------------------------------------------------------

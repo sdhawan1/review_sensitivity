@@ -1,0 +1,54 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring Tom Cruise,                 ... pos = 0.0   	neg = 0.0  
+2. Written by Ronald D.                 ... pos = 0.0   	neg = 0.0  
+3. Directed by John Woo                 ... pos = 0.0   	neg = 0.0  
+4. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+5. Now here's a curious                 ... pos = 1.375 	neg = 0.625
+6. That's what  happens                 ... pos = 0.375 	neg = 0.5  
+7. "Mission: Impossible                 ... pos = 1.125 	neg = 0.0  
+8. It's enjoyable once                  ... pos = 2.0   	neg = 0.5  
+9. Cruise returns in hi                 ... pos = 0.5   	neg = 0.0  
+10. He's called in to de                ... pos = 0.75  	neg = 1.25 
+11. After releasing the                 ... pos = 0.125 	neg = 0.75 
+12. The plan is for Hunt                ... pos = 0.625 	neg = 0.75 
+13. Unfortunately, Hunt                 ... pos = 0.375 	neg = 1.25 
+14. Most of the setup is                ... pos = 0.625 	neg = 1.25 
+15. You can see the  pro                ... pos = 0.625 	neg = 0.375
+16. That means every tim                ... pos = 0.375 	neg = 0.25 
+17. I don't understand w                ... pos = 1.125 	neg = 0.25 
+18. We  don't need a sho                ... pos = 0.875 	neg = 0.0  
+19. ". The romantic rela                ... pos = 0.375 	neg = 0.75 
+20. I didn't find the  r                ... pos = 1.0   	neg = 0.0  
+21. (I did like the scen                ... pos = 0.0   	neg = 0.0  
+22. ) Then after Cruise                 ... pos = 0.25  	neg = 0.875
+23. You can tell this wa                ... pos = 1.25  	neg = 0.75 
+24. Ving Rhames and Rich                ... pos = 1.375 	neg = 0.0  
+25. That's too bad, beca                ... pos = 0.0   	neg = 1.125
+26. They're interesting                 ... pos = 0.0   	neg = 0.0  
+27. Ms. Newton, meanwhil                ... pos = 1.0   	neg = 0.625
+28. But  she disappears                 ... pos = 0.0   	neg = 1.25 
+29. Again, too bad.                     ... pos = 0.0   	neg = 1.125
+30. That's not to say th                ... pos = 0.125 	neg = 0.25 
+31. There's fun stuff.                  ... pos = 0.125 	neg = 0.25 
+32. The ending  motorcyc                ... pos = 0.125 	neg = 0.125
+33. The spycraft stuff,                 ... pos = 0.125 	neg = 0.375
+34. Slow motion gun  bat                ... pos = 0.375 	neg = 0.0  
+35. The movie does come                 ... pos = 0.25  	neg = 0.875
+36. But it's not only ac                ... pos = 0.125 	neg = 0.0  
+37. His most successful                 ... pos = 0.875 	neg = 0.0  
+38. "Mission: Impossible                ... pos = 0.875 	neg = 0.0  
+39. Cruise is too busy p                ... pos = 1.25  	neg = 1.0  
+40. Consequently, all ho                ... pos = 0.0   	neg = 0.5  
+41. Ultimately, there's                 ... pos = 1.5   	neg = 0.375
+42. For me, for this mov                ... pos = 0.0   	neg = 0.0  
+43. Maybe Tom Cruise fel                ... pos = 0.125 	neg = 0.0  
+44. In "Eyes Wide Shut"                 ... pos = 0.75  	neg = 0.375
+45. Why couldn't he have                ... pos = 0.0   	neg = 0.0  
+46. Where  Cruise's defe                ... pos = 0.5   	neg = 0.0  
+47. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3599-1477 is Positive        ... pos = 23.375 	neg = 18.375
+Overall score of document
+Total Pos = 23.375
+Total Neg = 18.375
+---------------------------------------------------------------------------

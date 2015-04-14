@@ -1,0 +1,38 @@
+0. Starring Neve Campbe                 ... pos = 0.625 	neg = 0.375
+1. Although it isn't We                 ... pos = 0.0   	neg = 0    
+2. If ever a horror mov                 ... pos = 1.125 	neg = 0.125
+3. The original was, in                 ... pos = 0.75  	neg = 0.125
+4. While scream 2 might                 ... pos = 0.25  	neg = 0.75 
+5. Scream 2 picks up a                  ... pos = 0.125 	neg = 0.625
+6. Sidney Prescott (Nev                 ... pos = 1.0   	neg = 0.75 
+7. Enough time has elap                 ... pos = 0.0   	neg = 0.5  
+8. The release of Stab                  ... pos = 0.0   	neg = 0.0  
+9. The murders begin ag                 ... pos = 0.0   	neg = 0.375
+10. It seems our friend                 ... pos = 0.75  	neg = 0.375
+11. Also returning from                 ... pos = 0.875 	neg = 0.125
+12. Joining the cast for                ... pos = 0.625 	neg = 0.0  
+13. It is hard to compar                ... pos = 0.25  	neg = 0.875
+14. Scream 2 has the sam                ... pos = 0.125 	neg = 0.0  
+15. The only problem is                 ... pos = 0.375 	neg = 0.5  
+16. When Scream came out                ... pos = 0.875 	neg = 0.875
+17. With scream 2, the s                ... pos = 0.375 	neg = 0.5  
+18. Scream 2 is definite                ... pos = 1.125 	neg = 0.125
+19. (Although Screenwrit                ... pos = 0.375 	neg = 0.125
+20. ) A word to the wise                ... pos = 0.25  	neg = 0.125
+21. This is a very viole                ... pos = 0.75  	neg = 0.125
+22. Those that saw the f                ... pos = 0.25  	neg = 0.0  
+23. Word to the wise #2                 ... pos = 0.125 	neg = 0.0  
+24. Unlike the slasher f                ... pos = 0.25  	neg = 0.25 
+25. Trust me, if you hav                ... pos = 0.375 	neg = 0.375
+26. It is great to see T                ... pos = 0.0   	neg = 0.125
+27. It proves that TV st                ... pos = 0.0   	neg = 0.0  
+28. Although, they owe a                ... pos = 0.125 	neg = 0.0  
+29. I guess if you put a                ... pos = 1.125 	neg = 0.0  
+30. Too bad Hollywood do                ... pos = 0.0   	neg = 1.125
+31. One of the best horr                ... pos = 0.875 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2124-488 is Positive         ... pos = 13.75 	neg = 9.25 
+Overall score of document
+Total Pos = 13.75
+Total Neg = 9.25
+---------------------------------------------------------------------------

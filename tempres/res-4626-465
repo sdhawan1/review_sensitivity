@@ -1,0 +1,30 @@
+0. NATURAL BORN KILLERS                 ... pos = 0.875 	neg = 0.125
+1. Perhaps I'm just bec                 ... pos = 0.0   	neg = 0.875
+2. I walked out of PLAT                 ... pos = 0.25  	neg = 0.25 
+3. Here, perhaps, he is                 ... pos = 1.0   	neg = 1.25 
+4. Stone's films take a                 ... pos = 0.625 	neg = 0    
+5. Thus, JFK asserted a                 ... pos = 0.25  	neg = 0.25 
+6. BORN ON THE FOURTH O                 ... pos = 0.125 	neg = 0.0  
+7. NATURAL BORN KILLERS                 ... pos = 1.0   	neg = 2.0  
+8. Woody Harrelson is q                 ... pos = 0.75  	neg = 0.875
+9. I liked Harrelson pa                 ... pos = 0.125 	neg = 0.0  
+10. He seems deeply rela                ... pos = 0.875 	neg = 0.125
+11. Against this, Juliet                ... pos = 0.375 	neg = 0.625
+12. But I did not think                 ... pos = 1.375 	neg = 1.0  
+13. The scenes with Rodn                ... pos = 0.875 	neg = 0.0  
+14. In fact, I think Dan                ... pos = 0.0   	neg = 0.0  
+15. (Dangerfield's chara                ... pos = 0.875 	neg = 0.375
+16. ) It is a parody of                 ... pos = 0.875 	neg = 0.5  
+17. There's a little too                ... pos = 0.25  	neg = 1.25 
+18. Robert Downey, Jr. i                ... pos = 0.0   	neg = 0.25 
+19. ) who makes the murd                ... pos = 0.0   	neg = 0.0  
+20. This film forms a na                ... pos = 0.5   	neg = 0.0  
+21. It is an attack on t                ... pos = 0.0   	neg = 0.125
+22. I don't think Stone                 ... pos = 0.125 	neg = 0.25 
+23. He'll have to think                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4626-465 is Positive         ... pos = 11.125 	neg = 10.125
+Overall score of document
+Total Pos = 11.125
+Total Neg = 10.125
+---------------------------------------------------------------------------

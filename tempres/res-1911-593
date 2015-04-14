@@ -1,0 +1,35 @@
+0. Cast: Ralph Fiennes                  ... pos = 0.0   	neg = 0.0  
+1. Directed and written                 ... pos = 0.75  	neg = 0.625
+2. I saw this movie in                  ... pos = 0.625 	neg = 0.0  
+3. "The English  Patien                 ... pos = 0.375 	neg = 1.778
+4. I did not enjoy "The                 ... pos = 0.625 	neg = 0.875
+5. This film follows th                 ... pos = 0.0   	neg = 0.0  
+6. It is an as-told-to                  ... pos = 0.25  	neg = 0.25 
+7. This was supposed to                 ... pos = 0.625 	neg = 0.25 
+8. In Hana,  we see a c                 ... pos = 0.0   	neg = 0.25 
+9. We hear  of Almasy's                 ... pos = 1.625 	neg = 0.125
+10. But then there is th                ... pos = 0.0   	neg = 0.125
+11. However, after  sort                ... pos = 1.375 	neg = 0.25 
+12. There is no prominen                ... pos = 0.875 	neg = 0.375
+13. Ralph Fiennes has th                ... pos = 1.125 	neg = 0.25 
+14. He speaks more like                 ... pos = 1.0   	neg = 0.0  
+15. By the time you see                 ... pos = 0.75  	neg = 0.5  
+16. The character is arr                ... pos = 1.5   	neg = 1.0  
+17. Scott Thomas is more                ... pos = 0.0   	neg = 0.375
+18. Her range rises a bi                ... pos = 0.375 	neg = 0    
+19. As she lays dying, s                ... pos = 0.375 	neg = 0.375
+20. Binoche won best  su                ... pos = 0.0   	neg = 0.125
+21. Play a game while wa                ... pos = 0.0   	neg = 0.0  
+22. "  It was not a grea                ... pos = 0.125 	neg = 0.125
+23. If we are going to f                ... pos = 0.375 	neg = 0.875
+24. He is understated an                ... pos = 0.625 	neg = 0.125
+25. Willem Dafoe's chara                ... pos = 1.125 	neg = 0.375
+26. At this point, who r                ... pos = 0.0   	neg = 0.0  
+27. I wanted to like "Th                ... pos = 0.125 	neg = 0.0  
+28. Personally, I think                 ... pos = 0.875 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-1911-593 is Positive         ... pos = 15.5  	neg = 9.653
+Overall score of document
+Total Pos = 15.5
+Total Neg = 9.653
+---------------------------------------------------------------------------

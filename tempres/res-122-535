@@ -1,0 +1,37 @@
+0. Unusually high expec                 ... pos = 0.25  	neg = 0.625
+1. They nearly succeede                 ... pos = 2.0   	neg = 0.0  
+2. I must admit, I am g                 ... pos = 1.0   	neg = 1.25 
+3. So it is entirely po                 ... pos = 0.75  	neg = 0.25 
+4. Loki (Matt Damon) an                 ... pos = 0.5   	neg = 0.125
+5. However, they have j                 ... pos = 0.375 	neg = 0.0  
+6. The catch is, if the                 ... pos = 0.375 	neg = 0.5  
+7. The universe's only                  ... pos = 0.0   	neg = 0.0  
+8. Bethany will be assi                 ... pos = 0.25  	neg = 0.125
+9. Working against them                 ... pos = 0.875 	neg = 0.0  
+10. If there is one thin                ... pos = 1.75  	neg = 0.375
+11. While "Dogma" certai                ... pos = 1.625 	neg = 0.5  
+12. The comic dialogue h                ... pos = 1.25  	neg = 0.125
+13. The cast here is rea                ... pos = 0.75  	neg = 0.125
+14. Ben Affleck and Matt                ... pos = 1.875 	neg = 0.375
+15. In fact, the only pe                ... pos = 0.0   	neg = 0.25 
+16. While normally a com                ... pos = 0.0   	neg = 0.125
+17. While the film has b                ... pos = 1.125 	neg = 1.125
+18. The problem with thi                ... pos = 0.25  	neg = 0.5  
+19. Smith seems more con                ... pos = 1.625 	neg = 0.625
+20. While the message is                ... pos = 1.0   	neg = 0.125
+21. "Dogma" runs far too                ... pos = 0.0   	neg = 0.625
+22. In fact, I found mys                ... pos = 0.5   	neg = 0.625
+23. Due to this and the                 ... pos = 1.5   	neg = 0.375
+24. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+25. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+26. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+27. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+28. See it if you've got                ... pos = 0.0   	neg = 0.25 
+29. * - One of the worst                ... pos = 0.0   	neg = 0.375
+30. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-535 is Positive          ... pos = 20.0  	neg = 10.5 
+Overall score of document
+Total Pos = 20.0
+Total Neg = 10.5
+---------------------------------------------------------------------------

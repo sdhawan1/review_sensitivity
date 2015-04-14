@@ -1,0 +1,31 @@
+0. Release Date: Decemb                 ... pos = 1.0   	neg = 0.625
+1. Even for one who's n                 ... pos = 0.75  	neg = 0.125
+2. Only the first sylla                 ... pos = 0.125 	neg = 0.25 
+3. And, being a classic                 ... pos = 1.125 	neg = 0.625
+4. The arts are filled                  ... pos = 0.625 	neg = 0    
+5. For the theater, the                 ... pos = 0.5   	neg = 0.125
+6. While it's almost a                  ... pos = 1.25  	neg = 0.0  
+7. Hopefully it's the l                 ... pos = 1.25  	neg = 0.125
+8. It's difficult to sa                 ... pos = 0.0   	neg = 0.375
+9. The bottom line on V                 ... pos = 0.0   	neg = 0.5  
+10. There's no question                 ... pos = 0.625 	neg = 0.875
+11. Instead, Joseph Stef                ... pos = 0.125 	neg = 0.375
+12. This may have been t                ... pos = 0.25  	neg = 0.25 
+13. The movie begins as                 ... pos = 0.0   	neg = 0.0  
+14. Loomis is deep in de                ... pos = 0.375 	neg = 1.0  
+15. Until that happens,                 ... pos = 0.125 	neg = 0.125
+16. Upon returning from                 ... pos = 0.75  	neg = 0.0  
+17. She immediately thin                ... pos = 0.0   	neg = 1.875
+18. The motel is run by                 ... pos = 0.75  	neg = 0.25 
+19. She disappears short                ... pos = 0.0   	neg = 0.25 
+20. (William Macy), and                 ... pos = 0.0   	neg = 0.0  
+21. The movie ought to r                ... pos = 1.125 	neg = 0.875
+22. Van Sant looks for c                ... pos = 0.625 	neg = 1.0  
+23. This isn't the sort                 ... pos = 0.25  	neg = 0.0  
+24. Best to see it at ch                ... pos = 0.5   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-6044-700 is Positive         ... pos = 12.125 	neg = 10.25
+Overall score of document
+Total Pos = 12.125
+Total Neg = 10.25
+---------------------------------------------------------------------------

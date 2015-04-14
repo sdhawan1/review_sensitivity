@@ -1,0 +1,41 @@
+0. The dilemma for all                  ... pos = 0.25  	neg = 0.125
+1. From Oz to Star Trek                 ... pos = 0.0   	neg = 0.0  
+2. But The Iron Giant i                 ... pos = 0.125 	neg = 0.375
+3. It opens with a mete                 ... pos = 0.0   	neg = 1.125
+4. Which is of course S                 ... pos = 0.125 	neg = 0.125
+5. It does. The year is                 ... pos = 0.0   	neg = 0.125
+6. The place is Rockwel                 ... pos = 0.0   	neg = 0.125
+7. And the boy is Hogar                 ... pos = 0.375 	neg = 1.125
+8. As luck would have i                 ... pos = 0.375 	neg = 0.125
+9. To complicate things                 ... pos = 0.5   	neg = 2.125
+10. Which yes is importa                ... pos = 0.875 	neg = 0.125
+11. But there are more i                ... pos = 0.25  	neg = 0.25 
+12. A lot.                              ... pos = 0.0   	neg = 0    
+13. And his food of choi                ... pos = 0.0   	neg = 0.125
+14. Meaning, in the Main                ... pos = 0.25  	neg = 0.25 
+15. Meaning Hogarth's gi                ... pos = 0.0   	neg = 0.125
+16. The robot did land i                ... pos = 0.25  	neg = 0.0  
+17. It's democracy vs. c                ... pos = 0.375 	neg = 0.0  
+18. And yes, soon enough                ... pos = 0.25  	neg = 0.25 
+19. Playing opposite Man                ... pos = 1.875 	neg = 1.25 
+20. It's all about body                 ... pos = 0.0   	neg = 0.625
+21. King Kong stuff.                    ... pos = 0.125 	neg = 0.25 
+22. And of course his mo                ... pos = 1.125 	neg = 0.125
+23. But of course that's                ... pos = 0.5   	neg = 0.25 
+24. The bigger question                 ... pos = 0.125 	neg = 0.125
+25. Mansley is the initi                ... pos = 0.0   	neg = 0.125
+26. Leaving the one who,                ... pos = 0.0   	neg = 0.0  
+27. As for how The Iron                 ... pos = 0.0   	neg = 0.0  
+28. It's pretty much the                ... pos = 0.375 	neg = 0.5  
+29. That context has a d                ... pos = 0.125 	neg = 0.375
+30. But The Iron Giant--                ... pos = 0.0   	neg = 0.75 
+31. And that use almost                 ... pos = 0.0   	neg = 1.625
+32. In addition, though                 ... pos = 1.0   	neg = 0.375
+33. All in all though, a                ... pos = 0.25  	neg = 0.125
+34. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1126-965 is Negative         ... pos = 9.5   	neg = 13.0 
+Overall score of document
+Total Pos = 9.5
+Total Neg = 13.0
+---------------------------------------------------------------------------

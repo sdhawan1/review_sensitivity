@@ -1,0 +1,31 @@
+0. WAG THE DOG is a sha                 ... pos = 0.25  	neg = 0.75 
+1. "  Like DR. STRANGEL                 ... pos = 0.25  	neg = 0.125
+2. Conrad Brean (Robert                 ... pos = 0.0   	neg = 0.5  
+3. Brean and White Hous                 ... pos = 0.375 	neg = 1.0  
+4. Motss enthusiastical                 ... pos = 1.0   	neg = 0.0  
+5. One of WAG's points                  ... pos = 0.5   	neg = 0.5  
+6. Therefore, Brean and                 ... pos = 0.375 	neg = 0.0  
+7. The war must have ha                 ... pos = 0.875 	neg = 0.0  
+8. ". WAG's most obviou                 ... pos = 0.0   	neg = 0.125
+9. When the movie was r                 ... pos = 0.0   	neg = 0.375
+10. However, Hilary Henk                ... pos = 0.125 	neg = 0.0  
+11. In many ways, WAG pr                ... pos = 0.125 	neg = 0.125
+12. Another satire, Mich                ... pos = 0.5   	neg = 0.25 
+13. In that film, the Wh                ... pos = 0.25  	neg = 0.5  
+14. The message is the s                ... pos = 0.0   	neg = 0.125
+15. WAG is the better fi                ... pos = 1.0   	neg = 0.875
+16. The relevance of WAG                ... pos = 0.375 	neg = 0.0  
+17. Daniel Boorstin coin                ... pos = 0.25  	neg = 0.125
+18. "  With today's tech                ... pos = 0.125 	neg = 0.875
+19. Brean convinces Mots                ... pos = 0.875 	neg = 0.125
+20. Seeing may be believ                ... pos = 0.25  	neg = 0.125
+21. As we are swept down                ... pos = 0.864 	neg = 0.0  
+22. And, if documentary                 ... pos = 0.0   	neg = 0.75 
+23. Brean adds a blues s                ... pos = 0.75  	neg = 0    
+24. Even history is susp                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-4231-1265 is Positive        ... pos = 9.114 	neg = 7.875
+Overall score of document
+Total Pos = 9.114
+Total Neg = 7.875
+---------------------------------------------------------------------------

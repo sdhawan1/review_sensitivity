@@ -1,0 +1,36 @@
+0. Starring Samuel L. J                 ... pos = 0.0   	neg = 0.0  
+1. Walsh. "The Negotiat                 ... pos = 0.375 	neg = 0.125
+2. It is intelligent an                 ... pos = 0.375 	neg = 0.125
+3. The movie is about a                 ... pos = 0.25  	neg = 0.25 
+4. He thinks he can fin                 ... pos = 1.25  	neg = 0.0  
+5. Walsh) and ends up t                 ... pos = 0.0   	neg = 0.0  
+6. Being a hotage negot                 ... pos = 0.375 	neg = 0.25 
+7. Much of the remainde                 ... pos = 0.125 	neg = 0.5  
+8. Now, from my descrip                 ... pos = 0.0   	neg = 0.0  
+9. It's really so much                  ... pos = 0.125 	neg = 0.0  
+10. For one thing, there                ... pos = 0.875 	neg = 0.0  
+11. Jackson hits just th                ... pos = 0.125 	neg = 0.0  
+12. Spacey plays an impe                ... pos = 0.25  	neg = 1.0  
+13. Without a good scrip                ... pos = 0.75  	neg = 0.375
+14. That is not the case                ... pos = 0.0   	neg = 0.125
+15. The dialogue comes o                ... pos = 0.25  	neg = 1.125
+16. For example, there i                ... pos = 0.25  	neg = 0.125
+17. The following exchan                ... pos = 0.0   	neg = 0.5  
+18. Sure, it's a small t                ... pos = 1.625 	neg = 0.0  
+19. The ending is a bit                 ... pos = 0.0   	neg = 0.125
+20. I won't spoil it, bu                ... pos = 0.25  	neg = 0.625
+21. The revelations that                ... pos = 0.0   	neg = 0.375
+22. It's as if the write                ... pos = 0.0   	neg = 0.0  
+23. The real surprise of                ... pos = 0.0   	neg = 0.125
+24. Walsh, in a complex                 ... pos = 0.375 	neg = 0.75 
+25. He gives such a subt                ... pos = 1.0   	neg = 0.0  
+26. He is able to say wi                ... pos = 0.125 	neg = 0.125
+27. Sadly, this is his l                ... pos = 0.0   	neg = 0.75 
+28. He died last year of                ... pos = 0.25  	neg = 0.0  
+29. He was a profound ta                ... pos = 0.75  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6278-1280 is Positive        ... pos = 9.75  	neg = 7.875
+Overall score of document
+Total Pos = 9.75
+Total Neg = 7.875
+---------------------------------------------------------------------------

@@ -1,0 +1,52 @@
+0. Give Warner Brothers                 ... pos = 0.375 	neg = 0.0  
+1. With Joel Schumacher                 ... pos = 0.75  	neg = 0.25 
+2. Yes, yes, everybody                  ... pos = 0.875 	neg = 0.375
+3. Weren't the movies a                 ... pos = 0.625 	neg = 0.5  
+4. And hasn't it become                 ... pos = 0.625 	neg = 0.5  
+5. Well, maybe.                         ... pos = 0.0   	neg = 0.0  
+6. While Tim Burton has                 ... pos = 1.5   	neg = 0.5  
+7. Studio execs must ha                 ... pos = 0.875 	neg = 0.75 
+8. Michael Keaton and J                 ... pos = 0.0   	neg = 0.0  
+9. When sequel time rol                 ... pos = 2.0   	neg = 0.0  
+10. Mind you, Batman put                ... pos = 0.125 	neg = 0.0  
+11. Twice.                              ... pos = 0     	neg = 0.0  
+12. The second movie was                ... pos = 0.875 	neg = 0.25 
+13. But I'd love it if s                ... pos = 1.0   	neg = 0.375
+14. 'Biff, pow,' Batman.                ... pos = 0.0   	neg = 0.0  
+15. Schumacher directs t                ... pos = 0.0   	neg = 0.0  
+16. When individual body                ... pos = 1.125 	neg = 0.375
+17. ' I wouldn't be surp                ... pos = 0.125 	neg = 0.125
+18. It's not all bad.                   ... pos = 0.0   	neg = 0.875
+19. The story, for insta                ... pos = 0.0   	neg = 0.125
+20. From the first intro                ... pos = 0.125 	neg = 0.125
+21. We get to see Robin,                ... pos = 0.875 	neg = 0.125
+22. At last, something m                ... pos = 0.125 	neg = 0.125
+23. And who would have e                ... pos = 0.0   	neg = 0.5  
+24. More than just windo                ... pos = 0.625 	neg = 0.0  
+25. In fact, this movie                 ... pos = 0.375 	neg = 0.0  
+26. It's a little trite,                ... pos = 1.0   	neg = 0.75 
+27. Chris O'Donnell is w                ... pos = 0.125 	neg = 0.125
+28. Maybe the reason we                 ... pos = 1.0   	neg = 0.375
+29. Kilmer is better at                 ... pos = 0.25  	neg = 0.375
+30. And if Jim Carrey's                 ... pos = 0.75  	neg = 0.0  
+31. For the first time,                 ... pos = 1.5   	neg = 0.125
+32. The visual design is                ... pos = 0.0   	neg = 0.125
+33. The costumes are ter                ... pos = 1.125 	neg = 0.125
+34. But the new Gotham C                ... pos = 0.5   	neg = 0.25 
+35. And the special effe                ... pos = 0.125 	neg = 0.5  
+36. And while the sound                 ... pos = 1.0   	neg = 0.25 
+37. But there's nothing                 ... pos = 0.5   	neg = 0.25 
+38. No surprises, no mys                ... pos = 0.5   	neg = 0.75 
+39. The best that can be                ... pos = 0.625 	neg = 0.25 
+40. In contrast, Burton'                ... pos = 0.375 	neg = 0.25 
+41. When Burton was dire                ... pos = 0.5   	neg = 0.625
+42. But with Schumacher                 ... pos = 0.0   	neg = 0.25 
+43. It's hard to pinpoin                ... pos = 0.375 	neg = 0.75 
+44. He may be packing th                ... pos = 0.0   	neg = 0.375
+45. ) I know the magic i                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2752-436 is Positive         ... pos = 23.25 	neg = 12.5 
+Overall score of document
+Total Pos = 23.25
+Total Neg = 12.5
+---------------------------------------------------------------------------

@@ -1,0 +1,55 @@
+0. Directed by Curtis H                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Steve                  ... pos = 0.0   	neg = 0.0  
+2. Starring Michael Dou                 ... pos = 0.0   	neg = 0.0  
+3. Rated AA.                            ... pos = 0.125 	neg = 0.0  
+4. Reviewed on March 19                 ... pos = 0.0   	neg = 0.0  
+5. A quiet, understated                 ... pos = 1.75  	neg = 0.25 
+6. Slow-moving but neve                 ... pos = 0.25  	neg = 0.375
+7. Grady Tripp (Michael                 ... pos = 0.0   	neg = 0.125
+8. Most people think Tr                 ... pos = 0.875 	neg = 0.75 
+9. Tripp, whose wife ha                 ... pos = 0.375 	neg = 0.125
+10. Sara's husband Walte                ... pos = 0.0   	neg = 0.125
+11. Tripp's most  promis                ... pos = 0.25  	neg = 1.5  
+12. The lone exception i                ... pos = 0.375 	neg = 0.375
+13. The movie takes plac                ... pos = 0.0   	neg = 0.0  
+14. The Gaskells host a                 ... pos = 0.0   	neg = 0.75 
+15. Going outside for a                 ... pos = 0.125 	neg = 0.25 
+16. The two  sneak upsta                ... pos = 0.0   	neg = 0.375
+17. When Grady is attack                ... pos = 0.0   	neg = 0.75 
+18. At a  loss, Tripp en                ... pos = 0.0   	neg = 0.25 
+19. All this is just set                ... pos = 0.125 	neg = 0.125
+20. He finds himself hav                ... pos = 1.0   	neg = 1.375
+21. James isn't  just a                 ... pos = 0.875 	neg = 0.5  
+22. "Wonder Boys" is a s                ... pos = 1.5   	neg = 0.125
+23. Written by Steve Klo                ... pos = 1.25  	neg = 0.75 
+24. For example, both Te                ... pos = 0.875 	neg = 0.125
+25. The event is just a                 ... pos = 0.875 	neg = 0.125
+26. Nothing in "Wonder B                ... pos = 0.875 	neg = 0.25 
+27. But perhaps this is                 ... pos = 0.0   	neg = 0.5  
+28. "Wonder Boys" is a m                ... pos = 0.875 	neg = 0.125
+29. Grady  has spent the                ... pos = 0.375 	neg = 0.0  
+30. Here, then, is the s                ... pos = 0.375 	neg = 0.125
+31. Nowhere is this them                ... pos = 0.25  	neg = 0.375
+32. Even  Hannah, Grady'                ... pos = 1.0   	neg = 0.75 
+33. On the other hand, H                ... pos = 0.875 	neg = 0.125
+34. The manuscript's  fi                ... pos = 0.875 	neg = 0.125
+35. The movie's dialogue                ... pos = 0.625 	neg = 0.125
+36. Surprisingly for a m                ... pos = 0.125 	neg = 0.0  
+37. But the screwball el                ... pos = 0.75  	neg = 0.0  
+38. As a result, "Wonder                ... pos = 1.125 	neg = 0.125
+39. The acting is unifor                ... pos = 1.125 	neg = 0.125
+40. Douglas finds just t                ... pos = 0.125 	neg = 0.625
+41. Maguire, always a qu                ... pos = 0.375 	neg = 0.25 
+42. Amongst the supporti                ... pos = 0.75  	neg = 0.125
+43. For a movie about ch                ... pos = 0.0   	neg = 0.0  
+44. It is  smart and wel                ... pos = 0.75  	neg = 0.125
+45. Although its sheer p                ... pos = 0.0   	neg = 0.125
+46. This may be one of t                ... pos = 0.125 	neg = 0.125
+47. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+48. Archived at http://w                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4777-1444 is Positive        ... pos = 22.0  	neg = 13.25
+Overall score of document
+Total Pos = 22.0
+Total Neg = 13.25
+---------------------------------------------------------------------------

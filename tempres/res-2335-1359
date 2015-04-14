@@ -1,0 +1,49 @@
+0. When we last saw Ell                 ... pos = 0.0   	neg = 0.125
+1. And she took the ali                 ... pos = 0.0   	neg = 0    
+2. This was not a good                  ... pos = 0.75  	neg = 0.125
+3. Director David Finch                 ... pos = 0.0   	neg = 0.25 
+4. At that point, wrapp                 ... pos = 0.75  	neg = 0.125
+5. But, much like the F                 ... pos = 1.5   	neg = 0.375
+6. Many Alien graphic n                 ... pos = 0.625 	neg = 0.125
+7. Scripts with and wit                 ... pos = 0.0   	neg = 0.125
+8. You sorta have to lo                 ... pos = 0.0   	neg = 0.375
+9. The movie opens 200                  ... pos = 0.0   	neg = 0.75 
+10. On a special lab-spa                ... pos = 0.0   	neg = 0.625
+11. Using a blood sample                ... pos = 0.0   	neg = 0.0  
+12. This is fast-and-loo                ... pos = 0.0   	neg = 0.375
+13. The scientists get t                ... pos = 0.0   	neg = 0.0  
+14. The Ripley clone is                 ... pos = 0.125 	neg = 0.25 
+15. With some alien DNA                 ... pos = 1.0   	neg = 0.375
+16. It is probably forme                ... pos = 0.375 	neg = 0.125
+17. She maintains her al                ... pos = 0.0   	neg = 0.25 
+18. A cargo of human vic                ... pos = 0.0   	neg = 0.25 
+19. These colorful chara                ... pos = 1.625 	neg = 0.0  
+20. Lots of military-typ                ... pos = 0.25  	neg = 0.25 
+21. This leaves Ripley,                 ... pos = 0.5   	neg = 0.75 
+22. Additional urgency i                ... pos = 0.25  	neg = 0.25 
+23. This last detail is                 ... pos = 0.125 	neg = 0.375
+24. Nigel Phelps' produc                ... pos = 0.75  	neg = 1.125
+25. The casting is quirk                ... pos = 0.0   	neg = 0.125
+26. Winona Ryder seems o                ... pos = 1.875 	neg = 0.125
+27. Director Jean-Pierre                ... pos = 0.875 	neg = 1.375
+28. Dan Hedaya does a go                ... pos = 0.75  	neg = 0.0  
+29. He runs a tight ship                ... pos = 0.0   	neg = 0.0  
+30. B-movie ghoul Brad D                ... pos = 0.125 	neg = 0.25 
+31. Successful sequels n                ... pos = 1.0   	neg = 0.125
+32. We get Sigourney Wea                ... pos = 0.0   	neg = 0.0  
+33. The pirates are cert                ... pos = 0.5   	neg = 0    
+34. Much of the action i                ... pos = 0.125 	neg = 0.125
+35. There's some new stu                ... pos = 0.75  	neg = 0.5  
+36. Other alien appearan                ... pos = 0.75  	neg = 1.0  
+37. Individual evaluatio                ... pos = 0.25  	neg = 0.0  
+38. Those hungry for ano                ... pos = 0.875 	neg = 0.25 
+39. Skeptics worried abo                ... pos = 0.5   	neg = 0.125
+40. Newcomers may be los                ... pos = 0.0   	neg = 0.125
+41. Alien3 has had the i                ... pos = 0.0   	neg = 0.0  
+42. The franchise may re                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2335-1359 is Positive        ... pos = 17.0  	neg = 11.875
+Overall score of document
+Total Pos = 17.0
+Total Neg = 11.875
+---------------------------------------------------------------------------

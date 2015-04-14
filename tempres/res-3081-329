@@ -1,0 +1,23 @@
+0. Hot on the heels of                  ... pos = 1.0   	neg = 1.625
+1. Dr. Susan McAlester                  ... pos = 0.5   	neg = 0.25 
+2. She works at the hug                 ... pos = 0.0   	neg = 0.25 
+3. One day when Carter                  ... pos = 0.0   	neg = 0.5  
+4. This is met with sho                 ... pos = 0.375 	neg = 0.375
+5. A storm blows out al                 ... pos = 0.0   	neg = 0.875
+6. Susan is up to foul                  ... pos = 0.0   	neg = 0.25 
+7. The sharks begin to                  ... pos = 0.25  	neg = 0.125
+8. LL Cool J appears as                 ... pos = 1.25  	neg = 0.0  
+9. It proves that there                 ... pos = 0.0   	neg = 0.125
+10. Finally there is som                ... pos = 0.0   	neg = 1.0  
+11. Burrows also makes a                ... pos = 0.0   	neg = 0.0  
+12. Since there are no b                ... pos = 0.25  	neg = 0.375
+13. ) where it's predict                ... pos = 0.25  	neg = 0.0  
+14. People that liked La                ... pos = 0.375 	neg = 0.25 
+15. On the other hand, t                ... pos = 0.125 	neg = 1.25 
+16. In other words, if y                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3081-329 is Negative         ... pos = 4.375 	neg = 7.375
+Overall score of document
+Total Pos = 4.375
+Total Neg = 7.375
+---------------------------------------------------------------------------

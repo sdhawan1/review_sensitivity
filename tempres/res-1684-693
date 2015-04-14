@@ -1,0 +1,46 @@
+0. Starring-Tom Cruise,                 ... pos = 1.5   	neg = 0.125
+1. Like a thought-provo                 ... pos = 0.0   	neg = 0.75 
+2. =93Eyes Wide Shut=94                 ... pos = 2.375 	neg = 0.125
+3. Even the most simpli                 ... pos = 0.125 	neg = 0.125
+4. To me, that is one o                 ... pos = 0.625 	neg = 0.125
+5. =93The Shining=94 is                 ... pos = 1.75  	neg = 0.25 
+6. =93Eyes Wide Shut=94                 ... pos = 0.75  	neg = 0.25 
+7. Upon its initial rel                 ... pos = 0.5   	neg = 0.0  
+8. Some more naive view                 ... pos = 1.25  	neg = 0.0  
+9. In turn, the somber,                 ... pos = 0.125 	neg = 1.0  
+10. Others found the exp                ... pos = 0.75  	neg = 0.75 
+11. Personally, I will o                ... pos = 1.375 	neg = 0.0  
+12. It may not warrant a                ... pos = 1.875 	neg = 0.125
+13. Cruise and Kidman pl                ... pos = 0.75  	neg = 0.125
+14. We join Bill and Ali                ... pos = 0.625 	neg = 0.0  
+15. We watch curiously a                ... pos = 2.0   	neg = 0.0  
+16. Bill, meanwhile, is                 ... pos = 0.75  	neg = 0.375
+17. More than a trifle v                ... pos = 0.25  	neg = 0.125
+18. All of this subtle s                ... pos = 1.25  	neg = 0.25 
+19. Bill, confused, begi                ... pos = 0.125 	neg = 0.0  
+20. These events unspool                ... pos = 1.875 	neg = 0.125
+21. Bill, a physician, e                ... pos = 0.0   	neg = 0.0  
+22. After a brief stop a                ... pos = 0.5   	neg = 0.375
+23. I imagine you=92re a                ... pos = 0.0   	neg = 0.5  
+24. Yes, it=92s the noto                ... pos = 0.625 	neg = 0.0  
+25. To escape the wrath                 ... pos = 0.625 	neg = 0.5  
+26. Some critics, like R                ... pos = 0.0   	neg = 0.25 
+27. These critics do mak                ... pos = 0.125 	neg = 0.0  
+28. But I want to skip e                ... pos = 0.25  	neg = 0.125
+29. Two of the most capt                ... pos = 2.125 	neg = 0.0  
+30. The first is the con                ... pos = 0.125 	neg = 0.125
+31. Every word, every sy                ... pos = 1.25  	neg = 0.25 
+32. The second moment is                ... pos = 0.625 	neg = 0.25 
+33. Although alone it ma                ... pos = 0.0   	neg = 0.125
+34. =93Eyes Wide Shut=94                ... pos = 0.75  	neg = 0.125
+35. No one other than Cr                ... pos = 1.125 	neg = 0.375
+36. At times, our emotio                ... pos = 1.75  	neg = 0.25 
+37. =93EWS=94=  is also                 ... pos = 0.5   	neg = 0.25 
+38. What I=92m saying is                ... pos = 2.75  	neg = 0.25 
+39. But, a= s he places                 ... pos = 0.875 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-1684-693 is Positive         ... pos = 34.625 	neg = 9.0  
+Overall score of document
+Total Pos = 34.625
+Total Neg = 9.0
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. What happens when a                  ... pos = 0.375 	neg = 0.0  
+1. This is the simple b                 ... pos = 0.375 	neg = 0.125
+2. Although nicely writ                 ... pos = 1.5   	neg = 0.0  
+3. `A Civil Action' is                  ... pos = 1.0   	neg = 0.125
+4. The film introduces                  ... pos = 0.25  	neg = 0.0  
+5. He has found a case                  ... pos = 0.25  	neg = 0.375
+6. The water may have c                 ... pos = 0.875 	neg = 0.125
+7. Jan, after much deli                 ... pos = 0.625 	neg = 0.0  
+8. So he and his law pa                 ... pos = 0.875 	neg = 0.625
+9. But the corporations                 ... pos = 0.5   	neg = 0.0  
+10. Jerome Facher(Robert                ... pos = 0.0   	neg = 0.375
+11. As they get further                 ... pos = 1.125 	neg = 0.0  
+12. They even begin to d                ... pos = 0.375 	neg = 0.0  
+13. The film runs brilli                ... pos = 0.875 	neg = 0.625
+14. The end happens far                 ... pos = 0.125 	neg = 0.25 
+15. If they had added fi                ... pos = 0.125 	neg = 0.125
+16. That being said, the                ... pos = 0.25  	neg = 0.125
+17. Travolta is simply m                ... pos = 1.25  	neg = 1.25 
+18. All in all the film                 ... pos = 0.25  	neg = 0.125
+19. One of the top ten m                ... pos = 0.0   	neg = 0.0  
+20. My Movie Review Arch                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4345-1529 is Positive        ... pos = 11.0  	neg = 4.25 
+Overall score of document
+Total Pos = 11.0
+Total Neg = 4.25
+---------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+0. Adam Sandler is the                  ... pos = 0.0   	neg = 0.125
+1. After leaving Saturd                 ... pos = 0.0   	neg = 0.0  
+2. Such movies as the e                 ... pos = 1.375 	neg = 0.0  
+3. In 1998, Sandler sta                 ... pos = 0.0   	neg = 0.25 
+4. Now, riding on the s                 ... pos = 0.25  	neg = 0.375
+5. Sandler plays 31-yea                 ... pos = 0.0   	neg = 0.0  
+6. He lives with his ma                 ... pos = 0.0   	neg = 0.5  
+7. But, as the coach (H                 ... pos = 0.0   	neg = 0.0  
+8. When Bobby concentra                 ... pos = 0.0   	neg = 2.125
+9. Think Forrest Gump o                 ... pos = 0     	neg = 0.0  
+10. The Waterboy, direct                ... pos = 0.375 	neg = 1.125
+11. It will probably be                 ... pos = 0.625 	neg = 0.5  
+12. Aside from Bates bei                ... pos = 1.125 	neg = 0.125
+13. I also liked the fac                ... pos = 1.125 	neg = 0.125
+14. Fairuza Bulk is also                ... pos = 0.0   	neg = 0.125
+15. She offers so much s                ... pos = 1.0   	neg = 0.125
+16. The DVD of Waterboy                 ... pos = 0.0   	neg = 0.125
+17. The soundtrack is lo                ... pos = 0.25  	neg = 1.028
+18. For the Sandler fan,                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3574-1561 is Negative        ... pos = 6.25  	neg = 6.778
+Overall score of document
+Total Pos = 6.25
+Total Neg = 6.778
+---------------------------------------------------------------------------

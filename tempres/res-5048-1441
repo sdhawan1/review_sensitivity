@@ -1,0 +1,46 @@
+0. Now that X-Files has                 ... pos = 0.875 	neg = 0.125
+1. Conveniently, I was                  ... pos = 0.125 	neg = 0.25 
+2. Sadly, that particul                 ... pos = 0.125 	neg = 0.875
+3. Sadly, too, the para                 ... pos = 0.5   	neg = 1.125
+4. Comparisons between                  ... pos = 1.125 	neg = 0.125
+5. Both feature Gene Ha                 ... pos = 0.125 	neg = 0.0  
+6. The new movie pays h                 ... pos = 0.875 	neg = 0.0  
+7. But the older film m                 ... pos = 0.25  	neg = 0.0  
+8. There's a sense of d                 ... pos = 0.125 	neg = 0    
+9. It was released arou                 ... pos = 0.0   	neg = 0.125
+10. This new film has pl                ... pos = 0.625 	neg = 1.0  
+11. It's neat eye candy,                ... pos = 0.5   	neg = 1.375
+12. One almost thinks th                ... pos = 0.0   	neg = 0.125
+13. In "The Conversation                ... pos = 0.0   	neg = 0.0  
+14. There's also a final                ... pos = 0.875 	neg = 0.125
+15. Will Smith is not in                ... pos = 0.125 	neg = 0.125
+16. I suppose that if fr                ... pos = 0.375 	neg = 0.5  
+17. Feelings of grand co                ... pos = 0.375 	neg = 0.0  
+18. The bad guys are a r                ... pos = 0.75  	neg = 0.875
+19. On the whole, the NS                ... pos = 0.25  	neg = 2.75 
+20. The apparatus, in th                ... pos = 0.25  	neg = 0.75 
+21. Quite clearly, we're                ... pos = 0.25  	neg = 0.25 
+22. I think there's one                 ... pos = 0.25  	neg = 0.25 
+23. Well, maybe, but tha                ... pos = 0.0   	neg = 0.5  
+24. At least in the Wim                 ... pos = 0.0   	neg = 0.125
+25. All the computer scr                ... pos = 0.125 	neg = 0.125
+26. In "Enemy", the film                ... pos = 1.125 	neg = 0.125
+27. The implied attracti                ... pos = 0.875 	neg = 1.25 
+28. A few random notes,                 ... pos = 0.0   	neg = 0.0  
+29. I find it interestin                ... pos = 0.0   	neg = 0.125
+30. Certainly, a Scud is                ... pos = 0.5   	neg = 0.125
+31. Maybe they've been a                ... pos = 0.125 	neg = 0.125
+32. I only offer that as                ... pos = 0.0   	neg = 0.625
+33. As someone who works                ... pos = 0.125 	neg = 0.5  
+34. Surely, the NSA must                ... pos = 1.375 	neg = 0.0  
+35. Much of the surveill                ... pos = 0.625 	neg = 0.0  
+36. One may note that mu                ... pos = 1.5   	neg = 0.5  
+37. Little of that foota                ... pos = 0.0   	neg = 0.375
+38. Yes, the people who                 ... pos = 0.625 	neg = 0.125
+39. Well, maybe that's w                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5048-1441 is Positive        ... pos = 15.75 	neg = 15.375
+Overall score of document
+Total Pos = 15.75
+Total Neg = 15.375
+---------------------------------------------------------------------------

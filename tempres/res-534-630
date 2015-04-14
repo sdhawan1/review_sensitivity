@@ -1,0 +1,30 @@
+0. _The Thin Red Line_                  ... pos = 0.125 	neg = 0.125
+1. It has an all-star c                 ... pos = 0.0   	neg = 0.0  
+2. The film+s strengths                 ... pos = 1.625 	neg = 0.25 
+3. It+s weakness is an                  ... pos = 0.0   	neg = 0.25 
+4. If I have been slow                  ... pos = 0.0   	neg = 0.125
+5. Now that I+ve seen i                 ... pos = 0.25  	neg = 0.125
+6. Usually, that would                  ... pos = 0.0   	neg = 0.125
+7. Not here.                            ... pos = 0.0   	neg = 0.0  
+8. I would want to see                  ... pos = 0.0   	neg = 0.125
+9. "  It seems to be ve                 ... pos = 1.5   	neg = 0.5  
+10. But it+s not fair fo                ... pos = 0.375 	neg = 0.25 
+11. It+s not fair for me                ... pos = 0.0   	neg = 0.0  
+12. He may have made it                 ... pos = 0.125 	neg = 0.5  
+13. (Okay, I was bored a                ... pos = 0.5   	neg = 0.5  
+14. The film isn+t overt                ... pos = 1.25  	neg = 0.125
+15. It+s more concerned                 ... pos = 0.375 	neg = 0    
+16. Of man in a tribal s                ... pos = 0.75  	neg = 0.0  
+17. There+s one phenomen                ... pos = 0.125 	neg = 0.0  
+18. There are many of th                ... pos = 0.25  	neg = 0.0  
+19. The only thing that                 ... pos = 0.0   	neg = 0.25 
+20. But it+s not that th                ... pos = 0.0   	neg = 0.0  
+21. The story takes on m                ... pos = 1.0   	neg = 0.125
+22. It+s not conventiona                ... pos = 0.375 	neg = 0.0  
+23. I could only hope th                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-534-630 is Positive          ... pos = 9.125 	neg = 3.375
+Overall score of document
+Total Pos = 9.125
+Total Neg = 3.375
+---------------------------------------------------------------------------

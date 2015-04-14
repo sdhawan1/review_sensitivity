@@ -1,0 +1,28 @@
+0. Rating: * (out of fo                 ... pos = 1.125 	neg = 0.25 
+1. If only her name was                 ... pos = 0.0   	neg = 1.125
+2. " What a shame it is                 ... pos = 1.0   	neg = 1.25 
+3. OK, maybe "The Astro                 ... pos = 0.875 	neg = 0.0  
+4. Predictably, he and                  ... pos = 0.75  	neg = 1.375
+5. " Theron's "Advocate                 ... pos = 1.75  	neg = 0.0  
+6. "Astronaut" provides                 ... pos = 0.25  	neg = 0.0  
+7. Last year's equally                  ... pos = 0.5   	neg = 0.125
+8. "The Astronaut's Wif                 ... pos = 0.25  	neg = 0.875
+9. Here's a hint: It in                 ... pos = 0.125 	neg = 0.25 
+10. " Draw your own conc                ... pos = 0.0   	neg = 0    
+11. Director/writer Rand                ... pos = 0.625 	neg = 0.0  
+12. " cinematographer Al                ... pos = 0.0   	neg = 0.75 
+13. This bodes horribly                 ... pos = 1.375 	neg = 0.375
+14. His hyper-erratic be                ... pos = 0.25  	neg = 0.125
+15. Instead, he adds to                 ... pos = 0.625 	neg = 0.0  
+16. Theron and Depp are                 ... pos = 0.625 	neg = 0.375
+17. " Undeserving of suc                ... pos = 0.75  	neg = 1.0  
+18. In space, no one can                ... pos = 0.0   	neg = 0.25 
+19. But in a movie theat                ... pos = 0.0   	neg = 0.0  
+20. Š 1999 Jamie Peck E                ... pos = 0.0   	neg = 0.125
+21. " -Roger Ebert on "C                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1295-1031 is Positive        ... pos = 10.875 	neg = 8.25 
+Overall score of document
+Total Pos = 10.875
+Total Neg = 8.25
+---------------------------------------------------------------------------

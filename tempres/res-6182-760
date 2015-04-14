@@ -1,0 +1,35 @@
+0. Director:  Anand Tuc                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution: Oct                 ... pos = 0.5   	neg = 0.125
+2. As a child, Hilary d                 ... pos = 0.0   	neg = 0.125
+3. The girls love each                  ... pos = 1.25  	neg = 0.0  
+4. So, she quickly mast                 ... pos = 0.25  	neg = 0.125
+5. Soon, Jackie is the                  ... pos = 0.0   	neg = 0.125
+6. Inevitably, the girl                 ... pos = 0.125 	neg = 0.25 
+7. From that point, the                 ... pos = 0.0   	neg = 0.0  
+8. We first see Hilary'                 ... pos = 0.75  	neg = 0.25 
+9. The last third of th                 ... pos = 1.0   	neg = 0.125
+10. Hilary and Jackie is                ... pos = 0.75  	neg = 0.125
+11. Not since The Truman                ... pos = 2.5   	neg = 0.375
+12. But it's not just an                ... pos = 2.875 	neg = 0.0  
+13. The first element th                ... pos = 1.0   	neg = 0.125
+14. The film was directe                ... pos = 0.875 	neg = 0.375
+15. Along with David Joh                ... pos = 0.875 	neg = 0.0  
+16. The colors are vibra                ... pos = 1.75  	neg = 0.375
+17. Also notable are the                ... pos = 1.0   	neg = 0.0  
+18. Of course, much of t                ... pos = 0.125 	neg = 0.0  
+19. Here is a woman who                 ... pos = 0.125 	neg = 0.125
+20. Her first starring r                ... pos = 1.25  	neg = 0.0  
+21. I don't know if Wats                ... pos = 0.0   	neg = 0.125
+22. But what I really ad                ... pos = 1.5   	neg = 0.125
+23. I got lost in her pe                ... pos = 0.0   	neg = 0.125
+24. Rachel Griffiths sho                ... pos = 0.5   	neg = 0.0  
+25. The film is based on                ... pos = 1.0   	neg = 0.125
+26. I'm glad that screen                ... pos = 0.75  	neg = 0.125
+27. It's one of the most                ... pos = 0.0   	neg = 0.0  
+28. In a year in which s                ... pos = 1.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6182-760 is Positive         ... pos = 22.625 	neg = 3.25 
+Overall score of document
+Total Pos = 22.625
+Total Neg = 3.25
+---------------------------------------------------------------------------

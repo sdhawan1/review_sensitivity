@@ -1,0 +1,35 @@
+0. WHAT DREAMS MAY COME                 ... pos = 0.875 	neg = 0.75 
+1. The subject of the a                 ... pos = 1.125 	neg = 0.0  
+2. Still, I'm glad some                 ... pos = 0.125 	neg = 0.0  
+3. The screenplay intro                 ... pos = 1.5   	neg = 0.0  
+4. Chris finds himself                  ... pos = 0.875 	neg = 0.0  
+5. He is still able to                  ... pos = 1.0   	neg = 0.625
+6. This is a decent exp                 ... pos = 1.375 	neg = 0.125
+7. Since all the main c                 ... pos = 3.375 	neg = 0.25 
+8. We believe it's ther                 ... pos = 0.125 	neg = 0.0  
+9. While Chris acclimat                 ... pos = 0.625 	neg = 0.25 
+10. One of the film's su                ... pos = 1.625 	neg = 0.25 
+11. In any case, Annie e                ... pos = 0.0   	neg = 0.0  
+12. Unfortunately, that                 ... pos = 1.0   	neg = 1.375
+13. Chris, of course, wo                ... pos = 0.5   	neg = 0.5  
+14. The problem, however                ... pos = 1.0   	neg = 0.5  
+15. They are, of course,                ... pos = 0.625 	neg = 0.0  
+16. While they don't spe                ... pos = 0.125 	neg = 0.375
+17. For example, those i                ... pos = 1.625 	neg = 1.75 
+18. And I would be negle                ... pos = 0.625 	neg = 0.625
+19. But the film is stil                ... pos = 0.0   	neg = 0.125
+20. Any story about eter                ... pos = 1.0   	neg = 1.5  
+21. WHAT DREAMS MAY COME                ... pos = 0.5   	neg = 0.75 
+22. " one of them yells)                ... pos = 0.0   	neg = 0.0  
+23. The story mostly flo                ... pos = 0.75  	neg = 0.375
+24. It starts to get a l                ... pos = 1.0   	neg = 0.625
+25. Even if you find the                ... pos = 1.125 	neg = 1.125
+26. (By the way, the Osc                ... pos = 0.375 	neg = 0.0  
+27. ) In the end, it scr                ... pos = 1.125 	neg = 0.5  
+28. Still, when the grea                ... pos = 2.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5518-716 is Positive         ... pos = 26.875 	neg = 12.625
+Overall score of document
+Total Pos = 26.875
+Total Neg = 12.625
+---------------------------------------------------------------------------

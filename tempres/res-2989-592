@@ -1,0 +1,38 @@
+0. Every holiday season                 ... pos = 1.25  	neg = 0.25 
+1. The content will  be                 ... pos = 0.25  	neg = 0.125
+2. And the plot's predi                 ... pos = 0.5   	neg = 0.125
+3. Recently, director C                 ... pos = 0.0   	neg = 0.125
+4. So, as tradition may                 ... pos = 0.25  	neg = 0.375
+5. The unadvertised plo                 ... pos = 0.0   	neg = 0.25 
+6. The advertised plot                  ... pos = 0.125 	neg = 0.125
+7. And of course, just                  ... pos = 0.375 	neg = 0.0  
+8. Jackie (Susan Sarand                 ... pos = 0.0   	neg = 0.375
+9. They have 2 children                 ... pos = 0.375 	neg = 0.125
+10. Their lives seem to                 ... pos = 0.625 	neg = 0.375
+11. Devoted to  her work                ... pos = 0.5   	neg = 0.125
+12. That is where the mo                ... pos = 0     	neg = 0.125
+13. Stereotypically, the                ... pos = 0.25  	neg = 0.25 
+14. The movie becomes an                ... pos = 1.0   	neg = 0.0  
+15. But  then, just when                ... pos = 0.0   	neg = 0.0  
+16. (WARNING:  Partial P                ... pos = 0.875 	neg = 0.25 
+17. Jackie is terminally                ... pos = 0     	neg = 0.625
+18. Although this is the                ... pos = 0.0   	neg = 0.25 
+19. And so it that the l                ... pos = 0.75  	neg = 0.125
+20. When you put 3 talen                ... pos = 1.125 	neg = 0.125
+21. This is no exception                ... pos = 0.0   	neg = 0.375
+22. Sarandon gives her b                ... pos = 0.875 	neg = 0.0  
+23. Roberts is solid as                 ... pos = 1.5   	neg = 0.25 
+24. The kids' roles don'                ... pos = 1.125 	neg = 0.125
+25. However, the real tr                ... pos = 0.125 	neg = 0.125
+26. He is believable, en                ... pos = 1.125 	neg = 0.125
+27. When all is said and                ... pos = 1.25  	neg = 0.5  
+28. However, as worn out                ... pos = 0.75  	neg = 0.5  
+29. Adding a  serious tw                ... pos = 1.625 	neg = 0.125
+30. Is it worth the time                ... pos = 0.0   	neg = 0.125
+31. I suppose so, but  w                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2989-592 is Positive         ... pos = 16.625 	neg = 6.375
+Overall score of document
+Total Pos = 16.625
+Total Neg = 6.375
+---------------------------------------------------------------------------

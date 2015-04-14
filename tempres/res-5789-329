@@ -1,0 +1,27 @@
+0. Now as much as I lik                 ... pos = 0.875 	neg = 0.0  
+1. Now this didn't just                 ... pos = 0.375 	neg = 0.625
+2. While not legally ac                 ... pos = 0.625 	neg = 0.5  
+3. This is no original                  ... pos = 0.25  	neg = 0.5  
+4. Libby Parsons (Judd,                 ... pos = 1.375 	neg = 0.125
+5. But when she awakens                 ... pos = 0.375 	neg = 0.125
+6. Nick, (Bruce Greenwo                 ... pos = 0.375 	neg = 0.125
+7. It turns out Nick is                 ... pos = 0.5   	neg = 0.125
+8. But then someone giv                 ... pos = 0.0   	neg = 0.25 
+9. It says that any per                 ... pos = 0.5   	neg = 0.125
+10. While this is not ac                ... pos = 0.625 	neg = 0.375
+11. When she's put on pa                ... pos = 0.375 	neg = 0.5  
+12. This begins a thrill                ... pos = 0.5   	neg = 0.0  
+13. Double Jeopardy is t                ... pos = 0.0   	neg = 0.625
+14. Seriously, anyone wh                ... pos = 0.375 	neg = 0.125
+15. But if you can push                 ... pos = 0.75  	neg = 0.0  
+16. Tommy Lee Jones does                ... pos = 0.125 	neg = 0.0  
+17. Ashley Judd is great                ... pos = 1.0   	neg = 0.25 
+18. Fun, exciting, and s                ... pos = 0.375 	neg = 0.25 
+19. The Young-Uns: Lots                 ... pos = 0.125 	neg = 1.0  
+20. Good Age 14 & Up. A                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5789-329 is Positive         ... pos = 10.25 	neg = 5.625
+Overall score of document
+Total Pos = 10.25
+Total Neg = 5.625
+---------------------------------------------------------------------------

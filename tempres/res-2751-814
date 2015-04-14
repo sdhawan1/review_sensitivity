@@ -1,0 +1,37 @@
+0. Directed by: Frank O                 ... pos = 0.0   	neg = 0.25 
+1. Bowfinger, the new c                 ... pos = 0.5   	neg = 0.0  
+2. An incredibly clever                 ... pos = 2.125 	neg = 0.625
+3. The cast has a lot o                 ... pos = 0.375 	neg = 0.125
+4. Steve Martin is Bobb                 ... pos = 0.125 	neg = 0.25 
+5. His accountant and p                 ... pos = 0.25  	neg = 0.0  
+6. He loves it, assembl                 ... pos = 0.75  	neg = 0.125
+7. Once action star Kit                 ... pos = 0.0   	neg = 0.0  
+8. There is a parallel                  ... pos = 0.875 	neg = 0.625
+9. You can almost see t                 ... pos = 0.75  	neg = 0.0  
+10. What if someone cove                ... pos = 0.25  	neg = 0.25 
+11. The same glint strik                ... pos = 0.0   	neg = 0.0  
+12. This is Steve Martin                ... pos = 0.0   	neg = 0.125
+13. The humour moves bet                ... pos = 0.25  	neg = 0.0  
+14. Innumerable scenes c                ... pos = 0.25  	neg = 0.0  
+15. Scenes involving Bow                ... pos = 0.375 	neg = 2.375
+16. Eddie Murphy is the                 ... pos = 0.125 	neg = 0.375
+17. Much as Julia Robert                ... pos = 0.25  	neg = 0.25 
+18. It is his best role                 ... pos = 1.25  	neg = 0.125
+19. Jiff is the most un-                ... pos = 0.875 	neg = 0.5  
+20. Heather Graham is fu                ... pos = 0.75  	neg = 0.25 
+21. Christine Baranski i                ... pos = 0.0   	neg = 0.25 
+22. To appreciate this f                ... pos = 0.0   	neg = 0.625
+23. Forget for the durat                ... pos = 0.875 	neg = 1.25 
+24. Forget the fact that                ... pos = 1.375 	neg = 0.0  
+25. Just lose yourself i                ... pos = 0.125 	neg = 0.25 
+26. Think about how sill                ... pos = 0.25  	neg = 1.125
+27. This is a highly int                ... pos = 0.875 	neg = 0.125
+28. You'll feel good and                ... pos = 0.75  	neg = 0    
+29. Trust me.                           ... pos = 0     	neg = 0.0  
+30. check out more revie                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2751-814 is Positive         ... pos = 14.375 	neg = 9.875
+Overall score of document
+Total Pos = 14.375
+Total Neg = 9.875
+---------------------------------------------------------------------------

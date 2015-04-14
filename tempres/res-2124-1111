@@ -1,0 +1,27 @@
+0. REVIEW:  Scream 2 (1                 ... pos = 1.375 	neg = 0.0  
+1. Scream 2; just like                  ... pos = 0.375 	neg = 0.0  
+2. But as the wise Rand                 ... pos = 1.125 	neg = 0.0  
+3. Set two years after                  ... pos = 0.75  	neg = 0.0  
+4. TV Reporter Gale Wea                 ... pos = 0.125 	neg = 0.125
+5. Just as we witnessed                 ... pos = 0.0   	neg = 0.875
+6. So begins a spree of                 ... pos = 0.5   	neg = 0.0  
+7. Goofy small town cop                 ... pos = 0.0   	neg = 0.75 
+8. One particularly eng                 ... pos = 0.25  	neg = 0.0  
+9. Number one, the body                 ... pos = 0.0   	neg = 0.125
+10. Number two, the deat                ... pos = 0.375 	neg = 0.125
+11. Number three, never                 ... pos = 0.0   	neg = 0.5  
+12. Although the more at                ... pos = 0.5   	neg = 1.375
+13. The nine killings in                ... pos = 0.75  	neg = 0.875
+14. Scream 2 is consider                ... pos = 0.625 	neg = 1.5  
+15. That is, as much cha                ... pos = 0.75  	neg = 0.125
+16. If youre put off by                 ... pos = 2.125 	neg = 0.625
+17. The only major stab-                ... pos = 0.625 	neg = 0.5  
+18. Also, as many horror                ... pos = 1.75  	neg = 1.0  
+19. As to whom this char                ... pos = 1.625 	neg = 2.375
+20. Although not as thri                ... pos = 1.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2124-1111 is Positive        ... pos = 15.25 	neg = 11.0 
+Overall score of document
+Total Pos = 15.25
+Total Neg = 11.0
+---------------------------------------------------------------------------

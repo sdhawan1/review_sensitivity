@@ -1,0 +1,50 @@
+0. Alfred Hitchcock mak                 ... pos = 0.0   	neg = 0.5  
+1. From inside a storef                 ... pos = 0.0   	neg = 0.0  
+2. Gus Van Sant's absur                 ... pos = 0.0   	neg = 0.0  
+3. But the difference i                 ... pos = 0.25  	neg = 0.125
+4. Van Sant doesn't mer                 ... pos = 0.0   	neg = 0.0  
+5. Here, from the same                  ... pos = 0.375 	neg = 0.0  
+6. There is a point at                  ... pos = 0.875 	neg = 0.5  
+7. His movies aren't be                 ... pos = 0.5   	neg = 0.0  
+8. This new `Pyscho' is                 ... pos = 0.5   	neg = 0.125
+9. Its only distinguish                 ... pos = 0.0   	neg = 0.125
+10. Other than that, it'                ... pos = 0.0   	neg = 0.0  
+11. Of course, Van Sant                 ... pos = 0.0   	neg = 0.375
+12. Enlisting the help o                ... pos = 0.0   	neg = 0.0  
+13. Stud film composer D                ... pos = 0.0   	neg = 0.0  
+14. The result is a film                ... pos = 0.0   	neg = 0.125
+15. Corny cinematic tech                ... pos = 0.75  	neg = 0.375
+16. Though Van Sant make                ... pos = 1.625 	neg = 0.125
+17. Is there, for exampl                ... pos = 0.0   	neg = 0.125
+18. The acting, however,                ... pos = 0.125 	neg = 0.125
+19. Anne Heche who plays                ... pos = 0.125 	neg = 0.125
+20. In the film's first                 ... pos = 0.625 	neg = 0.125
+21. I would have liked t                ... pos = 0.625 	neg = 0.0  
+22. But from that point                 ... pos = 0.75  	neg = 0.0  
+23. Julianne Moore, who                 ... pos = 0.75  	neg = 0.0  
+24. But William H. Macy,                ... pos = 0.25  	neg = 0.375
+25. To those who have ne                ... pos = 0.125 	neg = 0.5  
+26. But in a film that a                ... pos = 0.0   	neg = 0.0  
+27. The significance of                 ... pos = 0.875 	neg = 0.25 
+28. Perkins, with his Ed                ... pos = 0.625 	neg = 0.125
+29. These days, however,                ... pos = 1.125 	neg = 0.0  
+30. We live in O.J.                     ... pos = 0.0   	neg = 0.0  
+31. 's America, after al                ... pos = 0.0   	neg = 0    
+32. Norman Bates can't s                ... pos = 0.0   	neg = 0.0  
+33. Which is my problem                 ... pos = 0.0   	neg = 0.5  
+34. We are much more ske                ... pos = 0.5   	neg = 0    
+35. It would be more sur                ... pos = 0.25  	neg = 0.25 
+36. Taken on its own mer                ... pos = 2.125 	neg = 0.125
+37. You can't quibble wi                ... pos = 0.0   	neg = 0.0  
+38. But in context, watc                ... pos = 0.0   	neg = 0.125
+39. To anyone familiar w                ... pos = 0.0   	neg = 1.125
+40. You won't be paying                 ... pos = 0.0   	neg = 0.125
+41. You'll be paying att                ... pos = 0.875 	neg = 0.25 
+42. Gus Van Sant makes t                ... pos = 0.125 	neg = 0.0  
+43. He does nothing to h                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-6044-1006 is Positive        ... pos = 14.75 	neg = 6.875
+Overall score of document
+Total Pos = 14.75
+Total Neg = 6.875
+---------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+0. Directors: John Lass                 ... pos = 0.75  	neg = 0.25 
+1. I really liked "Antz                 ... pos = 2.0   	neg = 0.25 
+2. Maybe it's that it n                 ... pos = 0.75  	neg = 1.0  
+3. "A Bug's Life" has a                 ... pos = 1.125 	neg = 1.0  
+4. "Antz" is still the                  ... pos = 1.25  	neg = 0.25 
+5. It broadens its hori                 ... pos = 0.375 	neg = 0.125
+6. " It's also light AN                 ... pos = 1.0   	neg = 0    
+7. The visuals are, ins                 ... pos = 0.75  	neg = 0.0  
+8. The characters are a                 ... pos = 1.625 	neg = 0    
+9. The lead character,                  ... pos = 1.0   	neg = 0.375
+10. Instead of Gene Hack                ... pos = 0.5   	neg = 0.5  
+11. And for the romantic                ... pos = 1.0   	neg = 0.0  
+12. Not that the plot's                 ... pos = 0.25  	neg = 0.125
+13. When Flik, a bone fi                ... pos = 0.0   	neg = 0.25 
+14. He runs into a group                ... pos = 0.625 	neg = 0.0  
+15. These bugs are an eq                ... pos = 2.25  	neg = 0.125
+16. The writers lightly                 ... pos = 0.125 	neg = 0.25 
+17. Grasshoppers jumping                ... pos = 0.0   	neg = 0.25 
+18. A small bird becomes                ... pos = 0.625 	neg = 0.125
+19. The bug city is a mo                ... pos = 0.75  	neg = 0.75 
+20. "  And a rainstorm i                ... pos = 0.0   	neg = 0.125
+21. Around this, the Pix                ... pos = 0.5   	neg = 0.375
+22. Meanwhile, each char                ... pos = 1.375 	neg = 0.25 
+23. Still, it's no "Toy                 ... pos = 0.0   	neg = 0.25 
+24. "  That film, maybe                 ... pos = 1.5   	neg = 0.0  
+25. It proved that it di                ... pos = 1.875 	neg = 0.25 
+26. Yet "A Bug's Life,"                 ... pos = 0.625 	neg = 0.0  
+27. Homepage at: http://                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1029-1493 is Positive        ... pos = 22.625 	neg = 6.875
+Overall score of document
+Total Pos = 22.625
+Total Neg = 6.875
+---------------------------------------------------------------------------

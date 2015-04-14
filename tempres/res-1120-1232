@@ -1,0 +1,31 @@
+0. Those looking for a                  ... pos = 2.375 	neg = 1.125
+1. The above is doubly                  ... pos = 1.125 	neg = 1.875
+2. The problems with th                 ... pos = 0.75  	neg = 0.375
+3. Kevin Kline depicts                  ... pos = 1.25  	neg = 0.125
+4. The ever-so-subtle p                 ... pos = 1.625 	neg = 0.25 
+5. The movie derives mu                 ... pos = 0.875 	neg = 0.625
+6. Screenwriter Paul Ru                 ... pos = 0.0   	neg = 0.375
+7. More to the point, w                 ... pos = 0.75  	neg = 0.75 
+8. The characters in "I                 ... pos = 0.875 	neg = 0.125
+9. We learn nothing of                  ... pos = 0.875 	neg = 1.25 
+10. Kline's role is to p                ... pos = 0.875 	neg = 0.25 
+11. Joan Cusack as the f                ... pos = 0.875 	neg = 0.375
+12. (And not, if you ask                ... pos = 0.0   	neg = 0.0  
+13. Ha ha--you've been l                ... pos = 0.25  	neg = 0.125
+14. Ha ha.                              ... pos = 0     	neg = 0.0  
+15. ) And Kline-- well,                 ... pos = 0.75  	neg = 0.5  
+16. The astute reader ob                ... pos = 1.25  	neg = 0.125
+17. True (but wow, are t                ... pos = 1.375 	neg = 0.75 
+18. But most comedies do                ... pos = 0.75  	neg = 0.375
+19. "In and Out" plays e                ... pos = 0.5   	neg = 0.0  
+20. Many of the funny mo                ... pos = 0.25  	neg = 0.375
+21. In short, "In and Ou                ... pos = 1.25  	neg = 1.625
+22. Though the ending te                ... pos = 1.5   	neg = 0.0  
+23. The room is as you l                ... pos = 0.75  	neg = 0.875
+24. --from "Interim," by                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1120-1232 is Positive        ... pos = 20.875 	neg = 12.25
+Overall score of document
+Total Pos = 20.875
+Total Neg = 12.25
+---------------------------------------------------------------------------

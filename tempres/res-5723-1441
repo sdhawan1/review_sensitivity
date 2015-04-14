@@ -1,0 +1,36 @@
+0. I'm writing this as                  ... pos = 0.375 	neg = 0.0  
+1. This exercise began,                 ... pos = 0.625 	neg = 0.125
+2. Yes, the new Mike Ju                 ... pos = 0.875 	neg = 0.875
+3. Yes, it was a cliche                 ... pos = 0.25  	neg = 0.625
+4. And I don't even hav                 ... pos = 0.0   	neg = 0.375
+5. It's an uneven movie                 ... pos = 0.0   	neg = 0.375
+6. Though it's far, far                 ... pos = 2.0   	neg = 0.375
+7. The best parts are t                 ... pos = 1.0   	neg = 0.25 
+8. Some scenes of wish                  ... pos = 1.0   	neg = 0.5  
+9. Their office bulding                 ... pos = 0.0   	neg = 0.0  
+10. The Dallas office, h                ... pos = 0.125 	neg = 0.75 
+11. [Ah, that bit of I/O                ... pos = 0.0   	neg = 0.0  
+12. Now to FTP (a contin                ... pos = 0.5   	neg = 0.25 
+13. The writing's fine e                ... pos = 0.0   	neg = 0.125
+14. This scheme, unfortu                ... pos = 0.75  	neg = 0.875
+15. As noted, the film i                ... pos = 0.0   	neg = 0.375
+16. The film also dips a                ... pos = 0.625 	neg = 0.0  
+17. No array of indignit                ... pos = 1.75  	neg = 2.125
+18. The web of small ind                ... pos = 1.125 	neg = 0.25 
+19. Well, that, and offi                ... pos = 0.0   	neg = 0.0  
+20. [Harpers Magazine a                 ... pos = 0.5   	neg = 0.0  
+21. If nothing else, tha                ... pos = 0.375 	neg = 0.5  
+22. ]. [So, the FTP is d                ... pos = 0.0   	neg = 0.125
+23. Now, gzip -d.  Yes,                 ... pos = 0.375 	neg = 0.25 
+24. ]. Our Hero, inciden                ... pos = 1.0   	neg = 0.0  
+25. (Something I'm not u                ... pos = 0.125 	neg = 0.0  
+26. But then, I've never                ... pos = 0.0   	neg = 0.125
+27. ) I suppose Judge's                 ... pos = 0.5   	neg = 0.625
+28. It's a new dialectic                ... pos = 1.0   	neg = 0.0  
+29. The rest of us are t                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5723-1441 is Positive        ... pos = 15.125 	neg = 9.875
+Overall score of document
+Total Pos = 15.125
+Total Neg = 9.875
+---------------------------------------------------------------------------

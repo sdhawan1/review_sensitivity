@@ -1,0 +1,36 @@
+0. Starring Sean Penn,                  ... pos = 0.875 	neg = 0.625
+1. In a year that boast                 ... pos = 1.875 	neg = 0.5  
+2. With the Private Rya                 ... pos = 0.5   	neg = 0.0  
+3. Already drawing unfa                 ... pos = 0.0   	neg = 0.25 
+4. And it really deserv                 ... pos = 0.75  	neg = 0.0  
+5. I'm fully prepared t                 ... pos = 1.0   	neg = 0.125
+6. Spielberg's version                  ... pos = 1.125 	neg = 0.125
+7. Quite an analogy, I                  ... pos = 0.875 	neg = 0.0  
+8. More symbolic than F                 ... pos = 0.875 	neg = 0.125
+9. With it's first imag                 ... pos = 0.75  	neg = 0.0  
+10. Rather, Malick choos                ... pos = 1.25  	neg = 0.0  
+11. Actually, the movie                 ... pos = 0.625 	neg = 0.0  
+12. Presenting us with a                ... pos = 1.0   	neg = 0.375
+13. After an American ba                ... pos = 0.5   	neg = 1.0  
+14. Here, the movie make                ... pos = 0.25  	neg = 0.5  
+15. While Private Ryan's                ... pos = 0.375 	neg = 0.25 
+16. This is where the mo                ... pos = 0.375 	neg = 0.125
+17. But even though thes                ... pos = 0.875 	neg = 0.5  
+18. Much like it's obvio                ... pos = 0.625 	neg = 0.0  
+19. We realize the horro                ... pos = 2.25  	neg = 0.0  
+20. Like all great films                ... pos = 0.125 	neg = 0.0  
+21. Most obviously, it's                ... pos = 2.25  	neg = 0.0  
+22. I'm not saying that'                ... pos = 1.5   	neg = 1.375
+23. I'll even admit that                ... pos = 0.125 	neg = 0.0  
+24. One thing that reall                ... pos = 0.0   	neg = 0.625
+25. Like the bookends of                ... pos = 0.25  	neg = 0.0  
+26. Kenneth Branagh made                ... pos = 0.375 	neg = 1.125
+27. Casting major stars                 ... pos = 0.875 	neg = 1.125
+28. By the end of the fi                ... pos = 1.5   	neg = 0.875
+29. *Homepage at http://                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-534-1560 is Positive         ... pos = 23.75 	neg = 9.625
+Overall score of document
+Total Pos = 23.75
+Total Neg = 9.625
+---------------------------------------------------------------------------

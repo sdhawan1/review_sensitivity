@@ -1,0 +1,34 @@
+0. It's tough to be an                  ... pos = 0.0   	neg = 0.125
+1. Just ask Mr.                         ... pos = 0     	neg = 0.0  
+2. Furious (Ben Stiller                 ... pos = 0.375 	neg = 0.0  
+3. They're trying to br                 ... pos = 0.5   	neg = 0.0  
+4. The good captain has                 ... pos = 0.75  	neg = 0.25 
+5. Because he's all but                 ... pos = 0.25  	neg = 0.0  
+6. The public craves a                  ... pos = 0.5   	neg = 0.25 
+7. Frankenstein succeed                 ... pos = 0.125 	neg = 0    
+8. Amazing before setti                 ... pos = 0.0   	neg = 0.0  
+9. So, no one is left t                 ... pos = 0.25  	neg = 0.375
+10. "  The Raja hurls fo                ... pos = 0.0   	neg = 0.0  
+11. Furious just yells a                ... pos = 1.625 	neg = 0.125
+12. After a painful firs                ... pos = 1.25  	neg = 2.125
+13. "Mystery Men" boasts                ... pos = 0.0   	neg = 0.0  
+14. In addition to those                ... pos = 0.125 	neg = 0.875
+15. Furious is pursuing,                ... pos = 0.25  	neg = 0.125
+16. Amazing's manager.                  ... pos = 0.0   	neg = 0    
+17. The cast includes fo                ... pos = 0.0   	neg = 0.0  
+18. When I saw the list                 ... pos = 0.0   	neg = 0.125
+19. Yet, I must report d                ... pos = 0.625 	neg = 0.75 
+20. The script is probab                ... pos = 0.0   	neg = 0.5  
+21. Nearly every joke mi                ... pos = 0.0   	neg = 0.25 
+22. The stabs at comic b                ... pos = 0.25  	neg = 0.375
+23. (For example, no one                ... pos = 0.0   	neg = 0.25 
+24. Amazing in his secre                ... pos = 0.0   	neg = 0.0  
+25. )  The fart jokes su                ... pos = 0.375 	neg = 0.25 
+26. The cast tries hard,                ... pos = 1.375 	neg = 1.625
+27. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1731-1265 is Positive        ... pos = 8.625 	neg = 8.375
+Overall score of document
+Total Pos = 8.625
+Total Neg = 8.375
+---------------------------------------------------------------------------

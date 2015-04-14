@@ -1,0 +1,50 @@
+0. Directed by Jonathan                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Mitche                 ... pos = 0.0   	neg = 0.0  
+2. Starring Bruce Willi                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 100 mi                 ... pos = 0     	neg = 0.0  
+4. Rated AA.                            ... pos = 0.125 	neg = 0.0  
+5. Reviewed on March 16                 ... pos = 0.0   	neg = 0.0  
+6. Sometimes, comedy is                 ... pos = 0.25  	neg = 0.125
+7. Romance, sports, tee                 ... pos = 0.0   	neg = 0.375
+8. (Every now and then,                 ... pos = 0.125 	neg = 0.0  
+9. ) Other subjects hav                 ... pos = 0.25  	neg = 0.0  
+10. Of these, few have b                ... pos = 0.0   	neg = 0.125
+11. "The Whole Nine Yard                ... pos = 0.5   	neg = 0.125
+12. Oseransky's life is                 ... pos = 0.5   	neg = 1.5  
+13. Just when things see                ... pos = 0.625 	neg = 0.75 
+14. Oz does his best to                 ... pos = 0.5   	neg = 0.5  
+15. But Oz's scheming wi                ... pos = 0.0   	neg = 0.0  
+16. She forces him to fl                ... pos = 0.75  	neg = 1.375
+17. To make matters wors                ... pos = 0.625 	neg = 0.875
+18. It turns out that sh                ... pos = 0.0   	neg = 0.0  
+19. It is this deal whic                ... pos = 0.625 	neg = 0.75 
+20. Like most mob comedi                ... pos = 0.25  	neg = 0.0  
+21. Some movies deal wit                ... pos = 0.625 	neg = 0.25 
+22. Others simply tone d                ... pos = 0.625 	neg = 0.25 
+23. "The Whole Nine Yard                ... pos = 0.0   	neg = 0.375
+24. I  found it difficul                ... pos = 0.5   	neg = 0.0  
+25. Neither of the princ                ... pos = 0.375 	neg = 0.375
+26. Willis looks like he                ... pos = 0.0   	neg = 0.375
+27. While  The Tulip is                 ... pos = 0.625 	neg = 0.125
+28. Perry's  Oz is basic                ... pos = 2.0   	neg = 0.625
+29. He's likeable enough                ... pos = 0.375 	neg = 0.0  
+30. Better are the suppo                ... pos = 1.5   	neg = 0.0  
+31. Peet clearly  relish                ... pos = 1.25  	neg = 0.375
+32. Star of the TV sitco                ... pos = 0.375 	neg = 0.125
+33. Michael Clarke  Dunc                ... pos = 0.125 	neg = 0.0  
+34. "The Whole Nine Yard                ... pos = 0.0   	neg = 0.25 
+35. Surprisingly, though                ... pos = 0.875 	neg = 0.25 
+36. The movie is liberal                ... pos = 1.5   	neg = 0.25 
+37. This is  unfortunate                ... pos = 1.125 	neg = 0.75 
+38. Like last year's "An                ... pos = 0.0   	neg = 0.125
+39. It has its moments,                 ... pos = 0.125 	neg = 0.5  
+40. This is a film which                ... pos = 0.75  	neg = 0.375
+41. In essence, instead                 ... pos = 0.0   	neg = 0.125
+42. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+43. Archived at http://w                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-487-1444 is Positive         ... pos = 17.875 	neg = 12.0 
+Overall score of document
+Total Pos = 17.875
+Total Neg = 12.0
+---------------------------------------------------------------------------

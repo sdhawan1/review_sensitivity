@@ -1,0 +1,41 @@
+0. **1/2 (out of 4) In                  ... pos = 0.875 	neg = 0.125
+1. David Ansen, the New                 ... pos = 0.875 	neg = 0.125
+2. This particular outi                 ... pos = 0.0   	neg = 0.125
+3. A group of America's                 ... pos = 1.0   	neg = 0.625
+4. Oh, and Cameron Poe                  ... pos = 0.0   	neg = 0.125
+5. He's being released                  ... pos = 0.25  	neg = 0.0  
+6. Two of the cons mana                 ... pos = 0.0   	neg = 0.0  
+7. Cameron Poe decides                  ... pos = 0.125 	neg = 0.25 
+8. The entire movie tak                 ... pos = 0.0   	neg = 0.0  
+9. There is very little                 ... pos = 0.5   	neg = 0.375
+10. But one is worked in                ... pos = 0.0   	neg = 0.25 
+11. The movie didn't req                ... pos = 0.0   	neg = 0.75 
+12. You gotta admire the                ... pos = 0.75  	neg = 0.0  
+13. John Malkovich was g                ... pos = 0.75  	neg = 0.875
+14. I almost wonder if h                ... pos = 0.5   	neg = 1.25 
+15. At the end of an act                ... pos = 1.0   	neg = 1.875
+16. Con Air makes a mist                ... pos = 0.625 	neg = 0.625
+17. We don't really feel                ... pos = 0.0   	neg = 0.75 
+18. Producer Bruckheimer                ... pos = 0.0   	neg = 0.0  
+19. He's the man behind                 ... pos = 0.0   	neg = 0.0  
+20. His formula is rathe                ... pos = 0.5   	neg = 0.75 
+21. One idea that Bruckh                ... pos = 0.5   	neg = 0.5  
+22. In The Rock, Nicolas                ... pos = 0.0   	neg = 0.125
+23. In Con Air, that rol                ... pos = 0.0   	neg = 0.125
+24. Cusack is an upper-m                ... pos = 0.0   	neg = 0.125
+25. I must admit that I                 ... pos = 0.5   	neg = 0.0  
+26. It may not even be a                ... pos = 0.875 	neg = 0.125
+27. Even so, there is so                ... pos = 0.0   	neg = 0.875
+28. First, there is a ce                ... pos = 0.25  	neg = 0.625
+29. Somehow male posturi                ... pos = 0.375 	neg = 0.375
+30. There's more to patr                ... pos = 0.125 	neg = 0.0  
+31. And second, the prob                ... pos = 0.125 	neg = 0.75 
+32. I'm not saying a mor                ... pos = 0.0   	neg = 0.25 
+33. But that's what we c                ... pos = 0.0   	neg = 0.25 
+34. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4604-1008 is Negative        ... pos = 10.5  	neg = 13.0 
+Overall score of document
+Total Pos = 10.5
+Total Neg = 13.0
+---------------------------------------------------------------------------

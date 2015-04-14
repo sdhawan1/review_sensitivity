@@ -1,0 +1,39 @@
+0. This film has a lot                  ... pos = 0.0   	neg = 0.0  
+1. First, it is going t                 ... pos = 0.25  	neg = 0.125
+2. It has all the right                 ... pos = 0.0   	neg = 0.25 
+3. For starters, it has                 ... pos = 0.0   	neg = 0.25 
+4. (He is smart too --                  ... pos = 0.0   	neg = 0.75 
+5. ) This film is his f                 ... pos = 0.625 	neg = 0.125
+6. Additionally, it is                  ... pos = 0.0   	neg = 0.125
+7. (Most don't -- this                  ... pos = 0.0   	neg = 0.0  
+8. ) Plus it is a delig                 ... pos = 1.375 	neg = 0.125
+9. But then this: it is                 ... pos = 0.375 	neg = 0.125
+10. Like Robert Altman's                ... pos = 0.25  	neg = 0.875
+11. This movie says to o                ... pos = 0.0   	neg = 0.25 
+12. Your cherished notio                ... pos = 0.0   	neg = 1.0  
+13. This world is contro                ... pos = 0.125 	neg = 0.25 
+14. " . NASHVILLE and JE                ... pos = 0.75  	neg = 0.25 
+15. Both make searing co                ... pos = 0.125 	neg = 0.0  
+16. The movies are both                 ... pos = 0.75  	neg = 1.528
+17. In this regard, JERR                ... pos = 1.875 	neg = 0.375
+18. Given the world of p                ... pos = 1.125 	neg = 0.375
+19. But the whole film i                ... pos = 1.375 	neg = 0.625
+20. It is a nice film th                ... pos = 0.0   	neg = 0.125
+21. If you like followin                ... pos = 0.375 	neg = 0.0  
+22. (But watch yourself.                ... pos = 0.125 	neg = 0.0  
+23. ). The film also has                ... pos = 0.0   	neg = 0    
+24. Jerry's mentor, an a                ... pos = 0.125 	neg = 0.375
+25. You think of it as a                ... pos = 0.0   	neg = 0.125
+26. Love your life.                     ... pos = 0.625 	neg = 0    
+27. Be true.                            ... pos = 0.5   	neg = 0.125
+28. Be a good preson.                   ... pos = 0.75  	neg = 0.125
+29. " This last bit hija                ... pos = 0.0   	neg = 0.0  
+30. Crowe has pulled off                ... pos = 0.0   	neg = 0.875
+31. From within a sub-cu                ... pos = 2.375 	neg = 0.375
+32. for other reviews by                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4375-333 is Positive         ... pos = 13.875 	neg = 9.528
+Overall score of document
+Total Pos = 13.875
+Total Neg = 9.528
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. It's not uncommon fo                 ... pos = 0.75  	neg = 0.0  
+1. It's much less commo                 ... pos = 0.5   	neg = 0.125
+2. "The Faculty," the n                 ... pos = 0.375 	neg = 0.125
+3. A unique (but not en                 ... pos = 2.125 	neg = 0.125
+4. "  The movie tells t                 ... pos = 0.75  	neg = 0.125
+5. The aliens take over                 ... pos = 0.125 	neg = 0.0  
+6. But don't worry: six                 ... pos = 0.375 	neg = 0.125
+7. These astute young h                 ... pos = 1.875 	neg = 1.25 
+8. The notoriously ill-                 ... pos = 0.125 	neg = 0.875
+9. The mousy school pri                 ... pos = 0.5   	neg = 0.25 
+10. And the entire facul                ... pos = 0.0   	neg = 0.0  
+11. Naturally, the only                 ... pos = 0.75  	neg = 0.125
+12. You all know I have                 ... pos = 0.0   	neg = 1.125
+13. It's a good thing, t                ... pos = 0.75  	neg = 1.25 
+14. As with "From Dusk T                ... pos = 0.25  	neg = 0.25 
+15. Action?                             ... pos = 0     	neg = 0.0  
+16. Suspense?                           ... pos = 0     	neg = 0.125
+17. A dark thriller?                    ... pos = 0.125 	neg = 0.0  
+18. Following the "more                 ... pos = 0.0   	neg = 0.25 
+19. The result is a smor                ... pos = 2.625 	neg = 0.125
+20. C'mon, Robert, I've                 ... pos = 0.0   	neg = 0    
+21. " You, of all people                ... pos = 0.125 	neg = 0.125
+22. If Rodriguez is at f                ... pos = 1.125 	neg = 1.0  
+23. Kevin Williamson's s                ... pos = 0.5   	neg = 0.5  
+24. Lacking the wit that                ... pos = 0.25  	neg = 0.75 
+25. His dialogue lacks t                ... pos = 0.0   	neg = 0.125
+26. Rather than pushing                 ... pos = 3.25  	neg = 0.75 
+27. This isn't to say th                ... pos = 0.0   	neg = 0.125
+28. The special effects                 ... pos = 1.375 	neg = 1.25 
+29. I actually had more                 ... pos = 0.25  	neg = 0.0  
+30. You might, too, as l                ... pos = 0.0   	neg = 1.125
+31. "  Or "Scream," for                 ... pos = 0.0   	neg = 0.0  
+32. (If you're a diehard                ... pos = 0.375 	neg = 0.125
+33. ). . E-Mail: jbarlow                ... pos = 0.375 	neg = 0.125
+34. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+35. Thanks.                             ... pos = 0.125 	neg = 0    
+36. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1561-216 is Positive         ... pos = 20.0  	neg = 12.25
+Overall score of document
+Total Pos = 20.0
+Total Neg = 12.25
+---------------------------------------------------------------------------

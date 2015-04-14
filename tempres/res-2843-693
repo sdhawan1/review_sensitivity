@@ -1,0 +1,42 @@
+0. Last summer, a featu                 ... pos = 0.25  	neg = 0.0  
+1. Based on the famous                  ... pos = 0.875 	neg = 1.75 
+2. But it sounded promi                 ... pos = 0.625 	neg = 0.125
+3. And co-star Kevin Kl                 ... pos = 0.0   	neg = 0.375
+4. I mean, what could p                 ... pos = 0.0   	neg = 0.75 
+5. The answer is just a                 ... pos = 0     	neg = 0.125
+6. Wild Wild West is a                  ... pos = 1.75  	neg = 1.25 
+7. There are a lot of f                 ... pos = 0.25  	neg = 0.375
+8. But the script is so                 ... pos = 0.75  	neg = 1.375
+9. At square one, we ha                 ... pos = 0.0   	neg = 0.25 
+10. Will Smith plays Jam                ... pos = 0.5   	neg = 0.125
+11. My guess regarding t                ... pos = 0.625 	neg = 0.125
+12. Smith is a very tale                ... pos = 0.875 	neg = 0.25 
+13. He's too much of a j                ... pos = 0.125 	neg = 0.25 
+14. I heard that initial                ... pos = 0.5   	neg = 0.0  
+15. What makes matters w                ... pos = 0.125 	neg = 1.25 
+16. The plot involves We                ... pos = 0.25  	neg = 0.0  
+17. The trail leads to t                ... pos = 0.5   	neg = 1.0  
+18. Loveless has taken t                ... pos = 0.125 	neg = 0.25 
+19. One such weapon is a                ... pos = 0.0   	neg = 0.125
+20. The visual effects t                ... pos = 0.5   	neg = 0.25 
+21. Unfortunately, all o                ... pos = 0.875 	neg = 1.75 
+22. Wild Wild West is a                 ... pos = 0.625 	neg = 0.5  
+23. Most of the jokes, u                ... pos = 0.0   	neg = 0.25 
+24. If it's one thing th                ... pos = 0.25  	neg = 0.75 
+25. Kline is admirable,                 ... pos = 0.75  	neg = 0.5  
+26. Salma Hayek is waste                ... pos = 0.375 	neg = 1.375
+27. Branagh, an esteemed                ... pos = 0.625 	neg = 0.0  
+28. But even he is so ut                ... pos = 0.0   	neg = 0.125
+29. Rarely is a film so                 ... pos = 0.0   	neg = 0.5  
+30. I suppose there's al                ... pos = 1.125 	neg = 0.0  
+31. Wild Wild West is su                ... pos = 0.125 	neg = 1.125
+32. But it is highly unl                ... pos = 0.75  	neg = 0.125
+33. Perhaps after this,                 ... pos = 0.875 	neg = 0.125
+34. After such hits as I                ... pos = 0.125 	neg = 0.375
+35. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2843-693 is Negative         ... pos = 15.125 	neg = 17.5 
+Overall score of document
+Total Pos = 15.125
+Total Neg = 17.5
+---------------------------------------------------------------------------

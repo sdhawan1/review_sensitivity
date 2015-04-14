@@ -1,0 +1,33 @@
+0. Fox's first summer b                 ... pos = 0.75  	neg = 0.125
+1. Sean Connery plays m                 ... pos = 0.0   	neg = 0.625
+2. Jones plays FBI agen                 ... pos = 0.125 	neg = 0.625
+3. The plot is not as s                 ... pos = 0.125 	neg = 0.75 
+4. Entrapment amounts n                 ... pos = 0.875 	neg = 1.375
+5. There's nothing heav                 ... pos = 0.0   	neg = 0.75 
+6. Sean Connery is char                 ... pos = 0.5   	neg = 0.75 
+7. Zeta-Jones, who's st                 ... pos = 0.125 	neg = 0.875
+8. Unfortunately, her c                 ... pos = 2.125 	neg = 1.625
+9. But that's what the                  ... pos = 0.375 	neg = 0.0  
+10. It won't hurt the bo                ... pos = 0.0   	neg = 0.0  
+11. Comic relief comes f                ... pos = 1.5   	neg = 1.0  
+12. He gives the film a                 ... pos = 0.875 	neg = 0.125
+13. Jon Amiel, whose pre                ... pos = 0.5   	neg = 0.125
+14. There's only one tru                ... pos = 0.5   	neg = 0.125
+15. Other than that, the                ... pos = 0.375 	neg = 0.125
+16. The last 30 minutes                 ... pos = 0.75  	neg = 0.125
+17. It's all rather dead                ... pos = 0.5   	neg = 0.0  
+18. Still, some nail bit                ... pos = 0.25  	neg = 0.75 
+19. Finally, a large amo                ... pos = 0.0   	neg = 0.25 
+20. It's seem impossible                ... pos = 1.125 	neg = 0.25 
+21. It's also hard to be                ... pos = 1.0   	neg = 0.875
+22. I wouldn't be surpri                ... pos = 0.125 	neg = 0.125
+23. The twists are execu                ... pos = 0.375 	neg = 0.25 
+24. Entrapment, although                ... pos = 0.125 	neg = 1.5  
+25. The film really coul                ... pos = 0.5   	neg = 0.75 
+26. It's no waste of cel                ... pos = 0.25  	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-3431-1213 is Negative        ... pos = 13.75 	neg = 14.875
+Overall score of document
+Total Pos = 13.75
+Total Neg = 14.875
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. Fun - n. sport, amus                 ... pos = 0.375 	neg = 0.5  
+1. While watching Indep                 ... pos = 0.0   	neg = 0.0  
+2. This is not an `inte                 ... pos = 0.0   	neg = 0.625
+3. In fact, if I had a                  ... pos = 0.375 	neg = 0.0  
+4. But then again, the                  ... pos = 2.0   	neg = 0.125
+5. The existence of  ID                 ... pos = 0.0   	neg = 0.0  
+6. Aliens have come to                  ... pos = 0.0   	neg = 0.0  
+7. The President (Bill                  ... pos = 0.25  	neg = 0.0  
+8. Of course their inte                 ... pos = 0.125 	neg = 0.125
+9. This would not be du                 ... pos = 0.875 	neg = 0.125
+10. So, much to the audi                ... pos = 0.75  	neg = 0.0  
+11. It's up to the Presi                ... pos = 0.875 	neg = 0.125
+12. Included in this gro                ... pos = 0.0   	neg = 0.125
+13. There is Captain Ste                ... pos = 0.125 	neg = 0.125
+14. Then there's David L                ... pos = 0.0   	neg = 0.0  
+15. Margaret Colin plays                ... pos = 0.125 	neg = 0.25 
+16. These characters' re                ... pos = 0.75  	neg = 0.125
+17. The special effects                 ... pos = 1.125 	neg = 0.25 
+18. The destruction sequ                ... pos = 0.125 	neg = 0.0  
+19. If there is one thin                ... pos = 0.625 	neg = 0.125
+20. Everything is kept i                ... pos = 0.0   	neg = 0.375
+21. Emmerich uses an eff                ... pos = 0.375 	neg = 0.0  
+22. In this first half-h                ... pos = 0.625 	neg = 0.25 
+23. And then, sure enoug                ... pos = 1.0   	neg = 0.0  
+24. That's not to say I                 ... pos = 0.375 	neg = 0.0  
+25. There is so much fun                ... pos = 0.375 	neg = 0.5  
+26. It turns out that Em                ... pos = 0.625 	neg = 0.375
+27. The appearance of th                ... pos = 0.0   	neg = 0.875
+28. The script often let                ... pos = 0.0   	neg = 0.0  
+29. Recycled garble invo                ... pos = 0.375 	neg = 0.125
+30. As long as you don't                ... pos = 0.625 	neg = 0.625
+31. The film recalls sci                ... pos = 1.25  	neg = 0.0  
+32. The cast is also sol                ... pos = 0.0   	neg = 0.125
+33. Smith and Goldblum f                ... pos = 0.0   	neg = 0.125
+34. Pullman is perfect a                ... pos = 0.625 	neg = 0.25 
+35. Meanwhile, Hirsch is                ... pos = 0.625 	neg = 0.25 
+36. His fate, as you'll                 ... pos = 0.5   	neg = 0.125
+37. Don't accuse Indepen                ... pos = 0.25  	neg = 0.0  
+38. Of course it is.                    ... pos = 0.0   	neg = 0.125
+39. Not only that, it's                 ... pos = 0.625 	neg = 0.375
+40. But if you're in the                ... pos = 1.25  	neg = 0.25 
+41. Contact Jamey at:  m                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4487-693 is Positive         ... pos = 18.0  	neg = 7.375
+Overall score of document
+Total Pos = 18.0
+Total Neg = 7.375
+---------------------------------------------------------------------------

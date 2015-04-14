@@ -1,0 +1,41 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by John Irvi                 ... pos = 0.0   	neg = 0    
+2. Photographed by Oliv                 ... pos = 0.0   	neg = 0.0  
+3. "The Cider House Rul                 ... pos = 1.25  	neg = 0.125
+4. It makes sentimental                 ... pos = 0.625 	neg = 0.5  
+5. The source material                  ... pos = 0.5   	neg = 0.125
+6. In adapting his book                 ... pos = 0.25  	neg = 0.375
+7. Miraculous, then, th                 ... pos = 0.0   	neg = 0.0  
+8. It is set in the 194                 ... pos = 0.0   	neg = 0.125
+9. Cloud's.                             ... pos = 0     	neg = 0    
+10. He was adopted twice                ... pos = 0.0   	neg = 0.125
+11. His father figure is                ... pos = 2.875 	neg = 0.5  
+12. Homer is not convinc                ... pos = 0.75  	neg = 0.25 
+13. He would like to see                ... pos = 1.0   	neg = 0.125
+14. Cloud's to get rid o                ... pos = 0.5   	neg = 0.125
+15. Wally gets called up                ... pos = 0.375 	neg = 0.125
+16. He and Candy begin a                ... pos = 2.0   	neg = 0.375
+17. When a seemingly upr                ... pos = 0.75  	neg = 0.25 
+18. And so does his deci                ... pos = 0.0   	neg = 0.0  
+19. Cloud's -- perhaps L                ... pos = 0.0   	neg = 0.25 
+20. I am simplifying the                ... pos = 0.875 	neg = 0.875
+21. The film is tighter                 ... pos = 0.25  	neg = 0.25 
+22. An= d=20 the message                ... pos = 3.125 	neg = 0.25 
+23. Both works feature m                ... pos = 1.375 	neg = 0.0  
+24. He doesn't realise h                ... pos = 0.375 	neg = 0.75 
+25. Homer, the hero of t                ... pos = 1.25  	neg = 0.125
+26. The character was ra                ... pos = 2.625 	neg = 0.75 
+27. The movie is more ob                ... pos = 2.25  	neg = 1.375
+28. W= e=20 can't help b                ... pos = 0.5   	neg = 0.375
+29. This is not quite a                 ... pos = 0.0   	neg = 0.125
+30. It doesn't emphasise                ... pos = 0.0   	neg = 0.375
+31. But generally it=20                 ... pos = 1.25  	neg = 0.375
+32. Please, sir...                      ... pos = 0.0   	neg = 0.0  
+33. I want some more.                   ... pos = 0.0   	neg = 0.125
+34. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-607-1540 is Positive         ... pos = 25.0  	neg = 9.25 
+Overall score of document
+Total Pos = 25.0
+Total Neg = 9.25
+---------------------------------------------------------------------------

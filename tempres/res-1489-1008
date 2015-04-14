@@ -1,0 +1,63 @@
+0. **1/2 (out of 4) Ste                 ... pos = 0.0   	neg = 0.125
+1. A professor of mine                  ... pos = 0.625 	neg = 0.125
+2. On the one hand, mos                 ... pos = 0.5   	neg = 0.0  
+3. Suspense, intellect,                 ... pos = 0.875 	neg = 0.125
+4. On the other hand, m                 ... pos = 0.5   	neg = 0.125
+5. Once the process was                 ... pos = 0.375 	neg = 0.125
+6. Spielberg's AMISTAD                  ... pos = 0.375 	neg = 0    
+7. On the one hand most                 ... pos = 0.5   	neg = 0.125
+8. On the other hand, m                 ... pos = 0.125 	neg = 0.0  
+9. They are intellectua                 ... pos = 0.25  	neg = 0.0  
+10. Because the story is                ... pos = 0.5   	neg = 0.125
+11. The movie opens on a                ... pos = 0.0   	neg = 0.0  
+12. This man is Cinque (                ... pos = 0.5   	neg = 0.5  
+13. He is able to free h                ... pos = 0.875 	neg = 0.625
+14. None of the Africans                ... pos = 0.125 	neg = 0.0  
+15. They demand to be sa                ... pos = 0.0   	neg = 0.375
+16. Instead of heading f                ... pos = 0.25  	neg = 0.0  
+17. Several interested p                ... pos = 0.125 	neg = 0.0  
+18. A black freeman and                 ... pos = 0.125 	neg = 0.0  
+19. The trial goes rathe                ... pos = 1.75  	neg = 0.375
+20. The case is so airti                ... pos = 0.625 	neg = 0.25 
+21. Along the way, Baldw                ... pos = 0.875 	neg = 0.0  
+22. AMISTAD is at its be                ... pos = 0.375 	neg = 0.125
+23. The scenes of his ca                ... pos = 0.25  	neg = 0    
+24. Sadly, they take ver                ... pos = 0.5   	neg = 0.875
+25. Instead, a lot of ti                ... pos = 0.0   	neg = 0.125
+26. These aspects of the                ... pos = 0.25  	neg = 0.0  
+27. Spielberg placed the                ... pos = 0.375 	neg = 0.0  
+28. Like many of Hitchco                ... pos = 0.5   	neg = 0.125
+29. Here are some exampl                ... pos = 1.0   	neg = 0.125
+30. It is a ship full of                ... pos = 0.125 	neg = 0.125
+31. They are in the same                ... pos = 1.375 	neg = 0.0  
+32.  The scene of the                 ... pos = 0.0   	neg = 0.0  
+33. Kahn cuts from his f                ... pos = 0.125 	neg = 0.125
+34. From a man in pain a                ... pos = 0.375 	neg = 0.375
+35.  When it first app                ... pos = 0.625 	neg = 0.125
+36. Their world is turne                ... pos = 0.0   	neg = 0.125
+37. Literally.                          ... pos = 0     	neg = 0.0  
+38. Spielberg shows us t                ... pos = 0.375 	neg = 0.5  
+39.  One of the slaves                ... pos = 0.0   	neg = 0.125
+40. He can't understands                ... pos = 0.375 	neg = 0.25 
+41. He explains the stor                ... pos = 0.625 	neg = 0.0  
+42. They compare their o                ... pos = 0.5   	neg = 0    
+43. Right after they see                ... pos = 0.0   	neg = 0.0  
+44.  Former supreme co                ... pos = 0.5   	neg = 0.125
+45. (He calls the ship t                ... pos = 0.0   	neg = 0.0  
+46. ") . Each of these e                ... pos = 0.625 	neg = 0.375
+47. In each example Spie                ... pos = 0.75  	neg = 0.0  
+48. But the examples don                ... pos = 1.375 	neg = 0.0  
+49. The effect is that y                ... pos = 1.25  	neg = 0.125
+50. And since the story                 ... pos = 0.625 	neg = 0.125
+51. I do think that Spie                ... pos = 0.75  	neg = 0.125
+52. He is very good at w                ... pos = 1.25  	neg = 0.125
+53. But his technique do                ... pos = 0.0   	neg = 0.0  
+54. His cold calculation                ... pos = 0.0   	neg = 0    
+55. AMISTAD would have b                ... pos = 0.75  	neg = 0.125
+56. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1489-1008 is Positive        ... pos = 25.5  	neg = 7.25 
+Overall score of document
+Total Pos = 25.5
+Total Neg = 7.25
+---------------------------------------------------------------------------

@@ -1,0 +1,62 @@
+0. Starring: Téa Leoni                 ... pos = 0.625 	neg = 0.375
+1. It's the stuff that                  ... pos = 0.25  	neg = 0.75 
+2. And DEEP IMPACT is c                 ... pos = 0.25  	neg = 0.625
+3. As our story opens,                  ... pos = 0.0   	neg = 0.25 
+4. They send the inform                 ... pos = 0.0   	neg = 0.875
+5. A year later, we fin                 ... pos = 0.25  	neg = 0.5  
+6. Jenny Lerner, an asp                 ... pos = 0.0   	neg = 0.0  
+7. ), unwittingly stumb                 ... pos = 0.0   	neg = 0.25 
+8. He makes the announc                 ... pos = 0.0   	neg = 0.25 
+9. Before our story end                 ... pos = 1.0   	neg = 0.875
+10. DEEP IMPACT owes a l                ... pos = 1.125 	neg = 0.5  
+11. And like many disast                ... pos = 1.375 	neg = 0.5  
+12. Leoni is questionabl                ... pos = 0.0   	neg = 0.125
+13. Sometimes, she's exc                ... pos = 1.0   	neg = 0    
+14. Sometimes, she's dow                ... pos = 0.625 	neg = 0.875
+15. And she bounces back                ... pos = 0.0   	neg = 0.0  
+16. Her parents are stro                ... pos = 0.75  	neg = 0    
+17. Redgrave is wonderfu                ... pos = 1.125 	neg = 0.25 
+18. The film's weakest l                ... pos = 0.125 	neg = 1.5  
+19. Elijah seems to be t                ... pos = 0.625 	neg = 2.5  
+20. Their parents (such                 ... pos = 0.25  	neg = 0.25 
+21. Morgan Freeman conve                ... pos = 0.625 	neg = 0    
+22. He is the kind of Pr                ... pos = 0.75  	neg = 0.125
+23. A commanding presenc                ... pos = 0.5   	neg = 0.125
+24. He really should've                 ... pos = 0.25  	neg = 0.125
+25. The film's strongest                ... pos = 0.5   	neg = 0.125
+26. All of their roles a                ... pos = 0.375 	neg = 0    
+27. We truly care about                 ... pos = 0.625 	neg = 0.0  
+28. They are the thread                 ... pos = 0.875 	neg = 0.0  
+29. Still, one question                 ... pos = 0.25  	neg = 0.125
+30. Of course, that's a                 ... pos = 0.5   	neg = 0.0  
+31. Oddly, James Cromwel                ... pos = 0.5   	neg = 0.0  
+32. An actor of his supe                ... pos = 1.25  	neg = 0.0  
+33. Mimi Leder's directi                ... pos = 0.875 	neg = 0.0  
+34. James Horner deliver                ... pos = 0.0   	neg = 0.0  
+35. The script, though,                 ... pos = 0.125 	neg = 0.625
+36. The performances eit                ... pos = 1.0   	neg = 0.0  
+37. The astronauts' scen                ... pos = 1.125 	neg = 0.0  
+38. Some audience member                ... pos = 0.75  	neg = 0.0  
+39. On the flip side of                 ... pos = 0.5   	neg = 2.125
+40. The end note of the                 ... pos = 0.0   	neg = 0.25 
+41. There is an attempt                 ... pos = 0.75  	neg = 0.375
+42. Like last year's TIT                ... pos = 0.25  	neg = 0.875
+43. Both, though, can pu                ... pos = 0.0   	neg = 0.0  
+44. Still, Wood's plot a                ... pos = 0.0   	neg = 0.875
+45. In the end, because                 ... pos = 0.625 	neg = 0.5  
+46. And when a climactic                ... pos = 0.0   	neg = 0.375
+47. In the end, this is                 ... pos = 0.375 	neg = 0.875
+48. Be warned, there's o                ... pos = 0.375 	neg = 1.125
+49. DEEP IMPACT is more                 ... pos = 0.5   	neg = 0.125
+50. It poses interesting                ... pos = 1.25  	neg = 0.125
+51. Fans of disaster mov                ... pos = 0.5   	neg = 0.5  
+52. Fans of drama or act                ... pos = 0.25  	neg = 0.0  
+53. Expect a disaster mo                ... pos = 1.0   	neg = 0.875
+54. "Heroes die... but t                ... pos = 0.375 	neg = 0.0  
+55. " - President Beck.                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1674-631 is Positive         ... pos = 27.0  	neg = 21.5 
+Overall score of document
+Total Pos = 27.0
+Total Neg = 21.5
+---------------------------------------------------------------------------

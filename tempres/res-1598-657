@@ -1,0 +1,40 @@
+0. "Houston.                            ... pos = 0     	neg = 0    
+1. We have a serious pr                 ... pos = 0.0   	neg = 0.25 
+2. ". After making "Mis                 ... pos = 0.0   	neg = 0.0  
+3. By making an epic sc                 ... pos = 0.25  	neg = 0.0  
+4. And the possibilitie                 ... pos = 0.5   	neg = 1.25 
+5. Starting in a near f                 ... pos = 0.0   	neg = 0.0  
+6. The human race has a                 ... pos = 0.0   	neg = 0.375
+7. A research expeditio                 ... pos = 0.125 	neg = 0.625
+8. This is basically th                 ... pos = 0     	neg = 0.125
+9. So it's hard to imag                 ... pos = 0.125 	neg = 1.375
+10. But De Palma manages                ... pos = 0.0   	neg = 0.0  
+11. It is not a very goo                ... pos = 1.25  	neg = 0.125
+12. As we follow this ex                ... pos = 0.125 	neg = 1.125
+13. The film's major pro                ... pos = 0.625 	neg = 1.0  
+14. David Mamet's dialog                ... pos = 0.125 	neg = 0.75 
+15. De Palma and Mamet w                ... pos = 0.25  	neg = 0.0  
+16. The result is more l                ... pos = 0.0   	neg = 0.625
+17. To make time pass ,                 ... pos = 0.0   	neg = 0.0  
+18. It consists of multi                ... pos = 0.125 	neg = 0.0  
+19. When it finally pres                ... pos = 0.0   	neg = 1.0  
+20. I can't even call th                ... pos = 0.625 	neg = 0.25 
+21. Sometimes it gets so                ... pos = 0.0   	neg = 0.875
+22. You'll see enormous                 ... pos = 0.5   	neg = 0.0  
+23. It's really hard to                 ... pos = 0.0   	neg = 1.0  
+24. That's an achievemen                ... pos = 0.0   	neg = 0    
+25. Director Brian De Pa                ... pos = 0.875 	neg = 0.0  
+26. It is for this film                 ... pos = 0.375 	neg = 0.375
+27. He'll live to fight                 ... pos = 0.0   	neg = 0.125
+28. I send the actors my                ... pos = 1.75  	neg = 0.25 
+29. And both the cinemat                ... pos = 0.75  	neg = 0.0  
+30. It is because of the                ... pos = 0.0   	neg = 0.125
+31. Unfortunately their                 ... pos = 0.0   	neg = 2.125
+32. If you have problems                ... pos = 0.0   	neg = 1.0  
+33. If you're not asleep                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-657 is Negative         ... pos = 8.5   	neg = 14.75
+Overall score of document
+Total Pos = 8.5
+Total Neg = 14.75
+---------------------------------------------------------------------------

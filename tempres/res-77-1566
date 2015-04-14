@@ -1,0 +1,114 @@
+0. Starring the vocal t                 ... pos = 0.0   	neg = 0.125
+1. Most people fit into                 ... pos = 1.5   	neg = 0.0  
+2. My family, for the m                 ... pos = 0.0   	neg = 0.375
+3. I think he's very fu                 ... pos = 0.5   	neg = 0.0  
+4. So maybe taking his                  ... pos = 0.375 	neg = 0.125
+5. Unrestrained by phys                 ... pos = 0.125 	neg = 0.0  
+6. Those who had proble                 ... pos = 0.5   	neg = 0.125
+7. Those who had proble                 ... pos = 0.0   	neg = 0.375
+8. In 1995, a film was                  ... pos = 0.0   	neg = 0.125
+9. TOY STORY used state                 ... pos = 0.125 	neg = 0.375
+10. Many critics will ca                ... pos = 0.125 	neg = 0.125
+11. ANTZ, however, has u                ... pos = 0.25  	neg = 0    
+12. Disney's A BUG'S LIF                ... pos = 0.375 	neg = 0.25 
+13. By beating Disney ou                ... pos = 0.75  	neg = 0.0  
+14. But don't let that f                ... pos = 1.25  	neg = 0.125
+15. In the past two year                ... pos = 0.25  	neg = 0.0  
+16. In 1997, it was the                 ... pos = 0.0   	neg = 0.125
+17. In my opinion, DANTE                ... pos = 0.25  	neg = 0.0  
+18. VOLCANO had an origi                ... pos = 0.5   	neg = 0.625
+19. In 1998, there are t                ... pos = 0.25  	neg = 0.0  
+20. First was the comet                 ... pos = 0.875 	neg = 0.125
+21. But now, it's even m                ... pos = 0.125 	neg = 0.0  
+22. Who will prevail?                   ... pos = 0.125 	neg = 0    
+23. Time will tell, but                 ... pos = 0.375 	neg = 0.0  
+24. Mouse has nothing to                ... pos = 0.375 	neg = 0.25 
+25. This may sound like                 ... pos = 0.0   	neg = 0.0  
+26. But due to it's PG r                ... pos = 0.375 	neg = 0.75 
+27. Some of the dialogue                ... pos = 0.0   	neg = 0.0  
+28. Sexual innuendoes an                ... pos = 0.125 	neg = 0.75 
+29. The humor is also wr                ... pos = 0.0   	neg = 0.25 
+30. This is the type of                 ... pos = 0.25  	neg = 0.25 
+31. ANTZ begins with a h                ... pos = 0.25  	neg = 0.125
+32. Z (Allen) is a troub                ... pos = 0.375 	neg = 0.375
+33. "When you're the mid                ... pos = 0.0   	neg = 0.0  
+34. One night, Z is sitt                ... pos = 0.125 	neg = 1.0  
+35. In walks Princess Ba                ... pos = 0.0   	neg = 0.25 
+36. Bala asks Z is he wo                ... pos = 0.125 	neg = 0.25 
+37. After discovering th                ... pos = 1.375 	neg = 0.5  
+38. In order to do that,                ... pos = 0.5   	neg = 0.0  
+39. But to get rid of th                ... pos = 1.5   	neg = 0.25 
+40. He and Colonel Cutte                ... pos = 0.875 	neg = 0.75 
+41. The Queen is relucta                ... pos = 0.625 	neg = 0.25 
+42. Meanwhile, Z wants t                ... pos = 0.25  	neg = 0.0  
+43. So Z gets sent off t                ... pos = 0.0   	neg = 0.625
+44. The battle sequence                 ... pos = 0.875 	neg = 0.125
+45. However, ANTZ and th                ... pos = 0.75  	neg = 0.125
+46. The second half of t                ... pos = 0.0   	neg = 0.0  
+47. There, an ant can be                ... pos = 0.125 	neg = 0.125
+48. The adventures Z and                ... pos = 0.875 	neg = 0.0  
+49. Looming over the tar                ... pos = 0.375 	neg = 0.0  
+50. The ants look up in                 ... pos = 0.625 	neg = 0.375
+51. Visually, it's an ex                ... pos = 0.5   	neg = 0.0  
+52. But don't be fooled.                ... pos = 0.125 	neg = 0.375
+53. After seeing ANTZ, I                ... pos = 0.375 	neg = 0.0  
+54. Hopefully, children                 ... pos = 1.125 	neg = 0.125
+55. As an animated film,                ... pos = 0.75  	neg = 0.125
+56. Visually, it's as st                ... pos = 0.625 	neg = 0.0  
+57. The best aspect of a                ... pos = 1.25  	neg = 0.125
+58. They can take ridicu                ... pos = 0.625 	neg = 0.625
+59. One great moment inv                ... pos = 0.0   	neg = 0.0  
+60. The animation is so                 ... pos = 0.0   	neg = 0.125
+61. However, the most ex                ... pos = 0.375 	neg = 0.0  
+62. It's truly a great e                ... pos = 1.0   	neg = 0.0  
+63. With computer techno                ... pos = 0.5   	neg = 0.0  
+64. The best example wou                ... pos = 0.375 	neg = 0.125
+65. At one point, you ca                ... pos = 0.0   	neg = 0.0  
+66. Barbatus also has a                 ... pos = 0.75  	neg = 0.0  
+67. Young kids may be di                ... pos = 0.75  	neg = 0.125
+68. Disney's A BUG'S LIF                ... pos = 1.875 	neg = 0.5  
+69. If not, then DreamWo                ... pos = 1.625 	neg = 0.5  
+70. Vocal talent is alwa                ... pos = 0.5   	neg = 0.25 
+71. In fact, it far exce                ... pos = 0.0   	neg = 0    
+72. Woody Allen has alwa                ... pos = 0.0   	neg = 0.125
+73. Without a body, his                 ... pos = 0.625 	neg = 0.125
+74. In fact, I'm pretty                 ... pos = 0.25  	neg = 0.125
+75. Sharon Stone as Bala                ... pos = 1.375 	neg = 0.625
+76. Sylvester Stallone (                ... pos = 0.125 	neg = 0.25 
+77. After a snub at the                 ... pos = 0.375 	neg = 0.25 
+78. Gene Hackman is supe                ... pos = 0.875 	neg = 0.25 
+79. Christopher Walkin i                ... pos = 0.25  	neg = 0.125
+80. Anne Bancroft has a                 ... pos = 0.375 	neg = 0.0  
+81. Danny Glover has a s                ... pos = 1.75  	neg = 0.0  
+82. Dan Aykroyd and Jane                ... pos = 1.75  	neg = 0    
+83. Jennifer Lopez plays                ... pos = 0.375 	neg = 0.25 
+84. Many people will rec                ... pos = 0.125 	neg = 0.0  
+85. He played Miles on t                ... pos = 0.0   	neg = 0.0  
+86. This is definitely a                ... pos = 0.625 	neg = 0.25 
+87. Of course, you can p                ... pos = 0.0   	neg = 0.0  
+88. Directors Eric Darne                ... pos = 0.25  	neg = 0.0  
+89. But both show an inc                ... pos = 0.0   	neg = 0.125
+90. Tense at times, and                 ... pos = 1.625 	neg = 0.0  
+91. The screenplay by To                ... pos = 0.125 	neg = 0.125
+92. Kids will delight in                ... pos = 0.75  	neg = 0.0  
+93. Most of it will go o                ... pos = 0.125 	neg = 0.0  
+94. Does that mean you s                ... pos = 0.0   	neg = 0.0  
+95. Not at all.                         ... pos = 0.0   	neg = 0.0  
+96. They will have a lot                ... pos = 0.25  	neg = 0.0  
+97. What is great is the                ... pos = 0.25  	neg = 0.25 
+98. Part social commenta                ... pos = 0.125 	neg = 0.125
+99. Thankfully, it's not                ... pos = 0.5   	neg = 0.0  
+100. ANTZ is rated PG for               ... pos = 0.25  	neg = 0.25 
+101. Sometimes the langua               ... pos = 0.0   	neg = 0.25 
+102. The battle scene has               ... pos = 0.75  	neg = 0.25 
+103. And the magnifying s               ... pos = 0.625 	neg = 0    
+104. But other than that                ... pos = 0.75  	neg = 0.125
+105. I doubt many childre               ... pos = 1.375 	neg = 0.125
+106. Have I confused you                ... pos = 0.125 	neg = 0.0  
+107. If you do take your                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-1566 is Positive          ... pos = 49.625 	neg = 17.375
+Overall score of document
+Total Pos = 49.625
+Total Neg = 17.375
+---------------------------------------------------------------------------

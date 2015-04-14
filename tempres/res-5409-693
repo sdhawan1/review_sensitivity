@@ -1,0 +1,32 @@
+0. MOVIE VIEWS by Jamey                 ... pos = 0.625 	neg = 0.0  
+1. I was thoroughly ple                 ... pos = 0.625 	neg = 0.125
+2. First off, in a worl                 ... pos = 0.5   	neg = 1.5  
+3. Keanu Reeves', obvio                 ... pos = 1.125 	neg = 0.0  
+4. He is contacted by a                 ... pos = 0.0   	neg = 0.25 
+5. But I'm sure you're                  ... pos = 0.25  	neg = 0.125
+6. ' and `The chosen on                 ... pos = 0.125 	neg = 0.0  
+7. '. The Matrix is, to                 ... pos = 2.0   	neg = 0.125
+8. To learn how to mani                 ... pos = 1.875 	neg = 0.75 
+9. Then he must face-of                 ... pos = 0.375 	neg = 0.0  
+10. They are dressed in                 ... pos = 2.375 	neg = 0.125
+11. The acting is an all                ... pos = 0.0   	neg = 0.125
+12. In addition to Reeve                ... pos = 1.5   	neg = 0.125
+13. The special effects                 ... pos = 0.25  	neg = 0.25 
+14. I'll get right to th                ... pos = 0.375 	neg = 0.0  
+15. The Wachowski brothe                ... pos = 0.125 	neg = 0.0  
+16. Until now, John Woo                 ... pos = 0.125 	neg = 0.125
+17. Until now.                          ... pos = 0.0   	neg = 0    
+18. Even more impressive                ... pos = 1.75  	neg = 0.0  
+19. Your reaction is bou                ... pos = 0.625 	neg = 0.125
+20. I had my grievances.                ... pos = 0.0   	neg = 0.0  
+21. There was an unneces                ... pos = 1.25  	neg = 0.5  
+22. The Matrix as a whol                ... pos = 0.375 	neg = 0.125
+23. What is the Matrix?                 ... pos = 0.0   	neg = 0.125
+24. No, I won't tell, bu                ... pos = 0.125 	neg = 0.25 
+25. ....................                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-693 is Positive         ... pos = 16.375 	neg = 4.75 
+Overall score of document
+Total Pos = 16.375
+Total Neg = 4.75
+---------------------------------------------------------------------------

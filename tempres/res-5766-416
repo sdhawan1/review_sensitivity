@@ -1,0 +1,30 @@
+0. Written by: Michael                  ... pos = 0.25  	neg = 1.625
+1. Her mother Annie, a                  ... pos = 0.0   	neg = 0.75 
+2. I'm bored.                           ... pos = 0     	neg = 0.0  
+3. Do it over!").                       ... pos = 0.0   	neg = 0.0  
+4. Meanwhile Dad Robert                 ... pos = 1.375 	neg = 0.0  
+5. When Grace and the h                 ... pos = 0.5   	neg = 0.0  
+6. Booker is a horse wh                 ... pos = 0.0   	neg = 0.125
+7. But the real star of                 ... pos = 1.125 	neg = 0.125
+8. Will the horse, the                  ... pos = 0.125 	neg = 0.0  
+9. Opinion: Although th                 ... pos = 1.125 	neg = 0.625
+10. Understandably, cine                ... pos = 0.125 	neg = 0.25 
+11. You'll see it all: b                ... pos = 1.25  	neg = 0.25 
+12. Characterization is                 ... pos = 0.75  	neg = 0.125
+13. Even the horse does                 ... pos = 0.75  	neg = 0.0  
+14. Each of the characte                ... pos = 0.875 	neg = 0.125
+15. As far as acting is                 ... pos = 1.125 	neg = 0.25 
+16. The chemistry betwee                ... pos = 0.5   	neg = 0.375
+17. One technique that d                ... pos = 0.0   	neg = 0.125
+18. For example, the cam                ... pos = 0.75  	neg = 0.375
+19. " Or throughout the                 ... pos = 0.125 	neg = 0.5  
+20. Similarly, when the                 ... pos = 2.25  	neg = 0.125
+21. As the movie meander                ... pos = 1.25  	neg = 0.5  
+22. The idea here, is th                ... pos = 0.5   	neg = 0.5  
+23. Although too much sc                ... pos = 3.875 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-5766-416 is Positive         ... pos = 18.625 	neg = 7.5  
+Overall score of document
+Total Pos = 18.625
+Total Neg = 7.5
+---------------------------------------------------------------------------

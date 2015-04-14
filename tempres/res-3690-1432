@@ -1,0 +1,21 @@
+0. Guaranteed big-scree                 ... pos = 0.375 	neg = 0.0  
+1. Premise reads like a                 ... pos = 0.0   	neg = 0.625
+2. He needs to  come up                 ... pos = 0.0   	neg = 0.25 
+3. Using  only a moment                 ... pos = 0.0   	neg = 0.0  
+4. Energetic, rocket-pa                 ... pos = 0.375 	neg = 0.0  
+5. It seems that  every                 ... pos = 0.875 	neg = 0.25 
+6. Despite the threat o                 ... pos = 1.625 	neg = 0.375
+7. Appropriately, Tykwe                 ... pos = 1.5   	neg = 0.875
+8. He also has remixes                  ... pos = 0.25  	neg = 0.0  
+9. And, notably,  the c                 ... pos = 0.25  	neg = 1.125
+10. Another admirable el                ... pos = 1.375 	neg = 0.75 
+11. Using every crane tr                ... pos = 1.125 	neg = 0.875
+12. It's prime material                 ... pos = 0.0   	neg = 0.0  
+13. And yes, Lola really                ... pos = 0.0   	neg = 0.0  
+14. Potente must have be                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3690-1432 is Positive        ... pos = 8.125 	neg = 5.375
+Overall score of document
+Total Pos = 8.125
+Total Neg = 5.375
+---------------------------------------------------------------------------

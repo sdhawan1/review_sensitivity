@@ -1,0 +1,47 @@
+0. Directed by: James W                 ... pos = 0.0   	neg = 0.5  
+1. This is the primary                  ... pos = 0.25  	neg = 0.625
+2. I'm not entirely sur                 ... pos = 1.5   	neg = 0.125
+3. I suppose it could h                 ... pos = 0.125 	neg = 0.5  
+4. It may have been the                 ... pos = 0.625 	neg = 0.25 
+5. Whatever the reason,                 ... pos = 0     	neg = 0.375
+6. Alex Browning (Devon                 ... pos = 0.0   	neg = 0.125
+7. After a shaky start                  ... pos = 0.5   	neg = 0.25 
+8. While awaiting depar                 ... pos = 0.25  	neg = 0.5  
+9. After screaming abou                 ... pos = 0.25  	neg = 0.125
+10. The aircraft wastes                 ... pos = 0.75  	neg = 0.375
+11. However, as the cree                ... pos = 0.75  	neg = 0.75 
+12. As the survivors are                ... pos = 0.625 	neg = 0.75 
+13. James Wong's film is                ... pos = 0.375 	neg = 0.125
+14. The death scenes are                ... pos = 1.75  	neg = 0.5  
+15. Alex's visions are i                ... pos = 0.25  	neg = 0.0  
+16. They never actually                 ... pos = 0.375 	neg = 0.5  
+17. Not all the death sc                ... pos = 0.75  	neg = 0.0  
+18. One death scene occu                ... pos = 0.5   	neg = 0.0  
+19. Everyone simply star                ... pos = 0.625 	neg = 0.125
+20. "Final Destination"                 ... pos = 0.0   	neg = 0.0  
+21. Devon Sawa ("Idle Ha                ... pos = 0.5   	neg = 0.125
+22. Ali Larter ("House o                ... pos = 2.0   	neg = 0.25 
+23. The remaining young                 ... pos = 3.375 	neg = 0.0  
+24. Tony Todd ("Candyman                ... pos = 1.375 	neg = 0.5  
+25. The only weak link i                ... pos = 0.0   	neg = 0.625
+26. I don't actually thi                ... pos = 1.25  	neg = 0.5  
+27. Another thing I must                ... pos = 0.625 	neg = 0.375
+28. On nearly every occa                ... pos = 0.25  	neg = 0.0  
+29. The only exceptions                 ... pos = 0.25  	neg = 0.375
+30. "Final Destination"                 ... pos = 0.875 	neg = 0.25 
+31. I give it a full rec                ... pos = 0.5   	neg = 0.0  
+32. I also admit to havi                ... pos = 0.0   	neg = 0.125
+33. I give "Final Destin                ... pos = 0.0   	neg = 0.0  
+34. Comments?                           ... pos = 0     	neg = 0.0  
+35. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+36. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+37. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+38. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+39. * - One of the worst                ... pos = 0.0   	neg = 0.375
+40. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5575-535 is Positive         ... pos = 22.625 	neg = 11.625
+Overall score of document
+Total Pos = 22.625
+Total Neg = 11.625
+---------------------------------------------------------------------------

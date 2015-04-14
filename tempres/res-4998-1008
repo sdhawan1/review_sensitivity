@@ -1,0 +1,40 @@
+0. **1/2 (out of 4) Too                 ... pos = 0.5   	neg = 0.625
+1. It happened in this                  ... pos = 0.875 	neg = 0.0  
+2. The movie seemed to                  ... pos = 0.25  	neg = 0.125
+3. The pressure to find                 ... pos = 1.0   	neg = 0.125
+4. This movie has a lot                 ... pos = 0.0   	neg = 0.0  
+5. For one, the story w                 ... pos = 0.75  	neg = 0.125
+6. GET SHORTY, JACKIE B                 ... pos = 0.0   	neg = 0.0  
+7. The style and look o                 ... pos = 0.875 	neg = 0.375
+8. The simplified four-                 ... pos = 0.0   	neg = 0.0  
+9. It captured the feel                 ... pos = 0.0   	neg = 0.0  
+10. The music, the sideb                ... pos = 0.0   	neg = 0.125
+11. The movie is actuall                ... pos = 0.0   	neg = 0.125
+12. Jack Foley (George C                ... pos = 0.0   	neg = 0.625
+13. He helps his victims                ... pos = 0.125 	neg = 0.125
+14. Unfortunately, his c                ... pos = 0.0   	neg = 0.875
+15. There's Glenn (Steve                ... pos = 0.0   	neg = 0.0  
+16. Foley breaks out of                 ... pos = 0.125 	neg = 0.125
+17. She gets locked in a                ... pos = 0.5   	neg = 0.0  
+18. Foley comes on to he                ... pos = 0.5   	neg = 0.125
+19. Finally she escapes,                ... pos = 0.0   	neg = 0.0  
+20. Foley works his way                 ... pos = 0.0   	neg = 0.0  
+21. She is looking for h                ... pos = 0.0   	neg = 1.125
+22. The night before the                ... pos = 0.125 	neg = 0.125
+23. And soon thereafter,                ... pos = 0.25  	neg = 0.5  
+24. (To be fair, nobody                 ... pos = 0.0   	neg = 0.375
+25. Mentally give this m                ... pos = 0.375 	neg = 0.0  
+26. ) . Veteran editor A                ... pos = 0.75  	neg = 0.25 
+27. There were a few pla                ... pos = 0.5   	neg = 0.125
+28. For example, after F                ... pos = 0.5   	neg = 0.0  
+29. When Sisco has Foley                ... pos = 0.0   	neg = 0.375
+30. In addition, she had                ... pos = 1.375 	neg = 0.375
+31. All in all, this mov                ... pos = 0.0   	neg = 0.125
+32. The writing, chemist                ... pos = 0.0   	neg = 0.25 
+33. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4998-1008 is Positive        ... pos = 9.375 	neg = 7.125
+Overall score of document
+Total Pos = 9.375
+Total Neg = 7.125
+---------------------------------------------------------------------------

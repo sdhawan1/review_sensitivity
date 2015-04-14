@@ -1,0 +1,29 @@
+0. THE MAN IN THE IRON                  ... pos = 0.125 	neg = 0.0  
+1. Have a freakin' good                 ... pos = 0.75  	neg = 0.0  
+2. ). starring Leonardo                 ... pos = 1.375 	neg = 0.25 
+3. He's also very much                  ... pos = 0.875 	neg = 1.125
+4. Put frilly clothes o                 ... pos = 0.625 	neg = 0.0  
+5. He is an actor out o                 ... pos = 0.125 	neg = 0.125
+6. The film begins with                 ... pos = 0.847 	neg = 0.0  
+7. Then Louis falls in                  ... pos = 0.5   	neg = 0.25 
+8. This leads Athos (Ma                 ... pos = 0.0   	neg = 0.5  
+9. He reteams with ex-M                 ... pos = 0.5   	neg = 1.25 
+10. A switcheroo is perf                ... pos = 0.0   	neg = 0.125
+11. DiCaprio is not the                 ... pos = 0.0   	neg = 0.625
+12. Malkovich's performa                ... pos = 0.375 	neg = 0.125
+13. Randall Wallace's ad                ... pos = 0.125 	neg = 0.25 
+14. As a debut director,                ... pos = 1.125 	neg = 0.25 
+15. There are a handful                 ... pos = 0.5   	neg = 0.0  
+16. He's also the only m                ... pos = 0.5   	neg = 0.125
+17. It's a shame DiCapri                ... pos = 0.0   	neg = 0.75 
+18. Perhaps working with                ... pos = 0.25  	neg = 0.5  
+19. The film, despite be                ... pos = 0.875 	neg = 0.375
+20. Diverting, yes, but                 ... pos = 0.5   	neg = 0.0  
+21. -March, 1998.                       ... pos = 0     	neg = 0    
+22. Originally printed i                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5987-1545 is Positive        ... pos = 10.097 	neg = 6.625
+Overall score of document
+Total Pos = 10.097
+Total Neg = 6.625
+---------------------------------------------------------------------------

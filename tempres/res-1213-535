@@ -1,0 +1,51 @@
+0. Directed by: William                 ... pos = 0.75  	neg = 0.125
+1. It's one of those fi                 ... pos = 0.5   	neg = 0.375
+2. However, there is so                 ... pos = 0.375 	neg = 0.125
+3. I suppose it could b                 ... pos = 0.125 	neg = 0.125
+4. It could also be tha                 ... pos = 0.0   	neg = 0.125
+5. Whatever the reason,                 ... pos = 0.375 	neg = 1.375
+6. Colonel Terry Childe                 ... pos = 0.0   	neg = 0.125
+7. His latest assignmen                 ... pos = 0.125 	neg = 0.125
+8. When the protestors                  ... pos = 0.5   	neg = 0.0  
+9. Now he faces a court                 ... pos = 0.0   	neg = 0.125
+10. His attorney is Colo                ... pos = 0.125 	neg = 0.125
+11. The prosecuting atto                ... pos = 0.5   	neg = 0.75 
+12. As I said, this is h                ... pos = 1.125 	neg = 0.125
+13. There are several th                ... pos = 0.25  	neg = 0.75 
+14. One is the absence o                ... pos = 0.75  	neg = 0.125
+15. In fact, there is ha                ... pos = 0.0   	neg = 0.125
+16. During the courtroom                ... pos = 1.375 	neg = 0.375
+17. Instead, we are give                ... pos = 0.5   	neg = 0.625
+18. On the bright side,                 ... pos = 0.875 	neg = 0.0  
+19. The acting in "Rules                ... pos = 0.375 	neg = 0.125
+20. Samuel L. Jackson is                ... pos = 0.0   	neg = 0.125
+21. A man consumed with                 ... pos = 2.5   	neg = 0.125
+22. Jones may be a bit m                ... pos = 0.0   	neg = 0.625
+23. Ben Kingsley ("Speci                ... pos = 0.375 	neg = 0.0  
+24. ") is given nothing                 ... pos = 0.375 	neg = 0.75 
+25. Guy Pearce, who gave                ... pos = 0.875 	neg = 0.5  
+26. There is something a                ... pos = 1.375 	neg = 1.375
+27. There are certain th                ... pos = 0.875 	neg = 0.25 
+28. For example, Bruce G                ... pos = 0.875 	neg = 0.75 
+29. Instead of submittin                ... pos = 0.0   	neg = 0.375
+30. " Not only does it n                ... pos = 0.125 	neg = 0.125
+31. The only other thing                ... pos = 0.0   	neg = 0.5  
+32. Not only are long, s                ... pos = 1.0   	neg = 0.875
+33. "Rules of Engagement                ... pos = 0.0   	neg = 0.875
+34. I recommend it to fa                ... pos = 0.875 	neg = 0.0  
+35. I give the film two                 ... pos = 0.0   	neg = 0.0  
+36. Comments?                           ... pos = 0     	neg = 0.0  
+37. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+38. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+39. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+40. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+41. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+42. See it if you have n                ... pos = 0.0   	neg = 0.25 
+43. * - One of the worst                ... pos = 0.0   	neg = 0.375
+44. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1213-535 is Positive         ... pos = 19.25 	neg = 15.0 
+Overall score of document
+Total Pos = 19.25
+Total Neg = 15.0
+---------------------------------------------------------------------------

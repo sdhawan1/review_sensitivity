@@ -1,0 +1,56 @@
+0. Director:  John Car                 ... pos = 0.125 	neg = 0.0  
+1. US Distribution:  C                 ... pos = 1.0   	neg = 0.0  
+2. Why are so many peop                 ... pos = 0.25  	neg = 0.0  
+3. Why does anyone care                 ... pos = 0.0   	neg = 0.0  
+4. Why are there people                 ... pos = 0.25  	neg = 0.0  
+5. There are people in                  ... pos = 0.375 	neg = 0.0  
+6. This is a sickness.                  ... pos = 0.0   	neg = 0.125
+7. It's an obsession.                   ... pos = 0.25  	neg = 0    
+8. And I, unfortunately                 ... pos = 0.0   	neg = 0.875
+9. Perhaps I shouldn't                  ... pos = 0.0   	neg = 0.0  
+10. Vampires don't inter                ... pos = 0     	neg = 0.0  
+11. They don't interest                 ... pos = 0.0   	neg = 0.0  
+12. I can watch a movie                 ... pos = 1.25  	neg = 0.375
+13. The title of John Ca                ... pos = 0.0   	neg = 0.375
+14. It's all about vampi                ... pos = 0.0   	neg = 0.0  
+15. There are vampires i                ... pos = 0.25  	neg = 0.0  
+16. Vampires get slaught                ... pos = 0.0   	neg = 0.0  
+17. It's rare that Carpe                ... pos = 0.5   	neg = 1.5  
+18. But if you look past                ... pos = 0.0   	neg = 0.75 
+19. Vampires starts out                 ... pos = 0.0   	neg = 0.0  
+20. By the end, though,                 ... pos = 0.25  	neg = 0.375
+21. And at the center of                ... pos = 0.5   	neg = 0.125
+22. Like most vampire hu                ... pos = 0.125 	neg = 0.0  
+23. He's one macho dude,                ... pos = 0.125 	neg = 0.75 
+24. After an introductio                ... pos = 0.0   	neg = 0.125
+25. So, with only his tr                ... pos = 0.125 	neg = 0.0  
+26. I think Carpenter kn                ... pos = 0.0   	neg = 0.25 
+27. I sure hope he does,                ... pos = 0.625 	neg = 0.0  
+28. I realize I'm probab                ... pos = 0.25  	neg = 0.5  
+29. I find this obsessio                ... pos = 0.25  	neg = 0.625
+30. Carpenter, who has m                ... pos = 1.125 	neg = 0.0  
+31. The violence is so e                ... pos = 0.25  	neg = 0.125
+32. And some of the one-                ... pos = 1.0   	neg = 0.125
+33. But the story isn't                 ... pos = 0.875 	neg = 0.0  
+34. A major problem lies                ... pos = 1.375 	neg = 0.25 
+35. Later in the film, w                ... pos = 0.75  	neg = 1.417
+36. And the violence tak                ... pos = 0.25  	neg = 0.0  
+37. (There's a scene tha                ... pos = 0.125 	neg = 0.375
+38. ). And, based on thi                ... pos = 0.0   	neg = 0.125
+39. The only non-vampire                ... pos = 3.625 	neg = 0.125
+40. Most of the vampires                ... pos = 0.625 	neg = 0.25 
+41. Vampires isn't socia                ... pos = 0.0   	neg = 0.0  
+42. It's just one more e                ... pos = 0.625 	neg = 0.625
+43. It's a good thing Wo                ... pos = 1.125 	neg = 0.903
+44. Baldwin is a watchab                ... pos = 0.125 	neg = 0.125
+45. Lee is on hand simpl                ... pos = 0.25  	neg = 0.125
+46. Griffith is actually                ... pos = 0.75  	neg = 0.125
+47. All things considere                ... pos = 0.25  	neg = 0.25 
+48. If vampires were rea                ... pos = 0.375 	neg = 1.0  
+49. But, seeing as how v                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1040-760 is Positive         ... pos = 20.125 	neg = 13.07
+Overall score of document
+Total Pos = 20.125
+Total Neg = 13.07
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. "Cop Land" is the so                 ... pos = 1.5   	neg = 0.125
+1. Since I haven't seen                 ... pos = 0.625 	neg = 0.875
+2. I found "Cop Land" a                 ... pos = 0.625 	neg = 0.0  
+3. "Cop Land"'s script                  ... pos = 0.5   	neg = 1.0  
+4. The consequence is t                 ... pos = 1.25  	neg = 1.5  
+5. One of the strong th                 ... pos = 2.625 	neg = 0.375
+6. The basic story is t                 ... pos = 0.75  	neg = 0.375
+7. It's rife with corru                 ... pos = 1.0   	neg = 0.0  
+8. He runs things far m                 ... pos = 0.75  	neg = 0.0  
+9. The atmosphere of th                 ... pos = 0.5   	neg = 0.0  
+10. Freddy starts the fi                ... pos = 1.0   	neg = 0.0  
+11. The cost of the lies                ... pos = 0.375 	neg = 0.5  
+12. As he becomes more a                ... pos = 0.75  	neg = 0.875
+13. None of the performe                ... pos = 1.375 	neg = 0.0  
+14. I was a bit detached                ... pos = 0.5   	neg = 0.25 
+15. A cast of talented u                ... pos = 0.0   	neg = 0.875
+16. Stallone's performan                ... pos = 2.0   	neg = 1.125
+17. Playing it down is f                ... pos = 0.75  	neg = 0.125
+18. The underdog role st                ... pos = 1.25  	neg = 0.75 
+19. Freddy's life of qui                ... pos = 0.75  	neg = 0.125
+20. The climax, with a f                ... pos = 0.5   	neg = 0.125
+21. The cinematography b                ... pos = 0.875 	neg = 1.0  
+22. Mangold is definatel                ... pos = 1.0   	neg = 0.625
+23. Moderately Recommend                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2603-580 is Positive         ... pos = 21.25 	neg = 10.875
+Overall score of document
+Total Pos = 21.25
+Total Neg = 10.875
+---------------------------------------------------------------------------

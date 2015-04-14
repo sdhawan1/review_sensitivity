@@ -1,0 +1,60 @@
+0. David (Tobie Maguire                 ... pos = 0.25  	neg = 0.0  
+1. In fact, they couldn                 ... pos = 0.0   	neg = 0.25 
+2. Jennifer, on the oth                 ... pos = 0.0   	neg = 0.25 
+3. While Jennifer enjoy                 ... pos = 0.375 	neg = 0.125
+4. One evening, while t                 ... pos = 0.0   	neg = 0.125
+5. Jennifer has the hot                 ... pos = 1.25  	neg = 0.25 
+6. During a struggle ov                 ... pos = 0.0   	neg = 0.0  
+7. "This is a new TV,"                  ... pos = 0.375 	neg = 0.125
+8. "It doesn't work wit                 ... pos = 0.0   	neg = 0    
+9. "  Uh, oh.                           ... pos = 0     	neg = 0.0  
+10. Luckily (and mysteri                ... pos = 0.875 	neg = 0.0  
+11. "One that really put                ... pos = 0.0   	neg = 0.0  
+12. No sooner does David                ... pos = 0.625 	neg = 0.25 
+13. Suddenly, they're za                ... pos = 0.0   	neg = 0.0  
+14. They have now become                ... pos = 1.125 	neg = 0.0  
+15. Faced with this incr                ... pos = 0.75  	neg = 0.5  
+16. Gosh, there are so m                ... pos = 0.25  	neg = 0.75 
+17. Screenwriter and dir                ... pos = 0.375 	neg = 0.0  
+18. On the surface, it w                ... pos = 0.25  	neg = 0.125
+19. As David and Jennife                ... pos = 1.875 	neg = 0.0  
+20. We see that the "val                ... pos = 0.25  	neg = 0.125
+21. Once in the Pleasant                ... pos = 0.25  	neg = 0.0  
+22. This is a metaphor n                ... pos = 1.25  	neg = 1.125
+23. Ross and cinematogra                ... pos = 0.25  	neg = 0.0  
+24. Ross also delivers s                ... pos = 0.5   	neg = 1.125
+25. We never see TV acto                ... pos = 0.0   	neg = 0.0  
+26. Later, we learn that                ... pos = 0.0   	neg = 0.375
+27. Watching the first h                ... pos = 3.875 	neg = 0.5  
+28. "  All the actors lo                ... pos = 1.0   	neg = 0.375
+29. It's rare you get to                ... pos = 0.375 	neg = 0.0  
+30. Among those clearly                 ... pos = 0.875 	neg = 0.0  
+31. Starting out as the                 ... pos = 1.375 	neg = 0.75 
+32. However, with their                 ... pos = 0.125 	neg = 0.625
+33. Jeff Daniels is also                ... pos = 0.0   	neg = 0.25 
+34. Through Mr. Johnson,                ... pos = 1.625 	neg = 0.375
+35. There's a wondrous s                ... pos = 1.625 	neg = 0.125
+36. I'll admit, this sce                ... pos = 1.25  	neg = 0.375
+37. Unfortunately, much                 ... pos = 1.125 	neg = 1.25 
+38. Maguire and Withersp                ... pos = 1.5   	neg = 0.0  
+39. Maguire came onto th                ... pos = 1.375 	neg = 0.0  
+40. "  Witherspoon gaine                ... pos = 0.625 	neg = 0.625
+41. Both provide fine pe                ... pos = 1.0   	neg = 0.0  
+42. As much as there's a                ... pos = 0.125 	neg = 0.375
+43. Walsh in his final p                ... pos = 0.0   	neg = 0.0  
+44. Walsh offers his usu                ... pos = 0.625 	neg = 1.25 
+45. Not a bad one on whi                ... pos = 0.0   	neg = 0.875
+46. There are a few down                ... pos = 0.5   	neg = 0.0  
+47. When the town citize                ... pos = 0.125 	neg = 0.0  
+48. ) prejudice erupts a                ... pos = 0.0   	neg = 0.0  
+49. There's even a book                 ... pos = 0.5   	neg = 0.75 
+50. Salinger, harkening                 ... pos = 0.0   	neg = 0    
+51. I was also disappoin                ... pos = 0.375 	neg = 0.75 
+52. "  However, these po                ... pos = 1.625 	neg = 0    
+53. For a couple of hour                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1978-781 is Positive         ... pos = 33.25 	neg = 14.875
+Overall score of document
+Total Pos = 33.25
+Total Neg = 14.875
+---------------------------------------------------------------------------

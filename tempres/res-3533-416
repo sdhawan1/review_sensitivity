@@ -1,0 +1,26 @@
+0. Ingredients: Hurrica                 ... pos = 0.375 	neg = 0.25 
+1. Starring: Nicolas Ca                 ... pos = 0.875 	neg = 0.125
+2. The fight is attende                 ... pos = 0.0   	neg = 0.125
+3. The Secretary of Def                 ... pos = 0.875 	neg = 0.75 
+4. The policeman in cha                 ... pos = 0.875 	neg = 0.75 
+5. Santoro may be corru                 ... pos = 0.0   	neg = 0.25 
+6. Trouble is, all the                  ... pos = 0.375 	neg = 0.875
+7. Opinion: Nicholas Ca                 ... pos = 2.625 	neg = 0.0  
+8. In fact, Cage bails                  ... pos = 0.0   	neg = 0.0  
+9. With a director like                 ... pos = 0.75  	neg = 0.75 
+10. That's probably why                 ... pos = 0.0   	neg = 0.625
+11. But the weak script                 ... pos = 0.5   	neg = 2.25 
+12. Given a weak and som                ... pos = 0.25  	neg = 3.25 
+13. SNAKE EYES solves th                ... pos = 1.375 	neg = 0.5  
+14. For example, instead                ... pos = 0.25  	neg = 0.0  
+15. " the movie focuses                 ... pos = 1.25  	neg = 0.0  
+16. " And so we sit thro                ... pos = 0.125 	neg = 0.375
+17. This new focus - - w                ... pos = 1.5   	neg = 0.25 
+18. Somewhat predictable                ... pos = 0.75  	neg = 0.25 
+19. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3533-416 is Positive         ... pos = 12.75 	neg = 11.5 
+Overall score of document
+Total Pos = 12.75
+Total Neg = 11.5
+---------------------------------------------------------------------------

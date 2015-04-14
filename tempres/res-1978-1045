@@ -1,0 +1,67 @@
+0. by Curtis D. Edmonds                 ... pos = 0.25  	neg = 0.0  
+1. Didn't they have col                 ... pos = 0.0   	neg = 0.0  
+2. Calvin's Dad:  Sure                  ... pos = 0.25  	neg = 0.0  
+3. In fact, those old p                 ... pos = 0.25  	neg = 0    
+4. It's just that the w                 ... pos = 0.0   	neg = 0.125
+5. Calvin's Dad:  Yep.                  ... pos = 0     	neg = 0    
+6. The world didn't tur                 ... pos = 0.0   	neg = 0.25 
+7. Calvin:  But then wh                 ... pos = 0.25  	neg = 0.0  
+8. If the world was bla                 ... pos = 0.0   	neg = 0.125
+9. Calvin's Dad:  Not n                 ... pos = 0.0   	neg = 0    
+10. A lot of great artis                ... pos = 0.0   	neg = 0.125
+11. Calvin:  But... but                 ... pos = 0.0   	neg = 0.0  
+12. Wouldn't their paint                ... pos = 0.0   	neg = 0.5  
+13. Calvin's Dad:  Of co                ... pos = 0     	neg = 0.0  
+14. But they turned colo                ... pos = 0.0   	neg = 0.0  
+15. --  Bill Watterson,                 ... pos = 1.5   	neg = 0.0  
+16. One is that it made                 ... pos = 0.0   	neg = 0.125
+17. The other is the sea                ... pos = 0.0   	neg = 0.125
+18. Other than that, the                ... pos = 0.5   	neg = 0.0  
+19. We've seen this tech                ... pos = 0.125 	neg = 0.0  
+20. But Schindler's List                ... pos = 0.5   	neg = 0.125
+21. In Pleasantville, th                ... pos = 0.125 	neg = 0.0  
+22. (Although the line b                ... pos = 0.5   	neg = 0.0  
+23. ). Pleasantville dra                ... pos = 0.125 	neg = 0.0  
+24. In this instance, tw                ... pos = 0.25  	neg = 0.0  
+25. While this seems lik                ... pos = 0.375 	neg = 0.375
+26. Back to the Future,                 ... pos = 1.125 	neg = 0.0  
+27. Peggy Sue Got Marrie                ... pos = 0.0   	neg = 0.0  
+28. Pleasantville is abl                ... pos = 1.5   	neg = 0.375
+29. The only cleverness                 ... pos = 0.25  	neg = 1.25 
+30. The problems of Plea                ... pos = 0.0   	neg = 0.5  
+31. Maguire is given the                ... pos = 0.375 	neg = 0.125
+32. He starts out as an                 ... pos = 0.375 	neg = 0.0  
+33. When he wrestles wit                ... pos = 1.125 	neg = 1.375
+34. Somehow, he matures                 ... pos = 1.125 	neg = 0.0  
+35. But his character is                ... pos = 0.875 	neg = 0.125
+36. Thrust into his idea                ... pos = 0.125 	neg = 0.125
+37. He watches the show                 ... pos = 1.25  	neg = 0.125
+38. He wants to preserve                ... pos = 0.25  	neg = 0.0  
+39. We're never sure wha                ... pos = 0.25  	neg = 1.0  
+40. Witherspoon sparks t                ... pos = 0.125 	neg = 0.375
+41. She looks outstandin                ... pos = 0.75  	neg = 0.75 
+42. But she's given very                ... pos = 0.5   	neg = 1.25 
+43. The Pleasantville pa                ... pos = 0.25  	neg = 0.0  
+44. Veterans William Mac                ... pos = 0.0   	neg = 0.125
+45. I would have loved t                ... pos = 0.5   	neg = 0.625
+46. Allen is the spouse                 ... pos = 1.25  	neg = 0.125
+47. Of the other grownup                ... pos = 0.5   	neg = 0.5  
+48. Walsh glowers effect                ... pos = 0.5   	neg = 0    
+49. (Don Knotts makes th                ... pos = 0.25  	neg = 0.0  
+50. ). Pleasantville rem                ... pos = 0.25  	neg = 0.5  
+51. Both films are well-                ... pos = 1.0   	neg = 0.0  
+52. But neither of them                 ... pos = 0.0   	neg = 0.25 
+53. They both lie up the                ... pos = 0.125 	neg = 0.0  
+54. Dark City is margina                ... pos = 0.25  	neg = 0.875
+55. I did like one scene                ... pos = 0.125 	neg = 0.0  
+56. Kudos to Pleasantvil                ... pos = 0.0   	neg = 0.0  
+57. And that's the messa                ... pos = 0.125 	neg = 0.0  
+58. (And no, sorry, Calv                ... pos = 0.0   	neg = 0.875
+59. ). Movie Reviews: ht                ... pos = 0.25  	neg = 0.25 
+60. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1978-1045 is Positive        ... pos = 20.375 	neg = 13.375
+Overall score of document
+Total Pos = 20.375
+Total Neg = 13.375
+---------------------------------------------------------------------------

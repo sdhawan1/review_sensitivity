@@ -1,0 +1,82 @@
+0. Screenplay by Brian                  ... pos = 0.0   	neg = 0.0  
+1. *SPOILER ALERT!!!!!!                 ... pos = 0     	neg = 0    
+2. * The following revi                 ... pos = 0.25  	neg = 0.0  
+3. ) and do plan to see                 ... pos = 0.0   	neg = 0.0  
+4. Early 1950s, Los Ang                 ... pos = 0.5   	neg = 0.0  
+5. The story of "L.A.                   ... pos = 0.0   	neg = 0    
+6. Confidential" is cen                 ... pos = 0.25  	neg = 0.25 
+7. It is not about a si                 ... pos = 0.25  	neg = 0.875
+8. It's a crime drama w                 ... pos = 0.0   	neg = 0.125
+9. Lieutenant Edmund Je                 ... pos = 0.625 	neg = 0.0  
+10. He quickly gains eve                ... pos = 0.125 	neg = 0.0  
+11. Among his haters is                 ... pos = 0.25  	neg = 0.25 
+12. The third protagonis                ... pos = 1.75  	neg = 0.375
+13. "  He loves the spot                ... pos = 0.875 	neg = 0.0  
+14. The central mistery                 ... pos = 0.5   	neg = 0.5  
+15. Exley, White and Spa                ... pos = 0.625 	neg = 0.0  
+16. In the process, we h                ... pos = 2.0   	neg = 1.75 
+17. In the middle of all                ... pos = 0.5   	neg = 0.75 
+18. The spirit of this f                ... pos = 0.875 	neg = 0.375
+19. Police brutality is                 ... pos = 0.625 	neg = 0.125
+20. It is the same city                 ... pos = 0.625 	neg = 0.875
+21. The original James E                ... pos = 0.25  	neg = 1.0  
+22. It is virtually impo                ... pos = 2.75  	neg = 0.25 
+23. They also create sev                ... pos = 0.0   	neg = 0.25 
+24. the amusing Lana Tur                ... pos = 0.0   	neg = 0.0  
+25. Ellis Lowe, and the                 ... pos = 1.125 	neg = 0.125
+26. Although the plot of                ... pos = 0.0   	neg = 0.0  
+27. Confidential" is sat                ... pos = 2.5   	neg = 0.25 
+28. It is mind-boggling                 ... pos = 0.0   	neg = 0.125
+29. Sporting a squeaky-c                ... pos = 0.375 	neg = 0.625
+30. In the mean time, th                ... pos = 2.625 	neg = 0.375
+31. The flaws do not fun                ... pos = 2.0   	neg = 0.0  
+32. Russell Crowe's Bud                 ... pos = 0.25  	neg = 1.75 
+33. His violent tendency                ... pos = 0.375 	neg = 1.25 
+34. Gradually we learn o                ... pos = 0.25  	neg = 0.5  
+35. He is a man carrying                ... pos = 1.5   	neg = 0.75 
+36. Crowe's rugged good                 ... pos = 2.375 	neg = 0.375
+37. It is a passionate p                ... pos = 0.875 	neg = 0.125
+38. Ed Exley appears to                 ... pos = 0.875 	neg = 0.25 
+39. He is intelligent, c                ... pos = 0.5   	neg = 0.125
+40. With the cold eyes b                ... pos = 1.75  	neg = 0.125
+41. It is difficult to l                ... pos = 0.875 	neg = 0.125
+42. What drives his tran                ... pos = 0.75  	neg = 0.625
+43. Conscience is also t                ... pos = 0.125 	neg = 0.5  
+44. This is the characte                ... pos = 2.25  	neg = 0.125
+45. He presents this cel                ... pos = 0.5   	neg = 0.5  
+46. It is impossile for                 ... pos = 0.5   	neg = 0.125
+47. Two scenes have been                ... pos = 1.0   	neg = 0.125
+48. However, it made per                ... pos = 0.25  	neg = 0.125
+49. It is not immediatel                ... pos = 0.0   	neg = 0.125
+50. Exley and White form                ... pos = 0.0   	neg = 0    
+51. They are not the exa                ... pos = 0.25  	neg = 0.0  
+52. Exley is not the str                ... pos = 0.875 	neg = 0.5  
+53. The characters are t                ... pos = 1.125 	neg = 0    
+54. It would work better                ... pos = 0.875 	neg = 0.25 
+55. We know Bud White's                 ... pos = 0.25  	neg = 0.125
+56. I wish the filmmaker                ... pos = 0.0   	neg = 0.625
+57. As interesting and c                ... pos = 1.875 	neg = 0.25 
+58. The supporting cast                 ... pos = 0.625 	neg = 0.0  
+59. Dudley Smith, Kim Ba                ... pos = 0.0   	neg = 0.0  
+60. All adaquate and won                ... pos = 0.75  	neg = 0    
+61. But the winners are                 ... pos = 1.0   	neg = 0.0  
+62. There could be no be                ... pos = 0.0   	neg = 0.625
+63. The cinematography,                 ... pos = 1.0   	neg = 0.0  
+64. Director Curtis Hans                ... pos = 0.0   	neg = 0.25 
+65. the 3-way interrogat                ... pos = 1.125 	neg = 0.0  
+66. And the final shooto                ... pos = 0.375 	neg = 0.0  
+67. The grim anticipatio                ... pos = 0.625 	neg = 1.25 
+68. The first time I saw                ... pos = 0.125 	neg = 0.125
+69. It may look better i                ... pos = 0.125 	neg = 0.375
+70. The second time real                ... pos = 0.5   	neg = 0.25 
+71. I am a sucker for th                ... pos = 1.125 	neg = 0.125
+72. "L.A.                               ... pos = 0.0   	neg = 0    
+73. Confidential" satisf                ... pos = 0.75  	neg = 0    
+74. It is still the unma                ... pos = 1.125 	neg = 0.625
+75. I give it A-, the on                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1450-94 is Positive          ... pos = 51.75 	neg = 22.25
+Overall score of document
+Total Pos = 51.75
+Total Neg = 22.25
+---------------------------------------------------------------------------

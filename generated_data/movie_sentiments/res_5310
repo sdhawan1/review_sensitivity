@@ -1,0 +1,2814 @@
+0. BLAIR WITCH PROJECT,                 ... pos = 0.375 	neg = 0.75 
+1. To shoot a film abou                 ... pos = 1.364 	neg = 0.625
+2. It also should move                  ... pos = 0.375 	neg = 0.375
+3. Heather Donahue (Hea                 ... pos = 0.5   	neg = 1.375
+4. The film begins by a                 ... pos = 0.0   	neg = 0.125
+5. As we watch the foot                 ... pos = 0.25  	neg = 0.0  
+6. The horrors come abo                 ... pos = 1.625 	neg = 1.125
+7. It is the horror on                  ... pos = 1.0   	neg = 0.625
+8. It matters not what                  ... pos = 0.25  	neg = 0.125
+9. What is really scary                 ... pos = 1.875 	neg = 1.375
+10. This makes the last                 ... pos = 0.0   	neg = 0.0  
+11. It sticks with you w                ... pos = 0.0   	neg = 0.0  
+12. It reminded me somew                ... pos = 0.375 	neg = 0.0  
+13. This method of filmi                ... pos = 0.625 	neg = 0.25 
+14. The flaws in this pr                ... pos = 0.25  	neg = 0.75 
+15. I would not like to                 ... pos = 0.75  	neg = 0.0  
+16. This film, just happ                ... pos = 1.25  	neg = 0.375
+17. Follow-up films rare                ... pos = 0.25  	neg = 0.0  
+18. This film did what i                ... pos = 0.5   	neg = 0.25 
+19. It made a virtue out                ... pos = 0.0   	neg = 1.125
+20. The other thing the                 ... pos = 0.0   	neg = 0.125
+21. I would have felt mo                ... pos = 0.375 	neg = 0.0  
+22. It was also hard on                 ... pos = 0.0   	neg = 1.0  
+23. But this is overwrit                ... pos = 2.5   	neg = 2.75 
+24. I would give it an A                ... pos = 0.75  	neg = 0.375
+25. But as a professiona                ... pos = 0.0   	neg = 0.375
+26. Though I do heartily                ... pos = 0.875 	neg = 0.5  
+27. That something speci                ... pos = 0.375 	neg = 0.125
+28. The film leaves the                 ... pos = 1.375 	neg = 0.375
+29. I wonder how many ot                ... pos = 0.0   	neg = 0.0  
+30. Dennis Schwartz: "Oz                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp0 is Positive                 ... pos = 17.864 	neg = 14.875
+Overall score of document
+Total Pos = 17.864
+Total Neg = 14.875
+---------------------------------------------------------------------------
+0. There is a paradox i                 ... pos = 0.0   	neg = 0.125
+1. The viewer goes to a                 ... pos = 0.25  	neg = 0.5  
+2. We as viewers want t                 ... pos = 0.25  	neg = 0.25 
+3. The filmmakers we co                 ... pos = 0.75  	neg = 0.125
+4. These great stylists                 ... pos = 0.75  	neg = 0.0  
+5. The most real film i                 ... pos = 0.0   	neg = 0.125
+6. Even using Steadicam                 ... pos = 0.125 	neg = 0.125
+7. As we look at he wor                 ... pos = 0.0   	neg = 0.375
+8. Steadicam smoothes o                 ... pos = 0.125 	neg = 0.125
+9. A rare few films use                 ... pos = 0.5   	neg = 0.125
+10. THE NIGHT OF THE LIV                ... pos = 1.0   	neg = 1.125
+11. It is shot in black                 ... pos = 0.125 	neg = 0.125
+12. It does have music,                 ... pos = 0.0   	neg = 0.25 
+13. Color and a lush orc                ... pos = 0.375 	neg = 0    
+14. As I write this revi                ... pos = 1.125 	neg = 0.0  
+15. The remake of THE HA                ... pos = 0.625 	neg = 0.375
+16. THE BLAIR WITCH PROJ                ... pos = 0.0   	neg = 0.375
+17. And that lack of sty                ... pos = 0.125 	neg = 0.125
+18. By showing almost no                ... pos = 0.25  	neg = 0.75 
+19. In fact THE BLAIR WI                ... pos = 0.375 	neg = 0.0  
+20. THE BLAIR WITCH PROJ                ... pos = 1.0   	neg = 0.5  
+21. In fact it has no st                ... pos = 0.25  	neg = 0.25 
+22. That makes it the mo                ... pos = 0.625 	neg = 0.0  
+23. The plot of THE BLAI                ... pos = 0.125 	neg = 0.125
+24. We are told at the v                ... pos = 1.5   	neg = 0.125
+25. They went into the M                ... pos = 0.0   	neg = 0.0  
+26. They never came out                 ... pos = 0.25  	neg = 0.125
+27. We don't even know h                ... pos = 0.0   	neg = 0.25 
+28. But we are seeing th                ... pos = 0.25  	neg = 0.0  
+29. It is clear from the                ... pos = 0.0   	neg = 1.25 
+30. It is not hard to gu                ... pos = 0.0   	neg = 1.5  
+31. The film spends the                 ... pos = 0.25  	neg = 0.375
+32. This is not a great                 ... pos = 0.0   	neg = 0.125
+33. It is almost no plot                ... pos = 0.0   	neg = 0.375
+34. The viewer knows wha                ... pos = 0.25  	neg = 0.5  
+35. Yet just seeing it a                ... pos = 1.375 	neg = 0.0  
+36. The special effects                 ... pos = 0.25  	neg = 0.5  
+37. They are all easy to                ... pos = 1.75  	neg = 0.0  
+38. This is a film that                 ... pos = 1.125 	neg = 0.125
+39. The film is written,                ... pos = 0.0   	neg = 0.125
+40. It is a Haxen Films                 ... pos = 0.75  	neg = 0.125
+41. The three main chara                ... pos = 0.875 	neg = 0.125
+42. According to the pub                ... pos = 0.0   	neg = 0.125
+43. Apparently they were                ... pos = 0.875 	neg = 0.25 
+44. I would bet that the                ... pos = 0.875 	neg = 0.125
+45. The reported cost of                ... pos = 0.25  	neg = 0.25 
+46. It is the kind of tr                ... pos = 0.5   	neg = 1.0  
+47. This is a film of in                ... pos = 0.0   	neg = 0.125
+48. It has no sex, no vi                ... pos = 0.125 	neg = 0.75 
+49. Yet it is too strong                ... pos = 0.75  	neg = 0.375
+50. I rate it an8 on the                ... pos = 0.0   	neg = 0.0  
+51. In case there is any                ... pos = 0.25  	neg = 1.0  
+52. A possible exception                ... pos = 0.125 	neg = 0.25 
+53. There never was a Bl                ... pos = 0.0   	neg = 0.125
+54. Dogma 95 is a Europe                ... pos = 0.0   	neg = 0.125
+55. It is intended to br                ... pos = 0.0   	neg = 0.125
+56. THE BLAIR WITCH PROJ                ... pos = 0.125 	neg = 0.0  
+57. However, its complia                ... pos = 0.125 	neg = 0.125
+58. The following are th                ... pos = 0.25  	neg = 0.0  
+59. I swear to submit to                ... pos = 0.0   	neg = 0.0  
+60. Shooting must be don                ... pos = 0.375 	neg = 0.125
+61. Props and sets must                 ... pos = 0.75  	neg = 0.625
+62. 2.                                  ... pos = 0     	neg = 0    
+63. The sound must never                ... pos = 0.375 	neg = 0.5  
+64. (Music must not be u                ... pos = 0.625 	neg = 0.25 
+65. 3.                                  ... pos = 0     	neg = 0    
+66. The camera must be h                ... pos = 0.375 	neg = 0.125
+67. Any movement or immo                ... pos = 0.5   	neg = 0.125
+68. (The film must not t                ... pos = 0.75  	neg = 0.125
+69. 4.                                  ... pos = 0     	neg = 0    
+70. The film must be in                 ... pos = 0.375 	neg = 0.125
+71. Special lighting is                 ... pos = 0.0   	neg = 0.125
+72. (If there is too lit                ... pos = 0.875 	neg = 0.875
+73. 6.                                  ... pos = 0     	neg = 0    
+74. The film must not co                ... pos = 0.375 	neg = 0.5  
+75. (Murders, weapons, e                ... pos = 0     	neg = 0.375
+76. must not occur.                     ... pos = 0.375 	neg = 0    
+77. ).      7.                          ... pos = 0     	neg = 0    
+78. Temporal and geograp                ... pos = 0.25  	neg = 0.375
+79. (That is to say that                ... pos = 0.125 	neg = 0.125
+80. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp1 is Positive                 ... pos = 27.75 	neg = 20.625
+Overall score of document
+Total Pos = 27.75
+Total Neg = 20.625
+---------------------------------------------------------------------------
+0. The Blair Witch Proj                 ... pos = 1.625 	neg = 0.375
+1. Seen July 31, 1999 a                 ... pos = 0.0   	neg = 0.0  
+2. [Theater  rating: **                 ... pos = 1.625 	neg = 0.125
+3. Don't you get scared                 ... pos = 0.5   	neg = 0.0  
+4. Don't you freak out                  ... pos = 0.0   	neg = 0.125
+5. Have you ever been t                 ... pos = 0.125 	neg = 0.125
+6. That paranoia associ                 ... pos = 0.375 	neg = 0.375
+7. The film puts itself                 ... pos = 0.0   	neg = 0.125
+8. ' There is no narrat                 ... pos = 0.0   	neg = 0.5  
+9. In case you don't kn                 ... pos = 0.5   	neg = 0.0  
+10. They didn't write a                 ... pos = 1.375 	neg = 0.125
+11. Myrick and Sanchez a                ... pos = 0.0   	neg = 0.125
+12. This technique certa                ... pos = 1.625 	neg = 0.125
+13. I'm not sure which i                ... pos = 1.75  	neg = 0.5  
+14. Anyway, the film sta                ... pos = 0.0   	neg = 0.0  
+15. Some blow it off as                 ... pos = 0.0   	neg = 0.875
+16. This lays the founda                ... pos = 0.125 	neg = 0.125
+17. In fact, this is the                ... pos = 1.375 	neg = 0.375
+18. Oh yes, the characte                ... pos = 1.875 	neg = 1.125
+19. The three set out in                ... pos = 0.0   	neg = 0.125
+20. What ensues is  not                 ... pos = 1.375 	neg = 0.125
+21. It's obvious to us w                ... pos = 0.625 	neg = 0.0  
+22. The most  chilling a                ... pos = 1.5   	neg = 0.5  
+23. One  of the single,                 ... pos = 0.625 	neg = 0.75 
+24. '      This is what                 ... pos = 0.0   	neg = 0.5  
+25. It  relies on our ow                ... pos = 0.25  	neg = 0.625
+26. Throughout the film                 ... pos = 0.0   	neg = 0.25 
+27. These things are so                 ... pos = 1.75  	neg = 0.0  
+28. We want to believe t                ... pos = 0.875 	neg = 0.5  
+29. The final scene is t                ... pos = 0.0   	neg = 0.25 
+30. It's  disturbing, sc                ... pos = 0.5   	neg = 1.25 
+31. However, I take issu                ... pos = 0.75  	neg = 0.375
+32. To have the film be                 ... pos = 0.5   	neg = 0.375
+33. It could have been                  ... pos = 0.0   	neg = 0.25 
+34. That might contradic                ... pos = 0.25  	neg = 0.875
+35. Still, as my friend                 ... pos = 0.25  	neg = 0.5  
+36. It works on an emoti                ... pos = 0.875 	neg = 0.75 
+37. --------------------                ... pos = 0.375 	neg = 0.25 
+38. Associate member of                 ... pos = 0.0   	neg = 0.0  
+39. (Online  Film Critic                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp10 is Positive                ... pos = 23.375 	neg = 13.375
+Overall score of document
+Total Pos = 23.375
+Total Neg = 13.375
+---------------------------------------------------------------------------
+0. THE BLAIR WITCH PROJ                 ... pos = 0.375 	neg = 0.0  
+1. Screenplay:  Daniel                  ... pos = 0.0   	neg = 0    
+2. Producers:  Gregg ha                 ... pos = 0     	neg = 0.0  
+3. Directors:  Daniel M                 ... pos = 0.0   	neg = 0    
+4. MPAA Rating:  R (pro                 ... pos = 0.125 	neg = 0.125
+5. Reviewed by Scott Re                 ... pos = 0.0   	neg = 0.0  
+6. The last of the 34 f                 ... pos = 0.375 	neg = 0.125
+7. THE BLAIR WITCH PROJ                 ... pos = 1.75  	neg = 0.125
+8. It works on the kind                 ... pos = 0.25  	neg = 0.0  
+9. It's the kind of fil                 ... pos = 0.625 	neg = 0.0  
+10. The concept alone is                ... pos = 1.0   	neg = 0.5  
+11. Thus begins a 90-min                ... pos = 0.375 	neg = 0.375
+12. The story goes that                 ... pos = 0.25  	neg = 0.375
+13. The project leads to                ... pos = 0.625 	neg = 0.0  
+14. THE BLAIR WITCH PROJ                ... pos = 0.625 	neg = 0.0  
+15. The interviews are f                ... pos = 0.875 	neg = 0.75 
+16. The video pieces, me                ... pos = 1.5   	neg = 0.0  
+17. Heather, the project                ... pos = 0.25  	neg = 0.25 
+18. Writer/directors Dan                ... pos = 0.125 	neg = 1.5  
+19. And folks, scary ain                ... pos = 0.0   	neg = 0.75 
+20. THE BLAIR WITCH PROJ                ... pos = 1.375 	neg = 1.125
+21. The directors use da                ... pos = 1.5   	neg = 1.375
+22. What we experience i                ... pos = 0.625 	neg = 0.125
+23. Heather reassures he                ... pos = 1.125 	neg = 0.75 
+24. Some viewers may be                 ... pos = 0.125 	neg = 2.375
+25. Those elements might                ... pos = 1.125 	neg = 0.5  
+26. All three of the lar                ... pos = 0.625 	neg = 0.25 
+27. Late in the film, sh                ... pos = 0.5   	neg = 0.625
+28. They are the eyes of                ... pos = 0.875 	neg = 0.375
+29. THE BLAIR WITCH PROJ                ... pos = 0.75  	neg = 0.0  
+30. You expect a good ho                ... pos = 1.375 	neg = 0.125
+31. What makes this one                 ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp11 is Positive                ... pos = 19.5  	neg = 12.625
+Overall score of document
+Total Pos = 19.5
+Total Neg = 12.625
+---------------------------------------------------------------------------
+0. Due to a savvy marke                 ... pos = 0.625 	neg = 0.125
+1. It is a small budget                 ... pos = 1.25  	neg = 1.0  
+2. The prologue to the                  ... pos = 0.125 	neg = 0.5  
+3. In a clever stroke o                 ... pos = 0.75  	neg = 0.125
+4. Official websites fo                 ... pos = 0.25  	neg = 0.0  
+5. It is noteworthy tha                 ... pos = 0.0   	neg = 0.125
+6. Although portrayed a                 ... pos = 0.375 	neg = 0    
+7. In an age when every                 ... pos = 1.375 	neg = 0.5  
+8. As confirmation, the                 ... pos = 1.25  	neg = 0.125
+9. However, knowing tha                 ... pos = 0.125 	neg = 0.125
+10. It actually enhances                ... pos = 1.125 	neg = 0.75 
+11. The footage begins a                ... pos = 1.125 	neg = 0.0  
+12. They are college stu                ... pos = 0.625 	neg = 0.0  
+13. Heather (Heather Don                ... pos = 0.0   	neg = 0.125
+14. Joshua (Joshua Leona                ... pos = 0.375 	neg = 0.25 
+15. The footage begins a                ... pos = 0.0   	neg = 0.125
+16. The interviewees rel                ... pos = 0.375 	neg = 1.0  
+17. It seems the killer                 ... pos = 0.0   	neg = 0.75 
+18. Eventually the trio                 ... pos = 0.0   	neg = 0.0  
+19. From the premise it                 ... pos = 0.375 	neg = 0.625
+20. As they become lost                 ... pos = 1.25  	neg = 0.25 
+21. The genre of mock do                ... pos = 0.375 	neg = 0.875
+22. While the comic mock                ... pos = 1.5   	neg = 0.75 
+23. The fictitiousness o                ... pos = 1.375 	neg = 0.125
+24. The characters gradu                ... pos = 2.0   	neg = 0.0  
+25. The main flaw is the                ... pos = 0.0   	neg = 0.5  
+26. The production is ob                ... pos = 0.875 	neg = 0.75 
+27. Highly recommended.                 ... pos = 0.625 	neg = 0    
+28. This film was subjec                ... pos = 0.25  	neg = 0.125
+29. For people who are e                ... pos = 1.0   	neg = 1.125
+30. It is not the scarie                ... pos = 0.0   	neg = 0.375
+31. However, it carefull                ... pos = 0.25  	neg = 0    
+32. Although it is not p                ... pos = 1.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp12 is Positive                ... pos = 21.0  	neg = 11.375
+Overall score of document
+Total Pos = 21.0
+Total Neg = 11.375
+---------------------------------------------------------------------------
+0. Mockumentaries are i                 ... pos = 0.25  	neg = 0    
+1. Earlier this year My                 ... pos = 0.75  	neg = 0.0  
+2. Few people saw that                  ... pos = 0.0   	neg = 1.125
+3. A fake documentary a                 ... pos = 0.5   	neg = 0.375
+4. One of the biggest a                 ... pos = 0.375 	neg = 0.0  
+5. Made by joint writer                 ... pos = 0.5   	neg = 0.875
+6. But how about the mo                 ... pos = 0     	neg = 0.0  
+7. Having been on vacat                 ... pos = 0.5   	neg = 0.125
+8. The idea for the sto                 ... pos = 0.5   	neg = 0.125
+9. Three young adults g                 ... pos = 0.0   	neg = 0.0  
+10. They never return.                  ... pos = 0.0   	neg = 0    
+11. The movie consists o                ... pos = 0.125 	neg = 0.0  
+12. Heather Donahue, Mic                ... pos = 0.625 	neg = 0.0  
+13. Whoops, I mean these                ... pos = 0.0   	neg = 0.25 
+14. If you're the sort w                ... pos = 0.75  	neg = 0.125
+15. This is all quite cu                ... pos = 0.5   	neg = 0.125
+16. Cute, however, can o                ... pos = 0.625 	neg = 0.0  
+17. As the three of them                ... pos = 0.875 	neg = 0.75 
+18. Nonetheless, it is e                ... pos = 1.375 	neg = 0.125
+19. They have certainly                 ... pos = 0.5   	neg = 0.5  
+20. Unusual, yes.                       ... pos = 0.125 	neg = 0.0  
+21. Interesting, no.                    ... pos = 0     	neg = 0.25 
+22. If you suffer from m                ... pos = 0.125 	neg = 0.0  
+23. They leave the camer                ... pos = 0.0   	neg = 0.0  
+24. Imagine your 6-year-                ... pos = 0.0   	neg = 0.5  
+25. Some theater owners                 ... pos = 0.25  	neg = 0.0  
+26. "It's very hard to g                ... pos = 1.875 	neg = 0.75 
+27. "And even harder to                 ... pos = 0.0   	neg = 0.0  
+28. We have that on our                 ... pos = 0.0   	neg = 0.0  
+29. ". When the ending c                ... pos = 0.375 	neg = 0.125
+30. That's all there is?                ... pos = 0.0   	neg = 0.125
+31. ". Scary?                           ... pos = 0     	neg = 0.75 
+32. Not for a second.                   ... pos = 0.0   	neg = 0    
+33. Even so, the next pr                ... pos = 0.0   	neg = 0.5  
+34. At least they are wi                ... pos = 0.25  	neg = 0.0  
+35. THE BLAIR WITCH PROJ                ... pos = 0.0   	neg = 0.0  
+36. It is rated R for la                ... pos = 0.125 	neg = 0.25 
+37. Email: Steve.Rhodes@                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp13 is Positive                ... pos = 11.875 	neg = 7.75 
+Overall score of document
+Total Pos = 11.875
+Total Neg = 7.75
+---------------------------------------------------------------------------
+0. "The Blair Witch Pro                 ... pos = 0.5   	neg = 0.0  
+1. This low-budget film                 ... pos = 0.625 	neg = 0.0  
+2. Since the movie is a                 ... pos = 1.739 	neg = 0.125
+3. Is it scary?                         ... pos = 0.0   	neg = 0.875
+4. Yes.                                 ... pos = 0     	neg = 0.0  
+5. But scary in that co                 ... pos = 0.625 	neg = 0.75 
+6. Here's the good idea                 ... pos = 0.75  	neg = 0.0  
+7. In October of 1994,                  ... pos = 0.125 	neg = 0.0  
+8. They were never seen                 ... pos = 0.0   	neg = 0.125
+9. Their "discovered fo                 ... pos = 0.25  	neg = 0.125
+10. ".         Here's ho                ... pos = 0.0   	neg = 0.0  
+11. Heather, the documen                ... pos = 0.0   	neg = 0.375
+12. She quickly starts a                ... pos = 0.875 	neg = 0.625
+13. Heather insists she                 ... pos = 1.0   	neg = 0.0  
+14. In addition, Heather                ... pos = 0.625 	neg = 0.75 
+15. So that when things                 ... pos = 0.0   	neg = 0.125
+16. " or more colorful w                ... pos = 0.0   	neg = 0.0  
+17. If the circumstances                ... pos = 0.625 	neg = 0.625
+18. Donahue, Leonard, an                ... pos = 0.875 	neg = 0.125
+19. The supporting chara                ... pos = 1.125 	neg = 0.5  
+20. For a film like this                ... pos = 0.625 	neg = 0.25 
+21. After a while, the f                ... pos = 0.0   	neg = 0.0  
+22. During the day, the                 ... pos = 0.375 	neg = 0.75 
+23. They head due south                 ... pos = 0.5   	neg = 0.0  
+24. At night, they hear                 ... pos = 0.375 	neg = 0.125
+25. " lit only by a dim                 ... pos = 0.375 	neg = 0.25 
+26. In the morning, ther                ... pos = 0.25  	neg = 0.5  
+27. If you're afraid of                 ... pos = 0.0   	neg = 1.375
+28. This cycle then repe                ... pos = 0.0   	neg = 0.0  
+29. Whine whine, scream                 ... pos = 0     	neg = 0.0  
+30. "The Blair Witch Pro                ... pos = 0.875 	neg = 0.0  
+31. Whereas I can truly                 ... pos = 1.125 	neg = 1.5  
+32. Got beef?                           ... pos = 0     	neg = 0.0  
+33. Visit "La Movie Boeu                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp14 is Positive                ... pos = 14.239 	neg = 9.875
+Overall score of document
+Total Pos = 14.239
+Total Neg = 9.875
+---------------------------------------------------------------------------
+0. The Blair Witch Proj                 ... pos = 0     	neg = 0.125
+1. And like most overhy                 ... pos = 0.0   	neg = 0.875
+2. It was praised as th                 ... pos = 0.0   	neg = 0.375
+3. Creative?                            ... pos = 0.0   	neg = 0    
+4. Yes.                                 ... pos = 0     	neg = 0.0  
+5. Well-acted?                          ... pos = 0     	neg = 0    
+6. Yes.                                 ... pos = 0     	neg = 0.0  
+7. Laudable?                            ... pos = 0.625 	neg = 0    
+8. That too.                            ... pos = 0     	neg = 0.25 
+9. But scary?                           ... pos = 0     	neg = 0.75 
+10. No.                                 ... pos = 0     	neg = 0.25 
+11. Not in the way it pr                ... pos = 0.0   	neg = 0.125
+12. It might be more app                ... pos = 1.5   	neg = 0.75 
+13. I have to admit, the                ... pos = 0.5   	neg = 1.25 
+14. No, I'm joking, but                 ... pos = 1.5   	neg = 0.375
+15. " It was like watchi                ... pos = 0.375 	neg = 0.125
+16. Even the taglines fo                ... pos = 0.0   	neg = 0.5  
+17. Yes, you would be as                ... pos = 0.125 	neg = 0.375
+18. Not even "The Real W                ... pos = 0.125 	neg = 0.125
+19. I must marvel at the                ... pos = 1.375 	neg = 0.0  
+20. .                                   ... pos = 0     	neg = 0    
+21. .                                   ... pos = 0     	neg = 0    
+22. but did we *really*                 ... pos = 0.0   	neg = 0.0  
+23. We knew these people                ... pos = 0.75  	neg = 0.125
+24. The suspense just di                ... pos = 0.875 	neg = 0.25 
+25. "Blair" tried to mak                ... pos = 0.0   	neg = 1.375
+26. These people were to                ... pos = 0.0   	neg = 0.5  
+27. A hairy old woman wi                ... pos = 0.0   	neg = 0.0  
+28. Whatever.                           ... pos = 0     	neg = 0.0  
+29. And why did kill?                   ... pos = 0     	neg = 0.0  
+30. That was never expla                ... pos = 0.0   	neg = 0.125
+31. The pile of rocks, t                ... pos = 0     	neg = 0.25 
+32. " None of these were                ... pos = 0     	neg = 0.125
+33. If there were any sc                ... pos = 1.625 	neg = 2.75 
+34. The passionate will                 ... pos = 0.75  	neg = 0.875
+35. At this point I'm af                ... pos = 0.875 	neg = 0.0  
+36. Who wants reality wh                ... pos = 0.25  	neg = 0.0  
+37. It's a pity, really.                ... pos = 0.125 	neg = 0.0  
+38. If only the rest of                 ... pos = 0.875 	neg = 0.375
+39. To me, that was the                 ... pos = 0     	neg = 0.125
+40. If not for the endin                ... pos = 0.125 	neg = 1.375
+41. " I'm fond of it, an                ... pos = 1.25  	neg = 0.375
+42. The truth is I now s                ... pos = 1.625 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp15 is Negative                ... pos = 15.25 	neg = 15.625
+Overall score of document
+Total Pos = 15.25
+Total Neg = 15.625
+---------------------------------------------------------------------------
+0. Cast: Heather Donahu                 ... pos = 1.25  	neg = 0.0  
+1. Three filmmakers ven                 ... pos = 0.375 	neg = 0.0  
+2. They disappear and t                 ... pos = 0.0   	neg = 0.125
+3. From there, things b                 ... pos = 0.0   	neg = 0.25 
+4. I can say, with abso                 ... pos = 0.0   	neg = 0.5  
+5. Although I know it w                 ... pos = 0.125 	neg = 0.375
+6. I didn't feel much u                 ... pos = 0.125 	neg = 0.0  
+7. I just thought it wa                 ... pos = 0.0   	neg = 0.25 
+8. I never even dreamed                 ... pos = 0.625 	neg = 0.125
+9. I've gotten chills e                 ... pos = 0.125 	neg = 0.0  
+10. This is not a movie                 ... pos = 0.0   	neg = 0.125
+11. Instead this is a mo                ... pos = 0.125 	neg = 0.75 
+12. This is truly the mo                ... pos = 1.125 	neg = 0.125
+13. The film is comprise                ... pos = 0.0   	neg = 0.125
+14. This is as real as i                ... pos = 0.0   	neg = 0.125
+15. I don't recommend si                ... pos = 0.125 	neg = 0.25 
+16. The performances of                 ... pos = 0.25  	neg = 0.0  
+17. This is definitely a                ... pos = 0.875 	neg = 0.25 
+18. The reality of the i                ... pos = 0.5   	neg = 0.0  
+19. Word has it that a s                ... pos = 0.875 	neg = 0.125
+20. I urge Artisan Enter                ... pos = 0.0   	neg = 0.375
+21. I know I'll be first                ... pos = 0.625 	neg = 0.0  
+22. [R]. Brian Matherly                 ... pos = 0.0   	neg = 0.0  
+23. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp16 is Positive                ... pos = 7.375 	neg = 4.25 
+Overall score of document
+Total Pos = 7.375
+Total Neg = 4.25
+---------------------------------------------------------------------------
+0. To that short list o                 ... pos = 0.0   	neg = 0.125
+1. " After all, as too                  ... pos = 0.0   	neg = 0.875
+2. On the other hand, "                 ... pos = 0.75  	neg = 0.5  
+3. Instead, "Witch" wri                 ... pos = 0.0   	neg = 1.0  
+4. The movie's unfinish                 ... pos = 0.25  	neg = 0.5  
+5. "Witch" purports to                  ... pos = 0.625 	neg = 0.75 
+6. The Witch is describ                 ... pos = 0.375 	neg = 0.25 
+7. ".  At first, the tr                 ... pos = 1.25  	neg = 0.625
+8. Even when they lose                  ... pos = 0.5   	neg = 1.125
+9. ".  Instead, their c                 ... pos = 0.125 	neg = 0.0  
+10. Mysterious piles of                 ... pos = 1.375 	neg = 0.75 
+11. What started off as                 ... pos = 0.125 	neg = 1.0  
+12. ".  Myrick and Sanch                ... pos = 0.75  	neg = 0.125
+13. In its use of shadow                ... pos = 0.75  	neg = 0.0  
+14. " Myrick and Sanchez                ... pos = 1.25  	neg = 0.25 
+15. In another offbeat m                ... pos = 3.375 	neg = 0.125
+16. Particularly chillin                ... pos = 0.5   	neg = 0.125
+17. It's a scene that's                 ... pos = 0.125 	neg = 0.25 
+18. Shot entirely on vid                ... pos = 0.5   	neg = 0.125
+19. That's a brilliant m                ... pos = 0.875 	neg = 0.375
+20. We see only what the                ... pos = 0.25  	neg = 0.0  
+21. James Sanford. .                    ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp17 is Positive                ... pos = 13.75 	neg = 8.875
+Overall score of document
+Total Pos = 13.75
+Total Neg = 8.875
+---------------------------------------------------------------------------
+0. ***1/2 (out of 4) If                 ... pos = 0.375 	neg = 0.125
+1. If you want to steel                 ... pos = 0.5   	neg = 0.125
+2. THE BLAIR WITCH PROJ                 ... pos = 0.0   	neg = 0.125
+3. A title card tells u                 ... pos = 0.75  	neg = 0.125
+4. Three filmmakers dis                 ... pos = 0.125 	neg = 0.25 
+5. The filmmakers vanis                 ... pos = 0.0   	neg = 0.875
+6. Finally, their foota                 ... pos = 0.375 	neg = 0.125
+7. The three students,                  ... pos = 0.0   	neg = 0.375
+8. " According to legen                 ... pos = 0.0   	neg = 0.25 
+9. The trio drive from                  ... pos = 0.0   	neg = 0.0  
+10. An early shot in the                ... pos = 0.0   	neg = 0.0  
+11. She looks like a bad                ... pos = 0.0   	neg = 1.25 
+12. It's very hokey, but                ... pos = 0.5   	neg = 0.25 
+13. Next they interview                 ... pos = 0.0   	neg = 0.0  
+14. A man tells how she'                ... pos = 0.125 	neg = 0.125
+15. Another woman reassu                ... pos = 0.5   	neg = 0.125
+16. " A couple of fisher                ... pos = 0.125 	neg = 0.0  
+17. All in all, the resi                ... pos = 0.0   	neg = 0.375
+18. The ones who talk ab                ... pos = 0.125 	neg = 0.375
+19. The movie is shot mo                ... pos = 0.25  	neg = 0.125
+20. There are no bad act                ... pos = 0.25  	neg = 1.125
+21. " There was surely a                ... pos = 0.25  	neg = 0.25 
+22. Next the three have                 ... pos = 0.0   	neg = 0.125
+23. When they get there,                ... pos = 0.125 	neg = 0.0  
+24. It's the exact spot                 ... pos = 0.0   	neg = 0.0  
+25. Heather's documentar                ... pos = 0.0   	neg = 0.625
+26. The three must camp                 ... pos = 0.375 	neg = 0.0  
+27. The following day th                ... pos = 0.0   	neg = 0.0  
+28. But instead of endin                ... pos = 0.0   	neg = 0.625
+29. In the 2 days hiking                ... pos = 0.0   	neg = 0.0  
+30. (SPOILERS AHEAD: STO                ... pos = 0.5   	neg = 0.0  
+31. ). As the title card                ... pos = 0.0   	neg = 0.0  
+32. Their agonizing desc                ... pos = 1.0   	neg = 1.25 
+33. There are four techn                ... pos = 0.5   	neg = 0.0  
+34. The first is absolut                ... pos = 0.5   	neg = 0.125
+35. In order to be scare                ... pos = 0.625 	neg = 0.25 
+36. You have to be led b                ... pos = 0.125 	neg = 0.125
+37. The characters you e                ... pos = 1.0   	neg = 0.0  
+38. BLAIR WITCH does thi                ... pos = 1.125 	neg = 0.625
+39. They're not afraid a                ... pos = 0.625 	neg = 1.25 
+40. The movie takes its                 ... pos = 0.375 	neg = 0.0  
+41. It is only after muc                ... pos = 0.25  	neg = 0.125
+42. And why not?                        ... pos = 0.0   	neg = 0.0  
+43. You would too.                      ... pos = 0     	neg = 0.25 
+44. The second technique                ... pos = 0.0   	neg = 0.125
+45. By making the "witch                ... pos = 0.5   	neg = 1.375
+46. Even if you become c                ... pos = 0.25  	neg = 1.375
+47. The second technique                ... pos = 0.0   	neg = 0.125
+48. Sometimes it's too d                ... pos = 0.25  	neg = 0.25 
+49. Also, the whole conc                ... pos = 0.125 	neg = 1.125
+50. Because the subjects                ... pos = 0.625 	neg = 0.0  
+51. ". Finally, the movi                ... pos = 0.0   	neg = 0.5  
+52. Myrick and Sanchez m                ... pos = 0.0   	neg = 0.125
+53. They had to be in ch                ... pos = 1.5   	neg = 0.5  
+54. " To make it easier                 ... pos = 2.0   	neg = 0.125
+55. Horror guru Pablo Kj                ... pos = 0.875 	neg = 0.125
+56. Neither is the idea                 ... pos = 0.0   	neg = 0.375
+57. Nevertheless THE BLA                ... pos = 0.5   	neg = 0.125
+58. It really is the sca                ... pos = 0.0   	neg = 0.5  
+59. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp18 is Negative                ... pos = 18.0  	neg = 18.5 
+Overall score of document
+Total Pos = 18.0
+Total Neg = 18.5
+---------------------------------------------------------------------------
+0. _The_Blair_Witch_Pro                 ... pos = 1.625 	neg = 0.125
+1. It's almost a shame                  ... pos = 0.75  	neg = 1.0  
+2. Since unexpectedly j                 ... pos = 0.375 	neg = 0.125
+3. But the fact that _B                 ... pos = 0.25  	neg = 1.5  
+4. Don't get me wrong;                  ... pos = 0.625 	neg = 0.125
+5. But it functions mor                 ... pos = 0.5   	neg = 0.0  
+6. The premise is simpl                 ... pos = 0.0   	neg = 0.25 
+7. A year later their f                 ... pos = 0.0   	neg = 0.125
+8. "  That faux vérit�                 ... pos = 0.625 	neg = 1.0  
+9. The project quickly                  ... pos = 0.5   	neg = 0.375
+10. Of course, we all kn                ... pos = 0.0   	neg = 0.125
+11. So it's up to writer                ... pos = 0.125 	neg = 0.0  
+12. The perpetually shak                ... pos = 1.875 	neg = 0.375
+13. Adding to that is th                ... pos = 1.5   	neg = 0.25 
+14. The audience believe                ... pos = 0.875 	neg = 0.0  
+15. That sense of fear e                ... pos = 0.5   	neg = 0.25 
+16. There are two scenes                ... pos = 0.625 	neg = 0.125
+17. In fact, _Blair_Witc                ... pos = 0.0   	neg = 0.0  
+18. While the film concl                ... pos = 1.25  	neg = 0.5  
+19. For greater satisfac                ... pos = 1.25  	neg = 0.125
+20. A taste of this info                ... pos = 0.0   	neg = 0.125
+21. Reading them has ind                ... pos = 0.0   	neg = 0.125
+22. As smartly conceived                ... pos = 1.25  	neg = 0.5  
+23. Which is basically t                ... pos = 0.125 	neg = 0.5  
+24. This is not to say t                ... pos = 0.375 	neg = 0.5  
+25. It's just that to ap                ... pos = 0.375 	neg = 0.0  
+26. _Blair_Witch_ the fi                ... pos = 0.125 	neg = 0.625
+27. (opens July 16). Mic                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp19 is Positive                ... pos = 15.5  	neg = 8.75 
+Overall score of document
+Total Pos = 15.5
+Total Neg = 8.75
+---------------------------------------------------------------------------
+0. Cast: Heather Donahu                 ... pos = 0.5   	neg = 0.25 
+1. One year later, thei                 ... pos = 0.0   	neg = 0.125
+2. Thus begins The Blai                 ... pos = 1.25  	neg = 0.875
+3. As this ultra low bu                 ... pos = 0.375 	neg = 0.625
+4. They set out to the                  ... pos = 0.0   	neg = 0.0  
+5. Various soundbites a                 ... pos = 0.375 	neg = 0.625
+6. They are never seen                  ... pos = 0.25  	neg = 0    
+7. The audience however                 ... pos = 0.5   	neg = 0.875
+8. All of the critical                  ... pos = 0.125 	neg = 0.625
+9. In countless ads and                 ... pos = 0.0   	neg = 0.125
+10. "It's scary as hell.                ... pos = 0.0   	neg = 1.25 
+11. " "The scariest movi                ... pos = 0.0   	neg = 0.0  
+12. "  Saying the film i                ... pos = 0.125 	neg = 1.125
+13. There are no special                ... pos = 0.25  	neg = 1.75 
+14. Don't get me wrong t                ... pos = 0.0   	neg = 1.375
+15. However slight, ther                ... pos = 0.375 	neg = 0.875
+16. A scary movie would                 ... pos = 0.364 	neg = 2.125
+17. A creepy movie like                 ... pos = 0.0   	neg = 0.75 
+18. Nothing ever makes y                ... pos = 0.0   	neg = 0.625
+19. Now let me give cred                ... pos = 1.125 	neg = 0.0  
+20. When The Blair Witch                ... pos = 0.375 	neg = 0.625
+21. As the crew settles                 ... pos = 0.0   	neg = 0.0  
+22. Basically, whenever                 ... pos = 0.375 	neg = 0.125
+23. That's mainly what k                ... pos = 0.0   	neg = 0.0  
+24. Sometimes the night                 ... pos = 0.0   	neg = 0.25 
+25. If Heather is going                 ... pos = 0.875 	neg = 0.5  
+26. Instead, there's mor                ... pos = 0.0   	neg = 0.0  
+27. The three principle                 ... pos = 2.125 	neg = 0.0  
+28. I'm sure the casting                ... pos = 0.5   	neg = 0.25 
+29. As a result of the c                ... pos = 0.0   	neg = 0.0  
+30. In today's day and a                ... pos = 0.5   	neg = 1.25 
+31. The Blair Witch Proj                ... pos = 0.625 	neg = 0.25 
+32. The filmmakers lull                 ... pos = 0.75  	neg = 0.25 
+33. Then the creepiness                 ... pos = 0.75  	neg = 0.75 
+34. We know just as much                ... pos = 0.125 	neg = 0.0  
+35. In a way that bother                ... pos = 0.125 	neg = 0.125
+36. Artisan Entertainmen                ... pos = 0.75  	neg = 0.0  
+37. Check it out.                       ... pos = 0.0   	neg = 0.0  
+38. Also, there's a spec                ... pos = 0.75  	neg = 0.75 
+39. [R]. Chuck Dowling -                ... pos = 0.0   	neg = 0.0  
+40. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp2 is Negative                 ... pos = 14.489 	neg = 19.5 
+Overall score of document
+Total Pos = 14.489
+Total Neg = 19.5
+---------------------------------------------------------------------------
+0. Hype is a term usual                 ... pos = 0.875 	neg = 0.375
+1. Too much hype almost                 ... pos = 0.125 	neg = 0.375
+2. But "The Blair Witch                 ... pos = 0.625 	neg = 0.125
+3. A hit at Sundance, "                 ... pos = 0.0   	neg = 0.125
+4. "The Blair Witch Pro                 ... pos = 0.0   	neg = 0.75 
+5. The three never retu                 ... pos = 0.0   	neg = 0.0  
+6. The first few minute                 ... pos = 0.5   	neg = 0.0  
+7. Then, as they begin                  ... pos = 1.0   	neg = 0.0  
+8. The high-strung Heat                 ... pos = 0.25  	neg = 0.5  
+9. What started off as                  ... pos = 0.0   	neg = 0.625
+10. I don't want to give                ... pos = 0.125 	neg = 0.875
+11. Filmmakers Eduardo S                ... pos = 0.375 	neg = 0.0  
+12. Heavily hyped on the                ... pos = 0.125 	neg = 0.125
+13. But if you see the f                ... pos = 1.25  	neg = 0.0  
+14. Shot on a miniscule                 ... pos = 0.5   	neg = 1.125
+15. The filmmakers sent                 ... pos = 0.375 	neg = 0.0  
+16. They spent a week hi                ... pos = 0.0   	neg = 0.0  
+17. It was up to them to                ... pos = 0.0   	neg = 0.125
+18. The result is shot o                ... pos = 0.0   	neg = 0.125
+19. "The Blair Witch Pro                ... pos = 0.375 	neg = 0.125
+20. Destined to be a cul                ... pos = 0.5   	neg = 0.25 
+21. "Blair Witch" reinve                ... pos = 0.375 	neg = 0.0  
+22. I'm glad that smarts                ... pos = 0.25  	neg = 0.75 
+23. "The Blair Witch Pro                ... pos = 0.125 	neg = 0.25 
+24. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp20 is Positive                ... pos = 7.75  	neg = 6.75 
+Overall score of document
+Total Pos = 7.75
+Total Neg = 6.75
+---------------------------------------------------------------------------
+0. In 1994, three young                 ... pos = 0.625 	neg = 0.75 
+1. All that was ever fo                 ... pos = 0.0   	neg = 0.25 
+2. This material was ed                 ... pos = 0.0   	neg = 0.25 
+3. It tells the remarka                 ... pos = 1.375 	neg = 0.125
+4. There's one often-ov                 ... pos = 0.625 	neg = 0.375
+5. Let's just let that                  ... pos = 0.0   	neg = 0.0  
+6. It's a story.                        ... pos = 0.0   	neg = 0    
+7. They made it up.                     ... pos = 0.0   	neg = 0.0  
+8. It didn't happen.                    ... pos = 0.0   	neg = 0.0  
+9. Some low-budget film                 ... pos = 0.0   	neg = 0.0  
+10. The excellent 1998 C                ... pos = 1.125 	neg = 0.25 
+11. A set was constructe                ... pos = 0.0   	neg = 0.25 
+12. The Blair Witch Proj                ... pos = 0.25  	neg = 0.75 
+13. The actors were give                ... pos = 0.0   	neg = 0.25 
+14. The footage was coll                ... pos = 0.0   	neg = 0.0  
+15. The real film-makers                ... pos = 0.375 	neg = 0.875
+16. The originality of t                ... pos = 0.375 	neg = 0.125
+17. The nature of the fi                ... pos = 0.625 	neg = 0.0  
+18. When we see tired, h                ... pos = 2.375 	neg = 0.0  
+19. Many people seem to                 ... pos = 0.125 	neg = 0.375
+20. Feeding off the pre-                ... pos = 3.0   	neg = 1.5  
+21. The official web sit                ... pos = 0.375 	neg = 0.0  
+22. The story is also pr                ... pos = 0.75  	neg = 0.875
+23. These sites were sup                ... pos = 0.0   	neg = 0.5  
+24. There is no violence                ... pos = 0.25  	neg = 2.125
+25. The three performanc                ... pos = 1.125 	neg = 0.875
+26. The story goes that                 ... pos = 0.5   	neg = 1.375
+27. In order to see the                 ... pos = 1.75  	neg = 0.875
+28. This is explained by                ... pos = 0.25  	neg = 0.75 
+29. I wasn't really conv                ... pos = 0.25  	neg = 0.0  
+30. The film has so far                 ... pos = 0.625 	neg = 0.875
+31. It is hard to know w                ... pos = 0.0   	neg = 0.875
+32. They have made one o                ... pos = 1.125 	neg = 0.5  
+33. The Blair Witch Proj                ... pos = 0.75  	neg = 0.125
+34. The technical approa                ... pos = 0.0   	neg = 0.125
+35. There are a few cree                ... pos = 0.25  	neg = 0.25 
+36. Hardly.                             ... pos = 0     	neg = 0.0  
+37. When the making and                 ... pos = 0.0   	neg = 0.875
+38. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp21 is Positive                ... pos = 19.875 	neg = 17.125
+Overall score of document
+Total Pos = 19.875
+Total Neg = 17.125
+---------------------------------------------------------------------------
+0. Lest we forget, Deli                 ... pos = 0.25  	neg = 0.125
+1. Six years later The                  ... pos = 0.5   	neg = 0.0  
+2. Two decades later th                 ... pos = 0.0   	neg = 0.0  
+3. And James Dickey's b                 ... pos = 0.0   	neg = 0.125
+4. What The Blair Witch                 ... pos = 0.375 	neg = 0.125
+5. But, as the opening                  ... pos = 0.375 	neg = 0.0  
+6. Which is quite a gam                 ... pos = 0.0   	neg = 0.125
+7. But they make it pay                 ... pos = 0.0   	neg = 0.0  
+8. Before the opening s                 ... pos = 0.0   	neg = 0.125
+9. This thanks to genre                 ... pos = 0.5   	neg = 0.0  
+10. But the documentary                 ... pos = 0.125 	neg = 0.25 
+11. Which is to say the                 ... pos = 0.125 	neg = 0.125
+12. Which, conveniently                 ... pos = 0.5   	neg = 0.75 
+13. The second is to get                ... pos = 0.0   	neg = 0.5  
+14. Here, Myrick and San                ... pos = 0.125 	neg = 0.875
+15. Which is exactly the                ... pos = 0.625 	neg = 0.125
+16. All the same though,                ... pos = 0.375 	neg = 0.125
+17. Josh Mike and Heathe                ... pos = 0.125 	neg = 1.125
+18. And it's not just ab                ... pos = 0.0   	neg = 0.0  
+19. It's about stumbling                ... pos = 0.625 	neg = 0.0  
+20. The Blair Witch Proj                ... pos = 0.375 	neg = 0.0  
+21. The strongest scenes                ... pos = 0.5   	neg = 0.375
+22. The weakest points p                ... pos = 1.5   	neg = 0.125
+23. A necessary evil, pe                ... pos = 0.0   	neg = 0.75 
+24. Does The Blair Witch                ... pos = 0.0   	neg = 0.0  
+25. Perhaps.                            ... pos = 0.0   	neg = 0    
+26. If we pay attention.                ... pos = 0.0   	neg = 0.0  
+27. First, however, it j                ... pos = 0.25  	neg = 0.0  
+28. Suddenly, American c                ... pos = 0.0   	neg = 0.0  
+29. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp22 is Positive                ... pos = 7.25  	neg = 5.75 
+Overall score of document
+Total Pos = 7.25
+Total Neg = 5.75
+---------------------------------------------------------------------------
+0. It seems to me that                  ... pos = 2.125 	neg = 0.25 
+1. This would seem to b                 ... pos = 0.125 	neg = 0.125
+2. While certainly inno                 ... pos = 1.375 	neg = 0.375
+3. Three students set o                 ... pos = 0.0   	neg = 0.125
+4. First interviewing t                 ... pos = 0.125 	neg = 0.0  
+5. The three travel thr                 ... pos = 0.0   	neg = 0.0  
+6. The whole time, some                 ... pos = 0.0   	neg = 0.0  
+7. Leaving small symbol                 ... pos = 0.25  	neg = 0.625
+8. It seems that the ma                 ... pos = 0.0   	neg = 0.25 
+9. Either they think it                 ... pos = 1.0   	neg = 0.5  
+10. I, on the other hand                ... pos = 0.125 	neg = 0.125
+11. As I said earlier, i                ... pos = 1.125 	neg = 0.0  
+12. Shot entirely as tho                ... pos = 0.875 	neg = 0.125
+13. However, if you suff                ... pos = 0.375 	neg = 0    
+14. There are also a few                ... pos = 0.625 	neg = 0.0  
+15. The two that stick o                ... pos = 0.375 	neg = 0.25 
+16. Now, on to the items                ... pos = 0.0   	neg = 0.0  
+17. One thing which I si                ... pos = 0.625 	neg = 0.75 
+18. The other major prob                ... pos = 0.0   	neg = 0.375
+19. I saw some people in                ... pos = 0.0   	neg = 0.625
+20. Some truly creepy sc                ... pos = 2.0   	neg = 0.875
+21. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+22. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+23. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+24. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+25. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+26. See it if you've got                ... pos = 0.0   	neg = 0.25 
+27. * - One of the worst                ... pos = 0.0   	neg = 0.375
+28. See it only if you e                ... pos = 0.375 	neg = 0.0  
+29. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp23 is Positive                ... pos = 12.375 	neg = 7.125
+Overall score of document
+Total Pos = 12.375
+Total Neg = 7.125
+---------------------------------------------------------------------------
+0. For More "MOVIE VIEW                 ... pos = 1.375 	neg = 0.25 
+1. Certain critics have                 ... pos = 0.125 	neg = 0.0  
+2. I'll be honest with                  ... pos = 0.375 	neg = 0.125
+3. But what director ta                 ... pos = 0.375 	neg = 0.375
+4. Tell yourself calmly                 ... pos = 0.125 	neg = 0.0  
+5. The Blair Witch is a                 ... pos = 0.0   	neg = 0.125
+6. There have been many                 ... pos = 0.25  	neg = 0.75 
+7. Three young college                  ... pos = 0.875 	neg = 0.375
+8. Food and supplies ha                 ... pos = 0.5   	neg = 0.125
+9. They interview the l                 ... pos = 0.0   	neg = 0.125
+10. However, neither thr                ... pos = 2.0   	neg = 0.25 
+11. The entire 90-minute                ... pos = 0.25  	neg = 0.5  
+12. There are two camera                ... pos = 0.375 	neg = 0.375
+13. Mikey, meanwhile, is                ... pos = 0.0   	neg = 0.125
+14. Sanchez and Myrick h                ... pos = 0.0   	neg = 0.0  
+15. The actors use their                ... pos = 0.75  	neg = 0.125
+16. When things become s                ... pos = 0.875 	neg = 0.75 
+17. They find themselves                ... pos = 0.25  	neg = 0.0  
+18. Some monologues are                 ... pos = 0.25  	neg = 0.5  
+19. Things become creepi                ... pos = 0.5   	neg = 0.875
+20. We're very thankful                 ... pos = 1.0   	neg = 0    
+21. As spooky as all of                 ... pos = 0.125 	neg = 0.5  
+22. You will go over cer                ... pos = 0.375 	neg = 0.375
+23. The performances are                ... pos = 0.625 	neg = 0    
+24. Occasionally, Heathe                ... pos = 0.125 	neg = 0.125
+25. But, she also owns t                ... pos = 0.5   	neg = 0.25 
+26. `I'm too scared to c                ... pos = 1.5   	neg = 0.5  
+27. Sanchez and Myrick h                ... pos = 0.375 	neg = 0.0  
+28. It is not so horrifi                ... pos = 0.0   	neg = 1.0  
+29. The ending contains                 ... pos = 0.25  	neg = 0.0  
+30. And, with only one s                ... pos = 0.75  	neg = 0.0  
+31. The Blair Witch Proj                ... pos = 1.125 	neg = 0.5  
+32. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp24 is Positive                ... pos = 16.0  	neg = 9.0  
+Overall score of document
+Total Pos = 16.0
+Total Neg = 9.0
+---------------------------------------------------------------------------
+0. This is more of a re                 ... pos = 0.375 	neg = 0.25 
+1. I admire it most for                 ... pos = 0.75  	neg = 0.0  
+2. Filmmakers Eduardo S                 ... pos = 0.0   	neg = 0.0  
+3. They must operate th                 ... pos = 0.375 	neg = 0.0  
+4. Of course there is a                 ... pos = 0.0   	neg = 0.125
+5. But the  sheer origi                 ... pos = 0.125 	neg = 0.125
+6. I guess we have to o                 ... pos = 0.5   	neg = 0.25 
+7. We see  Heather (Hea                 ... pos = 0.5   	neg = 0.0  
+8. But we also watch th                 ... pos = 0.125 	neg = 0.375
+9. Although we never wi                 ... pos = 1.0   	neg = 0.0  
+10. And the  choppiness                 ... pos = 0.0   	neg = 0.625
+11. I'm sure the best th                ... pos = 0.625 	neg = 0.25 
+12. The remote forest is                ... pos = 0.0   	neg = 0.375
+13. I  thought of Nathan                ... pos = 0.125 	neg = 0.125
+14. At times we watch  s                ... pos = 0.75  	neg = 0.0  
+15. These are familiar                  ... pos = 0.5   	neg = 0.0  
+16. What makes the chara                ... pos = 0.625 	neg = 0.25 
+17. Rocks knock  togethe                ... pos = 0.375 	neg = 0.0  
+18. Why do I say "The Bl                ... pos = 0.0   	neg = 0.125
+19. Mostly for the  chan                ... pos = 1.125 	neg = 0.125
+20. The premise is a coo                ... pos = 0.25  	neg = 0.125
+21. My  bottom line is t                ... pos = 0.25  	neg = 0.125
+22. I've read snippets o                ... pos = 0.0   	neg = 0.25 
+23. But 'Jaws' is a susp                ... pos = 0.375 	neg = 0.25 
+24. At its heart, "Blair                ... pos = 2.0   	neg = 0.0  
+25. But maybe people don                ... pos = 1.125 	neg = 1.25 
+26. There's the rub.                    ... pos = 0.0   	neg = 0    
+27. Hey, typical America                ... pos = 0.125 	neg = 0    
+28. Don't you realize ye                ... pos = 0.625 	neg = 0.125
+29. If  you want to see                 ... pos = 0.0   	neg = 0.125
+30. Rent an 80's  flick                 ... pos = 0.0   	neg = 0.0  
+31. Because what we have                ... pos = 0.5   	neg = 0.25 
+32. Wow!                                ... pos = 0     	neg = 0    
+33. There is not insulti                ... pos = 0.0   	neg = 0.5  
+34. But so many elements                ... pos = 0.0   	neg = 0.0  
+35. Why did Spielberg pu                ... pos = 0.25  	neg = 0.0  
+36. What comes across on                ... pos = 0.364 	neg = 0.125
+37. Place three actors o                ... pos = 0.75  	neg = 0.75 
+38. When Heather glances                ... pos = 0.25  	neg = 0.0  
+39. How else could Heath                ... pos = 0.489 	neg = 0.625
+40. This scene  is very                 ... pos = 0.625 	neg = 0.125
+41. We see up inside her                ... pos = 0.5   	neg = 0.25 
+42. Just a magnificent a                ... pos = 0.875 	neg = 0.0  
+43. I've mentioned a few                ... pos = 0.0   	neg = 0.0  
+44. Another is that I wa                ... pos = 0.25  	neg = 0.25 
+45. Why don't you double                ... pos = 0.0   	neg = 0.0  
+46. You can cover forty                 ... pos = 0.0   	neg = 0.0  
+47. "    Yet I suppose a                ... pos = 1.5   	neg = 0.125
+48. Anyhoo, wouldn't at                 ... pos = 1.0   	neg = 0.0  
+49. Josh wears a talisma                ... pos = 0.0   	neg = 1.75 
+50. It's funny, but just                ... pos = 0.75  	neg = 0.375
+51. Next, the hype.                     ... pos = 0     	neg = 0.0  
+52. I've been fascinated                ... pos = 0.25  	neg = 0.125
+53. What strikes me here                ... pos = 0.0   	neg = 0.25 
+54. Because I  read the                 ... pos = 0.5   	neg = 0.0  
+55. But these items  con                ... pos = 0.0   	neg = 1.125
+56. It's virtually  impo                ... pos = 0.0   	neg = 0.375
+57. At the center of thi                ... pos = 0.75  	neg = 0.375
+58. It's a stroke of bot                ... pos = 0.25  	neg = 0.375
+59. On the site you  see                ... pos = 0.5   	neg = 0.25 
+60. Very slick  indeed.                 ... pos = 0.5   	neg = 0    
+61. But it's not part of                ... pos = 0.0   	neg = 0.0  
+62. It's just as cheesy                 ... pos = 0.0   	neg = 0.875
+63. Fortunately this fil                ... pos = 0.5   	neg = 0.125
+64. I don't see  the end                ... pos = 0.125 	neg = 0.0  
+65. Oh, I realize the di                ... pos = 0.125 	neg = 0.125
+66. But c'mon, do they r                ... pos = 0.5   	neg = 0.0  
+67. It becomes like any                 ... pos = 0.0   	neg = 0.375
+68. The characters' lang                ... pos = 0.0   	neg = 0.0  
+69. (At the very least,                 ... pos = 0.5   	neg = 0.25 
+70. ). Because it's beco                ... pos = 1.25  	neg = 0.0  
+71. "  You've heard the                 ... pos = 0.375 	neg = 0.125
+72. If that doesn't  imp                ... pos = 0.375 	neg = 0.0  
+73. (And if you think ha                ... pos = 0.0   	neg = 0.875
+74. ) The viewing experi                ... pos = 0.0   	neg = 0.875
+75. But there are also a                ... pos = 0.75  	neg = 0.125
+76. '  In all, the film                 ... pos = 0.875 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp25 is Positive                ... pos = 28.853 	neg = 17.375
+Overall score of document
+Total Pos = 28.853
+Total Neg = 17.375
+---------------------------------------------------------------------------
+0. ARTISEN ENTERTAINMEN                 ... pos = 0.5   	neg = 0.5  
+1. We want our ghosts.                  ... pos = 0.0   	neg = 0.125
+2. We need our governme                 ... pos = 0.0   	neg = 0.125
+3. We lust for an Extra                 ... pos = 0.625 	neg = 0    
+4. And a lot of us real                 ... pos = 0.125 	neg = 0.0  
+5. From this collective                 ... pos = 0.75  	neg = 1.0  
+6. Much hype and effort                 ... pos = 0.125 	neg = 0.0  
+7. There are individual                 ... pos = 0.875 	neg = 0.25 
+8. But for all the atte                 ... pos = 0.25  	neg = 0.0  
+9. That is an interesti                 ... pos = 2.0   	neg = 0.75 
+10. The film opens on a                 ... pos = 0.0   	neg = 0.0  
+11. Fading up is the (no                ... pos = 0.875 	neg = 0.375
+12. One year later, thei                ... pos = 0.0   	neg = 0.125
+13. With what has been s                ... pos = 0.5   	neg = 0.25 
+14. The film is basicall                ... pos = 0.375 	neg = 0.125
+15. We see some interest                ... pos = 0.0   	neg = 0.875
+16. As the three filmmak                ... pos = 0.0   	neg = 0.0  
+17. Being ill prepared f                ... pos = 0.5   	neg = 0.75 
+18. This slowly escalate                ... pos = 0.625 	neg = 0.25 
+19. As their terror and                 ... pos = 0.0   	neg = 0.0  
+20. Unfortunately, her g                ... pos = 0.375 	neg = 1.25 
+21. When they loss (?!                  ... pos = 0.0   	neg = 0    
+22. ) their map, all rea                ... pos = 0.0   	neg = 0.125
+23. The students wander                 ... pos = 0.125 	neg = 0.0  
+24. That night after muc                ... pos = 0.5   	neg = 0.25 
+25. Now Heather is seize                ... pos = 0.375 	neg = 0.125
+26. Michael now has to s                ... pos = 0.0   	neg = 0.125
+27. Again, more noises d                ... pos = 0.75  	neg = 0.25 
+28. Concealed inside are                ... pos = 0.25  	neg = 0.375
+29. Now all hope expires                ... pos = 1.0   	neg = 0.125
+30. The film climaxes wi                ... pos = 0.125 	neg = 0    
+31. ) handprints of chil                ... pos = 0.0   	neg = 0    
+32. What "The Blair Witc                ... pos = 0.0   	neg = 0.5  
+33. Since the developmen                ... pos = 0.5   	neg = 0.125
+34. You can download tra                ... pos = 0.0   	neg = 0.0  
+35. What has happened wi                ... pos = 0.0   	neg = 0.375
+36. The film in and of i                ... pos = 0.0   	neg = 0.25 
+37. Unfortunately, the c                ... pos = 0.0   	neg = 0.875
+38. Why would you contin                ... pos = 0.0   	neg = 0.0  
+39. Most people would at                ... pos = 0.0   	neg = 0.0  
+40. But not Heather, she                ... pos = 0.0   	neg = 0.125
+41. Willing to die (lite                ... pos = 0.0   	neg = 0.0  
+42. The use of the actor                ... pos = 0.25  	neg = 0.5  
+43. The mock documentary                ... pos = 0.0   	neg = 0.25 
+44. But what makes the '                ... pos = 0.0   	neg = 0.625
+45. One does buy into th                ... pos = 0.25  	neg = 0.375
+46. As a horror film, "T                ... pos = 1.125 	neg = 0.375
+47. What you don't see i                ... pos = 0.25  	neg = 0.125
+48. Your imagination can                ... pos = 0.375 	neg = 0.25 
+49. The Mise-En-Scéne o                ... pos = 0.625 	neg = 0.875
+50. Also the music by To                ... pos = 1.25  	neg = 0.375
+51. No one really died h                ... pos = 0.0   	neg = 0.25 
+52. In fact Michael Will                ... pos = 0.375 	neg = 0.25 
+53. Heather has also bee                ... pos = 0.0   	neg = 0.25 
+54. These young people a                ... pos = 0.25  	neg = 0.0  
+55. The mythology of the                ... pos = 0.0   	neg = 0.125
+56. This is the stuff of                ... pos = 0.0   	neg = 0.375
+57. We've all heard stor                ... pos = 0.125 	neg = 0.625
+58. All nice little stor                ... pos = 0.0   	neg = 0.25 
+59. What Directors Danie                ... pos = 0.25  	neg = 0.125
+60. Without the attentiv                ... pos = 2.0   	neg = 0.125
+61. On it's own; the fil                ... pos = 0.0   	neg = 0.125
+62. There is far too muc                ... pos = 0.625 	neg = 0.625
+63. For the most part th                ... pos = 0.375 	neg = 0.125
+64. The film is riff wit                ... pos = 0.0   	neg = 0.125
+65. While the editing is                ... pos = 0.625 	neg = 0.125
+66. But again, this has                 ... pos = 0.5   	neg = 0.0  
+67. The film almost beco                ... pos = 0.5   	neg = 0.125
+68. Most interesting of                 ... pos = 0.0   	neg = 0.25 
+69. This gives the film                 ... pos = 0.125 	neg = 0.125
+70. We're used to seeing                ... pos = 0.25  	neg = 0.0  
+71. This film instead cr                ... pos = 0.0   	neg = 0.25 
+72. Whether this film wi                ... pos = 0.125 	neg = 0.25 
+73. This is a hard film                 ... pos = 0.0   	neg = 0.875
+74. One cannot separate                 ... pos = 0.0   	neg = 0.0  
+75. They are so intertwi                ... pos = 0.25  	neg = 0.875
+76. It will be interesti                ... pos = 0.375 	neg = 0.25 
+77. So on a scale of one                ... pos = 0.0   	neg = 0.0  
+78. The film itself gets                ... pos = 0.0   	neg = 0.0  
+79. But the promotion, m                ... pos = 0.375 	neg = 0.0  
+80. "The Blair Witch Pro                ... pos = 0.125 	neg = 0.25 
+81. It is a PROJECT!                    ... pos = 0.0   	neg = 0.125
+82. Copyright Š 1999 R.                ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp26 is Positive                ... pos = 24.25 	neg = 21.375
+Overall score of document
+Total Pos = 24.25
+Total Neg = 21.375
+---------------------------------------------------------------------------
+0. The premise is prett                 ... pos = 0.0   	neg = 0.25 
+1. Three young film stu                 ... pos = 0.125 	neg = 0.0  
+2. Although their foray                 ... pos = 0.0   	neg = 0.125
+3. Worse yet, each nigh                 ... pos = 1.5   	neg = 0.75 
+4. Is it the Blair Witc                 ... pos = 0.0   	neg = 0.125
+5. Whatever it is, the                  ... pos = 0.0   	neg = 0.125
+6. Sounds like a fairly                 ... pos = 1.125 	neg = 0.125
+7. Well, okay, it's a m                 ... pos = 0.75  	neg = 0.375
+8. Directors Daniel Myr                 ... pos = 0.5   	neg = 0.25 
+9. Myrick, Sanchez, and                 ... pos = 0.375 	neg = 0.0  
+10. The actors were free                ... pos = 0.0   	neg = 0.5  
+11. The improvised scrip                ... pos = 1.25  	neg = 0.25 
+12. It's as if what thes                ... pos = 1.25  	neg = 0.125
+13. Aiding in the illusi                ... pos = 0.625 	neg = 0.75 
+14. Even though the dire                ... pos = 1.0   	neg = 0.375
+15. Believe me, creepy a                ... pos = 0.125 	neg = 0.375
+16. If you've got friend                ... pos = 0.375 	neg = 0.0  
+17. Except for a few rar                ... pos = 0.5   	neg = 0.0  
+18. Instead, most of the                ... pos = 0.125 	neg = 0.0  
+19. Moreover, a few of t                ... pos = 0.5   	neg = 0.625
+20. Those looking for de                ... pos = 2.0   	neg = 0.0  
+21. THE BLAIR WITCH PROJ                ... pos = 0.0   	neg = 0.125
+22. Instead, it's a slow                ... pos = 0.625 	neg = 1.25 
+23. So frightening is th                ... pos = 0.25  	neg = 0.25 
+24. However, that's not                 ... pos = 0.125 	neg = 0.625
+25. On the contrary, whi                ... pos = 2.625 	neg = 0.375
+26. As they slip down th                ... pos = 0.0   	neg = 0.0  
+27. However, as effectiv                ... pos = 1.125 	neg = 0.125
+28. First is the fact th                ... pos = 0.125 	neg = 0.125
+29. The students have an                ... pos = 0.0   	neg = 0.0  
+30. The students are sca                ... pos = 1.0   	neg = 0.0  
+31. It occurs to you mor                ... pos = 0.375 	neg = 1.125
+32. But to their credit,                ... pos = 0.75  	neg = 0.625
+33. The second problem i                ... pos = 0.25  	neg = 0.375
+34. I realize it would b                ... pos = 0.25  	neg = 0.375
+35. Be warned that if yo                ... pos = 0.0   	neg = 0.75 
+36. If you see THE BLAIR                ... pos = 0.125 	neg = 0.0  
+37. I've heard reports o                ... pos = 0.75  	neg = 0.75 
+38. If you wish to be sc                ... pos = 0.625 	neg = 0.75 
+39. But as they say, be                 ... pos = 0.5   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp27 is Positive                ... pos = 21.625 	neg = 13.25
+Overall score of document
+Total Pos = 21.625
+Total Neg = 13.25
+---------------------------------------------------------------------------
+0. http://www.speakers-                 ... pos = 0     	neg = 0    
+1. Susan Granger's revi                 ... pos = 0.0   	neg = 0.0  
+2. They were never seen                 ... pos = 0.0   	neg = 0.125
+3. One year later, thei                 ... pos = 0.0   	neg = 0.125
+4. This film is their l                 ... pos = 0.125 	neg = 0.125
+5. Heather Donahue sets                 ... pos = 0.75  	neg = 0.375
+6. Her two male compani                 ... pos = 0.375 	neg = 0.0  
+7. Terror strikes on th                 ... pos = 0.125 	neg = 0.0  
+8. "I'm scared to close                 ... pos = 0.875 	neg = 0    
+9. I'm scared to open t                 ... pos = 0.75  	neg = 0    
+10. While the twisted co                ... pos = 0.25  	neg = 0.625
+11. The story behind thi                ... pos = 0.0   	neg = 0.0  
+12. Certain destination                 ... pos = 0.75  	neg = 0.125
+13. Therefore, the image                ... pos = 0.625 	neg = 0.0  
+14. Nevertheless, on the                ... pos = 0.125 	neg = 0.875
+15. This creepy, clever,                ... pos = 1.75  	neg = 0.125
+16. What you create in y                ... pos = 0.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp28 is Positive                ... pos = 6.875 	neg = 2.875
+Overall score of document
+Total Pos = 6.875
+Total Neg = 2.875
+---------------------------------------------------------------------------
+0. At a perfect running                 ... pos = 0.0   	neg = 0.5  
+1. It uses mostly the t                 ... pos = 2.375 	neg = 0.0  
+2. That's something few                 ... pos = 0.375 	neg = 0.0  
+3. The film was made fo                 ... pos = 0.75  	neg = 0.25 
+4. Based on the fiction                 ... pos = 0.125 	neg = 0.0  
+5. Heather Donahue, Mic                 ... pos = 3.0   	neg = 0.0  
+6. The film reports tha                 ... pos = 0.0   	neg = 0.375
+7. It begins with the g                 ... pos = 0.375 	neg = 0.0  
+8. We see them at home,                 ... pos = 0.0   	neg = 0.0  
+9. Then the film picks                  ... pos = 0.125 	neg = 0.0  
+10. They talk to various                ... pos = 0.375 	neg = 0.0  
+11. Their journey into t                ... pos = 0.0   	neg = 0.125
+12. This film may do for                ... pos = 0.0   	neg = 0.0  
+13. One of the people in                ... pos = 0.5   	neg = 0.0  
+14. They find it and it                 ... pos = 1.125 	neg = 0.125
+15. They also find a rit                ... pos = 1.0   	neg = 0.0  
+16. As the film moves on                ... pos = 0.25  	neg = 0.0  
+17. As things go on they                ... pos = 0.0   	neg = 1.25 
+18. One of them throws t                ... pos = 0.0   	neg = 0.25 
+19. They make a humourou                ... pos = 0.0   	neg = 0.5  
+20. They hear strange no                ... pos = 0.625 	neg = 0.125
+21. Tempers flare and we                ... pos = 0.5   	neg = 0.5  
+22. In fact, much of the                ... pos = 0.5   	neg = 0.25 
+23. In a big Hollywood p                ... pos = 0.25  	neg = 0.0  
+24. The acting is top no                ... pos = 0.375 	neg = 0.25 
+25. Film makers Daniel M                ... pos = 0.125 	neg = 0.0  
+26. The Cohen brothers (                ... pos = 0.75  	neg = 0.125
+27. Perhaps Myrick and S                ... pos = 0.0   	neg = 0.0  
+28. Visit FILM FOLLOW-UP                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp29 is Positive                ... pos = 13.5  	neg = 4.625
+Overall score of document
+Total Pos = 13.5
+Total Neg = 4.625
+---------------------------------------------------------------------------
+0. The Blair Witch Proj                 ... pos = 0.375 	neg = 0.0  
+1. ) http://www.artisan                 ... pos = 0.0   	neg = 0.0  
+2. ) http://www.blairwi                 ... pos = 0.5   	neg = 0.125
+3. Many classics of the                 ... pos = 1.625 	neg = 0.875
+4. "  Even "Psycho" cou                 ... pos = 1.0   	neg = 0.0  
+5. Daniel Myrick and Ed                 ... pos = 0.125 	neg = 0.875
+6. It follows this rule                 ... pos = 0.0   	neg = 0.0  
+7. By now, you've read                  ... pos = 0.0   	neg = 0.0  
+8. "  They appear on th                 ... pos = 0.0   	neg = 0.125
+9. The movie the follow                 ... pos = 0.0   	neg = 0.75 
+10. Their subject is the                ... pos = 0.125 	neg = 0.5  
+11. After some prelimina                ... pos = 0.125 	neg = 0.0  
+12. For the first quarte                ... pos = 0.5   	neg = 0.0  
+13. They record themselv                ... pos = 0.0   	neg = 0.75 
+14. This is all so real                 ... pos = 0.0   	neg = 0.5  
+15. Before long, they're                ... pos = 0.0   	neg = 0.5  
+16. There are terrifying                ... pos = 1.0   	neg = 0.125
+17. Unlike most teens in                ... pos = 1.125 	neg = 0.125
+18. After seeing "The Bl                ... pos = 0.5   	neg = 0.0  
+19. It's an experimental                ... pos = 0.0   	neg = 0.125
+20. When I saw the endin                ... pos = 0.125 	neg = 0.25 
+21. To continue this lin                ... pos = 0.125 	neg = 0.125
+22. So, you might want t                ... pos = 0.0   	neg = 0.625
+23. Watching "Blair Witc                ... pos = 0.25  	neg = 0.25 
+24. What we see and hear                ... pos = 0.0   	neg = 0.25 
+25. Most of the movie is                ... pos = 0.375 	neg = 0.25 
+26. Some shots are out o                ... pos = 0.625 	neg = 0.0  
+27. The sounds in the di                ... pos = 0.25  	neg = 0.75 
+28. Important events hap                ... pos = 0.875 	neg = 0.0  
+29. Most frustrating of                 ... pos = 0.375 	neg = 0.0  
+30. In "Danse Macabre,"                 ... pos = 0.625 	neg = 0.125
+31. "  He cautioned, tho                ... pos = 0.125 	neg = 1.75 
+32. However, the recent                 ... pos = 0.875 	neg = 0.0  
+33. So, where do I get o                ... pos = 0.0   	neg = 0.625
+34. Partly because I adm                ... pos = 1.0   	neg = 0.0  
+35. Making a movie that                 ... pos = 0.875 	neg = 0.0  
+36. The choice to film m                ... pos = 1.0   	neg = 0.25 
+37. >From Blair Witch's                 ... pos = 0.0   	neg = 0.5  
+38. "  However, that's n                ... pos = 0.125 	neg = 0    
+39. It has only the slig                ... pos = 0.0   	neg = 0.375
+40. However, "Blair Witc                ... pos = 1.25  	neg = 0.0  
+41. While I was watching                ... pos = 0.625 	neg = 0.125
+42. The effect lasted un                ... pos = 0.0   	neg = 0.0  
+43. An really good horro                ... pos = 0.0   	neg = 0.0  
+44. One last aspect of i                ... pos = 0.75  	neg = 0.125
+45. It's website ">http:                ... pos = 0.75  	neg = 0.0  
+46. It offers photos of                 ... pos = 0.875 	neg = 0.0  
+47. The mythology will b                ... pos = 0.5   	neg = 1.0  
+48. In other words, the                 ... pos = 0.125 	neg = 0.125
+49. That is a situation                 ... pos = 1.25  	neg = 0.125
+50. Expect to see more m                ... pos = 1.25  	neg = 0.0  
+51. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp3 is Positive                 ... pos = 22.0  	neg = 13.0 
+Overall score of document
+Total Pos = 22.0
+Total Neg = 13.0
+---------------------------------------------------------------------------
+0. MY QUITE LENGTHY TAK                 ... pos = 2.125 	neg = 0.125
+1. That's just how it w                 ... pos = 0.0   	neg = 0.0  
+2. I love a good horror                 ... pos = 1.75  	neg = 1.875
+3. However, the film fe                 ... pos = 0.25  	neg = 0.125
+4. "It couldn't be as s                 ... pos = 1.375 	neg = 1.25 
+5. "   At least in the                  ... pos = 0.5   	neg = 0.125
+6. Everyone wants to se                 ... pos = 1.5   	neg = 2.5  
+7. Artisan Entertainmen                 ... pos = 0.375 	neg = 0.125
+8. The scene at the Nep                 ... pos = 0.25  	neg = 0.125
+9. And while I was wait                 ... pos = 0.5   	neg = 0.375
+10. " No doubt these peo                ... pos = 0.375 	neg = 0.25 
+11. Another thing that h                ... pos = 0.125 	neg = 0.625
+12. I never thought the                 ... pos = 0.25  	neg = 0.25 
+13. Nevertheless, I hear                ... pos = 0.625 	neg = 0.625
+14. Other people were ov                ... pos = 0.0   	neg = 0.125
+15. " (I can't help but                 ... pos = 0.375 	neg = 0.625
+16. They ought to realiz                ... pos = 0.125 	neg = 0.0  
+17. ).   The premise of                 ... pos = 0.75  	neg = 0.5  
+18. The filmmakers, we a                ... pos = 0.25  	neg = 0.375
+19. We watch their black                ... pos = 0.625 	neg = 0.0  
+20. Early on, I was skep                ... pos = 0.125 	neg = 0.125
+21. They interview some                 ... pos = 1.125 	neg = 0.125
+22. The director of the                 ... pos = 0.125 	neg = 1.25 
+23. She changes her acce                ... pos = 0.25  	neg = 0.0  
+24. (Otherwise, the amat                ... pos = 0.5   	neg = 0.125
+25. I am absolutely posi                ... pos = 0.0   	neg = 1.125
+26. )   But the film qui                ... pos = 0.5   	neg = 0.125
+27. Almost none of the d                ... pos = 0.0   	neg = 0.375
+28. As far as I can tell                ... pos = 0.25  	neg = 0.125
+29. They joke with each                 ... pos = 1.125 	neg = 0.25 
+30. One of my favorite s                ... pos = 0.0   	neg = 0.5  
+31. "Let's stop calling                 ... pos = 0.0   	neg = 0.0  
+32. It's *the Skipper*                ... pos = 0     	neg = 0    
+33. "   What results fro                ... pos = 0.625 	neg = 0.125
+34. I can relate to the                 ... pos = 0.125 	neg = 0.5  
+35. The clever quasi-Met                ... pos = 0.5   	neg = 0.0  
+36. These are real peopl                ... pos = 0.25  	neg = 0.0  
+37. But suspension of di                ... pos = 0.0   	neg = 0.375
+38. I felt like I really                ... pos = 0.0   	neg = 0.125
+39. One particularly rea                ... pos = 0.625 	neg = 0.125
+40. Some horror movies h                ... pos = 1.0   	neg = 0.625
+41. But I think most hor                ... pos = 0.75  	neg = 0.0  
+42. The film, however, a                ... pos = 1.0   	neg = 0.0  
+43. They may have witnes                ... pos = 0.875 	neg = 0.5  
+44. They allow themselve                ... pos = 0.25  	neg = 0.0  
+45. For a long time, the                ... pos = 0.0   	neg = 1.125
+46. But as the film prog                ... pos = 1.125 	neg = 0.625
+47. It's a slow burn.                   ... pos = 0.0   	neg = 0.0  
+48. Rather than start ou                ... pos = 1.375 	neg = 2.25 
+49. And it works.                       ... pos = 0.0   	neg = 0    
+50. I don't want to say                 ... pos = 0.0   	neg = 0.25 
+51. The more times peopl                ... pos = 1.125 	neg = 1.5  
+52. But the fact is, a m                ... pos = 0.375 	neg = 0.125
+53. Maybe The Shining or                ... pos = 0.25  	neg = 0.5  
+54. Or maybe The Exorcis                ... pos = 0.0   	neg = 0.0  
+55. Only time travel wil                ... pos = 0.125 	neg = 0.0  
+56. But when shit went d                ... pos = 0.5   	neg = 0.5  
+57. My girlfriend and I                 ... pos = 0.875 	neg = 0.75 
+58. This is the first mo                ... pos = 0.5   	neg = 0.625
+59. Many hardened skepti                ... pos = 0.75  	neg = 0.75 
+60. I don't think many o                ... pos = 0.0   	neg = 0.125
+61. Throughout the film,                ... pos = 0.25  	neg = 0.125
+62. As the opening text                 ... pos = 0.25  	neg = 0.125
+63. Later he said out lo                ... pos = 0.0   	neg = 0.875
+64. Even late in the fil                ... pos = 0.875 	neg = 0.75 
+65. It didn't seem like                 ... pos = 0.375 	neg = 0.125
+66. But at a certain poi                ... pos = 0.75  	neg = 0.5  
+67. This is not a sudden                ... pos = 0.0   	neg = 0.625
+68. It's just the unexpe                ... pos = 0.5   	neg = 0.5  
+69. A massive, communal                 ... pos = 0.125 	neg = 0.0  
+70. You could hear the e                ... pos = 0.0   	neg = 0.0  
+71. This is not the "BOO                ... pos = 0.0   	neg = 0.125
+72. Made you flinch," ty                ... pos = 0.5   	neg = 0.125
+73. This is more like tr                ... pos = 1.25  	neg = 0.75 
+74. I wonder if this mig                ... pos = 0.125 	neg = 0.75 
+75. So why is it so scar                ... pos = 0.0   	neg = 0.875
+76. It's not virtuoso ci                ... pos = 0.5   	neg = 0.0  
+77. I think what the fil                ... pos = 0.5   	neg = 0.25 
+78. What would really be                ... pos = 0     	neg = 0.875
+79. A guy with an ax cho                ... pos = 0.0   	neg = 0.625
+80. Yeah, that would be                 ... pos = 0     	neg = 0.875
+81. But what about somet                ... pos = 0.5   	neg = 0.0  
+82. Like, just hearing f                ... pos = 0.0   	neg = 0.125
+83. In a slick studio ho                ... pos = 0.375 	neg = 0.375
+84. But in a raw, low bu                ... pos = 0.125 	neg = 0.125
+85. What's wrong with to                ... pos = 0.5   	neg = 2.5  
+86. I think that's overs                ... pos = 0.0   	neg = 0.0  
+87. Yes, some of the mos                ... pos = 0.0   	neg = 1.0  
+88. You can't really den                ... pos = 0.25  	neg = 0.875
+89. And I think it is no                ... pos = 0.125 	neg = 1.625
+90. But just because it                 ... pos = 1.125 	neg = 0.0  
+91. Would Night of the L                ... pos = 0.0   	neg = 0.5  
+92. Was I imagining it w                ... pos = 0.5   	neg = 0.125
+93. Would The Exorcist b                ... pos = 0.0   	neg = 0.75 
+94. I don't think so.                   ... pos = 0     	neg = 0.0  
+95. But The Blair Witch                 ... pos = 0.125 	neg = 0.0  
+96. I am certain that it                ... pos = 0.625 	neg = 0.125
+97. The premise of Blair                ... pos = 1.0   	neg = 0.125
+98. Since the film prete                ... pos = 0.375 	neg = 1.625
+99. When something happe                ... pos = 0.0   	neg = 0.625
+100. " It's more like, "D               ... pos = 0.0   	neg = 0.0  
+101. " Like real videos o               ... pos = 1.125 	neg = 0.125
+102. You're always search               ... pos = 0.0   	neg = 0.625
+103. In the instances whe               ... pos = 0.0   	neg = 0.25 
+104. Even the eerie sound               ... pos = 1.0   	neg = 0.0  
+105. I didn't even notice               ... pos = 0.625 	neg = 0.375
+106. A good score can rea               ... pos = 1.75  	neg = 0.125
+107. There are terrifying               ... pos = 0.625 	neg = 0.0  
+108. But Blair Witch Proj               ... pos = 0.875 	neg = 0.25 
+109. The story is left to               ... pos = 0.0   	neg = 0.125
+110. Even the end credits               ... pos = 0.875 	neg = 0.0  
+111. Instead, they leave                ... pos = 0.5   	neg = 0.125
+112. This movie isn't lea               ... pos = 0.0   	neg = 0.0  
+113. ".   So since the mo               ... pos = 2.239 	neg = 0.25 
+114. Perfect timing, too,               ... pos = 0.0   	neg = 0.5  
+115. Hugely successful ho               ... pos = 1.375 	neg = 0.5  
+116. It will be interesti               ... pos = 0.25  	neg = 0.125
+117. Here are a few predi               ... pos = 0.25  	neg = 0.0  
+118. Much lip service wil               ... pos = 0.25  	neg = 0.125
+119. This week, Dreamwork               ... pos = 1.0   	neg = 0.25 
+120. I predict that 75% o               ... pos = 0.125 	neg = 0.0  
+121. Perhaps some of the                ... pos = 0.875 	neg = 0.5  
+122. 2.                                 ... pos = 0     	neg = 0    
+123. One or two studios w               ... pos = 0.5   	neg = 0.25 
+124. They will be met wit               ... pos = 0.75  	neg = 0.125
+125. 3.                                 ... pos = 0     	neg = 0    
+126. Someone will try mak               ... pos = 0.5   	neg = 0.0  
+127. The trades will call               ... pos = 0.0   	neg = 0.0  
+128. ". 4.                              ... pos = 0     	neg = 0    
+129. I fear that particul               ... pos = 0.5   	neg = 0.625
+130. Blair Witch Project                ... pos = 1.125 	neg = 0.75 
+131. Other filmmakers wil               ... pos = 0.125 	neg = 0.625
+132. 5.                                 ... pos = 0     	neg = 0    
+133. Hopefully, the movie               ... pos = 1.625 	neg = 1.0  
+134. They will probe thei               ... pos = 0.625 	neg = 0.0  
+135. I don't think they s               ... pos = 0.125 	neg = 0.75 
+136. A postscript concern               ... pos = 3.25  	neg = 0.75 
+137. There are still many               ... pos = 1.125 	neg = 0.625
+138. After 'Saw, director               ... pos = 1.25  	neg = 1.0  
+139. Most of the rest of                ... pos = 0.75  	neg = 0.625
+140. I still hope he will               ... pos = 0.5   	neg = 1.125
+141. I hope Daniel Myrick               ... pos = 0.375 	neg = 0.875
+142. So far, the odds see               ... pos = 0.5   	neg = 0.0  
+143. Much of the strength               ... pos = 0.875 	neg = 0.125
+144. But we don't know if               ... pos = 0.0   	neg = 0.0  
+145. On the other hand, w               ... pos = 1.625 	neg = 0.0  
+146. Here's hoping they h               ... pos = 0.5   	neg = 0.0  
+147. "I write rhymes so f               ... pos = 0.375 	neg = 0.5  
+148. " --Tash. .                        ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp30 is Positive                ... pos = 71.489 	neg = 59.0 
+Overall score of document
+Total Pos = 71.489
+Total Neg = 59.0
+---------------------------------------------------------------------------
+0. As I sit in front of                 ... pos = 0.75  	neg = 0.375
+1. The usually-comforti                 ... pos = 0.25  	neg = 0.375
+2. When my cat walks ac                 ... pos = 0.125 	neg = 0.375
+3. I walk to into the l                 ... pos = 0.25  	neg = 0.0  
+4. It doesn't work.                     ... pos = 0.0   	neg = 0    
+5. There's still a stra                 ... pos = 0.375 	neg = 0    
+6. This is the power of                 ... pos = 0.0   	neg = 0.125
+7. It's been two days s                 ... pos = 0.125 	neg = 0.125
+8. Three student filmma                 ... pos = 0.125 	neg = 0.625
+9. They disappear, neve                 ... pos = 0.0   	neg = 0.125
+10. A year later, anthro                ... pos = 0.0   	neg = 0.0  
+11. The movie we see is                 ... pos = 0.0   	neg = 0.125
+12. Knowledgeable member                ... pos = 0.25  	neg = 0.25 
+13. The actors playing t                ... pos = 0.625 	neg = 0.0  
+14. The film team never                 ... pos = 0.0   	neg = 0.0  
+15. None of them were lo                ... pos = 0.0   	neg = 0.125
+16. The footage is a com                ... pos = 0.0   	neg = 0.125
+17. Much of it has the a                ... pos = 0.125 	neg = 0.0  
+18. Scenes are poorly li                ... pos = 0.25  	neg = 0.625
+19. Subjects are out of                 ... pos = 0.25  	neg = 0.0  
+20. Often it's difficult                ... pos = 0.25  	neg = 0.0  
+21. It's the most unprof                ... pos = 0.0   	neg = 0.0  
+22. And possibly the mos                ... pos = 0.25  	neg = 0    
+23. The amateur quality                 ... pos = 0.0   	neg = 0.125
+24. Like even the worst                 ... pos = 0.5   	neg = 0.375
+25. It's as if you are e                ... pos = 0.25  	neg = 0.0  
+26. No matter how much t                ... pos = 0.125 	neg = 0.25 
+27. The very nature of t                ... pos = 0.5   	neg = 0.0  
+28. Anyone who has spent                ... pos = 1.0   	neg = 0.0  
+29. Usually when I'm cam                ... pos = 0.0   	neg = 0.0  
+30. There's always weird                ... pos = 0.375 	neg = 0.125
+31. On the occasions whe                ... pos = 0.625 	neg = 0.125
+32. Unidentifiable sound                ... pos = 0.0   	neg = 0.0  
+33. In the film, some of                ... pos = 0.0   	neg = 0.5  
+34. But some of them dec                ... pos = 0.25  	neg = 0.0  
+35. After the students a                ... pos = 0.5   	neg = 0.0  
+36. They awaken one morn                ... pos = 0.0   	neg = 0.25 
+37. The night scenes nev                ... pos = 0.625 	neg = 0.0  
+38. Whatever is there, i                ... pos = 0.0   	neg = 0.25 
+39. Some of the most fri                ... pos = 0.5   	neg = 0.0  
+40. All we see are branc                ... pos = 0.25  	neg = 0    
+41. All we hear are pant                ... pos = 0.5   	neg = 0.25 
+42. It's chilling.                      ... pos = 0.0   	neg = 0    
+43. The three actors (He                ... pos = 0.75  	neg = 0.5  
+44. Ordinary people scar                ... pos = 0.5   	neg = 0.0  
+45. The movie has some f                ... pos = 0.0   	neg = 0.0  
+46. We don't learn enoug                ... pos = 0.0   	neg = 0.0  
+47. When I left the thea                ... pos = 0.0   	neg = 0.0  
+48. Too much was neatly                 ... pos = 0.125 	neg = 0.5  
+49. But days later, the                 ... pos = 0.0   	neg = 0.0  
+50. It's more terrifying                ... pos = 0.25  	neg = 0.125
+51. Although the film is                ... pos = 0.0   	neg = 0.25 
+52. It's a concept that                 ... pos = 0.0   	neg = 0.0  
+53. In some ways it's a                 ... pos = 0.0   	neg = 0.0  
+54. But it's a remarkabl                ... pos = 0.25  	neg = 0.25 
+55. (Michael Redman has                 ... pos = 0.0   	neg = 0.0  
+56. Email your camping e                ... pos = 0.0   	neg = 0    
+57. No, really.                         ... pos = 0     	neg = 0.25 
+58. Do it.                              ... pos = 0.0   	neg = 0.0  
+59. ). [The appeared in                 ... pos = 0.0   	neg = 0.0  
+60. Michael Redman can b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp31 is Positive                ... pos = 11.875 	neg = 7.625
+Overall score of document
+Total Pos = 11.875
+Total Neg = 7.625
+---------------------------------------------------------------------------
+0. The Blair Witch Proj                 ... pos = 1.5   	neg = 0.375
+1. The horror film genr                 ... pos = 0.375 	neg = 0.125
+2. Since Hitchcock, we                  ... pos = 0.625 	neg = 0.75 
+3. However, the horror                  ... pos = 0.5   	neg = 0.375
+4. Scream gave viewers                  ... pos = 1.375 	neg = 0.625
+5. But, we have a true                  ... pos = 0.875 	neg = 0.0  
+6. The Blair Witch Proj                 ... pos = 0     	neg = 0.0  
+7. It is not a scarefes                 ... pos = 0.5   	neg = 0.125
+8. This film was made f                 ... pos = 0.0   	neg = 0.125
+9. You probably could h                 ... pos = 0.0   	neg = 0.0  
+10. But, after seeing th                ... pos = 0.125 	neg = 0.25 
+11. Does this film look                 ... pos = 0.0   	neg = 0.5  
+12. No, it looks like it                ... pos = 0.125 	neg = 0.625
+13. But, this is the bai                ... pos = 0     	neg = 0.125
+14. And once you believe                ... pos = 0.5   	neg = 0.625
+15. Hook, line and sinke                ... pos = 0.0   	neg = 0.0  
+16. The cast is wonderfu                ... pos = 0.75  	neg = 0.125
+17. The only way a horro                ... pos = 0.125 	neg = 0.25 
+18. Alfred Hitchcock did                ... pos = 0.5   	neg = 0.25 
+19. I am not comparing E                ... pos = 0.25  	neg = 0.125
+20. Heather Donahue play                ... pos = 0.0   	neg = 0.0  
+21. Joshua Leonard and M                ... pos = 0.375 	neg = 0.0  
+22. I guess forty thousa                ... pos = 0.625 	neg = 0.0  
+23. Or maybe it just add                ... pos = 0.0   	neg = 0.0  
+24. Heather Donahue is g                ... pos = 0.0   	neg = 0.125
+25. In a present day whe                ... pos = 0.25  	neg = 0.875
+26. The problem with mos                ... pos = 0.625 	neg = 0.625
+27. But, Donahue plays t                ... pos = 0.0   	neg = 0.0  
+28. Her character is the                ... pos = 1.25  	neg = 0.125
+29. She is demanding, ha                ... pos = 0.125 	neg = 0.875
+30. Michael Williams pla                ... pos = 0.375 	neg = 0.0  
+31. When the film starts                ... pos = 1.0   	neg = 0.125
+32. All he is there for                 ... pos = 0.0   	neg = 0.25 
+33. Well, think again.                  ... pos = 0.0   	neg = 0.0  
+34. He lets his role flo                ... pos = 0.125 	neg = 0    
+35. As the group of thre                ... pos = 1.0   	neg = 0.0  
+36. Joshua Leonard plays                ... pos = 0.125 	neg = 0.125
+37. Surprisingly, he is                 ... pos = 0.25  	neg = 0.125
+38. His role complements                ... pos = 0.0   	neg = 0    
+39. None of the cast sta                ... pos = 0.0   	neg = 0.0  
+40. Whatever egos they m                ... pos = 0.875 	neg = 0.25 
+41. This makes their per                ... pos = 0.0   	neg = 0.0  
+42. The plot is the best                ... pos = 0.0   	neg = 0.125
+43. Despite the great ac                ... pos = 0.375 	neg = 0.875
+44. This one is based on                ... pos = 0.0   	neg = 0.25 
+45. I will not spoil too                ... pos = 0.25  	neg = 0.375
+46. Then, after intervie                ... pos = 0.0   	neg = 0.0  
+47. They start filming i                ... pos = 0.25  	neg = 0.0  
+48. They are disappointe                ... pos = 0.25  	neg = 0.0  
+49. However, they soon f                ... pos = 0.125 	neg = 0.0  
+50. "  This is where thi                ... pos = 0.0   	neg = 0.875
+51. They start hearing n                ... pos = 0.25  	neg = 0.625
+52. But, as they start t                ... pos = 0.25  	neg = 0.125
+53. And as things progre                ... pos = 0.5   	neg = 0.0  
+54. That is about as far                ... pos = 0.0   	neg = 0.125
+55. Is there anything wr                ... pos = 0     	neg = 0.875
+56. Yes, but nothing maj                ... pos = 0.5   	neg = 0.25 
+57. The only flaws I saw                ... pos = 0.0   	neg = 0.125
+58. Mike kicks their map                ... pos = 0.0   	neg = 0.125
+59. At this point in the                ... pos = 0.375 	neg = 0.75 
+60. The other flaw is no                ... pos = 0.0   	neg = 0.375
+61. But, for those of yo                ... pos = 0.0   	neg = 0.0  
+62. your home movies) th                ... pos = 0.0   	neg = 0.0  
+63. The camera goes ever                ... pos = 0.75  	neg = 0.125
+64. This added to the re                ... pos = 0.0   	neg = 0.5  
+65. Overall, this is the                ... pos = 0.375 	neg = 0.125
+66. It has humor in the                 ... pos = 0.625 	neg = 0.0  
+67. Then it blows your m                ... pos = 0.625 	neg = 0.25 
+68. And, ironically, it                 ... pos = 0.0   	neg = 0.875
+69. Fortunately, The Bla                ... pos = 0.875 	neg = 0.875
+70. This makes it one of                ... pos = 0.375 	neg = 0    
+71. Rating: Four Stars O                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp32 is Positive                ... pos = 22.0  	neg = 17.5 
+Overall score of document
+Total Pos = 22.0
+Total Neg = 17.5
+---------------------------------------------------------------------------
+0. May contain objectio                 ... pos = 0.0   	neg = 0.0  
+1. Starring: Heather Do                 ... pos = 0.375 	neg = 0.0  
+2. The movie opens with                 ... pos = 0.0   	neg = 0.375
+3. ". "The Blair Witch                  ... pos = 2.0   	neg = 0.125
+4. This movie has only                  ... pos = 0.0   	neg = 0.75 
+5. What the movie does,                 ... pos = 0.375 	neg = 0.375
+6. The movie has no sca                 ... pos = 0.0   	neg = 1.25 
+7. The scares are stron                 ... pos = 0.75  	neg = 0.25 
+8. The movie is in a st                 ... pos = 0.0   	neg = 0.125
+9. Three film-makers: H                 ... pos = 0.375 	neg = 0.0  
+10. The three travel to                 ... pos = 0.0   	neg = 0.0  
+11. Everyone in this tow                ... pos = 0.0   	neg = 0.0  
+12. Everyone knows that                 ... pos = 0.25  	neg = 0.125
+13. The three excited an                ... pos = 0.25  	neg = 0.0  
+14. They hike the trails                ... pos = 0.875 	neg = 0.0  
+15. When they get back t                ... pos = 0.0   	neg = 0.125
+16. Then they find stran                ... pos = 0.375 	neg = 0.0  
+17. They hear voices, sc                ... pos = 0.75  	neg = 0.0  
+18. All three of them ar                ... pos = 1.125 	neg = 0.125
+19. Their way out is blo                ... pos = 0.375 	neg = 0.125
+20. "The Blair Witch Pro                ... pos = 0.375 	neg = 0.125
+21. But not the type of                 ... pos = 0.0   	neg = 0.0  
+22. This movie is downri                ... pos = 0.625 	neg = 0.875
+23. It is filmed in the                 ... pos = 0.0   	neg = 0.125
+24. It doesn't have any                 ... pos = 0.0   	neg = 0.0  
+25. This film is genuine                ... pos = 0.625 	neg = 0.875
+26. And I have to say no                ... pos = 0.5   	neg = 0.0  
+27. If you thought it wa                ... pos = 0.0   	neg = 0.125
+28. If you thought the e                ... pos = 0.0   	neg = 1.0  
+29. To put it another wa                ... pos = 0.75  	neg = 0.25 
+30. The opening message                 ... pos = 0.25  	neg = 0.125
+31. The footage that was                ... pos = 0.0   	neg = 0.125
+32. But what we have to                 ... pos = 0.0   	neg = 0.25 
+33. Nothing more, there                 ... pos = 0.25  	neg = 0.25 
+34. While watching this                 ... pos = 0.0   	neg = 0.25 
+35. You are made a chara                ... pos = 1.125 	neg = 0.0  
+36. This movie is the sc                ... pos = 0.25  	neg = 0.375
+37. After it is over, yo                ... pos = 0.5   	neg = 0.125
+38. What was that?                      ... pos = 0     	neg = 0.125
+39. Who is that?                        ... pos = 0.0   	neg = 0.125
+40. I wonder what did th                ... pos = 0.25  	neg = 0.625
+41. I don't think you wi                ... pos = 0.375 	neg = 0.125
+42. I don't think you wi                ... pos = 0.375 	neg = 0.125
+43. At least that's from                ... pos = 0     	neg = 0.0  
+44. See 'The Blair Witch                ... pos = 0.0   	neg = 0.25 
+45. Then see it again...                ... pos = 0.0   	neg = 0.0  
+46. Reviewed  August 7,                ... pos = 0.0   	neg = 0.0  
+47. Brandon Herring Movi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp33 is Positive                ... pos = 14.25 	neg = 10.0 
+Overall score of document
+Total Pos = 14.25
+Total Neg = 10.0
+---------------------------------------------------------------------------
+0. Starring Heather Don                 ... pos = 0.375 	neg = 0.0  
+1. Directed By Daniel M                 ... pos = 0.125 	neg = 0.125
+2. However, like The Go                 ... pos = 1.375 	neg = 0.0  
+3. Donahue, Williams an                 ... pos = 0.875 	neg = 0.0  
+4. The film is made up                  ... pos = 0.0   	neg = 0.875
+5. Although events star                 ... pos = 0.0   	neg = 0.125
+6. Although an interest                 ... pos = 0.0   	neg = 0.875
+7. The biggest mistake                  ... pos = 0.5   	neg = 1.528
+8. Most of the dialogue                 ... pos = 0.0   	neg = 0.125
+9. The 'script' eventua                 ... pos = 0.0   	neg = 0.5  
+10. There are breaks in                 ... pos = 1.375 	neg = 0.75 
+11. If I wanted to see t                ... pos = 0.0   	neg = 0.5  
+12. But no, the audience                ... pos = 0.25  	neg = 0.375
+13. The supernatural par                ... pos = 0.625 	neg = 0.125
+14. With no music and no                ... pos = 0.25  	neg = 0.5  
+15. I never really felt                 ... pos = 1.375 	neg = 0.125
+16. However, because the                ... pos = 0.625 	neg = 0.25 
+17. ' a lot, and Mike gi                ... pos = 0.0   	neg = 0.0  
+18. There's also the nig                ... pos = 0.0   	neg = 0.625
+19. The main problem is                 ... pos = 0.25  	neg = 1.375
+20. The film gives a hal                ... pos = 0.625 	neg = 0.125
+21. Also, the students h                ... pos = 0.0   	neg = 0.25 
+22. There are also some                 ... pos = 0.5   	neg = 0.75 
+23. The Blair Witch Proj                ... pos = 0.0   	neg = 0.125
+24. I suppose if you've                 ... pos = 0.125 	neg = 0.625
+25. Apart from the final                ... pos = 0.125 	neg = 0.625
+26. The spook scenes are                ... pos = 1.125 	neg = 0.0  
+27. Although a good idea                ... pos = 0.875 	neg = 1.125
+28. It's a worrying fact                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp34 is Negative                ... pos = 11.375 	neg = 12.528
+Overall score of document
+Total Pos = 11.375
+Total Neg = 12.528
+---------------------------------------------------------------------------
+0. Reviewed by Harvey K                 ... pos = 0.5   	neg = 0.25 
+1. Everybody has a grea                 ... pos = 0.0   	neg = 0.0  
+2. Never mind that the                  ... pos = 1.0   	neg = 0.0  
+3. Trekkers come home a                 ... pos = 0.0   	neg = 0.0  
+4. We had a great great                 ... pos = 0.0   	neg = 0.0  
+5. Do you believe them?                 ... pos = 0.125 	neg = 0.0  
+6. Take the trio of twe                 ... pos = 0.75  	neg = 0.0  
+7. These kids have a pu                 ... pos = 0.0   	neg = 0.0  
+8. Like many their age,                 ... pos = 0.0   	neg = 0.0  
+9. The three who journe                 ... pos = 1.375 	neg = 0.0  
+10. Just one thing, thou                ... pos = 0.0   	neg = 0.0  
+11. "The Blair Witch Pro                ... pos = 0.75  	neg = 0.75 
+12. The group hike into                 ... pos = 0.625 	neg = 0.125
+13. Though an entire tow                ... pos = 0.125 	neg = 0.625
+14. What made "The Blair                ... pos = 0.875 	neg = 0.125
+15. Simply this: instead                ... pos = 0.0   	neg = 0.0  
+16. "  The three young p                ... pos = 0.25  	neg = 0.125
+17. The directors plante                ... pos = 1.0   	neg = 0.0  
+18. They speak with seve                ... pos = 0.125 	neg = 1.0  
+19. In the one situation                ... pos = 0.25  	neg = 0.75 
+20. The treatment given                 ... pos = 0.5   	neg = 0.5  
+21. "  The actors playin                ... pos = 1.5   	neg = 0.0  
+22. In "Blair," Donahue,                ... pos = 0.75  	neg = 0.5  
+23. After a few days, th                ... pos = 0.5   	neg = 0.0  
+24. This adds markedly t                ... pos = 1.375 	neg = 0    
+25. As the three prepare                ... pos = 0.25  	neg = 0.25 
+26. Without a cell phone                ... pos = 0.125 	neg = 0.0  
+27. When the map of the                 ... pos = 0.375 	neg = 0.0  
+28. As Heather, the conf                ... pos = 0.875 	neg = 0.625
+29. "Blair," at once a r                ... pos = 0.375 	neg = 0.75 
+30. Last year, Darren Ar                ... pos = 0.5   	neg = 0.625
+31. "Pi" featured the ne                ... pos = 0.625 	neg = 0.125
+32. Unfortunately, "The                 ... pos = 0.0   	neg = 0.875
+33. " Though we may inde                ... pos = 0.375 	neg = 0.125
+34. The fault lies parad                ... pos = 0.625 	neg = 0.125
+35. What's needed to get                ... pos = 0.25  	neg = 0.25 
+36. Only a tight screenp                ... pos = 1.125 	neg = 0.0  
+37. Take, by contrast, t                ... pos = 0.75  	neg = 0.25 
+38. "Limbo" is a near-gr                ... pos = 1.125 	neg = 0.125
+39. What we have here, t                ... pos = 0.625 	neg = 0.125
+40. The moral?                          ... pos = 0.0   	neg = 0    
+41. To convey an atmosph                ... pos = 0.0   	neg = 0.0  
+42. Though after viewing                ... pos = 0.75  	neg = 1.125
+43. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp35 is Positive                ... pos = 21.125 	neg = 10.125
+Overall score of document
+Total Pos = 21.125
+Total Neg = 10.125
+---------------------------------------------------------------------------
+0. THE BLAIR WITCH PROJ                 ... pos = 0.75  	neg = 0.5  
+1. The nightmares will                  ... pos = 0.125 	neg = 0.375
+2. Not even close.                      ... pos = 0.0   	neg = 0.0  
+3. The conceit of THE B                 ... pos = 0.0   	neg = 0.25 
+4. And today, the Blair                 ... pos = 0.125 	neg = 0.0  
+5. All of this sets the                 ... pos = 0.25  	neg = 0.375
+6. So we know up front                  ... pos = 0.0   	neg = 0.875
+7. The trouble starts w                 ... pos = 0.875 	neg = 1.375
+8. Captured on videotap                 ... pos = 0.0   	neg = 1.0  
+9. (And yes, *none* of                  ... pos = 1.0   	neg = 0.125
+10. ).      But is this                 ... pos = 0     	neg = 0.875
+11. In a word, and on th                ... pos = 0.0   	neg = 0.25 
+12. Possibly a victim of                ... pos = 0.625 	neg = 0.0  
+13. My wife is a big wim                ... pos = 0.0   	neg = 0.25 
+14. Not until the grand                 ... pos = 0.375 	neg = 0.0  
+15. Still, two minutes o                ... pos = 0.125 	neg = 0.0  
+16. The other 88 are oka                ... pos = 0.625 	neg = 0.125
+17. However, for the hor                ... pos = 0.5   	neg = 1.375
+18. Director: Daniel Myr                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp36 is Negative                ... pos = 5.75  	neg = 7.75 
+Overall score of document
+Total Pos = 5.75
+Total Neg = 7.75
+---------------------------------------------------------------------------
+0. If nothing else, 199                 ... pos = 0.75  	neg = 0.375
+1. A case in point is T                 ... pos = 0.375 	neg = 0.5  
+2. For months now we ha                 ... pos = 0.5   	neg = 1.25 
+3. And the web has also                 ... pos = 0.25  	neg = 0.125
+4. The site also fills                  ... pos = 0.25  	neg = 0.875
+5. Many people actually                 ... pos = 0.125 	neg = 0.125
+6. Tyro film makers Dan                 ... pos = 1.625 	neg = 0.0  
+7. The film is shot usi                 ... pos = 0.25  	neg = 0.125
+8. The hand held camera                 ... pos = 1.625 	neg = 0.375
+9. The film follows thr                 ... pos = 0.375 	neg = 0.0  
+10. As the three become                 ... pos = 0.0   	neg = 0.375
+11. These scenes are the                ... pos = 1.125 	neg = 0.125
+12. At night while they                 ... pos = 0.625 	neg = 0.0  
+13. Are they imagining t                ... pos = 0.25  	neg = 0    
+14. Or has their belief                 ... pos = 0.125 	neg = 0.0  
+15. Heather, the project                ... pos = 0.875 	neg = 0.5  
+16. As her shrill voice                 ... pos = 0.25  	neg = 0.125
+17. Most of the dialogue                ... pos = 1.375 	neg = 0.625
+18. The Blair Witch Proj                ... pos = 0.75  	neg = 0.125
+19. ), but it is by no m                ... pos = 0.0   	neg = 0.375
+20. Only the more impres                ... pos = 0.5   	neg = 0.75 
+21. Rather, this is a cy                ... pos = 0.75  	neg = 0.125
+22. You have been warned                ... pos = 0     	neg = 0.125
+23. **1/2 greg king http                ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp37 is Positive                ... pos = 12.875 	neg = 7.0  
+Overall score of document
+Total Pos = 12.875
+Total Neg = 7.0
+---------------------------------------------------------------------------
+0. My goodness, this li                 ... pos = 0.75  	neg = 0.25 
+1. The film itself (wit                 ... pos = 0.125 	neg = 0.75 
+2. However, everyone is                 ... pos = 0.125 	neg = 0.125
+3. Unless you're one of                 ... pos = 0.0   	neg = 0.0  
+4. Admittedly, I wouldn                 ... pos = 0.625 	neg = 0.0  
+5. Alas, my ever-growin                 ... pos = 0.25  	neg = 0.25 
+6. What it appears to b                 ... pos = 0.125 	neg = 0.5  
+7. Supposedly, in 1940                  ... pos = 0.5   	neg = 0.125
+8. The preface (in text                 ... pos = 0.0   	neg = 0.25 
+9. The first twenty min                 ... pos = 0.375 	neg = 0.0  
+10. But much of the foot                ... pos = 0.125 	neg = 0.0  
+11. It's reminiscent of                 ... pos = 0.0   	neg = 0    
+12. ". The remainder of                 ... pos = 0.0   	neg = 0.625
+13. No witch is ever fil                ... pos = 0.0   	neg = 0.375
+14. In short, there's a                 ... pos = 0.0   	neg = 0.5  
+15. Heather is the direc                ... pos = 0.0   	neg = 0.125
+16. It appears to me tha                ... pos = 0.0   	neg = 0.125
+17. The other two actors                ... pos = 1.0   	neg = 0.5  
+18. Though I must say, H                ... pos = 0.375 	neg = 0.0  
+19. Did I say "hoax"?                   ... pos = 0.0   	neg = 0.0  
+20. Perhaps hoax is too                 ... pos = 0.5   	neg = 0.375
+21. Anyway, what's reall                ... pos = 0.0   	neg = 0.125
+22. From there, "BWP" is                ... pos = 0.0   	neg = 0.125
+23. Whether or not the a                ... pos = 0.0   	neg = 0.125
+24. Either way ... Myric                ... pos = 0.625 	neg = 0.125
+25. Technically speaking                ... pos = 0.375 	neg = 0.375
+26. However this is not                 ... pos = 0.125 	neg = 0.125
+27. I have high praise (                ... pos = 0.625 	neg = 0.0  
+28. " The filmmakers too                ... pos = 0.5   	neg = 0.5  
+29. I'm sure they'll hav                ... pos = 0.25  	neg = 0.0  
+30. (FYI: DAT is Digital                ... pos = 0.125 	neg = 0.125
+31. The three often worr                ... pos = 0.25  	neg = 0.0  
+32. Which means ... they                ... pos = 0.0   	neg = 0.25 
+33. ). Entertainment val                ... pos = 1.0   	neg = 2.25 
+34. I enjoyed the drama                 ... pos = 0.375 	neg = 0.0  
+35. I wanted to see just                ... pos = 0.0   	neg = 1.25 
+36. The sometimes extrem                ... pos = 0.625 	neg = 0.25 
+37. That and the video w                ... pos = 1.625 	neg = 0.375
+38. I had to intermitten                ... pos = 0.25  	neg = 0.375
+39. Ultimately, the movi                ... pos = 2.25  	neg = 0.125
+40. The Remarkable Dolla                ... pos = 0.625 	neg = 0.0  
+41. Directed by Daniel M                ... pos = 0.0   	neg = 0    
+42. Released by Artisan.                ... pos = 0.0   	neg = 0    
+43. Grade...............                ... pos = 0.0   	neg = 0.25 
+44. For more reviews vis                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp38 is Positive                ... pos = 14.5  	neg = 11.625
+Overall score of document
+Total Pos = 14.5
+Total Neg = 11.625
+---------------------------------------------------------------------------
+0. After being a little                 ... pos = 0.25  	neg = 0.875
+1. And I did experience                 ... pos = 0.875 	neg = 0.875
+2. To my mind, this mov                 ... pos = 0.625 	neg = 0.0  
+3. What affected me eve                 ... pos = 2.5   	neg = 0.125
+4. In some ways, I foun                 ... pos = 1.0   	neg = 0.125
+5. Employing a cinema v                 ... pos = 0.0   	neg = 0.0  
+6. The film opens with                  ... pos = 1.0   	neg = 0.125
+7. At the beginning, th                 ... pos = 0.25  	neg = 0.25 
+8. But as things go fat                 ... pos = 0.0   	neg = 1.0  
+9. The gradual deterior                 ... pos = 0.375 	neg = 0.125
+10. Particularly devasta                ... pos = 0.625 	neg = 0.125
+11. Finally realizing th                ... pos = 0.5   	neg = 0.625
+12. Adding to the realis                ... pos = 0.5   	neg = 0.0  
+13. The first names of t                ... pos = 1.25  	neg = 0.0  
+14. Heather (Heather Don                ... pos = 0.375 	neg = 0.125
+15. The acting is so con                ... pos = 2.5   	neg = 0.375
+16. I found this reminis                ... pos = 0.125 	neg = 0.0  
+17. >From its uncomplica                ... pos = 2.25  	neg = 0.125
+18. While emulating the                 ... pos = 2.125 	neg = 0.5  
+19. The vertiginous, jer                ... pos = 0.0   	neg = 1.0  
+20. This cleverly comple                ... pos = 0.5   	neg = 0.0  
+21. In "The Blair Witch                 ... pos = 0.0   	neg = 0.125
+22. One of the most dari                ... pos = 0.0   	neg = 0.625
+23. These moments of abs                ... pos = 1.625 	neg = 0.0  
+24. I think "The Blair W                ... pos = 0.5   	neg = 0.25 
+25. Despite a meager bud                ... pos = 0.875 	neg = 0.125
+26. It's a film that sho                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp39 is Positive                ... pos = 20.625 	neg = 7.5  
+Overall score of document
+Total Pos = 20.625
+Total Neg = 7.5
+---------------------------------------------------------------------------
+0. PLANET SICK-BOY: htt                 ... pos = 0.0   	neg = 0.0  
+1. Blair Witch roared o                 ... pos = 0.0   	neg = 0.0  
+2. I am prepared to not                 ... pos = 0.25  	neg = 0.5  
+3. At least in my lifet                 ... pos = 0.0   	neg = 0.0  
+4. And I'm relatively y                 ... pos = 0.0   	neg = 0    
+5. This isn't your aver                 ... pos = 0.0   	neg = 0.0  
+6. Blair Witch is an ex                 ... pos = 0.625 	neg = 0.125
+7. Their premise is sim                 ... pos = 0.125 	neg = 0.125
+8. They are never seen                  ... pos = 0.5   	neg = 0.375
+9. Don't let the traile                 ... pos = 0.875 	neg = 0.0  
+10. The rest has all bee                ... pos = 0.625 	neg = 0.125
+11. Well, it's not reall                ... pos = 0.0   	neg = 0.0  
+12. The film you're watc                ... pos = 0.125 	neg = 0.125
+13. The directors sent t                ... pos = 0.25  	neg = 0.75 
+14. So you see and hear                 ... pos = 0.0   	neg = 0.0  
+15. It is more improvisi                ... pos = 1.625 	neg = 0.125
+16. The film begins slow                ... pos = 0.0   	neg = 0.75 
+17. Blair Witch opens wi                ... pos = 0.0   	neg = 0.0  
+18. Then they venture of                ... pos = 0.375 	neg = 1.25 
+19. They see the graves                 ... pos = 0.0   	neg = 0.25 
+20. The first night is u                ... pos = 0.125 	neg = 1.5  
+21. The next night, the                 ... pos = 0.0   	neg = 0.25 
+22. By the third night,                 ... pos = 0.25  	neg = 0.375
+23. Then it gets really                 ... pos = 0.0   	neg = 0.75 
+24. Hell, `scary' isn't                 ... pos = 0.5   	neg = 0.5  
+25. I don't think a stro                ... pos = 0.5   	neg = 0.0  
+26. There are no scary m                ... pos = 0.625 	neg = 1.5  
+27. And I love scary mov                ... pos = 0.625 	neg = 0.75 
+28. The ending of the fi                ... pos = 0.0   	neg = 0.25 
+29. It's been several we                ... pos = 0.0   	neg = 0.125
+30. She doesn't seem to                 ... pos = 0.25  	neg = 0.125
+31. It's more than a lit                ... pos = 0.25  	neg = 0.25 
+32. When the credits rol                ... pos = 0.0   	neg = 0.0  
+33. It took me several s                ... pos = 0.0   	neg = 0.125
+34. And I wanted to see                 ... pos = 0.0   	neg = 0.0  
+35. Immediately.                        ... pos = 0.0   	neg = 0    
+36. Do not miss this fil                ... pos = 0.0   	neg = 0.0  
+37. See it at night.                    ... pos = 0.0   	neg = 0.0  
+38. Park in an isolated                 ... pos = 0.0   	neg = 0.0  
+39. This isn't Scream, w                ... pos = 0.0   	neg = 0.125
+40. This is serious, har                ... pos = 0.75  	neg = 0.25 
+41. (1:29 - R for langua                ... pos = 0.625 	neg = 0.125
+42. Ever). .                            ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp4 is Negative                 ... pos = 9.875 	neg = 11.5 
+Overall score of document
+Total Pos = 9.875
+Total Neg = 11.5
+---------------------------------------------------------------------------
+0. Starring Heather Don                 ... pos = 0.625 	neg = 0.0  
+1. Is this the first ho                 ... pos = 0.5   	neg = 0.125
+2. Obviously for those                  ... pos = 1.5   	neg = 0.0  
+3. I guarantee you that                 ... pos = 0.125 	neg = 0.875
+4. But I guess for some                 ... pos = 1.5   	neg = 0.125
+5. This movie ranked a                  ... pos = 0.0   	neg = 0.0  
+6. And to be honest, no                 ... pos = 0.375 	neg = 0.25 
+7. For those of you tha                 ... pos = 0.0   	neg = 0.5  
+8. The story goes that                  ... pos = 0.0   	neg = 0.0  
+9. This legend is a gho                 ... pos = 0.0   	neg = 0.125
+10. The filmmakers went                 ... pos = 0.0   	neg = 0.125
+11. But, some time later                ... pos = 0.0   	neg = 0.125
+12. This film has been c                ... pos = 0.0   	neg = 0.125
+13. I'll say right off t                ... pos = 0.5   	neg = 0.75 
+14. So much so, that som                ... pos = 0.25  	neg = 0.25 
+15. This is of course du                ... pos = 0.375 	neg = 0.125
+16. The hype that surrou                ... pos = 0.5   	neg = 0.375
+17. Considering that thi                ... pos = 0.25  	neg = 0.25 
+18. Sadly, like many thi                ... pos = 0.75  	neg = 1.0  
+19. The Blair Witch Proj                ... pos = 0.0   	neg = 0.0  
+20. Leaving me to wonder                ... pos = 0.75  	neg = 0.125
+21. Regardless, I'm glad                ... pos = 0.0   	neg = 0.0  
+22. I'm even happier tha                ... pos = 0.625 	neg = 0.0  
+23. About the only part                 ... pos = 0.125 	neg = 0.125
+24. I'm certainly not ab                ... pos = 0.25  	neg = 0.125
+25. That also goes for t                ... pos = 0.0   	neg = 0.125
+26. What a waste of abou                ... pos = 0.0   	neg = 0.125
+27. The scariest part of                ... pos = 0.75  	neg = 0.25 
+28. It is only scary bec                ... pos = 0.125 	neg = 0.875
+29. There should be a la                ... pos = 0.0   	neg = 0.125
+30. Then we have the muc                ... pos = 0.0   	neg = 0.5  
+31. Sorry, don't buy it.                ... pos = 0.0   	neg = 0.625
+32. Sure the angles were                ... pos = 0.25  	neg = 1.25 
+33. I expected the lousy                ... pos = 0.0   	neg = 1.0  
+34. But there were parts                ... pos = 0.625 	neg = 0.125
+35. In one scene "the wi                ... pos = 0.0   	neg = 0.0  
+36. Donahue's character                 ... pos = 0.875 	neg = 0.125
+37. The camera focus is                 ... pos = 0.125 	neg = 1.0  
+38. So we have no idea w                ... pos = 0.0   	neg = 0.375
+39. The scares are like                 ... pos = 0.25  	neg = 0.0  
+40. The actors are runni                ... pos = 0.75  	neg = 0.0  
+41. They get all terrifi                ... pos = 0.25  	neg = 0.0  
+42. Weird, I'll grant yo                ... pos = 0.25  	neg = 0.5  
+43. But nobody said that                ... pos = 0.875 	neg = 0.125
+44. They hear strange no                ... pos = 0.375 	neg = 0.125
+45. (Noises in the woods                ... pos = 0.0   	neg = 0.125
+46. ) They run off blind                ... pos = 0.0   	neg = 0.625
+47. Call me crazy, but i                ... pos = 0.875 	neg = 0.875
+48. I'd have the whole p                ... pos = 0.125 	neg = 0.5  
+49. This also leads to t                ... pos = 1.5   	neg = 1.0  
+50. One nice touch was t                ... pos = 0.0   	neg = 0.5  
+51. I almost wonder if a                ... pos = 0.375 	neg = 0.75 
+52. I have to give the a                ... pos = 0.375 	neg = 0.0  
+53. There was very littl                ... pos = 0.5   	neg = 0.375
+54. The three were sent                 ... pos = 0.875 	neg = 0.375
+55. The rest is improv.                 ... pos = 0     	neg = 0.125
+56. And considering what                ... pos = 0.875 	neg = 0.25 
+57. To be fair, consider                ... pos = 0.25  	neg = 0.375
+58. I'm certainly not fa                ... pos = 0.875 	neg = 0.0  
+59. What I am faulting i                ... pos = 0.375 	neg = 1.125
+60. Not in the least.                   ... pos = 0.0   	neg = 0.0  
+61. The Blair Witch Proj                ... pos = 0.5   	neg = 0.0  
+62. I think my brother s                ... pos = 0.0   	neg = 0.0  
+63. He said: They should                ... pos = 0.0   	neg = 0.875
+64. Truer words were nev                ... pos = 0.5   	neg = 0.125
+65. 3/10 -- For the conc                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp40 is Positive                ... pos = 22.5  	neg = 20.75
+Overall score of document
+Total Pos = 22.5
+Total Neg = 20.75
+---------------------------------------------------------------------------
+0. The movie: 3 and a h                 ... pos = 0.375 	neg = 0.125
+1. With no money or nam                 ... pos = 0.5   	neg = 0.25 
+2. The story of the fil                 ... pos = 0.0   	neg = 0.125
+3. One year later, thei                 ... pos = 0.0   	neg = 0.125
+4. "  Now that is a goo                 ... pos = 1.125 	neg = 0.125
+5. The ensuing tension                  ... pos = 1.0   	neg = 0.0  
+6. Debuting their film                  ... pos = 0.375 	neg = 0.75 
+7. The Sundance buzz wa                 ... pos = 0.0   	neg = 0.25 
+8. They went on to crea                 ... pos = 0.875 	neg = 0.0  
+9. "  By the time the a                 ... pos = 0.0   	neg = 0.125
+10. area!                               ... pos = 0     	neg = 0    
+11. ) my desire to know                 ... pos = 0.75  	neg = 0.125
+12. I was as anxious to                 ... pos = 0.125 	neg = 0.25 
+13. ". This is a very we                ... pos = 1.5   	neg = 0.125
+14. The real question is                ... pos = 0.0   	neg = 0.875
+15. "  Yes, it is scary.                ... pos = 0.0   	neg = 0.875
+16. "Is it the scariest                 ... pos = 0.0   	neg = 0.0  
+17. "  It was pretty int                ... pos = 0.125 	neg = 0.25 
+18. I think, though, tha                ... pos = 0.5   	neg = 0.0  
+19. On the other hand, t                ... pos = 0.0   	neg = 0.25 
+20. It may be a post-hau                ... pos = 0.0   	neg = 1.125
+21. However, I can say t                ... pos = 1.0   	neg = 0.875
+22. In reality, the movi                ... pos = 0.125 	neg = 0.5  
+23. The media hoopla has                ... pos = 0.5   	neg = 0.25 
+24. The casting of unkno                ... pos = 0.75  	neg = 0.125
+25. The camera's blurred                ... pos = 0.5   	neg = 0.25 
+26. And, perhaps most ef                ... pos = 0.25  	neg = 0.375
+27. In an age when filmm                ... pos = 2.625 	neg = 0.625
+28. Thank you to Daniel                 ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp41 is Positive                ... pos = 13.625 	neg = 8.75 
+Overall score of document
+Total Pos = 13.625
+Total Neg = 8.75
+---------------------------------------------------------------------------
+0. For more reviews and                 ... pos = 0.0   	neg = 0.0  
+1. This film made a maj                 ... pos = 0.25  	neg = 0.0  
+2. This film also made                  ... pos = 0.375 	neg = 0.125
+3. I must've missed tha                 ... pos = 0.0   	neg = 0.25 
+4. This film made only                  ... pos = 0.0   	neg = 0.0  
+5. PLOT: Three young fi                 ... pos = 0.0   	neg = 0.0  
+6. They are lost and ne                 ... pos = 0.25  	neg = 0.0  
+7. This film is a compi                 ... pos = 0.0   	neg = 0.125
+8. CRITIQUE: This film                  ... pos = 0.0   	neg = 0.0  
+9. I thought it was an                  ... pos = 2.25  	neg = 1.25 
+10. The last fifteen min                ... pos = 0.375 	neg = 1.375
+11. I am assuming that a                ... pos = 0.875 	neg = 0.375
+12. It was like watching                ... pos = 0.25  	neg = 0.125
+13. I felt little tensio                ... pos = 0.0   	neg = 0.875
+14. This is definitely N                ... pos = 0.25  	neg = 0.875
+15. If there was ever a                 ... pos = 0.125 	neg = 0.25 
+16. And I'm not saying t                ... pos = 0.0   	neg = 0.125
+17. It's like I said, I                 ... pos = 0.75  	neg = 0.125
+18. It got a little spoo                ... pos = 1.125 	neg = 1.25 
+19. In fact, if you have                ... pos = 0.0   	neg = 0.75 
+20. Did Mrs. JoBlo like                 ... pos = 0.0   	neg = 0.0  
+21. Nope.                               ... pos = 0     	neg = 0    
+22. I even caught her st                ... pos = 0.0   	neg = 0.0  
+23. All in all, you obvi                ... pos = 0.875 	neg = 1.0  
+24. And I think that is                 ... pos = 0.125 	neg = 0.25 
+25. In this case...no.                  ... pos = 0.0   	neg = 0.25 
+26. See it on video, if                 ... pos = 0.0   	neg = 0.0  
+27. Little Known Facts a                ... pos = 0.25  	neg = 0.375
+28. THE BLAIR WITCH PROJ                ... pos = 0.5   	neg = 0.125
+29. The entire thing is                 ... pos = 0.0   	neg = 0.25 
+30. The three student fi                ... pos = 0.25  	neg = 0.0  
+31. The actors used thei                ... pos = 0.625 	neg = 0.125
+32. First off, the actor                ... pos = 0.125 	neg = 0.875
+33. Then, they were sent                ... pos = 0.25  	neg = 0.75 
+34. Over 18 hours of raw                ... pos = 0.125 	neg = 0.125
+35. The only contact tha                ... pos = 0.0   	neg = 0.25 
+36. ) They knew their "c                ... pos = 0.25  	neg = 0.125
+37. The film was shot in                ... pos = 0.0   	neg = 0.125
+38. Has the legend of th                ... pos = 0.0   	neg = 0.125
+39. Yes, it was also cre                ... pos = 0.375 	neg = 0.25 
+40. The filmmakers wante                ... pos = 0.0   	neg = 0.5  
+41. This movie is the fe                ... pos = 0.375 	neg = 0.125
+42. Michael is already s                ... pos = 0.375 	neg = 0.125
+43. Not too bad, eh?                    ... pos = 0.0   	neg = 1.125
+44. An alternative endin                ... pos = 0.0   	neg = 0.125
+45. Maybe we will see th                ... pos = 0.375 	neg = 0.0  
+46. Needless to say, ide                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp42 is Negative                ... pos = 12.25 	neg = 14.875
+Overall score of document
+Total Pos = 12.25
+Total Neg = 14.875
+---------------------------------------------------------------------------
+0. "The Blair Witch Pro                 ... pos = 0.25  	neg = 0.125
+1. Made at a cost of $3                 ... pos = 0.625 	neg = 0.0  
+2. Its huge box-office                  ... pos = 0.5   	neg = 0.125
+3. What does "The Blair                 ... pos = 0.0   	neg = 0.0  
+4. Furthermore, what do                 ... pos = 0.25  	neg = 0.0  
+5. Before discussing th                 ... pos = 0.125 	neg = 0.125
+6. Made by two neophyte                 ... pos = 0.0   	neg = 0.125
+7. The student director                 ... pos = 0.375 	neg = 0.125
+8. With packs on their                  ... pos = 0.25  	neg = 0.0  
+9. Heather is a compuls                 ... pos = 0.0   	neg = 0.125
+10. The two young men oc                ... pos = 0.25  	neg = 0.125
+11. She is in control no                ... pos = 0.0   	neg = 0.375
+12. She has a map that t                ... pos = 0.75  	neg = 0.0  
+13. Not too long after t                ... pos = 0.625 	neg = 1.25 
+14. At night in their te                ... pos = 0.0   	neg = 0.75 
+15. Although nobody ever                ... pos = 0.375 	neg = 0.0  
+16. Heather takes it all                ... pos = 0.125 	neg = 0.0  
+17. The mood of the film                ... pos = 0.0   	neg = 0.5  
+18. At first the three h                ... pos = 0.625 	neg = 0.0  
+19. At night, after pitc                ... pos = 0.25  	neg = 0.0  
+20. The three young film                ... pos = 0.625 	neg = 0.125
+21. An elaborate website                ... pos = 0.375 	neg = 0.375
+22. But in keeping with                 ... pos = 0.125 	neg = 0.125
+23. "The Blair Witch Pro                ... pos = 0.0   	neg = 0.125
+24. It is about insecuri                ... pos = 2.5   	neg = 0.25 
+25. It is a noir version                ... pos = 0.625 	neg = 0.125
+26. In a July 11, 1999 i                ... pos = 0.0   	neg = 0.25 
+27. .                                   ... pos = 0     	neg = 0    
+28. .Do you identify wit                ... pos = 0.375 	neg = 0.0  
+29. Being lost in the wo                ... pos = 0.25  	neg = 0.0  
+30. ". Working on a shoe                ... pos = 0.0   	neg = 0.0  
+31. They also worked in                 ... pos = 1.0   	neg = 0.0  
+32. A Newsweek article o                ... pos = 0.125 	neg = 0.625
+33. ". Since the film ha                ... pos = 0.125 	neg = 0.5  
+34. In an August 31, 199                ... pos = 2.25  	neg = 0.75 
+35. People are "spooked                 ... pos = 0.5   	neg = 0.0  
+36. " He added that the                 ... pos = 1.25  	neg = 0.125
+37. "The Cabinet of Dr.                 ... pos = 0.75  	neg = 0.25 
+38. In the 1950's, as Am                ... pos = 0.25  	neg = 0.125
+39. According to an Augu                ... pos = 0.875 	neg = 0.125
+40. When the enemy was m                ... pos = 0.875 	neg = 0.25 
+41. With the collapse of                ... pos = 0.25  	neg = 0.0  
+42. The evil is not so c                ... pos = 0.0   	neg = 0.875
+43. " . Boyd views the c                ... pos = 0.125 	neg = 0.25 
+44. "By having fear 'in                 ... pos = 1.375 	neg = 0.5  
+45. ". What such comment                ... pos = 1.0   	neg = 0.125
+46. The forest, as much                 ... pos = 0.625 	neg = 0.25 
+47. " This is not the Ar                ... pos = 0.125 	neg = 0.375
+48. The young film-maker                ... pos = 0.75  	neg = 1.0  
+49. Such fear of the woo                ... pos = 0.625 	neg = 0.5  
+50. It is appropriate, t                ... pos = 0.375 	neg = 0.25 
+51. Engels writes in "Th                ... pos = 1.75  	neg = 0.25 
+52. ". While I am writin                ... pos = 0.625 	neg = 0.5  
+53. While city governmen                ... pos = 1.0   	neg = 0.25 
+54. Since the virus was                 ... pos = 0.125 	neg = 1.5  
+55. But the environmenta                ... pos = 0.0   	neg = 0.375
+56. As northern regions                 ... pos = 0.625 	neg = 0.875
+57. Perhaps the insecuri                ... pos = 0.625 	neg = 0.5  
+58. (For Marxist discuss                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp43 is Positive                ... pos = 28.25 	neg = 16.25
+Overall score of document
+Total Pos = 28.25
+Total Neg = 16.25
+---------------------------------------------------------------------------
+0. Written, Directed, a                 ... pos = 0.375 	neg = 0.625
+1. Watching the camera                  ... pos = 0.25  	neg = 0.0  
+2. Myself, I spent half                 ... pos = 0.375 	neg = 0.125
+3. ".  To describe The                  ... pos = 0.0   	neg = 0.125
+4. They spend time argu                 ... pos = 0.5   	neg = 0.0  
+5. The key word here is                 ... pos = 0.0   	neg = 0.125
+6. Although this, by te                 ... pos = 1.375 	neg = 0.125
+7. The film takes its t                 ... pos = 0.0   	neg = 0.0  
+8. Before I go on my an                 ... pos = 0.0   	neg = 0.125
+9. It is a hoax done so                 ... pos = 0.75  	neg = 0.25 
+10. The film, however a                 ... pos = 0.125 	neg = 0.125
+11. It also feels real.                 ... pos = 0.0   	neg = 0    
+12. Supernatural element                ... pos = 0.875 	neg = 0.5  
+13. People do not sudden                ... pos = 0.0   	neg = 0.125
+14. Nor does terror beco                ... pos = 0.0   	neg = 0.0  
+15. The Blair Witch Proj                ... pos = 1.125 	neg = 0.25 
+16. This most likely com                ... pos = 0.5   	neg = 0.5  
+17. However, as the film                ... pos = 0.125 	neg = 0.0  
+18. As much as we would                 ... pos = 0.125 	neg = 0.125
+19. Even in ultra-realis                ... pos = 0.625 	neg = 0.25 
+20. Our view of realism,                ... pos = 2.0   	neg = 0.125
+21. The emotions and rea                ... pos = 1.0   	neg = 0.375
+22. We want the unreal -                ... pos = 0.0   	neg = 0.125
+23. The Blair Witch Proj                ... pos = 0.875 	neg = 0.375
+24. The teen crowds can                 ... pos = 0.125 	neg = 0.625
+25. The Blair Witch Proj                ... pos = 0.0   	neg = 0.375
+26. As far as viewing Th                ... pos = 0.0   	neg = 0.125
+27. The Blair Witch Proj                ... pos = 0.875 	neg = 0.625
+28. Much as art is the i                ... pos = 0.625 	neg = 1.25 
+29. It illustrates, in a                ... pos = 1.0   	neg = 0.0  
+30. Concluding, The Blai                ... pos = 0.75  	neg = 0.125
+31. That it contains, wi                ... pos = 0.625 	neg = 0.5  
+32. To subscribe, email                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp44 is Positive                ... pos = 15.0  	neg = 8.0  
+Overall score of document
+Total Pos = 15.0
+Total Neg = 8.0
+---------------------------------------------------------------------------
+0. There's a moment in                  ... pos = 0.0   	neg = 0.0  
+1. Perhaps I'd been pri                 ... pos = 0.875 	neg = 0.875
+2. Bad stuff is going t                 ... pos = 0.0   	neg = 1.25 
+3. Despite this, "Blair                 ... pos = 0.375 	neg = 0.0  
+4. No deadly glitter of                 ... pos = 0.375 	neg = 2.75 
+5. The movie's frights                  ... pos = 0.875 	neg = 0.125
+6. Little gore is used,                 ... pos = 0.25  	neg = 0.5  
+7. The creepiest Lovecr                 ... pos = 0.375 	neg = 0.125
+8. "Blair Witch", howev                 ... pos = 0.125 	neg = 0.0  
+9. Or at least I didn't                 ... pos = 0.0   	neg = 0.0  
+10. Maybe I couldn't sus                ... pos = 0.375 	neg = 0.75 
+11. Hell, the "Return to                ... pos = 0.0   	neg = 1.5  
+12. Other people have us                ... pos = 0.0   	neg = 0.0  
+13. I still think "The S                ... pos = 0.125 	neg = 0.125
+14. Give me the two dead                ... pos = 0.0   	neg = 0.5  
+15. Besides background a                ... pos = 0.25  	neg = 0.25 
+16. I admire how well do                ... pos = 0.625 	neg = 0.125
+17. There's genuine fear                ... pos = 1.114 	neg = 0.0  
+18. The film's publicity                ... pos = 0.375 	neg = 1.125
+19. "Method directing".                 ... pos = 0     	neg = 0    
+20. There's an interesti                ... pos = 0.0   	neg = 0.0  
+21. Basically, the autho                ... pos = 0.25  	neg = 0.0  
+22. The purpose of this,                ... pos = 0     	neg = 0.25 
+23. The film makers decr                ... pos = 0.625 	neg = 0.0  
+24. Ironically, the sign                ... pos = 0.5   	neg = 1.5  
+25. It's also ironic, th                ... pos = 0.5   	neg = 0.25 
+26. This campaign is all                ... pos = 1.125 	neg = 0.125
+27. Partially to invoke                 ... pos = 0.75  	neg = 0.0  
+28. We won't mention the                ... pos = 0.0   	neg = 0.0  
+29. )  They purposely bl                ... pos = 0.875 	neg = 0.5  
+30. True, it's in the sp                ... pos = 0.75  	neg = 0.0  
+31. I'm reminded of the                 ... pos = 1.931 	neg = 0.25 
+32. "The Blair Witch Pro                ... pos = 0.375 	neg = 0.0  
+33. [1] http://www.salon                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp45 is Positive                ... pos = 13.795 	neg = 12.875
+Overall score of document
+Total Pos = 13.795
+Total Neg = 12.875
+---------------------------------------------------------------------------
+0. TBWP is probably the                 ... pos = 0.25  	neg = 0.125
+1. Not surprising, cons                 ... pos = 0.625 	neg = 0.0  
+2. That's a shocking 10                 ... pos = 0.875 	neg = 0    
+3. Rumours have it that                 ... pos = 1.875 	neg = 0.125
+4. Shot in 16mm and vid                 ... pos = 0.0   	neg = 0.5  
+5. ), the film chronicl                 ... pos = 0.125 	neg = 0.125
+6. Audiences are put in                 ... pos = 0.875 	neg = 0.0  
+7. This is supposed to                  ... pos = 0.0   	neg = 0.25 
+8. TBWP is simply smart                 ... pos = 0.0   	neg = 0.125
+9. Filmed to look as if                 ... pos = 0.625 	neg = 1.0  
+10. Simply amazing in th                ... pos = 1.125 	neg = 0.0  
+11. Talk about impact, o                ... pos = 0.125 	neg = 0.0  
+12. I did, especially th                ... pos = 0.0   	neg = 0.0  
+13. You have to see it f                ... pos = 0.0   	neg = 0.0  
+14. I can't help but fee                ... pos = 0.75  	neg = 0.0  
+15. Could it be that fin                ... pos = 0.0   	neg = 0.375
+16. Or was it all simply                ... pos = 0.0   	neg = 0.125
+17. Well, I guess the fa                ... pos = 1.5   	neg = 0.75 
+18. No gore, no special                 ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp46 is Positive                ... pos = 8.75  	neg = 4.25 
+Overall score of document
+Total Pos = 8.75
+Total Neg = 4.25
+---------------------------------------------------------------------------
+0. by Curtis Edmonds --                 ... pos = 0.125 	neg = 0.125
+1. "He's a great guy,"                  ... pos = 0.0   	neg = 0.125
+2. "We were pretty good                 ... pos = 0.875 	neg = 0.375
+3. ". I asked, "Is it t                 ... pos = 0.0   	neg = 0.0  
+4. "  Pharmaco, by the                  ... pos = 0.0   	neg = 0.375
+5. If you know that sto                 ... pos = 0.375 	neg = 0.0  
+6. Stories like these a                 ... pos = 0.25  	neg = 0.125
+7. Being an independent                 ... pos = 0.875 	neg = 0.375
+8. It is the coolest th                 ... pos = 0.375 	neg = 0.375
+9. (This side of playin                 ... pos = 0.25  	neg = 0.0  
+10. ). The real legend o                ... pos = 0.125 	neg = 0.375
+11. It has to do with no                ... pos = 0.0   	neg = 0.0  
+12. The story's familiar                ... pos = 0.0   	neg = 1.75 
+13. Combine this utterly                ... pos = 0.625 	neg = 0.0  
+14. The Blair Witch Proj                ... pos = 0.0   	neg = 0.125
+15. It's a taut, scary h                ... pos = 0.75  	neg = 1.625
+16. (It's a bit too earl                ... pos = 0.25  	neg = 0.25 
+17. ). It begins in the                 ... pos = 0.0   	neg = 0.25 
+18. One year later, thei                ... pos = 0.0   	neg = 0.125
+19. "  And that's it.                   ... pos = 0.0   	neg = 0    
+20. No fancy opening seq                ... pos = 1.0   	neg = 0.875
+21. (Which most of it wa                ... pos = 0.0   	neg = 0.125
+22. ). The three kids ar                ... pos = 0.625 	neg = 0.75 
+23. They've checked out                 ... pos = 0.0   	neg = 0.125
+24. One of the movie's l                ... pos = 0.625 	neg = 0.375
+25. The actual scenes th                ... pos = 0.375 	neg = 0.0  
+26. They're also carryin                ... pos = 0.0   	neg = 0.75 
+27. So, the footage of H                ... pos = 0.0   	neg = 1.125
+28. This conceit defines                ... pos = 0.875 	neg = 0.375
+29. First, film from the                ... pos = 0.5   	neg = 0.125
+30. Since both cameras a                ... pos = 0.5   	neg = 0.125
+31. And since cameras ne                ... pos = 1.0   	neg = 0.0  
+32. But the look of the                 ... pos = 0.375 	neg = 0.375
+33. The hyperbole about                 ... pos = 0.375 	neg = 0.125
+34. It may not scare you                ... pos = 0.0   	neg = 0.0  
+35. (Myself, I didn't th                ... pos = 0.875 	neg = 1.5  
+36. )  But there are sce                ... pos = 1.375 	neg = 0.5  
+37. The Blair Witch Proj                ... pos = 0.25  	neg = 0.0  
+38. Instead, it uses the                ... pos = 0.125 	neg = 0.0  
+39. Myrick and Sanchez k                ... pos = 0.875 	neg = 0.25 
+40. They also know that                 ... pos = 0.125 	neg = 1.875
+41. (Next time you get t                ... pos = 0.0   	neg = 0.0  
+42. ). But The Blair Wit                ... pos = 0.125 	neg = 0.875
+43. There are some drawb                ... pos = 0.625 	neg = 0.0  
+44. They're a bunch of G                ... pos = 0.0   	neg = 0.0  
+45. They wear plaid flan                ... pos = 0.0   	neg = 0.0  
+46. Like Tarantino chara                ... pos = 1.125 	neg = 0.0  
+47. ("Did you ever see D                ... pos = 0.0   	neg = 0.0  
+48. " one of them asks a                ... pos = 0.125 	neg = 0.0  
+49. ). They're highly de                ... pos = 1.25  	neg = 0.0  
+50. As they wander throu                ... pos = 0.25  	neg = 0.5  
+51. "  The ordeal of bei                ... pos = 0.875 	neg = 0.375
+52. (I kept imagining wh                ... pos = 0.625 	neg = 1.75 
+53. ). But these are min                ... pos = 0.25  	neg = 0.0  
+54. The cast does a grea                ... pos = 0.375 	neg = 0    
+55. There's an unfakable                ... pos = 0.25  	neg = 0.375
+56. We're not just being                ... pos = 1.0   	neg = 0.0  
+57. Their slow, linear d                ... pos = 0.125 	neg = 0.375
+58. Donahue is outstandi                ... pos = 0.75  	neg = 0.5  
+59. The movie's signatur                ... pos = 0.75  	neg = 0.125
+60. So will the last sce                ... pos = 0.125 	neg = 0.375
+61. One of the best thin                ... pos = 0.625 	neg = 0.875
+62. And as we root for t                ... pos = 0.375 	neg = 0.25 
+63. Box office aside, th                ... pos = 1.125 	neg = 0.375
+64. Movie Reviews:  http                ... pos = 0.0   	neg = 0.125
+65. The same way he take                ... pos = 0.0   	neg = 0.0  
+66. Another way is to fi                ... pos = 0.0   	neg = 0.875
+67. "  -- Jonah Goldberg                ... pos = 0     	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp47 is Positive                ... pos = 25.5  	neg = 23.625
+Overall score of document
+Total Pos = 25.5
+Total Neg = 23.625
+---------------------------------------------------------------------------
+0. In October of 1994,                  ... pos = 0.0   	neg = 0.0  
+1. Laughing at these ch                 ... pos = 0.125 	neg = 0.0  
+2. ' . But their story                  ... pos = 0.0   	neg = 0.375
+3. Using this footage,                  ... pos = 0.5   	neg = 1.125
+4. It's a raw, heartwre                 ... pos = 0.25  	neg = 0.0  
+5. Through their own ca                 ... pos = 0.0   	neg = 0.5  
+6. Things go wrong-- ma                 ... pos = 0.625 	neg = 0.25 
+7. There's something ca                 ... pos = 0.375 	neg = 0.0  
+8. Things could always                  ... pos = 0.875 	neg = 0.75 
+9. Many films have atte                 ... pos = 0.75  	neg = 0.125
+10. Often these movies s                ... pos = 1.625 	neg = 0.0  
+11. ), but rarely do the                ... pos = 0.0   	neg = 0.0  
+12. No film, in fact, ha                ... pos = 0.25  	neg = 0.25 
+13. This achievement is                 ... pos = 0.25  	neg = 1.75 
+14. It's very rare indee                ... pos = 1.375 	neg = 0.0  
+15. There is no musical                 ... pos = 0.875 	neg = 1.0  
+16. But the movie's bigg                ... pos = 0.25  	neg = 1.25 
+17. The movie is fictici                ... pos = 0.0   	neg = 0.125
+18. The performances are                ... pos = 0.75  	neg = 0.5  
+19. Of particular note i                ... pos = 1.0   	neg = 0.375
+20. She gets the movie's                ... pos = 0.875 	neg = 0.0  
+21. She believes that sh                ... pos = 0.5   	neg = 2.0  
+22. Heather seems to kno                ... pos = 1.25  	neg = 0.875
+23. The film's skillful                 ... pos = 1.75  	neg = 0.125
+24. In terms of pure ori                ... pos = 0.625 	neg = 0.125
+25. It is quite simply t                ... pos = 1.5   	neg = 0.25 
+26. It's proof that film                ... pos = 0.25  	neg = 0.125
+27. The movie is intense                ... pos = 1.375 	neg = 0.875
+28. But be warned: much                 ... pos = 0.375 	neg = 0.625
+29. I wasn't particularl                ... pos = 0.375 	neg = 0.0  
+30. Then I tried to go t                ... pos = 0.0   	neg = 0.5  
+31. (The Blair Witch Pro                ... pos = 0.125 	neg = 0.0  
+32. ) . ---------------                 ... pos = 0.0   	neg = 0.0  
+33. This review may not                 ... pos = 0.0   	neg = 0.125
+34. E-Mail: jbarlow@eart                ... pos = 1.625 	neg = 0.5  
+35. I found it satisfyin                ... pos = 0.5   	neg = 0.0  
+36. "   --Renard A. Dell                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp48 is Positive                ... pos = 21.0  	neg = 14.5 
+Overall score of document
+Total Pos = 21.0
+Total Neg = 14.5
+---------------------------------------------------------------------------
+0. The Blair Witch Proj                 ... pos = 0.625 	neg = 0.0  
+1. I scare easily.                      ... pos = 0.25  	neg = 0.0  
+2. I can be scared by a                 ... pos = 0.875 	neg = 0.125
+3. I can be scared by b                 ... pos = 0.375 	neg = 0.125
+4. I've read Lord of th                 ... pos = 0.5   	neg = 0.0  
+5. The Blair Witch  Pro                 ... pos = 0.625 	neg = 0.875
+6. A movie which scares                 ... pos = 0.0   	neg = 0.0  
+7. Now, I agree that ki                 ... pos = 0.375 	neg = 0.125
+8. At most, I found mys                 ... pos = 0.875 	neg = 0.0  
+9. But never, not for a                 ... pos = 0.375 	neg = 0.0  
+10. Heather, Josh, and M                ... pos = 0.25  	neg = 0.375
+11. They are making a do                ... pos = 1.125 	neg = 0.0  
+12. They start by interv                ... pos = 0.0   	neg = 0.0  
+13. They hear stories ab                ... pos = 0.5   	neg = 0.375
+14. It's all vague and i                ... pos = 0.25  	neg = 0.125
+15. They head into the w                ... pos = 0.0   	neg = 0.0  
+16. And things start goi                ... pos = 0.0   	neg = 0.75 
+17. None of them is very                ... pos = 1.75  	neg = 0.25 
+18. There are mysterious                ... pos = 0.75  	neg = 0.125
+19. They find strange pi                ... pos = 0.375 	neg = 0.25 
+20. They fall behind sch                ... pos = 0.0   	neg = 0.25 
+21. Since the movie star                ... pos = 0.25  	neg = 0.375
+22. But  lots of movies                 ... pos = 0.25  	neg = 0.875
+23. They work because yo                ... pos = 0.875 	neg = 0.125
+24. That's  where Blair                 ... pos = 0     	neg = 0.125
+25. Blair attempts to sc                ... pos = 0.625 	neg = 0.125
+26. The actors don't rec                ... pos = 0.5   	neg = 0.0  
+27. This means some of t                ... pos = 0.25  	neg = 1.25 
+28. Many of the events s                ... pos = 0.489 	neg = 0.25 
+29. All this works, we g                ... pos = 0.0   	neg = 0.75 
+30. Unfortunately, reali                ... pos = 0.0   	neg = 0.875
+31. Even documentary fil                ... pos = 0.125 	neg = 0.125
+32. There is an attempt                 ... pos = 0.5   	neg = 0.375
+33. I think that's where                ... pos = 0.0   	neg = 0.625
+34. The  movie gets clos                ... pos = 1.375 	neg = 1.75 
+35. It's that internal c                ... pos = 0.625 	neg = 1.375
+36. Instead, we get a mo                ... pos = 0.0   	neg = 0.0  
+37. I can see why so man                ... pos = 0.0   	neg = 0.0  
+38. The directors had an                ... pos = 0.0   	neg = 0.0  
+39. And what they have i                ... pos = 0.125 	neg = 0.625
+40. I saw this at a mati                ... pos = 0.125 	neg = 0.0  
+41. You  will miss nothi                ... pos = 0.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp49 is Positive                ... pos = 16.489 	neg = 13.75
+Overall score of document
+Total Pos = 16.489
+Total Neg = 13.75
+---------------------------------------------------------------------------
+0. The Blair Witch Proj                 ... pos = 0     	neg = 0.0  
+1. Starring Heather Don                 ... pos = 0.375 	neg = 0.0  
+2. Directed by Daniel M                 ... pos = 0.0   	neg = 0    
+3. So few events live u                 ... pos = 0.125 	neg = 0.0  
+4. "The Blair Witch Pro                 ... pos = 0.25  	neg = 0.125
+5. The movie follows a                  ... pos = 0.75  	neg = 0.0  
+6. As human beings, our                 ... pos = 0.625 	neg = 0.25 
+7. We may sense somethi                 ... pos = 0.5   	neg = 0.375
+8. It runs rampant with                 ... pos = 0.125 	neg = 0.625
+9. And that is the geni                 ... pos = 0.25  	neg = 0.125
+10. " It plays upon thos                ... pos = 0.5   	neg = 0.25 
+11. What makes "The Blai                ... pos = 1.0   	neg = 0.125
+12. The movie is not set                ... pos = 0.625 	neg = 0.125
+13. It's here in the woo                ... pos = 0.0   	neg = 0.0  
+14. And the woods, for t                ... pos = 0.25  	neg = 0.5  
+15. Scorning the use of                 ... pos = 1.5   	neg = 0.375
+16. "The Blair Witch Pro                ... pos = 0.625 	neg = 0.125
+17. - shot on a shoestri                ... pos = 0.125 	neg = 0.0  
+18. It is ragged and diz                ... pos = 0.25  	neg = 0.5  
+19. The trio of actors -                ... pos = 0.625 	neg = 0.25 
+20. This illusion of rea                ... pos = 0.75  	neg = 0.75 
+21. Their dialogue is no                ... pos = 0.25  	neg = 0.125
+22. ", "What's that?                    ... pos = 0     	neg = 0    
+23. " as well as intermi                ... pos = 0.0   	neg = 0.5  
+24. They curse and swear                ... pos = 0.375 	neg = 0.875
+25. The true-to-life man                ... pos = 0.625 	neg = 0.0  
+26. The three actors sta                ... pos = 1.125 	neg = 0.875
+27. "The Blair Witch Pro                ... pos = 0.75  	neg = 0.5  
+28. It is nerve-wracking                ... pos = 0.125 	neg = 0.125
+29. It is not a movie yo                ... pos = 0.0   	neg = 0.25 
+30. I saw "The Blair Wit                ... pos = 0.0   	neg = 0.0  
+31. When I arrived home                 ... pos = 0.5   	neg = 0.25 
+32. The movie will cause                ... pos = 0.125 	neg = 0.0  
+33. Bob Bloom is the fil                ... pos = 0.0   	neg = 0.125
+34. He can be reached by                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp5 is Positive                 ... pos = 13.5  	neg = 8.25 
+Overall score of document
+Total Pos = 13.5
+Total Neg = 8.25
+---------------------------------------------------------------------------
+0. The Blair Witch Proj                 ... pos = 0.0   	neg = 0.125
+1. What started out as                  ... pos = 0.75  	neg = 0.125
+2. Early buzz out of Su                 ... pos = 0.0   	neg = 0.0  
+3. Generating a cult mo                 ... pos = 0.375 	neg = 0.25 
+4. "The film cannot pos                 ... pos = 0.0   	neg = 0.125
+5. " That was a quote f                 ... pos = 0.5   	neg = 0.375
+6. You know the story,                  ... pos = 0.625 	neg = 0.375
+7. Townspeople say she                  ... pos = 0.0   	neg = 0.25 
+8. Every fourty years a                 ... pos = 0.5   	neg = 0.0  
+9. Disemboweled fisherm                 ... pos = 0.0   	neg = 0.125
+10. They of course get l                ... pos = 0.0   	neg = 0.125
+11. One of the crew goes                ... pos = 0.625 	neg = 0.0  
+12. The film does not li                ... pos = 0.0   	neg = 0.0  
+13. I (and the 25 or so                 ... pos = 0.0   	neg = 0.875
+14. What is hyped to be                 ... pos = 0.375 	neg = 1.125
+15. The camera technique                ... pos = 0.0   	neg = 0.75 
+16. However do make sure                ... pos = 1.125 	neg = 0.625
+17. No, it's not "Scary                 ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp50 is Negative                ... pos = 4.875 	neg = 5.625
+Overall score of document
+Total Pos = 4.875
+Total Neg = 5.625
+---------------------------------------------------------------------------
+0. If youšve been payi                 ... pos = 0.5   	neg = 0.25 
+1. Needless to say, tho                 ... pos = 0.25  	neg = 0.125
+2. No biggie, as the pu                 ... pos = 0.25  	neg = 1.0  
+3. "  What starts out f                 ... pos = 0.375 	neg = 0.0  
+4. Rations dwindle, the                 ... pos = 0.681 	neg = 0.5  
+5. They set up camp, se                 ... pos = 1.25  	neg = 0.375
+6. And, thatšs the ing                 ... pos = 1.5   	neg = 0.125
+7. Because, try as you                  ... pos = 0.125 	neg = 0.375
+8. And, because there i                 ... pos = 1.0   	neg = 0.375
+9. During Heatheršs em                 ... pos = 0.75  	neg = 0.0  
+10. ". Whatšs also grea                ... pos = 0.0   	neg = 0.125
+11. The point of view fo                ... pos = 0.75  	neg = 1.75 
+12. I think BLAIR WITCH                 ... pos = 1.125 	neg = 0.375
+13. There is no special                 ... pos = 0.375 	neg = 1.125
+14. And, what I like mos                ... pos = 0.125 	neg = 0.5  
+15. The collective opini                ... pos = 0.5   	neg = 0.5  
+16. Which is true, but t                ... pos = 0.5   	neg = 0.125
+17. It is Heatheršs fea                ... pos = 0.375 	neg = 0.75 
+18. After being in the w                ... pos = 0.375 	neg = 0.375
+19. You leave with quest                ... pos = 0.125 	neg = 0.125
+20. Movies that can put                 ... pos = 0.25  	neg = 0.125
+21. That final image ­                 ... pos = 0.5   	neg = 0.125
+22. I wanted more scenes                ... pos = 0.0   	neg = 0.0  
+23. Even greater a build                ... pos = 0.875 	neg = 0.0  
+24. The film does not qu                ... pos = 0.0   	neg = 0.0  
+25. Also, the arguing go                ... pos = 0.375 	neg = 0.375
+26. "Scary as hell" no                ... pos = 0.0   	neg = 0.0  
+27. Creepy, yes.                        ... pos = 0.0   	neg = 0.0  
+28. Effective, brilliant                ... pos = 0.25  	neg = 0.5  
+29. Best line:  90% impr                ... pos = 0.875 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp51 is Positive                ... pos = 14.056 	neg = 10.5 
+Overall score of document
+Total Pos = 14.056
+Total Neg = 10.5
+---------------------------------------------------------------------------
+0. All the hype and its                 ... pos = 2.375 	neg = 0.5  
+1. I felt the atmospher                 ... pos = 0.125 	neg = 0.25 
+2. (You can simulate th                 ... pos = 0.5   	neg = 0.0  
+3. ). I found the first                 ... pos = 0.25  	neg = 0.375
+4. In the second half,                  ... pos = 0.125 	neg = 1.125
+5. The final shot (or s                 ... pos = 0.625 	neg = 0.375
+6. The film may play ba                 ... pos = 0.125 	neg = 0.5  
+7. A nice effort for a                  ... pos = 0.0   	neg = 0.0  
+8. (Just don't expect t                 ... pos = 0.0   	neg = 0.0  
+9. "). [Note 1:  If you                 ... pos = 0.0   	neg = 0.5  
+10. I had no problem get                ... pos = 0.0   	neg = 0.625
+11. Later that night I h                ... pos = 0.0   	neg = 0.125
+12. As with any popular                 ... pos = 0.875 	neg = 0.0  
+13. ). [Note 2:  If you                 ... pos = 0.125 	neg = 1.875
+14. I was quite a ways b                ... pos = 0.5   	neg = 0.125
+15. ]. .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp52 is Negative                ... pos = 5.625 	neg = 6.375
+Overall score of document
+Total Pos = 5.625
+Total Neg = 6.375
+---------------------------------------------------------------------------
+0. Starring: Heather Do                 ... pos = 0.875 	neg = 0.0  
+1. To some, it may be t                 ... pos = 0.0   	neg = 0.25 
+2. The film begins quit                 ... pos = 0.0   	neg = 0    
+3. It turns out that 3                  ... pos = 0.375 	neg = 0.125
+4. The only evidence le                 ... pos = 0.0   	neg = 0.125
+5. The interesting thin                 ... pos = 0.125 	neg = 0.25 
+6. Unfortunately it mad                 ... pos = 0.5   	neg = 1.5  
+7. Motion sickness peop                 ... pos = 0.0   	neg = 0.0  
+8. Another positive not                 ... pos = 0.25  	neg = 0.5  
+9. That itself seperate                 ... pos = 0.0   	neg = 0.0  
+10. There are many unbel                ... pos = 0.25  	neg = 0.0  
+11. For 1 thing, it's hi                ... pos = 1.0   	neg = 0.0  
+12. It just isn't human.                ... pos = 0.0   	neg = 0.0  
+13. Many people were say                ... pos = 0.0   	neg = 0.125
+14. You are so intensely                ... pos = 0.5   	neg = 0.0  
+15. Not too amny films c                ... pos = 0.25  	neg = 0.25 
+16. One disappointing th                ... pos = 0.0   	neg = 0.5  
+17. Sure it was chilling                ... pos = 1.25  	neg = 0.125
+18. In fact, it spends m                ... pos = 0.5   	neg = 0.75 
+19. Don't get me wrong t                ... pos = 0.875 	neg = 0.75 
+20. We all could relate                 ... pos = 0.625 	neg = 0.125
+21. I have to give credi                ... pos = 0.375 	neg = 0.0  
+22. It's not the same ol                ... pos = 1.0   	neg = 0.5  
+23. All these emotions n                ... pos = 0.875 	neg = 0.0  
+24. It dares to be diffe                ... pos = 0.625 	neg = 0.125
+25. By the end, everyone                ... pos = 0.0   	neg = 0.125
+26. The film spends a go                ... pos = 0.75  	neg = 0.375
+27. It ends so quickly a                ... pos = 0.25  	neg = 0.0  
+28. Strange?                            ... pos = 0.375 	neg = 0    
+29. Maybe, but it's sure                ... pos = 0.625 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp53 is Positive                ... pos = 12.25 	neg = 7.25 
+Overall score of document
+Total Pos = 12.25
+Total Neg = 7.25
+---------------------------------------------------------------------------
+0. It's been a few week                 ... pos = 0.0   	neg = 0.25 
+1. I've heard how criti                 ... pos = 0.0   	neg = 0.0  
+2. I've heard how much                  ... pos = 0.375 	neg = 0.125
+3. And, I've heard that                 ... pos = 0.25  	neg = 0.25 
+4. And after absorbing                  ... pos = 0.0   	neg = 0.0  
+5. I became more curiou                 ... pos = 0.25  	neg = 0.5  
+6. This fear was probab                 ... pos = 0.625 	neg = 0.125
+7. When you don't know                  ... pos = 0.75  	neg = 0.125
+8. It eats you, it taun                 ... pos = 0.25  	neg = 0.0  
+9. In `BWP,' three stud                 ... pos = 0.25  	neg = 0.0  
+10. A year later, the vi                ... pos = 0.25  	neg = 0.25 
+11. Heather, Josh and Mi                ... pos = 0.5   	neg = 0.5  
+12. It should only be a                 ... pos = 0.0   	neg = 0.125
+13. After that, the thre                ... pos = 0.0   	neg = 0.0  
+14. Most of the townsfol                ... pos = 0.0   	neg = 0.0  
+15. But they do come acr                ... pos = 0.625 	neg = 0.0  
+16. `I don't really beli                ... pos = 0.25  	neg = 0.0  
+17. Another eccentric wo                ... pos = 0.125 	neg = 0.25 
+18. The Blair Witch may                 ... pos = 0.5   	neg = 0.375
+19. Nonetheless, the thr                ... pos = 0.25  	neg = 0.125
+20. Their situation quic                ... pos = 0.0   	neg = 0    
+21. They lose the map, t                ... pos = 0.125 	neg = 0.625
+22. After much pleading                 ... pos = 1.0   	neg = 0.5  
+23. But no matter what t                ... pos = 0.125 	neg = 1.0  
+24. They walk around in                 ... pos = 0.125 	neg = 0.0  
+25. Soon, they fear that                ... pos = 1.25  	neg = 0.0  
+26. The fright factor be                ... pos = 0.375 	neg = 0.25 
+27. Fear is slowly settl                ... pos = 0.375 	neg = 0.25 
+28. What makes their fea                ... pos = 0.875 	neg = 0.375
+29. The otherwise pristi                ... pos = 1.0   	neg = 0.75 
+30. Their flashlights ca                ... pos = 0.0   	neg = 0.0  
+31. When they run, the c                ... pos = 0.5   	neg = 0.0  
+32. This is equally frus                ... pos = 0.25  	neg = 0.125
+33. Like me, their fear                 ... pos = 0.625 	neg = 0.125
+34. Is there really anyt                ... pos = 0     	neg = 0.125
+35. No one can be really                ... pos = 0.25  	neg = 0.375
+36. Regardless, I found                 ... pos = 0.0   	neg = 0.0  
+37. With its documentary                ... pos = 0.875 	neg = 0.125
+38. Unlike conventional                 ... pos = 1.125 	neg = 0.75 
+39. The film is not abou                ... pos = 1.25  	neg = 0.125
+40. It's haunting, it's                 ... pos = 1.875 	neg = 0.0  
+41. But be warned, for e                ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp54 is Positive                ... pos = 17.25 	neg = 9.25 
+Overall score of document
+Total Pos = 17.25
+Total Neg = 9.25
+---------------------------------------------------------------------------
+0. Rating: *** (out of                  ... pos = 0.5   	neg = 0.0  
+1. But along comes "The                 ... pos = 0.0   	neg = 0.25 
+2. If "Blair Witch" bre                 ... pos = 1.25  	neg = 0.0  
+3. You won't be able to                 ... pos = 0.5   	neg = 0.125
+4. Kiss the wilderness                  ... pos = 0.125 	neg = 0.0  
+5. An exercise in mount                 ... pos = 0.75  	neg = 0.125
+6. They are Daniel Myri                 ... pos = 1.75  	neg = 0.125
+7. As if you'll be able                 ... pos = 0.375 	neg = 0.125
+8. Know this going in -                 ... pos = 1.875 	neg = 0.25 
+9. Which isn't to say t                 ... pos = 1.625 	neg = 0.0  
+10. Heather Donahue, Mic                ... pos = 0.375 	neg = 0.0  
+11. Unfortunately for th                ... pos = 0.125 	neg = 0.875
+12. Worth noting: The mo                ... pos = 0.125 	neg = 0.5  
+13. As tension slowly, s                ... pos = 0.125 	neg = 0.75 
+14. Realistic, yes, and                 ... pos = 0.5   	neg = 0.0  
+15. But once "Project" k                ... pos = 0.0   	neg = 0.25 
+16. Even with this inten                ... pos = 2.25  	neg = 0.5  
+17. Following suit, Myri                ... pos = 0.25  	neg = 0.0  
+18. Whether it's intenti                ... pos = 0.25  	neg = 0.875
+19. Š 1999 Jamie Peck E                ... pos = 0.0   	neg = 0.125
+20. " -Roger Ebert on "C                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp55 is Positive                ... pos = 12.75 	neg = 4.875
+Overall score of document
+Total Pos = 12.75
+Total Neg = 4.875
+---------------------------------------------------------------------------
+0. "Eyes Wide Shut" als                 ... pos = 1.0   	neg = 0    
+1. Tom Cruise eschews h                 ... pos = 0.25  	neg = 0.5  
+2. His slow descent int                 ... pos = 2.0   	neg = 0.625
+3. Nicole Kidman has be                 ... pos = 0.25  	neg = 0.0  
+4. I also liked her lau                 ... pos = 1.125 	neg = 0.125
+5. Her final moment of                  ... pos = 1.25  	neg = 0.25 
+6. Also worth mentionin                 ... pos = 1.375 	neg = 0.375
+7. " Vinessa Shaw displ                 ... pos = 0.0   	neg = 0.0  
+8. Rade Serbedzija ("Be                 ... pos = 1.25  	neg = 0.0  
+9. Todd Field is also e                 ... pos = 0.0   	neg = 0.125
+10. If I have one or two                ... pos = 2.5   	neg = 1.5  
+11. The ending is optimi                ... pos = 0.5   	neg = 0.125
+12. Still, this is among                ... pos = 0.375 	neg = 0.375
+13. " "Eyes Wide Shut" e                ... pos = 0.5   	neg = 0.0  
+14. " It is a bizarre, s                ... pos = 0.75  	neg = 0.375
+15. Stanley, you may be                 ... pos = 0.625 	neg = 0.125
+16. For more reviews, ch                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp56 is Positive                ... pos = 13.75 	neg = 4.75 
+Overall score of document
+Total Pos = 13.75
+Total Neg = 4.75
+---------------------------------------------------------------------------
+0. THE BLAIR WITCH PROJ                 ... pos = 1.625 	neg = 0.25 
+1. The film was made (d                 ... pos = 0.0   	neg = 0.25 
+2. ) on a budget of $37                 ... pos = 0.375 	neg = 0.375
+3. " This is, of course                 ... pos = 0.5   	neg = 0.375
+4. Since the scenes wer                 ... pos = 0.5   	neg = 0.625
+5. The "horror" rests i                 ... pos = 0.625 	neg = 0.375
+6. They seem to be surr                 ... pos = 0.75  	neg = 0.25 
+7. One night, children'                 ... pos = 0.25  	neg = 0.375
+8. As their situation g                 ... pos = 0.0   	neg = 0.875
+9. John Carpenter said                  ... pos = 0.5   	neg = 0.0  
+10. Until the  last five                ... pos = 0.5   	neg = 0.375
+11. Since none of the ap                ... pos = 1.25  	neg = 0.0  
+12. Instead, we come  to                ... pos = 1.375 	neg = 0.375
+13. Towards the end, Hea                ... pos = 0.0   	neg = 1.5  
+14. This scene is matche                ... pos = 1.375 	neg = 0.375
+15. All three performers                ... pos = 0.375 	neg = 0.625
+16. Heather  is perhaps                 ... pos = 0.375 	neg = 0.75 
+17. Even when they are h                ... pos = 1.75  	neg = 1.5  
+18. " She is also the mo                ... pos = 0.0   	neg = 1.0  
+19. Both  Josh and Mike                 ... pos = 2.0   	neg = 1.875
+20. I don't know if ther                ... pos = 0.75  	neg = 0.0  
+21. It's a story  that e                ... pos = 0.5   	neg = 0.0  
+22. the  supernatural th                ... pos = 0.625 	neg = 0.0  
+23. On this level, howev                ... pos = 0.5   	neg = 0.0  
+24. There is never  the                 ... pos = 1.0   	neg = 1.625
+25. The key to the film'                ... pos = 1.625 	neg = 0.125
+26. By giving the protag                ... pos = 1.0   	neg = 0.625
+27. It's a bold debut, a                ... pos = 0.5   	neg = 0.125
+28. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+29. http://members.aol.c                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp57 is Positive                ... pos = 20.625 	neg = 14.625
+Overall score of document
+Total Pos = 20.625
+Total Neg = 14.625
+---------------------------------------------------------------------------
+0. Directed by Eduardo                  ... pos = 0.0   	neg = 0    
+1. Cast: Heather Donahu                 ... pos = 0.375 	neg = 0.0  
+2. 1999 - 87 minutes (o                 ... pos = 0.375 	neg = 0.125
+3. Reviewed April 5, 19                 ... pos = 0.0   	neg = 0    
+4. "On October 21, 1994                 ... pos = 0.375 	neg = 0.125
+5. One year later, thei                 ... pos = 0.0   	neg = 0.125
+6. ". This is the title                 ... pos = 0.125 	neg = 0.25 
+7. What follows is that                 ... pos = 0.375 	neg = 0.25 
+8. Set up as a sort of                  ... pos = 0.125 	neg = 0.625
+9. Playfully shrugging                  ... pos = 0.125 	neg = 1.125
+10. It doesn't turn out                 ... pos = 1.375 	neg = 0.125
+11. Faint footsteps are                 ... pos = 0.375 	neg = 0.125
+12. As the  days pass by                ... pos = 1.0   	neg = 1.5  
+13. When was the last ti                ... pos = 0.375 	neg = 0.25 
+14. No, strike that.                    ... pos = 0.0   	neg = 0.25 
+15. When was the last ti                ... pos = 1.375 	neg = 0.375
+16. If  your answer was                 ... pos = 0.75  	neg = 1.25 
+17. It is  not another m                ... pos = 2.25  	neg = 1.0  
+18. Also, unlike any oth                ... pos = 1.125 	neg = 0.25 
+19. This cinema  verite                 ... pos = 2.5   	neg = 0.125
+20. Jittery,  shaky, and                ... pos = 1.75  	neg = 0.375
+21. To put it bluntly, t                ... pos = 0.25  	neg = 0.375
+22. "  There is, since H                ... pos = 1.75  	neg = 0.25 
+23. " Their entirely bel                ... pos = 1.375 	neg = 0.125
+24. As the character of                 ... pos = 1.875 	neg = 0.75 
+25. As Heather, as well                 ... pos = 1.375 	neg = 0.375
+26. In a late scene, fil                ... pos = 1.625 	neg = 0.0  
+27. To see "The Blair Wi                ... pos = 0.125 	neg = 0.125
+28. No film in recent me                ... pos = 1.625 	neg = 0.5  
+29. After rustling  thro                ... pos = 1.0   	neg = 0.125
+30. Writer-directors San                ... pos = 0.875 	neg = 0.75 
+31. Note: This review wi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp58 is Positive                ... pos = 26.75 	neg = 11.625
+Overall score of document
+Total Pos = 26.75
+Total Neg = 11.625
+---------------------------------------------------------------------------
+0. RATING: 10/10 - ALTE                 ... pos = 0.375 	neg = 0.125
+1. One year later, thei                 ... pos = 0.0   	neg = 0.125
+2. ". This is the begin                 ... pos = 2.0   	neg = 0.125
+3. 'Blair Witch' set a                  ... pos = 0.125 	neg = 0.125
+4. While all good sense                 ... pos = 2.25  	neg = 0.125
+5. This instant classic                 ... pos = 0.75  	neg = 0.375
+6. What follows the chi                 ... pos = 0.375 	neg = 0.25 
+7. Set up as a sort of                  ... pos = 0.625 	neg = 0.5  
+8. Before long, they ge                 ... pos = 0.25  	neg = 0.5  
+9. And when their map d                 ... pos = 2.5   	neg = 0.25 
+10. Acting is on a total                ... pos = 0.625 	neg = 0.375
+11. Their entirely belie                ... pos = 1.375 	neg = 0.125
+12. This combination of                 ... pos = 0.25  	neg = 0.0  
+13. While watching the f                ... pos = 1.375 	neg = 0.0  
+14. There is no severed                 ... pos = 0.625 	neg = 0.375
+15. Although the film is                ... pos = 0.125 	neg = 1.0  
+16. It's beautifully dir                ... pos = 0.75  	neg = 0.0  
+17. And again resuming t                ... pos = 2.875 	neg = 0.125
+18. As Heather, as well                 ... pos = 1.5   	neg = 0.25 
+19. In a late scene, fil                ... pos = 1.5   	neg = 0.0  
+20. There are times when                ... pos = 1.125 	neg = 0.875
+21. The true horror behi                ... pos = 1.0   	neg = 0.375
+22. The witch is never a                ... pos = 0.0   	neg = 0.125
+23. This mystic creature                ... pos = 0.375 	neg = 0.125
+24. It may be a frighten                ... pos = 0.625 	neg = 0.625
+25. As any little kid kn                ... pos = 0.125 	neg = 0.625
+26. The human mind can i                ... pos = 0.125 	neg = 0.5  
+27. 'The Blair Witch Pro                ... pos = 0.125 	neg = 0.375
+28. This movie taps into                ... pos = 0.5   	neg = 0.0  
+29. (One of the reasons                 ... pos = 0.125 	neg = 0.0  
+30. The film is frighten                ... pos = 0.875 	neg = 0.125
+31. Whether this film ha                ... pos = 1.5   	neg = 0.0  
+32. Written by Alex Iosh                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp59 is Positive                ... pos = 26.75 	neg = 8.5  
+Overall score of document
+Total Pos = 26.75
+Total Neg = 8.5
+---------------------------------------------------------------------------
+0. Starring Heather Don                 ... pos = 0.375 	neg = 0.0  
+1. Rated R.. The Blair                  ... pos = 0.375 	neg = 0.125
+2. Not only has it gott                 ... pos = 0.75  	neg = 0.0  
+3. Whether this $20,000                 ... pos = 0.0   	neg = 0.5  
+4. Popularity is fine,                  ... pos = 1.375 	neg = 0.25 
+5. That's unrelated to                  ... pos = 0.25  	neg = 0.25 
+6. It's certainly origi                 ... pos = 0.25  	neg = 0.0  
+7. But does it have any                 ... pos = 0.0   	neg = 0.0  
+8. Is it junky fun or i                 ... pos = 0.125 	neg = 0.25 
+9. This is one of those                 ... pos = 0.25  	neg = 0.5  
+10. What seemed to me cl                ... pos = 1.0   	neg = 2.0  
+11. Three student filmma                ... pos = 0.0   	neg = 0.375
+12. They disappear.                     ... pos = 0.0   	neg = 0    
+13. A year later their f                ... pos = 0.0   	neg = 0.125
+14. The Blair Witch Proj                ... pos = 0.0   	neg = 0.375
+15. They film the whole                 ... pos = 0.0   	neg = 0.0  
+16. When one of them los                ... pos = 1.0   	neg = 0.25 
+17. Inevitable tensions                 ... pos = 0.0   	neg = 0.0  
+18. Josh and Mike are fu                ... pos = 0.5   	neg = 1.0  
+19. Heather and Josh are                ... pos = 0.5   	neg = 0.5  
+20. Their desperation an                ... pos = 0.0   	neg = 0.0  
+21. So, evidently, does                 ... pos = 0.5   	neg = 0.0  
+22. The Blair Witch Proj                ... pos = 1.5   	neg = 1.0  
+23. It's a grand idea --                ... pos = 1.25  	neg = 0.25 
+24. All too often it's s                ... pos = 0.375 	neg = 1.125
+25. It's very difficult                 ... pos = 1.375 	neg = 0.75 
+26. Tense anticipation m                ... pos = 0.0   	neg = 0.0  
+27. Still, when the view                ... pos = 1.875 	neg = 0.125
+28. The dialogue, much o                ... pos = 0.5   	neg = 0.625
+29. It's not particularl                ... pos = 0.5   	neg = 0.125
+30. Profanity abounds bu                ... pos = 0.5   	neg = 0.125
+31. Some will insist tha                ... pos = 0.875 	neg = 0.375
+32. I disagree strenuous                ... pos = 0.125 	neg = 0.0  
+33. It's enjoyable stuff                ... pos = 0.5   	neg = 0.5  
+34. The climax approache                ... pos = 0.25  	neg = 0.875
+35. In a word (three, ac                ... pos = 0.125 	neg = 0.0  
+36. This nifty little fi                ... pos = 0.125 	neg = 1.25 
+37. But when it's going,                ... pos = 0.75  	neg = 0.0  
+38. Crafty, visionary an                ... pos = 1.5   	neg = 1.125
+39. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+40. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp6 is Positive                 ... pos = 19.375 	neg = 14.75
+Overall score of document
+Total Pos = 19.375
+Total Neg = 14.75
+---------------------------------------------------------------------------
+0. THE BLAIR WITCH PROJ                 ... pos = 1.25  	neg = 0.0  
+1. As we learned in 199                 ... pos = 1.25  	neg = 0.0  
+2. The Blair Witch Proj                 ... pos = 0.5   	neg = 1.125
+3. At the beginning of                  ... pos = 0.0   	neg = 0.25 
+4. One year later, thei                 ... pos = 0.0   	neg = 0.125
+5. Obviously, they did                  ... pos = 0.0   	neg = 0.625
+6. The film is setup to                 ... pos = 0.25  	neg = 0.625
+7. Heather Donahue, Mic                 ... pos = 0.625 	neg = 0.0  
+8. The three are making                 ... pos = 0.375 	neg = 0.0  
+9. The entire film is t                 ... pos = 0.0   	neg = 0.625
+10. The footage explains                ... pos = 0.75  	neg = 0.75 
+11. The Blair Witch Proj                ... pos = 0.5   	neg = 0.125
+12. The entire movie is                 ... pos = 0.75  	neg = 0.25 
+13. (Which, by the way,                 ... pos = 0.0   	neg = 0    
+14. )  Sometimes the cam                ... pos = 0.75  	neg = 0.125
+15. The filming through                 ... pos = 1.25  	neg = 1.125
+16. It was very hard for                ... pos = 0.5   	neg = 0.875
+17. After the film was o                ... pos = 0.625 	neg = 0.25 
+18. Still, I am uncertai                ... pos = 0.25  	neg = 0.375
+19. I am split fifty-fif                ... pos = 0.0   	neg = 0.125
+20. As I think about the                ... pos = 0.0   	neg = 0.0  
+21. Then there is anothe                ... pos = 0.25  	neg = 0.375
+22. During the film, I w                ... pos = 0.375 	neg = 0.125
+23. The first half didn'                ... pos = 0.125 	neg = 0.0  
+24. The fear was only th                ... pos = 1.0   	neg = 0.125
+25. The thing that added                ... pos = 0.625 	neg = 0.125
+26. This just proves you                ... pos = 0.0   	neg = 0.875
+27. It isn't all scares                 ... pos = 0.0   	neg = 0.0  
+28. There are a lot of l                ... pos = 0.25  	neg = 0.25 
+29. It is also very sadd                ... pos = 0.5   	neg = 0.125
+30. If it wasn't so real                ... pos = 0.125 	neg = 0.875
+31. I must say that this                ... pos = 0.75  	neg = 0.125
+32. The performances add                ... pos = 0.625 	neg = 0.125
+33. Heather, the main ch                ... pos = 1.625 	neg = 0.0  
+34. It did not feel like                ... pos = 0.0   	neg = 0.125
+35. I hope that the Acad                ... pos = 0.5   	neg = 0.0  
+36. Michael Williams and                ... pos = 0.75  	neg = 0.0  
+37. All in all, The Blai                ... pos = 0.75  	neg = 0.125
+38. The actors were all                 ... pos = 0.25  	neg = 0.25 
+39. Considering that and                ... pos = 0.75  	neg = 0.25 
+40. It was nice to get a                ... pos = 0.0   	neg = 0.125
+41. If they had added ab                ... pos = 0.375 	neg = 0.875
+42. The Bottom Line- Thi                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp60 is Positive                ... pos = 19.75 	neg = 12.375
+Overall score of document
+Total Pos = 19.75
+Total Neg = 12.375
+---------------------------------------------------------------------------
+0. www.CrankyCritic.com                 ... pos = 0.0   	neg = 0.0  
+1. Commercial syndicati                 ... pos = 0.0   	neg = 0.125
+2. Really.                              ... pos = 0     	neg = 0.0  
+3. Chuck Schwartz/ Cran                 ... pos = 1.25  	neg = 0.125
+4. Cranky has written b                 ... pos = 0.25  	neg = 0.125
+5. Over the last six mo                 ... pos = 0.0   	neg = 0.375
+6. It's no reflection o                 ... pos = 0.0   	neg = 0.375
+7. Word was this docume                 ... pos = 0.75  	neg = 0.625
+8. The story concept wa                 ... pos = 0.875 	neg = 0.375
+9. A year later, their                  ... pos = 0.0   	neg = 0.375
+10. The only problem is,                ... pos = 0.125 	neg = 0.375
+11. The "filmmakers" spe                ... pos = 0.625 	neg = 0.375
+12. Residents of the tow                ... pos = 1.0   	neg = 0.5  
+13. Once they get lost i                ... pos = 0.0   	neg = 0.125
+14. Which it was.                       ... pos = 0.0   	neg = 0.125
+15. Myrick and Sanchez g                ... pos = 0.0   	neg = 0.125
+16. The net result are s                ... pos = 0.25  	neg = 0.75 
+17. "Mike" goes through                 ... pos = 0.125 	neg = 0.375
+18. That pair are more c                ... pos = 0.25  	neg = 0.75 
+19. No one ever implied                 ... pos = 0.0   	neg = 0.375
+20. If that's what you e                ... pos = 0.0   	neg = 0.0  
+21. This is one of the f                ... pos = 1.125 	neg = 0.25 
+22. There's a tremendous                ... pos = 0.375 	neg = 0.0  
+23. Having the backgroun                ... pos = 0.875 	neg = 0.0  
+24. Cranky got the mater                ... pos = 0.125 	neg = 0.0  
+25. On average, a first                 ... pos = 0.25  	neg = 0.0  
+26. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+27. The sum of the parts                ... pos = 0.0   	neg = 0.0  
+28. Cranky CriticŽ is a                ... pos = 0.0   	neg = 0.125
+29. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp7 is Positive                 ... pos = 8.375 	neg = 6.875
+Overall score of document
+Total Pos = 8.375
+Total Neg = 6.875
+---------------------------------------------------------------------------
+0. The Blair Witch Proj                 ... pos = 0.5   	neg = 0.0  
+1. Screenplay by Eduard                 ... pos = 0.0   	neg = 0.0  
+2. Directed by Sanchez                  ... pos = 0.0   	neg = 0    
+3. 87 minutes.                          ... pos = 0     	neg = 0.0  
+4. Rated R, 4 stars (ou                 ... pos = 0.125 	neg = 0.5  
+5. A year later their                   ... pos = 0.0   	neg = 0.125
+6. " That's all you rea                 ... pos = 1.625 	neg = 0.125
+7. Shot with two shaky                  ... pos = 0.625 	neg = 0.375
+8. With very little mon                 ... pos = 1.25  	neg = 0.5  
+9. The result is a "moc                 ... pos = 0.0   	neg = 0.125
+10. Heather Donahue, a f                ... pos = 0.5   	neg = 0.625
+11. Heather is accompani                ... pos = 0.5   	neg = 0.125
+12. While Joshua  shoots                ... pos = 0.0   	neg = 0.0  
+13. After playfully film                ... pos = 0.125 	neg = 0.625
+14. Hours grow into days                ... pos = 0.5   	neg = 0.125
+15. Setting the story in                ... pos = 0.0   	neg = 0.125
+16. While firmly in our                 ... pos = 1.875 	neg = 0.25 
+17. Yet 1994 is  recent                 ... pos = 1.25  	neg = 0.25 
+18. After all,  the more                ... pos = 1.875 	neg = 0.125
+19. The casting of Heath                ... pos = 0.5   	neg = 0.125
+20. All three actors (th                ... pos = 0.375 	neg = 0.0  
+21. " mystique) have a g                ... pos = 1.614 	neg = 0.0  
+22. Heather is determine                ... pos = 0.125 	neg = 0.125
+23. When she tapes an in                ... pos = 0.125 	neg = 0.125
+24. Even though he is wo                ... pos = 0.625 	neg = 0.125
+25. As the  outsider, Mi                ... pos = 0.0   	neg = 0.375
+26. The extremely likabl                ... pos = 1.375 	neg = 0.25 
+27. I cared about the fa                ... pos = 0.75  	neg = 0.0  
+28. "The Blair Witch Pro                ... pos = 1.125 	neg = 0.125
+29. To a degree, the act                ... pos = 0.125 	neg = 0.25 
+30. They were  left alon                ... pos = 1.125 	neg = 0.125
+31. The unnerving sounds                ... pos = 0.5   	neg = 0.125
+32. On Internet film new                ... pos = 0.75  	neg = 0.5  
+33. To be sure, there ha                ... pos = 0.25  	neg = 0.25 
+34. Convincing a mass  a                ... pos = 0.625 	neg = 0.125
+35. And the finished pro                ... pos = 0.0   	neg = 0.0  
+36. "The Blair Witch Pro                ... pos = 0.125 	neg = 0.25 
+37. Eduardo Sanchez  and                ... pos = 2.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp8 is Positive                 ... pos = 22.989 	neg = 7.75 
+Overall score of document
+Total Pos = 22.989
+Total Neg = 7.75
+---------------------------------------------------------------------------
+0. "On October 21, 1994                 ... pos = 0.375 	neg = 0.125
+1. One year later, thei                 ... pos = 0.0   	neg = 0.125
+2. " These are the open                 ... pos = 0.125 	neg = 0.0  
+3. There are no credits                 ... pos = 0.375 	neg = 1.0  
+4. The next 87 minutes                  ... pos = 0.125 	neg = 0.25 
+5. In reality those 87                  ... pos = 1.625 	neg = 0.0  
+6. But the film is not                  ... pos = 0.0   	neg = 0.125
+7. A simple reality che                 ... pos = 0.625 	neg = 0.0  
+8. And the production d                 ... pos = 0.5   	neg = 0.0  
+9. The urban legend tha                 ... pos = 0.0   	neg = 1.0  
+10. Different people hav                ... pos = 1.375 	neg = 0.375
+11. The little that is k                ... pos = 0.75  	neg = 1.25 
+12. One person describes                ... pos = 0.0   	neg = 0.0  
+13. "  Another descripti                ... pos = 0.125 	neg = 0.125
+14. " That is, if  there                ... pos = 0.25  	neg = 0.25 
+15. The unknowingly doom                ... pos = 0.125 	neg = 1.0  
+16. The group of three g                ... pos = 1.625 	neg = 0.0  
+17. ". At the core of th                ... pos = 0.0   	neg = 0.125
+18. She demands nearly e                ... pos = 0.125 	neg = 0.5  
+19. The footage is inten                ... pos = 0.625 	neg = 0.125
+20. But after a while yo                ... pos = 0.25  	neg = 0.5  
+21. You also can't help                 ... pos = 1.0   	neg = 0.125
+22. In The Blair Witch P                ... pos = 0.25  	neg = 0.75 
+23. There is no  backgro                ... pos = 0.5   	neg = 0.125
+24. There is only  one i                ... pos = 0.5   	neg = 0.25 
+25. Instead of using the                ... pos = 0.75  	neg = 0.25 
+26. By  telling you the                 ... pos = 0.5   	neg = 0.125
+27. However, this aspect                ... pos = 0.25  	neg = 0    
+28. About one hour into                 ... pos = 0.375 	neg = 0.125
+29. This creates a sort                 ... pos = 0.0   	neg = 0.0  
+30. " sense, that makes                 ... pos = 0.125 	neg = 0.25 
+31. The Blair Witch Proj                ... pos = 0.75  	neg = 0.125
+32. Although Artisan  En                ... pos = 0.125 	neg = 0.625
+33. During the movie I w                ... pos = 0.625 	neg = 0.25 
+34. And when it did, the                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp9 is Positive                 ... pos = 14.875 	neg = 10.25
+Overall score of document
+Total Pos = 14.875
+Total Neg = 10.25
+---------------------------------------------------------------------------

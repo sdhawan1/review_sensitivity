@@ -1,0 +1,34 @@
+0. I like the character                 ... pos = 0.875 	neg = 0.0  
+1. He loves his school,                 ... pos = 0.75  	neg = 0.25 
+2. So he joins them all                 ... pos = 0.0   	neg = 0.0  
+3. He campaigns to save                 ... pos = 0.25  	neg = 0.0  
+4. He stages elaborate                  ... pos = 0.0   	neg = 0.125
+5. Then something extra                 ... pos = 0.625 	neg = 0.0  
+6. Max falls in love.                   ... pos = 0.625 	neg = 0.25 
+7. Of course, Ms. Cross                 ... pos = 0.125 	neg = 0.625
+8. Max will win her hea                 ... pos = 1.25  	neg = 0.0  
+9. So he enlists the ai                 ... pos = 0.125 	neg = 0.0  
+10. Blume, played by Bil                ... pos = 0.0   	neg = 0.25 
+11. Then he falls in lov                ... pos = 0.75  	neg = 0.25 
+12. Thus begins the setu                ... pos = 0.0   	neg = 0    
+13. A multi-generational                ... pos = 1.5   	neg = 0.25 
+14. Other than the minor                ... pos = 0.125 	neg = 0.125
+15. Bill Murray has not                 ... pos = 0.125 	neg = 0.0  
+16. It+s as if he+s read                ... pos = 0.0   	neg = 0.25 
+17. The result is the mo                ... pos = 1.0   	neg = 0.125
+18. While a few individu                ... pos = 1.125 	neg = 1.375
+19. He interiorizes ever                ... pos = 0.75  	neg = 0.25 
+20. And yet he marvels a                ... pos = 1.5   	neg = 0.125
+21. Max Fischer is playe                ... pos = 0.25  	neg = 0.125
+22. It is hard to retain                ... pos = 1.0   	neg = 0.875
+23. He has the endearing                ... pos = 0.375 	neg = 0.125
+24. We root for him, but                ... pos = 0.125 	neg = 0.0  
+25. _Rushmore_ more than                ... pos = 0.25  	neg = 0.125
+26. It moves quickly, wi                ... pos = 0.125 	neg = 0.0  
+27. And when it+s all ov                ... pos = 0.75  	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-1299-630 is Positive         ... pos = 14.375 	neg = 6.75 
+Overall score of document
+Total Pos = 14.375
+Total Neg = 6.75
+---------------------------------------------------------------------------

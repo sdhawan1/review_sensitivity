@@ -1,0 +1,53 @@
+0. Nicolas Cage stars a                 ... pos = 0.75  	neg = 0.25 
+1. He is also unlucky e                 ... pos = 0.125 	neg = 0.25 
+2. But who did it?                      ... pos = 0.0   	neg = 0.0  
+3. Why?                                 ... pos = 0     	neg = 0.0  
+4. So Santoro and his c                 ... pos = 0.125 	neg = 1.0  
+5. And yes, a massive c                 ... pos = 0.375 	neg = 0.0  
+6. Promised, but not de                 ... pos = 0.0   	neg = 0.0  
+7. I knew going in who                  ... pos = 0.5   	neg = 0.875
+8. Follow the hidden Ho                 ... pos = 0.25  	neg = 1.125
+9. Even so, I will atte                 ... pos = 0.125 	neg = 0.0  
+10. The cast and directo                ... pos = 0.25  	neg = 0.0  
+11. The directing is fan                ... pos = 0.375 	neg = 0.125
+12. Which is all the mor                ... pos = 0.0   	neg = 0.125
+13. For example: Cage ha                ... pos = 1.75  	neg = 1.0  
+14. And he struggles.                   ... pos = 0.0   	neg = 0    
+15. He knows this person                ... pos = 0.125 	neg = 0.125
+16. And this goes on for                ... pos = 0.0   	neg = 0.0  
+17. All and well, except                ... pos = 0.0   	neg = 0.375
+18. Nice tears, but you+                ... pos = 0.125 	neg = 0.25 
+19. Another example:  Si                ... pos = 0.25  	neg = 0.25 
+20. When Sinise gets ang                ... pos = 0.5   	neg = 0.0  
+21. His eyes bulge out,                 ... pos = 0.5   	neg = 0.0  
+22. Great.                              ... pos = 0.0   	neg = 0    
+23. But the logistics of                ... pos = 0.0   	neg = 1.25 
+24. He shouldn+t have to                ... pos = 1.375 	neg = 0.0  
+25. And then the directi                ... pos = 1.0   	neg = 0.125
+26. The fight is an esse                ... pos = 0.125 	neg = 0.125
+27. Which is confusing,                 ... pos = 0.0   	neg = 0.625
+28. There+s another scen                ... pos = 0.25  	neg = 0.125
+29. A wonderful shot.                   ... pos = 0.75  	neg = 0    
+30. But so what?                        ... pos = 0     	neg = 0.0  
+31. There+s no tension i                ... pos = 0.0   	neg = 0.25 
+32. Did we need to see w                ... pos = 0.25  	neg = 0.875
+33. How about another sc                ... pos = 0.0   	neg = 0.875
+34. Cage needs only to t                ... pos = 0.25  	neg = 0.625
+35. He doesn+t.                         ... pos = 0.0   	neg = 0    
+36. Even so, the killer                 ... pos = 0.25  	neg = 0.5  
+37. But that would make                 ... pos = 0.125 	neg = 0.25 
+38. Further, that would                 ... pos = 1.375 	neg = 0.375
+39. (DePalma likes this                 ... pos = 0.125 	neg = 0.0  
+40. I heard DePalma on a                ... pos = 0.375 	neg = 0.125
+41. It shows.                           ... pos = 0.0   	neg = 0    
+42. I+m happy to report                 ... pos = 0.875 	neg = 0.25 
+43. But it+s the same ol                ... pos = 0.375 	neg = 0.25 
+44. _Snake Eyes_ has bot                ... pos = 0.75  	neg = 0.0  
+45. Yet this is the firs                ... pos = 0.375 	neg = 0.125
+46. It+s the screenplay,                ... pos = 0     	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3533-630 is Positive         ... pos = 14.75 	neg = 12.625
+Overall score of document
+Total Pos = 14.75
+Total Neg = 12.625
+---------------------------------------------------------------------------

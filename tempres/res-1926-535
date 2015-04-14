@@ -1,0 +1,58 @@
+0. Seldom has a movie c                 ... pos = 0.0   	neg = 0.0  
+1. In truth, I needed a                 ... pos = 0.5   	neg = 0.25 
+2. What I saw can only                  ... pos = 0.5   	neg = 0.125
+3. Used here however, I                 ... pos = 0.125 	neg = 0.0  
+4. It was spectacular.                  ... pos = 0.125 	neg = 0.125
+5. Normally I keep my s                 ... pos = 0.125 	neg = 0.25 
+6. Lester Burnham is a                  ... pos = 0.125 	neg = 0.125
+7. We aren't privy to t                 ... pos = 0.125 	neg = 0    
+8. Lester lives in a ge                 ... pos = 0.0   	neg = 0.125
+9. He and his wife were                 ... pos = 0.625 	neg = 0.625
+10. His daughter thinks                 ... pos = 0.875 	neg = 0.375
+11. He turns his whole l                ... pos = 0.125 	neg = 0.0  
+12. He quits his job, st                ... pos = 0.75  	neg = 0.0  
+13. She has, in fact, be                ... pos = 0.375 	neg = 0.25 
+14. Next door to the Bur                ... pos = 0.25  	neg = 0.125
+15. Colonel Fitts runs h                ... pos = 0.0   	neg = 0.0  
+16. He requires urine sa                ... pos = 0.125 	neg = 0.0  
+17. Ricky is, in fact, a                ... pos = 0.5   	neg = 0.125
+18. The newest interest                 ... pos = 0.5   	neg = 0.125
+19. This first disturbs                 ... pos = 0.125 	neg = 0.0  
+20. The lives of these s                ... pos = 0.875 	neg = 0    
+21. Despite the 5 star r                ... pos = 0.25  	neg = 0.125
+22. It deals with more t                ... pos = 0.0   	neg = 0.0  
+23. For starters, the en                ... pos = 1.0   	neg = 0.125
+24. Also touched upon ar                ... pos = 0.375 	neg = 0.25 
+25. The rather frighteni                ... pos = 1.0   	neg = 0.875
+26. Those who have moral                ... pos = 0.25  	neg = 0.125
+27. Now that I've given                 ... pos = 0.625 	neg = 0.0  
+28. For starters, the ac                ... pos = 0.25  	neg = 0.125
+29. In particular, Kevin                ... pos = 0.0   	neg = 0.25 
+30. Audiences are used t                ... pos = 1.5   	neg = 0.125
+31. Here, his character                 ... pos = 0.875 	neg = 0.5  
+32. However, he so compl                ... pos = 0.125 	neg = 0.0  
+33. The other amazing pe                ... pos = 0.125 	neg = 0    
+34. Ricky seems to be th                ... pos = 0.625 	neg = 0.375
+35. While the acting is                 ... pos = 0.5   	neg = 0.125
+36. The script is wonder                ... pos = 2.0   	neg = 0.125
+37. The characters are s                ... pos = 2.375 	neg = 0.125
+38. I've heard some comp                ... pos = 0.25  	neg = 0.0  
+39. I completely disagre                ... pos = 0.125 	neg = 0.0  
+40. I thought the ending                ... pos = 0.875 	neg = 0.125
+41. Overall, I have to g                ... pos = 0.375 	neg = 0.0  
+42. Expect this to get n                ... pos = 0.625 	neg = 0.0  
+43. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+44. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+45. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+46. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+47. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+48. See it if you've got                ... pos = 0.0   	neg = 0.25 
+49. * - One of the worst                ... pos = 0.0   	neg = 0.375
+50. See it only if you e                ... pos = 0.375 	neg = 0.0  
+51. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-535 is Positive         ... pos = 22.125 	neg = 7.75 
+Overall score of document
+Total Pos = 22.125
+Total Neg = 7.75
+---------------------------------------------------------------------------

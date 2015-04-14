@@ -1,0 +1,27 @@
+0. After his stunning d                 ... pos = 0.125 	neg = 0.0  
+1. Each story is well w                 ... pos = 0.0   	neg = 0.125
+2. It's is one of the m                 ... pos = 0.5   	neg = 0.125
+3. The film starts with                 ... pos = 0.0   	neg = 0.0  
+4. In the first story,                  ... pos = 1.375 	neg = 0.125
+5. It's horribly violen                 ... pos = 0.5   	neg = 1.0  
+6. The second story con                 ... pos = 0.625 	neg = 0.25 
+7. Unfortunatley for hi                 ... pos = 0.0   	neg = 0.0  
+8. Again, it's another                  ... pos = 0.0   	neg = 0.125
+9. The third story conc                 ... pos = 0.25  	neg = 1.375
+10. It's another tense s                ... pos = 0.25  	neg = 0.125
+11. It's a masterpiece o                ... pos = 0.125 	neg = 0.0  
+12. Of course, the film                 ... pos = 0.75  	neg = 1.125
+13. It's played more for                ... pos = 0.5   	neg = 0.0  
+14. The film looks reall                ... pos = 0.75  	neg = 0.375
+15. There's a fantastic                 ... pos = 0.375 	neg = 0.0  
+16. This film has all th                ... pos = 0.75  	neg = 0    
+17. Naturally, it was to                ... pos = 0.25  	neg = 0.125
+18. Be warned though, th                ... pos = 1.0   	neg = 0.875
+19. But overall, this is                ... pos = 1.75  	neg = 0.125
+20. Rent it out now!. .                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6084-1213 is Positive        ... pos = 9.875 	neg = 5.875
+Overall score of document
+Total Pos = 9.875
+Total Neg = 5.875
+---------------------------------------------------------------------------

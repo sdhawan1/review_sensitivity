@@ -1,0 +1,46 @@
+0. How do you judge a f                 ... pos = 0.375 	neg = 1.0  
+1. In SPICEWORLD, the h                 ... pos = 0.875 	neg = 0.625
+2. If that was their go                 ... pos = 0.375 	neg = 0.125
+3. So is it fair to giv                 ... pos = 0.125 	neg = 0.625
+4. Honestly, I'd rather                 ... pos = 1.25  	neg = 0.25 
+5. Truth be known, I do                 ... pos = 0.5   	neg = 0.125
+6. To understand SPICEW                 ... pos = 0.75  	neg = 0.0  
+7. Unless you're very *                 ... pos = 0.75  	neg = 0.0  
+8. They're a group of f                 ... pos = 0.0   	neg = 0.375
+9. They're primarily ad                 ... pos = 0.875 	neg = 0.5  
+10. All five of the girl                ... pos = 0.25  	neg = 0.0  
+11. There is the aforeme                ... pos = 0.0   	neg = 0.875
+12. ), Baby Spice (Emma                 ... pos = 0.0   	neg = 0.375
+13. The Spice Girls took                ... pos = 0.625 	neg = 0.625
+14. It's quite nice to s                ... pos = 1.125 	neg = 0.125
+15. They don't take them                ... pos = 0.375 	neg = 0.25 
+16. It's also surprising                ... pos = 0.25  	neg = 0.0  
+17. They're not flawless                ... pos = 1.75  	neg = 0.125
+18. What makes the film                 ... pos = 0.125 	neg = 1.0  
+19. The real point of th                ... pos = 0.0   	neg = 0.5  
+20. Most of the film is                 ... pos = 1.375 	neg = 0.75 
+21. If you're a big fan                 ... pos = 0.25  	neg = 0.625
+22. For the right crowd,                ... pos = 0.625 	neg = 0.125
+23. Other key actors inc                ... pos = 0.125 	neg = 0.0  
+24. All provide relative                ... pos = 0.875 	neg = 0.125
+25. Even Meat Loaf shows                ... pos = 0.25  	neg = 0.125
+26. While this film is c                ... pos = 0.625 	neg = 1.0  
+27. It is supposedly the                ... pos = 0.125 	neg = 0.25 
+28. I think the studios                 ... pos = 0.75  	neg = 0.875
+29. I don't think this f                ... pos = 0.125 	neg = 0.75 
+30. And what could've be                ... pos = 0.25  	neg = 0.75 
+31. Probably nothing, an                ... pos = 0.0   	neg = 0.375
+32. SPICEWORLD is a movi                ... pos = 1.375 	neg = 0.5  
+33. It's bad, but it suc                ... pos = 0.125 	neg = 0.875
+34. It gives the Spice G                ... pos = 0.5   	neg = 0.25 
+35. Perhaps the group is                ... pos = 0.0   	neg = 0.5  
+36. If that's the case,                 ... pos = 0.0   	neg = 0.25 
+37. You might be saying,                ... pos = 0     	neg = 0.625
+38. Come on!                            ... pos = 0     	neg = 0.0  
+39. ", but when it comes                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3166-195 is Positive         ... pos = 17.75 	neg = 16.25
+Overall score of document
+Total Pos = 17.75
+Total Neg = 16.25
+---------------------------------------------------------------------------

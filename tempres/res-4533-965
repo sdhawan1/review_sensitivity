@@ -1,0 +1,34 @@
+0. What gets you in a h                 ... pos = 0.375 	neg = 0.0  
+1. A good haunted house                 ... pos = 0.75  	neg = 0.0  
+2. Think The Shining, A                 ... pos = 0.125 	neg = 0.0  
+3. Jan de Bont's The Ha                 ... pos = 0.125 	neg = 0.25 
+4. Instead it jacks it                  ... pos = 1.125 	neg = 0.0  
+5. This isn't to say th                 ... pos = 0.0   	neg = 0.0  
+6. More like overload.                  ... pos = 0.0   	neg = 0.0  
+7. The place is an abso                 ... pos = 0.0   	neg = 0.125
+8. Marrow (Liam Neeson)                 ... pos = 0.25  	neg = 0.0  
+9. His idea is that the                 ... pos = 0.0   	neg = 0.375
+10. How observing a hand                ... pos = 0.75  	neg = 0.375
+11. So it goes.                         ... pos = 0.0   	neg = 0.0  
+12. Suffice it to say th                ... pos = 0.375 	neg = 1.25 
+13. Voices, cherubic fac                ... pos = 0.125 	neg = 0.0  
+14. And of course no two                ... pos = 0.5   	neg = 0.5  
+15. Where The Haunting d                ... pos = 0.75  	neg = 0.25 
+16. Nevermind that Cathe                ... pos = 0.0   	neg = 1.0  
+17. She's evidently just                ... pos = 0.5   	neg = 0.0  
+18. The one or two token                ... pos = 0.0   	neg = 0.5  
+19. ) her Theo directs E                ... pos = 0.375 	neg = 0.0  
+20. Like distinguishing                 ... pos = 0.875 	neg = 2.375
+21. About this scary and                ... pos = 0.75  	neg = 1.875
+22. But then we wouldn't                ... pos = 0.0   	neg = 0.0  
+23. And The Haunting doe                ... pos = 0.375 	neg = 0.0  
+24. It does this by not                 ... pos = 0.375 	neg = 0.25 
+25. The same ones introd                ... pos = 0.0   	neg = 0.25 
+26. Like them, The Haunt                ... pos = 1.375 	neg = 0.875
+27. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4533-965 is Negative         ... pos = 9.875 	neg = 10.25
+Overall score of document
+Total Pos = 9.875
+Total Neg = 10.25
+---------------------------------------------------------------------------

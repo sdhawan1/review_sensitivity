@@ -1,0 +1,49 @@
+0. Adam Sandler's lates                 ... pos = 0.625 	neg = 0.5  
+1. Further amplifying t                 ... pos = 0.875 	neg = 0.25 
+2. Sonny Koufax (Adam S                 ... pos = 0.0   	neg = 0.125
+3. Despite the relative                 ... pos = 0.375 	neg = 0.5  
+4. Admittedly, he hasn'                 ... pos = 0.0   	neg = 0.25 
+5. The only reliable co                 ... pos = 0.0   	neg = 0.125
+6. When Kevin prepares                  ... pos = 0.0   	neg = 1.25 
+7. So when the opportun                 ... pos = 0.375 	neg = 0.625
+8. This film is a colla                 ... pos = 0.25  	neg = 0.125
+9. When Sonny realizes                  ... pos = 0.875 	neg = 0.25 
+10. Ever more apparent a                ... pos = 0.625 	neg = 0.0  
+11. Both are films focus                ... pos = 0.375 	neg = 0.0  
+12. Also, both feature s                ... pos = 0.0   	neg = 0    
+13. But most obvious are                ... pos = 0.5   	neg = 0.25 
+14. Coincidentally, both                ... pos = 0.125 	neg = 0.5  
+15. Extremely poor actin                ... pos = 1.0   	neg = 0.375
+16. Adam Sandler was nea                ... pos = 0.125 	neg = 0.25 
+17. He was also one of t                ... pos = 0.375 	neg = 0.5  
+18. However, just as Ben                ... pos = 1.625 	neg = 0.125
+19. The outcome is a lam                ... pos = 0.875 	neg = 0.875
+20. This is best highlig                ... pos = 0.75  	neg = 0.125
+21. Quickly realizing hi                ... pos = 0.125 	neg = 0.375
+22. Yet they simply aren                ... pos = 1.75  	neg = 0.0  
+23. Jon Stuart's wonderf                ... pos = 1.25  	neg = 0.125
+24. His biggest fault ma                ... pos = 0.25  	neg = 0.625
+25. This makes him sound                ... pos = 1.0   	neg = 0.625
+26. The finest example o                ... pos = 1.25  	neg = 0.5  
+27. As he steps to the s                ... pos = 1.0   	neg = 0.5  
+28. Big Daddy's one posi                ... pos = 0.0   	neg = 0.125
+29. Despite a harsh soun                ... pos = 1.375 	neg = 0.0  
+30. She even manages to                 ... pos = 0.625 	neg = 0.0  
+31. This is best exhibit                ... pos = 0.375 	neg = 0.125
+32. Sandler chokes on th                ... pos = 0.0   	neg = 0.5  
+33. Chief Lighting Techn                ... pos = 0.375 	neg = 1.0  
+34. Several of the film'                ... pos = 0.0   	neg = 0.0  
+35. The first scene of t                ... pos = 0.375 	neg = 0.0  
+36. Not only does the ni                ... pos = 0.5   	neg = 0.125
+37. Numerous little thin                ... pos = 0.625 	neg = 0.25 
+38. These include, but s                ... pos = 2.0   	neg = 0.375
+39. As Big Daddy opens,                 ... pos = 0.0   	neg = 0.125
+40. Then, over the next                 ... pos = 0.125 	neg = 2.75 
+41. One performance carr                ... pos = 0.5   	neg = 0.125
+42. Perhaps things would                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2229-592 is Positive         ... pos = 23.25 	neg = 15.375
+Overall score of document
+Total Pos = 23.25
+Total Neg = 15.375
+---------------------------------------------------------------------------

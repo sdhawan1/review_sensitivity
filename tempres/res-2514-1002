@@ -1,0 +1,53 @@
+0. 8 MM (1999) A film r                 ... pos = 0.0   	neg = 0.0  
+1. Copyright 1999 Justi                 ... pos = 0     	neg = 0.0  
+2. Any comments about t                 ... pos = 0     	neg = 0.0  
+3. Contact me at justin                 ... pos = 0.25  	neg = 0.0  
+4. Directed by Joel Shu                 ... pos = 0.0   	neg = 0.25 
+5. Starring Nicolas Cag                 ... pos = 0.0   	neg = 0.0  
+6. Rated R (contains in                 ... pos = 0.25  	neg = 0.5  
+7. Synopsis:  Private d                 ... pos = 0.25  	neg = 0.125
+8. After uncovering the                 ... pos = 0.5   	neg = 0.25 
+9. Comments:  8 MM is o                 ... pos = 0.0   	neg = 0.5  
+10. Though it doesn't pr                ... pos = 1.0   	neg = 0.5  
+11. It is not fun to wat                ... pos = 0.375 	neg = 0.375
+12. This film's violence                ... pos = 0.125 	neg = 0.125
+13. For those with stron                ... pos = 0.875 	neg = 0.125
+14. Nicolas Cage, after                 ... pos = 0.5   	neg = 0.125
+15. As Tom Welles, a pri                ... pos = 2.25  	neg = 0.25 
+16. Serving as a guide t                ... pos = 0.0   	neg = 0.125
+17. California, despite                 ... pos = 3.375 	neg = 0.125
+18. The real star of the                ... pos = 0.375 	neg = 0.125
+19. Stormare played the                 ... pos = 1.375 	neg = 1.625
+20. His performance is v                ... pos = 0.5   	neg = 0.125
+21. 8 MM's success may h                ... pos = 0.25  	neg = 0.125
+22. It was directed by J                ... pos = 0.5   	neg = 1.625
+23. Before directing the                ... pos = 1.125 	neg = 0.375
+24. 8 MM certainly joins                ... pos = 0.75  	neg = 0.125
+25. 8 MM was written by                 ... pos = 0.125 	neg = 0.125
+26. Like SEVEN, 8 MM is                 ... pos = 0.0   	neg = 0.125
+27. Welles is searching                 ... pos = 0.0   	neg = 0.125
+28. How could anyone pos                ... pos = 0.5   	neg = 0.125
+29. When confronting one                ... pos = 0.25  	neg = 0.25 
+30. He just enjoys it.                  ... pos = 0.375 	neg = 0.0  
+31. That, Walker seems t                ... pos = 0.375 	neg = 0.25 
+32. A couple minor fault                ... pos = 0.125 	neg = 0.125
+33. One, I found it a li                ... pos = 0.625 	neg = 0.25 
+34. Yes, snuff is a horr                ... pos = 0.125 	neg = 1.625
+35. Second, some of the                 ... pos = 0.25  	neg = 0.5  
+36. He discovers, for ex                ... pos = 0.25  	neg = 0.0  
+37. Finally, the closing                ... pos = 0.125 	neg = 0.5  
+38. Despite the above cr                ... pos = 0.0   	neg = 0.125
+39. One of the best scen                ... pos = 1.375 	neg = 0.375
+40. He pulls a gun on th                ... pos = 0.0   	neg = 0.375
+41. He then leaves the b                ... pos = 0.0   	neg = 0.0  
+42. The entire scene is                 ... pos = 0.125 	neg = 0.125
+43. Rarely, anymore, do                 ... pos = 0.625 	neg = 0.125
+44. 8 MM is most certain                ... pos = 0.5   	neg = 0.125
+45. This is a graphic, o                ... pos = 1.0   	neg = 0.5  
+46. If you're prepared f                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2514-1002 is Positive        ... pos = 22.0  	neg = 13.25
+Overall score of document
+Total Pos = 22.0
+Total Neg = 13.25
+---------------------------------------------------------------------------

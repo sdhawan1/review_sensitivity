@@ -1,0 +1,70 @@
+0. As I write the revie                 ... pos = 1.5   	neg = 0.25 
+1. I am also aware that                 ... pos = 0.625 	neg = 0.125
+2. And I wonder: is tha                 ... pos = 0     	neg = 1.0  
+3. Well, the  commercia                 ... pos = 0.0   	neg = 0.125
+4. As for the movie, we                 ... pos = 0.125 	neg = 0.625
+5. To paraphrase James                  ... pos = 1.25  	neg = 0.0  
+6. They are both wonder                 ... pos = 3.125 	neg = 0.625
+7. Tom Hanks  is wonder                 ... pos = 1.0   	neg = 1.0  
+8. Meg Ryan, America's                  ... pos = 0.0   	neg = 0.0  
+9. She's had a  handful                 ... pos = 1.375 	neg = 0.125
+10. But, I like her best                ... pos = 0.875 	neg = 0.0  
+11. She is so  adorably                 ... pos = 0.875 	neg = 0.25 
+12. Some people have the                ... pos = 1.0   	neg = 0.125
+13. All I  know is that                 ... pos = 0.0   	neg = 0.125
+14. They have such wonde                ... pos = 0.0   	neg = 0.75 
+15. They're just really,                ... pos = 1.0   	neg = 0.0  
+16. Hanks and Ryan colla                ... pos = 0.125 	neg = 0    
+17. Here, the setup is a                ... pos = 0.625 	neg = 0.375
+18. Kathleen Kelly (Ryan                ... pos = 0.0   	neg = 0.0  
+19. She is  successful,                 ... pos = 1.875 	neg = 0.125
+20. She is also having a                ... pos = 0.375 	neg = 0.125
+21. You  see, Kathleen,                 ... pos = 0.0   	neg = 0.125
+22. They have a strictly                ... pos = 0.25  	neg = 0.625
+23. NY152 happens to be                 ... pos = 0.125 	neg = 0.25 
+24. Fox Books has decide                ... pos = 0.5   	neg = 0.25 
+25. Every  morning, thes                ... pos = 0.0   	neg = 0.125
+26. It's a charming prem                ... pos = 0.875 	neg = 0.125
+27. It also has the grea                ... pos = 1.5   	neg = 0.625
+28. This is a solid roma                ... pos = 0.875 	neg = 0.125
+29. Hmm.                                ... pos = 0     	neg = 0    
+30. Well, the movie goes                ... pos = 0.75  	neg = 0.75 
+31. You  know it's going                ... pos = 0.0   	neg = 0.125
+32. Thankfully, Ephron h                ... pos = 1.125 	neg = 0.0  
+33. It's all cute and wo                ... pos = 2.125 	neg = 0.0  
+34. Hanks is as obnoxiou                ... pos = 0.25  	neg = 0.875
+35. He is, I believe, Am                ... pos = 1.0   	neg = 0.125
+36. Does he show it here                ... pos = 0.0   	neg = 0.0  
+37. Nah.                                ... pos = 0     	neg = 0    
+38. But he's still Tom H                ... pos = 0.0   	neg = 0.0  
+39. Which is what this m                ... pos = 0     	neg = 0.125
+40. It's pure confection                ... pos = 0.375 	neg = 0    
+41. All  the bits about                 ... pos = 0.875 	neg = 0.375
+42. There are some immen                ... pos = 0.25  	neg = 0.0  
+43. The last  third of t                ... pos = 0.375 	neg = 0.0  
+44. Once Hanks knows the                ... pos = 0.0   	neg = 0.0  
+45. I even looked at my                 ... pos = 0.75  	neg = 0.25 
+46. The other problem  i                ... pos = 0.0   	neg = 0.625
+47. E-mail?                             ... pos = 0     	neg = 0    
+48. When my  kids are my                ... pos = 0.25  	neg = 0.125
+49. But Hanks can do  mo                ... pos = 0.625 	neg = 0.0  
+50. They just work toget                ... pos = 0.375 	neg = 0.0  
+51. It gives you, well,                 ... pos = 0.0   	neg = 0    
+52. The script helps  wi                ... pos = 0.375 	neg = 0.0  
+53. I was arguing with m                ... pos = 0.0   	neg = 0.25 
+54. I've always believed                ... pos = 1.875 	neg = 0    
+55. You see, mankind has                ... pos = 0.625 	neg = 0.125
+56. Movies can definitel                ... pos = 0.875 	neg = 0.0  
+57. I always thought fil                ... pos = 0.875 	neg = 0.25 
+58. And I was  thinking                 ... pos = 0.0   	neg = 0.125
+59. Hanks was the  drivi                ... pos = 1.25  	neg = 0.25 
+60. He's also half of th                ... pos = 0.75  	neg = 0.0  
+61. Tom Hanks and Meg Ry                ... pos = 0.25  	neg = 0.125
+62. It's a sweet, lovely                ... pos = 0.25  	neg = 0.0  
+63. It may be a long com                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5378-1484 is Positive        ... pos = 36.125 	neg = 13.125
+Overall score of document
+Total Pos = 36.125
+Total Neg = 13.125
+---------------------------------------------------------------------------

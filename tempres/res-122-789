@@ -1,0 +1,47 @@
+0. After seeing Dogma,                  ... pos = 0.125 	neg = 0.0  
+1. The film is  filled                  ... pos = 0.0   	neg = 0.5  
+2. Although Kevin Smith                 ... pos = 1.625 	neg = 0.125
+3. After all the contro                 ... pos = 0.25  	neg = 0.625
+4. While it is sure to                  ... pos = 0.75  	neg = 0.75 
+5. I for one was comple                 ... pos = 0.5   	neg = 0.125
+6. Sure the film may be                 ... pos = 1.125 	neg = 1.25 
+7. Like Bartebly and Lo                 ... pos = 0.125 	neg = 0.125
+8. People sinning left                  ... pos = 0.0   	neg = 0    
+9. To me this seems lik                 ... pos = 0.375 	neg = 0.125
+10. It's just one of the                ... pos = 0.125 	neg = 0.0  
+11. The film opens with                 ... pos = 0.25  	neg = 0.375
+12. They receive a lette                ... pos = 0.125 	neg = 0.0  
+13. One thing the letter                ... pos = 0.0   	neg = 0.25 
+14. So now our lives are                ... pos = 0.375 	neg = 0.0  
+15. With the help of the                ... pos = 0.0   	neg = 0.125
+16. It appears that Azra                ... pos = 0.625 	neg = 0.75 
+17. The film is absurd o                ... pos = 0.125 	neg = 0.125
+18. That was however a p                ... pos = 0.125 	neg = 0.375
+19. Kevin Smith seemed a                ... pos = 0.125 	neg = 0.125
+20. It's like he had too                ... pos = 0.5   	neg = 0.375
+21. The same goes with t                ... pos = 0.0   	neg = 0.25 
+22. Just about everyone                 ... pos = 0.0   	neg = 0.0  
+23. Speaking of Chris Ro                ... pos = 0.0   	neg = 0.25 
+24. Since Linda Florenti                ... pos = 1.25  	neg = 0.375
+25. Thankfully Chris cam                ... pos = 0.0   	neg = 0.0  
+26. Although he wasn't h                ... pos = 0.25  	neg = 0.125
+27. The rest of the cast                ... pos = 0.875 	neg = 0.25 
+28. Although they were m                ... pos = 0.75  	neg = 1.125
+29. As I mentioned earli                ... pos = 0.5   	neg = 0.125
+30. You have to congratu                ... pos = 0.125 	neg = 0.0  
+31. What Kevin did was b                ... pos = 1.25  	neg = 0.25 
+32. It most likely won't                ... pos = 0.625 	neg = 0.125
+33. As for Kevin Smith,                 ... pos = 0.125 	neg = 0.0  
+34. Once a comic book ne                ... pos = 0.5   	neg = 0.5  
+35. I will be curious as                ... pos = 0.125 	neg = 1.0  
+36. The sky's the limit.                ... pos = 0.0   	neg = 0    
+37. Crude and offensive                 ... pos = 0.625 	neg = 0.125
+38. For once people shou                ... pos = 0.75  	neg = 0.0  
+39. After all, even "God                ... pos = 0.0   	neg = 0.0  
+40. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-122-789 is Positive          ... pos = 15.0  	neg = 10.625
+Overall score of document
+Total Pos = 15.0
+Total Neg = 10.625
+---------------------------------------------------------------------------

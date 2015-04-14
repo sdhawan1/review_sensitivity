@@ -1,0 +1,53 @@
+0. Directed by Hugh Wil                 ... pos = 0.0   	neg = 0.0  
+1. Written by Bill Kell                 ... pos = 0.0   	neg = 0.0  
+2. Running time: 106 mi                 ... pos = 0     	neg = 0.0  
+3. Rated PG-13 (for bri                 ... pos = 0.125 	neg = 0.25 
+4. Brendan Fraser has a                 ... pos = 0.0   	neg = 0.375
+5. Early in his career                  ... pos = 0.75  	neg = 0.0  
+6. The career spawning                  ... pos = 0.125 	neg = 0.125
+7. Later on he started                  ... pos = 0.0   	neg = 0.0  
+8. He made films like M                 ... pos = 0.0   	neg = 0.0  
+9. Fraser last couple o                 ... pos = 0.0   	neg = 0.0  
+10. George of the Jungle                ... pos = 1.25  	neg = 0.25 
+11. Blast From the Past                 ... pos = 0.5   	neg = 0.0  
+12. We are introduced to                ... pos = 1.25  	neg = 0.125
+13. John F.  Kennedy rel                ... pos = 0.25  	neg = 0.0  
+14. You see he has been                 ... pos = 0.0   	neg = 0.375
+15. beef roast, roller s                ... pos = 0.0   	neg = 0.0  
+16. He takes his wife an                ... pos = 0.0   	neg = 0.0  
+17. An airplane crashes                 ... pos = 0.0   	neg = 0    
+18. He locks the fall-ou                ... pos = 0.625 	neg = 0.25 
+19. The baby son (clever                ... pos = 0.375 	neg = 0.75 
+20. Adam grows up into B                ... pos = 0.0   	neg = 0.375
+21. His parents soon giv                ... pos = 0.5   	neg = 0.0  
+22. Adam is amazed at ho                ... pos = 0.0   	neg = 0.375
+23. He meets up with a s                ... pos = 0.0   	neg = 0.0  
+24. Adam turns out to be                ... pos = 0.0   	neg = 0.125
+25. While underground he                ... pos = 0.0   	neg = 0.0  
+26. He uses all of the a                ... pos = 0.0   	neg = 0.0  
+27. Together the two get                ... pos = 0.875 	neg = 0.0  
+28. Almost ever actor in                ... pos = 0.5   	neg = 0    
+29. Christopher Walken h                ... pos = 0.25  	neg = 0.875
+30. This movie changed i                ... pos = 0.125 	neg = 0.0  
+31. He is funny and is a                ... pos = 0.0   	neg = 0.25 
+32. Both Fraser and Silv                ... pos = 1.5   	neg = 0    
+33. I'm glad Silverstone                ... pos = 1.0   	neg = 0.25 
+34. Blast From the Past                 ... pos = 1.0   	neg = 0.125
+35. It has a good script                ... pos = 0.5   	neg = 0.0  
+36. Also I'd like to hig                ... pos = 0.625 	neg = 0.0  
+37. A nostalgic nightclu                ... pos = 0.375 	neg = 0.125
+38. It reminded me a lot                ... pos = 0.0   	neg = 0.0  
+39. Blast From the Past                 ... pos = 0.5   	neg = 0.125
+40. EVERYONE knows that                 ... pos = 0.625 	neg = 0.0  
+41. The ending 20 minute                ... pos = 0.25  	neg = 0.125
+42. It's basically just                 ... pos = 0.0   	neg = 0.625
+43. It really set me off                ... pos = 0.0   	neg = 0.625
+44. Of course the ending                ... pos = 1.5   	neg = 0.125
+45. The studio that made                ... pos = 0.875 	neg = 0.0  
+46. I hope they continue                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-533-827 is Positive          ... pos = 16.625 	neg = 6.625
+Overall score of document
+Total Pos = 16.625
+Total Neg = 6.625
+---------------------------------------------------------------------------

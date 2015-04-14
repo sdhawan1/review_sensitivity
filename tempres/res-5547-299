@@ -1,0 +1,24 @@
+0. The start of this mo                 ... pos = 0.0   	neg = 0.0  
+1. People  are looking                  ... pos = 0.25  	neg = 0.125
+2. After a sort of conf                 ... pos = 0.375 	neg = 0.5  
+3. The basic idea behin                 ... pos = 0.0   	neg = 0.875
+4. The things needed to                 ... pos = 0.875 	neg = 0.125
+5. The plot in this mov                 ... pos = 0.875 	neg = 0.0  
+6. This movie has very                  ... pos = 1.25  	neg = 0.25 
+7. The techno-ish  musi                 ... pos = 0.75  	neg = 0    
+8. Bruce Willis is an i                 ... pos = 0.375 	neg = 0.125
+9. One day a lady drape                 ... pos = 0.0   	neg = 0.0  
+10. This movie is about                 ... pos = 0     	neg = 0.125
+11. The plot twists are                 ... pos = 1.75  	neg = 0.125
+12. Also there is a fair                ... pos = 0.0   	neg = 0.125
+13. Some characters are                 ... pos = 1.5   	neg = 0.0  
+14. Bruce Willis does  h                ... pos = 0.0   	neg = 0.0  
+15. The movie is definit                ... pos = 0.25  	neg = 0.125
+16. It is one of those                  ... pos = 0.0   	neg = 0.75 
+17. I give The Fifth Ele                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5547-299 is Positive         ... pos = 8.25  	neg = 3.25 
+Overall score of document
+Total Pos = 8.25
+Total Neg = 3.25
+---------------------------------------------------------------------------

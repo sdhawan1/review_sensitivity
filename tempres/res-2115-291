@@ -1,0 +1,39 @@
+0. Directed by James L.                 ... pos = 0.0   	neg = 0    
+1. Written by Brooks an                 ... pos = 0.0   	neg = 0    
+2. Starring Jack Nichol                 ... pos = 0.125 	neg = 0.0  
+3. There were moments d                 ... pos = 0.75  	neg = 0.125
+4. Admittedly, the scri                 ... pos = 0.875 	neg = 0.125
+5. But the movie was lo                 ... pos = 1.125 	neg = 0.5  
+6. Melvin Udall (Jack N                 ... pos = 2.0   	neg = 0.375
+7. A crucial part of hi                 ... pos = 0.5   	neg = 0.125
+8. He brings his own pl                 ... pos = 0.0   	neg = 0.25 
+9. Carol has difficulti                 ... pos = 0.0   	neg = 0.5  
+10. She is a single moth                ... pos = 0.375 	neg = 0.25 
+11. "As Good As It Gets"                ... pos = 0.75  	neg = 0.0  
+12. Simon is gay, which                 ... pos = 0.125 	neg = 1.0  
+13. After walking in on                 ... pos = 0.125 	neg = 1.0  
+14. During his recuperat                ... pos = 0.625 	neg = 0.125
+15. Man and man's best f                ... pos = 0.625 	neg = 0.0  
+16. As he begins to reco                ... pos = 0.375 	neg = 0.0  
+17. Oh, yeah, Simon is a                ... pos = 0.0   	neg = 0.125
+18. Melvin is given the                 ... pos = 0.125 	neg = 0.25 
+19. She accepts, partly                 ... pos = 0.375 	neg = 0.125
+20. He is, after all, pa                ... pos = 0.5   	neg = 0.125
+21. (He says he is doing                ... pos = 0.0   	neg = 0.375
+22. ). The road trip pro                ... pos = 1.25  	neg = 0.0  
+23. There is one ending                 ... pos = 1.375 	neg = 0.625
+24. James L. Brooks, who                ... pos = 1.0   	neg = 0.25 
+25. The often-sparkling                 ... pos = 1.375 	neg = 0.125
+26. Nicholson is complet                ... pos = 0.25  	neg = 0.5  
+27. " If you thought she                ... pos = 0.75  	neg = 0.125
+28. Greg Kinnear, whom I                ... pos = 0.75  	neg = 0.0  
+29. The supporting playe                ... pos = 0.625 	neg = 0.0  
+30. "As Good As It Gets"                ... pos = 1.875 	neg = 0.25 
+31. Nicholson and Hunt's                ... pos = 1.875 	neg = 1.0  
+32. Review Courtesy of h                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2115-291 is Positive         ... pos = 21.375 	neg = 8.25 
+Overall score of document
+Total Pos = 21.375
+Total Neg = 8.25
+---------------------------------------------------------------------------

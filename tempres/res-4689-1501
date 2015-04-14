@@ -1,0 +1,18 @@
+0. Cast: Brad Pitt, Ant                 ... pos = 0.125 	neg = 0.75 
+1. " There are a couple                 ... pos = 0.5   	neg = 0.0  
+2. One, which is mentio                 ... pos = 0.125 	neg = 0.375
+3. With their 3 hours o                 ... pos = 0.5   	neg = 0.375
+4. I got to hear banal                  ... pos = 1.0   	neg = 0.625
+5. The other thing "Bla                 ... pos = 0.625 	neg = 1.125
+6. Maybe it was on the                  ... pos = 0.0   	neg = 0.125
+7. Maybe it was on the                  ... pos = 0.25  	neg = 0.125
+8. Don't interpret this                 ... pos = 0.0   	neg = 0.0  
+9. Anthony Hopkins give                 ... pos = 1.25  	neg = 0.0  
+10. '  However, the only                ... pos = 0.125 	neg = 0.125
+11. Avoid this and go se                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4689-1501 is Positive        ... pos = 4.625 	neg = 3.625
+Overall score of document
+Total Pos = 4.625
+Total Neg = 3.625
+---------------------------------------------------------------------------

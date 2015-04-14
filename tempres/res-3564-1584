@@ -1,0 +1,56 @@
+0. If there is a lesson                 ... pos = 1.0   	neg = 0.5  
+1. Not that Sphere ente                 ... pos = 0.0   	neg = 0.25 
+2. Add to this the fact                 ... pos = 0.0   	neg = 0.375
+3. I am happy to report                 ... pos = 0.75  	neg = 1.125
+4. (The horror , the ho                 ... pos = 1.5   	neg = 0.25 
+5. Please god , tell me                 ... pos = 1.0   	neg = 0.25 
+6. Why!                                 ... pos = 0     	neg = 0    
+7. WHY!                                 ... pos = 0     	neg = 0    
+8. Of course , i know t                 ... pos = 0.5   	neg = 1.25 
+9. Ok , fine.                           ... pos = 0.0   	neg = 0.0  
+10. But i get the feelin                ... pos = 0.0   	neg = 0.25 
+11. (Warning , minor spo                ... pos = 0.0   	neg = 0    
+12. But nothing you have                ... pos = 0     	neg = 0.25 
+13. ). A perfect example                ... pos = 0.125 	neg = 0.75 
+14. Well , at least it w                ... pos = 0.25  	neg = 0.125
+15. Kool.                               ... pos = 0     	neg = 0    
+16. Now , Hollywood know                ... pos = 0.0   	neg = 0.0  
+17. Hollywood as done gi                ... pos = 0.0   	neg = 0.0  
+18. So how come we do no                ... pos = 0.0   	neg = 0.0  
+19. All the elements are                ... pos = 0.75  	neg = 0.375
+20. A few years ago NBC                 ... pos = 0.0   	neg = 0.375
+21. If NBC can do a (sem                ... pos = 0.125 	neg = 0.0  
+22. Oh sure , we see it'                ... pos = 0.25  	neg = 0.25 
+23. No tentacles , no gr                ... pos = 0.5   	neg = 0.875
+24. Not one sucker.                     ... pos = 0.125 	neg = 0    
+25. Except for any poor                 ... pos = 0.625 	neg = 0.0  
+26. Later on , somebody                 ... pos = 0.25  	neg = 0.0  
+27. I'll leave my reacti                ... pos = 0.75  	neg = 0    
+28. In fact , the entire                ... pos = 0.25  	neg = 0.5  
+29. The Sphere itself is                ... pos = 0.0   	neg = 0.25 
+30. Yawn...been there ,                 ... pos = 0.0   	neg = 0.125
+31. The submarines and t                ... pos = 1.25  	neg = 0.25 
+32. Ditto the cast , whi                ... pos = 0.25  	neg = 0.875
+33. Dustin Hoffman makes                ... pos = 0.0   	neg = 0.0  
+34. Mind you , i'd be do                ... pos = 0.125 	neg = 0.125
+35. Sam de Man breezes t                ... pos = 0.25  	neg = 0.125
+36. Sharon Stone is a bi                ... pos = 0.125 	neg = 0.5  
+37. My reaction to their                ... pos = 0.625 	neg = 0.25 
+38. Person just died , p                ... pos = 0.0   	neg = 0.0  
+39. Giant squid attack (                ... pos = 0.0   	neg = 0.25 
+40. Yes i know that's no                ... pos = 0.0   	neg = 0.5  
+41. The camerawork is so                ... pos = 0.0   	neg = 0.5  
+42. This is supposed to                 ... pos = 0.25  	neg = 0.25 
+43. I have to suppose th                ... pos = 0.625 	neg = 0.25 
+44. And finally , the pa                ... pos = 0.0   	neg = 0.0  
+45. The movie keeps jump                ... pos = 0.375 	neg = 0.75 
+46. No sir , instead we                 ... pos = 0.0   	neg = 0.25 
+47. i'm there".                         ... pos = 0     	neg = 0    
+48. Rating: 1 and a half                ... pos = 0.25  	neg = 0.75 
+49. Warning: Exciting sc                ... pos = 0.25  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-3564-1584 is Negative        ... pos = 13.125 	neg = 14.25
+Overall score of document
+Total Pos = 13.125
+Total Neg = 14.25
+---------------------------------------------------------------------------

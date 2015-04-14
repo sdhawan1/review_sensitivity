@@ -1,0 +1,33 @@
+0. Cast: Robert Duvall,                 ... pos = 0.75  	neg = 0.75 
+1. What is surprising,                  ... pos = 1.25  	neg = 0.375
+2. Oh, and there's also                 ... pos = 0.0   	neg = 0.0  
+3. But the question is                  ... pos = 0.875 	neg = 0.75 
+4. The answer, sadly, i                 ... pos = 0     	neg = 1.0  
+5. But there are not ma                 ... pos = 0.25  	neg = 0.375
+6. Deep Impact is great                 ... pos = 0.0   	neg = 0.75 
+7. When reporter Jennie                 ... pos = 1.625 	neg = 0.5  
+8. Trouble is, she does                 ... pos = 0.0   	neg = 0.75 
+9. She does recognize t                 ... pos = 0.0   	neg = 0.0  
+10. In 48 hours, he addr                ... pos = 1.0   	neg = 0.125
+11. And that over the pr                ... pos = 0.0   	neg = 0.125
+12. The world "hopes for                ... pos = 0.75  	neg = 0.375
+13. As Deep Impact's pro                ... pos = 0.75  	neg = 0    
+14. ". The primary probl                ... pos = 1.75  	neg = 0.5  
+15. Her role as an arrog                ... pos = 1.375 	neg = 0.25 
+16. James Cromwell deliv                ... pos = 0.0   	neg = 0.125
+17. ". As far as a capab                ... pos = 0.625 	neg = 0.5  
+18. But they all tend to                ... pos = 2.0   	neg = 1.25 
+19. Although Morgan Free                ... pos = 1.5   	neg = 0.25 
+20. Certainly not in his                ... pos = 0.625 	neg = 0.75 
+21. In fact, it's been f                ... pos = 1.625 	neg = 0.75 
+22. Robert Duvall, grasp                ... pos = 0.5   	neg = 0.125
+23. One of his featured                 ... pos = 1.375 	neg = 0.125
+24. But even with Deep I                ... pos = 2.375 	neg = 0.25 
+25. The film comes nail                 ... pos = 0.375 	neg = 0.25 
+26. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1674-1111 is Positive        ... pos = 21.625 	neg = 11.0 
+Overall score of document
+Total Pos = 21.625
+Total Neg = 11.0
+---------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+0. American popular mus                 ... pos = 0.25  	neg = 0.0  
+1. The topics of romanc                 ... pos = 1.5   	neg = 0.625
+2. This film uses popul                 ... pos = 1.375 	neg = 0    
+3. The story begins as                  ... pos = 0.25  	neg = 0.0  
+4. Rob is the main char                 ... pos = 1.125 	neg = 0.125
+5. He recounts his most                 ... pos = 0.0   	neg = 0.5  
+6. Rob decides (aided b                 ... pos = 1.75  	neg = 1.5  
+7. The most enjoyable p                 ... pos = 0.5   	neg = 0.125
+8. It is an intelligent                 ... pos = 0.375 	neg = 0.25 
+9. In contrast to its s                 ... pos = 0.5   	neg = 0.0  
+10. The record store he                 ... pos = 2.5   	neg = 0    
+11. There is the neuroti                ... pos = 0.75  	neg = 0.125
+12. The elitist trio sne                ... pos = 0.0   	neg = 0.0  
+13. It is a construction                ... pos = 0.25  	neg = 0.125
+14. Barry in particular                 ... pos = 0.0   	neg = 0.125
+15. Although it is commo                ... pos = 1.125 	neg = 0.25 
+16. This film uses solil                ... pos = 0.25  	neg = 0.0  
+17. It is far too easy t                ... pos = 1.125 	neg = 1.0  
+18. Good craftsmanship c                ... pos = 1.0   	neg = 0.125
+19. It is surprising tha                ... pos = 0.125 	neg = 0.125
+20. The other major comp                ... pos = 0.25  	neg = 0.375
+21. The suddenness and f                ... pos = 0.0   	neg = 0.0  
+22. The weaknesses of th                ... pos = 0.75  	neg = 0.0  
+23. Recommended.                        ... pos = 0.0   	neg = 0    
+24. The film attempts to                ... pos = 1.0   	neg = 0.125
+25. It also uses charact                ... pos = 1.375 	neg = 0.625
+26. The film has definit                ... pos = 1.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2963-707 is Positive         ... pos = 19.625 	neg = 6.25 
+Overall score of document
+Total Pos = 19.625
+Total Neg = 6.25
+---------------------------------------------------------------------------

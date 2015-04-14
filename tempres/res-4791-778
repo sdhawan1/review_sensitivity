@@ -1,0 +1,51 @@
+0. Reviewed by Lars Lin                 ... pos = 0.125 	neg = 0.0  
+1. I'm 16 years old.                    ... pos = 0.0   	neg = 0    
+2. Road Trip was made f                 ... pos = 0.5   	neg = 0.125
+3. If you're not a teen                 ... pos = 0.0   	neg = 0.0  
+4. There is a reason to                 ... pos = 0.0   	neg = 0.375
+5. Now on to the review                 ... pos = 0.0   	neg = 0.0  
+6. In my mind, raunchy                  ... pos = 1.25  	neg = 0.625
+7. One of the few movie                 ... pos = 0.0   	neg = 1.125
+8. After enjoying the e                 ... pos = 0.5   	neg = 1.5  
+9. However, in the last                 ... pos = 0.625 	neg = 1.0  
+10. First in 1998, the F                ... pos = 0.25  	neg = 0.25 
+11. In 1999, the Weitz B                ... pos = 0.0   	neg = 0.125
+12. Once again, the offe                ... pos = 0.0   	neg = 1.0  
+13. Finally with Road Tr                ... pos = 0.375 	neg = 0.0  
+14. Road Trip seems like                ... pos = 0.5   	neg = 1.125
+15. Twenty years ago, it                ... pos = 0.5   	neg = 0.125
+16. I like to think of R                ... pos = 0.0   	neg = 1.0  
+17. At times, Road Trip                 ... pos = 1.0   	neg = 0.0  
+18. To show how Road Tri                ... pos = 1.0   	neg = 0.875
+19. Well in Road Trip, t                ... pos = 1.125 	neg = 0.25 
+20. Would this have happ                ... pos = 0.0   	neg = 0.0  
+21. Probably not.                       ... pos = 0.0   	neg = 0    
+22. The story of Road Tr                ... pos = 0.0   	neg = 0.25 
+23. It merely serves as                 ... pos = 0.375 	neg = 0.75 
+24. All you really need                 ... pos = 0.375 	neg = 0.625
+25. To prevent a disaste                ... pos = 1.375 	neg = 0.5  
+26. A hilarious suppleme                ... pos = 1.125 	neg = 0.125
+27. Much like the John B                ... pos = 1.75  	neg = 0.375
+28. Doing gags very simi                ... pos = 1.5   	neg = 0.375
+29. Unfortunately, at ti                ... pos = 1.375 	neg = 1.0  
+30. Other members of the                ... pos = 2.375 	neg = 1.375
+31. Seann William Scott                 ... pos = 0.0   	neg = 0.125
+32. Almost identical to                 ... pos = 1.125 	neg = 1.0  
+33. It's hard not to wat                ... pos = 0.5   	neg = 0.75 
+34. DJ Qualls is also gr                ... pos = 0.0   	neg = 0.25 
+35. He's puny, gets push                ... pos = 0.0   	neg = 1.0  
+36. He's like Jason Bigg                ... pos = 0.125 	neg = 0.0  
+37. Unfortunately, the e                ... pos = 0.5   	neg = 1.25 
+38. A weak, empty finish                ... pos = 0.5   	neg = 0.875
+39. Predictable and bori                ... pos = 0.25  	neg = 0.375
+40. Otherwise, you'll ha                ... pos = 0.125 	neg = 0.0  
+41. Let your brain take                 ... pos = 0.375 	neg = 0.375
+42. This is the kind of                 ... pos = 0.25  	neg = 0.875
+43. That's it.                          ... pos = 0.0   	neg = 0    
+44. Enjoy it - then move                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4791-778 is Positive         ... pos = 22.125 	neg = 21.75
+Overall score of document
+Total Pos = 22.125
+Total Neg = 21.75
+---------------------------------------------------------------------------

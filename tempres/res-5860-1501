@@ -1,0 +1,39 @@
+0. Cast: Winona Ryder,                  ... pos = 0.125 	neg = 0.5  
+1. "  "Girl, Interrupte                 ... pos = 0.875 	neg = 0.125
+2. Also along for the r                 ... pos = 0.25  	neg = 0.5  
+3. Thrown in for ethnic                 ... pos = 0.0   	neg = 0.125
+4. So get some Kleenex                  ... pos = 0.125 	neg = 0.0  
+5. The year is 1967; Su                 ... pos = 0.125 	neg = 0.25 
+6. She's the only senio                 ... pos = 0.0   	neg = 0.0  
+7. She attempts suicide                 ... pos = 0.0   	neg = 0.875
+8. Claymoore's a Boston                 ... pos = 0.0   	neg = 0.0  
+9. There's Georgina (Du                 ... pos = 0.0   	neg = 0.0  
+10. It's the job of Vale                ... pos = 0.0   	neg = 0.0  
+11. "Girl, Interrupted"                 ... pos = 0.75  	neg = 0.0  
+12. Don't think for a se                ... pos = 0.0   	neg = 0.0  
+13. She seems almost mon                ... pos = 1.75  	neg = 0.625
+14. Since Jolie won a Go                ... pos = 0.375 	neg = 0.125
+15. Goldberg gives an a-                ... pos = 0.125 	neg = 0.0  
+16. Jared Leto struts ar                ... pos = 0.0   	neg = 1.125
+17. Jeffrey Tambor deliv                ... pos = 0.0   	neg = 0.0  
+18. And Vanessa Redgrave                ... pos = 0.0   	neg = 1.153
+19. Winona Ryder has bee                ... pos = 0.0   	neg = 0.625
+20. And now that she fin                ... pos = 0.5   	neg = 0.0  
+21. James Mangold does a                ... pos = 0.75  	neg = 0.0  
+22. "  He takes an atten                ... pos = 0.375 	neg = 0.0  
+23. Often it works.                     ... pos = 0.0   	neg = 0    
+24. Often it doesn't.                   ... pos = 0.0   	neg = 0    
+25. Dig the groovy tunes                ... pos = 2.25  	neg = 0.0  
+26. Dread the all-too-pr                ... pos = 0.125 	neg = 0.5  
+27. Crazy people are peo                ... pos = 0.25  	neg = 0.625
+28. Don't judge a book b                ... pos = 0.0   	neg = 0    
+29. It doesn't matter ho                ... pos = 0.0   	neg = 0.375
+30. Most of you know the                ... pos = 0.0   	neg = 0.5  
+31. Therefore, the only                 ... pos = 0.0   	neg = 0.125
+32. If that doesn't inte                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5860-1501 is Positive        ... pos = 8.75  	neg = 8.528
+Overall score of document
+Total Pos = 8.75
+Total Neg = 8.528
+---------------------------------------------------------------------------

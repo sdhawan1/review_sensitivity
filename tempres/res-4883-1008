@@ -1,0 +1,46 @@
+0. **1/2 (out of 4) Whe                 ... pos = 0.25  	neg = 0.25 
+1. People either loved                  ... pos = 0.875 	neg = 0.25 
+2. With the latest inst                 ... pos = 0.0   	neg = 0.25 
+3. BATMAN & ROBIN is mo                 ... pos = 1.25  	neg = 2.25 
+4. On the one hand, the                 ... pos = 0.25  	neg = 0.875
+5. On the other hand, n                 ... pos = 0.0   	neg = 0.25 
+6. In the first "action                 ... pos = 0.125 	neg = 0.625
+7. This first sequence                  ... pos = 0.625 	neg = 1.375
+8. But those first impr                 ... pos = 0.375 	neg = 0.75 
+9. This time around bat                 ... pos = 0.0   	neg = 0.0  
+10. Freeze (Arnold Schwa                ... pos = 0.625 	neg = 1.0  
+11. Freeze is a villain,                ... pos = 0.25  	neg = 2.125
+12. Considering Schwarze                ... pos = 1.75  	neg = 0.0  
+13. I also wonder if his                ... pos = 0.125 	neg = 0.75 
+14. There are some plot                 ... pos = 1.25  	neg = 0.0  
+15. Actually, the "famil                ... pos = 0.875 	neg = 0.125
+16. BATMAN & ROBIN deals                ... pos = 0.75  	neg = 0.0  
+17. Don't get me wrong.                 ... pos = 0     	neg = 0.75 
+18. Most of the movie is                ... pos = 0.0   	neg = 0.5  
+19. But still, it was ni                ... pos = 0.25  	neg = 0.125
+20. And while the Michae                ... pos = 0.0   	neg = 1.0  
+21. (Goes to show how mi                ... pos = 0.0   	neg = 0.125
+22. ) . It's hard to eva                ... pos = 1.625 	neg = 0.875
+23. I had very low expec                ... pos = 0.5   	neg = 0.125
+24. He wasn't as bad as                 ... pos = 1.375 	neg = 1.125
+25. Clooney gave the bes                ... pos = 0.625 	neg = 0.0  
+26. Michael Keaton made                 ... pos = 0.75  	neg = 0.125
+27. But Clooney makes a                 ... pos = 0.625 	neg = 0.0  
+28. (Val Kilmer was prac                ... pos = 0.0   	neg = 0.75 
+29. ) Chris O'Donnell's                 ... pos = 0.625 	neg = 0.75 
+30. But as I mentioned,                 ... pos = 0.25  	neg = 0.25 
+31. Gotham's architectur                ... pos = 1.125 	neg = 0.625
+32. There are significan                ... pos = 0.5   	neg = 0.0  
+33. But if you've seen t                ... pos = 0.0   	neg = 0.0  
+34. If you liked the las                ... pos = 0.875 	neg = 0.0  
+35. By the way, dependin                ... pos = 0.5   	neg = 0.125
+36. The second song that                ... pos = 0.625 	neg = 0.25 
+37. ) - is really awful.                ... pos = 0     	neg = 1.0  
+38. It's so bad that it'                ... pos = 0.0   	neg = 1.5  
+39. (c) 1997 Marty Mapes                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4883-1008 is Negative        ... pos = 19.625 	neg = 20.875
+Overall score of document
+Total Pos = 19.625
+Total Neg = 20.875
+---------------------------------------------------------------------------

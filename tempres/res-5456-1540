@@ -1,0 +1,41 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Corey Man                 ... pos = 0.0   	neg = 0.0  
+2. Shapiro; based on th                 ... pos = 0.0   	neg = 0.0  
+3. Photographed by Gile                 ... pos = 0.0   	neg = 0.0  
+4. I sometimes get angr                 ... pos = 1.375 	neg = 0.875
+5. After a while they f                 ... pos = 0.25  	neg = 0.0  
+6. It takes a movie lik                 ... pos = 0.125 	neg = 1.125
+7. Watching those  grai                 ... pos = 0.0   	neg = 1.375
+8. Now I  know.                         ... pos = 0.0   	neg = 0.0  
+9. "Battlefield Earth"                  ... pos = 0.125 	neg = 0.25 
+10. The story takes plac                ... pos = 0.0   	neg = 0    
+11. An alien race,  the                 ... pos = 0.125 	neg = 0.25 
+12. The few  humans who                 ... pos = 0.375 	neg = 0.125
+13. The hero of the movi                ... pos = 0.5   	neg = 0.75 
+14. When  his plan gets                 ... pos = 0.0   	neg = 0.0  
+15. They try to stop him                ... pos = 0.5   	neg = 0.0  
+16. Humans grumble, alie                ... pos = 0.0   	neg = 1.25 
+17. Throughout everythin                ... pos = 0.0   	neg = 0.25 
+18. At the  start of the                ... pos = 0.5   	neg = 0.375
+19. Next thing you know,                ... pos = 0.125 	neg = 0.25 
+20. Eh?                                 ... pos = 0     	neg = 0    
+21. How about the fact t                ... pos = 0.5   	neg = 0.875
+22. Why doesn't Terl hav                ... pos = 0.0   	neg = 0.0  
+23. Why does Terl want t                ... pos = 0.125 	neg = 0.5  
+24. Why does Johnny seiz                ... pos = 0.0   	neg = 0.0  
+25. The production value                ... pos = 0.25  	neg = 0.5  
+26. Travolta and Whitake                ... pos = 0.0   	neg = 0.75 
+27. And everything is se                ... pos = 0.5   	neg = 0.5  
+28. Although special  ef                ... pos = 1.625 	neg = 1.625
+29. The movie is so outr                ... pos = 0.125 	neg = 1.875
+30. It fails on so many                 ... pos = 0.375 	neg = 0.5  
+31. Remember all that "W                ... pos = 0.125 	neg = 0.0  
+32. " merchandise?                      ... pos = 0     	neg = 0.0  
+33. Maybe one day they'l                ... pos = 0.0   	neg = 0.625
+34. ". COPYRIGHT(c) 2000                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5456-1540 is Negative        ... pos = 7.875 	neg = 14.625
+Overall score of document
+Total Pos = 7.875
+Total Neg = 14.625
+---------------------------------------------------------------------------

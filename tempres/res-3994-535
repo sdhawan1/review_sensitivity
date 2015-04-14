@@ -1,0 +1,50 @@
+0. Directed by: Mike Ni                 ... pos = 0.125 	neg = 0.0  
+1. This is the main ide                 ... pos = 0.25  	neg = 0.125
+2. ", the new comedy fr                 ... pos = 0.375 	neg = 0.0  
+3. Garry Shandling ("Th                 ... pos = 0.25  	neg = 0.0  
+4. The truth is, I went                 ... pos = 0.5   	neg = 0.125
+5. I've never cared for                 ... pos = 0.375 	neg = 0.375
+6. Much to my surprise,                 ... pos = 0.375 	neg = 0.0  
+7. " turned out to be q                 ... pos = 0.625 	neg = 0.125
+8. This is mainly becau                 ... pos = 1.125 	neg = 0.25 
+9. On a planet way the                  ... pos = 0.0   	neg = 0.875
+10. Harold Anderson (Gar                ... pos = 0.0   	neg = 0.125
+11. His planet's leader                 ... pos = 0.75  	neg = 0.0  
+12. However, upon his ar                ... pos = 0.375 	neg = 0.0  
+13. He immediately seeks                ... pos = 0.125 	neg = 0.125
+14. Anderson is faced wi                ... pos = 0.875 	neg = 0.5  
+15. I think the funniest                ... pos = 0.75  	neg = 0.0  
+16. " is that he reacts                 ... pos = 0.0   	neg = 0.125
+17. For example, in one                 ... pos = 0.5   	neg = 0.125
+18. She hurls the remote                ... pos = 0.0   	neg = 0.25 
+19. Harold immediately d                ... pos = 0.75  	neg = 0.0  
+20. She then shouts "Fin                ... pos = 0     	neg = 0.5  
+21. " Harold promptly no                ... pos = 0.0   	neg = 0.0  
+22. Annette Bening is pe                ... pos = 1.0   	neg = 0.5  
+23. She also manages to                 ... pos = 0.5   	neg = 0.125
+24. The supporting cast                 ... pos = 0.75  	neg = 0.125
+25. Greg Kinnear ("Myste                ... pos = 0.875 	neg = 0.875
+26. Ben Kingsley ("Speci                ... pos = 0.125 	neg = 0.25 
+27. John Goodman ("The B                ... pos = 1.25  	neg = 0.25 
+28. One of the biggest p                ... pos = 1.375 	neg = 1.125
+29. Linda Fiorentino ("D                ... pos = 0.0   	neg = 0.5  
+30. The film may not mak                ... pos = 0.5   	neg = 0.0  
+31. While "What Planet a                ... pos = 0.25  	neg = 0.0  
+32. " manages to keep th                ... pos = 0.625 	neg = 0.25 
+33. If it had been trimm                ... pos = 0.0   	neg = 0.125
+34. One last thing I mus                ... pos = 0.375 	neg = 0.125
+35. For a very funny scr                ... pos = 2.0   	neg = 0.0  
+36. " three and a half o                ... pos = 0.0   	neg = 0.0  
+37. Comments?                           ... pos = 0     	neg = 0.0  
+38. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+39. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+40. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+41. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+42. * - One of the worst                ... pos = 0.0   	neg = 0.375
+43. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3994-535 is Positive         ... pos = 19.125 	neg = 9.875
+Overall score of document
+Total Pos = 19.125
+Total Neg = 9.875
+---------------------------------------------------------------------------

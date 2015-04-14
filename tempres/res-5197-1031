@@ -1,0 +1,30 @@
+0. Miramax / 2:06 / 199                 ... pos = 0.5   	neg = 0.625
+1. A December 25th rele                 ... pos = 1.25  	neg = 0.75 
+2. Good's icky title re                 ... pos = 1.0   	neg = 0.75 
+3. Will's secretly much                 ... pos = 0.25  	neg = 0.5  
+4. Initially, Will and                  ... pos = 0.5   	neg = 1.25 
+5. Lambeau has a couple                 ... pos = 0.5   	neg = 0.0  
+6. After several unsucc                 ... pos = 0.875 	neg = 0.625
+7. Will's time is then                  ... pos = 1.25  	neg = 0.125
+8. There's also time fo                 ... pos = 1.625 	neg = 0.25 
+9. Van Sant, who last d                 ... pos = 0.375 	neg = 0.0  
+10. The movie bears  non                ... pos = 0.25  	neg = 0.0  
+11. The screenplay, co-w                ... pos = 1.0   	neg = 0.25 
+12. At best, "Good Will                 ... pos = 1.125 	neg = 0.125
+13. If the heart of "Goo                ... pos = 0.5   	neg = 0.125
+14. Their first few  ses                ... pos = 0.5   	neg = 0.5  
+15. Far better is the sc                ... pos = 0.25  	neg = 0.125
+16. There might be a bet                ... pos = 0.0   	neg = 1.125
+17. Damon and Affleck ar                ... pos = 2.125 	neg = 0.125
+18. Driver, as she did i                ... pos = 0.0   	neg = 0.25 
+19. Because "Good Will H                ... pos = 0.125 	neg = 0.125
+20. There's an abundance                ... pos = 3.0   	neg = 0.125
+21. It's just that there                ... pos = 0.375 	neg = 0.25 
+22. When "Good Will Hunt                ... pos = 0.625 	neg = 0.75 
+23. Š 1997 Jamie Peck                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5197-1031 is Positive        ... pos = 18.0  	neg = 8.75 
+Overall score of document
+Total Pos = 18.0
+Total Neg = 8.75
+---------------------------------------------------------------------------

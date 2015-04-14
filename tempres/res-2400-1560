@@ -1,0 +1,26 @@
+0. A Simple Plan is a d                 ... pos = 0.625 	neg = 0.125
+1. While the common dim                 ... pos = 0.75  	neg = 0.125
+2. Most movies of it's                  ... pos = 1.25  	neg = 1.375
+3. After years and year                 ... pos = 1.125 	neg = 0.375
+4. Based on Scott Smith                 ... pos = 0.75  	neg = 0.125
+5. Instead of rushing t                 ... pos = 0.0   	neg = 1.0  
+6. Even if the film as                  ... pos = 0.0   	neg = 0.5  
+7. But that's not to sa                 ... pos = 0.0   	neg = 0.0  
+8. If the screenplay do                 ... pos = 0.625 	neg = 0.75 
+9. Deducing that it's m                 ... pos = 0.0   	neg = 0.0  
+10. After all, if someon                ... pos = 0.375 	neg = 0.0  
+11. Figuring this to be                 ... pos = 0.0   	neg = 0.375
+12. But before they know                ... pos = 0.5   	neg = 0.0  
+13. The acting is also t                ... pos = 0.0   	neg = 0.125
+14. As the conspiring br                ... pos = 1.0   	neg = 0.0  
+15. Both are fine pieces                ... pos = 0.25  	neg = 0.125
+16. However, as accompli                ... pos = 0.375 	neg = 0.125
+17. Famous for his rock'                ... pos = 0.375 	neg = 0.875
+18. I'm just as big a fa                ... pos = 1.0   	neg = 1.0  
+19. *Homepage at http://                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2400-1560 is Positive        ... pos = 9.0   	neg = 7.0  
+Overall score of document
+Total Pos = 9.0
+Total Neg = 7.0
+---------------------------------------------------------------------------

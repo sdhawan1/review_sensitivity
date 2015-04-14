@@ -1,0 +1,40 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Paul Thom                 ... pos = 0.0   	neg = 0.0  
+2. Photographed by Robe                 ... pos = 0.0   	neg = 0.0  
+3. "They f--k you up, y                 ... pos = 0.0   	neg = 0.0  
+4. They may not mean to                 ... pos = 0.0   	neg = 0.0  
+5. They  fill you with                  ... pos = 0.25  	neg = 0.125
+6. " --Philip Larkin, "                 ... pos = 0.125 	neg = 0.5  
+7. " --Exodus, Chapter                  ... pos = 0.5   	neg = 0.0  
+8. In most scenes it is                 ... pos = 0.0   	neg = 0.125
+9. By the end of the mo                 ... pos = 0.125 	neg = 0.0  
+10. Because the film is                 ... pos = 1.625 	neg = 1.0  
+11. But  the work, by "B                ... pos = 0.0   	neg = 0.875
+12. Jason Robards and Ph                ... pos = 1.25  	neg = 0.875
+13. Robards's son is Fra                ... pos = 0.5   	neg = 0.5  
+14. Hall's daughter, pla                ... pos = 1.125 	neg = 0.125
+15. She uses  cocaine an                ... pos = 0.0   	neg = 0.25 
+16. Robards produces and                ... pos = 0.0   	neg = 0.0  
+17. " One former star co                ... pos = 0.375 	neg = 0.75 
+18. A current one, Stanl                ... pos = 0.0   	neg = 0.375
+19. Around these charact                ... pos = 2.25  	neg = 0.125
+20. John C. Reilly's wid                ... pos = 0.75  	neg = 0.375
+21. Philip Seymour Hoffm                ... pos = 0.375 	neg = 0.0  
+22. Julianne Moore  is l                ... pos = 1.375 	neg = 0.75 
+23. Like  the film's con                ... pos = 0.125 	neg = 0.125
+24. Somehow hope and red                ... pos = 0.5   	neg = 0.25 
+25. His camera spins and                ... pos = 0.25  	neg = 0.0  
+26. In one shot a pack o                ... pos = 0.0   	neg = 0.5  
+27. Cut to a pharmacy wh                ... pos = 0.25  	neg = 0.0  
+28. Bizet's "Carmen" is                 ... pos = 0.875 	neg = 0.25 
+29. Many contemporary fi                ... pos = 0.75  	neg = 0    
+30. "Magnolia" is better                ... pos = 0.875 	neg = 0.375
+31. At times, it creates                ... pos = 1.5   	neg = 0.125
+32. But I don't go to th                ... pos = 0.0   	neg = 0.25 
+33. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4191-1540 is Positive        ... pos = 16.0  	neg = 8.75 
+Overall score of document
+Total Pos = 16.0
+Total Neg = 8.75
+---------------------------------------------------------------------------

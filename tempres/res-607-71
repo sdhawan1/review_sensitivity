@@ -1,0 +1,78 @@
+0. Yes, John Irving has                 ... pos = 0.0   	neg = 0.375
+1. There are a lot of D                 ... pos = 0.25  	neg = 0.0  
+2. Dr.  Wilbur Larch (M                 ... pos = 0.0   	neg = 0.0  
+3. Homer also reads SKE                 ... pos = 0.0   	neg = 0.0  
+4. Of course there's su                 ... pos = 0.375 	neg = 0.5  
+5. Somehow THE CIDER HO                 ... pos = 0.25  	neg = 0.25 
+6. The time, early 1940                 ... pos = 0.0   	neg = 0.0  
+7. Larch is a doctor wh                 ... pos = 0.0   	neg = 0.375
+8. It's an orphanage, m                 ... pos = 1.0   	neg = 0.0  
+9. Larch is the only do                 ... pos = 0.0   	neg = 0.125
+10. In a series of expos                ... pos = 0.125 	neg = 0.125
+11. Cloud's in hopes of                 ... pos = 0.375 	neg = 0    
+12. Actually,  director                 ... pos = 0.75  	neg = 0.0  
+13. The children sleep i                ... pos = 0.0   	neg = 0.0  
+14. Upon  lights out, Dr                ... pos = 1.0   	neg = 0.125
+15. "  Weekly they view                 ... pos = 0.125 	neg = 0.0  
+16. Between the hard lab                ... pos = 0.75  	neg = 1.0  
+17. Up the dirt road one                ... pos = 0.0   	neg = 0.125
+18. Wally is in the Army                ... pos = 0.0   	neg = 0.25 
+19. The glimpses Homer c                ... pos = 0.0   	neg = 0.0  
+20. It doesn't seem to m                ... pos = 0.25  	neg = 0.0  
+21. Wally and Candy take                ... pos = 0.0   	neg = 0.125
+22. For a while Homer re                ... pos = 0.0   	neg = 0.0  
+23. Cloud's, beckoning h                ... pos = 0.125 	neg = 0    
+24. But Homer stays, and                ... pos = 0.625 	neg = 0.25 
+25. When it's not apple                 ... pos = 0.0   	neg = 0.0  
+26. Between his shifts,                 ... pos = 0.0   	neg = 0.125
+27. Life is good.                       ... pos = 0.75  	neg = 0.125
+28. A small caution: wha                ... pos = 0.5   	neg = 0.25 
+29. The problems occur a                ... pos = 0.0   	neg = 0.0  
+30. One of them concerns                ... pos = 1.125 	neg = 0.375
+31. Mr. Rose is the crew                ... pos = 2.625 	neg = 0.125
+32. That is, until Homer                ... pos = 0.625 	neg = 0.125
+33. Irving infuses his s                ... pos = 0.625 	neg = 0.0  
+34. Cloud's only to die                 ... pos = 0.0   	neg = 0.0  
+35. He also derides Home                ... pos = 1.0   	neg = 0.375
+36. My question, why doe                ... pos = 0.0   	neg = 0.0  
+37. Why don't we see  wo                ... pos = 0.5   	neg = 0.0  
+38. What the  filmmaker                 ... pos = 0.875 	neg = 0.25 
+39. What's  worse is the                ... pos = 0.0   	neg = 0.875
+40. Will Paul return fro                ... pos = 0.125 	neg = 0.0  
+41. Will Homer return to                ... pos = 0.125 	neg = 0    
+42. Cloud's, to his  fat                ... pos = 0.0   	neg = 0    
+43. These  questions I w                ... pos = 0.125 	neg = 0.0  
+44. Another question: is                ... pos = 0.0   	neg = 0.25 
+45. The  short story wri                ... pos = 0.0   	neg = 0.0  
+46. Then he would listen                ... pos = 0.625 	neg = 0.875
+47. What Irving has  her                ... pos = 0.75  	neg = 0.125
+48. Like much of the fil                ... pos = 0.625 	neg = 0.0  
+49. The film is beautifu                ... pos = 0.375 	neg = 0.125
+50. Maine looks stunning                ... pos = 0.0   	neg = 0.625
+51. The long  shots of l                ... pos = 0.125 	neg = 0.375
+52. And the many antique                ... pos = 0.625 	neg = 0.375
+53. Especially intriguin                ... pos = 0.75  	neg = 0.25 
+54. We are further treat                ... pos = 0.875 	neg = 0    
+55. Michael Caine, an Ac                ... pos = 1.375 	neg = 0.0  
+56. His style is quite n                ... pos = 0.0   	neg = 0.25 
+57. Why didn't Hallstrom                ... pos = 1.375 	neg = 0.0  
+58. Tobey Maguire is the                ... pos = 0.375 	neg = 0.25 
+59. As he believes he ha                ... pos = 0.875 	neg = 0.25 
+60. Maguire plays cool m                ... pos = 1.25  	neg = 0.375
+61. Quite  effective.                   ... pos = 0.25  	neg = 0    
+62. He is most life-like                ... pos = 0.833 	neg = 0.125
+63. He is least  life-li                ... pos = 0.0   	neg = 0.125
+64. Charlize Theron is b                ... pos = 0.625 	neg = 0.125
+65. She is sweetly conce                ... pos = 1.0   	neg = 0.125
+66. Her  boyfriend, play                ... pos = 1.0   	neg = 0.5  
+67. THE CIDER HOUSE RULE                ... pos = 0.375 	neg = 0.0  
+68. Why shouldn't it win                ... pos = 0.125 	neg = 0.0  
+69. Not because the Acad                ... pos = 0.75  	neg = 0.75 
+70. The events we watch                 ... pos = 1.125 	neg = 0.0  
+71. But this is not Dick                ... pos = 0.625 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-607-71 is Positive           ... pos = 31.708 	neg = 12.625
+Overall score of document
+Total Pos = 31.708
+Total Neg = 12.625
+---------------------------------------------------------------------------

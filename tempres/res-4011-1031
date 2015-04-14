@@ -1,0 +1,36 @@
+0. Columbia / 1:40 / 19                 ... pos = 1.125 	neg = 0.25 
+1. It's an ironic conne                 ... pos = 0.875 	neg = 0    
+2. But while "Summer" b                 ... pos = 0.625 	neg = 0.0  
+3. The movie tells the                  ... pos = 1.875 	neg = 0.0  
+4. The summer before th                 ... pos = 0.625 	neg = 0.625
+5. Barry becomes too in                 ... pos = 0.875 	neg = 0.25 
+6. But along the way, B                 ... pos = 0.25  	neg = 0.375
+7. Their semi-reluctant                 ... pos = 0.875 	neg = 0.75 
+8. Fast forward a year                  ... pos = 0.375 	neg = 0.0  
+9. As if 12 months of g                 ... pos = 0.25  	neg = 0.625
+10. Is it the creepy cla                ... pos = 0.0   	neg = 0.625
+11. The victim's backwoo                ... pos = 1.25  	neg = 0    
+12. One of the four over                ... pos = 0.0   	neg = 0    
+13. Or someone different                ... pos = 0.625 	neg = 0.0  
+14. "I Know What You Did                ... pos = 1.0   	neg = 0.375
+15. After doing so well                 ... pos = 0.5   	neg = 1.25 
+16. " The actual identit                ... pos = 1.25  	neg = 1.25 
+17. ") like he's Bruce W                ... pos = 0.0   	neg = 0.0  
+18. And the movie's conc                ... pos = 0.125 	neg = 0.25 
+19. It's a sad send-off,                ... pos = 0.125 	neg = 0.75 
+20. Williamson's strong                 ... pos = 0.5   	neg = 0.125
+21. The four leads have                 ... pos = 0.25  	neg = 0.0  
+22. Hewitt, who is proba                ... pos = 0.875 	neg = 0.625
+23. All of them holler w                ... pos = 0.0   	neg = 0.0  
+24. Williamson is also i                ... pos = 0.375 	neg = 0.5  
+25. The movie looks beau                ... pos = 0.625 	neg = 0.625
+26. I don't know if horr                ... pos = 0.75  	neg = 0.125
+27. Then again, all of t                ... pos = 0.25  	neg = 0.0  
+28. "I Know What You Did                ... pos = 0.25  	neg = 0.875
+29. Š 1997 Jamie Peck                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4011-1031 is Positive        ... pos = 16.5  	neg = 10.25
+Overall score of document
+Total Pos = 16.5
+Total Neg = 10.25
+---------------------------------------------------------------------------

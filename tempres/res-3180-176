@@ -1,0 +1,47 @@
+0. Starring Johnny Depp                 ... pos = 0.0   	neg = 0.25 
+1. Dropping acid is lik                 ... pos = 0.75  	neg = 1.75 
+2. Then  there's the ha                 ... pos = 0.125 	neg = 1.0  
+3. Mushrooms, on the ot                 ... pos = 0.25  	neg = 0.0  
+4. Acid is for daredevi                 ... pos = 0.75  	neg = 0.375
+5. My point is that in                  ... pos = 0.375 	neg = 1.125
+6. Full of shocking sig                 ... pos = 1.125 	neg = 0.25 
+7. But for those of  us                 ... pos = 0.375 	neg = 0.125
+8. FEAR AND LOATHING te                 ... pos = 1.75  	neg = 0.875
+9. Operating under  the                 ... pos = 0.0   	neg = 0.375
+10. They terrorize every                ... pos = 0.0   	neg = 0.25 
+11. Duke hallucinates gi                ... pos = 0.5   	neg = 0.125
+12. Dr. Gonzo becomes en                ... pos = 1.125 	neg = 0.125
+13. And these guys  don'                ... pos = 0.0   	neg = 0.75 
+14. That neither of them                ... pos = 0.125 	neg = 0.5  
+15. Thompson's book, bes                ... pos = 1.375 	neg = 0.0  
+16. It simultaneously ex                ... pos = 0.5   	neg = 0.125
+17. Pontificate all you                 ... pos = 0.875 	neg = 0.5  
+18. It's a Cheech and Ch                ... pos = 0.0   	neg = 0.0  
+19. You're there to watc                ... pos = 0.125 	neg = 0.0  
+20. There's nothing wron                ... pos = 0.0   	neg = 2.5  
+21. This is a frantic mo                ... pos = 0.25  	neg = 0.125
+22. There are times when                ... pos = 0.875 	neg = 0.25 
+23. But to what end?                    ... pos = 0     	neg = 0.0  
+24. Much of the dialogue                ... pos = 0.625 	neg = 0.0  
+25. But  you're hard pre                ... pos = 0.0   	neg = 0.75 
+26. This brings us to th                ... pos = 0.0   	neg = 0.75 
+27. Depp plays Thompson                 ... pos = 0.0   	neg = 0.0  
+28. In between his sever                ... pos = 0.0   	neg = 0.375
+29. Watching these two m                ... pos = 0.0   	neg = 0.625
+30. It's interesting to                 ... pos = 0.125 	neg = 0.125
+31. As  much of a fan as                ... pos = 0.125 	neg = 0.25 
+32. SID AND NANCY, Cox's                ... pos = 2.0   	neg = 0.125
+33. Gilliam  commits the                ... pos = 0.5   	neg = 0.25 
+34. What kind of movie w                ... pos = 0.0   	neg = 0.625
+35. It doesn't try to be                ... pos = 0.333 	neg = 0.125
+36. If he had considered                ... pos = 0.25  	neg = 0.125
+37. But I don't want  to                ... pos = 0.0   	neg = 1.25 
+38. There are some truly                ... pos = 1.625 	neg = 0.5  
+39. I do,  however, reco                ... pos = 0.875 	neg = 0.375
+40. Please visit the Fil                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3180-176 is Positive         ... pos = 17.958 	neg = 17.625
+Overall score of document
+Total Pos = 17.958
+Total Neg = 17.625
+---------------------------------------------------------------------------

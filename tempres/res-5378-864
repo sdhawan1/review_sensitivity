@@ -1,0 +1,52 @@
+0. Meg Ryan is Kathleen                 ... pos = 0.5   	neg = 0.125
+1. It is a business tha                 ... pos = 0.0   	neg = 0.375
+2. Kathleen is a sweet,                 ... pos = 0.625 	neg = 0.125
+3. One of her favorite                  ... pos = 0.0   	neg = 0.125
+4. Her screen name is S                 ... pos = 0.0   	neg = 0.125
+5. She chats with someo                 ... pos = 1.25  	neg = 0.0  
+6. They don't go into s                 ... pos = 0.125 	neg = 0.0  
+7. But now, The Shop Ar                 ... pos = 0.0   	neg = 0.375
+8. A store called Fox B                 ... pos = 0.0   	neg = 0.0  
+9. It is owned by Joe F                 ... pos = 0.0   	neg = 0.125
+10. (Tom Hanks) This sto                ... pos = 0.0   	neg = 0.25 
+11. Their goal is to put                ... pos = 0.375 	neg = 0.125
+12. Joe Fox also loves A                ... pos = 0.625 	neg = 0    
+13. There, he chats with                ... pos = 0.0   	neg = 0.0  
+14. They are the best of                ... pos = 0.875 	neg = 0.0  
+15. He knows nothing abo                ... pos = 0.0   	neg = 0.25 
+16. His screen name is N                ... pos = 0.0   	neg = 0.125
+17. He meets Kathleen Ke                ... pos = 0.0   	neg = 0.625
+18. He simply states his                ... pos = 0.25  	neg = 0.125
+19. They continue to mee                ... pos = 0.0   	neg = 0.25 
+20. The two of them stil                ... pos = 0.875 	neg = 0.0  
+21. They fight and fight                ... pos = 0.0   	neg = 0    
+22. These arguments are                 ... pos = 0.25  	neg = 0.375
+23. NY152 asks ShopGirl                 ... pos = 0.125 	neg = 0    
+24. They plan to meet at                ... pos = 0.0   	neg = 0.0  
+25. ShopGirl is waiting                 ... pos = 0.0   	neg = 0.125
+26. When NY152 discovers                ... pos = 0.0   	neg = 0.25 
+27. He enters the coffee                ... pos = 0.0   	neg = 0.125
+28. He simply sits down                 ... pos = 0.0   	neg = 0.375
+29. He doesn't mean to,                 ... pos = 0.0   	neg = 0.0  
+30. Now that he knows th                ... pos = 0.5   	neg = 0.125
+31. The next day he brin                ... pos = 0.0   	neg = 0.0  
+32. Eventually, he asks                 ... pos = 0.125 	neg = 0    
+33. They do, and they di                ... pos = 0.625 	neg = 0.125
+34. Kathleen simply stat                ... pos = 0.25  	neg = 0.25 
+35. ". You've Got Mail i                ... pos = 1.25  	neg = 0.125
+36. Tom Hanks and Meg Ry                ... pos = 1.375 	neg = 0.0  
+37. Both did great jobs                 ... pos = 0.0   	neg = 0.0  
+38. You've Got Mail show                ... pos = 0.0   	neg = 0.5  
+39. Although at some poi                ... pos = 0.375 	neg = 0.5  
+40. Warner Brothers is o                ... pos = 0.25  	neg = 0.125
+41. America Online is su                ... pos = 0.375 	neg = 0.125
+42. They even have a fea                ... pos = 0.0   	neg = 0.0  
+43. Parker Posey, Dave C                ... pos = 0.0   	neg = 0.0  
+44. Parker Posey plays J                ... pos = 0.125 	neg = 0.0  
+45. The bottom line: Not                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5378-864 is Positive         ... pos = 11.875 	neg = 6.25 
+Overall score of document
+Total Pos = 11.875
+Total Neg = 6.25
+---------------------------------------------------------------------------

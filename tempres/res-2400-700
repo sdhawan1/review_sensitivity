@@ -1,0 +1,30 @@
+0. Release Date: Januar                 ... pos = 1.5   	neg = 1.375
+1. The plan, needless t                 ... pos = 0.0   	neg = 0.0  
+2. A SIMPLE PLAN, direc                 ... pos = 0.5   	neg = 0.125
+3. But even more so, it                 ... pos = 1.125 	neg = 0.0  
+4. Bill Paxton headline                 ... pos = 0.0   	neg = 0.0  
+5. His wife Sarah (Brid                 ... pos = 0.0   	neg = 0.125
+6. His brother Jacob (B                 ... pos = 0.0   	neg = 0.75 
+7. So it's a fortunate                  ... pos = 0.75  	neg = 0.25 
+8. Lou and Jacob want t                 ... pos = 0.125 	neg = 0.375
+9. When it wants to be,                 ... pos = 0.75  	neg = 0.25 
+10. Most of the time, ho                ... pos = 0.375 	neg = 0.0  
+11. For instance, most o                ... pos = 1.75  	neg = 0.375
+12. Similarly, the writi                ... pos = 1.125 	neg = 0.125
+13. On the other hand, i                ... pos = 0.5   	neg = 0.0  
+14. But most importantly                ... pos = 0.0   	neg = 0.375
+15. The cast is well-cho                ... pos = 0.0   	neg = 0.125
+16. Bill Paxton and Bill                ... pos = 1.0   	neg = 0.0  
+17. In most respects the                ... pos = 2.375 	neg = 0.0  
+18. Interestingly enough                ... pos = 1.875 	neg = 0.25 
+19. Thornton masters it                 ... pos = 0.0   	neg = 0    
+20. Other supports are a                ... pos = 0.5   	neg = 0    
+21. A SIMPLE PLAN is not                ... pos = 0.0   	neg = 1.0  
+22. There are a number o                ... pos = 1.75  	neg = 0.125
+23. Certainly a worthwhi                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2400-700 is Positive         ... pos = 16.375 	neg = 5.625
+Overall score of document
+Total Pos = 16.375
+Total Neg = 5.625
+---------------------------------------------------------------------------

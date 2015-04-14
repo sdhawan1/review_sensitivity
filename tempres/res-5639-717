@@ -1,0 +1,34 @@
+0. ANALYZE THIS (Warner                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.75  	neg = 0.125
+3. Lampooning mafioso s                 ... pos = 0.125 	neg = 0.0  
+4. With the public's fa                 ... pos = 1.125 	neg = 0.75 
+5. Joining    Andrew Fl                 ... pos = 0.0   	neg = 0.0  
+6. in    this category                  ... pos = 1.25  	neg = 1.0  
+7. Billy Crystal, adorn                 ... pos = 1.75  	neg = 0.125
+8. An inability    to b                 ... pos = 0.25  	neg = 0.25 
+9. Can't    perform in                  ... pos = 0.0   	neg = 0.0  
+10. For a macho overlord                ... pos = 0.125 	neg = 0.875
+11. And becoming teary-e                ... pos = 0.625 	neg = 0.0  
+12. Unforgivable.                       ... pos = 0     	neg = 0.25 
+13. Vitti commandeers th                ... pos = 0.625 	neg = 0.875
+14. After this setup, th                ... pos = 0.625 	neg = 1.5  
+15. Of course, fitting t                ... pos = 0.75  	neg = 0.375
+16. The culture clash be                ... pos = 1.125 	neg = 0.25 
+17. On the flip side, al                ... pos = 3.0   	neg = 0.875
+18. Beyond its premise,                 ... pos = 0.625 	neg = 0.125
+19. It's mostly routine                 ... pos = 1.375 	neg = 0.5  
+20. Howard    Shore atte                ... pos = 0.0   	neg = 0.125
+21. While De Niro demons                ... pos = 2.125 	neg = 0.5  
+22. On the other hand, i                ... pos = 0.25  	neg = 0.75 
+23. In the final reel of                ... pos = 0.375 	neg = 0.0  
+24. The result was    si                ... pos = 0.0   	neg = 0.25 
+25. -- Alex Fung (aw220@                ... pos = 0.125 	neg = 0.125
+26. Half the time I have                ... pos = 0.0   	neg = 0.25 
+27. " - Martin Landau. .                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5639-717 is Positive         ... pos = 17.125 	neg = 10.25
+Overall score of document
+Total Pos = 17.125
+Total Neg = 10.25
+---------------------------------------------------------------------------

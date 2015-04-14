@@ -1,0 +1,41 @@
+0. Unlike L.A.                          ... pos = 0.125 	neg = 0    
+1. Confidential - this                  ... pos = 0.125 	neg = 0.0  
+2. This in itself was v                 ... pos = 1.125 	neg = 0.125
+3. Airforce One is your                 ... pos = 0.0   	neg = 0.5  
+4. I did enjoy it to a                  ... pos = 0.75  	neg = 0.25 
+5. This movie suffers f                 ... pos = 0.0   	neg = 0.25 
+6. Some might say that                  ... pos = 0.125 	neg = 0.875
+7. It definitely follow                 ... pos = 0.25  	neg = 0.125
+8. Unlike a lot of FX m                 ... pos = 0.125 	neg = 0.0  
+9. The plot, while not                  ... pos = 0.125 	neg = 0.125
+10. Harrison does, as us                ... pos = 0.125 	neg = 0    
+11. Even playing the U.S                ... pos = 1.25  	neg = 0.0  
+12. You did have to 'sus                ... pos = 0.5   	neg = 0.125
+13. My kingdom for a her                ... pos = 0.5   	neg = 0.0  
+14. Gary Oldman did a te                ... pos = 1.75  	neg = 0.5  
+15. I was not terribly i                ... pos = 1.0   	neg = 0.25 
+16. She is made out to b                ... pos = 0.0   	neg = 0.625
+17. If Harrison hadn't '                ... pos = 1.5   	neg = 0.25 
+18. I personally did not                ... pos = 0.25  	neg = 0.0  
+19. The highlights?                     ... pos = 0.125 	neg = 0    
+20. For me the best part                ... pos = 0.0   	neg = 0.125
+21. It was so quick and                 ... pos = 0.625 	neg = 0.375
+22. The race to get the                 ... pos = 0.375 	neg = 0.125
+23. The special effects                 ... pos = 0.125 	neg = 1.25 
+24. One of the real faul                ... pos = 0.875 	neg = 0.5  
+25. Chief among these is                ... pos = 0.0   	neg = 0.125
+26. Why, after the plane                ... pos = 0.0   	neg = 0.125
+27. Why did he wait unti                ... pos = 0.0   	neg = 0.125
+28. This made no sense a                ... pos = 0.0   	neg = 0.25 
+29. Looking back, this w                ... pos = 1.75  	neg = 0.125
+30. But as a whole it wa                ... pos = 0.0   	neg = 0.125
+31. I felt Executive Dec                ... pos = 0.125 	neg = 0.25 
+32. Less special effects                ... pos = 0.75  	neg = 0.5  
+33. Air Force One is one                ... pos = 0.0   	neg = 1.125
+34. Nothing new here....                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-6212-1140 is Positive        ... pos = 14.75 	neg = 9.375
+Overall score of document
+Total Pos = 14.75
+Total Neg = 9.375
+---------------------------------------------------------------------------

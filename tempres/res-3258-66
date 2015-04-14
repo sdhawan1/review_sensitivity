@@ -1,0 +1,28 @@
+0. Review by Victory A.                 ... pos = 1.25  	neg = 0.875
+1. What's not as diffic                 ... pos = 1.0   	neg = 0.75 
+2. _Star Trek: Insurrec                 ... pos = 1.0   	neg = 0.625
+3. This time around, th                 ... pos = 0.375 	neg = 0.125
+4. Captain Picard (Patr                 ... pos = 1.625 	neg = 0.0  
+5. The actual threat to                 ... pos = 0.25  	neg = 0.625
+6. The planet's virtual                 ... pos = 0.875 	neg = 0.125
+7. Counselor Troi and C                 ... pos = 0.0   	neg = 0.0  
+8. Worf (Michael Dorn)                  ... pos = 0.0   	neg = 0.0  
+9. Geordi LaForge (Leva                 ... pos = 0.125 	neg = 0.0  
+10. And Picard finds lov                ... pos = 0.625 	neg = 0.5  
+11. It's too bad the pla                ... pos = 1.0   	neg = 1.375
+12. The temporary augmen                ... pos = 0.5   	neg = 0.0  
+13. After three films, n                ... pos = 0.0   	neg = 0.0  
+14. Beloved personalitie                ... pos = 0.125 	neg = 0.0  
+15. And the pasty-white                 ... pos = 0.625 	neg = 0.75 
+16. Much of Insurrection                ... pos = 1.125 	neg = 0.75 
+17. Their familiarity wi                ... pos = 0.75  	neg = 0.375
+18. It's all too apparen                ... pos = 0.875 	neg = 0.875
+19. But all the eye-wink                ... pos = 0.625 	neg = 0.25 
+20. Unless the Enterpris                ... pos = 0.125 	neg = 0.25 
+21. Reviewed December 9,                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3258-66 is Positive          ... pos = 12.875 	neg = 8.25 
+Overall score of document
+Total Pos = 12.875
+Total Neg = 8.25
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. Director: Joel Schum                 ... pos = 0.0   	neg = 0.25 
+1. US Distribution: Col                 ... pos = 2.0   	neg = 0.375
+2. Walker writes about                  ... pos = 0.375 	neg = 0.75 
+3. His script for 8mm i                 ... pos = 0.75  	neg = 0.125
+4. 8mm has Joel Schumac                 ... pos = 0.625 	neg = 0.625
+5. Indeed, 8mm is not a                 ... pos = 1.5   	neg = 0.25 
+6. Walker wants to tell                 ... pos = 0.25  	neg = 0.0  
+7. This kind of conflic                 ... pos = 0.25  	neg = 0.125
+8. But Schumacher is mo                 ... pos = 0.875 	neg = 0.75 
+9. There are moments wh                 ... pos = 1.125 	neg = 0.0  
+10. And, as a suspense p                ... pos = 0.0   	neg = 0.125
+11. I just can't help bu                ... pos = 0.0   	neg = 0.125
+12. The likable Nicolas                 ... pos = 0.75  	neg = 0.125
+13. The film is referred                ... pos = 0.0   	neg = 0.875
+14. Welles initially bel                ... pos = 0.375 	neg = 0.125
+15. But he watches the f                ... pos = 0.125 	neg = 0.125
+16. The movie looks real                ... pos = 0.0   	neg = 0.375
+17. His searches lead hi                ... pos = 0.375 	neg = 0.0  
+18. While Tom is roaming                ... pos = 0.125 	neg = 0.625
+19. While searching thro                ... pos = 0.5   	neg = 0.25 
+20. Later, he meets Max                 ... pos = 0.375 	neg = 0.0  
+21. Walker is better at                 ... pos = 1.25  	neg = 0.125
+22. The film opens with                 ... pos = 0.5   	neg = 0.0  
+23. This sets us up for                 ... pos = 0.125 	neg = 0.125
+24. Too many films aband                ... pos = 1.75  	neg = 0.25 
+25. It also helps that C                ... pos = 0.875 	neg = 0.125
+26. The other actors all                ... pos = 0.25  	neg = 0.25 
+27. But the emotional ce                ... pos = 1.125 	neg = 0.375
+28. He develops an attac                ... pos = 0.25  	neg = 0.25 
+29. He doesn't understan                ... pos = 0.375 	neg = 0.0  
+30. And there's one scen                ... pos = 0.75  	neg = 0.125
+31. He's not a murderer.                ... pos = 0.0   	neg = 0    
+32. He goes to his car a                ... pos = 0.625 	neg = 0.0  
+33. "  That he needs the                ... pos = 1.625 	neg = 0.375
+34. But I just didn't ge                ... pos = 0.875 	neg = 0.125
+35. Atmosphere is defini                ... pos = 1.5   	neg = 0.625
+36. But the film frequen                ... pos = 0.0   	neg = 0.875
+37. I also think Schumac                ... pos = 0.25  	neg = 1.625
+38. I don't know if Walk                ... pos = 0.125 	neg = 0.0  
+39. At the heart of 8mm                 ... pos = 1.125 	neg = 1.625
+40. But Schumacher almos                ... pos = 0.0   	neg = 0.0  
+41. 8mm is a thriller wo                ... pos = 0.625 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-2514-760 is Positive         ... pos = 24.375 	neg = 13.375
+Overall score of document
+Total Pos = 24.375
+Total Neg = 13.375
+---------------------------------------------------------------------------

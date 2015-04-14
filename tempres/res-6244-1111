@@ -1,0 +1,21 @@
+0. Cast: Harrison Ford,                 ... pos = 0.875 	neg = 1.0  
+1. The two then grumble                 ... pos = 0.5   	neg = 0.875
+2. Meanwhile, Quinn's s                 ... pos = 0.0   	neg = 0.0  
+3. Did I mention that i                 ... pos = 0.125 	neg = 0.0  
+4. Well, it is - and th                 ... pos = 0.0   	neg = 0.5  
+5. With much controvers                 ... pos = 0.625 	neg = 0.0  
+6. The main problem wit                 ... pos = 0.0   	neg = 0.25 
+7. Ford, Heche, Obrador                 ... pos = 1.0   	neg = 0.0  
+8. What limits the film                 ... pos = 1.5   	neg = 0.375
+9. Perhaps if writer Mi                 ... pos = 1.75  	neg = 0.375
+10. Like many poorly wri                ... pos = 0.125 	neg = 2.375
+11. Whilst often hilario                ... pos = 2.0   	neg = 0.375
+12. Perhaps director Iva                ... pos = 1.0   	neg = 0.375
+13. Having said that, th                ... pos = 0.125 	neg = 0.5  
+14. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6244-1111 is Positive        ... pos = 9.875 	neg = 7.0  
+Overall score of document
+Total Pos = 9.875
+Total Neg = 7.0
+---------------------------------------------------------------------------

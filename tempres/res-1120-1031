@@ -1,0 +1,37 @@
+0. Paramount / 1:28 / 1                 ... pos = 0.875 	neg = 0.25 
+1. For a type of film t                 ... pos = 0.375 	neg = 0.25 
+2. Now, about a year-an                 ... pos = 0.5   	neg = 0.625
+3. The movie takes plac                 ... pos = 0.625 	neg = 0.0  
+4. " Prominent high sch                 ... pos = 2.5   	neg = 0.125
+5. Win Cameron does, an                 ... pos = 1.0   	neg = 0    
+6. Everything goes like                 ... pos = 0.125 	neg = 0.0  
+7. " . The phrase is me                 ... pos = 0.0   	neg = 0.125
+8. But no one is more s                 ... pos = 0.875 	neg = 0.375
+9. His sexuality is imm                 ... pos = 0.75  	neg = 0.125
+10. Complicating  matter                ... pos = 0.875 	neg = 0.25 
+11. Also in a tizzy are                 ... pos = 0.625 	neg = 0.125
+12. "In & Out" is writte                ... pos = 0.25  	neg = 0.125
+13. His most recent  pro                ... pos = 0.25  	neg = 0.5  
+14. This project will pr                ... pos = 0.25  	neg = 0.0  
+15. "In & Out" sends up                 ... pos = 0.25  	neg = 0.25 
+16. What else can be sai                ... pos = 0.0   	neg = 0.25 
+17. A few plot elements                 ... pos = 0.25  	neg = 0.25 
+18. Only  the finale bec                ... pos = 1.25  	neg = 0.25 
+19. A sterling cast appe                ... pos = 0.125 	neg = 0.125
+20. This is one of Kevin                ... pos = 2.375 	neg = 0.125
+21. Those in supporting                 ... pos = 0.375 	neg = 0.0  
+22. Even the usually low                ... pos = 0.25  	neg = 0.0  
+23. If "In &  Out" has a                ... pos = 0.0   	neg = 0.125
+24. Her  interpretation                 ... pos = 0.875 	neg = 0.875
+25. Am I in 'The Twiligh                ... pos = 0.0   	neg = 0.125
+26. " . "In & Out" is a                 ... pos = 0.5   	neg = 0.125
+27. What remains to be s                ... pos = 1.125 	neg = 0.25 
+28. Will people go see "                ... pos = 0.125 	neg = 0.75 
+29. Whatever happens, sm                ... pos = 0.125 	neg = 0.0  
+30. Š 1997 Jamie Peck                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1120-1031 is Positive        ... pos = 17.5  	neg = 6.375
+Overall score of document
+Total Pos = 17.5
+Total Neg = 6.375
+---------------------------------------------------------------------------

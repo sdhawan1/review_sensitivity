@@ -1,0 +1,53 @@
+0. **** (out of 4) BEIN                 ... pos = 1.0   	neg = 0.125
+1. In the past, people                  ... pos = 0.375 	neg = 0.25 
+2. If you're at all int                 ... pos = 0.0   	neg = 0.0  
+3. BEING JOHN MALKOVICH                 ... pos = 0.25  	neg = 0.125
+4. (Surrealism is a mov                 ... pos = 0.375 	neg = 0.125
+5. Surrealist images ar                 ... pos = 0.75  	neg = 0.0  
+6. There is usually som                 ... pos = 0.0   	neg = 0.125
+7. ). Craig Schwartz (J                 ... pos = 0.375 	neg = 0.125
+8. That is to say, he's                 ... pos = 0.0   	neg = 0.125
+9. Schwartz is very goo                 ... pos = 1.625 	neg = 0.125
+10. Craig is married to                 ... pos = 1.0   	neg = 0.5  
+11. She works at the pet                ... pos = 0.0   	neg = 0.0  
+12. Craig's unemployment                ... pos = 0.0   	neg = 0.125
+13. At work, he meets Ma                ... pos = 0.0   	neg = 0.0  
+14. He's smitten with he                ... pos = 0.0   	neg = 0    
+15. Whenever they talk,                 ... pos = 0.0   	neg = 0.375
+16. She strings him alon                ... pos = 0.0   	neg = 0    
+17. While filing one day                ... pos = 0.0   	neg = 0.5  
+18. Naturally, he opens                 ... pos = 0.125 	neg = 0.25 
+19. He crawls through, e                ... pos = 0.0   	neg = 0.0  
+20. Craig watches in ama                ... pos = 0.75  	neg = 0.0  
+21. After about fifteen                 ... pos = 0.375 	neg = 0.5  
+22. He tells his wife ab                ... pos = 0.0   	neg = 0.0  
+23. Lottie takes the tri                ... pos = 0.625 	neg = 0.0  
+24. Malkovich has just c                ... pos = 0.0   	neg = 0.75 
+25. Afterwards, Lottie d                ... pos = 0.0   	neg = 0.125
+26. Back at the office,                 ... pos = 0.375 	neg = 0.0  
+27. One day when Lottie                 ... pos = 0.375 	neg = 0.375
+28. She asks him if he w                ... pos = 0.125 	neg = 0.25 
+29. Both Lottie and Malk                ... pos = 0.0   	neg = 0.0  
+30. Lottie goes back int                ... pos = 0.125 	neg = 0.25 
+31. A jumble of infatuat                ... pos = 0.875 	neg = 0.0  
+32. Like in a dream, the                ... pos = 1.5   	neg = 0.0  
+33. Like in a dream, the                ... pos = 1.0   	neg = 0.0  
+34. When you look at how                ... pos = 0.375 	neg = 0.5  
+35. Actually, the underl                ... pos = 0.625 	neg = 0.125
+36. What makes this movi                ... pos = 0.375 	neg = 0.125
+37. Although these detai                ... pos = 0.75  	neg = 0.25 
+38. But do know that the                ... pos = 0.25  	neg = 0.125
+39. What I can safely sa                ... pos = 0.5   	neg = 0.25 
+40. Before MALKOVICH he                 ... pos = 0.0   	neg = 0.0  
+41. The screenwriter is                 ... pos = 0.0   	neg = 0.125
+42. Perhaps it is becaus                ... pos = 0.25  	neg = 0.375
+43. BEING JOHN MALKOVICH                ... pos = 0.25  	neg = 0.25 
+44. No review can do it                 ... pos = 0.5   	neg = 0.25 
+45. It is the kind of we                ... pos = 0.75  	neg = 0.125
+46. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-1008 is Positive         ... pos = 16.625 	neg = 7.625
+Overall score of document
+Total Pos = 16.625
+Total Neg = 7.625
+---------------------------------------------------------------------------

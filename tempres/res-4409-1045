@@ -1,0 +1,49 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.25 
+1. "C'mon, Yogi," one o                 ... pos = 0.0   	neg = 0.0  
+2. ". "I don't know," Y                 ... pos = 0.0   	neg = 0.0  
+3. "Who's in it?                        ... pos = 0.0   	neg = 0    
+4. ". By their very nat                 ... pos = 2.375 	neg = 0.0  
+5. Boogie Nights is a r                 ... pos = 0.125 	neg = 0.25 
+6. It spends time on al                 ... pos = 1.875 	neg = 0.0  
+7. This is a movie that                 ... pos = 0.0   	neg = 0.125
+8. If this was a movie                  ... pos = 1.0   	neg = 0.125
+9. The subject matter i                 ... pos = 1.625 	neg = 1.125
+10. At the same time, it                ... pos = 0.125 	neg = 0.0  
+11. The 1970's setting,                 ... pos = 0.875 	neg = 0.125
+12. Boogie Nights is a b                ... pos = 0.0   	neg = 0.25 
+13. The center of the Bo                ... pos = 0.0   	neg = 0.125
+14. It's sort of a low-r                ... pos = 0.25  	neg = 0.125
+15. And almost everybody                ... pos = 0.5   	neg = 1.0  
+16. Boogie Nights only w                ... pos = 1.5   	neg = 0.0  
+17. The movie is ostensi                ... pos = 0.125 	neg = 0.25 
+18. Wahlberg does a bett                ... pos = 0.125 	neg = 0.25 
+19. If the Dirk characte                ... pos = 0.875 	neg = 1.375
+20. A movie like this is                ... pos = 0.0   	neg = 0.375
+21. He is aided by a spe                ... pos = 0.5   	neg = 0.125
+22. I'm not convinced th                ... pos = 0.5   	neg = 0.25 
+23. Heather Graham is lu                ... pos = 0.5   	neg = 0.875
+24. The unsung hero of B                ... pos = 1.25  	neg = 0.125
+25. He plays Buck, the o                ... pos = 0.125 	neg = 0.125
+26. He must have done so                ... pos = 0.625 	neg = 0.0  
+27. Neverthess, Cheadle                 ... pos = 0.0   	neg = 0.0  
+28. He is (for once) dre                ... pos = 0.0   	neg = 0.25 
+29. The bank manager den                ... pos = 0.0   	neg = 0.0  
+30. "It's not fair," say                ... pos = 0.0   	neg = 0.125
+31. We're relating to Bu                ... pos = 0.0   	neg = 0.0  
+32. We know his hopes an                ... pos = 0.75  	neg = 0.125
+33. Without that identif                ... pos = 0.875 	neg = 0.5  
+34. Boogie Nights also b                ... pos = 0.875 	neg = 0.0  
+35. Having spent the lat                ... pos = 0.625 	neg = 0.5  
+36. The movie looks like                ... pos = 0.0   	neg = 0.375
+37. By making the audien                ... pos = 0.0   	neg = 0.25 
+38. Dirk Diggler tells u                ... pos = 0.75  	neg = 0.25 
+39. Boogie Nights is for                ... pos = 1.375 	neg = 0.125
+40. If it's not a great                 ... pos = 0.0   	neg = 0.75 
+41. The Hollywood Stock                 ... pos = 0.0   	neg = 0.375
+42. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4409-1045 is Positive        ... pos = 20.125 	neg = 10.875
+Overall score of document
+Total Pos = 20.125
+Total Neg = 10.875
+---------------------------------------------------------------------------

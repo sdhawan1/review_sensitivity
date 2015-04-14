@@ -1,0 +1,60 @@
+0. Director:  Neil LaB                 ... pos = 0.125 	neg = 0.0  
+1. US Distribution:                    ... pos = 1.625 	neg = 0.125
+2. To call Neil LaBute                  ... pos = 0.0   	neg = 0.25 
+3. His debut feature, I                 ... pos = 0.25  	neg = 0.125
+4. His new film, Your F                 ... pos = 0.875 	neg = 2.125
+5. The six characters a                 ... pos = 1.125 	neg = 0.0  
+6. Aaron Eckhart and Am                 ... pos = 1.75  	neg = 0.375
+7. They're friends with                 ... pos = 0.25  	neg = 0.0  
+8. Stiller's character                  ... pos = 0.875 	neg = 1.875
+9. The central conflict                 ... pos = 2.125 	neg = 0.0  
+10. At the same time, Ke                ... pos = 0.375 	neg = 0.0  
+11. On the outset of all                ... pos = 0.25  	neg = 0.125
+12. He's friends with Ec                ... pos = 1.0   	neg = 0    
+13. On a side note, I've                ... pos = 0.0   	neg = 0.125
+14. If you're looking fo                ... pos = 0.25  	neg = 0.0  
+15. This is an ugly, pai                ... pos = 0.0   	neg = 1.25 
+16. I didn't like it, so                ... pos = 1.125 	neg = 0.0  
+17. I've seen it twice,                 ... pos = 0.625 	neg = 0.625
+18. There are individual                ... pos = 0.5   	neg = 1.0  
+19. LaBute thinks we're                 ... pos = 0.0   	neg = 0.125
+20. Its central theme, I                ... pos = 0.125 	neg = 0.0  
+21. It also explains why                ... pos = 0.5   	neg = 0.0  
+22. LaBute wants his fil                ... pos = 0.5   	neg = 1.125
+23. I'm almost embarrass                ... pos = 0.125 	neg = 0.25 
+24. As hopeless as it is                ... pos = 0.5   	neg = 1.25 
+25. One of the funniest                 ... pos = 0.5   	neg = 0.125
+26. .                                   ... pos = 0     	neg = 0    
+27. .                                   ... pos = 0     	neg = 0    
+28. meat.                               ... pos = 0.0   	neg = 0    
+29. You should see me as                ... pos = 0.0   	neg = 0.0  
+30. .                                   ... pos = 0     	neg = 0    
+31. .                                   ... pos = 0     	neg = 0    
+32. penis, and I should                 ... pos = 0.0   	neg = 0.0  
+33. .                                   ... pos = 0     	neg = 0    
+34. .                                   ... pos = 0     	neg = 0    
+35. vagina.                             ... pos = 0     	neg = 0    
+36. "  It's kind of a di                ... pos = 0.0   	neg = 0.0  
+37. The second half of t                ... pos = 0.375 	neg = 0.125
+38. In the film's most i                ... pos = 0.25  	neg = 0.125
+39. Perhaps I shouldn't                 ... pos = 0.0   	neg = 0.125
+40. I doubt that it matt                ... pos = 0.5   	neg = 0.0  
+41. The six performances                ... pos = 1.375 	neg = 0.125
+42. Patrick is at his ve                ... pos = 2.375 	neg = 0.917
+43. Eckhart is also fant                ... pos = 1.0   	neg = 0.125
+44. Brenneman is the bes                ... pos = 2.375 	neg = 0.25 
+45. Stiller and Keener a                ... pos = 2.625 	neg = 1.0  
+46. And that's where the                ... pos = 0.0   	neg = 0    
+47. In the Company of Me                ... pos = 0.875 	neg = 0.0  
+48. Nobody lives through                ... pos = 0.125 	neg = 0.0  
+49. A certain level of c                ... pos = 0.5   	neg = 1.75 
+50. Some of the story el                ... pos = 1.75  	neg = 0.125
+51. What's to be said fo                ... pos = 0.125 	neg = 0.125
+52. I can only hope that                ... pos = 0.375 	neg = 0.125
+53. "  I'd hate to think                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2260-760 is Positive         ... pos = 30.5  	neg = 15.792
+Overall score of document
+Total Pos = 30.5
+Total Neg = 15.792
+---------------------------------------------------------------------------

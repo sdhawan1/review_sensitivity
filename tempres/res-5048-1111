@@ -1,0 +1,37 @@
+0. Cast: Will Smith, Ge                 ... pos = 0.625 	neg = 0.375
+1. Achieving this much                  ... pos = 0.625 	neg = 1.25 
+2. Not only that, but t                 ... pos = 0.875 	neg = 0.0  
+3. Scott's tense direct                 ... pos = 2.125 	neg = 0.0  
+4. In fact, I found it                  ... pos = 0.25  	neg = 0.125
+5. Smith tackles an out                 ... pos = 0.875 	neg = 0.0  
+6. Although Hackman is                  ... pos = 0.5   	neg = 0.375
+7. And as for Jon Voigh                 ... pos = 1.25  	neg = 0.5  
+8. A mob goon gives Rob                 ... pos = 0.25  	neg = 0.75 
+9. You can understand w                 ... pos = 0.375 	neg = 0.25 
+10. Reynolds is not your                ... pos = 0.125 	neg = 1.25 
+11. Everything soon gets                ... pos = 0.625 	neg = 0.5  
+12. Luckily for him, he                 ... pos = 0.625 	neg = 0.25 
+13. No doubt this is Bri                ... pos = 0.0   	neg = 0.5  
+14. Although Scott can't                ... pos = 0.125 	neg = 0.125
+15. There are two length                ... pos = 0.5   	neg = 0.375
+16. The first of these s                ... pos = 0.125 	neg = 0.0  
+17. Cinematographer Dani                ... pos = 0.375 	neg = 0.0  
+18. When the "satellite                 ... pos = 1.5   	neg = 0.25 
+19. With a running time                 ... pos = 1.375 	neg = 0.25 
+20. Will Smith's charact                ... pos = 1.875 	neg = 0.125
+21. That is an interesti                ... pos = 3.25  	neg = 0.125
+22. However Smith works                 ... pos = 2.875 	neg = 0.25 
+23. In the transformatio                ... pos = 0.375 	neg = 0.0  
+24. If I could edit out                 ... pos = 0.75  	neg = 0.0  
+25. In this dreary openi                ... pos = 0.5   	neg = 1.125
+26. Had Tony Scott revea                ... pos = 0.75  	neg = 0.75 
+27. But cleverness reall                ... pos = 0.375 	neg = 0.375
+28. Faults in the story                 ... pos = 0.75  	neg = 0.125
+29. And even more impres                ... pos = 0.75  	neg = 0.0  
+30. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5048-1111 is Positive        ... pos = 25.625 	neg = 10.0 
+Overall score of document
+Total Pos = 25.625
+Total Neg = 10.0
+---------------------------------------------------------------------------

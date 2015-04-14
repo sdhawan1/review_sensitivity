@@ -1,0 +1,21 @@
+0. Release Date: Januar                 ... pos = 0.5   	neg = 0.0  
+1. In fact, if one were                 ... pos = 1.25  	neg = 0.125
+2. Yet HILARY AND JACKI                 ... pos = 1.5   	neg = 0.0  
+3. Emily Watson and Rac                 ... pos = 0.5   	neg = 0.0  
+4. Both musicians from                  ... pos = 1.25  	neg = 0.25 
+5. The two comepete for                 ... pos = 1.25  	neg = 0    
+6. Their careers as mus                 ... pos = 2.875 	neg = 0.0  
+7. The performances of                  ... pos = 1.25  	neg = 0.0  
+8. They contrast each o                 ... pos = 2.25  	neg = 0.125
+9. The Frank Cottrell B                 ... pos = 0.875 	neg = 0.125
+10. The script is also t                ... pos = 0.0   	neg = 0.25 
+11. Cottrell Boyce adopt                ... pos = 1.125 	neg = 0.75 
+12. The latter parts of                 ... pos = 1.375 	neg = 0.125
+13. Some will leave this                ... pos = 0.125 	neg = 0.0  
+14. Nevertheless, HILARY                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-6182-700 is Positive         ... pos = 16.375 	neg = 2.125
+Overall score of document
+Total Pos = 16.375
+Total Neg = 2.125
+---------------------------------------------------------------------------

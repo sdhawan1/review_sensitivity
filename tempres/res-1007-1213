@@ -1,0 +1,35 @@
+0. Before the remake of                 ... pos = 0.0   	neg = 0.375
+1. As usual, Hollywood                  ... pos = 0.125 	neg = 0.875
+2. The film opens with                  ... pos = 0.0   	neg = 0    
+3. The problem is, Palt                 ... pos = 1.0   	neg = 0.875
+4. If I was Paltrow, th                 ... pos = 0.25  	neg = 0.125
+5. Less wrinkles.                       ... pos = 0.125 	neg = 0.0  
+6. Anyhow, Stephen appr                 ... pos = 0.25  	neg = 0.0  
+7. Mortensen agrees, bu                 ... pos = 0.375 	neg = 0.0  
+8. Unfortunately, the f                 ... pos = 1.0   	neg = 0.875
+9. In fact, it moves li                 ... pos = 1.75  	neg = 0.5  
+10. Not too good for a '                ... pos = 0.75  	neg = 0.25 
+11. ' Also, the performa                ... pos = 0.25  	neg = 0.0  
+12. Paltrow, showing imm                ... pos = 0.25  	neg = 0.75 
+13. Mortensen is a littl                ... pos = 0.0   	neg = 0.5  
+14. Which leaves Douglas                ... pos = 0.0   	neg = 0.125
+15. However, I doubt Dou                ... pos = 0.75  	neg = 0.875
+16. Also popping up in t                ... pos = 0.875 	neg = 0.125
+17. Again, it's not a ch                ... pos = 0.875 	neg = 0.0  
+18. The director, who bo                ... pos = 0.0   	neg = 0.25 
+19. The lighting is also                ... pos = 0.0   	neg = 0.125
+20. However, looks can't                ... pos = 0.125 	neg = 1.278
+21. The screenplay is O.                ... pos = 0.5   	neg = 1.25 
+22. The characters also                 ... pos = 0.875 	neg = 0.75 
+23. With a combination o                ... pos = 0.875 	neg = 1.125
+24. There are a few brig                ... pos = 0.5   	neg = 0.0  
+25. The last thing a thr                ... pos = 0.25  	neg = 0.375
+26. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+27. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+28. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1007-1213 is Positive        ... pos = 11.75 	neg = 11.403
+Overall score of document
+Total Pos = 11.75
+Total Neg = 11.403
+---------------------------------------------------------------------------

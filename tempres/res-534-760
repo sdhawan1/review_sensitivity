@@ -1,0 +1,21 @@
+0. Director: Terrence M                 ... pos = 0.125 	neg = 0.5  
+1. US Distribution: 20t                 ... pos = 0.875 	neg = 2.5  
+2.   I didn't hear tha                 ... pos = 1.25  	neg = 1.5  
+3. You see, The Thin Re                 ... pos = 3.125 	neg = 0.375
+4. One problem I heard                  ... pos = 2.125 	neg = 1.625
+5. The next act of the                  ... pos = 0.0   	neg = 0.125
+6.   Beneath him is Ca                 ... pos = 1.0   	neg = 0.375
+7. Malick's most appare                 ... pos = 1.875 	neg = 0.125
+8.   The soldiers run                  ... pos = 2.0   	neg = 2.75 
+9. But the war scenes a                 ... pos = 2.625 	neg = 0.125
+10. The Thin Red Line is                ... pos = 2.875 	neg = 2.125
+11.   Both Koteas and P                ... pos = 0.375 	neg = 0.5  
+12. Until now, I've resi                ... pos = 0.875 	neg = 2.25 
+13.   Saving Private Ry                ... pos = 0.875 	neg = 1.5  
+14. However, I will admi                ... pos = 3.25  	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-534-760 is Positive          ... pos = 23.25 	neg = 17.625
+Overall score of document
+Total Pos = 23.25
+Total Neg = 17.625
+---------------------------------------------------------------------------

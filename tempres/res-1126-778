@@ -1,0 +1,41 @@
+0. "The Iron Giant" (**                 ... pos = 0.0   	neg = 0.25 
+1. It is one of the few                 ... pos = 0.125 	neg = 0.125
+2. The best part about                  ... pos = 1.5   	neg = 0.125
+3. Through the reaction                 ... pos = 0.125 	neg = 0.0  
+4. This battle creates                  ... pos = 0.5   	neg = 0.125
+5. The stable balance o                 ... pos = 0.0   	neg = 0.0  
+6. It contradicts the s                 ... pos = 1.25  	neg = 0.375
+7. The characters most                  ... pos = 2.125 	neg = 0.0  
+8. The film is also an                  ... pos = 0.0   	neg = 0.75 
+9. By making the army a                 ... pos = 0.0   	neg = 0.5  
+10. One part of this cou                ... pos = 0.0   	neg = 0.25 
+11. Another part of this                ... pos = 0.375 	neg = 0.25 
+12. A number of times th                ... pos = 0.75  	neg = 0.0  
+13. "The Iron Giant" mai                ... pos = 0.125 	neg = 0.125
+14. It asks the question                ... pos = 0.125 	neg = 0.0  
+15. These messages are g                ... pos = 0.875 	neg = 0.5  
+16. This is not to say t                ... pos = 0.0   	neg = 1.5  
+17. "The Iron Giant" can                ... pos = 0.5   	neg = 0.125
+18. " and equals it in i                ... pos = 0.0   	neg = 0.0  
+19. The story takes plac                ... pos = 0.25  	neg = 0.125
+20. A number of spoofs i                ... pos = 0.875 	neg = 0.0  
+21. A young boy, Hogarth                ... pos = 1.375 	neg = 0.0  
+22. Hogarth teaches the                 ... pos = 0.125 	neg = 1.875
+23. However, this relati                ... pos = 0.125 	neg = 0.875
+24. Christopher McDonald                ... pos = 0.0   	neg = 1.0  
+25. This film proves tha                ... pos = 0.375 	neg = 0.0  
+26. Its spectacular endi                ... pos = 0.5   	neg = 0    
+27. The paranoia, the co                ... pos = 0.375 	neg = 0.0  
+28. The animation in the                ... pos = 1.125 	neg = 0    
+29. Brad Bird masterfull                ... pos = 0.25  	neg = 0.375
+30. He focuses on a clos                ... pos = 0.0   	neg = 0.0  
+31. This style of drawin                ... pos = 1.375 	neg = 0.125
+32. "The Iron Giant" is                 ... pos = 1.625 	neg = 0.125
+33. A wonderful film onl                ... pos = 1.0   	neg = 0.375
+34. The positives greatl                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1126-778 is Positive         ... pos = 17.875 	neg = 9.875
+Overall score of document
+Total Pos = 17.875
+Total Neg = 9.875
+---------------------------------------------------------------------------

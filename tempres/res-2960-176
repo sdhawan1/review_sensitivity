@@ -1,0 +1,61 @@
+0. Starring Demi Moore,                 ... pos = 0.0   	neg = 0.0  
+1. Remember the ball ro                 ... pos = 0.375 	neg = 0.0  
+2. Remember the Buffalo                 ... pos = 0.125 	neg = 0.0  
+3. Remember Waterloo?                   ... pos = 0.125 	neg = 0    
+4. All are famous examp                 ... pos = 1.125 	neg = 0.0  
+5. Okay, so maybe I'm g                 ... pos = 0     	neg = 0.75 
+6. But I simply can rec                 ... pos = 0.375 	neg = 0.875
+7. This collapse can ev                 ... pos = 0.0   	neg = 0.125
+8. Lt. Jordan O'Neil (D                 ... pos = 0.0   	neg = 0.0  
+9. There's some premise                 ... pos = 0.0   	neg = 0.75 
+10. It's the same sort o                ... pos = 0.0   	neg = 0.0  
+11. Would real SEAL cade                ... pos = 0.0   	neg = 0.125
+12. No way.                             ... pos = 0.0   	neg = 0.0  
+13. Still, I was willing                ... pos = 0.25  	neg = 0.375
+14. It was a shot lifted                ... pos = 0.0   	neg = 0.375
+15. The sight was so lud                ... pos = 0.0   	neg = 0.5  
+16. Whatever viable mess                ... pos = 0.5   	neg = 0.625
+17. GI JANE is TOP GUN,                 ... pos = 0.75  	neg = 0.25 
+18. All that was missing                ... pos = 0.0   	neg = 0.25 
+19. It's really too bad,                ... pos = 1.125 	neg = 1.125
+20. Cantankerous Texas s                ... pos = 0.625 	neg = 0.0  
+21. From a list of overa                ... pos = 0.75  	neg = 0.125
+22. DeHaven operates on                 ... pos = 0.125 	neg = 0.25 
+23. By setting up O'Neil                ... pos = 0.625 	neg = 0.125
+24. The duplicitous cunn                ... pos = 1.25  	neg = 0.625
+25. But O'Neil is no Sha                ... pos = 0     	neg = 0.375
+26. As embodied by Moore                ... pos = 0.125 	neg = 0.125
+27. She tells her lover                 ... pos = 0.0   	neg = 0.0  
+28. She demands equal tr                ... pos = 0.0   	neg = 0.0  
+29. When it becomes clea                ... pos = 0.375 	neg = 0.125
+30. Hers is an impressiv                ... pos = 0.125 	neg = 0.125
+31. The Navy refused to                 ... pos = 0.0   	neg = 0.375
+32. Recruits are deprive                ... pos = 0.25  	neg = 0.0  
+33. They are forced to e                ... pos = 0.25  	neg = 0.0  
+34. They must do push-up                ... pos = 0.375 	neg = 0.0  
+35. When their drill ins                ... pos = 0.0   	neg = 1.125
+36. If SEAL training wer                ... pos = 0.625 	neg = 0.25 
+37. This little summer c                ... pos = 0.625 	neg = 1.25 
+38. The script gives him                ... pos = 0.125 	neg = 0.0  
+39. That the script find                ... pos = 0.0   	neg = 0.875
+40. The fact is we are i                ... pos = 0.375 	neg = 0.25 
+41. Her acting talent is                ... pos = 1.0   	neg = 1.5  
+42. If there is a common                ... pos = 0.375 	neg = 1.125
+43. In this sense GI JAN                ... pos = 0.0   	neg = 0.375
+44. The key to this pict                ... pos = 0.0   	neg = 0.0  
+45. We are to admire her                ... pos = 0.875 	neg = 0    
+46. Director Ridley Scot                ... pos = 1.0   	neg = 0.25 
+47. GI JANE is Moore's l                ... pos = 0.625 	neg = 0.125
+48. But it's a well-made                ... pos = 0.625 	neg = 0.0  
+49. Accepting it on this                ... pos = 0.625 	neg = 0.0  
+50. Then I hung my head                 ... pos = 1.0   	neg = 0.0  
+51. For Scott has now su                ... pos = 0.0   	neg = 0.0  
+52. He choked- he gave u                ... pos = 0.0   	neg = 0.0  
+53. I would have enjoyed                ... pos = 1.75  	neg = 0.0  
+54. Please visit the Fil                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2960-176 is Positive         ... pos = 19.5  	neg = 15.5 
+Overall score of document
+Total Pos = 19.5
+Total Neg = 15.5
+---------------------------------------------------------------------------

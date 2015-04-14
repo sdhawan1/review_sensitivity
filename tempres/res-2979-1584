@@ -1,0 +1,71 @@
+0. I think the first th                 ... pos = 0.125 	neg = 0.25 
+1. First , let me assur                 ... pos = 1.125 	neg = 0.375
+2. The producers are no                 ... pos = 0.5   	neg = 0.25 
+3. You have to reach fo                 ... pos = 0.25  	neg = 0.0  
+4. Therefore , the movi                 ... pos = 0.0   	neg = 0.125
+5. Altough , non-fans w                 ... pos = 2.125 	neg = 0.5  
+6. But fear not , Ducho                 ... pos = 0.5   	neg = 0.25 
+7. You will never feel                  ... pos = 0.125 	neg = 0.0  
+8. In any case , the an                 ... pos = 0.0   	neg = 0.375
+9. I am not a fan of Th                 ... pos = 1.25  	neg = 0.5  
+10. However , since the                 ... pos = 0.125 	neg = 0.125
+11. I taped all of these                ... pos = 0.875 	neg = 0.375
+12. Everything you need                 ... pos = 0.25  	neg = 0.25 
+13. I know I am going ma                ... pos = 0.0   	neg = 0.25 
+14. Warning: Major Spoil                ... pos = 0.0   	neg = 0    
+15. Please do not read ,                ... pos = 1.0   	neg = 0.5  
+16. You have been warned                ... pos = 0     	neg = 0.625
+17. The X-Files is what                 ... pos = 0.0   	neg = 0.25 
+18. Exciting , scary , g                ... pos = 1.375 	neg = 1.375
+19. This is coming from                 ... pos = 0.0   	neg = 0.25 
+20. From start to finish                ... pos = 0.0   	neg = 0.0  
+21. When I compare it wi                ... pos = 0.625 	neg = 0.625
+22. This flick is scary                 ... pos = 0.125 	neg = 1.125
+23. In fact , the first                 ... pos = 0.125 	neg = 0.125
+24. You might as well br                ... pos = 0.0   	neg = 0.625
+25. The last time a mons                ... pos = 0.625 	neg = 0.125
+26. You know , when you                 ... pos = 0.25  	neg = 1.125
+27. So yeah , the X-File                ... pos = 0     	neg = 0.875
+28. And guess what?                     ... pos = 0     	neg = 0.0  
+29. You never even have                 ... pos = 0.375 	neg = 0.375
+30. Do not think that Th                ... pos = 0.0   	neg = 0.125
+31. In fact , the creatu                ... pos = 0.0   	neg = 0.125
+32. No , The X-Files is                 ... pos = 0.0   	neg = 0.375
+33. Scully is at his sid                ... pos = 0.0   	neg = 0.125
+34. She has a couple of                 ... pos = 0.875 	neg = 0.0  
+35. No , this is Mulder'                ... pos = 0.0   	neg = 0.375
+36. By now , you have he                ... pos = 0.0   	neg = 0.0  
+37. If you have not then                ... pos = 0.75  	neg = 0.125
+38. To those of you wond                ... pos = 0.5   	neg = 0.125
+39. If he did find it th                ... pos = 0.25  	neg = 0.0  
+40. The dialogue in inte                ... pos = 0.75  	neg = 0.125
+41. The camera is almost                ... pos = 0.25  	neg = 0.375
+42. The script is spotle                ... pos = 0.5   	neg = 0.125
+43. If you are confused                 ... pos = 0.75  	neg = 0.0  
+44. Unlike most summer m                ... pos = 1.0   	neg = 0.375
+45. Miss one vital piece                ... pos = 0.75  	neg = 0.25 
+46. Also , to those peop                ... pos = 0.0   	neg = 0.125
+47. The person who watch                ... pos = 0.875 	neg = 0.25 
+48. There is no time to                 ... pos = 0.125 	neg = 0.375
+49. ) The X-Files does n                ... pos = 0.5   	neg = 0.875
+50. Who needs to see the                ... pos = 0.375 	neg = 0.125
+51. So far this summer I                ... pos = 0.625 	neg = 0.125
+52. But The Truman Show                 ... pos = 0.0   	neg = 0.25 
+53. What more do you ask                ... pos = 0.75  	neg = 0.125
+54. Cool effects?                       ... pos = 0     	neg = 0.25 
+55. It's good some.                     ... pos = 0.75  	neg = 0.0  
+56. Pulse pounding?                     ... pos = 0.0   	neg = 0.0  
+57. Hell yes!                           ... pos = 0     	neg = 0.5  
+58. Strangely enough , I                ... pos = 1.375 	neg = 0.0  
+59. It does not provide                 ... pos = 0.375 	neg = 0.25 
+60. Rating: Four and a h                ... pos = 0.75  	neg = 0.0  
+61. " moments , four "Ho                ... pos = 0.125 	neg = 0.5  
+62. You may wonder where                ... pos = 0.0   	neg = 0.0  
+63. Well , I swore never                ... pos = 0.375 	neg = 0.0  
+64. It's pretty obvious                 ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-2979-1584 is Positive        ... pos = 25.125 	neg = 19.0 
+Overall score of document
+Total Pos = 25.125
+Total Neg = 19.0
+---------------------------------------------------------------------------

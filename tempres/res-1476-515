@@ -1,0 +1,77 @@
+0. [Note that followups                 ... pos = 1.375 	neg = 0.0  
+1. -Moderator]. Star Tr                 ... pos = 0.0   	neg = 0.0  
+2. ***This review does                  ... pos = 0.125 	neg = 1.125
+3. After seeing about a                 ... pos = 0.875 	neg = 0.125
+4. Finally, Starfleet b                 ... pos = 0.0   	neg = 0.0  
+5. Finally, an action p                 ... pos = 0.0   	neg = 0.75 
+6. I was one of the fir                 ... pos = 0.125 	neg = 0.0  
+7. Once it began, I cou                 ... pos = 0.25  	neg = 0.0  
+8. If you are a casual                  ... pos = 0.5   	neg = 0.125
+9. If you are a serious                 ... pos = 0.375 	neg = 0.0  
+10. First of all, nothin                ... pos = 0.125 	neg = 0.375
+11. As soon as the film                 ... pos = 0.0   	neg = 0.0  
+12. You aren't even give                ... pos = 0.0   	neg = 0.0  
+13. And after that it's                 ... pos = 0.0   	neg = 0.0  
+14. How are they doing i                ... pos = 0.25  	neg = 0.0  
+15. Don't ask.                          ... pos = 0     	neg = 0.0  
+16. Just watch.                         ... pos = 0.125 	neg = 0.0  
+17. Will it make sense?                 ... pos = 0.125 	neg = 0.0  
+18. No.                                 ... pos = 0     	neg = 0.25 
+19. Just watch.                         ... pos = 0.125 	neg = 0.0  
+20. When we first see Ge                ... pos = 0.125 	neg = 0.375
+21. He apparently no lon                ... pos = 0.0   	neg = 0.5  
+22. Well when did that h                ... pos = 0.0   	neg = 0.0  
+23. In the last film, th                ... pos = 0.0   	neg = 0.125
+24. So are we introduced                ... pos = 0.625 	neg = 0.125
+25. Nope, not even for a                ... pos = 0.0   	neg = 0.0  
+26. When the Enterprise                 ... pos = 1.625 	neg = 0.125
+27. Here, when the ship                 ... pos = 0.0   	neg = 0.125
+28. Blow it up.                         ... pos = 0.0   	neg = 0.25 
+29. Starfleet has change                ... pos = 0.125 	neg = 0.375
+30. Would you feel safe                 ... pos = 0.375 	neg = 0.75 
+31. Also, none of the ch                ... pos = 1.0   	neg = 0.0  
+32. Data has emotions no                ... pos = 0.625 	neg = 0.0  
+33. The rest of the crew                ... pos = 0.0   	neg = 0.625
+34. Captain Picard (Stew                ... pos = 0.0   	neg = 0.0  
+35. Forget the fact that                ... pos = 0.75  	neg = 0.0  
+36. They act as if those                ... pos = 1.375 	neg = 0    
+37. I don't like that.                  ... pos = 0     	neg = 0.0  
+38. It's like I'm being                 ... pos = 0.25  	neg = 0.0  
+39. The Borg as an enemy                ... pos = 0.125 	neg = 0.875
+40. As smart and advance                ... pos = 0.5   	neg = 0.0  
+41. This is how they alw                ... pos = 0.0   	neg = 0.125
+42. The Borg will just w                ... pos = 0.125 	neg = 0.375
+43. Meanwhile those crew                ... pos = 0.0   	neg = 0.0  
+44. This is a movie folk                ... pos = 0.0   	neg = 0.125
+45. You writers could ha                ... pos = 0.375 	neg = 0.0  
+46. A Borg leader is int                ... pos = 0.0   	neg = 0.375
+47. Picard confronts her                ... pos = 0.0   	neg = 0    
+48. She admits that is t                ... pos = 0.875 	neg = 0.75 
+49. But then, later in t                ... pos = 0.25  	neg = 0.125
+50. (That poses the Wiza                ... pos = 0.125 	neg = 0.0  
+51. ) So what was the po                ... pos = 0.0   	neg = 0.125
+52. Also, in the TV seri                ... pos = 0.25  	neg = 0.125
+53. Never once can I rec                ... pos = 0.0   	neg = 0.0  
+54. Here, they don't bot                ... pos = 0     	neg = 0.125
+55. The Borg have develo                ... pos = 0.25  	neg = 0.125
+56. They send only one s                ... pos = 0.125 	neg = 0.625
+57. Well, the Enterprise                ... pos = 0.0   	neg = 0.125
+58. Wouldn't it make sen                ... pos = 0.0   	neg = 0.25 
+59. Again, these "fierce                ... pos = 0.125 	neg = 0.125
+60. There's a pointless                 ... pos = 0.0   	neg = 0.5  
+61. Throughout the histo                ... pos = 0.0   	neg = 0.0  
+62. Well not only does t                ... pos = 0.0   	neg = 0.0  
+63. Ridiculous.                         ... pos = 0     	neg = 0.625
+64. For a series which p                ... pos = 0.625 	neg = 0.0  
+65. There's a Star Trek                 ... pos = 0.0   	neg = 0.125
+66. Maybe when making th                ... pos = 0.0   	neg = 0.25 
+67. Why not?                            ... pos = 0.0   	neg = 0.0  
+68. They got plenty of p                ... pos = 0.25  	neg = 0.5  
+69. --  Chuck Dowling Re                ... pos = 0.125 	neg = 0.0  
+70. Movie news, box offi                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1476-515 is Positive         ... pos = 15.375 	neg = 12.5 
+Overall score of document
+Total Pos = 15.375
+Total Neg = 12.5
+---------------------------------------------------------------------------

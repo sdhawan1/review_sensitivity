@@ -1,0 +1,23 @@
+0. Starring: Jeff Bridg                 ... pos = 0.0   	neg = 0.125
+1. The Dude visits mill                 ... pos = 0.0   	neg = 0.25 
+2. Lebowski's wife Bunn                 ... pos = 0.0   	neg = 0.875
+3. Lebowsky gives the D                 ... pos = 0.0   	neg = 1.5  
+4. This leads to a situ                 ... pos = 1.25  	neg = 0.0  
+5. Aiding the Dude in h                 ... pos = 0.625 	neg = 0.625
+6. Will the Dude guess                  ... pos = 0.125 	neg = 0.0  
+7. Opinion: Unlike FARG                 ... pos = 0.125 	neg = 0.5  
+8. Basically, the plot                  ... pos = 0.0   	neg = 1.0  
+9. The film is little m                 ... pos = 0.0   	neg = 0.375
+10. For example, the Dud                ... pos = 0.375 	neg = 0.625
+11. Walter is always quo                ... pos = 0.0   	neg = 0.25 
+12. Maude zooms across t                ... pos = 0.0   	neg = 0.125
+13. John Turturro shows                 ... pos = 0.0   	neg = 0.0  
+14. And so on.                          ... pos = 0     	neg = 0.0  
+15. The actors really ha                ... pos = 0.0   	neg = 0.0  
+16. Some parts are funny                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5626-416 is Negative         ... pos = 3.25  	neg = 6.25 
+Overall score of document
+Total Pos = 3.25
+Total Neg = 6.25
+---------------------------------------------------------------------------

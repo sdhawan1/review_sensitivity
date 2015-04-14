@@ -1,0 +1,53 @@
+0. Director: John Madde                 ... pos = 0.5   	neg = 0.0  
+1. US Distribution: Uni                 ... pos = 0.25  	neg = 0.75 
+2. They also wanted to                  ... pos = 1.0   	neg = 0.0  
+3. Stoppard and Norman                  ... pos = 1.0   	neg = 0.0  
+4. And, despite the dif                 ... pos = 0.125 	neg = 0.125
+5. Shakespeare in Love                  ... pos = 1.75  	neg = 0.125
+6. It's so rare that a                  ... pos = 1.5   	neg = 0.125
+7. It could have been a                 ... pos = 1.0   	neg = 0.25 
+8. Joseph Fiennes, brot                 ... pos = 0.75  	neg = 0.625
+9. He's commissioned to                 ... pos = 0.25  	neg = 0.625
+10. Shakespeare, however                ... pos = 0.125 	neg = 0.625
+11. He begins work on a                 ... pos = 0.25  	neg = 0.0  
+12. This all changes, ho                ... pos = 0.25  	neg = 0.0  
+13. Shakespeare instantl                ... pos = 0.25  	neg = 0.625
+14. He discovers her ide                ... pos = 1.875 	neg = 0.375
+15. But she continues to                ... pos = 0.75  	neg = 0.25 
+16. Shakespeare in Love                 ... pos = 1.625 	neg = 0.125
+17. I was instantly won                 ... pos = 2.875 	neg = 0.375
+18. He practically overf                ... pos = 0.5   	neg = 0.0  
+19. Fiennes is matched b                ... pos = 1.125 	neg = 0.375
+20. The two performers w                ... pos = 1.25  	neg = 0.0  
+21. Of course, it doesn'                ... pos = 0.75  	neg = 0.0  
+22. Stoppard, whose play                ... pos = 0.75  	neg = 0.125
+23. The first intelligen                ... pos = 0.375 	neg = 0.125
+24. One of the funniest                 ... pos = 0.875 	neg = 1.5  
+25. Director John Madden                ... pos = 1.375 	neg = 0.125
+26. I'm going to have to                ... pos = 0.375 	neg = 0.25 
+27. In fact, I doubt it'                ... pos = 0.0   	neg = 0.0  
+28. Stoppard is a master                ... pos = 0.0   	neg = 0.25 
+29. There's also a brill                ... pos = 1.625 	neg = 0.875
+30. There's also a scene                ... pos = 0.0   	neg = 0.75 
+31. "There's no dog in t                ... pos = 0.0   	neg = 0.875
+32. "  "No!                             ... pos = 0     	neg = 0    
+33. No dog!                             ... pos = 0     	neg = 0.25 
+34. ". The ensemble cast                ... pos = 0.5   	neg = 0.125
+35. Geoffrey Rush is nea                ... pos = 0.25  	neg = 1.625
+36. Ben Affleck, playing                ... pos = 1.5   	neg = 0.125
+37. Colin Firth, always                 ... pos = 1.25  	neg = 0.667
+38. Judi Dench, however,                ... pos = 0.625 	neg = 0.125
+39. My single, minor com                ... pos = 0.625 	neg = 0.25 
+40. The story is moving,                ... pos = 0.25  	neg = 0.375
+41. But my quibbling is                 ... pos = 0.875 	neg = 0.125
+42. What is important is                ... pos = 1.5   	neg = 0.375
+43. Shakespeare in Love                 ... pos = 2.125 	neg = 0.0  
+44. It's also a movie th                ... pos = 0.375 	neg = 0.0  
+45. I admire this film n                ... pos = 1.75  	neg = 0.0  
+46. Not just any film ca                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1433-760 is Positive         ... pos = 37.125 	neg = 14.292
+Overall score of document
+Total Pos = 37.125
+Total Neg = 14.292
+---------------------------------------------------------------------------

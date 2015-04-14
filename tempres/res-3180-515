@@ -1,0 +1,30 @@
+0. Cast: Johnny Depp, B                 ... pos = 0.75  	neg = 0.375
+1. Also understand that                 ... pos = 0.375 	neg = 0.25 
+2. That having been sai                 ... pos = 0     	neg = 0.125
+3. Fear and Loathing in                 ... pos = 0.375 	neg = 1.125
+4. It has it's good mom                 ... pos = 1.0   	neg = 0.0  
+5. The film is similar                  ... pos = 0.5   	neg = 0.25 
+6. Here it's Johnny Dep                 ... pos = 0.0   	neg = 0.0  
+7. Where the Buffalo Ro                 ... pos = 0.5   	neg = 0.0  
+8. The events in Fear a                 ... pos = 0.5   	neg = 0.625
+9. Fear and Loathing in                 ... pos = 0.375 	neg = 0.875
+10. It's just one long d                ... pos = 0.0   	neg = 0.375
+11. It's mildly amusing                 ... pos = 0.0   	neg = 0.375
+12. Depp is good playing                ... pos = 2.625 	neg = 0.25 
+13. Whenever I see him o                ... pos = 0.875 	neg = 0.125
+14. Add drunken slurs to                ... pos = 0.375 	neg = 0.125
+15. The film just seems                 ... pos = 0.375 	neg = 0.375
+16. For example, who is                 ... pos = 0.0   	neg = 0.125
+17. Why would anyone tol                ... pos = 0.25  	neg = 0.5  
+18. And also, who can li                ... pos = 0.0   	neg = 0.0  
+19. How can someone cons                ... pos = 0.25  	neg = 0.25 
+20. Come to think of it,                ... pos = 0.0   	neg = 0.0  
+21. Thankfully, I have e                ... pos = 0.0   	neg = 0.125
+22. [R]. The Jacksonvill                ... pos = 0.0   	neg = 0.0  
+23. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3180-515 is Positive         ... pos = 9.375 	neg = 6.625
+Overall score of document
+Total Pos = 9.375
+Total Neg = 6.625
+---------------------------------------------------------------------------

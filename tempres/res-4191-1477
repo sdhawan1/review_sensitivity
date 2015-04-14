@@ -1,0 +1,81 @@
+0. Year: 1999 Starring                  ... pos = 0.625 	neg = 0.125
+1. Is it confusing?                     ... pos = 0.0   	neg = 0.625
+2. Almost certainly.                    ... pos = 0.25  	neg = 0    
+3. But there's a reason                 ... pos = 0.0   	neg = 0.0  
+4. "Magnolia" is the ki                 ... pos = 0.375 	neg = 0.125
+5. Paul Thomas Anderson                 ... pos = 0.0   	neg = 0.125
+6. It's for this reason                 ... pos = 0.25  	neg = 0.25 
+7. Why?                                 ... pos = 0     	neg = 0.0  
+8. Because the film dar                 ... pos = 0.0   	neg = 0.0  
+9. It is certainly not                  ... pos = 0.375 	neg = 0.125
+10. But to those who enj                ... pos = 0.375 	neg = 0.125
+11. You don't see films                 ... pos = 0.75  	neg = 0.25 
+12. This film interlocks                ... pos = 0.875 	neg = 0.25 
+13. First we have dying                 ... pos = 0.125 	neg = 0.0  
+14. We are introduced to                ... pos = 0.25  	neg = 0.0  
+15. " hosted by veteran                 ... pos = 0.0   	neg = 0.125
+16. The current "whiz ki                ... pos = 0.125 	neg = 0.125
+17. The former whiz kid                 ... pos = 0.25  	neg = 0.25 
+18. He loses his job and                ... pos = 0.125 	neg = 0    
+19. Gator's daughter is                 ... pos = 0.5   	neg = 0.375
+20. Earl's long-lost son                ... pos = 1.25  	neg = 0.125
+21. The stories twist in                ... pos = 0.75  	neg = 0.125
+22. The most noticeable                 ... pos = 1.75  	neg = 0.125
+23. Your personal opinio                ... pos = 1.5   	neg = 0.625
+24. Everyone pulls his o                ... pos = 0.0   	neg = 0.0  
+25. My personal favorite                ... pos = 0.5   	neg = 0.5  
+26. As such, his unconve                ... pos = 0.125 	neg = 0.125
+27. His impulse is not t                ... pos = 0.375 	neg = 0.375
+28. Tom Cruise is extrem                ... pos = 0.625 	neg = 0.125
+29. His breakdown to a f                ... pos = 0.375 	neg = 0.125
+30. The only point where                ... pos = 0.0   	neg = 1.25 
+31. After excelling at p                ... pos = 1.125 	neg = 0.5  
+32. Macy does his usual                 ... pos = 1.125 	neg = 0.0  
+33. Moore has what's pro                ... pos = 0.0   	neg = 0.125
+34. Her character is one                ... pos = 1.5   	neg = 0.25 
+35. The veterans-Robards                ... pos = 0.375 	neg = 0.0  
+36. There are several I                 ... pos = 0.75  	neg = 0.0  
+37. No weak links.                      ... pos = 0.0   	neg = 0.75 
+38. After his critically                ... pos = 0.0   	neg = 0.375
+39. Anderson's vision is                ... pos = 0.125 	neg = 0.125
+40. The major stylistic                 ... pos = 0.25  	neg = 0.125
+41. An article in "Enter                ... pos = 0.125 	neg = 0.0  
+42. Such influence is ev                ... pos = 1.0   	neg = 0.5  
+43. The first climax occ                ... pos = 1.375 	neg = 0.0  
+44. Gator collapses on h                ... pos = 0.0   	neg = 0.0  
+45. Stanley has an on-ai                ... pos = 0.0   	neg = 0    
+46. " Frank is exposed i                ... pos = 0.125 	neg = 0.125
+47. And so on.                          ... pos = 0     	neg = 0.0  
+48. Any old film might h                ... pos = 0.0   	neg = 0.625
+49. Instead of a resolut                ... pos = 0.0   	neg = 0.0  
+50. (With regards to the                ... pos = 0.75  	neg = 0.375
+51. ") Then it climaxes                 ... pos = 0.125 	neg = 0.25 
+52. To reveal it would b                ... pos = 0.0   	neg = 0.125
+53. It ties together the                ... pos = 0.375 	neg = 0.25 
+54. It's necessary becau                ... pos = 0.25  	neg = 0.0  
+55. They can be seen in                 ... pos = 2.125 	neg = 0.625
+56. "Magnolia" starts wi                ... pos = 1.0   	neg = 0.0  
+57. Coincidence and happ                ... pos = 1.0   	neg = 0.0  
+58. The most important t                ... pos = 1.375 	neg = 0.25 
+59. Jay narrates that th                ... pos = 0.0   	neg = 0.0  
+60. The final scene seem                ... pos = 1.875 	neg = 0.625
+61. It also relates to a                ... pos = 0.0   	neg = 0.125
+62. It seems a warning t                ... pos = 0.875 	neg = 0.125
+63. Will the message con                ... pos = 0.125 	neg = 0    
+64. That is left for us                 ... pos = 0.0   	neg = 0.125
+65. It would be pointles                ... pos = 0.625 	neg = 0.75 
+66. " He ties images and                ... pos = 1.125 	neg = 0.125
+67. But the most impress                ... pos = 0.125 	neg = 0.25 
+68. Is it perfect?                      ... pos = 0.0   	neg = 0.125
+69. That's kind of hard                 ... pos = 0.0   	neg = 0.75 
+70. As is often the case                ... pos = 3.75  	neg = 0.375
+71. What we have here is                ... pos = 0.25  	neg = 0.625
+72. If someone were to a                ... pos = 0.0   	neg = 0.25 
+73. There are many.                     ... pos = 0.25  	neg = 0.0  
+74. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4191-1477 is Positive        ... pos = 36.375 	neg = 16.0 
+Overall score of document
+Total Pos = 36.375
+Total Neg = 16.0
+---------------------------------------------------------------------------

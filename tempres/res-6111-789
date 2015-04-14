@@ -1,0 +1,39 @@
+0. In the past, Tim Bur                 ... pos = 0.25  	neg = 0.125
+1. Sleepy Hollow has so                 ... pos = 0.375 	neg = 0.75 
+2. For those who rememb                 ... pos = 0.5   	neg = 0.125
+3. Disney's version was                 ... pos = 0.0   	neg = 1.125
+4. While the stories ar                 ... pos = 1.875 	neg = 1.375
+5. Ichabod Crane (Johnn                 ... pos = 0.375 	neg = 0.75 
+6. The victims are head                 ... pos = 0.25  	neg = 1.625
+7. Now with the help of                 ... pos = 1.125 	neg = 0.625
+8. Sure the headless ho                 ... pos = 1.375 	neg = 1.5  
+9. In the original, the                 ... pos = 0.0   	neg = 1.5  
+10. No one could stop hi                ... pos = 0.0   	neg = 0.25 
+11. By the end of the fi                ... pos = 0.0   	neg = 0.0  
+12. Burton however conce                ... pos = 1.125 	neg = 0.5  
+13. He takes no risk wha                ... pos = 0.0   	neg = 0.5  
+14. Another pathetic ele                ... pos = 0.0   	neg = 1.125
+15. Like I said earlier,                ... pos = 0.125 	neg = 1.5  
+16. He completely butche                ... pos = 0.0   	neg = 0.0  
+17. Thankfully there are                ... pos = 0.375 	neg = 0.0  
+18. The acting by Depp w                ... pos = 0.0   	neg = 0.125
+19. He took the nerdy ch                ... pos = 0.875 	neg = 0.0  
+20. If it wasn't for his                ... pos = 0.0   	neg = 0.125
+21. Just when I thought                 ... pos = 0.75  	neg = 0.25 
+22. It just goes to show                ... pos = 0.0   	neg = 0.25 
+23. It's too tempting to                ... pos = 0.0   	neg = 0.875
+24. The atmosphere too w                ... pos = 0.0   	neg = 0.375
+25. I should have just g                ... pos = 0.625 	neg = 0.125
+26. At least Burton's fi                ... pos = 0.5   	neg = 0.125
+27. The only real scenes                ... pos = 0.0   	neg = 0.125
+28. Other than that, I w                ... pos = 0.0   	neg = 1.0  
+29. By the end, I can on                ... pos = 0.25  	neg = 0.875
+30. This is the biggest                 ... pos = 0.0   	neg = 0.875
+31. Don't waste your tim                ... pos = 0.125 	neg = 0.0  
+32. Grade: D+. .                        ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6111-789 is Negative         ... pos = 10.875 	neg = 18.5 
+Overall score of document
+Total Pos = 10.875
+Total Neg = 18.5
+---------------------------------------------------------------------------

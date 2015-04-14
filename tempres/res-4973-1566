@@ -1,0 +1,69 @@
+0. Starring: Michael Do                 ... pos = 0.0   	neg = 0.0  
+1. Director David Finch                 ... pos = 1.0   	neg = 0.25 
+2. Film is one of the b                 ... pos = 0.5   	neg = 0.125
+3. But most directors s                 ... pos = 0.125 	neg = 0.375
+4. So whenever a direct                 ... pos = 1.875 	neg = 0.0  
+5. And when they add a                  ... pos = 0.25  	neg = 0.125
+6. Fincher's The Game i                 ... pos = 0.0   	neg = 0.375
+7. The Game is one of t                 ... pos = 0.0   	neg = 0.5  
+8. Fincher hasn't made                  ... pos = 0.375 	neg = 0.125
+9. So it is about time                  ... pos = 0.0   	neg = 0.25 
+10. And what a ride it i                ... pos = 0.0   	neg = 0.125
+11. The Game isn't quite                ... pos = 0.25  	neg = 0.125
+12. Overall, The Game co                ... pos = 0.5   	neg = 0.5  
+13. It walks a line of i                ... pos = 1.125 	neg = 0.0  
+14. The outcome is satis                ... pos = 1.0   	neg = 0.25 
+15. Unfortunately, unlik                ... pos = 1.375 	neg = 1.125
+16. However, this also g                ... pos = 0.375 	neg = 0.0  
+17. The Game is told com                ... pos = 0.0   	neg = 0.125
+18. Nicholas Van Orton (                ... pos = 0.0   	neg = 0.125
+19. He lives alone in hi                ... pos = 0.0   	neg = 0.125
+20. For his 48th birthda                ... pos = 0.25  	neg = 0.0  
+21. "It will make your l                ... pos = 0.125 	neg = 0.0  
+22. As skeptical as Nich                ... pos = 0.375 	neg = 0.75 
+23. Seeing a billboard i                ... pos = 0.5   	neg = 0.0  
+24. Jim Feingold (James                 ... pos = 0.75  	neg = 0.0  
+25. "Each game is suited                ... pos = 1.375 	neg = 0.25 
+26. One day, Nicholas ge                ... pos = 0.0   	neg = 0.125
+27. Even more intrigued                 ... pos = 0.25  	neg = 0.0  
+28. What he doesn't real                ... pos = 0.125 	neg = 0.125
+29. The phone call is ju                ... pos = 0.5   	neg = 0.25 
+30. How he finds out tha                ... pos = 0.625 	neg = 0.375
+31. The detail involved                 ... pos = 0.125 	neg = 0.125
+32. With "Seven," Finche                ... pos = 0.0   	neg = 0.0  
+33. He also has the uniq                ... pos = 1.125 	neg = 0.375
+34. Compared to "Seven,"                ... pos = 1.0   	neg = 0.125
+35. Because of this film                ... pos = 0.0   	neg = 0.375
+36. So don't try to make                ... pos = 0.125 	neg = 0.125
+37. What does make sense                ... pos = 0.0   	neg = 0.125
+38. If taken as it is, T                ... pos = 0.0   	neg = 0.125
+39. But if you try and c                ... pos = 0.625 	neg = 0.25 
+40. Perhaps that is the                 ... pos = 0.0   	neg = 0.125
+41. While trying to rema                ... pos = 0.75  	neg = 0.875
+42. We don't really care                ... pos = 1.5   	neg = 0.0  
+43. The ending requires                 ... pos = 0.625 	neg = 0.125
+44. Michael Douglas give                ... pos = 0.25  	neg = 0.0  
+45. Douglas has played l                ... pos = 0.75  	neg = 0.125
+46. His character, who i                ... pos = 1.125 	neg = 0.25 
+47. Can he believe the w                ... pos = 0.125 	neg = 0.25 
+48. What about his broth                ... pos = 0.125 	neg = 0.0  
+49. Douglas portrays thi                ... pos = 1.875 	neg = 0.0  
+50. The supporting cast                 ... pos = 0.375 	neg = 0.25 
+51. Sean Penn is always                 ... pos = 1.625 	neg = 0.25 
+52. Deborah Kara Unger (                ... pos = 1.375 	neg = 0.25 
+53. In fact, she almost                 ... pos = 0.5   	neg = 0    
+54. James Rebhorn portra                ... pos = 2.0   	neg = 0.0  
+55. Another good perform                ... pos = 0.75  	neg = 0.125
+56. But considering that                ... pos = 1.125 	neg = 0.125
+57. The Game is rated R                 ... pos = 0.125 	neg = 0.5  
+58. What is essential fo                ... pos = 0.0   	neg = 0.25 
+59. John Brancato and Mi                ... pos = 1.0   	neg = 0.5  
+60. This screenplay will                ... pos = 0.75  	neg = 0.0  
+61. However, the visuals                ... pos = 1.0   	neg = 0.0  
+62. And if you can get y                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4973-1566 is Positive        ... pos = 35.125 	neg = 12.25
+Overall score of document
+Total Pos = 35.125
+Total Neg = 12.25
+---------------------------------------------------------------------------

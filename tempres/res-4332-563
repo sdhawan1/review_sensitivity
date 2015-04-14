@@ -1,0 +1,45 @@
+0. "Not far from here t                 ... pos = 0.0   	neg = 0.0  
+1. On the other side of                 ... pos = 0.0   	neg = 0.125
+2. That gorilla will ne                 ... pos = 0.125 	neg = 0.0  
+3. " Starring Anthony H                 ... pos = 0.0   	neg = 0.0  
+4. Rated R.. Instinct i                 ... pos = 0.75  	neg = 0.125
+5. I have a name for it                 ... pos = 0.0   	neg = 0.0  
+6. This is the sort of                  ... pos = 0.125 	neg = 3.375
+7. How that scene is st                 ... pos = 0.25  	neg = 0.5  
+8. This is one example                  ... pos = 0.25  	neg = 0.25 
+9. Instinct's plot is b                 ... pos = 0.375 	neg = 0.375
+10. He was found and is                 ... pos = 0.25  	neg = 1.5  
+11. After committing a f                ... pos = 0.0   	neg = 0.0  
+12. Assigned to do an ev                ... pos = 0.375 	neg = 0.125
+13. Caulder starts out d                ... pos = 0.5   	neg = 0.0  
+14. Of course (and no ma                ... pos = 0.5   	neg = 0.25 
+15. And then there's the                ... pos = 0.875 	neg = 0.0  
+16. He cares for Caulder                ... pos = 0.0   	neg = 0.0  
+17. Let's get one thing                 ... pos = 0.0   	neg = 1.375
+18. Any good shrink will                ... pos = 2.0   	neg = 0.0  
+19. Not good old Theo.                  ... pos = 0.75  	neg = 0    
+20. No, he asks purposef                ... pos = 0.25  	neg = 0.5  
+21. " This is a flaw onl                ... pos = 0.0   	neg = 1.375
+22. Director Jon Turtelt                ... pos = 1.875 	neg = 0.0  
+23. It's not the kind of                ... pos = 0.875 	neg = 0.25 
+24. It aims to "inspire"                ... pos = 0.75  	neg = 0    
+25. As Yoda would say, i                ... pos = 0.0   	neg = 0.0  
+26. It is the ultimate s                ... pos = 0.75  	neg = 0.125
+27. Indeed, somewhere in                ... pos = 1.75  	neg = 0.75 
+28. This, like the insta                ... pos = 0.125 	neg = 1.25 
+29. I am forced to wonde                ... pos = 0.0   	neg = 0.5  
+30. I think that Anthony                ... pos = 1.75  	neg = 0.125
+31. Oscar winner Cuba Go                ... pos = 0.25  	neg = 0.75 
+32. His performance is a                ... pos = 0.375 	neg = 0.25 
+33. I liked the guy in J                ... pos = 0.875 	neg = 0.5  
+34. I love animals, and                 ... pos = 1.625 	neg = 0.5  
+35. However this movie's                ... pos = 0.125 	neg = 0.875
+36. Tone down the violen                ... pos = 0.125 	neg = 0.125
+37. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+38. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4332-563 is Positive         ... pos = 18.625 	neg = 15.875
+Overall score of document
+Total Pos = 18.625
+Total Neg = 15.875
+---------------------------------------------------------------------------

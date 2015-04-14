@@ -1,0 +1,77 @@
+0. Year: 1999.                          ... pos = 0     	neg = 0    
+1. Starring George Cloo                 ... pos = 0.0   	neg = 0.0  
+2. Written by John Ridl                 ... pos = 0.0   	neg = 0.0  
+3. Directed by David O.                 ... pos = 0.0   	neg = 0.0  
+4. Rated R.. If someone                 ... pos = 1.0   	neg = 0.25 
+5. If someone had told                  ... pos = 0.0   	neg = 0.25 
+6. I'd have been wrong.                 ... pos = 0     	neg = 0.875
+7. Surprising as it may                 ... pos = 0.5   	neg = 0.25 
+8. What's more surprisi                 ... pos = 0.875 	neg = 0.125
+9. Damn good.                           ... pos = 0.75  	neg = 0.125
+10. I don' t know when t                ... pos = 0.75  	neg = 0.0  
+11. Clooney stars as Ser                ... pos = 0.5   	neg = 0.25 
+12. While the other Amer                ... pos = 0.0   	neg = 0    
+13. Troy Barlow (Mark Wa                ... pos = 0.0   	neg = 0.25 
+14. Thanks to Sgt.                      ... pos = 0.125 	neg = 0    
+15. Gates' special force                ... pos = 0.375 	neg = 0.0  
+16. The four (not three,                ... pos = 0.25  	neg = 0.5  
+17. Their mission is sim                ... pos = 0.25  	neg = 0.125
+18. When they get to the                ... pos = 1.25  	neg = 0.75 
+19. Gates and his team n                ... pos = 0.375 	neg = 0.5  
+20. George Clooney gives                ... pos = 0.375 	neg = 0.0  
+21. He's confident, assu                ... pos = 1.25  	neg = 0.0  
+22. It seems old George                 ... pos = 0.125 	neg = 0.875
+23. Mark Wahlberg (OK, I                ... pos = 0.0   	neg = 0.0  
+24. When he is kidnapped                ... pos = 0.625 	neg = 0.125
+25. As for Ice Cube, I'l                ... pos = 0.25  	neg = 0.125
+26. Give credit to all t                ... pos = 0.375 	neg = 0.0  
+27. They are able to suc                ... pos = 1.125 	neg = 0.625
+28. Heck, add in Spike J                ... pos = 2.125 	neg = 0.375
+29. Director David O. Ru                ... pos = 0.5   	neg = 0.375
+30. (Bear with me here .                ... pos = 0.0   	neg = 0.0  
+31. .                                   ... pos = 0     	neg = 0    
+32. .                                   ... pos = 0     	neg = 0    
+33. ) It has a fairly si                ... pos = 0.375 	neg = 0.625
+34. The film's politics                 ... pos = 1.125 	neg = 0.0  
+35. This is a Hollywood                 ... pos = 0.875 	neg = 0.5  
+36. For example, we don'                ... pos = 0.25  	neg = 0.125
+37. Considering that it'                ... pos = 0.125 	neg = 0.25 
+38. As is often the case                ... pos = 0.375 	neg = 0.25 
+39. There are no good gu                ... pos = 1.625 	neg = 1.125
+40. It's kind of refresh                ... pos = 0.375 	neg = 0.0  
+41. Special care has bee                ... pos = 1.0   	neg = 0.25 
+42. "Three Kings" is a f                ... pos = 0.5   	neg = 1.0  
+43. Russell takes his ca                ... pos = 0.0   	neg = 0.375
+44. A particularly jarri                ... pos = 0.25  	neg = 0.0  
+45. Russell films this i                ... pos = 0.0   	neg = 0.0  
+46. The result is not on                ... pos = 1.0   	neg = 0.375
+47. Russell includes the                ... pos = 0.5   	neg = 0.25 
+48. The script, aside fr                ... pos = 1.5   	neg = 0.0  
+49. For every emotionall                ... pos = 0.625 	neg = 0.125
+50. This structure can b                ... pos = 0.5   	neg = 0.375
+51. A particularly amusi                ... pos = 0.0   	neg = 0.75 
+52. The opening scenes,                 ... pos = 1.25  	neg = 0.125
+53. His script is also a                ... pos = 0.875 	neg = 0.125
+54. The Iraqi captor que                ... pos = 0.625 	neg = 0.0  
+55. The conversation has                ... pos = 1.125 	neg = 0.125
+56. Unfortunately, the f                ... pos = 0.0   	neg = 1.375
+57. The interrogation sc                ... pos = 0.125 	neg = 0.25 
+58. First of all, does i                ... pos = 0.125 	neg = 0.25 
+59. Can't Russell trust                 ... pos = 1.25  	neg = 0.0  
+60. Furthermore, exactly                ... pos = 0.25  	neg = 1.0  
+61. There are several sc                ... pos = 1.125 	neg = 0.625
+62. "Three Kings" is an                 ... pos = 1.125 	neg = 0.125
+63. (I know, it technica                ... pos = 0.0   	neg = 0.0  
+64. ) It's remarkable fo                ... pos = 0.375 	neg = 0.375
+65. A quick word of warn                ... pos = 0.375 	neg = 0.125
+66. It has some humor, a                ... pos = 0.25  	neg = 0.0  
+67. Many of the film's s                ... pos = 2.25  	neg = 0.625
+68. The film intends to                 ... pos = 0.75  	neg = 0.0  
+69. After all, war is he                ... pos = 0.0   	neg = 0.625
+70. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-1477 is Positive        ... pos = 36.625 	neg = 18.875
+Overall score of document
+Total Pos = 36.625
+Total Neg = 18.875
+---------------------------------------------------------------------------

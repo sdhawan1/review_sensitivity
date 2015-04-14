@@ -1,0 +1,68 @@
+0. Starring: Tom Hanks,                 ... pos = 1.625 	neg = 0.125
+1. The reviews themselv                 ... pos = 1.625 	neg = 0.375
+2. My local newspaper e                 ... pos = 0.0   	neg = 0.0  
+3. I had to see this fi                 ... pos = 0.0   	neg = 0.0  
+4. The opening sequence                 ... pos = 0.75  	neg = 0.375
+5. For those expecting                  ... pos = 0.25  	neg = 0.0  
+6. There is no trumpet-                 ... pos = 0.0   	neg = 0.25 
+7. The camera sits the                  ... pos = 0.375 	neg = 1.625
+8. It's a very remarkab                 ... pos = 1.125 	neg = 0.0  
+9. This scene introduce                 ... pos = 0.0   	neg = 0    
+10. John Miller and his                 ... pos = 0.0   	neg = 0.0  
+11. Hanks as Miller avoi                ... pos = 0.0   	neg = 0.125
+12. Hanks leads the stro                ... pos = 0.625 	neg = 0.0  
+13. Horvath,  (Heart and                ... pos = 0.75  	neg = 0.125
+14. Reiben, Matt Damon (                ... pos = 1.125 	neg = 0    
+15. Ryan, and Jeremy Dav                ... pos = 0.0   	neg = 0.125
+16. After surviving Omah                ... pos = 0.25  	neg = 0.0  
+17. General George C. Ma                ... pos = 1.0   	neg = 1.0  
+18. Ryan and bring him b                ... pos = 0.0   	neg = 0    
+19. Miller gets to pick                 ... pos = 0.375 	neg = 0.0  
+20. On the way they bick                ... pos = 1.5   	neg = 0.5  
+21. Miller insists that                 ... pos = 0.0   	neg = 0.0  
+22. Can he keep his squa                ... pos = 1.25  	neg = 0.0  
+23. Overall, the film is                ... pos = 0.25  	neg = 0.25 
+24. While I'm sure this                 ... pos = 0.75  	neg = 0.25 
+25. The main purpose of                 ... pos = 0.25  	neg = 0.25 
+26. On this level, Spiel                ... pos = 0.125 	neg = 0.0  
+27. However, realism doe                ... pos = 0.125 	neg = 0.0  
+28. The plot and charact                ... pos = 0.875 	neg = 0.0  
+29. I found myself less                 ... pos = 1.125 	neg = 0.0  
+30. A truly great film d                ... pos = 0.625 	neg = 0.125
+31. I didn't sit through                ... pos = 0.0   	neg = 0.375
+32. Confidential marvell                ... pos = 0.25  	neg = 0.125
+33. I was more intereste                ... pos = 0.875 	neg = 0.125
+34. Saving Private Ryan                 ... pos = 1.25  	neg = 0.125
+35. There was a great op                ... pos = 0.75  	neg = 0.25 
+36. I wanted to be swept                ... pos = 0.25  	neg = 0.625
+37. Hanks' character emb                ... pos = 1.5   	neg = 0.0  
+38. I wanted to be moved                ... pos = 0.375 	neg = 0.375
+39. Spielberg obviously                 ... pos = 0.0   	neg = 0.125
+40. It is entirely possi                ... pos = 0.75  	neg = 0.125
+41. When I say emotional                ... pos = 4.125 	neg = 0.25 
+42. I found it hard to r                ... pos = 0.0   	neg = 0.875
+43. Even though the came                ... pos = 0.75  	neg = 0.125
+44. They just went a ste                ... pos = 0.5   	neg = 0.375
+45. The opening and clos                ... pos = 0.0   	neg = 0.375
+46. He looks at the cros                ... pos = 0.0   	neg = 0.0  
+47. Why did I survive?                  ... pos = 0     	neg = 0.0  
+48. " It was that humani                ... pos = 1.0   	neg = 0.125
+49. Perhaps Spileberg an                ... pos = 0.375 	neg = 0.375
+50. If that was the case                ... pos = 0.625 	neg = 0.25 
+51. The technical aspect                ... pos = 0.25  	neg = 0.0  
+52. The Cinematography b                ... pos = 0.5   	neg = 0.125
+53. The colors, textures                ... pos = 0.5   	neg = 0    
+54. The musical score by                ... pos = 0.375 	neg = 0.125
+55. One thing that I als                ... pos = 1.0   	neg = 0.125
+56. Just a rain of machi                ... pos = 0.0   	neg = 0.0  
+57. Overall, the film is                ... pos = 1.5   	neg = 0.125
+58. I really didn't care                ... pos = 0.875 	neg = 0.5  
+59. That did not happen.                ... pos = 0.0   	neg = 0.0  
+60. Therefore the film w                ... pos = 0.0   	neg = 0.875
+61. Of the 3.75 I paid f                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2471-674 is Positive         ... pos = 35.125 	neg = 12.5 
+Overall score of document
+Total Pos = 35.125
+Total Neg = 12.5
+---------------------------------------------------------------------------

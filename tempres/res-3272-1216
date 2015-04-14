@@ -1,0 +1,48 @@
+0. Reviewer: M.P.                       ... pos = 0.0   	neg = 0.0  
+1. (bootsector@hotmail.                 ... pos = 0.5   	neg = 0.25 
+2. A story is born, a s                 ... pos = 0.0   	neg = 0.375
+3. Gattaca is about the                 ... pos = 0.375 	neg = 0.125
+4. Vincent(Ethan Hawke)                 ... pos = 0.375 	neg = 0.125
+5. He is bared from dec                 ... pos = 0.5   	neg = 0.375
+6. Vincent goes against                 ... pos = 0.75  	neg = 0.0  
+7. Everything goes grea                 ... pos = 0.0   	neg = 0.125
+8. The ensuing investig                 ... pos = 0.625 	neg = 0.0  
+9. The murder threatens                 ... pos = 0.5   	neg = 0.25 
+10. This story is build                 ... pos = 1.0   	neg = 0.125
+11. The story is set in                 ... pos = 1.375 	neg = 0.75 
+12. And the director let                ... pos = 0.25  	neg = 0.0  
+13. Although this portio                ... pos = 0.0   	neg = 0.25 
+14. Unlike many other Sc                ... pos = 0.625 	neg = 0.0  
+15. The setting is marve                ... pos = 1.125 	neg = 0.25 
+16. Although some things                ... pos = 0.375 	neg = 0.75 
+17. This movie shows det                ... pos = 0.75  	neg = 0.125
+18. BUT don't get me wro                ... pos = 0.5   	neg = 0.75 
+19. That had to be menti                ... pos = 0.0   	neg = 1.0  
+20. A few small things d                ... pos = 0.125 	neg = 0.125
+21. But these things alt                ... pos = 0.25  	neg = 0.0  
+22. Aside from Vincent's                ... pos = 0.5   	neg = 0.125
+23. Then again no story                 ... pos = 0.5   	neg = 0.5  
+24. The acting in this m                ... pos = 0.0   	neg = 0.125
+25. The casting for this                ... pos = 0.0   	neg = 0.125
+26. Although Ethan Hawke                ... pos = 0.5   	neg = 1.75 
+27. Ethan, plays the rol                ... pos = 0.5   	neg = 0.0  
+28. His mild clumsiness,                ... pos = 0.5   	neg = 0.5  
+29. Although the acting                 ... pos = 1.25  	neg = 0.25 
+30. Uma Thurman, who pla                ... pos = 0.625 	neg = 0.125
+31. The role couldn't ha                ... pos = 0.0   	neg = 0.125
+32. She plays the role v                ... pos = 1.0   	neg = 0.125
+33. Uma, seems to glow i                ... pos = 2.0   	neg = 1.125
+34. Jude Law (Jerome, th                ... pos = 0.125 	neg = 0.0  
+35. He seems like he bel                ... pos = 0.0   	neg = 0.125
+36. And the conditions o                ... pos = 0.75  	neg = 0.375
+37. All the acting in th                ... pos = 2.0   	neg = 0.125
+38. Despite its flaws, a                ... pos = 0.5   	neg = 0.125
+39. Although I am partia                ... pos = 0.5   	neg = 0.75 
+40. And to top it all of                ... pos = 1.0   	neg = 0.625
+41. I rate this movie 3.                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3272-1216 is Positive        ... pos = 22.25 	neg = 12.75
+Overall score of document
+Total Pos = 22.25
+Total Neg = 12.75
+---------------------------------------------------------------------------

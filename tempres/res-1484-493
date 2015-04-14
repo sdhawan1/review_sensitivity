@@ -1,0 +1,54 @@
+0. A REVIEW OF KEEPING                  ... pos = 0.125 	neg = 0.0  
+1. Directed by Edward N                 ... pos = 0.0   	neg = 0    
+2. Written by Stuart Bl                 ... pos = 0.0   	neg = 0    
+3. 2000.                                ... pos = 0     	neg = 0    
+4. Reviewed by John Car                 ... pos = 0.0   	neg = 0    
+5. The first quarter of                 ... pos = 0.25  	neg = 1.0  
+6. January and February                 ... pos = 0.0   	neg = 0.5  
+7. Studios cross their                  ... pos = 0.875 	neg = 0.0  
+8. Up until Erin Brocko                 ... pos = 0.0   	neg = 0.25 
+9. But, we finally are                  ... pos = 0.25  	neg = 0.0  
+10. On April 14th, a tru                ... pos = 1.25  	neg = 0.0  
+11. Keeping the Faith is                ... pos = 0.625 	neg = 0.125
+12. Keeping the Faith ha                ... pos = 1.25  	neg = 0.0  
+13. The main premise of                 ... pos = 0.125 	neg = 0.0  
+14. The trio were best f                ... pos = 0.5   	neg = 0.75 
+15. Over 15 years later,                ... pos = 0.375 	neg = 0.25 
+16. Keeping the Faith go                ... pos = 0.5   	neg = 0.25 
+17. Whether it be the di                ... pos = 0.5   	neg = 0.125
+18. Keeping the Faith op                ... pos = 0.0   	neg = 0.0  
+19. Right from the get-g                ... pos = 0.0   	neg = 0.125
+20. Five minutes into th                ... pos = 0.25  	neg = 0.25 
+21. From this point on,                 ... pos = 0.25  	neg = 0.125
+22. The plot evolves fro                ... pos = 0.625 	neg = 0.0  
+23. Schram, a rabbi cons                ... pos = 1.125 	neg = 0.5  
+24. Finn, a priest looki                ... pos = 0.375 	neg = 0.125
+25. Through both perspec                ... pos = 0.5   	neg = 0.125
+26. And through it all,                 ... pos = 1.5   	neg = 0.375
+27. The cast is harmonio                ... pos = 0.75  	neg = 0.125
+28. Norton once again di                ... pos = 0.375 	neg = 0.0  
+29. The chemistry betwee                ... pos = 0.125 	neg = 0.125
+30. Norton is not a vete                ... pos = 0.75  	neg = 0.125
+31. Jenna Elfman, coming                ... pos = 0.125 	neg = 0.625
+32. The supporting cast                 ... pos = 1.25  	neg = 0.125
+33. Seeing Finn pry at S                ... pos = 1.125 	neg = 0.25 
+34. Keeping the Faith st                ... pos = 1.375 	neg = 0.0  
+35. The one strong suppo                ... pos = 0.875 	neg = 0.125
+36. She lends the vetera                ... pos = 1.0   	neg = 0.375
+37. For all of this prai                ... pos = 0.0   	neg = 0.0  
+38. Clocking in at over                 ... pos = 0.125 	neg = 0.25 
+39. Romantic comedies ar                ... pos = 1.375 	neg = 0.5  
+40. Of course, this is t                ... pos = 0.625 	neg = 0.125
+41. This span of fifteen                ... pos = 0.0   	neg = 0.125
+42. This could have been                ... pos = 1.0   	neg = 0.125
+43. You've Got Mail was                 ... pos = 1.125 	neg = 0.125
+44. It may be a great da                ... pos = 0.75  	neg = 0.25 
+45. With characters havi                ... pos = 1.0   	neg = 0.875
+46. Norton manages to ke                ... pos = 0.875 	neg = 0.0  
+47. Final Verdict: B+. T                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1484-493 is Positive         ... pos = 26.0  	neg = 9.125
+Overall score of document
+Total Pos = 26.0
+Total Neg = 9.125
+---------------------------------------------------------------------------

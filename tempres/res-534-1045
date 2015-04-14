@@ -1,0 +1,75 @@
+0. by Curtis Edmonds --                 ... pos = 1.0   	neg = 0.125
+1. Like no other film,                  ... pos = 1.75  	neg = 0.25 
+2. Brilliantly acted, w                 ... pos = 1.875 	neg = 0.125
+3. Only an ingrate, a p                 ... pos = 1.875 	neg = 1.125
+4. If a critic comes al                 ... pos = 0.0   	neg = 0.125
+5. Or so the fans of th                 ... pos = 0.0   	neg = 0.0  
+6. Me, I'm packing my b                 ... pos = 0.0   	neg = 0.0  
+7. The Thin Red Line is                 ... pos = 0.125 	neg = 0.125
+8. It is ostensibly the                 ... pos = 0.25  	neg = 0.5  
+9. The Thin Red Line is                 ... pos = 0.125 	neg = 0.5  
+10. In this movie, Highe                ... pos = 1.0   	neg = 0.0  
+11. This is not to say t                ... pos = 1.25  	neg = 0.125
+12. I did.                              ... pos = 0     	neg = 0.0  
+13. Out of all the high-                ... pos = 0.875 	neg = 0.5  
+14. Ha-ha!                              ... pos = 0     	neg = 0    
+15. And I could go on, p                ... pos = 0.375 	neg = 1.0  
+16. But it would be incr                ... pos = 0.75  	neg = 0.625
+17. (Although, come to t                ... pos = 0.0   	neg = 0.0  
+18. )  The Thin Red Line                ... pos = 0.125 	neg = 0.125
+19. (So is Saving Privat                ... pos = 0.25  	neg = 0.125
+20. )  It is a matter of                ... pos = 0.0   	neg = 0.875
+21. Before going to see                 ... pos = 0.875 	neg = 0.25 
+22. If you like at least                ... pos = 0.375 	neg = 0.0  
+23. If you only like one                ... pos = 0.125 	neg = 0.375
+24. The first movie is t                ... pos = 0.625 	neg = 0.25 
+25. It is the War Epic,                 ... pos = 0.0   	neg = 0.125
+26. I love war epics.                   ... pos = 0.625 	neg = 0.0  
+27. I love all the great                ... pos = 0.625 	neg = 0.0  
+28. And this third of th                ... pos = 0.125 	neg = 0.125
+29. It has Woody Harrels                ... pos = 0.0   	neg = 0.875
+30. It has Nick Nolte in                ... pos = 0.75  	neg = 0.0  
+31. And it has a lot of                 ... pos = 1.0   	neg = 0.0  
+32. There are two great                 ... pos = 0.25  	neg = 0.75 
+33. There's a scene wher                ... pos = 0.0   	neg = 0.0  
+34. The company has inch                ... pos = 2.0   	neg = 0.0  
+35. The scene where Cusa                ... pos = 0.625 	neg = 0.125
+36. You understand exact                ... pos = 0.75  	neg = 0.0  
+37. There's another grea                ... pos = 0.0   	neg = 0.125
+38. It is a scene of ter                ... pos = 0.875 	neg = 0.125
+39. Malick does an outst                ... pos = 2.625 	neg = 0.0  
+40. The second movie is,                ... pos = 0.0   	neg = 0.125
+41. There are scenes --                 ... pos = 0.25  	neg = 0.75 
+42. If you have cable, a                ... pos = 0.125 	neg = 0.375
+43. The movie's opening                 ... pos = 0.0   	neg = 0.125
+44. And it looks great,                 ... pos = 0.25  	neg = 0.5  
+45. And it really doesn'                ... pos = 0.875 	neg = 0.125
+46. There's a shot of so                ... pos = 0.75  	neg = 0.125
+47. But -- ingrate that                 ... pos = 0.125 	neg = 0.25 
+48. The third movie stit                ... pos = 0.375 	neg = 0.0  
+49. It is, at least part                ... pos = 0.625 	neg = 0.25 
+50. Whatever.                           ... pos = 0     	neg = 0.0  
+51. It is told largely b                ... pos = 0.0   	neg = 0.625
+52. It is as though Mali                ... pos = 0.0   	neg = 1.25 
+53. What was magical in                 ... pos = 0.125 	neg = 0.25 
+54. (Or vice versa.                     ... pos = 0     	neg = 0.375
+55. Like I said, it's a                 ... pos = 0.0   	neg = 0.0  
+56. )  The voiceovers ar                ... pos = 0.25  	neg = 0.5  
+57. This all may be deep                ... pos = 0.75  	neg = 0.75 
+58. A Thin Red Line is a                ... pos = 0.25  	neg = 0.125
+59. You have a great, ex                ... pos = 1.25  	neg = 0.0  
+60. But every so often,                 ... pos = 0.0   	neg = 0.0  
+61. It's not so much tha                ... pos = 0.625 	neg = 2.25 
+62. It's that every minu                ... pos = 0.0   	neg = 0.25 
+63. And in The Thin Red                 ... pos = 0.125 	neg = 1.375
+64. In grading The Thin                 ... pos = 1.25  	neg = 0.0  
+65. If anyone needs me,                 ... pos = 0.0   	neg = 0.25 
+66. And eating taro root                ... pos = 0.0   	neg = 0.0  
+67. MovieNation:  Movie                 ... pos = 0.0   	neg = 0.0  
+68. "  -- Sideshow Bob.                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-534-1045 is Positive         ... pos = 32.0  	neg = 20.0 
+Overall score of document
+Total Pos = 32.0
+Total Neg = 20.0
+---------------------------------------------------------------------------

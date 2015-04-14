@@ -1,0 +1,31 @@
+0. The escape film is a                 ... pos = 0.0   	neg = 0.25 
+1. Its inherent tension                 ... pos = 0.375 	neg = 0.375
+2. However, being such                  ... pos = 1.5   	neg = 0.25 
+3. The film is an anima                 ... pos = 0.125 	neg = 0.125
+4. It is written and di                 ... pos = 0.0   	neg = 0.25 
+5. This technique has b                 ... pos = 0.375 	neg = 0.375
+6. The story takes plac                 ... pos = 0.75  	neg = 0.0  
+7. They are constantly                  ... pos = 0.75  	neg = 0.625
+8. They make many attem                 ... pos = 0.125 	neg = 0.0  
+9. One day they see Roc                 ... pos = 0.0   	neg = 0.25 
+10. In Rocky, they see s                ... pos = 0.0   	neg = 0.0  
+11. Although a grim stor                ... pos = 0.125 	neg = 0.25 
+12. Their enclosure is p                ... pos = 0.931 	neg = 0.375
+13. Although it may appe                ... pos = 0.5   	neg = 0.125
+14. When a formulaic sto                ... pos = 0.25  	neg = 1.0  
+15. When it is used as a                ... pos = 0.25  	neg = 0.25 
+16. Discerning viewers w                ... pos = 1.25  	neg = 0.125
+17. The film is construc                ... pos = 0.25  	neg = 0.125
+18. It does not euphemiz                ... pos = 0.375 	neg = 0.0  
+19. For younger viewers,                ... pos = 1.25  	neg = 0.0  
+20. For adult viewers, i                ... pos = 2.875 	neg = 0.625
+21. Highly recommended.                 ... pos = 0.625 	neg = 0    
+22. This film uses a sta                ... pos = 0.0   	neg = 0.0  
+23. It is a simple, comm                ... pos = 0.5   	neg = 0.375
+24. It is consistently h                ... pos = 1.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-887-707 is Positive          ... pos = 14.681 	neg = 5.875
+Overall score of document
+Total Pos = 14.681
+Total Neg = 5.875
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. Directed by: David F                 ... pos = 0.25  	neg = 0.0  
+1. Get about halfway th                 ... pos = 0.25  	neg = 0.0  
+2. However, in David Fi                 ... pos = 0.125 	neg = 0.125
+3. From these bizzare c                 ... pos = 1.25  	neg = 0.125
+4. The story revolves a                 ... pos = 0.125 	neg = 0.0  
+5. Frequenting support                  ... pos = 0.25  	neg = 0.875
+6. Shortly thereafter h                 ... pos = 0.125 	neg = 0.375
+7. Together, Jack and T                 ... pos = 0.625 	neg = 0.0  
+8. While things are goi                 ... pos = 0.25  	neg = 0.25 
+9. David Fincher's prev                 ... pos = 0.5   	neg = 0.125
+10. This latest venture                 ... pos = 0.5   	neg = 1.25 
+11. This message is give                ... pos = 0.125 	neg = 0.5  
+12. While there is certa                ... pos = 2.125 	neg = 1.0  
+13. To begin with, this                 ... pos = 0.0   	neg = 0.125
+14. There are more scene                ... pos = 0.5   	neg = 0.0  
+15. There are also a few                ... pos = 0.25  	neg = 0.25 
+16. Swearing is rampant,                ... pos = 0.5   	neg = 1.125
+17. So please, don't tak                ... pos = 0.0   	neg = 0.0  
+18. Now, my MPAA warning                ... pos = 0.75  	neg = 0.25 
+19. For all the one-line                ... pos = 0.0   	neg = 0.125
+20. A great example woul                ... pos = 0.0   	neg = 0.625
+21. In fact, the dialogu                ... pos = 2.5   	neg = 0.375
+22. As for the acting, E                ... pos = 0.875 	neg = 0.5  
+23. Brad Pitt, who has s                ... pos = 0.25  	neg = 0.125
+24. Helena Botham Carter                ... pos = 0.875 	neg = 0.125
+25. I don't want to give                ... pos = 0.5   	neg = 0.375
+26. Suffice to say, you'                ... pos = 0.0   	neg = 0.0  
+27. To sum up, for a fun                ... pos = 1.5   	neg = 0.0  
+28. I fully recommend it                ... pos = 0.5   	neg = 0.0  
+29. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+30. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+31. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+32. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+33. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+34. See it if you've got                ... pos = 0.0   	neg = 0.25 
+35. * - One of the worst                ... pos = 0.0   	neg = 0.375
+36. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3869-535 is Positive         ... pos = 16.75 	neg = 10.375
+Overall score of document
+Total Pos = 16.75
+Total Neg = 10.375
+---------------------------------------------------------------------------

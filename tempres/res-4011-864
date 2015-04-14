@@ -1,0 +1,50 @@
+0. I Know What You Did                  ... pos = 0.0   	neg = 0.125
+1. It was about four ki                 ... pos = 0.5   	neg = 0.125
+2. The movie adaption i                 ... pos = 0.125 	neg = 0.75 
+3. They are spoilers th                 ... pos = 0.25  	neg = 0.0  
+4. Helen Shivers (Sarah                 ... pos = 0.875 	neg = 0.125
+5. Her friends, Julie J                 ... pos = 0.75  	neg = 0.0  
+6. She wins, of course,                 ... pos = 0.125 	neg = 0.0  
+7. On the way back, Ray                 ... pos = 0.0   	neg = 0.0  
+8. The four of them get                 ... pos = 0.0   	neg = 0.375
+9. They take him to a f                 ... pos = 0.125 	neg = 0.0  
+10. They make a pact to                 ... pos = 0.0   	neg = 0.0  
+11. No one every did, ei                ... pos = 0.0   	neg = 0.25 
+12. Then how come someon                ... pos = 0.0   	neg = 0.0  
+13. In the past year, Ju                ... pos = 0.0   	neg = 0.75 
+14. She feels awful for                 ... pos = 0.375 	neg = 1.0  
+15. Her grades have slip                ... pos = 0.125 	neg = 0.375
+16. One year after the i                ... pos = 0.0   	neg = 0.0  
+17. In bold black print                 ... pos = 0.0   	neg = 0.0  
+18. She opens the letter                ... pos = 0.0   	neg = 0.0  
+19. Julie is terrified.                 ... pos = 0.25  	neg = 0.125
+20. They were so careful                ... pos = 0.5   	neg = 0.125
+21. Who could know?                     ... pos = 0.0   	neg = 0.0  
+22. She takes the letter                ... pos = 0.0   	neg = 0.0  
+23. Now, the terror is h                ... pos = 0.0   	neg = 0.125
+24. Barry gets run over.                ... pos = 0.0   	neg = 0.0  
+25. Julie gets a body in                ... pos = 0.25  	neg = 0.0  
+26. Helen gets her hair                 ... pos = 0.0   	neg = 0.625
+27. Ray gets another let                ... pos = 0     	neg = 0.125
+28. Pretty freaky, huh?                 ... pos = 0.0   	neg = 0.125
+29. Now, they are seeing                ... pos = 0.25  	neg = 0.375
+30. He wears a fisherman                ... pos = 0.0   	neg = 0.25 
+31. They go to David Ega                ... pos = 0.0   	neg = 0.0  
+32. All they find is the                ... pos = 0.0   	neg = 0.125
+33. (played terrifically                ... pos = 0.0   	neg = 0.625
+34. After some more twis                ... pos = 0.0   	neg = 0.5  
+35. I Know What You Did                 ... pos = 0.75  	neg = 0.25 
+36. Jennifer Love Hewitt                ... pos = 1.375 	neg = 0.125
+37. Sarah Michelle Gella                ... pos = 0.0   	neg = 0.125
+38. Ryan Phillippe shows                ... pos = 0.0   	neg = 0.0  
+39. Overall, the movie i                ... pos = 1.375 	neg = 0.125
+40. This movie and the s                ... pos = 0.25  	neg = 0.0  
+41. For now, anyway.                    ... pos = 0.0   	neg = 0.0  
+42. Perhaps another grea                ... pos = 0.125 	neg = 0.75 
+43. But, considering how                ... pos = 0.25  	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-4011-864 is Negative         ... pos = 8.625 	neg = 9.375
+Overall score of document
+Total Pos = 8.625
+Total Neg = 9.375
+---------------------------------------------------------------------------

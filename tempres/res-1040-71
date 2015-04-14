@@ -1,0 +1,48 @@
+0. A Film Review of Joh                 ... pos = 0.375 	neg = 0.0  
+1. I could have done wi                 ... pos = 0.25  	neg = 0.375
+2. OK - the severed hea                 ... pos = 0.5   	neg = 0.5  
+3. But the first  group                 ... pos = 1.75  	neg = 0.125
+4. Do we have to witnes                 ... pos = 0.0   	neg = 0.0  
+5. That said, Vampires                  ... pos = 0.5   	neg = 0.625
+6. When Crow and Tony M                 ... pos = 0.25  	neg = 0.375
+7. The premise pivots o                 ... pos = 0.0   	neg = 0.0  
+8. This vampire  master                 ... pos = 0.25  	neg = 1.5  
+9. This bit is one of t                 ... pos = 0.0   	neg = 0.125
+10. Of course Valek poss                ... pos = 0.625 	neg = 0.0  
+11. Valek is searching t                ... pos = 0.0   	neg = 0.125
+12. What Jack  Crow and                 ... pos = 1.25  	neg = 0.125
+13. In this adaptation o                ... pos = 0.375 	neg = 0.0  
+14. I found it fascinati                ... pos = 0.25  	neg = 0.25 
+15. In a  low-key but st                ... pos = 0.125 	neg = 0.375
+16. Woods seems off guar                ... pos = 0.0   	neg = 0.75 
+17. Crosses become a cle                ... pos = 0.75  	neg = 0.0  
+18. Another nice touch i                ... pos = 0.0   	neg = 0.625
+19. Crossbows with tethe                ... pos = 0.625 	neg = 0.375
+20. Especially riveting                 ... pos = 0.625 	neg = 0.5  
+21. Good special  effect                ... pos = 0.75  	neg = 0.25 
+22. We are supplied with                ... pos = 0.25  	neg = 0.25 
+23. His parents  are dea                ... pos = 0.25  	neg = 0.0  
+24. Crow is a Bruce  Way                ... pos = 0.375 	neg = 0.125
+25. It's more economical                ... pos = 0.25  	neg = 0.25 
+26. James Woods is all b                ... pos = 0.0   	neg = 0.125
+27. Daniel Baldwin bring                ... pos = 0.0   	neg = 0.0  
+28. He is also skilled i                ... pos = 2.431 	neg = 0.125
+29. As he  slowly falls                 ... pos = 1.25  	neg = 0.25 
+30. As Katrina, Sheryl L                ... pos = 0.625 	neg = 1.0  
+31. In scenes perhaps in                ... pos = 0.375 	neg = 0.5  
+32. Several other variat                ... pos = 0.5   	neg = 0.75 
+33. It's a good bet that                ... pos = 2.375 	neg = 0.125
+34. John Carpenter's ran                ... pos = 0.125 	neg = 0.125
+35. The score is his  or                ... pos = 0.0   	neg = 0.125
+36. Although all I can r                ... pos = 0.125 	neg = 0.125
+37. Simply put, I enjoye                ... pos = 0.375 	neg = 0.0  
+38. There were  no exten                ... pos = 0.25  	neg = 1.375
+39. The film is out  mai                ... pos = 0.125 	neg = 0.125
+40. I'd say to see Vampi                ... pos = 0.0   	neg = 0.0  
+41. Don't go if you can'                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1040-71 is Positive          ... pos = 18.931 	neg = 12.375
+Overall score of document
+Total Pos = 18.931
+Total Neg = 12.375
+---------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+0. STARRING:  Matt Damo                 ... pos = 0.5   	neg = 0.75 
+1. Surely even the most                 ... pos = 0.375 	neg = 0.75 
+2. I mean, come on.                     ... pos = 0     	neg = 0.0  
+3. We're talking about                  ... pos = 0.25  	neg = 0.25 
+4. We're talking about                  ... pos = 0.5   	neg = 0.125
+5. We're talking about                  ... pos = 0.875 	neg = 0.125
+6. "  We're talking abo                 ... pos = 1.0   	neg = 0.0  
+7. By all rights, a fil                 ... pos = 0.25  	neg = 0.25 
+8. Yet for the most par                 ... pos = 0.25  	neg = 0    
+9. Damon and Affleck ar                 ... pos = 2.125 	neg = 0.0  
+10. Certain corporate id                ... pos = 0.875 	neg = 0.0  
+11. Even Jay's juvenile,                ... pos = 0.0   	neg = 0.375
+12. The film does lose s                ... pos = 0.25  	neg = 0.0  
+13. Still, Dogma ends up                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-1184 is Positive         ... pos = 8.375 	neg = 2.625
+Overall score of document
+Total Pos = 8.375
+Total Neg = 2.625
+---------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+0. Seen on 29 December                  ... pos = 0.0   	neg = 0.25 
+1. As one of its charac                 ... pos = 0.875 	neg = 0    
+2. " What would happen                  ... pos = 0.375 	neg = 0.75 
+3. Apparently, it would                 ... pos = 0.0   	neg = 0.75 
+4. >From the get-go, th                 ... pos = 0.25  	neg = 0.0  
+5. In demanding his rel                 ... pos = 0.625 	neg = 0.0  
+6. Buses, a theatre, ev                 ... pos = 0.25  	neg = 0.0  
+7. Parents take their k                 ... pos = 0.0   	neg = 0.0  
+8. The FBI is, as alway                 ... pos = 0.75  	neg = 0.25 
+9. Tony Shalhoub plays                  ... pos = 0.0   	neg = 0.0  
+10. The minority buddy t                ... pos = 0.0   	neg = 0.0  
+11. Certainly better tha                ... pos = 0.25  	neg = 0.0  
+12. Had the movie merely                ... pos = 0.0   	neg = 0.625
+13. However, there is th                ... pos = 1.0   	neg = 0.625
+14. Her love of Arab cul                ... pos = 0.75  	neg = 0.125
+15. " Also tossed in is                 ... pos = 0.0   	neg = 0.375
+16. The Siege touches on                ... pos = 0.875 	neg = 0.25 
+17. For example, Haddad                 ... pos = 0.25  	neg = 0.125
+18. Meanwhile, in the op                ... pos = 0.125 	neg = 0.25 
+19. The best scene, in w                ... pos = 1.0   	neg = 0.75 
+20. "I am not your partn                ... pos = 0.0   	neg = 0.875
+21. After the requisite                 ... pos = 0.375 	neg = 2.0  
+22. While *The Siege* is                ... pos = 0.0   	neg = 1.625
+23. The use of location                 ... pos = 0.25  	neg = 0.375
+24. Sidenote: Annette Be                ... pos = 0.0   	neg = 0.625
+25. Her "Pope Joan" crew                ... pos = 0.0   	neg = 0.0  
+26. She also maintains a                ... pos = 0.0   	neg = 1.125
+27. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2604-92 is Negative          ... pos = 8.0   	neg = 11.875
+Overall score of document
+Total Pos = 8.0
+Total Neg = 11.875
+---------------------------------------------------------------------------

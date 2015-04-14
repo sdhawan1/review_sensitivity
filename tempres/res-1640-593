@@ -1,0 +1,50 @@
+0. Cast: Mark Wahlberg,                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Che Kirk                 ... pos = 0.0   	neg = 0    
+2. Written by  Ben Rams                 ... pos = 0.125 	neg = 0    
+3. In 1996, a film call                 ... pos = 0.375 	neg = 0.0  
+4. Essentially, "Pulp F                 ... pos = 1.375 	neg = 0.25 
+5. Another copycat has                  ... pos = 0.0   	neg = 0.25 
+6. Four idiosyncratic h                 ... pos = 0.0   	neg = 0.375
+7. Unauthorized, they k                 ... pos = 0.0   	neg = 0.25 
+8. A problem arises  wh                 ... pos = 0.0   	neg = 0.375
+9. What ensues is a ser                 ... pos = 0.0   	neg = 1.0  
+10. Sensitive, morally-c                ... pos = 0.0   	neg = 0.25 
+11. Meanwhile,  wild-and                ... pos = 1.125 	neg = 0.125
+12. Phillips broods and                 ... pos = 0.25  	neg = 0.5  
+13. Woodbine ("The Rock"                ... pos = 1.0   	neg = 0.0  
+14. This is all supposed                ... pos = 0.0   	neg = 0.5  
+15. Rookie writer Ben Ra                ... pos = 0.375 	neg = 0.0  
+16. In one  scene, hitme                ... pos = 0.0   	neg = 0.375
+17. As they sit there, g                ... pos = 0.25  	neg = 0.625
+18. The Gould part of th                ... pos = 0.0   	neg = 0.125
+19. "  As the tablecloth                ... pos = 0.125 	neg = 1.375
+20. The gunfight moves t                ... pos = 0.125 	neg = 0.0  
+21. "  .         Want a                 ... pos = 0.0   	neg = 0.125
+22. Borrow from "Law and                ... pos = 0.0   	neg = 0.0  
+23. "  Want to tape up t                ... pos = 0.0   	neg = 0.125
+24. Watch "Excess Baggag                ... pos = 0.125 	neg = 0.0  
+25. "  Hey,  what about                 ... pos = 0.0   	neg = 0.0  
+26. Steal from "Reservoi                ... pos = 0.25  	neg = 0.0  
+27. "  Want to turn  stu                ... pos = 0.25  	neg = 0.125
+28. That pottery scene f                ... pos = 0.0   	neg = 0    
+29. This film touches Sc                ... pos = 0.0   	neg = 0.0  
+30. Simpson car chase.                  ... pos = 0     	neg = 0.0  
+31. It borrows from ever                ... pos = 0.125 	neg = 0.5  
+32. "The Big Hit" gives                 ... pos = 0.125 	neg = 0.0  
+33. Mark Wahlberg  is a                 ... pos = 0.125 	neg = 0.25 
+34. Lou  Diamond Phillip                ... pos = 0.75  	neg = 0.0  
+35. TV-ready Gould shoul                ... pos = 0.375 	neg = 0.0  
+36. "  There is always p                ... pos = 0.25  	neg = 0.125
+37. As Burt  Reynolds, R                ... pos = 0.0   	neg = 0.375
+38. The lucky escapees?                 ... pos = 0.75  	neg = 0    
+39. Chow and Sabato Jr.                 ... pos = 0.375 	neg = 0.125
+40. After all, Wahlberg                 ... pos = 0.0   	neg = 0.0  
+41. If "The Big Hit" is                 ... pos = 0.625 	neg = 0.25 
+42. The sum of these par                ... pos = 0.0   	neg = 0.5  
+43. The only truly funny                ... pos = 1.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1640-593 is Positive         ... pos = 10.375 	neg = 9.0  
+Overall score of document
+Total Pos = 10.375
+Total Neg = 9.0
+---------------------------------------------------------------------------

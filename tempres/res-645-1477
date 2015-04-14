@@ -1,0 +1,72 @@
+0. Identity is a tricky                 ... pos = 0.0   	neg = 0.875
+1. Many of us would lik                 ... pos = 0.125 	neg = 0.0  
+2. But what Anthony Min                 ... pos = 0.125 	neg = 0.625
+3. Its title character,                 ... pos = 0.875 	neg = 0.125
+4. In short, he is a ma                 ... pos = 0.625 	neg = 0.25 
+5. But what's disturbin                 ... pos = 0.0   	neg = 0.0  
+6. It's the fact that w                 ... pos = 0.0   	neg = 0.0  
+7. The film opens with                  ... pos = 0.625 	neg = 0    
+8. Fooled by his Prince                 ... pos = 0.75  	neg = 0.0  
+9. Being a lower-class                  ... pos = 0.5   	neg = 0.0  
+10. Soon, Greenleaf asks                ... pos = 0.125 	neg = 0.0  
+11. When Tom finds Dicki                ... pos = 0.125 	neg = 0.125
+12. Dickie doesn't know                 ... pos = 0.0   	neg = 0.625
+13. When Tom reveals his                ... pos = 0.125 	neg = 0.0  
+14. Soon, however, Dicki                ... pos = 0.75  	neg = 0.0  
+15. Unfortunately, Tom d                ... pos = 0.75  	neg = 1.0  
+16. Thus begins a story                 ... pos = 0.25  	neg = 0.5  
+17. First and foremost,                 ... pos = 0.75  	neg = 0.125
+18. The Italian location                ... pos = 0.75  	neg = 0.0  
+19. The scenery is quite                ... pos = 0.25  	neg = 0.125
+20. Minghella also engag                ... pos = 0.875 	neg = 0.125
+21. More startling visua                ... pos = 0.75  	neg = 0.375
+22. All of this goes tow                ... pos = 0.125 	neg = 0.0  
+23. There are several sh                ... pos = 0.375 	neg = 0.0  
+24. Likewise, Tom is for                ... pos = 1.25  	neg = 0.75 
+25. Minghella's film als                ... pos = 0.125 	neg = 0    
+26. Damon manages to put                ... pos = 0.0   	neg = 0.0  
+27. He smiles constantly                ... pos = 0.625 	neg = 0.0  
+28. Instead, Damon break                ... pos = 0.625 	neg = 1.125
+29. During their screen                 ... pos = 0.625 	neg = 0    
+30. His Dickie is a user                ... pos = 0.375 	neg = 0.125
+31. He represents the mo                ... pos = 0.5   	neg = 0.125
+32. Despite all this, it                ... pos = 0.5   	neg = 0.75 
+33. He lives a life of e                ... pos = 0.75  	neg = 0.125
+34. Likewise, it's not h                ... pos = 1.125 	neg = 0.75 
+35. " Gwyneth Paltrow is                ... pos = 0.0   	neg = 0.75 
+36. Cate Blanchett shows                ... pos = 0.5   	neg = 1.25 
+37. Both of the supporti                ... pos = 1.875 	neg = 0.0  
+38. As played by this ac                ... pos = 1.375 	neg = 0.75 
+39. Fine performances, b                ... pos = 1.125 	neg = 0.25 
+40. First off, many of M                ... pos = 0.5   	neg = 0.75 
+41. First of all, Minghe                ... pos = 0.375 	neg = 1.5  
+42. This may help toward                ... pos = 1.0   	neg = 1.5  
+43. " I'm willing to haz                ... pos = 0.125 	neg = 0.875
+44. Actively trying to g                ... pos = 0.5   	neg = 0.5  
+45. The addition of Blan                ... pos = 0.875 	neg = 0.625
+46. The real problem wit                ... pos = 1.25  	neg = 0.375
+47. The movie is just to                ... pos = 0     	neg = 0.75 
+48. As a general rule, I                ... pos = 0.625 	neg = 1.375
+49. But "Ripley" gets bo                ... pos = 0.0   	neg = 0.0  
+50. To put it simply, th                ... pos = 1.75  	neg = 0.25 
+51. I don't know why Tom                ... pos = 1.375 	neg = 1.125
+52. Eventually, I starte                ... pos = 0.75  	neg = 1.125
+53. Is Mr. Ripley talent                ... pos = 0.75  	neg = 0.125
+54. Minghella is obvious                ... pos = 0.5   	neg = 1.375
+55. A little judicious s                ... pos = 1.125 	neg = 0.25 
+56. Still, the issues ra                ... pos = 0.875 	neg = 0.125
+57. The identity issue i                ... pos = 0.5   	neg = 0.25 
+58. Yes, Tom Ripley runs                ... pos = 0.625 	neg = 0.75 
+59. But there is a side                 ... pos = 0.75  	neg = 0.625
+60. After all, who among                ... pos = 0.5   	neg = 0    
+61. We go to the office                 ... pos = 0.0   	neg = 0.0  
+62. We go home and carry                ... pos = 0.0   	neg = 0.125
+63. Are these not separa                ... pos = 0.25  	neg = 0.0  
+64. The only difference                 ... pos = 0.25  	neg = 0.375
+65. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-645-1477 is Positive         ... pos = 36.25 	neg = 26.375
+Overall score of document
+Total Pos = 36.25
+Total Neg = 26.375
+---------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+0. Starring-Winona Ryde                 ... pos = 0.75  	neg = 0.625
+1. The reason?                          ... pos = 0     	neg = 0.0  
+2. She recently downed                  ... pos = 1.125 	neg = 0.375
+3. But does Susanna rea                 ... pos = 0.125 	neg = 0.0  
+4. You would assume she                 ... pos = 1.0   	neg = 0.125
+5. `Girl, Interrupted'                  ... pos = 0.25  	neg = 0.125
+6. The Hollywood interp                 ... pos = 1.875 	neg = 0.25 
+7. The personalities at                 ... pos = 0.5   	neg = 0.375
+8. Georgina (Clea DuVal                 ... pos = 0.375 	neg = 0.125
+9. Daisy (Brittany Murp                 ... pos = 0.125 	neg = 0.25 
+10. And the list goes on                ... pos = 0.0   	neg = 0.0  
+11. While `Girl, Interru                ... pos = 0.875 	neg = 0.375
+12. The result is an odd                ... pos = 1.375 	neg = 0.125
+13. Due to the tremendou                ... pos = 0.375 	neg = 0.0  
+14. `Girl, Interrupted'                 ... pos = 0.125 	neg = 0.0  
+15. Mangold manages to p                ... pos = 0.0   	neg = 0.625
+16. Whoopi Goldberg, spo                ... pos = 0.125 	neg = 0.25 
+17. Unfortunately, in te                ... pos = 0.875 	neg = 1.125
+18. Jeffrey Tambor (as t                ... pos = 0.75  	neg = 0.0  
+19. They appear to misun                ... pos = 0.875 	neg = 0.875
+20. Mangold's strong sui                ... pos = 1.0   	neg = 0.0  
+21. Ryder has many stunn                ... pos = 0.875 	neg = 0.0  
+22. But Jolie's consider                ... pos = 0.0   	neg = 0.25 
+23. Interaction between                 ... pos = 0.0   	neg = 0.25 
+24. Ensemble acting is w                ... pos = 1.25  	neg = 0.75 
+25. These young women at                ... pos = 1.0   	neg = 0.0  
+26. Just don't expect a                 ... pos = 0.0   	neg = 0.0  
+27. `Girl, Interrupted'                 ... pos = 0.75  	neg = 0.125
+28. It's a character-dri                ... pos = 0.125 	neg = 0.375
+29. Sure, it's good, but                ... pos = 1.375 	neg = 1.0  
+30. Instead of constantl                ... pos = 1.0   	neg = 0.0  
+31. But I'll get over it                ... pos = 0.0   	neg = 0.0  
+32. Next patient, please                ... pos = 0.125 	neg = 0.0  
+33. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+34. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5860-693 is Positive         ... pos = 19.0  	neg = 8.375
+Overall score of document
+Total Pos = 19.0
+Total Neg = 8.375
+---------------------------------------------------------------------------

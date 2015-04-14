@@ -1,0 +1,69 @@
+0. When I first heard a                 ... pos = 0.625 	neg = 0.125
+1. It's the future, the                 ... pos = 0.375 	neg = 0.75 
+2. A postman?                           ... pos = 0.0   	neg = 0.0  
+3. A *postman*?!?!                      ... pos = 0.0   	neg = 0    
+4. I thought to myself,                 ... pos = 0.0   	neg = 0.125
+5. As it surprisingly t                 ... pos = 0.125 	neg = 0.0  
+6. The plot *is* simila                 ... pos = 0.375 	neg = 0.0  
+7. It *is* the future (                 ... pos = 0.375 	neg = 0.625
+8. A nameless wanderer                  ... pos = 0.5   	neg = 0.125
+9. Performing his own u                 ... pos = 0.5   	neg = 0.125
+10. Peachy keen?                        ... pos = 0.0   	neg = 0.0  
+11. Not quite.                          ... pos = 0.0   	neg = 0    
+12. General Bethlehem (W                ... pos = 0.125 	neg = 0.125
+13. Yes, he even sports                 ... pos = 0.0   	neg = 0.0  
+14. When his army arrive                ... pos = 0.125 	neg = 0    
+15. He demands that all                 ... pos = 0.0   	neg = 0.0  
+16. The plan is to turn                 ... pos = 0.0   	neg = 0.125
+17. To be considered "el                ... pos = 0.25  	neg = 0.25 
+18. While our wanderer a                ... pos = 0.0   	neg = 0.125
+19. Along with a few tow                ... pos = 0.0   	neg = 0.125
+20. After a battle of wi                ... pos = 0.625 	neg = 0.0  
+21. Naturally the movie                 ... pos = 0.375 	neg = 0.25 
+22. "Shakespeare" travel                ... pos = 0.375 	neg = 0.0  
+23. Inside, he finds the                ... pos = 0.25  	neg = 0.625
+24. He finds a lighter a                ... pos = 0.0   	neg = 0.0  
+25. Curiousity gets to "                ... pos = 0.0   	neg = 0.0  
+26. An idea!                            ... pos = 0.0   	neg = 0    
+27. The next we see of "                ... pos = 0.0   	neg = 0.25 
+28. Once again, in an ef                ... pos = 0.0   	neg = 0.25 
+29. With an outrageous t                ... pos = 0.125 	neg = 0.625
+30. Everybody rejoices a                ... pos = 0.25  	neg = 0.125
+31. The fable works, and                ... pos = 0.25  	neg = 0    
+32. But questions start                 ... pos = 0.25  	neg = 0.125
+33. "Is there a presiden                ... pos = 0.0   	neg = 0.0  
+34. " one townsperson as                ... pos = 0.125 	neg = 0    
+35. Hesitantly, the post                ... pos = 0.25  	neg = 0.0  
+36. .                                   ... pos = 0     	neg = 0    
+37. .                                   ... pos = 0     	neg = 0    
+38. Richard Starkey".                   ... pos = 0     	neg = 0    
+39. In this town, we mee                ... pos = 0.875 	neg = 0    
+40. One is the young bla                ... pos = 0.0   	neg = 0.125
+41. Going by the name Fo                ... pos = 1.25  	neg = 0.125
+42. We also meet Abby (O                ... pos = 0.5   	neg = 0    
+43. She approaches "the                 ... pos = 0.125 	neg = 0.0  
+44. Will he do it?                      ... pos = 0.125 	neg = 0.0  
+45. It doesn't take long                ... pos = 0.0   	neg = 0.375
+46. He quickly considers                ... pos = 0.125 	neg = 0    
+47. What beings is a hun                ... pos = 0.625 	neg = 0.5  
+48. I was reminded of a                 ... pos = 0.0   	neg = 0.125
+49. In fact, one of Beth                ... pos = 0.125 	neg = 0.125
+50. What THE POSTMAN is                 ... pos = 0.125 	neg = 0.25 
+51. We watch as young ho                ... pos = 1.5   	neg = 0.0  
+52. It's corny as hell i                ... pos = 0.75  	neg = 1.25 
+53. It's also surprising                ... pos = 1.875 	neg = 0.125
+54. Patton was very clic                ... pos = 1.125 	neg = 0.875
+55. It's sappy and far-f                ... pos = 0.0   	neg = 0.0  
+56. Kevin Costner seems                 ... pos = 0.0   	neg = 0.5  
+57. THE POSTMAN is no ex                ... pos = 0.0   	neg = 0.375
+58. Nearly stretching to                ... pos = 0.125 	neg = 0.0  
+59. Trim it by as little                ... pos = 0.625 	neg = 0.625
+60. But the dopey premis                ... pos = 0.5   	neg = 0.75 
+61. Let's just be gratef                ... pos = 0.0   	neg = 0.375
+62. GUY instead.. .                     ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4039-195 is Positive         ... pos = 16.625 	neg = 11.375
+Overall score of document
+Total Pos = 16.625
+Total Neg = 11.375
+---------------------------------------------------------------------------

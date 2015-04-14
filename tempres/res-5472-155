@@ -1,0 +1,24 @@
+0. `Great Expectations,                 ... pos = 1.25  	neg = 0.0  
+1. The names Pip and Ha                 ... pos = 0.125 	neg = 0.25 
+2. A young boy named Fi                 ... pos = 0.875 	neg = 0.125
+3. Ms. Dinsmoor, whose                  ... pos = 0.0   	neg = 0.375
+4. Trained since early                  ... pos = 0.5   	neg = 0.5  
+5. As Finn grows older                  ... pos = 0.125 	neg = 0.0  
+6. Finn continues to pa                 ... pos = 0.375 	neg = 0.0  
+7. Finn, heartbroken, g                 ... pos = 1.0   	neg = 0.0  
+8. Once in New York, Fi                 ... pos = 1.375 	neg = 0.125
+9. He struggles to beco                 ... pos = 0.0   	neg = 0.0  
+10. As directed by Alfon                ... pos = 0.0   	neg = 0.125
+11. Unlike the David Lea                ... pos = 0.75  	neg = 0.125
+12. Hawke and Paltrow ha                ... pos = 0.125 	neg = 1.0  
+13. As Estella, Paltrow                 ... pos = 0.75  	neg = 0.375
+14. The best scenes in `                ... pos = 0.75  	neg = 0.0  
+15. There is a sense of                 ... pos = 0.0   	neg = 0.25 
+16. Overall, `Great Expe                ... pos = 0.875 	neg = 1.0  
+17. Those who feel compe                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5472-155 is Positive         ... pos = 9.5   	neg = 4.375
+Overall score of document
+Total Pos = 9.5
+Total Neg = 4.375
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. The last book I fini                 ... pos = 1.0   	neg = 0.125
+1. In particular, a goo                 ... pos = 1.875 	neg = 0.25 
+2. (Yes, it's research                  ... pos = 0.0   	neg = 0.125
+3. ). So I took this od                 ... pos = 0.625 	neg = 0.0  
+4. Did it help any?                     ... pos = 0.0   	neg = 0.0  
+5. I'm not sure.                        ... pos = 0.25  	neg = 0    
+6. After reading that b                 ... pos = 1.0   	neg = 0.0  
+7. The "Great Commissio                 ... pos = 0.0   	neg = 0.125
+8. That God's word is h                 ... pos = 0.75  	neg = 0.25 
+9. And, in the film, th                 ... pos = 0.0   	neg = 0.25 
+10. This evangelism perv                ... pos = 1.0   	neg = 0.625
+11. This evangelism woul                ... pos = 0.0   	neg = 0.375
+12. Note that Duvall is                 ... pos = 0.875 	neg = 0.125
+13. I don't know what hi                ... pos = 1.0   	neg = 0.125
+14. I'm not sure what th                ... pos = 0.375 	neg = 0.125
+15. (Arguably, there are                ... pos = 0.5   	neg = 0.625
+16. )  There's one theme                ... pos = 0.125 	neg = 0.125
+17. Sonny has committed                 ... pos = 0.375 	neg = 0.5  
+18. But this doesn't wor                ... pos = 0.0   	neg = 0.125
+19. He's God's servant,                 ... pos = 0.375 	neg = 0.0  
+20. There perhaps is the                ... pos = 0.375 	neg = 1.875
+21. He tries to escape o                ... pos = 0.0   	neg = 0.625
+22. But this doesn't con                ... pos = 0.0   	neg = 0.125
+23. More credibly is the                ... pos = 0.75  	neg = 0.125
+24. This theme may be a                 ... pos = 0.0   	neg = 0.125
+25. Further, even though                ... pos = 1.125 	neg = 0.0  
+26. And so we have Sonny                ... pos = 1.125 	neg = 0.625
+27. And I think the idea                ... pos = 0.0   	neg = 0.0  
+28. We all know Sonny's                 ... pos = 0.0   	neg = 0.25 
+29. We understand his pr                ... pos = 0.375 	neg = 0.125
+30. And so, we have his                 ... pos = 1.75  	neg = 0.0  
+31. And, perhaps the con                ... pos = 0.875 	neg = 0.125
+32. Anyway, a couple ban                ... pos = 0.0   	neg = 0.125
+33. This is perhaps unre                ... pos = 0.125 	neg = 0.125
+34. I'll argue that the                 ... pos = 1.125 	neg = 0.5  
+35. I'm used to Billy Bo                ... pos = 0.125 	neg = 0.0  
+36. I've seen other film                ... pos = 0.0   	neg = 1.0  
+37. The film should be a                ... pos = 1.0   	neg = 0.25 
+38. Living relatively se                ... pos = 0.625 	neg = 0.0  
+39. We perhaps forget th                ... pos = 0.5   	neg = 0.125
+40. We may perhaps also                 ... pos = 0.125 	neg = 0.0  
+41. The complete picture                ... pos = 0.75  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5199-1441 is Positive        ... pos = 20.875 	neg = 10.875
+Overall score of document
+Total Pos = 20.875
+Total Neg = 10.875
+---------------------------------------------------------------------------

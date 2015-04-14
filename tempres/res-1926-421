@@ -1,0 +1,49 @@
+0. You know how sometim                 ... pos = 0.875 	neg = 0.125
+1. You know how we all                  ... pos = 0.375 	neg = 0.0  
+2. Is personal beauty s                 ... pos = 0.5   	neg = 0.125
+3. In the unforgettable                 ... pos = 1.625 	neg = 0.125
+4. We are there to witn                 ... pos = 1.0   	neg = 0.625
+5. Lester Burnham (Kevi                 ... pos = 0.125 	neg = 0.875
+6. But as we learn thro                 ... pos = 0.125 	neg = 0.125
+7. His marriage to real                 ... pos = 0.375 	neg = 1.375
+8. One day, after resol                 ... pos = 1.0   	neg = 0.0  
+9. As Lester puts it, a                 ... pos = 0.0   	neg = 0.375
+10. In fact, Lester begi                ... pos = 0.0   	neg = 0.0  
+11. He quits his boring                 ... pos = 0.0   	neg = 0.375
+12. He smokes dope with                 ... pos = 0.0   	neg = 0.125
+13. And he finally start                ... pos = 1.625 	neg = 0.0  
+14. Meanwhile, Carolyn i                ... pos = 0.0   	neg = 0.125
+15. An obsessive workaho                ... pos = 0.375 	neg = 0.0  
+16. She, however, lets h                ... pos = 0.125 	neg = 0.125
+17. But it is Ricky, the                ... pos = 0.25  	neg = 0.125
+18. He is a drug dealer                 ... pos = 0.0   	neg = 0.125
+19. When he moves onto t                ... pos = 0.375 	neg = 0.125
+20. Meanwhile, Jane take                ... pos = 0.125 	neg = 0    
+21. His abusive father (                ... pos = 0.25  	neg = 0.25 
+22. Ricky likes Jane bec                ... pos = 0.0   	neg = 0.0  
+23. He tries to show her                ... pos = 1.0   	neg = 0.125
+24. Angela, Jane's frien                ... pos = 1.25  	neg = 0.25 
+25. She is a seductive b                ... pos = 0.25  	neg = 0.625
+26. As "American Beauty"                ... pos = 1.0   	neg = 0.125
+27. "American Beauty" so                ... pos = 0.0   	neg = 0.875
+28. It is a flawless bla                ... pos = 0.25  	neg = 0.125
+29. The film explores th                ... pos = 1.0   	neg = 0.625
+30. The hardest part of                 ... pos = 0.0   	neg = 0.875
+31. Kevin Spacey and Ann                ... pos = 1.25  	neg = 0.25 
+32. Chris Cooper is amaz                ... pos = 1.875 	neg = 0.375
+33. Wes Bentley, whose o                ... pos = 0.625 	neg = 0.125
+34. He brings such life                 ... pos = 0.375 	neg = 0.75 
+35. "American Beauty", d                ... pos = 1.0   	neg = 0.125
+36. After seeing this fi                ... pos = 0.5   	neg = 0.0  
+37. Well, I think that l                ... pos = 0.75  	neg = 0.25 
+38. "American Beauty" is                ... pos = 0.625 	neg = 0.125
+39. However, the title i                ... pos = 0.5   	neg = 0.125
+40. I've been waiting a                 ... pos = 0.0   	neg = 0.5  
+41. Not a frame of film                 ... pos = 1.5   	neg = 0.5  
+42. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1926-421 is Positive         ... pos = 22.875 	neg = 12.0 
+Overall score of document
+Total Pos = 22.875
+Total Neg = 12.0
+---------------------------------------------------------------------------

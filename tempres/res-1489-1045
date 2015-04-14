@@ -1,0 +1,49 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.625
+1. Cinque, having never                 ... pos = 0.25  	neg = 1.0  
+2. Baldwin explains tha                 ... pos = 0.25  	neg = 0.125
+3. " again and again in                 ... pos = 0.625 	neg = 0    
+4. (At least that's wha                 ... pos = 0.0   	neg = 0.0  
+5. ). Amistad is a well                 ... pos = 0.25  	neg = 0.125
+6. Amistad is a good mo                 ... pos = 0.75  	neg = 0.25 
+7. And it's almost a gr                 ... pos = 0.0   	neg = 0.0  
+8. While that word -- a                 ... pos = 0.0   	neg = 0.25 
+9. Amistad is at its mo                 ... pos = 0.25  	neg = 0.125
+10. After a brutal kidna                ... pos = 0.0   	neg = 0.125
+11. The action sequences                ... pos = 1.25  	neg = 0.0  
+12. Unforunately, the re                ... pos = 0.25  	neg = 0.0  
+13. It's sort of like Pe                ... pos = 0.0   	neg = 0.0  
+14. Now, don't get me wr                ... pos = 0.0   	neg = 0.75 
+15. I'm a lawyer.                       ... pos = 0.0   	neg = 0    
+16. I love this kind of                 ... pos = 0.625 	neg = 0.25 
+17. And for me, anyway,                 ... pos = 0.375 	neg = 0.0  
+18. But there is just so                ... pos = 0.125 	neg = 0.25 
+19. Even the resolute Ci                ... pos = 0.0   	neg = 0.5  
+20. ", over and over aga                ... pos = 0.0   	neg = 0.125
+21. And by the climax of                ... pos = 0.0   	neg = 0.125
+22. (It's a measure of t                ... pos = 0.5   	neg = 0.25 
+23. ). The problem with                 ... pos = 0.25  	neg = 1.375
+24. Amistad spends, for                 ... pos = 0.0   	neg = 0.0  
+25. While pertinent to t                ... pos = 1.25  	neg = 0.25 
+26. There's also a surpr                ... pos = 0.625 	neg = 0.0  
+27. (John Quincy Adams,                 ... pos = 1.5   	neg = 0.903
+28. ). Amistad is at its                ... pos = 0.375 	neg = 0.25 
+29. McConaughey's charac                ... pos = 2.5   	neg = 0.0  
+30. In a world all too q                ... pos = 1.5   	neg = 0.875
+31. Hounsou plays his ro                ... pos = 0.5   	neg = 0.0  
+32. (Amistad is stingy w                ... pos = 0.0   	neg = 0.25 
+33. )  But we always kno                ... pos = 0.25  	neg = 0.25 
+34. Amistad's chief fail                ... pos = 0.125 	neg = 0.75 
+35. Alexander Solzhenits                ... pos = 0.5   	neg = 0.0  
+36. He sadly concluded t                ... pos = 0.625 	neg = 0.625
+37. " Amistad, by tellin                ... pos = 0.0   	neg = 0.375
+38. It is a noble effort                ... pos = 0.25  	neg = 0.125
+39. However, just as Cin                ... pos = 0.125 	neg = 0.25 
+40. A good movie, yes, a                ... pos = 0.75  	neg = 0.0  
+41. The Hollywood Stock                 ... pos = 0.0   	neg = 0.375
+42. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1489-1045 is Positive        ... pos = 16.625 	neg = 11.528
+Overall score of document
+Total Pos = 16.625
+Total Neg = 11.528
+---------------------------------------------------------------------------

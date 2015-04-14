@@ -1,0 +1,16 @@
+0. In "Jackie Brown," t                 ... pos = 0.875 	neg = 0.25 
+1. Ordell sends bailbon                 ... pos = 0.25  	neg = 0.25 
+2. Jackie soon hatches                  ... pos = 0.0   	neg = 0.625
+3. "Jackie Brown" attem                 ... pos = 1.125 	neg = 0.0  
+4. Touches of the old Q                 ... pos = 0.875 	neg = 0.125
+5. The weakness of the                  ... pos = 0.0   	neg = 0.125
+6. Although he has two                  ... pos = 0.875 	neg = 0.375
+7. Tarantino offers sev                 ... pos = 0.375 	neg = 1.125
+8. However, Forster's e                 ... pos = 0.125 	neg = 0.25 
+9. Likewise, Grier, obv                 ... pos = 2.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-1265 is Positive        ... pos = 7.0   	neg = 3.125
+Overall score of document
+Total Pos = 7.0
+Total Neg = 3.125
+---------------------------------------------------------------------------

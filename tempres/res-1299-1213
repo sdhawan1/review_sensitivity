@@ -1,0 +1,38 @@
+0. Starring Jason Schwa                 ... pos = 0.375 	neg = 0.0  
+1. Directed By Wes Ande                 ... pos = 1.375 	neg = 0.0  
+2. It shouldn't work, b                 ... pos = 0.0   	neg = 0.0  
+3. Although he founded,                 ... pos = 0.125 	neg = 1.0  
+4. Max falls in love wi                 ... pos = 1.5   	neg = 0.25 
+5. ) Max enlists the he                 ... pos = 0.25  	neg = 0.125
+6. But Max and Herman s                 ... pos = 0.5   	neg = 0.0  
+7. The plot is obvious                  ... pos = 0.0   	neg = 1.0  
+8. Rushmore also leaves                 ... pos = 0.0   	neg = 0.75 
+9. But the quick pace o                 ... pos = 0.125 	neg = 0.0  
+10. Wes Anderson adds a                 ... pos = 0.875 	neg = 0.0  
+11. Each scene is played                ... pos = 0.5   	neg = 0.125
+12. It's hard to describ                ... pos = 0.0   	neg = 0.75 
+13. The characters are e                ... pos = 1.75  	neg = 0.0  
+14. Max is a horrible, h                ... pos = 0.5   	neg = 1.5  
+15. But again his behavi                ... pos = 0.0   	neg = 0.25 
+16. Herman finds out he                 ... pos = 0.0   	neg = 0.375
+17. Not even his dad see                ... pos = 0.125 	neg = 0.125
+18. Strange.                            ... pos = 0.375 	neg = 0    
+19. While on the subject                ... pos = 1.0   	neg = 0.125
+20. This is Peter Venkma                ... pos = 0.0   	neg = 0.125
+21. In fact, he's pretty                ... pos = 0.875 	neg = 0.25 
+22. Olivia Williams is a                ... pos = 0.375 	neg = 0.875
+23. Some tinkling muzak                 ... pos = 0.625 	neg = 0.0  
+24. School life is portr                ... pos = 0.0   	neg = 1.0  
+25. There's some cute, s                ... pos = 0.5   	neg = 0.5  
+26. Max also puts togeth                ... pos = 0.625 	neg = 0.125
+27. There's so many nice                ... pos = 0.75  	neg = 0.0  
+28. Mason Gamble, previo                ... pos = 2.0   	neg = 0.5  
+29. Although the ending                 ... pos = 0.125 	neg = 0.125
+30. Although it leaves a                ... pos = 1.5   	neg = 1.25 
+31. Rushmore....works..                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1299-1213 is Positive        ... pos = 16.75 	neg = 11.125
+Overall score of document
+Total Pos = 16.75
+Total Neg = 11.125
+---------------------------------------------------------------------------

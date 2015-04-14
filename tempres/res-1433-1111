@@ -1,0 +1,30 @@
+0. SHAKESPEARE IN LOVE                  ... pos = 1.375 	neg = 0.125
+1. Due to the film's su                 ... pos = 2.375 	neg = 0.125
+2. Clever comedy, charm                 ... pos = 1.25  	neg = 0.0  
+3. Ordinarily it would                  ... pos = 1.125 	neg = 0.0  
+4. Will Shakespeare (Jo                 ... pos = 0.125 	neg = 0.0  
+5. He's just begun work                 ... pos = 0.0   	neg = 0.0  
+6. But, like the play's                 ... pos = 0.0   	neg = 0.0  
+7. He finds motivation                  ... pos = 0.875 	neg = 0.125
+8. Shakespeare and Viol                 ... pos = 0.5   	neg = 0.0  
+9. Those interested in                  ... pos = 0.625 	neg = 0.0  
+10. Shakespeare in Love                 ... pos = 1.875 	neg = 0.125
+11. On the other hand, t                ... pos = 0.5   	neg = 0.0  
+12. Comic performances f                ... pos = 0.875 	neg = 0.0  
+13. Joseph Fiennes and G                ... pos = 0.125 	neg = 0    
+14. Scenes in which Shak                ... pos = 0.0   	neg = 0.0  
+15. As he writes, we can                ... pos = 0.75  	neg = 0.0  
+16. Paltrow delivers one                ... pos = 0.375 	neg = 0.0  
+17. She has always had e                ... pos = 0.125 	neg = 0.5  
+18. With so many films n                ... pos = 0.25  	neg = 1.625
+19. There are so many pa                ... pos = 1.25  	neg = 0.0  
+20. " Shakespeare in Lov                ... pos = 0.375 	neg = 0.75 
+21. Its carefully crafte                ... pos = 1.5   	neg = 0.0  
+22. Shakespeare in Love                 ... pos = 1.875 	neg = 0.0  
+23. Not only does it wor                ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1433-1111 is Positive        ... pos = 19.0  	neg = 3.625
+Overall score of document
+Total Pos = 19.0
+Total Neg = 3.625
+---------------------------------------------------------------------------

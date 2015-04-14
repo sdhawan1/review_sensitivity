@@ -1,0 +1,39 @@
+0. 8MM (Columbia - 1999                 ... pos = 0.125 	neg = 0.625
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 1.5   	neg = 1.0  
+3. Equally contentious                  ... pos = 2.0   	neg = 0.625
+4. In short,    this is                 ... pos = 0.0   	neg = 0.125
+5. However, despite                     ... pos = 1.25  	neg = 1.625
+6. 8MM is the newest en                 ... pos = 1.375 	neg = 1.375
+7. (There's some irony                  ... pos = 0.875 	neg = 0.0  
+8. franchise.                           ... pos = 0     	neg = 0.0  
+9. )  While it's diffic                 ... pos = 0.625 	neg = 0.125
+10. (I'm not sure that e                ... pos = 1.25  	neg = 0.375
+11. ).    In this pictur                ... pos = 1.0   	neg = 0.75 
+12. There's less of a pe                ... pos = 1.125 	neg = 0.75 
+13. The film's early seq                ... pos = 1.375 	neg = 0.875
+14. With Amy as his meta                ... pos = 0.375 	neg = 0.125
+15. It's not very profou                ... pos = 3.25  	neg = 2.5  
+16. Curiously, Welles' s                ... pos = 2.125 	neg = 0.25 
+17. It's also not helped                ... pos = 0.0   	neg = 0.25 
+18. While the procedural                ... pos = 1.0   	neg = 1.5  
+19. The film's strength                 ... pos = 3.875 	neg = 0.125
+20. There's a palatable                 ... pos = 0.75  	neg = 0.25 
+21. While    Schumacher                 ... pos = 0.375 	neg = 0.25 
+22. During its    explor                ... pos = 0.625 	neg = 0.75 
+23. Unfortunately, the p                ... pos = 0.125 	neg = 1.25 
+24. Aside from an overbr                ... pos = 1.0   	neg = 1.5  
+25. The inclusion of sel                ... pos = 1.5   	neg = 3.375
+26. When Welles screamed                ... pos = 0.0   	neg = 0.0  
+27. " at his tormentors,                ... pos = 0.0   	neg = 0.125
+28. Though 8MM's convent                ... pos = 2.25  	neg = 0.25 
+29. Ultimately, the most                ... pos = 1.25  	neg = 0.25 
+30. -- Alex Fung (aw220@                ... pos = 0.125 	neg = 0.125
+31. Half the time I have                ... pos = 0.0   	neg = 0.25 
+32. " - Martin Landau. .                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2514-717 is Positive         ... pos = 31.125 	neg = 21.625
+Overall score of document
+Total Pos = 31.125
+Total Neg = 21.625
+---------------------------------------------------------------------------

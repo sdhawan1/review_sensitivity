@@ -1,0 +1,45 @@
+0. "Wag the Dog" * * *                  ... pos = 0.125 	neg = 0.625
+1. Because a dog is sma                 ... pos = 0.0   	neg = 0.75 
+2. If the tail was smar                 ... pos = 0.125 	neg = 0.75 
+3. " . There is a quali                 ... pos = 1.375 	neg = 0.75 
+4. In all the years tha                 ... pos = 0.75  	neg = 0.125
+5. I'm sure that by now                 ... pos = 0.75  	neg = 0.25 
+6. In turn, DeNiro empl                 ... pos = 0.25  	neg = 0.125
+7. Meanwhile, the Presi                 ... pos = 0.5   	neg = 0.875
+8. Not good.                            ... pos = 0.75  	neg = 0    
+9. So they need to get                  ... pos = 1.125 	neg = 0.375
+10. To say any more woul                ... pos = 0.5   	neg = 0.125
+11. But what ensues is o                ... pos = 0.875 	neg = 0.125
+12. The cast puts so muc                ... pos = 0.125 	neg = 0.75 
+13. I mean, there's just                ... pos = 0.0   	neg = 0.25 
+14. " that it just can't                ... pos = 0.0   	neg = 0.125
+15. It has to be seen.                  ... pos = 0.0   	neg = 0.125
+16. Just from hearing th                ... pos = 0.0   	neg = 0.5  
+17. Well, he does so.                   ... pos = 0.0   	neg = 0.0  
+18. Brilliantly, I might                ... pos = 0.375 	neg = 0.625
+19. But "Wag the Dog" is                ... pos = 1.0   	neg = 0.625
+20. However, as fresh an                ... pos = 1.75  	neg = 0.25 
+21. It's not all that im                ... pos = 0.0   	neg = 0.0  
+22. I'm not saying we're                ... pos = 0.0   	neg = 0.0  
+23. Kind of sends a chil                ... pos = 0.125 	neg = 0.0  
+24. There was a sad shor                ... pos = 0.625 	neg = 0.875
+25. There are only about                ... pos = 1.875 	neg = 0.125
+26. Now, I haven't seen                 ... pos = 0.0   	neg = 0.0  
+27. "The Ice Storm", "Bo                ... pos = 0.0   	neg = 0.0  
+28. ), but I find it rat                ... pos = 1.125 	neg = 1.0  
+29. Of course, you know                 ... pos = 0.875 	neg = 0.0  
+30. It's too smart and c                ... pos = 1.25  	neg = 0.25 
+31. Everyone knows that                 ... pos = 0.875 	neg = 0.0  
+32. They like to give th                ... pos = 0.75  	neg = 0.0  
+33. I'm not saying that                 ... pos = 0.75  	neg = 1.0  
+34. But Best Picture?                   ... pos = 0.375 	neg = 0.0  
+35. No way.                             ... pos = 0.0   	neg = 0.0  
+36. That award should go                ... pos = 0.5   	neg = 0.0  
+37. "Wag the Dog" does j                ... pos = 0.0   	neg = 1.0  
+38. Check out Jason Wall                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4231-1560 is Positive        ... pos = 19.75 	neg = 12.375
+Overall score of document
+Total Pos = 19.75
+Total Neg = 12.375
+---------------------------------------------------------------------------

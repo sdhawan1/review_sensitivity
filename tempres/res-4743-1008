@@ -1,0 +1,49 @@
+0. **1/2 (out of 4) Sam                 ... pos = 0.375 	neg = 0.0  
+1. He broke into the ma                 ... pos = 0.25  	neg = 0.0  
+2. Even A SIMPLE PLAN h                 ... pos = 0.125 	neg = 0.0  
+3. But now that Raimi's                 ... pos = 0.625 	neg = 0.0  
+4. A G-rated David Lync                 ... pos = 0.0   	neg = 0.125
+5. Wes Craven directing                 ... pos = 0.125 	neg = 0    
+6. Costner plays Billy                  ... pos = 0.0   	neg = 0.125
+7. The owner, Roy Wheel                 ... pos = 0.5   	neg = 0.0  
+8. If Billy would quit,                 ... pos = 0.25  	neg = 0.0  
+9. Billy's pitching arm                 ... pos = 0.0   	neg = 0.125
+10. His girlfriend Jane                 ... pos = 0.75  	neg = 0.125
+11. His team stinks this                ... pos = 0.0   	neg = 1.0  
+12. Billy realizes that                 ... pos = 0.875 	neg = 0    
+13. He resolves not to g                ... pos = 0.5   	neg = 0.0  
+14. He resolves to fight                ... pos = 0.75  	neg = 0.0  
+15. For seven innings, t                ... pos = 1.5   	neg = 0.25 
+16. Come the eighth inni                ... pos = 0.125 	neg = 0.0  
+17. If he can get past s                ... pos = 0.125 	neg = 0.0  
+18. For a large part of                 ... pos = 0.625 	neg = 0.0  
+19. (FOR LOVE OF THE GAM                ... pos = 1.125 	neg = 0.125
+20. ) Costner's not the                 ... pos = 0.75  	neg = 0.375
+21. His relationship wit                ... pos = 0.864 	neg = 0.125
+22. His relationship wit                ... pos = 0.125 	neg = 0.125
+23. However the characte                ... pos = 1.0   	neg = 0.125
+24. She was more a plot                 ... pos = 0.0   	neg = 0.125
+25. She's a single mothe                ... pos = 0.875 	neg = 0.0  
+26. I know single mother                ... pos = 0.0   	neg = 0.0  
+27. You do not feed two                 ... pos = 0.375 	neg = 0.0  
+28. Her career aside, th                ... pos = 2.125 	neg = 0.0  
+29. Billy says to her fa                ... pos = 0.875 	neg = 0.25 
+30. Later, Jane, in retu                ... pos = 0.0   	neg = 0.125
+31. It's clear that they                ... pos = 0.0   	neg = 0.0  
+32. The only explanation                ... pos = 0.0   	neg = 0.25 
+33. The supporting chara                ... pos = 2.125 	neg = 0.25 
+34. Jena Malone (from Co                ... pos = 0.0   	neg = 0.0  
+35. ** played Birch, Bil                ... pos = 0.0   	neg = 0.125
+36. And John C. Reilly (                ... pos = 0.0   	neg = 0.0  
+37. ) gives another very                ... pos = 2.125 	neg = 0.125
+38. FOR LOVE OF THE GAME                ... pos = 0.625 	neg = 0.375
+39. Small details give a                ... pos = 0.375 	neg = 0.0  
+40. In spite of some obv                ... pos = 2.875 	neg = 0.125
+41. The sentimentality i                ... pos = 0.0   	neg = 0.25 
+42. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4743-1008 is Positive        ... pos = 23.739 	neg = 4.625
+Overall score of document
+Total Pos = 23.739
+Total Neg = 4.625
+---------------------------------------------------------------------------

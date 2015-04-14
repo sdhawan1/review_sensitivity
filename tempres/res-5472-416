@@ -1,0 +1,29 @@
+0. Written by: Mitch Gl                 ... pos = 2.0   	neg = 0.125
+1. In the original Char                 ... pos = 1.125 	neg = 0.75 
+2. The gist of the stor                 ... pos = 0.0   	neg = 0.125
+3. " Pip leaves for Lon                 ... pos = 0.375 	neg = 0.25 
+4. But life has a way o                 ... pos = 0.0   	neg = 0.0  
+5. Pip becomes an arrog                 ... pos = 0.5   	neg = 0.0  
+6. until he learns just                 ... pos = 0.0   	neg = 0.125
+7. In this new 1998 ver                 ... pos = 0.375 	neg = 0.125
+8. But soon the focus o                 ... pos = 3.0   	neg = 0.0  
+9. Estella was raised i                 ... pos = 1.125 	neg = 0.125
+10. This causes Estella                 ... pos = 0.0   	neg = 0.0  
+11. When Finn becomes a                 ... pos = 0.75  	neg = 0.125
+12. Finn leaves Florida                 ... pos = 1.0   	neg = 0.625
+13. What will happen to                 ... pos = 0.125 	neg = 0.0  
+14. ". Ethan Hawke is ro                ... pos = 0.25  	neg = 0.125
+15. (He romanced Winona                 ... pos = 0.125 	neg = 0.5  
+16. He romanced Julie De                ... pos = 0.0   	neg = 0    
+17. He romanced Uma Thur                ... pos = 0.625 	neg = 0    
+18. Now in GREAT EXPECTA                ... pos = 0.0   	neg = 0.0  
+19. ) Hawke plays a love                ... pos = 0.0   	neg = 0.0  
+20. Meanwhile Paltrow po                ... pos = 0.875 	neg = 0.125
+21. Anne Bancroft goes a                ... pos = 0.5   	neg = 0.875
+22. The difference betwe                ... pos = 2.125 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5472-416 is Positive         ... pos = 14.875 	neg = 4.5  
+Overall score of document
+Total Pos = 14.875
+Total Neg = 4.5
+---------------------------------------------------------------------------

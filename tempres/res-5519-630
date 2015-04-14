@@ -1,0 +1,57 @@
+0. Ronin sports one of                  ... pos = 0.625 	neg = 0.0  
+1. The chase (the film'                 ... pos = 0.0   	neg = 0.75 
+2. It conjures up memor                 ... pos = 0.875 	neg = 0.375
+3. The ride is thrillin                 ... pos = 0.125 	neg = 0.125
+4. The accidents are de                 ... pos = 0.25  	neg = 0    
+5. And yet, there's som                 ... pos = 0.25  	neg = 0.0  
+6. I mention this becau                 ... pos = 0.25  	neg = 0.125
+7. Like _Fiction_, it s                 ... pos = 2.0   	neg = 0.0  
+8. Robert DeNiro is the                 ... pos = 0.625 	neg = 0.5  
+9. The cast plays off e                 ... pos = 0.0   	neg = 0.75 
+10. The film even has a                 ... pos = 0.5   	neg = 0.0  
+11. "What's in the case?                ... pos = 0.0   	neg = 0.0  
+12. " asks DeNiro, repea                ... pos = 0.125 	neg = 0.0  
+13. Perhaps the mathemat                ... pos = 0.375 	neg = 0    
+14. But, also like _PF_,                ... pos = 0.125 	neg = 0.375
+15. What made _Pulp Fict                ... pos = 0.5   	neg = 0.25 
+16. _Ronin_ spends too m                ... pos = 1.0   	neg = 0.875
+17. Or charicatures.                    ... pos = 0     	neg = 0.0  
+18. Back to that car cha                ... pos = 0.0   	neg = 0.0  
+19. The camera captures                 ... pos = 0.0   	neg = 0.0  
+20. Cut to: interior loo                ... pos = 0.0   	neg = 0.5  
+21. No dialogue.                        ... pos = 0     	neg = 0.25 
+22. No fear of getting c                ... pos = 0.375 	neg = 0.25 
+23. Cut to: car no.                     ... pos = 0     	neg = 0.25 
+24. 2, with Jean Reno in                ... pos = 0.0   	neg = 0.0  
+25. Six cars crash right                ... pos = 0.625 	neg = 0.0  
+26. The audience's adren                ... pos = 1.125 	neg = 0.125
+27. What gives?                         ... pos = 0.0   	neg = 0    
+28. This goes on for nea                ... pos = 0.0   	neg = 0.0  
+29. The city is destroye                ... pos = 0.0   	neg = 0.125
+30. Innocent bystanders                 ... pos = 0.125 	neg = 0.0  
+31. Fifty cars get demol                ... pos = 0.0   	neg = 0.0  
+32. Yet very few police                 ... pos = 0.75  	neg = 0.0  
+33. (Were they on strike                ... pos = 0.0   	neg = 0.125
+34. )  And the oncoming                 ... pos = 0.0   	neg = 0.625
+35. ( Did the traffic re                ... pos = 0.0   	neg = 0.0  
+36. ). I suppose we, as                 ... pos = 0.125 	neg = 0.0  
+37. "  James Bond doesn'                ... pos = 0.125 	neg = 0.0  
+38. My take: for a film                 ... pos = 0.0   	neg = 0.25 
+39. It takes everything                 ... pos = 0.0   	neg = 0.25 
+40. The final scene ruin                ... pos = 0.0   	neg = 0.5  
+41. Without spoiling the                ... pos = 1.0   	neg = 0.25 
+42. Here, a devastating                 ... pos = 0.125 	neg = 0.5  
+43. We see the victims,                 ... pos = 0.0   	neg = 1.875
+44. Why waste our time?                 ... pos = 0.0   	neg = 0.0  
+45. There's enough illog                ... pos = 0.0   	neg = 0.0  
+46. So I could not care                 ... pos = 0.875 	neg = 0.0  
+47. Consequently, the st                ... pos = 0.0   	neg = 0.0  
+48. Hence, I cannot reco                ... pos = 0.0   	neg = 0.0  
+49. And yet... there _is                ... pos = 1.0   	neg = 0.0  
+50. I'm torn.. .                        ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5519-630 is Positive         ... pos = 13.875 	neg = 10.0 
+Overall score of document
+Total Pos = 13.875
+Total Neg = 10.0
+---------------------------------------------------------------------------

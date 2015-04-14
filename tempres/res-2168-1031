@@ -1,0 +1,21 @@
+0. RUSH HOUR Reviewed b                 ... pos = 0.25  	neg = 0.0  
+1. Sure, he can be as                   ... pos = 0.75  	neg = 0.125
+2. Rather, the problem                  ... pos = 1.125 	neg = 1.0  
+3. Check out the openin                 ... pos = 0.0   	neg = 0.75 
+4. Um,  could he or his                 ... pos = 0.0   	neg = 0.125
+5. "Rush Hour" becomes                  ... pos = 0.625 	neg = 0.25 
+6. Chan fans might be d                 ... pos = 0.25  	neg = 3.75 
+7. That bit aside, "Rus                 ... pos = 0.25  	neg = 0.375
+8. " Carter screeches t                 ... pos = 0.0   	neg = 1.25 
+9. Much more successful                 ... pos = 0.75  	neg = 0.75 
+10. Here, it's good stuf                ... pos = 1.125 	neg = 0.25 
+11. The title must refer                ... pos = 0.375 	neg = 0.625
+12. Though nobody will                  ... pos = 1.375 	neg = 0.625
+13. If  you're a praying                ... pos = 0.125 	neg = 0.0  
+14. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2168-1031 is Negative        ... pos = 7.0   	neg = 9.875
+Overall score of document
+Total Pos = 7.0
+Total Neg = 9.875
+---------------------------------------------------------------------------

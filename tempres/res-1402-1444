@@ -1,0 +1,64 @@
+0. Directed by Gregory                  ... pos = 0.0   	neg = 0    
+1. Screenplay by Tobias                 ... pos = 0.0   	neg = 0.0  
+2. Starring Dennis Quai                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 121 mi                 ... pos = 0     	neg = 0.0  
+4. Rated AA by the MFCB                 ... pos = 0.125 	neg = 0.0  
+5. Reviewed on May 4th,                 ... pos = 0.0   	neg = 0.0  
+6. One of the big probl                 ... pos = 0.625 	neg = 0.375
+7. The difficulty is th                 ... pos = 1.0   	neg = 1.125
+8. Good movies like "Ba                 ... pos = 0.75  	neg = 0.875
+9. Their makers are awa                 ... pos = 1.375 	neg = 0.125
+10. "Frequency" is such                 ... pos = 0.125 	neg = 0.25 
+11. John Sullivan (James                ... pos = 0.375 	neg = 0.375
+12. He has just  broken                 ... pos = 0.625 	neg = 0.875
+13. Frank Sullivan (Denn                ... pos = 0.5   	neg = 0.125
+14. One night, John happ                ... pos = 0.0   	neg = 0.0  
+15. For old  times' sake                ... pos = 0.0   	neg = 0.0  
+16. A lot of things were                ... pos = 0.375 	neg = 0.125
+17. The "Amazing" Mets w                ... pos = 0.25  	neg = 0.125
+18. A serial killer murd                ... pos = 0.0   	neg = 1.0  
+19. And the aurora borea                ... pos = 0.75  	neg = 0.125
+20. In 1999, the Norther                ... pos = 1.0   	neg = 0.0  
+21. By some freak accide                ... pos = 0.0   	neg = 0.0  
+22. John manages to conv                ... pos = 0.125 	neg = 0.125
+23. But this changes the                ... pos = 0.75  	neg = 0.0  
+24. Somehow, Frank's sur                ... pos = 0.0   	neg = 0.25 
+25. Frank and John must                 ... pos = 0.375 	neg = 0.0  
+26. "Frequency" is not a                ... pos = 0.0   	neg = 0.125
+27. In a way it's about                 ... pos = 0.125 	neg = 0.0  
+28. And of course it dea                ... pos = 0.625 	neg = 1.125
+29. But, in the end, the                ... pos = 0.75  	neg = 0.125
+30. There are a lot of g                ... pos = 0.25  	neg = 0.125
+31. The movie doesn't  t                ... pos = 0.75  	neg = 0.25 
+32. For example, at one                 ... pos = 0.0   	neg = 0.0  
+33. John sees the letter                ... pos = 0.0   	neg = 0.0  
+34. But of course they'r                ... pos = 0.0   	neg = 0.125
+35. Later, Frank acquire                ... pos = 0.125 	neg = 0.0  
+36. So he hides the wall                ... pos = 0.375 	neg = 0.0  
+37. "Wow,"  breathes Fra                ... pos = 0.125 	neg = 0.125
+38. While these sorts of                ... pos = 1.0   	neg = 0.375
+39. And there are a  cou                ... pos = 1.75  	neg = 0.0  
+40. The only real downsi                ... pos = 0.625 	neg = 0.625
+41. This is not to say                  ... pos = 0.25  	neg = 0.375
+42. Scenes like one wher                ... pos = 0.625 	neg = 1.125
+43. But even this is ene                ... pos = 1.0   	neg = 0.125
+44. "Frequency" lives or                ... pos = 0.0   	neg = 0.0  
+45. But both actors are                 ... pos = 1.239 	neg = 0.0  
+46. As a result, it's ea                ... pos = 0.5   	neg = 1.375
+47. Director Gregory Hob                ... pos = 0.875 	neg = 0.0  
+48. Also, he wisely choo                ... pos = 0.75  	neg = 0.0  
+49. Although some  diffe                ... pos = 1.5   	neg = 0.0  
+50. Like "Back To The Fu                ... pos = 0.375 	neg = 0.125
+51. "Frequency" has a br                ... pos = 0.375 	neg = 0.0  
+52. It's a  science-fict                ... pos = 1.375 	neg = 0.875
+53. "Frequency" probably                ... pos = 1.25  	neg = 0.5  
+54. And, in the end, I c                ... pos = 0.125 	neg = 0.0  
+55. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+56. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+57. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1402-1444 is Positive        ... pos = 26.364 	neg = 13.375
+Overall score of document
+Total Pos = 26.364
+Total Neg = 13.375
+---------------------------------------------------------------------------

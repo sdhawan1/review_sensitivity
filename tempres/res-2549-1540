@@ -1,0 +1,40 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Frank Dar                 ... pos = 0.125 	neg = 0.0  
+2. Photographed by Davi                 ... pos = 0.0   	neg = 0.0  
+3. CAST..... Tom Hanks.                 ... pos = 0.75  	neg = 0.0  
+4. Warden Hal Moores Mi                 ... pos = 0.75  	neg = 0.875
+5. Decent men work with                 ... pos = 0.25  	neg = 0.0  
+6. Perhaps that's the m                 ... pos = 0.0   	neg = 0.0  
+7. The location is E-bl                 ... pos = 0.25  	neg = 0.25 
+8. We meet some of  the                 ... pos = 0.0   	neg = 0.125
+9. All of these, except                 ... pos = 1.875 	neg = 0.5  
+10. They view their role                ... pos = 0.5   	neg = 0.375
+11. "Think of this place                ... pos = 0.0   	neg = 0.0  
+12. One of the new guest                ... pos = 2.375 	neg = 0.375
+13. Other odd plot point                ... pos = 0.875 	neg = 0.625
+14. We wonder what signi                ... pos = 0.875 	neg = 0.0  
+15. My vague description                ... pos = 0.5   	neg = 0.0  
+16. "The Green Mile" doe                ... pos = 0.5   	neg = 0.375
+17. That is  why virtue                 ... pos = 1.375 	neg = 0.875
+18. And it is exactly ho                ... pos = 0.5   	neg = 0.125
+19. King released "The G                ... pos = 0.125 	neg = 0.0  
+20. Even if you read the                ... pos = 0.556 	neg = 0.125
+21. The film captures th                ... pos = 0.375 	neg = 1.0  
+22. If only Darabont had                ... pos = 0.25  	neg = 0.0  
+23. The way he lets "The                ... pos = 1.375 	neg = 0.0  
+24. The film is three ho                ... pos = 0.125 	neg = 1.5  
+25. We get so immersed i                ... pos = 1.375 	neg = 0.0  
+26. Audience members pre                ... pos = 0.625 	neg = 0.5  
+27. Not that you'd think                ... pos = 0.0   	neg = 0.0  
+28. This week two brilli                ... pos = 1.625 	neg = 0.5  
+29. Darabont's film has                 ... pos = 1.375 	neg = 1.375
+30. This is a movie that                ... pos = 0.375 	neg = 0.375
+31. One scene, for examp                ... pos = 0.5   	neg = 0.875
+32. I was able to remove                ... pos = 0.125 	neg = 0.5  
+33. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2549-1540 is Positive        ... pos = 20.556 	neg = 11.375
+Overall score of document
+Total Pos = 20.556
+Total Neg = 11.375
+---------------------------------------------------------------------------

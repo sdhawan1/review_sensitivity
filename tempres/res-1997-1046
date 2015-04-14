@@ -1,0 +1,45 @@
+0. CAPSULE: Where are y                 ... pos = 0.25  	neg = 0    
+1. STARSHIP TROOPERS is                 ... pos = 0.25  	neg = 1.667
+2. It is not good cinem                 ... pos = 1.75  	neg = 0.5  
+3. It's one of the wors                 ... pos = 0.0   	neg = 0.75 
+4. Why am I calling thi                 ... pos = 0.0   	neg = 0.125
+5. Pornography, in the                  ... pos = 0.0   	neg = 0.25 
+6. I remember reading a                 ... pos = 0.75  	neg = 0.0  
+7. I didn't agree with                  ... pos = 0.875 	neg = 0.75 
+8. ". That sentiment is                 ... pos = 0.125 	neg = 0.125
+9. It's *literally* lik                 ... pos = 0.0   	neg = 0.25 
+10. It tries frantically                ... pos = 1.25  	neg = 1.125
+11. The film takes place                ... pos = 0.0   	neg = 0.0  
+12. To counterattack, hu                ... pos = 0.25  	neg = 1.375
+13. This isn't Heinlein,                ... pos = 0.375 	neg = 1.625
+14. (One scene has a jou                ... pos = 0.25  	neg = 1.125
+15. ). The soldiers and                 ... pos = 0.5   	neg = 0.25 
+16. They do not possess                 ... pos = 0.0   	neg = 0.0  
+17. They don't even beha                ... pos = 0.0   	neg = 0.875
+18. We hated the Tom Ber                ... pos = 0.875 	neg = 1.25 
+19. Here, we don't even                 ... pos = 0.25  	neg = 0.0  
+20. Hating them would be                ... pos = 0.0   	neg = 0.125
+21. If there's anything                 ... pos = 0.0   	neg = 0.667
+22. The screenwriter (Ed                ... pos = 1.0   	neg = 0.125
+23. One of the subplots                 ... pos = 0.0   	neg = 0.25 
+24. Once or twice is fin                ... pos = 0.0   	neg = 0.125
+25. By the fifth or sixt                ... pos = 0.25  	neg = 0.0  
+26. There's never any se                ... pos = 0.75  	neg = 0.0  
+27. Also, the movie is i                ... pos = 0.5   	neg = 0.125
+28. If a bug has one of                 ... pos = 0.75  	neg = 0.0  
+29. But if one human get                ... pos = 0.0   	neg = 0.0  
+30. Uh-huh.                             ... pos = 0     	neg = 0    
+31. The very worst featu                ... pos = 0.5   	neg = 1.25 
+32. I say "quasi-" becau                ... pos = 0.0   	neg = 0.5  
+33. -- the movie doesn't                ... pos = 1.0   	neg = 0.125
+34. The bumpers between                 ... pos = 0.5   	neg = 2.375
+35. Like the rest of the                ... pos = 0     	neg = 0.0  
+36. There's more, I supp                ... pos = 0.0   	neg = 0.0  
+37. The acting is bland,                ... pos = 0.0   	neg = 1.0  
+38. The heartbreaking th                ... pos = 0.625 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1997-1046 is Negative        ... pos = 13.625 	neg = 19.209
+Overall score of document
+Total Pos = 13.625
+Total Neg = 19.209
+---------------------------------------------------------------------------

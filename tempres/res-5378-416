@@ -1,0 +1,20 @@
+0. Synopsis: Joe Fox (T                 ... pos = 0.875 	neg = 0.0  
+1. Online Kathleen and                  ... pos = 0.25  	neg = 0.0  
+2. Little do they know                  ... pos = 0.5   	neg = 1.125
+3. When Joe finds out K                 ... pos = 0.0   	neg = 0.5  
+4. Will they fall in lo                 ... pos = 0.75  	neg = 0    
+5. Opinion: The film be                 ... pos = 0.375 	neg = 0.0  
+6. In a good comedic to                 ... pos = 0.75  	neg = 0.0  
+7. They are adorable ch                 ... pos = 2.375 	neg = 0.125
+8. But something's not                  ... pos = 0.125 	neg = 0.0  
+9. After the movie prog                 ... pos = 0.5   	neg = 0.125
+10. In its place is a pl                ... pos = 0.625 	neg = 0.625
+11. Bottom line?                        ... pos = 0     	neg = 0.0  
+12. While friends might                 ... pos = 0.875 	neg = 0.625
+13. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5378-416 is Positive         ... pos = 8.0   	neg = 3.25 
+Overall score of document
+Total Pos = 8.0
+Total Neg = 3.25
+---------------------------------------------------------------------------

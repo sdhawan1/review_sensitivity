@@ -1,0 +1,32 @@
+0. The Jaws structure w                 ... pos = 0.75  	neg = 1.375
+1. Man versus nature, i                 ... pos = 0.0   	neg = 0.0  
+2. Deviate too far and                  ... pos = 0.0   	neg = 0.25 
+3. Duncan Kennedy and W                 ... pos = 0.5   	neg = 0.125
+4. Deep Blue Sea is a s                 ... pos = 0.0   	neg = 0.375
+5. And of course his ch                 ... pos = 1.0   	neg = 0.75 
+6. The low point of the                 ... pos = 1.25  	neg = 0.25 
+7. The high point is th                 ... pos = 0.5   	neg = 1.25 
+8. Remember the floatin                 ... pos = 0.125 	neg = 0.0  
+9. Deep Blue Sea has a                  ... pos = 0.375 	neg = 0.0  
+10. But yes, the structu                ... pos = 0.0   	neg = 1.0  
+11. Yes, plural sharks.                 ... pos = 0     	neg = 0.125
+12. In keeping with Anac                ... pos = 0.125 	neg = 0.0  
+13. That would be too ea                ... pos = 0.25  	neg = 0.375
+14. And they're makos th                ... pos = 0.0   	neg = 0.0  
+15. Needless to say, the                ... pos = 0.25  	neg = 0.125
+16. Pretty much Benchley                ... pos = 0.125 	neg = 0.625
+17. We get the gist of t                ... pos = 0.75  	neg = 0.25 
+18. What perhaps saves D                ... pos = 0.75  	neg = 0.25 
+19. Not just talking ani                ... pos = 1.25  	neg = 0.375
+20. This can all be assu                ... pos = 0.0   	neg = 0.25 
+21. In addition, there's                ... pos = 1.0   	neg = 0.875
+22. What perhaps doesn't                ... pos = 1.75  	neg = 2.25 
+23. At least there's no                 ... pos = 0.625 	neg = 0.25 
+24. Just a lot of people                ... pos = 0.0   	neg = 0.375
+25. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3081-965 is Negative         ... pos = 11.375 	neg = 11.5 
+Overall score of document
+Total Pos = 11.375
+Total Neg = 11.5
+---------------------------------------------------------------------------

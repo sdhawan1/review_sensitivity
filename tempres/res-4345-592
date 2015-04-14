@@ -1,0 +1,40 @@
+0. "I'm going to do som                 ... pos = 0.0   	neg = 0.0  
+1. I am going to tell t                 ... pos = 0.5   	neg = 0.125
+2. " So proclaims John                  ... pos = 0.0   	neg = 0.0  
+3. Kind of ironic that                  ... pos = 1.25  	neg = 0.0  
+4. Oh, but worry not Tr                 ... pos = 0.5   	neg = 0.125
+5. And his acting, no m                 ... pos = 0.75  	neg = 0.75 
+6. Jan Schlichtmann (Jo                 ... pos = 0.0   	neg = 0.125
+7. He is as much  an am                 ... pos = 0.375 	neg = 0.125
+8. His theories are rea                 ... pos = 2.0   	neg = 1.5  
+9. And thrives he does,                 ... pos = 0.75  	neg = 0.25 
+10. And then he stumbles                ... pos = 0.25  	neg = 0.25 
+11. A company that makes                ... pos = 0.0   	neg = 0.25 
+12. This had lead to the                ... pos = 0.25  	neg = 0.625
+13. To Schlichtmann an a                ... pos = 0.75  	neg = 0.75 
+14. He sees a gold  mine                ... pos = 0.25  	neg = 0.0  
+15. Working with him in                 ... pos = 0.25  	neg = 0    
+16. The  opposition cons                ... pos = 1.25  	neg = 0    
+17. On one side there is                ... pos = 0.25  	neg = 1.0  
+18. Then there is the wi                ... pos = 1.125 	neg = 0.25 
+19. It will be these  2                 ... pos = 0.25  	neg = 0.25 
+20. The brilliance to th                ... pos = 0.625 	neg = 0.25 
+21. (WARNING: PLOT GIVEA                ... pos = 0.625 	neg = 0.25 
+22. It is a  tragic cour                ... pos = 0.75  	neg = 0.375
+23. It is also one of th                ... pos = 0.625 	neg = 0.25 
+24. And, because of that                ... pos = 0.125 	neg = 0.0  
+25. The acting is nothin                ... pos = 1.0   	neg = 0.375
+26. John Travolta gives                 ... pos = 0.625 	neg = 0.0  
+27. And Robert Duvall gi                ... pos = 1.0   	neg = 0.375
+28. But the real treat i                ... pos = 0.0   	neg = 0.375
+29. He gives this movie                 ... pos = 1.125 	neg = 0.125
+30. You will also find a                ... pos = 1.875 	neg = 0.5  
+31. When all is said and                ... pos = 0.375 	neg = 0.125
+32. Through great acting                ... pos = 0.625 	neg = 0.375
+33. May it be marked as                 ... pos = 0.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4345-592 is Positive         ... pos = 20.75 	neg = 10.0 
+Overall score of document
+Total Pos = 20.75
+Total Neg = 10.0
+---------------------------------------------------------------------------

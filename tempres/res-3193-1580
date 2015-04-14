@@ -1,0 +1,29 @@
+0. Aren't we all sick o                 ... pos = 1.125 	neg = 0.0  
+1. Take the annoying ha                 ... pos = 0.0   	neg = 0.375
+2. It's a weakness that                 ... pos = 0.75  	neg = 0.25 
+3. "Scream", directed b                 ... pos = 0.625 	neg = 0.0  
+4. Unfortunately, while                 ... pos = 0.875 	neg = 1.375
+5. A series of high sch                 ... pos = 0.375 	neg = 0.375
+6. An attractive young                  ... pos = 1.0   	neg = 0.375
+7. Does this mean "Scre                 ... pos = 0.125 	neg = 0.0  
+8. Heavens no.                          ... pos = 0.125 	neg = 0.25 
+9. Instead, the movie c                 ... pos = 0.375 	neg = 0.25 
+10. While Scream is ligh                ... pos = 0.625 	neg = 0.375
+11. I actually cared for                ... pos = 1.125 	neg = 0.25 
+12. In other small doses                ... pos = 0.625 	neg = 0    
+13. For example, in the                 ... pos = 0.0   	neg = 0.125
+14. It's done expertly w                ... pos = 0.125 	neg = 0.0  
+15. However, after this                 ... pos = 0.125 	neg = 0.25 
+16. First, the acting le                ... pos = 1.0   	neg = 0.125
+17. For example, Campbel                ... pos = 1.125 	neg = 1.0  
+18. In addition, ironica                ... pos = 0.375 	neg = 1.75 
+19. Finally, after all t                ... pos = 0.25  	neg = 0.125
+20. Unfortunately, the l                ... pos = 0.0   	neg = 1.0  
+21. In sum, I'll remembe                ... pos = 0.5   	neg = 0.0  
+22. Unfortunately its we                ... pos = 0.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-3193-1580 is Positive        ... pos = 11.25 	neg = 9.125
+Overall score of document
+Total Pos = 11.25
+Total Neg = 9.125
+---------------------------------------------------------------------------

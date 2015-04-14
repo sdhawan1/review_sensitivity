@@ -1,0 +1,37 @@
+0. Rating: * * * * out                  ... pos = 0.0   	neg = 0.0  
+1. Directed by: Steven                  ... pos = 0.0   	neg = 0.0  
+2. So far in the year 2                 ... pos = 0.0   	neg = 0.0  
+3. I was starting to gi                 ... pos = 0.25  	neg = 0.25 
+4. Julia Roberts is pro                 ... pos = 0.0   	neg = 0.125
+5. Roberts was mostly k                 ... pos = 1.125 	neg = 0.25 
+6. "Erin Brokovich" is                  ... pos = 2.0   	neg = 1.0  
+7. This is the everyday                 ... pos = 0.125 	neg = 0.125
+8. The film starts out                  ... pos = 0.625 	neg = 0.0  
+9. She ends up working                  ... pos = 0.125 	neg = 0.0  
+10. Erin is hired reluct                ... pos = 0.75  	neg = 0.125
+11. Erin meets a young w                ... pos = 0.5   	neg = 0.375
+12. What insues is a upl                ... pos = 0.0   	neg = 0.625
+13. Julia Roberts who st                ... pos = 1.0   	neg = 1.0  
+14. Julia gives yet anot                ... pos = 0.5   	neg = 0.25 
+15. Roberts being not a                 ... pos = 0.625 	neg = 0.125
+16. Her on screen chemis                ... pos = 1.0   	neg = 0.75 
+17. Her snappy dialogue                 ... pos = 1.125 	neg = 0.0  
+18. Julia and her tightf                ... pos = 1.125 	neg = 1.0  
+19. She in the end is po                ... pos = 1.875 	neg = 0.125
+20. Her supporting actor                ... pos = 1.625 	neg = 0.0  
+21. Albert Finney plays                 ... pos = 0.25  	neg = 0.625
+22. He gives us a believ                ... pos = 0.875 	neg = 0.25 
+23. In the end again we                 ... pos = 0.625 	neg = 0.0  
+24. Aaron Eckhart most n                ... pos = 1.25  	neg = 0.5  
+25. Directed by Steven S                ... pos = 1.125 	neg = 0.25 
+26. Not only does he do                 ... pos = 1.75  	neg = 0.0  
+27. If Soderbergh contin                ... pos = 0.125 	neg = 0.0  
+28. When you walk into a                ... pos = 0.625 	neg = 0.125
+29. Even though only bei                ... pos = 1.0   	neg = 0.125
+30. "Sometimes there is                 ... pos = 1.375 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-2945-480 is Positive         ... pos = 23.375 	neg = 8.625
+Overall score of document
+Total Pos = 23.375
+Total Neg = 8.625
+---------------------------------------------------------------------------

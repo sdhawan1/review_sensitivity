@@ -1,0 +1,46 @@
+0. Okay, let me first s                 ... pos = 0.125 	neg = 1.0  
+1. I mean, he's funny,                  ... pos = 0.25  	neg = 0.625
+2. It's a wonder that h                 ... pos = 0.0   	neg = 0.0  
+3. Since I figured Chan                 ... pos = 1.0   	neg = 0.375
+4. Here's the setup:  C                 ... pos = 0.125 	neg = 0.25 
+5. He single-handedly f                 ... pos = 1.125 	neg = 0.125
+6. However, the crime b                 ... pos = 0.125 	neg = 0.5  
+7. As much as Lee is an                 ... pos = 0.25  	neg = 0.25 
+8. So when the daughter                 ... pos = 0.25  	neg = 0.375
+9. When Lee convinces C                 ... pos = 0.125 	neg = 0.25 
+10. The tagline for RUSH                ... pos = 0.0   	neg = 0.125
+11. "  Brother, you're n                ... pos = 0.0   	neg = 0.125
+12. Chris Tucker really                 ... pos = 0.25  	neg = 0.625
+13. You get the sense th                ... pos = 1.5   	neg = 0.0  
+14. Chan, on the other h                ... pos = 0.125 	neg = 0.125
+15. Although Lee initial                ... pos = 0.125 	neg = 0.0  
+16. This coping with the                ... pos = 0.125 	neg = 1.125
+17. It's that kind of de                ... pos = 0.75  	neg = 0.0  
+18. Luckily, RUSH HOUR h                ... pos = 0.5   	neg = 0.0  
+19. This is particularly                ... pos = 2.875 	neg = 0.25 
+20. There's the initial                 ... pos = 1.5   	neg = 0.25 
+21. We've been there, do                ... pos = 0.125 	neg = 0.625
+22. The closest thing I                 ... pos = 0.0   	neg = 0.375
+23. Sure, some of the sc                ... pos = 1.125 	neg = 0.5  
+24. You know, it would h                ... pos = 0.25  	neg = 0.375
+25. This is the same guy                ... pos = 0.0   	neg = 0.25 
+26. Once more utilizing                 ... pos = 0.0   	neg = 0.125
+27. Okay, so you've got                 ... pos = 1.875 	neg = 0.25 
+28. What's the downside?                ... pos = 0.125 	neg = 0    
+29. For one thing, the m                ... pos = 0.0   	neg = 0.375
+30. If the main bad guy'                ... pos = 2.5   	neg = 1.0  
+31. If a criminal played                ... pos = 1.875 	neg = 0.25 
+32. If the bad guy is cl                ... pos = 0.75  	neg = 2.25 
+33. Worst of all, howeve                ... pos = 0.5   	neg = 0.5  
+34. Ratner uses quick cu                ... pos = 1.0   	neg = 0.5  
+35. He'll do it all righ                ... pos = 0.5   	neg = 0.0  
+36. Instead, the convent                ... pos = 1.75  	neg = 1.125
+37. Even with the aforem                ... pos = 0.5   	neg = 0.25 
+38. As a bonus, they eve                ... pos = 0.375 	neg = 0.0  
+39. How can you not like                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2168-781 is Positive         ... pos = 24.375 	neg = 15.125
+Overall score of document
+Total Pos = 24.375
+Total Neg = 15.125
+---------------------------------------------------------------------------

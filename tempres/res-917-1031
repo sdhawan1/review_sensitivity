@@ -1,0 +1,29 @@
+0. Columbia / 1:38 / 19                 ... pos = 0.25  	neg = 0.0  
+1. Will Smith battling                  ... pos = 0.125 	neg = 0    
+2. A moniker  alias com                 ... pos = 0.875 	neg = 0.0  
+3. It must be the gospe                 ... pos = 1.0   	neg = 0.25 
+4. " Alas, it does,  bu                 ... pos = 0.625 	neg = 0.625
+5. " . So hip it practi                 ... pos = 0.375 	neg = 0.125
+6. If you've  seen the                  ... pos = 0.125 	neg = 1.0  
+7. But it's still no bo                 ... pos = 0.875 	neg = 0.375
+8. Tommy Lee Jones exer                 ... pos = 1.25  	neg = 0.125
+9. While K is showing t                 ... pos = 1.125 	neg = 2.25 
+10. "Men in Black" is mo                ... pos = 0.875 	neg = 0.375
+11. The sequences where                 ... pos = 0.875 	neg = 0.875
+12. The  rest of the mov                ... pos = 1.5   	neg = 0.25 
+13. The capable cast doe                ... pos = 0.0   	neg = 0.0  
+14. It's great fun to se                ... pos = 1.0   	neg = 0.0  
+15. Also effective is Ri                ... pos = 0.25  	neg = 0.375
+16. D'Onofrio, a little-                ... pos = 0.25  	neg = 0.0  
+17. Had "Men in Black" k                ... pos = 0.75  	neg = 0.125
+18. But as it stands, ev                ... pos = 0.0   	neg = 0.375
+19. In the long run, the                ... pos = 0.75  	neg = 1.875
+20. "Men in Black" is mo                ... pos = 2.125 	neg = 0.75 
+21. What color were they                ... pos = 0.0   	neg = 0.125
+22. Š 1997 Jamie Peck                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-917-1031 is Positive         ... pos = 15.0  	neg = 9.875
+Overall score of document
+Total Pos = 15.0
+Total Neg = 9.875
+---------------------------------------------------------------------------

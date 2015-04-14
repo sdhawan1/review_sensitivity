@@ -1,0 +1,46 @@
+0. So with all that goi                 ... pos = 0.125 	neg = 0.125
+1. It gets my premature                 ... pos = 0.625 	neg = 0.0  
+2. But success and qual                 ... pos = 0.25  	neg = 0.25 
+3. The problem with THE                 ... pos = 0.25  	neg = 0.75 
+4. I generally dismiss                  ... pos = 0.0   	neg = 0.125
+5. And yet, I don't kno                 ... pos = 0.25  	neg = 0.0  
+6. Richard (Leonardo Di                 ... pos = 0.125 	neg = 0.625
+7. He learns of a secre                 ... pos = 0.125 	neg = 0.375
+8. The next day, coming                 ... pos = 0.375 	neg = 0.0  
+9. He looks at the note                 ... pos = 0.0   	neg = 0.5  
+10. He turns to ask abou                ... pos = 0.25  	neg = 0.0  
+11. He opens his neigbor                ... pos = 0.125 	neg = 0.0  
+12. His crazy neighbor i                ... pos = 0.0   	neg = 0.5  
+13. With such a contrive                ... pos = 0.0   	neg = 0.125
+14. The problem is that                 ... pos = 0.875 	neg = 0.375
+15. Richard invites anot                ... pos = 0.0   	neg = 0.125
+16. They travel as close                ... pos = 0.0   	neg = 0.0  
+17. They land on the far                ... pos = 0.125 	neg = 0.0  
+18. They make it past a                 ... pos = 0.0   	neg = 0.375
+19. The encounter with t                ... pos = 0.0   	neg = 0.125
+20. First of all, Richar                ... pos = 1.375 	neg = 0.0  
+21. When the man is awak                ... pos = 0.375 	neg = 0.75 
+22. But if the island is                ... pos = 0.25  	neg = 0.125
+23. Who do they think th                ... pos = 0.0   	neg = 0.0  
+24. If nobody can get to                ... pos = 0.0   	neg = 0.125
+25. Anyway, when the thr                ... pos = 0.75  	neg = 0.0  
+26. The only rules are t                ... pos = 1.0   	neg = 0.0  
+27. Several things grate                ... pos = 0.0   	neg = 0.125
+28. There is some subtle                ... pos = 0.5   	neg = 0.125
+29. The community is pop                ... pos = 1.375 	neg = 0.375
+30. Francoise's characte                ... pos = 0.875 	neg = 0.0  
+31. She sleeps with Rich                ... pos = 0.875 	neg = 0.5  
+32. And then there are u                ... pos = 0.5   	neg = 0.875
+33. And why are the next                ... pos = 0.375 	neg = 0.125
+34. And why would the ma                ... pos = 0.25  	neg = 0.125
+35. I could go on and on                ... pos = 0     	neg = 0.0  
+36. I'm tempted to, so I                ... pos = 0.0   	neg = 0.0  
+37. But enough is enough                ... pos = 0     	neg = 0.125
+38. You get the point.                  ... pos = 0     	neg = 0.0  
+39. "I'm a filmmaker and                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2272-1008 is Positive        ... pos = 12.125 	neg = 7.75 
+Overall score of document
+Total Pos = 12.125
+Total Neg = 7.75
+---------------------------------------------------------------------------

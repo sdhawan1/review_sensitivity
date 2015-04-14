@@ -1,0 +1,54 @@
+0. MAGNOLIA:  The Reall                 ... pos = 1.0   	neg = 0.25 
+1. Saturday evening, a                  ... pos = 0.0   	neg = 0.0  
+2. Do I go catch the ni                 ... pos = 0.125 	neg = 0.0  
+3. Then the noise start                 ... pos = 0.0   	neg = 0.0  
+4. Boom Boom Boom BOOM.                 ... pos = 0     	neg = 0.0  
+5. Boom Boom Boom BOOM.                 ... pos = 0     	neg = 0.0  
+6. The noise of my repr                 ... pos = 0.25  	neg = 0.25 
+7. All I can hear is th                 ... pos = 0.0   	neg = 0.5  
+8. I could bang on his                  ... pos = 0.75  	neg = 0.5  
+9. Magnolia seemed, at                  ... pos = 0.375 	neg = 0.25 
+10. Magnolia not only fe                ... pos = 0.5   	neg = 1.25 
+11. Magnolia has the obl                ... pos = 0.0   	neg = 0.0  
+12. That in itself is no                ... pos = 0.375 	neg = 1.0  
+13. And that wouldn't be                ... pos = 0.75  	neg = 1.125
+14. And that wouldn't be                ... pos = 0.875 	neg = 1.0  
+15. And that wouldn't be                ... pos = 0     	neg = 1.0  
+16. If it wasn't for the                ... pos = 0.0   	neg = 0.125
+17. It's the kind of mus                ... pos = 0.375 	neg = 0.375
+18. Except, in Magnolia,                ... pos = 0.125 	neg = 0.0  
+19. The overall effect i                ... pos = 0.0   	neg = 0.125
+20. It's just bad, no tw                ... pos = 0.0   	neg = 0.875
+21. Magnolia explores ma                ... pos = 1.5   	neg = 0.0  
+22. The story of Magnoli                ... pos = 0.75  	neg = 0.125
+23. Magnolia is one of t                ... pos = 0.75  	neg = 2.75 
+24. You would think that                ... pos = 0.75  	neg = 0.25 
+25. And you would also t                ... pos = 0.25  	neg = 0.0  
+26. You would be wrong.                 ... pos = 0     	neg = 0.875
+27. There are any number                ... pos = 2.125 	neg = 1.0  
+28. The worst thing abou                ... pos = 0.875 	neg = 1.5  
+29. For example, there's                ... pos = 0.75  	neg = 0.0  
+30. The pharmacists are                 ... pos = 1.0   	neg = 0.5  
+31. It's a neat scene, b                ... pos = 0.25  	neg = 0.375
+32. The final effect is                 ... pos = 1.0   	neg = 0.25 
+33. So, is Magnolia wort                ... pos = 0.0   	neg = 0.125
+34. I didn't think so, n                ... pos = 0.125 	neg = 0.125
+35. You see, I saw Magno                ... pos = 0.125 	neg = 0.0  
+36. Both Magnolia and th                ... pos = 0.125 	neg = 0.25 
+37. The game was mostly                 ... pos = 0.0   	neg = 0.125
+38. As the world knows,                 ... pos = 0.375 	neg = 0.0  
+39. The "Music City Mira                ... pos = 0.125 	neg = 0    
+40. That one shattering,                ... pos = 0.25  	neg = 0.125
+41. And, coincidentally,                ... pos = 0.125 	neg = 0.125
+42. It's not quite in th                ... pos = 0.375 	neg = 0.0  
+43. In fact, I enjoyed t                ... pos = 0.5   	neg = 0.0  
+44. If nothing else, I m                ... pos = 0.5   	neg = 0.25 
+45. Movie Reviews: http:                ... pos = 0.75  	neg = 0.125
+46. The occasion was mar                ... pos = 0.625 	neg = 1.125
+47. "  -- Dave Barry.                   ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4191-1045 is Positive        ... pos = 19.5  	neg = 18.625
+Overall score of document
+Total Pos = 19.5
+Total Neg = 18.625
+---------------------------------------------------------------------------

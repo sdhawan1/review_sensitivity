@@ -1,0 +1,47 @@
+0. Hollywood can be awf                 ... pos = 0.625 	neg = 0.125
+1. It may not seem that                 ... pos = 0.5   	neg = 1.153
+2. You can now add Jona                 ... pos = 0.125 	neg = 0.125
+3. The good guys are pr                 ... pos = 1.625 	neg = 3.625
+4. "U-571" may be the s                 ... pos = 1.0   	neg = 1.125
+5. It succeeds admirabl                 ... pos = 0.625 	neg = 0.0  
+6. It's the middle of W                 ... pos = 0.625 	neg = 0.125
+7. Captain Dahlgren (Bi                 ... pos = 0.0   	neg = 1.75 
+8. His first officer, L                 ... pos = 0.25  	neg = 0.25 
+9. The crew carries out                 ... pos = 0.0   	neg = 0.0  
+10. Lt. Tyler now finds                 ... pos = 0.0   	neg = 0.0  
+11. He has only a handfu                ... pos = 0.0   	neg = 0.625
+12. Like I said, "U-571"                ... pos = 0.875 	neg = 1.0  
+13. Those few flaws asid                ... pos = 0.5   	neg = 0.125
+14. The set designs for                 ... pos = 1.125 	neg = 0.125
+15. As in all submarine                 ... pos = 2.125 	neg = 0.125
+16. Jonathan Mostow writ                ... pos = 2.0   	neg = 0    
+17. As for the score by                 ... pos = 0.25  	neg = 0.125
+18. Unfortunately, the a                ... pos = 0.0   	neg = 0.875
+19. I'm not sure if this                ... pos = 1.25  	neg = 1.0  
+20. Matthew McConaughey                 ... pos = 0.0   	neg = 0.375
+21. I think this is beca                ... pos = 1.125 	neg = 0.125
+22. Lt. Tyler switches f                ... pos = 0.75  	neg = 0.0  
+23. Bill Paxton ("Titani                ... pos = 0.0   	neg = 0.875
+24. The remainder of the                ... pos = 1.0   	neg = 0.125
+25. Keitel is perfect as                ... pos = 0.75  	neg = 0.125
+26. ". The high point of                ... pos = 0.125 	neg = 0.0  
+27. The two play cat and                ... pos = 0.0   	neg = 0.0  
+28. These scenes do an e                ... pos = 1.5   	neg = 0.0  
+29. "U-571" has only one                ... pos = 0.0   	neg = 0.125
+30. The nice thing is th                ... pos = 0.0   	neg = 0.125
+31. The movie runs a res                ... pos = 0.625 	neg = 0.25 
+32. I'd recommend it to                 ... pos = 0.0   	neg = 0.0  
+33. Now if you'll excuse                ... pos = 0.0   	neg = 0.0  
+34. Comments?                           ... pos = 0     	neg = 0.0  
+35. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+36. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+37. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+38. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+39. * - One of the worst                ... pos = 0.0   	neg = 0.375
+40. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2114-535 is Positive         ... pos = 20.75 	neg = 16.403
+Overall score of document
+Total Pos = 20.75
+Total Neg = 16.403
+---------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+0. THE PEOPLE VS. LARRY                 ... pos = 0.125 	neg = 1.125
+1. That is to say, it's                 ... pos = 0.0   	neg = 0.125
+2. But what a charming                  ... pos = 1.25  	neg = 0.0  
+3. THE PEOPLE VS. LARRY                 ... pos = 0.125 	neg = 0.375
+4. The theatrical trail                 ... pos = 0.625 	neg = 0.0  
+5. Much of LARRY FLYNT                  ... pos = 0.375 	neg = 0.25 
+6. It's far from the la                 ... pos = 0.625 	neg = 0.0  
+7. After an odd, manner                 ... pos = 0.875 	neg = 0.0  
+8. He begins publishing                 ... pos = 0.625 	neg = 0.0  
+9. The first issue tank                 ... pos = 0.25  	neg = 0.125
+10. Sales go through the                ... pos = 0.0   	neg = 0.0  
+11. The movie has confli                ... pos = 0.125 	neg = 0.375
+12. The movie has romanc                ... pos = 1.0   	neg = 0.375
+13. And it has tragedy -                ... pos = 0.75  	neg = 1.125
+14. Terrific performance                ... pos = 0.375 	neg = 0.25 
+15. As played by Woody H                ... pos = 0.625 	neg = 1.0  
+16. When he explains tha                ... pos = 0.75  	neg = 2.625
+17. It's easy to take a                 ... pos = 1.25  	neg = 0.75 
+18. And no matter how lo                ... pos = 0.125 	neg = 1.125
+19. Even when Flynt hurl                ... pos = 0.125 	neg = 0.375
+20. Only in one scene, w                ... pos = 0.5   	neg = 0.625
+21. Courtney Love is mar                ... pos = 1.375 	neg = 0.125
+22. In the film's early                 ... pos = 0.25  	neg = 0.125
+23. Later, when she port                ... pos = 0.0   	neg = 1.0  
+24. Oliver Stone has des                ... pos = 0.75  	neg = 0.125
+25. Her haunting, girlis                ... pos = 1.0   	neg = 0.125
+26. Edward Norton is nea                ... pos = 4.0   	neg = 0.25 
+27. Bright and savvy to                 ... pos = 0.5   	neg = 0.375
+28. But after Norton art                ... pos = 0.5   	neg = 0.0  
+29. Cameos by political                 ... pos = 0.875 	neg = 0.875
+30. I guess I prefer my                 ... pos = 1.5   	neg = 0.625
+31. And a reference to i                ... pos = 0.25  	neg = 1.125
+32. Too often, LARRY FLY                ... pos = 0.25  	neg = 0.25 
+33. ". But for the most                 ... pos = 1.5   	neg = 0.125
+34. More than AMADEUS or                ... pos = 0.0   	neg = 0.125
+35. Both films romantici                ... pos = 0.0   	neg = 0.0  
+36. LARRY FLYNT has no s                ... pos = 0.0   	neg = 0.25 
+37. Instead, the film of                ... pos = 0.125 	neg = 0.0  
+38. Poets and pornograph                ... pos = 1.25  	neg = 0    
+39. On the one hand, the                ... pos = 0.0   	neg = 0.0  
+40. "I don't like what L                ... pos = 0.0   	neg = 0.0  
+41. "I never bought Hust                ... pos = 0.125 	neg = 0.0  
+42. But on the other, th                ... pos = 0.0   	neg = 0.875
+43. Shots from your typi                ... pos = 0.75  	neg = 0.0  
+44. In one scene, he urg                ... pos = 0.5   	neg = 0.25 
+45. Althea playfully sug                ... pos = 0.5   	neg = 0.0  
+46. Flynt publishes a ca                ... pos = 0.25  	neg = 0.25 
+47. And so it goes.                     ... pos = 0.0   	neg = 0.0  
+48. Still, there must ha                ... pos = 0.375 	neg = 0.125
+49. Flynt's whole career                ... pos = 0.75  	neg = 1.125
+50. " But the film never                ... pos = 0.25  	neg = 0.125
+51. "All I wanted to do                 ... pos = 0.125 	neg = 0.375
+52. And maybe that's the                ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3663-436 is Positive         ... pos = 29.125 	neg = 19.5 
+Overall score of document
+Total Pos = 29.125
+Total Neg = 19.5
+---------------------------------------------------------------------------

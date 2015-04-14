@@ -1,0 +1,30 @@
+0. Release Date: Octobe                 ... pos = 1.0   	neg = 0.375
+1. Like any method of s                 ... pos = 1.375 	neg = 0.125
+2. The most important p                 ... pos = 0.875 	neg = 0.625
+3. It's at this pivotal                 ... pos = 1.0   	neg = 0.375
+4. And APT PUPIL, the l                 ... pos = 0.875 	neg = 0.0  
+5. The movie stars Brad                 ... pos = 0.0   	neg = 0.0  
+6. The current topic of                 ... pos = 0.0   	neg = 0.125
+7. With sleuthing skill                 ... pos = 0.25  	neg = 0.125
+8. Rather than threaten                 ... pos = 1.125 	neg = 0.375
+9. That's when things a                 ... pos = 0.0   	neg = 0.0  
+10. The pacing is all wr                ... pos = 0.375 	neg = 0.875
+11. It's based on the St                ... pos = 0.75  	neg = 0.0  
+12. Although I haven't r                ... pos = 0.5   	neg = 0.5  
+13. In the movie, howeve                ... pos = 0.625 	neg = 0.375
+14. Todd approaches Denk                ... pos = 1.125 	neg = 0.0  
+15. There is also relati                ... pos = 0.625 	neg = 0.5  
+16. Instead, Director Si                ... pos = 0.375 	neg = 0.0  
+17. Any criticism on the                ... pos = 1.0   	neg = 0.375
+18. Neither of the two h                ... pos = 1.0   	neg = 1.5  
+19. Perhaps we feel sorr                ... pos = 0.125 	neg = 0.625
+20. And, as for Renfro's                ... pos = 0.375 	neg = 0.625
+21. Although both do wel                ... pos = 0.125 	neg = 0.75 
+22. APT PUPIL is a spook                ... pos = 0.375 	neg = 0.75 
+23. Sure, if you don't b                ... pos = 0.375 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-6008-700 is Positive         ... pos = 14.25 	neg = 9.75 
+Overall score of document
+Total Pos = 14.25
+Total Neg = 9.75
+---------------------------------------------------------------------------

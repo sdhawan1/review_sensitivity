@@ -1,0 +1,43 @@
+0. "The Truman Show", t                 ... pos = 0.25  	neg = 0.125
+1. In it, Truman Burban                 ... pos = 0.0   	neg = 0.125
+2. Truman goes through                  ... pos = 0.25  	neg = 0.0  
+3. It's a great concept                 ... pos = 1.125 	neg = 0.125
+4. Children (albeit old                 ... pos = 0.125 	neg = 0.125
+5. Teenagers could see                  ... pos = 0.25  	neg = 0.0  
+6. Older viewers may se                 ... pos = 0.875 	neg = 0.375
+7. Even if you remain o                 ... pos = 0.5   	neg = 0.125
+8. Weir does a terrific                 ... pos = 0.625 	neg = 0.0  
+9. Almost every shot is                 ... pos = 0.375 	neg = 0.375
+10. We see how someone c                ... pos = 0.0   	neg = 0.5  
+11. The film opens as Tr                ... pos = 0.125 	neg = 0.25 
+12. It's really entertai                ... pos = 0.5   	neg = 0.0  
+13. We also gain sympath                ... pos = 1.375 	neg = 0.375
+14. When Truman falls in                ... pos = 0.625 	neg = 0.5  
+15. Many of the mistakes                ... pos = 2.375 	neg = 0.625
+16. The struggle is grea                ... pos = 0.75  	neg = 0.5  
+17. Some in the audience                ... pos = 0.375 	neg = 0.125
+18. The film's story is                 ... pos = 0.75  	neg = 0.125
+19. Will he ulti- mately                ... pos = 0.125 	neg = 0.125
+20. Weir uses many strik                ... pos = 0.0   	neg = 0.0  
+21. The population of Se                ... pos = 0.0   	neg = 0.0  
+22. The towns- people, d                ... pos = 0.875 	neg = 0.125
+23. The figurehead of Tr                ... pos = 0.0   	neg = 0.125
+24. Christof tenderly st                ... pos = 0.25  	neg = 0.125
+25. The latter image bri                ... pos = 0.0   	neg = 0.125
+26. We are clearly encou                ... pos = 1.25  	neg = 0.125
+27. Christof can be seen                ... pos = 0.0   	neg = 0.75 
+28. As in some of Weir's                ... pos = 0.0   	neg = 0.125
+29. Andrew ("Gattaca") N                ... pos = 2.375 	neg = 0.625
+30. If we had seen and f                ... pos = 1.875 	neg = 0.125
+31. Similarly, more coul                ... pos = 0.25  	neg = 0.125
+32. The technical effort                ... pos = 0.5   	neg = 0.0  
+33. The score sports a v                ... pos = 0.625 	neg = 0.0  
+34. The editors might ha                ... pos = 0.5   	neg = 0.75 
+35. Look for Harry  Shea                ... pos = 0.0   	neg = 1.0  
+36. Recommended.. .                     ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5847-580 is Positive         ... pos = 19.875 	neg = 8.625
+Overall score of document
+Total Pos = 19.875
+Total Neg = 8.625
+---------------------------------------------------------------------------

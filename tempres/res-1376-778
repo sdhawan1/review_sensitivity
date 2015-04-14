@@ -1,0 +1,44 @@
+0. Austin Powers: The S                 ... pos = 0.0   	neg = 0.125
+1. The original was a b                 ... pos = 0.375 	neg = 0.125
+2. It made Mike Myers a                 ... pos = 0.0   	neg = 0.0  
+3. With "Austin Powers:                 ... pos = 0.5   	neg = 0.0  
+4. Genius is an appropr                 ... pos = 0.25  	neg = 0.125
+5. Only geniuses would                  ... pos = 0.25  	neg = 0.25 
+6. This strategy takes                  ... pos = 1.25  	neg = 0.25 
+7. Myers has followed t                 ... pos = 1.375 	neg = 0.0  
+8. Luckily for him, his                 ... pos = 0.5   	neg = 0.0  
+9. The sequel is almost                 ... pos = 0.125 	neg = 0.125
+10. The same characters                 ... pos = 1.125 	neg = 0.0  
+11. In the sequel, howev                ... pos = 1.125 	neg = 0.625
+12. This makes the film                 ... pos = 0.5   	neg = 0.0  
+13. Although the title o                ... pos = 0.375 	neg = 0.25 
+14. Evil, is the main fo                ... pos = 0.0   	neg = 1.125
+15. Austin's titular cha                ... pos = 1.75  	neg = 0.5  
+16. Dr.                                 ... pos = 0     	neg = 0    
+17. Evil is also formula                ... pos = 1.125 	neg = 1.625
+18. His clueless rhetori                ... pos = 0.875 	neg = 0.625
+19. He's just trying to                 ... pos = 0.125 	neg = 0.5  
+20. When he incorrectly                 ... pos = 0.25  	neg = 1.625
+21. For example, when he                ... pos = 0.0   	neg = 0.0  
+22. Evil immediately rep                ... pos = 0.0   	neg = 1.0  
+23. "We call it the Belg                ... pos = 0.0   	neg = 0.0  
+24. " Dr.                               ... pos = 0     	neg = 0    
+25. Evil is so frighteni                ... pos = 0.25  	neg = 1.125
+26. What is so amusing i                ... pos = 0     	neg = 0.25 
+27. Evil, a supposedly p                ... pos = 0.625 	neg = 1.875
+28. In order to hide thi                ... pos = 0.0   	neg = 0.0  
+29. Evil hires a number                 ... pos = 0.25  	neg = 0.75 
+30. Mustafa (Will Ferrel                ... pos = 0.75  	neg = 0.125
+31. Mini-Me (Verne Troye                ... pos = 0.0   	neg = 0.75 
+32. Evil, except he is o                ... pos = 0.0   	neg = 0.875
+33. Fat Bastard (also pl                ... pos = 0.0   	neg = 1.75 
+34. These characters are                ... pos = 1.625 	neg = 0.125
+35. Come to think of it,                ... pos = 0.25  	neg = 0.125
+36. Evil when compared t                ... pos = 0.0   	neg = 0.75 
+37. It's an identical co                ... pos = 0.375 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1376-778 is Negative         ... pos = 16.0  	neg = 17.875
+Overall score of document
+Total Pos = 16.0
+Total Neg = 17.875
+---------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+0. Galaxy Quest Reviewe                 ... pos = 0.875 	neg = 0.625
+1. Their last hope:  Co                 ... pos = 0.625 	neg = 0.25 
+2. The Thermians travel                 ... pos = 0.0   	neg = 0    
+3. One little problem:                  ... pos = 0.25  	neg = 0.375
+4. Eighteen years after                 ... pos = 0.0   	neg = 0.25 
+5. William Sha - uh, I                  ... pos = 0.625 	neg = 0.125
+6. Alexander Dane (Alan                 ... pos = 0.125 	neg = 0.125
+7. Gwen DeMarco (Sigour                 ... pos = 0.0   	neg = 0.125
+8. Laidback Fred Kwan (                 ... pos = 0.0   	neg = 0.25 
+9. A contingent of Ther                 ... pos = 0.0   	neg = 0.625
+10. Accustomed to person                ... pos = 0.5   	neg = 0.25 
+11. By that afternoon, t                ... pos = 0.25  	neg = 0.0  
+12. "  To survive, the c                ... pos = 0.125 	neg = 0.0  
+13. "Galaxy Quest" does                 ... pos = 0.125 	neg = 0.0  
+14. The script is smart                 ... pos = 0.0   	neg = 0.125
+15. It's filled with fun                ... pos = 0.875 	neg = 0.875
+16. My favorite sequence                ... pos = 0.0   	neg = 0.25 
+17. Gwen:  "It doesn't s                ... pos = 0.0   	neg = 0.0  
+18. Why would they even                 ... pos = 0.0   	neg = 0.0  
+19. "  Jason:  "It was o                ... pos = 0     	neg = 0.125
+20. "  Gwen:  "The show                 ... pos = 0     	neg = 0.375
+21. " . The cast is fill                ... pos = 0.625 	neg = 0.625
+22. Sigourney Weaver sto                ... pos = 0.125 	neg = 0.125
+23. ". On the down side,                ... pos = 0.0   	neg = 0.125
+24. More bothersome to m                ... pos = 0.75  	neg = 1.375
+25. These scenes weighed                ... pos = 0.0   	neg = 0.0  
+26. The theme of genocid                ... pos = 0.375 	neg = 0.25 
+27. Bottom Line:  There'                ... pos = 0.0   	neg = 0.375
+28. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5750-1265 is Negative        ... pos = 6.25  	neg = 7.625
+Overall score of document
+Total Pos = 6.25
+Total Neg = 7.625
+---------------------------------------------------------------------------

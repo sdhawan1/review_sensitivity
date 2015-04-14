@@ -1,0 +1,46 @@
+0. Directed by: Frank D                 ... pos = 0.25  	neg = 0.0  
+1. In order for a movie                 ... pos = 0.125 	neg = 0.625
+2. This is, in fact, on                 ... pos = 0.875 	neg = 0.375
+3. That said, "The Gree                 ... pos = 0.0   	neg = 0.125
+4. Paul Edgecomb (Tom H                 ... pos = 0.125 	neg = 0.125
+5. He and several other                 ... pos = 0.375 	neg = 0.0  
+6. However, the presenc                 ... pos = 0.375 	neg = 0.375
+7. Enter John Coffey (M                 ... pos = 0.25  	neg = 0.0  
+8. Edgecomb finds himse                 ... pos = 0.125 	neg = 1.0  
+9. Coffey soon endears                  ... pos = 0.75  	neg = 0.125
+10. To start with, let m                ... pos = 0.0   	neg = 0.0  
+11. Several characters,                 ... pos = 1.125 	neg = 0.375
+12. The films conclusion                ... pos = 0.25  	neg = 0.375
+13. However, this isn't                 ... pos = 0.125 	neg = 0.25 
+14. This is supposed to                 ... pos = 0.875 	neg = 0.25 
+15. On both counts, it d                ... pos = 0.0   	neg = 0.0  
+16. The acting here is c                ... pos = 0.25  	neg = 0.125
+17. Tom Hanks is great,                 ... pos = 0.0   	neg = 0.5  
+18. Duncan's portrayl of                ... pos = 1.25  	neg = 0.125
+19. If David Morse is no                ... pos = 3.125 	neg = 0.5  
+20. Another spotlight st                ... pos = 0.0   	neg = 0.25 
+21. Mr. Jingles is a sma                ... pos = 0.0   	neg = 0.25 
+22. Mr. Jingles's antics                ... pos = 0.75  	neg = 0.75 
+23. One thing I found ra                ... pos = 1.25  	neg = 1.0  
+24. James Cromwell makes                ... pos = 1.0   	neg = 0.0  
+25. The film's biggest w                ... pos = 0.0   	neg = 0.125
+26. At over three hours,                ... pos = 0.625 	neg = 0.0  
+27. "The Green Mile", be                ... pos = 1.375 	neg = 0.125
+28. This movie certainly                ... pos = 1.0   	neg = 0.125
+29. Be forewarned, you h                ... pos = 0.375 	neg = 0.75 
+30. This is not to say t                ... pos = 0.0   	neg = 1.375
+31. Overall, I give "The                ... pos = 0.0   	neg = 0.0  
+32. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+33. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+34. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+35. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+36. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+37. See it if you've got                ... pos = 0.0   	neg = 0.25 
+38. * - One of the worst                ... pos = 0.0   	neg = 0.375
+39. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2549-535 is Positive         ... pos = 17.875 	neg = 11.75
+Overall score of document
+Total Pos = 17.875
+Total Neg = 11.75
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. rated PG-13 starring                 ... pos = 0.75  	neg = 0.625
+1. If you gave any thou                 ... pos = 0.0   	neg = 0.375
+2. But Ed Kearney (Matt                 ... pos = 0.125 	neg = 0.0  
+3. Ed is a thirtysometh                 ... pos = 0.5   	neg = 0.125
+4. His brother, Ray (Wo                 ... pos = 1.0   	neg = 0.0  
+5. Ray's girlfriend Sha                 ... pos = 1.375 	neg = 0.375
+6. But camera-shy Shari                 ... pos = 0.125 	neg = 0.5  
+7. Along with Ed, we al                 ... pos = 0.0   	neg = 0.0  
+8. And when Shari ditch                 ... pos = 0.125 	neg = 0.0  
+9. One show executive (                 ... pos = 0.0   	neg = 0.0  
+10. By then, Ed is a nat                ... pos = 0.375 	neg = 0.125
+11. When the night turns                ... pos = 0.0   	neg = 0.125
+12. But then the executi                ... pos = 0.0   	neg = 0.5  
+13. Then the film takes                 ... pos = 0.25  	neg = 0.0  
+14. EDtv is not nearly a                ... pos = 0.375 	neg = 0.25 
+15. In the few times tha                ... pos = 0.75  	neg = 0.25 
+16. But EDtv actually ma                ... pos = 0.0   	neg = 0.0  
+17. It had a social sign                ... pos = 0.125 	neg = 0.0  
+18. I'm not saying, thou                ... pos = 0.0   	neg = 1.0  
+19. Infact, I may have e                ... pos = 0.375 	neg = 0.0  
+20. It is funny, smart a                ... pos = 0.125 	neg = 0.75 
+21. But sometimes the fi                ... pos = 0.0   	neg = 0.0  
+22. To prove (like THE T                ... pos = 0.0   	neg = 0.375
+23. a review by Akiva Go                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4588-421 is Positive         ... pos = 6.5   	neg = 5.5  
+Overall score of document
+Total Pos = 6.5
+Total Neg = 5.5
+---------------------------------------------------------------------------

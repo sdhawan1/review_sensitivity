@@ -1,0 +1,19 @@
+0. Director:  Ivan Rei                 ... pos = 2.875 	neg = 1.375
+1. Let's see .                          ... pos = 0.0   	neg = 0    
+2. .                                    ... pos = 0     	neg = 0    
+3. .                                    ... pos = 0     	neg = 0    
+4. we have to get Harri                 ... pos = 0.75  	neg = 0.375
+5. Oh, I've got it!  W                 ... pos = 2.625 	neg = 2.0  
+6. Don't get me wrong -                 ... pos = 0.25  	neg = 1.125
+7.   Almost every scen                 ... pos = 1.375 	neg = 2.25 
+8. It's just when I sta                 ... pos = 1.25  	neg = 3.5  
+9. "  . The film is ou                 ... pos = 3.875 	neg = 2.125
+10. This is summer movie                ... pos = 0.875 	neg = 1.0  
+11. "   Why didn't she                 ... pos = 0.0   	neg = 0.0  
+12.   What bothers me e                ... pos = 1.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-6244-760 is Positive         ... pos = 15.75 	neg = 14.0 
+Overall score of document
+Total Pos = 15.75
+Total Neg = 14.0
+---------------------------------------------------------------------------

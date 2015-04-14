@@ -1,0 +1,38 @@
+0. Review by Lars Linda                 ... pos = 0.5   	neg = 0.0  
+1. The military courtro                 ... pos = 0.5   	neg = 0.125
+2. The film just stops                  ... pos = 0.0   	neg = 0.5  
+3. It felt like the fil                 ... pos = 0.25  	neg = 0.125
+4. The script just cont                 ... pos = 0.0   	neg = 0.0  
+5. The poor ending was                  ... pos = 0.25  	neg = 0.875
+6. All that was given w                 ... pos = 0.25  	neg = 0.25 
+7. Warning: don't expec                 ... pos = 0.0   	neg = 0    
+8. Featuring an all sta                 ... pos = 0.0   	neg = 0.0  
+9. When anarchy erupts                  ... pos = 0.125 	neg = 0.25 
+10. At the heat of the m                ... pos = 0.75  	neg = 0.0  
+11. The question is who                 ... pos = 0.0   	neg = 0.125
+12. Childers thinking it                ... pos = 0.0   	neg = 0.125
+13. The marines kill eig                ... pos = 0.25  	neg = 0.375
+14. In order to make it                 ... pos = 0.625 	neg = 1.375
+15. When evidence is des                ... pos = 0.125 	neg = 0.375
+16. Only Colonel Hays Ho                ... pos = 0.25  	neg = 0.125
+17. Rules of Engagement                 ... pos = 0.0   	neg = 0.25 
+18. I didn't feel sick o                ... pos = 0.0   	neg = 0.125
+19. For a film that brag                ... pos = 0.375 	neg = 0.25 
+20. The courtroom scenes                ... pos = 1.25  	neg = 0.375
+21. Every member of the                 ... pos = 0.375 	neg = 0.5  
+22. The organization of                 ... pos = 0.0   	neg = 0.25 
+23. With the incident in                ... pos = 0.625 	neg = 0.5  
+24. The little things in                ... pos = 0.0   	neg = 0.5  
+25. Guy Pearce's ridicul                ... pos = 0.0   	neg = 1.875
+26. Another distraction                 ... pos = 0.5   	neg = 0.75 
+27. Worse than that, Chi                ... pos = 0.125 	neg = 0.875
+28. Another mistake is t                ... pos = 0.0   	neg = 0.875
+29. The ambassador and h                ... pos = 3.125 	neg = 0.125
+30. Rules of Engagement                 ... pos = 0.0   	neg = 0.125
+31. That is the best way                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1213-778 is Negative         ... pos = 10.625 	neg = 12.125
+Overall score of document
+Total Pos = 10.625
+Total Neg = 12.125
+---------------------------------------------------------------------------

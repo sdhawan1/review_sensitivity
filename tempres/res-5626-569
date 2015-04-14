@@ -1,0 +1,28 @@
+0. director: Joel Coen                  ... pos = 1.125 	neg = 0.875
+1. Their films are high                 ... pos = 2.875 	neg = 0.0  
+2. In "The Big Lebowski                 ... pos = 0.75  	neg = 0.125
+3. The Dude is played b                 ... pos = 0.375 	neg = 0.125
+4. The Dude is a simple                 ... pos = 0.25  	neg = 0.125
+5. He has shaggy, shoul                 ... pos = 0.125 	neg = 0.75 
+6. He smokes a lot of p                 ... pos = 0.125 	neg = 0.375
+7. One day, the Dude is                 ... pos = 0.375 	neg = 0.25 
+8. The main plot and al                 ... pos = 0.25  	neg = 0.25 
+9. Suffice to say that                  ... pos = 0.0   	neg = 0.375
+10. By the time all is s                ... pos = 0.375 	neg = 0.75 
+11. ". "The Big Lebowski                ... pos = 0.0   	neg = 0.0  
+12. It shares their prev                ... pos = 0.5   	neg = 0.0  
+13. "Lebowski" has the s                ... pos = 0.25  	neg = 0.375
+14. ". The film was shot                ... pos = 0.0   	neg = 0.125
+15. " Deakins always giv                ... pos = 1.5   	neg = 1.25 
+16. If "Fargo" was the C                ... pos = 0.0   	neg = 0.125
+17. It is overflowing wi                ... pos = 0.375 	neg = 0.125
+18. The Coens fill the s                ... pos = 0.375 	neg = 0.75 
+19. With Joel directing,                ... pos = 0.125 	neg = 0.75 
+20. Their talent lies no                ... pos = 1.375 	neg = 0.125
+21. The Coens rejoice in                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5626-569 is Positive         ... pos = 11.875 	neg = 7.625
+Overall score of document
+Total Pos = 11.875
+Total Neg = 7.625
+---------------------------------------------------------------------------

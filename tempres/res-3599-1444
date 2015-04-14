@@ -1,0 +1,65 @@
+0. Directed by John Woo                 ... pos = 0.0   	neg = 0.0  
+1. Screenplay by Robert                 ... pos = 0.0   	neg = 0.0  
+2. Starring Tom Cruise,                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 125 mi                 ... pos = 0     	neg = 0.0  
+4. Rated PG for mild la                 ... pos = 0.125 	neg = 0.125
+5. Reviewed on May 26th                 ... pos = 0.0   	neg = 0.0  
+6. When the original mo                 ... pos = 0.0   	neg = 0.5  
+7. The film  provided t                 ... pos = 0.0   	neg = 0.0  
+8. Not only did the use                 ... pos = 0.0   	neg = 0.0  
+9. Sequels could always                 ... pos = 0.625 	neg = 0.25 
+10. Even the star, Tom C                ... pos = 0.875 	neg = 0.625
+11. Of course, for "Miss                ... pos = 0.125 	neg = 0.125
+12. Cruise does indeed r                ... pos = 0.0   	neg = 0.0  
+13. Hunt, once again, is                ... pos = 0.75  	neg = 0.25 
+14. But unlike the  firs                ... pos = 1.125 	neg = 0.625
+15. Character developmen                ... pos = 0.875 	neg = 0.375
+16. There is an unsatisf                ... pos = 0.0   	neg = 0.25 
+17. The problem is that                 ... pos = 0.0   	neg = 0.5  
+18. It's fine for TV  ch                ... pos = 1.125 	neg = 0.0  
+19. A movie franchise wh                ... pos = 0.375 	neg = 0.25 
+20. The same problem pla                ... pos = 0.125 	neg = 0.25 
+21. Stickell was engagin                ... pos = 0.125 	neg = 0.125
+22. Stickell could just                 ... pos = 1.5   	neg = 1.375
+23. The third member of                 ... pos = 0.125 	neg = 0.25 
+24. The same cannot quit                ... pos = 0.0   	neg = 0.375
+25. A world-class thief,                ... pos = 0.125 	neg = 0.5  
+26. Nyah is a promising                 ... pos = 1.0   	neg = 0.375
+27. Unfortunately, that                 ... pos = 0.125 	neg = 0.875
+28. It's also regrettabl                ... pos = 0.347 	neg = 0.0  
+29. Nonetheless, I would                ... pos = 1.375 	neg = 0.0  
+30. This time around, th                ... pos = 0.5   	neg = 0.875
+31. These have been stol                ... pos = 1.875 	neg = 0.875
+32. Ambrose and his goon                ... pos = 0.125 	neg = 0.625
+33. New IMF recruit Nyah                ... pos = 0.75  	neg = 0.25 
+34. The plot of the orig                ... pos = 1.125 	neg = 0.375
+35. The sequel goes too                 ... pos = 0.0   	neg = 0.25 
+36. This is all standard                ... pos = 0.375 	neg = 0.5  
+37. And this isn't the o                ... pos = 0.0   	neg = 0.25 
+38. Remember that terrif                ... pos = 0.375 	neg = 0.0  
+39. Well, something simi                ... pos = 0.375 	neg = 0.0  
+40. Indeed, "MI2"  is sa                ... pos = 0.625 	neg = 0.875
+41. There is little of t                ... pos = 0.125 	neg = 0.375
+42. There, when a charac                ... pos = 0.25  	neg = 0.25 
+43. It is fortunate, the                ... pos = 1.125 	neg = 0.125
+44. Woo knows how to inj                ... pos = 0.0   	neg = 0.25 
+45. Even Woo cannot save                ... pos = 0.0   	neg = 0.25 
+46. But he is in fine fo                ... pos = 0.125 	neg = 0.125
+47. Also an asset is a f                ... pos = 0.25  	neg = 0.125
+48. But ultimately, it's                ... pos = 0.25  	neg = 0.875
+49. And while this is ce                ... pos = 0.625 	neg = 0.625
+50. "MI2" just doesn't o                ... pos = 0.125 	neg = 0.25 
+51. "MI2" isn't a bad fi                ... pos = 0.125 	neg = 1.0  
+52. That movie was fun c                ... pos = 0.375 	neg = 0.375
+53. I  would not be dism                ... pos = 0.0   	neg = 0.25 
+54. But I hope any such                 ... pos = 1.125 	neg = 0.0  
+55. With "Mission: Impos                ... pos = 0.125 	neg = 0.0  
+56. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+57. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+58. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3599-1444 is Positive        ... pos = 22.097 	neg = 17.75
+Overall score of document
+Total Pos = 22.097
+Total Neg = 17.75
+---------------------------------------------------------------------------

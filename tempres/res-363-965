@@ -1,0 +1,32 @@
+0. Romantic comedy is l                 ... pos = 0.875 	neg = 0.125
+1. Which suggests that                  ... pos = 0.375 	neg = 0    
+2. In Gary Marhsall's R                 ... pos = 1.25  	neg = 0.25 
+3. This is all establis                 ... pos = 0.0   	neg = 0.125
+4. Underneath those tag                 ... pos = 0.625 	neg = 0.0  
+5. Which is how Runaway                 ... pos = 0.0   	neg = 0.25 
+6. Which is the initial                 ... pos = 0.625 	neg = 0.125
+7. If she runs, he's vi                 ... pos = 0.0   	neg = 0.0  
+8. It all gets a little                 ... pos = 0.0   	neg = 0.375
+9. What isn't so nice i                 ... pos = 0.5   	neg = 0.875
+10. This is a direct res                ... pos = 1.75  	neg = 0.625
+11. It shows.                           ... pos = 0.0   	neg = 0    
+12. Since then and now t                ... pos = 0.25  	neg = 0.0  
+13. Most recently, there                ... pos = 1.625 	neg = 0.75 
+14. Runaway Bride could                 ... pos = 0.625 	neg = 0.125
+15. Instead it relies a                 ... pos = 0.25  	neg = 0.903
+16. Granted, Joan Cusack                ... pos = 2.25  	neg = 0.375
+17. There's simply no ro                ... pos = 0.0   	neg = 0.25 
+18. And Coach Bob even s                ... pos = 0.5   	neg = 0.125
+19. And again, it's a li                ... pos = 0.5   	neg = 0.375
+20. She has to.                         ... pos = 0.0   	neg = 0    
+21. The genre demands it                ... pos = 0.0   	neg = 0    
+22. Similarly, Ike has t                ... pos = 0.0   	neg = 0.5  
+23. Like the boy who bro                ... pos = 0.5   	neg = 0.0  
+24. In Runaway Bride's f                ... pos = 0.375 	neg = 1.0  
+25. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-363-965 is Positive          ... pos = 12.875 	neg = 7.153
+Overall score of document
+Total Pos = 12.875
+Total Neg = 7.153
+---------------------------------------------------------------------------

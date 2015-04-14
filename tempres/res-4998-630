@@ -1,0 +1,34 @@
+0. Do you have memories                 ... pos = 1.0   	neg = 0.0  
+1. Looking back, I will                 ... pos = 0.75  	neg = 0.0  
+2. Well, fasten your se                 ... pos = 0.0   	neg = 0.0  
+3. George Clooney and J                 ... pos = 0.0   	neg = 0.0  
+4. After a couple of fa                 ... pos = 0.0   	neg = 0.0  
+5. _Selena_), have brok                 ... pos = 0.0   	neg = 0.875
+6. It also makes a stro                 ... pos = 0.875 	neg = 0.0  
+7. The film starts intr                 ... pos = 0.0   	neg = 0.625
+8. The film pauses at t                 ... pos = 0.0   	neg = 0.125
+9. "  Over the course o                 ... pos = 0.625 	neg = 0.0  
+10. Foley pulls off one                 ... pos = 0.625 	neg = 0.625
+11. But after he does so                ... pos = 0.25  	neg = 0.125
+12. Such great twists ar                ... pos = 0.25  	neg = 0.375
+13. It's a great theme,                 ... pos = 0.0   	neg = 0.0  
+14. Foley lands in priso                ... pos = 0.0   	neg = 0    
+15. Only a matter of tim                ... pos = 0.25  	neg = 0.25 
+16. The two are subseque                ... pos = 0.875 	neg = 0.0  
+17. Days later, she's st                ... pos = 0.0   	neg = 0.0  
+18. This all serves as t                ... pos = 1.0   	neg = 0.625
+19. Returning from the d                ... pos = 0.125 	neg = 0.625
+20. And stealing the sho                ... pos = 0.0   	neg = 0.75 
+21. _Out of Sight_ isn't                ... pos = 0.0   	neg = 0    
+22. Some of the scenes a                ... pos = 0.5   	neg = 0.5  
+23. I also found a few o                ... pos = 0.0   	neg = 0.875
+24. A good call, but it                 ... pos = 1.0   	neg = 0.0  
+25. As for Clooney and L                ... pos = 0.739 	neg = 0.0  
+26. Take a breath of the                ... pos = 0.375 	neg = 0    
+27. Get thee to a multip                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4998-630 is Positive         ... pos = 9.239 	neg = 6.375
+Overall score of document
+Total Pos = 9.239
+Total Neg = 6.375
+---------------------------------------------------------------------------

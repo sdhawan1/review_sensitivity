@@ -1,0 +1,32 @@
+0. CAPSULE: Why is this                 ... pos = 0.125 	neg = 0.5  
+1. Because it's too stu                 ... pos = 0     	neg = 0.375
+2. THE POSTMAN may be t                 ... pos = 0.0   	neg = 0.375
+3. Not the worst -- I s                 ... pos = 0.0   	neg = 0.75 
+4. It takes a situation                 ... pos = 0.875 	neg = 0.75 
+5. People should be abl                 ... pos = 0.375 	neg = 0.5  
+6. Not too far into the                 ... pos = 0.0   	neg = 0.375
+7. The exact details of                 ... pos = 0.25  	neg = 0.5  
+8. Omitting critical de                 ... pos = 0.125 	neg = 0.25 
+9. Wandering through th                 ... pos = 0.375 	neg = 0.125
+10. He's used to sleazin                ... pos = 0.75  	neg = 0.625
+11. ) and tries to scam                 ... pos = 0.5   	neg = 1.0  
+12. We are supposed to b                ... pos = 0.5   	neg = 0.125
+13. Wrong: the movie is                 ... pos = 0.375 	neg = 0.5  
+14. It's one part Wester                ... pos = 0.0   	neg = 0.0  
+15. It's also an ass- (a                ... pos = 0.125 	neg = 0    
+16. TITANIC, in comparis                ... pos = 0.0   	neg = 0.5  
+17. THE POSTMAN is a lum                ... pos = 0.0   	neg = 0.375
+18. The silliness is jus                ... pos = 0     	neg = 1.0  
+19. One painfully unfunn                ... pos = 0.875 	neg = 0.75 
+20. Another one has him                 ... pos = 0.25  	neg = 0.375
+21. Maybe when this is r                ... pos = 0.125 	neg = 0.25 
+22. Monty Python once ha                ... pos = 1.0   	neg = 0.0  
+23. Gumby, an utter dimw                ... pos = 0.25  	neg = 0.0  
+24. Watching THE POSTMAN                ... pos = 0.0   	neg = 0.125
+25. Costner is just so p                ... pos = 1.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4039-1046 is Negative        ... pos = 8.625 	neg = 10.375
+Overall score of document
+Total Pos = 8.625
+Total Neg = 10.375
+---------------------------------------------------------------------------

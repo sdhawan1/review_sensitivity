@@ -1,0 +1,37 @@
+0. I am resubmitting th                 ... pos = 0.125 	neg = 0.125
+1. David Mamet's THE SP                 ... pos = 1.0   	neg = 0.375
+2. Movies like this usu                 ... pos = 1.5   	neg = 0.375
+3. This one's no differ                 ... pos = 0.75  	neg = 0.25 
+4. Joe Ross (Campbell S                 ... pos = 0.0   	neg = 0.0  
+5. Mamet intentionally                  ... pos = 2.125 	neg = 0.375
+6. He's sent to a Carib                 ... pos = 0.25  	neg = 0.0  
+7. But there's a point                  ... pos = 0.0   	neg = 0.0  
+8. The only person he c                 ... pos = 0.25  	neg = 0.125
+9. It's a nice little s                 ... pos = 0.25  	neg = 0.5  
+10. When Joe discovers a                ... pos = 0.875 	neg = 0.875
+11. By doing so, he seem                ... pos = 1.0   	neg = 1.0  
+12. But why would they c                ... pos = 0.0   	neg = 0.125
+13. Why don't they figur                ... pos = 0.0   	neg = 0.25 
+14. Such questions make                 ... pos = 0.875 	neg = 0.125
+15. There are other prob                ... pos = 0.25  	neg = 0.5  
+16. Mamet has been direc                ... pos = 0.125 	neg = 0.125
+17. The overall pacing i                ... pos = 0.0   	neg = 0.75 
+18. Mamet's dialogue, hi                ... pos = 0.375 	neg = 0.75 
+19. OLEANNA had too many                ... pos = 0.5   	neg = 1.0  
+20. THE SPANISH PRISONER                ... pos = 0.5   	neg = 0.375
+21. "  When Susan respon                ... pos = 0.25  	neg = 0.0  
+22. " with, "The wolves                 ... pos = 0.25  	neg = 0.25 
+23. And then there's Reb                ... pos = 0.0   	neg = 0.125
+24. She's been a constan                ... pos = 0.25  	neg = 0.125
+25. She's a flat, irrita                ... pos = 2.0   	neg = 0.125
+26. The rest of the cast                ... pos = 2.75  	neg = 0.0  
+27. Best of all is Steve                ... pos = 1.0   	neg = 0.125
+28. With much less fanfa                ... pos = 1.125 	neg = 0.0  
+29. Actually, he had tha                ... pos = 0.125 	neg = 0.0  
+30. He has  devoted more                ... pos = 1.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1888-739 is Positive         ... pos = 20.25 	neg = 8.75 
+Overall score of document
+Total Pos = 20.25
+Total Neg = 8.75
+---------------------------------------------------------------------------

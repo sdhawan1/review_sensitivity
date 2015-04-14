@@ -1,0 +1,32 @@
+0. --- A copy of this r                 ... pos = 0.125 	neg = 0.625
+1. Susanna, the  film's                 ... pos = 0.375 	neg = 0.0  
+2. " Don't make the err                 ... pos = 0     	neg = 0.625
+3. Despite having an  u                 ... pos = 0.5   	neg = 1.375
+4. The establishing sho                 ... pos = 0.0   	neg = 0.125
+5. This sets the tone f                 ... pos = 1.5   	neg = 0.0  
+6. Susanna (Winona Ryde                 ... pos = 0.5   	neg = 0.375
+7. Before  long, she is                 ... pos = 0.625 	neg = 0.5  
+8. Susanna's roommate i                 ... pos = 0.125 	neg = 0.125
+9. Although the film do                 ... pos = 0.25  	neg = 0.25 
+10. She is  attractive,                 ... pos = 1.0   	neg = 1.25 
+11. Yet  she is in a men                ... pos = 0.25  	neg = 0.25 
+12. Lisa (Angelina Jolie                ... pos = 1.25  	neg = 0.0  
+13. " It is apparent tha                ... pos = 0.0   	neg = 0.875
+14. The other patients i                ... pos = 0.875 	neg = 1.125
+15. The story, based on                 ... pos = 0.75  	neg = 0.125
+16. Susanna is like Benj                ... pos = 0.125 	neg = 0.875
+17. But  unlike Benjamin                ... pos = 1.25  	neg = 0.0  
+18. The movie does ventu                ... pos = 0.125 	neg = 0.0  
+19. For clearly  dramati                ... pos = 0.75  	neg = 0.125
+20. A pet cat that helps                ... pos = 0.875 	neg = 0.125
+21. And Susanna's life i                ... pos = 0.0   	neg = 0.125
+22. The film takes place                ... pos = 0.0   	neg = 0.0  
+23. A grade-A soundtrack                ... pos = 0.125 	neg = 0.125
+24. Girl, Interrupted is                ... pos = 0.5   	neg = 0.125
+25. A solid  setting, in                ... pos = 1.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5860-592 is Positive         ... pos = 13.25 	neg = 9.5  
+Overall score of document
+Total Pos = 13.25
+Total Neg = 9.5
+---------------------------------------------------------------------------

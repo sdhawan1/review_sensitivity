@@ -1,0 +1,22 @@
+0. This movie is one of                 ... pos = 1.625 	neg = 0.625
+1. The acting in this m                 ... pos = 0.875 	neg = 0.25 
+2. Although I think thi                 ... pos = 0.0   	neg = 0.125
+3. There is a scene tha                 ... pos = 0.375 	neg = 1.75 
+4. A few other small th                 ... pos = 0.625 	neg = 0.5  
+5. As mentioned above t                 ... pos = 1.5   	neg = 0.375
+6. She shows emotion be                 ... pos = 1.5   	neg = 0.125
+7. Not one moment in th                 ... pos = 0.125 	neg = 0.125
+8. In my humble opinion                 ... pos = 0.5   	neg = 0.0  
+9. Matthew McConaughey                  ... pos = 0.875 	neg = 0.0  
+10. The sheer magnitude                 ... pos = 1.75  	neg = 0.375
+11. Although there are p                ... pos = 1.125 	neg = 0.375
+12. Mind you if your bla                ... pos = 0.375 	neg = 0.625
+13. hehe...                             ... pos = 0     	neg = 0    
+14. I highly recommend t                ... pos = 1.25  	neg = 1.0  
+15. Go see it if you hav                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3534-1216 is Positive        ... pos = 13.0  	neg = 6.25 
+Overall score of document
+Total Pos = 13.0
+Total Neg = 6.25
+---------------------------------------------------------------------------

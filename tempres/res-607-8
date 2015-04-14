@@ -1,0 +1,42 @@
+0. The Cider House Rule                 ... pos = 0.5   	neg = 0.125
+1. If you ask me, the t                 ... pos = 2.364 	neg = 0.25 
+2. No genre of film aff                 ... pos = 0.75  	neg = 0.25 
+3. If well executed, a                  ... pos = 2.5   	neg = 0.25 
+4. Director Lasse Halls                 ... pos = 1.375 	neg = 0.0  
+5. Based on his novel o                 ... pos = 2.875 	neg = 0.0  
+6. All of the character                 ... pos = 1.875 	neg = 0.125
+7. Set in the war stric                 ... pos = 0.375 	neg = 0.0  
+8. He was born in that                  ... pos = 0.375 	neg = 0.25 
+9. The only mother or f                 ... pos = 0.5   	neg = 0.125
+10. As he has grown, Dr.                ... pos = 1.0   	neg = 0.0  
+11. In the film's openin                ... pos = 2.5   	neg = 0.5  
+12. In the film's second                ... pos = 0.0   	neg = 0.25 
+13. Thus begins a new ch                ... pos = 0.5   	neg = 0    
+14. From here, Homer loo                ... pos = 0.625 	neg = 0.125
+15. Eventually, after Wa                ... pos = 1.25  	neg = 0.375
+16. As the relationship                 ... pos = 0.5   	neg = 0.0  
+17. The character of Hom                ... pos = 1.875 	neg = 0.625
+18. "  Like the characte                ... pos = 0.875 	neg = 0.125
+19. He's never seen a lo                ... pos = 0.0   	neg = 0.0  
+20. "Cider" takes Homer                 ... pos = 0.75  	neg = 0.0  
+21. At the ripe age of 2                ... pos = 1.75  	neg = 0.125
+22. Robbed of any recogn                ... pos = 2.125 	neg = 0.0  
+23. Michael Caine gives                 ... pos = 2.25  	neg = 0.875
+24. The standout perform                ... pos = 1.125 	neg = 0.5  
+25. "The Cider House Rul                ... pos = 1.375 	neg = 0.125
+26. (It was filmed in Ma                ... pos = 0.0   	neg = 0.125
+27. )  Set against some                 ... pos = 1.0   	neg = 0.25 
+28. The musical score he                ... pos = 1.0   	neg = 0.0  
+29. Within its 131 minut                ... pos = 0.875 	neg = 0.0  
+30. But over all of its                 ... pos = 3.0   	neg = 1.0  
+31. "Cider" will open yo                ... pos = 1.75  	neg = 0.875
+32. Rarely does a film p                ... pos = 0.5   	neg = 0.625
+33. "The Cider House Rul                ... pos = 1.625 	neg = 0.0  
+34. The Bottom Line: Cor                ... pos = 0.0   	neg = 0.375
+35. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-607-8 is Positive            ... pos = 41.739 	neg = 8.25 
+Overall score of document
+Total Pos = 41.739
+Total Neg = 8.25
+---------------------------------------------------------------------------

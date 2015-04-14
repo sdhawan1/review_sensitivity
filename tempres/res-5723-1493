@@ -1,0 +1,61 @@
+0. Writer/Director: Mik                 ... pos = 0.0   	neg = 0.75 
+1. I have a job, and wh                 ... pos = 0.0   	neg = 0.125
+2. And I fear the day w                 ... pos = 2.125 	neg = 0.125
+3. They work every day,                 ... pos = 0.0   	neg = 0.125
+4. As written and direc                 ... pos = 0.0   	neg = 0    
+5. The lead character (                 ... pos = 1.75  	neg = 1.5  
+6. '. On his way to wor                 ... pos = 0.125 	neg = 0.125
+7. He glances out of hi                 ... pos = 1.125 	neg = 0.25 
+8. When he gets to work                 ... pos = 0.125 	neg = 0.0  
+9. "'  Then his main bo                 ... pos = 0.0   	neg = 0.625
+10. A couple seconds lat                ... pos = 0.0   	neg = 0.125
+11. Then again.                         ... pos = 0.0   	neg = 0.0  
+12. Then again.                         ... pos = 0.0   	neg = 0.0  
+13. Meanwhile, a high-pi                ... pos = 0.0   	neg = 0.25 
+14. Work is hell; a desk                ... pos = 0.0   	neg = 0.875
+15. There are many hilar                ... pos = 1.375 	neg = 0.0  
+16. And it only helps th                ... pos = 0.25  	neg = 0.25 
+17. 'Office Space' is ba                ... pos = 1.25  	neg = 0.125
+18. Milton, an overweigh                ... pos = 0.25  	neg = 0.25 
+19. Just about anything                 ... pos = 0.5   	neg = 0.375
+20. In fact, there's so                 ... pos = 2.375 	neg = 1.625
+21. See, a movie these d                ... pos = 0.5   	neg = 0.5  
+22. In fact, for a lot o                ... pos = 0.75  	neg = 0.625
+23. The actual storyline                ... pos = 0.875 	neg = 3.125
+24. There's another plot                ... pos = 0.0   	neg = 0.125
+25. Pretty soon, Peter i                ... pos = 0.0   	neg = 1.0  
+26. And he's also becomi                ... pos = 0.875 	neg = 0.0  
+27. Fridays-esque establ                ... pos = 0.125 	neg = 0.25 
+28. '  She does, but her                ... pos = 0.5   	neg = 0.125
+29. Basically, this film                ... pos = 0.875 	neg = 0.25 
+30. Alas, it's not to be                ... pos = 0.0   	neg = 0.125
+31. The main plot, about                ... pos = 0.25  	neg = 0.875
+32. Sure, Stephen Root i                ... pos = 0.875 	neg = 1.75 
+33. But the rest of it i                ... pos = 0.0   	neg = 0.125
+34. Livingston is likabl                ... pos = 0.5   	neg = 0.25 
+35. As usual, it's the s                ... pos = 0.5   	neg = 0.75 
+36. But even they aren't                ... pos = 0.0   	neg = 0.125
+37. I knew there were lo                ... pos = 0.25  	neg = 1.25 
+38. What I did like, tho                ... pos = 0.0   	neg = 0.125
+39. ' and what it gets h                ... pos = 0.0   	neg = 0.0  
+40. Basically, the offic                ... pos = 0.75  	neg = 0.75 
+41. Going through interv                ... pos = 0.5   	neg = 1.0  
+42. '  They like his att                ... pos = 0.625 	neg = 0.125
+43. Okay, good idea.                    ... pos = 0.75  	neg = 0.125
+44. This is stuff comedy                ... pos = 0.0   	neg = 0.625
+45. But even when it get                ... pos = 0.125 	neg = 1.0  
+46. Suggestions for the                 ... pos = 1.625 	neg = 2.5  
+47. Number 5 is the most                ... pos = 0.25  	neg = 0.375
+48. Let me state this lo                ... pos = 1.0   	neg = 0.25 
+49. I just saw a Truffau                ... pos = 0.0   	neg = 0.125
+50. It was plotless, sav                ... pos = 0.875 	neg = 0.5  
+51. Now, I'm not suggest                ... pos = 0.0   	neg = 0.25 
+52. Because, as such, it                ... pos = 0.5   	neg = 0.0  
+53. Just not amusing eno                ... pos = 0.0   	neg = 0.0  
+54. Homepage at: http://                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5723-1493 is Negative        ... pos = 25.125 	neg = 26.5 
+Overall score of document
+Total Pos = 25.125
+Total Neg = 26.5
+---------------------------------------------------------------------------

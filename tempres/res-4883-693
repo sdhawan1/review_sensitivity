@@ -1,0 +1,41 @@
+0. The number 4 does no                 ... pos = 1.375 	neg = 0.125
+1. After the atrocity B                 ... pos = 0.0   	neg = 1.0  
+2. The Batman movie fra                 ... pos = 0.125 	neg = 0.0  
+3. The series started o                 ... pos = 0.25  	neg = 1.0  
+4. The box office recei                 ... pos = 0.0   	neg = 0.0  
+5. And so in 1992, Warn                 ... pos = 1.625 	neg = 0.875
+6. Unfortunately, Burto                 ... pos = 0.625 	neg = 2.375
+7. A change of pace was                 ... pos = 1.0   	neg = 0.125
+8. This Gotham City was                 ... pos = 0.875 	neg = 0.25 
+9. But as the fourth co                 ... pos = 0.5   	neg = 0.75 
+10. As the third actor t                ... pos = 0.0   	neg = 0    
+11. He looks entirely co                ... pos = 1.375 	neg = 0.375
+12. The performances are                ... pos = 0.25  	neg = 0.25 
+13. I didn't even seem t                ... pos = 0.25  	neg = 0.0  
+14. Freeze (Arnold Schwa                ... pos = 0.875 	neg = 0.625
+15. The general grievanc                ... pos = 0.0   	neg = 0.5  
+16. Just as Batman Forev                ... pos = 0.25  	neg = 0.375
+17. There is so much exp                ... pos = 0.625 	neg = 0.125
+18. The script is also i                ... pos = 0.0   	neg = 1.5  
+19. Early on, the Dynami                ... pos = 0.75  	neg = 0.125
+20. Who would write such                ... pos = 0.0   	neg = 0.5  
+21. There are so many ha                ... pos = 1.25  	neg = 0.0  
+22. And then there are a                ... pos = 0.75  	neg = 0.375
+23. ' and `Chill!                       ... pos = 0     	neg = 0    
+24. ' I found Arnie's de                ... pos = 0.625 	neg = 0.25 
+25. Batman and Robin is                 ... pos = 0.0   	neg = 0.375
+26. Alicia Silverstone m                ... pos = 0.25  	neg = 0.5  
+27. Silverstone soon bec                ... pos = 0.125 	neg = 0.75 
+28. Elle MacPherson has                 ... pos = 0.625 	neg = 1.75 
+29. A single sub-plot I                 ... pos = 0.625 	neg = 0.625
+30. But so much of Batma                ... pos = 0.75  	neg = 0.5  
+31. Is Batman 5 around t                ... pos = 0     	neg = 0.125
+32. If so, I think the s                ... pos = 0.0   	neg = 0.375
+33. While the future of                 ... pos = 0.25  	neg = 0.25 
+34. Contact Jamey at:  m                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4883-693 is Negative         ... pos = 16.0  	neg = 16.75
+Overall score of document
+Total Pos = 16.0
+Total Neg = 16.75
+---------------------------------------------------------------------------

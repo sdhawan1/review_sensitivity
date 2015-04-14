@@ -1,0 +1,37 @@
+0. Starring John Cusack                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. A filmmake                 ... pos = 0.25  	neg = 0.0  
+2. He or she can do it                  ... pos = 0.5   	neg = 0.5  
+3. One could go with su                 ... pos = 0.5   	neg = 0.0  
+4. Or you could go the                  ... pos = 0.375 	neg = 0.0  
+5. Director Mike Newell                 ... pos = 3.375 	neg = 0.5  
+6. If you've ever wonde                 ... pos = 1.375 	neg = 0.75 
+7. From the very beginn                 ... pos = 0.75  	neg = 0.0  
+8. Newell introduces us                 ... pos = 0.5   	neg = 0.0  
+9. His job, however, is                 ... pos = 0.125 	neg = 0.375
+10. One slip and you los                ... pos = 0.0   	neg = 0.0  
+11. Fortunately, Nick ha                ... pos = 0.75  	neg = 0.0  
+12. But then a new guy i                ... pos = 0.5   	neg = 0.125
+13. Or so it seems.                     ... pos = 0.0   	neg = 0.125
+14. What is most interes                ... pos = 0.125 	neg = 0.25 
+15. I liked how Newell n                ... pos = 0.875 	neg = 0.0  
+16. As a matter of fact,                ... pos = 0.125 	neg = 0.125
+17. Let me warn you: the                ... pos = 0.0   	neg = 1.5  
+18. Pushing Tin tends to                ... pos = 0.5   	neg = 0.25 
+19. It is even a real dr                ... pos = 0.0   	neg = 0.375
+20. For reasons that nev                ... pos = 0.0   	neg = 0.875
+21. It all begins with a                ... pos = 0.0   	neg = 0.5  
+22. That holds true, bec                ... pos = 0.75  	neg = 0.75 
+23. There is a ridiculou                ... pos = 0.0   	neg = 1.875
+24. It's your average ps                ... pos = 0.0   	neg = 0.25 
+25. Fortunately, the per                ... pos = 0.75  	neg = 0.0  
+26. John Cusack is chari                ... pos = 1.5   	neg = 0.125
+27. Billy Bob Thornton i                ... pos = 2.0   	neg = 0.125
+28. The first half of Pu                ... pos = 0.75  	neg = 0.0  
+29. I didn't know whethe                ... pos = 0.0   	neg = 0.0  
+30. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1788-563 is Positive         ... pos = 16.375 	neg = 9.375
+Overall score of document
+Total Pos = 16.375
+Total Neg = 9.375
+---------------------------------------------------------------------------

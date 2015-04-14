@@ -1,0 +1,29 @@
+0. TOMORROW NEVER DIES                  ... pos = 0.0   	neg = 0.0  
+1. Cast your opinion on                 ... pos = 0.75  	neg = 1.0  
+2. But it did revive th                 ... pos = 0.75  	neg = 0.0  
+3. the new "M" is a wom                 ... pos = 0.375 	neg = 0.125
+4. "Tomorrow Never Dies                 ... pos = 0.625 	neg = 0.125
+5. The new picture open                 ... pos = 0.625 	neg = 0.125
+6. As an attack occurs,                 ... pos = 1.125 	neg = 0.125
+7. Carver (Pryce) the m                 ... pos = 0.0   	neg = 0.125
+8. It's up to James Bon                 ... pos = 0.875 	neg = 0.0  
+9. Enter Michelle Yeoh,                 ... pos = 2.25  	neg = 0.25 
+10. They make a great te                ... pos = 0.0   	neg = 0.0  
+11. "Tomorrow Never Dies                ... pos = 0.625 	neg = 0.25 
+12. Spottiswoode has cra                ... pos = 0.5   	neg = 0.0  
+13. Moreover, Brosnan ha                ... pos = 0.625 	neg = 0.25 
+14. Returned in Brosnan'                ... pos = 0.875 	neg = 0.0  
+15. And though Carver's                 ... pos = 1.75  	neg = 0.625
+16. In the future, they                 ... pos = 0.0   	neg = 0.0  
+17. There a few too many                ... pos = 0.0   	neg = 0.25 
+18. And it could have us                ... pos = 1.0   	neg = 0.125
+19. As it stands, the pl                ... pos = 0.5   	neg = 1.125
+20. Now that the element                ... pos = 0.875 	neg = 0.625
+21. There's no mistaking                ... pos = 0.5   	neg = 0.375
+22. -Reviewed December 1                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5255-1545 is Positive        ... pos = 14.625 	neg = 5.5  
+Overall score of document
+Total Pos = 14.625
+Total Neg = 5.5
+---------------------------------------------------------------------------

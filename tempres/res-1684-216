@@ -1,0 +1,51 @@
+0. I really wanted to l                 ... pos = 0.875 	neg = 0.0  
+1. I'd hoped to use thi                 ... pos = 1.25  	neg = 0.375
+2. Such words would mak                 ... pos = 0.0   	neg = 1.125
+3. "  But now, whether                  ... pos = 1.375 	neg = 0.0  
+4. "  Could any film po                 ... pos = 0.625 	neg = 0.0  
+5. Preliminary signs lo                 ... pos = 0.0   	neg = 0.125
+6. Even with the good b                 ... pos = 1.5   	neg = 0.125
+7. About the only detai                 ... pos = 0.5   	neg = 1.125
+8. Walking into the the                 ... pos = 0.125 	neg = 0.125
+9. So how does the movi                 ... pos = 0.0   	neg = 0.125
+10. Well, I'll put it th                ... pos = 0.25  	neg = 0.625
+11. While I had signific                ... pos = 1.125 	neg = 0.25 
+12. Friend #1 was basica                ... pos = 1.25  	neg = 0.125
+13. Friend #2 called it                 ... pos = 0.125 	neg = 0.5  
+14. ".         I can und                ... pos = 0.375 	neg = 0.0  
+15. "Eyes Wide Shut" is                 ... pos = 1.5   	neg = 0.375
+16. As usual, Kubrick es                ... pos = 0.75  	neg = 0.0  
+17. Surreal images float                ... pos = 0.25  	neg = 0.0  
+18. Long passages of the                ... pos = 0.75  	neg = 0.375
+19. It is, in short, bus                ... pos = 0.125 	neg = 0.125
+20. The marketing campai                ... pos = 0.625 	neg = 0.875
+21. "Eyes Wide Shut" is                 ... pos = 1.125 	neg = 1.0  
+22. Yes, there's a lot o                ... pos = 0.0   	neg = 0.5  
+23. Everyone has been ob                ... pos = 0.0   	neg = 0.25 
+24. People here seem to                 ... pos = 0.75  	neg = 0.5  
+25. Despite the nudity,                 ... pos = 0.125 	neg = 0.5  
+26. The story, in a nuts                ... pos = 1.0   	neg = 0.125
+27. Bill's life seems pe                ... pos = 1.0   	neg = 0.375
+28. After Alice confesse                ... pos = 0.5   	neg = 0.625
+29. First, the good news                ... pos = 1.625 	neg = 0.125
+30. It boasts the loveli                ... pos = 1.375 	neg = 0.5  
+31. Tom Cruise turns in                 ... pos = 0.125 	neg = 0.0  
+32. The film boasts a ri                ... pos = 0.0   	neg = 0    
+33. Now, the not so good                ... pos = 0.375 	neg = 0.5  
+34. The sparse musical s                ... pos = 1.125 	neg = 0.125
+35. (I'm sure it was don                ... pos = 0.25  	neg = 0.5  
+36. )  And at times, the                ... pos = 0.75  	neg = 0.75 
+37. Still, even if it do                ... pos = 0.5   	neg = 0.875
+38. I respect Kubrick's                 ... pos = 1.375 	neg = 0.875
+39. It's not a perfect f                ... pos = 1.0   	neg = 0.25 
+40. It's not the be-all,                ... pos = 0.5   	neg = 0.125
+41. Whether non-fans wil                ... pos = 0.625 	neg = 0.25 
+42. It's possible, as lo                ... pos = 0.375 	neg = 0.375
+43. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+44. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1684-216 is Positive         ... pos = 28.25 	neg = 15.5 
+Overall score of document
+Total Pos = 28.25
+Total Neg = 15.5
+---------------------------------------------------------------------------

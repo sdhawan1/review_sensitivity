@@ -1,0 +1,56 @@
+0. *** (out of 4) RONIN                 ... pos = 0.0   	neg = 0.125
+1. It doesn't succeed i                 ... pos = 2.0   	neg = 0.0  
+2. Sam (Robert DeNiro),                 ... pos = 0.0   	neg = 0.0  
+3. He has been hired by                 ... pos = 0.125 	neg = 0.125
+4. Joining Sam are Vinc                 ... pos = 0.75  	neg = 0.0  
+5. The contents of the                  ... pos = 0.25  	neg = 0.0  
+6. This was one of Fran                 ... pos = 0.0   	neg = 0.125
+7. The idea is that wit                 ... pos = 1.125 	neg = 0.125
+8. But when Sam is told                 ... pos = 0.0   	neg = 0.125
+9. So much for the thou                 ... pos = 0.375 	neg = 0.0  
+10. Actually, it doesn't                ... pos = 0.75  	neg = 0.0  
+11. Before they begin th                ... pos = 0.0   	neg = 0.0  
+12. The scene of the wea                ... pos = 0.625 	neg = 0.0  
+13. First Sam gets a fun                ... pos = 0.125 	neg = 0.0  
+14. Then Spence notices                 ... pos = 0.625 	neg = 0.125
+15. The dealers try to l                ... pos = 0.25  	neg = 0.125
+16. If I were to see the                ... pos = 0.875 	neg = 0.75 
+17. But because the tens                ... pos = 0.125 	neg = 0.625
+18. Ironically, that als                ... pos = 0.25  	neg = 0.5  
+19. The mysterious case                 ... pos = 0.5   	neg = 0.125
+20. The level of detail                 ... pos = 0.375 	neg = 0.125
+21. The 30 minutes or so                ... pos = 1.0   	neg = 0.25 
+22. The plan culminates                 ... pos = 0.75  	neg = 0.625
+23. Admittedly, the chas                ... pos = 0.875 	neg = 0.375
+24. Seems like it should                ... pos = 0.875 	neg = 0.5  
+25. Regardless, Frankenh                ... pos = 0.125 	neg = 0.375
+26. It's an expensive de                ... pos = 0.25  	neg = 0.0  
+27. When a stunt is real                ... pos = 1.0   	neg = 1.0  
+28. When a stunt is comp                ... pos = 0.0   	neg = 1.0  
+29. In RONIN, it's there                ... pos = 0.5   	neg = 0.0  
+30. Needless to say, Sam                ... pos = 0.0   	neg = 0.0  
+31. The second half of t                ... pos = 0.0   	neg = 0.25 
+32. There is more action                ... pos = 0.375 	neg = 0.25 
+33. The second half of t                ... pos = 0.75  	neg = 0.0  
+34. The Ronin, we are to                ... pos = 0.25  	neg = 0.25 
+35. They banded together                ... pos = 0.375 	neg = 0.25 
+36. When the Ronin execu                ... pos = 0.0   	neg = 0.5  
+37. "They chose honor, t                ... pos = 2.0   	neg = 0.125
+38. "They chose wrong,"                 ... pos = 0.875 	neg = 0.75 
+39. Like the device of t                ... pos = 0.0   	neg = 0.25 
+40. But like the device                 ... pos = 0.125 	neg = 0.0  
+41. Even without Sam's c                ... pos = 0.5   	neg = 0.125
+42. It is a little too c                ... pos = 0.0   	neg = 1.125
+43. Instead of this keys                ... pos = 0.0   	neg = 0.125
+44. After they leave Jea                ... pos = 0.0   	neg = 0.0  
+45. One final breathtaki                ... pos = 0.75  	neg = 0.125
+46. The ultimate ending,                ... pos = 0.25  	neg = 0.375
+47. Nevertheless, the ad                ... pos = 0.125 	neg = 0.0  
+48. That's because as a                 ... pos = 0.375 	neg = 0.125
+49. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5519-1008 is Positive        ... pos = 21.25 	neg = 11.75
+Overall score of document
+Total Pos = 21.25
+Total Neg = 11.75
+---------------------------------------------------------------------------

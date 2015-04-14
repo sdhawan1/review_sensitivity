@@ -1,0 +1,28 @@
+0. Release Date: May 1,                 ... pos = 0.875 	neg = 0.5  
+1. Sports movies in gen                 ... pos = 0.25  	neg = 0.75 
+2. It's good to see, th                 ... pos = 2.875 	neg = 0.125
+3. Here, basketball as                  ... pos = 0.75  	neg = 0.125
+4. HE GOT GAME is by fa                 ... pos = 0.75  	neg = 0.125
+5. The quandary that be                 ... pos = 0.25  	neg = 0.375
+6. If Jake can convince                 ... pos = 0.25  	neg = 0.0  
+7. Jake, who's looking                  ... pos = 0.75  	neg = 0.25 
+8. Jesus has already be                 ... pos = 1.25  	neg = 0.25 
+9. To top it off, Jake                  ... pos = 0.0   	neg = 0.625
+10. As the movie progres                ... pos = 0.75  	neg = 0.0  
+11. Neither of the two a                ... pos = 1.875 	neg = 0.25 
+12. The drama that plays                ... pos = 2.0   	neg = 0.375
+13. Lee masterfully helm                ... pos = 1.25  	neg = 0.0  
+14. The picture is toppe                ... pos = 0.75  	neg = 0.75 
+15. Written by Lee as we                ... pos = 0.875 	neg = 0.0  
+16. The audience can get                ... pos = 0.5   	neg = 0.0  
+17. Unlike most movies w                ... pos = 0.125 	neg = 0.375
+18. Jesus, as he is bein                ... pos = 0.75  	neg = 0.5  
+19. The movie touches on                ... pos = 1.25  	neg = 0.0  
+20. HE GOT GAME is, as m                ... pos = 1.125 	neg = 0.25 
+21. FINAL AWARD FOR "HE                 ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2092-700 is Positive         ... pos = 19.75 	neg = 5.625
+Overall score of document
+Total Pos = 19.75
+Total Neg = 5.625
+---------------------------------------------------------------------------

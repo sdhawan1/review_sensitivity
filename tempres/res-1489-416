@@ -1,0 +1,17 @@
+0. Synopsis:  In this m                 ... pos = 0.75  	neg = 0.5  
+1. Cinque and friends h                 ... pos = 0.625 	neg = 0.0  
+2. Technically, since t                 ... pos = 0.125 	neg = 0.5  
+3. Lawyers Baldwin and                  ... pos = 0.875 	neg = 0.125
+4. Three lengthy court                  ... pos = 1.125 	neg = 0.25 
+5. A final speech by Ad                 ... pos = 1.0   	neg = 0.125
+6. Opinion: Making a fi                 ... pos = 0.25  	neg = 0.125
+7. In fiction, one inve                 ... pos = 2.0   	neg = 0.875
+8. Real life, however,                  ... pos = 1.875 	neg = 1.75 
+9. Spielberg gives us a                 ... pos = 0.75  	neg = 0.5  
+10. Djimon Hounsou and A                ... pos = 1.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1489-416 is Positive         ... pos = 10.375 	neg = 4.75 
+Overall score of document
+Total Pos = 10.375
+Total Neg = 4.75
+---------------------------------------------------------------------------

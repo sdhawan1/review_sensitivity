@@ -1,0 +1,91 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.0  
+1. Walk in the door, op                 ... pos = 0.0   	neg = 0.0  
+2. Nothing interesting,                 ... pos = 0.125 	neg = 0.25 
+3. Change clothes, put                  ... pos = 0.0   	neg = 0.0  
+4. Walk outside.                        ... pos = 0.0   	neg = 0.0  
+5. Raining too hard.                    ... pos = 0.0   	neg = 1.0  
+6. Walk back inside.                    ... pos = 0.0   	neg = 0.0  
+7. Decide to wait and s                 ... pos = 0.0   	neg = 0.0  
+8. Turn computer monito                 ... pos = 0.0   	neg = 0.0  
+9. Rain gets heavier, t                 ... pos = 0.0   	neg = 0.125
+10. ZOT!!!                              ... pos = 0     	neg = 0    
+11. Power goes off.                     ... pos = 0.0   	neg = 0.625
+12. Power stays off.                    ... pos = 0.0   	neg = 0.625
+13. Hunger builds, dinne                ... pos = 0.0   	neg = 0    
+14. No microwave, no ove                ... pos = 0.0   	neg = 0.75 
+15. Dry cleaners close a                ... pos = 0.0   	neg = 0.0  
+16. Walk to car in drivi                ... pos = 0.0   	neg = 0.0  
+17. Still hungry.                       ... pos = 0.125 	neg = 0    
+18. Stop by Chuy's, get                 ... pos = 0.0   	neg = 0.0  
+19. Have to stop eating                 ... pos = 0     	neg = 0.0  
+20. Diet starts soon.                   ... pos = 0.0   	neg = 0    
+21. Rain stops on drive                 ... pos = 0.0   	neg = 0.0  
+22. Check mailbox on way                ... pos = 0.0   	neg = 0.0  
+23. Get electric bill.                  ... pos = 0.0   	neg = 0.0  
+24. Chuckle at irony.                   ... pos = 0.0   	neg = 0.0  
+25. Get dry cleaning out                ... pos = 0.0   	neg = 0.0  
+26. Rain stops.                         ... pos = 0.0   	neg = 0.0  
+27. Walk in door, power                 ... pos = 0.0   	neg = 0.0  
+28. Open window, read pa                ... pos = 0.125 	neg = 0.25 
+29. Power still not on.                 ... pos = 0.0   	neg = 0.0  
+30. True Crime starts in                ... pos = 0.5   	neg = 0.0  
+31. Clint Eastwood stars                ... pos = 0.0   	neg = 0.0  
+32. Better than sitting                 ... pos = 0.125 	neg = 0.0  
+33. Drive to movie theat                ... pos = 0.0   	neg = 0.0  
+34. Trailer for The Mumm                ... pos = 0.0   	neg = 0.5  
+35. Never Been Kissed tr                ... pos = 0.0   	neg = 0.625
+36. Wonder who would eve                ... pos = 0.0   	neg = 0.125
+37. Movie starts.                       ... pos = 0.0   	neg = 0.0  
+38. San Quentin Prison,                 ... pos = 0.0   	neg = 0    
+39. Didn't know San Quen                ... pos = 0     	neg = 0.125
+40. Scene where warden t                ... pos = 0.25  	neg = 0.0  
+41. Blah sort of scene.                 ... pos = 0.0   	neg = 0.0  
+42. Here is Clint, at a                 ... pos = 0.0   	neg = 0.125
+43. Clint drinks a tall                 ... pos = 0.0   	neg = 0.0  
+44. Wonder how much cele                ... pos = 0.125 	neg = 0.0  
+45. Clint chats up the g                ... pos = 0.0   	neg = 0.25 
+46. Girl feels uncomfort                ... pos = 0.0   	neg = 0.0  
+47. Girl is driving drun                ... pos = 0.0   	neg = 0.125
+48. Worse yet, girl deci                ... pos = 0.25  	neg = 0.625
+49. Girl comes up on Dea                ... pos = 0.0   	neg = 0.625
+50. Yet another innocent                ... pos = 0.375 	neg = 0.5  
+51. Wonder when we will                 ... pos = 0.125 	neg = 0.0  
+52. Clint is needed to r                ... pos = 0.375 	neg = 0.75 
+53. James Woods and Deni                ... pos = 0.0   	neg = 0.875
+54. Woods actually looks                ... pos = 0.0   	neg = 0.375
+55. Denis Leary glowers                 ... pos = 0.375 	neg = 0.0  
+56. Clint comes into new                ... pos = 0.375 	neg = 0.125
+57. Clint starts to inve                ... pos = 0.25  	neg = 0.0  
+58. Clint stops to light                ... pos = 0.5   	neg = 0.625
+59. Wonder if anybody ev                ... pos = 0.0   	neg = 0.125
+60. Clint also calls his                ... pos = 0.75  	neg = 1.5  
+61. Clint's wife reminds                ... pos = 0.0   	neg = 0    
+62. Clint intersperses i                ... pos = 1.0   	neg = 0.25 
+63. Dirty Harry Callahan                ... pos = 0.0   	neg = 0.125
+64. Scenes go in in pris                ... pos = 0.0   	neg = 0.0  
+65. Michael McKean plays                ... pos = 0.0   	neg = 0.875
+66. The warden and the p                ... pos = 0.25  	neg = 0.0  
+67. The condemned man sh                ... pos = 0.25  	neg = 0.0  
+68. He decides to have s                ... pos = 0.0   	neg = 0.0  
+69. Would choose some mo                ... pos = 0.0   	neg = 0.0  
+70. Clint drives around                 ... pos = 0.0   	neg = 0.0  
+71. Eventually, he confr                ... pos = 0.5   	neg = 0.75 
+72. Clint believes him,                 ... pos = 0.5   	neg = 0.75 
+73. Can Clint save him b                ... pos = 0.0   	neg = 0.0  
+74. Remind self that Cli                ... pos = 0.25  	neg = 0.25 
+75. Finish watching movi                ... pos = 0.0   	neg = 0.0  
+76. Marvel at silliness                 ... pos = 0.625 	neg = 0.25 
+77. Wonder if this is ju                ... pos = 0.0   	neg = 0.75 
+78. Hope that this is in                ... pos = 0.0   	neg = 0.125
+79. Respect the quality                 ... pos = 1.875 	neg = 0.125
+80. Ask self if this was                ... pos = 0.125 	neg = 0.125
+81. Leave theater disapp                ... pos = 0.0   	neg = 0    
+82. Drive home.                         ... pos = 0.0   	neg = 0.0  
+83. The power is back on                ... pos = 0.0   	neg = 0.125
+84. Write review, reset                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5485-1045 is Negative        ... pos = 10.125 	neg = 16.125
+Overall score of document
+Total Pos = 10.125
+Total Neg = 16.125
+---------------------------------------------------------------------------

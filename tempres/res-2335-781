@@ -1,0 +1,61 @@
+0. If you talk to some                  ... pos = 0.375 	neg = 0.125
+1. Talk to others and t                 ... pos = 0.125 	neg = 0.125
+2. If anyone tells you                  ... pos = 0.875 	neg = 0.125
+3. Fans of the first tw                 ... pos = 0.25  	neg = 0.25 
+4. Four years have gone                 ... pos = 0.125 	neg = 0.875
+5. Ellen Ripley (Sigour                 ... pos = 0.625 	neg = 0.75 
+6. As she fell toward a                 ... pos = 1.25  	neg = 0.75 
+7. A little corny?                      ... pos = 0.0   	neg = 0.625
+8. Perhaps, but it seem                 ... pos = 0.25  	neg = 0.125
+9. Of course, an ALIEN                  ... pos = 0.75  	neg = 0.125
+10. Hence the name.                     ... pos = 0.0   	neg = 0.0  
+11. In ALIEN RESURRECTIO                ... pos = 0.125 	neg = 0.25 
+12. The people cloning h                ... pos = 0.25  	neg = 0.0  
+13. This clone seems to                 ... pos = 0.25  	neg = 0.75 
+14. Following the operat                ... pos = 0.0   	neg = 0.5  
+15. The research vessel                 ... pos = 0.0   	neg = 0.25 
+16. Freeman) plans to us                ... pos = 0.0   	neg = 0.0  
+17. You see, the alien t                ... pos = 0.0   	neg = 0.25 
+18. The freighter crew i                ... pos = 0.125 	neg = 0.75 
+19. There's Elgyn (Micha                ... pos = 1.0   	neg = 0.625
+20. Then there's Annalee                ... pos = 0.0   	neg = 0.5  
+21. These people react t                ... pos = 0.5   	neg = 0.0  
+22. There's really not m                ... pos = 1.375 	neg = 0.0  
+23. And die they do.                    ... pos = 0     	neg = 0.0  
+24. Pretty soon the baby                ... pos = 0.875 	neg = 0.125
+25. Shortly thereafter,                 ... pos = 0.375 	neg = 0.0  
+26. So of course it's up                ... pos = 0.0   	neg = 0.0  
+27. I think it would hav                ... pos = 1.0   	neg = 0.125
+28. You're braver than I                ... pos = 0     	neg = 0.0  
+29. "  At least that wou                ... pos = 0.125 	neg = 0.125
+30. ALIEN RESURRECTION c                ... pos = 0.0   	neg = 0.125
+31. >From these re-tread                ... pos = 0.25  	neg = 0.25 
+32. They will probably g                ... pos = 0.125 	neg = 0.25 
+33. 2) If you find some                 ... pos = 0.0   	neg = 0.25 
+34. "  Instead, run away                ... pos = 0.0   	neg = 0.0  
+35. There's an alien nea                ... pos = 0.0   	neg = 0    
+36. 3) Don't walk on flo                ... pos = 0.0   	neg = 0.0  
+37. With gratings, an al                ... pos = 0.125 	neg = 0.125
+38. 4) Always assume the                ... pos = 0.0   	neg = 0.125
+39. The moment you think                ... pos = 0.25  	neg = 0.5  
+40. Most of the performa                ... pos = 0.25  	neg = 0.25 
+41. Most of the characte                ... pos = 2.125 	neg = 0.375
+42. Even then, her chara                ... pos = 1.125 	neg = 0.125
+43. Sigourney Weaver, ho                ... pos = 1.625 	neg = 0.0  
+44. First, Ripley's got                 ... pos = 1.125 	neg = 0.0  
+45. Second, through the                 ... pos = 0.25  	neg = 0.25 
+46. While intriguing, th                ... pos = 0.625 	neg = 0.0  
+47. Sure, we can watch a                ... pos = 2.0   	neg = 0.25 
+48. The aliens themselve                ... pos = 1.375 	neg = 0.125
+49. There are computer-g                ... pos = 0.25  	neg = 1.5  
+50. One noticeable chang                ... pos = 1.875 	neg = 0.125
+51. Although this helps                 ... pos = 1.625 	neg = 0.875
+52. As a result, we beco                ... pos = 0.0   	neg = 0.75 
+53. Altogether, ALIEN RE                ... pos = 0.75  	neg = 0.125
+54. While a better film                 ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2335-781 is Positive         ... pos = 26.375 	neg = 14.875
+Overall score of document
+Total Pos = 26.375
+Total Neg = 14.875
+---------------------------------------------------------------------------

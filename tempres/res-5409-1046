@@ -1,0 +1,36 @@
+0. "The Matrix" is a mo                 ... pos = 0.0   	neg = 0.125
+1. In today's Hollywood                 ... pos = 0.0   	neg = 0.0  
+2. It dazzles, it enter                 ... pos = 0.5   	neg = 0.5  
+3. The movie features N                 ... pos = 0.375 	neg = 0.375
+4. Some of them are a l                 ... pos = 0.375 	neg = 1.0  
+5. He eventually does s                 ... pos = 0.0   	neg = 0.0  
+6. ) -- but Neo doesn't                 ... pos = 0.375 	neg = 0.125
+7. Eventually Neo and M                 ... pos = 1.0   	neg = 1.0  
+8. Neo's world of skysc                 ... pos = 0.0   	neg = 0.0  
+9. He and the entire re                 ... pos = 1.0   	neg = 0.75 
+10. The plot warps onwar                ... pos = 0     	neg = 0.0  
+11. Morpheus and his ban                ... pos = 0.0   	neg = 0.0  
+12. More than that, they                ... pos = 0.125 	neg = 0.625
+13. Morpheus is convince                ... pos = 0.625 	neg = 0.5  
+14. Sure, he's fascinate                ... pos = 1.5   	neg = 0.0  
+15. After all, A), if wh                ... pos = 0.0   	neg = 0.125
+16. And B), who's to say                ... pos = 0.5   	neg = 0.125
+17. "The Matrix" does a                 ... pos = 0.0   	neg = 0.0  
+18. What "The Matrix" do                ... pos = 0.625 	neg = 0.125
+19. This is, simply put,                ... pos = 1.0   	neg = 0.125
+20. When we see Neo and                 ... pos = 0.125 	neg = 0.125
+21. And in a way, a refl                ... pos = 0.125 	neg = 0.0  
+22. That's what makes it                ... pos = 0.5   	neg = 0.0  
+23. The evil of the Matr                ... pos = 0.0   	neg = 1.25 
+24. The most deliciously                ... pos = 0.875 	neg = 0.25 
+25. Smith has a great sc                ... pos = 0.75  	neg = 0.0  
+26. What I liked best ab                ... pos = 1.0   	neg = 0.125
+27. It's the only succes                ... pos = 1.125 	neg = 0.0  
+28. Such is the nature o                ... pos = 0.0   	neg = 0.125
+29. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-1046 is Positive        ... pos = 12.5  	neg = 7.375
+Overall score of document
+Total Pos = 12.5
+Total Neg = 7.375
+---------------------------------------------------------------------------

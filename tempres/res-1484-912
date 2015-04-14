@@ -1,0 +1,33 @@
+0. Didja ever look at a                 ... pos = 0.0   	neg = 0.625
+1. That kind of describ                 ... pos = 1.75  	neg = 0.25 
+2. What starts at a boi                 ... pos = 0.125 	neg = 0.75 
+3. And only the priest                  ... pos = 0.0   	neg = 0.25 
+4. Brian Kilkenny Flynn                 ... pos = 0.0   	neg = 0.125
+5. Jacob Schram (Ben St                 ... pos = 0.125 	neg = 0.125
+6. Anna Reilly (Jenna E                 ... pos = 0.375 	neg = 0.125
+7. The visit is tempora                 ... pos = 0.125 	neg = 0.25 
+8. Both men go to pick                  ... pos = 0.125 	neg = 0.0  
+9. Of course, one man i                 ... pos = 0.125 	neg = 1.125
+10. They're gonna do eve                ... pos = 0.375 	neg = 0.0  
+11. And they're gonna do                ... pos = 0.875 	neg = 0.0  
+12. .                                   ... pos = 0     	neg = 0    
+13. .                                   ... pos = 0     	neg = 0    
+14. and watch some more                 ... pos = 0.125 	neg = 0.0  
+15. .                                   ... pos = 0     	neg = 0    
+16. .                                   ... pos = 0     	neg = 0    
+17. and on and on and on                ... pos = 0.25  	neg = 0.75 
+18. While it's a welcome                ... pos = 0.75  	neg = 0.25 
+19. Which is a roundabou                ... pos = 0.25  	neg = 0.125
+20. When she's on screen                ... pos = 0.125 	neg = 0.375
+21. She's funny, she's h                ... pos = 0.0   	neg = 0.5  
+22. On average, a first                 ... pos = 0.25  	neg = 0.0  
+23. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+24. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+25. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+26. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1484-912 is Positive         ... pos = 6.125 	neg = 5.875
+Overall score of document
+Total Pos = 6.125
+Total Neg = 5.875
+---------------------------------------------------------------------------

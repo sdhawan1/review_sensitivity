@@ -1,0 +1,31 @@
+0. Starring Desmond Ask                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. What's a c                 ... pos = 0.75  	neg = 0.125
+2. What if a film's pur                 ... pos = 0.0   	neg = 0.0  
+3. What does one make o                 ... pos = 0.125 	neg = 0.625
+4. Watching Go, the new                 ... pos = 0.875 	neg = 0.0  
+5. Go is an intriguingl                 ... pos = 2.5   	neg = 0.125
+6. First we are shown R                 ... pos = 0.375 	neg = 0.375
+7. When her drug traffi                 ... pos = 1.75  	neg = 0.0  
+8. She is forced to hal                 ... pos = 0.125 	neg = 0.75 
+9. The movie then follo                 ... pos = 0.0   	neg = 0.5  
+10. Then, after a rather                ... pos = 0.875 	neg = 0.875
+11. Finally, as we are t                ... pos = 0.375 	neg = 0.75 
+12. Go is a daring, fast                ... pos = 0.125 	neg = 0.125
+13. The multitude of int                ... pos = 1.0   	neg = 0.125
+14. The movie's script,                 ... pos = 0.875 	neg = 0.125
+15. I also liked the way                ... pos = 1.375 	neg = 0.875
+16. But even with this n                ... pos = 0.375 	neg = 0.5  
+17. Sure, the lusty, ste                ... pos = 2.125 	neg = 0.375
+18. Many comparisons wil                ... pos = 0.5   	neg = 0.25 
+19. The kicker, however,                ... pos = 0.375 	neg = 0.25 
+20. The dialogue in Go,                 ... pos = 0.0   	neg = 0.625
+21. Go is best viewed as                ... pos = 3.25  	neg = 0.375
+22. More ambitious movie                ... pos = 0.5   	neg = 0.125
+23. But like I said befo                ... pos = 0.125 	neg = 0.375
+24. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5367-563 is Positive         ... pos = 18.375 	neg = 8.25 
+Overall score of document
+Total Pos = 18.375
+Total Neg = 8.25
+---------------------------------------------------------------------------

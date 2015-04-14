@@ -1,0 +1,47 @@
+0. Starring: Ben Afflec                 ... pos = 1.25  	neg = 1.0  
+1. The guy can't seem t                 ... pos = 2.0   	neg = 0.25 
+2. His screenplay for                   ... pos = 0.5   	neg = 0.25 
+3. I can just envision                  ... pos = 0.0   	neg = 0.125
+4. " It's almost as if                  ... pos = 0.375 	neg = 0.25 
+5. And why the hell wou                 ... pos = 0.75  	neg = 1.125
+6. Auteur  theory be da                 ... pos = 0.0   	neg = 0.125
+7. Kruger has obviously                 ... pos = 0.375 	neg = 0.125
+8. And his numerous twi                 ... pos = 1.125 	neg = 1.875
+9. "How did you  know t                 ... pos = 0     	neg = 0.0  
+10. " the stunned protag                ... pos = 1.0   	neg = 0.125
+11. .                                   ... pos = 0     	neg = 0    
+12. .                                   ... pos = 0     	neg = 0    
+13. Since twist endings                 ... pos = 0.25  	neg = 0.25 
+14. He's quickly becomin                ... pos = 0.0   	neg = 0.0  
+15. This is appropriate                 ... pos = 1.0   	neg = 0.75 
+16. Their company's curr                ... pos = 0.0   	neg = 0.125
+17. REINDEER GAMES stars                ... pos = 0.125 	neg = 0.0  
+18. Although Affleck is                 ... pos = 0.0   	neg = 1.625
+19. Affleck is such a pu                ... pos = 0.125 	neg = 1.25 
+20. The role itself is s                ... pos = 1.125 	neg = 0.5  
+21. It may have been wis                ... pos = 1.125 	neg = 1.75 
+22. Ashley is a prison g                ... pos = 0.0   	neg = 0.125
+23. Which works out fine                ... pos = 1.5   	neg = 1.75 
+24. He plans to rob an I                ... pos = 0.125 	neg = 0.125
+25. Though by the end, t                ... pos = 0.0   	neg = 1.25 
+26. This is what you can                ... pos = 1.25  	neg = 1.125
+27. Included: Two (2) sc                ... pos = 1.5   	neg = 1.25 
+28. Though it's an actio                ... pos = 0.875 	neg = 1.375
+29. The flick was direct                ... pos = 0.625 	neg = 1.125
+30. It would be a succes                ... pos = 0.75  	neg = 0.375
+31. He films action sequ                ... pos = 0.75  	neg = 0.125
+32. Problem is these act                ... pos = 0.875 	neg = 0.75 
+33. Character problems a                ... pos = 1.25  	neg = 2.375
+34. The former he  can d                ... pos = 0.625 	neg = 0.125
+35. But then suddenly Af                ... pos = 0.444 	neg = 0.25 
+36. Charlize Theron, an                 ... pos = 1.25  	neg = 0.375
+37. She never has a chan                ... pos = 1.0   	neg = 0.5  
+38. Gary Sinise has play                ... pos = 0.875 	neg = 2.0  
+39. These  are talented                 ... pos = 1.625 	neg = 0.25 
+40. http://www.geocities                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5455-926 is Negative         ... pos = 26.444 	neg = 26.75
+Overall score of document
+Total Pos = 26.444
+Total Neg = 26.75
+---------------------------------------------------------------------------

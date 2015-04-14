@@ -1,0 +1,38 @@
+0. The robot is always                  ... pos = 0.0   	neg = 0.125
+1. Danger, Will Robinso                 ... pos = 0.125 	neg = 0    
+2. ". >From the spectac                 ... pos = 0.25  	neg = 1.0  
+3. It's not just that w                 ... pos = 0.125 	neg = 0.25 
+4. It's that the movie                  ... pos = 0.0   	neg = 0.0  
+5. It's a package, appa                 ... pos = 0.25  	neg = 0.125
+6. I don't know what...                 ... pos = 0.0   	neg = 0.0  
+7. (A friend reports th                 ... pos = 0.5   	neg = 0    
+8. ). I would heartily                  ... pos = 0.0   	neg = 0.0  
+9. Why?                                 ... pos = 0     	neg = 0.0  
+10. Because it's a verit                ... pos = 0.375 	neg = 0.0  
+11. Do you have a 2.35 f                ... pos = 0.0   	neg = 0.0  
+12. Then be sure to cram                ... pos = 0.25  	neg = 0.25 
+13. Don't forget to cut                 ... pos = 0.5   	neg = 0.0  
+14. In fact, everything                 ... pos = 0.0   	neg = 0.125
+15. Brilliant!                          ... pos = 0     	neg = 0    
+16. But let's get back t                ... pos = 0.0   	neg = 0.125
+17. Lesson number one: M                ... pos = 0.0   	neg = 0.0  
+18. I mean, there's a ce                ... pos = 0.125 	neg = 0.0  
+19. But every single cha                ... pos = 0.875 	neg = 0.0  
+20. And, to make sure no                ... pos = 1.125 	neg = 0.25 
+21. I'm sure that Goldsm                ... pos = 0.625 	neg = 0.125
+22. What merit there may                ... pos = 1.25  	neg = 1.375
+23. And the camera work?                ... pos = 0.0   	neg = 0.0  
+24. Apparently the direc                ... pos = 0.625 	neg = 0.375
+25. This is the crudest                 ... pos = 0.875 	neg = 0.25 
+26. The effect is to loc                ... pos = 0.875 	neg = 0.125
+27. It's something you u                ... pos = 0.0   	neg = 0.0  
+28. The way it's used in                ... pos = 0.0   	neg = 0.125
+29. As the energetically                ... pos = 0.0   	neg = 0.375
+30. He took a slow drag                 ... pos = 0.0   	neg = 1.0  
+31. ". I recommend it as                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4624-777 is Positive         ... pos = 8.875 	neg = 6.375
+Overall score of document
+Total Pos = 8.875
+Total Neg = 6.375
+---------------------------------------------------------------------------

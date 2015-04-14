@@ -1,0 +1,38 @@
+0. by Curtis Edmonds --                 ... pos = 0.125 	neg = 0.0  
+1. If you're an ethical                 ... pos = 0.0   	neg = 0.0  
+2. (If you're an unethi                 ... pos = 0.0   	neg = 0.0  
+3. )  If you can't trus                 ... pos = 0.125 	neg = 0.125
+4. Otherwise, "then you                 ... pos = 0.0   	neg = 0.0  
+5. ". So, no, I won't t                 ... pos = 0.0   	neg = 0.25 
+6. I will tell you that                 ... pos = 0.875 	neg = 0.0  
+7. The real question ab                 ... pos = 0.0   	neg = 0.25 
+8. Three of the best se                 ... pos = 2.5   	neg = 0.0  
+9. On the other hand, o                 ... pos = 0.125 	neg = 0.5  
+10. The quality of the m                ... pos = 0.875 	neg = 0.125
+11. The Sixth Sense is a                ... pos = 0.0   	neg = 0.375
+12. Willis plays a Phila                ... pos = 0.125 	neg = 0.0  
+13. The dedication is te                ... pos = 0.125 	neg = 0.125
+14. A year later, Willis                ... pos = 0.125 	neg = 0.625
+15. Apart from an early                 ... pos = 1.0   	neg = 0.0  
+16. The beautifully coun                ... pos = 0.75  	neg = 1.375
+17. Willis in Sincere Mo                ... pos = 2.875 	neg = 1.0  
+18. Most of those scenes                ... pos = 1.125 	neg = 0.0  
+19. (He's in Sincere Mod                ... pos = 1.25  	neg = 0.5  
+20. )  Osment has to con                ... pos = 0.375 	neg = 0.0  
+21. But, of course, we b                ... pos = 0.5   	neg = 0.0  
+22. Later, we get to see                ... pos = 2.125 	neg = 0.375
+23. How good is Osment?                 ... pos = 0.75  	neg = 0.125
+24. I don't want to thro                ... pos = 1.0   	neg = 1.125
+25. I would, however, li                ... pos = 1.125 	neg = 0.375
+26. (I still think that                 ... pos = 0.25  	neg = 0.25 
+27. ). Add to these two                 ... pos = 2.75  	neg = 0.5  
+28. Movie Reviews:  http                ... pos = 0.0   	neg = 0.125
+29. The same way he take                ... pos = 0.0   	neg = 0.0  
+30. Another way is to fi                ... pos = 0.0   	neg = 0.875
+31. "  -- Jonah Goldberg                ... pos = 0     	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2714-1045 is Positive        ... pos = 20.875 	neg = 9.125
+Overall score of document
+Total Pos = 20.875
+Total Neg = 9.125
+---------------------------------------------------------------------------

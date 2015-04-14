@@ -1,0 +1,24 @@
+0. rated R starring Cla                 ... pos = 0.25  	neg = 1.25 
+1. But just as I was ge                 ... pos = 0.0   	neg = 0.125
+2. Maybe by the end of                  ... pos = 0.0   	neg = 0.125
+3. Now I know that in m                 ... pos = 0.0   	neg = 0.75 
+4. Those of you who wat                 ... pos = 0.25  	neg = 1.0  
+5. In this two hour lon                 ... pos = 0.625 	neg = 1.25 
+6. The funny thing is t                 ... pos = 0.0   	neg = 0.375
+7. For some reason thou                 ... pos = 0.5   	neg = 0.0  
+8. In no way was I engr                 ... pos = 0.5   	neg = 0.625
+9. I mean, the film at                  ... pos = 0.625 	neg = 0.0  
+10. Each one of these ac                ... pos = 0.0   	neg = 0.0  
+11. Get Danes, Epps, and                ... pos = 0.5   	neg = 0.0  
+12. And somebody please                 ... pos = 0.75  	neg = 0.0  
+13. How come the brat pa                ... pos = 0.0   	neg = 1.0  
+14. SUBURBIA's one of my                ... pos = 0.0   	neg = 0    
+15. As you can tell by n                ... pos = 0.5   	neg = 1.0  
+16. I ended up feeling s                ... pos = 0.875 	neg = 0.625
+17. review by Akiva Gott                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5846-421 is Negative         ... pos = 5.5   	neg = 8.25 
+Overall score of document
+Total Pos = 5.5
+Total Neg = 8.25
+---------------------------------------------------------------------------

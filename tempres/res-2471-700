@@ -1,0 +1,33 @@
+0. Release Date: July 2                 ... pos = 1.25  	neg = 0.875
+1. At the Dog Green sec                 ... pos = 0.25  	neg = 0.625
+2. Then the army of boa                 ... pos = 0.125 	neg = 0.375
+3. Then the German gunn                 ... pos = 0.375 	neg = 0.0  
+4. Others are killed on                 ... pos = 0.375 	neg = 0.0  
+5. Such is the opening                  ... pos = 0.875 	neg = 0.75 
+6. Such claims are not                  ... pos = 0.375 	neg = 0.625
+7. The intense violence                 ... pos = 0.25  	neg = 0.5  
+8. Men die explicitly a                 ... pos = 0.25  	neg = 0.0  
+9. At first glance, it                  ... pos = 0.375 	neg = 0.875
+10. But after only momen                ... pos = 0.0   	neg = 0.0  
+11. He puts every member                ... pos = 0.0   	neg = 0.625
+12. Even after the openi                ... pos = 0.625 	neg = 0.0  
+13. Mid-forties jargon,                 ... pos = 0.375 	neg = 0.125
+14. On those terms, SAVI                ... pos = 0.25  	neg = 0.25 
+15. If there's anything                 ... pos = 1.25  	neg = 0.0  
+16. Tramping around the                 ... pos = 0.5   	neg = 0.125
+17. This benchmark state                ... pos = 0.0   	neg = 0.125
+18. Tom Hanks (THAT THIN                ... pos = 0.0   	neg = 0.0  
+19. ), Tom Sizemore (THE                ... pos = 0.5   	neg = 0.125
+20. Ryan has three broth                ... pos = 0.125 	neg = 0.125
+21. Each and every membe                ... pos = 0.625 	neg = 0.375
+22. Hanks is not outstan                ... pos = 1.875 	neg = 0.25 
+23. His lead is essentia                ... pos = 0.875 	neg = 0.125
+24. In comparison to his                ... pos = 0.0   	neg = 0.0  
+25. All-in-all, the defi                ... pos = 0.25  	neg = 0    
+26. FINAL AWARD FOR "SAV                ... pos = 1.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-700 is Positive         ... pos = 13.5  	neg = 6.875
+Overall score of document
+Total Pos = 13.5
+Total Neg = 6.875
+---------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+0. - "..It's better to                  ... pos = 0.625 	neg = 0.375
+1. And here it is.                      ... pos = 0.0   	neg = 0.125
+2. A sophisticated and                  ... pos = 0.75  	neg = 0.0  
+3. This is as far as ps                 ... pos = 0.0   	neg = 0.125
+4. Hichock's "Psycho",                  ... pos = 0.875 	neg = 0.125
+5. Minghella offers you                 ... pos = 0.375 	neg = 1.375
+6. The film is based on                 ... pos = 0.0   	neg = 0.125
+7. Set in the mid-50s,                  ... pos = 0.75  	neg = 0.125
+8. When finished, he is                 ... pos = 0.375 	neg = 0.75 
+9. Tom is then offered                  ... pos = 0.75  	neg = 0.125
+10. Tom, pretending to k                ... pos = 0.375 	neg = 0.125
+11. It is here we start                 ... pos = 1.125 	neg = 0.25 
+12. He is starting to pr                ... pos = 0.0   	neg = 0.125
+13. In Italy, Tom is ins                ... pos = 0.875 	neg = 0.5  
+14. Here, the audience a                ... pos = 0.125 	neg = 0.25 
+15. He is a man of many                 ... pos = 1.5   	neg = 0.125
+16. His solitary life ma                ... pos = 1.0   	neg = 0.125
+17. This is how it begin                ... pos = 0.0   	neg = 0.125
+18. Tom wants Dickie.                   ... pos = 0.125 	neg = 0.0  
+19. He wants to be the c                ... pos = 0.875 	neg = 0.375
+20. At this time Minghel                ... pos = 1.0   	neg = 0.0  
+21. You can almost feel                 ... pos = 0.375 	neg = 0.0  
+22. You can relax in the                ... pos = 0.625 	neg = 0.0  
+23. This is heaven on ea                ... pos = 0.125 	neg = 0.125
+24. Seductive, fresh.                   ... pos = 0.625 	neg = 0    
+25. You never want to le                ... pos = 0.0   	neg = 0.125
+26. But Dickie bores eas                ... pos = 0.875 	neg = 0.25 
+27. Now he wants Dickie                 ... pos = 0.125 	neg = 0.125
+28. If he can't his love                ... pos = 1.0   	neg = 0.125
+29. Like American Beauty                ... pos = 1.25  	neg = 0.125
+30. In one you are who y                ... pos = 1.0   	neg = 0.25 
+31. One is a world of ma                ... pos = 0.125 	neg = 0.375
+32. Tom Ripley is caught                ... pos = 0.0   	neg = 0.125
+33. He is charming, beau                ... pos = 2.625 	neg = 0.125
+34. But behind the mask                 ... pos = 1.0   	neg = 0.25 
+35. In truth he is searc                ... pos = 1.25  	neg = 0.125
+36. In other words for a                ... pos = 0.0   	neg = 0    
+37. His methods, however                ... pos = 0.375 	neg = 0    
+38. It is a frightening                 ... pos = 0.875 	neg = 0.125
+39. Tom is so unsatisfie                ... pos = 0.25  	neg = 0.25 
+40. He ends up in a soli                ... pos = 0.25  	neg = 0.0  
+41. In numbness and empt                ... pos = 0.0   	neg = 0.0  
+42. His life becomes an                 ... pos = 1.125 	neg = 0.0  
+43. In several scenes it                ... pos = 0.375 	neg = 0.375
+44. This is never explai                ... pos = 0.0   	neg = 0.25 
+45. He becomes nothing m                ... pos = 0.0   	neg = 0.625
+46. Somewhere you can se                ... pos = 0.5   	neg = 0.75 
+47. In his bizarre and t                ... pos = 0.125 	neg = 0.25 
+48. There are moments, w                ... pos = 2.125 	neg = 0.625
+49. His past can not be                 ... pos = 0.0   	neg = 0.125
+50. Hurt, angry and conf                ... pos = 0.875 	neg = 0.75 
+51. Matt Damon (Saving P                ... pos = 0.25  	neg = 0.375
+52. It is frightening to                ... pos = 0.875 	neg = 0.125
+53. This talented young                 ... pos = 1.125 	neg = 0.125
+54. In fact, I wouldn't                 ... pos = 0.125 	neg = 0.125
+55. Equally magnificent                 ... pos = 1.25  	neg = 0.125
+56. Gwynlyth Paltrow ("S                ... pos = 2.75  	neg = 0.5  
+57. Another interesting                 ... pos = 0.0   	neg = 0.25 
+58. Speaking in a lockja                ... pos = 0.125 	neg = 0.125
+59. The supporting cast                 ... pos = 0.5   	neg = 0.125
+60. This film is so beau                ... pos = 0.625 	neg = 0.125
+61. The elegant cinemato                ... pos = 1.875 	neg = 0.0  
+62. And yet, it is not t                ... pos = 0.75  	neg = 0.125
+63. It is the intellect                 ... pos = 1.125 	neg = 0.125
+64. - "What ever you do.                ... pos = 0.25  	neg = 2.0  
+---------------------------------------------------------------------------
+./temp/tmp-645-657 is Positive          ... pos = 41.0  	neg = 15.75
+Overall score of document
+Total Pos = 41.0
+Total Neg = 15.75
+---------------------------------------------------------------------------

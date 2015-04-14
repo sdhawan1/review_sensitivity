@@ -1,0 +1,21 @@
+0. A small town boy mak                 ... pos = 0.375 	neg = 0.0  
+1. Although there is so                 ... pos = 0.625 	neg = 0.75 
+2. Inspired by the laun                 ... pos = 0.25  	neg = 0.0  
+3. They hope to be able                 ... pos = 1.0   	neg = 0.25 
+4. At the nationals the                 ... pos = 0.25  	neg = 0.125
+5. With the help of sev                 ... pos = 0.375 	neg = 0.0  
+6. After lots of misfir                 ... pos = 0.0   	neg = 0.25 
+7. Soon their rocket la                 ... pos = 1.125 	neg = 0.0  
+8. All except Homer's f                 ... pos = 0.25  	neg = 0.125
+9. John wants his son t                 ... pos = 0.25  	neg = 0.25 
+10. `October Sky' is an                 ... pos = 0.25  	neg = 0.5  
+11. The acting is kind o                ... pos = 0.25  	neg = 0.5  
+12. The script is good a                ... pos = 1.5   	neg = 0.125
+13. But, altogether, it'                ... pos = 0.875 	neg = 0.0  
+14. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2340-1529 is Positive        ... pos = 7.375 	neg = 2.875
+Overall score of document
+Total Pos = 7.375
+Total Neg = 2.875
+---------------------------------------------------------------------------

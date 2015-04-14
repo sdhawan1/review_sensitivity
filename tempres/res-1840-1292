@@ -1,0 +1,29 @@
+0. Bob the Happy Bastar                 ... pos = 1.0   	neg = 0.0  
+1. Could it be?                         ... pos = 0.0   	neg = 0.125
+2. That's the case with                 ... pos = 0.0   	neg = 0.375
+3. This time around, he                 ... pos = 0.0   	neg = 0.125
+4. Then, by a stroke of                 ... pos = 0.625 	neg = 0.125
+5. After all, what's th                 ... pos = 0.0   	neg = 0.625
+6. The movie unfolds ov                 ... pos = 0.5   	neg = 0.25 
+7. Soon, his honesty, a                 ... pos = 1.125 	neg = 0.375
+8. It's hard to label B                 ... pos = 0.0   	neg = 0.75 
+9. It's absolutely hila                 ... pos = 0.5   	neg = 0.25 
+10. I guess you could of                ... pos = 0.0   	neg = 0.25 
+11. Beatty is great as t                ... pos = 0.875 	neg = 0.5  
+12. He also presents a v                ... pos = 1.125 	neg = 0.25 
+13. Platt, again, is ver                ... pos = 0.5   	neg = 0.25 
+14. Halle Berry also sup                ... pos = 0.0   	neg = 0.375
+15. Beatty directs with                 ... pos = 0.75  	neg = 0.0  
+16. It's not a relaxed p                ... pos = 0.25  	neg = 0.0  
+17. Some parts of the mo                ... pos = 2.125 	neg = 0.25 
+18. Will it change the w                ... pos = 0.125 	neg = 0    
+19. No.                                 ... pos = 0     	neg = 0.25 
+20. Is it one of Beatty'                ... pos = 0.5   	neg = 0.125
+21. Yep.                                ... pos = 0     	neg = 0    
+22. It's just a riot to                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1840-1292 is Positive        ... pos = 10.0  	neg = 5.25 
+Overall score of document
+Total Pos = 10.0
+Total Neg = 5.25
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. Cast: Tommy Lee Jone                 ... pos = 0.25  	neg = 0.0  
+1. Tommy Lee Jones retu                 ... pos = 0.125 	neg = 0.125
+2. Snipes plays an ex-g                 ... pos = 0.75  	neg = 0.125
+3. U.S.                                 ... pos = 0.0   	neg = 0    
+4. Marshals is nowhere                  ... pos = 0.875 	neg = 0.375
+5. I mean, a government                 ... pos = 0.0   	neg = 0.0  
+6. You mean there may b                 ... pos = 0.75  	neg = 0.125
+7. Also, all attempts t                 ... pos = 0.125 	neg = 0.0  
+8. For example, the tra                 ... pos = 0.375 	neg = 0.0  
+9. And despite the fact                 ... pos = 1.5   	neg = 0.125
+10. Several times he is                 ... pos = 0.5   	neg = 0.125
+11. Harrison Ford's char                ... pos = 0.875 	neg = 0.125
+12. We're supposed to li                ... pos = 0.0   	neg = 0.5  
+13. The film certainly i                ... pos = 0.25  	neg = 0.0  
+14. The direction is goo                ... pos = 0.75  	neg = 0.375
+15. Also, the dialogue b                ... pos = 0.75  	neg = 0.25 
+16. If anything, U.S.                   ... pos = 0.0   	neg = 0    
+17. Marshals will remain                ... pos = 0.5   	neg = 0.0  
+18. It's definitely a si                ... pos = 1.0   	neg = 0.125
+19. [PG-13]. The Jackson                ... pos = 0.0   	neg = 0.0  
+20. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5482-515 is Positive         ... pos = 9.625 	neg = 2.75 
+Overall score of document
+Total Pos = 9.625
+Total Neg = 2.75
+---------------------------------------------------------------------------

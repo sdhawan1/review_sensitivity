@@ -1,0 +1,26 @@
+0. Apt Pupil: Brad Renf                 ... pos = 0.375 	neg = 0.125
+1. The teacher reminds                  ... pos = 0.125 	neg = 0.125
+2. Instead, Brad Renfro                 ... pos = 0.25  	neg = 0.0  
+3. Renfro is Todd Bowde                 ... pos = 0.0   	neg = 0.125
+4. Using    leaps of lo                 ... pos = 0.125 	neg = 0.5  
+5. For some reason, ins                 ... pos = 0.0   	neg = 0.0  
+6. "Tell me what the sc                 ... pos = 0.25  	neg = 0.0  
+7. As Dussander's tales                 ... pos = 0.25  	neg = 0.0  
+8. Then he grows truly                  ... pos = 0.625 	neg = 0.0  
+9. Based on a novella b                 ... pos = 0.5   	neg = 0.0  
+10. King's story, and th                ... pos = 0.625 	neg = 0.875
+11. McKellan, winner of                 ... pos = 0.75  	neg = 1.375
+12. And the supporting c                ... pos = 0.375 	neg = 0.125
+13. Renfro, however, is                 ... pos = 0.125 	neg = 0.875
+14. His character seems                 ... pos = 1.875 	neg = 0.375
+15. This lapse is inexcu                ... pos = 0.875 	neg = 0.75 
+16. We should be mournin                ... pos = 0.375 	neg = 0.125
+17. Few would argue that                ... pos = 1.0   	neg = 0.125
+18. Last weekend though,                ... pos = 0.75  	neg = 1.778
+19. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6008-133 is Positive         ... pos = 9.25  	neg = 7.278
+Overall score of document
+Total Pos = 9.25
+Total Neg = 7.278
+---------------------------------------------------------------------------

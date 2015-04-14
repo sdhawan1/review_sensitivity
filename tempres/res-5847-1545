@@ -1,0 +1,26 @@
+0. THE TRUMAN SHOW ***1                 ... pos = 0.125 	neg = 0.0  
+1. Come visit this trai                 ... pos = 1.0   	neg = 0.5  
+2. ). starring Jim Carr                 ... pos = 0.5   	neg = 0.125
+3. In The Truman Show,                  ... pos = 0.5   	neg = 0.0  
+4. It certainly helps t                 ... pos = 1.375 	neg = 0.0  
+5. By now you must be a                 ... pos = 1.614 	neg = 0.875
+6. `Seahaven', his home                 ... pos = 0.625 	neg = 0.5  
+7. For 30 years, Truman                 ... pos = 2.375 	neg = 0.5  
+8. Thus, Christof and h                 ... pos = 0.5   	neg = 0.75 
+9. In a few broad strok                 ... pos = 0.875 	neg = 0.0  
+10. This allows us to co                ... pos = 0.375 	neg = 0    
+11. For all his madness,                ... pos = 0.5   	neg = 0.0  
+12. Truman is an inspira                ... pos = 0.5   	neg = 0.75 
+13. The surrealistic soa                ... pos = 1.625 	neg = 0.25 
+14. Cinematically, The T                ... pos = 0.125 	neg = 0.125
+15. As well, it employs                 ... pos = 0.625 	neg = 0    
+16. If the film has any                 ... pos = 1.625 	neg = 0.0  
+17. There are a few stup                ... pos = 2.0   	neg = 0.625
+18. They wear buttons as                ... pos = 0.0   	neg = 0.0  
+19. ' I couldn't wait to                ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5847-1545 is Positive        ... pos = 17.114 	neg = 5.25 
+Overall score of document
+Total Pos = 17.114
+Total Neg = 5.25
+---------------------------------------------------------------------------

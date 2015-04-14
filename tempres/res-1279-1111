@@ -1,0 +1,26 @@
+0. There's a thin line                  ... pos = 1.0   	neg = 0.375
+1. Based on the book wr                 ... pos = 0.0   	neg = 0.0  
+2. But he doesn't  actu                 ... pos = 0.0   	neg = 0.0  
+3. He plays Bill Clinto                 ... pos = 0.25  	neg = 0.375
+4. The film is taken fr                 ... pos = 1.0   	neg = 0.125
+5. He searches for  jus                 ... pos = 1.5   	neg = 0.25 
+6. Richard Jemmons (Bil                 ... pos = 0.0   	neg = 0.0  
+7. Together they face a                 ... pos = 1.625 	neg = 0.125
+8. In its satire and co                 ... pos = 1.5   	neg = 1.0  
+9. But whereas  Wag sho                 ... pos = 3.5   	neg = 0.25 
+10. Seeing John Travolta                ... pos = 1.0   	neg = 0.125
+11. And the rest of the                 ... pos = 1.75  	neg = 0.125
+12. At occasions, you ca                ... pos = 1.375 	neg = 0.0  
+13. There are long slabs                ... pos = 0.375 	neg = 0.875
+14. Having said that, ma                ... pos = 0.625 	neg = 1.0  
+15. But frequently we ha                ... pos = 0.375 	neg = 0.0  
+16. Most of the first ha                ... pos = 1.489 	neg = 0.125
+17. But as I mentioned b                ... pos = 0.5   	neg = 0.5  
+18. Although at occasion                ... pos = 1.625 	neg = 0.75 
+19. Thankfully, it is cl                ... pos = 0.625 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-1279-1111 is Positive        ... pos = 20.114 	neg = 7.125
+Overall score of document
+Total Pos = 20.114
+Total Neg = 7.125
+---------------------------------------------------------------------------

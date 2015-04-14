@@ -1,0 +1,71 @@
+0. give me a buzz on th                 ... pos = 0.75  	neg = 0.125
+1. The Hollywood icon f                 ... pos = 0.75  	neg = 0.0  
+2. Those first two film                 ... pos = 0.625 	neg = 0.0  
+3. So it's safe to say                  ... pos = 0.0   	neg = 0.0  
+4. The decade ends with                 ... pos = 0.125 	neg = 0.0  
+5. Not quite a top-notc                 ... pos = 0.25  	neg = 0.125
+6. Eastwood stars as St                 ... pos = 0.625 	neg = 0.5  
+7. To give this movie a                 ... pos = 2.125 	neg = 0.125
+8. He's a recovering al                 ... pos = 0.0   	neg = 0.0  
+9. Despite having a won                 ... pos = 2.125 	neg = 0.25 
+10. Basically, he's a re                ... pos = 0.0   	neg = 0.25 
+11. And he's a person wh                ... pos = 0.0   	neg = 0.0  
+12. After all, Everett r                ... pos = 0.375 	neg = 0.0  
+13. Eastwood plays this                 ... pos = 1.625 	neg = 0.5  
+14. Everett is rumbling                 ... pos = 0.375 	neg = 0.625
+15. After that young rep                ... pos = 0.0   	neg = 0.125
+16. Beachum is scheduled                ... pos = 0.0   	neg = 0.25 
+17. Editor Bob Findley (                ... pos = 0.0   	neg = 0.0  
+18. He gives the assignm                ... pos = 0.125 	neg = 0.875
+19. And going against or                ... pos = 0.0   	neg = 0.75 
+20. On his odyssey of fa                ... pos = 0.5   	neg = 0.375
+21. Meanwhile, Beachum s                ... pos = 0.75  	neg = 0.375
+22. He claims he's innoc                ... pos = 0.25  	neg = 0.0  
+23. In fact, only Everet                ... pos = 0.125 	neg = 0.25 
+24. It's old news to mos                ... pos = 0.0   	neg = 0.0  
+25. Everett's snooping r                ... pos = 0.25  	neg = 0.125
+26. His only task is to                 ... pos = 0.0   	neg = 0.125
+27. In a bubble-gum, car                ... pos = 0.0   	neg = 0.0  
+28. "True Crime" is a ma                ... pos = 0.0   	neg = 0.125
+29. It tugs at the heart                ... pos = 0.0   	neg = 0.5  
+30. It makes us like Eve                ... pos = 0.25  	neg = 0.375
+31. Even the prison empl                ... pos = 0.75  	neg = 0.25 
+32. The most obvious hea                ... pos = 0.0   	neg = 0.125
+33. Who can resist such                 ... pos = 0.125 	neg = 0.0  
+34. These young girls pr                ... pos = 0.0   	neg = 0.125
+35. So the manipulating                 ... pos = 1.875 	neg = 0.375
+36. The script is solid,                ... pos = 0.0   	neg = 0.125
+37. It provides a good a                ... pos = 0.75  	neg = 0.0  
+38. Also, we get a small                ... pos = 0.125 	neg = 0.0  
+39. James Woods plays th                ... pos = 0.625 	neg = 0.0  
+40. He's got the best li                ... pos = 0.375 	neg = 0.0  
+41. The only major contr                ... pos = 0.0   	neg = 0.5  
+42. He may be a good rep                ... pos = 1.75  	neg = 0.25 
+43. I can't reveal an ev                ... pos = 0.0   	neg = 0.125
+44. Still, the script de                ... pos = 1.125 	neg = 0.125
+45. Call this a day-in-t                ... pos = 0.0   	neg = 0.0  
+46. Eastwood's direction                ... pos = 0.0   	neg = 0.375
+47. It's verrrrry delibe                ... pos = 0.875 	neg = 0.0  
+48. It's a long 2 hours                 ... pos = 0.375 	neg = 0.375
+49. Perhaps an extra few                ... pos = 1.375 	neg = 0.0  
+50. This is notable beca                ... pos = 0.0   	neg = 0.125
+51. It's also ironic tha                ... pos = 0.5   	neg = 0.125
+52. Since "True Crime" i                ... pos = 0.5   	neg = 0.125
+53. I predicted the fina                ... pos = 0.0   	neg = 0.0  
+54. It's a thinking man'                ... pos = 0.0   	neg = 0.0  
+55. Along with some soci                ... pos = 0.125 	neg = 0.0  
+56. Eastwood should also                ... pos = 0.0   	neg = 0.125
+57. Isaiah Washington is                ... pos = 0.25  	neg = 0.125
+58. Ultimately, the fina                ... pos = 1.0   	neg = 0.0  
+59. "True Crime" is a so                ... pos = 0.0   	neg = 0.25 
+60. USELESS TRIVIA--Clin                ... pos = 0.0   	neg = 0.75 
+61. The adorable girl's                 ... pos = 0.5   	neg = 0.125
+62. Mother Fisher appear                ... pos = 0.0   	neg = 0.0  
+63. Make the connection.                ... pos = 0.0   	neg = 0.0  
+64. THE RYAN RATING SYST                ... pos = 2.5   	neg = 1.375
+---------------------------------------------------------------------------
+./temp/tmp-5485-1158 is Positive        ... pos = 27.5  	neg = 12.625
+Overall score of document
+Total Pos = 27.5
+Total Neg = 12.625
+---------------------------------------------------------------------------

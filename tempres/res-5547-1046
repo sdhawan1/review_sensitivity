@@ -1,0 +1,37 @@
+0. CAPSULE: Entertainin                 ... pos = 0.125 	neg = 0.625
+1. Expensive, and it sh                 ... pos = 0.0   	neg = 0.25 
+2. There are so many go                 ... pos = 2.0   	neg = 0.125
+3. On the plus side of                  ... pos = 0.5   	neg = 0.0  
+4. On the minus side, a                 ... pos = 0.0   	neg = 0.125
+5. A very silly story.                  ... pos = 0.5   	neg = 0.125
+6. In the abstract, ELE                 ... pos = 0.125 	neg = 0.125
+7. It moves fast and al                 ... pos = 1.375 	neg = 0.0  
+8. But there are limits                 ... pos = 0.25  	neg = 0.0  
+9. The movie has been (                 ... pos = 0.875 	neg = 0.25 
+10. ELEMENT is mostly a                 ... pos = 1.0   	neg = 0.75 
+11. The mega-cities are                 ... pos = 0.375 	neg = 0.25 
+12. Maybe that's deliber                ... pos = 0.625 	neg = 0.25 
+13. The movie opens at t                ... pos = 0.625 	neg = 0.125
+14. Much mystical mumbo-                ... pos = 0.125 	neg = 0.125
+15. Flash-forward to 300                ... pos = 0.875 	neg = 0.125
+16. The rest of the plot                ... pos = 0.0   	neg = 1.25 
+17. I mentioned that thi                ... pos = 0.5   	neg = 0.125
+18. ELEMENT is only SF b                ... pos = 0.0   	neg = 0.75 
+19. But just because it'                ... pos = 0.125 	neg = 0.25 
+20. The movie has an inc                ... pos = 0.625 	neg = 0.625
+21. Most surprising is M                ... pos = 0.125 	neg = 0.125
+22. She's given the inte                ... pos = 2.875 	neg = 0.0  
+23. There is also a touc                ... pos = 0.375 	neg = 0.25 
+24. I wish some of this                 ... pos = 0.375 	neg = 0.75 
+25. Also good is Gary Ol                ... pos = 1.0   	neg = 0.25 
+26. ELEMENT is bound to                 ... pos = 0.375 	neg = 0.25 
+27. It wants to entertai                ... pos = 0.375 	neg = 0.375
+28. It succeeds in both                 ... pos = 0.875 	neg = 0    
+29. Watch it in a theate                ... pos = 0.875 	neg = 0.0  
+30. Sometimes, though, I                ... pos = 0.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5547-1046 is Positive        ... pos = 18.125 	neg = 8.875
+Overall score of document
+Total Pos = 18.125
+Total Neg = 8.875
+---------------------------------------------------------------------------

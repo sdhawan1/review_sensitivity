@@ -1,0 +1,48 @@
+0. **1/2 (out of 4) The                 ... pos = 0.0   	neg = 0.0  
+1. But in the meantime,                 ... pos = 0.5   	neg = 0.0  
+2. And these are the ru                 ... pos = 0.25  	neg = 0.0  
+3. THE CIDER HOUSE RULE                 ... pos = 0.0   	neg = 0.125
+4. It follows Homer Wel                 ... pos = 0.0   	neg = 0.125
+5. The orphanage's doct                 ... pos = 0.5   	neg = 0.125
+6. Under his tutelage H                 ... pos = 0.25  	neg = 0.0  
+7. Dr. Larch is relieve                 ... pos = 0.5   	neg = 0.25 
+8. (Dr. Larch is willin                 ... pos = 0.25  	neg = 0.125
+9. But Homer has other                  ... pos = 0.0   	neg = 0.0  
+10. He's lived his whole                ... pos = 0.125 	neg = 0.0  
+11. Besides, he's not wi                ... pos = 0.0   	neg = 0.0  
+12. Eventually, Homer fi                ... pos = 0.0   	neg = 0    
+13. He takes the first j                ... pos = 0.125 	neg = 0.0  
+14. He starts a complica                ... pos = 1.875 	neg = 0.125
+15. THE CIDER HOUSE RULE                ... pos = 0.625 	neg = 0.125
+16. The characters are g                ... pos = 3.25  	neg = 0.875
+17. The characters addre                ... pos = 2.0   	neg = 0.0  
+18. There's a lot going                 ... pos = 0.0   	neg = 0.0  
+19. But the movie takes                 ... pos = 0.125 	neg = 0.25 
+20. The life in the orph                ... pos = 0.625 	neg = 0.0  
+21. Maybe 45 minutes of                 ... pos = 0.875 	neg = 0.0  
+22. But after Homer leav                ... pos = 1.25  	neg = 0.0  
+23. To Irving (and to Ho                ... pos = 1.125 	neg = 0    
+24. But on film, the Y-s                ... pos = 0.125 	neg = 0.0  
+25. Similarly, the film                 ... pos = 0.125 	neg = 0.0  
+26. Its message is soft                 ... pos = 0.0   	neg = 0.875
+27. Instead of jolting y                ... pos = 0.75  	neg = 0.0  
+28. It brings up hard is                ... pos = 0.25  	neg = 1.375
+29. In itself this is no                ... pos = 0.75  	neg = 0.75 
+30. But these points cou                ... pos = 0.375 	neg = 0.0  
+31. For instance, you mi                ... pos = 1.0   	neg = 0.75 
+32. For me, I wish the m                ... pos = 0.0   	neg = 0.375
+33. Still, I enjoyed it                 ... pos = 0.375 	neg = 0.0  
+34. I was won over by th                ... pos = 1.375 	neg = 0.125
+35. Nobody had a mean st                ... pos = 0.125 	neg = 0.0  
+36. Nobody was the villa                ... pos = 0     	neg = 0.5  
+37. The people who cause                ... pos = 0.0   	neg = 1.5  
+38. Irving and Hallstrom                ... pos = 0.5   	neg = 0.625
+39. "Have you ever heard                ... pos = 0.0   	neg = 0.0  
+40. " "Certainly, I play                ... pos = 0.0   	neg = 0.0  
+41. ), Unfaithfully Your                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-607-1008 is Positive         ... pos = 20.0  	neg = 9.0  
+Overall score of document
+Total Pos = 20.0
+Total Neg = 9.0
+---------------------------------------------------------------------------

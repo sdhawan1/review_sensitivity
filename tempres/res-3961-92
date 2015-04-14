@@ -1,0 +1,40 @@
+0. Seen on 25 November                  ... pos = 0.0   	neg = 0.375
+1. So the viewer can on                 ... pos = 1.375 	neg = 0.25 
+2. Director Shekhar Kap                 ... pos = 0.375 	neg = 0.0  
+3. It's a wise choice,                  ... pos = 0.125 	neg = 0.125
+4. (Indeed, it took six                 ... pos = 0.125 	neg = 0.0  
+5. ). This period in En                 ... pos = 1.0   	neg = 0.25 
+6. By the time she is c                 ... pos = 0.0   	neg = 0.875
+7. The movie begins in                  ... pos = 0.0   	neg = 0.125
+8. She is also busily b                 ... pos = 0.0   	neg = 0.125
+9. Legally, Elizabeth m                 ... pos = 0.5   	neg = 0    
+10. She does, but her co                ... pos = 0.25  	neg = 0.125
+11. Just about everyone                 ... pos = 0.0   	neg = 0.0  
+12. One agenda that is n                ... pos = 0.25  	neg = 0.25 
+13. They underestimate h                ... pos = 0.0   	neg = 0.75 
+14. Elizabeth is forced                 ... pos = 0.5   	neg = 0.125
+15. Cate Blanchett moves                ... pos = 1.125 	neg = 0.0  
+16. Her joyful radiant P                ... pos = 0.625 	neg = 0.125
+17. Robert Dudley (Josep                ... pos = 0.0   	neg = 0.375
+18. He is clearly jealou                ... pos = 1.25  	neg = 0.125
+19. Meanwhile, Alvaro de                ... pos = 0.125 	neg = 0.125
+20. The venemous Duke of                ... pos = 1.347 	neg = 0.5  
+21. " . Meanwhile up in                 ... pos = 0.625 	neg = 0.5  
+22. Sometimes it seems l                ... pos = 0.0   	neg = 0.25 
+23. But you know what?                  ... pos = 0     	neg = 0.0  
+24. You can never be com                ... pos = 0.25  	neg = 0.125
+25. Neither can she.                    ... pos = 0     	neg = 0.25 
+26. Elizabeth is rewardi                ... pos = 0.125 	neg = 0.125
+27. Cate Blanchett (of O                ... pos = 1.25  	neg = 0.0  
+28. Director Shakur does                ... pos = 0.75  	neg = 1.5  
+29. Shakur uses skillful                ... pos = 0.875 	neg = 0.0  
+30. Two scenes to watch                 ... pos = 0.125 	neg = 0.0  
+31. Also starring Richar                ... pos = 0.0   	neg = 0.0  
+32. Costume Design by  A                ... pos = 0.0   	neg = 0.0  
+33. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3961-92 is Positive          ... pos = 12.972 	neg = 7.5  
+Overall score of document
+Total Pos = 12.972
+Total Neg = 7.5
+---------------------------------------------------------------------------

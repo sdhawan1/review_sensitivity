@@ -1,0 +1,33 @@
+0. David Lynch is a gre                 ... pos = 0.0   	neg = 0.25 
+1. Lynch continues to p                 ... pos = 0.625 	neg = 0.25 
+2. This is the kind of                  ... pos = 0.25  	neg = 0.375
+3. This film doesn't fo                 ... pos = 0.625 	neg = 0.0  
+4. This film is also a                  ... pos = 0.25  	neg = 0.125
+5. We get the setup of                  ... pos = 0.25  	neg = 0.0  
+6. The first twenty min                 ... pos = 1.625 	neg = 0.0  
+7. Then the movie chang                 ... pos = 0.375 	neg = 0.125
+8. Is this the same lad                 ... pos = 0.0   	neg = 0.125
+9. What is going on her                 ... pos = 0     	neg = 0.125
+10. The more the film go                ... pos = 0.0   	neg = 0.375
+11. After a while the fi                ... pos = 0.125 	neg = 0.375
+12. The direction is ver                ... pos = 1.25  	neg = 0.25 
+13. The actors are force                ... pos = 1.125 	neg = 0.0  
+14. It seems like Lynch                 ... pos = 0.125 	neg = 0.25 
+15. It you are not distu                ... pos = 0.625 	neg = 0.25 
+16. Instead of Rossilini                ... pos = 0.25  	neg = 0.0  
+17. She ends up with not                ... pos = 0.5   	neg = 0.0  
+18. I wonder if Lynch ha                ... pos = 0.0   	neg = 0.125
+19. Does he find humilia                ... pos = 0.25  	neg = 0.125
+20. You may get the answ                ... pos = 0.0   	neg = 0.25 
+21. In that film we get                 ... pos = 0.0   	neg = 0.5  
+22. She says that one of                ... pos = 0.375 	neg = 0.625
+23. More importantly, in                ... pos = 0.125 	neg = 0.375
+24. He loves dark images                ... pos = 1.0   	neg = 0.125
+25. I am highly recomedi                ... pos = 0.75  	neg = 0.125
+26. Often critics call f                ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5865-1338 is Positive        ... pos = 11.25 	neg = 5.375
+Overall score of document
+Total Pos = 11.25
+Total Neg = 5.375
+---------------------------------------------------------------------------

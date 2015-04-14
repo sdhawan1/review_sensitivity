@@ -1,0 +1,48 @@
+0. Visit Online Film Cr                 ... pos = 0.125 	neg = 0.125
+1. Yes, pink is the  co                 ... pos = 0.0   	neg = 0.5  
+2. And we are reminded                  ... pos = 1.0   	neg = 0.375
+3. Its story begins out                 ... pos = 0.0   	neg = 0.0  
+4. Professor Calvin Web                 ... pos = 0.0   	neg = 0.75 
+5. As the Cuban missile                 ... pos = 0.375 	neg = 1.0  
+6. The plot gimmick tha                 ... pos = 0.25  	neg = 0.875
+7. Convinced a holocaus                 ... pos = 2.0   	neg = 0.125
+8. Of course we have se                 ... pos = 0.0   	neg = 0.0  
+9. Think of Marty McFly                 ... pos = 0.0   	neg = 0.25 
+10. Even Brendan Fraser                 ... pos = 0.0   	neg = 0.125
+11. But the filmmakers k                ... pos = 0.875 	neg = 0.0  
+12. In its own way, the                 ... pos = 0.75  	neg = 0.0  
+13. What is puzzling abo                ... pos = 2.375 	neg = 0.75 
+14. (It's ironic  that w                ... pos = 0.5   	neg = 0.375
+15. )  Yet the formula w                ... pos = 1.5   	neg = 0.375
+16. When Adam must  vent                ... pos = 1.375 	neg = 0.75 
+17. Brendan Fraser turns                ... pos = 0.0   	neg = 0    
+18. Indeed the movie mil                ... pos = 0.5   	neg = 0.375
+19. We know that his cha                ... pos = 2.625 	neg = 0.625
+20. Fraser is at his bes                ... pos = 0.75  	neg = 0.75 
+21. He's likable  all th                ... pos = 0.75  	neg = 0.0  
+22. Alicia Silverstone i                ... pos = 0.625 	neg = 0.125
+23. '  Why is her perfor                ... pos = 0.75  	neg = 0.125
+24. Because  Silverstone                ... pos = 1.25  	neg = 0.0  
+25. This young actress h                ... pos = 0.125 	neg = 0.25 
+26. Christopher Walken c                ... pos = 0.0   	neg = 0.0  
+27. We care about Calvin                ... pos = 0.875 	neg = 0.0  
+28. Sissy Spacek is unde                ... pos = 0.125 	neg = 0.125
+29. Mrs. Weber walks out                ... pos = 0.0   	neg = 0.0  
+30. Set design is tricky                ... pos = 0.0   	neg = 0.875
+31. Most memorable is th                ... pos = 1.375 	neg = 0.125
+32. A hilarious  sight g                ... pos = 0.25  	neg = 0.0  
+33. Directly above the W                ... pos = 1.0   	neg = 0.375
+34. The mantra the grung                ... pos = 0.0   	neg = 0.875
+35. The score brims with                ... pos = 0.125 	neg = 0.0  
+36. Over the closing cre                ... pos = 0.0   	neg = 0.0  
+37. Aren't we getting a                 ... pos = 0.0   	neg = 0.0  
+38. 'Blast from the Past                ... pos = 1.125 	neg = 0.125
+39. Unfortunately it has                ... pos = 0.0   	neg = 1.125
+40. Why,  Mr. Wilson, co                ... pos = 0.125 	neg = 0.125
+41. It's not a must-see,                ... pos = 0.75  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-533-71 is Positive           ... pos = 24.25 	neg = 12.875
+Overall score of document
+Total Pos = 24.25
+Total Neg = 12.875
+---------------------------------------------------------------------------

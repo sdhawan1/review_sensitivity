@@ -1,0 +1,31 @@
+0. Review by Scott Hunt                 ... pos = 0.0   	neg = 0.0  
+1. Visit me at Movie Hu                 ... pos = 2.375 	neg = 0.0  
+2. It's true beauty com                 ... pos = 1.625 	neg = 0.0  
+3. Anna (Jodie Foster)                  ... pos = 0.5   	neg = 0.625
+4. With son in tow, she                 ... pos = 0.125 	neg = 0.0  
+5. Mongkut sees the str                 ... pos = 0.5   	neg = 0.0  
+6. Anna function is to                  ... pos = 0.0   	neg = 0.125
+7. The core of the film                 ... pos = 0.625 	neg = 0.0  
+8. Foster plays Anna wi                 ... pos = 0.125 	neg = 0.0  
+9. She is assertive, ye                 ... pos = 1.875 	neg = 0.625
+10. It is one of Foster'                ... pos = 0.5   	neg = 0.125
+11. She brings a mature                 ... pos = 0.625 	neg = 0.5  
+12. It's a joy to watch                 ... pos = 1.0   	neg = 0.375
+13. When she makes her e                ... pos = 0.75  	neg = 0.125
+14. Chow-Yun Fat's King                 ... pos = 0.125 	neg = 0.5  
+15. This is the Chow Yun                ... pos = 0.625 	neg = 0.25 
+16. He is imposing, yet                 ... pos = 1.25  	neg = 0.125
+17. It is an impressivel                ... pos = 0.875 	neg = 0.125
+18. Precious time is sto                ... pos = 0.625 	neg = 0.375
+19. It strikes with the                 ... pos = 0.0   	neg = 0.625
+20. Some may be put off                 ... pos = 0.0   	neg = 0.75 
+21. Although a bit incon                ... pos = 0.875 	neg = 0.25 
+22. Anna and the King tr                ... pos = 1.125 	neg = 0.0  
+23. It shows a seduction                ... pos = 0.375 	neg = 0.0  
+24. Ever mindful of each                ... pos = 1.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1867-1217 is Positive        ... pos = 18.25 	neg = 5.5  
+Overall score of document
+Total Pos = 18.25
+Total Neg = 5.5
+---------------------------------------------------------------------------

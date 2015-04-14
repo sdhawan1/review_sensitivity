@@ -1,0 +1,58 @@
+0. ID4 is a movie with                  ... pos = 0.0   	neg = 0.125
+1. It has a large cast                  ... pos = 0.875 	neg = 0.0  
+2. The plot is basic an                 ... pos = 0.125 	neg = 0.125
+3. The movie starts wit                 ... pos = 0.0   	neg = 0.125
+4. The first half-hour                  ... pos = 0.25  	neg = 0.125
+5. Then things start ge                 ... pos = 0.0   	neg = 0.875
+6. The plot is thin, bu                 ... pos = 0.0   	neg = 0.125
+7. Before humanity is c                 ... pos = 0.5   	neg = 0.125
+8. Seemingly, we don't                  ... pos = 1.0   	neg = 0.0  
+9. The Alien ships are                  ... pos = 0.5   	neg = 0.0  
+10. It's going to be tou                ... pos = 0.0   	neg = 0.125
+11. Bill Pullman plays t                ... pos = 2.125 	neg = 0.125
+12. A man of honor and e                ... pos = 0.875 	neg = 0    
+13. Basically, he plays                 ... pos = 0.0   	neg = 0.125
+14. That said, he's a co                ... pos = 1.125 	neg = 0.0  
+15. He gets the audience                ... pos = 0.25  	neg = 0.125
+16. He send the vice-pre                ... pos = 0.0   	neg = 0    
+17. Of course, we've see                ... pos = 0.0   	neg = 0.0  
+18. But while it could h                ... pos = 0.0   	neg = 0.625
+19. It gives the movie a                ... pos = 0.25  	neg = 0.375
+20. It's still mostly th                ... pos = 0.0   	neg = 0.125
+21. One of the things I                 ... pos = 0.375 	neg = 0.625
+22. Yes, it's an America                ... pos = 0.25  	neg = 0.0  
+23. And though we don't                 ... pos = 0.25  	neg = 0.375
+24. There are many nice                 ... pos = 0.25  	neg = 0.0  
+25. Look for Randy Quaid                ... pos = 0.125 	neg = 1.0  
+26. You'll know it when                 ... pos = 0.0   	neg = 0.0  
+27. Performances are sol                ... pos = 0.25  	neg = 0.0  
+28. Some of the highligh                ... pos = 0.75  	neg = 0.125
+29. Pullman, Goldblum, a                ... pos = 0.0   	neg = 0.0  
+30. It is easy to dismis                ... pos = 0.25  	neg = 0.25 
+31. "  But I would remin                ... pos = 0.25  	neg = 0.0  
+32. HUDSON HAWK.                        ... pos = 0     	neg = 0.0  
+33. THE LAST ACTION HERO                ... pos = 0.5   	neg = 0.0  
+34. BEVERLY HILLS COP II                ... pos = 0.0   	neg = 0.25 
+35. TANGO AND CASH.                     ... pos = 0     	neg = 0.0  
+36. DIE HARD II.                        ... pos = 0.0   	neg = 0.75 
+37. Get the point?                      ... pos = 0     	neg = 0.0  
+38. While this may not b                ... pos = 0.375 	neg = 0.375
+39. It is very entertain                ... pos = 0.625 	neg = 0.125
+40. And the effects.                    ... pos = 0     	neg = 0.25 
+41. I haven't even menti                ... pos = 0.0   	neg = 0.375
+42. Still, what is there                ... pos = 0.0   	neg = 0.125
+43. We live in a time wh                ... pos = 1.25  	neg = 0.875
+44. They are not poorly                 ... pos = 0.25  	neg = 0.625
+45. They are spectacular                ... pos = 0.375 	neg = 0    
+46. The most impressive                 ... pos = 0.5   	neg = 0.25 
+47. See it, it is the be                ... pos = 0.375 	neg = 0.125
+48. Better, even, than T                ... pos = 0.5   	neg = 0.0  
+49. Distribution of this                ... pos = 0.0   	neg = 0.0  
+50. Microsoft may licens                ... pos = 0.0   	neg = 0.0  
+51. -- kreme@cerebus.kre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4487-523 is Positive         ... pos = 15.375 	neg = 9.75 
+Overall score of document
+Total Pos = 15.375
+Total Neg = 9.75
+---------------------------------------------------------------------------

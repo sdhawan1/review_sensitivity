@@ -1,0 +1,48 @@
+0. "Blast From the Past                 ... pos = 0.625 	neg = 1.0  
+1. "Blast From the Past                 ... pos = 0.375 	neg = 0.625
+2. Or at the very least                 ... pos = 0.5   	neg = 0.0  
+3. The tale itself cert                 ... pos = 0.25  	neg = 0.0  
+4. In 1962, as the Cold                 ... pos = 1.25  	neg = 0.0  
+5. When the Cuban Missi                 ... pos = 0.375 	neg = 0.0  
+6. At that moment, a pl                 ... pos = 0.0   	neg = 0.0  
+7. Calvin, detecting th                 ... pos = 0.625 	neg = 0.125
+8. Since the half-life                  ... pos = 0.5   	neg = 0.625
+9. Their son Adam is bo                 ... pos = 0.0   	neg = 0.125
+10. Lovingly raised in t                ... pos = 2.25  	neg = 0.5  
+11. On his thirty-fifth                 ... pos = 0.125 	neg = 0.125
+12. "  And with these wo                ... pos = 0.125 	neg = 0.125
+13. The problems begin w                ... pos = 0     	neg = 0.25 
+14. The film's first-act                ... pos = 0.375 	neg = 0.5  
+15. And the second-bille                ... pos = 0.625 	neg = 1.0  
+16. Although Adam's adve                ... pos = 0.75  	neg = 0.75 
+17. Rather than giving u                ... pos = 1.0   	neg = 0.75 
+18. (An example: Adam ha                ... pos = 1.0   	neg = 0.375
+19. " Immediately we kno                ... pos = 0.125 	neg = 0.625
+20. ).         There are                ... pos = 2.125 	neg = 0.0  
+21. Had the film concent                ... pos = 0.625 	neg = 0.625
+22. But these details ar                ... pos = 1.125 	neg = 0.125
+23. After he gets lost i                ... pos = 0.375 	neg = 0.0  
+24. And when he sleeps a                ... pos = 0.125 	neg = 0.0  
+25. After all, this is h                ... pos = 0.125 	neg = 0.125
+26. (In its defense, the                ... pos = 1.25  	neg = 0.5  
+27. ).         The names                ... pos = 3.25  	neg = 0.0  
+28. But even without the                ... pos = 0.25  	neg = 2.125
+29. Cue the "happily eve                ... pos = 0.0   	neg = 0.0  
+30. "Blast From the Past                ... pos = 0.625 	neg = 0.0  
+31. (Fraser has experien                ... pos = 0.25  	neg = 0.0  
+32. ")  His effervescent                ... pos = 0.0   	neg = 0.875
+33. That the film is as                 ... pos = 0.375 	neg = 1.125
+34. The always entertain                ... pos = 0.25  	neg = 0.0  
+35. But Sissy Spacek fee                ... pos = 0.375 	neg = 0.25 
+36. Come to think of it,                ... pos = 0.0   	neg = 0.125
+37. It's a shame that th                ... pos = 0.25  	neg = 0.875
+38. A character study ab                ... pos = 1.25  	neg = 1.125
+39. This story deserved                 ... pos = 0.75  	neg = 0.0  
+40. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+41. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-533-216 is Positive          ... pos = 24.875 	neg = 15.5 
+Overall score of document
+Total Pos = 24.875
+Total Neg = 15.5
+---------------------------------------------------------------------------

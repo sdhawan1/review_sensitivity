@@ -1,0 +1,30 @@
+0. Starring Cameron Dia                 ... pos = 0.625 	neg = 0.125
+1. It is also one of th                 ... pos = 0.625 	neg = 0.125
+2. A fair warning to al                 ... pos = 0.625 	neg = 0.0  
+3. Some of the scenes i                 ... pos = 0.0   	neg = 0.875
+4. Mary centers on a on                 ... pos = 1.25  	neg = 0.125
+5. He enlists a sleazy                  ... pos = 0.0   	neg = 0.0  
+6. This is the story of                 ... pos = 0.875 	neg = 0.625
+7. That is a major simp                 ... pos = 0.0   	neg = 0.125
+8. All right, maybe jus                 ... pos = 0.0   	neg = 0.25 
+9. Stiller sends Dillon                 ... pos = 0.0   	neg = 0.25 
+10. (I.e., whether she i                ... pos = 0.0   	neg = 0.125
+11. ) When Dillon's char                ... pos = 1.5   	neg = 0.5  
+12. So it then becomes a                ... pos = 0.75  	neg = 0.0  
+13. (My guess is that th                ... pos = 0.25  	neg = 0.375
+14. ). The jokes are non                ... pos = 0.625 	neg = 0.375
+15. I guarantee you that                ... pos = 0.625 	neg = 0.0  
+16. They will surely edi                ... pos = 1.0   	neg = 0.25 
+17. Every performance in                ... pos = 0.0   	neg = 0.125
+18. I've always though D                ... pos = 0.875 	neg = 0.625
+19. I have to say that a                ... pos = 0.0   	neg = 0.0  
+20. The physical comedy                 ... pos = 0.625 	neg = 0.125
+21. It was simply great                 ... pos = 0.0   	neg = 0.125
+22. My advice -- There's                ... pos = 0.0   	neg = 0.125
+23. Any other way would                 ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3569-488 is Positive         ... pos = 11.0  	neg = 5.625
+Overall score of document
+Total Pos = 11.0
+Total Neg = 5.625
+---------------------------------------------------------------------------

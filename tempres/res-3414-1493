@@ -1,0 +1,38 @@
+0. Starring: James Van                  ... pos = 0.125 	neg = 0.75 
+1. I've seen this way t                 ... pos = 0.5   	neg = 0.375
+2. But every now and th                 ... pos = 0.125 	neg = 0.5  
+3. "Varsity  Blues," in                 ... pos = 0.25  	neg = 0.0  
+4. It's  not exactly ab                 ... pos = 0.625 	neg = 0.625
+5. There's not a ton of                 ... pos = 2.375 	neg = 1.5  
+6. Hell, even the cinem                 ... pos = 0.25  	neg = 0.625
+7. And instead of being                 ... pos = 1.125 	neg = 0.625
+8. The story, about a s                 ... pos = 0.375 	neg = 1.125
+9. And the story of Joh                 ... pos = 1.5   	neg = 0.625
+10. This film  really sh                ... pos = 0.0   	neg = 1.375
+11. For just one example                ... pos = 0.125 	neg = 0.625
+12. The said character (                ... pos = 2.375 	neg = 1.5  
+13. Even the lead charac                ... pos = 1.625 	neg = 0.25 
+14. It's not Shakespeare                ... pos = 1.875 	neg = 0.25 
+15. Even James Van Der B                ... pos = 0.0   	neg = 0.0  
+16. Currently the star o                ... pos = 1.0   	neg = 0.0  
+17. He's good at  making                ... pos = 2.864 	neg = 0.625
+18. There are many a thi                ... pos = 1.875 	neg = 0.375
+19. For all that I liked                ... pos = 0.5   	neg = 0.0  
+20. Voigt, for one, thou                ... pos = 1.875 	neg = 0.125
+21. I guess he's  a vill                ... pos = 1.0   	neg = 0.5  
+22. Same goes  with his                 ... pos = 2.125 	neg = 0.125
+23. Just add to the pot                 ... pos = 1.0   	neg = 0.125
+24. It's more of a mixed                ... pos = 0.125 	neg = 0.375
+25. But, as I said, it d                ... pos = 0.125 	neg = 0.375
+26. Maybe it's the R-rat                ... pos = 0.875 	neg = 0.125
+27. I'd like to see a te                ... pos = 0.75  	neg = 0.125
+28. Imagine a teen film                 ... pos = 0.25  	neg = 1.25 
+29. And  maybe it should                ... pos = 0.0   	neg = 0.0  
+30. Yeah, sounds like a                 ... pos = 0.75  	neg = 0.0  
+31. Homepage at: http://                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3414-1493 is Positive        ... pos = 28.364 	neg = 14.875
+Overall score of document
+Total Pos = 28.364
+Total Neg = 14.875
+---------------------------------------------------------------------------

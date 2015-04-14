@@ -1,0 +1,43 @@
+0. It must be some sort                 ... pos = 0.75  	neg = 0.25 
+1. And so it is.                        ... pos = 0.0   	neg = 0.125
+2. _The Truman Show_ is                 ... pos = 0.25  	neg = 0.125
+3. Don't credit Carrey.                 ... pos = 0.375 	neg = 0    
+4. It starts with Andre                 ... pos = 0.0   	neg = 0.0  
+5. The story, replete w                 ... pos = 0.125 	neg = 0.25 
+6. (Ironically, it was                  ... pos = 0.0   	neg = 0.625
+7. Who knew?                            ... pos = 0.0   	neg = 0.0  
+8. ). One-upping Niccol                 ... pos = 0.0   	neg = 0.375
+9. Weir had the nearly                  ... pos = 0.125 	neg = 0.0  
+10. It was Weir's first                 ... pos = 0.375 	neg = 0.5  
+11. For example, bystand                ... pos = 0.125 	neg = 0.0  
+12. The nicest touch are                ... pos = 1.875 	neg = 0.0  
+13. Credit Weir for his                 ... pos = 0.375 	neg = 0    
+14. Carrey seems to be t                ... pos = 0.875 	neg = 0.375
+15. Not here.                           ... pos = 0.0   	neg = 0.0  
+16. His performance is s                ... pos = 0.5   	neg = 0.375
+17. And although Carrey                 ... pos = 2.75  	neg = 0.0  
+18. Playing one who has                 ... pos = 0.625 	neg = 0.125
+19. No pun intended.                    ... pos = 0.0   	neg = 0.25 
+20. Better in a smaller,                ... pos = 1.625 	neg = 0.375
+21. It is clear that he                 ... pos = 0.25  	neg = 0.25 
+22. Yes, in his own misg                ... pos = 1.0   	neg = 0.0  
+23. He thinks.                          ... pos = 0.0   	neg = 0.0  
+24. Rounding out the cas                ... pos = 2.0   	neg = 0.25 
+25. Laura Linney (Congo)                ... pos = 2.125 	neg = 0.25 
+26. The exception is at                 ... pos = 2.25  	neg = 0.25 
+27. There are other litt                ... pos = 0.25  	neg = 0.5  
+28. Are we to assume tha                ... pos = 0.25  	neg = 0.25 
+29. Was there any reason                ... pos = 0.0   	neg = 0.5  
+30. How is it they hire                 ... pos = 0.75  	neg = 0.25 
+31. And couldn't Christo                ... pos = 0.0   	neg = 0.625
+32. These little contriv                ... pos = 0.375 	neg = 0.375
+33. The audience gets th                ... pos = 0.5   	neg = 0.5  
+34. The final result eff                ... pos = 1.125 	neg = 0    
+35. Upon leaving the the                ... pos = 0.0   	neg = 0.5  
+36. Just checking.. .                   ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5847-630 is Positive         ... pos = 21.625 	neg = 8.25 
+Overall score of document
+Total Pos = 21.625
+Total Neg = 8.25
+---------------------------------------------------------------------------

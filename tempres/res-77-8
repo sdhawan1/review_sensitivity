@@ -1,0 +1,24 @@
+0. Antz is the first an                 ... pos = 0.25  	neg = 0.125
+1. It comes with promis                 ... pos = 0.0   	neg = 0.0  
+2. Featuring the voices                 ... pos = 1.625 	neg = 0    
+3. Being completely com                 ... pos = 1.25  	neg = 0.75 
+4. Ants that walk and t                 ... pos = 0.25  	neg = 0.0  
+5. Watching Antz, you a                 ... pos = 0.75  	neg = 1.375
+6. Todd Alcott, Chris W                 ... pos = 0.875 	neg = 0.0  
+7. Antz tells the movin                 ... pos = 0.5   	neg = 0.0  
+8. Z is your typical an                 ... pos = 1.875 	neg = 0.875
+9. Z thinks his ordinar                 ... pos = 0.5   	neg = 0.375
+10. The first real groun                ... pos = 0.125 	neg = 0.125
+11. After a few obstacle                ... pos = 0.375 	neg = 0.25 
+12. Along their journey,                ... pos = 1.25  	neg = 0.125
+13. Like the 1995 advent                ... pos = 1.5   	neg = 0.125
+14. Unlike Toy Story tho                ... pos = 0.375 	neg = 0.125
+15. Antz is an epic that                ... pos = 1.0   	neg = 0.125
+16. The Bottom Line: Fun                ... pos = 0.75  	neg = 0.0  
+17. The best animated fi                ... pos = 0.5   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-77-8 is Positive             ... pos = 13.75 	neg = 4.375
+Overall score of document
+Total Pos = 13.75
+Total Neg = 4.375
+---------------------------------------------------------------------------

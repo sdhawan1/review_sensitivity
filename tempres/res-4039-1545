@@ -1,0 +1,61 @@
+0. THE POSTMAN *1/2 (ou                 ... pos = 0.125 	neg = 0.0  
+1. FILM FREAK CENTRAL h                 ... pos = 0.375 	neg = 0.0  
+2. New attitude.                        ... pos = 0.375 	neg = 0    
+3. Same crappy writing.                 ... pos = 0.0   	neg = 0.75 
+4. ). I'll bet right no                 ... pos = 0.875 	neg = 0.0  
+5. It isn't necessarily                 ... pos = 0.0   	neg = 0.0  
+6. " for at least a few                 ... pos = 0.0   	neg = 0.0  
+7. Begin by scribbling                  ... pos = 0.0   	neg = 1.0  
+8. You had a heck of a                  ... pos = 0.375 	neg = 0.125
+9. ), several dozen tal                 ... pos = 0.0   	neg = 0.25 
+10. After Dances With Wo                ... pos = 0.75  	neg = 0.875
+11. Wyatt Earp was so du                ... pos = 0.25  	neg = 0.125
+12. Tombstone was a vast                ... pos = 0.25  	neg = 0.125
+13. (She was played by J                ... pos = 1.25  	neg = 0.125
+14. What were you and La                ... pos = 0.0   	neg = 0.125
+15. ). Now, you're suffe                ... pos = 1.0   	neg = 1.25 
+16. The Postman is not t                ... pos = 0.5   	neg = 0.5  
+17. Yet it is a ridiculo                ... pos = 0.25  	neg = 0.75 
+18. I suspect you though                ... pos = 0.0   	neg = 0.25 
+19. (I can think of some                ... pos = 0.0   	neg = 0.375
+20. I hate brown.                       ... pos = 0.125 	neg = 0.0  
+21. You love brown.                     ... pos = 0.625 	neg = 0    
+22. Dances With Wolves w                ... pos = 0.0   	neg = 0.125
+23. The Postman had me r                ... pos = 0.0   	neg = 0.75 
+24. What exactly happene                ... pos = 0.125 	neg = 0.0  
+25. Did we all become so                ... pos = 0.0   	neg = 0.125
+26. Why did you choose t                ... pos = 0.0   	neg = 0.5  
+27. Why is it only *they                ... pos = 0.0   	neg = 0.125
+28. Was it really approp                ... pos = 0.0   	neg = 0.125
+29. Why cast English act                ... pos = 0.375 	neg = 0.0  
+30. Don't you realize th                ... pos = 0.5   	neg = 0.0  
+31. (Take a look at the                 ... pos = 0.0   	neg = 0.375
+32. ) Who could give a d                ... pos = 0.0   	neg = 0.125
+33. If it came down to a                ... pos = 0.25  	neg = 0.0  
+34. Why cast Will Patton                ... pos = 0.125 	neg = 0.875
+35. Because you worked w                ... pos = 0.0   	neg = 0.0  
+36. Sure, he's a suitabl                ... pos = 0.5   	neg = 0.0  
+37. Because he's creepy                 ... pos = 0.0   	neg = 0.0  
+38. Why heroize the most                ... pos = 0.0   	neg = 0.875
+39. Postal System?                      ... pos = 0.0   	neg = 0    
+40. Was Tom Petty suppos                ... pos = 0.25  	neg = 0.25 
+41. If so, why didn't he                ... pos = 0.0   	neg = 0.375
+42. (He should have been                ... pos = 0.0   	neg = 0.125
+43. ) Why, oh why, do I                 ... pos = 0.0   	neg = 0.0  
+44. (I could ask plenty                 ... pos = 0.0   	neg = 0.0  
+45. ) Shouldn't a three                 ... pos = 0.0   	neg = 0.0  
+46. You have one great l                ... pos = 0.0   	neg = 0.0  
+47. : "The things I like                ... pos = 0.0   	neg = 0.0  
+48. Actually, I enjoyed                 ... pos = 1.875 	neg = 1.25 
+49. Ultimately, I'm sayi                ... pos = 0.0   	neg = 0.0  
+50. There is no quota, n                ... pos = 0.0   	neg = 0.75 
+51. Settle down.                        ... pos = 0     	neg = 0.0  
+52. Really question futu                ... pos = 0.0   	neg = 0.0  
+53. Feel free to write b                ... pos = 0.0   	neg = 0.0  
+54. I know how much you                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4039-1545 is Negative        ... pos = 11.25 	neg = 13.375
+Overall score of document
+Total Pos = 11.25
+Total Neg = 13.375
+---------------------------------------------------------------------------

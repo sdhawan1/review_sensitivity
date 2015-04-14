@@ -1,0 +1,45 @@
+0. "Haven't you ever lo                 ... pos = 0.625 	neg = 0    
+1. ". Starring Kevin Co                 ... pos = 0.0   	neg = 0.0  
+2. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+3. As Waterworld and Th                 ... pos = 0.75  	neg = 0.0  
+4. In For Love of the G                 ... pos = 2.625 	neg = 1.75 
+5. Raimi's latest is al                 ... pos = 0.375 	neg = 0.125
+6. Those who seek to ha                 ... pos = 0.375 	neg = 0.75 
+7. For Love of the Game                 ... pos = 0.625 	neg = 0.125
+8. It's about Billy Cha                 ... pos = 0.25  	neg = 0.25 
+9. At the same time, he                 ... pos = 0.0   	neg = 0.0  
+10. As he goes into his                 ... pos = 1.0   	neg = 0.0  
+11. They met when he saw                ... pos = 0.0   	neg = 0.0  
+12. Being a nice guy, Bi                ... pos = 0.625 	neg = 0.0  
+13. One thing leads to a                ... pos = 0.5   	neg = 0.125
+14. Now that they've sle                ... pos = 1.0   	neg = 0.125
+15. After being chased e                ... pos = 1.125 	neg = 0.0  
+16. They are doing wonde                ... pos = 0.25  	neg = 1.125
+17. He is determined to                 ... pos = 0.5   	neg = 0.125
+18. Without thinking the                ... pos = 0.0   	neg = 0.0  
+19. The love story is to                ... pos = 1.0   	neg = 0.125
+20. It's not the most or                ... pos = 0.5   	neg = 0.0  
+21. Indeed, up to the la                ... pos = 1.125 	neg = 0.625
+22. It built up enough m                ... pos = 0.0   	neg = 0.125
+23. Instead, what has be                ... pos = 0.125 	neg = 0.5  
+24. This cruel bait-and-                ... pos = 0.125 	neg = 0.0  
+25. Despite its eventual                ... pos = 1.0   	neg = 0    
+26. Under the sure direc                ... pos = 0.625 	neg = 0.0  
+27. The suspense of the                 ... pos = 0.364 	neg = 0.25 
+28. There is a fight sce                ... pos = 0.375 	neg = 0.25 
+29. Kevin Costner does h                ... pos = 2.125 	neg = 0.75 
+30. His character is eng                ... pos = 0.875 	neg = 0.125
+31. Kelly Preston, on th                ... pos = 0.75  	neg = 0.125
+32. We can understand wh                ... pos = 0.75  	neg = 0.125
+33. Jane's daughter, pla                ... pos = 2.875 	neg = 0.25 
+34. I enjoyed this movie                ... pos = 0.5   	neg = 0.0  
+35. It kept itself from                 ... pos = 0.5   	neg = 0.0  
+36. It's a fun movie --                 ... pos = 0.125 	neg = 0.25 
+37. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+38. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4743-563 is Positive         ... pos = 24.489 	neg = 8.0  
+Overall score of document
+Total Pos = 24.489
+Total Neg = 8.0
+---------------------------------------------------------------------------

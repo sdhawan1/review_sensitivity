@@ -1,0 +1,45 @@
+0. ***1/2 (out of 4) MA                 ... pos = 0.125 	neg = 0.125
+1. Some parts are imper                 ... pos = 0.5   	neg = 0.375
+2. MAGNOLIA is ambitiou                 ... pos = 0.5   	neg = 0.125
+3. Ten characters share                 ... pos = 0.875 	neg = 0.0  
+4. But by carefully fol                 ... pos = 0.0   	neg = 0.0  
+5. Anderson's great scr                 ... pos = 0.875 	neg = 0.0  
+6. The ensemble acting                  ... pos = 0.875 	neg = 0.125
+7. One story is Frank T                 ... pos = 0.0   	neg = 0.125
+8. Mackey (Tom Cruise)                  ... pos = 0.0   	neg = 0.0  
+9. " He teaches men how                 ... pos = 0.0   	neg = 0.125
+10. He's a real jerk and                ... pos = 0.625 	neg = 0.0  
+11. During the seminar's                ... pos = 0.0   	neg = 0.625
+12. He returns to the af                ... pos = 0.0   	neg = 0.0  
+13. Another story is Jim                ... pos = 0.0   	neg = 0.25 
+14. Kurring (James C. Re                ... pos = 0.125 	neg = 0.375
+15. He talks to himself                 ... pos = 0.0   	neg = 0.25 
+16. His day gets more in                ... pos = 0.0   	neg = 0.0  
+17. At first sight, he d                ... pos = 0.125 	neg = 0.375
+18. As he tries to start                ... pos = 0.125 	neg = 0.625
+19. Now cancer is forcin                ... pos = 0.0   	neg = 0.125
+20. A combination of alc                ... pos = 0.5   	neg = 0.25 
+21. Also the whiz-kid co                ... pos = 0.0   	neg = 0.0  
+22. Most of the other ch                ... pos = 0.875 	neg = 0.875
+23. Halfway through, a t                ... pos = 0.0   	neg = 0.0  
+24. " In other words, so                ... pos = 0.0   	neg = 0.0  
+25. Anderson keeps the p                ... pos = 0.0   	neg = 0.0  
+26. For one thing, the m                ... pos = 0.0   	neg = 0.875
+27. There is never a mom                ... pos = 0.25  	neg = 0.25 
+28. Also, the editing ke                ... pos = 0.0   	neg = 0.0  
+29. The characters are i                ... pos = 1.75  	neg = 0.375
+30. There are a few basi                ... pos = 0.25  	neg = 0.25 
+31. For example, when To                ... pos = 0.625 	neg = 0.0  
+32. In film school, that                ... pos = 0.0   	neg = 0.0  
+33. Also, some of the mi                ... pos = 0.0   	neg = 0.75 
+34. And yet, none of the                ... pos = 0.5   	neg = 0.25 
+35. They give the movie                 ... pos = 0.375 	neg = 0.0  
+36. Somehow they were si                ... pos = 1.125 	neg = 0.125
+37. The artist's techniq                ... pos = 0.5   	neg = 0.125
+38. "I suppose on a clea                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4191-1008 is Positive        ... pos = 11.5  	neg = 7.75 
+Overall score of document
+Total Pos = 11.5
+Total Neg = 7.75
+---------------------------------------------------------------------------

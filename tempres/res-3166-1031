@@ -1,0 +1,35 @@
+0. Columbia / 1:33 / 19                 ... pos = 0.0   	neg = 0.875
+1. My name is Jamie, an                 ... pos = 0.0   	neg = 0.125
+2. Well, not really.                    ... pos = 0.0   	neg = 0.0  
+3. Let's  just say I'm                  ... pos = 0.875 	neg = 0.75 
+4. (And, a definite plu                 ... pos = 1.75  	neg = 0.0  
+5. ) I fearlessly admit                 ... pos = 0.0   	neg = 0.0  
+6. A kind of hybrid bet                 ... pos = 0.625 	neg = 2.375
+7. It's alright,  but I                 ... pos = 0.5   	neg = 0.75 
+8. There isn't much of                  ... pos = 0.5   	neg = 0.125
+9. The movie is framed                  ... pos = 0.375 	neg = 0.125
+10. Along the way, there                ... pos = 1.75  	neg = 0.25 
+11. And of course Posh,                 ... pos = 0.25  	neg = 0.75 
+12. Perhaps the big ques                ... pos = 0.375 	neg = 0.5  
+13. They're not thespian                ... pos = 0.5   	neg = 0.375
+14. The rest of the cast                ... pos = 1.25  	neg = 0.25 
+15. Meatloaf seems to  b                ... pos = 0.5   	neg = 0.75 
+16. And those familiar w                ... pos = 0.125 	neg = 0.5  
+17. The fundamental prob                ... pos = 0.0   	neg = 0.375
+18. For every moment tha                ... pos = 0.25  	neg = 0.125
+19. The best sequences a                ... pos = 0.625 	neg = 0.125
+20. They poke the most f                ... pos = 0.75  	neg = 0.25 
+21. Around the 45-minute                ... pos = 0.375 	neg = 0.0  
+22. ) or stuff that's ju                ... pos = 0.0   	neg = 1.0  
+23. At least the film is                ... pos = 1.0   	neg = 0.125
+24. " . "Spice World" de                ... pos = 0.75  	neg = 0.0  
+25. Those seeking a mess                ... pos = 0.375 	neg = 0.5  
+26. It's an hour-and-a-h                ... pos = 0.5   	neg = 0.25 
+27. And that's presumabl                ... pos = 0.0   	neg = 0.125
+28. Š 1998 Jamie Peck                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3166-1031 is Positive        ... pos = 14.0  	neg = 11.375
+Overall score of document
+Total Pos = 14.0
+Total Neg = 11.375
+---------------------------------------------------------------------------

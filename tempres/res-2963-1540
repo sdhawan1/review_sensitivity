@@ -1,0 +1,46 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by John Cusa                 ... pos = 0.0   	neg = 0.0  
+2. DeVincentis, Steve P                 ... pos = 0.0   	neg = 0.0  
+3. Photographed by Seam                 ... pos = 0.0   	neg = 0.0  
+4. "He's in love with r                 ... pos = 1.875 	neg = 0.0  
+5. ". It's unsurprising                 ... pos = 0.5   	neg = 0.125
+6. Rob drinks and smoke                 ... pos = 0.375 	neg = 1.0  
+7. This hardly makes hi                 ... pos = 0.25  	neg = 0.0  
+8. "High Fidelity" is h                 ... pos = 1.0   	neg = 0.625
+9. "Never mind what peo                 ... pos = 0.375 	neg = 0.0  
+10. "  he philosophises                 ... pos = 0.0   	neg = 0.0  
+11. "Books, movies, musi                ... pos = 0.125 	neg = 0    
+12. "  He runs a big but                ... pos = 0.625 	neg = 0.625
+13. Dick is a shy kid wh                ... pos = 0.125 	neg = 0.25 
+14. Barry is one of thos                ... pos = 0.125 	neg = 0.5  
+15. "What do you mean, y                ... pos = 0     	neg = 0.0  
+16. " he asks one man, m                ... pos = 0.125 	neg = 0.625
+17. This is a film about                ... pos = 1.25  	neg = 0.125
+18. In the opening scene                ... pos = 0.5   	neg = 0.75 
+19. There is a plot of s                ... pos = 0.625 	neg = 0.75 
+20. The style of the  na                ... pos = 0.125 	neg = 0.625
+21. It's a good device b                ... pos = 1.375 	neg = 0.625
+22. Everything is handle                ... pos = 0.25  	neg = 0.5  
+23. Rob has a heart-to-h                ... pos = 0.625 	neg = 0.375
+24. She lays things out                 ... pos = 0.375 	neg = 0.0  
+25. "  Later, when Rob l                ... pos = 0.625 	neg = 0.5  
+26. Women generally thin                ... pos = 1.5   	neg = 1.25 
+27. Its ending is simila                ... pos = 1.375 	neg = 0.375
+28. Cusack, my favourite                ... pos = 0.0   	neg = 0.125
+29. His boyish wide eyes                ... pos = 0.75  	neg = 0.75 
+30. The "High Fidelity"                 ... pos = 0.375 	neg = 0.25 
+31. Yet so many danger s                ... pos = 0.25  	neg = 0.875
+32. It's based on a wond                ... pos = 0.75  	neg = 0.75 
+33. It's an American ada                ... pos = 0.0   	neg = 0.75 
+34. Also, its blunt worl                ... pos = 0.625 	neg = 0.125
+35. All of those pitfall                ... pos = 0.125 	neg = 0.125
+36. This is a wonderful                 ... pos = 1.125 	neg = 0.375
+37. It will probably be                 ... pos = 1.875 	neg = 0.5  
+38. I saw it on the firs                ... pos = 0.125 	neg = 0.0  
+39. COPYRIGHT(c) 2000 Ia                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2963-1540 is Positive        ... pos = 20.375 	neg = 14.25
+Overall score of document
+Total Pos = 20.375
+Total Neg = 14.25
+---------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+0. It is very difficult                 ... pos = 3.625 	neg = 0.375
+1. And what's not to li                 ... pos = 0.0   	neg = 0.0  
+2. It's funny, it's got                 ... pos = 0.625 	neg = 0.875
+3. Hey, it's got Helen                  ... pos = 0     	neg = 0.0  
+4. Why are you reading                  ... pos = 0.25  	neg = 0.0  
+5. Rush out and see thi                 ... pos = 0.0   	neg = 0.0  
+6. Of course, with all                  ... pos = 0.25  	neg = 0.0  
+7. Sold entirely on the                 ... pos = 1.75  	neg = 1.25 
+8. The dialogue is very                 ... pos = 1.25  	neg = 0.125
+9. Now, onto the requis                 ... pos = 0.0   	neg = 0.0  
+10. Melvin Udall (Nichol                ... pos = 0.0   	neg = 0.125
+11. He surely has no fri                ... pos = 0.375 	neg = 0.25 
+12. He also has obsessiv                ... pos = 0.0   	neg = 0.625
+13. Melvin is a creature                ... pos = 0.375 	neg = 0.125
+14. Melvin's life is tur                ... pos = 0.25  	neg = 1.125
+15. Also upsetting the a                ... pos = 0.0   	neg = 0.125
+16. This forces Melvin t                ... pos = 0.0   	neg = 0.0  
+17. What follows is the                 ... pos = 0.875 	neg = 0.375
+18. Does it matter that                 ... pos = 0.0   	neg = 0.0  
+19. No.                                 ... pos = 0     	neg = 0.25 
+20. Melvin is a 90s Arch                ... pos = 0.75  	neg = 0.125
+21. The movie is very we                ... pos = 0.625 	neg = 0.875
+22. For example, how doe                ... pos = 0.5   	neg = 0.0  
+23. Especially noteworth                ... pos = 0.0   	neg = 0.125
+24. Written by Mark Andr                ... pos = 0.0   	neg = 0    
+25. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2115-92 is Positive          ... pos = 11.5  	neg = 6.875
+Overall score of document
+Total Pos = 11.5
+Total Neg = 6.875
+---------------------------------------------------------------------------

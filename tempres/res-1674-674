@@ -1,0 +1,55 @@
+0. Starring: Tea Leoni,                 ... pos = 0.0   	neg = 0.25 
+1. It's like the 70s al                 ... pos = 0.375 	neg = 0.125
+2. Uh huh...of course i                 ... pos = 0.0   	neg = 0.125
+3. In a summer-blockbus                 ... pos = 0.0   	neg = 0.875
+4. Deep Impact's villai                 ... pos = 0.0   	neg = 1.0  
+5. He snaps a photo of                  ... pos = 0.875 	neg = 1.375
+6. We don't know if the                 ... pos = 0.25  	neg = 0.0  
+7. This is supposed to                  ... pos = 0.0   	neg = 0.25 
+8. We are then introduc                 ... pos = 0.875 	neg = 0.125
+9. She's deal a story a                 ... pos = 0.375 	neg = 1.5  
+10. One of his aides, te                ... pos = 0.25  	neg = 0.625
+11. She decides to confr                ... pos = 0.5   	neg = 0.625
+12. She of course thinks                ... pos = 0.625 	neg = 0.125
+13. She is stopped by se                ... pos = 0.125 	neg = 0.5  
+14. She still thinks thi                ... pos = 0.375 	neg = 0.125
+15. At the ensuing press                ... pos = 0.375 	neg = 0.125
+16. He offers hope in a                 ... pos = 0.375 	neg = 0.0  
+17. Enter: The Action pa                ... pos = 0.0   	neg = 0.0  
+18. Miraculously, our Ru                ... pos = 1.375 	neg = 0.125
+19. If that plan fails,                 ... pos = 0.375 	neg = 1.25 
+20. Of course, Leder's b                ... pos = 0.75  	neg = 1.0  
+21. The human drama can                 ... pos = 0.25  	neg = 0.125
+22. There are countless                 ... pos = 0.375 	neg = 0.0  
+23. Kids are the ultimat                ... pos = 0.25  	neg = 0.0  
+24. Politicians speak of                ... pos = 0.0   	neg = 0.125
+25. It gets milked too o                ... pos = 0.25  	neg = 3.0  
+26. The same goes with t                ... pos = 0.875 	neg = 0.0  
+27. The nobility ends up                ... pos = 0.625 	neg = 0.875
+28. "  .      The humor,                ... pos = 0.0   	neg = 0.25 
+29. They are trying to m                ... pos = 0.75  	neg = 0.5  
+30. Everyone is going to                ... pos = 0     	neg = 0.125
+31. At a school assembly                ... pos = 1.5   	neg = 0.625
+32. There are some shots                ... pos = 0.625 	neg = 1.25 
+33. The low-point of the                ... pos = 0.25  	neg = 0.0  
+34. One of them says "we                ... pos = 0.0   	neg = 0.375
+35. "  I was in 6th grad                ... pos = 0.0   	neg = 0.375
+36. It was the height of                ... pos = 0.375 	neg = 0.25 
+37. It was something tha                ... pos = 0.0   	neg = 0.125
+38. I remember my teache                ... pos = 0.25  	neg = 0.875
+39. Those astronauts had                ... pos = 1.0   	neg = 0.875
+40. Maybe no one remembe                ... pos = 0.875 	neg = 1.0  
+41. The Special effects                 ... pos = 0.0   	neg = 0.625
+42. The Tidal wave shots                ... pos = 0.0   	neg = 0.125
+43. The outer-space scen                ... pos = 0.0   	neg = 0.75 
+44. There were other thi                ... pos = 0.0   	neg = 1.375
+45. ), and how the secon                ... pos = 0.0   	neg = 0.0  
+46. Some of this stuff r                ... pos = 0.0   	neg = 0.25 
+47. Overall, the EFX wer                ... pos = 3.375 	neg = 2.375
+48. Of the $6.75 that I                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1674-674 is Negative         ... pos = 19.5  	neg = 26.5 
+Overall score of document
+Total Pos = 19.5
+Total Neg = 26.5
+---------------------------------------------------------------------------

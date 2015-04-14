@@ -1,0 +1,42 @@
+0. The director of The                  ... pos = 1.5   	neg = 0.25 
+1. Only kidding.                        ... pos = 0     	neg = 0.125
+2. As you could guess b                 ... pos = 0.375 	neg = 0.125
+3. Set sometime in the                  ... pos = 0.0   	neg = 0.25 
+4. He can't remember hi                 ... pos = 0.125 	neg = 0.5  
+5. And when he encounte                 ... pos = 0.375 	neg = 1.125
+6. With the help of Dr.                 ... pos = 0.0   	neg = 1.125
+7. Hot on his tail on t                 ... pos = 0.5   	neg = 0.375
+8. ). Despite the dark                  ... pos = 0.375 	neg = 0.125
+9. The first thing that                 ... pos = 0.25  	neg = 0.125
+10. Director Alex Proyas                ... pos = 1.75  	neg = 0.375
+11. Rufus Sewell does a                 ... pos = 0.875 	neg = 0.0  
+12. Sutherland appears t                ... pos = 0.125 	neg = 1.375
+13. His delivery of his                 ... pos = 0.0   	neg = 0.0  
+14. (He pauses every two                ... pos = 0.0   	neg = 0.0  
+15. ) More worringly, he                ... pos = 0.0   	neg = 0.0  
+16. Connelly fine in her                ... pos = 0.125 	neg = 0.0  
+17. Her singing voice, b                ... pos = 0.0   	neg = 0.125
+18. William Hurt is not                 ... pos = 0.0   	neg = 1.625
+19. Also popping up is I                ... pos = 0.375 	neg = 0.125
+20. Both are good englis                ... pos = 1.375 	neg = 0.375
+21. ) Then again, O'Brie                ... pos = 0.375 	neg = 0.625
+22. Like The Crow, the f                ... pos = 0.0   	neg = 0.125
+23. Proyas uses fast cut                ... pos = 0.0   	neg = 0.0  
+24. ) The fast paced dir                ... pos = 0.125 	neg = 0.0  
+25. The dialogue just sl                ... pos = 0.0   	neg = 0.0  
+26. It's clumsy, stupid,                ... pos = 0.0   	neg = 0.375
+27. The best thing about                ... pos = 0.5   	neg = 0.5  
+28. The city is impressi                ... pos = 0.125 	neg = 0.125
+29. The special effects                 ... pos = 0.375 	neg = 0.875
+30. Dark City is a defin                ... pos = 0.75  	neg = 0.125
+31. If you get bored of                 ... pos = 0.375 	neg = 0.375
+32. This things alone pr                ... pos = 0.75  	neg = 0.0  
+33. It may not be the be                ... pos = 1.375 	neg = 0.375
+34. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+35. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-541-1213 is Positive         ... pos = 12.875 	neg = 11.625
+Overall score of document
+Total Pos = 12.875
+Total Neg = 11.625
+---------------------------------------------------------------------------

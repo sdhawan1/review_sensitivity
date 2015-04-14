@@ -1,0 +1,39 @@
+0. REVIEW: Saving Priva                 ... pos = 1.0   	neg = 0.0  
+1. I know these will la                 ... pos = 0.125 	neg = 0.0  
+2. Steven Spielberg's S                 ... pos = 1.0   	neg = 0.25 
+3. This off and on dire                 ... pos = 0.375 	neg = 0.625
+4. Spielberg pulls all                  ... pos = 0.25  	neg = 0.25 
+5. The first half-hour                  ... pos = 1.0   	neg = 0.125
+6. It is an excruciatin                 ... pos = 0.0   	neg = 0.375
+7. Cameras pans across                  ... pos = 0.75  	neg = 0.0  
+8. The tension is almos                 ... pos = 0.0   	neg = 0.75 
+9. Captain John Miller                  ... pos = 0.0   	neg = 0.125
+10. They are assigned to                ... pos = 0.625 	neg = 0.125
+11. General George Marsh                ... pos = 0.125 	neg = 0.0  
+12. Rationalizing betwee                ... pos = 0.25  	neg = 0.25 
+13. The sheer visceral f                ... pos = 0.625 	neg = 0.375
+14. With the aid of writ                ... pos = 1.25  	neg = 0.0  
+15. This makes the battl                ... pos = 0.5   	neg = 0.25 
+16. Even after his exper                ... pos = 0.125 	neg = 0.0  
+17. Hanks plays Miller d                ... pos = 0.375 	neg = 0.375
+18. Rodat has crafted Mi                ... pos = 0.625 	neg = 0.125
+19. "Each person I kill                 ... pos = 0.75  	neg = 0.125
+20. Jeremy Davies is pai                ... pos = 0.25  	neg = 0.125
+21. Upham, a translator                 ... pos = 0.0   	neg = 0.125
+22. His harrowing portra                ... pos = 0.375 	neg = 0.625
+23. Tom Sizemore gives a                ... pos = 0.5   	neg = 0.0  
+24. The entire cast is e                ... pos = 0.0   	neg = 0.125
+25. Even more impressive                ... pos = 0.625 	neg = 0.125
+26. In many scenes hand                 ... pos = 1.375 	neg = 0.5  
+27. Saving Private Ryan'                ... pos = 0.625 	neg = 0.25 
+28. Deliberately more se                ... pos = 2.0   	neg = 0.625
+29. As one of the great                 ... pos = 0.25  	neg = 0.125
+30. Saving Private Ryan                 ... pos = 0.25  	neg = 0.0  
+31. It's an experience.                 ... pos = 0.0   	neg = 0    
+32. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-1111 is Positive        ... pos = 16.25 	neg = 6.75 
+Overall score of document
+Total Pos = 16.25
+Total Neg = 6.75
+---------------------------------------------------------------------------

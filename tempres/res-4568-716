@@ -1,0 +1,29 @@
+0. WAKING NED DEVINE is                 ... pos = 0.5   	neg = 0.375
+1. If the projector had                 ... pos = 0.0   	neg = 0.25 
+2. It has a lot of litt                 ... pos = 1.375 	neg = 0.875
+3. The premise: One mor                 ... pos = 0.125 	neg = 0.0  
+4. There are only 53 pe                 ... pos = 0.5   	neg = 1.625
+5. The two of them hatc                 ... pos = 0.875 	neg = 0.125
+6. "And?                                ... pos = 0     	neg = 0    
+7. " you may be asking.                 ... pos = 0.0   	neg = 0.125
+8. Well...that's about                  ... pos = 0.0   	neg = 0.0  
+9. Writer/director Kirk                 ... pos = 0.25  	neg = 0.25 
+10. Now, normally I'm a                 ... pos = 1.375 	neg = 0.0  
+11. But I guess I never                 ... pos = 1.5   	neg = 0.625
+12. That's not to say th                ... pos = 2.25  	neg = 0.125
+13. Among the best comic                ... pos = 1.5   	neg = 0.5  
+14. Unfortunately, Jones                ... pos = 0.625 	neg = 0.875
+15. As a result, he trie                ... pos = 0.875 	neg = 0.0  
+16. For example, a pig f                ... pos = 0.625 	neg = 0.125
+17. (True love right the                ... pos = 1.125 	neg = 0.0  
+18. ) A crotchety old wo                ... pos = 0.25  	neg = 1.25 
+19. A lot of movies suff                ... pos = 0.125 	neg = 1.75 
+20. Another reviewer cal                ... pos = 1.125 	neg = 0.125
+21. Jones doesn't seem t                ... pos = 1.25  	neg = 0.0  
+22. The result is occasi                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4568-716 is Positive         ... pos = 16.75 	neg = 9.125
+Overall score of document
+Total Pos = 16.75
+Total Neg = 9.125
+---------------------------------------------------------------------------

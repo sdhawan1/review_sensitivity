@@ -1,0 +1,33 @@
+0. THE FULL MONTY (Fox                  ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 1.125 	neg = 0.625
+3. (One could also make                 ... pos = 0.5   	neg = 0.0  
+4. as similar crossover                 ... pos = 1.125 	neg = 0.75 
+5. ). As has been well                  ... pos = 0.25  	neg = 0.5  
+6. The kicker is that o                 ... pos = 1.5   	neg = 0.25 
+7. Uh oh.                               ... pos = 0     	neg = 0.0  
+8. The opening reels of                 ... pos = 0.0   	neg = 0.25 
+9. Set in Sheffield, pr                 ... pos = 1.125 	neg = 1.0  
+10. Gaz (Robert Carlyle)                ... pos = 0.75  	neg = 0.125
+11. Even their priggish                 ... pos = 0.0   	neg = 0.125
+12. It's an all-too-fami                ... pos = 1.5   	neg = 0.0  
+13. However, THE FULL MO                ... pos = 1.875 	neg = 0.875
+14. Admittedly, given th                ... pos = 1.125 	neg = 2.5  
+15. Simon Beaufoy's debu                ... pos = 0.5   	neg = 0.5  
+16. THE FULL MONTY's pro                ... pos = 4.375 	neg = 3.0  
+17. THE FULL MONTY's cha                ... pos = 1.25  	neg = 0.125
+18. While THE FULL MONTY                ... pos = 0.75  	neg = 0.375
+19. The scenes where the                ... pos = 2.0   	neg = 1.625
+20. The ensemble cast in                ... pos = 1.625 	neg = 0.5  
+21. He makes a fine cent                ... pos = 0.875 	neg = 0.0  
+22. THE FULL MONTY is a                 ... pos = 0.0   	neg = 0.375
+23. All loose ends are d                ... pos = 0.875 	neg = 0.25 
+24. They, of course, do                 ... pos = 0.0   	neg = 0.0  
+25. -- Alex Fung (aw220@                ... pos = 0.0   	neg = 0.0  
+26. "                                   ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-747-717 is Positive          ... pos = 23.25 	neg = 14.0 
+Overall score of document
+Total Pos = 23.25
+Total Neg = 14.0
+---------------------------------------------------------------------------

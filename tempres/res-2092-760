@@ -1,0 +1,45 @@
+0. Director:  Spike Le                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution:  B                 ... pos = 0.125 	neg = 0.25 
+2. Sports talk doesn't                  ... pos = 0     	neg = 0.0  
+3. Professional sports                  ... pos = 0.0   	neg = 0.0  
+4. Football, basketball                 ... pos = 0.0   	neg = 0.0  
+5. I don't hate them, b                 ... pos = 0.375 	neg = 0.0  
+6. I have the utmost re                 ... pos = 1.0   	neg = 0.25 
+7. What one must realiz                 ... pos = 0.5   	neg = 0.125
+8. That's not, by a lon                 ... pos = 0.5   	neg = 0.25 
+9. Though it is a fasci                 ... pos = 2.375 	neg = 0.25 
+10. The father mentioned                ... pos = 0.0   	neg = 0.125
+11. He's a convicted fel                ... pos = 0.25  	neg = 0.125
+12. Jesus is the nation'                ... pos = 1.125 	neg = 0.125
+13. It's a difficult tim                ... pos = 0.0   	neg = 0.0  
+14. He's also suddenly s                ... pos = 0.625 	neg = 0.0  
+15. Jake agrees to the j                ... pos = 0.375 	neg = 0.0  
+16. Mary is happy to see                ... pos = 1.0   	neg = 0.125
+17. This is where the co                ... pos = 0.0   	neg = 0.125
+18. The father/son relat                ... pos = 0.75  	neg = 0.125
+19. Washington is superb                ... pos = 0.875 	neg = 0.625
+20. Midway through the f                ... pos = 0.375 	neg = 0.125
+21. Lee and Washington b                ... pos = 0.625 	neg = 0.0  
+22. The other half of th                ... pos = 0.375 	neg = 0.125
+23. Allen does an excell                ... pos = 2.625 	neg = 0.125
+24. His reaction to his                 ... pos = 2.375 	neg = 0.125
+25. There are a lot of s                ... pos = 1.75  	neg = 0.5  
+26. As well as the centr                ... pos = 0.125 	neg = 0.75 
+27. The cinematography M                ... pos = 1.375 	neg = 0.25 
+28. Aaron Copland's musi                ... pos = 1.75  	neg = 0.5  
+29. There's also a lot o                ... pos = 0.25  	neg = 0.25 
+30. .                                   ... pos = 0     	neg = 0    
+31. .                                   ... pos = 0     	neg = 0    
+32. you know the rest).                 ... pos = 0     	neg = 0.0  
+33. And there's a long,                 ... pos = 0.625 	neg = 0.75 
+34. I'm not too certain                 ... pos = 0.875 	neg = 1.0  
+35. And what this film r                ... pos = 0.0   	neg = 0.25 
+36. Jesus' hatred for hi                ... pos = 1.125 	neg = 0.375
+37. Spike Lee and his ac                ... pos = 1.125 	neg = 0.625
+38. He Got Game, even in                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2092-760 is Positive         ... pos = 25.625 	neg = 8.375
+Overall score of document
+Total Pos = 25.625
+Total Neg = 8.375
+---------------------------------------------------------------------------

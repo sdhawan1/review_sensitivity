@@ -1,0 +1,36 @@
+0. CAPSULE: Perversely                  ... pos = 0.125 	neg = 0.0  
+1. Mira Sorvino ain't b                 ... pos = 0.625 	neg = 1.375
+2. Chow Yun-Fat command                 ... pos = 0.5   	neg = 0.25 
+3. See him in the dozen                 ... pos = 0.125 	neg = 0.625
+4. He is one of the few                 ... pos = 0.0   	neg = 0.125
+5. In THE REPLACEMENT K                 ... pos = 0.0   	neg = 0.125
+6. HK fan that I am, I                  ... pos = 0.25  	neg = 0.125
+7. THE REPLACEMENT KILL                 ... pos = 0.0   	neg = 0.375
+8. Both director and ac                 ... pos = 0.25  	neg = 0.0  
+9. The plot is not the                  ... pos = 0.625 	neg = 0.125
+10. Chow plays a hitman                 ... pos = 0.0   	neg = 0.0  
+11. To that end, he enli                ... pos = 0.875 	neg = 0.375
+12. Sebastian inhabited                 ... pos = 0.0   	neg = 0.0  
+13. Then bad guys with t                ... pos = 0.0   	neg = 0.875
+14. Fuqua knows his HK a                ... pos = 0.0   	neg = 0.0  
+15. The movie is saturat                ... pos = 0.625 	neg = 0.125
+16. The whole movie glow                ... pos = 0.0   	neg = 0.125
+17. Sparks shoot as high                ... pos = 0.125 	neg = 0.0  
+18. Metal crumples as ca                ... pos = 0.125 	neg = 0.0  
+19. Sunglasses glint.                   ... pos = 0.0   	neg = 0    
+20. Put simply, if you d                ... pos = 0.0   	neg = 0.0  
+21. If you do, buy three                ... pos = 0.0   	neg = 0.0  
+22. You'll wear them all                ... pos = 0.0   	neg = 0.0  
+23. Chow and Sorvino's c                ... pos = 3.875 	neg = 1.75 
+24. There's also a good                 ... pos = 1.25  	neg = 0.375
+25. ) as a cop who tries                ... pos = 1.5   	neg = 0.875
+26. THE REPLACEMENT KILL                ... pos = 0.75  	neg = 0.5  
+27. Good show all around                ... pos = 0.75  	neg = 0.0  
+28. Now let's see Chow -                ... pos = 0.0   	neg = 0.25 
+29. I *know* Chow can ha                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1398-1046 is Positive        ... pos = 12.375 	neg = 8.375
+Overall score of document
+Total Pos = 12.375
+Total Neg = 8.375
+---------------------------------------------------------------------------

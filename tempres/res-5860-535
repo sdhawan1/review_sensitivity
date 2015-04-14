@@ -1,0 +1,38 @@
+0. Directed by: James M                 ... pos = 0.25  	neg = 0.25 
+1. That said, "Girl, In                 ... pos = 1.625 	neg = 0.875
+2. In fact, I'm having                  ... pos = 0.0   	neg = 0.25 
+3. If there were there                  ... pos = 1.375 	neg = 0.5  
+4. Susanna (Winona Ryde                 ... pos = 0.25  	neg = 0.0  
+5. Due to this and seve                 ... pos = 0.75  	neg = 0.5  
+6. While there, she mee                 ... pos = 0.125 	neg = 0.0  
+7. The two are soon dri                 ... pos = 0.0   	neg = 0.0  
+8. In addition to the u                 ... pos = 0.0   	neg = 0.75 
+9. The girls in this ho                 ... pos = 0.625 	neg = 0.125
+10. I know this is based                ... pos = 0.0   	neg = 1.0  
+11. Another rather irrit                ... pos = 0.625 	neg = 0.625
+12. This isn't used to a                ... pos = 0.375 	neg = 0.125
+13. The reason to see th                ... pos = 0.5   	neg = 0.125
+14. Angelina Jolie is in                ... pos = 0.0   	neg = 0.125
+15. I haven't been a lar                ... pos = 0.5   	neg = 1.0  
+16. Wynona Ryder may not                ... pos = 0.375 	neg = 0.125
+17. She's given some int                ... pos = 0.0   	neg = 0.0  
+18. The supporting cast                 ... pos = 2.5   	neg = 2.125
+19. For example, a scene                ... pos = 0.25  	neg = 0.375
+20. The film runs a tad                 ... pos = 0.0   	neg = 0.75 
+21. We keep expecting ea                ... pos = 0.0   	neg = 0.25 
+22. I can't quite recomm                ... pos = 0.625 	neg = 0.75 
+23. I give it three star                ... pos = 0.0   	neg = 0.0  
+24. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+25. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+26. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+27. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+28. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+29. See it if you've got                ... pos = 0.0   	neg = 0.25 
+30. * - One of the worst                ... pos = 0.0   	neg = 0.375
+31. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5860-535 is Negative         ... pos = 12.0  	neg = 12.375
+Overall score of document
+Total Pos = 12.0
+Total Neg = 12.375
+---------------------------------------------------------------------------

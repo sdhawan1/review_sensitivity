@@ -1,0 +1,46 @@
+0. Starring-Tommy Lee J                 ... pos = 0.75  	neg = 0.125
+1. When covering this g                 ... pos = 0.5   	neg = 0.0  
+2. However, the film is                 ... pos = 0.25  	neg = 0.125
+3. A textbook courtroom                 ... pos = 0.875 	neg = 1.375
+4. Hence, it's nothing                  ... pos = 0.375 	neg = 0.25 
+5. Momentum is achieved                 ... pos = 1.0   	neg = 0.625
+6. We open in 1968 duri                 ... pos = 0.25  	neg = 0.0  
+7. When their platoon i                 ... pos = 0.5   	neg = 0.125
+8. Cut to 28 years in t                 ... pos = 0.875 	neg = 0.0  
+9. Hodges is retiring t                 ... pos = 0.25  	neg = 0.25 
+10. Due to extremely hos                ... pos = 1.25  	neg = 0.125
+11. He orders an open-fi                ... pos = 0.0   	neg = 0.0  
+12. When Childers is cou                ... pos = 0.125 	neg = 0.25 
+13. He heads to Hodges a                ... pos = 0.0   	neg = 0    
+14. `I'm a good enough l                ... pos = 0.625 	neg = 0.25 
+15. `Rules of Engagement                ... pos = 0.125 	neg = 0.375
+16. And then Hollywood s                ... pos = 0.875 	neg = 0.0  
+17. The villain, played                 ... pos = 0.375 	neg = 0.5  
+18. A cowardly weasel de                ... pos = 0.0   	neg = 0.0  
+19. Like virtually every                ... pos = 0.75  	neg = 0.125
+20. Similar exoneration                 ... pos = 0.75  	neg = 0.875
+21. Accepting Childers'                 ... pos = 0.5   	neg = 0.125
+22. Future plot movement                ... pos = 1.375 	neg = 0.75 
+23. Jones is also subjec                ... pos = 0.5   	neg = 0.625
+24. While Hodges openly                 ... pos = 0.125 	neg = 0.5  
+25. The star performance                ... pos = 0.75  	neg = 0.0  
+26. Jones and Jackson wh                ... pos = 0.25  	neg = 0.0  
+27. Both have done far b                ... pos = 0.5   	neg = 0.125
+28. Another key factor i                ... pos = 0.0   	neg = 0.25 
+29. Confidential'), who                 ... pos = 1.125 	neg = 0.0  
+30. Mostly everything el                ... pos = 0.375 	neg = 0.875
+31. Philip Baker Hall (a                ... pos = 0.25  	neg = 0.0  
+32. All promise of a sti                ... pos = 0.25  	neg = 0.125
+33. Large portions of th                ... pos = 0.125 	neg = 0.125
+34. Any messages about w                ... pos = 0.25  	neg = 0.25 
+35. In `Rules of Engagem                ... pos = 0.625 	neg = 0.25 
+36. Sacrificing moral is                ... pos = 0.375 	neg = 0.75 
+37. Only in Hollywood, m                ... pos = 0.125 	neg = 0.0  
+38. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+39. movieviews@hotmail.c                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1213-693 is Positive         ... pos = 18.375 	neg = 10.125
+Overall score of document
+Total Pos = 18.375
+Total Neg = 10.125
+---------------------------------------------------------------------------

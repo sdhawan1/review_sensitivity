@@ -1,0 +1,25 @@
+0. MOVIES     Jonathan                  ... pos = 0.25  	neg = 0.0  
+1. The urbane, slightly                 ... pos = 3.25  	neg = 0.375
+2. In "Mickey Blue Eyes                 ... pos = 2.125 	neg = 0.125
+3. It's a good gag, and                 ... pos = 1.5   	neg = 0.0  
+4. He's Michael Felgate                 ... pos = 0.5   	neg = 1.125
+5. When he gets engaged                 ... pos = 0.0   	neg = 0.5  
+6. But his real problem                 ... pos = 0.25  	neg = 0.25 
+7. At first Gina refuse                 ... pos = 0.125 	neg = 0.125
+8. He thinks he can han                 ... pos = 0.0   	neg = 0.0  
+9. Boy, is he naive.                    ... pos = 0.875 	neg = 0.125
+10. Soon he's up to his                 ... pos = 0.625 	neg = 0.25 
+11. Director Makin doesn                ... pos = 0.125 	neg = 0.0  
+12. Laughs continue inte                ... pos = 1.0   	neg = 0.125
+13. The movie offers sit                ... pos = 0.625 	neg = 0.5  
+14. There's not much oli                ... pos = 0.25  	neg = 0.125
+15. )  The Italian-Ameri                ... pos = 0.25  	neg = 0.0  
+16. "Mickey Blue Eyes" c                ... pos = 0.125 	neg = 0.0  
+17. But it gets out of t                ... pos = 0.0   	neg = 0.0  
+18. ********************                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3147-773 is Positive         ... pos = 12.0  	neg = 3.75 
+Overall score of document
+Total Pos = 12.0
+Total Neg = 3.75
+---------------------------------------------------------------------------

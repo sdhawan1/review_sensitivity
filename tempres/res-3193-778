@@ -1,0 +1,35 @@
+0. Starring David Arque                 ... pos = 0.375 	neg = 0.0  
+1. When I first heard a                 ... pos = 0.5   	neg = 0.25 
+2. From the master of t                 ... pos = 0.75  	neg = 0.625
+3. When I first heard t                 ... pos = 0.375 	neg = 1.0  
+4. How hard is it to ma                 ... pos = 1.125 	neg = 2.5  
+5. Was this Wes Craven'                 ... pos = 0.125 	neg = 1.0  
+6. It just seemed cheap                 ... pos = 0.0   	neg = 0.75 
+7. Then I actually saw                  ... pos = 0.375 	neg = 0.0  
+8. Scream is not only a                 ... pos = 0.875 	neg = 1.0  
+9. If you've seen a mil                 ... pos = 0.125 	neg = 0.125
+10. This is part of the                 ... pos = 0.125 	neg = 0.125
+11. The movie reminds av                ... pos = 2.375 	neg = 1.375
+12. To those who rarely                 ... pos = 0.125 	neg = 0.25 
+13. There's nothing wron                ... pos = 0.0   	neg = 1.0  
+14. I have witnessed vie                ... pos = 0.75  	neg = 0.0  
+15. Their opinions on th                ... pos = 1.125 	neg = 0.75 
+16. From these varied re                ... pos = 0.75  	neg = 0.125
+17. Films that both deri                ... pos = 0.875 	neg = 0.125
+18. The low - budget 199                ... pos = 0.375 	neg = 0.25 
+19. This influence may e                ... pos = 2.125 	neg = 0.0  
+20. Scream is also an ex                ... pos = 0.75  	neg = 0.125
+21. Within the film are                 ... pos = 2.0   	neg = 0.0  
+22. Mainly from the rant                ... pos = 2.0   	neg = 0.25 
+23. Not only are we trea                ... pos = 1.125 	neg = 0.0  
+24. The script feels lik                ... pos = 0.0   	neg = 0.75 
+25. In this case, Willia                ... pos = 0.0   	neg = 1.125
+26. I hear there is a ne                ... pos = 0.375 	neg = 1.875
+27. I will certainly see                ... pos = 1.0   	neg = 0.125
+28. However my last gut                 ... pos = 0.125 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-3193-778 is Positive         ... pos = 20.625 	neg = 16.625
+Overall score of document
+Total Pos = 20.625
+Total Neg = 16.625
+---------------------------------------------------------------------------

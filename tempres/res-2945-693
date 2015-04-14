@@ -1,0 +1,36 @@
+0. Starring-Julia Rober                 ... pos = 0.25  	neg = 0.25 
+1. ' during showtime.                   ... pos = 0     	neg = 0.0  
+2. Hoping to keep my pe                 ... pos = 1.375 	neg = 0.5  
+3. After all, the title                 ... pos = 1.375 	neg = 0.125
+4. Although her manner                  ... pos = 1.0   	neg = 0.625
+5. The twice-divorced m                 ... pos = 0.875 	neg = 0.0  
+6. While in certain cir                 ... pos = 0.875 	neg = 0.25 
+7. Roberts is certainly                 ... pos = 2.625 	neg = 0.375
+8. An early prediction                  ... pos = 0.75  	neg = 0.0  
+9. Erin first meets Mas                 ... pos = 0.125 	neg = 0.25 
+10. Unfortunately, even                 ... pos = 0.0   	neg = 1.375
+11. Afterward (and I'm s                ... pos = 1.0   	neg = 0.0  
+12. Finney (most recentl                ... pos = 0.875 	neg = 0.125
+13. More enthusiasm shou                ... pos = 0.5   	neg = 0.125
+14. The main concentrati                ... pos = 1.875 	neg = 0.125
+15. Did I mention this i                ... pos = 0.5   	neg = 0.125
+16. The accolades of the                ... pos = 1.75  	neg = 0.125
+17. The plot, involving                 ... pos = 2.5   	neg = 0.875
+18. Soderbergh's latest                 ... pos = 0.375 	neg = 0.375
+19. Just as Soderbergh r                ... pos = 1.125 	neg = 0.375
+20. More likable magneti                ... pos = 0.125 	neg = 0.375
+21. The grin on your fac                ... pos = 0.75  	neg = 0.625
+22. It's all the more ac                ... pos = 1.625 	neg = 0.0  
+23. It's nice to be able                ... pos = 0.5   	neg = 0.25 
+24. Soderbergh puts litt                ... pos = 0.375 	neg = 0.25 
+25. Let's hope `Erin Bro                ... pos = 1.0   	neg = 0.25 
+26. If the Academy membe                ... pos = 0.375 	neg = 0.75 
+27. Just as the title ch                ... pos = 1.0   	neg = 0.0  
+28. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+29. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2945-693 is Positive         ... pos = 25.5  	neg = 8.5  
+Overall score of document
+Total Pos = 25.5
+Total Neg = 8.5
+---------------------------------------------------------------------------

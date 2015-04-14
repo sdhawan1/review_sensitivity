@@ -1,0 +1,78 @@
+0. Jackie Brown (1997)                  ... pos = 0.125 	neg = 0.25 
+1. ----------  Out of 4                 ... pos = 0.0   	neg = 0.125
+2. After his PULP FICTI                 ... pos = 0.0   	neg = 0.0  
+3. John Travolta made h                 ... pos = 0.0   	neg = 0.125
+4. Bruce Willis proved                  ... pos = 0.25  	neg = 0.125
+5. JACKIE BROWN, on the                 ... pos = 0.0   	neg = 0.0  
+6. Most likely you have                 ... pos = 0.25  	neg = 0.125
+7. That is, until now.                  ... pos = 0.0   	neg = 0.125
+8. JACKIE BROWN is a hi                 ... pos = 0.875 	neg = 0.375
+9. After mediocre actin                 ... pos = 0.0   	neg = 0.778
+10. JACKIE BROWN is the                 ... pos = 0.375 	neg = 0.25 
+11. Despite excellent di                ... pos = 2.25  	neg = 0.125
+12. Pam Grier gives a st                ... pos = 0.375 	neg = 0.125
+13. More than likely, yo                ... pos = 0.125 	neg = 0.0  
+14. Describing a Quentin                ... pos = 0.625 	neg = 0.125
+15. I will tread lightly                ... pos = 0.125 	neg = 0.0  
+16. JACKIE BROWN opens w                ... pos = 0.125 	neg = 0.0  
+17. The camera tracks al                ... pos = 0.0   	neg = 0.0  
+18. We are also introduc                ... pos = 0.375 	neg = 0.0  
+19. Ms. Brown carries th                ... pos = 0.0   	neg = 0.25 
+20. However, an FBI agen                ... pos = 0.375 	neg = 0.25 
+21. They try to reach hi                ... pos = 0.375 	neg = 0.0  
+22. They try again throu                ... pos = 0.0   	neg = 0.125
+23. But after unknowingl                ... pos = 0.25  	neg = 0.5  
+24. Ordell pays her bail                ... pos = 0.125 	neg = 0.25 
+25. After she claims to                 ... pos = 0.125 	neg = 0.25 
+26. Ordell doesn't like                 ... pos = 0.0   	neg = 0.875
+27. This scheme seems to                ... pos = 0.125 	neg = 0.25 
+28. Revealing more would                ... pos = 0.125 	neg = 0.0  
+29. Tarantino seems to h                ... pos = 1.625 	neg = 0.125
+30. His hitmen are norma                ... pos = 0.875 	neg = 0.0  
+31. They talk like norma                ... pos = 1.0   	neg = 0.0  
+32. Of course, this is a                ... pos = 0.0   	neg = 0.125
+33. And perhaps the bigg                ... pos = 0.0   	neg = 0.125
+34. Of course, Tarantino                ... pos = 0.0   	neg = 0.0  
+35. Things are told from                ... pos = 0.25  	neg = 0.25 
+36. This all leads up to                ... pos = 0.5   	neg = 0.125
+37. On the technical sid                ... pos = 0.0   	neg = 0.0  
+38. However, this time a                ... pos = 0.25  	neg = 0.0  
+39. The writing, on the                 ... pos = 0.75  	neg = 0.125
+40. The story jumps back                ... pos = 0.75  	neg = 0.0  
+41. His previous film ne                ... pos = 1.0   	neg = 0.5  
+42. Perhaps this is a re                ... pos = 0.25  	neg = 0.125
+43. The dialogue is pret                ... pos = 1.625 	neg = 0.25 
+44. The cinematography i                ... pos = 1.75  	neg = 0.25 
+45. And as with PULP FIC                ... pos = 0.375 	neg = 0.125
+46. The acting side of J                ... pos = 0.125 	neg = 0.125
+47. The performances are                ... pos = 0.25  	neg = 0.5  
+48. Nothing is quite as                 ... pos = 0.0   	neg = 0.625
+49. The real treat, of c                ... pos = 0.0   	neg = 0.125
+50. Her poor living cond                ... pos = 1.25  	neg = 0.0  
+51. Watching Grieg, I co                ... pos = 0.125 	neg = 0.25 
+52. Her face portrays a                 ... pos = 1.25  	neg = 0.875
+53. Bridget Fonda gives                 ... pos = 1.25  	neg = 0    
+54. I didn't even realiz                ... pos = 0.125 	neg = 0.125
+55. Michael Keaton comes                ... pos = 0.5   	neg = 0.0  
+56. Chris Tucker has a s                ... pos = 0.25  	neg = 0.0  
+57. Samuel L. Jackson is                ... pos = 2.375 	neg = 0.375
+58. But no matter... Jac                ... pos = 1.0   	neg = 0.375
+59. Robert De Niro is ac                ... pos = 1.375 	neg = 0.625
+60. Robert Forster gives                ... pos = 1.5   	neg = 0    
+61. He is present throug                ... pos = 0.25  	neg = 0.125
+62. JACKIE BROWN is rate                ... pos = 0.125 	neg = 0.375
+63. As a film by itself,                ... pos = 0.5   	neg = 0.125
+64. However, one can not                ... pos = 0.625 	neg = 0.0  
+65. When compared, it co                ... pos = 0.0   	neg = 0.0  
+66. It's a worthy effort                ... pos = 0.875 	neg = 0.0  
+67. Perhaps the best thi                ... pos = 0.375 	neg = 0.125
+68. I can't remember see                ... pos = 0.125 	neg = 0.125
+69. ), but hopefully she                ... pos = 0.625 	neg = 0.0  
+70. Expect to see her na                ... pos = 0.75  	neg = 0.125
+71. Reviewed by Respect                 ... pos = 0.75  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6249-1566 is Positive        ... pos = 34.75 	neg = 12.528
+Overall score of document
+Total Pos = 34.75
+Total Neg = 12.528
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. Hello everyone.                      ... pos = 0     	neg = 0.0  
+1. This is my first rev                 ... pos = 0.5   	neg = 0.125
+2. Please give me any c                 ... pos = 0.0   	neg = 0.0  
+3. Thank you and enjoy                  ... pos = 0.375 	neg = 0.0  
+4. Directed by Joe John                 ... pos = 0.0   	neg = 0    
+5. Screenplay by Lewis                  ... pos = 0.0   	neg = 0.0  
+6. Running time: 108 mi                 ... pos = 0     	neg = 0.0  
+7. Rated PG (for langua                 ... pos = 0.5   	neg = 0.125
+8. It's family friendly                 ... pos = 0.5   	neg = 0.0  
+9. It funny, touching,                  ... pos = 0.125 	neg = 0.0  
+10. October Sky is the t                ... pos = 0.5   	neg = 0.25 
+11. He starts making pla                ... pos = 0.75  	neg = 0.0  
+12. They find they need                 ... pos = 0.0   	neg = 0.25 
+13. Together the four st                ... pos = 1.0   	neg = 0.0  
+14. Homer's father John                 ... pos = 0.375 	neg = 0.375
+15. So Homer has many sc                ... pos = 0.25  	neg = 0.0  
+16. Homer's teacher Ms.                 ... pos = 0.625 	neg = 0.0  
+17. Both are storylines                 ... pos = 0.25  	neg = 0    
+18. Director Joe Johnsto                ... pos = 0.25  	neg = 0.0  
+19. He doesn't overuse o                ... pos = 0.875 	neg = 0.0  
+20. Homer is the main ch                ... pos = 1.0   	neg = 0.125
+21. I have a feeling thi                ... pos = 0.0   	neg = 0.25 
+22. Many will complain t                ... pos = 0.125 	neg = 0.25 
+23. I thought of October                ... pos = 0.5   	neg = 0.125
+24. If Homer and friends                ... pos = 0.875 	neg = 0.375
+25. Also this is based o                ... pos = 0.5   	neg = 0.875
+26. My only complaint wi                ... pos = 0.0   	neg = 0.375
+27. Come the 2000 Academ                ... pos = 1.25  	neg = 0.125
+28. This film should be                 ... pos = 0.875 	neg = 0.125
+29. The cinematogery is                 ... pos = 1.5   	neg = 0.125
+30. The acting is top no                ... pos = 1.5   	neg = 0.125
+31. How about that Gylen                ... pos = 0     	neg = 0.0  
+32. A unknown to me has                 ... pos = 0.0   	neg = 0.125
+33. Pray he doesn't end                 ... pos = 0.0   	neg = 0.0  
+34. I can't wait to see                 ... pos = 0.0   	neg = 0.0  
+35. October Sky is a fil                ... pos = 0.125 	neg = 0.125
+36. I'm not saying they                 ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2340-827 is Positive         ... pos = 15.5  	neg = 4.5  
+Overall score of document
+Total Pos = 15.5
+Total Neg = 4.5
+---------------------------------------------------------------------------

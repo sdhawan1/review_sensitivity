@@ -1,0 +1,26 @@
+0. Synopsis:  Jackie Br                 ... pos = 0.0   	neg = 0.0  
+1. She is caught smuggl                 ... pos = 0.0   	neg = 0.125
+2. Now the ATF wants Ja                 ... pos = 0.75  	neg = 0.0  
+3. Jackie tells Ordell                  ... pos = 0.625 	neg = 0.0  
+4. She tells the ATF sh                 ... pos = 0.625 	neg = 0.0  
+5. Her real plan is to                  ... pos = 0.0   	neg = 0.5  
+6. Will Jackie's scam s                 ... pos = 0.25  	neg = 0    
+7. Opinion: JACKIE BROW                 ... pos = 0.625 	neg = 0.125
+8. First, it takes a wh                 ... pos = 0.125 	neg = 0.0  
+9. After that, there is                 ... pos = 0.0   	neg = 0.375
+10. Once Jackie reveals                 ... pos = 0.0   	neg = 1.0  
+11. It's just a matter o                ... pos = 3.25  	neg = 0.25 
+12. Still, it is kind of                ... pos = 0.75  	neg = 0.125
+13. Of course, Tarantino                ... pos = 1.208 	neg = 0.0  
+14. Director: Director Q                ... pos = 0.375 	neg = 0.375
+15. Like Woody Allen, he                ... pos = 0.875 	neg = 0.0  
+16. The difference is, T                ... pos = 2.0   	neg = 1.125
+17. Sometimes Tarantino'                ... pos = 0.5   	neg = 0.125
+18. Personally I would l                ... pos = 1.125 	neg = 0.0  
+19. The Bond movie could                ... pos = 1.5   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6249-416 is Positive         ... pos = 14.583 	neg = 4.625
+Overall score of document
+Total Pos = 14.583
+Total Neg = 4.625
+---------------------------------------------------------------------------

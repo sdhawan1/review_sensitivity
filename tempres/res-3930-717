@@ -1,0 +1,32 @@
+0. CONSPIRACY THEORY (W                 ... pos = 0.125 	neg = 0.375
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.0   	neg = 0.125
+3. Formerly known prima                 ... pos = 1.875 	neg = 0.375
+4. CONFIDENTIAL, schedu                 ... pos = 0.375 	neg = 0.0  
+5. Mr. Helgeland's own                  ... pos = 1.25  	neg = 0.375
+6. The pivotal film in                  ... pos = 0.75  	neg = 0.0  
+7. -- he wrote the scre                 ... pos = 0.75  	neg = 0.625
+8. To some extent, he d                 ... pos = 0.0   	neg = 0.0  
+9. Unfortunately, that'                 ... pos = 0.625 	neg = 0.875
+10. Have you heard a goo                ... pos = 0.75  	neg = 0.0  
+11. Jerry Fletcher has a                ... pos = 0.0   	neg = 0.0  
+12. From the real cause                 ... pos = 1.125 	neg = 0.875
+13. When they're not ner                ... pos = 2.125 	neg = 0.625
+14. One of the theories                 ... pos = 0.625 	neg = 1.75 
+15. Jerry manages to pul                ... pos = 0.375 	neg = 0.875
+16. CONSPIRACY THEORY ha                ... pos = 1.0   	neg = 0.75 
+17. The film could have                 ... pos = 0.625 	neg = 0.375
+18. Virtually every unim                ... pos = 8.125 	neg = 0.75 
+19. Wasted in the procee                ... pos = 3.364 	neg = 2.75 
+20. Carter Burwell's big                ... pos = 0.875 	neg = 0.375
+21. CONSPIRACY THEORY is                ... pos = 0.5   	neg = 0.75 
+22. In terms of filmwatc                ... pos = 0.5   	neg = 2.375
+23. In CONSPIRACY THEORY                ... pos = 0.0   	neg = 0.125
+24. -- Alex Fung (aw220@                ... pos = 0.0   	neg = 0.0  
+25. " - Aaron Eckhart, I                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3930-717 is Positive         ... pos = 25.739 	neg = 15.25
+Overall score of document
+Total Pos = 25.739
+Total Neg = 15.25
+---------------------------------------------------------------------------

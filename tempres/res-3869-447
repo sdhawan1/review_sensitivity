@@ -1,0 +1,46 @@
+0. As any reasonable hu                 ... pos = 0.75  	neg = 0.75 
+1. I am befuddled by Fi                 ... pos = 0.0   	neg = 0.75 
+2. Now sometimes our fa                 ... pos = 0.75  	neg = 0.0  
+3. Perhaps it is becaus                 ... pos = 0.25  	neg = 0.125
+4. Perhaps it is becaus                 ... pos = 1.625 	neg = 0.125
+5. Fight Club is either                 ... pos = 1.25  	neg = 0.125
+6. Maybe I am subconsci                 ... pos = 0.625 	neg = 0.375
+7. But if it is, I sure                 ... pos = 0.25  	neg = 0.125
+8. Edward Norton plays                  ... pos = 0.0   	neg = 0.0  
+9. His insomnia, couple                 ... pos = 0.25  	neg = 1.125
+10. But when all of his                 ... pos = 0.25  	neg = 0.0  
+11. Once Jack is sucked                 ... pos = 0.0   	neg = 0.125
+12. They begin Fight Clu                ... pos = 0.0   	neg = 0.5  
+13. As the Fight Club gr                ... pos = 0.0   	neg = 0.0  
+14. I dare not even begi                ... pos = 0.0   	neg = 0.5  
+15. Suffice it to say I                 ... pos = 2.625 	neg = 0.125
+16. This is not to imply                ... pos = 0.375 	neg = 0.5  
+17. But with Fight Club,                ... pos = 1.375 	neg = 0.875
+18. Now, throughout the                 ... pos = 0.5   	neg = 0.625
+19. Advertisements, inte                ... pos = 0.125 	neg = 0.0  
+20. (Though the media ar                ... pos = 0.5   	neg = 0.0  
+21. ) All of them play a                ... pos = 0.875 	neg = 0    
+22. How so?                             ... pos = 0     	neg = 0.0  
+23. Well, I can kinda ju                ... pos = 0.0   	neg = 0.0  
+24. I canšt really put                 ... pos = 0.0   	neg = 0.0  
+25. To say that Starbuck                ... pos = 0.25  	neg = 0.375
+26. Is that bad for the                 ... pos = 0.0   	neg = 1.0  
+27. Probably.                           ... pos = 0.0   	neg = 0    
+28. Not much room for so                ... pos = 0.125 	neg = 0.0  
+29. We all know that int                ... pos = 0.5   	neg = 0.0  
+30. So what was the poin                ... pos = 0.0   	neg = 0.125
+31. The film seems despe                ... pos = 0.375 	neg = 0.5  
+32. All I saw was a very                ... pos = 0.875 	neg = 0.5  
+33. (Pitt, Carter, Norto                ... pos = 1.0   	neg = 0    
+34. Even Meatloaf is goo                ... pos = 0.75  	neg = 0.125
+35. ) When you get to th                ... pos = 0.125 	neg = 0.125
+36. Not them, because ea                ... pos = 0.625 	neg = 0.0  
+37. Fight Club means wha                ... pos = 0.0   	neg = 0.375
+38. But it couldnšt be                 ... pos = 0.0   	neg = 0.75 
+39. Sure, it had shock v                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3869-447 is Positive         ... pos = 17.75 	neg = 10.75
+Overall score of document
+Total Pos = 17.75
+Total Neg = 10.75
+---------------------------------------------------------------------------

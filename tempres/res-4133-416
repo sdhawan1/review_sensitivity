@@ -1,0 +1,15 @@
+0. Starring: Adam Sandl                 ... pos = 1.125 	neg = 0.125
+1. Robbie (Adam Sandler                 ... pos = 0.0   	neg = 0.125
+2. After getting left a                 ... pos = 0.75  	neg = 0.375
+3. The two were made fo                 ... pos = 0.0   	neg = 0.125
+4. The trouble is, fair                 ... pos = 0.0   	neg = 0.875
+5. At the same time, Ro                 ... pos = 0.5   	neg = 0.875
+6. Can Robbie and Julia                 ... pos = 0.625 	neg = 0.0  
+7. Opinion:  THE WEDDIN                 ... pos = 1.75  	neg = 1.5  
+8. Although it is silly                 ... pos = 2.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-4133-416 is Positive         ... pos = 6.75  	neg = 4.625
+Overall score of document
+Total Pos = 6.75
+Total Neg = 4.625
+---------------------------------------------------------------------------

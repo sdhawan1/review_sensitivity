@@ -1,0 +1,27 @@
+0. Another misleading t                 ... pos = 0.25  	neg = 0.25 
+1. Meeting as in finall                 ... pos = 0.0   	neg = 0.0  
+2. Tom Hanks's Joe Fox                  ... pos = 1.125 	neg = 0.25 
+3. Well, maybe I exagge                 ... pos = 0.625 	neg = 0.125
+4. With clever writing,                 ... pos = 0.5   	neg = 0.125
+5. This way, Joe gets a                 ... pos = 0.5   	neg = 0.125
+6. If he hadn't know th                 ... pos = 1.5   	neg = 1.0  
+7. Another bonus is tha                 ... pos = 0.375 	neg = 0.25 
+8. On one side we get t                 ... pos = 0.5   	neg = 2.625
+9. One side he's flippa                 ... pos = 0.708 	neg = 0.0  
+10. As much as we would                 ... pos = 0.25  	neg = 1.375
+11. This movie demonstra                ... pos = 0.5   	neg = 0.0  
+12. "You've Got Mail" is                ... pos = 0.25  	neg = 0.25 
+13. Albeit slow at times                ... pos = 0.625 	neg = 0.5  
+14. Amazing score here),                ... pos = 0.5   	neg = 0.125
+15. Tom Hanks and Meg Ry                ... pos = 1.375 	neg = 0.0  
+16. This guy *does* dese                ... pos = 1.375 	neg = 0.125
+17. I also enjoyed Parke                ... pos = 0.375 	neg = 0.25 
+18. With a whimsical scr                ... pos = 1.375 	neg = 0.125
+19. * Kudos for the love                ... pos = 0.25  	neg = 0    
+20. The dark colors crea                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5378-977 is Positive         ... pos = 13.458 	neg = 7.5  
+Overall score of document
+Total Pos = 13.458
+Total Neg = 7.5
+---------------------------------------------------------------------------

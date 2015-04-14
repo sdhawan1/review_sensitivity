@@ -1,0 +1,29 @@
+0. A powerful and unfor                 ... pos = 0.875 	neg = 0.125
+1. The chief feature of                 ... pos = 1.0   	neg = 0.25 
+2. By adding a  fiction                 ... pos = 1.0   	neg = 0.125
+3. The movie uses these                 ... pos = 0.875 	neg = 0.0  
+4. In the summer of 197                 ... pos = 2.614 	neg = 0.5  
+5. As the temperatures                  ... pos = 1.125 	neg = 0.125
+6. Spike Lee's fictiona                 ... pos = 0.875 	neg = 0.375
+7. Using fractured logi                 ... pos = 0.5   	neg = 0.375
+8. So a list of everyon                 ... pos = 0.125 	neg = 0.375
+9. Son of Sam (Michael                  ... pos = 0.125 	neg = 0.0  
+10. The time that he is                 ... pos = 0.25  	neg = 0.25 
+11. Every murder he comm                ... pos = 0.75  	neg = 0.5  
+12. Not once during any                 ... pos = 0.625 	neg = 0.375
+13. Summer of Sam also f                ... pos = 0.5   	neg = 0.125
+14. Several scenes focus                ... pos = 0.125 	neg = 0.25 
+15. One scene  includes                 ... pos = 0.0   	neg = 0.125
+16. Being that a subplot                ... pos = 1.375 	neg = 0.5  
+17. The production inclu                ... pos = 0.125 	neg = 0.0  
+18. Scenes range from th                ... pos = 0.375 	neg = 0.0  
+19. The film also uses a                ... pos = 1.0   	neg = 0.375
+20. When David Berkowitz                ... pos = 1.25  	neg = 0.75 
+21. He had been a strong                ... pos = 0.875 	neg = 0.25 
+22. Comparatively, Summe                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1257-592 is Positive         ... pos = 17.364 	neg = 5.875
+Overall score of document
+Total Pos = 17.364
+Total Neg = 5.875
+---------------------------------------------------------------------------

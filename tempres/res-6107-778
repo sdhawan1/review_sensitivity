@@ -1,0 +1,49 @@
+0. By Lars Lindahl, Hig                 ... pos = 0.5   	neg = 0.0  
+1. He has made three co                 ... pos = 0.0   	neg = 0.875
+2. In a domain that he                  ... pos = 1.375 	neg = 1.0  
+3. Eraser, back in 1996                 ... pos = 0.0   	neg = 0.375
+4. Batman and Robin, in                 ... pos = 0.0   	neg = 1.0  
+5. Now in 1999, "End of                 ... pos = 0.0   	neg = 0.125
+6. Is this the end of a                 ... pos = 0.25  	neg = 0.125
+7. Will Arnold ever giv                 ... pos = 1.125 	neg = 0.25 
+8. Or an unforgettable                  ... pos = 0.25  	neg = 0.625
+9. It doesn't look that                 ... pos = 0.0   	neg = 0.375
+10. "End of Days" begins                ... pos = 1.125 	neg = 0.125
+11. Fortunately for the                 ... pos = 0.625 	neg = 0.75 
+12. It's an action film'                ... pos = 0.875 	neg = 0.375
+13. Imagine if the girl                 ... pos = 0.0   	neg = 0.625
+14. Arnold Schwarzenegge                ... pos = 0.0   	neg = 2.125
+15. If the Devil is succ                ... pos = 0.75  	neg = 0.5  
+16. Jericho feels it is                 ... pos = 0.625 	neg = 1.25 
+17. Jericho Cane is your                ... pos = 0.5   	neg = 0.625
+18. Arnold fittingly pla                ... pos = 0.875 	neg = 0.5  
+19. He shouts at everyon                ... pos = 0.0   	neg = 1.125
+20. In one truly hilario                ... pos = 1.75  	neg = 0.125
+21. You are a choir boy!                ... pos = 0.25  	neg = 0    
+22. " Those two lines ma                ... pos = 0.5   	neg = 0.0  
+23. A movie can still be                ... pos = 1.125 	neg = 0.25 
+24. "End of Days" fails                 ... pos = 0.25  	neg = 0.125
+25. Byrne, playing a man                ... pos = 0.125 	neg = 0.5  
+26. He wonderfully plays                ... pos = 0.125 	neg = 0.25 
+27. The annoying thing a                ... pos = 1.5   	neg = 0.375
+28. I can not count the                 ... pos = 0.5   	neg = 0.0  
+29. The other actors in                 ... pos = 0.5   	neg = 1.0  
+30. Kevin Pollak, who pl                ... pos = 1.0   	neg = 0.125
+31. The one problem is t                ... pos = 0.0   	neg = 0.375
+32. Robin Tunney plays t                ... pos = 0.125 	neg = 0.25 
+33. She gets no sympathy                ... pos = 1.125 	neg = 0.625
+34. In one unnecessary s                ... pos = 0.0   	neg = 0.875
+35. Is this her job in t                ... pos = 0.0   	neg = 0.125
+36. The actors are not t                ... pos = 0.75  	neg = 1.25 
+37. You can tell a scrip                ... pos = 0.5   	neg = 0.75 
+38. This little predicti                ... pos = 0.625 	neg = 1.25 
+39. In a last attempt to                ... pos = 1.125 	neg = 0.25 
+40. But without a memora                ... pos = 0.375 	neg = 0.0  
+41. This film would have                ... pos = 0.25  	neg = 0.5  
+42. " for two hours. . .                ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6107-778 is Negative         ... pos = 21.5  	neg = 21.75
+Overall score of document
+Total Pos = 21.5
+Total Neg = 21.75
+---------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+0. 14th and 17th Septem                 ... pos = 0.875 	neg = 0.0  
+1. I had been an admire                 ... pos = 1.875 	neg = 0.375
+2. It was nevertheless                  ... pos = 0.5   	neg = 1.125
+3. For three and a half                 ... pos = 0.875 	neg = 0.125
+4. Cast replacements an                 ... pos = 0.5   	neg = 0.75 
+5. Finally the film its                 ... pos = 0.0   	neg = 0.0  
+6. This is the last tim                 ... pos = 0.5   	neg = 0.125
+7. He was a legendary f                 ... pos = 0.875 	neg = 0.125
+8. And now he's gone.                   ... pos = 0.0   	neg = 0.0  
+9. In Eyes Wide Shut, T                 ... pos = 1.25  	neg = 0.0  
+10. Their marriage seems                ... pos = 0.375 	neg = 0.375
+11. Bill is deeply distu                ... pos = 1.875 	neg = 0.625
+12. Is Eyes Wide Shut th                ... pos = 0.875 	neg = 0.125
+13. I think it depends o                ... pos = 0.0   	neg = 0.0  
+14. Some are put off by                 ... pos = 2.25  	neg = 0.625
+15. This clinical formal                ... pos = 0.625 	neg = 0.125
+16. Personally, I'm will                ... pos = 0.0   	neg = 0.0  
+17. After first seeing E                ... pos = 1.125 	neg = 0.0  
+18. Now it's had a chanc                ... pos = 0.5   	neg = 0.375
+19. The film is full of                 ... pos = 0.125 	neg = 0.125
+20. Questions are raised                ... pos = 1.125 	neg = 0.125
+21. A second viewing rai                ... pos = 0.375 	neg = 0    
+22. The centrepiece of t                ... pos = 0.0   	neg = 0.125
+23. From the moment Bill                ... pos = 0.75  	neg = 0.125
+24. The interplay of ima                ... pos = 1.0   	neg = 0.875
+25. The American release                ... pos = 1.125 	neg = 0.125
+26. This was done to get                ... pos = 0.625 	neg = 0.125
+27. This has become know                ... pos = 0.75  	neg = 0.0  
+28. The digital cover-up                ... pos = 0.125 	neg = 0.25 
+29. In the U.S., hardcor                ... pos = 1.875 	neg = 0.625
+30. What a strange count                ... pos = 0.375 	neg = 0.125
+31. The film has an extr                ... pos = 0.625 	neg = 0.0  
+32. As he has done befor                ... pos = 0.75  	neg = 0.125
+33. The film was deliber                ... pos = 0.625 	neg = 0.125
+34. This produces a drea                ... pos = 0.0   	neg = 0.0  
+35. At times the scene s                ... pos = 0.875 	neg = 0.5  
+36. (On a more practical                ... pos = 0.125 	neg = 0.375
+37. ) The look of the fi                ... pos = 1.875 	neg = 0.125
+38. Although there are f                ... pos = 1.875 	neg = 0.0  
+39. Interiors are framed                ... pos = 1.25  	neg = 0.125
+40. Colours scream out a                ... pos = 0.0   	neg = 0.0  
+41. What that significan                ... pos = 0.0   	neg = 1.125
+42. Kubrick films work a                ... pos = 1.0   	neg = 0.125
+43. As is usual with Kub                ... pos = 0.125 	neg = 0.25 
+44. The original pieces                 ... pos = 0.25  	neg = 0.125
+45. Kubrick has again ma                ... pos = 0.0   	neg = 0.0  
+46. The use of Ligeti in                ... pos = 0.75  	neg = 0.125
+47. To the untrained ear                ... pos = 0.25  	neg = 0.75 
+48. Listening to the mus                ... pos = 0.625 	neg = 0.75 
+49. Another noteworthy a                ... pos = 0.0   	neg = 0.25 
+50. Tom Cruise is not an                ... pos = 0.375 	neg = 0.5  
+51. The casting of Cruis                ... pos = 0.0   	neg = 0.125
+52. In defending his cas                ... pos = 1.75  	neg = 0.0  
+53. Presumably similar c                ... pos = 0.375 	neg = 0.0  
+54. He is nevertheless h                ... pos = 0.125 	neg = 0.375
+55. Nicole Kidman is gen                ... pos = 0.0   	neg = 0.25 
+56. The minor roles are                 ... pos = 0.375 	neg = 0.0  
+57. None of this is mean                ... pos = 0.5   	neg = 1.75 
+58. Sydney Pollack's per                ... pos = 1.0   	neg = 0.0  
+59. The pacing of the fi                ... pos = 0.0   	neg = 0.125
+60. Scenes are dragged o                ... pos = 0.25  	neg = 0.25 
+61. Kubrick has been kno                ... pos = 2.0   	neg = 0.25 
+62. With his death, the                 ... pos = 0.0   	neg = 0    
+63. Despite being half a                ... pos = 1.5   	neg = 0.75 
+64. It is magnificent, b                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1684-312 is Positive         ... pos = 43.375 	neg = 16.875
+Overall score of document
+Total Pos = 43.375
+Total Neg = 16.875
+---------------------------------------------------------------------------

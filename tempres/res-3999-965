@@ -1,0 +1,33 @@
+0. The World is Not Eno                 ... pos = 0.0   	neg = 0.875
+1. What we expect at th                 ... pos = 0.875 	neg = 0.125
+2. But, instead of deli                 ... pos = 1.0   	neg = 0.375
+3. Not that this James                  ... pos = 0.0   	neg = 1.0  
+4. And The World is Not                 ... pos = 0.0   	neg = 0.125
+5. It's just that, inst                 ... pos = 0.625 	neg = 0.125
+6. As for the story, th                 ... pos = 0.5   	neg = 0.125
+7. And, as the trailer                  ... pos = 0.0   	neg = 0.375
+8. M (Judi Dench) even                  ... pos = 0.0   	neg = 0.0  
+9. And, returning to th                 ... pos = 0.0   	neg = 0.875
+10. What's particularly                 ... pos = 0.25  	neg = 1.5  
+11. They just want to ge                ... pos = 0.0   	neg = 0.125
+12. And with oil, at tha                ... pos = 0.0   	neg = 0.125
+13. And of course there'                ... pos = 0.375 	neg = 0.625
+14. There are some touch                ... pos = 0.375 	neg = 0.25 
+15. Well, two: the first                ... pos = 0.125 	neg = 0.375
+16. The other 'touching'                ... pos = 0.0   	neg = 0.125
+17. It's a rare moment i                ... pos = 0.5   	neg = 0.0  
+18. The thing is, though                ... pos = 0.0   	neg = 0.125
+19. Granted, in a series                ... pos = 0.875 	neg = 0.5  
+20. At least a nod of ac                ... pos = 0.0   	neg = 0.0  
+21. As it is, though, th                ... pos = 1.25  	neg = 0.25 
+22. He deserves it after                ... pos = 0.75  	neg = 0.0  
+23. It's not all about Q                ... pos = 0.0   	neg = 0.0  
+24. .                                   ... pos = 0     	neg = 0    
+25. .                                   ... pos = 0     	neg = 0    
+26. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3999-965 is Negative         ... pos = 7.5   	neg = 8.0  
+Overall score of document
+Total Pos = 7.5
+Total Neg = 8.0
+---------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+0. These days, teen sla                 ... pos = 0.75  	neg = 0.375
+1. But in a strange rev                 ... pos = 1.625 	neg = 0.0  
+2. In this return to pr                 ... pos = 1.25  	neg = 0.25 
+3. The story has a prem                 ... pos = 0.0   	neg = 0.0  
+4. A group of high-scho                 ... pos = 0.0   	neg = 0.125
+5. While in the aircraf                 ... pos = 0.125 	neg = 0.625
+6. He panics and is rem                 ... pos = 0.0   	neg = 0.125
+7. Sure enough, the pla                 ... pos = 0.5   	neg = 0.0  
+8. When bizarre and wic                 ... pos = 0.25  	neg = 0.875
+9. As the film progress                 ... pos = 1.125 	neg = 0.375
+10. Some of the deaths a                ... pos = 0.875 	neg = 1.75 
+11. Just to keep us on o                ... pos = 0.0   	neg = 0.5  
+12. Final Destination is                ... pos = 1.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-5575-312 is Positive         ... pos = 7.5   	neg = 5.75 
+Overall score of document
+Total Pos = 7.5
+Total Neg = 5.75
+---------------------------------------------------------------------------

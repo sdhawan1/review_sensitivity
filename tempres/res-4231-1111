@@ -1,0 +1,34 @@
+0. After viewing Dustin                 ... pos = 0.5   	neg = 1.125
+1. Just  after Bill Cli                 ... pos = 0.0   	neg = 0.125
+2. The prospect of war                  ... pos = 0.0   	neg = 0.25 
+3. An eerily similar si                 ... pos = 1.375 	neg = 1.5  
+4. In essence the film                  ... pos = 0.0   	neg = 0.125
+5. In execution,  Wag t                 ... pos = 0.125 	neg = 1.125
+6. Not that the film ha                 ... pos = 3.125 	neg = 1.125
+7. After the Presidents                 ... pos = 0.875 	neg = 0.125
+8. Their plan  is simpl                 ... pos = 0.0   	neg = 0.125
+9. What, after all, do                  ... pos = 0.75  	neg = 0.0  
+10. Perhaps photos in ma                ... pos = 0.0   	neg = 0.0  
+11. If this weren't abou                ... pos = 0.125 	neg = 0.125
+12. Realizing this, Conr                ... pos = 0.0   	neg = 0.0  
+13. Realistic acting, sp                ... pos = 1.5   	neg = 0.25 
+14. Surely, Wag the Dog                 ... pos = 0.375 	neg = 0.625
+15. It's funny.                         ... pos = 0     	neg = 0.0  
+16. It's engaging.                      ... pos = 0.0   	neg = 0    
+17. It's studious.                      ... pos = 0.25  	neg = 0    
+18. It's all of those th                ... pos = 0.0   	neg = 0.0  
+19. Because Wag is an em                ... pos = 1.5   	neg = 2.375
+20. But for those who cr                ... pos = 0.875 	neg = 0.5  
+21. In short: if you lik                ... pos = 0.0   	neg = 0.0  
+22. And if you like what                ... pos = 0.0   	neg = 0.0  
+23. Director Barry Levin                ... pos = 1.25  	neg = 0.0  
+24. Hoffman, DeNiro and                 ... pos = 0.375 	neg = 0.125
+25. Not only do they sou                ... pos = 0.0   	neg = 0.75 
+26. Wag the Dog's  actin                ... pos = 0.625 	neg = 0.375
+27. Surely, Wag is a mas                ... pos = 1.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4231-1111 is Positive        ... pos = 14.625 	neg = 11.125
+Overall score of document
+Total Pos = 14.625
+Total Neg = 11.125
+---------------------------------------------------------------------------

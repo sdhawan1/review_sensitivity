@@ -1,0 +1,41 @@
+0. Starring Ben Affleck                 ... pos = 0.5   	neg = 0.0  
+1. What makes Reindeer                  ... pos = 0.0   	neg = 0.875
+2. Most of the people i                 ... pos = 1.25  	neg = 1.25 
+3. John Frankenheimer,                  ... pos = 1.5   	neg = 0.0  
+4. Screenwriter Ehren K                 ... pos = 0.375 	neg = 0.0  
+5. Ben Affleck displaye                 ... pos = 0.125 	neg = 0.75 
+6. Even Charlize Theron                 ... pos = 0.125 	neg = 0.125
+7. When all of these br                 ... pos = 0.625 	neg = 0.125
+8. After coming out of                  ... pos = 0.125 	neg = 0.125
+9. The movie could have                 ... pos = 0.125 	neg = 0.125
+10. The acting is so pit                ... pos = 0.25  	neg = 1.417
+11. It seemed like every                ... pos = 0.0   	neg = 0.25 
+12. We have all seen Ben                ... pos = 0.5   	neg = 0.375
+13. The actors in that m                ... pos = 0.25  	neg = 0.125
+14. Reindeer Games is th                ... pos = 1.125 	neg = 1.125
+15. Evidence of public d                ... pos = 0.0   	neg = 0.25 
+16. " and when there wer                ... pos = 0.5   	neg = 0.25 
+17. The story follows a                 ... pos = 0.625 	neg = 0.125
+18. Nick has been exchan                ... pos = 1.375 	neg = 0.125
+19. When Nick is killed                 ... pos = 0.125 	neg = 0.5  
+20. Unfortunately Ashley                ... pos = 0.0   	neg = 0.875
+21. Thinking Rudy is Nic                ... pos = 0.0   	neg = 0.25 
+22. Now Rudy must preten                ... pos = 0.375 	neg = 1.125
+23. Confused?                           ... pos = 0.125 	neg = 0    
+24. The movie only gets                 ... pos = 0.0   	neg = 0.25 
+25. But Reindeer Games m                ... pos = 0.25  	neg = 0.625
+26. The hero commits a g                ... pos = 0.875 	neg = 0.375
+27. Some hero.                          ... pos = 0.5   	neg = 0.0  
+28. The point of a hero                 ... pos = 1.75  	neg = 0.125
+29. When Rudy lies and c                ... pos = 1.375 	neg = 1.875
+30. The most irritating                 ... pos = 0.5   	neg = 1.625
+31. The routine in which                ... pos = 1.625 	neg = 1.25 
+32. The only saving grac                ... pos = 0.0   	neg = 1.125
+33. Why he was in this m                ... pos = 0.0   	neg = 0.625
+34. Why any of these peo                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5455-778 is Negative         ... pos = 16.875 	neg = 18.042
+Overall score of document
+Total Pos = 16.875
+Total Neg = 18.042
+---------------------------------------------------------------------------

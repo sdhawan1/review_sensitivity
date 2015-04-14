@@ -1,0 +1,42 @@
+0. Jack Nicholson has a                 ... pos = 2.5   	neg = 0.0  
+1. In AS GOOD AS IT GET                 ... pos = 2.5   	neg = 0.5  
+2. He's mean.                           ... pos = 0     	neg = 0.0  
+3. I mean really mean.                  ... pos = 0     	neg = 0.0  
+4. The opening scene sh                 ... pos = 0.0   	neg = 1.0  
+5. Every day, Melvin ea                 ... pos = 0.0   	neg = 0.375
+6. You can tell that th                 ... pos = 0.0   	neg = 1.5  
+7. One day, Melvin make                 ... pos = 0.625 	neg = 0.0  
+8. At that point we fin                 ... pos = 0.0   	neg = 0.5  
+9. Another person who o                 ... pos = 0.0   	neg = 0.25 
+10. Aside from the fact                 ... pos = 0.375 	neg = 0.0  
+11. Simon's friend Frank                ... pos = 0.375 	neg = 0.0  
+12. When Simon walks in                 ... pos = 0.75  	neg = 1.5  
+13. This is the same dog                ... pos = 0.0   	neg = 0.75 
+14. An interesting thing                ... pos = 0.25  	neg = 1.375
+15. It doesn't happen ov                ... pos = 0.625 	neg = 1.0  
+16. One of the best elem                ... pos = 0.875 	neg = 0.125
+17. He's traveling terra                ... pos = 0.0   	neg = 0.0  
+18. Good performances ar                ... pos = 1.0   	neg = 0.0  
+19. They play well off o                ... pos = 0.489 	neg = 0.625
+20. Greg Kinnear, who is                ... pos = 2.25  	neg = 0.25 
+21. He gives a short mon                ... pos = 0.0   	neg = 0.125
+22. Cuba Gooding Jr. per                ... pos = 0.25  	neg = 0.0  
+23. The screenplay, by M                ... pos = 0.625 	neg = 0.125
+24. The best part about                 ... pos = 1.25  	neg = 0.25 
+25. Melvin is a man we c                ... pos = 0.375 	neg = 0.125
+26. Carol is a working w                ... pos = 0.0   	neg = 0.875
+27. Simon is a man who i                ... pos = 0.625 	neg = 0.375
+28. Combined with the ta                ... pos = 0.875 	neg = 0.125
+29. The one noticeable a                ... pos = 0.75  	neg = 0.25 
+30. His character makes                 ... pos = 1.0   	neg = 0.25 
+31. I would have liked t                ... pos = 1.0   	neg = 0.0  
+32. There's one actor, w                ... pos = 2.0   	neg = 0.125
+33. This is that little                 ... pos = 0     	neg = 1.0  
+34. He plays such a pivo                ... pos = 1.75  	neg = 1.375
+35. Award or no, however                ... pos = 2.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2115-781 is Positive         ... pos = 25.239 	neg = 15.625
+Overall score of document
+Total Pos = 25.239
+Total Neg = 15.625
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. On the Buckmaster sc                 ... pos = 0.75  	neg = 0.5  
+1. "  The fascinating t                 ... pos = 1.625 	neg = 0.5  
+2. LaBute's astounding                  ... pos = 1.0   	neg = 0.125
+3. The film was meticul                 ... pos = 1.75  	neg = 0.625
+4. He turned a roller c                 ... pos = 0.625 	neg = 0.125
+5. It's an experience t                 ... pos = 0.0   	neg = 0.75 
+6. Also hard to shake -                 ... pos = 1.75  	neg = 0.875
+7. In essence, the film                 ... pos = 2.5   	neg = 0.125
+8. And they do talk.                    ... pos = 0     	neg = 0.0  
+9. The vast majority of                 ... pos = 0.875 	neg = 0.125
+10. It was hard to write                ... pos = 1.125 	neg = 1.0  
+11. Only after the film                 ... pos = 0.0   	neg = 0.0  
+12. Drama teacher Jerry                 ... pos = 0.25  	neg = 0.625
+13. Jerry's best friend                 ... pos = 0.5   	neg = 0.25 
+14. He is not worried ab                ... pos = 1.625 	neg = 0.375
+15. Jerry and Barry's pa                ... pos = 1.0   	neg = 0.125
+16. All the characters s                ... pos = 2.5   	neg = 0.5  
+17. Your Friends and Nei                ... pos = 0.375 	neg = 0.5  
+18. It's hard to pinpoin                ... pos = 0.25  	neg = 1.5  
+19. With tight camera sh                ... pos = 0.25  	neg = 0.25 
+20. That's not to say th                ... pos = 3.625 	neg = 0.875
+21. With so much talking                ... pos = 1.625 	neg = 0.25 
+22. We must presume this                ... pos = 2.125 	neg = 1.0  
+23. We can presume, safe                ... pos = 0.5   	neg = 0.0  
+24. He is certainty a gl                ... pos = 0.875 	neg = 0.25 
+25. LaBute's a director                 ... pos = 0.75  	neg = 0.0  
+26. Whilst Your Friends                 ... pos = 0.625 	neg = 0.25 
+27. LaBute does take som                ... pos = 0.625 	neg = 1.625
+28. Without going into t                ... pos = 1.375 	neg = 0.375
+29. Ben Stiller displays                ... pos = 1.125 	neg = 0.0  
+30. The women fare less                 ... pos = 0.125 	neg = 0    
+31. "If you want reality                ... pos = 0.125 	neg = 0.5  
+32. "  Screw that.                      ... pos = 0     	neg = 0.0  
+33. Open the door, and c                ... pos = 0.0   	neg = 0.0  
+34. You know you want to                ... pos = 0     	neg = 0.125
+35. Just don't come runn                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-2260-1111 is Positive        ... pos = 32.25 	neg = 14.625
+Overall score of document
+Total Pos = 32.25
+Total Neg = 14.625
+---------------------------------------------------------------------------

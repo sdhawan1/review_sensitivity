@@ -1,0 +1,28 @@
+0. Directed by Chris Bu                 ... pos = 0.0   	neg = 0.0  
+1. For the forty-ninth                  ... pos = 1.25  	neg = 0.0  
+2. The main concern tha                 ... pos = 0.875 	neg = 0.375
+3. The gruesome deaths                  ... pos = 1.375 	neg = 0.0  
+4. (Tarzan can swing an                 ... pos = 0.375 	neg = 0.375
+5. Another problem is t                 ... pos = 0.375 	neg = 0.875
+6. The animation may ha                 ... pos = 1.125 	neg = 0.375
+7. These films ostensib                 ... pos = 2.0   	neg = 0.125
+8. Tarzan is no excepti                 ... pos = 0.125 	neg = 0.375
+9. The movie is unorigi                 ... pos = 0     	neg = 0.875
+10. The aforementioned f                ... pos = 0.375 	neg = 1.125
+11. Also those Disney cl                ... pos = 2.375 	neg = 0.0  
+12. The Little Mermaid's                ... pos = 1.375 	neg = 0.25 
+13. Tarzan attempts to a                ... pos = 0.375 	neg = 0.125
+14. Voiced by Rosie O'Do                ... pos = 0.25  	neg = 0.0  
+15. The only noteworthy                 ... pos = 0.0   	neg = 0.125
+16. Perfectly cast as th                ... pos = 4.25  	neg = 0.625
+17. The story, of course                ... pos = 0.875 	neg = 0.0  
+18. When he discovers hu                ... pos = 0.5   	neg = 0.0  
+19. Tarzan is, as mentio                ... pos = 0.25  	neg = 0.25 
+20. It takes way too lon                ... pos = 0.25  	neg = 1.75 
+21. For an alternative t                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1548-778 is Positive         ... pos = 18.375 	neg = 7.625
+Overall score of document
+Total Pos = 18.375
+Total Neg = 7.625
+---------------------------------------------------------------------------

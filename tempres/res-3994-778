@@ -1,0 +1,36 @@
+0. Directed by Mike Nic                 ... pos = 0.125 	neg = 0.0  
+1. What Planet Are You                  ... pos = 0.25  	neg = 0.0  
+2. can be divided into                  ... pos = 0.5   	neg = 0.125
+3. First we follow alie                 ... pos = 0.125 	neg = 0.0  
+4. Far and away the fun                 ... pos = 0.75  	neg = 0.75 
+5. We don't know exactl                 ... pos = 0.125 	neg = 0.75 
+6. The dialogue is fres                 ... pos = 1.5   	neg = 0.25 
+7. The most hilarious a                 ... pos = 0.875 	neg = 2.625
+8. For this reason, Har                 ... pos = 0.0   	neg = 0.125
+9. His relationship wit                 ... pos = 0.875 	neg = 0.0  
+10. At this point, What                 ... pos = 0     	neg = 0.0  
+11. begins to lose some                 ... pos = 0.5   	neg = 1.125
+12. The segment contains                ... pos = 0.0   	neg = 0.75 
+13. Who cares if Perry a                ... pos = 0.25  	neg = 0.0  
+14. Or if the man trying                ... pos = 0.125 	neg = 1.0  
+15. The answers to these                ... pos = 0.375 	neg = 0.0  
+16. The third segment ha                ... pos = 0.875 	neg = 0.0  
+17. There are some very                 ... pos = 1.75  	neg = 0.625
+18. The characters becom                ... pos = 1.625 	neg = 0.25 
+19. It gets mushy and ov                ... pos = 0.75  	neg = 0.5  
+20. It almost seems like                ... pos = 1.5   	neg = 0.25 
+21. When examining the f                ... pos = 0.5   	neg = 1.0  
+22. Despite some lively                 ... pos = 0.5   	neg = 0.0  
+23. It seems like there                 ... pos = 0.0   	neg = 0.5  
+24. and that joke was qu                ... pos = 0.125 	neg = 0.5  
+25. If only the movie wa                ... pos = 0.0   	neg = 0.375
+26. It might have worked                ... pos = 0.0   	neg = 0.625
+27. For true entertainme                ... pos = 0.875 	neg = 0.375
+28. It's amazing how tha                ... pos = 0.25  	neg = 0.375
+29. couldn't make funny                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3994-778 is Positive         ... pos = 15.25 	neg = 12.875
+Overall score of document
+Total Pos = 15.25
+Total Neg = 12.875
+---------------------------------------------------------------------------

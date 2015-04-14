@@ -1,0 +1,47 @@
+0. The Virgin Suicides                  ... pos = 1.0   	neg = 0.125
+1. At its closing, I  f                 ... pos = 0.0   	neg = 0.0  
+2. One would really hav                 ... pos = 0.75  	neg = 0.0  
+3. This gorgeous, dream                 ... pos = 1.25  	neg = 0.125
+4. Mr. Lisbon (James Wo                 ... pos = 0.625 	neg = 0.0  
+5. Each of their five                   ... pos = 0.75  	neg = 0.0  
+6. Cook), and Therese (                 ... pos = 0.5   	neg = 0.0  
+7. They cannot go out w                 ... pos = 0.0   	neg = 0.0  
+8. This of course drive                 ... pos = 0.0   	neg = 0.375
+9. They often dream of                  ... pos = 0.375 	neg = 0.0  
+10. Everything changes w                ... pos = 0.0   	neg = 0.0  
+11. Her psychiatrist (a                 ... pos = 0.875 	neg = 0.0  
+12. The boy's sexuality                 ... pos = 0.5   	neg = 0.0  
+13. As the film continue                ... pos = 1.125 	neg = 0.0  
+14. There is a reason th                ... pos = 0.0   	neg = 0.25 
+15. Anyone looking  for                 ... pos = 0.875 	neg = 0.375
+16. This  is a very heav                ... pos = 0.5   	neg = 0.375
+17. The topic of teen su                ... pos = 0.875 	neg = 0.0  
+18. The movie  takes pla                ... pos = 0.25  	neg = 0.125
+19. Reactions to the sui                ... pos = 0.5   	neg = 0.125
+20. The surprising lack                 ... pos = 0.75  	neg = 0.25 
+21. âThe girls walk                ... pos = 0.0   	neg = 0.25 
+22. says the narrator.                  ... pos = 0.0   	neg = 0    
+23. Since the movie gets                ... pos = 0.625 	neg = 0.25 
+24. The reasons why Mr.                 ... pos = 0.75  	neg = 0.0  
+25. Mr. Lisbon frequentl                ... pos = 0.25  	neg = 0.0  
+26. Mrs. Lisbon insists                 ... pos = 0.0   	neg = 0.0  
+27. Both parents are a                  ... pos = 0.25  	neg = 0.25 
+28. The beauty of the gi                ... pos = 1.0   	neg = 0.0  
+29. A fantasy  that ends                ... pos = 0.375 	neg = 0.0  
+30. The acting is superb                ... pos = 0.875 	neg = 0.125
+31. Kirsten Dunst has ne                ... pos = 0.0   	neg = 0.125
+32. James Woods and Kath                ... pos = 1.5   	neg = 0.0  
+33. They perfectly conve                ... pos = 0.625 	neg = 0.0  
+34. Hopefully this movie                ... pos = 0.625 	neg = 0.0  
+35. Maybe if the parents                ... pos = 0.625 	neg = 0.25 
+36. The awkwardness and                 ... pos = 0.0   	neg = 0.25 
+37. No matter where they                ... pos = 1.0   	neg = 0.25 
+38. The thought of  conq                ... pos = 0.125 	neg = 0.0  
+39. The love, mystery, a                ... pos = 0.625 	neg = 0.0  
+40. They  can't forget t                ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1797-329 is Positive         ... pos = 21.0  	neg = 4.125
+Overall score of document
+Total Pos = 21.0
+Total Neg = 4.125
+---------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+0. I am extremely sorry                 ... pos = 0.875 	neg = 1.0  
+1. The series is obviou                 ... pos = 0.0   	neg = 0.125
+2. Even James Bond can'                 ... pos = 0.0   	neg = 0.0  
+3. James Bond is the wo                 ... pos = 0.375 	neg = 0.125
+4. Highly trained, suav                 ... pos = 1.375 	neg = 0.0  
+5. In past missions, Bo                 ... pos = 0.0   	neg = 0.125
+6. Tomorrow Never Dies                  ... pos = 0.875 	neg = 0.25 
+7. However, The World I                 ... pos = 0.125 	neg = 0.125
+8. The scriptwriters ha                 ... pos = 1.75  	neg = 0.0  
+9. Bond's assignment fo                 ... pos = 0.125 	neg = 1.0  
+10. He gets to go skiing                ... pos = 0.625 	neg = 0.125
+11. Brosnan, 46, who pla                ... pos = 0.375 	neg = 0.25 
+12. This one's been like                ... pos = 0.0   	neg = 0.125
+13. ". In the days of Se                ... pos = 0.5   	neg = 0.125
+14. Q's inventions that                 ... pos = 0.625 	neg = 0.25 
+15. Those inventions, Co                ... pos = 2.125 	neg = 0.0  
+16. Michael Apted promis                ... pos = 0.75  	neg = 0.375
+17. His film is at times                ... pos = 0.625 	neg = 0.25 
+18. The famous James Bon                ... pos = 0.375 	neg = 1.0  
+19. He doesn't have any                 ... pos = 0.0   	neg = 1.5  
+20. He doesn't seem like                ... pos = 0.375 	neg = 0.125
+21. Apted added a softer                ... pos = 1.25  	neg = 0    
+22. That makes the impre                ... pos = 0.0   	neg = 0.0  
+23. Bond-films can be co                ... pos = 0.625 	neg = 0.375
+24. It is therefore nece                ... pos = 0.875 	neg = 0.125
+25. There have to be bad                ... pos = 1.875 	neg = 1.25 
+26. By adding a softer s                ... pos = 0.875 	neg = 0.875
+27. This is completely u                ... pos = 0.0   	neg = 0.5  
+28. An attempt to take a                ... pos = 1.75  	neg = 0.25 
+29. The total outcome of                ... pos = 1.0   	neg = 0.125
+30. The success of Bond-                ... pos = 0.125 	neg = 0.125
+31. An attempt to take t                ... pos = 0.875 	neg = 0.375
+32. Our hero survives ex                ... pos = 0.5   	neg = 0.0  
+33. The beautiful and te                ... pos = 1.0   	neg = 0.0  
+34. But although the loc                ... pos = 0.75  	neg = 0.375
+35. And then there is th                ... pos = 0     	neg = 0.125
+36. Pierce Brosnan is wo                ... pos = 0.625 	neg = 0.375
+37. The major problems i                ... pos = 1.0   	neg = 0.25 
+38. What was intended as                ... pos = 1.875 	neg = 0.125
+39. Sophie Marceau on th                ... pos = 2.625 	neg = 0.375
+40. Judy Dench is playin                ... pos = 1.125 	neg = 0.25 
+41. Dench makes most of                 ... pos = 1.875 	neg = 0.375
+42. A dose of really bad                ... pos = 0.0   	neg = 0.875
+43. There has to be more                ... pos = 0.0   	neg = 0.25 
+44. The previous Bond-fi                ... pos = 0.0   	neg = 0.125
+45. The secret is exagge                ... pos = 0.0   	neg = 0.125
+46. By crossing the line                ... pos = 0.875 	neg = 0.0  
+47. "..Not Enough" begin                ... pos = 1.125 	neg = 0.625
+48. Apted's exaggeration                ... pos = 0.875 	neg = 0.5  
+49. Because of the confu                ... pos = 0.5   	neg = 0.875
+50. The humor is instead                ... pos = 3.125 	neg = 0.5  
+51. Those jokes, the wel                ... pos = 0.5   	neg = 0.25 
+52. To make a long story                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-3999-657 is Positive         ... pos = 39.5  	neg = 17.875
+Overall score of document
+Total Pos = 39.5
+Total Neg = 17.875
+---------------------------------------------------------------------------

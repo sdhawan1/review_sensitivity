@@ -1,0 +1,22 @@
+0. CAST: Will Smith, To                 ... pos = 0.125 	neg = 0.0  
+1. I never liked Will S                 ... pos = 0.75  	neg = 0.125
+2. As an actor, however                 ... pos = 2.875 	neg = 0.0  
+3. I'd seen Will Smith                  ... pos = 0.125 	neg = 0.0  
+4. He told you not to g                 ... pos = 0.0   	neg = 0.25 
+5. " But this is not IN                 ... pos = 1.125 	neg = 0.125
+6. Don't get me wrong,                  ... pos = 2.0   	neg = 1.0  
+7. Smith plays Agent Ja                 ... pos = 0.25  	neg = 0.0  
+8. Anyhow, the plot dea                 ... pos = 0.25  	neg = 0.125
+9. Used in his hands, i                 ... pos = 0.25  	neg = 0.125
+10. This movie tries a l                ... pos = 0.625 	neg = 1.25 
+11. It mostly concentrat                ... pos = 0.375 	neg = 0.5  
+12. It explores the theo                ... pos = 0.25  	neg = 0.0  
+13. " Case in point, whe                ... pos = 0.125 	neg = 0.0  
+14. " If *that* guy woul                ... pos = 0.0   	neg = 0.0  
+15. So if you refuse to                 ... pos = 1.875 	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-917-1301 is Positive         ... pos = 11.0  	neg = 4.75 
+Overall score of document
+Total Pos = 11.0
+Total Neg = 4.75
+---------------------------------------------------------------------------

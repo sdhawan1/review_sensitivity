@@ -1,0 +1,51 @@
+0. I'm not quite sure w                 ... pos = 0.5   	neg = 0.25 
+1. When Tim Burton's tw                 ... pos = 0.5   	neg = 0.375
+2. And when it doesn't                  ... pos = 0.0   	neg = 0.0  
+3. I'm not even sure it                 ... pos = 0.625 	neg = 1.0  
+4. is brilliant.                        ... pos = 0.875 	neg = 0.125
+5. MARS ATTACKS!                        ... pos = 0     	neg = 0.125
+6. is based on a rather                 ... pos = 0.722 	neg = 0.875
+7. But unlike INDEPENDE                 ... pos = 0.5   	neg = 0.25 
+8. has a fully develope                 ... pos = 0.75  	neg = 0.0  
+9. The big difference i                 ... pos = 0.5   	neg = 0.25 
+10. portrays us as the g                ... pos = 0.25  	neg = 0.875
+11. The title sequence i                ... pos = 1.125 	neg = 0.625
+12. The spinning metal s                ... pos = 0.375 	neg = 0.125
+13. It's so overwhelming                ... pos = 0.375 	neg = 0.75 
+14. The movie lays low f                ... pos = 0.0   	neg = 0.125
+15. We get a glimpse of                 ... pos = 0.875 	neg = 0.25 
+16. But mostly, the firs                ... pos = 1.25  	neg = 0.5  
+17. It's a good thing th                ... pos = 0.75  	neg = 0.0  
+18. Anyone who comes to                 ... pos = 0.0   	neg = 0.125
+19. expecting to see a l                ... pos = 1.75  	neg = 0.25 
+20. Jack Nicholson is a                 ... pos = 0.375 	neg = 0.125
+21. Rod Steiger does an                 ... pos = 0.5   	neg = 0.625
+22. Sarah Jessica Parker                ... pos = 0.0   	neg = 0.0  
+23. Fox is her newsman h                ... pos = 0.0   	neg = 0.125
+24. The octogenarian Syl                ... pos = 0.375 	neg = 0.0  
+25. " and plays a decisi                ... pos = 0.125 	neg = 0.0  
+26. Jim Brown and Tom Jo                ... pos = 0.375 	neg = 0.75 
+27. Also on hand and und                ... pos = 0.875 	neg = 0.0  
+28. The real stars, of c                ... pos = 0.625 	neg = 0.0  
+29. With bare brains gli                ... pos = 1.875 	neg = 0.25 
+30. The film's raison d'                ... pos = 0.75  	neg = 1.25 
+31. The sheer level of m                ... pos = 0.375 	neg = 0.125
+32. Parents are urged to                ... pos = 0.25  	neg = 0.0  
+33. The special effects                 ... pos = 1.125 	neg = 1.375
+34. was in production lo                ... pos = 0.25  	neg = 0.5  
+35. Cinematographer Pete                ... pos = 0.375 	neg = 0.75 
+36. regimen to shoot CRA                ... pos = 0.0   	neg = 0.0  
+37. Cronenberg's movie w                ... pos = 0.375 	neg = 0.375
+38. is surely a similarl                ... pos = 0.875 	neg = 0.125
+39. This is not a nice m                ... pos = 0.0   	neg = 0.125
+40. (And which studio ex                ... pos = 0.125 	neg = 0.125
+41. ). By setting the fi                ... pos = 0.625 	neg = 0.125
+42. The victims of his i                ... pos = 2.625 	neg = 0.375
+43. The surviving cast m                ... pos = 1.0   	neg = 0.0  
+44. Ultimately, this mes                ... pos = 0.625 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-5794-436 is Positive         ... pos = 26.222 	neg = 15.0 
+Overall score of document
+Total Pos = 26.222
+Total Neg = 15.0
+---------------------------------------------------------------------------

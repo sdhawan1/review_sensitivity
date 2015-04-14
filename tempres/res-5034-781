@@ -1,0 +1,62 @@
+0. You've got to love D                 ... pos = 0.625 	neg = 0.0  
+1. No matter what they                  ... pos = 0.25  	neg = 0.75 
+2. Kids have to go see                  ... pos = 0.0   	neg = 0.0  
+3. Then they have to ge                 ... pos = 0.0   	neg = 0.0  
+4. Oh, the video came o                 ... pos = 0     	neg = 0.0  
+5. Got to buy it, or ri                 ... pos = 0.0   	neg = 0.25 
+6. All of this culminat                 ... pos = 0.0   	neg = 0.0  
+7. Stay at the Disneyla                 ... pos = 0.0   	neg = 0.0  
+8. Buy a Disney t-shirt                 ... pos = 0.0   	neg = 0    
+9. Eat an ice cream Mic                 ... pos = 0.0   	neg = 0.0  
+10. It's both a vertical                ... pos = 0.0   	neg = 0.0  
+11. Dale Carnegie should                ... pos = 0.75  	neg = 0.0  
+12. What's most amazing                 ... pos = 0.125 	neg = 0.375
+13. You see, Disney anim                ... pos = 0.125 	neg = 0.0  
+14. The theme changes wi                ... pos = 0.375 	neg = 0.0  
+15. The plot is a mold i                ... pos = 2.625 	neg = 0.875
+16. However, while the s                ... pos = 1.25  	neg = 0.375
+17. Luckily, Disney's la                ... pos = 0.625 	neg = 0.375
+18. The film starts with                ... pos = 0.0   	neg = 0    
+19. Soon, China's empero                ... pos = 0.0   	neg = 0    
+20. When the Fa family i                ... pos = 1.25  	neg = 0.25 
+21. Fearing her father w                ... pos = 0.75  	neg = 0.75 
+22. MULAN, based on a Ch                ... pos = 1.0   	neg = 0.5  
+23. Mulan herself is a d                ... pos = 2.0   	neg = 0.25 
+24. Very early on, we ar                ... pos = 2.875 	neg = 0.125
+25. By leaving home to f                ... pos = 0.75  	neg = 0.25 
+26. As is the case with                 ... pos = 0.375 	neg = 0.125
+27. I'm not sure if they                ... pos = 0.75  	neg = 0.25 
+28. Both Lea Salonga, wh                ... pos = 1.0   	neg = 0.0  
+29. You have to hear it                 ... pos = 0.375 	neg = 0.0  
+30. Interestingly, the m                ... pos = 0.75  	neg = 0.0  
+31. There is no signific                ... pos = 0.25  	neg = 0.5  
+32. It is, however, an e                ... pos = 0.375 	neg = 0.75 
+33. Artistically, the an                ... pos = 1.75  	neg = 0.125
+34. There are also a cou                ... pos = 1.125 	neg = 0.375
+35. The other scene wort                ... pos = 0.0   	neg = 0.625
+36. When Mulan resolves                 ... pos = 0.5   	neg = 0.0  
+37. As she does so, you                 ... pos = 0.125 	neg = 0.0  
+38. It just left me thin                ... pos = 0.0   	neg = 0.125
+39. ". A wonderful range                ... pos = 1.875 	neg = 0.0  
+40. Even more outrageous                ... pos = 0.0   	neg = 0.5  
+41. Although an obvious                 ... pos = 0.75  	neg = 0.0  
+42. I found the choice o                ... pos = 0.0   	neg = 0.0  
+43. Wong as Shang a litt                ... pos = 1.0   	neg = 1.0  
+44. In any event, Wong p                ... pos = 0.5   	neg = 0.0  
+45. One character which                 ... pos = 0.875 	neg = 0.125
+46. She deserves recogni                ... pos = 1.75  	neg = 0.125
+47. June Foray, who supp                ... pos = 0.75  	neg = 0.25 
+48. Marni Nixon, who pro                ... pos = 0.125 	neg = 0.125
+49. With this in mind, h                ... pos = 0.125 	neg = 0.375
+50. MULAN is the latest                 ... pos = 0.25  	neg = 0.5  
+51. In an effort to be c                ... pos = 0.375 	neg = 0.5  
+52. In addition to the a                ... pos = 0.0   	neg = 0.0  
+53. I guess Clyde Kusats                ... pos = 0.375 	neg = 0.0  
+54. At a running time of                ... pos = 0.0   	neg = 0.25 
+55. This is the kind of                 ... pos = 1.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5034-781 is Positive         ... pos = 32.5  	neg = 12.0 
+Overall score of document
+Total Pos = 32.5
+Total Neg = 12.0
+---------------------------------------------------------------------------

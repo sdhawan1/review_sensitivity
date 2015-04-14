@@ -1,0 +1,38 @@
+0. John Murdoch (Sewell                 ... pos = 0.75  	neg = 0.625
+1. The problem is that                  ... pos = 0.125 	neg = 0.75 
+2. In fact, most of his                 ... pos = 0.75  	neg = 0.375
+3. Pursued by Detective                 ... pos = 0.0   	neg = 0    
+4. As he edges closer t                 ... pos = 0.375 	neg = 1.125
+5. These shadow-like, s                 ... pos = 0.625 	neg = 0.375
+6. They control Dark Ci                 ... pos = 0.25  	neg = 0.0  
+7. These gothic figures                 ... pos = 1.375 	neg = 0.0  
+8. Through an evolution                 ... pos = 0.625 	neg = 0.375
+9. With the help of the                 ... pos = 2.0   	neg = 1.5  
+10. Eternal night, stran                ... pos = 1.0   	neg = 0.0  
+11. This is a surreal, b                ... pos = 0.75  	neg = 0.375
+12. Unlike most of the f                ... pos = 0.125 	neg = 0.0  
+13. It is more like a da                ... pos = 0.125 	neg = 0.125
+14. What makes us human?                ... pos = 0.0   	neg = 0    
+15. What is individualit                ... pos = 0     	neg = 0.375
+16. Is it simply a colle                ... pos = 0.25  	neg = 0.125
+17. Will a man that has                 ... pos = 0.375 	neg = 0.375
+18. Or is it something d                ... pos = 0.25  	neg = 0.125
+19. Is that what we call                ... pos = 0.0   	neg = 0.125
+20. In a film like this,                ... pos = 0.0   	neg = 0.125
+21. Alex Proyas understa                ... pos = 0.375 	neg = 0    
+22. Directing with as li                ... pos = 1.0   	neg = 1.0  
+23. This world is more l                ... pos = 0.625 	neg = 0.25 
+24. Visually the film is                ... pos = 0.625 	neg = 0.5  
+25. The acting is also a                ... pos = 0.125 	neg = 0.625
+26. Regrettably the char                ... pos = 2.25  	neg = 1.125
+27. After a spectacular                 ... pos = 1.625 	neg = 0.625
+28. This film has receiv                ... pos = 0.75  	neg = 0.375
+29. Several failures dur                ... pos = 0.25  	neg = 0.0  
+30. However, this is tru                ... pos = 1.875 	neg = 0.125
+31. Written by Alex Iosh                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-541-657 is Positive          ... pos = 19.25 	neg = 11.75
+Overall score of document
+Total Pos = 19.25
+Total Neg = 11.75
+---------------------------------------------------------------------------

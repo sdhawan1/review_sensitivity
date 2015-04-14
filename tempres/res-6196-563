@@ -1,0 +1,34 @@
+0. Starring Jason Biggs                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. Hollywood                  ... pos = 1.0   	neg = 0.125
+2. They were wrong.                     ... pos = 0     	neg = 0.875
+3. It doesn't push the                  ... pos = 0.0   	neg = 0.0  
+4. This is unquestionab                 ... pos = 0.5   	neg = 0.25 
+5. There's barely a few                 ... pos = 0.375 	neg = 0.5  
+6. Each of them tries t                 ... pos = 0.25  	neg = 0.5  
+7. Of course there has                  ... pos = 0.375 	neg = 0.25 
+8. " When he comes home                 ... pos = 0.0   	neg = 0.125
+9. In another, equally                  ... pos = 1.625 	neg = 0.625
+10. He learns something                 ... pos = 0.375 	neg = 0.0  
+11. First time director                 ... pos = 1.25  	neg = 0.25 
+12. He invariably gets t                ... pos = 0.25  	neg = 0.25 
+13. His jokes are disgus                ... pos = 0.875 	neg = 0.375
+14. That, too, can be ta                ... pos = 0.0   	neg = 0.75 
+15. The acting is of no                 ... pos = 0.75  	neg = 0.625
+16. Newcomer Jason Biggs                ... pos = 0.125 	neg = 0.25 
+17. Natasha Lyonne (whom                ... pos = 0.875 	neg = 0.125
+18. I'm not quite sure t                ... pos = 0.25  	neg = 0.0  
+19. It's needlessly shal                ... pos = 0.0   	neg = 0.5  
+20. But despite the movi                ... pos = 1.0   	neg = 0.875
+21. It's a hilarious, af                ... pos = 1.125 	neg = 0.625
+22. While it's not exact                ... pos = 0.5   	neg = 0.5  
+23. What we have here is                ... pos = 0.0   	neg = 0.125
+24. What we have here is                ... pos = 0.5   	neg = 0.125
+25. What we have here is                ... pos = 1.375 	neg = 0.125
+26. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+27. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6196-563 is Positive         ... pos = 13.375 	neg = 8.75 
+Overall score of document
+Total Pos = 13.375
+Total Neg = 8.75
+---------------------------------------------------------------------------

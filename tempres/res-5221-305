@@ -1,0 +1,45 @@
+0. Christian Critic's M                 ... pos = 0.5   	neg = 0.0  
+1. SCRIPTURE REFERENCES                 ... pos = 0.125 	neg = 0.875
+2. In the early to mid                  ... pos = 0.875 	neg = 0.5  
+3. The church was a dis                 ... pos = 0.25  	neg = 0.125
+4. France was involved                  ... pos = 0.0   	neg = 0.125
+5. There was no strong                  ... pos = 0.5   	neg = 0.375
+6. Morale was low, ther                 ... pos = 0.75  	neg = 0.5  
+7. It was within this s                 ... pos = 0.0   	neg = 0.125
+8. ". Convinced that th                 ... pos = 0.125 	neg = 0.375
+9. The message: If he w                 ... pos = 0.0   	neg = 0.0  
+10. He does... And she d                ... pos = 0.0   	neg = 0    
+11. Then, once seated on                ... pos = 0.0   	neg = 0.0  
+12. Director Luc Besson                 ... pos = 0.75  	neg = 0.0  
+13. The inconsistencies                 ... pos = 1.75  	neg = 2.0  
+14. His biggest miscue w                ... pos = 0.0   	neg = 0.125
+15. Ms. Jovovich, looks                 ... pos = 0.125 	neg = 1.125
+16. If looks were enough                ... pos = 1.75  	neg = 0.625
+17. Since it isn't, she                 ... pos = 0.0   	neg = 0.625
+18. Her Joan is unbalanc                ... pos = 0.0   	neg = 0.125
+19. John Malkovich (BEIN                ... pos = 0.25  	neg = 0.0  
+20. An easily manipulate                ... pos = 1.125 	neg = 0    
+21. Faye Dunaway (THE TH                ... pos = 0.875 	neg = 0.0  
+22. The army under Joan'                ... pos = 0.75  	neg = 0.125
+23. The one exception wo                ... pos = 0.0   	neg = 0.25 
+24. Trying to plan a sys                ... pos = 0.0   	neg = 0.5  
+25. ". Dustin Hoffman (S                ... pos = 0.0   	neg = 0.25 
+26. Dressed like cloaked                ... pos = 0.125 	neg = 0.0  
+27. "  As well she shoul                ... pos = 0.0   	neg = 0    
+28. Scriptures do speak                 ... pos = 0.0   	neg = 0.0  
+29. God, via His gift of                ... pos = 0.25  	neg = 0.125
+30. Three of the nine ma                ... pos = 0.5   	neg = 0.0  
+31. They are:  word of k                ... pos = 0.125 	neg = 0.0  
+32. Even the scriptures                 ... pos = 0.375 	neg = 0.125
+33. by revelation.                      ... pos = 0.0   	neg = 0    
+34. )". "Beloved, believ                ... pos = 0.875 	neg = 0.0  
+35. "  1 John 4:1 [KJV].                ... pos = 2.375 	neg = 0.0  
+36. While her conviction                ... pos = 1.0   	neg = 0.25 
+37. As a messenger, she                 ... pos = 0.25  	neg = 0.125
+38. She was just confuse                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5221-305 is Positive         ... pos = 16.5  	neg = 9.625
+Overall score of document
+Total Pos = 16.5
+Total Neg = 9.625
+---------------------------------------------------------------------------

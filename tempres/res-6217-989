@@ -1,0 +1,29 @@
+0. If you're into explo                 ... pos = 0.0   	neg = 0.0  
+1. It's another one of                  ... pos = 0.5   	neg = 0.25 
+2. Every cliche that yo                 ... pos = 0.0   	neg = 0.125
+3. " scene.                             ... pos = 0.0   	neg = 0    
+4. It is totally predic                 ... pos = 0.0   	neg = 0.125
+5. The familiar format                  ... pos = 0.5   	neg = 0.0  
+6. "   You know what's                  ... pos = 0.0   	neg = 0.0  
+7. But, I liked it.                     ... pos = 0.125 	neg = 0.0  
+8. Most of the people w                 ... pos = 0.25  	neg = 0.0  
+9. Hey, I even cried, e                 ... pos = 0.0   	neg = 0.25 
+10. But I laughed, too,                 ... pos = 0.5   	neg = 0.25 
+11. Men, on the other ha                ... pos = 0.375 	neg = 0.0  
+12. Truly, who WOULD ris                ... pos = 0.625 	neg = 0.125
+13. Surely, some other n                ... pos = 0.25  	neg = 0.0  
+14. The big question her                ... pos = 0.25  	neg = 0.375
+15. Or couldn't there ha                ... pos = 0     	neg = 0.125
+16. For me, this movie w                ... pos = 0.375 	neg = 0.125
+17. No, it isn't artisti                ... pos = 0.0   	neg = 0.25 
+18. It isn't well-writte                ... pos = 0.0   	neg = 0.0  
+19. But for what it is,                 ... pos = 0.0   	neg = 0.125
+20. I really liked it.                  ... pos = 0.125 	neg = 0.0  
+21. I give it a B+.                     ... pos = 0.0   	neg = 0.0  
+22. And, I would definit                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6217-989 is Positive         ... pos = 4.25  	neg = 2.125
+Overall score of document
+Total Pos = 4.25
+Total Neg = 2.125
+---------------------------------------------------------------------------

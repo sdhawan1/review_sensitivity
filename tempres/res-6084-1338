@@ -1,0 +1,44 @@
+0. When critics offer t                 ... pos = 0.375 	neg = 0.0  
+1. I'll throw Pulp Fict                 ... pos = 0.0   	neg = 0.0  
+2. They venture beyond                  ... pos = 0.5   	neg = 0.125
+3. They end up transcen                 ... pos = 0.625 	neg = 0.0  
+4. I love Pulp Fiction.                 ... pos = 0.625 	neg = 0.0  
+5. It is the film that                  ... pos = 0.625 	neg = 0.25 
+6. I can't imagine seei                 ... pos = 0.0   	neg = 0.5  
+7. Pulp Fiction tells t                 ... pos = 0.25  	neg = 1.5  
+8. The first story is a                 ... pos = 0.125 	neg = 0.5  
+9. All the stories are                  ... pos = 0.25  	neg = 0.0  
+10. It also has the best                ... pos = 0.875 	neg = 0.125
+11. The only writer whos                ... pos = 1.0   	neg = 0.25 
+12. The film is also fam                ... pos = 0.375 	neg = 0.125
+13. John Travolta had no                ... pos = 0.5   	neg = 0.75 
+14. Sam Jackson and Uma                 ... pos = 0.625 	neg = 0.125
+15. Quentin Tarantino wa                ... pos = 0.125 	neg = 0.125
+16. Pulp Fiction is an e                ... pos = 0.75  	neg = 0.125
+17. It teases us with pa                ... pos = 0.25  	neg = 0.625
+18. Tarantino knows wher                ... pos = 0.75  	neg = 0.0  
+19. Take the scene where                ... pos = 0.125 	neg = 0.625
+20. There is also endles                ... pos = 0.125 	neg = 0.125
+21. There is a briefcase                ... pos = 0.0   	neg = 0.25 
+22. Is there something b                ... pos = 0.0   	neg = 0.125
+23. Jules (Sam Jackson)                 ... pos = 0.0   	neg = 0.0  
+24. Is that covering the                ... pos = 0.125 	neg = 0.125
+25. Why do Jules and Vin                ... pos = 0.0   	neg = 0.0  
+26. All these speculatio                ... pos = 0.5   	neg = 0.5  
+27. The point is Pulp Fi                ... pos = 0.0   	neg = 0.25 
+28. I love every scene i                ... pos = 0.625 	neg = 0.0  
+29. There isn't a line I                ... pos = 0.25  	neg = 0.0  
+30. Each actor delivers                 ... pos = 0.75  	neg = 0.0  
+31. This is the kind of                 ... pos = 0.875 	neg = 0.25 
+32. A film that energize                ... pos = 0.375 	neg = 0.125
+33. The only way to see                 ... pos = 0.0   	neg = 0.125
+34. Most people have onl                ... pos = 0.0   	neg = 0.875
+35. If you must watch it                ... pos = 0.75  	neg = 0.0  
+36. Also please avoid th                ... pos = 0.0   	neg = 0.5  
+37. Like reading Shakesp                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6084-1338 is Positive        ... pos = 13.125 	neg = 9.0  
+Overall score of document
+Total Pos = 13.125
+Total Neg = 9.0
+---------------------------------------------------------------------------

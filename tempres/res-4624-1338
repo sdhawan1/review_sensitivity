@@ -1,0 +1,17 @@
+0. I never saw the TV s                 ... pos = 0.125 	neg = 0.0  
+1. I was quite impresse                 ... pos = 0.25  	neg = 0.125
+2. To say that this is                  ... pos = 0.0   	neg = 1.125
+3. This is one of the y                 ... pos = 0.0   	neg = 0.5  
+4. The plot is just an                  ... pos = 0.625 	neg = 1.625
+5. The actors run looki                 ... pos = 0.125 	neg = 0.0  
+6. What are these actor                 ... pos = 0.25  	neg = 0.0  
+7. William Hurt the tal                 ... pos = 0.5   	neg = 0.0  
+8. There is no point in                 ... pos = 0.0   	neg = 0.125
+9. This is a film about                 ... pos = 0.0   	neg = 0.375
+10. Watching this remind                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4624-1338 is Negative        ... pos = 2.0   	neg = 3.875
+Overall score of document
+Total Pos = 2.0
+Total Neg = 3.875
+---------------------------------------------------------------------------

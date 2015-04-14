@@ -1,0 +1,75 @@
+0. Kevin Williamson is                  ... pos = 0.5   	neg = 0.125
+1. He has worked hard t                 ... pos = 0.0   	neg = 1.0  
+2. In his latest movie,                 ... pos = 0.0   	neg = 0.0  
+3. How could it lose??                  ... pos = 0.0   	neg = 0.0  
+4. It didn't at all.                    ... pos = 0.0   	neg = 0.0  
+5. In The Faculty, the                  ... pos = 0.25  	neg = 0.125
+6. The high school is l                 ... pos = 0.5   	neg = 1.125
+7. One attraction that                  ... pos = 1.25  	neg = 0.125
+8. Almost the entire to                 ... pos = 0.0   	neg = 0.125
+9. As we see more into                  ... pos = 0.0   	neg = 0.0  
+10. There is a large var                ... pos = 1.375 	neg = 0.125
+11. We are introduced to                ... pos = 0.25  	neg = 0.0  
+12. Casey is the kind of                ... pos = 0.0   	neg = 0.25 
+13. Supposedly, every sc                ... pos = 0.0   	neg = 0.125
+14. We see alot of Casey                ... pos = 0.0   	neg = 0.0  
+15. We also meet Zeke.                  ... pos = 0.0   	neg = 0    
+16. Supposedly, there is                ... pos = 0.0   	neg = 0.125
+17. Zeke is played by th                ... pos = 0.0   	neg = 0.5  
+18. Zeke is the class cl                ... pos = 0.444 	neg = 0.125
+19. He sells drugs and o                ... pos = 0.0   	neg = 0.0  
+20. Stan is played by Sh                ... pos = 0.0   	neg = 0.125
+21. He gets terrible gra                ... pos = 0.0   	neg = 0.75 
+22. He is dating Deliah                 ... pos = 0.0   	neg = 0.125
+23. She is the school go                ... pos = 0.0   	neg = 0.125
+24. Stokely is a very di                ... pos = 1.125 	neg = 0.125
+25. She is played by Cle                ... pos = 0.625 	neg = 0.25 
+26. She has no friends,                 ... pos = 0.125 	neg = 0.5  
+27. Marybeth (Laura Harr                ... pos = 0.375 	neg = 0.125
+28. She came from Georgi                ... pos = 0.625 	neg = 0.125
+29. She tries making fri                ... pos = 0.125 	neg = 1.125
+30. Now, meet the facult                ... pos = 0.0   	neg = 0.0  
+31. There is Mr. Furlong                ... pos = 0.25  	neg = 0.125
+32. One by one, the facu                ... pos = 0.0   	neg = 0.25 
+33. The faculty needs wa                ... pos = 0.125 	neg = 0.125
+34. They drink and drink                ... pos = 0.0   	neg = 0    
+35. A teacher runs to a                 ... pos = 0.125 	neg = 0.0  
+36. At this point, the s                ... pos = 0.375 	neg = 0.25 
+37. The first time they                 ... pos = 0.5   	neg = 0.25 
+38. They hide in the clo                ... pos = 0.0   	neg = 0.0  
+39. They find a body of                 ... pos = 0.125 	neg = 0.0  
+40. They run and now the                ... pos = 0.0   	neg = 0.0  
+41. When Casey and Delia                ... pos = 0.25  	neg = 0.375
+42. At night, Casey even                ... pos = 0.125 	neg = 0.0  
+43. Another incident occ                ... pos = 0.5   	neg = 0.125
+44. Now, these six stude                ... pos = 0.25  	neg = 0.375
+45. Stokely is a sci-fi                 ... pos = 0.0   	neg = 0.25 
+46. The students conclud                ... pos = 0.0   	neg = 0.125
+47. All six must take so                ... pos = 0.375 	neg = 0.0  
+48. As you guessed it, o                ... pos = 0.25  	neg = 0.0  
+49. They do escape thoug                ... pos = 0.0   	neg = 0.0  
+50. The remaining kids a                ... pos = 0.25  	neg = 0    
+51. They go to the footb                ... pos = 0.375 	neg = 0.125
+52. The football team is                ... pos = 0.25  	neg = 0.125
+53. It's a good thing th                ... pos = 0.75  	neg = 0.0  
+54. Or was it too late?                 ... pos = 0.0   	neg = 0.375
+55. When the students fi                ... pos = 0.0   	neg = 0.375
+56. We see a huge, gross                ... pos = 0.375 	neg = 0.125
+57. A very suprising con                ... pos = 0.875 	neg = 0.125
+58. As The Faculty start                ... pos = 0.0   	neg = 0.375
+59. The first fifteen mi                ... pos = 0.125 	neg = 0.25 
+60. The plot wasn't the                 ... pos = 1.125 	neg = 0.125
+61. The cast is what bro                ... pos = 0.0   	neg = 0.125
+62. Piper Laurie, Clea D                ... pos = 0.0   	neg = 0.0  
+63. For all of you who t                ... pos = 0.25  	neg = 0.125
+64. He appeared for abou                ... pos = 0.0   	neg = 0.0  
+65. With such a large en                ... pos = 0.875 	neg = 0.125
+66. Think again, you cou                ... pos = 1.0   	neg = 0.125
+67. Hands down to Kevin                 ... pos = 0.375 	neg = 0.0  
+68. It may not have been                ... pos = 2.875 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-1561-864 is Positive         ... pos = 20.319 	neg = 13.0 
+Overall score of document
+Total Pos = 20.319
+Total Neg = 13.0
+---------------------------------------------------------------------------

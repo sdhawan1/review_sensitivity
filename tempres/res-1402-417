@@ -1,0 +1,11 @@
+0. FREQUENCY [Hoblit] -                 ... pos = 0.875 	neg = 0.75 
+1. Actually, no, that's                 ... pos = 0.375 	neg = 1.0  
+2. That said, the whole                 ... pos = 1.125 	neg = 0.0  
+3. ), but when it does                  ... pos = 0.375 	neg = 0.625
+4. Ironically, though,                  ... pos = 0.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-1402-417 is Negative         ... pos = 2.875 	neg = 3.0  
+Overall score of document
+Total Pos = 2.875
+Total Neg = 3.0
+---------------------------------------------------------------------------

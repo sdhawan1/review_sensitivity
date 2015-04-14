@@ -1,0 +1,49 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.0  
+1. My chosen movie for                  ... pos = 1.125 	neg = 0.125
+2. Unfortunately, when                  ... pos = 0.0   	neg = 0.875
+3. The Paramount's soun                 ... pos = 0.0   	neg = 0.125
+4. After a couple of fa                 ... pos = 0.0   	neg = 0.125
+5. (Note to film preser                 ... pos = 0.625 	neg = 0.375
+6. ). I had two dollars                 ... pos = 2.0   	neg = 0.125
+7. In one of the openin                 ... pos = 0.5   	neg = 0.0  
+8. I was in the right p                 ... pos = 0.0   	neg = 0.125
+9. Go's cinematic origi                 ... pos = 0.125 	neg = 0.0  
+10. Go actually starts i                ... pos = 0.25  	neg = 0.375
+11. Pulp Fiction fans wi                ... pos = 0.75  	neg = 0.0  
+12. Go takes place in th                ... pos = 1.75  	neg = 0.0  
+13. Nobody in Go eats Bi                ... pos = 0.0   	neg = 0.0  
+14. They're too busy dan                ... pos = 0.375 	neg = 0.25 
+15. Unlike the businessl                ... pos = 1.375 	neg = 0.875
+16. To reveal much of th                ... pos = 0.625 	neg = 0.125
+17. As the movie's theme                ... pos = 1.75  	neg = 0.125
+18. The narrative skips                 ... pos = 0.0   	neg = 0.25 
+19. Oddball characters a                ... pos = 1.0   	neg = 0.125
+20. Since I can't talk a                ... pos = 0.125 	neg = 0.0  
+21. The two most familia                ... pos = 0.0   	neg = 0    
+22. You will remember Mo                ... pos = 0.25  	neg = 0.25 
+23. Here, he's strugglin                ... pos = 0.25  	neg = 0.125
+24. Fichtner was last se                ... pos = 0.0   	neg = 0.25 
+25. In Go, Fichtner grad                ... pos = 0.0   	neg = 0.0  
+26. He's got the same ro                ... pos = 0.0   	neg = 0.0  
+27. Confidential, police                ... pos = 0.625 	neg = 0.0  
+28. But the real stars o                ... pos = 1.5   	neg = 0.0  
+29. The first third of t                ... pos = 0.125 	neg = 0.0  
+30. Sarah Polley is noth                ... pos = 0.0   	neg = 0.375
+31. You don't see that m                ... pos = 0.875 	neg = 0.375
+32. Her sidechick is Kat                ... pos = 0.0   	neg = 0.25 
+33. She's got the movie'                ... pos = 1.125 	neg = 0.0  
+34. Nathan Bexton does s                ... pos = 0.875 	neg = 0.0  
+35. In the second third                 ... pos = 0.0   	neg = 0.0  
+36. Young British actor                 ... pos = 0.25  	neg = 0.625
+37. Askew is interesting                ... pos = 0.0   	neg = 0.5  
+38. Taye Diggs doesn't g                ... pos = 0.375 	neg = 0.0  
+39. There are a couple m                ... pos = 0.625 	neg = 0.125
+40. Go is a surprisingly                ... pos = 1.125 	neg = 0.125
+41. (It's not The Dirty                 ... pos = 0.0   	neg = 0.125
+42. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5367-1045 is Positive        ... pos = 20.375 	neg = 7.125
+Overall score of document
+Total Pos = 20.375
+Total Neg = 7.125
+---------------------------------------------------------------------------

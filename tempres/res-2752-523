@@ -1,0 +1,34 @@
+0. The most remarkable                  ... pos = 1.25  	neg = 0.25 
+1. Schumacher creates a                 ... pos = 0.25  	neg = 2.0  
+2. The movie has some n                 ... pos = 0.375 	neg = 1.625
+3. There is one scene i                 ... pos = 0.125 	neg = 0.125
+4. I have no idea what                  ... pos = 0.0   	neg = 0.5  
+5. The casting is good.                 ... pos = 0.75  	neg = 0.125
+6. Carey delivers a won                 ... pos = 0.875 	neg = 0.875
+7. Nicole Kidman is as                  ... pos = 0.125 	neg = 1.125
+8. A completely unbelie                 ... pos = 0.875 	neg = 0.0  
+9. Too bad, I like Nico                 ... pos = 0.0   	neg = 1.125
+10. I will say, all trac                ... pos = 0.375 	neg = 0.0  
+11. But she's not believ                ... pos = 1.5   	neg = 0.375
+12. Val Kilmer was not p                ... pos = 0.125 	neg = 0.125
+13. Somehow his Bruce Wa                ... pos = 0.375 	neg = 0.125
+14. Kilmer's Wayne is st                ... pos = 0.0   	neg = 0.125
+15. There's none of the                 ... pos = 0.0   	neg = 0.375
+16. and REAL GENIUS.                    ... pos = 0.25  	neg = 0    
+17. Chris O'Donnell mana                ... pos = 0.875 	neg = 0.0  
+18. Not that he's given                 ... pos = 0.0   	neg = 0.0  
+19. He does manage to ma                ... pos = 1.5   	neg = 0.0  
+20. I did like the inclu                ... pos = 0.0   	neg = 0.0  
+21. Nice touch.                         ... pos = 0.0   	neg = 0    
+22. The sets are quite p                ... pos = 0.25  	neg = 0.0  
+23. " in large capitals.                ... pos = 0.0   	neg = 0    
+24. There are also some                 ... pos = 1.125 	neg = 1.75 
+25. All the uneasy mood                 ... pos = 0.0   	neg = 0.75 
+26. If one rates BATMAN                 ... pos = 0.0   	neg = 0.125
+27. BATMAN FOREVER drops                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2752-523 is Negative         ... pos = 11.25 	neg = 11.5 
+Overall score of document
+Total Pos = 11.25
+Total Neg = 11.5
+---------------------------------------------------------------------------

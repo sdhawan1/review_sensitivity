@@ -1,0 +1,59 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring the voices                  ... pos = 0.0   	neg = 0.0  
+2. Sweeney, Julianna Ma                 ... pos = 0.0   	neg = 0.0  
+3. Story by Thom Enriqu                 ... pos = 0.0   	neg = 0    
+4. Screenplay by Walon                  ... pos = 0.0   	neg = 0.0  
+5. Directed by Eric  Le                 ... pos = 0.0   	neg = 0    
+6. Rated PG.                            ... pos = 0.125 	neg = 0    
+7. "Dinosaur" is a grea                 ... pos = 0.0   	neg = 0.125
+8. It's one of the  bes                 ... pos = 0.0   	neg = 0    
+9. Every prehistoric cr                 ... pos = 1.875 	neg = 0.125
+10. The first 15 minutes                ... pos = 0.375 	neg = 0.0  
+11. The egg is picked up                ... pos = 0.0   	neg = 0.125
+12. All of "Dinosaur's"                 ... pos = 0.625 	neg = 0.125
+13. Then all potential f                ... pos = 0.5   	neg = 0.5  
+14. Oh well.                            ... pos = 0.0   	neg = 0.0  
+15. It would be more hon                ... pos = 0.5   	neg = 0.375
+16. Nor is it that the f                ... pos = 0.25  	neg = 0.75 
+17. Sweeney), who is rai                ... pos = 0.375 	neg = 0.125
+18. A firestorm destroys                ... pos = 0.5   	neg = 1.0  
+19. The dinosaurs are le                ... pos = 0.25  	neg = 0.875
+20. Aladar,  already hav                ... pos = 0.625 	neg = 0.75 
+21. Sounds like many a D                ... pos = 0.0   	neg = 0.0  
+22. In fact, the setup o                ... pos = 0.5   	neg = 0.0  
+23. But previous Disney                 ... pos = 0.875 	neg = 0.5  
+24. Likewise complaints                 ... pos = 0.25  	neg = 0.625
+25. The enjoyability of                 ... pos = 0.0   	neg = 0.0  
+26. " You enjoy  them be                ... pos = 1.5   	neg = 0.0  
+27. They have catchy son                ... pos = 1.375 	neg = 0.25 
+28. "Dinosaur,"  unfortu                ... pos = 0.0   	neg = 1.5  
+29. There are no  catchy                ... pos = 1.0   	neg = 1.375
+30. None of the celebrit                ... pos = 0.125 	neg = 0.0  
+31. Julianna Margulies d                ... pos = 0.75  	neg = 0.0  
+32. " You say, "Oh!                     ... pos = 0.0   	neg = 0    
+33. That was Julianna Ma                ... pos = 0     	neg = 0.125
+34. " The  characters ju                ... pos = 2.0   	neg = 0.75 
+35. Some of the action s                ... pos = 0.75  	neg = 0.125
+36. But none of the scen                ... pos = 0.0   	neg = 0.0  
+37. And that's the other                ... pos = 0.25  	neg = 0.5  
+38. Most discoveries com                ... pos = 0.0   	neg = 0.25 
+39. There is no catharsi                ... pos = 0.625 	neg = 0.125
+40. There is  no urgency                ... pos = 0.0   	neg = 0.375
+41. The herd marches tow                ... pos = 0.375 	neg = 0.125
+42. Character arc is zer                ... pos = 2.0   	neg = 0.125
+43. But the film's worst                ... pos = 0.0   	neg = 0.625
+44. "Dinosaur's" structu                ... pos = 1.125 	neg = 0.375
+45. So the story has no                 ... pos = 2.5   	neg = 0.625
+46. What then can the au                ... pos = 0.375 	neg = 0.0  
+47. And, to be fair, "Di                ... pos = 0.75  	neg = 0.375
+48. It's easy to conceiv                ... pos = 0.5   	neg = 0.25 
+49. As a technical  achi                ... pos = 0.0   	neg = 0.125
+50. As a movie, it's dul                ... pos = 0.0   	neg = 0.0  
+51. For all its  impress                ... pos = 0.75  	neg = 0.625
+52. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4807-1477 is Positive        ... pos = 24.375 	neg = 14.625
+Overall score of document
+Total Pos = 24.375
+Total Neg = 14.625
+---------------------------------------------------------------------------

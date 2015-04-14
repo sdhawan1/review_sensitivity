@@ -1,0 +1,20 @@
+0. If you have ever see                 ... pos = 1.125 	neg = 0.0  
+1. The film involves a                  ... pos = 0.5   	neg = 0.25 
+2. An Irish women, Dier                 ... pos = 0.0   	neg = 0.0  
+3. Among the people she                 ... pos = 1.125 	neg = 0.0  
+4. Dierdre's  groups as                 ... pos = 0.25  	neg = 0.375
+5. They accomplish this                 ... pos = 0.0   	neg = 0.25 
+6. The briefcase stays                  ... pos = 0.5   	neg = 0.5  
+7. The writer seemed to                 ... pos = 0.625 	neg = 1.625
+8. The plot twists get                  ... pos = 0.125 	neg = 0.625
+9. But to add to the ex                 ... pos = 0.25  	neg = 0.125
+10. They are unrealistic                ... pos = 0.25  	neg = 1.0  
+11. Don't get me wrong,                 ... pos = 0.625 	neg = 1.625
+12. We never do find out                ... pos = 0.0   	neg = 0.375
+13. -----== Posted via D                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5519-1529 is Negative        ... pos = 5.375 	neg = 6.75 
+Overall score of document
+Total Pos = 5.375
+Total Neg = 6.75
+---------------------------------------------------------------------------

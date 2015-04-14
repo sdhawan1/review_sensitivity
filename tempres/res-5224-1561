@@ -1,0 +1,22 @@
+0. Bing, bang boom!                     ... pos = 0     	neg = 0.25 
+1. Scream, whimper, cry                 ... pos = 0     	neg = 0.0  
+2. Sudden noise, impend                 ... pos = 0.25  	neg = 0.5  
+3. This could be the pr                 ... pos = 0.625 	neg = 1.0  
+4. The film, director b                 ... pos = 1.25  	neg = 0.0  
+5. When a young women i                 ... pos = 0.375 	neg = 1.625
+6. ), form the idea tha                 ... pos = 0.0   	neg = 0.5  
+7. Urban Legend is so c                 ... pos = 0.25  	neg = 0.125
+8. Various shots in the                 ... pos = 0.5   	neg = 1.0  
+9. I did, however, like                 ... pos = 0.125 	neg = 0.0  
+10. One of these sequenc                ... pos = 0.75  	neg = 0.0  
+11. We haven't seen an a                ... pos = 0.375 	neg = 0.0  
+12. There are also other                ... pos = 0.25  	neg = 0.25 
+13. Urban Legend is much                ... pos = 0.625 	neg = 0.5  
+14. The DVD of Legend is                ... pos = 1.25  	neg = 0.125
+15. It contains the orig                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5224-1561 is Positive        ... pos = 7.0   	neg = 6.0  
+Overall score of document
+Total Pos = 7.0
+Total Neg = 6.0
+---------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+0. CrankyCriticŽ movie                 ... pos = 0.75  	neg = 0.0  
+1. Like nothing you've                  ... pos = 0.375 	neg = 0.5  
+2. .                                    ... pos = 0     	neg = 0    
+3. .                                    ... pos = 0     	neg = 0    
+4. Unless you dream of                  ... pos = 1.5   	neg = 0.125
+5. .                                    ... pos = 0     	neg = 0    
+6. .                                    ... pos = 0     	neg = 0    
+7. Way beyond anything                  ... pos = 0.0   	neg = 0    
+8. Once again the pairi                 ... pos = 0.625 	neg = 0.0  
+9. Being John Malkovich                 ... pos = 0.625 	neg = 0.0  
+10. The hard part for me                ... pos = 0.375 	neg = 1.125
+11. >From the opening ti                ... pos = 1.25  	neg = 0.0  
+12. Jonze, best known as                ... pos = 0.375 	neg = 0.0  
+13. Kaufman manages stor                ... pos = 0.25  	neg = 0.375
+14. We start with puppet                ... pos = 0.125 	neg = 0.0  
+15. Problem is, his pupp                ... pos = 1.75  	neg = 0.375
+16. The breadwinning par                ... pos = 0.875 	neg = 1.625
+17. Needing cold hard ca                ... pos = 0.25  	neg = 0.75 
+18. There's a very funny                ... pos = 0.5   	neg = 0.375
+19. Most of the jokes an                ... pos = 1.0   	neg = 0.25 
+20. That needs more expl                ... pos = 0.0   	neg = 0.125
+21. After moving them, h                ... pos = 0.0   	neg = 0.0  
+22. The tunnel, gooey me                ... pos = 0.25  	neg = 1.0  
+23. After about fifteen                 ... pos = 0.375 	neg = 0.0  
+24. Lust Object Maxine (                ... pos = 1.625 	neg = 0.125
+25. Craig, smitten, reve                ... pos = 0.0   	neg = 0    
+26. Maxine writes up a b                ... pos = 0.125 	neg = 0.0  
+27. The money comes roll                ... pos = 0.0   	neg = 0.0  
+28. Maxine also seduces                 ... pos = 0.0   	neg = 0.0  
+29. What John Malkovich                 ... pos = 0.0   	neg = 0.125
+30. .                                   ... pos = 0     	neg = 0    
+31. .                                   ... pos = 0     	neg = 0    
+32. well, that's all you                ... pos = 0.0   	neg = 0.125
+33. The movie still has                 ... pos = 1.125 	neg = 0.0  
+34. It gets better all t                ... pos = 0.0   	neg = 0.0  
+35. Outstanding in suppo                ... pos = 1.0   	neg = 0.625
+36. [The first words out                ... pos = 0.125 	neg = 0.625
+37. " -- click for more                 ... pos = 0.375 	neg = 0.0  
+38. Across the board, pe                ... pos = 0.25  	neg = 0.125
+39. USA Films hasn't had                ... pos = 0.5   	neg = 0.875
+40. " I hate that .                     ... pos = 0.125 	neg = 0.0  
+41. .                                   ... pos = 0     	neg = 0    
+42. .                                   ... pos = 0     	neg = 0    
+43. On average, a first                 ... pos = 0.25  	neg = 0.0  
+44. Were Cranky able to                 ... pos = 0.375 	neg = 0.125
+45. Yeah, you'll be seei                ... pos = 0.0   	neg = 0.125
+46. We rarely see one fi                ... pos = 0.375 	neg = 0.0  
+47. Being John Malkovich                ... pos = 0.25  	neg = 0.125
+48. Unlike "Run Lola Run                ... pos = 0.375 	neg = 0.25 
+49. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+50. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+51. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-912 is Positive          ... pos = 18.375 	neg = 10.0 
+Overall score of document
+Total Pos = 18.375
+Total Neg = 10.0
+---------------------------------------------------------------------------

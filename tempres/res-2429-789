@@ -1,0 +1,48 @@
+0. Lately Oliver Stone                  ... pos = 0.125 	neg = 0.125
+1. His last 2 films wer                 ... pos = 0.0   	neg = 0.25 
+2. He partly succeeds,                  ... pos = 0.125 	neg = 0.25 
+3. The story is simple,                 ... pos = 0.0   	neg = 1.0  
+4. Head coach Tony D'ma                 ... pos = 0.125 	neg = 0.125
+5. He has a beat up qua                 ... pos = 1.0   	neg = 0.875
+6. The Miami Sharks nee                 ... pos = 0.0   	neg = 0.375
+7. When Cap and another                 ... pos = 0.375 	neg = 0.625
+8. His name, Beamen (Ja                 ... pos = 0.5   	neg = 0.0  
+9. Even though he helps                 ... pos = 0.5   	neg = 0.125
+10. There are also a few                ... pos = 0.375 	neg = 0.0  
+11. Any Given Sunday is                 ... pos = 1.0   	neg = 0.125
+12. Both films work on o                ... pos = 0.0   	neg = 0.125
+13. Outside that, it's o                ... pos = 0.0   	neg = 0.25 
+14. That's not to say th                ... pos = 0.0   	neg = 0.875
+15. One thing I particul                ... pos = 0.125 	neg = 0.125
+16. As Pacino says in th                ... pos = 0.5   	neg = 0.0  
+17. I couldn't help but                 ... pos = 0.0   	neg = 0.25 
+18. Like I have been say                ... pos = 0.0   	neg = 0.125
+19. Profit is all that m                ... pos = 1.0   	neg = 0.25 
+20. Aside from those pos                ... pos = 0.25  	neg = 0.25 
+21. Director Oliver Ston                ... pos = 0.0   	neg = 0.375
+22. One moment we're wat                ... pos = 0.0   	neg = 0.0  
+23. His artistic ability                ... pos = 0.5   	neg = 0.0  
+24. He is no longer one                 ... pos = 0.0   	neg = 0.125
+25. He had his moments o                ... pos = 0.5   	neg = 0.0  
+26. Another painful elem                ... pos = 0.0   	neg = 1.0  
+27. If it wasn't for Sto                ... pos = 0.25  	neg = 0.125
+28. Did they even edit t                ... pos = 0.0   	neg = 0.0  
+29. I was completely bor                ... pos = 0.0   	neg = 0.125
+30. Unlike the Green Mil                ... pos = 0.75  	neg = 0.125
+31. In fact Pacino has n                ... pos = 0.0   	neg = 0.75 
+32. He lacked any charis                ... pos = 0.25  	neg = 0.0  
+33. I don't know how an                 ... pos = 0.5   	neg = 0.375
+34. Cameron Diaz however                ... pos = 1.25  	neg = 0.0  
+35. It's true she overac                ... pos = 0.5   	neg = 0.125
+36. At least she put for                ... pos = 0.0   	neg = 0.0  
+37. That's more than I c                ... pos = 0.0   	neg = 0.0  
+38. They were painfully                 ... pos = 0     	neg = 0.125
+39. Any Given Sunday is                 ... pos = 0.5   	neg = 1.278
+40. If you can get pass                 ... pos = 0.25  	neg = 1.542
+41. But for me, it's jus                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2429-789 is Negative         ... pos = 11.25 	neg = 12.445
+Overall score of document
+Total Pos = 11.25
+Total Neg = 12.445
+---------------------------------------------------------------------------

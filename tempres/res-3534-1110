@@ -1,0 +1,46 @@
+0. CONTACT and CHACUN C                 ... pos = 0.875 	neg = 0.25 
+1. However, they both                   ... pos = 0.125 	neg = 0.0  
+2. I had heard of CONTA                 ... pos = 0.5   	neg = 0.125
+3. Hardly  was the open                 ... pos = 0.125 	neg = 0.25 
+4. Considering the natu                 ... pos = 1.625 	neg = 0.25 
+5. As the camera pulled                 ... pos = 0.0   	neg = 0.0  
+6. I had thought that t                 ... pos = 0.125 	neg = 0.125
+7. There is possibly no                 ... pos = 0.125 	neg = 0.75 
+8. One is likely to fin                 ... pos = 1.375 	neg = 1.0  
+9. Most often, however,                 ... pos = 0.625 	neg = 0.125
+10. Ellie finds a  fello                ... pos = 0.25  	neg = 0.0  
+11. Working with a short                ... pos = 0.625 	neg = 2.0  
+12. Such must have  been                ... pos = 0.875 	neg = 0.25 
+13. So how can it be, th                ... pos = 0.125 	neg = 0.5  
+14. The character of Pal                ... pos = 0.875 	neg = 0.0  
+15. Giving the role to M                ... pos = 0.625 	neg = 0.875
+16. Throughout the film,                ... pos = 1.0   	neg = 0.25 
+17. The audience leaves                 ... pos = 0.5   	neg = 1.375
+18. This is an unfairly                 ... pos = 1.5   	neg = 0.375
+19. Zemeckis isn't conte                ... pos = 0.0   	neg = 0.125
+20. This dumbing-down of                ... pos = 0.5   	neg = 1.25 
+21. When Ellie finds the                ... pos = 1.75  	neg = 0.917
+22. To the movie's credi                ... pos = 2.25  	neg = 0.5  
+23. CHACUN CHERCHE SON C                ... pos = 1.5   	neg = 0.375
+24. Chloe (Garance  Clav                ... pos = 0.0   	neg = 0.0  
+25. Other than doing tou                ... pos = 0.125 	neg = 0.25 
+26. Chloe leaves Gris-gr                ... pos = 0.875 	neg = 0.125
+27. The search for her c                ... pos = 0.125 	neg = 1.0  
+28. The standout scenes                 ... pos = 0.5   	neg = 0.0  
+29. In one sequence,  sh                ... pos = 0.5   	neg = 1.0  
+30. In another, she shar                ... pos = 0.625 	neg = 0.25 
+31. In CHACUN CHERCHE SO                ... pos = 0.5   	neg = 1.0  
+32. Chloe seems to reces                ... pos = 0.0   	neg = 0.125
+33. In the end, Chloe fi                ... pos = 1.5   	neg = 0.125
+34. In the end, with the                ... pos = 1.25  	neg = 0.375
+35. The banality of the                 ... pos = 1.625 	neg = 0.0  
+36. As such, both  films                ... pos = 0.75  	neg = 0.375
+37. Djamel's last words,                ... pos = 0.75  	neg = 1.0  
+38. Dave Cowen (esch@fis                ... pos = 0     	neg = 0    
+39. --------------------                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3534-1110 is Positive        ... pos = 27.0  	neg = 17.292
+Overall score of document
+Total Pos = 27.0
+Total Neg = 17.292
+---------------------------------------------------------------------------

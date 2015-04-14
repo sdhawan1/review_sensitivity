@@ -1,0 +1,47 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.625
+1. Few movies have been                 ... pos = 0.125 	neg = 0.125
+2. The sheer technical                  ... pos = 2.25  	neg = 0.625
+3. And, of course, Toy                  ... pos = 0.875 	neg = 0.125
+4. And as a sequel, Toy                 ... pos = 0.0   	neg = 0.0  
+5. The first Toy Story                  ... pos = 1.125 	neg = 0.0  
+6. The audience would e                 ... pos = 0.5   	neg = 0.0  
+7. New characters would                 ... pos = 1.625 	neg = 0.375
+8. The Buzz Lightyear c                 ... pos = 1.375 	neg = 0.25 
+9. The friendship betwe                 ... pos = 0.375 	neg = 0.25 
+10. And so forth.                       ... pos = 0.0   	neg = 0.0  
+11. Toy Story 2 tries ve                ... pos = 0.5   	neg = 1.25 
+12. On a technical level                ... pos = 0.5   	neg = 0.125
+13. The "sets" (for want                ... pos = 0.375 	neg = 0.375
+14. Trees spread in gree                ... pos = 0.25  	neg = 0.0  
+15. A scene where Woody                 ... pos = 0.5   	neg = 0.0  
+16. One scene, where the                ... pos = 0.0   	neg = 0.0  
+17. The wizards at Pixar                ... pos = 0.125 	neg = 0.0  
+18. As far as the charac                ... pos = 0.75  	neg = 0.375
+19. (The first Toy Story                ... pos = 1.125 	neg = 0.0  
+20. )  Even the villains                ... pos = 0.375 	neg = 0.375
+21. The only real new ch                ... pos = 2.875 	neg = 0.125
+22. (Which should finall                ... pos = 0.0   	neg = 0.25 
+23. ). Tom Hanks has the                ... pos = 0.375 	neg = 0.75 
+24. Hanks has taken so m                ... pos = 0.0   	neg = 0.125
+25. (Hanks even gets to                 ... pos = 0.25  	neg = 0.0  
+26. ) Tim Allen has the                 ... pos = 0.625 	neg = 0.125
+27. The problem with Toy                ... pos = 0.25  	neg = 0.5  
+28. To compensate, Toy S                ... pos = 0.0   	neg = 0.125
+29. Sometimes this works                ... pos = 0.0   	neg = 0    
+30. The Jurassic Park re                ... pos = 0.75  	neg = 0.125
+31. Sometimes it doesn't                ... pos = 0.0   	neg = 0    
+32. The whole last half                 ... pos = 0.5   	neg = 0.75 
+33. Overall, the pop-cul                ... pos = 0.75  	neg = 0.375
+34. But the constant gag                ... pos = 0.125 	neg = 0.25 
+35. The ultimate questio                ... pos = 0.125 	neg = 0.125
+36. It succeeds spectacu                ... pos = 1.0   	neg = 0.0  
+37. However, the story o                ... pos = 0.625 	neg = 0    
+38. Toy Story 2 isn't a                 ... pos = 0.375 	neg = 0.125
+39. Movie Reviews: http:                ... pos = 0.0   	neg = 0.25 
+40. "     -- Alan Jackso                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-395-1045 is Positive         ... pos = 21.375 	neg = 8.875
+Overall score of document
+Total Pos = 21.375
+Total Neg = 8.875
+---------------------------------------------------------------------------

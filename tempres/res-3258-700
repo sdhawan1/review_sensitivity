@@ -1,0 +1,32 @@
+0. Release Date: Decemb                 ... pos = 1.375 	neg = 0.25 
+1. The latest motion pi                 ... pos = 0.875 	neg = 0.25 
+2. It might be thought                  ... pos = 0.0   	neg = 0.625
+3. That's not the case.                 ... pos = 0.0   	neg = 0.0  
+4. Although there are c                 ... pos = 0.875 	neg = 0.625
+5. Certain features hav                 ... pos = 1.0   	neg = 0.25 
+6. This is, simply put,                 ... pos = 0.125 	neg = 0.375
+7. INSURRECTION begins                  ... pos = 1.25  	neg = 0.0  
+8. These people live a                  ... pos = 2.125 	neg = 0.0  
+9. As it turns out, the                 ... pos = 0.5   	neg = 0.0  
+10. When Captain Picard                 ... pos = 0.625 	neg = 0.125
+11. Hence, Picard and hi                ... pos = 0.125 	neg = 0.0  
+12. Even for non-fans, t                ... pos = 0.625 	neg = 0.125
+13. On the technical sid                ... pos = 1.75  	neg = 0.625
+14. Of course, TREK spec                ... pos = 0.125 	neg = 0.375
+15. On the aesthetic sid                ... pos = 1.0   	neg = 0.125
+16. The script is not pe                ... pos = 0.614 	neg = 1.25 
+17. The acting corps is                 ... pos = 1.125 	neg = 0.25 
+18. Stewart is considere                ... pos = 0.125 	neg = 0.25 
+19. Jonathan Frakes (dir                ... pos = 0.0   	neg = 0.0  
+20. Data, are wonderful                 ... pos = 1.0   	neg = 0.0  
+21. Director Frakes even                ... pos = 1.25  	neg = 0.0  
+22. Overall, INSURRECTIO                ... pos = 0.5   	neg = 0.125
+23. It lacks much of the                ... pos = 0.75  	neg = 0.125
+24. Those not expecting                 ... pos = 0.5   	neg = 0.25 
+25. Probably best seen o                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3258-700 is Positive         ... pos = 18.614 	neg = 6.25 
+Overall score of document
+Total Pos = 18.614
+Total Neg = 6.25
+---------------------------------------------------------------------------

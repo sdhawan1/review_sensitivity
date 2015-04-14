@@ -1,0 +1,51 @@
+0. Visit Online Film Cr                 ... pos = 0.0   	neg = 0.75 
+1. And  what ensures th                 ... pos = 0.0   	neg = 0.125
+2. The spy who is as ag                 ... pos = 0.0   	neg = 0.125
+3. An oil magnate and                   ... pos = 0.125 	neg = 1.0  
+4. The businessman's da                 ... pos = 0.0   	neg = 0.0  
+5. This woman, Elektra                  ... pos = 0.5   	neg = 0.125
+6. Our hero sets out to                 ... pos = 0.625 	neg = 0.25 
+7. Of  course Bond is s                 ... pos = 0.625 	neg = 0.875
+8. During this  self-di                 ... pos = 0.875 	neg = 0.0  
+9. It is in an undergro                 ... pos = 0.375 	neg = 0.375
+10. ) fall into the  clu                ... pos = 0.0   	neg = 0.375
+11. Will James even have                ... pos = 0.25  	neg = 0.0  
+12. The conflict is more                ... pos = 0.5   	neg = 0.5  
+13. There's  really noth                ... pos = 0.0   	neg = 0.25 
+14. So how does Pierce B                ... pos = 0.0   	neg = 0.0  
+15. This man's acting is                ... pos = 0.0   	neg = 0.125
+16. But Brosnan is stron                ... pos = 0.625 	neg = 0.75 
+17. Somehow he manages t                ... pos = 1.25  	neg = 0.125
+18. No one before him ha                ... pos = 0.0   	neg = 0.25 
+19. Most viewers won't e                ... pos = 1.75  	neg = 0.875
+20. We  even get a tiny                 ... pos = 0.125 	neg = 0.0  
+21. Once it is implied t                ... pos = 0.625 	neg = 0.25 
+22. As in any Bond insta                ... pos = 1.625 	neg = 0.25 
+23. As  the American sci                ... pos = 0.0   	neg = 0.0  
+24. With the accent and                 ... pos = 0.875 	neg = 1.25 
+25. As Bond's superior,                 ... pos = 0.875 	neg = 0.0  
+26. We even get a peek                  ... pos = 0.375 	neg = 0.0  
+27. One underutilized ch                ... pos = 0.875 	neg = 0.125
+28. He appears in only t                ... pos = 0.0   	neg = 0.125
+29. Yes, it is suggested                ... pos = 0.875 	neg = 1.0  
+30. Renard does an adequ                ... pos = 0.0   	neg = 0.375
+31. Early in the narrati                ... pos = 0.25  	neg = 0.75 
+32. What's scary is that                ... pos = 0.25  	neg = 1.0  
+33. Slowly it is killing                ... pos = 0.0   	neg = 0.125
+34. The right side of  h                ... pos = 0.0   	neg = 0.25 
+35. He is hateable enoug                ... pos = 0.125 	neg = 0.125
+36. Robbie Coltrane does                ... pos = 1.25  	neg = 0.25 
+37. Michael Apted is a v                ... pos = 0.5   	neg = 0.25 
+38. Apted takes risks he                ... pos = 0.0   	neg = 0.25 
+39. The chase scenes are                ... pos = 0.25  	neg = 0.0  
+40. Apted is able to  bl                ... pos = 0.25  	neg = 0.125
+41. His only handicap is                ... pos = 0.25  	neg = 0.875
+42. The short review is                 ... pos = 0.75  	neg = 0.125
+43. This whole franchise                ... pos = 0.0   	neg = 0.375
+44. Don't miss  it if yo                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3999-71 is Positive          ... pos = 17.625 	neg = 14.75
+Overall score of document
+Total Pos = 17.625
+Total Neg = 14.75
+---------------------------------------------------------------------------

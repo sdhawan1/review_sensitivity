@@ -1,0 +1,53 @@
+0. ** (out of 4) Forgiv                 ... pos = 0.5   	neg = 0.125
+1. The movie introduces                 ... pos = 0.0   	neg = 0.0  
+2. It also introduces u                 ... pos = 0.0   	neg = 0.875
+3. The movie introduces                 ... pos = 0.0   	neg = 0.125
+4. She specializes in b                 ... pos = 0.875 	neg = 0.625
+5. (Maybe it's her way                  ... pos = 0.0   	neg = 0.0  
+6. ) . Turns out that C                 ... pos = 0.0   	neg = 1.0  
+7. Cross takes a few da                 ... pos = 0.0   	neg = 0.625
+8. He learns that one o                 ... pos = 0.5   	neg = 0.125
+9. Not too long after t                 ... pos = 0.5   	neg = 2.125
+10. He puts her in a cav                ... pos = 0.5   	neg = 0    
+11. (Nine "strong" women                ... pos = 0.25  	neg = 0.0  
+12. ) The kidnapper psyc                ... pos = 0.0   	neg = 0.625
+13. He breaks their will                ... pos = 0.125 	neg = 0.0  
+14. But before Kate's wi                ... pos = 0.625 	neg = 0.5  
+15. When she is finally                 ... pos = 0.0   	neg = 0.125
+16. Instead she jumps in                ... pos = 0.5   	neg = 0.0  
+17. THIS PARAGRAPH GIVES                ... pos = 0.0   	neg = 0.125
+18. Cross and Kate becom                ... pos = 0.125 	neg = 0.0  
+19. When it comes time t                ... pos = 0.0   	neg = 0.0  
+20. But the movie has a                 ... pos = 0.0   	neg = 0.0  
+21. The bad guy slipped                 ... pos = 0.125 	neg = 0.875
+22. "Strong" kickboxing                 ... pos = 0.125 	neg = 1.0  
+23. Hooray for the men!                 ... pos = 0.0   	neg = 0    
+24. Our women are safe!                 ... pos = 0.25  	neg = 0    
+25. ) . To be fair, I di                ... pos = 0.125 	neg = 0.125
+26. It was no worse than                ... pos = 0.0   	neg = 1.0  
+27. There was even a sce                ... pos = 0.0   	neg = 0.125
+28. But the movie was so                ... pos = 0.25  	neg = 0.625
+29. For example, Cross i                ... pos = 0.125 	neg = 0.25 
+30. Also, Cross made som                ... pos = 0.0   	neg = 0.625
+31. The kidnapper spoke                 ... pos = 0.0   	neg = 0.0  
+32. His was a calm, face                ... pos = 0.0   	neg = 0.625
+33. When Kate is rescued                ... pos = 0.5   	neg = 0.25 
+34. Another victim was f                ... pos = 0.0   	neg = 0.375
+35. After her rescue, cr                ... pos = 0.375 	neg = 0.0  
+36. Just what a traumati                ... pos = 0.0   	neg = 0.75 
+37. Finally, in Cross' r                ... pos = 0.0   	neg = 0.5  
+38. He never explains wh                ... pos = 0.25  	neg = 1.0  
+39. But then he couldn't                ... pos = 0.125 	neg = 0.125
+40. In addition, the fil                ... pos = 0.0   	neg = 0.5  
+41. The movie did have a                ... pos = 0.75  	neg = 1.0  
+42. For example, the cav                ... pos = 0.25  	neg = 0.25 
+43. And there were times                ... pos = 0.875 	neg = 0.5  
+44. I suppose this movie                ... pos = 0.0   	neg = 1.0  
+45. Still, that's hardly                ... pos = 0.0   	neg = 0.0  
+46. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3858-1008 is Negative        ... pos = 8.625 	neg = 18.5 
+Overall score of document
+Total Pos = 8.625
+Total Neg = 18.5
+---------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+0. Cast: Robert Duvall,                 ... pos = 0.0   	neg = 0.0  
+1. Not necessarily dang                 ... pos = 1.0   	neg = 0.0  
+2. Respectable actors h                 ... pos = 0.5   	neg = 0.0  
+3. On the other side of                 ... pos = 1.5   	neg = 0.25 
+4. Duvall plays Euliss                  ... pos = 0.375 	neg = 0.0  
+5. Flawed, yes, but he                  ... pos = 0.125 	neg = 0.125
+6. Perhaps a little too                 ... pos = 0.25  	neg = 0.5  
+7. Realizing that he's                  ... pos = 0.0   	neg = 0.25 
+8. He dubs himself as "                 ... pos = 0.5   	neg = 0.0  
+9. In its worst moments                 ... pos = 0.25  	neg = 0.375
+10. But nowadays many fi                ... pos = 1.0   	neg = 0.0  
+11. Such is the story wi                ... pos = 0.125 	neg = 0.25 
+12. I never quite unders                ... pos = 0.375 	neg = 0.75 
+13. Is he giving us a le                ... pos = 0.125 	neg = 0.125
+14. Or is the entire fil                ... pos = 0.25  	neg = 0.125
+15. None of these themes                ... pos = 0.625 	neg = 0.125
+16. To his credit, he do                ... pos = 1.125 	neg = 0.0  
+17. But even from a tech                ... pos = 0.375 	neg = 0.125
+18. Many camera shots lo                ... pos = 0.0   	neg = 0.625
+19. Still, The Apostle i                ... pos = 0.0   	neg = 0.625
+20. Duvall's riveting, O                ... pos = 1.125 	neg = 0.125
+21. In particular, a sce                ... pos = 0.375 	neg = 1.0  
+22. After being disappoi                ... pos = 0.25  	neg = 0.25 
+23. Unless, of course, h                ... pos = 0.0   	neg = 0.125
+24. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5199-1111 is Positive        ... pos = 10.5  	neg = 5.75 
+Overall score of document
+Total Pos = 10.5
+Total Neg = 5.75
+---------------------------------------------------------------------------

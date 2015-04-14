@@ -1,0 +1,51 @@
+0. Actress Christina Ri                 ... pos = 1.25  	neg = 0.25 
+1. "  Gone forever are                  ... pos = 1.625 	neg = 0.125
+2. (The end credits act                 ... pos = 0.0   	neg = 0.125
+3. ")         To say th                 ... pos = 0.875 	neg = 1.125
+4. She's sassy, mean, t                 ... pos = 0.125 	neg = 0.0  
+5. She chain-smokes, ha                 ... pos = 0.75  	neg = 0.5  
+6. Hating the atmospher                 ... pos = 0.25  	neg = 0.0  
+7. Putting on her most                  ... pos = 0.125 	neg = 0.0  
+8. Her brother Bill (Ma                 ... pos = 0.125 	neg = 0.0  
+9. Poor Bill doesn't re                 ... pos = 0.125 	neg = 0.625
+10. All goes well until                 ... pos = 0.125 	neg = 0.0  
+11. The two forge an une                ... pos = 0.5   	neg = 0.75 
+12. Dedee offers him her                ... pos = 0.0   	neg = 0.0  
+13. Matt, who isn't exac                ... pos = 0.5   	neg = 0.0  
+14. All this takes place                ... pos = 0.5   	neg = 0.0  
+15. Along the way the ch                ... pos = 1.625 	neg = 0.5  
+16. As well they should.                ... pos = 0.0   	neg = 0    
+17. That capsule summary                ... pos = 0.125 	neg = 0.375
+18. It's closer to "Taxi                ... pos = 0.0   	neg = 0.0  
+19. "  Roos presents us                 ... pos = 0.125 	neg = 0.0  
+20. This is a staggering                ... pos = 0.875 	neg = 0.125
+21. It's an undeniably d                ... pos = 0.5   	neg = 0.0  
+22. "  The movie's split                ... pos = 0.5   	neg = 0.125
+23. The film is narrated                ... pos = 0.125 	neg = 0.125
+24. She knows she's a bi                ... pos = 0.125 	neg = 0.5  
+25. "I don't have a hear                ... pos = 0.375 	neg = 0.125
+26. " she warns in the o                ... pos = 0.5   	neg = 0    
+27. But amazingly, Dedee                ... pos = 0.125 	neg = 0.0  
+28. Ricci plays the role                ... pos = 1.75  	neg = 0.0  
+29. Dedee will never be                 ... pos = 0.125 	neg = 0.875
+30. The life Ricci bring                ... pos = 0.125 	neg = 0.25 
+31. There's already talk                ... pos = 0.0   	neg = 0.0  
+32. Ricci is obviously g                ... pos = 0.75  	neg = 0.125
+33. Just try not to smil                ... pos = 1.625 	neg = 0.625
+34. Moments like these a                ... pos = 1.75  	neg = 0.125
+35. It frequently hurts,                ... pos = 0.125 	neg = 0.875
+36. Carl is easy to love                ... pos = 0.75  	neg = 0.125
+37. "Real" moments like                 ... pos = 0.25  	neg = 0.0  
+38. This is admittedly n                ... pos = 0.5   	neg = 0.125
+39. But if you're not bo                ... pos = 0.0   	neg = 0.375
+40. This is by far the b                ... pos = 0.375 	neg = 0.125
+41. This review was orig                ... pos = 0.125 	neg = 0.125
+42. This review may be f                ... pos = 0.625 	neg = 0.5  
+43. It may not reproduce                ... pos = 0.375 	neg = 0    
+44. If you have comments                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2035-216 is Positive         ... pos = 21.125 	neg = 9.625
+Overall score of document
+Total Pos = 21.125
+Total Neg = 9.625
+---------------------------------------------------------------------------

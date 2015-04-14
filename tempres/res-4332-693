@@ -1,0 +1,29 @@
+0. More MOVIE VIEWS at:                 ... pos = 0.75  	neg = 0.5  
+1. The result is an occ                 ... pos = 1.625 	neg = 0.125
+2. Anthony Hopkins is a                 ... pos = 0.75  	neg = 0.125
+3. At first glance of h                 ... pos = 0.25  	neg = 0.125
+4. The character does h                 ... pos = 1.125 	neg = 0.125
+5. Still, Powell has ki                 ... pos = 0.0   	neg = 0.0  
+6. Called in to investi                 ... pos = 0.0   	neg = 0.25 
+7. From here, Instinct                  ... pos = 0.5   	neg = 0.0  
+8. It's unfortunate tha                 ... pos = 0.5   	neg = 0.0  
+9. There are isolated m                 ... pos = 0.375 	neg = 0.125
+10. Instinct is too unev                ... pos = 0.375 	neg = 0.875
+11. The material here ma                ... pos = 0.0   	neg = 0.125
+12. Anthony Hopkins is e                ... pos = 1.75  	neg = 0.125
+13. Another disappointme                ... pos = 1.0   	neg = 1.125
+14. We're told that he's                ... pos = 0.25  	neg = 0.0  
+15. Donald Sutherland ha                ... pos = 0.0   	neg = 0.0  
+16. Even if the acting i                ... pos = 0.25  	neg = 0.125
+17. The storyline is sim                ... pos = 0.5   	neg = 0.125
+18. Scenes in which we l                ... pos = 1.625 	neg = 0.125
+19. Another conventional                ... pos = 0.625 	neg = 0.125
+20. But even as the film                ... pos = 0.375 	neg = 0.25 
+21. Instinct is not a ba                ... pos = 0.125 	neg = 1.0  
+22. Once you get past th                ... pos = 1.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4332-693 is Positive         ... pos = 13.75 	neg = 5.75 
+Overall score of document
+Total Pos = 13.75
+Total Neg = 5.75
+---------------------------------------------------------------------------

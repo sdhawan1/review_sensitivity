@@ -1,0 +1,25 @@
+0. From the moment I sa                 ... pos = 0.0   	neg = 0.0  
+1. I am a junky when it                 ... pos = 0.0   	neg = 0.125
+2. Now, after watching                  ... pos = 0.0   	neg = 0.125
+3. Okay, Space is not a                 ... pos = 1.5   	neg = 0.25 
+4. This is the film tha                 ... pos = 0.0   	neg = 0.75 
+5. The movie adaptation                 ... pos = 0.0   	neg = 0.0  
+6. The show was a chees                 ... pos = 0.0   	neg = 1.0  
+7. The movie version is                 ... pos = 0.5   	neg = 0.125
+8. It's amazing what sp                 ... pos = 0.375 	neg = 0.375
+9. The story tells of t                 ... pos = 0.625 	neg = 0.25 
+10. This is the only mov                ... pos = 0.0   	neg = 0.125
+11. When the Robinsons l                ... pos = 0.875 	neg = 0.25 
+12. Lost in Space suffer                ... pos = 0.125 	neg = 0.75 
+13. But, it does have a                 ... pos = 0.5   	neg = 0.0  
+14. But, I have seen a n                ... pos = 0.0   	neg = 0.0  
+15. Plus, the movie kept                ... pos = 0.0   	neg = 0.75 
+16. The DVD features a n                ... pos = 0.25  	neg = 0.75 
+17. However, I was very                 ... pos = 0.625 	neg = 0.125
+18. Low and unspectacula                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4624-1561 is Negative        ... pos = 5.375 	neg = 5.875
+Overall score of document
+Total Pos = 5.375
+Total Neg = 5.875
+---------------------------------------------------------------------------

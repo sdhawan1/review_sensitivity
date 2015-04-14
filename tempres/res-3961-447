@@ -1,0 +1,27 @@
+0. Starring: Cate Blanc                 ... pos = 0.875 	neg = 0.25 
+1. To me, the first and                 ... pos = 1.625 	neg = 0.375
+2. And though Elizabeth                 ... pos = 1.125 	neg = 0.25 
+3. Elizabeth takes plac                 ... pos = 0.0   	neg = 0.125
+4. Before she dies, tho                 ... pos = 1.0   	neg = 0.0  
+5. As a result, amidst                  ... pos = 0.5   	neg = 0    
+6. The film chronicles                  ... pos = 0.375 	neg = 0.0  
+7. Much of the film dea                 ... pos = 1.375 	neg = 0.0  
+8. There is much ado ab                 ... pos = 0.125 	neg = 0.25 
+9. The problem with the                 ... pos = 2.25  	neg = 0.25 
+10. I didn't much care a                ... pos = 1.125 	neg = 0.125
+11. The cast is rounded                 ... pos = 1.25  	neg = 0.125
+12. Why then, you must b                ... pos = 0.375 	neg = 0.125
+13. Simply because it is                ... pos = 0.0   	neg = 0.125
+14. Kapur and his cinema                ... pos = 0.5   	neg = 0.25 
+15. The light streams th                ... pos = 1.875 	neg = 0.125
+16. Each frame is rich w                ... pos = 0.75  	neg = 0.125
+17. The costumes by Alex                ... pos = 1.0   	neg = 0.0  
+18. Indeed, Elizabeth is                ... pos = 1.0   	neg = 0.125
+19. Watch also for the i                ... pos = 0.125 	neg = 0.5  
+20. It made me think in                 ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3961-447 is Positive         ... pos = 17.625 	neg = 3.125
+Overall score of document
+Total Pos = 17.625
+Total Neg = 3.125
+---------------------------------------------------------------------------

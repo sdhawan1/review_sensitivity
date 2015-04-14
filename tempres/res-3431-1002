@@ -1,0 +1,43 @@
+0. ENTRAPMENT (1999)                    ... pos = 0.0   	neg = 0.75 
+1. Copyright 1999 Justi                 ... pos = 0     	neg = 0.0  
+2. All of my film revie                 ... pos = 0.25  	neg = 0.0  
+3. E-mail me at justinf                 ... pos = 0.0   	neg = 0.0  
+4. Screenplay by Ronald                 ... pos = 0.0   	neg = 0.0  
+5. Directed by Jon Amie                 ... pos = 0.0   	neg = 0    
+6. Starring Sean Conner                 ... pos = 0     	neg = 0.0  
+7. Rated PG-13 (contain                 ... pos = 0.5   	neg = 0.125
+8. Synopsis:  An aging                  ... pos = 0.75  	neg = 0.125
+9. ) in this convoluted                 ... pos = 0.5   	neg = 0.125
+10. Comments:  This movi                ... pos = 0     	neg = 0.125
+11. Plain and simple.                   ... pos = 0.0   	neg = 0.0  
+12. ENTRAPMENT should no                ... pos = 0.0   	neg = 0.875
+13. It stars Sean Conner                ... pos = 0.125 	neg = 0.0  
+14. It takes full advant                ... pos = 1.0   	neg = 0.125
+15. It has some genuinel                ... pos = 0.625 	neg = 0.0  
+16. So, what went wrong?                ... pos = 0     	neg = 0.75 
+17. Plenty, unfortunatel                ... pos = 0.0   	neg = 0.875
+18. The major problem wi                ... pos = 0.0   	neg = 1.125
+19. It has a been-there,                ... pos = 0.0   	neg = 0    
+20. Nothing seems partic                ... pos = 0.5   	neg = 0.875
+21. The screenwriters, f                ... pos = 0.5   	neg = 0.0  
+22. "4 days to the Mille                ... pos = 0.0   	neg = 0    
+23. This device was used                ... pos = 0.875 	neg = 0.125
+24. The characters are n                ... pos = 1.25  	neg = 0.75 
+25. ENTRAPMENT, in other                ... pos = 0.75  	neg = 1.125
+26. The star power here                 ... pos = 1.0   	neg = 0.5  
+27. Sean Connery is give                ... pos = 0.0   	neg = 0.25 
+28. "  Ving Rhames' char                ... pos = 1.125 	neg = 0.125
+29. The camera zooms in                 ... pos = 0.0   	neg = 0.0  
+30. This, in and of itse                ... pos = 0.0   	neg = 1.0  
+31. At least the SPECIES                ... pos = 0.25  	neg = 0.0  
+32. ENTRAPMENT does the                 ... pos = 0.625 	neg = 1.25 
+33. The tagline for this                ... pos = 0.0   	neg = 0.125
+34. "  It sure is, on th                ... pos = 0.25  	neg = 0.125
+35. ENTRAPMENT really is                ... pos = 0.0   	neg = 0.875
+36. I would suggest, how                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3431-1002 is Negative        ... pos = 11.375 	neg = 12.25
+Overall score of document
+Total Pos = 11.375
+Total Neg = 12.25
+---------------------------------------------------------------------------

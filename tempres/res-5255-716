@@ -1,0 +1,28 @@
+0. This review is being                 ... pos = 0.625 	neg = 0.875
+1. Tomorrow Never Dies                  ... pos = 0.0   	neg = 0.0  
+2. Written by Bruce Fei                 ... pos = 0.0   	neg = 0    
+3. Starring Pierce Bros                 ... pos = 0.0   	neg = 0.0  
+4. In a way I almost fe                 ... pos = 0.0   	neg = 0.0  
+5. Still, I had heard e                 ... pos = 3.0   	neg = 3.625
+6. And for the most par                 ... pos = 0.0   	neg = 0.0  
+7. " The gadgets and st                 ... pos = 0.625 	neg = 0.75 
+8. This led to the most                 ... pos = 0.0   	neg = 0.0  
+9. Brosnan appropriatel                 ... pos = 2.125 	neg = 0.625
+10. The plot, if it matt                ... pos = 0.75  	neg = 0.625
+11. Both countries' gove                ... pos = 0.25  	neg = 0.125
+12. Carver, like every o                ... pos = 1.25  	neg = 0.875
+13. Along the way there                 ... pos = 0.25  	neg = 0.0  
+14. The one problem I ha                ... pos = 0.0   	neg = 0.125
+15. Most of the action s                ... pos = 1.125 	neg = 0.875
+16. There are also too m                ... pos = 0.5   	neg = 0.25 
+17. Note that I don't ob                ... pos = 0.125 	neg = 0.375
+18. " speech while the h                ... pos = 1.5   	neg = 0.5  
+19. I went to "Tomorrow                 ... pos = 0.125 	neg = 0.0  
+20. Since some of the ac                ... pos = 0.25  	neg = 0.375
+21. I wouldn't advise pa                ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5255-716 is Positive         ... pos = 13.375 	neg = 10.25
+Overall score of document
+Total Pos = 13.375
+Total Neg = 10.25
+---------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+0. Rated R for strong l                 ... pos = 0.625 	neg = 0.5  
+1. Voices.....Trey Park                 ... pos = 0.0   	neg = 0    
+2. "South Park: Bigger,                 ... pos = 0.625 	neg = 1.0  
+3. If your Canadian, a                  ... pos = 0.875 	neg = 0.125
+4. But when you watch t                 ... pos = 0.25  	neg = 0.375
+5. Based on the wildly                  ... pos = 0.125 	neg = 0.0  
+6. Kenny, a poor kid wh                 ... pos = 0.0   	neg = 0.0  
+7. Stan a regular, some                 ... pos = 0.0   	neg = 0.25 
+8. And Kyle a lonely je                 ... pos = 0.125 	neg = 0.0  
+9. The movie opens with                 ... pos = 0.0   	neg = 0.0  
+10. Cartman, Stan, Kenny                ... pos = 1.375 	neg = 0.0  
+11. But when the kids ge                ... pos = 0.125 	neg = 0.125
+12. The kids do not unde                ... pos = 0.375 	neg = 0.0  
+13. While in the movie,                 ... pos = 0.125 	neg = 0.0  
+14. They kids then go ou                ... pos = 0.0   	neg = 0.875
+15. While doing this Ken                ... pos = 0.5   	neg = 0.0  
+16. Kenny does so, dies,                ... pos = 0.375 	neg = 0.875
+17. >From here on, nothi                ... pos = 0.0   	neg = 0.375
+18. But believe me, this                ... pos = 0.125 	neg = 0.125
+19. This film contains e                ... pos = 0.125 	neg = 0.125
+20. But beyond being bad                ... pos = 0.5   	neg = 1.125
+21. But I bet you will n                ... pos = 0.125 	neg = 0.0  
+22. And enjoying yoursel                ... pos = 0     	neg = 0.0  
+23. Take it from me, Sou                ... pos = 1.875 	neg = 0.125
+24. Reviewed: July 14th,                ... pos = 0.0   	neg = 0    
+25. Brandon Herring Movi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5926-1102 is Positive        ... pos = 8.375 	neg = 6.0  
+Overall score of document
+Total Pos = 8.375
+Total Neg = 6.0
+---------------------------------------------------------------------------

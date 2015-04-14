@@ -1,0 +1,48 @@
+0. Robert Zemeckis coul                 ... pos = 0.25  	neg = 0    
+1. After all, that movi                 ... pos = 0.0   	neg = 0.125
+2. By now, he should  r                 ... pos = 0.125 	neg = 0.0  
+3. Unfortunately, he do                 ... pos = 0.0   	neg = 0.875
+4. The technical wonder                 ... pos = 0.25  	neg = 1.125
+5. Unwelcome to the eye                 ... pos = 0.0   	neg = 0.875
+6. What we have here is                 ... pos = 0.75  	neg = 0.25 
+7. Here we find two mis                 ... pos = 0.0   	neg = 0.0  
+8. By now, we are  awar                 ... pos = 0.75  	neg = 0.25 
+9. Also, we can tell th                 ... pos = 0.0   	neg = 1.125
+10. My other complaint w                ... pos = 0.25  	neg = 0.375
+11. We discover how  the                ... pos = 0.875 	neg = 0.125
+12. Groans were apparent                ... pos = 0.25  	neg = 0.25 
+13. Nonetheless, Contact                ... pos = 0.25  	neg = 0.0  
+14. The story has been i                ... pos = 0.0   	neg = 0.125
+15. Pushed by a fascinat                ... pos = 0.375 	neg = 0.125
+16. Translated to  film,                ... pos = 0.0   	neg = 0.125
+17. Ellie is a scientist                ... pos = 0.0   	neg = 0.75 
+18. Like the efforts to                 ... pos = 0.25  	neg = 0.0  
+19. Behind the sabotages                ... pos = 1.625 	neg = 0.125
+20. However, just as the                ... pos = 0.25  	neg = 0.125
+21. In a series of wrenc                ... pos = 0.25  	neg = 0.0  
+22. The project consists                ... pos = 0.25  	neg = 0.0  
+23. Soon enough the gove                ... pos = 0.125 	neg = 0.0  
+24. Woods is once again                 ... pos = 1.5   	neg = 0.875
+25. These, however, are                 ... pos = 0.375 	neg = 0.0  
+26. Palmer Joss (McConau                ... pos = 0.5   	neg = 0.125
+27. The science  versus                 ... pos = 0.0   	neg = 0    
+28. As the machine is be                ... pos = 0.5   	neg = 0.125
+29. Meanwhile, Drumlin a                ... pos = 0.0   	neg = 0    
+30. Drumlin plays dirty                 ... pos = 0.25  	neg = 0.125
+31. However, after a tra                ... pos = 0.125 	neg = 0.125
+32. She is guided by the                ... pos = 0.0   	neg = 0.125
+33. Hadden  (Hurt), who                 ... pos = 0.125 	neg = 0.0  
+34. Amazing are the  wor                ... pos = 0.875 	neg = 0.25 
+35. While on Vega, her m                ... pos = 0.5   	neg = 0.0  
+36. Zemeckis does have a                ... pos = 0.0   	neg = 0.0  
+37. Angela Bassett deser                ... pos = 0.75  	neg = 0.5  
+38. Casting Rob Lowe as                 ... pos = 0.0   	neg = 0.25 
+39. I believe that Face/                ... pos = 0.5   	neg = 0.375
+40. It is almost assured                ... pos = 1.5   	neg = 0.125
+41. Zemeckis almost blow                ... pos = 1.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3534-593 is Positive         ... pos = 15.625 	neg = 10.0 
+Overall score of document
+Total Pos = 15.625
+Total Neg = 10.0
+---------------------------------------------------------------------------

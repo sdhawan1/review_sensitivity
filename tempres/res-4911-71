@@ -1,0 +1,47 @@
+0. Visit Online Film Cr                 ... pos = 0.875 	neg = 1.125
+1. Executive producer D                 ... pos = 0.739 	neg = 1.0  
+2. This vehicle  has he                 ... pos = 0.875 	neg = 0.0  
+3. A whim of her crusty                 ... pos = 1.25  	neg = 0.625
+4. Better yet,  she'll                  ... pos = 0.25  	neg = 0.375
+5. Her  brother, Rob Ge                 ... pos = 0.625 	neg = 0.0  
+6. Will Josie be popula                 ... pos = 0.25  	neg = 0.125
+7. The answer, which we                 ... pos = 0.0   	neg = 0.0  
+8. Josie, as it turns o                 ... pos = 0.0   	neg = 0.0  
+9. She is so preoccupie                 ... pos = 0.625 	neg = 0.625
+10. Rob, as it turns out                ... pos = 0.0   	neg = 0.0  
+11. He  has faked his ID                ... pos = 0.625 	neg = 0.0  
+12. Smoothly Rob reverse                ... pos = 1.5   	neg = 1.125
+13. Now she is liked not                ... pos = 0.125 	neg = 0.125
+14. Alas, her major prob                ... pos = 0.125 	neg = 0.375
+15. She  simply cannot u                ... pos = 0.125 	neg = 0.0  
+16. The film is expert a                ... pos = 0.25  	neg = 0.125
+17. Barrymore navigates                 ... pos = 0.125 	neg = 0.0  
+18. Even before the prom                ... pos = 0.0   	neg = 0.75 
+19. In flashbacks distur                ... pos = 0.25  	neg = 0    
+20. Later on, of course,                ... pos = 0.875 	neg = 1.25 
+21. David Arquette acts                 ... pos = 0.125 	neg = 0.375
+22. In posing as a teen,                ... pos = 0.125 	neg = 1.375
+23. Garry Marshall?                     ... pos = 0     	neg = 0.0  
+24. This guy is the orig                ... pos = 0.625 	neg = 0.125
+25. '  Good at creating                 ... pos = 0.75  	neg = 0.125
+26. Michael Vartan as En                ... pos = 1.125 	neg = 0.125
+27. A he-man with a momm                ... pos = 0.0   	neg = 0    
+28. What amounts  to the                ... pos = 0.0   	neg = 1.125
+29. Apparently the audie                ... pos = 0.625 	neg = 0.75 
+30. What's worse, Rigfor                ... pos = 0.0   	neg = 1.75 
+31. And we  are not supp                ... pos = 0.25  	neg = 0.0  
+32. Molly Shannon suppli                ... pos = 0.125 	neg = 0.0  
+33. Her role also demand                ... pos = 0.0   	neg = 0.0  
+34. But Shannon shows th                ... pos = 0.25  	neg = 0.0  
+35. As an aside, what ca                ... pos = 0.0   	neg = 0.125
+36. Who out there knows                 ... pos = 0.0   	neg = 0.0  
+37. 'Never Been Kissed'                 ... pos = 0.0   	neg = 0.125
+38. Its strength is sinc                ... pos = 1.25  	neg = 0.125
+39. It's obvious the fil                ... pos = 0.625 	neg = 0.5  
+40. The paradox  here is                ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4911-71 is Positive          ... pos = 15.864 	neg = 14.5 
+Overall score of document
+Total Pos = 15.864
+Total Neg = 14.5
+---------------------------------------------------------------------------

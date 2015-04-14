@@ -1,0 +1,32 @@
+0. Since his New Nightm                 ... pos = 0.5   	neg = 0.625
+1. However, the end of                  ... pos = 0.125 	neg = 0.0  
+2. The film stars Neve                  ... pos = 1.75  	neg = 0.0  
+3. She plays the innoce                 ... pos = 0.125 	neg = 0.25 
+4. The plot is a simple                 ... pos = 0.375 	neg = 0.125
+5. A psychopath with a                  ... pos = 0.125 	neg = 0.0  
+6. In this movie, someo                 ... pos = 0.625 	neg = 0.25 
+7. The film bled talent                 ... pos = 0.0   	neg = 0.375
+8. It featured some hot                 ... pos = 0.0   	neg = 0.0  
+9. Courtney Cox (TV's F                 ... pos = 0.125 	neg = 0    
+10. Drew Barrymore (Boys                ... pos = 0.625 	neg = 0.0  
+11. Liev Schrieber (one                 ... pos = 0.25  	neg = 0.0  
+12. But the appearance o                ... pos = 0.0   	neg = 0.0  
+13. ) as Principal Himbr                ... pos = 0.0   	neg = 0.0  
+14. If you've seen the m                ... pos = 0.0   	neg = 0.125
+15. Anyhow, the story re                ... pos = 0.25  	neg = 0.0  
+16. And on the one year                 ... pos = 0.125 	neg = 1.0  
+17. Some references were                ... pos = 0.375 	neg = 0.125
+18. For example, the sch                ... pos = 0.125 	neg = 0.125
+19. And Sydney's boyfrie                ... pos = 0.0   	neg = 0.125
+20. The climactic end of                ... pos = 0.5   	neg = 0.0  
+21. Throughout the movie                ... pos = 0.375 	neg = 0.25 
+22. Truthfully, I don't                 ... pos = 0.125 	neg = 0.625
+23. If you liked Wes Cra                ... pos = 1.75  	neg = 0.0  
+24. If you like to Screa                ... pos = 0.0   	neg = 0.0  
+25. Grade: A-, **** out                 ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3193-883 is Positive         ... pos = 8.25  	neg = 4.0  
+Overall score of document
+Total Pos = 8.25
+Total Neg = 4.0
+---------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+0. I caught the late sh                 ... pos = 0.0   	neg = 0.0  
+1. It is the theater wh                 ... pos = 0.0   	neg = 0.125
+2. Anastasia is the fir                 ... pos = 1.0   	neg = 0.375
+3. The man behind it is                 ... pos = 0.375 	neg = 0.125
+4. None of the above ha                 ... pos = 0.125 	neg = 0.0  
+5. (Hercules and Pocaho                 ... pos = 0.0   	neg = 0    
+6. At first glance, it                  ... pos = 0.125 	neg = 0.75 
+7. They began to market                 ... pos = 0.0   	neg = 0.0  
+8. A few months later,                  ... pos = 0.0   	neg = 0.0  
+9. ), and then the blit                 ... pos = 0.0   	neg = 0.0  
+10. It's the old jam it                 ... pos = 0.125 	neg = 0.0  
+11. The story concerns a                ... pos = 0.0   	neg = 1.0  
+12. He then sells his so                ... pos = 0.25  	neg = 1.0  
+13. The curse then seems                ... pos = 1.25  	neg = 1.0  
+14. I thought that histo                ... pos = 0.0   	neg = 0.5  
+15. The family then atte                ... pos = 0.375 	neg = 0.25 
+16. 10 years later, now                 ... pos = 0.875 	neg = 0.125
+17. She meets up with a                 ... pos = 0.125 	neg = 0.625
+18. And of course, Raspu                ... pos = 0.0   	neg = 0.0  
+19. The pieces are all i                ... pos = 0.875 	neg = 0.125
+20. The story kept me in                ... pos = 1.125 	neg = 0.125
+21. If it wasn't for the                ... pos = 0.5   	neg = 0.125
+22. The Animation was go                ... pos = 1.5   	neg = 0.25 
+23. The human movements                 ... pos = 1.875 	neg = 0.125
+24. Their faces lacked d                ... pos = 0.0   	neg = 0.0  
+25. This is the biggest                 ... pos = 0.0   	neg = 0.5  
+26. The computer animati                ... pos = 0.125 	neg = 0.0  
+27. The computerized "ca                ... pos = 0.0   	neg = 1.0  
+28. Overall, however, I                 ... pos = 0.25  	neg = 0.5  
+29. I think it would be                 ... pos = 0.75  	neg = 0.875
+30. I was reminded of Th                ... pos = 0.125 	neg = 0.875
+31. I would be surprised                ... pos = 0.625 	neg = 0.25 
+32. The comic foil, Bart                ... pos = 0.625 	neg = 1.0  
+33. This sounds strange,                ... pos = 1.25  	neg = 0.125
+34. --. .                               ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-451-674 is Positive          ... pos = 14.25 	neg = 11.75
+Overall score of document
+Total Pos = 14.25
+Total Neg = 11.75
+---------------------------------------------------------------------------

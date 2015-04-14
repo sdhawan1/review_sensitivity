@@ -1,0 +1,35 @@
+0. Starring Will Smith;                 ... pos = 0.5   	neg = 0.25 
+1. It leaves no doubt t                 ... pos = 0.125 	neg = 0.375
+2. While Smith has been                 ... pos = 0.5   	neg = 0.5  
+3. Well, no more.                       ... pos = 0.0   	neg = 0.25 
+4. While Enemy Of The S                 ... pos = 0.375 	neg = 0.375
+5. He does a great job                  ... pos = 0.625 	neg = 0.0  
+6. Smith plays an attor                 ... pos = 0.125 	neg = 0.25 
+7. A secret US Governme                 ... pos = 1.375 	neg = 0.125
+8. They are afraid that                 ... pos = 0.25  	neg = 0.125
+9. So the agency, led b                 ... pos = 0.625 	neg = 0.25 
+10. Along the way Smith                 ... pos = 0.0   	neg = 0.0  
+11. Enemy Of the State i                ... pos = 0.375 	neg = 0.125
+12. The acting is terrif                ... pos = 0.75  	neg = 0.625
+13. Smith does a great j                ... pos = 1.125 	neg = 0.125
+14. No surprises when it                ... pos = 0.0   	neg = 0.25 
+15. These two men leave                 ... pos = 0.375 	neg = 0.25 
+16. In a little bit of i                ... pos = 0.875 	neg = 0.375
+17. The irony being that                ... pos = 0.5   	neg = 0.5  
+18. The other thing that                ... pos = 1.5   	neg = 0.75 
+19. At no point will you                ... pos = 0.125 	neg = 0.125
+20. This is not to say t                ... pos = 0.25  	neg = 0.25 
+21. The writing is simpl                ... pos = 0.0   	neg = 0.125
+22. Another interesting                 ... pos = 0.125 	neg = 0.25 
+23. You can't help getti                ... pos = 0.25  	neg = 0.75 
+24. My money is on very                 ... pos = 0.5   	neg = 0.375
+25. Enemy Of The State s                ... pos = 0.5   	neg = 0.125
+26. Will Smith fans will                ... pos = 0.25  	neg = 0.125
+27. While he isn't crack                ... pos = 0.125 	neg = 0.25 
+28. Enemy Of The State i                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5048-488 is Positive         ... pos = 13.125 	neg = 8.0  
+Overall score of document
+Total Pos = 13.125
+Total Neg = 8.0
+---------------------------------------------------------------------------

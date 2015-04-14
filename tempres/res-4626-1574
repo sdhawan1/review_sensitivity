@@ -1,0 +1,70 @@
+0. No matter what you t                 ... pos = 0.5   	neg = 1.25 
+1. Few directors are as                 ... pos = 1.0   	neg = 0    
+2. With NATURAL BORN KI                 ... pos = 0.125 	neg = 0.125
+3. Some people are goin                 ... pos = 1.25  	neg = 0.0  
+4. Far more are going t                 ... pos = 0.375 	neg = 0.75 
+5. I fit into the latte                 ... pos = 0.125 	neg = 0.0  
+6. The first half of th                 ... pos = 0.375 	neg = 0.75 
+7. About half-way throu                 ... pos = 0.0   	neg = 0.25 
+8. Much of the action i                 ... pos = 0.375 	neg = 0.5  
+9. All of these charact                 ... pos = 1.875 	neg = 0.0  
+10. Very little effort i                ... pos = 2.125 	neg = 0.875
+11. Other than a couple                 ... pos = 0.625 	neg = 0.625
+12. An early flashback s                ... pos = 0.375 	neg = 0.625
+13. The whole thing is s                ... pos = 0.0   	neg = 0.625
+14. Dangerfield and McCl                ... pos = 1.5   	neg = 0.25 
+15. The whole movie is s                ... pos = 0.625 	neg = 0.125
+16. In fact, I'm not sur                ... pos = 0.5   	neg = 0.0  
+17. The audio/visual sty                ... pos = 0.0   	neg = 0.125
+18. It basically has to                 ... pos = 0.125 	neg = 0.25 
+19. Stone uses virtually                ... pos = 0.0   	neg = 0.125
+20. Scenes constantly sw                ... pos = 0.125 	neg = 0    
+21. The viewer is rarely                ... pos = 0.625 	neg = 0.25 
+22. The overall result i                ... pos = 0.5   	neg = 0.875
+23. It is simultaneously                ... pos = 0.25  	neg = 0.125
+24. It all may seem virt                ... pos = 0.75  	neg = 0.625
+25. This is definitely a                ... pos = 0.625 	neg = 0.125
+26. The whole movie is f                ... pos = 0.0   	neg = 0.125
+27. Special effects are                 ... pos = 0.75  	neg = 0.5  
+28. Oliver Stone has nev                ... pos = 0.875 	neg = 0.25 
+29. In particular, the f                ... pos = 0.875 	neg = 0.375
+30. Still, this film is                 ... pos = 0.25  	neg = 0.25 
+31. The actors all seem                 ... pos = 0.125 	neg = 0.375
+32. Harrelson, Lewis, an                ... pos = 2.25  	neg = 0.0  
+33. Harrelson plays Mick                ... pos = 0.25  	neg = 0.0  
+34. This is the dark sid                ... pos = 0.25  	neg = 1.0  
+35. Lewis plays another                 ... pos = 0.0   	neg = 0.125
+36. She is petite and so                ... pos = 0.375 	neg = 0.125
+37. Finally, Tommy Lee J                ... pos = 0.125 	neg = 0.25 
+38. This time, he is fin                ... pos = 0.0   	neg = 0.125
+39. As you might expect,                ... pos = 0.25  	neg = 0.625
+40. Robert Downey Jr. gi                ... pos = 0.125 	neg = 0.0  
+41. His character is the                ... pos = 1.0   	neg = 0.25 
+42. Most importantly, he                ... pos = 0.5   	neg = 0.125
+43. On top of all that,                 ... pos = 1.75  	neg = 0.125
+44. One significant way                 ... pos = 0.0   	neg = 0.25 
+45. The film actually is                ... pos = 0.75  	neg = 0.25 
+46. Sometimes you may ev                ... pos = 0.25  	neg = 0.625
+47. The script contains                 ... pos = 0.625 	neg = 0.25 
+48. It certainly *is* an                ... pos = 1.875 	neg = 0.625
+49. Much of the violence                ... pos = 1.125 	neg = 0.5  
+50. I suspect that a lot                ... pos = 0.125 	neg = 0.25 
+51. Still, this is proba                ... pos = 0.625 	neg = 0.125
+52. The one big question                ... pos = 0.25  	neg = 0.75 
+53. While the two films                 ... pos = 1.25  	neg = 0.75 
+54. Like that film, NATU                ... pos = 0.0   	neg = 0.0  
+55. This basic message i                ... pos = 0.5   	neg = 0.375
+56. Unfortunately, the f                ... pos = 0.0   	neg = 1.125
+57. As a result, many ma                ... pos = 0.0   	neg = 0.125
+58. On the other hand, s                ... pos = 0.0   	neg = 0.0  
+59. I suspect that many                 ... pos = 0.75  	neg = 0.625
+60. I'm left with the st                ... pos = 0.5   	neg = 0.125
+61. NATURAL BORN KILLERS                ... pos = 0.25  	neg = 0.5  
+62. It is a two-hour ass                ... pos = 0.25  	neg = 0.125
+63. It is an impressive                 ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4626-1574 is Positive        ... pos = 33.875 	neg = 21.5 
+Overall score of document
+Total Pos = 33.875
+Total Neg = 21.5
+---------------------------------------------------------------------------

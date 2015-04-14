@@ -1,0 +1,35 @@
+0. Starring: James Wood                 ... pos = 0.0   	neg = 0.0  
+1. Rated R for strong v                 ... pos = 0.625 	neg = 0.375
+2. John Carpenter direc                 ... pos = 1.25  	neg = 0.875
+3. It's held up by some                 ... pos = 1.5   	neg = 0.375
+4. James Woods gives an                 ... pos = 0.75  	neg = 0.0  
+5. The good side: some                  ... pos = 0.75  	neg = 0.375
+6. The bad: No scares.                  ... pos = 0     	neg = 0.25 
+7. Yes that's right, ev                 ... pos = 0.25  	neg = 0.875
+8. James Woods stars as                 ... pos = 0.125 	neg = 0.0  
+9. Daniel Baldwin plays                 ... pos = 0.125 	neg = 0.0  
+10. In the opening scene                ... pos = 0.0   	neg = 0.0  
+11. Of course we all kno                ... pos = 0.625 	neg = 0.125
+12. After throwing a par                ... pos = 0.0   	neg = 0.125
+13. They kill almost all                ... pos = 0.125 	neg = 0.0  
+14. Sheryl Lee plays a p                ... pos = 0.25  	neg = 0.125
+15. She is rescued by Ja                ... pos = 0.0   	neg = 0.125
+16. They have to fight t                ... pos = 0.0   	neg = 0.375
+17. 'Vampires' definatel                ... pos = 0.0   	neg = 0.125
+18. The make-up, special                ... pos = 0.375 	neg = 0.625
+19. It to me had more hu                ... pos = 0.875 	neg = 0.0  
+20. John Carpenter does                 ... pos = 0.0   	neg = 0.0  
+21. He eases through som                ... pos = 1.5   	neg = 0.0  
+22. The script is clever                ... pos = 0.5   	neg = 0.25 
+23. I much enjoyed 'Vamp                ... pos = 0.5   	neg = 0.0  
+24. It's one of those fi                ... pos = 0.25  	neg = 0.0  
+25. You enjoy the time y                ... pos = 0.375 	neg = 0.0  
+26. The recently release                ... pos = 1.375 	neg = 0.25 
+27. 'Vampires' is a good                ... pos = 1.375 	neg = 0.375
+28. Reviewed by Brandon                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1040-1102 is Positive        ... pos = 13.625 	neg = 5.625
+Overall score of document
+Total Pos = 13.625
+Total Neg = 5.625
+---------------------------------------------------------------------------

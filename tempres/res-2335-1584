@@ -1,0 +1,62 @@
+0. I was six years old                  ... pos = 0.0   	neg = 0.375
+1. Now , I had seen the                 ... pos = 0.0   	neg = 0.625
+2. I think my parent's                  ... pos = 1.0   	neg = 0.125
+3. You've all heard the                 ... pos = 0.0   	neg = 0.0  
+4. This is not meant as                 ... pos = 0.625 	neg = 0.625
+5. For some people it's                 ... pos = 0.0   	neg = 0.0  
+6. Imagine being immers                 ... pos = 1.0   	neg = 1.125
+7. The room is chilly ,                 ... pos = 0.0   	neg = 0.5  
+8. All the blood as lef                 ... pos = 0.25  	neg = 0.0  
+9. You feel unsure wher                 ... pos = 0.375 	neg = 0.0  
+10. You are in desperate                ... pos = 0.25  	neg = 1.25 
+11. You try to force air                ... pos = 0.25  	neg = 0.625
+12. The noise is terrify                ... pos = 0.25  	neg = 0.25 
+13. You clutch your hear                ... pos = 0.5   	neg = 0.125
+14. You are affraid to l                ... pos = 0.625 	neg = 0.5  
+15. You fall to your kne                ... pos = 0.625 	neg = 0.0  
+16. Then everything stop                ... pos = 1.25  	neg = 0.0  
+17. It's a bit melodrama                ... pos = 0.0   	neg = 0.0  
+18. But it's the best I                 ... pos = 0.5   	neg = 0.125
+19. Especially with surr                ... pos = 0.0   	neg = 0.125
+20. When Michael Biehn l                ... pos = 0.0   	neg = 0.5  
+21. All of this just so                 ... pos = 0.375 	neg = 0.0  
+22. The problem with the                ... pos = 0.0   	neg = 0.375
+23. Explanation: first w                ... pos = 0.125 	neg = 0.25 
+24. It seemed only natur                ... pos = 0.25  	neg = 0.125
+25. Then something went                 ... pos = 0.0   	neg = 0.75 
+26. Afer experiencing th                ... pos = 0.0   	neg = 0.125
+27. And without weapons                 ... pos = 0.5   	neg = 1.0  
+28. Plus , for the first                ... pos = 1.125 	neg = 0.625
+29. I wanted Lance Henri                ... pos = 0.0   	neg = 0.0  
+30. Heck , I wanted to s                ... pos = 0.0   	neg = 0.0  
+31. After having taken t                ... pos = 0.375 	neg = 0.875
+32. Which brings us to t                ... pos = 0.0   	neg = 0.0  
+33. Let me start off by                 ... pos = 0.0   	neg = 1.5  
+34. Why?                                ... pos = 0     	neg = 0.0  
+35. Everything scene he                 ... pos = 0.0   	neg = 0.375
+36. Even the dark corrid                ... pos = 0.25  	neg = 0.0  
+37. Part of what makes t                ... pos = 0.25  	neg = 0.875
+38. Also , in the three                 ... pos = 0.125 	neg = 0.375
+39. The first flick was                 ... pos = 0.125 	neg = 0.5  
+40. Now , we can travel                 ... pos = 0.0   	neg = 0.125
+41. Oh sure , they had s                ... pos = 0.25  	neg = 1.0  
+42. What people want to                 ... pos = 0.625 	neg = 0.25 
+43. But , unfortunately                 ... pos = 0.0   	neg = 1.125
+44. Meaning she is just                 ... pos = 0.0   	neg = 0.25 
+45. I know that she is n                ... pos = 0.25  	neg = 0.125
+46. "What did you do?                   ... pos = 0     	neg = 0.0  
+47. " he asks.                          ... pos = 0.125 	neg = 0    
+48. "I died.                            ... pos = 0.0   	neg = 0    
+49. " So much for morale                ... pos = 0.25  	neg = 0.0  
+50. Another little nitpi                ... pos = 0.0   	neg = 1.125
+51. Right , as if you'd                 ... pos = 0.0   	neg = 0.0  
+52. While we are bitchin                ... pos = 0.75  	neg = 0.0  
+53. Movies are supposed                 ... pos = 1.375 	neg = 0.125
+54. Rating: Half a star                 ... pos = 0.0   	neg = 1.125
+55. ) and the half of st                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2335-1584 is Negative        ... pos = 14.625 	neg = 20.0 
+Overall score of document
+Total Pos = 14.625
+Total Neg = 20.0
+---------------------------------------------------------------------------

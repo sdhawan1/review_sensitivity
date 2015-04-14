@@ -1,0 +1,38 @@
+0. Starring Edward Nort                 ... pos = 0.0   	neg = 0.125
+1. Despite only appeari                 ... pos = 0.5   	neg = 0.125
+2. He's got a range tha                 ... pos = 0.0   	neg = 0.125
+3. In many ways, he's r                 ... pos = 0.0   	neg = 0    
+4. They both instantly                  ... pos = 0.875 	neg = 0.0  
+5. "American History X"                 ... pos = 0.0   	neg = 0.25 
+6. A life filled with h                 ... pos = 0.125 	neg = 0    
+7. It all changes, thou                 ... pos = 0.0   	neg = 0.125
+8. He comes out a chang                 ... pos = 0.375 	neg = 0.0  
+9. The movie is told in                 ... pos = 0.0   	neg = 0.125
+10. Tony Kaye, the direc                ... pos = 0.0   	neg = 0.125
+11. The black and white                 ... pos = 0.0   	neg = 0.125
+12. The lack of colour i                ... pos = 0.0   	neg = 0.25 
+13. It's not until he re                ... pos = 0.125 	neg = 0.875
+14. Either that, or it w                ... pos = 0.25  	neg = 0.375
+15. The problem with the                ... pos = 1.25  	neg = 0.375
+16. There's no real sens                ... pos = 0.0   	neg = 0.25 
+17. Scenes don't logical                ... pos = 0.0   	neg = 0.125
+18. Because of this, the                ... pos = 0.25  	neg = 1.0  
+19. My main problem with                ... pos = 0.0   	neg = 0.375
+20. It's a flashback to                 ... pos = 0.0   	neg = 0.0  
+21. We see him telling h                ... pos = 0.875 	neg = 0.375
+22. The way his father r                ... pos = 0.75  	neg = 0.125
+23. But the part I didn'                ... pos = 1.375 	neg = 0.125
+24. The way the scene wa                ... pos = 0.0   	neg = 0.875
+25. I found it quite har                ... pos = 1.0   	neg = 0.75 
+26. The way the scene pl                ... pos = 0.0   	neg = 0.0  
+27. It's like some execu                ... pos = 0.75  	neg = 0.0  
+28. Well, it doesn't wor                ... pos = 0.0   	neg = 0    
+29. "American History X"                ... pos = 0.75  	neg = 0.125
+30. I have no doubt, tha                ... pos = 0.375 	neg = 0.375
+31. It's the best perfor                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-499-1280 is Positive         ... pos = 10.0  	neg = 7.625
+Overall score of document
+Total Pos = 10.0
+Total Neg = 7.625
+---------------------------------------------------------------------------

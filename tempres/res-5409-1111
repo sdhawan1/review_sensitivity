@@ -1,0 +1,26 @@
+0. THE MATRIX Cast: Kea                 ... pos = 0.75  	neg = 0.125
+1. Directors/writers La                 ... pos = 0.125 	neg = 0.0  
+2. Kudos to the Wachows                 ... pos = 0.625 	neg = 0.375
+3. Keanu Reeves and Aus                 ... pos = 0.75  	neg = 0.625
+4. Like in 1998's Dark                  ... pos = 0.875 	neg = 0.5  
+5. In fact, The Matrix                  ... pos = 0.375 	neg = 0.875
+6. Posters, theatrical                  ... pos = 0.375 	neg = 0.125
+7. Well, that would be                  ... pos = 0.0   	neg = 0.125
+8. Since much of the in                 ... pos = 0.625 	neg = 0.25 
+9. Thomas Anderson (Kea                 ... pos = 0.25  	neg = 0.5  
+10. Anderson joins rebel                ... pos = 0.125 	neg = 0.0  
+11. If that synopsis sou                ... pos = 0.5   	neg = 0.375
+12. Bit by bit, we are e                ... pos = 1.875 	neg = 1.0  
+13. At more than one sta                ... pos = 0.625 	neg = 0.375
+14. Anderson undergoes S                ... pos = 0.375 	neg = 0.75 
+15. Morpheus is our Yoda                ... pos = 0.625 	neg = 0.125
+16. Filmed and edited en                ... pos = 1.0   	neg = 0.0  
+17. It is rare for speci                ... pos = 0.875 	neg = 0.5  
+18. The Matrix is not on                ... pos = 0.875 	neg = 0.75 
+19. No doubt this film,                 ... pos = 1.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5409-1111 is Positive        ... pos = 12.625 	neg = 7.625
+Overall score of document
+Total Pos = 12.625
+Total Neg = 7.625
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. Starring Tom Hanks,                  ... pos = 0.5   	neg = 0.125
+1. It's got cute stars,                 ... pos = 1.5   	neg = 0.0  
+2. Despite this over-wh                 ... pos = 0.5   	neg = 0.0  
+3. I know, I know.                      ... pos = 0     	neg = 0.0  
+4. I'm supposed to be a                 ... pos = 0.0   	neg = 0.125
+5. I'm not supposed to                  ... pos = 0.625 	neg = 0.25 
+6. But darn it, somewhe                 ... pos = 0.125 	neg = 0.625
+7. The movie stars Tom                  ... pos = 0.5   	neg = 0.0  
+8. As the movie progres                 ... pos = 0.5   	neg = 0.0  
+9. Meanwhile, in "real-                 ... pos = 0.375 	neg = 0    
+10. She owns a quaint li                ... pos = 0.875 	neg = 0.25 
+11. While his store thre                ... pos = 0.5   	neg = 0.0  
+12. "You've Got Mail" is                ... pos = 0.25  	neg = 0.125
+13. Everything is nice a                ... pos = 1.625 	neg = 0.125
+14. There are no real co                ... pos = 0.5   	neg = 1.5  
+15. Nevertheless, I quit                ... pos = 0.5   	neg = 0.0  
+16. In fact, I can't rem                ... pos = 0.875 	neg = 0.0  
+17. I think sometimes yo                ... pos = 0.25  	neg = 0.125
+18. The fact that stars                 ... pos = 0.25  	neg = 0.0  
+19. In particular, Hanks                ... pos = 0.375 	neg = 0.125
+20. Everytime he was on                 ... pos = 0.0   	neg = 0.125
+21. And despite the fact                ... pos = 0.0   	neg = 0.5  
+22. It was good to see H                ... pos = 1.625 	neg = 0.125
+23. "You've Got Mail" ce                ... pos = 2.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5378-1280 is Positive        ... pos = 14.25 	neg = 4.25 
+Overall score of document
+Total Pos = 14.25
+Total Neg = 4.25
+---------------------------------------------------------------------------

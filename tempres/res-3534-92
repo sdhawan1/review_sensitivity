@@ -1,0 +1,42 @@
+0. Seen with Andrea at                  ... pos = 0.0   	neg = 0.0  
+1. Have you ever been t                 ... pos = 1.25  	neg = 0.125
+2. Laughter, tears, exc                 ... pos = 0.0   	neg = 0.5  
+3. It is indeed rare th                 ... pos = 0.25  	neg = 0.125
+4. Contact is one of th                 ... pos = 0.0   	neg = 0.125
+5. It features Matthew                  ... pos = 0.0   	neg = 0.625
+6. Mmmmm... Every time                  ... pos = 0.0   	neg = 0.0  
+7. But seriously folks.                 ... pos = 0     	neg = 0.0  
+8. Contact is all that                  ... pos = 0.0   	neg = 0.25 
+9. It is one of those r                 ... pos = 0.75  	neg = 0.125
+10. It combines "what if                ... pos = 0.25  	neg = 0    
+11. Two major elements h                ... pos = 1.375 	neg = 0.125
+12. As a child, her fath                ... pos = 0.5   	neg = 0.0  
+13. Her fascination with                ... pos = 0.625 	neg = 0    
+14. Contact is full of s                ... pos = 0.75  	neg = 0.125
+15. The opening sequence                ... pos = 0.0   	neg = 0.125
+16. The entire audience                 ... pos = 0.625 	neg = 0.125
+17. One incredible shot                 ... pos = 0.125 	neg = 0.0  
+18. The special effects                 ... pos = 1.625 	neg = 1.125
+19. Contact benefits fro                ... pos = 0.0   	neg = 0    
+20. All the expected "ty                ... pos = 1.125 	neg = 0.25 
+21. Even some of the min                ... pos = 0.25  	neg = 0.0  
+22. " The only person wh                ... pos = 0.875 	neg = 0.625
+23. He plays the man of                 ... pos = 0.125 	neg = 0.0  
+24. He always carried a                 ... pos = 0.0   	neg = 0.0  
+25. It's hard to know wh                ... pos = 0.0   	neg = 0.875
+26. Who cares?                          ... pos = 0.0   	neg = 0.0  
+27. He's gorgeous and th                ... pos = 1.0   	neg = 0.0  
+28. Much like a Hitchcoc                ... pos = 0.75  	neg = 0.125
+29. I am sure that most                 ... pos = 1.375 	neg = 0.125
+30. It's compelling and                 ... pos = 0.75  	neg = 0.375
+31. I know I was not the                ... pos = 0.25  	neg = 0.125
+32. Plus, it was a nice                 ... pos = 0.0   	neg = 0.875
+33. Based on a story by                 ... pos = 0.0   	neg = 0.0  
+34. The official homepag                ... pos = 0.5   	neg = 0.125
+35. Other movie reviews                 ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3534-92 is Positive          ... pos = 16.125 	neg = 7.0  
+Overall score of document
+Total Pos = 16.125
+Total Neg = 7.0
+---------------------------------------------------------------------------

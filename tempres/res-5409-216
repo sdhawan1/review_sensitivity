@@ -1,0 +1,42 @@
+0. What is "reality?                    ... pos = 0     	neg = 0.125
+1. "  Most people would                 ... pos = 0.125 	neg = 0.0  
+2. Or perhaps you'd cal                 ... pos = 0.5   	neg = 0.0  
+3. Either is an accepta                 ... pos = 0.0   	neg = 0.125
+4. But are there other                  ... pos = 0.25  	neg = 0.0  
+5. If you find yourself                 ... pos = 0.75  	neg = 0.5  
+6. What if you'd spent                  ... pos = 0.0   	neg = 0.75 
+7. It's all you've ever                 ... pos = 0.0   	neg = 0.125
+8. ".         Now, supp                 ... pos = 0.125 	neg = 0.75 
+9. What do you call tha                 ... pos = 0.0   	neg = 0.0  
+10. The Wachowski Brothe                ... pos = 0.75  	neg = 0.25 
+11. Painted with broad s                ... pos = 0.25  	neg = 0.5  
+12. The story borrows he                ... pos = 0.375 	neg = 0.0  
+13. Such a haphazardly-b                ... pos = 0.0   	neg = 0.75 
+14. Thomas "Neo" Anderso                ... pos = 0.0   	neg = 0.5  
+15. He toughs it out for                ... pos = 0.875 	neg = 0.875
+16. This Matrix is part                 ... pos = 0.25  	neg = 0.125
+17. ".         Indeed, I                ... pos = 0.625 	neg = 0.375
+18. We have an average g                ... pos = 2.0   	neg = 0.0  
+19. Along the way he lea                ... pos = 0.0   	neg = 0    
+20. There's even an Obi-                ... pos = 1.0   	neg = 0.125
+21. Morpheus recognizes                 ... pos = 0.25  	neg = 0.625
+22. Nonetheless, Morpheu                ... pos = 0.25  	neg = 0    
+23. He is sure that Neo                 ... pos = 0.625 	neg = 0.875
+24. It is not an exagger                ... pos = 0.75  	neg = 0.125
+25. "The Matrix" is one                 ... pos = 0.0   	neg = 0.125
+26. Nor is the film a sl                ... pos = 2.0   	neg = 0.125
+27. (That sounds like a                 ... pos = 0.0   	neg = 0.125
+28. The same traits that                ... pos = 0.125 	neg = 0.0  
+29. ) As always, Laurenc                ... pos = 0.875 	neg = 0.625
+30. "The Matrix" raises                 ... pos = 0.625 	neg = 0.125
+31. This is a visionary                 ... pos = 0.625 	neg = 0.125
+32. Warner Brothers appa                ... pos = 0.25  	neg = 0.125
+33. I'll be interested t                ... pos = 0.0   	neg = 0.125
+34. It deserves to.                     ... pos = 0.75  	neg = 0    
+35. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-216 is Positive         ... pos = 15.375 	neg = 9.0  
+Overall score of document
+Total Pos = 15.375
+Total Neg = 9.0
+---------------------------------------------------------------------------

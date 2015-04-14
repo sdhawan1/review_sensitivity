@@ -1,0 +1,17 @@
+0. Starring: Alicia Wit                 ... pos = 0.75  	neg = 1.625
+1. The catch is that th                 ... pos = 0.125 	neg = 0.125
+2. Just like in SCREAM,                 ... pos = 0.25  	neg = 0.5  
+3. Police never show up                 ... pos = 1.25  	neg = 1.125
+4. People always run th                 ... pos = 0.125 	neg = 0.75 
+5. Evidence and bodies                  ... pos = 0.375 	neg = 0.625
+6. Opinion:  Urban lege                 ... pos = 0.75  	neg = 0.625
+7. A couple examples ar                 ... pos = 0.625 	neg = 0.75 
+8. URBAN LEGEND feature                 ... pos = 0.0   	neg = 0.0  
+9. It's a somewhat camp                 ... pos = 0.0   	neg = 0.5  
+10. But at least we get                 ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5224-416 is Negative         ... pos = 4.25  	neg = 7.0  
+Overall score of document
+Total Pos = 4.25
+Total Neg = 7.0
+---------------------------------------------------------------------------

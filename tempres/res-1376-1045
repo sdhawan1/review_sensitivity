@@ -1,0 +1,46 @@
+0. by Curtis Edmonds --                 ... pos = 0.25  	neg = 0.875
+1. I was ready to deplo                 ... pos = 0.375 	neg = 1.75 
+2. I entered the theate                 ... pos = 0.0   	neg = 0.25 
+3. And I wasn't a bit d                 ... pos = 0.0   	neg = 0.0  
+4. Most people who like                 ... pos = 0.25  	neg = 0.125
+5. Mike Myers dons the                  ... pos = 0.0   	neg = 1.25 
+6. Evil and save the wo                 ... pos = 0.25  	neg = 0.75 
+7. Along the way -- and                 ... pos = 0.0   	neg = 0.625
+8. Alternatively, the m                 ... pos = 0.0   	neg = 0.0  
+9. Evil, who combines t                 ... pos = 0.0   	neg = 1.125
+10. I am not inclined to                ... pos = 1.5   	neg = 0.125
+11. If the Powers and Ev                ... pos = 0.875 	neg = 0.875
+12. The real battle in T                ... pos = 0.75  	neg = 1.125
+13. This movie could eas                ... pos = 1.0   	neg = 0.75 
+14. Fortunately, though,                ... pos = 1.25  	neg = 0.0  
+15. The Spy Who Shagged                 ... pos = 0.0   	neg = 0.5  
+16. This allows the focu                ... pos = 0.364 	neg = 1.0  
+17. Consider the treatme                ... pos = 0.125 	neg = 0.0  
+18. Elizabeth Hurley was                ... pos = 0.625 	neg = 0.25 
+19. Hurley shows up mome                ... pos = 1.125 	neg = 0.125
+20. In comparison, the l                ... pos = 0.75  	neg = 0.0  
+21. In a movie season re                ... pos = 0.5   	neg = 0.375
+22. Felicity is smart, d                ... pos = 0.5   	neg = 0.125
+23. "You're light on you                ... pos = 0.5   	neg = 0.0  
+24. "I'm pretty light of                ... pos = 1.0   	neg = 1.0  
+25. This is Heather Grah                ... pos = 0.75  	neg = 0.125
+26. Seth Green had a mar                ... pos = 0.125 	neg = 0.75 
+27. Green gets a little                 ... pos = 0.125 	neg = 0.75 
+28. There's still too st                ... pos = 0.5   	neg = 1.375
+29. When Dr.                            ... pos = 0     	neg = 0    
+30. Evil dubs his newest                ... pos = 0.875 	neg = 0.875
+31. ". Unfortunately, th                ... pos = 0.125 	neg = 0.875
+32. Rob Lowe, who was so                ... pos = 0.75  	neg = 0.5  
+33. (One wishes that Way                ... pos = 0.125 	neg = 0.625
+34. ) Kristen Johnson di                ... pos = 0.0   	neg = 1.5  
+35. I thought The Spy Wh                ... pos = 0.0   	neg = 0.125
+36. Most of the comedy t                ... pos = 0.0   	neg = 0.5  
+37. It's still not that                 ... pos = 0.0   	neg = 0    
+38. (The biggest reactio                ... pos = 0.125 	neg = 0.625
+39. )  Your inner fiftee                ... pos = 1.25  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-1376-1045 is Negative        ... pos = 16.739 	neg = 22.5 
+Overall score of document
+Total Pos = 16.739
+Total Neg = 22.5
+---------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+0. Starring-Ben Stiller                 ... pos = 0.0   	neg = 0.125
+1. It's a fluffy comedy                 ... pos = 2.375 	neg = 0.75 
+2. As youngsters, Brian                 ... pos = 0.125 	neg = 0.125
+3. While their friendsh                 ... pos = 1.25  	neg = 0.25 
+4. But tragedy soon str                 ... pos = 0.0   	neg = 0.125
+5. Now adults, Brian (E                 ... pos = 0.75  	neg = 0.0  
+6. The likable and kind                 ... pos = 0.125 	neg = 0.125
+7. On the basketball co                 ... pos = 0.0   	neg = 0.0  
+8. In the relationship                  ... pos = 0.25  	neg = 0.125
+9. Everything changes w                 ... pos = 0.5   	neg = 0    
+10. Now a workaholic, sh                ... pos = 0.75  	neg = 0.0  
+11. With these oddball i                ... pos = 1.0   	neg = 0.125
+12. Predicting the outco                ... pos = 2.75  	neg = 0.25 
+13. After shockingly bit                ... pos = 1.5   	neg = 0.5  
+14. Not in the least.                   ... pos = 0.0   	neg = 0.0  
+15. Norton slips into th                ... pos = 0.5   	neg = 0.25 
+16. Weighing every aspec                ... pos = 0.5   	neg = 0.125
+17. In addition, Norton                 ... pos = 0.25  	neg = 0.0  
+18. Stiller (the zipper                 ... pos = 0.0   	neg = 0.125
+19. Elfman's perky repet                ... pos = 1.0   	neg = 0.5  
+20. The remaining cast m                ... pos = 0.5   	neg = 0.0  
+21. `Keeping the Faith'                 ... pos = 0.125 	neg = 0.25 
+22. There is turbulence                 ... pos = 0.0   	neg = 0.25 
+23. Once the film does s                ... pos = 0.75  	neg = 0.125
+24. Stiller, Norton and                 ... pos = 0.625 	neg = 0.0  
+25. We enjoy their inter                ... pos = 2.0   	neg = 0.0  
+26. This is excluding th                ... pos = 0.375 	neg = 0.875
+27. Nonetheless, a narro                ... pos = 0.625 	neg = 0.625
+28. `Keeping the Faith'                 ... pos = 3.0   	neg = 0.25 
+29. Aww, what the hell.                 ... pos = 0     	neg = 0.5  
+30. The quality is not q                ... pos = 0.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1484-693 is Positive         ... pos = 22.25 	neg = 6.75 
+Overall score of document
+Total Pos = 22.25
+Total Neg = 6.75
+---------------------------------------------------------------------------

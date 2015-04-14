@@ -1,0 +1,31 @@
+0. Starring:        Kev                 ... pos = 0.125 	neg = 0.125
+1. Bull Durham and Fiel                 ... pos = 1.125 	neg = 0.125
+2. The movie doesn't ex                 ... pos = 0.125 	neg = 0.0  
+3. In his defense, it i                 ... pos = 1.375 	neg = 0.25 
+4. The home movies at t                 ... pos = 0.375 	neg = 0.25 
+5. The storyline begins                 ... pos = 0.0   	neg = 0.125
+6. He is scheduled to p                 ... pos = 0.0   	neg = 0.125
+7. It is basically a `t                 ... pos = 0.0   	neg = 0.125
+8. They are out of cont                 ... pos = 0.25  	neg = 0.0  
+9. The only reason for                  ... pos = 0.625 	neg = 0.125
+10. The camaraderie betw                ... pos = 0.556 	neg = 0.125
+11. They understand each                ... pos = 0.375 	neg = 0    
+12. This could have been                ... pos = 0.75  	neg = 0.125
+13. There was absolutely                ... pos = 0.625 	neg = 0.375
+14. We keep suffering th                ... pos = 0.0   	neg = 0.0  
+15. Even at the end of t                ... pos = 0.375 	neg = 0.0  
+16. It's just too syrupy                ... pos = 0.25  	neg = 1.125
+17. All in all, it's a f                ... pos = 0.875 	neg = 0.0  
+18. There's nothing offe                ... pos = 0.0   	neg = 0.25 
+19. There is a shot of C                ... pos = 0.0   	neg = 0.75 
+20. Billy and Jane sleep                ... pos = 0.625 	neg = 0.5  
+21. The only touchey-fee                ... pos = 0.0   	neg = 0.125
+22. If you like baseball                ... pos = 0.75  	neg = 0.125
+23. I do want to see thi                ... pos = 0.0   	neg = 0.25 
+24. I give it a B+.. .                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4743-989 is Positive         ... pos = 9.181 	neg = 5.0  
+Overall score of document
+Total Pos = 9.181
+Total Neg = 5.0
+---------------------------------------------------------------------------

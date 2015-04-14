@@ -1,0 +1,18 @@
+0. Starring: Kevin Klin                 ... pos = 0.125 	neg = 0.625
+1. "); physical comedy                  ... pos = 0.0   	neg = 0.5  
+2. This movie is a ligh                 ... pos = 0.625 	neg = 0.125
+3. The dilemma is set u                 ... pos = 1.375 	neg = 0.25 
+4. As Drake accepts the                 ... pos = 0.875 	neg = 0.0  
+5. Cameron tosses in a                  ... pos = 0.375 	neg = 0.0  
+6. The folksy residents                 ... pos = 1.625 	neg = 0.875
+7. After showcasing hum                 ... pos = 0.5   	neg = 0.0  
+8. Opinion: In a light                  ... pos = 3.625 	neg = 0.875
+9. Joan Cusack is suffi                 ... pos = 0.0   	neg = 0.75 
+10. Since the movie, lik                ... pos = 1.25  	neg = 0.0  
+11. For example: bachelo                ... pos = 0.25  	neg = 1.625
+---------------------------------------------------------------------------
+./temp/tmp-1120-416 is Positive         ... pos = 10.625 	neg = 5.625
+Overall score of document
+Total Pos = 10.625
+Total Neg = 5.625
+---------------------------------------------------------------------------

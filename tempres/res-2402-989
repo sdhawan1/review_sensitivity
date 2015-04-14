@@ -1,0 +1,33 @@
+0. If there is any doub                 ... pos = 0.25  	neg = 0.25 
+1. It's every bit as go                 ... pos = 0.75  	neg = 0.0  
+2. There is no problem                  ... pos = 0.125 	neg = 0.625
+3. You easily learn who                 ... pos = 1.375 	neg = 0    
+4. In its own way Letha                 ... pos = 0.0   	neg = 0.0  
+5. Each one is able to                  ... pos = 1.125 	neg = 0.25 
+6. In this  episode the                 ... pos = 0.75  	neg = 0.0  
+7. One, Jet Li, is a th                 ... pos = 0.5   	neg = 0.375
+8. As the cool, control                 ... pos = 0.125 	neg = 2.625
+9. The other, Chris Roc                 ... pos = 1.25  	neg = 0.0  
+10. Chris, like Joe Pesc                ... pos = 0.0   	neg = 0.0  
+11. Strangely, it become                ... pos = 0.75  	neg = 0.625
+12. It is enjoyable  whe                ... pos = 1.375 	neg = 0.125
+13. If you catch them ea                ... pos = 0.625 	neg = 0.0  
+14. It's also great to b                ... pos = 0.125 	neg = 0.625
+15. Although some of the                ... pos = 1.375 	neg = 0.625
+16. By now, you've proba                ... pos = 0.0   	neg = 0.0  
+17. Even though you know                ... pos = 0.625 	neg = 0.625
+18. The fire is almost t                ... pos = 0.0   	neg = 0.375
+19. This is a very viole                ... pos = 0.75  	neg = 0.125
+20. The garroting and th                ... pos = 0.0   	neg = 0.0  
+21. As always, there is                 ... pos = 0.0   	neg = 0.125
+22. The chicken sequence                ... pos = 0.25  	neg = 0.125
+23. There are many, many                ... pos = 0.375 	neg = 0.0  
+24. That is the mark of                 ... pos = 0.75  	neg = 0.125
+25. You keep thinking ab                ... pos = 0.0   	neg = 0.0  
+26. I definitely want to                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2402-989 is Positive         ... pos = 13.5  	neg = 7.75 
+Overall score of document
+Total Pos = 13.5
+Total Neg = 7.75
+---------------------------------------------------------------------------

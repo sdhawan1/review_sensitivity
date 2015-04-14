@@ -1,0 +1,64 @@
+0. The local video stor                 ... pos = 0.375 	neg = 0.5  
+1. Intelligent science                  ... pos = 1.0   	neg = 0.5  
+2. Gattaca follows in t                 ... pos = 0.5   	neg = 0.0  
+3. True, Blade Runner h                 ... pos = 0.5   	neg = 0.25 
+4. Gattaca's particular                 ... pos = 0.125 	neg = 0.125
+5. Witness, for example                 ... pos = 0.375 	neg = 0.0  
+6. Privacy advocates no                 ... pos = 0.625 	neg = 0.0  
+7. This is perhaps how                  ... pos = 0.0   	neg = 0.125
+8. The plot of the movi                 ... pos = 0.0   	neg = 0.875
+9. Vincent is freeborn,                 ... pos = 0.375 	neg = 0.625
+10. Jerome is the result                ... pos = 0.125 	neg = 0.125
+11. He, unfortunately, b                ... pos = 0.0   	neg = 1.0  
+12. He sells his identit                ... pos = 0.5   	neg = 0.0  
+13. Vincent's ultimate g                ... pos = 0.0   	neg = 0.125
+14. All the effort to di                ... pos = 0.25  	neg = 0.25 
+15. The bulk of the film                ... pos = 0.0   	neg = 1.5  
+16. This is a stylized,                 ... pos = 0.0   	neg = 0.125
+17. The geneticall perfe                ... pos = 0.375 	neg = 0.125
+18. Space travel here do                ... pos = 0.5   	neg = 0.375
+19. Yes, the film goes o                ... pos = 0.0   	neg = 0.375
+20. Actually, one nice s                ... pos = 0.125 	neg = 0.25 
+21. The long gray coats                 ... pos = 0.375 	neg = 0.75 
+22. This sort of style i                ... pos = 0.0   	neg = 0.5  
+23. Well, there are some                ... pos = 0.25  	neg = 0.0  
+24. The, uh, cosmetic fl                ... pos = 0.875 	neg = 0.0  
+25. Ethan Hawke can pass                ... pos = 0.125 	neg = 0.625
+26. While there may not                 ... pos = 1.375 	neg = 0.125
+27. There are nice touch                ... pos = 0.25  	neg = 0.5  
+28. One is the Genetic L                ... pos = 0.0   	neg = 0.125
+29. Yes, genetic testing                ... pos = 0.0   	neg = 0.0  
+30. True, the filmmakers                ... pos = 0.625 	neg = 1.5  
+31. For the larger issue                ... pos = 0.375 	neg = 0.0  
+32. Many of the traits m                ... pos = 0.625 	neg = 0.0  
+33. A tendency for lung                 ... pos = 0.125 	neg = 0.125
+34. Some gene for musica                ... pos = 0.0   	neg = 0.75 
+35. Contingencies of the                ... pos = 0.0   	neg = 0    
+36. More strongly, genes                ... pos = 0.375 	neg = 0.25 
+37. We know very clearly                ... pos = 0.75  	neg = 0.0  
+38. I have doubts that a                ... pos = 0.0   	neg = 0.5  
+39. I also don't have se                ... pos = 0.25  	neg = 0.5  
+40. Genetic technology,                 ... pos = 0.75  	neg = 0.875
+41. It's up to the cultu                ... pos = 0.5   	neg = 0.25 
+42. Perhaps I have more                 ... pos = 0.0   	neg = 0.0  
+43. Culture cuts both wa                ... pos = 0.0   	neg = 0.0  
+44. Even primitive assay                ... pos = 0.0   	neg = 0.875
+45. Consider China's sho                ... pos = 0.25  	neg = 0.0  
+46. Simple miotic fluid                 ... pos = 0.25  	neg = 1.0  
+47. Arguably, this is th                ... pos = 1.0   	neg = 0.125
+48. Interestingly, the f                ... pos = 0.625 	neg = 0.125
+49. This is clearly wron                ... pos = 0.25  	neg = 0.25 
+50. Culture has a long s                ... pos = 0.0   	neg = 0.375
+51. The film also trips                 ... pos = 0.125 	neg = 0.0  
+52. It appears that all                 ... pos = 0.625 	neg = 0.125
+53. Treating, say, heart                ... pos = 0.375 	neg = 0.125
+54. This blindness to wh                ... pos = 1.0   	neg = 0.25 
+55. The DVD, which, unfo                ... pos = 0.0   	neg = 1.0  
+56. In particular, the "                ... pos = 0.375 	neg = 0.25 
+57. The filmmakers perha                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3272-1441 is Negative        ... pos = 18.375 	neg = 19.25
+Overall score of document
+Total Pos = 18.375
+Total Neg = 19.25
+---------------------------------------------------------------------------

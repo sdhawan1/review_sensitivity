@@ -1,0 +1,27 @@
+0. The Happy Bastard's                  ... pos = 0.625 	neg = 0.0  
+1. " yells an enormousl                 ... pos = 0.0   	neg = 0.0  
+2. Evil's notoriously e                 ... pos = 0.0   	neg = 0.75 
+3. "Get in my belly!!                   ... pos = 0.0   	neg = 0    
+4. " he bellows, and Mi                 ... pos = 0.0   	neg = 0.0  
+5. Evil, who's hesitant                 ... pos = 0.0   	neg = 0.875
+6. It's moments like th                 ... pos = 0.375 	neg = 0.625
+7. Mike Myers shows he                  ... pos = 0.625 	neg = 0.375
+8. Basically, the story                 ... pos = 0.625 	neg = 0.625
+9. The honeymoon ends q                 ... pos = 0.375 	neg = 0.625
+10. Evil, who's making i                ... pos = 0.125 	neg = 0.75 
+11. That leads Austin to                ... pos = 0.125 	neg = 0.0  
+12. Evil gets any bright                ... pos = 0.0   	neg = 0.75 
+13. (Of course, a scene                 ... pos = 0.125 	neg = 0.625
+14. )  There, Austin tea                ... pos = 1.0   	neg = 0.25 
+15. Along the way, we're                ... pos = 1.0   	neg = 0.0  
+16. Evil's sarcastic son                ... pos = 0.0   	neg = 0.625
+17. Sure, the movie has                 ... pos = 0.375 	neg = 0.5  
+18. There's some great n                ... pos = 0.375 	neg = 0.5  
+19. It's all in fun, and                ... pos = 0.625 	neg = 0.125
+20. The Happy Bastard (n                ... pos = 0.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1376-1292 is Negative        ... pos = 7.0   	neg = 8.25 
+Overall score of document
+Total Pos = 7.0
+Total Neg = 8.25
+---------------------------------------------------------------------------

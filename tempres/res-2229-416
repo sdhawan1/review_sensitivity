@@ -1,0 +1,21 @@
+0. Written by: by Steve                 ... pos = 0.375 	neg = 0.25 
+1. In a bid to impress                  ... pos = 0.5   	neg = 0.75 
+2. Under Sonny's superv                 ... pos = 0.0   	neg = 0.0  
+3. Self centered, Julia                 ... pos = 0.0   	neg = 0.75 
+4. Meanwhile Sonny brib                 ... pos = 0.0   	neg = 0.0  
+5. Not surprisingly the                 ... pos = 0.125 	neg = 0.625
+6. Opinion: It's a movi                 ... pos = 0.75  	neg = 1.875
+7. That's the essence o                 ... pos = 0.0   	neg = 0.0  
+8. But there's a bigger                 ... pos = 0.125 	neg = 0.0  
+9. Movies that are rate                 ... pos = 1.0   	neg = 0.0  
+10. On TV, film clips ad                ... pos = 0.0   	neg = 0.0  
+11. Then when you go see                ... pos = 2.75  	neg = 0.875
+12. Folks in Hollywood a                ... pos = 1.0   	neg = 2.125
+13. To many American mot                ... pos = 1.125 	neg = 2.125
+14. ". Copyright Š 1999                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2229-416 is Negative         ... pos = 7.75  	neg = 9.5  
+Overall score of document
+Total Pos = 7.75
+Total Neg = 9.5
+---------------------------------------------------------------------------

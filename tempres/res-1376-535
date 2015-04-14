@@ -1,0 +1,52 @@
+0. CAST Mike Myers - Au                 ... pos = 0.0   	neg = 0    
+1. Evil / Fat Bastard H                 ... pos = 0.5   	neg = 2.25 
+2. This is another one                  ... pos = 0.25  	neg = 0.25 
+3. Unfortunatly, it's n                 ... pos = 0.0   	neg = 0.0  
+4. It simply has a few                  ... pos = 0.5   	neg = 0.0  
+5. The year is 1999, an                 ... pos = 0.375 	neg = 0.25 
+6. Vanessa turns out to                 ... pos = 0.0   	neg = 0.125
+7. Evil however, and tr                 ... pos = 0.125 	neg = 1.25 
+8. Austin escapes, and                  ... pos = 0.0   	neg = 0.0  
+9. Evil we find out.                    ... pos = 0.0   	neg = 0.75 
+10. Evil gets his organi                ... pos = 0.875 	neg = 0.75 
+11. He then decides to g                ... pos = 0.875 	neg = 0.125
+12. With Austin out of t                ... pos = 0.25  	neg = 0.125
+13. Austin, sans mojo, t                ... pos = 0.125 	neg = 0.0  
+14. agent named Felicity                ... pos = 0.5   	neg = 0.75 
+15. The majority of the                 ... pos = 0.0   	neg = 0.0  
+16. For some strange rea                ... pos = 0.375 	neg = 0.0  
+17. Evil finds it necces                ... pos = 0.0   	neg = 0.75 
+18. Evil has also create                ... pos = 0.0   	neg = 0.75 
+19. Mini Me actually pro                ... pos = 0.0   	neg = 0.0  
+20. The movie certainly                 ... pos = 0.25  	neg = 0.0  
+21. In fact, almost any                 ... pos = 0.0   	neg = 0.0  
+22. Evil, Mini Me, or Sc                ... pos = 0.0   	neg = 1.625
+23. One of the funniest,                ... pos = 0.5   	neg = 0.125
+24. Mini Me is hilarious                ... pos = 0.25  	neg = 0.125
+25. The real problem is                 ... pos = 0.0   	neg = 0.375
+26. Most of the jokes Au                ... pos = 0.25  	neg = 0.25 
+27. Another large proble                ... pos = 0.25  	neg = 1.75 
+28. As for the character                ... pos = 1.25  	neg = 0.125
+29. Mini Me is an absolu                ... pos = 0.375 	neg = 0.625
+30. Another problem is H                ... pos = 0.0   	neg = 0.5  
+31. Now, I know this obv                ... pos = 0.0   	neg = 0.75 
+32. She looks embarassed                ... pos = 0.5   	neg = 0.75 
+33. All in all, there ar                ... pos = 0.75  	neg = 0.25 
+34. If you liked the ori                ... pos = 0.5   	neg = 0    
+35. If you didn't, bewar                ... pos = 0     	neg = 0.0  
+36. The film is more or                 ... pos = 0.125 	neg = 0.125
+37. Oh, and don't eat be                ... pos = 0.125 	neg = 0.25 
+38. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+39. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+40. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+41. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+42. See it if you've got                ... pos = 0.0   	neg = 0.25 
+43. * - One of the worst                ... pos = 0.0   	neg = 0.375
+44. See it only if you e                ... pos = 0.375 	neg = 0.0  
+45. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1376-535 is Negative         ... pos = 11.125 	neg = 17.5 
+Overall score of document
+Total Pos = 11.125
+Total Neg = 17.5
+---------------------------------------------------------------------------

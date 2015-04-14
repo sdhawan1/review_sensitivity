@@ -1,0 +1,38 @@
+0. (MIRAMAX) RUNNING TI                 ... pos = 0.125 	neg = 0.0  
+1. DIRECTED BY QUENTIN                  ... pos = 0.125 	neg = 0.0  
+2. Jackie Brown is not                  ... pos = 0.75  	neg = 0.125
+3. Right, now I'll get                  ... pos = 0.5   	neg = 0.75 
+4. To do this, she must                 ... pos = 1.125 	neg = 0.0  
+5. Along the way, she m                 ... pos = 0.5   	neg = 0.25 
+6. Throughout the plot                  ... pos = 1.625 	neg = 0.125
+7. Tarantino has writte                 ... pos = 0.75  	neg = 0.375
+8. Somehow, the script                  ... pos = 0.0   	neg = 1.0  
+9. Tarantino is a great                 ... pos = 0.0   	neg = 0.125
+10. He needs more creati                ... pos = 0.0   	neg = 0.125
+11. Hopefully, he won't                 ... pos = 0.75  	neg = 0.125
+12. I have not read the                 ... pos = 1.875 	neg = 0.25 
+13. Grier, a former blax                ... pos = 0.0   	neg = 0.125
+14. (1996) is good as Ja                ... pos = 1.125 	neg = 0.25 
+15. ) Jackson is practic                ... pos = 0.0   	neg = 1.0  
+16. His character isn't                 ... pos = 1.75  	neg = 0.125
+17. Fonda is superb, and                ... pos = 1.375 	neg = 0.125
+18. De Niro, like in Cop                ... pos = 0.5   	neg = 0.125
+19. Forster is excellent                ... pos = 2.125 	neg = 0.125
+20. The audience relates                ... pos = 0.875 	neg = 0.0  
+21. However, the audienc                ... pos = 1.0   	neg = 0.0  
+22. Most of them are fla                ... pos = 0.25  	neg = 0.0  
+23. This is a shame, and                ... pos = 1.125 	neg = 1.0  
+24. Considering the runn                ... pos = 1.125 	neg = 0.375
+25. Also, Tarantino seem                ... pos = 0.0   	neg = 0.25 
+26. Apart from some spli                ... pos = 0.75  	neg = 0.375
+27. There's a good sound                ... pos = 1.625 	neg = 0.0  
+28. Jackie Brown, overal                ... pos = 0.875 	neg = 0.125
+29. However, I guess I j                ... pos = 0.125 	neg = 0.0  
+30. Although disappointi                ... pos = 0.0   	neg = 0.375
+31. OVERALL RATING= ***                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-1213 is Positive        ... pos = 22.75 	neg = 7.625
+Overall score of document
+Total Pos = 22.75
+Total Neg = 7.625
+---------------------------------------------------------------------------

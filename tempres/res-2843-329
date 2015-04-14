@@ -1,0 +1,17 @@
+0. Imagine putting both                 ... pos = 0.375 	neg = 1.375
+1. Now imagine taking t                 ... pos = 0.125 	neg = 0.5  
+2. Wild Wild West, a ne                 ... pos = 0.375 	neg = 0.75 
+3. Exactly whose fault                  ... pos = 0.375 	neg = 0.5  
+4. James West (Smith, w                 ... pos = 0.375 	neg = 1.75 
+5. Now this could be an                 ... pos = 0.125 	neg = 0.25 
+6. Whereas, Arlington R                 ... pos = 0.5   	neg = 0.0  
+7. I believe that the f                 ... pos = 0.5   	neg = 0.5  
+8. This film is not for                 ... pos = 0.875 	neg = 0.25 
+9. I actually believe t                 ... pos = 0.25  	neg = 0.0  
+10. Thus, I give Wild Wi                ... pos = 0.0   	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-2843-329 is Negative         ... pos = 3.875 	neg = 7.125
+Overall score of document
+Total Pos = 3.875
+Total Neg = 7.125
+---------------------------------------------------------------------------

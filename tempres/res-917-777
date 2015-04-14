@@ -1,0 +1,23 @@
+0. Finally: A big, effe                 ... pos = 0.0   	neg = 0.125
+1. "Men In Black" takes                 ... pos = 0.75  	neg = 0.0  
+2. It almost unfailingl                 ... pos = 0.875 	neg = 0.0  
+3. Vincent D'Onofrio sh                 ... pos = 0.0   	neg = 0.0  
+4. Tommy Lee Jones play                 ... pos = 0.0   	neg = 0.0  
+5. Will Smith isn't ann                 ... pos = 0.125 	neg = 0.25 
+6. About the only cast                  ... pos = 0.0   	neg = 0.125
+7. A quibble.                           ... pos = 0.0   	neg = 0    
+8. While certainly no "                 ... pos = 0.25  	neg = 0.375
+9. In case the writers                  ... pos = 0.625 	neg = 0.0  
+10. "T-h-o-u-g-h-t.". Re                ... pos = 0.875 	neg = 0.0  
+11. The production desig                ... pos = 0.875 	neg = 0.125
+12. The cinematography b                ... pos = 0.375 	neg = 0.125
+13. A great part of the                 ... pos = 0.125 	neg = 0.25 
+14. My dad taught me as                 ... pos = 0.875 	neg = 0.681
+15. You have to be good                 ... pos = 1.125 	neg = 0.125
+16. "Men In Black" is a                 ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-917-777 is Positive          ... pos = 7.625 	neg = 2.306
+Overall score of document
+Total Pos = 7.625
+Total Neg = 2.306
+---------------------------------------------------------------------------

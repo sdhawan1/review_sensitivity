@@ -1,0 +1,21 @@
+0. Even before the open                 ... pos = 0.25  	neg = 0.0  
+1. Plus, the film isn't                 ... pos = 1.125 	neg = 0.625
+2. Tommy Lee Jones star                 ... pos = 1.5   	neg = 0.125
+3. Anne Heche is also o                 ... pos = 0.875 	neg = 0.375
+4. And very believable.                 ... pos = 1.125 	neg = 0    
+5. So is Jones, who is                  ... pos = 0.0   	neg = 0.25 
+6. He'd make paint dryi                 ... pos = 0.25  	neg = 0.375
+7. It's too dramatic an                 ... pos = 0.5   	neg = 0.25 
+8. Not that volcanoes a                 ... pos = 0.5   	neg = 0.0  
+9. Volcano just trys to                 ... pos = 0.0   	neg = 1.0  
+10. It is said Volcano c                ... pos = 0.25  	neg = 0.25 
+11. Peak, which I though                ... pos = 2.0   	neg = 1.375
+12. Volcano looks cheap                 ... pos = 0.75  	neg = 1.0  
+13. Enjoyable turf, it l                ... pos = 0.5   	neg = 0.375
+14. 1999 (c) Quick Flick                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-135-170 is Positive          ... pos = 9.625 	neg = 6.0  
+Overall score of document
+Total Pos = 9.625
+Total Neg = 6.0
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. TARZAN ** (out of fo                 ... pos = 0.25  	neg = 0.0  
+1. The basic story of a                 ... pos = 0.875 	neg = 0.75 
+2. Now that Disney has                  ... pos = 1.125 	neg = 0.0  
+3. And just because the                 ... pos = 0.25  	neg = 0.125
+4. The movie itself is                  ... pos = 0.0   	neg = 0.375
+5. Tarzan commences wit                 ... pos = 0.125 	neg = 0.0  
+6. Shipwrecked, Tarzan'                 ... pos = 0.75  	neg = 1.0  
+7. Kala (Close), a moth                 ... pos = 1.125 	neg = 0.375
+8. The years pass, and                  ... pos = 0.125 	neg = 0.375
+9. Then he encounters J                 ... pos = 0.5   	neg = 0.625
+10. Two gaping plot hole                ... pos = 0.125 	neg = 0.25 
+11. First, let me establ                ... pos = 0.75  	neg = 0.5  
+12. So why is Tarzan abl                ... pos = 0.25  	neg = 0.125
+13. Then there's the iss                ... pos = 0.125 	neg = 0.0  
+14. Everybody's inexplic                ... pos = 0.125 	neg = 0.25 
+15. If the Snidely Whipl                ... pos = 0.75  	neg = 0.125
+16. " was a bold sign th                ... pos = 0.5   	neg = 0.125
+17. The film rehashes th                ... pos = 1.75  	neg = 0.25 
+18. What would adolescen                ... pos = 0.125 	neg = 0.125
+19. If one was raised by                ... pos = 1.25  	neg = 0.625
+20. The film hints at a                 ... pos = 0.25  	neg = 0.125
+21. Such depth, not to m                ... pos = 0.0   	neg = 0.125
+22. After said opening,                 ... pos = 0.125 	neg = 0.375
+23. (This includes Phil                 ... pos = 0.0   	neg = 0.375
+24. ) It answers questio                ... pos = 0.0   	neg = 0.0  
+25. It preaches against                 ... pos = 0.75  	neg = 0.0  
+26. It provides unnecess                ... pos = 0.625 	neg = 1.0  
+27. It offers not a sing                ... pos = 0.0   	neg = 0.0  
+28. None of this quite m                ... pos = 0.125 	neg = 0.125
+29. (Does it occur to ch                ... pos = 0.375 	neg = 0.0  
+30. Pocahontas, Mulan, a                ... pos = 0.625 	neg = 0.0  
+31. ) . One aspect of th                ... pos = 0.25  	neg = 0    
+32. I'm talking about it                ... pos = 1.75  	neg = 0.125
+33. (They are perhaps re                ... pos = 0.375 	neg = 0.0  
+34. ) Tarzan soars throu                ... pos = 0.125 	neg = 0.125
+35. If only he defied ou                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1548-1545 is Positive        ... pos = 16.25 	neg = 8.5  
+Overall score of document
+Total Pos = 16.25
+Total Neg = 8.5
+---------------------------------------------------------------------------

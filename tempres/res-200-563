@@ -1,0 +1,52 @@
+0. "Don't stand in the                  ... pos = 0.5   	neg = 0    
+1. ". Starring John Cus                 ... pos = 1.375 	neg = 0.5  
+2. I don't know what id                 ... pos = 0.125 	neg = 0.25 
+3. The result is an exe                 ... pos = 0.25  	neg = 0.625
+4. "Offbeat" doesn't ev                 ... pos = 0.0   	neg = 0.0  
+5. An abstract of the p                 ... pos = 0.25  	neg = 0.0  
+6. The film stars John                  ... pos = 0.625 	neg = 0.25 
+7. The company is heade                 ... pos = 0.875 	neg = 0.25 
+8. So one sunny afterno                 ... pos = 0.5   	neg = 0.5  
+9. Craig moves the cabi                 ... pos = 0.375 	neg = 0.375
+10. Curious, he goes in.                ... pos = 0.0   	neg = 0.375
+11. After a few feet, th                ... pos = 0.25  	neg = 0.625
+12. Let me clarify.                     ... pos = 0.25  	neg = 0.0  
+13. This rabbit hole tha                ... pos = 0.0   	neg = 0.375
+14. For 15 minutes, you                 ... pos = 1.125 	neg = 0.0  
+15. It gets weirder yet.                ... pos = 0.25  	neg = 0.0  
+16. You see, Craig falls                ... pos = 0.25  	neg = 0.875
+17. When Maxine starts a                ... pos = 0.0   	neg = 0.25 
+18. Meanwhile, Craig and                ... pos = 0.0   	neg = 0.125
+19. Alright, you can cat                ... pos = 0.0   	neg = 0.25 
+20. I can wait.                         ... pos = 0     	neg = 0.0  
+21. All done?                           ... pos = 0.0   	neg = 0    
+22. Good.                               ... pos = 0.75  	neg = 0    
+23. My first order of bu                ... pos = 0.375 	neg = 0.5  
+24. Love it or hate it,                 ... pos = 1.125 	neg = 0.0  
+25. The idea itself seem                ... pos = 0.375 	neg = 0.125
+26. I'm not sure who tho                ... pos = 0.25  	neg = 0.0  
+27. Even more importantl                ... pos = 0.0   	neg = 0.125
+28. The brilliance of Be                ... pos = 0.875 	neg = 0.125
+29. First time director                 ... pos = 0.375 	neg = 0.125
+30. The script is way ou                ... pos = 0.0   	neg = 0.25 
+31. In effect, the film                 ... pos = 0.375 	neg = 0.625
+32. There is a point in                 ... pos = 0.875 	neg = 0.125
+33. " The line is hilari                ... pos = 0.75  	neg = 0.125
+34. And yet unlike any g                ... pos = 0.375 	neg = 0.375
+35. So we laugh in retro                ... pos = 0.5   	neg = 0.0  
+36. And ya know what?                   ... pos = 0     	neg = 0.0  
+37. It's been a week and                ... pos = 0.0   	neg = 0.375
+38. Kudos to the real tw                ... pos = 1.0   	neg = 0    
+39. The role stops just                 ... pos = 0.0   	neg = 0.75 
+40. Indeed, this is prob                ... pos = 0.875 	neg = 0.125
+41. I strongly believe t                ... pos = 0.25  	neg = 0.875
+42. John Malkovich's wor                ... pos = 0.5   	neg = 0.125
+43. I saw Being John Mal                ... pos = 0.25  	neg = 1.375
+44. I appreciated Malkov                ... pos = 0.125 	neg = 0.0  
+45. It's a film to treas                ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-200-563 is Positive          ... pos = 17.25 	neg = 11.75
+Overall score of document
+Total Pos = 17.25
+Total Neg = 11.75
+---------------------------------------------------------------------------

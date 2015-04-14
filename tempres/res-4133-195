@@ -1,0 +1,44 @@
+0. I can already feel t                 ... pos = 0.125 	neg = 0.0  
+1. I loved THE WEDDING                  ... pos = 0.5   	neg = 0.0  
+2. But it gets worse.                   ... pos = 0.0   	neg = 0.625
+3. If I so much as ment                 ... pos = 0.125 	neg = 0.0  
+4. .                                    ... pos = 0     	neg = 0    
+5. .                                    ... pos = 0     	neg = 0    
+6. hell, same paragraph                 ... pos = 0.125 	neg = 0.625
+7. Well lynch me then,                  ... pos = 0.375 	neg = 0.125
+8. Right away, you're r                 ... pos = 0.0   	neg = 0.0  
+9. You're thinking that                 ... pos = 0.0   	neg = 0.0  
+10. After all, this is A                ... pos = 0.0   	neg = 0.125
+11. Well, there's more .                ... pos = 0.0   	neg = 0    
+12. .                                   ... pos = 0     	neg = 0    
+13. .                                   ... pos = 0     	neg = 0    
+14. I actually got choke                ... pos = 0.0   	neg = 0.0  
+15. Yes, the man who bro                ... pos = 1.875 	neg = 0.125
+16. But before you shrug                ... pos = 0.0   	neg = 0.625
+17. THE WEDDING SINGER i                ... pos = 0.0   	neg = 0.25 
+18. But when his own wed                ... pos = 1.125 	neg = 0.0  
+19. In the process of pe                ... pos = 2.0   	neg = 0.125
+20. Julia too is engaged                ... pos = 0.625 	neg = 0.375
+21. As the time goes by,                ... pos = 0.75  	neg = 0.125
+22. It's obvious that Ro                ... pos = 1.375 	neg = 0.25 
+23. This isn't SLEEPLESS                ... pos = 1.625 	neg = 0.0  
+24. While THE WEDDING SI                ... pos = 1.25  	neg = 0.375
+25. Sandler is great in                 ... pos = 0.0   	neg = 0.125
+26. Barrymore seems perf                ... pos = 0.375 	neg = 0.125
+27. One scene in particu                ... pos = 0.0   	neg = 0.25 
+28. Unfortunately, Sandl                ... pos = 0.125 	neg = 1.625
+29. In fact, the entire                 ... pos = 0.375 	neg = 0.75 
+30. The 1985 setting was                ... pos = 0.875 	neg = 0.375
+31. Sandler shows a new                 ... pos = 0.875 	neg = 0.125
+32. While THE WEDDING SI                ... pos = 1.625 	neg = 0.0  
+33. It's hilarious, and                 ... pos = 0.375 	neg = 0    
+34. It's got that great                 ... pos = 0.5   	neg = 0.25 
+35. This is one to see a                ... pos = 0.0   	neg = 0.125
+36. Is it possible THE W                ... pos = 0.25  	neg = 0.25 
+37. My "Magic 8-ball" pr                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4133-195 is Positive         ... pos = 17.375 	neg = 7.875
+Overall score of document
+Total Pos = 17.375
+Total Neg = 7.875
+---------------------------------------------------------------------------

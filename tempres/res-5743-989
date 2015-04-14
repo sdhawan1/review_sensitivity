@@ -1,0 +1,26 @@
+0. Mumford, Starring Lo                 ... pos = 0.375 	neg = 0.0  
+1. Directed by Lawrence                 ... pos = 0.0   	neg = 0.125
+2. Going into the film                  ... pos = 1.125 	neg = 0.0  
+3. Mumford is both the                  ... pos = 0.375 	neg = 0.125
+4. The real story, or r                 ... pos = 0.875 	neg = 0.0  
+5. Each has a story to                  ... pos = 0.5   	neg = 0.0  
+6. Mumford has that won                 ... pos = 1.875 	neg = 0.5  
+7. As a viewer, you qui                 ... pos = 0.375 	neg = 0.125
+8. Ted Danson does a wa                 ... pos = 0.0   	neg = 0.625
+9. Her children (his st                 ... pos = 0.0   	neg = 0.25 
+10. The son, for example                ... pos = 0.0   	neg = 0.0  
+11. Alfre Woodard, who i                ... pos = 0.0   	neg = 0.5  
+12. She prefers long sho                ... pos = 0     	neg = 0.375
+13. The opening scenes a                ... pos = 1.0   	neg = 0    
+14. They are in black an                ... pos = 0.25  	neg = 0    
+15. At first I thought t                ... pos = 0.25  	neg = 0.875
+16. There is a little nu                ... pos = 1.0   	neg = 1.75 
+17. Especially funny is                 ... pos = 0.375 	neg = 0.125
+18. It is a delightful l                ... pos = 1.375 	neg = 0.125
+19. I give it a solid B.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5743-989 is Positive         ... pos = 9.75  	neg = 5.5  
+Overall score of document
+Total Pos = 9.75
+Total Neg = 5.5
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. Is this movie as goo                 ... pos = 0.75  	neg = 0.125
+1. Well, no - I still t                 ... pos = 0.0   	neg = 0.25 
+2. Confidential have th                 ... pos = 0.875 	neg = 0.75 
+3. Much like the theme                  ... pos = 0.125 	neg = 0.375
+4. Simply the story of                  ... pos = 0.0   	neg = 0.0  
+5. Jack Nicholson plays                 ... pos = 0.0   	neg = 0.125
+6. Let's face it, we al                 ... pos = 0.0   	neg = 0.0  
+7. He's the kind of  pe                 ... pos = 0.125 	neg = 0.0  
+8. That special kind of                 ... pos = 0.0   	neg = 0.0  
+9. A real nice guy.                     ... pos = 0.0   	neg = 0.0  
+10. Underneath the crust                ... pos = 0.25  	neg = 0.25 
+11. One person in that s                ... pos = 0.0   	neg = 0.125
+12. The rest of the staf                ... pos = 0.25  	neg = 0.625
+13. The third person in                 ... pos = 0.125 	neg = 0.125
+14. The acting is simply                ... pos = 0.875 	neg = 0.125
+15. It is a very rare th                ... pos = 0.75  	neg = 0.125
+16. Nicholson is still b                ... pos = 1.125 	neg = 0.625
+17. It's just so him.                   ... pos = 0     	neg = 0.0  
+18. Greg Kinear, who's o                ... pos = 2.0   	neg = 0.125
+19. Cuba Gooding Jr. is                 ... pos = 0.25  	neg = 0.5  
+20. His effect on Nichol                ... pos = 1.0   	neg = 0.125
+21. It is Hunt, however,                ... pos = 0.625 	neg = 0.125
+22. A truly staggeringly                ... pos = 1.625 	neg = 0.0  
+23. If she had lost the                 ... pos = 0.375 	neg = 0.125
+24. Being a Titanic fana                ... pos = 1.625 	neg = 1.125
+25. In her first real mo                ... pos = 0.25  	neg = 0.375
+26. A very talented and                 ... pos = 0.875 	neg = 0.0  
+27. The fourth main star                ... pos = 0.75  	neg = 0.125
+28. The dialogue is orig                ... pos = 1.5   	neg = 1.0  
+29. The  put-downs writt                ... pos = 1.0   	neg = 0.125
+30. As someone who likes                ... pos = 1.125 	neg = 0.125
+31. It is a powerful mov                ... pos = 0.625 	neg = 0.125
+32. Not a movie that's e                ... pos = 0.25  	neg = 0.0  
+33. For me - the romance                ... pos = 0.0   	neg = 0.0  
+34. Nothing I can really                ... pos = 1.5   	neg = 1.0  
+35. Anyway, if you haven                ... pos = 0.125 	neg = 0.125
+36. It's the best comedy                ... pos = 0.875 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2115-1140 is Positive        ... pos = 21.625 	neg = 8.75 
+Overall score of document
+Total Pos = 21.625
+Total Neg = 8.75
+---------------------------------------------------------------------------

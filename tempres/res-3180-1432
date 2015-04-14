@@ -1,0 +1,46 @@
+0. Fear and Loathing in                 ... pos = 0.375 	neg = 0.375
+1. There are always a f                 ... pos = 0.375 	neg = 0.0  
+2. Should the film be                   ... pos = 0.0   	neg = 0.125
+3. Should you read the                  ... pos = 0.125 	neg = 0.0  
+4. What  about reading                  ... pos = 0.0   	neg = 0.0  
+5. Should you read it a                 ... pos = 0.0   	neg = 0.0  
+6. Shouldn't a film be                  ... pos = 0.125 	neg = 0.125
+7. I didn't have a prob                 ... pos = 0.125 	neg = 0.75 
+8. To begin with, it's                  ... pos = 0.25  	neg = 0.0  
+9. I was in the fortuna                 ... pos = 0.875 	neg = 0.625
+10. But I did remember t                ... pos = 0.125 	neg = 0.125
+11. The one-sentence plo                ... pos = 0.0   	neg = 0.625
+12. It's pointless, plot                ... pos = 0     	neg = 0.75 
+13. It was also the birt                ... pos = 0.875 	neg = 0.625
+14. If Hunter's book is                 ... pos = 0.0   	neg = 0.25 
+15. It's gleefully self-                ... pos = 0.25  	neg = 0    
+16. It is Gilliam fasten                ... pos = 0.0   	neg = 0.125
+17. But where he really                 ... pos = 0.625 	neg = 0.125
+18. Nothing about it is                 ... pos = 0.5   	neg = 0.375
+19. The acting and direc                ... pos = 0.0   	neg = 0.0  
+20. And nobody is going                 ... pos = 0     	neg = 0.75 
+21. If FEAR AND LOATHING                ... pos = 0.875 	neg = 1.875
+22. It  recreates the se                ... pos = 0.625 	neg = 0.125
+23. The opening five min                ... pos = 0.375 	neg = 0.25 
+24. Gilliam tries to mak                ... pos = 1.625 	neg = 1.0  
+25. Those who are less i                ... pos = 0.5   	neg = 1.0  
+26. This film isn't made                ... pos = 0.0   	neg = 0.0  
+27. It is not meant to b                ... pos = 0.375 	neg = 0.25 
+28. It's a film that con                ... pos = 0.25  	neg = 0.0  
+29. It wants to be the r                ... pos = 0.125 	neg = 0.125
+30. It's what I like mos                ... pos = 1.375 	neg = 0.125
+31. David Cronenberg has                ... pos = 0.0   	neg = 0.125
+32. When he or Gilliam g                ... pos = 0.0   	neg = 0.0  
+33. And in the middle of                ... pos = 1.375 	neg = 0.5  
+34. Except Depp is just                 ... pos = 0.125 	neg = 0.125
+35. If you hate Depp's b                ... pos = 0.625 	neg = 0.125
+36. Maybe they didn't re                ... pos = 0.0   	neg = 0.0  
+37. Or  maybe they did.                 ... pos = 0     	neg = 0.0  
+38. Or maybe they just w                ... pos = 0.125 	neg = 0.125
+39. http://smart.sbay.co                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3180-1432 is Positive        ... pos = 13.0  	neg = 11.5 
+Overall score of document
+Total Pos = 13.0
+Total Neg = 11.5
+---------------------------------------------------------------------------

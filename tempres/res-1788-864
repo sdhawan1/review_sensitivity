@@ -1,0 +1,50 @@
+0. http://members.aol.c                 ... pos = 0.125 	neg = 0.125
+1. This year, they have                 ... pos = 0.75  	neg = 0.125
+2. Pushing Tin is just                  ... pos = 0.0   	neg = 0.375
+3. The main element in                  ... pos = 0.75  	neg = 0.125
+4. John Cusack, Academy                 ... pos = 2.0   	neg = 0.0  
+5. John Cusack stars as                 ... pos = 0.0   	neg = 0.0  
+6. He is the best at hi                 ... pos = 1.75  	neg = 0.5  
+7. Nick is at a great s                 ... pos = 0.0   	neg = 0.125
+8. He is very happy in                  ... pos = 1.5   	neg = 0.125
+9. One day, all of that                 ... pos = 0.0   	neg = 0    
+10. A new air traffic co                ... pos = 0.375 	neg = 0.125
+11. His name is Russell                 ... pos = 0.125 	neg = 0.25 
+12. Nick starts competin                ... pos = 0.0   	neg = 0.625
+13. For the rest of the                 ... pos = 0.0   	neg = 0.125
+14. Sometimes this is fu                ... pos = 1.0   	neg = 0.25 
+15. At first it is all f                ... pos = 0.25  	neg = 1.0  
+16. Nick finds himself l                ... pos = 0.0   	neg = 0.0  
+17. He even cheats on Co                ... pos = 0.0   	neg = 0.0  
+18. From the point where                ... pos = 0.625 	neg = 0.0  
+19. The entire concept o                ... pos = 0.0   	neg = 0.125
+20. It was neat to see s                ... pos = 0.125 	neg = 0.5  
+21. It's not often I wal                ... pos = 0.0   	neg = 0.0  
+22. The 3-D scenes that                 ... pos = 0.125 	neg = 0.125
+23. I thought this was v                ... pos = 0.875 	neg = 0.125
+24. The writing in Pushi                ... pos = 0.0   	neg = 0.75 
+25. There are so many sc                ... pos = 0.25  	neg = 0.0  
+26. At least twenty minu                ... pos = 0.0   	neg = 0.125
+27. If scenes like the p                ... pos = 0.125 	neg = 1.0  
+28. Due to the amount of                ... pos = 0.375 	neg = 0.75 
+29. The running time is                 ... pos = 0.5   	neg = 0.75 
+30. Other than the writi                ... pos = 0.0   	neg = 0.25 
+31. The sound really add                ... pos = 0.0   	neg = 0.0  
+32. The sounds of airpla                ... pos = 0.0   	neg = 0.625
+33. The filmmakers turne                ... pos = 1.0   	neg = 0.125
+34. The strongest part i                ... pos = 1.25  	neg = 0.125
+35. John Cusack, who has                ... pos = 1.125 	neg = 0.875
+36. He got to go a lot o                ... pos = 1.5   	neg = 0.0  
+37. Billy Bob Thornton i                ... pos = 1.5   	neg = 0.25 
+38. (A-) Thornton's char                ... pos = 1.0   	neg = 0.5  
+39. Also taking a step d                ... pos = 0.125 	neg = 0.125
+40. (A+) She is very goo                ... pos = 2.25  	neg = 0.375
+41. Angelina Jolie, who                 ... pos = 1.25  	neg = 0.375
+42. We didn't get to se                 ... pos = 0.125 	neg = 0.875
+43. The Bottom Line- The                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1788-864 is Positive         ... pos = 22.75 	neg = 13.125
+Overall score of document
+Total Pos = 22.75
+Total Neg = 13.125
+---------------------------------------------------------------------------

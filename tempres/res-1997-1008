@@ -1,0 +1,54 @@
+0. ***1/2 (out of 4) Th                 ... pos = 0.875 	neg = 0.0  
+1. War movies now show                  ... pos = 0.625 	neg = 0.0  
+2. But before, once upo                 ... pos = 0.25  	neg = 0.125
+3. By providing an inhu                 ... pos = 0.25  	neg = 0.125
+4. STARSHIP TROOPERS is                 ... pos = 0.375 	neg = 0.25 
+5. Like GATTACA, only i                 ... pos = 0.0   	neg = 0.125
+6. What are the convent                 ... pos = 0.25  	neg = 0    
+7. A big cast.                          ... pos = 0.0   	neg = 0.0  
+8. Lots of characters w                 ... pos = 1.0   	neg = 0.25 
+9. Caricatured people f                 ... pos = 1.0   	neg = 0.0  
+10. Clear class demarcat                ... pos = 0.0   	neg = 0.625
+11. Big, well-choreograp                ... pos = 0.0   	neg = 0.0  
+12. Characters growing f                ... pos = 0.875 	neg = 0.0  
+13. " The African-Americ                ... pos = 0.125 	neg = 0    
+14. War-inspired racism.                ... pos = 0.0   	neg = 0    
+15. This movie has them                 ... pos = 0.0   	neg = 0.0  
+16. Our heroes (Carmen [                ... pos = 0.25  	neg = 0.25 
+17. There are many optio                ... pos = 0.25  	neg = 0.125
+18. Our side needs you;                 ... pos = 0.625 	neg = 0.25 
+19. Being the right age                 ... pos = 1.75  	neg = 0.125
+20. To really spark the                 ... pos = 0.5   	neg = 0.0  
+21. Making it even more                 ... pos = 0.25  	neg = 1.125
+22. None of the awful de                ... pos = 0.5   	neg = 1.5  
+23. They're doing it as                 ... pos = 0.806 	neg = 0.0  
+24. The movie is really                 ... pos = 0.0   	neg = 1.375
+25. But Verhoeven doesn'                ... pos = 0.75  	neg = 0.0  
+26. For example, a newsr                ... pos = 0.125 	neg = 0.875
+27. Another newsreel ref                ... pos = 0.25  	neg = 0.25 
+28. Another newsreel enc                ... pos = 0.125 	neg = 1.0  
+29. These subjects are a                ... pos = 1.25  	neg = 1.0  
+30. (That's why you shou                ... pos = 0.0   	neg = 0.0  
+31. ) . The world of STA                ... pos = 0.0   	neg = 0.125
+32. Details about milita                ... pos = 0.875 	neg = 0.125
+33. For example, a civil                ... pos = 0.0   	neg = 0.375
+34. Democracy failed and                ... pos = 0.125 	neg = 0.125
+35. These details seem u                ... pos = 0.625 	neg = 0.25 
+36. Clearly, this movie                 ... pos = 0.5   	neg = 0.5  
+37. A bug stampede aroun                ... pos = 0.0   	neg = 0.0  
+38. Battle scenes at an                 ... pos = 0.5   	neg = 0.375
+39. But if you have a ta                ... pos = 0.0   	neg = 0.125
+40. The special effects                 ... pos = 0.25  	neg = 0.625
+41. A friend of mine onc                ... pos = 0.125 	neg = 0.125
+42. Any young man who fe                ... pos = 0.25  	neg = 0.75 
+43. The rest of us could                ... pos = 0.125 	neg = 0.0  
+44. Really, that's what                 ... pos = 0.0   	neg = 0.125
+45. It gives itself enou                ... pos = 1.125 	neg = 0.0  
+46. Intellectually, I ca                ... pos = 0.5   	neg = 0.75 
+47. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-1008 is Positive        ... pos = 18.056 	neg = 13.75
+Overall score of document
+Total Pos = 18.056
+Total Neg = 13.75
+---------------------------------------------------------------------------

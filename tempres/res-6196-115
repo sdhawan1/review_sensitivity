@@ -1,0 +1,42 @@
+0. There are a couple o                 ... pos = 0.375 	neg = 0.375
+1. I'm not talking abou                 ... pos = 0.0   	neg = 0.25 
+2. Rather, I'm talking                  ... pos = 1.0   	neg = 0.375
+3. Before tonight, I ha                 ... pos = 0.0   	neg = 0.375
+4. And I'd heard about                  ... pos = 0.125 	neg = 0.125
+5. The hype, not surpri                 ... pos = 0.125 	neg = 0.0  
+6. The movie's not bad                  ... pos = 0.875 	neg = 0.875
+7. It's more observant,                 ... pos = 0.5   	neg = 0.0  
+8. But most of the film                 ... pos = 0.0   	neg = 0.5  
+9. We already saw the h                 ... pos = 0.0   	neg = 0.875
+10. We know why the movi                ... pos = 0.0   	neg = 0.125
+11. And worst of all, TV                ... pos = 1.375 	neg = 0.375
+12. I can understand why                ... pos = 1.25  	neg = 1.125
+13. While some of the ma                ... pos = 3.25  	neg = 0.375
+14. Most typical of the                 ... pos = 0.25  	neg = 0.5  
+15. There is also a hard                ... pos = 1.0   	neg = 0.625
+16. But Natasha Lyonne a                ... pos = 0.125 	neg = 0.0  
+17. Lyonne, who was appe                ... pos = 1.375 	neg = 0.375
+18. But Hannigan, known                 ... pos = 0.25  	neg = 0.0  
+19. Most of the cast is                 ... pos = 0.75  	neg = 0.125
+20. Eddie Kaye Thomas, w                ... pos = 0.875 	neg = 0.125
+21. He's believable as a                ... pos = 0.625 	neg = 0.625
+22. Chris Klein may be t                ... pos = 0.75  	neg = 0.375
+23. Although I think it'                ... pos = 0.875 	neg = 0.125
+24. Teens and pre-teens                 ... pos = 0.75  	neg = 1.0  
+25. These kids didn't se                ... pos = 0.125 	neg = 0.5  
+26. But the aspect of th                ... pos = 0.125 	neg = 0.375
+27. " It's full of sex t                ... pos = 0.0   	neg = 0.375
+28. In the end it turns                 ... pos = 1.125 	neg = 0.0  
+29. But what, honestly,                 ... pos = 0.0   	neg = 0.0  
+30. The heroes finally g                ... pos = 0.75  	neg = 0.25 
+31. Of course it ends wi                ... pos = 0.625 	neg = 0.0  
+32. Even if they do all                 ... pos = 0.0   	neg = 0.0  
+33. That's how all teen                 ... pos = 0.0   	neg = 0.0  
+34. Bryan Frankenseuss T                ... pos = 0.0   	neg = 0    
+35. " --Chuck D. .                      ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6196-115 is Positive         ... pos = 19.25 	neg = 11.125
+Overall score of document
+Total Pos = 19.25
+Total Neg = 11.125
+---------------------------------------------------------------------------

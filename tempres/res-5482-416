@@ -1,0 +1,27 @@
+0. Ingredients: Fugitiv                 ... pos = 0.0   	neg = 0.0  
+1. Marshal and his comp                 ... pos = 0.5   	neg = 0.0  
+2. Marshal Sam Gerard (                 ... pos = 1.25  	neg = 0.125
+3. Marshal Gerard immed                 ... pos = 1.25  	neg = 0.375
+4. And why have the Fed                 ... pos = 0.0   	neg = 0.0  
+5. Will Gerard catch Sh                 ... pos = 0.125 	neg = 0.0  
+6. Will Sheridan be abl                 ... pos = 0.25  	neg = 0.375
+7. Will everyone finall                 ... pos = 0.125 	neg = 0.0  
+8. Opinion: This is a p                 ... pos = 0.0   	neg = 0.375
+9. There's a great plan                 ... pos = 0.75  	neg = 0.75 
+10. Gerard and Sheridan                 ... pos = 0.75  	neg = 0.0  
+11. The dialogue is shar                ... pos = 1.125 	neg = 0.125
+12. The chases are excit                ... pos = 1.5   	neg = 0.25 
+13. I especially loved S                ... pos = 0.5   	neg = 0.375
+14. There are some glitc                ... pos = 0.25  	neg = 0.0  
+15. For example Sheridan                ... pos = 1.125 	neg = 0.0  
+16. Another time, a capt                ... pos = 0.5   	neg = 0.625
+17. And we still aren't                 ... pos = 0.25  	neg = 0.125
+18. Finally, U.S.                       ... pos = 0.0   	neg = 0    
+19. MARSHALS would have                 ... pos = 0.5   	neg = 0.25 
+20. These nagging detail                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5482-416 is Positive         ... pos = 10.875 	neg = 4.125
+Overall score of document
+Total Pos = 10.875
+Total Neg = 4.125
+---------------------------------------------------------------------------

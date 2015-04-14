@@ -1,0 +1,25 @@
+0. Review by Laurence M                 ... pos = 0.0   	neg = 0.0  
+1. Hunter S. Thompson's                 ... pos = 0.75  	neg = 1.375
+2. Soon after the book                  ... pos = 1.375 	neg = 0.125
+3. And that is the prob                 ... pos = 0.375 	neg = 0.75 
+4. ) Although the book                  ... pos = 0.0   	neg = 0.125
+5. " .         The main                 ... pos = 0.5   	neg = 0.75 
+6. It was written and e                 ... pos = 0.0   	neg = 0.125
+7. So although the book                 ... pos = 0.0   	neg = 0.25 
+8. Hunter S. Thomspon,                  ... pos = 0.625 	neg = 0.125
+9. Not so with the char                 ... pos = 1.25  	neg = 0.375
+10. Despite name changes                ... pos = 0.0   	neg = 0.125
+11. Unfortunately, this                 ... pos = 0.125 	neg = 1.125
+12. And the characters,                 ... pos = 3.375 	neg = 0.5  
+13. The film is very fai                ... pos = 1.75  	neg = 0.375
+14. From there, one set                 ... pos = 1.375 	neg = 0.375
+15. While the movie has                 ... pos = 0.0   	neg = 0.125
+16. Despite a lot of cel                ... pos = 0.0   	neg = 1.125
+17. The set decoration a                ... pos = 1.0   	neg = 0.0  
+18. However, as we all k                ... pos = 2.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3180-648 is Positive         ... pos = 15.0  	neg = 8.0  
+Overall score of document
+Total Pos = 15.0
+Total Neg = 8.0
+---------------------------------------------------------------------------

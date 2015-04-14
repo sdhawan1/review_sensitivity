@@ -1,0 +1,32 @@
+0. Starring Jared Leto;                 ... pos = 0.0   	neg = 0.5  
+1. I figured that I was                 ... pos = 1.0   	neg = 0.5  
+2. Well, I was very hap                 ... pos = 0.5   	neg = 1.125
+3. Apparently, films su                 ... pos = 0.375 	neg = 0.75 
+4. Don't get me wrong,                  ... pos = 1.75  	neg = 0.875
+5. Continuing the trend                 ... pos = 0.875 	neg = 0.25 
+6. Much like Scream, it                 ... pos = 0.75  	neg = 0.25 
+7. So enough analytical                 ... pos = 0.0   	neg = 0.25 
+8. Like all good slashe                 ... pos = 1.375 	neg = 0.375
+9. This particular homi                 ... pos = 0.625 	neg = 0.25 
+10. He recreates them in                ... pos = 0.625 	neg = 0.0  
+11. Now I certainly woul                ... pos = 0.25  	neg = 1.125
+12. In most cases you ca                ... pos = 0.0   	neg = 0.125
+13. Although, surprising                ... pos = 0.25  	neg = 0.25 
+14. The young cast is fi                ... pos = 0.125 	neg = 0.125
+15. Alicia Witt plays a                 ... pos = 0.0   	neg = 0.25 
+16. Rebecca Gayheart, is                ... pos = 0.5   	neg = 0.125
+17. Both actresses do a                 ... pos = 0.875 	neg = 0.0  
+18. They are joined by n                ... pos = 0.25  	neg = 0.0  
+19. Rounding out the cas                ... pos = 0.0   	neg = 0.125
+20. Much of what makes t                ... pos = 1.0   	neg = 0.5  
+21. While it is not up t                ... pos = 0.25  	neg = 0.25 
+22. Urban Legend also is                ... pos = 1.0   	neg = 0.125
+23. Urban Legend is far                 ... pos = 0.125 	neg = 0.125
+24. If you are in the mo                ... pos = 0.25  	neg = 0.125
+25. If, on the other han                ... pos = 0.625 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-5224-488 is Positive         ... pos = 13.375 	neg = 9.375
+Overall score of document
+Total Pos = 13.375
+Total Neg = 9.375
+---------------------------------------------------------------------------

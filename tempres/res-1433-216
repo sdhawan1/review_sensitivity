@@ -1,0 +1,53 @@
+0. A theater life has a                 ... pos = 0.25  	neg = 0.125
+1. In addition to the f                 ... pos = 0.75  	neg = 0.25 
+2. But for a young play                 ... pos = 0.5   	neg = 0.125
+3. "I fear I've lost my                 ... pos = 0.625 	neg = 0.0  
+4. ("Oh?                                ... pos = 0     	neg = 0    
+5. Who is she this week                 ... pos = 0.0   	neg = 0.125
+6. " he queries.                        ... pos = 0.0   	neg = 0.0  
+7. ).         Poor Will                 ... pos = 0.75  	neg = 0.25 
+8. Without a soulmate t                 ... pos = 0.0   	neg = 1.0  
+9. "  He explains his f                 ... pos = 0.25  	neg = 0.125
+10. This doesn't bode we                ... pos = 0.625 	neg = 0.0  
+11. Unless Will complete                ... pos = 0.625 	neg = 0.375
+12. Everyone's expecting                ... pos = 0.75  	neg = 0.375
+13. Shakespeare isn't th                ... pos = 0.125 	neg = 0.0  
+14. Across town, the lov                ... pos = 2.25  	neg = 0.375
+15. ("Stage love will ne                ... pos = 2.625 	neg = 0.125
+16. " she frets to her n                ... pos = 0.0   	neg = 0    
+17. )  Reflecting upon t                ... pos = 1.375 	neg = 1.0  
+18. Shortly thereafter,                 ... pos = 0.5   	neg = 0.25 
+19. The young man has a                 ... pos = 0.875 	neg = 0.0  
+20. Ah, but there's a tw                ... pos = 0.625 	neg = 0.5  
+21. Their relationship s                ... pos = 1.0   	neg = 0.125
+22. Channeling all his e                ... pos = 2.125 	neg = 0.0  
+23. The only thing that                 ... pos = 0.125 	neg = 0.375
+24. A brash young actor                 ... pos = 0.25  	neg = 0.0  
+25. '  Just a suggestion                ... pos = 0.0   	neg = 0.0  
+26. ".         "Shakespe                ... pos = 0.0   	neg = 0.125
+27. Poetic dialogue drip                ... pos = 0.125 	neg = 0.0  
+28. The story can be app                ... pos = 1.25  	neg = 0.375
+29. Those who are not ov                ... pos = 3.25  	neg = 0.375
+30. I say, a plague on b                ... pos = 0.0   	neg = 0.0  
+31. " and twists these w                ... pos = 0.375 	neg = 0.0  
+32. Don't forget the del                ... pos = 0.25  	neg = 0.625
+33. This is the rare mov                ... pos = 0.75  	neg = 0.375
+34. There's not a bad pe                ... pos = 0.0   	neg = 0.875
+35. Joseph Fiennes is a                 ... pos = 2.75  	neg = 0.25 
+36. But the show is posi                ... pos = 0.75  	neg = 0.125
+37. (Observe how Will tr                ... pos = 1.0   	neg = 1.0  
+38. "  It was one of man                ... pos = 0.0   	neg = 0.125
+39. ).         "Shakespe                ... pos = 0.875 	neg = 0.125
+40. Full of wit, humor,                 ... pos = 1.625 	neg = 0.875
+41. I imagine that a sop                ... pos = 0.875 	neg = 0.5  
+42. You might actually l                ... pos = 0.125 	neg = 1.0  
+43. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+44. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+45. Thanks.                             ... pos = 0.125 	neg = 0    
+46. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1433-216 is Positive         ... pos = 31.75 	neg = 12.375
+Overall score of document
+Total Pos = 31.75
+Total Neg = 12.375
+---------------------------------------------------------------------------

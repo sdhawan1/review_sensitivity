@@ -1,0 +1,44 @@
+0. by Curtis Edmonds --                 ... pos = 1.0   	neg = 0.0  
+1. But there is another                 ... pos = 0.0   	neg = 0.25 
+2. Cooper plays a down-                 ... pos = 0.0   	neg = 0.0  
+3. A newspaper reporter                 ... pos = 0.0   	neg = 0.0  
+4. Cooper ends up doing                 ... pos = 1.375 	neg = 0.375
+5. I mention the movie                  ... pos = 0.0   	neg = 0.0  
+6. There are lots of ba                 ... pos = 1.0   	neg = 2.875
+7. However, I'll confes                 ... pos = 0.5   	neg = 1.125
+8. Costner -- who direc                 ... pos = 0.75  	neg = 0.5  
+9. The Postman's premis                 ... pos = 0.0   	neg = 0.125
+10. The only political p                ... pos = 0.125 	neg = 0.125
+11. (The group is called                ... pos = 0.375 	neg = 0.125
+12. )  Itinerant actor C                ... pos = 0.5   	neg = 0.25 
+13. Costner manages to e                ... pos = 0.0   	neg = 1.0  
+14. He finds shelter in                 ... pos = 0.25  	neg = 0.0  
+15. What happens next is                ... pos = 0.0   	neg = 0.125
+16. Costner tells the im                ... pos = 0.375 	neg = 0.125
+17. Just as in Meet John                ... pos = 0.75  	neg = 0.0  
+18. And just as the hope                ... pos = 0.625 	neg = 0.0  
+19. It's at this point t                ... pos = 1.125 	neg = 0.75 
+20. But there are a few                 ... pos = 1.125 	neg = 1.25 
+21. Costner is a fine ac                ... pos = 0.5   	neg = 0.375
+22. He's a much better c                ... pos = 0.125 	neg = 0.0  
+23. Just as in Dances Wi                ... pos = 2.125 	neg = 0.625
+24. Patton, sporting a C                ... pos = 1.25  	neg = 0.375
+25. As for the rest of t                ... pos = 0.0   	neg = 0.0  
+26. The other characters                ... pos = 1.125 	neg = 0.5  
+27. There are a couple o                ... pos = 0.875 	neg = 1.125
+28. )  And where the no-                ... pos = 0.375 	neg = 1.25 
+29. I'm not a fan of mov                ... pos = 0.0   	neg = 0.875
+30. I think it's a mista                ... pos = 1.625 	neg = 0.625
+31. But if you're going                 ... pos = 1.0   	neg = 0.75 
+32. The Postman is at le                ... pos = 0.375 	neg = 1.0  
+33. (But be sure to rent                ... pos = 0.25  	neg = 0.125
+34. ). The Hollywood Sto                ... pos = 0.0   	neg = 0.25 
+35. Whining is a virus,                 ... pos = 0.0   	neg = 1.0  
+36. I refuse to listen t                ... pos = 0.0   	neg = 0.375
+37. ".   --  Peter Hoeg,                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4039-1045 is Positive        ... pos = 19.5  	neg = 18.25
+Overall score of document
+Total Pos = 19.5
+Total Neg = 18.25
+---------------------------------------------------------------------------

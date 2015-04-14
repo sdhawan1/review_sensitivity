@@ -1,0 +1,48 @@
+0. The world of interna                 ... pos = 0.125 	neg = 0.25 
+1. Steven Soderbergh's                  ... pos = 0.125 	neg = 0.0  
+2. Soderbergh, since hi                 ... pos = 0.625 	neg = 0.125
+3. He not only proves t                 ... pos = 0.5   	neg = 1.0  
+4. On the heels of the                  ... pos = 0.375 	neg = 0.0  
+5. The huge ensemble ca                 ... pos = 1.25  	neg = 0.25 
+6. Mexican cop Javier R                 ... pos = 0.125 	neg = 0.25 
+7. Their job is to dest                 ... pos = 0.583 	neg = 0.25 
+8. Across the border, p                 ... pos = 0.375 	neg = 0.375
+9. Her greatest fear in                 ... pos = 1.375 	neg = 0.375
+10. She is in hock to th                ... pos = 0.25  	neg = 0.125
+11. Michael Douglas is O                ... pos = 0.875 	neg = 0.125
+12. While Wakefield thro                ... pos = 0.0   	neg = 0.375
+13. For Caroline, it is                 ... pos = 1.0   	neg = 0.25 
+14. Undercover DEA agent                ... pos = 0.0   	neg = 0.25 
+15. They bust mid-level                 ... pos = 0.375 	neg = 0.0  
+16. From here, the stori                ... pos = 1.125 	neg = 0.0  
+17. Soderbergh musters t                ... pos = 0.625 	neg = 0.625
+18. Michael Douglas and                 ... pos = 0.375 	neg = 0.25 
+19. The beauty about the                ... pos = 1.375 	neg = 0.125
+20. Without a great deal                ... pos = 0.25  	neg = 0.0  
+21. This is a combinatio                ... pos = 0.25  	neg = 0.125
+22. Catherine Zeta-Jones                ... pos = 0.625 	neg = 0.125
+23. The pretty actress i                ... pos = 0.875 	neg = 0.25 
+24. The confused, scared                ... pos = 0.75  	neg = 0.25 
+25. As Helena takes cont                ... pos = 0.5   	neg = 0    
+26. When she orders, "I                 ... pos = 0.125 	neg = 0.25 
+27. It's the first film                 ... pos = 0.375 	neg = 0.125
+28. Don Cheadle and Luis                ... pos = 0.375 	neg = 0.0  
+29. They have the more m                ... pos = 0.0   	neg = 0.0  
+30. This part of the tal                ... pos = 0.125 	neg = 0.75 
+31. There are, as I said                ... pos = 0.25  	neg = 0.75 
+32. Dennis Quaid is a pr                ... pos = 1.25  	neg = 0.125
+33. Amy Irving is effect                ... pos = 0.25  	neg = 0.125
+34. Tech credits are the                ... pos = 0.625 	neg = 0.0  
+35. Photography, by Sode                ... pos = 0.0   	neg = 0.875
+36. The rest of the tech                ... pos = 0.25  	neg = 0.0  
+37. Stephen Gaghan's scr                ... pos = 0.25  	neg = 0.125
+38. Steven Soderbergh gi                ... pos = 0.125 	neg = 0.0  
+39. Instead, he produced                ... pos = 0.75  	neg = 0.0  
+40. I give "Traffic" an                 ... pos = 0.0   	neg = 0.0  
+41. For more Reeing revi                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3669-1594 is Positive        ... pos = 19.458 	neg = 8.875
+Overall score of document
+Total Pos = 19.458
+Total Neg = 8.875
+---------------------------------------------------------------------------

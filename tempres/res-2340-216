@@ -1,0 +1,38 @@
+0. "October Sky" is a c                 ... pos = 1.125 	neg = 0.125
+1. Based on the true st                 ... pos = 1.5   	neg = 0.25 
+2. It's a tale rooted i                 ... pos = 1.125 	neg = 0.25 
+3. ".         It's Octo                 ... pos = 0.5   	neg = 0.125
+4. Most of his fellow t                 ... pos = 0.375 	neg = 0.0  
+5. " frets a nervous ho                 ... pos = 0.125 	neg = 0    
+6. But Homer is not a t                 ... pos = 0.25  	neg = 0.75 
+7. So taken with these                  ... pos = 0.375 	neg = 0.0  
+8. Most of his friends                  ... pos = 1.375 	neg = 0.375
+9. Working with supplie                 ... pos = 0.0   	neg = 0.125
+10. The name is an unfor                ... pos = 0.875 	neg = 1.0  
+11. They have the drive                 ... pos = 0.0   	neg = 0.5  
+12. He desperately wishe                ... pos = 0.25  	neg = 0.25 
+13. Homer is not the ath                ... pos = 1.0   	neg = 0.125
+14. Although his mother                 ... pos = 1.75  	neg = 0.5  
+15. Father and son do no                ... pos = 2.0   	neg = 0.0  
+16. The film handles the                ... pos = 0.625 	neg = 0    
+17. John expects Homer t                ... pos = 0.375 	neg = 0.5  
+18. John doesn't realize                ... pos = 2.375 	neg = 0.125
+19. The relationship bet                ... pos = 0.375 	neg = 0    
+20. Their lives are an i                ... pos = 1.0   	neg = 0.0  
+21. It's no surprise tha                ... pos = 0.0   	neg = 1.25 
+22. If the final reconci                ... pos = 0.25  	neg = 1.25 
+23. "October Sky" contai                ... pos = 1.75  	neg = 0.125
+24. (A nice touch: the c                ... pos = 0.0   	neg = 0.125
+25. )  But sadly, Roy Le                ... pos = 0.875 	neg = 0.875
+26. Neither boy does any                ... pos = 0.25  	neg = 0.25 
+27. I would've liked to                 ... pos = 0.125 	neg = 0.25 
+28. If we remove the inc                ... pos = 1.5   	neg = 0.125
+29. On a larger level, i                ... pos = 0.5   	neg = 0.0  
+30. In that sense, "Octo                ... pos = 0.25  	neg = 0.125
+31. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2340-216 is Positive         ... pos = 23.25 	neg = 9.375
+Overall score of document
+Total Pos = 23.25
+Total Neg = 9.375
+---------------------------------------------------------------------------

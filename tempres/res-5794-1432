@@ -1,0 +1,28 @@
+0. I've looked forward                  ... pos = 0.375 	neg = 0.0  
+1. On this score, MARS                  ... pos = 0.0   	neg = 0.125
+2. doesn't disappoint                   ... pos = 0.125 	neg = 0.5  
+3. Unfortunately, it's                  ... pos = 0.5   	neg = 0.875
+4. The story, inspired                  ... pos = 0.125 	neg = 0.25 
+5. The US president (Ja                 ... pos = 0.75  	neg = 0.0  
+6. He isn't the only on                 ... pos = 1.75  	neg = 0.0  
+7. If you think this so                 ... pos = 0.5   	neg = 0.125
+8. ID4 was a megahit of                 ... pos = 0.125 	neg = 0.5  
+9. MARS ATTACKS!                        ... pos = 0     	neg = 0.125
+10. is deliberately chee                ... pos = 0.75  	neg = 1.0  
+11. But Burton's film ha                ... pos = 0.0   	neg = 0.125
+12. While the aliens of                 ... pos = 0.5   	neg = 0.25 
+13. work on a more.....*                ... pos = 0.0   	neg = 0.0  
+14. It is at the point w                ... pos = 0.375 	neg = 0.125
+15. Under any other circ                ... pos = 0.5   	neg = 0.25 
+16. It's very likely tha                ... pos = 0.5   	neg = 0.125
+17. won't be as funny as                ... pos = 0.5   	neg = 0.25 
+18. The main reason to s                ... pos = 0.0   	neg = 0.125
+19. And of course, there                ... pos = 0.375 	neg = 0.625
+20. Fox, Sarah Jessica P                ... pos = 0.0   	neg = 0.0  
+21. It's amazing that th                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5794-1432 is Positive        ... pos = 7.875 	neg = 5.5  
+Overall score of document
+Total Pos = 7.875
+Total Neg = 5.5
+---------------------------------------------------------------------------

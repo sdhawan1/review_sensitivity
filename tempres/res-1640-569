@@ -1,0 +1,38 @@
+0. Director: Che-Kirk W                 ... pos = 0.625 	neg = 1.25 
+1. The movie is infecte                 ... pos = 0.25  	neg = 1.125
+2. Presumably, "The Big                 ... pos = 0.0   	neg = 0.75 
+3. Movies of this sort                  ... pos = 0.875 	neg = 0.125
+4. "Lethal Weapon 2" (1                 ... pos = 1.0   	neg = 0.25 
+5. Unfortunately, in "T                 ... pos = 0.0   	neg = 1.25 
+6. Unfortunately, there                 ... pos = 0.25  	neg = 1.125
+7. The movie resembles                  ... pos = 0.5   	neg = 0.625
+8. Instead, we are left                 ... pos = 0.875 	neg = 0.25 
+9. " However, if he wan                 ... pos = 0.5   	neg = 0.375
+10. Wahlberg plays Melvi                ... pos = 1.25  	neg = 0.125
+11. The movie wants us t                ... pos = 1.375 	neg = 0.0  
+12. " The fact is, Melvi                ... pos = 0.5   	neg = 1.875
+13. His constant bending                ... pos = 1.25  	neg = 0.5  
+14. Melvin is employed e                ... pos = 0.25  	neg = 0.5  
+15. One day, Melvin agre                ... pos = 0.375 	neg = 0.125
+16. However, not only ha                ... pos = 0.125 	neg = 0.25 
+17. ), but his kidnapped                ... pos = 0.0   	neg = 0.125
+18. So, when Paris finds                ... pos = 0.0   	neg = 0.125
+19. Not knowing the Cisc                ... pos = 0.0   	neg = 0.125
+20. Of course Cisco blam                ... pos = 0.125 	neg = 0.5  
+21. Along the way, there                ... pos = 0.375 	neg = 0.875
+22. What the movie passe                ... pos = 0.125 	neg = 1.625
+23. Not to mention the p                ... pos = 0.125 	neg = 0.625
+24. This mess of a movie                ... pos = 0.0   	neg = 0.125
+25. Woo needs to stop ac                ... pos = 0.0   	neg = 0.125
+26. Wong, who directed s                ... pos = 0.0   	neg = 0.125
+27. Maybe jokes about ve                ... pos = 0.25  	neg = 0.75 
+28. Many of the problems                ... pos = 0.125 	neg = 0.5  
+29. In addition to his v                ... pos = 0.375 	neg = 1.125
+30. What he comes out wi                ... pos = 0.0   	neg = 0.75 
+31. The irritation facto                ... pos = 0.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-1640-569 is Negative         ... pos = 11.625 	neg = 18.875
+Overall score of document
+Total Pos = 11.625
+Total Neg = 18.875
+---------------------------------------------------------------------------

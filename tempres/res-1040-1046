@@ -1,0 +1,36 @@
+0. John Carpenter is a                  ... pos = 0.25  	neg = 0.125
+1. He made the original                 ... pos = 1.0   	neg = 1.0  
+2. He also misfires, as                 ... pos = 0.25  	neg = 0.875
+3. VAMPIRES is another                  ... pos = 0.0   	neg = 0.25 
+4. The film stars James                 ... pos = 1.125 	neg = 0.0  
+5. He's being retained                  ... pos = 0.5   	neg = 0.0  
+6. He and his team of h                 ... pos = 0.0   	neg = 0.125
+7. The movie doesn't co                 ... pos = 0.375 	neg = 0.25 
+8. One night they get t                 ... pos = 0.125 	neg = 0.125
+9. He staggers off into                 ... pos = 0.125 	neg = 0.75 
+10. Are there more vamps                ... pos = 0.25  	neg = 0.0  
+11. For the most part th                ... pos = 0.25  	neg = 0.75 
+12. Part of the plot inv                ... pos = 0.0   	neg = 0.25 
+13. This woman is forced                ... pos = 0.0   	neg = 0.125
+14. She's humiliated, be                ... pos = 0.0   	neg = 0.125
+15. Worse, the movie lin                ... pos = 0.875 	neg = 0.625
+16. Woods plays Crow to                 ... pos = 0.875 	neg = 1.125
+17. The man is unrepenta                ... pos = 0.0   	neg = 0.375
+18. Fine, except the mov                ... pos = 0.5   	neg = 0.0  
+19. We see him beat a pr                ... pos = 0.0   	neg = 0.5  
+20. Later, he stuffs a w                ... pos = 0.0   	neg = 0.25 
+21. And then he says thi                ... pos = 0.0   	neg = 0.125
+22. "  He also uses the                 ... pos = 0.25  	neg = 0.375
+23. In a movie that took                ... pos = 0.25  	neg = 0.75 
+24. They do not in this                 ... pos = 0.0   	neg = 0.0  
+25. On a technical level                ... pos = 0.5   	neg = 0.0  
+26. It also terminates o                ... pos = 0.0   	neg = 0.75 
+27. If you knew your bud                ... pos = 0.0   	neg = 0.5  
+28. But I guess complain                ... pos = 0.25  	neg = 0.5  
+29. VAMPIRES really only                ... pos = 0.875 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1040-1046 is Negative        ... pos = 8.625 	neg = 11.0 
+Overall score of document
+Total Pos = 8.625
+Total Neg = 11.0
+---------------------------------------------------------------------------

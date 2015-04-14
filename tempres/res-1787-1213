@@ -1,0 +1,46 @@
+0. Starring Brendan Fra                 ... pos = 0.0   	neg = 0.0  
+1. Directed By Stephen                  ... pos = 0.125 	neg = 0.0  
+2. Three Universal stud                 ... pos = 0.25  	neg = 0.5  
+3. EXEC TWO: Hell, I kn                 ... pos = 0     	neg = 0.5  
+4. What the heck are we                 ... pos = 0.25  	neg = 0.0  
+5. EXEC THREE: Hey, I h                 ... pos = 0.0   	neg = 0.0  
+6. ' It had Doris Karlo                 ... pos = 0.0   	neg = 0.0  
+7. You guys seen this m                 ... pos = 0.0   	neg = 0.0  
+8. EXEC THREE: That's o                 ... pos = 0     	neg = 0.375
+9. So how about we just                 ... pos = 0.875 	neg = 0.125
+10. Frickin' excellent i                ... pos = 1.0   	neg = 0.0  
+11. EXEC ONE: Holy mothe                ... pos = 0.0   	neg = 0.0  
+12. We don't have to rel                ... pos = 0.0   	neg = 0.0  
+13. We'll just fill it w                ... pos = 0.75  	neg = 0.25 
+14. EXEC TWO: Yeah!                     ... pos = 0     	neg = 0.0  
+15. YEAH!                               ... pos = 0     	neg = 0    
+16. And let's get a corn                ... pos = 0.625 	neg = 0.375
+17. ' And the rest of th                ... pos = 0.0   	neg = 0.0  
+18. '. EXEC THREE: Yeah,                ... pos = 0.25  	neg = 0.0  
+19. Now, we'll need to h                ... pos = 0.0   	neg = 0.75 
+20. We can't afford Harr                ... pos = 0.25  	neg = 0.125
+21. I'm sure he can do a                ... pos = 0.25  	neg = 0.0  
+22. And brit chick is in                ... pos = 0.0   	neg = 0.5  
+23. She has a English ac                ... pos = 0.0   	neg = 0.0  
+24. And we'll have John                 ... pos = 0.0   	neg = 0.625
+25. We'll need someone p                ... pos = 0.125 	neg = 0.5  
+26. Total cast price: $1                ... pos = 0.0   	neg = 0.0  
+27. EXEC ONE: O.K, direc                ... pos = 0     	neg = 0.0  
+28. I think Mummy, I thi                ... pos = 0.0   	neg = 0.125
+29. Now we can't get Spi                ... pos = 0.75  	neg = 0.0  
+30. I know...how about..                ... pos = 0.0   	neg = 0.125
+31. He can put together                 ... pos = 0.5   	neg = 0.25 
+32. EXEC TWO: I'm loving                ... pos = 0.5   	neg = 0.0  
+33. And let's introduce                 ... pos = 0.0   	neg = 0.25 
+34. EXEC THREE:  Bonza!                 ... pos = 0     	neg = 0.0  
+35. I'll go tell the bos                ... pos = 0.0   	neg = 0.0  
+36. Well, there you have                ... pos = 0.0   	neg = 0.125
+37. The Mummy is, no dou                ... pos = 0.0   	neg = 2.125
+38. But the film is good                ... pos = 0.75  	neg = 0.25 
+39. If you turn your bra                ... pos = 0.875 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-1787-1213 is Negative        ... pos = 8.125 	neg = 9.0  
+Overall score of document
+Total Pos = 8.125
+Total Neg = 9.0
+---------------------------------------------------------------------------

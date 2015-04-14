@@ -1,0 +1,40 @@
+0. Seen 19 June 1998 wi                 ... pos = 0.25  	neg = 0.0  
+1. Those who are fans o                 ... pos = 0.25  	neg = 0.0  
+2. But the truth is now                 ... pos = 0.5   	neg = 0.125
+3. Either category of p                 ... pos = 0.625 	neg = 0.25 
+4. The good news is tha                 ... pos = 0.75  	neg = 1.0  
+5. As action-adventure                  ... pos = 0.375 	neg = 0.0  
+6. X Files novice Byron                 ... pos = 0.875 	neg = 0.125
+7. The rapport with Spe                 ... pos = 0.0   	neg = 0.125
+8. So are the paranoia                  ... pos = 0.25  	neg = 0.0  
+9. So are the colors.                   ... pos = 0.25  	neg = 0.0  
+10. That brings me to my                ... pos = 0.0   	neg = 0.0  
+11. Director Rob Bowman                 ... pos = 0.25  	neg = 0.0  
+12. The filming is clear                ... pos = 0.375 	neg = 0.125
+13. The films combines t                ... pos = 1.375 	neg = 0.0  
+14. The only time the fi                ... pos = 0.0   	neg = 0.5  
+15. Bowman's lens can be                ... pos = 0.0   	neg = 0.125
+16. But the story: Well,                ... pos = 1.125 	neg = 0.125
+17. But, some of the bas                ... pos = 0.0   	neg = 0.125
+18. There *are* aliens,                 ... pos = 0.0   	neg = 0.0  
+19. Also problematic are                ... pos = 0.375 	neg = 0.0  
+20. But, there is a lot                 ... pos = 0.125 	neg = 1.375
+21. The special effects                 ... pos = 1.25  	neg = 1.0  
+22. A lot of regular cas                ... pos = 1.5   	neg = 0.0  
+23. There are some notab                ... pos = 0.25  	neg = 1.0  
+24. The most wasted tale                ... pos = 1.25  	neg = 0.75 
+25. So, the choice is yo                ... pos = 0.0   	neg = 0.125
+26. Fans of the show are                ... pos = 0.25  	neg = 0.125
+27. I would advise them                 ... pos = 0.0   	neg = 0.0  
+28. But, don't expect a                 ... pos = 0.0   	neg = 0.0  
+29. You won't get them.                 ... pos = 0     	neg = 0.0  
+30. Best Moment in the F                ... pos = 0.625 	neg = 0.0  
+31. It is a defining mom                ... pos = 0.0   	neg = 0.125
+32. Written by Chris Car                ... pos = 0.0   	neg = 0.0  
+33. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2979-92 is Positive          ... pos = 12.875 	neg = 7.25 
+Overall score of document
+Total Pos = 12.875
+Total Neg = 7.25
+---------------------------------------------------------------------------

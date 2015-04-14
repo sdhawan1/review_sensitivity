@@ -1,0 +1,30 @@
+0. David Lynch's movies                 ... pos = 0.0   	neg = 0.375
+1. Ever since Lynch's m                 ... pos = 0.375 	neg = 0.0  
+2. Luckily, David Lynch                 ... pos = 0.5   	neg = 0.125
+3. I won't dig deep int                 ... pos = 0.375 	neg = 0.625
+4. The movie starts wit                 ... pos = 0.0   	neg = 0.0  
+5. The couple get a ser                 ... pos = 0.0   	neg = 0.25 
+6. By the end of the mo                 ... pos = 0.375 	neg = 1.5  
+7. As is a trademark ch                 ... pos = 0.75  	neg = 0.25 
+8. The movie is origina                 ... pos = 0.375 	neg = 1.375
+9. I'm usually not the                  ... pos = 0.125 	neg = 0.125
+10. The cinematography b                ... pos = 0.0   	neg = 0    
+11. Not only are certain                ... pos = 0.625 	neg = 0.25 
+12. In certain first per                ... pos = 0.875 	neg = 0.125
+13. It's unbelievable.                  ... pos = 0     	neg = 0.0  
+14. "Lost Highway" has t                ... pos = 0.625 	neg = 0.25 
+15. Other critics have b                ... pos = 0.0   	neg = 0.875
+16. However, to truly en                ... pos = 1.5   	neg = 0.125
+17. We may get clues, bu                ... pos = 0.0   	neg = 0.25 
+18. To me, this bizarre                 ... pos = 1.125 	neg = 0.875
+19. On that same note, i                ... pos = 0.75  	neg = 0.125
+20. If it weren't for th                ... pos = 0.25  	neg = 0.0  
+21. Thus I warn fans of                 ... pos = 0.75  	neg = 0.5  
+22. people who hate movi                ... pos = 0.125 	neg = 0.125
+23. However, for the res                ... pos = 1.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5865-1580 is Positive        ... pos = 11.25 	neg = 8.25 
+Overall score of document
+Total Pos = 11.25
+Total Neg = 8.25
+---------------------------------------------------------------------------

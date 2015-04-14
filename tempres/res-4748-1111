@@ -1,0 +1,37 @@
+0. Featuring the voices                 ... pos = 1.0   	neg = 0.0  
+1. Anyone who says that                 ... pos = 1.125 	neg = 0.375
+2. In fact, Dreamworks                  ... pos = 0.25  	neg = 0.125
+3. Drafts of the script                 ... pos = 0.625 	neg = 0.375
+4. Quite miraculously,                  ... pos = 0.125 	neg = 0.0  
+5. Against all odds, th                 ... pos = 0.875 	neg = 0.25 
+6. The highlight of Pri                 ... pos = 2.875 	neg = 0.125
+7. One is Rameses (voic                 ... pos = 0.0   	neg = 0.25 
+8. The other is Moses (                 ... pos = 0.0   	neg = 0.5  
+9. By the time that Mos                 ... pos = 0.375 	neg = 0.375
+10. That's quite a story                ... pos = 0.0   	neg = 0.0  
+11. In my Babe: Pig in t                ... pos = 1.375 	neg = 0.875
+12. This film depicts th                ... pos = 1.0   	neg = 1.75 
+13. As Moses battles Ram                ... pos = 1.125 	neg = 0.25 
+14. Visually, The Prince                ... pos = 0.5   	neg = 0.125
+15. Just as Antz and A B                ... pos = 0.375 	neg = 0.0  
+16. Some moments of the                 ... pos = 1.125 	neg = 0.0  
+17. These scenes include                ... pos = 0.25  	neg = 0.0  
+18. However terrific the                ... pos = 0.875 	neg = 0.5  
+19. I haven't been this                 ... pos = 0.625 	neg = 0.125
+20. Whilst there are (th                ... pos = 0.875 	neg = 0.75 
+21. If you can imagine a                ... pos = 0.125 	neg = 0.625
+22. Some of the featured                ... pos = 0.75  	neg = 0.125
+23. These songs are grea                ... pos = 0.875 	neg = 0.0  
+24. I can honestly say t                ... pos = 0.125 	neg = 0.0  
+25. Val Kilmer and Ralph                ... pos = 0.625 	neg = 0.875
+26. This is the first an                ... pos = 0.375 	neg = 0.25 
+27. Which is strange, si                ... pos = 0.5   	neg = 0.25 
+28. As impressive as The                ... pos = 1.25  	neg = 0.25 
+29. This is cinema in it                ... pos = 0.375 	neg = 0.125
+30. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4748-1111 is Positive        ... pos = 20.625 	neg = 9.25 
+Overall score of document
+Total Pos = 20.625
+Total Neg = 9.25
+---------------------------------------------------------------------------

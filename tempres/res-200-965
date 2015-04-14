@@ -1,0 +1,40 @@
+0. Being John Malkovich                 ... pos = 0.875 	neg = 0.375
+1. Think Fisher King.                   ... pos = 0.125 	neg = 0.0  
+2. To look at it anothe                 ... pos = 0.375 	neg = 1.25 
+3. All of which comes d                 ... pos = 0.625 	neg = 0.0  
+4. Could Fisher King ha                 ... pos = 0.375 	neg = 0.25 
+5. Unlikely.                            ... pos = 0.0   	neg = 0    
+6. The same goes for Sp                 ... pos = 0.75  	neg = 1.0  
+7. And, in our hero Cra                 ... pos = 0.625 	neg = 0.0  
+8. Craig discovers this                 ... pos = 0.0   	neg = 0.25 
+9. Before Craig even ge                 ... pos = 0.5   	neg = 0.0  
+10. Of course not.                      ... pos = 0.0   	neg = 0.0  
+11. So when we see him c                ... pos = 0.625 	neg = 0.0  
+12. Or, the surprise is                 ... pos = 2.625 	neg = 0.375
+13. It's about survival,                ... pos = 1.125 	neg = 0.5  
+14. But so be it.                       ... pos = 0.0   	neg = 0.125
+15. She is beautiful, an                ... pos = 0.75  	neg = 0.125
+16. After all, this is a                ... pos = 1.5   	neg = 0.125
+17. And in comedy the fo                ... pos = 0.0   	neg = 0.125
+18. Causes don't make us                ... pos = 0.0   	neg = 0.0  
+19. They're the punchlin                ... pos = 0     	neg = 0    
+20. And Being John Malko                ... pos = 0.625 	neg = 0.0  
+21. of fame) to the high                ... pos = 3.125 	neg = 1.0  
+22. In the midst of all                 ... pos = 0.5   	neg = 0.25 
+23. But it's an entertai                ... pos = 0.125 	neg = 0.625
+24. And does it all work                ... pos = 0.0   	neg = 0    
+25. Yes.                                ... pos = 0     	neg = 0.0  
+26. One way of looking a                ... pos = 1.375 	neg = 1.375
+27. Another way of looki                ... pos = 1.25  	neg = 1.125
+28. And if that's not en                ... pos = 1.375 	neg = 0.75 
+29. The only other movie                ... pos = 1.25  	neg = 0.125
+30. There's simply nothi                ... pos = 0.0   	neg = 0.25 
+31. It's like finding yo                ... pos = 0.625 	neg = 0.25 
+32. Stay as long as you                 ... pos = 0.0   	neg = 0.375
+33. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-965 is Positive          ... pos = 21.125 	neg = 10.625
+Overall score of document
+Total Pos = 21.125
+Total Neg = 10.625
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. I wanted to review t                 ... pos = 0.625 	neg = 0.0  
+1. When Katzenberg left                 ... pos = 0.875 	neg = 1.0  
+2. Both films are fligh                 ... pos = 1.625 	neg = 0.0  
+3. Has Disney been beat                 ... pos = 0.0   	neg = 0.125
+4. With Katzenberg at t                 ... pos = 0.875 	neg = 0.125
+5. What follows is a de                 ... pos = 0.0   	neg = 0.125
+6. _Story_ Antz: It beg                 ... pos = 0.25  	neg = 0.75 
+7. Within time, he woul                 ... pos = 0.0   	neg = 0.25 
+8. Due to circumstances                 ... pos = 0.375 	neg = 0.0  
+9. Bugs: A colony is th                 ... pos = 0.5   	neg = 0.25 
+10. Flik (David Foley) o                ... pos = 0.0   	neg = 0.0  
+11. Unknown to him, the                 ... pos = 0.25  	neg = 0.125
+12. Guess who wins.                     ... pos = 0.125 	neg = 0.0  
+13. _Characters_ Antz: B                ... pos = 0.25  	neg = 0.375
+14. Further, we have a h                ... pos = 0.5   	neg = 0.25 
+15. Bugs: The Disneyfied                ... pos = 0.25  	neg = 0.25 
+16. Further, we are trea                ... pos = 0.625 	neg = 0.0  
+17. Also, a beautiful re                ... pos = 1.875 	neg = 0    
+18. No humans.                          ... pos = 0     	neg = 0.25 
+19. _Humor_ Antz: Its jo                ... pos = 0.125 	neg = 0.25 
+20. (Woody Allen isn't r                ... pos = 0.0   	neg = 0.0  
+21. Bugs: Far more slaps                ... pos = 0.25  	neg = 0    
+22. The amount of groane                ... pos = 0.875 	neg = 0.875
+23. The end credits, if                 ... pos = 0.125 	neg = 0.0  
+24. _Visual Style_ Antz:                ... pos = 1.0   	neg = 0.0  
+25. The face of the Z is                ... pos = 0.5   	neg = 0.125
+26. Bugs: Far brighter,                 ... pos = 0.0   	neg = 0.0  
+27. The bugs are disting                ... pos = 0.25  	neg = 0.0  
+28. Eyes are much bigger                ... pos = 0.875 	neg = 0.0  
+29. It appears that they                ... pos = 0.0   	neg = 0.25 
+30. _The Moral Of the St                ... pos = 0.625 	neg = 0.25 
+31. But is it just me, o                ... pos = 0.875 	neg = 0.5  
+32. Bugs: If you don't s                ... pos = 0.125 	neg = 0    
+33. You've probably neve                ... pos = 0.0   	neg = 0    
+34. _Summary_: Both film                ... pos = 1.375 	neg = 0.0  
+35. Of the two, I like _                ... pos = 0.0   	neg = 0.375
+36. Watching me groan fr                ... pos = 0.75  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-77-630 is Positive           ... pos = 16.75 	neg = 7.375
+Overall score of document
+Total Pos = 16.75
+Total Neg = 7.375
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. Scientists have posi                 ... pos = 0.0   	neg = 0.0  
+1. Mimi Leder's DEEP IM                 ... pos = 0.375 	neg = 0    
+2. While with his astro                 ... pos = 0.0   	neg = 0.125
+3. Wolf identifies the                  ... pos = 0.5   	neg = 0.125
+4. The United States go                 ... pos = 0.375 	neg = 0.375
+5. Soon thereafter, Pre                 ... pos = 1.0   	neg = 0.375
+6. What isn't destroyed                 ... pos = 0.875 	neg = 0.125
+7. On the bright side,                  ... pos = 0.0   	neg = 0.125
+8. Using the new nuclea                 ... pos = 0.875 	neg = 0.0  
+9. I'm not giving away                  ... pos = 1.125 	neg = 0.125
+10. The movie poster has                ... pos = 0.375 	neg = 0.0  
+11. The bulk of this fil                ... pos = 2.25  	neg = 0.25 
+12. What results is basi                ... pos = 0.0   	neg = 0.5  
+13. You see, DEEP IMPACT                ... pos = 0.25  	neg = 0.625
+14. Most disaster movies                ... pos = 0.0   	neg = 0.5  
+15. somewhere around the                ... pos = 1.125 	neg = 1.5  
+16. Remember METEOR from                ... pos = 0.125 	neg = 0    
+17. The premise was much                ... pos = 0.125 	neg = 0.25 
+18. However, throughout                 ... pos = 0.375 	neg = 0.625
+19. " No such luck with                 ... pos = 0.0   	neg = 0.375
+20. Instead, we just get                ... pos = 0.875 	neg = 0.125
+21. Like I said, a long                 ... pos = 0.0   	neg = 0.375
+22. The characters are f                ... pos = 1.5   	neg = 0.0  
+23. In a movie about the                ... pos = 0.0   	neg = 0.0  
+24. The Jenny Lerner cha                ... pos = 1.125 	neg = 0.75 
+25. Leo Biederman is pla                ... pos = 1.125 	neg = 0.375
+26. President Beck's cre                ... pos = 0.0   	neg = 1.75 
+27. What a waste of a co                ... pos = 0.125 	neg = 0.0  
+28. There are a few thin                ... pos = 0.5   	neg = 0.0  
+29. For example, while f                ... pos = 0.375 	neg = 0.0  
+30. A little while later                ... pos = 0.625 	neg = 0.375
+31. We have no idea of t                ... pos = 0.875 	neg = 0.25 
+32. The special effects,                ... pos = 1.875 	neg = 0.25 
+33. The big wave is prob                ... pos = 0.0   	neg = 0.125
+34. You know, every time                ... pos = 0.5   	neg = 1.25 
+35. Please.. .                          ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1674-781 is Positive         ... pos = 19.25 	neg = 11.625
+Overall score of document
+Total Pos = 19.25
+Total Neg = 11.625
+---------------------------------------------------------------------------

@@ -1,0 +1,67 @@
+0. In the new comedy/dr                 ... pos = 2.0   	neg = 0.25 
+1. Judi Dench has been                  ... pos = 2.0   	neg = 0.25 
+2. Shakespeare In Love                  ... pos = 0.875 	neg = 0.0  
+3. "  It is nice to see                 ... pos = 0.5   	neg = 0.25 
+4. For the first time i                 ... pos = 0.25  	neg = 0.375
+5. Shakespeare In Love                  ... pos = 0.625 	neg = 0.75 
+6. Joseph Finnes plays                  ... pos = 1.0   	neg = 0.0  
+7. When Phillip Henslow                 ... pos = 0.25  	neg = 0.75 
+8. He believes he has s                 ... pos = 0.125 	neg = 0.0  
+9. He starts to write a                 ... pos = 0.0   	neg = 0.0  
+10. "  He only has the t                ... pos = 2.0   	neg = 0.125
+11. He just stares when                 ... pos = 0.25  	neg = 0.0  
+12. He writes Act One of                ... pos = 0.0   	neg = 0.125
+13. He meets this lady a                ... pos = 0.125 	neg = 0.125
+14. They get along wonde                ... pos = 0.625 	neg = 0.0  
+15. Viola becomes a fan                 ... pos = 0.125 	neg = 0.25 
+16. "  Knowing that girl                ... pos = 0.25  	neg = 0.0  
+17. She wins the part, b                ... pos = 0.25  	neg = 0.5  
+18. He proceeds anyway,                 ... pos = 0.0   	neg = 0.125
+19. As Will and Viola fa                ... pos = 0.75  	neg = 0.25 
+20. Viola is informed th                ... pos = 0.0   	neg = 0.25 
+21. She is devastated th                ... pos = 0.125 	neg = 0.25 
+22. Queen Elizabeth, pla                ... pos = 0.875 	neg = 0.0  
+23. Will adds up all the                ... pos = 0.75  	neg = 0.0  
+24. "  Many people, espe                ... pos = 0.5   	neg = 0.0  
+25. Unfortunately, Viola                ... pos = 0.0   	neg = 0.875
+26. Queen Elizabeth info                ... pos = 0.5   	neg = 0.0  
+27. Although she is extr                ... pos = 0.75  	neg = 0.125
+28. Ben Affleck plays Ne                ... pos = 0.125 	neg = 0.0  
+29. "  He gives Will the                ... pos = 0.125 	neg = 0.0  
+30. "  This is where the                ... pos = 0.75  	neg = 0.125
+31. Will and Viola write                ... pos = 0.5   	neg = 0.0  
+32. They come up with th                ... pos = 1.125 	neg = 0.0  
+33. The actors continue                 ... pos = 0.125 	neg = 0.0  
+34. They are ready to pe                ... pos = 1.0   	neg = 0.375
+35. There is no one to p                ... pos = 0.0   	neg = 0.375
+36. Viola hears the news                ... pos = 0.0   	neg = 0.0  
+37. The performance goes                ... pos = 0.625 	neg = 0.0  
+38. A standing ovation i                ... pos = 1.625 	neg = 0.375
+39. Though many problems                ... pos = 1.375 	neg = 0.25 
+40. Everyone in the town                ... pos = 0.5   	neg = 0.0  
+41. The cast and charact                ... pos = 1.875 	neg = 0.0  
+42. The outfits were so                 ... pos = 0.125 	neg = 1.125
+43. The town, the theate                ... pos = 0.625 	neg = 0.25 
+44. Most period movies h                ... pos = 0.125 	neg = 0.75 
+45. The theater in parti                ... pos = 0.125 	neg = 0.125
+46. It didn't look the l                ... pos = 0.375 	neg = 0.375
+47. You could tell that                 ... pos = 2.875 	neg = 0.625
+48. The acting in Shakes                ... pos = 1.5   	neg = 0.125
+49. Gwyneth Paltrow, Jos                ... pos = 0.5   	neg = 0.125
+50. Gwyneth Paltrow adds                ... pos = 0.625 	neg = 0.125
+51. Joseph Fiennes prove                ... pos = 0.25  	neg = 0.0  
+52. Judi Dench just prov                ... pos = 0.0   	neg = 0.25 
+53. Ben Affleck shows he                ... pos = 0.875 	neg = 0.0  
+54. Geoffrey Rush shows                 ... pos = 0.375 	neg = 0.125
+55. Shine and Shakespear                ... pos = 1.0   	neg = 0.125
+56. Shakespeare In Love                 ... pos = 0.625 	neg = 0.875
+57. The acting was the b                ... pos = 0.75  	neg = 0.125
+58. The plot was also a                 ... pos = 0.0   	neg = 0.125
+59. It is very interesti                ... pos = 0.625 	neg = 0.125
+60. Overall, Shakespeare                ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1433-864 is Positive         ... pos = 37.875 	neg = 12.625
+Overall score of document
+Total Pos = 37.875
+Total Neg = 12.625
+---------------------------------------------------------------------------

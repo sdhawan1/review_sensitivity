@@ -1,0 +1,41 @@
+0. I remember making a                  ... pos = 0.375 	neg = 0.5  
+1. But darn it, `Music                  ... pos = 0.125 	neg = 0.125
+2. It's hard to dislike                 ... pos = 0.375 	neg = 0.75 
+3. In addition, it's al                 ... pos = 0.25  	neg = 0    
+4. This is the true sto                 ... pos = 0.5   	neg = 0.125
+5. It could also be des                 ... pos = 0.0   	neg = 0.125
+6. Yes, Meryl Streep br                 ... pos = 1.25  	neg = 0.875
+7. Out of the gate, pos                 ... pos = 1.125 	neg = 0.125
+8. She is very strict w                 ... pos = 1.125 	neg = 0.125
+9. Slowly but surely, w                 ... pos = 2.125 	neg = 0.0  
+10. One thoroughly inter                ... pos = 0.375 	neg = 0.0  
+11. After leaving an imp                ... pos = 0.0   	neg = 0.0  
+12. At first, his inexpe                ... pos = 1.0   	neg = 0.125
+13. It doesn't carry the                ... pos = 1.875 	neg = 0.375
+14. The tag team of Stre                ... pos = 0.25  	neg = 0.0  
+15. Yes, Oscar could com                ... pos = 0.0   	neg = 0.0  
+16. Angela Bassett displ                ... pos = 0.75  	neg = 0.125
+17. Blue-eyed Adian Quin                ... pos = 1.625 	neg = 0.125
+18. Gloria Estefan also                 ... pos = 0.75  	neg = 0    
+19. It's like a schoolte                ... pos = 0.25  	neg = 0.0  
+20. The movie tackles mo                ... pos = 0.125 	neg = 0.0  
+21. There's some powerfu                ... pos = 0.625 	neg = 0.125
+22. In it's dramatic bui                ... pos = 1.75  	neg = 0.0  
+23. It's a good movie fo                ... pos = 0.75  	neg = 0.125
+24. It's commendable of                 ... pos = 0.75  	neg = 0.125
+25. Watching this heartf                ... pos = 0.125 	neg = 0.125
+26. Of course, when the                 ... pos = 0.0   	neg = 0.125
+27. Mission accomplished                ... pos = 0.0   	neg = 0.0  
+28. Thankfully, there is                ... pos = 0.5   	neg = 0.375
+29. In it's entirety, it                ... pos = 1.25  	neg = 0.0  
+30. The child actors are                ... pos = 1.125 	neg = 0.25 
+31. The mother who doesn                ... pos = 0.125 	neg = 0.375
+32. It doesn't strike th                ... pos = 0.75  	neg = 0.125
+33. The uplifting true s                ... pos = 0.625 	neg = 0.25 
+34. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2109-693 is Positive         ... pos = 22.625 	neg = 5.5  
+Overall score of document
+Total Pos = 22.625
+Total Neg = 5.5
+---------------------------------------------------------------------------

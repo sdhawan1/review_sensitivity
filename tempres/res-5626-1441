@@ -1,0 +1,27 @@
+0. I have no rugs in th                 ... pos = 0.0   	neg = 0.25 
+1. The people in the ap                 ... pos = 0.0   	neg = 0.0  
+2. I think in real esta                 ... pos = 0.25  	neg = 0.375
+3. "  So, I haven't ful                 ... pos = 0.125 	neg = 0.0  
+4. Nonetheless, I truly                 ... pos = 0.75  	neg = 0.0  
+5. "The Big Lebowski" i                 ... pos = 0.25  	neg = 0.125
+6. I'm not sure what to                 ... pos = 1.0   	neg = 0.25 
+7. Yes, "Fargo", for ex                 ... pos = 0.375 	neg = 0.125
+8. The body count in "L                 ... pos = 0.0   	neg = 0.0  
+9. The central figure i                 ... pos = 0.0   	neg = 0.125
+10. He doesn't call hims                ... pos = 0.0   	neg = 0.0  
+11. In some sense, he's                 ... pos = 0.0   	neg = 0.0  
+12. Through mistaken ide                ... pos = 0.75  	neg = 1.25 
+13. He's the object of l                ... pos = 0.75  	neg = 0.0  
+14. That's the basic plo                ... pos = 0.0   	neg = 0.0  
+15. I won't go further i                ... pos = 0.5   	neg = 0.125
+16. There are elegant dr                ... pos = 1.5   	neg = 0.0  
+17. The miracles of fibr                ... pos = 0.25  	neg = 0.0  
+18. There's not that muc                ... pos = 0.125 	neg = 0.0  
+19. Yes, there may be bi                ... pos = 1.5   	neg = 0.375
+20. Not much more needs                 ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5626-1441 is Positive        ... pos = 8.25  	neg = 3.25 
+Overall score of document
+Total Pos = 8.25
+Total Neg = 3.25
+---------------------------------------------------------------------------

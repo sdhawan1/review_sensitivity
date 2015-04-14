@@ -1,0 +1,50 @@
+0. Rated: R for strong                  ... pos = 0.5   	neg = 0.5  
+1. Starring: Ben Afflec                 ... pos = 0.125 	neg = 0.0  
+2. Being a huge fan of                  ... pos = 0.625 	neg = 0.25 
+3. It might just be Kev                 ... pos = 0.5   	neg = 0.625
+4. It's very funny with                 ... pos = 1.0   	neg = 0.125
+5. In 1994 a little $27                 ... pos = 0.0   	neg = 0.25 
+6. This little film was                 ... pos = 0.0   	neg = 0.75 
+7. You really can't mee                 ... pos = 0.0   	neg = 0.0  
+8. It was hailed by cri                 ... pos = 0.375 	neg = 0.25 
+9. In 1995 Kevin made a                 ... pos = 1.125 	neg = 1.0  
+10. It was panned by cri                ... pos = 0.25  	neg = 0.25 
+11. Now in 1999 we get a                ... pos = 0.0   	neg = 0.25 
+12. Wow!                                ... pos = 0     	neg = 0    
+13. What a cast.                        ... pos = 0.0   	neg = 0    
+14. Ok here is the plot                 ... pos = 0.375 	neg = 0.5  
+15. One day at her house                ... pos = 0.75  	neg = 0.25 
+16. Ok now get this, she                ... pos = 0.25  	neg = 0.125
+17. Now on her way to Ne                ... pos = 0.5   	neg = 0.25 
+18. Salma Hayek plays Se                ... pos = 0.875 	neg = 0.0  
+19. Azrael (Jason Lee) w                ... pos = 0.75  	neg = 0.75 
+20. Bethany (Linda Fiore                ... pos = 0.75  	neg = 0.0  
+21. What a movie, it is                 ... pos = 0.375 	neg = 0.125
+22. Who would have known                ... pos = 0.0   	neg = 0.125
+23. Now for those of you                ... pos = 0.375 	neg = 0.0  
+24. Yes it may target th                ... pos = 0.625 	neg = 0.25 
+25. This review may soun                ... pos = 1.5   	neg = 0.625
+26. Kevin goes to new le                ... pos = 3.25  	neg = 0.25 
+27. Of course the best (                ... pos = 1.375 	neg = 0.25 
+28. Probably the best ch                ... pos = 1.25  	neg = 0.0  
+29. The star-studded cas                ... pos = 0.0   	neg = 0.625
+30. The script was writt                ... pos = 2.0   	neg = 0.5  
+31. Chris Rock gives a h                ... pos = 2.375 	neg = 0.0  
+32. Linda Fiorentino is                 ... pos = 0.125 	neg = 0.375
+33. Of course Jason Mewe                ... pos = 0.5   	neg = 0.0  
+34. Alan Rickman, Jason                 ... pos = 0.125 	neg = 0.0  
+35. Being Oscar Winners                 ... pos = 1.625 	neg = 0.375
+36. Ben however was all                 ... pos = 1.75  	neg = 0.125
+37. The movie's only big                ... pos = 0.0   	neg = 0.375
+38. However the directio                ... pos = 2.125 	neg = 0.0  
+39. While being funny at                ... pos = 1.625 	neg = 0.0  
+40. 'Dogma' will offend                 ... pos = 1.0   	neg = 0.25 
+41. All Kevin Smith Fans                ... pos = 0.375 	neg = 0.0  
+42. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+43. Brandon Herring Http                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-1102 is Positive         ... pos = 31.125 	neg = 10.375
+Overall score of document
+Total Pos = 31.125
+Total Neg = 10.375
+---------------------------------------------------------------------------

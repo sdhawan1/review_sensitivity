@@ -1,0 +1,189 @@
+0. THE ADVENTURES OF RO                 ... pos = 0.5   	neg = 0    
+1. Screenplay by Ken Lo                 ... pos = 0.875 	neg = 0.0  
+2. Starring June Foray,                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 100 mi                 ... pos = 0     	neg = 0.0  
+4. Rated PG by the MFCB                 ... pos = 0.125 	neg = 0    
+5. Reviewed on July 10t                 ... pos = 0.0   	neg = 0.0  
+6. I can remember watch                 ... pos = 0.125 	neg = 0.375
+7. It's hard to recall,                 ... pos = 0.0   	neg = 0.75 
+8. And Rocky's voice re                 ... pos = 0.0   	neg = 0.0  
+9. Nearly two decades l                 ... pos = 0.625 	neg = 0.0  
+10. Not only are the tit                ... pos = 0.75  	neg = 0.0  
+11. Oh, and the Narrator                ... pos = 0.0   	neg = 0.0  
+12. Rocky's voice still                 ... pos = 0.25  	neg = 0.25 
+13. If only that was the                ... pos = 0     	neg = 0.375
+14. Unfortunately, "Adve                ... pos = 0.5   	neg = 0.875
+15. Although superficial                ... pos = 1.875 	neg = 0    
+16. Story ideas which wo                ... pos = 0.875 	neg = 0.0  
+17. But that's what "Adv                ... pos = 0.0   	neg = 0.625
+18. About the only nod t                ... pos = 0.625 	neg = 1.25 
+19. But with the excepti                ... pos = 0.25  	neg = 0.0  
+20. And it's a shame, be                ... pos = 0.125 	neg = 0.875
+21. Certainly, it has mo                ... pos = 0.25  	neg = 0    
+22. Take the opening sce                ... pos = 0.0   	neg = 0.125
+23. We revisit Frostbite                ... pos = 0.0   	neg = 0.25 
+24. The town has been st                ... pos = 0.0   	neg = 0.125
+25. Buildings have falle                ... pos = 0.0   	neg = 0.5  
+26. Within minutes, howe                ... pos = 0.625 	neg = 0.0  
+27. There is some nice w                ... pos = 0.625 	neg = 0.375
+28. But it is all trappe                ... pos = 0.25  	neg = 0.625
+29. Consider the riff on                ... pos = 0.5   	neg = 0.0  
+30. " scene from "Taxi D                ... pos = 0.0   	neg = 0.375
+31. De Niro plays Fearle                ... pos = 0.25  	neg = 0.0  
+32. Fearless Leader has                 ... pos = 0.375 	neg = 0.875
+33. The FBI decides that                ... pos = 0.375 	neg = 0.375
+34. Soon, the three hero                ... pos = 0.625 	neg = 0.25 
+35. There are enough jok                ... pos = 1.0   	neg = 0.75 
+36. But  recognising a p                ... pos = 2.0   	neg = 0.0  
+37. ) results in some la                ... pos = 0.25  	neg = 0.25 
+38. Perhaps the biggest                 ... pos = 0.875 	neg = 0.125
+39. Newcomer Perabo has                 ... pos = 1.25  	neg = 0.25 
+40. From her first appea                ... pos = 0.125 	neg = 1.125
+41. As a result, the int                ... pos = 0.625 	neg = 1.625
+42. Things would have be                ... pos = 1.375 	neg = 0.75 
+43. De Niro, Alexander a                ... pos = 0.0   	neg = 0.25 
+44. Just count the minut                ... pos = 0.25  	neg = 0.0  
+45. Foray picks up where                ... pos = 0.25  	neg = 0.75 
+46. But "The Adventures                 ... pos = 0.625 	neg = 0.25 
+47. Kids aren't likely t                ... pos = 0.375 	neg = 0.5  
+48. It's not a terrible                 ... pos = 1.5   	neg = 2.125
+49. Sadly, this is yet a                ... pos = 0.75  	neg = 2.375
+50. ". Copyright Š 2000                ... pos = 0.0   	neg = 0.0  
+51. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+52. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp9 is Positive                 ... pos = 23.125 	neg = 20.375
+Overall score of document
+Total Pos = 23.125
+Total Neg = 20.375
+---------------------------------------------------------------------------
+0. Allrighty-then...how                 ... pos = 0.25  	neg = 0.125
+1. Sound like a good id                 ... pos = 0.75  	neg = 0.0  
+2. PLOT: After having b                 ... pos = 1.722 	neg = 0.375
+3. It isn't long before                 ... pos = 0.75  	neg = 0.375
+4. CRITIQUE: A very car                 ... pos = 2.0   	neg = 1.125
+5. Strangely enough, ma                 ... pos = 0.5   	neg = 1.5  
+6. Yeesh!                               ... pos = 0     	neg = 0    
+7. Yet another COPS par                 ... pos = 0.25  	neg = 0.875
+8. I'll admit that I wa                 ... pos = 0.75  	neg = 0.625
+9. Personally, I wasn't                 ... pos = 0.0   	neg = 0.125
+10. Oh, I get it...he's                 ... pos = 0.0   	neg = 0.125
+11. To be fair, I did he                ... pos = 0.0   	neg = 0.25 
+12. I suppose that if yo                ... pos = 1.0   	neg = 0.875
+13. It's a cartoon movie                ... pos = 0.0   	neg = 0.0  
+14. In the end, the film                ... pos = 0.125 	neg = 0.0  
+15. The film's first 20                 ... pos = 2.75  	neg = 0.5  
+16. There is also a pret                ... pos = 0.125 	neg = 1.125
+17. The film is also fil                ... pos = 1.0   	neg = 1.125
+18. Robert DeNiro must'v                ... pos = 0.625 	neg = 1.125
+19. But in the end, with                ... pos = 1.375 	neg = 0.125
+20. But who knows, other                ... pos = 0.375 	neg = 0.5  
+21. And for anyone who w                ... pos = 1.125 	neg = 0.125
+22. I'll be the one watc                ... pos = 0.5   	neg = 0.25 
+23. Now, there's some re                ... pos = 0.0   	neg = 0.0  
+24. Little Known Facts a                ... pos = 0.5   	neg = 1.125
+25. Several star cameos                 ... pos = 0.875 	neg = 0.5  
+26. Look for DeNiro's ow                ... pos = 0.0   	neg = 0.375
+27. She is actually his                 ... pos = 0.0   	neg = 0.125
+28. She is Diahnne Abbot                ... pos = 0.375 	neg = 0.125
+29. DeNiro adopted her w                ... pos = 0.0   	neg = 0.125
+30. Director Des McAnuff                ... pos = 0.75  	neg = 0.125
+31. His first foray into                ... pos = 0.125 	neg = 0.0  
+32. He also produced las                ... pos = 0.625 	neg = 0.0  
+33. Rumor has it that "S                ... pos = 0.75  	neg = 0.875
+34. Their middle "J" com                ... pos = 0.0   	neg = 0.0  
+35. So what has the Brit                ... pos = 0.0   	neg = 0.0  
+36. Well, actually not m                ... pos = 0.125 	neg = 0.5  
+37. Executive producer T                ... pos = 0.0   	neg = 0.125
+38. Jay Ward is the crea                ... pos = 0.875 	neg = 0.375
+39. June Foray, the orig                ... pos = 0.0   	neg = 0.125
+40. Australian comedian-                ... pos = 0.5   	neg = 0.0  
+41. Screenwriter Kenneth                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp0 is Positive                 ... pos = 21.472 	neg = 15.75
+Overall score of document
+Total Pos = 21.472
+Total Neg = 15.75
+---------------------------------------------------------------------------
+=====
+0. THE ADVENTURES OF RO                 ... pos = 0.5   	neg = 0.0  
+1. Screenplay:  Kenneth                 ... pos = 0.875 	neg = 0.0  
+2. Producers:  Jane Ros                 ... pos = 0.0   	neg = 0    
+3. Director:  Des McAnu                 ... pos = 0.0   	neg = 0    
+4. MPAA Rating:  PG (ca                 ... pos = 0.0   	neg = 0.25 
+5. Reviewed by Scott Re                 ... pos = 0.0   	neg = 0.0  
+6. THE ADVENTURES OF RO                 ... pos = 0.75  	neg = 0.125
+7. Indeed, the opening                  ... pos = 1.25  	neg = 0.375
+8. From the outset, it'                 ... pos = 0.0   	neg = 2.375
+9. Could this finally b                 ... pos = 0.0   	neg = 1.25 
+10. Believe me, I wanted                ... pos = 0.625 	neg = 0.0  
+11. (voiced by original                 ... pos = 0.125 	neg = 0.5  
+12. Their arch-nemeses B                ... pos = 0.5   	neg = 0.125
+13. The now-real Leader                 ... pos = 0.25  	neg = 1.125
+14. Unless, that is, wet                ... pos = 0.125 	neg = 0.5  
+15. The aforementioned p                ... pos = 0.0   	neg = 0.625
+16. The opening sets up                 ... pos = 0.375 	neg = 0.375
+17. It's a funny idea, a                ... pos = 0.25  	neg = 0.125
+18. " Jay Ward's cartoon                ... pos = 2.0   	neg = 0.375
+19. Then, inevitably and                ... pos = 0.125 	neg = 0.125
+20. Whatever twisted for                ... pos = 0.125 	neg = 0.25 
+21. There's something ab                ... pos = 0.375 	neg = 0.375
+22. It certainly doesn't                ... pos = 0.25  	neg = 0.625
+23. Rene Russo waits for                ... pos = 0.0   	neg = 0.375
+24. As for newcomer Pipe                ... pos = 0.0   	neg = 0.5  
+25. DeNiro has fun with                 ... pos = 0.375 	neg = 0.0  
+26. A self-deprecating g                ... pos = 0.0   	neg = 0.0  
+27. doesn't change the f                ... pos = 0.0   	neg = 0.125
+28. Rocky and Bullwinkle                ... pos = 0.25  	neg = 0.125
+29. There are more than                 ... pos = 1.875 	neg = 1.25 
+30. It's also a cheerful                ... pos = 1.375 	neg = 0.0  
+31. There's just somethi                ... pos = 1.0   	neg = 1.75 
+32. THE ADVENTURES OF RO                ... pos = 1.875 	neg = 0.25 
+33. It's time for film-m                ... pos = 0.125 	neg = 0.778
+34. Call it a draw.. .                  ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp1 is Positive                 ... pos = 15.375 	neg = 14.653
+Overall score of document
+Total Pos = 15.375
+Total Neg = 14.653
+---------------------------------------------------------------------------
+=====
+0. Somewhere in the bac                 ... pos = 1.75  	neg = 1.0  
+1. Known as Rocky and B                 ... pos = 1.625 	neg = 0.875
+2. There was a charming                 ... pos = 0.75  	neg = 0.5  
+3. It possessed a shall                 ... pos = 0.0   	neg = 0.625
+4. It's now three decad                 ... pos = 0.0   	neg = 0    
+5. Rocky hasn't flown i                 ... pos = 0.0   	neg = 0    
+6. Bullwinkle laments a                 ... pos = 0.125 	neg = 1.0  
+7. And our three villai                 ... pos = 0.25  	neg = 0.75 
+8. But in the world of                  ... pos = 0.0   	neg = 0.125
+9. Fearless Leader lite                 ... pos = 0.375 	neg = 0.125
+10. Suddenly, the three                 ... pos = 0.25  	neg = 0.0  
+11. Free of their two-di                ... pos = 0.0   	neg = 0.0  
+12. Fearless Leader and                 ... pos = 0.25  	neg = 0.875
+13. It will be filled wi                ... pos = 0.75  	neg = 1.125
+14. The public will be t                ... pos = 0.75  	neg = 0.125
+15. This is a plan worth                ... pos = 0.75  	neg = 0.25 
+16. Out to stop them is                 ... pos = 0.125 	neg = 0.25 
+17. She enlists the help                ... pos = 0.375 	neg = 0.0  
+18. Their travels are fi                ... pos = 0.25  	neg = 0.0  
+19. At one point when th                ... pos = 0.0   	neg = 0.0  
+20. "  We see signs that                ... pos = 0.0   	neg = 0.0  
+21. All of this sillines                ... pos = 0.25  	neg = 0.5  
+22. However, the novelty                ... pos = 0.125 	neg = 0.0  
+23. Give credit, though,                ... pos = 0.875 	neg = 0.5  
+24. Especially good is D                ... pos = 1.125 	neg = 0.375
+25. He speaks with an al                ... pos = 0.375 	neg = 0.0  
+26. " . Alas, "Rocky and                ... pos = 0.0   	neg = 0.0  
+27. The story just doesn                ... pos = 0.25  	neg = 0.0  
+28. There's a scene in t                ... pos = 0.125 	neg = 0.125
+29. At Wossamotta U., st                ... pos = 0.25  	neg = 0.0  
+30. However, his speech                 ... pos = 0.25  	neg = 0.375
+31. It's equally loony y                ... pos = 0.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp2 is Positive                 ... pos = 12.625 	neg = 9.875
+Overall score of document
+Total Pos = 12.625
+Total Neg = 9.875
+---------------------------------------------------------------------------
+=====

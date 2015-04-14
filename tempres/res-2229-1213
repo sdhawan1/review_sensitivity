@@ -1,0 +1,31 @@
+0. Starring Adam Sandle                 ... pos = 0.25  	neg = 0.625
+1. Which really goes to                 ... pos = 0.375 	neg = 0.75 
+2. While good comedies                  ... pos = 1.0   	neg = 0.125
+3. It's also nothing sp                 ... pos = 0.75  	neg = 0.25 
+4. But I digress.                       ... pos = 0     	neg = 0.0  
+5. Sandler plays Sonny                  ... pos = 0.875 	neg = 0.125
+6. His girlfriend makes                 ... pos = 0.625 	neg = 0.0  
+7. By a strange set of                  ... pos = 0.375 	neg = 0.625
+8. After a failed attem                 ... pos = 0.25  	neg = 0.125
+9. However, social work                 ... pos = 0.25  	neg = 0.0  
+10. Koufax along with hi                ... pos = 0.375 	neg = 0.0  
+11. Big Daddy really isn                ... pos = 0.75  	neg = 0.0  
+12. Many of the jokes re                ... pos = 0.25  	neg = 0.5  
+13. There's the occasion                ... pos = 1.25  	neg = 0.75 
+14. The film, after all                 ... pos = 0.625 	neg = 2.0  
+15. The court scene at t                ... pos = 0.0   	neg = 1.625
+16. It's a poor attempt                 ... pos = 0.125 	neg = 0.0  
+17. Adam Sandler basical                ... pos = 0.0   	neg = 0.0  
+18. ) Joey Lauren Adams                 ... pos = 1.0   	neg = 0.25 
+19. Steve Buscemi pops u                ... pos = 0.25  	neg = 0.625
+20. Rob Schneider is als                ... pos = 0.0   	neg = 0.5  
+21. The two twins who pl                ... pos = 2.125 	neg = 0.875
+22. Big Daddy is really                 ... pos = 0.0   	neg = 0.5  
+23. Although it is actua                ... pos = 2.25  	neg = 0.25 
+24. Big Daddy is for die                ... pos = 0.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2229-1213 is Positive        ... pos = 13.75 	neg = 11.375
+Overall score of document
+Total Pos = 13.75
+Total Neg = 11.375
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. Copyright 1998 Natha                 ... pos = 0.125 	neg = 0.375
+1. Blast from the Past,                 ... pos = 1.75  	neg = 0.75 
+2. That's too bad, beca                 ... pos = 1.125 	neg = 1.125
+3. The film begins in 1                 ... pos = 0.5   	neg = 0.125
+4. Calvin assumes that                  ... pos = 1.0   	neg = 1.5  
+5. Helen, at this time,                 ... pos = 0.0   	neg = 0.125
+6. Jump ahead thirty-fi                 ... pos = 0.0   	neg = 0.125
+7. Calvin has taught Ad                 ... pos = 0.75  	neg = 0.625
+8. (Helen, by compariso                 ... pos = 0.5   	neg = 0.0  
+9. )  Adam decides he w                 ... pos = 0.625 	neg = 0.125
+10. So, he goes to the s                ... pos = 1.0   	neg = 0.5  
+11. Eve is your typical                 ... pos = 0.25  	neg = 0.875
+12. She likes to date, b                ... pos = 0.875 	neg = 0.125
+13. This kind of story h                ... pos = 0.5   	neg = 0.125
+14. I suppose there are                 ... pos = 0.5   	neg = 0.0  
+15. I agree to an extent                ... pos = 0.875 	neg = 0.375
+16. Brendan Fraser makes                ... pos = 0.75  	neg = 0.5  
+17. Silverstone is also                 ... pos = 0.0   	neg = 0.125
+18. She and Fraser compl                ... pos = 0.5   	neg = 0.125
+19. It's one of those st                ... pos = 1.375 	neg = 0.125
+20. Walken and Spacek ar                ... pos = 1.5   	neg = 0.0  
+21. But the dopey plots                 ... pos = 0.0   	neg = 0.375
+22. I was willing to sus                ... pos = 0.0   	neg = 0.125
+23. And I really doubt t                ... pos = 0.0   	neg = 0.0  
+24. The problem is that                 ... pos = 0.25  	neg = 0.75 
+25. When Adam finally re                ... pos = 0.0   	neg = 0.375
+26. Until, that is, the                 ... pos = 0.0   	neg = 0.25 
+27. The main focus is th                ... pos = 0.0   	neg = 0.125
+28. But why do we need a                ... pos = 0.0   	neg = 0.375
+29. And why is there an                 ... pos = 0.0   	neg = 0.375
+30. Blast from the Past                 ... pos = 1.625 	neg = 0.125
+31. It's often funny, ye                ... pos = 0.0   	neg = 0.25 
+32. Perhaps the fish-out                ... pos = 0.0   	neg = 0.125
+33. I just wish someone                 ... pos = 0.5   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-533-760 is Positive          ... pos = 16.875 	neg = 12.0 
+Overall score of document
+Total Pos = 16.875
+Total Neg = 12.0
+---------------------------------------------------------------------------

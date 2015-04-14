@@ -1,0 +1,61 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring Gary Sinise                 ... pos = 0.0   	neg = 0.0  
+2. Written by Lowell Ca                 ... pos = 0.375 	neg = 0.0  
+3. Directed by Brian De                 ... pos = 0.0   	neg = 0    
+4. Rated PG.                            ... pos = 0.125 	neg = 0    
+5. There should be a re                 ... pos = 0.375 	neg = 0.375
+6. " There are probably                 ... pos = 1.5   	neg = 0.125
+7. But there are those                  ... pos = 0.5   	neg = 0.125
+8. the Extra-Terrestria                 ... pos = 0     	neg = 0    
+9. " Why?                               ... pos = 0     	neg = 0.0  
+10. Because there is not                ... pos = 0.0   	neg = 0.25 
+11. " All of it is cribb                ... pos = 0.0   	neg = 0.125
+12. If this is the sort                 ... pos = 0.125 	neg = 0.625
+13. Of course, there are                ... pos = 0.625 	neg = 0.25 
+14. "Mission to Mars" ma                ... pos = 0.0   	neg = 0.25 
+15. The plot, cribbed gr                ... pos = 0.375 	neg = 0.375
+16. Luke Graham (Don Che                ... pos = 0.0   	neg = 0.0  
+17. The team encounters                 ... pos = 1.375 	neg = 1.375
+18. A rescue mission is                 ... pos = 0.5   	neg = 0.125
+19. After some zero-grav                ... pos = 0.0   	neg = 0.625
+20. Now stranded on Mars                ... pos = 0.375 	neg = 0.125
+21. After all, that mono                ... pos = 0.125 	neg = 0.5  
+22. "Mission to Mars" is                ... pos = 0.375 	neg = 0.875
+23. That's it.                          ... pos = 0.0   	neg = 0    
+24. Everything else fail                ... pos = 0     	neg = 0.125
+25. The failure isn't De                ... pos = 0.0   	neg = 0.875
+26. Only during the sequ                ... pos = 0.75  	neg = 1.125
+27. A scene where they a                ... pos = 0.25  	neg = 0.25 
+28. Take it out, and the                ... pos = 0.125 	neg = 0.0  
+29. The sequence also su                ... pos = 0.375 	neg = 0.625
+30. Why did Tim Robbins'                ... pos = 1.125 	neg = 0.0  
+31. Shouldn't the astron                ... pos = 0.0   	neg = 0.125
+32. Why are the characte                ... pos = 1.125 	neg = 0.125
+33. Because the script m                ... pos = 0.0   	neg = 0.25 
+34. All the "conflict" i                ... pos = 0.875 	neg = 2.625
+35. Can't we find out th                ... pos = 0.25  	neg = 0.125
+36. The whole film is li                ... pos = 0.0   	neg = 0.125
+37. The filmmakers are n                ... pos = 0.75  	neg = 0.0  
+38. That exchange isn't                 ... pos = 0.125 	neg = 0.375
+39. For all their cribbi                ... pos = 0.5   	neg = 0.0  
+40. De Palma used to kno                ... pos = 0.0   	neg = 0.125
+41. This is mentally-cha                ... pos = 0.5   	neg = 0.125
+42. Fourth-graders may a                ... pos = 0.375 	neg = 0.125
+43. The principal actors                ... pos = 0.0   	neg = 0.125
+44. Cheadle stumbles ove                ... pos = 0.0   	neg = 0.5  
+45. Armin Mueller-Stahl                 ... pos = 0.0   	neg = 0.75 
+46. Robbins puts his gam                ... pos = 0.0   	neg = 0.0  
+47. And Sinise hams it u                ... pos = 1.375 	neg = 1.375
+48. And of course, these                ... pos = 1.375 	neg = 0.125
+49. It could be said tha                ... pos = 0.375 	neg = 1.625
+50. Leisurely pacing mig                ... pos = 1.25  	neg = 0.875
+51. Supposedly we're int                ... pos = 1.625 	neg = 1.5  
+52. Me, I alternated bet                ... pos = 0.0   	neg = 0.0  
+53. There is only one go                ... pos = 0.75  	neg = 0.25 
+54. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-1477 is Positive        ... pos = 20.625 	neg = 20.375
+Overall score of document
+Total Pos = 20.625
+Total Neg = 20.375
+---------------------------------------------------------------------------

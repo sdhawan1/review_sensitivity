@@ -1,0 +1,46 @@
+0. Cast: Michael Madsen                 ... pos = 0.0   	neg = 0.0  
+1. Before I review Spec                 ... pos = 0.25  	neg = 0.0  
+2. As you'll no doubt r                 ... pos = 0.0   	neg = 0.125
+3. BUT, a piece of one                  ... pos = 0.125 	neg = 0.5  
+4. Obviously rats breed                 ... pos = 0.25  	neg = 0.125
+5. Well forget all that                 ... pos = 0.25  	neg = 0    
+6. In true horror movie                 ... pos = 0.875 	neg = 0.0  
+7. Instead, our story s                 ... pos = 0.0   	neg = 0.125
+8. Astronaut Justin Laz                 ... pos = 0.0   	neg = 0.125
+9. Unfortunately for th                 ... pos = 0.125 	neg = 1.125
+10. Soon, two-thirds of                 ... pos = 0.0   	neg = 0.375
+11. Upon their return to                ... pos = 0.125 	neg = 0.5  
+12. Let's talk about bad                ... pos = 0     	neg = 0.875
+13. For example, the ast                ... pos = 0.625 	neg = 0.875
+14. Later, in the office                ... pos = 0.125 	neg = 0.25 
+15. Then, upon returning                ... pos = 0.25  	neg = 0.625
+16. Really?                             ... pos = 0     	neg = 0.0  
+17. Is that the only NAS                ... pos = 0.25  	neg = 0.25 
+18. Also, Madsen and Hel                ... pos = 0.375 	neg = 0.25 
+19. Now, they hardly eve                ... pos = 0.0   	neg = 0.0  
+20. There's plenty more                 ... pos = 0.0   	neg = 0.375
+21. As with almost all b                ... pos = 0.0   	neg = 1.875
+22. Species II is no exc                ... pos = 0.0   	neg = 0.375
+23. Lots of stomachs bur                ... pos = 0.0   	neg = 0.25 
+24. ) and mutililation f                ... pos = 0.0   	neg = 0.0  
+25. Natasha Henstridge h                ... pos = 0.625 	neg = 0.75 
+26. Oh and yes for you f                ... pos = 0.0   	neg = 0.25 
+27. Also, James Cromwell                ... pos = 0.0   	neg = 0.25 
+28. Both of them overact                ... pos = 1.625 	neg = 0.5  
+29. What a waste.                       ... pos = 0.0   	neg = 0.0  
+30. There were only thre                ... pos = 0.0   	neg = 0.125
+31. The first is a quick                ... pos = 0.25  	neg = 0.375
+32. The other two involv                ... pos = 0.5   	neg = 0.125
+33. One moment has to do                ... pos = 0.0   	neg = 0.0  
+34. The second involves                 ... pos = 0.125 	neg = 0.125
+35. I seriously doubt ei                ... pos = 0.0   	neg = 0.125
+36. At the end of Specie                ... pos = 0.625 	neg = 0.0  
+37. Each of them is equa                ... pos = 0.25  	neg = 0.375
+38. [R]. The Jacksonvill                ... pos = 0.0   	neg = 0.0  
+39. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3814-515 is Negative         ... pos = 7.875 	neg = 12.375
+Overall score of document
+Total Pos = 7.875
+Total Neg = 12.375
+---------------------------------------------------------------------------

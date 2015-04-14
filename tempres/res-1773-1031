@@ -1,0 +1,22 @@
+0. FALLEN Reviewed by J                 ... pos = 0.125 	neg = 0.75 
+1. What Hobbes doesn't                  ... pos = 0.25  	neg = 0.625
+2. This  diabolical ent                 ... pos = 0.0   	neg = 0.875
+3. But Hobbes fights ba                 ... pos = 0.25  	neg = 0.125
+4. Also on hand to cast                 ... pos = 1.25  	neg = 0.0  
+5. It takes a good whil                 ... pos = 1.0   	neg = 0.0  
+6. The film, which play                 ... pos = 1.375 	neg = 0.625
+7. Although "Fallen" mi                 ... pos = 0.0   	neg = 1.375
+8. What keeps the  movi                 ... pos = 0.75  	neg = 0.375
+9. And "Fallen"'s alleg                 ... pos = 0.0   	neg = 0.375
+10. Washington is his us                ... pos = 1.0   	neg = 0.125
+11. Other cast members a                ... pos = 1.375 	neg = 0.625
+12. Still, even if the g                ... pos = 1.0   	neg = 0.125
+13. But "Fallen"  is non                ... pos = 0.125 	neg = 0.5  
+14. Screenwriter Nichola                ... pos = 0.75  	neg = 0.0  
+15. Could it be ... Sata                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1773-1031 is Positive        ... pos = 9.25  	neg = 7.0  
+Overall score of document
+Total Pos = 9.25
+Total Neg = 7.0
+---------------------------------------------------------------------------

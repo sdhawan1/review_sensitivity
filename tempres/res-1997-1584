@@ -1,0 +1,40 @@
+0. Starship troopers is                 ... pos = 0.0   	neg = 0.125
+1. Not weird as in "gia                 ... pos = 0.375 	neg = 0.125
+2. It is weird because                  ... pos = 1.125 	neg = 0.125
+3. First there's the "l                 ... pos = 0.875 	neg = 0.0  
+4. Any fool will tell y                 ... pos = 1.75  	neg = 0.125
+5. He's a fool with a 1                 ... pos = 0.625 	neg = 0.0  
+6. Unfortunately , he c                 ... pos = 0.0   	neg = 0.875
+7. Money is power and p                 ... pos = 0.0   	neg = 0.125
+8. While wtaching this                  ... pos = 0.0   	neg = 0.0  
+9. More gorgeous people                 ... pos = 0.75  	neg = 0    
+10. " and laughing sadis                ... pos = 0.125 	neg = 0.0  
+11. Hell , i'd be laughi                ... pos = 0.25  	neg = 0.875
+12. Teens will love this                ... pos = 1.375 	neg = 0.0  
+13. The cast is straight                ... pos = 0.0   	neg = 0.125
+14. On the bright side o                ... pos = 0.0   	neg = 0.0  
+15. But i would be remis                ... pos = 0.0   	neg = 0.625
+16. My question to Paul                 ... pos = 0.0   	neg = 0.125
+17. " He used to make gr                ... pos = 0.0   	neg = 0.0  
+18. So , at the risk of                 ... pos = 0.0   	neg = 0.0  
+19. Melrose Place happen                ... pos = 0.0   	neg = 0.375
+20. I realized i was wat                ... pos = 1.0   	neg = 0.125
+21. Or when we find out                 ... pos = 1.375 	neg = 0.125
+22. Or when he loses the                ... pos = 0.25  	neg = 0.0  
+23. I know this is what                 ... pos = 0.0   	neg = 2.0  
+24. The actors are woode                ... pos = 0.25  	neg = 0.0  
+25. Except for Michael I                ... pos = 0.0   	neg = 0.375
+26. How bad are the rest                ... pos = 0.25  	neg = 0.875
+27. One girl gets stabbe                ... pos = 0.0   	neg = 0.0  
+28. She has a hole the s                ... pos = 0.0   	neg = 0.25 
+29. , she's a tough cook                ... pos = 0.0   	neg = 0.0  
+30. It's not all bad.                   ... pos = 0.0   	neg = 0.875
+31. In fact , it's prett                ... pos = 0.625 	neg = 0.25 
+32. The effects and incr                ... pos = 0.5   	neg = 0.625
+33. So , in conclusion..                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-1584 is Positive        ... pos = 11.5  	neg = 9.125
+Overall score of document
+Total Pos = 11.5
+Total Neg = 9.125
+---------------------------------------------------------------------------

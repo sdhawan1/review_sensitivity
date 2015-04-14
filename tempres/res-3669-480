@@ -1,0 +1,37 @@
+0. Traffic   * * * * ou                 ... pos = 0.0   	neg = 0.0  
+1. Directed by: Steven                  ... pos = 0.625 	neg = 0.375
+2. Running Time: 147 mi                 ... pos = 0.75  	neg = 0.125
+3. In the style of  "Na                 ... pos = 0.0   	neg = 0.125
+4. The gritty content,                  ... pos = 0.875 	neg = 0.625
+5. The film consists of                 ... pos = 2.75  	neg = 0.25 
+6. After the plan is un                 ... pos = 0.375 	neg = 0.75 
+7. In the second plot,                  ... pos = 0.0   	neg = 0.125
+8. After  her son is th                 ... pos = 0.0   	neg = 0.375
+9. In an attempt to  sa                 ... pos = 0.0   	neg = 0.0  
+10. Michael Douglas is O                ... pos = 0.5   	neg = 0.125
+11. Trying to crackdown                 ... pos = 0.0   	neg = 1.875
+12. DEA Agents Ray Castr                ... pos = 0.375 	neg = 0.0  
+13. Not knowing she has                 ... pos = 0.0   	neg = 0.0  
+14. The two  here seem t                ... pos = 0.625 	neg = 0.0  
+15. Steven Soderbergh ha                ... pos = 0.375 	neg = 0.625
+16. After his successful                ... pos = 0.625 	neg = 0.25 
+17. His use of different                ... pos = 2.125 	neg = 0.125
+18. The cast is another                 ... pos = 1.25  	neg = 0.5  
+19. As his daughter newc                ... pos = 1.125 	neg = 0.125
+20. Amy Irving has not b                ... pos = 0.0   	neg = 0.375
+21. Catherine-Zeta Jones                ... pos = 1.875 	neg = 0.5  
+22. Dennis Quaid althoug                ... pos = 0.875 	neg = 0.0  
+23. Don Cheadle and Luis                ... pos = 1.375 	neg = 0.0  
+24. Their chemistry onsc                ... pos = 0.25  	neg = 0.25 
+25. Possibly the best pe                ... pos = 1.75  	neg = 0.125
+26. The brilliantly writ                ... pos = 0.875 	neg = 0.25 
+27. Stephen  Soderbergh'                ... pos = 0.0   	neg = 0.375
+28. Prepare for Traffic,                ... pos = 0.125 	neg = 0.125
+29. One of the best, and                ... pos = 0.625 	neg = 0    
+30. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3669-480 is Positive         ... pos = 20.125 	neg = 8.375
+Overall score of document
+Total Pos = 20.125
+Total Neg = 8.375
+---------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+0. Seen with Tony on 10                 ... pos = 0.25  	neg = 0.0  
+1. If it happens to be                  ... pos = 0.0   	neg = 1.25 
+2. Just look at what ha                 ... pos = 0.0   	neg = 0.375
+3. The hoopla surroundi                 ... pos = 0.125 	neg = 0.125
+4. You will spend a non                 ... pos = 1.0   	neg = 0.375
+5. This was my major be                 ... pos = 0.0   	neg = 0.125
+6. Nothing counters the                 ... pos = 0.875 	neg = 1.0  
+7. The few moments of p                 ... pos = 1.5   	neg = 0.25 
+8. There is no need for                 ... pos = 0.75  	neg = 0.625
+9. Would you want to do                 ... pos = 0     	neg = 0.125
+10. Like many movies set                ... pos = 0.25  	neg = 0.625
+11. One has to credit th                ... pos = 0.375 	neg = 0.25 
+12. Eddie Adams (Mark "M                ... pos = 0.125 	neg = 0.0  
+13. It is "his one speci                ... pos = 0.875 	neg = 0.25 
+14. He catches the eye o                ... pos = 0.0   	neg = 0.125
+15. " An overnight succe                ... pos = 0.375 	neg = 1.875
+16. The movie touches on                ... pos = 0.0   	neg = 0.375
+17. Rollergirl (Heather                 ... pos = 0.0   	neg = 0.625
+18. These are motivation                ... pos = 0.25  	neg = 0    
+19. None of this is deve                ... pos = 0.0   	neg = 0.125
+20. There are other subp                ... pos = 0.375 	neg = 0.375
+21. There are consequenc                ... pos = 0.25  	neg = 0.125
+22. " Many opportunities                ... pos = 1.625 	neg = 0.917
+23. The idea that they f                ... pos = 0.0   	neg = 0.5  
+24. Ahem!                               ... pos = 0     	neg = 0    
+25. Mothers usually do n                ... pos = 0.0   	neg = 0.125
+26. Also, shame on direc                ... pos = 0.0   	neg = 1.625
+27. BONUS: In the event                 ... pos = 0.0   	neg = 1.375
+28. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4409-92 is Negative          ... pos = 9.0   	neg = 13.667
+Overall score of document
+Total Pos = 9.0
+Total Neg = 13.667
+---------------------------------------------------------------------------

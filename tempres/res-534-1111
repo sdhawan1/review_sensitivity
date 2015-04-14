@@ -1,0 +1,45 @@
+0. THE THIN RED LINE Ca                 ... pos = 0.875 	neg = 1.25 
+1. Malick performed one                 ... pos = 0.875 	neg = 0.25 
+2. But now in the cinem                 ... pos = 0.375 	neg = 0.25 
+3. This visionary direc                 ... pos = 0.375 	neg = 0.125
+4. As much as Steven Sp                 ... pos = 0.375 	neg = 0.0  
+5. To Malick's credit,                  ... pos = 1.875 	neg = 0.25 
+6. But on a visual leve                 ... pos = 0.5   	neg = 0.875
+7. The Thin Red Line co                 ... pos = 0.375 	neg = 0.0  
+8. " Ingeniously, Malic                 ... pos = 0.625 	neg = 0.125
+9. The film opens with                  ... pos = 0.0   	neg = 0.125
+10. Feral dogs feast on                 ... pos = 0.25  	neg = 0.375
+11. The face of a dead J                ... pos = 0.25  	neg = 0.375
+12. Soldiers contemplate                ... pos = 0.0   	neg = 0.625
+13. Some find war as a t                ... pos = 0.5   	neg = 0.125
+14. When The Thin Red Li                ... pos = 0.75  	neg = 0.0  
+15. When a film is able                 ... pos = 0.875 	neg = 0.125
+16. In the case of The T                ... pos = 0.125 	neg = 0.375
+17. The film is based on                ... pos = 0.0   	neg = 0.125
+18. Brave troublemaker W                ... pos = 0.75  	neg = 0.0  
+19. Bell (Ben Chaplin) f                ... pos = 0.125 	neg = 0.0  
+20. Sergeant Edward Wels                ... pos = 0.625 	neg = 0.25 
+21. Lieutenant Colonel G                ... pos = 0.375 	neg = 0.125
+22. These men and many o                ... pos = 0.625 	neg = 0.625
+23. I guess the major se                ... pos = 1.0   	neg = 0.5  
+24. Sean Penn is particu                ... pos = 1.875 	neg = 0.125
+25. Jim Caviezel is fine                ... pos = 1.375 	neg = 0.375
+26. I found it hard to a                ... pos = 0.375 	neg = 0.875
+27. Travolta especially                 ... pos = 0.0   	neg = 1.375
+28. For all its faults,                 ... pos = 0.25  	neg = 0.25 
+29. Some occasions in th                ... pos = 0.25  	neg = 0.0  
+30. Often, Terrence Mali                ... pos = 0.125 	neg = 0    
+31. The lush jungle envi                ... pos = 1.5   	neg = 0.5  
+32. Out of the norm and                 ... pos = 0.875 	neg = 0.25 
+33. While watching this                 ... pos = 0.375 	neg = 0.375
+34. A picture can indeed                ... pos = 0.125 	neg = 2.0  
+35. This is definitely a                ... pos = 0.625 	neg = 0.875
+36. Malick ponders about                ... pos = 0.625 	neg = 0.0  
+37. The great thing is,                 ... pos = 0.375 	neg = 0.875
+38. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-534-1111 is Positive         ... pos = 21.5  	neg = 14.75
+Overall score of document
+Total Pos = 21.5
+Total Neg = 14.75
+---------------------------------------------------------------------------

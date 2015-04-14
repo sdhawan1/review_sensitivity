@@ -1,0 +1,34 @@
+0. Written by: Spike Le                 ... pos = 0.625 	neg = 0.125
+1. Disco music is popul                 ... pos = 1.5   	neg = 0.375
+2. In fact, they're ter                 ... pos = 0.25  	neg = 0    
+3. As in Spike Lee's DO                 ... pos = 0.75  	neg = 0.0  
+4. The cool of night of                 ... pos = 0.5   	neg = 0.875
+5. No one knows who the                 ... pos = 0.0   	neg = 0.75 
+6. All around New York                  ... pos = 1.25  	neg = 0.0  
+7. Aside from cultural                  ... pos = 0.5   	neg = 0.0  
+8. In the Italian Ameri                 ... pos = 0.75  	neg = 1.0  
+9. Vinny's friend Ritch                 ... pos = 0.25  	neg = 0.625
+10. Ritchie's girl Ruby                 ... pos = 0.5   	neg = 1.375
+11. Everyone's different                ... pos = 0.75  	neg = 0.125
+12. Unfortunately, the k                ... pos = 0.125 	neg = 0.875
+13. Opinion: Director Sp                ... pos = 0.0   	neg = 0.875
+14. Nor is it about cops                ... pos = 0.0   	neg = 0.875
+15. It's about differenc                ... pos = 0.5   	neg = 0.0  
+16. One thing I found in                ... pos = 0.0   	neg = 0.375
+17. In other movies sex                 ... pos = 0.0   	neg = 0.375
+18. For example, James B                ... pos = 0.125 	neg = 0.125
+19. Or boring made-for-v                ... pos = 0.25  	neg = 0.0  
+20. And every movie or s                ... pos = 1.25  	neg = 0.25 
+21. Not so with SUMMER O                ... pos = 0.0   	neg = 0.0  
+22. In a very gutsy move                ... pos = 0.625 	neg = 0.25 
+23. Sex is there, but it                ... pos = 0.0   	neg = 0.375
+24. In fact, some of the                ... pos = 1.75  	neg = 0.75 
+25. Sex is in the film b                ... pos = 0.25  	neg = 0.625
+26. In my opinion this k                ... pos = 0.375 	neg = 0.375
+27. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1257-416 is Positive         ... pos = 12.875 	neg = 11.5 
+Overall score of document
+Total Pos = 12.875
+Total Neg = 11.5
+---------------------------------------------------------------------------

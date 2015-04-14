@@ -1,0 +1,26 @@
+0. Successful animator                  ... pos = 0.75  	neg = 0.0  
+1. "  It has more in co                 ... pos = 0.0   	neg = 0.125
+2. "  Judge's target is                 ... pos = 0.0   	neg = 0.125
+3. Peter Gibbons (Ron L                 ... pos = 0.375 	neg = 0.625
+4. (Think of him as "Fe                 ... pos = 0.0   	neg = 0.0  
+5. ")  He achieves his                  ... pos = 0.75  	neg = 0.0  
+6. While he is slacking                 ... pos = 0.25  	neg = 0.75 
+7. "  They like Peter a                 ... pos = 0.25  	neg = 0.0  
+8. Peter encourages his                 ... pos = 0.125 	neg = 1.25 
+9. Meanwhile, Peter is                  ... pos = 0.5   	neg = 0.125
+10. Joanne is also havin                ... pos = 0.0   	neg = 0.125
+11. She's required to we                ... pos = 0.125 	neg = 0.125
+12. ". "Office Space" is                ... pos = 1.0   	neg = 0.125
+13. However, it lacks a                 ... pos = 2.375 	neg = 0.125
+14. The best performance                ... pos = 0.75  	neg = 0.0  
+15. Gary ("The Brady Bun                ... pos = 0.25  	neg = 0.75 
+16. Lumbergh is a doofus                ... pos = 0.75  	neg = 1.0  
+17. Another great charac                ... pos = 1.0   	neg = 1.375
+18. If you work in a cub                ... pos = 0.5   	neg = 0.0  
+19. "  And you'll laugh                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5723-1265 is Positive        ... pos = 9.75  	neg = 6.625
+Overall score of document
+Total Pos = 9.75
+Total Neg = 6.625
+---------------------------------------------------------------------------

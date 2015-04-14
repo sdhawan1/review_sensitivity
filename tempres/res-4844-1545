@@ -1,0 +1,35 @@
+0. SHANGHAI NOON **1/2                  ... pos = 0.625 	neg = 0.0  
+1. The picture is so ju                 ... pos = 0.625 	neg = 1.375
+2. If its innocuousness                 ... pos = 0.0   	neg = 0.125
+3. (Here is what I scri                 ... pos = 1.625 	neg = 1.125
+4. "). The year is 1881                 ... pos = 0.0   	neg = 0.125
+5. En route in America,                 ... pos = 0.125 	neg = 0.125
+6. I'm getting ahead of                 ... pos = 0.0   	neg = 0.0  
+7. There's fortune in R                 ... pos = 0.875 	neg = 0.625
+8. " exclaims Roy) tell                 ... pos = 0.625 	neg = 0.625
+9. (I won't belabour th                 ... pos = 0.125 	neg = 0.125
+10. ) Soon, they have no                ... pos = 0.125 	neg = 0.0  
+11. (Shades of John Woo.                ... pos = 0.0   	neg = 0.125
+12. ). Speaking of Woo,                 ... pos = 1.25  	neg = 0.0  
+13. Some you want to see                ... pos = 0.0   	neg = 0.125
+14. Pow!                                ... pos = 0     	neg = 0    
+15. Pow!                                ... pos = 0     	neg = 0    
+16. That's his real char                ... pos = 0.875 	neg = 0    
+17. He's just like a tig                ... pos = 0.0   	neg = 0.0  
+18. There's no reason to                ... pos = 0.0   	neg = 0.25 
+19. " About the only dir                ... pos = 0.625 	neg = 0.25 
+20. ), but not Jackie Ch                ... pos = 0.0   	neg = 0.25 
+21. As with Jackie's oth                ... pos = 0.5   	neg = 0.75 
+22. (Miramax, from what                 ... pos = 1.875 	neg = 0.75 
+23. ). Otherwise, Dey ha                ... pos = 0.75  	neg = 0.75 
+24. The amusingly anachr                ... pos = 0.0   	neg = 0.375
+25. Owen Wilson, possess                ... pos = 1.125 	neg = 0.375
+26. Nimble Jackie seems                 ... pos = 0.25  	neg = 0.25 
+27. And Lucy Liu, as the                ... pos = 0.0   	neg = 1.0  
+28. Okay, fine, really s                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4844-1545 is Positive        ... pos = 12.0  	neg = 9.625
+Overall score of document
+Total Pos = 12.0
+Total Neg = 9.625
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. The World Is Not Eno                 ... pos = 0.0   	neg = 0.125
+1. James Bond XIX. Well                 ... pos = 0.0   	neg = 0.125
+2. Still with Pierce Br                 ... pos = 0.0   	neg = 0.0  
+3. A James Bond movie i                 ... pos = 1.5   	neg = 1.25 
+4. And it's the same wi                 ... pos = 0.0   	neg = 0    
+5. It has all those ele                 ... pos = 0.0   	neg = 0.0  
+6. If you have seen the                 ... pos = 0.25  	neg = 0.125
+7. Only this time, M (J                 ... pos = 0.0   	neg = 0.0  
+8. Actually I don't fee                 ... pos = 0.0   	neg = 0.0  
+9. The opening scene wa                 ... pos = 0.0   	neg = 0.125
+10. And a lot of other a                ... pos = 0.0   	neg = 0.625
+11. Maybe I did, maybe I                ... pos = 0     	neg = 0.0  
+12. In any case, the nam                ... pos = 0.0   	neg = 0.125
+13. If you're a big JB f                ... pos = 0.0   	neg = 0.0  
+14. Why bother reading t                ... pos = 0.0   	neg = 0.125
+15. If you're not a big                 ... pos = 0.0   	neg = 0.0  
+16. But if you hate this                ... pos = 0.125 	neg = 0.0  
+17. After I saw this mov                ... pos = 0.0   	neg = 0.125
+18. In the background An                ... pos = 0.25  	neg = 0.125
+19. In my opinion, that                 ... pos = 0.0   	neg = 0.125
+20. Indra Moeljadi is sa                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3999-331 is Negative         ... pos = 2.125 	neg = 3.25 
+Overall score of document
+Total Pos = 2.125
+Total Neg = 3.25
+---------------------------------------------------------------------------

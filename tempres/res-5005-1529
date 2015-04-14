@@ -1,0 +1,26 @@
+0. The neatest part abo                 ... pos = 0.125 	neg = 0.375
+1. By revealing key par                 ... pos = 0.0   	neg = 0.0  
+2. ) in-between the cre                 ... pos = 0.125 	neg = 0.0  
+3. I can only tell you                  ... pos = 0.125 	neg = 0.0  
+4. High school senior K                 ... pos = 0.625 	neg = 0.25 
+5. Kelly tries several                  ... pos = 0.625 	neg = 0.125
+6. Jumping on the rape                  ... pos = 0.0   	neg = 0.125
+7. Sam, out of money an                 ... pos = 0.375 	neg = 0.25 
+8. Following a confusin                 ... pos = 0.25  	neg = 0.75 
+9. When Sam is cleared                  ... pos = 0.0   	neg = 0.375
+10. So now you have to f                ... pos = 0.25  	neg = 0.0  
+11. There are so many pl                ... pos = 0.5   	neg = 0.875
+12. The cast is, on the                 ... pos = 1.5   	neg = 0.125
+13. They all get opportu                ... pos = 0.0   	neg = 0.125
+14. The best actual perf                ... pos = 1.25  	neg = 0.75 
+15. I could spend all da                ... pos = 0.875 	neg = 1.125
+16. This is a funny movi                ... pos = 0.0   	neg = 0.625
+17. Maybe it was just th                ... pos = 0.0   	neg = 1.375
+18. If you are looking f                ... pos = 0.375 	neg = 0.625
+19. If you want a good i                ... pos = 1.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5005-1529 is Negative        ... pos = 8.0   	neg = 8.375
+Overall score of document
+Total Pos = 8.0
+Total Neg = 8.375
+---------------------------------------------------------------------------

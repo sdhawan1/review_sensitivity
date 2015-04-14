@@ -1,0 +1,29 @@
+0. GO *** (out of four)                 ... pos = 0.125 	neg = 0.125
+1. Director Liman (who                  ... pos = 1.625 	neg = 0.0  
+2. After more than nine                 ... pos = 0.625 	neg = 0.25 
+3. This is the sort of                  ... pos = 0.875 	neg = 0.125
+4. A la Tarantino's Pul                 ... pos = 0.0   	neg = 0.125
+5. The basics are as fo                 ... pos = 0.625 	neg = 0.125
+6. Her co-worker, Simon                 ... pos = 0.375 	neg = 0.625
+7. Zack (Mohr) and Adam                 ... pos = 0.75  	neg = 0.25 
+8. Perhaps because the                  ... pos = 1.25  	neg = 0.375
+9. ); Pulp Fiction zigz                 ... pos = 0.125 	neg = 0.0  
+10. Torontonian Polley (                ... pos = 0.625 	neg = 0.125
+11. In Go, she delivers,                ... pos = 0.5   	neg = 0.0  
+12. Here's an (overrated                ... pos = 1.125 	neg = 0.375
+13. If she doesn't want                 ... pos = 0.0   	neg = 0.25 
+14. But I digress.                      ... pos = 0     	neg = 0.0  
+15. Go is a fun film, so                ... pos = 0.75  	neg = 1.375
+16. In that sense, it's                 ... pos = 1.0   	neg = 0.347
+17. I wish I cared more                 ... pos = 0.625 	neg = 0.375
+18. When the lights came                ... pos = 1.125 	neg = 0.125
+19. Yet entertain me it                 ... pos = 0.375 	neg = 0.0  
+20. Go is light and frot                ... pos = 1.75  	neg = 0.25 
+21. Fichtner is a charac                ... pos = 2.125 	neg = 0.125
+22. Unlike much of the f                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5367-1545 is Positive        ... pos = 16.625 	neg = 5.472
+Overall score of document
+Total Pos = 16.625
+Total Neg = 5.472
+---------------------------------------------------------------------------

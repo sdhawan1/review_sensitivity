@@ -1,0 +1,40 @@
+0. Christian Critic's M                 ... pos = 0.375 	neg = 0.375
+1. SCRIPTURE REFERENCES                 ... pos = 0.0   	neg = 0.375
+2. The results overwhel                 ... pos = 0.25  	neg = 0.375
+3. This finding is not                  ... pos = 1.125 	neg = 0.125
+4. Meryl Streep (ONE TR                 ... pos = 0.5   	neg = 0.125
+5. Taking her two young                 ... pos = 0.0   	neg = 0.375
+6. An old friend (Aidan                 ... pos = 0.875 	neg = 0.0  
+7. Though she has limit                 ... pos = 0.0   	neg = 0.25 
+8. The first half of th                 ... pos = 1.0   	neg = 0.0  
+9. Ten years later, her                 ... pos = 0.625 	neg = 0.0  
+10. In fact, it has beco                ... pos = 0.625 	neg = 0.125
+11. The second half of t                ... pos = 0.625 	neg = 0.125
+12. This fight culminate                ... pos = 0.25  	neg = 0.125
+13. Ms. Streep adds yet                 ... pos = 1.125 	neg = 0.125
+14. She plays a woman su                ... pos = 1.125 	neg = 0.125
+15. We never once doubt                 ... pos = 0.25  	neg = 0.375
+16. MUSIC OF THE HEART i                ... pos = 1.125 	neg = 0.125
+17. Mr. Craven is not as                ... pos = 1.0   	neg = 0.125
+18. But the film soars w                ... pos = 0.375 	neg = 0.0  
+19. Over half of the stu                ... pos = 0.125 	neg = 0.125
+20. The precision, dedic                ... pos = 0.75  	neg = 0.125
+21. Ms. Guaspari's teach                ... pos = 0.5   	neg = 0.125
+22. She elected to teach                ... pos = 0.5   	neg = 0    
+23. "  Not just physical                ... pos = 0.75  	neg = 0.0  
+24. Instead of coddling                 ... pos = 0.375 	neg = 0.5  
+25. She inspired them to                ... pos = 0.75  	neg = 0    
+26. And they loved her f                ... pos = 0.5   	neg = 0    
+27. "For the commandment                ... pos = 0.625 	neg = 0.25 
+28. Ms. Guaspari's lesso                ... pos = 0.375 	neg = 0.0  
+29. Discipline is a lear                ... pos = 0.0   	neg = 0.125
+30. The students learn t                ... pos = 0.75  	neg = 0    
+31. The only way to do t                ... pos = 0.0   	neg = 0.125
+32. Answer:  Practice, p                ... pos = 0.75  	neg = 0    
+33. This same answer can                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2109-305 is Positive         ... pos = 18.125 	neg = 4.75 
+Overall score of document
+Total Pos = 18.125
+Total Neg = 4.75
+---------------------------------------------------------------------------

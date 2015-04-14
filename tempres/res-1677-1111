@@ -1,0 +1,28 @@
+0. REVIEW: The Sweet He                 ... pos = 0.875 	neg = 1.375
+1. His messy, but beaut                 ... pos = 0.375 	neg = 1.0  
+2. Although not as shar                 ... pos = 1.0   	neg = 2.5  
+3. It is, with all the                  ... pos = 1.125 	neg = 0.25 
+4. Devastation strikes                  ... pos = 0.25  	neg = 0.625
+5. As can be expected,                  ... pos = 0.125 	neg = 0.5  
+6. Each parent deals wi                 ... pos = 0.375 	neg = 1.25 
+7. Mitchell perhaps car                 ... pos = 0.875 	neg = 0.25 
+8. I haven't seen any o                 ... pos = 0.0   	neg = 0.125
+9. Twisty, twirly, fast                 ... pos = 0.875 	neg = 0.375
+10. It's actually quite                 ... pos = 0.625 	neg = 0.0  
+11. Although I thought t                ... pos = 0.75  	neg = 0.25 
+12. He gives an effulgen                ... pos = 2.0   	neg = 0.25 
+13. It is only when he m                ... pos = 1.875 	neg = 0.125
+14. Without a doubt, he                 ... pos = 0.25  	neg = 0.0  
+15. A bunch of memorable                ... pos = 0.25  	neg = 0.0  
+16. Strangely enough, th                ... pos = 0.5   	neg = 0.125
+17. Charming and passion                ... pos = 1.75  	neg = 0.125
+18. Stirring emotions is                ... pos = 1.25  	neg = 0.875
+19. A shattering but rew                ... pos = 0.0   	neg = 0.0  
+20. If this is an exampl                ... pos = 0.125 	neg = 0.25 
+21. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1677-1111 is Positive        ... pos = 15.5  	neg = 10.25
+Overall score of document
+Total Pos = 15.5
+Total Neg = 10.25
+---------------------------------------------------------------------------

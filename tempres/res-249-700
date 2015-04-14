@@ -1,0 +1,27 @@
+0. Release Date: July 1                 ... pos = 0.5   	neg = 0.625
+1. With a zest normally                 ... pos = 1.75  	neg = 0.125
+2. Everything about ZOR                 ... pos = 0.75  	neg = 0.125
+3. Directed by Martin C                 ... pos = 0.75  	neg = 0.125
+4. The masked man is to                 ... pos = 0.125 	neg = 0.375
+5. Similar to Batman, Z                 ... pos = 1.0   	neg = 0.125
+6. And so it begins, as                 ... pos = 0.0   	neg = 0.125
+7. The story, then: Die                 ... pos = 0.0   	neg = 0.0  
+8. Many years later, he                 ... pos = 0.0   	neg = 0.625
+9. The opening scenes,                  ... pos = 2.125 	neg = 0.0  
+10. The audiences grow t                ... pos = 0.875 	neg = 0.0  
+11. Both are well-cast,                 ... pos = 1.625 	neg = 0.875
+12. As the story continu                ... pos = 0.625 	neg = 1.0  
+13. Don Diego takes Alej                ... pos = 0.5   	neg = 0.125
+14. Unfortunately for bo                ... pos = 0.375 	neg = 1.25 
+15. Jones plays Elena wi                ... pos = 1.375 	neg = 0.125
+16. Although the relatio                ... pos = 1.625 	neg = 0.125
+17. The only plot hole t                ... pos = 0.375 	neg = 0.375
+18. Although the Zorro's                ... pos = 1.25  	neg = 1.375
+19. But for all of the f                ... pos = 1.875 	neg = 0.0  
+20. FINAL AWARD FOR "THE                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-249-700 is Positive          ... pos = 18.0  	neg = 7.5  
+Overall score of document
+Total Pos = 18.0
+Total Neg = 7.5
+---------------------------------------------------------------------------

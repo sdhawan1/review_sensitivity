@@ -1,0 +1,24 @@
+0. REVIEW:  Great Expec                 ... pos = 1.125 	neg = 0.0  
+1. But I suspect that m                 ... pos = 0.25  	neg = 0.75 
+2. Generation X actors                  ... pos = 0.375 	neg = 0.375
+3. They have succeeded                  ... pos = 0.625 	neg = 0.0  
+4. Living in the small                  ... pos = 0.125 	neg = 1.0  
+5. Aged 8, Finn is imme                 ... pos = 0.25  	neg = 0.125
+6. Seizing the opportun                 ... pos = 0.25  	neg = 0.0  
+7. And even though I wa                 ... pos = 0.125 	neg = 0.5  
+8. Ain't love grand?                    ... pos = 0.625 	neg = 0    
+9. ". Through emotional                 ... pos = 0.75  	neg = 0.75 
+10. Now into adult hood,                ... pos = 0.375 	neg = 0    
+11. Years later, a myste                ... pos = 0.0   	neg = 0.5  
+12. Off he goes to New Y                ... pos = 0.375 	neg = 0.625
+13. The reunion of these                ... pos = 2.75  	neg = 0.0  
+14. With a surprisingly                 ... pos = 1.375 	neg = 0.125
+15. Sure - it's far from                ... pos = 0.25  	neg = 0.125
+16. The icy cold perform                ... pos = 1.875 	neg = 0.625
+17. Although Great Expec                ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5472-1111 is Positive        ... pos = 12.75 	neg = 5.625
+Overall score of document
+Total Pos = 12.75
+Total Neg = 5.625
+---------------------------------------------------------------------------

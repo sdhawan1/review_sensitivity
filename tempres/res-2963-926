@@ -1,0 +1,57 @@
+0. Screenplay: D.V DeVi                 ... pos = 0.125 	neg = 0.25 
+1. So effortlessly that                 ... pos = 1.875 	neg = 0.125
+2. Example: The other d                 ... pos = 0.75  	neg = 0.5  
+3. was a lot of fun (wh                 ... pos = 0.125 	neg = 0.75 
+4. I muttered, with a l                 ... pos = 0.625 	neg = 0.75 
+5. She responded with h                 ... pos = 0.125 	neg = 0.0  
+6. " This is a question                 ... pos = 0.125 	neg = 0.25 
+7. If the reply is Juli                 ... pos = 0.875 	neg = 0.5  
+8. Anyway, when I answe                 ... pos = 0.5   	neg = 0.0  
+9. ", as if it was unre                 ... pos = 0.0   	neg = 0.625
+10. Now I know for a fac                ... pos = 0.75  	neg = 0.0  
+11. I showed her a pictu                ... pos = 0.0   	neg = 0.125
+12. At this point I was                 ... pos = 2.375 	neg = 1.75 
+13. Cu-sack.                            ... pos = 0     	neg = 0    
+14. Cu-sack - no, not qu                ... pos = 0.0   	neg = 0.25 
+15. I'm sure that twenty                ... pos = 0.5   	neg = 0.25 
+16. He's not a brand nam                ... pos = 0.5   	neg = 0.0  
+17. With his pleasant, c                ... pos = 1.5   	neg = 0.375
+18. From THE SURE THING                 ... pos = 0.25  	neg = 0.0  
+19. Despite the fact tha                ... pos = 2.5   	neg = 0.125
+20. And he knows how to                 ... pos = 1.5   	neg = 0.375
+21. HIGH FIDELITY is his                ... pos = 0.375 	neg = 0.125
+22. It was also co-writt                ... pos = 0.25  	neg = 0.125
+23. It's not quite as en                ... pos = 0.625 	neg = 0.0  
+24. HIGH FIDELITY begins                ... pos = 0.125 	neg = 0.0  
+25. This is something Cu                ... pos = 0.0   	neg = 0.75 
+26. At first the talking                ... pos = 2.0   	neg = 0.0  
+27. He's the kind of guy                ... pos = 0.125 	neg = 0.0  
+28. Gradually the film s                ... pos = 2.0   	neg = 0.625
+29. Though that plot-lin                ... pos = 2.125 	neg = 0.375
+30. The best of which is                ... pos = 2.125 	neg = 1.0  
+31. He's the kind of guy                ... pos = 0.5   	neg = 0.375
+32. But I like this guy,                ... pos = 0.0   	neg = 0.0  
+33. The actor is portly                 ... pos = 1.25  	neg = 2.375
+34. He's the kind of sup                ... pos = 1.25  	neg = 0.375
+35. (Look at what that h                ... pos = 0.0   	neg = 0.375
+36. But Fears and Black                 ... pos = 0.375 	neg = 0.0  
+37. The character, for a                ... pos = 1.0   	neg = 0.125
+38. He's over the top, b                ... pos = 0.0   	neg = 0.0  
+39. Catherine Zeta-Jones                ... pos = 1.125 	neg = 0.0  
+40. Tim Robbins register                ... pos = 2.0   	neg = 0.0  
+41. The one exception in                ... pos = 0.625 	neg = 0.125
+42. I give her kudos for                ... pos = 2.75  	neg = 1.125
+43. This reminded me of                 ... pos = 1.25  	neg = 1.625
+44. In fact Cusack is ra                ... pos = 0.25  	neg = 0.25 
+45. HIGH FIDELITY works                 ... pos = 2.375 	neg = 0.0  
+46. Fears' direction is                 ... pos = 2.0   	neg = 1.125
+47. But Cusack really do                ... pos = 1.5   	neg = 0.0  
+48. I'm afraid that his                 ... pos = 1.625 	neg = 0.5  
+49. His character, Rob (                ... pos = 1.5   	neg = 1.125
+50. http://www.geocities                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2963-926 is Positive         ... pos = 46.125 	neg = 19.5 
+Overall score of document
+Total Pos = 46.125
+Total Neg = 19.5
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. David Fincher's prev                 ... pos = 0.5   	neg = 0.0  
+1. "The Game" is anothe                 ... pos = 0.625 	neg = 0.25 
+2. This is a thrilling,                 ... pos = 0.375 	neg = 0.125
+3. As with many of toda                 ... pos = 0.125 	neg = 0.125
+4. But  Douglas' perfor                 ... pos = 0.75  	neg = 0.0  
+5. Douglas plays Nichol                 ... pos = 0.0   	neg = 0.25 
+6. He is divorced, he h                 ... pos = 0.5   	neg = 0.375
+7. When he is not rulin                 ... pos = 0.25  	neg = 0.25 
+8. Van Orton's younger                  ... pos = 0.25  	neg = 0.0  
+9. "Tell me you'll call                 ... pos = 0.375 	neg = 0.5  
+10. The events that occu                ... pos = 0.25  	neg = 0.125
+11. Events based in real                ... pos = 0.625 	neg = 0.625
+12. He  begins to confro                ... pos = 0.0   	neg = 0.625
+13. Each non-related  di                ... pos = 0.0   	neg = 0.625
+14. Sean Penn is terribl                ... pos = 0.0   	neg = 0.25 
+15. Penn, who  receives                 ... pos = 0.625 	neg = 0.25 
+16. An actor of his dept                ... pos = 0.0   	neg = 0.5  
+17. Only the cleft in hi                ... pos = 0.0   	neg = 0.0  
+18. Second billing would                ... pos = 0.875 	neg = 0.125
+19. San Francisco is use                ... pos = 0.375 	neg = 0.125
+20. Fincher's expected                  ... pos = 0.0   	neg = 1.125
+21. Rather he cleans up                 ... pos = 2.125 	neg = 0.0  
+22. Very little  in this                ... pos = 2.0   	neg = 1.25 
+23. Unlike "The Rock", i                ... pos = 1.0   	neg = 0.125
+24. "The Game" is a thri                ... pos = 0.125 	neg = 0.625
+25. The shock  ending wi                ... pos = 0.125 	neg = 0.0  
+26. But either way, Finc                ... pos = 0.0   	neg = 0.0  
+27. (I really had to go.                ... pos = 0.25  	neg = 0.0  
+28. ) He gives you an in                ... pos = 0.0   	neg = 0.375
+29. The frustration that                ... pos = 0.25  	neg = 0.25 
+30. Three and a half out                ... pos = 0.0   	neg = 0.0  
+31. Copyright (C) 1997 N                ... pos = 0     	neg = 0.0  
+32. Complaints?                         ... pos = 0.0   	neg = 0    
+33. Criticism?                          ... pos = 0.0   	neg = 0    
+34. Debate?                             ... pos = 0.0   	neg = 0    
+35. Email me: NAMIAM@AOL                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4973-380 is Positive         ... pos = 12.375 	neg = 8.875
+Overall score of document
+Total Pos = 12.375
+Total Neg = 8.875
+---------------------------------------------------------------------------

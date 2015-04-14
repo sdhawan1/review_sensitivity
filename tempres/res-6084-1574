@@ -1,0 +1,56 @@
+0. An odd trend in movi                 ... pos = 1.75  	neg = 1.0  
+1. Earlier this month,                  ... pos = 0.0   	neg = 0.5  
+2. Now with PULP FICTIO                 ... pos = 0.0   	neg = 0.5  
+3. The result is an int                 ... pos = 0.5   	neg = 0.75 
+4. Tarantino's screenpl                 ... pos = 0.625 	neg = 0.0  
+5. The film occasionall                 ... pos = 0.625 	neg = 0.0  
+6. One story involves a                 ... pos = 0.0   	neg = 0.5  
+7. Another story follow                 ... pos = 0.625 	neg = 0.625
+8. A third story is cen                 ... pos = 0.25  	neg = 0.875
+9. Finally, the fourth                  ... pos = 0.0   	neg = 1.625
+10. The film does not at                ... pos = 0.0   	neg = 0.0  
+11. The film is broken u                ... pos = 0.125 	neg = 0.125
+12. It even includes che                ... pos = 0.875 	neg = 0.875
+13. The movie even doubl                ... pos = 0.75  	neg = 0.0  
+14. Like the novels that                ... pos = 0.25  	neg = 0.0  
+15. The cast works large                ... pos = 1.5   	neg = 0    
+16. Of course, pulp nove                ... pos = 1.25  	neg = 0.25 
+17. Many critics have di                ... pos = 1.0   	neg = 0.5  
+18. His character is wri                ... pos = 0.875 	neg = 0.375
+19. During one of the fi                ... pos = 0.625 	neg = 0.0  
+20. It really comes thro                ... pos = 0.25  	neg = 0.125
+21. Besides Travolta, Br                ... pos = 0.0   	neg = 0.125
+22. Willis is another ac                ... pos = 1.5   	neg = 0.25 
+23. He has occasionally                 ... pos = 1.25  	neg = 0.0  
+24. Without strong direc                ... pos = 1.375 	neg = 0.375
+25. Samuel L. Jackson is                ... pos = 0.0   	neg = 0.125
+26. He is given the most                ... pos = 0.875 	neg = 0.125
+27. Jackson has been sol                ... pos = 0.0   	neg = 0.25 
+28. Two of the film's mo                ... pos = 1.25  	neg = 0.5  
+29. Like in his earlier                 ... pos = 1.25  	neg = 0.0  
+30. I won't ruin anythin                ... pos = 0.0   	neg = 0.5  
+31. Harvey Keitel is als                ... pos = 0.875 	neg = 0.125
+32. The role is basicall                ... pos = 0.0   	neg = 0.25 
+33. Other entertaining c                ... pos = 0.375 	neg = 0.5  
+34. Tarantino's biggest                 ... pos = 0.875 	neg = 0.125
+35. This movie is packed                ... pos = 0.5   	neg = 0.125
+36. A number of cliched                 ... pos = 0.5   	neg = 0.5  
+37. Tarantino perfectly                 ... pos = 0.5   	neg = 0.375
+38. Tarantino is also ve                ... pos = 1.25  	neg = 0.875
+39. The scenes all *feel                ... pos = 0.0   	neg = 0.0  
+40. Despite the film's m                ... pos = 0.875 	neg = 0.125
+41. The movie is full of                ... pos = 0.75  	neg = 0.125
+42. This is generally tr                ... pos = 0.875 	neg = 0.125
+43. Another problem is t                ... pos = 0.875 	neg = 0.625
+44. The constant vulgari                ... pos = 0.75  	neg = 0.25 
+45. At over two and a ha                ... pos = 0.125 	neg = 0.625
+46. It is helped somewha                ... pos = 0.0   	neg = 0.125
+47. One of the best ways                ... pos = 0.75  	neg = 0.5  
+48. It is a *very* accur                ... pos = 1.25  	neg = 0.125
+49. The movie goes on a                 ... pos = 1.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6084-1574 is Positive        ... pos = 31.5  	neg = 16.875
+Overall score of document
+Total Pos = 31.5
+Total Neg = 16.875
+---------------------------------------------------------------------------

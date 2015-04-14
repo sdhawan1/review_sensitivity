@@ -1,0 +1,36 @@
+0. RATING: ** out of **                 ... pos = 0.375 	neg = 0.625
+1. Based on the novel "                 ... pos = 0.375 	neg = 1.0  
+2. In a word, this movi                 ... pos = 1.5   	neg = 1.125
+3. If you enjoyed JURAS                 ... pos = 0.875 	neg = 0.0  
+4. The story revolves a                 ... pos = 0.125 	neg = 0.0  
+5. He is approached by                  ... pos = 0.375 	neg = 0.125
+6. In the words of the                  ... pos = 0.375 	neg = 0.125
+7. At first, of course,                 ... pos = 0.125 	neg = 0.125
+8. But when he learns t                 ... pos = 0.5   	neg = 0.25 
+9. The problem with thi                 ... pos = 0.5   	neg = 0.375
+10. Why would anyone go                 ... pos = 0.0   	neg = 0.125
+11. Unfortunately, this                 ... pos = 0.25  	neg = 1.0  
+12. Still another unbeli                ... pos = 0.0   	neg = 0.25 
+13. After what happened                 ... pos = 0.25  	neg = 0.125
+14. From his standpoint,                ... pos = 0.125 	neg = 1.25 
+15. Yet, he seems to car                ... pos = 0.25  	neg = 0.375
+16. It also is quite unb                ... pos = 0.25  	neg = 0.625
+17. Continuing on, many                 ... pos = 0.75  	neg = 0.25 
+18. Aside from the unrea                ... pos = 2.75  	neg = 0.0  
+19. This film concentrat                ... pos = 0.0   	neg = 0.0  
+20. A small attempt is m                ... pos = 0.125 	neg = 0.625
+21. The main reason for                 ... pos = 0.0   	neg = 0.125
+22. Although this film i                ... pos = 0.75  	neg = 0.375
+23. The kids don't care                 ... pos = 0.0   	neg = 0.0  
+24. All they care about                 ... pos = 0.0   	neg = 1.125
+25. In a nutshell, THE L                ... pos = 0.0   	neg = 0.875
+26. If you come expectin                ... pos = 2.0   	neg = 0.125
+27. If you come looking                 ... pos = 1.375 	neg = 0.5  
+28. Arguably, the only a                ... pos = 0.75  	neg = 0.0  
+29. THE LOST WORLD is pr                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1258-97 is Positive          ... pos = 14.875 	neg = 11.75
+Overall score of document
+Total Pos = 14.875
+Total Neg = 11.75
+---------------------------------------------------------------------------

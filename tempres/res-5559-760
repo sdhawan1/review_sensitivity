@@ -1,0 +1,36 @@
+0. By Nathaniel R. Atch                 ... pos = 0.25  	neg = 1.125
+1. Paul Anderson, whose                 ... pos = 0.0   	neg = 1.0  
+2. But Soldier, penned                  ... pos = 0.0   	neg = 0.0  
+3. Not even a mute Kurt                 ... pos = 0.0   	neg = 0.0  
+4. The best moments are                 ... pos = 1.375 	neg = 0.0  
+5. He and other young m                 ... pos = 0.375 	neg = 0.0  
+6. The training is hars                 ... pos = 0.125 	neg = 0.75 
+7. "  The military bree                 ... pos = 1.125 	neg = 0.25 
+8. That's about as far                  ... pos = 0.375 	neg = 0.5  
+9. Thought to be dead,                  ... pos = 1.5   	neg = 1.125
+10. Lucky for the film,                 ... pos = 1.5   	neg = 0.375
+11. Todd, naturally, bec                ... pos = 0.25  	neg = 0.125
+12. And he bonds with th                ... pos = 0.0   	neg = 0    
+13. And, unfortunately,                 ... pos = 0.125 	neg = 0.875
+14. Soldier isn't downri                ... pos = 1.25  	neg = 0.625
+15. The special effects                 ... pos = 1.75  	neg = 0.375
+16. The digital effects                 ... pos = 0.625 	neg = 0.375
+17. The problem is that                 ... pos = 0.0   	neg = 0.375
+18. Stuff explodes.                     ... pos = 0.0   	neg = 0.25 
+19. People die.                         ... pos = 0.0   	neg = 0.0  
+20. The hero wins.                      ... pos = 0.625 	neg = 0    
+21. I mean, come on -- f                ... pos = 0.0   	neg = 0.375
+22. If there's anything                 ... pos = 0.0   	neg = 0.0  
+23. Russell is always a                 ... pos = 0.625 	neg = 0.5  
+24. It's hard to say whe                ... pos = 0.0   	neg = 0.75 
+25. Backup performances                 ... pos = 0.5   	neg = 1.0  
+26. If I sound lost for                 ... pos = 0.0   	neg = 0.125
+27. It's too loud to be                 ... pos = 0.75  	neg = 1.0  
+28. It's not a loathsome                ... pos = 1.625 	neg = 0.625
+29. It's likely that mos                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5559-760 is Positive         ... pos = 15.0  	neg = 12.625
+Overall score of document
+Total Pos = 15.0
+Total Neg = 12.625
+---------------------------------------------------------------------------

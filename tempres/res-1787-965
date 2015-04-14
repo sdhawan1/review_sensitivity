@@ -1,0 +1,34 @@
+0. Here's the story: th                 ... pos = 0.5   	neg = 0.125
+1. Pretty typical stuff                 ... pos = 1.25  	neg = 0.375
+2. To give the pharaoh                  ... pos = 0.875 	neg = 0.375
+3. As bad luck would ha                 ... pos = 1.0   	neg = 1.375
+4. Of course, eternity                  ... pos = 0.0   	neg = 1.0  
+5. Too--and even though                 ... pos = 1.75  	neg = 0.0  
+6. But he doesn't awake                 ... pos = 0.25  	neg = 0.0  
+7. That's plot point 1,                 ... pos = 1.75  	neg = 0.25 
+8. Close behind is her                  ... pos = 0.0   	neg = 0.125
+9. Together they hire s                 ... pos = 0.5   	neg = 0.25 
+10. Add to it a bevy of                 ... pos = 0.75  	neg = 0.5  
+11. And the mummy, wow.                 ... pos = 0     	neg = 0.375
+12. Gone are the days wh                ... pos = 0.375 	neg = 0.0  
+13. Now the mummy's seri                ... pos = 1.25  	neg = 0.0  
+14. He even has a voice,                ... pos = 0.625 	neg = 0.125
+15. Unlike Wishmaster, h                ... pos = 0.625 	neg = 1.75 
+16. It's as if director                 ... pos = 0.0   	neg = 0.0  
+17. Which would have bee                ... pos = 0.0   	neg = 0.375
+18. But the humor, the z                ... pos = 0.125 	neg = 0.0  
+19. With that kind of st                ... pos = 0.625 	neg = 0.375
+20. Best to use them as                 ... pos = 0.375 	neg = 0.5  
+21. Or, perhaps, best to                ... pos = 1.25  	neg = 0.0  
+22. Beni (Kevin J. O'Con                ... pos = 0.25  	neg = 1.125
+23. He does have a coupl                ... pos = 0.0   	neg = 0.0  
+24. If one character can                ... pos = 1.0   	neg = 0.0  
+25. If one character can                ... pos = 1.75  	neg = 0.5  
+26. Suffice it to say th                ... pos = 0.125 	neg = 0.875
+27. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1787-965 is Positive         ... pos = 17.0  	neg = 10.375
+Overall score of document
+Total Pos = 17.0
+Total Neg = 10.375
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. Review by Lars Linda                 ... pos = 0.125 	neg = 0.5  
+1. That was the first q                 ... pos = 0.125 	neg = 0.5  
+2. is still my reaction                 ... pos = 0.125 	neg = 0.125
+3. The ending of Americ                 ... pos = 0.125 	neg = 1.0  
+4. Neither me nor the s                 ... pos = 0.375 	neg = 0.875
+5. The sloppy ending di                 ... pos = 0.0   	neg = 0.25 
+6. American Psycho may                  ... pos = 0.25  	neg = 0.875
+7. Surprise endings wor                 ... pos = 0.625 	neg = 0.0  
+8. On the other hand, t                 ... pos = 1.125 	neg = 0.125
+9. When American Psycho                 ... pos = 0.25  	neg = 1.375
+10. What was the point o                ... pos = 0.0   	neg = 0.5  
+11. Does Patrick Bateman                ... pos = 0.75  	neg = 0.0  
+12. As a rich Wall Stree                ... pos = 0.0   	neg = 1.0  
+13. He doesn't just esca                ... pos = 0.125 	neg = 1.375
+14. This all coming from                ... pos = 0.0   	neg = 0.5  
+15. Patrick is like no o                ... pos = 1.0   	neg = 0.375
+16. Bale saves this movi                ... pos = 1.875 	neg = 0.5  
+17. Thank god Leonardo D                ... pos = 0.0   	neg = 0.875
+18. The only problem wit                ... pos = 0.75  	neg = 1.375
+19. It felt like directo                ... pos = 1.25  	neg = 0.0  
+20. Several excellent ac                ... pos = 1.25  	neg = 0.375
+21. Witherspoon, Willem                 ... pos = 2.0   	neg = 0.75 
+22. We never learn anyth                ... pos = 0.25  	neg = 0.0  
+23. The beauty of Batema                ... pos = 0.625 	neg = 0.25 
+24. And slowly, as the m                ... pos = 0.875 	neg = 0.0  
+25. ". Besides Bale's pe                ... pos = 0.125 	neg = 0.5  
+26. Rumored to be extrem                ... pos = 1.375 	neg = 0.25 
+27. The jokes, sometimes                ... pos = 0.625 	neg = 0.25 
+28. Maybe the MPAA ruine                ... pos = 0.0   	neg = 0.5  
+29. What was the point o                ... pos = 0.0   	neg = 0.5  
+30. Was it a clever, sat                ... pos = 0.5   	neg = 0.125
+31. Bret Easton Ellis' n                ... pos = 0.0   	neg = 0.25 
+32. Pop culture has affe                ... pos = 0.375 	neg = 0    
+33. With a decent ending                ... pos = 1.375 	neg = 0.5  
+34. Bale does his best t                ... pos = 0.875 	neg = 1.0  
+35. Overall, American Ps                ... pos = 0.0   	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-3687-778 is Positive         ... pos = 19.125 	neg = 18.625
+Overall score of document
+Total Pos = 19.125
+Total Neg = 18.625
+---------------------------------------------------------------------------

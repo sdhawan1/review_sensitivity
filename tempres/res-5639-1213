@@ -1,0 +1,33 @@
+0. Starring Robert De N                 ... pos = 1.75  	neg = 0.25 
+1. Billy Crystal plays                  ... pos = 0.5   	neg = 0.125
+2. ) Ben wants nothing                  ... pos = 0.375 	neg = 0.25 
+3. But Ben is soon draw                 ... pos = 0.375 	neg = 0.125
+4. All done in a comic                  ... pos = 0.0   	neg = 0.0  
+5. Although never brill                 ... pos = 1.0   	neg = 0.25 
+6. Billy Crystal, who h                 ... pos = 0.75  	neg = 0.125
+7. He's pretty funny wh                 ... pos = 1.75  	neg = 0.625
+8. Robert De Niro is hi                 ... pos = 0.5   	neg = 0.75 
+9. He's a serious gangs                 ... pos = 0.125 	neg = 0.125
+10. Lisa Kudrow, barely                 ... pos = 0.625 	neg = 1.125
+11. The supporting cast                 ... pos = 0.375 	neg = 0.25 
+12. ). The film genuinel                ... pos = 1.375 	neg = 0.75 
+13. It sometimes gets a                 ... pos = 0.875 	neg = 0.25 
+14. Spoofs are made of f                ... pos = 0.625 	neg = 0.0  
+15. The Italian tunes pl                ... pos = 0.75  	neg = 0    
+16. There's also some od                ... pos = 0.5   	neg = 0.0  
+17. It is true that Anal                ... pos = 0.875 	neg = 0.25 
+18. Unfortunately, this                 ... pos = 0.125 	neg = 1.0  
+19. Harold Ramis, best k                ... pos = 0.75  	neg = 0.0  
+20. All the comic potent                ... pos = 0.0   	neg = 0.125
+21. The script, written                 ... pos = 0.0   	neg = 1.375
+22. The film is short, h                ... pos = 0.625 	neg = 0.25 
+23. Analyze This is a go                ... pos = 1.0   	neg = 0.25 
+24. Robert De Niro sobbi                ... pos = 0.375 	neg = 0.25 
+25. ) Crystal is his mos                ... pos = 1.75  	neg = 0.75 
+26. It's no Goodfellas,                 ... pos = 0.25  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5639-1213 is Positive        ... pos = 18.0  	neg = 9.75 
+Overall score of document
+Total Pos = 18.0
+Total Neg = 9.75
+---------------------------------------------------------------------------

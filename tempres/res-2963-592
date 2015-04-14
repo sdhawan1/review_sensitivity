@@ -1,0 +1,38 @@
+0. ---This review will                  ... pos = 2.75  	neg = 0.125
+1. Here's the bad news:                 ... pos = 0.875 	neg = 0.875
+2. This is a major prob                 ... pos = 0.625 	neg = 0.5  
+3. ' The movie offers t                 ... pos = 0.0   	neg = 0.0  
+4. Rob (John Cusack) is                 ... pos = 0.625 	neg = 1.125
+5. His latest girlfrien                 ... pos = 0.5   	neg = 0.125
+6. Actually, he finds a                 ... pos = 0.0   	neg = 0.375
+7. Rob ultimately reach                 ... pos = 0.875 	neg = 0.0  
+8. (There's a new one!                  ... pos = 0.375 	neg = 0    
+9. ) His voyage from ex                 ... pos = 0.0   	neg = 0.25 
+10. The West Indies!).                  ... pos = 0     	neg = 0.0  
+11. But the filmmakers s                ... pos = 0.25  	neg = 1.0  
+12. Fortunately, Jack Bl                ... pos = 0.5   	neg = 0.25 
+13. Black, a slightly mo                ... pos = 0.0   	neg = 0.375
+14. Unfortunately, the o                ... pos = 0.375 	neg = 1.5  
+15. Tim Robbins plays th                ... pos = 0.375 	neg = 0.0  
+16. The character, unlik                ... pos = 1.875 	neg = 0.75 
+17. Robbins conquers it                 ... pos = 0.375 	neg = 0.5  
+18. Catherine Zeta-Jones                ... pos = 0.0   	neg = 0.0  
+19. Aside from being the                ... pos = 2.25  	neg = 1.0  
+20. The other former gir                ... pos = 0.75  	neg = 0.0  
+21. Where the movie does                ... pos = 0.0   	neg = 0.25 
+22. The press notes list                ... pos = 0.25  	neg = 0.0  
+23. Highlights include a                ... pos = 0.75  	neg = 0.0  
+24. '. High Fidelity als                ... pos = 0.25  	neg = 0.375
+25. Except for one night                ... pos = 0.75  	neg = 0.0  
+26. High Fidelity, which                ... pos = 1.5   	neg = 0.125
+27. But Holden Caulfield                ... pos = 0.0   	neg = 2.0  
+28. At one point, Rob po                ... pos = 0.0   	neg = 2.0  
+29. ' I don't know.                     ... pos = 0     	neg = 0.0  
+30. But I do know this:                 ... pos = 0.0   	neg = 2.0  
+31. And if you mistakenl                ... pos = 1.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2963-592 is Positive         ... pos = 18.25 	neg = 15.5 
+Overall score of document
+Total Pos = 18.25
+Total Neg = 15.5
+---------------------------------------------------------------------------

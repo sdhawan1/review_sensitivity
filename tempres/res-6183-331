@@ -1,0 +1,33 @@
+0. Smoking is bad for y                 ... pos = 0     	neg = 1.0  
+1. Everybody knows it.                  ... pos = 0.0   	neg = 0    
+2. But people still enj                 ... pos = 0.375 	neg = 0.0  
+3. And the tobacco comp                 ... pos = 0.25  	neg = 0.0  
+4. Worse, they even lie                 ... pos = 0.0   	neg = 0.75 
+5. So what if it's addi                 ... pos = 0.0   	neg = 0.0  
+6. People are still goi                 ... pos = 0.25  	neg = 0.125
+7. Too bad these tobacc                 ... pos = 0.0   	neg = 1.375
+8. Jeffrey Wigand (Russ                 ... pos = 0.0   	neg = 0.125
+9. That was until he go                 ... pos = 0.0   	neg = 0.125
+10. But from his time at                ... pos = 0.0   	neg = 0.0  
+11. So Lowell Bergman (A                ... pos = 0.375 	neg = 1.0  
+12. But in doing that is                ... pos = 0.25  	neg = 0.0  
+13. Wigand has to deal w                ... pos = 0.0   	neg = 0    
+14. They have the money,                ... pos = 0.0   	neg = 0.0  
+15. And with money, you                 ... pos = 0.0   	neg = 0.0  
+16. On top of that, he h                ... pos = 0.0   	neg = 0.0  
+17. What a rollercoaster                ... pos = 0.0   	neg = 0.0  
+18. It's a fantastic inv                ... pos = 1.375 	neg = 0.0  
+19. Although the movie e                ... pos = 0.0   	neg = 0.0  
+20. No wonder that this                 ... pos = 0.75  	neg = 0.375
+21. You can really feel                 ... pos = 0.25  	neg = 0.0  
+22. Russel Crowe's perfo                ... pos = 1.0   	neg = 0.125
+23. Whenever Al Pacino i                ... pos = 0.125 	neg = 0.25 
+24. Michael Mann is gett                ... pos = 0.0   	neg = 0.125
+25. He made the bad guy                 ... pos = 1.125 	neg = 1.25 
+26. Here he put suspense                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6183-331 is Negative         ... pos = 6.125 	neg = 6.75 
+Overall score of document
+Total Pos = 6.125
+Total Neg = 6.75
+---------------------------------------------------------------------------

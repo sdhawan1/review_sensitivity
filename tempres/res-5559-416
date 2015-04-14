@@ -1,0 +1,19 @@
+0. Ingredients: Robotic                 ... pos = 1.125 	neg = 0.375
+1. 40 years later, this                 ... pos = 0.375 	neg = 0.625
+2. Todd himself is junk                 ... pos = 0.0   	neg = 0.625
+3. One day when the arm                 ... pos = 0.0   	neg = 0.5  
+4. Opinion: Usually in                  ... pos = 1.75  	neg = 0.125
+5. Either that or the a                 ... pos = 0.0   	neg = 0.125
+6. (Think of ET or THE                  ... pos = 0     	neg = 0.0  
+7. SOLDIER probably won                 ... pos = 1.125 	neg = 0.875
+8. SOLDIER's focus is p                 ... pos = 0.25  	neg = 0.375
+9. The second flaw is t                 ... pos = 0.625 	neg = 0.125
+10. A last minute showdo                ... pos = 0.0   	neg = 0.0  
+11. SOLDIER's futuristic                ... pos = 1.625 	neg = 0.625
+12. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5559-416 is Positive         ... pos = 6.875 	neg = 4.5  
+Overall score of document
+Total Pos = 6.875
+Total Neg = 4.5
+---------------------------------------------------------------------------

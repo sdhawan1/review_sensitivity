@@ -1,0 +1,38 @@
+0. DIRECTED BY:     Kin                 ... pos = 0.875 	neg = 0.0  
+1. In the super hero bu                 ... pos = 2.875 	neg = 0.5  
+2. MYSTERY MEN is a fil                 ... pos = 0.0   	neg = 0.125
+3. Champion City alread                 ... pos = 0.0   	neg = 0.0  
+4. But Captain Amazing                  ... pos = 0.875 	neg = 0.375
+5. Enter Casanova Frank                 ... pos = 1.0   	neg = 0.0  
+6. With Captain Amazing                 ... pos = 0.25  	neg = 0.375
+7. They are: The Shovel                 ... pos = 1.125 	neg = 0.0  
+8. Furious (Jerry Still                 ... pos = 1.75  	neg = 2.875
+9. Together, these dimw                 ... pos = 3.0   	neg = 0.125
+10. MYSTERY MEN is based                ... pos = 0.125 	neg = 0.125
+11. With such an unquest                ... pos = 0.0   	neg = 0.625
+12. The problem lies pri                ... pos = 0.0   	neg = 0.375
+13. Mr.                                 ... pos = 0     	neg = 0.0  
+14. Usher is perhaps bes                ... pos = 1.125 	neg = 0.125
+15. No doubt he has lear                ... pos = 0.25  	neg = 0.375
+16. The script is weak,                 ... pos = 1.375 	neg = 1.5  
+17. Mr. Kinnear is amusi                ... pos = 0.25  	neg = 0.125
+18. Mr. Macy, as the cre                ... pos = 0.0   	neg = 0.375
+19. His consistency, as                 ... pos = 0.875 	neg = 0.125
+20. A film of this scope                ... pos = 1.0   	neg = 0.25 
+21. Usher provided.                     ... pos = 0     	neg = 0.0  
+22. The concept is one t                ... pos = 0.0   	neg = 0.25 
+23. Working class men an                ... pos = 1.375 	neg = 0.125
+24. Their success comes                 ... pos = 0.125 	neg = 0.0  
+25. They must combine th                ... pos = 0.125 	neg = 0.375
+26. Followers of Christ                 ... pos = 0.375 	neg = 0    
+27. By combining our ind                ... pos = 0.875 	neg = 0.125
+28. Together, with God,                 ... pos = 0.75  	neg = 0.0  
+29. The scriptures say:                 ... pos = 0.5   	neg = 0.125
+30. As the Sphinx might                 ... pos = 0.125 	neg = 0.75 
+31. " . .                               ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1731-305 is Positive         ... pos = 21.0  	neg = 10.125
+Overall score of document
+Total Pos = 21.0
+Total Neg = 10.125
+---------------------------------------------------------------------------

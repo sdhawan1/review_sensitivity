@@ -1,0 +1,22 @@
+0. I Still Know What Yo                 ... pos = 1.25  	neg = 0.625
+1. In the middle of sum                 ... pos = 0.375 	neg = 0.0  
+2. They have to guess t                 ... pos = 0.375 	neg = 0.125
+3. They guess that, and                 ... pos = 0.0   	neg = 0.0  
+4. Karla brings along T                 ... pos = 0.25  	neg = 0.125
+5. Apparently Julie sti                 ... pos = 0.125 	neg = 0.75 
+6. " Oh my!                             ... pos = 0     	neg = 0.0  
+7. What shocking horror                 ... pos = 0.375 	neg = 0    
+8. The capital of Brazi                 ... pos = 0.125 	neg = 0.0  
+9. He's once again on a                 ... pos = 0.0   	neg = 0.0  
+10. I mean, come on, doe                ... pos = 0.0   	neg = 0.0  
+11. And what happened to                ... pos = 0.0   	neg = 0.125
+12. This film is greatly                ... pos = 0.625 	neg = 0.125
+13. Sarah Michelle Gella                ... pos = 0.0   	neg = 1.125
+14. This film is so pred                ... pos = 0.0   	neg = 0.125
+15. I don't care how lit                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4181-329 is Positive         ... pos = 3.5   	neg = 3.375
+Overall score of document
+Total Pos = 3.5
+Total Neg = 3.375
+---------------------------------------------------------------------------

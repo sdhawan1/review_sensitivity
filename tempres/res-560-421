@@ -1,0 +1,24 @@
+0. rated PG-13 starring                 ... pos = 1.0   	neg = 0.5  
+1. First-time director                  ... pos = 0.5   	neg = 0.125
+2. As we find out early                 ... pos = 0.0   	neg = 0.125
+3. Kat(Julia Stiles) is                 ... pos = 1.375 	neg = 0.25 
+4. To her, being nice i                 ... pos = 0.5   	neg = 0.5  
+5. her sister Bianca(La                 ... pos = 0.875 	neg = 0.125
+6. But the sisters are                  ... pos = 0.875 	neg = 0.0  
+7. But then, he decides                 ... pos = 0.0   	neg = 0.0  
+8. Bianca can't date un                 ... pos = 0.125 	neg = 0.0  
+9. It is then that Joey                 ... pos = 0.25  	neg = 0.875
+10. But there is also th                ... pos = 1.489 	neg = 0.25 
+11. The relationship bet                ... pos = 0.75  	neg = 0.125
+12. But that doesn't mea                ... pos = 0.125 	neg = 0.0  
+13. There are moments in                ... pos = 0.25  	neg = 0.125
+14. " This film is basic                ... pos = 0.75  	neg = 0.5  
+15. Julia Stiles(T.V's "                ... pos = 0.25  	neg = 0.0  
+16. 10 THINGS I HATE ABO                ... pos = 1.625 	neg = 1.375
+17. a review by Akiva Go                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-560-421 is Positive          ... pos = 10.864 	neg = 5.0  
+Overall score of document
+Total Pos = 10.864
+Total Neg = 5.0
+---------------------------------------------------------------------------

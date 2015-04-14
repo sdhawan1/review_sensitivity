@@ -1,0 +1,58 @@
+0. Matthew Broderick an                 ... pos = 0.0   	neg = 0.0  
+1. The two terms have b                 ... pos = 0.125 	neg = 0.75 
+2. Now it is 13 years l                 ... pos = 0.0   	neg = 0.25 
+3. Ferris Buehler's Day                 ... pos = 0.375 	neg = 0.75 
+4. It was  light, fluff                 ... pos = 1.375 	neg = 0.125
+5. But Election is far                  ... pos = 0.625 	neg = 0.125
+6. This production is a                 ... pos = 0.625 	neg = 0.125
+7. Jim McAllister (Matt                 ... pos = 0.375 	neg = 0.125
+8. He is a kind, caring                 ... pos = 0.5   	neg = 0.125
+9. In turn, Carver High                 ... pos = 0.0   	neg = 0.0  
+10. Jim has won teacher                 ... pos = 1.125 	neg = 0.125
+11. Tracy Flick (Reese W                ... pos = 0.25  	neg = 0.125
+12. She is involved in n                ... pos = 0.875 	neg = 0.25 
+13. So, it is a natural                 ... pos = 0.125 	neg = 0.125
+14. The Metzler family i                ... pos = 0.625 	neg = 0.125
+15. The father, Dick (Ho                ... pos = 0.0   	neg = 0.0  
+16. The mother, Jo (Jean                ... pos = 0.0   	neg = 0.125
+17. And the two children                ... pos = 0.25  	neg = 0.0  
+18. Paul was  the quarte                ... pos = 0.375 	neg = 0.75 
+19. Tammy is a  lesbian                 ... pos = 0.125 	neg = 0.25 
+20. For reasons of reven                ... pos = 0.875 	neg = 0.5  
+21. He claims that in a                 ... pos = 0.125 	neg = 0.125
+22. So Paul agrees and t                ... pos = 0.5   	neg = 0.125
+23. But then, in an effo                ... pos = 0.0   	neg = 0.125
+24. Her campaign is stra                ... pos = 0.0   	neg = 0.375
+25. Well, "I don't even                 ... pos = 0.0   	neg = 0.125
+26. In Election, there a                ... pos = 0.25  	neg = 0.25 
+27. Almost everyone has                 ... pos = 0.0   	neg = 0    
+28. No matter how deeply                ... pos = 0.375 	neg = 0.25 
+29. Tracy is the type of                ... pos = 0.125 	neg = 0.125
+30. She is the girl that                ... pos = 0.5   	neg = 0.25 
+31. Jim is a teacher tha                ... pos = 0.625 	neg = 0.125
+32. Everyone, including                 ... pos = 1.125 	neg = 0.0  
+33. That is much of this                ... pos = 2.125 	neg = 0.375
+34. Matthew Broderick co                ... pos = 0.0   	neg = 0.125
+35. His  character is of                ... pos = 2.0   	neg = 0.125
+36. Of the two acting jo                ... pos = 0.0   	neg = 0.125
+37. But  even he is over                ... pos = 0.0   	neg = 0.125
+38. The hatred that  she                ... pos = 0.375 	neg = 0.125
+39. Broderick and Wither                ... pos = 1.25  	neg = 0.625
+40. One such moment occu                ... pos = 0.0   	neg = 0.125
+41. You can see  her sel                ... pos = 1.625 	neg = 0.0  
+42. And his subtle disgu                ... pos = 1.5   	neg = 0.125
+43. The supporting cast                 ... pos = 0.375 	neg = 0.375
+44. But that is  far fro                ... pos = 0.0   	neg = 0.125
+45. However, the  real t                ... pos = 0.375 	neg = 0.125
+46. This is never more a                ... pos = 0.25  	neg = 0.125
+47. She is just marvelou                ... pos = 1.25  	neg = 0.375
+48. If Ferris Buehler ma                ... pos = 1.0   	neg = 0.0  
+49. But  don't you dare                 ... pos = 0.625 	neg = 0.0  
+50. It is just as  real                 ... pos = 1.125 	neg = 0.125
+51. There certainly is n                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4362-592 is Positive         ... pos = 26.375 	neg = 10.125
+Overall score of document
+Total Pos = 26.375
+Total Neg = 10.125
+---------------------------------------------------------------------------

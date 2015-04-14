@@ -1,0 +1,65 @@
+0. Visit Online Film Cr                 ... pos = 0.625 	neg = 0.5  
+1. There's a  spate of                  ... pos = 0.0   	neg = 0.25 
+2. The one we shelled o                 ... pos = 0.0   	neg = 0.125
+3. ". You know the prem                 ... pos = 0.125 	neg = 0.0  
+4. Or perhaps you know                  ... pos = 0.0   	neg = 0.0  
+5. Skip the next paragr                 ... pos = 0.0   	neg = 0.125
+6. Captain Amazing (Gre                 ... pos = 0.375 	neg = 0.125
+7. Because he is  comme                 ... pos = 0.125 	neg = 0.125
+8. The problem is he's                  ... pos = 0.0   	neg = 0.375
+9. This way he'll have                  ... pos = 0.125 	neg = 0.0  
+10. Well,  Frankenstein                 ... pos = 0.75  	neg = 0    
+11. So it's up to a grou                ... pos = 0.0   	neg = 1.0  
+12. The original trio is                ... pos = 0.0   	neg = 0.125
+13. Furious (Ben Stiller                ... pos = 0.375 	neg = 0.0  
+14. Because their number                ... pos = 0.5   	neg = 1.125
+15. With whom do they en                ... pos = 0     	neg = 0.0  
+16. A revolting, zit-cov                ... pos = 0.25  	neg = 0.625
+17. Faced with the task                 ... pos = 0.5   	neg = 0.0  
+18. They also enlist the                ... pos = 1.25  	neg = 0.0  
+19. Will they prevail?                  ... pos = 0.125 	neg = 0    
+20. What's funniest is t                ... pos = 0.5   	neg = 0.375
+21. The film works best                 ... pos = 0.0   	neg = 0.0  
+22. The premise turns po                ... pos = 0.375 	neg = 0.0  
+23. When Mr.                            ... pos = 0     	neg = 0.0  
+24. Furious,  tired of t                ... pos = 0.5   	neg = 0.375
+25. Ben  Stiller's humor                ... pos = 0.875 	neg = 0.75 
+26. Any character who ho                ... pos = 1.125 	neg = 0.75 
+27. Mr.                                 ... pos = 0     	neg = 0.0  
+28. Furious is also the                 ... pos = 1.125 	neg = 1.25 
+29. William H. Macy is e                ... pos = 0.75  	neg = 0.125
+30. This guy wears leath                ... pos = 0.125 	neg = 0.0  
+31. "I shovel," he says.                ... pos = 0.0   	neg = 0.0  
+32. Macy's sincerity com                ... pos = 0.625 	neg = 0.0  
+33. The Blue Raja is "an                ... pos = 0.5   	neg = 0.375
+34. Never knives, though                ... pos = 0.0   	neg = 0.0  
+35. As with the personal                ... pos = 0.125 	neg = 0.125
+36. In a turn-about that                ... pos = 1.125 	neg = 0.375
+37. Hank Azaria' voice a                ... pos = 0.75  	neg = 0.0  
+38. A casting coup was d                ... pos = 0.0   	neg = 0.125
+39. This Academy Award w                ... pos = 0.875 	neg = 1.5  
+40. Too bad not many com                ... pos = 1.375 	neg = 1.125
+41. Worthy of mention is                ... pos = 1.0   	neg = 0.25 
+42. It's a Herkimer Batt                ... pos = 0.0   	neg = 0.0  
+43. Furious pinches from                ... pos = 0.25  	neg = 0    
+44. What a great  name f                ... pos = 0.875 	neg = 0.5  
+45. It's only in a coupl                ... pos = 0.0   	neg = 0.375
+46. There's a half-heart                ... pos = 0.0   	neg = 0.0  
+47. Furious and a waitre                ... pos = 0.25  	neg = 0.625
+48. Claire Forlani is wo                ... pos = 0.0   	neg = 1.0  
+49. Furious first scowls                ... pos = 0.625 	neg = 0.375
+50. Further, for  ordina                ... pos = 0.5   	neg = 0.0  
+51. The Bowler, for inst                ... pos = 0.0   	neg = 0.125
+52. She throws the  ball                ... pos = 0.5   	neg = 0.0  
+53. And you tell me:  do                ... pos = 0.25  	neg = 1.0  
+54. Director Kinka Usher                ... pos = 0.125 	neg = 0.125
+55. Based on the Dark Ho                ... pos = 1.375 	neg = 0.125
+56. It's the kind of mov                ... pos = 0.0   	neg = 0.625
+57. And it's surely a tr                ... pos = 0.375 	neg = 0.0  
+58. If you want to see a                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1731-71 is Positive          ... pos = 22.375 	neg = 17.125
+Overall score of document
+Total Pos = 22.375
+Total Neg = 17.125
+---------------------------------------------------------------------------

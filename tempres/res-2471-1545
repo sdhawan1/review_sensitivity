@@ -1,0 +1,35 @@
+0. SAVING PRIVATE RYAN                  ... pos = 0.75  	neg = 0.0  
+1. Essentially a P.R.                   ... pos = 0.5   	neg = 0.0  
+2. move from the head o                 ... pos = 0.625 	neg = 0.125
+3. The search leads the                 ... pos = 0.0   	neg = 0.0  
+4. I suppose it's not g                 ... pos = 0.125 	neg = 0.25 
+5. SAVING PRIVATE RYAN                  ... pos = 0.5   	neg = 0.125
+6. At least, it seemed                  ... pos = 1.25  	neg = 0.125
+7. In addition to Mille                 ... pos = 0.0   	neg = 0.0  
+8. Horvath (Sizemore),                  ... pos = 0.5   	neg = 0    
+9. Reiben (Burns), eage                 ... pos = 0.125 	neg = 0.125
+10. Mellish (Adam Goldbe                ... pos = 0.0   	neg = 0.0  
+11. Upham (Jeremy Davies                ... pos = 0.0   	neg = 0.125
+12. Jackson (Barry Peppe                ... pos = 0.0   	neg = 0.0  
+13. Caprazo (Vin Diesel)                ... pos = 0.625 	neg = 0    
+14. I have just done wha                ... pos = 0.0   	neg = 0.0  
+15. The soldiers remain                 ... pos = 1.125 	neg = 0.25 
+16. If one of them dies,                ... pos = 0.0   	neg = 0.875
+17. Like combat, such de                ... pos = 0.625 	neg = 0.0  
+18. Spielberg's latest f                ... pos = 1.25  	neg = 1.5  
+19. The layered story pl                ... pos = 0.375 	neg = 0.125
+20. At one point, Reiben                ... pos = 0.125 	neg = 0.0  
+21. ' and the irony was                 ... pos = 0.5   	neg = 0.125
+22. move at its heart, a                ... pos = 0.25  	neg = 0.0  
+23. Which is why I'm onl                ... pos = 0.125 	neg = 0.125
+24. Proudly?                            ... pos = 0.125 	neg = 0    
+25. That's open to debat                ... pos = 0.75  	neg = 0.125
+26. This is a smaller st                ... pos = 0.0   	neg = 0.125
+27. I'll unabashedly adm                ... pos = 0.0   	neg = 0.0  
+28. If it takes a popula                ... pos = 1.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2471-1545 is Positive        ... pos = 12.125 	neg = 4.375
+Overall score of document
+Total Pos = 12.125
+Total Neg = 4.375
+---------------------------------------------------------------------------

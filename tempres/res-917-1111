@@ -1,0 +1,26 @@
+0. Veteran actor Tommy                  ... pos = 0.375 	neg = 0.25 
+1. The best, last and o                 ... pos = 0.375 	neg = 0.875
+2. They work in secret                  ... pos = 0.0   	neg = 0    
+3. They see things that                 ... pos = 0.0   	neg = 1.0  
+4. Ok, so the films got                 ... pos = 0.5   	neg = 0.5  
+5. Well  nothing really                 ... pos = 0.125 	neg = 0.5  
+6. But  what could have                 ... pos = 0.875 	neg = 0.25 
+7. Confused?                            ... pos = 0.125 	neg = 0    
+8. Read on.                             ... pos = 0     	neg = 0.0  
+9. Working for a highly                 ... pos = 1.0   	neg = 0.875
+10. In no time they disc                ... pos = 0.625 	neg = 0.25 
+11. When  the prince is                 ... pos = 0.0   	neg = 1.625
+12. So K and J find them                ... pos = 0.0   	neg = 0.25 
+13. Still dressed in bla                ... pos = 0.0   	neg = 0.125
+14. If there's one thing                ... pos = 0.75  	neg = 0.0  
+15. The various  scenes                 ... pos = 0.875 	neg = 0.125
+16. Will Smith is a grea                ... pos = 0.875 	neg = 0.125
+17. Perhaps the most daz                ... pos = 0.625 	neg = 1.25 
+18. It is  however, a li                ... pos = 0.5   	neg = 0.75 
+19. Although the  entire                ... pos = 1.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-917-1111 is Negative         ... pos = 8.875 	neg = 9.375
+Overall score of document
+Total Pos = 8.875
+Total Neg = 9.375
+---------------------------------------------------------------------------

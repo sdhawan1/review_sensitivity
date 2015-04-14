@@ -1,0 +1,36 @@
+0. If circumstances for                 ... pos = 0.125 	neg = 0.0  
+1. This is a movie that                 ... pos = 0.25  	neg = 0.5  
+2. It would be charitab                 ... pos = 0.25  	neg = 0.625
+3. It could also be sai                 ... pos = 0.0   	neg = 0.5  
+4. But any of that woul                 ... pos = 0.125 	neg = 0.125
+5. The truth is that th                 ... pos = 0.5   	neg = 1.125
+6. Just as television n                 ... pos = 0.25  	neg = 0.375
+7. The invitation, impl                 ... pos = 0.375 	neg = 0.0  
+8. Theirs is a lifeless                 ... pos = 0.0   	neg = 0.625
+9. See that ball rollin                 ... pos = 0.0   	neg = 0.0  
+10. See the plunging cyl                ... pos = 0.0   	neg = 0    
+11. Where are they going                ... pos = 0.25  	neg = 0.0  
+12. Where did they come                 ... pos = 0     	neg = 0.0  
+13. You will never know,                ... pos = 0.25  	neg = 0.25 
+14. It's enough, the fil                ... pos = 0.0   	neg = 0.375
+15. They didn't waste a                 ... pos = 0.0   	neg = 0.125
+16. A two-hour dose of c                ... pos = 0.125 	neg = 0.375
+17. Even if the determin                ... pos = 0.0   	neg = 0.375
+18. Scare us, surprise u                ... pos = 0.0   	neg = 0.0  
+19. We want to be horrif                ... pos = 0.5   	neg = 0.25 
+20. Instead we sit, bore                ... pos = 0.5   	neg = 0.375
+21. Of the actors, only                 ... pos = 0.0   	neg = 0.0  
+22. Val Kilmer is adequa                ... pos = 0.375 	neg = 0.75 
+23. A comic strip withou                ... pos = 0.625 	neg = 0.125
+24. Tommy Lee Jones is g                ... pos = 0.0   	neg = 0.25 
+25. Chris O'Donnell brin                ... pos = 0.125 	neg = 1.125
+26. Nicole Kidman looks                 ... pos = 0.375 	neg = 0.375
+27. And she delivers the                ... pos = 0.375 	neg = 0.375
+28. "   Precisely.                      ... pos = 0.125 	neg = 0    
+29. But no one did.. . .                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2752-137 is Negative         ... pos = 5.5   	neg = 9.25 
+Overall score of document
+Total Pos = 5.5
+Total Neg = 9.25
+---------------------------------------------------------------------------

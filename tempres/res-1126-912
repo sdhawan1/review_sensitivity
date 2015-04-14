@@ -1,0 +1,57 @@
+0. CrankyCriticŽ movie                 ... pos = 0.25  	neg = 0.125
+1. .                                    ... pos = 0     	neg = 0    
+2. .and how many times                  ... pos = 0.5   	neg = 0.0  
+3. Long time readers kn                 ... pos = 0.0   	neg = 0.5  
+4. They also know that                  ... pos = 0.875 	neg = 1.375
+5. Princess Mononoke, c                 ... pos = 0.25  	neg = 0.375
+6. Disney's Tarzan came                 ... pos = 0.125 	neg = 0.625
+7. It is called The Iro                 ... pos = 1.125 	neg = 0.125
+8. The Who's Pete Towns                 ... pos = 0.25  	neg = 0.0  
+9. This version is crea                 ... pos = 0.625 	neg = 0.125
+10. Set in 1957, a time                 ... pos = 0.0   	neg = 0.375
+11. Duck and Cover educa                ... pos = 0.375 	neg = 0.875
+12. For those too young                 ... pos = 0.0   	neg = 0.375
+13. Hogarth isn't the on                ... pos = 0.0   	neg = 0.0  
+14. Earl Stutz (M. Emmet                ... pos = 0.5   	neg = 0.25 
+15. The rest of the town                ... pos = 0.25  	neg = 0.125
+16. They look like big b                ... pos = 0.0   	neg = 1.25 
+17. Hogarth is a mischie                ... pos = 0.0   	neg = 0.125
+18. His single mother An                ... pos = 0.125 	neg = 0.25 
+19. Once he saves the Gi                ... pos = 0.0   	neg = 0.0  
+20. Can I keep him?                     ... pos = 0.0   	neg = 0.0  
+21. " stories.                          ... pos = 0.0   	neg = 0    
+22. In this case, Hogart                ... pos = 0.25  	neg = 0.5  
+23. While Hogarth can te                ... pos = 0.0   	neg = 0.75 
+24. Enter our final play                ... pos = 0.0   	neg = 0.5  
+25. Dean hides the Giant                ... pos = 0.375 	neg = 0.0  
+26. That's the way it wa                ... pos = 0.0   	neg = 0.125
+27. That which we could                 ... pos = 0.0   	neg = 0.125
+28. That which was the e                ... pos = 0.0   	neg = 0.125
+29. And all the while, t                ... pos = 0.0   	neg = 0.125
+30. Now, don't think the                ... pos = 0.75  	neg = 0.125
+31. When Hogarth plays "                ... pos = 0.5   	neg = 0.75 
+32. Destructo-Rays, Plas                ... pos = 0.0   	neg = 0.375
+33. More important than                 ... pos = 1.25  	neg = 0.125
+34. Hogarth has taught,                 ... pos = 1.5   	neg = 1.0  
+35. The Giant chooses to                ... pos = 0.0   	neg = 0.125
+36. Literally.                          ... pos = 0     	neg = 0.0  
+37. The Army, led by Ken                ... pos = 0.0   	neg = 0.0  
+38. I've left out a vita                ... pos = 1.375 	neg = 0.0  
+39. Deep down, The Iron                 ... pos = 1.25  	neg = 1.0  
+40. I've made no mention                ... pos = 1.625 	neg = 0.25 
+41. On average, a first                 ... pos = 0.25  	neg = 0.0  
+42. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+43. If you remember the                 ... pos = 0.75  	neg = 0    
+44. If you were into com                ... pos = 0.625 	neg = 0.125
+45. If you're nostalgic                 ... pos = 0.625 	neg = 0    
+46. If you've got little                ... pos = 1.875 	neg = 0.25 
+47. Even the teen kidlet                ... pos = 0.75  	neg = 0.0  
+48. But they'll never ad                ... pos = 0.0   	neg = 0.0  
+49. End of gush.                        ... pos = 0     	neg = 0.0  
+50. CrankyCriticŽ is a                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1126-912 is Positive         ... pos = 19.125 	neg = 13.5 
+Overall score of document
+Total Pos = 19.125
+Total Neg = 13.5
+---------------------------------------------------------------------------

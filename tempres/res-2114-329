@@ -1,0 +1,43 @@
+0. U-571 is a submarine                 ... pos = 0.0   	neg = 0.125
+1. Space movie elements                 ... pos = 0.25  	neg = 0.25 
+2. The crew who sometim                 ... pos = 1.125 	neg = 1.375
+3. During one point nea                 ... pos = 0.625 	neg = 0.0  
+4. My mind drifted away                 ... pos = 0.625 	neg = 0.75 
+5. U-571 takes some sim                 ... pos = 0.25  	neg = 0.0  
+6. At times this makes                  ... pos = 0.875 	neg = 0.0  
+7. At other times it's                  ... pos = 1.125 	neg = 0.875
+8. An American group of                 ... pos = 1.0   	neg = 0.0  
+9. The group kills most                 ... pos = 0.0   	neg = 1.0  
+10. This forces the  Ame                ... pos = 0.0   	neg = 0.0  
+11. The crew, which incl                ... pos = 0.875 	neg = 0.0  
+12. There is a lot to li                ... pos = 0.0   	neg = 0.125
+13. Some action sequence                ... pos = 0.375 	neg = 0.0  
+14. One particular scene                ... pos = 0.5   	neg = 0.375
+15. The sound is also  a                ... pos = 0.0   	neg = 0.125
+16. Remarkable care to t                ... pos = 1.25  	neg = 0.0  
+17. The sound really tes                ... pos = 0.0   	neg = 0.0  
+18. Walking out of the                  ... pos = 0.625 	neg = 0.0  
+19. I could still hear!                 ... pos = 0.0   	neg = 0.0  
+20. Another nice thing a                ... pos = 0.875 	neg = 0.25 
+21. Instead of  conversi                ... pos = 0.25  	neg = 0.0  
+22. These people are act                ... pos = 0.25  	neg = 0.0  
+23. This is quite a surp                ... pos = 0.0   	neg = 0.125
+24. The problem with U-5                ... pos = 0.0   	neg = 0.5  
+25. The lead characters                 ... pos = 1.125 	neg = 0.625
+26. I don't need to see                 ... pos = 0.125 	neg = 0.125
+27. It's hard to look at                ... pos = 0.25  	neg = 1.25 
+28. The crew (which also                ... pos = 1.125 	neg = 0.375
+29. U-571 is also under                 ... pos = 0.625 	neg = 0.125
+30. In reality, the Brit                ... pos = 0.5   	neg = 0.0  
+31. Some WWII veterans h                ... pos = 0.0   	neg = 0.0  
+32. " The ending of the                 ... pos = 0.125 	neg = 0.625
+33. It was  just too unb                ... pos = 0.0   	neg = 0.375
+34. U-571 can't decide w                ... pos = 0.375 	neg = 0.25 
+35. Too many elements we                ... pos = 0.75  	neg = 0.75 
+36. This submarine sinks                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2114-329 is Positive         ... pos = 15.875 	neg = 10.375
+Overall score of document
+Total Pos = 15.875
+Total Neg = 10.375
+---------------------------------------------------------------------------

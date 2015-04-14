@@ -1,0 +1,40 @@
+0. Hollywood / 1997 / 2                 ... pos = 0.0   	neg = 0.375
+1. Jane," and the unant                 ... pos = 1.125 	neg = 0.375
+2. "Jane"'ll likely win                 ... pos = 1.0   	neg = 0.75 
+3. " .         Moore's                  ... pos = 0     	neg = 0.0  
+4. Jane" role is that o                 ... pos = 0.0   	neg = 0.125
+5. Gutsy Senator Lillia                 ... pos = 1.0   	neg = 0.0  
+6. The trial she faces                  ... pos = 0.75  	neg = 0.125
+7. But O'Neil faces her                 ... pos = 0.625 	neg = 0.0  
+8. Upon her arrival at                  ... pos = 0.0   	neg = 0.125
+9. Her drill instructor                 ... pos = 0.625 	neg = 0.125
+10. " Ouch.                             ... pos = 0     	neg = 0    
+11. Her presence is imme                ... pos = 0.0   	neg = 0.125
+12. Even her boyfriend (                ... pos = 0.0   	neg = 0.375
+13. But last she does, a                ... pos = 0.75  	neg = 0.375
+14. And things do get ro                ... pos = 0.0   	neg = 0.0  
+15. Rather than hop on a                ... pos = 1.0   	neg = 0.0  
+16. Jane" stays extremel                ... pos = 1.25  	neg = 0    
+17. Because O'Neil is a                 ... pos = 1.0   	neg = 0.375
+18. Director Ridley Scot                ... pos = 0.625 	neg = 0.125
+19. ".         A solid s                ... pos = 0.375 	neg = 0.0  
+20. Mortensen makes his                 ... pos = 0.625 	neg = 0.875
+21. The sequences he and                ... pos = 0.625 	neg = 0.0  
+22. Bancroft is exceptio                ... pos = 1.25  	neg = 0.25 
+23. The actors who make                 ... pos = 2.25  	neg = 0.0  
+24. As it stands, "G.I.                 ... pos = 0.0   	neg = 0.0  
+25. Jane" is a good movi                ... pos = 0.75  	neg = 0.875
+26. Had "Jane" stuck to                 ... pos = 0.75  	neg = 0.125
+27. But it feels the nee                ... pos = 0.0   	neg = 1.125
+28. The jiggling camera                 ... pos = 0.0   	neg = 0.125
+29. "G.I.                               ... pos = 0     	neg = 0.0  
+30. Jane" has its flaws,                ... pos = 0.375 	neg = 0.75 
+31. It provides a fine s                ... pos = 0.0   	neg = 0.0  
+32. Executed with intell                ... pos = 0.75  	neg = 0.25 
+33. Jane" is thought-pro                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2960-1031 is Positive        ... pos = 17.875 	neg = 7.875
+Overall score of document
+Total Pos = 17.875
+Total Neg = 7.875
+---------------------------------------------------------------------------

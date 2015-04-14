@@ -1,0 +1,38 @@
+0. Director: Tony Scott                 ... pos = 0.625 	neg = 0.5  
+1. ), it's about time T                 ... pos = 1.25  	neg = 0.0  
+2. With this and "Crims                 ... pos = 1.375 	neg = 1.375
+3. That film dealt with                 ... pos = 1.375 	neg = 1.125
+4. "Enemy of the State"                 ... pos = 0.0   	neg = 1.125
+5. It's too cold and no                 ... pos = 0.5   	neg = 0.375
+6. It casts Will Smith,                 ... pos = 2.375 	neg = 0.625
+7. I hate to do this, b                 ... pos = 0.375 	neg = 0.875
+8. The result was not o                 ... pos = 0.625 	neg = 0.25 
+9. Not that I want ever                 ... pos = 0.5   	neg = 0.375
+10. Will Smith's charact                ... pos = 1.0   	neg = 0.625
+11. He had an affair wit                ... pos = 0.5   	neg = 0.25 
+12. He has a kid, and he                ... pos = 1.375 	neg = 0.0  
+13. So he generally does                ... pos = 0.625 	neg = 0.625
+14. He's a good dramatic                ... pos = 3.625 	neg = 0.125
+15. Smith becomes involv                ... pos = 0.625 	neg = 0.125
+16. The government wants                ... pos = 0.125 	neg = 0.125
+17. As Smith's plight is                ... pos = 0.75  	neg = 0.125
+18. These guys (played b                ... pos = 0.625 	neg = 0.75 
+19. We like these guys f                ... pos = 0.375 	neg = 0.375
+20. They're also scary b                ... pos = 0.5   	neg = 0.75 
+21. It's as if they're o                ... pos = 0.125 	neg = 1.0  
+22. Unfortunately, this                 ... pos = 0.5   	neg = 1.125
+23. Sure, you're chilled                ... pos = 0.25  	neg = 0.0  
+24. But what do you expe                ... pos = 0.125 	neg = 0.0  
+25. He's a not-bad direc                ... pos = 0.125 	neg = 1.0  
+26. His shots are perfec                ... pos = 1.0   	neg = 0.5  
+27. This is incredibly a                ... pos = 0.5   	neg = 1.125
+28. Despite never actual                ... pos = 0.25  	neg = 0.0  
+29. Watching the governm                ... pos = 1.5   	neg = 0.125
+30. Add the best big cas                ... pos = 1.625 	neg = 1.125
+31. Homepage at: http://                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5048-1493 is Positive        ... pos = 25.125 	neg = 16.5 
+Overall score of document
+Total Pos = 25.125
+Total Neg = 16.5
+---------------------------------------------------------------------------

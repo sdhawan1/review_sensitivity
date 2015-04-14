@@ -1,0 +1,42 @@
+0. (COLUMBIA PICTURES)                  ... pos = 0.625 	neg = 1.375
+1. Matt Dillon plays Sa                 ... pos = 0.625 	neg = 0.25 
+2. She flirts with him                  ... pos = 0.0   	neg = 0.375
+3. ) However, the s***                  ... pos = 0.125 	neg = 0.0  
+4. And when a second st                 ... pos = 0.125 	neg = 0.0  
+5. Hot on Sam's tail al                 ... pos = 0.5   	neg = 0.5  
+6. And when the court c                 ... pos = 0.0   	neg = 0.125
+7. And they have every                  ... pos = 0.375 	neg = 0.0  
+8. Wild Things is poorl                 ... pos = 0.125 	neg = 1.25 
+9. Matt Dillon looks co                 ... pos = 0.125 	neg = 0.375
+10. Denise Richards (Sta                ... pos = 0.0   	neg = 0.0  
+11. If she was suddenly                 ... pos = 0.625 	neg = 0.625
+12. ) Kevin Bacon has se                ... pos = 0.125 	neg = 0.0  
+13. Bill Murray was prob                ... pos = 0.0   	neg = 0.75 
+14. His 'wise guy' image                ... pos = 0.25  	neg = 0.125
+15. Neve Campbell, in a                 ... pos = 0.25  	neg = 0.0  
+16. Oh, if you're just g                ... pos = 0.25  	neg = 0.625
+17. Thanks to her 'no nu                ... pos = 0.125 	neg = 0.125
+18. Murray and Campbell                 ... pos = 0.625 	neg = 0.5  
+19. Unfortunately, Dillo                ... pos = 0.125 	neg = 1.125
+20. But instead of being                ... pos = 0.625 	neg = 0.875
+21. Theresea Randell als                ... pos = 0.625 	neg = 0.25 
+22. The director, John M                ... pos = 0.0   	neg = 0.25 
+23. So he does nothing w                ... pos = 0.0   	neg = 0.25 
+24. He just points the c                ... pos = 0.375 	neg = 0.0  
+25. There are some nice                 ... pos = 0.5   	neg = 0.25 
+26. ) The writer, Stephe                ... pos = 0.75  	neg = 0.125
+27. The twists are fun,                 ... pos = 1.375 	neg = 0.125
+28. By the end, though,                 ... pos = 0.375 	neg = 0.75 
+29. ' (well, maybe you w                ... pos = 0.25  	neg = 0.0  
+30. ) But despite Wild T                ... pos = 0.5   	neg = 0.5  
+31. It's so bad, it's ac                ... pos = 0.75  	neg = 0.875
+32. Far more enjoyable t                ... pos = 1.25  	neg = 0.375
+33. In the end, Wild Thi                ... pos = 1.125 	neg = 1.125
+34. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+35. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5005-1213 is Negative        ... pos = 13.5  	neg = 13.875
+Overall score of document
+Total Pos = 13.5
+Total Neg = 13.875
+---------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+0. The Man in the Iron                  ... pos = 0.5   	neg = 0.375
+1. Writer/director Rand                 ... pos = 0.25  	neg = 0.875
+2. It's 1661, the muske                 ... pos = 0.5   	neg = 0.0  
+3. Athos (John Malkovic                 ... pos = 0.0   	neg = 0.0  
+4. He now leads the mus                 ... pos = 0.0   	neg = 0.0  
+5. But their retirement                 ... pos = 0.125 	neg = 0.5  
+6. He's a naughty boy w                 ... pos = 0.375 	neg = 1.125
+7. Thus, Aramis hatches                 ... pos = 0.125 	neg = 0.5  
+8. The main source of f                 ... pos = 0.125 	neg = 0.125
+9. We were all hoping h                 ... pos = 0.0   	neg = 0.875
+10. He does a nice job s                ... pos = 0.125 	neg = 0.0  
+11. As the bad twin, his                ... pos = 0.25  	neg = 1.375
+12. DiCaprio's Louis is                 ... pos = 0.125 	neg = 0.125
+13. Nevertheless, the ac                ... pos = 1.375 	neg = 0.25 
+14. He has the right  co                ... pos = 0.375 	neg = 0.0  
+15. Depardieu hams thing                ... pos = 0.5   	neg = 0.25 
+16. Blame the performers                ... pos = 0.125 	neg = 0.75 
+17. He fails to balance                 ... pos = 0.375 	neg = 0.125
+18. Perhaps he felt he h                ... pos = 0.25  	neg = 0.875
+19. Compare this with Di                ... pos = 0.5   	neg = 0.0  
+20. It wasn't a great fi                ... pos = 1.25  	neg = 0.25 
+21. This movie seems des                ... pos = 0.0   	neg = 0.25 
+22. It's not enjoyable e                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5987-739 is Negative         ... pos = 7.75  	neg = 8.75 
+Overall score of document
+Total Pos = 7.75
+Total Neg = 8.75
+---------------------------------------------------------------------------

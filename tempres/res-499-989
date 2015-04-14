@@ -1,0 +1,39 @@
+0. American History X i                 ... pos = 0.375 	neg = 0.125
+1. Looking back on it I                 ... pos = 2.5   	neg = 0.375
+2. You've got to be car                 ... pos = 0.5   	neg = 0.125
+3. '    That is the bas                 ... pos = 0.0   	neg = 0.125
+4. What makes a young m                 ... pos = 0.0   	neg = 0    
+5. How did he learn to                  ... pos = 0.125 	neg = 0.0  
+6. In part, he learns f                 ... pos = 0.0   	neg = 0.625
+7. But there's more to                  ... pos = 0.0   	neg = 0.0  
+8. Although the action                  ... pos = 0.125 	neg = 0.0  
+9. Danny Vinyard [Edwar                 ... pos = 0.125 	neg = 0.125
+10. It is feared that Da                ... pos = 0.25  	neg = 0.25 
+11. Derek is being relea                ... pos = 0.25  	neg = 0.125
+12. He has served a thre                ... pos = 0.0   	neg = 0.0  
+13. The killing scenes a                ... pos = 0.25  	neg = 0.0  
+14. Mr. Sweeney gives Da                ... pos = 0.0   	neg = 1.25 
+15. Derek is not a total                ... pos = 0.0   	neg = 0.5  
+16. He's just confused b                ... pos = 0.625 	neg = 0.125
+17. When he is released                 ... pos = 0.125 	neg = 0.125
+18. His friends, such as                ... pos = 0.5   	neg = 0    
+19. During Derek's impri                ... pos = 0.5   	neg = 0.0  
+20. They are not a likea                ... pos = 0.375 	neg = 0    
+21. It's sad to realize                 ... pos = 0.5   	neg = 0.75 
+22. There are too many s                ... pos = 0.5   	neg = 0.375
+23. We are dealing with                 ... pos = 0.75  	neg = 0.125
+24. They don't seem to r                ... pos = 0.5   	neg = 0.0  
+25. I really enjoyed thi                ... pos = 0.5   	neg = 0.0  
+26. In many ways I fear                 ... pos = 0.5   	neg = 0.0  
+27. I'm glad that I saw                 ... pos = 0.0   	neg = 0.125
+28. I don't want to beli                ... pos = 0.125 	neg = 0.125
+29. I definitely don't w                ... pos = 0.25  	neg = 0.125
+30. The best thing about                ... pos = 0.375 	neg = 0.125
+31. Everyone in it is to                ... pos = 2.5   	neg = 0.375
+32. I give it a C.. .                   ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-499-989 is Positive          ... pos = 13.125 	neg = 6.0  
+Overall score of document
+Total Pos = 13.125
+Total Neg = 6.0
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. DIRECTED BY: Rand Ra                 ... pos = 0.875 	neg = 0.125
+1. It's scary.                          ... pos = 0     	neg = 0.75 
+2. It's well-acted.                     ... pos = 0     	neg = 0    
+3. It's filmed with a d                 ... pos = 1.375 	neg = 0.875
+4. It is a stylish and                  ... pos = 1.5   	neg = 0.125
+5. Commander Spencer Ar                 ... pos = 0.875 	neg = 0.875
+6. NASA mysteriously lo                 ... pos = 0.5   	neg = 0.125
+7. Armacaost appears un                 ... pos = 0.25  	neg = 0.0  
+8. The whole business l                 ... pos = 1.0   	neg = 0.375
+9. Already feeling isol                 ... pos = 0.125 	neg = 0.0  
+10. Is her increasing co                ... pos = 0.0   	neg = 1.125
+11. This is an analogy t                ... pos = 3.75  	neg = 0.375
+12. The symbolism is thi                ... pos = 0.0   	neg = 0.125
+13. The film is also inc                ... pos = 0.75  	neg = 0.625
+14. Its graceful cinemat                ... pos = 0.25  	neg = 0.125
+15. The two leads are bo                ... pos = 0.875 	neg = 0.0  
+16. Johnny Depp is convi                ... pos = 0.625 	neg = 0.125
+17. He is capable of hid                ... pos = 0.0   	neg = 0.5  
+18. Charlize Theron is l                ... pos = 0.0   	neg = 0.125
+19. The enormous emotion                ... pos = 1.0   	neg = 0.125
+20. Theron is obviously                 ... pos = 0.0   	neg = 0.125
+21. The character remind                ... pos = 1.875 	neg = 0.375
+22. Unfortunately Ravich                ... pos = 0.25  	neg = 1.25 
+23. ". It's very artisti                ... pos = 2.0   	neg = 1.5  
+24. For most of the time                ... pos = 0.25  	neg = 0.75 
+25. Everything is raptur                ... pos = 0.0   	neg = 0.125
+26. By the end of the fi                ... pos = 1.625 	neg = 0.25 
+27. Absolutely nothing i                ... pos = 0     	neg = 0.375
+28. What did the alien i                ... pos = 0.0   	neg = 0.125
+29. What is their object                ... pos = 0.0   	neg = 0.125
+30. What actually happen                ... pos = 0.0   	neg = 0.0  
+31. You almost expect "T                ... pos = 0.0   	neg = 0.125
+32. This is truly a fata                ... pos = 1.125 	neg = 1.125
+33. But even though it h                ... pos = 0.875 	neg = 0.875
+34. And it doesn't hold                 ... pos = 0.375 	neg = 0.0  
+35. It's certainly bette                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1295-657 is Positive         ... pos = 22.375 	neg = 13.625
+Overall score of document
+Total Pos = 22.375
+Total Neg = 13.625
+---------------------------------------------------------------------------

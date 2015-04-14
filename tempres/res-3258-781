@@ -1,0 +1,61 @@
+0. Beginning on Septemb                 ... pos = 0.375 	neg = 0.375
+1. However, moved to a                  ... pos = 0.5   	neg = 0.375
+2. In contrast, the TV                  ... pos = 0.625 	neg = 0.125
+3. Whereas most televis                 ... pos = 0.5   	neg = 0.625
+4. Passing the TV Trek                  ... pos = 0.375 	neg = 0.0  
+5. Whether or not their                 ... pos = 1.125 	neg = 0.375
+6. The beginning of thi                 ... pos = 0.0   	neg = 0    
+7. Commander Data (Bren                 ... pos = 0.5   	neg = 0.0  
+8. The operation is to                  ... pos = 2.125 	neg = 0.125
+9. The planet is in Fed                 ... pos = 0.75  	neg = 0.125
+10. However, when the co                ... pos = 1.0   	neg = 0.375
+11. Captain Picard must                 ... pos = 0.375 	neg = 0.0  
+12. STAR TREK:  INSURREC                ... pos = 0.0   	neg = 0.0  
+13. "  The first film, G                ... pos = 0.375 	neg = 0.25 
+14. The second, FIRST CO                ... pos = 0.25  	neg = 0.5  
+15. With very little ori                ... pos = 1.25  	neg = 1.25 
+16. The first question t                ... pos = 0.125 	neg = 0.25 
+17. '"  It sounds so omi                ... pos = 0.0   	neg = 0.0  
+18. If the heroes of the                ... pos = 0.25  	neg = 0.5  
+19. "INSURRECTION" would                ... pos = 0.625 	neg = 0.875
+20. One of the working t                ... pos = 0.125 	neg = 0.125
+21. Would've been a heck                ... pos = 0.0   	neg = 0.125
+22. Jonathan Frakes, who                ... pos = 0.25  	neg = 0.875
+23. A tighter screenplay                ... pos = 0.0   	neg = 0.75 
+24. Watch for one of the                ... pos = 1.5   	neg = 0.625
+25. Worse yet, some of t                ... pos = 1.0   	neg = 0.75 
+26. However, there won't                ... pos = 0.25  	neg = 0.375
+27. There's a lot of stu                ... pos = 0.75  	neg = 0.375
+28. I suppose if you hav                ... pos = 1.375 	neg = 0.25 
+29. For example, one of                 ... pos = 0.0   	neg = 0.0  
+30. He must have done it                ... pos = 0.875 	neg = 0.0  
+31. Isn't his search for                ... pos = 0.375 	neg = 0.25 
+32. What happened to the                ... pos = 0.625 	neg = 0    
+33. It was included in b                ... pos = 0.125 	neg = 0.125
+34. It would seem as tho                ... pos = 0.125 	neg = 0.25 
+35. There's also a trick                ... pos = 0.625 	neg = 1.125
+36. Did the filmmakers t                ... pos = 0.125 	neg = 0.0  
+37. The current incarnat                ... pos = 0.0   	neg = 0.0  
+38. Perhaps it's because                ... pos = 1.0   	neg = 0.875
+39. The "Enterprise-E",                 ... pos = 1.375 	neg = 0.875
+40. As the very symbol o                ... pos = 1.5   	neg = 0.125
+41. Before you go wonder                ... pos = 0.75  	neg = 0.25 
+42. The film's pacing is                ... pos = 1.25  	neg = 0.25 
+43. Special effects, whi                ... pos = 1.875 	neg = 0.25 
+44. As a side note, this                ... pos = 0.5   	neg = 0.375
+45. The actors play thei                ... pos = 0.125 	neg = 0.0  
+46. Additionally, they a                ... pos = 0.125 	neg = 0.75 
+47. It was also nice to                 ... pos = 0.625 	neg = 0.125
+48. How Patrick Stewart                 ... pos = 1.0   	neg = 0    
+49. Unfortunately, the t                ... pos = 1.0   	neg = 2.125
+50. The character itself                ... pos = 2.25  	neg = 0.625
+51. And you know how the                ... pos = 0.0   	neg = 0.375
+52. There has been a rul                ... pos = 2.25  	neg = 0.125
+53. STAR TREK:  INSURREC                ... pos = 0.0   	neg = 0.125
+54. The rule lives on...                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3258-781 is Positive         ... pos = 34.875 	neg = 19.375
+Overall score of document
+Total Pos = 34.875
+Total Neg = 19.375
+---------------------------------------------------------------------------

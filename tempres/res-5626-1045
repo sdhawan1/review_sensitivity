@@ -1,0 +1,51 @@
+0. by Curtis Edmonds --                 ... pos = 0.75  	neg = 0.0  
+1. We see a bleak night                 ... pos = 0.125 	neg = 0.0  
+2. "  And then we see a                 ... pos = 0.125 	neg = 0.0  
+3. And then, all of a s                 ... pos = 0.0   	neg = 0.5  
+4. The perspective shif                 ... pos = 0.5   	neg = 0.0  
+5. And if the whole mov                 ... pos = 1.125 	neg = 0.75 
+6. Unfortunately, the t                 ... pos = 0.875 	neg = 1.0  
+7. The tumbleweed in qu                 ... pos = 0.0   	neg = 0.125
+8. The Dude is describe                 ... pos = 0.0   	neg = 0.125
+9. The Dude is a walkin                 ... pos = 0.0   	neg = 0.125
+10. He's got no job, no                 ... pos = 0.5   	neg = 0.625
+11. The Dude spends the                 ... pos = 0.25  	neg = 0.375
+12. It's the sort of plo                ... pos = 0.875 	neg = 0.5  
+13. Let's just say that                 ... pos = 1.375 	neg = 0.375
+14. The plot structure i                ... pos = 0.25  	neg = 0.5  
+15. There's even a cute                 ... pos = 1.0   	neg = 0.375
+16. The Dude is utterly                 ... pos = 0.125 	neg = 0.25 
+17. And in this fashion,                ... pos = 0.125 	neg = 0.5  
+18. At first glance, wat                ... pos = 0.5   	neg = 0.875
+19. Then I decided that                 ... pos = 0.125 	neg = 0.25 
+20. And then -- in the c                ... pos = 0.0   	neg = 0.0  
+21. The Big Lebowski --                 ... pos = 0.0   	neg = 0.125
+22. It's a movie about n                ... pos = 0.0   	neg = 0.25 
+23. The Dude, of course,                ... pos = 0.0   	neg = 0.125
+24. Jeff Bridges is The                 ... pos = 0.0   	neg = 1.375
+25. Bridges owns this mo                ... pos = 0.0   	neg = 0.0  
+26. Where a lesser actor                ... pos = 1.375 	neg = 0.25 
+27. Since we're with The                ... pos = 1.375 	neg = 0.375
+28. Bridges is convincin                ... pos = 0.625 	neg = 0.25 
+29. ") or confused blath                ... pos = 0.125 	neg = 0.25 
+30. John Goodman is Walt                ... pos = 0.0   	neg = 0.125
+31. Walter's a rageaholi                ... pos = 0.5   	neg = 0.625
+32. Goodman is the sourc                ... pos = 1.25  	neg = 0.25 
+33. In contrast, Steve B                ... pos = 0.0   	neg = 0.125
+34. Whereas Seinfeld is                 ... pos = 0.875 	neg = 0.5  
+35. It's a slight part,                 ... pos = 0.0   	neg = 0.0  
+36. Rounding out the ens                ... pos = 0.0   	neg = 0.125
+37. Moore is the best re                ... pos = 0.375 	neg = 0.125
+38. She's only in three                 ... pos = 0.875 	neg = 0.375
+39. Like in any Seinfeld                ... pos = 0.0   	neg = 0.125
+40. What's important abo                ... pos = 1.875 	neg = 0.5  
+41. This is a comedy, fu                ... pos = 1.375 	neg = 0.25 
+42. As long as you don't                ... pos = 0.125 	neg = 0.5  
+43. Pity we don't get to                ... pos = 0.125 	neg = 0.25 
+44. The Hollywood Stock                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5626-1045 is Positive        ... pos = 19.5  	neg = 14.125
+Overall score of document
+Total Pos = 19.5
+Total Neg = 14.125
+---------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+0. Release Date: March                  ... pos = 1.0   	neg = 0.0  
+1. Ya gotta give the gu                 ... pos = 0.375 	neg = 0.0  
+2. First, he's an awful                 ... pos = 0.875 	neg = 0.0  
+3. Second, he writes ro                 ... pos = 1.0   	neg = 0.125
+4. (And we're not talki                 ... pos = 0.5   	neg = 0.25 
+5. ) And third, people                  ... pos = 0.125 	neg = 0.25 
+6. The latest of these                  ... pos = 0.75  	neg = 0.125
+7. Interestingly enough                 ... pos = 0.5   	neg = 0.0  
+8. First, Junger's film                 ... pos = 0.375 	neg = 0.125
+9. Second, Junger's fil                 ... pos = 0.25  	neg = 0.75 
+10. In both respects, th                ... pos = 0.75  	neg = 0.0  
+11. In regards to the fi                ... pos = 1.0   	neg = 0.125
+12. The Karen Lutz and K                ... pos = 2.625 	neg = 0.0  
+13. Unlike 1996's ROMEO                 ... pos = 1.375 	neg = 0.0  
+14. And wit is most defi                ... pos = 0.625 	neg = 0.125
+15. The teen romance --                 ... pos = 0.125 	neg = 0.125
+16. Our boy Cameron (Jos                ... pos = 0.625 	neg = 0.25 
+17. So Cameron, with the                ... pos = 0.25  	neg = 0.0  
+18. They succeed in gett                ... pos = 0.125 	neg = 0.125
+19. The plot itself does                ... pos = 0.5   	neg = 0.0  
+20. New faces outweight                 ... pos = 0.375 	neg = 0.75 
+21. So 10 THINGS I HATE                 ... pos = 0.5   	neg = 0.0  
+22. Definitely a worthwh                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-560-700 is Positive          ... pos = 15.625 	neg = 3.125
+Overall score of document
+Total Pos = 15.625
+Total Neg = 3.125
+---------------------------------------------------------------------------

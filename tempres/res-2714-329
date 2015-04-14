@@ -1,0 +1,29 @@
+0. An announcement to t                 ... pos = 0.0   	neg = 0.0  
+1. At first I didn't wa                 ... pos = 0.125 	neg = 0.125
+2. Then one of my frien                 ... pos = 0.125 	neg = 0.0  
+3. Then my parent's fri                 ... pos = 0.625 	neg = 0.0  
+4. Then my dad's boss s                 ... pos = 0.625 	neg = 0.0  
+5. And boy was I surpri                 ... pos = 0.375 	neg = 0.125
+6. Anyone that does not                 ... pos = 0.25  	neg = 1.0  
+7. Anyone that can make                 ... pos = 0.5   	neg = 0.25 
+8. ) and see this film                  ... pos = 0.0   	neg = 0    
+9. Malcolm Crowe (Willi                 ... pos = 1.125 	neg = 0.375
+10. A year after he reco                ... pos = 0.5   	neg = 0.125
+11. Cole Sear (Joel Osme                ... pos = 0.125 	neg = 1.5  
+12. Malcom is frightened                ... pos = 0.375 	neg = 0.25 
+13. So when Cole tells h                ... pos = 0.375 	neg = 1.25 
+14. Great performances f                ... pos = 0.25  	neg = 0.375
+15. Heck, if a guy who d                ... pos = 1.125 	neg = 0.375
+16. Bruce Willis also be                ... pos = 0.125 	neg = 0.25 
+17. " If my first paragr                ... pos = 1.375 	neg = 1.25 
+18. ) What are you waiti                ... pos = 0.25  	neg = 0.0  
+19. Go, now, to the thea                ... pos = 0.0   	neg = 0.0  
+20. ADDITIONAL NOTE: If                 ... pos = 0.375 	neg = 0.0  
+21. The Young-Uns: The f                ... pos = 0.5   	neg = 0.0  
+22. Good Age: 12-13 & Up                ... pos = 1.25  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-2714-329 is Positive         ... pos = 10.375 	neg = 8.0  
+Overall score of document
+Total Pos = 10.375
+Total Neg = 8.0
+---------------------------------------------------------------------------

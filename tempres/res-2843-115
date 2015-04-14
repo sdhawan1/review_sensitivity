@@ -1,0 +1,85 @@
+0. A lot of people had                  ... pos = 0.125 	neg = 0.25 
+1. They didn't like the                 ... pos = 0.0   	neg = 0.0  
+2. They assumed the hor                 ... pos = 0.875 	neg = 0.75 
+3. And many white peopl                 ... pos = 0.0   	neg = 1.0  
+4. I had high hopes, th                 ... pos = 0.0   	neg = 0.0  
+5. There are two types                  ... pos = 0.5   	neg = 0.125
+6. I am most certainly                  ... pos = 0.625 	neg = 0.125
+7. I have never quite a                 ... pos = 1.125 	neg = 0.125
+8. His poor comic timin                 ... pos = 0.25  	neg = 0.375
+9. With the Wild Wild W                 ... pos = 0.75  	neg = 0.875
+10. But I was wrong.                    ... pos = 0     	neg = 0.875
+11. Will Smith continues                ... pos = 0.125 	neg = 0.0  
+12. When he finds someth                ... pos = 0.5   	neg = 0.375
+13. Knock it off.                       ... pos = 0.0   	neg = 0.625
+14. " And then he keeps                 ... pos = 0.0   	neg = 0.125
+15. It's not funny anymo                ... pos = 0.0   	neg = 0.0  
+16. God damn it, would y                ... pos = 0.0   	neg = 0.125
+17. " Some lines are mil                ... pos = 0.0   	neg = 0.875
+18. At one point, he con                ... pos = 0.125 	neg = 1.0  
+19. It's obviously meant                ... pos = 0.0   	neg = 0.0  
+20. If it were Chris Tuc                ... pos = 0.375 	neg = 1.0  
+21. With Smith you just                 ... pos = 0.0   	neg = 0.25 
+22. "   Smith's collabor                ... pos = 0.375 	neg = 0.0  
+23. One thing about Sonn                ... pos = 0.0   	neg = 0.5  
+24. A Sonnenfeld intervi                ... pos = 0.5   	neg = 0.125
+25. Sonnenfeld either is                ... pos = 1.0   	neg = 0.375
+26. On set, he is said t                ... pos = 0.0   	neg = 0.125
+27. On the set of Wild W                ... pos = 0.0   	neg = 0.625
+28. Later he realized th                ... pos = 0.25  	neg = 0.375
+29. On Men In Black, he                 ... pos = 0.0   	neg = 0.75 
+30. Another thing about                 ... pos = 0.625 	neg = 0.25 
+31. Upon release, The Ad                ... pos = 0.625 	neg = 0.125
+32. Now the novelty has                 ... pos = 0.5   	neg = 1.5  
+33. At the time, Addams                 ... pos = 1.0   	neg = 0.125
+34. Now it seems too bro                ... pos = 0.0   	neg = 0.375
+35. Sonnenfeld is not as                ... pos = 1.5   	neg = 0.25 
+36. But he's delivered s                ... pos = 1.5   	neg = 0.125
+37. I've always thought                 ... pos = 0.75  	neg = 0.0  
+38. Not a genius, but wi                ... pos = 0.25  	neg = 0.0  
+39. With Wild Wild West,                ... pos = 0.0   	neg = 0.75 
+40. The former camera vi                ... pos = 0.125 	neg = 0.0  
+41. I came out with a lo                ... pos = 0.375 	neg = 0.375
+42. Who was the dead guy                ... pos = 0.0   	neg = 0.125
+43. How did they figure                 ... pos = 0.0   	neg = 0.125
+44. When did they save t                ... pos = 0     	neg = 0.0  
+45. What did they plan t                ... pos = 0.0   	neg = 0.0  
+46. These things and oth                ... pos = 0.625 	neg = 0.5  
+47. We don't really need                ... pos = 0.125 	neg = 0.375
+48. When Jim West gets s                ... pos = 0.0   	neg = 0.875
+49. Again, we knew this                 ... pos = 0.5   	neg = 0.125
+50. Men In Black had a l                ... pos = 0.625 	neg = 0.875
+51. In the end, it felt                 ... pos = 0.0   	neg = 0.875
+52. But Wild Wild West m                ... pos = 0.0   	neg = 0.625
+53. There are a few grea                ... pos = 0.25  	neg = 0.125
+54. But that's about it.                ... pos = 0.0   	neg = 0.0  
+55. Men In Black was als                ... pos = 0.0   	neg = 0.75 
+56. But the film was anc                ... pos = 0.0   	neg = 0.375
+57. Here, no one plays i                ... pos = 0.0   	neg = 0.25 
+58. Kevin Kline is intro                ... pos = 0.0   	neg = 0.75 
+59. Astonishingly, the f                ... pos = 0.125 	neg = 0.5  
+60. Kenneth Branagh does                ... pos = 0.0   	neg = 0.625
+61. The best way to desc                ... pos = 1.25  	neg = 0.125
+62. " You know the type,                ... pos = 0.125 	neg = 0.0  
+63. The kind of villain                 ... pos = 1.125 	neg = 1.0  
+64. The type of villain                 ... pos = 0.0   	neg = 0.5  
+65. Salma Hayek is utter                ... pos = 0.0   	neg = 0.5  
+66. This is an actress w                ... pos = 0.0   	neg = 0.375
+67. And somehow, they've                ... pos = 0.5   	neg = 0.0  
+68. I saw the movie yest                ... pos = 0.125 	neg = 0.0  
+69. In fact, the only ch                ... pos = 1.375 	neg = 0.25 
+70. They're the only cha                ... pos = 1.0   	neg = 0.125
+71. The media and newsgr                ... pos = 0.0   	neg = 0.875
+72. I hope the suits don                ... pos = 0.625 	neg = 0.75 
+73. For a while it seeme                ... pos = 0.125 	neg = 0.125
+74. Witness the astoundi                ... pos = 0.25  	neg = 0.0  
+75. I know things will n                ... pos = 1.375 	neg = 0.25 
+76. Still, when mainstre                ... pos = 1.0   	neg = 0.75 
+77. "I write rhymes so f                ... pos = 0.375 	neg = 0.5  
+78. " --Tash. .                         ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2843-115 is Negative         ... pos = 26.25 	neg = 29.625
+Overall score of document
+Total Pos = 26.25
+Total Neg = 29.625
+---------------------------------------------------------------------------

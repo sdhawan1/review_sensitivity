@@ -1,0 +1,42 @@
+0. Starring Will Smith,                 ... pos = 0.125 	neg = 0.0  
+1. Directed By Barry So                 ... pos = 0.25  	neg = 0.125
+2. And, like The Lost W                 ... pos = 0.0   	neg = 0.875
+3. It centres more on t                 ... pos = 1.625 	neg = 0.5  
+4. The Men in Black (MI                 ... pos = 0.5   	neg = 0.0  
+5. However, these alien                 ... pos = 0.125 	neg = 0.75 
+6. At one point, a boar                 ... pos = 0.25  	neg = 0.0  
+7. A nice joke there.                   ... pos = 0.0   	neg = 0.25 
+8. Anyway, an evil alie                 ... pos = 0.5   	neg = 0.875
+9. So, the MIB are call                 ... pos = 0.25  	neg = 0.0  
+10. What follows is 90 m                ... pos = 0.0   	neg = 0.125
+11. '90 minutes?                        ... pos = 0     	neg = 0.0  
+12. ' I hear you cry?                   ... pos = 0.0   	neg = 0.0  
+13. Yes, thankfully, MIB                ... pos = 0.5   	neg = 0.125
+14. Not that it's too sh                ... pos = 0.0   	neg = 0.25 
+15. 90 minutes is the pe                ... pos = 0.0   	neg = 0.125
+16. It's not too much, a                ... pos = 0.125 	neg = 0.75 
+17. Will Smith does a go                ... pos = 1.25  	neg = 0.25 
+18. Jones, however, does                ... pos = 0.5   	neg = 0.25 
+19. These two comedic st                ... pos = 0.0   	neg = 0.0  
+20. Rip Torn also gives                 ... pos = 0.75  	neg = 0.0  
+21. One of the best perf                ... pos = 0.375 	neg = 0.125
+22. Watching him lumber                 ... pos = 0.0   	neg = 0.5  
+23. He dosen't say much,                ... pos = 1.875 	neg = 0.0  
+24. However, Linda Fiore                ... pos = 0.5   	neg = 0.375
+25. Her performance is g                ... pos = 0.75  	neg = 0.25 
+26. She just seems to be                ... pos = 0.0   	neg = 0.25 
+27. The special effects,                ... pos = 1.25  	neg = 0.5  
+28. This film may cause                 ... pos = 0.625 	neg = 0.625
+29. Although nowhere nea                ... pos = 0.375 	neg = 1.25 
+30. So don't take the PG                ... pos = 0.0   	neg = 0.0  
+31. The ending is probab                ... pos = 0.0   	neg = 1.625
+32. Like most Spielberg                 ... pos = 0.875 	neg = 0.0  
+33. If your child went t                ... pos = 0.0   	neg = 0.0  
+34. Overall though, I th                ... pos = 0.375 	neg = 0.125
+35. MIB, then, is highly                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-917-1213 is Positive         ... pos = 14.375 	neg = 11.0 
+Overall score of document
+Total Pos = 14.375
+Total Neg = 11.0
+---------------------------------------------------------------------------

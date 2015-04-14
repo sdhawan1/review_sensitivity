@@ -1,0 +1,36 @@
+0. Never Been Kissed, s                 ... pos = 0.0   	neg = 0.125
+1. Directed by Raja Gos                 ... pos = 0.0   	neg = 0.0  
+2. 1999.                                ... pos = 0     	neg = 0    
+3. In the past few year                 ... pos = 0.0   	neg = 0.0  
+4. Starting with the wi                 ... pos = 0.5   	neg = 0.125
+5. However, like all fa                 ... pos = 0.125 	neg = 0.125
+6. Never Been Kissed en                 ... pos = 0.125 	neg = 0.625
+7. Just like the fad it                 ... pos = 0.5   	neg = 0.5  
+8. The premise of Never                 ... pos = 0.125 	neg = 0.125
+9. Her ultimate dream i                 ... pos = 0.375 	neg = 0.125
+10. I must admit, I pers                ... pos = 1.125 	neg = 0.5  
+11. Drew Barrymore stars                ... pos = 0.125 	neg = 0.0  
+12. With such a horrible                ... pos = 0.0   	neg = 1.25 
+13. Unfortunately, the b                ... pos = 0.125 	neg = 1.25 
+14. Barrymore gives Neve                ... pos = 0.0   	neg = 0.125
+15. Yes, she even manage                ... pos = 0.125 	neg = 1.5  
+16. The rest of the cast                ... pos = 0.0   	neg = 0.875
+17. David Arquette plays                ... pos = 0.625 	neg = 0.75 
+18. The biggest problem                 ... pos = 0.25  	neg = 1.125
+19. Instead of capitaliz                ... pos = 0.125 	neg = 0.125
+20. Never Been Kissed ev                ... pos = 0.0   	neg = 0.25 
+21. Despite all of the g                ... pos = 0.75  	neg = 1.0  
+22. Drew Barrymore has a                ... pos = 0.125 	neg = 0.75 
+23. Barrymore once again                ... pos = 0.0   	neg = 0.25 
+24. Until Barrymore can                 ... pos = 1.25  	neg = 0.125
+25. While it may be hard                ... pos = 0.125 	neg = 1.875
+26. Once Barrymore leave                ... pos = 0.125 	neg = 0.0  
+27. Unless you are a rea                ... pos = 0.25  	neg = 0.125
+28. Rent something bette                ... pos = 1.5   	neg = 0.125
+29. Final Verdict: D The                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4911-493 is Negative         ... pos = 8.5   	neg = 13.75
+Overall score of document
+Total Pos = 8.5
+Total Neg = 13.75
+---------------------------------------------------------------------------

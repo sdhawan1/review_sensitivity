@@ -1,0 +1,81 @@
+0. At one point in DECO                 ... pos = 0.5   	neg = 0.125
+1. She screams at him u                 ... pos = 0.375 	neg = 0.125
+2. That's when Harry sa                 ... pos = 0.0   	neg = 0.125
+3. "  He's not being in                 ... pos = 0.375 	neg = 0.125
+4. Harry's in denial, b                 ... pos = 0.375 	neg = 0.75 
+5. He's not only being                  ... pos = 0.25  	neg = 1.125
+6. You feel like cheeri                 ... pos = 0.25  	neg = 0.75 
+7. Since HUSBANDS AND W                 ... pos = 0.375 	neg = 0.125
+8. With his latest film                 ... pos = 0.0   	neg = 0.0  
+9. HUSBANDS AND WIVES h                 ... pos = 1.25  	neg = 0.0  
+10. EVERYONE SAYS I LOVE                ... pos = 1.5   	neg = 0.625
+11. DECONSTRUCTING HARRY                ... pos = 1.0   	neg = 0.25 
+12. Somewhere, Pirandell                ... pos = 1.0   	neg = 0.625
+13. Harry Block (Allen)                 ... pos = 0.25  	neg = 1.5  
+14. He's recognizable as                ... pos = 0.5   	neg = 0.375
+15. He cheats on his wiv                ... pos = 0.5   	neg = 0.125
+16. Moreover, he puts th                ... pos = 1.25  	neg = 0.25 
+17. The movie's plot rev                ... pos = 0.5   	neg = 0.375
+18. Lonely, he asks a ho                ... pos = 0.375 	neg = 0.0  
+19. He then kidnaps his                 ... pos = 0.75  	neg = 0.125
+20. For the first time s                ... pos = 0.125 	neg = 0    
+21. Through his writing,                ... pos = 0.125 	neg = 1.0  
+22. But they only hurt t                ... pos = 0.0   	neg = 0.125
+23. His adulterous escap                ... pos = 1.25  	neg = 0.125
+24. He repeatedly tells                 ... pos = 0.625 	neg = 0.375
+25. Instead she runs off                ... pos = 0.125 	neg = 1.375
+26. The women in Harry's                ... pos = 0.5   	neg = 0.5  
+27. Aaron, Davis, and Al                ... pos = 0.875 	neg = 0.0  
+28. I  realize that soun                ... pos = 1.75  	neg = 0.375
+29. They're painful, but                ... pos = 0.0   	neg = 0.75 
+30. Sexist?                             ... pos = 0     	neg = 0.0  
+31. No, because these ep                ... pos = 0.125 	neg = 1.25 
+32. Davis is fantastic w                ... pos = 0.375 	neg = 0.25 
+33. Alley's even better                 ... pos = 0.0   	neg = 0.125
+34. DECONSTRUCTING HARRY                ... pos = 0.0   	neg = 0.25 
+35. Some of these are ju                ... pos = 0.375 	neg = 0.0  
+36. It takes a while to                 ... pos = 0.25  	neg = 0.625
+37. The movie ends in im                ... pos = 1.25  	neg = 0.125
+38. We can imagine Woody                ... pos = 0.75  	neg = 0.5  
+39. But Allen doesn't en                ... pos = 0.0   	neg = 0.0  
+40. Instead, the dream f                ... pos = 0.375 	neg = 0.5  
+41. I suspect that even                 ... pos = 0.0   	neg = 0.75 
+42. Melvin Udall (Jack N                ... pos = 0.0   	neg = 0.875
+43. He's not only obsess                ... pos = 0.0   	neg = 0.75 
+44. His salvation arrive                ... pos = 0.625 	neg = 0.0  
+45. It also comes from S                ... pos = 0.375 	neg = 0.125
+46. AS GOOD AS IT GETS i                ... pos = 0.75  	neg = 0.25 
+47. All the characters a                ... pos = 1.5   	neg = 0.0  
+48. The movie's supposed                ... pos = 0.75  	neg = 2.0  
+49. We may think it's da                ... pos = 0.75  	neg = 1.375
+50. The casting, though,                ... pos = 0.25  	neg = 0.5  
+51. You can understand w                ... pos = 0.375 	neg = 0.0  
+52. He's always had this                ... pos = 2.125 	neg = 0.125
+53. Brooks must have fel                ... pos = 0.75  	neg = 0.125
+54. The problem is that                 ... pos = 0.0   	neg = 0.375
+55. He was a plausible m                ... pos = 1.625 	neg = 1.0  
+56. If Melvin had had Du                ... pos = 1.0   	neg = 0.25 
+57. Regardless, Nicholso                ... pos = 0.0   	neg = 0.0  
+58. His problem spreads                 ... pos = 1.125 	neg = 0.75 
+59. Worse off is Hunt, t                ... pos = 0.25  	neg = 2.5  
+60. I've seen episodes o                ... pos = 2.125 	neg = 1.125
+61. With her crisp dicti                ... pos = 0.125 	neg = 0.25 
+62. "  The part needed S                ... pos = 0.875 	neg = 0.25 
+63. Or, if they wanted s                ... pos = 0.875 	neg = 0.0  
+64. Michelle Pfeiffer wo                ... pos = 0.0   	neg = 0.0  
+65. As welcome as it is                 ... pos = 0.5   	neg = 0.875
+66. Woody Allen has take                ... pos = 1.0   	neg = 0.125
+67. Harry Block is a man                ... pos = 0.0   	neg = 0.75 
+68. Such a dedicated art                ... pos = 0.125 	neg = 0.5  
+69. Of course, it's poss                ... pos = 0.614 	neg = 0.125
+70. AS GOOD AS IT GETS i                ... pos = 0.75  	neg = 0.125
+71. It gave me a good id                ... pos = 0.75  	neg = 0.0  
+72. Maybe Jack Nicholson                ... pos = 0.0   	neg = 0.5  
+73. "  Instead of  Paul'                ... pos = 0.0   	neg = 0.5  
+74. There's the new corn                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2115-739 is Positive         ... pos = 40.989 	neg = 32.625
+Overall score of document
+Total Pos = 40.989
+Total Neg = 32.625
+---------------------------------------------------------------------------

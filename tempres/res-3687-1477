@@ -1,0 +1,75 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring Christian B                 ... pos = 0.0   	neg = 0.875
+2. Screenplay by Mary H                 ... pos = 0.0   	neg = 0.0  
+3. Directed by Mary Har                 ... pos = 0.0   	neg = 0    
+4. Rated R.. "American                  ... pos = 0.25  	neg = 0.0  
+5. Then  red stuff is s                 ... pos = 0.125 	neg = 1.0  
+6. After all,  this is                  ... pos = 0.0   	neg = 0.5  
+7. Our anticipation gro                 ... pos = 0.375 	neg = 0.25 
+8. .                                    ... pos = 0     	neg = 0    
+9. .                                    ... pos = 0     	neg = 0    
+10. a piece of meat.                    ... pos = 0.0   	neg = 0    
+11. Whoops.                             ... pos = 0     	neg = 0.25 
+12. All that red stuff w                ... pos = 0.625 	neg = 0.375
+13. This opening  credit                ... pos = 0.625 	neg = 0.25 
+14. It's not going to be                ... pos = 0.25  	neg = 0.125
+15. "American  Psycho" w                ... pos = 0.125 	neg = 0.0  
+16. Christian Bale plays                ... pos = 0.0   	neg = 0.0  
+17. Patrick is handsome                 ... pos = 1.25  	neg = 0.125
+18. He gets chauffeured                 ... pos = 0.0   	neg = 0.0  
+19. He also has a proble                ... pos = 0.0   	neg = 0.0  
+20. Not right  away; he'                ... pos = 1.375 	neg = 0.5  
+21. But Bateman is  frus                ... pos = 0.0   	neg = 0.125
+22. He still gets one-up                ... pos = 0.125 	neg = 1.0  
+23. So he takes out his                 ... pos = 0.625 	neg = 0.375
+24. Patrick likes to kil                ... pos = 0.0   	neg = 0.0  
+25. Possible  problems s                ... pos = 0.25  	neg = 1.25 
+26. "American Psycho" wa                ... pos = 0.5   	neg = 0.5  
+27. It was considered  "                ... pos = 0.125 	neg = 0.125
+28. " Despite such senti                ... pos = 0.25  	neg = 0.25 
+29. If there is a misogy                ... pos = 0.625 	neg = 1.625
+30. This is satire of co                ... pos = 0.375 	neg = 0.125
+31. The film  jabs at th                ... pos = 0.375 	neg = 0.0  
+32. A colleague has a su                ... pos = 0.0   	neg = 0.0  
+33. Invite him to your                  ... pos = 0.0   	neg = 0.0  
+34. Frustrated with your                ... pos = 0.375 	neg = 0.125
+35. Invite prostitutes i                ... pos = 0.0   	neg = 0.0  
+36. The analogies are  n                ... pos = 0.5   	neg = 0.0  
+37. Witness Bale dissect                ... pos = 2.0   	neg = 0.125
+38. The aforementioned "                ... pos = 1.125 	neg = 0.25 
+39. Christian Bale deliv                ... pos = 0.0   	neg = 0.125
+40. Playing a weird  hyb                ... pos = 1.0   	neg = 1.625
+41. But afterward comes                 ... pos = 1.75  	neg = 0.0  
+42. It's important to re                ... pos = 1.5   	neg = 0.25 
+43. His facial ticks and                ... pos = 0.5   	neg = 0.5  
+44. Bale is also surroun                ... pos = 0.5   	neg = 0.125
+45. Their performances g                ... pos = 0.0   	neg = 0    
+46. It's important to re                ... pos = 1.5   	neg = 0.25 
+47. It is not enough  to                ... pos = 0.0   	neg = 1.125
+48. " Only the  attentiv                ... pos = 0.625 	neg = 0.875
+49. This is not certain-                ... pos = 0.375 	neg = 0.75 
+50. No one hears  Batema                ... pos = 0.375 	neg = 0.5  
+51. But maybe no one hea                ... pos = 0.0   	neg = 0.25 
+52. That would  also exp                ... pos = 0.375 	neg = 1.5  
+53. The argument over wh                ... pos = 0.0   	neg = 1.125
+54. An  entirely new dim                ... pos = 1.125 	neg = 1.0  
+55. It better supports a                ... pos = 0.0   	neg = 0.125
+56. " He just needs to b                ... pos = 0.0   	neg = 0.25 
+57. Bateman's crisis isn                ... pos = 0.0   	neg = 0.0  
+58. This is not an exit.                ... pos = 0.0   	neg = 0.125
+59. "American Psycho" ha                ... pos = 1.125 	neg = 0.5  
+60. I'm  also wondering                 ... pos = 0.375 	neg = 0.125
+61. The satire  is unive                ... pos = 0.125 	neg = 0.5  
+62. It would probably ha                ... pos = 0.875 	neg = 0.125
+63. "  Still, "American                 ... pos = 0.375 	neg = 0.375
+64. It's deeper than it                 ... pos = 0.375 	neg = 0.0  
+65. Notice how Patrick B                ... pos = 0.875 	neg = 0.0  
+66. Considering his tast                ... pos = 0.25  	neg = 0.0  
+67. Heck, if I listened                 ... pos = 0.0   	neg = 0.875
+68. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3687-1477 is Positive        ... pos = 26.25 	neg = 23.125
+Overall score of document
+Total Pos = 26.25
+Total Neg = 23.125
+---------------------------------------------------------------------------

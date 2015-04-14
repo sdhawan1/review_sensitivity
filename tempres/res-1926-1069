@@ -1,0 +1,40 @@
+0. The Church of the Su                 ... pos = 0.0   	neg = 0.0  
+1. Quit your job!                       ... pos = 0     	neg = 0.0  
+2. Slack off!                           ... pos = 0     	neg = 0.0  
+3. "  And that's essent                 ... pos = 1.0   	neg = 0.5  
+4. But there are powerf                 ... pos = 1.0   	neg = 0.375
+5. So it is with films                  ... pos = 0.0   	neg = 0.5  
+6. In other words: If y                 ... pos = 0.0   	neg = 0.125
+7. AMERICAN BEAUTY foll                 ... pos = 0.5   	neg = 0.0  
+8. The setting of a pea                 ... pos = 2.75  	neg = 0.25 
+9. Kevin Spacey is Lest                 ... pos = 0.125 	neg = 0.75 
+10. He describes himself                ... pos = 1.0   	neg = 0.625
+11. And when he gets a g                ... pos = 0.875 	neg = 0.0  
+12. But he's so beaten d                ... pos = 1.5   	neg = 1.0  
+13. For a 42-year-old ma                ... pos = 1.25  	neg = 0.875
+14. He's reaching back t                ... pos = 1.0   	neg = 0.375
+15. Lester was probably                 ... pos = 0.625 	neg = 0.125
+16. And because his soul                ... pos = 0.875 	neg = 0.125
+17. But *they* don't lik                ... pos = 1.25  	neg = 0.125
+18. Lester may have been                ... pos = 0.875 	neg = 1.75 
+19. One of this movie's                 ... pos = 1.375 	neg = 0.625
+20. And Lester's daughte                ... pos = 1.25  	neg = 1.125
+21. So when the son of h                ... pos = 0.75  	neg = 0.0  
+22. In fact, it's the ne                ... pos = 0.875 	neg = 0.0  
+23. (The fact that his c                ... pos = 1.5   	neg = 0.25 
+24. ). The characters ar                ... pos = 1.875 	neg = 0.75 
+25. Am I as hopeless and                ... pos = 0.0   	neg = 2.375
+26. Is my life destined                 ... pos = 0.0   	neg = 0.75 
+27. Or is it still possi                ... pos = 0.25  	neg = 0.75 
+28. The story has a few                 ... pos = 0.625 	neg = 0.75 
+29. But the movie is sti                ... pos = 1.0   	neg = 0.25 
+30. But in spite of alll                ... pos = 0.875 	neg = 0.25 
+31. It's one of the few                 ... pos = 1.125 	neg = 0.0  
+32. If the world of real                ... pos = 0.0   	neg = 0.75 
+33. But, unfortunately,                 ... pos = 0     	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-1926-1069 is Positive        ... pos = 26.125 	neg = 17.0 
+Overall score of document
+Total Pos = 26.125
+Total Neg = 17.0
+---------------------------------------------------------------------------

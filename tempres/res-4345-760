@@ -1,0 +1,36 @@
+0. Director: Steven Zai                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution: Tou                 ... pos = 1.125 	neg = 0.25 
+2. Most of the things t                 ... pos = 0.375 	neg = 0.0  
+3. Movies are great bec                 ... pos = 0.375 	neg = 0.0  
+4. A film that's "based                 ... pos = 1.0   	neg = 0.5  
+5. A Civil Action is ba                 ... pos = 0.625 	neg = 0.125
+6. It's based on the tr                 ... pos = 0.5   	neg = 0.0  
+7. Jan is a cynical man                 ... pos = 1.75  	neg = 0.125
+8. (The first scene, in                 ... pos = 0.125 	neg = 0.125
+9. ). Jan, however, dec                 ... pos = 0.875 	neg = 0.75 
+10. Jan discovers that t                ... pos = 0.25  	neg = 0.125
+11. Later, though, his m                ... pos = 0.375 	neg = 0.5  
+12. A Civil Action is on                ... pos = 1.75  	neg = 1.125
+13. It's made perfectly                 ... pos = 1.125 	neg = 0.25 
+14. It almost makes me m                ... pos = 0.125 	neg = 0.375
+15. After all, I usually                ... pos = 0.25  	neg = 0.375
+16. It also has a fantas                ... pos = 1.625 	neg = 0.0  
+17. Director Steven Zail                ... pos = 1.125 	neg = 1.778
+18. It pains me to see t                ... pos = 0.0   	neg = 0.5  
+19. Take, for instance,                 ... pos = 0.125 	neg = 0.0  
+20. This is a very dry,                 ... pos = 1.0   	neg = 0.125
+21. It speaks worlds of                 ... pos = 0.75  	neg = 0.25 
+22. The movie has a simi                ... pos = 1.0   	neg = 1.5  
+23. There are also some                 ... pos = 1.0   	neg = 0.125
+24. I was so ready to lo                ... pos = 0.75  	neg = 0.875
+25. It's nearly impossib                ... pos = 0.375 	neg = 0.125
+26. It also has the most                ... pos = 0.0   	neg = 0.25 
+27. I attribute all of t                ... pos = 1.375 	neg = 0.375
+28. This is a story that                ... pos = 0.125 	neg = 0.375
+29. As I said, cinema is                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4345-760 is Positive         ... pos = 19.875 	neg = 11.278
+Overall score of document
+Total Pos = 19.875
+Total Neg = 11.278
+---------------------------------------------------------------------------

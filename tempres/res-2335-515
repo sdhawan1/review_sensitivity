@@ -1,0 +1,47 @@
+0. Alien Resurrection (                 ... pos = 0.0   	neg = 0.0  
+1. Written by: Joss Whe                 ... pos = 0.0   	neg = 0    
+2. Directed by: Jean-Pi                 ... pos = 0.0   	neg = 0    
+3. Running Time: 118 mi                 ... pos = 0     	neg = 0.0  
+4. *** This review cont                 ... pos = 0.0   	neg = 0.0  
+5. ***. "Alien Resurrec                 ... pos = 0.125 	neg = 1.0  
+6. Sigourney Weaver is                  ... pos = 0.125 	neg = 0.125
+7. I say surprisingly s                 ... pos = 1.0   	neg = 0.0  
+8. This one is set 200                  ... pos = 0.125 	neg = 0.5  
+9. These scientists hop                 ... pos = 0.375 	neg = 0.0  
+10. Amazing how after an                ... pos = 0.25  	neg = 0.25 
+11. Well sure enough, th                ... pos = 0.75  	neg = 0.25 
+12. None of the characte                ... pos = 1.375 	neg = 0.375
+13. You don't care if an                ... pos = 0.0   	neg = 0.0  
+14. You've got the head                 ... pos = 1.0   	neg = 0.625
+15. Some other minor pro                ... pos = 0.75  	neg = 0.375
+16. Another thing, too m                ... pos = 0.0   	neg = 0.375
+17. Good to know that th                ... pos = 0.875 	neg = 0.5  
+18. Along those same lin                ... pos = 0.875 	neg = 0.375
+19. Let's make a serious                ... pos = 0.0   	neg = 0.0  
+20. I'm also curious why                ... pos = 0.25  	neg = 1.0  
+21. It didn't take long                 ... pos = 0.625 	neg = 1.375
+22. About the film's fin                ... pos = 0.0   	neg = 0.0  
+23. Blow up the ship and                ... pos = 0.0   	neg = 0.5  
+24. All I kept thinking                 ... pos = 0.75  	neg = 0.375
+25. The ship then at the                ... pos = 0.5   	neg = 0.0  
+26. ), and this is treat                ... pos = 0.75  	neg = 0.125
+27. What gives here?                    ... pos = 0.0   	neg = 0.0  
+28. Weaver keeps voicing                ... pos = 0.0   	neg = 0.0  
+29. Personally, I just d                ... pos = 0.0   	neg = 0.25 
+30. But, there's plenty                 ... pos = 0.0   	neg = 0.0  
+31. "Alien Resurrection"                ... pos = 0.75  	neg = 0.0  
+32. Information is only                 ... pos = 0.25  	neg = 0.25 
+33. But as soon as the a                ... pos = 0.0   	neg = 0.25 
+34. If this wasn't an "A                ... pos = 0.0   	neg = 0.625
+35. Since there will pro                ... pos = 0.125 	neg = 0.125
+36. Predator" film, then                ... pos = 0.0   	neg = 0.0  
+37. Either aliens make i                ... pos = 0.875 	neg = 0.0  
+38. Anything aside from                 ... pos = 0.125 	neg = 0.5  
+39. [R]. Over 1,600 movi                ... pos = 0.125 	neg = 0.0  
+40. Web address: http://                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2335-515 is Positive         ... pos = 13.0  	neg = 10.125
+Overall score of document
+Total Pos = 13.0
+Total Neg = 10.125
+---------------------------------------------------------------------------

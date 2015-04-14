@@ -1,0 +1,27 @@
+0. If you take a look a                 ... pos = 0.125 	neg = 0.375
+1. No big names and not                 ... pos = 0.875 	neg = 0.25 
+2. Probably another hig                 ... pos = 0.0   	neg = 0.125
+3. But if you go and se                 ... pos = 0.125 	neg = 0.0  
+4. This movie must be o                 ... pos = 1.25  	neg = 0.125
+5. It's about four regu                 ... pos = 0.0   	neg = 0.0  
+6. They are not the stu                 ... pos = 0.25  	neg = 0.5  
+7. Just the average stu                 ... pos = 0.25  	neg = 0.0  
+8. At one party they ma                 ... pos = 0.375 	neg = 0.625
+9. The Sherminator) bra                 ... pos = 0     	neg = 0.25 
+10. And what better time                ... pos = 0.375 	neg = 0.0  
+11. So the story goes on                ... pos = 1.0   	neg = 0.0  
+12. What makes it very r                ... pos = 0.625 	neg = 0.125
+13. Regular guys not bei                ... pos = 0.875 	neg = 0.0  
+14. In this movie you'll                ... pos = 1.0   	neg = 0.0  
+15. This movie is as rea                ... pos = 0.0   	neg = 0.125
+16. Not because the audi                ... pos = 0.0   	neg = 0.0  
+17. The cast also portra                ... pos = 1.25  	neg = 0.75 
+18. Will Jim, Oz, Finch,                ... pos = 0.125 	neg = 0.0  
+19. American Pie is just                ... pos = 0.75  	neg = 0.625
+20. for more reviews, vi                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6196-331 is Positive         ... pos = 9.25  	neg = 3.875
+Overall score of document
+Total Pos = 9.25
+Total Neg = 3.875
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. With storytelling th                 ... pos = 0.0   	neg = 0.125
+1. Based on the book by                 ... pos = 0.0   	neg = 0.0  
+2. CONFIDENTIAL is prob                 ... pos = 0.75  	neg = 0.125
+3. Together with direct                 ... pos = 0.375 	neg = 0.25 
+4. Set in the 50s, the                  ... pos = 0.625 	neg = 0.0  
+5. Jack Vincennes (Spac                 ... pos = 0.5   	neg = 0.5  
+6. There is also the yo                 ... pos = 0.625 	neg = 0.375
+7. The tough and unnerv                 ... pos = 1.375 	neg = 0.25 
+8. 3 policemen, distinc                 ... pos = 2.125 	neg = 0.875
+9. When his partner is                  ... pos = 1.125 	neg = 0.75 
+10. Even after Exley rec                ... pos = 0.0   	neg = 0.0  
+11. The 3 eventually rea                ... pos = 0.25  	neg = 0.0  
+12. The last time I reme                ... pos = 1.125 	neg = 0.125
+13. In L.A.                             ... pos = 0.0   	neg = 0    
+14. CONFIDENTIAL, you do                ... pos = 0.125 	neg = 0.125
+15. There is not a singl                ... pos = 0.0   	neg = 0.25 
+16. Surprisingly, though                ... pos = 1.25  	neg = 0.125
+17. Pearce's Exley is co                ... pos = 0.25  	neg = 0.25 
+18. Crowe's Bud White is                ... pos = 0.5   	neg = 0.125
+19. Superb acting., wond                ... pos = 2.0   	neg = 0.0  
+20. Easily the best Holl                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1450-1168 is Positive        ... pos = 13.625 	neg = 4.25 
+Overall score of document
+Total Pos = 13.625
+Total Neg = 4.25
+---------------------------------------------------------------------------

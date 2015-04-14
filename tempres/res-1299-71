@@ -1,0 +1,42 @@
+0. Visit Online Film Cr                 ... pos = 0.25  	neg = 0.875
+1. Sure, I like when fi                 ... pos = 0.5   	neg = 0.0  
+2. But when the final t                 ... pos = 0.375 	neg = 1.375
+3. The final minutes we                 ... pos = 0.125 	neg = 0.25 
+4. 'Rushmore' opens wit                 ... pos = 1.0   	neg = 0.25 
+5. His classmates in th                 ... pos = 1.375 	neg = 0.125
+6. Of course this scene                 ... pos = 0.5   	neg = 0.5  
+7. Having  attended Rus                 ... pos = 0.0   	neg = 0.125
+8. Most  impressively,                  ... pos = 0.375 	neg = 0.0  
+9. In fact, one of the                  ... pos = 1.625 	neg = 0.125
+10. Behind the set of Ma                ... pos = 0.375 	neg = 0.0  
+11. Aside from Max's fan                ... pos = 0.375 	neg = 0.0  
+12. So there  are severa                ... pos = 1.0   	neg = 0.0  
+13. Unfortunately, Max's                ... pos = 0.25  	neg = 0.875
+14. After 15 year-old Ma                ... pos = 2.25  	neg = 0.625
+15. Practiced  in the pa                ... pos = 1.0   	neg = 1.625
+16. Further, would the v                ... pos = 0.75  	neg = 0.0  
+17. Here's the rub.                     ... pos = 0.0   	neg = 0    
+18. Bill Murray acts ver                ... pos = 0.5   	neg = 0.0  
+19. As Herman Blume, a w                ... pos = 0.125 	neg = 0.5  
+20. Max compares very  f                ... pos = 1.75  	neg = 0.0  
+21. One of  Murray's str                ... pos = 0.5   	neg = 0.875
+22. Later begins one of                 ... pos = 0.625 	neg = 0.5  
+23. Again Murray is prop                ... pos = 0.625 	neg = 0.5  
+24. Note  his matching s                ... pos = 0.375 	neg = 0.0  
+25. Jason Schwartzman do                ... pos = 0.0   	neg = 0.0  
+26. His resemblance to a                ... pos = 1.375 	neg = 0.625
+27. It's a shame that th                ... pos = 0.875 	neg = 1.125
+28. The  writing also sh                ... pos = 1.125 	neg = 0.25 
+29. We fail  to witness                 ... pos = 1.625 	neg = 0.625
+30. Mason Gamble as Dirk                ... pos = 1.0   	neg = 0.0  
+31. Most of their motiva                ... pos = 0.125 	neg = 0.0  
+32. The time of 'Rushmor                ... pos = 0.0   	neg = 0.125
+33. My wife looked at he                ... pos = 0.125 	neg = 0.0  
+34. I am a man who like                 ... pos = 1.125 	neg = 0.25 
+35. Instead of watching                 ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1299-71 is Positive          ... pos = 25.0  	neg = 12.25
+Overall score of document
+Total Pos = 25.0
+Total Neg = 12.25
+---------------------------------------------------------------------------

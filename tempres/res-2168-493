@@ -1,0 +1,45 @@
+0. Rush Hour, starring                  ... pos = 0.0   	neg = 0.0  
+1. Directed by Brett Ra                 ... pos = 0.0   	neg = 0    
+2. 1998.                                ... pos = 0     	neg = 0    
+3. The action genre had                 ... pos = 0.0   	neg = 0.25 
+4. Stars like Jackie Ch                 ... pos = 0.625 	neg = 0.125
+5. However, starting in                 ... pos = 1.0   	neg = 0.75 
+6. In Rush Hour, Jackie                 ... pos = 0.125 	neg = 0.0  
+7. No, not some Chinese                 ... pos = 0.0   	neg = 0.5  
+8. This co-star is one                  ... pos = 0.0   	neg = 0.25 
+9. Tucker is a unique c                 ... pos = 1.0   	neg = 0.625
+10. Tucker's fast talkin                ... pos = 0.625 	neg = 0.0  
+11. Rush Hour starts off                ... pos = 0.0   	neg = 1.25 
+12. Enter Tucker.                       ... pos = 0.0   	neg = 0    
+13. Enter fun.                          ... pos = 0.125 	neg = 0    
+14. Tucker adds life to                 ... pos = 0.625 	neg = 0    
+15. Tucker plays Officer                ... pos = 0.5   	neg = 0.75 
+16. Tucker adds explosiv                ... pos = 0.625 	neg = 0.0  
+17. Instead of relying o                ... pos = 0.875 	neg = 0.25 
+18. Tzi Ma plays Consul                 ... pos = 0.25  	neg = 0.25 
+19. However, when Tzi Ma                ... pos = 0.125 	neg = 0.25 
+20. When the Consul is u                ... pos = 0.25  	neg = 0.125
+21. The FBI does not wan                ... pos = 0.0   	neg = 0.75 
+22. However, their contr                ... pos = 0.875 	neg = 0.0  
+23. The plot may seem mu                ... pos = 0.625 	neg = 0.903
+24. The rest of the cast                ... pos = 0.0   	neg = 0.125
+25. Sang, the main rival                ... pos = 1.0   	neg = 0.375
+26. Comedies like Rush H                ... pos = 0.0   	neg = 0.0  
+27. Going to watch Rush                 ... pos = 0.5   	neg = 0.125
+28. While Rush Hour does                ... pos = 0.375 	neg = 1.375
+29. Rush Hour is an acti                ... pos = 0.625 	neg = 0.25 
+30. While Ratner's inclu                ... pos = 0.0   	neg = 0.75 
+31. However, when watchi                ... pos = 0.25  	neg = 1.0  
+32. The action-comedy hy                ... pos = 0.375 	neg = 0.125
+33. While it is not a cl                ... pos = 0.875 	neg = 0.75 
+34. Chan has found a way                ... pos = 0.125 	neg = 0.125
+35. What's next?                        ... pos = 0     	neg = 0.0  
+36. Maybe the "Muscles f                ... pos = 0.0   	neg = 0.0  
+37. You never know.                     ... pos = 0.0   	neg = 0.0  
+38. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2168-493 is Positive         ... pos = 12.5  	neg = 12.028
+Overall score of document
+Total Pos = 12.5
+Total Neg = 12.028
+---------------------------------------------------------------------------

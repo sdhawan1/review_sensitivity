@@ -1,0 +1,35 @@
+0. **1/2 (out of 4) WON                 ... pos = 0.125 	neg = 0.375
+1. As interesting or we                 ... pos = 0.5   	neg = 0.125
+2. You can leave the th                 ... pos = 0.625 	neg = 0.0  
+3. Michael Douglas, Tob                 ... pos = 0.0   	neg = 0.0  
+4. Douglas plays Profes                 ... pos = 0.0   	neg = 0.0  
+5. James (Maguire), one                 ... pos = 0.375 	neg = 0.25 
+6. Downey plays Terry,                  ... pos = 0.0   	neg = 0.125
+7. The detailed, twisty                 ... pos = 0.0   	neg = 0.0  
+8. A dozen little devel                 ... pos = 0.0   	neg = 0.375
+9. James shoots the dog                 ... pos = 0.5   	neg = 0.625
+10. Terry's transvestite                ... pos = 0.0   	neg = 0.0  
+11. A strange man jumps                 ... pos = 0.375 	neg = 0.0  
+12. Tripp's pretty young                ... pos = 0.0   	neg = 0.125
+13. In a small way, WOND                ... pos = 0.0   	neg = 0.125
+14. Both deal with compl                ... pos = 0.875 	neg = 0.0  
+15. Both involve many co                ... pos = 0.0   	neg = 0.0  
+16. But where MAGNOLIA w                ... pos = 0.125 	neg = 0.25 
+17. Like MAGNOLIA, the e                ... pos = 1.25  	neg = 0.125
+18. Douglas is clearly t                ... pos = 0.375 	neg = 0.5  
+19. All the characters h                ... pos = 0.875 	neg = 0.25 
+20. The characters were                 ... pos = 1.5   	neg = 0.25 
+21. WONDER BOYS has many                ... pos = 1.125 	neg = 0.125
+22. The goings-on at an                 ... pos = 0.0   	neg = 0.125
+23. The department was s                ... pos = 0.0   	neg = 0.25 
+24. Their little problem                ... pos = 0.25  	neg = 0.875
+25. Had I never met thes                ... pos = 0.375 	neg = 0.0  
+26. It may not be comple                ... pos = 0.5   	neg = 0.125
+27. After all, I try to                 ... pos = 0.375 	neg = 0.0  
+28. This one set modest                 ... pos = 1.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4777-1008 is Positive        ... pos = 11.25 	neg = 5.0  
+Overall score of document
+Total Pos = 11.25
+Total Neg = 5.0
+---------------------------------------------------------------------------

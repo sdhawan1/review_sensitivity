@@ -1,0 +1,44 @@
+0. Written by: Alex Pro                 ... pos = 0.625 	neg = 0.0  
+1. Synopsis:  What if y                 ... pos = 0.375 	neg = 0.25 
+2. In DARK CITY John Mu                 ... pos = 0.125 	neg = 0.25 
+3. DARK CITY starts out                 ... pos = 0.125 	neg = 0.0  
+4. Poor John wakes up w                 ... pos = 0.0   	neg = 0.0  
+5. A mysterious phone c                 ... pos = 0.75  	neg = 0.25 
+6. Is John a murderer,                  ... pos = 0.0   	neg = 0.125
+7. He searches through                  ... pos = 0.0   	neg = 0.0  
+8. But when the clues d                 ... pos = 0.375 	neg = 0.625
+9. To John, something i                 ... pos = 0.5   	neg = 0.125
+10. How come it's always                ... pos = 0.25  	neg = 0.125
+11. And how come nobody                 ... pos = 0.125 	neg = 0.125
+12. Every night, around                 ... pos = 1.25  	neg = 0.125
+13. The Strangers have t                ... pos = 0.625 	neg = 0.0  
+14. Turns out, the city                 ... pos = 0.0   	neg = 0.125
+15. And the reason why J                ... pos = 0.125 	neg = 0.25 
+16. Even with the help o                ... pos = 0.125 	neg = 0.0  
+17. Opinion: Director Al                ... pos = 0.125 	neg = 0.375
+18. I think we're a litt                ... pos = 0.0   	neg = 0.25 
+19. " According to direc                ... pos = 0.0   	neg = 0.125
+20. It's designed so tha                ... pos = 1.0   	neg = 0.0  
+21. It's a philosophical                ... pos = 0.0   	neg = 0    
+22. Cinematic science fi                ... pos = 0.875 	neg = 1.125
+23. But science fiction                 ... pos = 0.25  	neg = 0.125
+24. What is the human co                ... pos = 0.0   	neg = 0.125
+25. What is ethical?                    ... pos = 0.0   	neg = 0.125
+26. What would a true hu                ... pos = 0.75  	neg = 0.0  
+27. Far from comic book                 ... pos = 2.25  	neg = 0.0  
+28. DARK CITY is what ph                ... pos = 0.125 	neg = 0.125
+29. A little more than 2                ... pos = 0.5   	neg = 0.5  
+30. The people took refu                ... pos = 0.5   	neg = 0.25 
+31. Meanwhile, the State                ... pos = 0.375 	neg = 0.0  
+32. When science finally                ... pos = 0.625 	neg = 0.625
+33. But the new fear was                ... pos = 0.875 	neg = 0.25 
+34. This is the time per                ... pos = 0.125 	neg = 0.25 
+35. The existentialists'                ... pos = 1.0   	neg = 0.125
+36. In DARK CITY, when t                ... pos = 0.25  	neg = 0.125
+37. " . .                               ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-541-416 is Positive          ... pos = 15.0  	neg = 6.875
+Overall score of document
+Total Pos = 15.0
+Total Neg = 6.875
+---------------------------------------------------------------------------

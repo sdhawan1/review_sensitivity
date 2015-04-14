@@ -1,0 +1,46 @@
+0. I went with a group                  ... pos = 0.875 	neg = 0.125
+1. I was scared to ment                 ... pos = 0.5   	neg = 0.875
+2. Finally in the car,                  ... pos = 0.75  	neg = 1.125
+3. " They felt relieved                 ... pos = 0.25  	neg = 0    
+4. All four of us hated                 ... pos = 0.0   	neg = 0.75 
+5. Ok, you probably wan                 ... pos = 0.0   	neg = 0.125
+6. I liked Batman Retur                 ... pos = 0.125 	neg = 0.0  
+7. Everyone else in the                 ... pos = 0.0   	neg = 0.0  
+8. BATMAN FOREVER was j                 ... pos = 0.125 	neg = 0.25 
+9. From frame one, I re                 ... pos = 0.75  	neg = 1.0  
+10. Lets get the good po                ... pos = 1.5   	neg = 0.125
+11. The stunts, the spec                ... pos = 0.0   	neg = 1.375
+12. That's it for the go                ... pos = 0.75  	neg = 0    
+13. First, in the first                 ... pos = 0.25  	neg = 0.25 
+14. How many times in th                ... pos = 0.5   	neg = 0.125
+15. So, if the bank guar                ... pos = 0.125 	neg = 0.125
+16. Come on.                            ... pos = 0     	neg = 0.0  
+17. Second, Batman doesn                ... pos = 0.0   	neg = 0.5  
+18. When Michael Keaton                 ... pos = 0.875 	neg = 0.0  
+19. Batman was the dark                 ... pos = 0.125 	neg = 0.125
+20. It reversed in this                 ... pos = 0.0   	neg = 0    
+21. Third, THE BATMOBILE                ... pos = 0.0   	neg = 0.25 
+22. I wanted to leave at                ... pos = 0.0   	neg = 0.0  
+23. Fourth, there was no                ... pos = 0     	neg = 0.5  
+24. Some guy at a trial                 ... pos = 0.75  	neg = 1.25 
+25. Yes, Batman, not Bru                ... pos = 0.0   	neg = 0.0  
+26. Fifth, did anyone el                ... pos = 0.0   	neg = 0.125
+27. Was this supposed to                ... pos = 0.0   	neg = 0.25 
+28. Once again, I wanted                ... pos = 0.0   	neg = 0.0  
+29. Sixth, did the Riddl                ... pos = 0.0   	neg = 0.0  
+30. So eventually they d                ... pos = 0.0   	neg = 0.0  
+31. Oooooo.                             ... pos = 0     	neg = 0    
+32. Big help for Batman                 ... pos = 0.0   	neg = 0.0  
+33. Seventh, the cliches                ... pos = 0.0   	neg = 0.0  
+34. When Grayson got int                ... pos = 0.25  	neg = 0.0  
+35. " They did.                         ... pos = 0     	neg = 0.0  
+36. And why would Robin                 ... pos = 0     	neg = 0.125
+37. "Yeah, I'm going to                 ... pos = 0.0   	neg = 0.625
+38. "  Come on.                         ... pos = 0     	neg = 0.0  
+39. There are MANY other                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2752-515 is Negative         ... pos = 9.5   	neg = 10.125
+Overall score of document
+Total Pos = 9.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

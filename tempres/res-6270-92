@@ -1,0 +1,34 @@
+0. Seen on 24 October 1                 ... pos = 0.0   	neg = 1.375
+1. Seeing Al Pacino boi                 ... pos = 0.0   	neg = 0.0  
+2. Happily, I wound up                  ... pos = 0.5   	neg = 0.25 
+3. It is not as subtle                  ... pos = 1.5   	neg = 0.625
+4. Kevin Lomax (Keanu R                 ... pos = 0.125 	neg = 0.125
+5. After ensuring the f                 ... pos = 0.375 	neg = 0.125
+6. They offer everythin                 ... pos = 0.0   	neg = 0.25 
+7. In fact, isn't it a                  ... pos = 0.0   	neg = 0.375
+8. Boss John Milton has                 ... pos = 0.0   	neg = 0.375
+9. While Kevin thrives                  ... pos = 0.75  	neg = 0.0  
+10. She doesn't quite li                ... pos = 0.25  	neg = 0.625
+11. She doesn't quite li                ... pos = 0.125 	neg = 0.5  
+12. During a visit, Kevi                ... pos = 0.625 	neg = 0.75 
+13. Al Pacino's performa                ... pos = 0.0   	neg = 0.375
+14. The movie is well wr                ... pos = 0.0   	neg = 0.25 
+15. Larger than life (as                ... pos = 1.875 	neg = 0.75 
+16. It is also gratifyin                ... pos = 0.5   	neg = 0.125
+17. Obviously the tempta                ... pos = 0.5   	neg = 0.75 
+18. Like Young Goodman B                ... pos = 0.75  	neg = 0.25 
+19. Brava to Roberta J.                 ... pos = 0.0   	neg = 0    
+20. Milton's office and                 ... pos = 0.625 	neg = 0.875
+21. Devil's Advocate sho                ... pos = 0.5   	neg = 0.0  
+22. A lot of churches ap                ... pos = 0.75  	neg = 0.25 
+23. Yet, there is always                ... pos = 1.125 	neg = 0.75 
+24. All of this is so en                ... pos = 0.625 	neg = 0.125
+25. There are other ways                ... pos = 0.25  	neg = 0.0  
+26. If you would like to                ... pos = 0.125 	neg = 0.0  
+27. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6270-92 is Positive          ... pos = 11.875 	neg = 10.0 
+Overall score of document
+Total Pos = 11.875
+Total Neg = 10.0
+---------------------------------------------------------------------------

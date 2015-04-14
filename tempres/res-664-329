@@ -1,0 +1,32 @@
+0. Freakish, out there                  ... pos = 0.75  	neg = 0.125
+1. While some of these                  ... pos = 1.375 	neg = 0.0  
+2. Released around the                  ... pos = 0.5   	neg = 0.125
+3. Alternate universes                  ... pos = 0.0   	neg = 0.125
+4. The movie does such                  ... pos = 0.375 	neg = 0.125
+5. Get ready for a wild                 ... pos = 0.5   	neg = 0.25 
+6. Allegra Gellar (Leig                 ... pos = 1.125 	neg = 0.25 
+7. During a test for he                 ... pos = 0.375 	neg = 1.0  
+8. She flees with secur                 ... pos = 0.0   	neg = 0.0  
+9. Ted hasn't had the o                 ... pos = 0.125 	neg = 0.25 
+10. They need to get him                ... pos = 0.25  	neg = 0.25 
+11. They are transported                ... pos = 0.875 	neg = 0.0  
+12. In the game, they be                ... pos = 0.125 	neg = 0.125
+13. This is just the beg                ... pos = 0.625 	neg = 0.375
+14. This movie really pa                ... pos = 0.0   	neg = 0.0  
+15. Everything in the mo                ... pos = 0.625 	neg = 0.5  
+16. The performances are                ... pos = 0.25  	neg = 0.375
+17. Jude Law is an excel                ... pos = 2.125 	neg = 0.25 
+18. He's really showing                 ... pos = 0.0   	neg = 0.0  
+19. Poor Jennifer Jason                 ... pos = 0.125 	neg = 0.125
+20. Willem DaFoe and Sar                ... pos = 0.0   	neg = 0.0  
+21. The sexual innuendo                 ... pos = 0     	neg = 1.0  
+22. The gaming pods can'                ... pos = 0.0   	neg = 0.5  
+23. Also notice how the                 ... pos = 0.75  	neg = 0.0  
+24. This has to be one o                ... pos = 0.5   	neg = 0.125
+25. I urge you to rent t                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-664-329 is Positive          ... pos = 11.5  	neg = 5.875
+Overall score of document
+Total Pos = 11.5
+Total Neg = 5.875
+---------------------------------------------------------------------------

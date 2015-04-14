@@ -1,0 +1,42 @@
+0. Seen on 26 December                  ... pos = 0.0   	neg = 0.0  
+1. Well, I should say r                 ... pos = 0.375 	neg = 0.625
+2. I should also add th                 ... pos = 0.125 	neg = 0.25 
+3. *Deconstructing Harr                 ... pos = 1.125 	neg = 0.5  
+4. So, the pill-popping                 ... pos = 0.375 	neg = 0.25 
+5. Harry has a few ex-w                 ... pos = 0.25  	neg = 0.375
+6. His latest book deta                 ... pos = 0.0   	neg = 0.0  
+7. He has also been inv                 ... pos = 0.0   	neg = 0.25 
+8. Mind you, she is the                 ... pos = 0.125 	neg = 0.25 
+9. Along the way, he br                 ... pos = 0.125 	neg = 0    
+10. Throughout this dieg                ... pos = 0.25  	neg = 0.25 
+11. All of this could be                ... pos = 1.125 	neg = 0.125
+12. This format also all                ... pos = 0.625 	neg = 0.0  
+13. Robin Williams is th                ... pos = 1.125 	neg = 0.5  
+14. Joan, the psychiatri                ... pos = 0.5   	neg = 0.125
+15. The visit to Ha Harr                ... pos = 0.0   	neg = 0.0  
+16. Two older women who                 ... pos = 0.125 	neg = 0.0  
+17. There are many funny                ... pos = 0.25  	neg = 0.0  
+18. The performances are                ... pos = 1.0   	neg = 0    
+19. Actresses as dispara                ... pos = 0.0   	neg = 0.125
+20. The women suffer the                ... pos = 0.25  	neg = 0.125
+21. The denouement of *D                ... pos = 0.0   	neg = 0.625
+22. Also, the use of rea                ... pos = 0.0   	neg = 0.917
+23. While it amplifies t                ... pos = 0.0   	neg = 0.25 
+24. Some people would sa                ... pos = 0.375 	neg = 0.0  
+25. My other main object                ... pos = 0.75  	neg = 0.125
+26. Hazelle Goodman is a                ... pos = 0.5   	neg = 0.25 
+27. That the "first majo                ... pos = 0.0   	neg = 0.375
+28. A black actor could                 ... pos = 1.25  	neg = 0.125
+29. Allen is often criti                ... pos = 0.25  	neg = 0.375
+30. The defense has been                ... pos = 0.5   	neg = 1.125
+31. Overall, *Deconstruc                ... pos = 0.5   	neg = 0.125
+32. The familiar themes                 ... pos = 1.125 	neg = 0.0  
+33. It's hard not to dis                ... pos = 0.875 	neg = 0.75 
+34. Written and directed                ... pos = 0.0   	neg = 0    
+35. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3783-92 is Positive          ... pos = 13.875 	neg = 8.917
+Overall score of document
+Total Pos = 13.875
+Total Neg = 8.917
+---------------------------------------------------------------------------

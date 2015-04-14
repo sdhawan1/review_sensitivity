@@ -1,0 +1,21 @@
+0. If Special Effects w                 ... pos = 0.375 	neg = 0.375
+1. But even with all th                 ... pos = 0.125 	neg = 0.75 
+2. In the future the wo                 ... pos = 0.375 	neg = 0.375
+3. John Robinson(Willia                 ... pos = 0.0   	neg = 0.125
+4. His only demand upon                 ... pos = 0.375 	neg = 0.375
+5. Also on the trip is                  ... pos = 0.625 	neg = 1.125
+6. During the trip they                 ... pos = 0.0   	neg = 0.625
+7. The plot is a little                 ... pos = 0.0   	neg = 1.0  
+8. The acting is surpri                 ... pos = 1.0   	neg = 0.25 
+9. Gary Oldman is rehas                 ... pos = 0.0   	neg = 0.5  
+10. Matt LeBlanc is surp                ... pos = 0.625 	neg = 0.375
+11. The Special Effects                 ... pos = 0.25  	neg = 0.375
+12. There is a cute litt                ... pos = 0.75  	neg = 1.125
+13. All things consideri                ... pos = 0.25  	neg = 0    
+14. Check it out if your                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4624-1529 is Negative        ... pos = 4.75  	neg = 7.625
+Overall score of document
+Total Pos = 4.75
+Total Neg = 7.625
+---------------------------------------------------------------------------

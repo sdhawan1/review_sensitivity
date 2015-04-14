@@ -1,0 +1,68 @@
+0. The State of Movie-g                 ... pos = 0.25  	neg = 0.0  
+1. On a visit to my in-                 ... pos = 0.0   	neg = 0.25 
+2. In the lobby the tic                 ... pos = 0.0   	neg = 0.25 
+3. It's a big place, wi                 ... pos = 0.0   	neg = 0.25 
+4. There's even a "Cust                 ... pos = 0.125 	neg = 0.0  
+5. We're here for the 2                 ... pos = 0.125 	neg = 0.0  
+6. That's OK, it's a fa                 ... pos = 0.125 	neg = 0.0  
+7. We opt not to visit                  ... pos = 0.625 	neg = 0.125
+8. So the wallet does n                 ... pos = 0.0   	neg = 0.75 
+9. The carpet that cove                 ... pos = 0.0   	neg = 0.5  
+10. Outside each screen                 ... pos = 0.25  	neg = 0.5  
+11. Ushers with  tiny br                ... pos = 0.0   	neg = 0.0  
+12. In our theater we  a                ... pos = 1.5   	neg = 0.0  
+13. We sit on the end of                ... pos = 0.0   	neg = 0.5  
+14. As the lights dim we                ... pos = 0.0   	neg = 0.25 
+15. Then the previews, a                ... pos = 0.375 	neg = 0.125
+16. (After this last, Bi                ... pos = 0.0   	neg = 0.0  
+17. )  Oh, and before th                ... pos = 0.5   	neg = 0.0  
+18. It's Pixar's "Geri's                ... pos = 0.375 	neg = 0.0  
+19. It's a  delightful a                ... pos = 1.875 	neg = 0.0  
+20. A Bug's Life is an e                ... pos = 0.125 	neg = 0.125
+21. This is the best ani                ... pos = 0.875 	neg = 0.125
+22. It's quite an accomp                ... pos = 0.0   	neg = 0.0  
+23. Down to the slightes                ... pos = 0.0   	neg = 0.5  
+24. Everything is fun to                ... pos = 1.375 	neg = 1.0  
+25. The colors are  artf                ... pos = 1.0   	neg = 0.375
+26. Even though I saw To                ... pos = 2.0   	neg = 0.375
+27. "  In short, the fil                ... pos = 0.0   	neg = 0.125
+28. John Lasseter and An                ... pos = 0.25  	neg = 0.0  
+29. Lasseter and Don McE                ... pos = 0     	neg = 0.375
+30. What's cool is  that                ... pos = 0.375 	neg = 0.125
+31. There are takes on a                ... pos = 0.5   	neg = 0.25 
+32. ), and there are eve                ... pos = 0.875 	neg = 0.25 
+33. The plot is successf                ... pos = 1.125 	neg = 0.125
+34. We see the  independ                ... pos = 0.375 	neg = 0.0  
+35. Although he is sharp                ... pos = 0.0   	neg = 0.375
+36. He is known to the r                ... pos = 0.625 	neg = 0.375
+37. When Flik accidental                ... pos = 0.375 	neg = 0.375
+38. When autumn comes we                ... pos = 0.375 	neg = 0.125
+39. If you saw even a tr                ... pos = 0.125 	neg = 0.5  
+40. I have purposely for                ... pos = 0.375 	neg = 0.0  
+41. But Disney has  a ri                ... pos = 0.0   	neg = 0.25 
+42. It is difficult to s                ... pos = 0.0   	neg = 0.25 
+43. I have already decla                ... pos = 0.0   	neg = 0.0  
+44. As far as  target au                ... pos = 0.0   	neg = 0.125
+45. Not  that Antz doesn                ... pos = 0.625 	neg = 0.375
+46. Antz  has a greater                 ... pos = 0.875 	neg = 0.25 
+47. My call is that Antz                ... pos = 0.0   	neg = 0.125
+48. Gene Hackman, the  i                ... pos = 2.0   	neg = 0.5  
+49. Outstanding talents                 ... pos = 0.75  	neg = 0.0  
+50. Other actors do a ve                ... pos = 0.625 	neg = 0.125
+51. For instance, why di                ... pos = 0.25  	neg = 0.0  
+52. " and pushing Flik b                ... pos = 0.0   	neg = 0.0  
+53. Where are  Andy Devi                ... pos = 0.25  	neg = 0.125
+54. An aside:  you must                 ... pos = 0.375 	neg = 0.0  
+55. Randy Newman sings                  ... pos = 0.0   	neg = 0.0  
+56. );   and there are b                ... pos = 0.75  	neg = 0.0  
+57. My children claim no                ... pos = 0.125 	neg = 0.0  
+58. I would  as soon sit                ... pos = 0.0   	neg = 0.375
+59. But for pure visual                 ... pos = 1.125 	neg = 0.125
+60. I recommend you find                ... pos = 0.125 	neg = 0.0  
+61. Visit Online Film Cr                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-71 is Positive          ... pos = 24.75 	neg = 11.625
+Overall score of document
+Total Pos = 24.75
+Total Neg = 11.625
+---------------------------------------------------------------------------

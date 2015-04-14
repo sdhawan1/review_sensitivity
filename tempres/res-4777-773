@@ -1,0 +1,32 @@
+0. Movies     Jonathan                  ... pos = 0.75  	neg = 0.5  
+1. And feed it he does.                 ... pos = 0.0   	neg = 0    
+2. He's well into his t                 ... pos = 0.0   	neg = 0.25 
+3. Grady (Michael Dougl                 ... pos = 0.0   	neg = 0.0  
+4. He can write.                        ... pos = 0.0   	neg = 0.0  
+5. He just can't stop.                  ... pos = 0.0   	neg = 0.0  
+6. Curtis Hanson's laco                 ... pos = 1.0   	neg = 0.125
+7. His young wife has j                 ... pos = 0.0   	neg = 0.0  
+8. His mistress (France                 ... pos = 0.0   	neg = 0.0  
+9. One of his students                  ... pos = 0.0   	neg = 0.0  
+10. His editor (Robert D                ... pos = 0.0   	neg = 0.375
+11. His best creative wr                ... pos = 0.375 	neg = 0.125
+12. It is not the best o                ... pos = 0.875 	neg = 0.125
+13. This the first movie                ... pos = 0.75  	neg = 0.0  
+14. Confidential, and it                ... pos = 0.5   	neg = 0.25 
+15. It's not entirely wi                ... pos = 3.5   	neg = 0.0  
+16. The cast is terrific                ... pos = 0.25  	neg = 0.125
+17. Douglas gives Grady                 ... pos = 0.5   	neg = 0.0  
+18. Maguire, a seriously                ... pos = 0.75  	neg = 0.0  
+19. McDormand serves a c                ... pos = 0.75  	neg = 0.0  
+20. Rip Torn is memorabl                ... pos = 0.375 	neg = 0.5  
+21. "  And Downey, as al                ... pos = 0.875 	neg = 0.125
+22. There's sex, drugs,                 ... pos = 0.375 	neg = 0.5  
+23. There are plenty of                 ... pos = 0.25  	neg = 0.0  
+24. Then it lumbers thro                ... pos = 0.25  	neg = 2.375
+25. Wonder Boys is a lot                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4777-773 is Positive         ... pos = 12.125 	neg = 5.625
+Overall score of document
+Total Pos = 12.125
+Total Neg = 5.625
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. There is something s                 ... pos = 0.0   	neg = 0.125
+1. Disney has captured                  ... pos = 0.625 	neg = 0.125
+2. I wish I could say t                 ... pos = 0.0   	neg = 0.375
+3. I liked it a lot, bu                 ... pos = 1.0   	neg = 0.625
+4. Perhaps I find the l                 ... pos = 0.125 	neg = 0.125
+5. However, I still con                 ... pos = 1.125 	neg = 0.125
+6. Tarzan is good fun,                  ... pos = 2.0   	neg = 0.625
+7. Set in Africa, the f                 ... pos = 0.5   	neg = 0.5  
+8. When Tarzan's two pa                 ... pos = 0.5   	neg = 0.375
+9. Her mate Kerchak (La                 ... pos = 0.0   	neg = 0.0  
+10. He is a melancholic                 ... pos = 0.25  	neg = 1.0  
+11. There is a part of K                ... pos = 0.125 	neg = 0.625
+12. As Tarzan grows up,                 ... pos = 0.25  	neg = 0.5  
+13. When a group of expl                ... pos = 0.25  	neg = 0.875
+14. He is suddenly angry                ... pos = 1.125 	neg = 0.875
+15. He befriends these h                ... pos = 2.0   	neg = 0.0  
+16. She, her father (Nig                ... pos = 0.375 	neg = 1.25 
+17. Mr. Porter has a the                ... pos = 0.5   	neg = 0.375
+18. Clayton, the core vi                ... pos = 0.25  	neg = 0.5  
+19. When Jane is attacke                ... pos = 0.75  	neg = 0.125
+20. Tarzan must then dec                ... pos = 0.625 	neg = 0.0  
+21. ". One of the movie'                ... pos = 1.125 	neg = 0.625
+22. The Gaston-like brut                ... pos = 0.25  	neg = 0.25 
+23. Because of this, Tar                ... pos = 0.25  	neg = 0.125
+24. I enjoyed Phil Colli                ... pos = 0.375 	neg = 0.0  
+25. There is a nice boun                ... pos = 0.25  	neg = 0.25 
+26. "  Though none of th                ... pos = 1.125 	neg = 0.0  
+27. I enjoyed the voices                ... pos = 0.375 	neg = 0.25 
+28. I bet Rosie O'Donnel                ... pos = 0.125 	neg = 0.0  
+29. She kind of exaggera                ... pos = 1.0   	neg = 0.25 
+30. Driver is enthusiast                ... pos = 1.125 	neg = 0.25 
+31. Over the years, I ha                ... pos = 0.0   	neg = 0.0  
+32. They used to have gr                ... pos = 1.375 	neg = 0.375
+33. Tarzan has a vibrant                ... pos = 1.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-1548-546 is Positive         ... pos = 20.75 	neg = 12.375
+Overall score of document
+Total Pos = 20.75
+Total Neg = 12.375
+---------------------------------------------------------------------------

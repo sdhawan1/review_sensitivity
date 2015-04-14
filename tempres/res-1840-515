@@ -1,0 +1,37 @@
+0. Cast: Warren Beatty,                 ... pos = 0.125 	neg = 0.125
+1. It's a brilliant ide                 ... pos = 0.875 	neg = 1.625
+2. Beatty plays U.S.                    ... pos = 0.0   	neg = 0.0  
+3. Senator Jay Bulworth                 ... pos = 0.0   	neg = 0    
+4. As the film opens we                 ... pos = 0.125 	neg = 0.0  
+5. We learn that he has                 ... pos = 0.0   	neg = 0.125
+6. He's just lost a for                 ... pos = 0.125 	neg = 0.0  
+7. He's just taken out                  ... pos = 0.0   	neg = 0.125
+8. And he's just hired                  ... pos = 0.0   	neg = 0.0  
+9. He goes to give a sp                 ... pos = 0.0   	neg = 0.0  
+10. Instead of giving hi                ... pos = 0.5   	neg = 0.0  
+11. For example, when as                ... pos = 0.75  	neg = 0.0  
+12. This continues for t                ... pos = 0.125 	neg = 0.0  
+13. Yes, you read that r                ... pos = 0.0   	neg = 0.125
+14. Now all this would n                ... pos = 0.0   	neg = 0.125
+15. The plot seems to me                ... pos = 0.0   	neg = 0.25 
+16. And it does have it'                ... pos = 0.0   	neg = 0.25 
+17. But first of all, al                ... pos = 1.125 	neg = 0.0  
+18. All of the highlight                ... pos = 0.625 	neg = 0.0  
+19. Then, the majority o                ... pos = 0.0   	neg = 0.0  
+20. There's nothing more                ... pos = 0.0   	neg = 0.25 
+21. It had such promisin                ... pos = 0.0   	neg = 0.0  
+22. We're supposed to th                ... pos = 0.25  	neg = 0.875
+23. This is obviously wh                ... pos = 0.125 	neg = 0.125
+24. It's not how it come                ... pos = 0.125 	neg = 0.0  
+25. The point just isn't                ... pos = 0.5   	neg = 0.0  
+26. The way I see it, Bu                ... pos = 0.0   	neg = 0.125
+27. I was really looking                ... pos = 0.0   	neg = 0.125
+28. Sadly, the truth abo                ... pos = 0.875 	neg = 0.75 
+29. [R]. The Jacksonvill                ... pos = 0.0   	neg = 0.0  
+30. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1840-515 is Positive         ... pos = 6.5   	neg = 5.375
+Overall score of document
+Total Pos = 6.5
+Total Neg = 5.375
+---------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+0. RULES OF ENGAGEMENT                  ... pos = 1.375 	neg = 0.5  
+1. The Story (WARNING:                  ... pos = 0.125 	neg = 0.125
+2. He sends the terrifi                 ... pos = 0.25  	neg = 0.0  
+3. But something goes                   ... pos = 0.375 	neg = 0.75 
+4. National Security Ad                 ... pos = 1.125 	neg = 0.75 
+5. Knowing what he's up                 ... pos = 0.0   	neg = 0.125
+6. Hodges, however, doe                 ... pos = 1.25  	neg = 0.625
+7. The Upshot: I briefl                 ... pos = 0.25  	neg = 0.75 
+8. That last bit will m                 ... pos = 0.125 	neg = 0.0  
+9. But I digress].                      ... pos = 0     	neg = 0.0  
+10. I was more than a li                ... pos = 0.375 	neg = 0.375
+11. I guess we must've w                ... pos = 1.25  	neg = 0.25 
+12. The onus for this re                ... pos = 0.0   	neg = 0.25 
+13. Friedkin lost me ear                ... pos = 0.0   	neg = 0.125
+14. Of course, it doesn'                ... pos = 0.5   	neg = 0.125
+15. It suffers from the                 ... pos = 1.125 	neg = 0.125
+16. And with the big pus                ... pos = 0.25  	neg = 1.0  
+17. As for Jackson and J                ... pos = 0.0   	neg = 0.25 
+18. I've always thought                 ... pos = 1.0   	neg = 0.25 
+19. The normally-explosi                ... pos = 0.625 	neg = 1.0  
+20. " (which itself led                 ... pos = 1.125 	neg = 1.0  
+21. That's it;  everywhe                ... pos = 0.0   	neg = 0.5  
+22. Jones fared a little                ... pos = 0.75  	neg = 0.375
+23. These moments were t                ... pos = 1.25  	neg = 0.75 
+24. In a nutshell, I nev                ... pos = 0.25  	neg = 0.625
+25. The outrageous epilo                ... pos = 0.0   	neg = 0.375
+26. The supporting cast,                ... pos = 0.375 	neg = 1.375
+27. Ben  Kingsley playin                ... pos = 0.375 	neg = 0.0  
+28. Hey, that had legs;                 ... pos = 0.0   	neg = 0.0  
+29. Blair Underwood as a                ... pos = 0.125 	neg = 0.125
+30. What a subplot!                     ... pos = 0.0   	neg = 0    
+31. hmmm...but he's out                 ... pos = 0.0   	neg = 0.125
+32. Philip Baker Hall as                ... pos = 0.25  	neg = 0.0  
+33. Talk about your gene                ... pos = 0.0   	neg = 0.0  
+34. Talk about your clas                ... pos = 0.125 	neg = 0.0  
+35. Talk about your...wh                ... pos = 0.0   	neg = 0.0  
+36. Talk about a waste o                ... pos = 0.0   	neg = 0.0  
+37. There were a bright                 ... pos = 0.0   	neg = 0.25 
+38. Pearce, along with A                ... pos = 1.375 	neg = 0.0  
+39. In the end, I had th                ... pos = 0.25  	neg = 0.0  
+40. " situation: "Big To                ... pos = 0.0   	neg = 1.375
+41. Duh!".                              ... pos = 0     	neg = 0    
+42. The  difference betw                ... pos = 0.25  	neg = 0.125
+43. "Rules" never came c                ... pos = 0.0   	neg = 0.375
+44. ), bad camerawork (c                ... pos = 0.125 	neg = 1.375
+45. Next time, don't be                 ... pos = 0.0   	neg = 2.25 
+46. I can live with bein                ... pos = 0.75  	neg = 0.75 
+47. No matter; I  stand                 ... pos = 0.5   	neg = 0.625
+48. The director and his                ... pos = 0.625 	neg = 0.875
+49. Bammer's Bottom Line                ... pos = 0.625 	neg = 0.125
+50. Who'da thunkit?                     ... pos = 0     	neg = 0    
+51. RULES OF ENGAGEMENT                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1213-1565 is Negative        ... pos = 19.125 	neg = 20.875
+Overall score of document
+Total Pos = 19.125
+Total Neg = 20.875
+---------------------------------------------------------------------------

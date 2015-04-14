@@ -1,0 +1,41 @@
+0. "The 13th Warrior"                   ... pos = 0.5   	neg = 0.0  
+1. With his translator                  ... pos = 0.0   	neg = 0.125
+2. He finds a group of                  ... pos = 0.125 	neg = 0.0  
+3. A messenger soon arr                 ... pos = 0.125 	neg = 0.125
+4. A soothsayer says th                 ... pos = 0.375 	neg = 0.0  
+5. Thus, Ahmed becomes                  ... pos = 0.0   	neg = 0.0  
+6. "  . On the trip, Ah                 ... pos = 0.0   	neg = 0.0  
+7. A bit far-fetched, i                 ... pos = 0.5   	neg = 0.5  
+8. Ahmed, who's called                  ... pos = 0.375 	neg = 0.0  
+9. When they arrive in                  ... pos = 0.0   	neg = 0.0  
+10. Hereafter, most of t                ... pos = 0.0   	neg = 0.125
+11. .                                   ... pos = 0     	neg = 0    
+12. .                                   ... pos = 0     	neg = 0    
+13. well, you get the id                ... pos = 0.0   	neg = 0.0  
+14. Just to add some act                ... pos = 0.0   	neg = 0.125
+15. Other movies insert                 ... pos = 1.125 	neg = 0.0  
+16. I suspect that "The                 ... pos = 0.0   	neg = 0.75 
+17. The movie started of                ... pos = 1.0   	neg = 0.625
+18. Somewhere along the                 ... pos = 0.0   	neg = 0.625
+19. Crichton, whose nove                ... pos = 0.0   	neg = 0.125
+20. "  Their result of t                ... pos = 0.0   	neg = 1.0  
+21. Perhaps what "The 13                ... pos = 0.0   	neg = 0.625
+22. The "eaters of the d                ... pos = 0.25  	neg = 0.5  
+23. They have no persona                ... pos = 0.125 	neg = 0.625
+24. The audience has no                 ... pos = 0.0   	neg = 0.25 
+25. McTiernan should kno                ... pos = 1.0   	neg = 1.25 
+26. "The 13th Warrior" s                ... pos = 0.0   	neg = 0.125
+27. It wants to be "Pred                ... pos = 0.625 	neg = 0.125
+28. "  With so many comp                ... pos = 0.0   	neg = 0.75 
+29. It might have been a                ... pos = 0.5   	neg = 0.625
+30. It might have been a                ... pos = 0.0   	neg = 0.625
+31. It might have been a                ... pos = 0.0   	neg = 0.625
+32. What a shame it turn                ... pos = 0.0   	neg = 1.125
+33. Bottom Line:  If you                ... pos = 0.0   	neg = 0.25 
+34. ". Read my reviews a                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-731-1265 is Negative         ... pos = 6.625 	neg = 11.625
+Overall score of document
+Total Pos = 6.625
+Total Neg = 11.625
+---------------------------------------------------------------------------

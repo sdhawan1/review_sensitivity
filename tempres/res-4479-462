@@ -1,0 +1,37 @@
+0. The first warning si                 ... pos = 0.125 	neg = 0.25 
+1. "  Amblin, of course                 ... pos = 0.0   	neg = 0.125
+2. Spielberg is about s                 ... pos = 0.125 	neg = 0.25 
+3. When  you combine th                 ... pos = 0.0   	neg = 0.0  
+4. A robot with  emotio                 ... pos = 0.625 	neg = 0.0  
+5. A machine ingeniousl                 ... pos = 0.5   	neg = 0.0  
+6. You get David (Haley                 ... pos = 1.5   	neg = 1.0  
+7. This project, based                  ... pos = 0.0   	neg = 0.0  
+8. After Kubrick's sudd                 ... pos = 0.125 	neg = 0.5  
+9. His desire to create                 ... pos = 1.0   	neg = 1.0  
+10. The story begins aga                ... pos = 0.5   	neg = 0.375
+11. Livable land is  now                ... pos = 0.5   	neg = 1.25 
+12. The scene shifts to                 ... pos = 0.25  	neg = 0.0  
+13. When he broaches his                ... pos = 1.875 	neg = 0.0  
+14. ". This is the centr                ... pos = 0.125 	neg = 0.125
+15. Humans  can love any                ... pos = 0.75  	neg = 0.0  
+16. We love our cars, we                ... pos = 2.5   	neg = 0.625
+17. Stripped down, A.I.                 ... pos = 0.0   	neg = 0.0  
+18. 's premise amounts t                ... pos = 1.625 	neg = 0.75 
+19. After a number of ye                ... pos = 1.375 	neg = 0.75 
+20. ) be found.                         ... pos = 0.0   	neg = 0.125
+21. Spielberg's screenpl                ... pos = 0.25  	neg = 0.375
+22. For reasons  passing                ... pos = 1.625 	neg = 0.25 
+23. In a cool Kubrickian                ... pos = 1.375 	neg = 0.125
+24. And when malevolent                 ... pos = 2.25  	neg = 0.25 
+25. The most interesting                ... pos = 0.875 	neg = 0.375
+26. "She will make you a                ... pos = 0.5   	neg = 0.0  
+27. "  But the performan                ... pos = 0.0   	neg = 1.125
+28. A.I.                                ... pos = 0.0   	neg = 0.0  
+29. 's 2 hour saga winds                ... pos = 0.25  	neg = 0.0  
+30. Along the way it daz                ... pos = 2.375 	neg = 1.375
+---------------------------------------------------------------------------
+./temp/tmp-4479-462 is Positive         ... pos = 23.0  	neg = 11.0 
+Overall score of document
+Total Pos = 23.0
+Total Neg = 11.0
+---------------------------------------------------------------------------

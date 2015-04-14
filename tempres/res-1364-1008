@@ -1,0 +1,38 @@
+0. *** (out of 4) After                 ... pos = 0.125 	neg = 0.125
+1. He pointed out, corr                 ... pos = 0.0   	neg = 0.25 
+2. It just ends.                        ... pos = 0.0   	neg = 0.0  
+3. The structure is slo                 ... pos = 0.5   	neg = 0.375
+4. That doesn't mean I                  ... pos = 0.5   	neg = 0.0  
+5. I still found Allen'                 ... pos = 0.875 	neg = 0.125
+6. Ray (Woody Allen) is                 ... pos = 0.875 	neg = 0.375
+7. He'll set up a front                 ... pos = 0.125 	neg = 0.0  
+8. The scheme goes horr                 ... pos = 0.0   	neg = 1.75 
+9. The plot is as spars                 ... pos = 0.25  	neg = 0.25 
+10. However, in this cas                ... pos = 1.25  	neg = 0.25 
+11. Each of the funny fi                ... pos = 0.375 	neg = 0.375
+12. For example, Allen's                ... pos = 0.875 	neg = 0.375
+13. He has made a career                ... pos = 0.0   	neg = 0.0  
+14. When he was in jail                 ... pos = 0.125 	neg = 0.125
+15. Frenchie is low-brow                ... pos = 0     	neg = 0.375
+16. She wants to be cult                ... pos = 0.125 	neg = 0.25 
+17. Even with one-on-one                ... pos = 0.125 	neg = 0.0  
+18. My husband Otto was                 ... pos = 0.0   	neg = 0.125
+19. The only thing he co                ... pos = 0.0   	neg = 0.5  
+20. She takes everything                ... pos = 0.0   	neg = 0.0  
+21. White lies, subterfu                ... pos = 0.25  	neg = 0.0  
+22. May delivers some of                ... pos = 0.875 	neg = 0.0  
+23. Just to round things                ... pos = 0.0   	neg = 0.375
+24. He looks up to Ray "                ... pos = 0.875 	neg = 0.5  
+25. While digging a tunn                ... pos = 0.0   	neg = 0.5  
+26. Allen's humor in SMA                ... pos = 0.0   	neg = 0.125
+27. It's a style of come                ... pos = 0.0   	neg = 0.0  
+28. The Marx Brothers we                ... pos = 0.0   	neg = 0.125
+29. But since then it's                 ... pos = 0.0   	neg = 0.5  
+30. Only Woody Allen mak                ... pos = 1.0   	neg = 0.375
+31. "I'm just up here at                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1364-1008 is Positive        ... pos = 9.125 	neg = 8.375
+Overall score of document
+Total Pos = 9.125
+Total Neg = 8.375
+---------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+0. Allow me to let you                  ... pos = 0.0   	neg = 0.0  
+1. When a critic enjoys                 ... pos = 1.125 	neg = 0.0  
+2. "  However, when a c                 ... pos = 0.5   	neg = 0.0  
+3. Watching _Pleasantvi                 ... pos = 0.25  	neg = 0.125
+4. On the surface, it s                 ... pos = 0.25  	neg = 0.0  
+5. But it changes tone                  ... pos = 0.5   	neg = 0.0  
+6. The pie is overstuff                 ... pos = 0.375 	neg = 0.125
+7. This is a shame, bec                 ... pos = 0.125 	neg = 0.875
+8. ) is the first of it                 ... pos = 0.125 	neg = 0.125
+9. Gary Ross has the bl                 ... pos = 0.125 	neg = 0.125
+10. The big joke in _Ple                ... pos = 0.625 	neg = 1.0  
+11. When Jennifer and Da                ... pos = 0.625 	neg = 0.5  
+12. It's not just the se                ... pos = 0.125 	neg = 0.125
+13. Somehow, the "perfec                ... pos = 0.5   	neg = 0.0  
+14. This is where the sc                ... pos = 0.0   	neg = 0.125
+15. Before the color rev                ... pos = 0.125 	neg = 0.0  
+16. When Pleasantville b                ... pos = 0.625 	neg = 0.0  
+17. Ha ha.                              ... pos = 0     	neg = 0.0  
+18. But "reality" never                 ... pos = 0.625 	neg = 0.0  
+19. Premarital sex is in                ... pos = 0.375 	neg = 1.625
+20. Rock is introduced,                 ... pos = 0.125 	neg = 0.25 
+21. The fifties' sitcom                 ... pos = 0.0   	neg = 0.625
+22. ". Then the film mov                ... pos = 0.0   	neg = 0.25 
+23. Sure, popular censor                ... pos = 0.625 	neg = 0.0  
+24. But where's the anti                ... pos = 0     	neg = 0.0  
+25. Where's the truly of                ... pos = 0.625 	neg = 0.0  
+26. How about the most b                ... pos = 0.125 	neg = 0.125
+27. The range of "free t                ... pos = 0.125 	neg = 0.125
+28. That's why the "cens                ... pos = 0.0   	neg = 0.125
+29. Sure, books were bur                ... pos = 0.25  	neg = 0.125
+30. BUT... in a society                 ... pos = 0.25  	neg = 0.625
+31. Those who burn the b                ... pos = 0.0   	neg = 0.125
+32. And if there were to                ... pos = 0.5   	neg = 0.5  
+33. The mob's voice isn'                ... pos = 0.0   	neg = 0.0  
+34. Worse, they are char                ... pos = 0.25  	neg = 0.625
+35. In the most surreal                 ... pos = 0.25  	neg = 0.125
+36. The townsfolk appear                ... pos = 0.0   	neg = 0.125
+37. But no dialogue is h                ... pos = 0.0   	neg = 0.375
+38. Possible statements                 ... pos = 0.708 	neg = 0.375
+39. All three comments a                ... pos = 1.125 	neg = 0.125
+40. Gary Ross wants it b                ... pos = 0.375 	neg = 0.0  
+41. In the opening momen                ... pos = 1.0   	neg = 0.125
+42. ) _sin_.                            ... pos = 0     	neg = 0    
+43. At the same juncture                ... pos = 0.0   	neg = 0.125
+44. This is most apparen                ... pos = 0.125 	neg = 0.375
+45. So, according to Gar                ... pos = 0.0   	neg = 0.625
+46. But because of sin,                 ... pos = 0.0   	neg = 0.125
+47. Um... which is it?                  ... pos = 0.0   	neg = 0.125
+48. Many moviegoers will                ... pos = 1.0   	neg = 0.625
+49. But that is just imp                ... pos = 0     	neg = 0.125
+50. The story takes such                ... pos = 0.875 	neg = 0.375
+51. And those looking fo                ... pos = 0.0   	neg = 0.0  
+52. Perhaps the "happy e                ... pos = 0.125 	neg = 0.25 
+53. That said, I am conv                ... pos = 0.5   	neg = 0.125
+54. They have impossible                ... pos = 0.25  	neg = 0.25 
+55. Allen's Betty Parker                ... pos = 0.375 	neg = 0.5  
+56. Macy's George is the                ... pos = 0.625 	neg = 0.375
+57. Because of them, the                ... pos = 0.0   	neg = 0    
+58. The other actors ran                ... pos = 0.625 	neg = 0.25 
+59. Walsh).                             ... pos = 0     	neg = 0    
+60. The film has some cl                ... pos = 0.75  	neg = 0.125
+61. But these are not en                ... pos = 0.25  	neg = 0.0  
+62. All in all, _Pleasan                ... pos = 0.75  	neg = 0.25 
+63. Too bad.                            ... pos = 0     	neg = 1.125
+64. Now, which theatre o                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1978-630 is Positive         ... pos = 19.708 	neg = 15.25
+Overall score of document
+Total Pos = 19.708
+Total Neg = 15.25
+---------------------------------------------------------------------------

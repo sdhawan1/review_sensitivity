@@ -1,0 +1,31 @@
+0. More MOVIE VIEWS by                  ... pos = 0.375 	neg = 0.375
+1. If there ever was a                  ... pos = 1.5   	neg = 0.25 
+2. This character showc                 ... pos = 3.0   	neg = 0.375
+3. I am no big fan of t                 ... pos = 0.0   	neg = 0.375
+4. I sometimes have dif                 ... pos = 0.0   	neg = 0.375
+5. Notting Hill, howeve                 ... pos = 0.125 	neg = 0.125
+6. It relies on chemist                 ... pos = 1.75  	neg = 1.0  
+7. The title location i                 ... pos = 0.125 	neg = 0.125
+8. One day, Anna Scott                  ... pos = 0.375 	neg = 0.0  
+9. She buys a book abou                 ... pos = 0.0   	neg = 0.0  
+10. But surely they will                ... pos = 0.375 	neg = 0.0  
+11. In this case, Willia                ... pos = 0.0   	neg = 0.125
+12. Despite the amazing                 ... pos = 0.625 	neg = 0.0  
+13. From here, Notting H                ... pos = 1.25  	neg = 0.0  
+14. Scenes where "normal                ... pos = 1.125 	neg = 0.0  
+15. The script, by Richa                ... pos = 0.375 	neg = 0.125
+16. The dialogue is shar                ... pos = 1.875 	neg = 0.125
+17. William' s apartment                ... pos = 1.0   	neg = 0.25 
+18. This is Roberts' bes                ... pos = 1.375 	neg = 0.125
+19. He fits the role and                ... pos = 0.625 	neg = 0    
+20. Scenes involving his                ... pos = 1.25  	neg = 0.0  
+21. Notting Hill is uniq                ... pos = 1.5   	neg = 0.125
+22. All of which, suffic                ... pos = 1.125 	neg = 0.0  
+23. Jamey Hughton writes                ... pos = 0.0   	neg = 0    
+24. Canada). and MOVIE V                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4594-693 is Positive         ... pos = 19.75 	neg = 3.875
+Overall score of document
+Total Pos = 19.75
+Total Neg = 3.875
+---------------------------------------------------------------------------

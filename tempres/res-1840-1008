@@ -1,0 +1,61 @@
+0. *** (out of 4) On se                 ... pos = 0.75  	neg = 0.25 
+1. He says to a black c                 ... pos = 0.5   	neg = 0.25 
+2. ") . Well, there is                  ... pos = 0.5   	neg = 0.125
+3. Beatty plays Jay Bil                 ... pos = 0.625 	neg = 0.0  
+4. The movie opens on a                 ... pos = 0.625 	neg = 0.25 
+5. The montage is ironi                 ... pos = 0.125 	neg = 0.625
+6. When we finally lay                  ... pos = 0.75  	neg = 0.125
+7. His campaign is ente                 ... pos = 0.0   	neg = 0.375
+8. First he calls a lob                 ... pos = 0.25  	neg = 0.0  
+9. Then he calls an ass                 ... pos = 0.0   	neg = 0.25 
+10. His assistant Murphy                ... pos = 0.375 	neg = 0.375
+11. Bulworth halfhearted                ... pos = 0.0   	neg = 0.0  
+12. He is hit hard with                 ... pos = 0.0   	neg = 0.875
+13. He had promised mone                ... pos = 0.0   	neg = 0.0  
+14. Since he's a dead ma                ... pos = 0.0   	neg = 0.0  
+15. They made some promi                ... pos = 0.625 	neg = 0.0  
+16. The shock and outrag                ... pos = 0.375 	neg = 0.375
+17. (Before I go further                ... pos = 0.375 	neg = 0.25 
+18. fans is not part of                 ... pos = 0.0   	neg = 0.125
+19. " That line is in th                ... pos = 0.0   	neg = 0.125
+20. When the critics pra                ... pos = 0.625 	neg = 0.25 
+21. ) . The experience i                ... pos = 0.0   	neg = 0.125
+22. With nothing left to                ... pos = 0.0   	neg = 0.375
+23. He can say whatever                 ... pos = 0.125 	neg = 0.125
+24. Why not tell the peo                ... pos = 1.0   	neg = 0.875
+25. Bulworth's candor wi                ... pos = 0.25  	neg = 0.0  
+26. He feels so good aft                ... pos = 0.75  	neg = 0.0  
+27. Chicken wings, appro                ... pos = 0.25  	neg = 0.0  
+28. Bulworth shows up la                ... pos = 0.0   	neg = 0.0  
+29. When one of them ask                ... pos = 0.625 	neg = 0.0  
+30. With so much money a                ... pos = 0.875 	neg = 0.75 
+31. (You go, Warren!                    ... pos = 0     	neg = 0.0  
+32. ) When they become i                ... pos = 0.25  	neg = 0.125
+33. That night he drops                 ... pos = 0.0   	neg = 0.0  
+34. He stays up all nigh                ... pos = 0.75  	neg = 0.0  
+35. The next day, he shu                ... pos = 0.25  	neg = 0.0  
+36. From then on, at all                ... pos = 0.625 	neg = 0.0  
+37. His rap is not bad f                ... pos = 0.125 	neg = 1.0  
+38. He's not very good,                 ... pos = 1.375 	neg = 1.375
+39. His lobbyists are no                ... pos = 1.5   	neg = 0.125
+40. Eventually, the movi                ... pos = 0.125 	neg = 0.0  
+41. ) overtakes the poli                ... pos = 0.125 	neg = 1.25 
+42. Screen time is spent                ... pos = 0.0   	neg = 1.125
+43. There are even a few                ... pos = 0.25  	neg = 0.375
+44. These scenes may hav                ... pos = 0.375 	neg = 0.25 
+45. Still, most of the m                ... pos = 2.125 	neg = 0.125
+46. As the story and scr                ... pos = 1.625 	neg = 0.0  
+47. As an actor, he was                 ... pos = 0.5   	neg = 0.125
+48. As a producer (there                ... pos = 0.125 	neg = 1.375
+49. Someone else probabl                ... pos = 0.0   	neg = 0.125
+50. It's too bad that th                ... pos = 1.125 	neg = 1.125
+51. After all, much of t                ... pos = 0.125 	neg = 0.125
+52. Just a little percep                ... pos = 0.875 	neg = 0.25 
+53. Just don't expect to                ... pos = 0.125 	neg = 0.125
+54. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1840-1008 is Positive        ... pos = 22.75 	neg = 15.875
+Overall score of document
+Total Pos = 22.75
+Total Neg = 15.875
+---------------------------------------------------------------------------

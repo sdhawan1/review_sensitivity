@@ -1,0 +1,18 @@
+0. Written by: Frank Co                 ... pos = 1.125 	neg = 0.5  
+1. In the story, cello                  ... pos = 0.25  	neg = 0.25 
+2. On the one hand she                  ... pos = 0.5   	neg = 0.0  
+3. On the other hand, J                 ... pos = 0.75  	neg = 0.0  
+4. This leads to bizarr                 ... pos = 0.375 	neg = 1.25 
+5. Will everything turn                 ... pos = 0.625 	neg = 0.0  
+6. Opinion: There are t                 ... pos = 0.25  	neg = 0.0  
+7. On the one hand, if                  ... pos = 0.0   	neg = 0.125
+8. The plot wanders unf                 ... pos = 0.625 	neg = 1.0  
+9. On the other hand, i                 ... pos = 2.0   	neg = 0.0  
+10. Emily Watson gives a                ... pos = 0.125 	neg = 0    
+11. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6182-416 is Positive         ... pos = 6.625 	neg = 3.25 
+Overall score of document
+Total Pos = 6.625
+Total Neg = 3.25
+---------------------------------------------------------------------------

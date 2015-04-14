@@ -1,0 +1,37 @@
+0. When Porter (Mel Gib                 ... pos = 0.0   	neg = 0.625
+1. He survives and deci                 ... pos = 0.0   	neg = 0.0  
+2. His task is complica                 ... pos = 0.375 	neg = 1.25 
+3. Director Brian Helge                 ... pos = 1.0   	neg = 0.0  
+4. Confidential to the                  ... pos = 0.125 	neg = 0.0  
+5. He has worked with G                 ... pos = 0.0   	neg = 0.0  
+6. The film is intended                 ... pos = 0.625 	neg = 1.5  
+7. The first is that  t                 ... pos = 0.875 	neg = 0.25 
+8. Since some of the  f                 ... pos = 0.25  	neg = 0.25 
+9. A subplot  involving                 ... pos = 0.375 	neg = 0.125
+10. To say that most of                 ... pos = 1.625 	neg = 1.125
+11. Porter wants revenge                ... pos = 0.125 	neg = 0.375
+12. Unfortunately (both                 ... pos = 0.125 	neg = 1.875
+13. Carter decides to ha                ... pos = 0.0   	neg = 0.25 
+14. Porter also attracts                ... pos = 0.375 	neg = 0.375
+15. Porter's various eff                ... pos = 0.875 	neg = 0.125
+16. The film also relies                ... pos = 1.125 	neg = 0.25 
+17. Raymond Chandler  (w                ... pos = 1.0   	neg = 0.0  
+18. Helgeland seems to h                ... pos = 0.0   	neg = 0.25 
+19. The film lacks the c                ... pos = 0.375 	neg = 0.375
+20. Porter's wife  is hi                ... pos = 0.125 	neg = 0.125
+21. Even his encounter w                ... pos = 0.0   	neg = 0.375
+22. Sure,  Porter gets t                ... pos = 0.5   	neg = 1.25 
+23. Gibson seems unsure                 ... pos = 1.125 	neg = 1.125
+24. The result is that h                ... pos = 0.0   	neg = 0.5  
+25. I never though I wou                ... pos = 0.0   	neg = 0.25 
+26. Mel Gibson is just n                ... pos = 1.5   	neg = 0.375
+27. Willis, for all his                 ... pos = 0.0   	neg = 0.0  
+28. If Helgeland has tak                ... pos = 0.75  	neg = 1.0  
+29. Not much of a tribut                ... pos = 0.125 	neg = 0    
+30. Get Your Private, Fr                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-709-355 is Negative          ... pos = 13.625 	neg = 14.0 
+Overall score of document
+Total Pos = 13.625
+Total Neg = 14.0
+---------------------------------------------------------------------------

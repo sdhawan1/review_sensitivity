@@ -1,0 +1,55 @@
+0. Film Noir - I am beg                 ... pos = 0.625 	neg = 0.375
+1. ) art film.                          ... pos = 0.0   	neg = 0    
+2. This is the only way                 ... pos = 1.0   	neg = 0.5  
+3. Well, folks, that fo                 ... pos = 0.0   	neg = 0.125
+4. Humphrey Bogart in "                 ... pos = 0.25  	neg = 0.75 
+5. The darkness is the                  ... pos = 0.375 	neg = 0.875
+6. Coupled with many da                 ... pos = 0.25  	neg = 0.0  
+7. The main character i                 ... pos = 1.125 	neg = 0.5  
+8. Confidential.                        ... pos = 0.125 	neg = 0    
+9. The movie takes plac                 ... pos = 0.625 	neg = 0.0  
+10. The LA cops in this                 ... pos = 0.125 	neg = 0.625
+11. As the film opens, c                ... pos = 0.25  	neg = 0.125
+12. This creates a vacuu                ... pos = 0.375 	neg = 0.875
+13. Squads of LAPD muscl                ... pos = 0.375 	neg = 0.0  
+14. Our story swirls aro                ... pos = 0.0   	neg = 0.0  
+15. Captain Dudley Smith                ... pos = 1.0   	neg = 0.125
+16. All his celebrity ar                ... pos = 0.25  	neg = 0.0  
+17. Bud White (Russel Cr                ... pos = 0.875 	neg = 0.125
+18. He only roughs up re                ... pos = 0.0   	neg = 0.25 
+19. ' With 50 pounds les                ... pos = 0.125 	neg = 0.0  
+20. He's due for promoti                ... pos = 1.0   	neg = 0.0  
+21. "Are you willing to                 ... pos = 0.0   	neg = 0.75 
+22. Will you give false                 ... pos = 0.125 	neg = 0.0  
+23. " he asks.                          ... pos = 0.125 	neg = 0    
+24. "If not, you haven't                ... pos = 0.0   	neg = 0.0  
+25. " Early on, Exley br                ... pos = 0.0   	neg = 0.625
+26. These two who had no                ... pos = 0.375 	neg = 0.25 
+27. Exley survives the s                ... pos = 0.75  	neg = 0    
+28. When a botched holdu                ... pos = 0.0   	neg = 0.0  
+29. One of the victims w                ... pos = 0.0   	neg = 0.375
+30. Exley becomes a hero                ... pos = 1.25  	neg = 0.0  
+31. Even though he's acc                ... pos = 1.0   	neg = 0.0  
+32. Vincennes finds his                 ... pos = 0.0   	neg = 0.375
+33. They all find puzzli                ... pos = 0.625 	neg = 0.25 
+34. The truth that comes                ... pos = 0.625 	neg = 0.0  
+35. Although L.A.                       ... pos = 0.0   	neg = 0    
+36. Confidential doesn't                ... pos = 0.125 	neg = 0.0  
+37. Many brilliant sunwa                ... pos = 1.125 	neg = 0.0  
+38. Director Curtis Hans                ... pos = 0.75  	neg = 0.375
+39. Kevin Spacey is as s                ... pos = 0.25  	neg = 0.625
+40. James Cromwell was r                ... pos = 0.125 	neg = 0.5  
+41. Kim Basinger has one                ... pos = 0.375 	neg = 0.125
+42. The always-underappr                ... pos = 0.0   	neg = 0.0  
+43. The breakout stars,                 ... pos = 0.375 	neg = 0.0  
+44. Our unfamiliarity wi                ... pos = 0.25  	neg = 0.0  
+45. Both give compelling                ... pos = 0.0   	neg = 0.0  
+46. Another thing I shou                ... pos = 0.0   	neg = 0.375
+47. The producers fall b                ... pos = 1.5   	neg = 0.0  
+48. No wonder  we don't                 ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1450-1359 is Positive        ... pos = 18.5  	neg = 10.125
+Overall score of document
+Total Pos = 18.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

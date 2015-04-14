@@ -1,0 +1,56 @@
+0. Starring Mike Myers;                 ... pos = 0.125 	neg = 0.125
+1. Although, to the cre                 ... pos = 0.375 	neg = 0.25 
+2. I'm guessing that th                 ... pos = 0.0   	neg = 0.5  
+3. Austin Powers (Mike                  ... pos = 0.0   	neg = 0.875
+4. Dr.                                  ... pos = 0     	neg = 0    
+5. Evil, that is.                       ... pos = 0     	neg = 0.875
+6. Evil (Mike Myers) an                 ... pos = 0.25  	neg = 1.25 
+7. Evil now has a plan                  ... pos = 0.75  	neg = 0.75 
+8. His right hand man,                  ... pos = 0.0   	neg = 0.0  
+9. Evil.                                ... pos = 0     	neg = 0.75 
+10. Evil plans to use it                ... pos = 0.125 	neg = 0.75 
+11. And he is taking alo                ... pos = 0.0   	neg = 0.125
+12. While Dr.                           ... pos = 0.0   	neg = 0    
+13. Evil was in cryogeni                ... pos = 0.0   	neg = 0.875
+14. His clone is not qui                ... pos = 0.0   	neg = 0.25 
+15. But even with his sh                ... pos = 0.5   	neg = 0.25 
+16. So Evil and Mini Me                 ... pos = 0.25  	neg = 1.375
+17. Austin must then ret                ... pos = 1.0   	neg = 0.0  
+18. I was very disappoin                ... pos = 0.5   	neg = 1.125
+19. I'm not sure if it w                ... pos = 0.25  	neg = 0.25 
+20. She had about two mi                ... pos = 0.625 	neg = 1.125
+21. As in the first one,                ... pos = 0.125 	neg = 0    
+22. Evil steals the show                ... pos = 0.5   	neg = 0.75 
+23. Although, Fat Bastar                ... pos = 0.75  	neg = 0.5  
+24. Felicity Shagwell co                ... pos = 1.375 	neg = 0.75 
+25. Heather Graham is a                 ... pos = 1.25  	neg = 0.625
+26. Also, like the first                ... pos = 0.125 	neg = 0.0  
+27. As does Rob Lowe, pl                ... pos = 0.25  	neg = 0    
+28. I wouldn't be surpri                ... pos = 0.125 	neg = 0.125
+29. My sense is that fan                ... pos = 0.125 	neg = 0.375
+30. There are a lot of v                ... pos = 1.25  	neg = 0.25 
+31. Some of the humor, e                ... pos = 0.625 	neg = 0.25 
+32. But I must admit tha                ... pos = 0.875 	neg = 0.125
+33. At times I get the i                ... pos = 0.625 	neg = 0.25 
+34. The strategically pl                ... pos = 0.5   	neg = 0.625
+35. So instead of coming                ... pos = 0.375 	neg = 0.375
+36. It was funny, but ju                ... pos = 0.0   	neg = 0.125
+37. Especially consideri                ... pos = 0.25  	neg = 0.125
+38. One sequence that I                 ... pos = 0.375 	neg = 0.0  
+39. Evil' spaceship, whi                ... pos = 0.0   	neg = 0.125
+40. The descriptions use                ... pos = 0.25  	neg = 0.125
+41. Then of course, we h                ... pos = 0.0   	neg = 0.0  
+42. Evil's clone.                       ... pos = 0     	neg = 0.0  
+43. He combined with Evi                ... pos = 0.0   	neg = 0.75 
+44. The interaction betw                ... pos = 0.0   	neg = 0.75 
+45. As with the first, t                ... pos = 0.625 	neg = 1.625
+46. But this time they a                ... pos = 0.875 	neg = 1.375
+47. The movie was stolen                ... pos = 0.25  	neg = 2.0  
+48. Austin Powers: The S                ... pos = 0.25  	neg = 0.0  
+49. The movie was groovy                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1376-488 is Negative         ... pos = 17.25 	neg = 23.625
+Overall score of document
+Total Pos = 17.25
+Total Neg = 23.625
+---------------------------------------------------------------------------

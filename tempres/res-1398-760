@@ -1,0 +1,37 @@
+0. Director: Antoine Fu                 ... pos = 1.5   	neg = 0.0  
+1. Some action films ar                 ... pos = 1.0   	neg = 0.375
+2. Films like Die Hard                  ... pos = 0.375 	neg = 0.75 
+3. The other significan                 ... pos = 1.25  	neg = 0.375
+4. I don't have a probl                 ... pos = 0.125 	neg = 0.875
+5. I had a great time w                 ... pos = 1.75  	neg = 0.0  
+6. It's also the kind o                 ... pos = 1.0   	neg = 0.0  
+7. Yun-Fat stars as Joh                 ... pos = 0.0   	neg = 0.5  
+8. In the early scenes                  ... pos = 0.0   	neg = 0.375
+9. Wei, in an act of br                 ... pos = 0.0   	neg = 0.25 
+10. With the gun pointed                ... pos = 1.125 	neg = 0.0  
+11. Knowing that his lif                ... pos = 0.25  	neg = 0.625
+12. It doesn't take long                ... pos = 0.5   	neg = 0.5  
+13. At this point, Wei h                ... pos = 0.25  	neg = 0.5  
+14. Meg convinces Lee th                ... pos = 0.5   	neg = 0.125
+15. Each review I read f                ... pos = 0.375 	neg = 0.0  
+16. My disagreement with                ... pos = 2.25  	neg = 0.375
+17. And the two lead act                ... pos = 1.25  	neg = 0.125
+18. However (and expecte                ... pos = 1.125 	neg = 0.0  
+19. Director Antoine Fuq                ... pos = 0.875 	neg = 0.25 
+20. The opening scene--i                ... pos = 0.25  	neg = 0.0  
+21. All of the action in                ... pos = 0.125 	neg = 0.125
+22. The pounding soundtr                ... pos = 0.25  	neg = 0.0  
+23. I would have enjoyed                ... pos = 1.625 	neg = 0.625
+24. But never, in all of                ... pos = 0.125 	neg = 0.5  
+25. True, they are tryin                ... pos = 0.75  	neg = 1.0  
+26. This seems thoughtle                ... pos = 0.25  	neg = 0.25 
+27. But who really cares                ... pos = 0.0   	neg = 0.0  
+28. This is an action fi                ... pos = 0.25  	neg = 0.125
+29. It has Chow Yun-Fat,                ... pos = 0.25  	neg = 0.5  
+30. It's fun to watch, i                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1398-760 is Positive         ... pos = 20.125 	neg = 9.125
+Overall score of document
+Total Pos = 20.125
+Total Neg = 9.125
+---------------------------------------------------------------------------

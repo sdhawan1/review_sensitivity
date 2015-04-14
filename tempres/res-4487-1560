@@ -1,0 +1,40 @@
+0. "Independence Day" *                 ... pos = 0.75  	neg = 0.125
+1. I loathe almost ever                 ... pos = 0.0   	neg = 0.0  
+2. Oh, sure, there's th                 ... pos = 0.5   	neg = 0.0  
+3. "Face/Off" and "Men                  ... pos = 0.0   	neg = 0.25 
+4. And the only reason                  ... pos = 1.875 	neg = 0.25 
+5. Well, Roland Emmeric                 ... pos = 0.375 	neg = 0.25 
+6. But I was shocked to                 ... pos = 0.875 	neg = 0.125
+7. Usually, I am not en                 ... pos = 1.875 	neg = 0.5  
+8. I particularly liked                 ... pos = 1.375 	neg = 0.0  
+9. I was never a big fa                 ... pos = 1.125 	neg = 0.25 
+10. And when he made the                ... pos = 1.75  	neg = 0.0  
+11. Judd Hirsch and Rand                ... pos = 0.25  	neg = 0.0  
+12. But, having said tha                ... pos = 0.875 	neg = 0.0  
+13. Many great actors ar                ... pos = 0.25  	neg = 0.375
+14. Now I've never been                 ... pos = 1.0   	neg = 0.875
+15. But no, instead of t                ... pos = 0.0   	neg = 0.75 
+16. In "Star Trek", even                ... pos = 1.125 	neg = 0.0  
+17. Here, he just seems                 ... pos = 0.0   	neg = 1.0  
+18. And then there's Bil                ... pos = 0.0   	neg = 0.125
+19. He shines in almost                 ... pos = 1.125 	neg = 0.0  
+20. Well, here, he sucks                ... pos = 0.0   	neg = 0.0  
+21. And it's not that hi                ... pos = 1.375 	neg = 0.75 
+22. However, you can't r                ... pos = 2.0   	neg = 1.75 
+23. Just look at Jack Ni                ... pos = 0.0   	neg = 0.375
+24. Even though he's the                ... pos = 2.625 	neg = 0.0  
+25. And as for Roland Em                ... pos = 0.75  	neg = 0.125
+26. With his earlier "St                ... pos = 0.375 	neg = 0.75 
+27. Oh, and I almost for                ... pos = 0.0   	neg = 0.125
+28. Do yourself a favor                 ... pos = 0.125 	neg = 0.0  
+29. Just 'cause a movie                 ... pos = 1.0   	neg = 0.375
+30. That just isn't righ                ... pos = 0.0   	neg = 0.0  
+31. So, I actually almos                ... pos = 0.125 	neg = 0.0  
+32. But I still don't se                ... pos = 0.0   	neg = 0.0  
+33. Maybe it's not up to                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4487-1560 is Positive        ... pos = 23.875 	neg = 9.125
+Overall score of document
+Total Pos = 23.875
+Total Neg = 9.125
+---------------------------------------------------------------------------

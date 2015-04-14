@@ -1,0 +1,37 @@
+0. Featuring the voices                 ... pos = 1.0   	neg = 0.0  
+1. Don't expect me to b                 ... pos = 0.25  	neg = 0.375
+2. As I was wracking my                 ... pos = 0.75  	neg = 0.75 
+3. For example, in Antz                 ... pos = 0.0   	neg = 0.375
+4. But in this film, th                 ... pos = 0.875 	neg = 0.125
+5. It is rare for Disne                 ... pos = 2.125 	neg = 0.875
+6. But without being hy                 ... pos = 1.625 	neg = 0.375
+7. The dangerous Hopper                 ... pos = 0.125 	neg = 0.125
+8. Flik (Dave Foley, of                 ... pos = 0.375 	neg = 0.75 
+9. " Unfortunately, he                  ... pos = 0.125 	neg = 2.0  
+10. One of the foremost                 ... pos = 1.125 	neg = 0.375
+11. When a fallen leaf i                ... pos = 0.0   	neg = 0.25 
+12. Where's the line?                   ... pos = 0     	neg = 0.0  
+13. "  Rescue workers qu                ... pos = 0.0   	neg = 0.0  
+14. "This is nothing com                ... pos = 0.25  	neg = 0.375
+15. ". Many other gags,                 ... pos = 0.875 	neg = 0.375
+16. A repressed stick in                ... pos = 2.0   	neg = 0.375
+17. Kevin Spacey plays H                ... pos = 0.0   	neg = 0.0  
+18. His voice is control                ... pos = 0.75  	neg = 0.875
+19. Spacey is the best p                ... pos = 1.5   	neg = 0.125
+20. Dave Foley plays a s                ... pos = 1.25  	neg = 0.0  
+21. David Hyde Pierce's                 ... pos = 0.5   	neg = 0.25 
+22. Almost everyone else                ... pos = 0.5   	neg = 0.625
+23. A Bug's Life may hav                ... pos = 0.25  	neg = 0.25 
+24. Its plot is lightwei                ... pos = 0.375 	neg = 1.25 
+25. These visuals are of                ... pos = 1.375 	neg = 0.125
+26. A Bug's Life also lo                ... pos = 0.125 	neg = 0.375
+27. Definitely the best                 ... pos = 1.75  	neg = 0.125
+28. Whether you prefer t                ... pos = 1.5   	neg = 0.0  
+29. Now it's just a case                ... pos = 0.0   	neg = 0.0  
+30. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-1111 is Positive        ... pos = 21.625 	neg = 11.5 
+Overall score of document
+Total Pos = 21.625
+Total Neg = 11.5
+---------------------------------------------------------------------------

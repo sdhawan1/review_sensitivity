@@ -1,0 +1,56 @@
+0. CrankyCriticŽ movie                 ... pos = 2.0   	neg = 0.0  
+1. It has nothing to do                 ... pos = 0.0   	neg = 0.375
+2. No, the folks at the                 ... pos = 0.375 	neg = 1.625
+3. To attain a commerci                 ... pos = 0.75  	neg = 0.375
+4. You try to figure ou                 ... pos = 0.375 	neg = 0.0  
+5. "Thrusting" is OK wh                 ... pos = 0.0   	neg = 0.125
+6. But a little hereros                 ... pos = 0.0   	neg = 0.375
+7. Naked homosexual tou                 ... pos = 0.375 	neg = 0.5  
+8. Someone at the MPAA                  ... pos = 0.125 	neg = 0.0  
+9. Well, you need some                  ... pos = 1.125 	neg = 0.375
+10. In it, Jerry Lewis r                ... pos = 0.0   	neg = 0.125
+11. Lewis said to Kubric                ... pos = 0.0   	neg = 0.0  
+12. Kubrick responded "Y                ... pos = 0.0   	neg = 0.0  
+13. ". Eyes Wide Shut is                ... pos = 1.125 	neg = 0.125
+14. It moves as slow as                 ... pos = 0.0   	neg = 1.0  
+15. As for the performan                ... pos = 0.25  	neg = 0.125
+16. " Cranky cannot prai                ... pos = 0.75  	neg = 0.25 
+17. That being said, tho                ... pos = 2.625 	neg = 0.125
+18. That Kubrick intenti                ... pos = 1.625 	neg = 0.75 
+19. The title of the mov                ... pos = 0.625 	neg = 0.125
+20. Cranky's real time e                ... pos = 1.375 	neg = 0.25 
+21. By the time that fin                ... pos = 0.0   	neg = 0.0  
+22. Cranky writes for th                ... pos = 0.75  	neg = 0.125
+23. It is definitely a w                ... pos = 0.25  	neg = 0.125
+24. Dr. William Harford                 ... pos = 1.25  	neg = 0.125
+25. At the party, Bill s                ... pos = 0.0   	neg = 0.25 
+26. Alice sees her husba                ... pos = 0.0   	neg = 0.0  
+27. She assumes the wors                ... pos = 0.0   	neg = 1.5  
+28. Post party, fueled b                ... pos = 0.0   	neg = 0.0  
+29. Bill is shocked (Sho                ... pos = 0.375 	neg = 0.125
+30. I say!                              ... pos = 0     	neg = 0.0  
+31. ) by the admission a                ... pos = 0.625 	neg = 0.0  
+32. When presented with                 ... pos = 0.0   	neg = 0.0  
+33. cheat with a damn fi                ... pos = 1.5   	neg = 0.75 
+34. In short order, Bill                ... pos = 0.375 	neg = 2.25 
+35. Then his friends get                ... pos = 0.375 	neg = 0.0  
+36. It may be coincidenc                ... pos = 0.0   	neg = 0.125
+37. It may be conspiracy                ... pos = 0.0   	neg = 0.125
+38. It may be someone sc                ... pos = 0.0   	neg = 0.125
+39. Regardless, It is bo                ... pos = 0.0   	neg = 0.625
+40. Cranky wonders if Ku                ... pos = 1.5   	neg = 0.875
+41. Having worked on big                ... pos = 0.875 	neg = 0.875
+42. In his best work (Dr                ... pos = 0.5   	neg = 0.0  
+43. So why not create a                 ... pos = 0.875 	neg = 0.25 
+44. Having set the high                 ... pos = 0.375 	neg = 0.0  
+45. It's the only explan                ... pos = 0.0   	neg = 0.0  
+46. Wood's final film ma                ... pos = 0.25  	neg = 0.0  
+47. On average, a first                 ... pos = 0.25  	neg = 0.0  
+48. Were Cranky able to                 ... pos = 1.0   	neg = 0.25 
+49. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1684-912 is Positive         ... pos = 24.625 	neg = 15.125
+Overall score of document
+Total Pos = 24.625
+Total Neg = 15.125
+---------------------------------------------------------------------------

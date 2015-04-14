@@ -1,0 +1,30 @@
+0. On the way to the th                 ... pos = 0.875 	neg = 0.5  
+1. )  In fact, I almost                 ... pos = 0.375 	neg = 0.0  
+2. But I'm glad I didn'                 ... pos = 0.0   	neg = 0.0  
+3. This movie started o                 ... pos = 0.25  	neg = 0.0  
+4. He's a hot shot and                  ... pos = 0.0   	neg = 0    
+5. Until one seemingly                  ... pos = 0.5   	neg = 0.0  
+6. He thinks for a seco                 ... pos = 0.0   	neg = 0.0  
+7. He keeps writing for                 ... pos = 0.0   	neg = 0.0  
+8. He makes copies for                  ... pos = 0.0   	neg = 0.125
+9. The one quote everyb                 ... pos = 0.0   	neg = 0.0  
+10. For saying this, he'                ... pos = 0.0   	neg = 0.0  
+11. ) and consequently l                ... pos = 0.0   	neg = 0.0  
+12. This is something I                 ... pos = 0.0   	neg = 0.375
+13. I think many reviewe                ... pos = 0.0   	neg = 0.25 
+14. Anyway, here's why I                ... pos = 0.375 	neg = 0.0  
+15. The cast was super.                 ... pos = 0.0   	neg = 0.125
+16. Everyone and I mean                 ... pos = 0.0   	neg = 0.0  
+17. Especially Johnathan                ... pos = 0.0   	neg = 0.125
+18. Also, excellent writ                ... pos = 1.0   	neg = 0.0  
+19. The script showed Ma                ... pos = 0.0   	neg = 0.0  
+20. Excellent cameos.                   ... pos = 1.0   	neg = 0.5  
+21. Sports stars from Tr                ... pos = 0.0   	neg = 0.5  
+22. This overall was a s                ... pos = 0.0   	neg = 0.125
+23. It shows Mr. Cruise                 ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4375-1021 is Positive        ... pos = 5.25  	neg = 2.625
+Overall score of document
+Total Pos = 5.25
+Total Neg = 2.625
+---------------------------------------------------------------------------

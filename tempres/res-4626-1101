@@ -1,0 +1,29 @@
+0. Dir: Oliver Stone St                 ... pos = 0.375 	neg = 0.125
+1. Like a two-hour rock                 ... pos = 0.25  	neg = 0.0  
+2. Each medium brings w                 ... pos = 0.0   	neg = 0.0  
+3. Mallory's (Juliette                  ... pos = 0.0   	neg = 0.125
+4. Her wedding to seria                 ... pos = 0.0   	neg = 0.5  
+5. Their spree across t                 ... pos = 1.125 	neg = 1.375
+6. Some scenes even inc                 ... pos = 0.0   	neg = 0.0  
+7. Other scenes simulat                 ... pos = 0.25  	neg = 0.625
+8. While this technique                 ... pos = 1.25  	neg = 0.25 
+9. Harrelson and Lewis                  ... pos = 1.25  	neg = 1.0  
+10. Rodney Dangerfield's                ... pos = 0.875 	neg = 0.0  
+11. Tommy Lee Jones as t                ... pos = 0.125 	neg = 0.25 
+12. As a surrealistic co                ... pos = 0.75  	neg = 0.0  
+13. In his scatter shot                 ... pos = 0.25  	neg = 0.0  
+14. As a social commenta                ... pos = 0.0   	neg = 0.375
+15. It is difficult to h                ... pos = 0.875 	neg = 0.125
+16. The fans of Mickey a                ... pos = 0.75  	neg = 0.25 
+17. Besides using a vari                ... pos = 0.625 	neg = 0.25 
+18. Music in the soundtr                ... pos = 0.375 	neg = 0.125
+19. Among all these soun                ... pos = 0.125 	neg = 0.0  
+20. The problem with the                ... pos = 0.0   	neg = 0.625
+21. Juliette Lewis plays                ... pos = 1.5   	neg = 0.0  
+22. Two other serial kil                ... pos = 1.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4626-1101 is Positive        ... pos = 11.75 	neg = 6.375
+Overall score of document
+Total Pos = 11.75
+Total Neg = 6.375
+---------------------------------------------------------------------------

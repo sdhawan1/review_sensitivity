@@ -1,0 +1,23 @@
+0. Release Date: Februa                 ... pos = 0.375 	neg = 0.875
+1. " His maxim might be                 ... pos = 0.25  	neg = 2.25 
+2. Granted, Mike Judge,                 ... pos = 1.0   	neg = 1.0  
+3. But unfailingly, Jud                 ... pos = 0.625 	neg = 1.5  
+4. The iffiness in Judg                 ... pos = 0.0   	neg = 0.625
+5. In fact, based on th                 ... pos = 0.75  	neg = 0.125
+6. Unfortunately the co                 ... pos = 1.0   	neg = 1.0  
+7. The most convincing                  ... pos = 1.0   	neg = 0.0  
+8. Other evidence of OF                 ... pos = 1.0   	neg = 0.375
+9. The comedy is margin                 ... pos = 0.375 	neg = 0.375
+10. The material in the                 ... pos = 0.125 	neg = 0.375
+11. However, the movie i                ... pos = 0.125 	neg = 0.375
+12. The plot centers aro                ... pos = 0.0   	neg = 0.0  
+13. After the movie elab                ... pos = 0.875 	neg = 0.875
+14. When Peter and his g                ... pos = 0.0   	neg = 0.625
+15. The circumstances th                ... pos = 0.25  	neg = 0.25 
+16. A sympathetic cast a                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5723-700 is Negative         ... pos = 8.875 	neg = 10.625
+Overall score of document
+Total Pos = 8.875
+Total Neg = 10.625
+---------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+0. Few directors can cl                 ... pos = 0.5   	neg = 0.125
+1. ". Truth be told, of                 ... pos = 0.5   	neg = 0.5  
+2. (But only an idiot o                 ... pos = 0.0   	neg = 0.125
+3. Adapted from Frederi                 ... pos = 0.375 	neg = 0.125
+4. As the husband plott                 ... pos = 0.0   	neg = 1.375
+5. As the wife, Grace K                 ... pos = 1.125 	neg = 0.625
+6. Davis' version retai                 ... pos = 0.0   	neg = 1.125
+7. However,  Patrick Sm                 ... pos = 0.5   	neg = 0.0  
+8. Steven (Michael Doug                 ... pos = 0.0   	neg = 0.25 
+9. But David is hiding                  ... pos = 0.0   	neg = 0.125
+10. Emily spikes the wou                ... pos = 0.0   	neg = 0.375
+11. Several plot twists                 ... pos = 0.0   	neg = 0.0  
+12. Besides having a fle                ... pos = 0.0   	neg = 0.625
+13. Paltrow stands out b                ... pos = 1.0   	neg = 0.125
+14. Emily is vulnerable                 ... pos = 0.875 	neg = 0.375
+15. Douglas is his usual                ... pos = 0.125 	neg = 0.125
+16. Mortensen is the wea                ... pos = 0.125 	neg = 0.375
+17. Despite the improvem                ... pos = 0.75  	neg = 0.25 
+18. Davis, best known fo                ... pos = 0.25  	neg = 0.125
+19. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1007-1265 is Negative        ... pos = 6.125 	neg = 6.75 
+Overall score of document
+Total Pos = 6.125
+Total Neg = 6.75
+---------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+0. Seen on 20 December                  ... pos = 0.0   	neg = 0.0  
+1. Sequels, especially                  ... pos = 2.625 	neg = 0.0  
+2. But, director Wes Cr                 ... pos = 0.625 	neg = 0.125
+3. It's a year after th                 ... pos = 0.75  	neg = 0.5  
+4. This puts the spotli                 ... pos = 0.125 	neg = 0.375
+5. Also back from the o                 ... pos = 1.625 	neg = 0.375
+6. There are also a lot                 ... pos = 0.25  	neg = 0.0  
+7. There is also a lot                  ... pos = 0.375 	neg = 0.125
+8. Having seen *Scream*                 ... pos = 0.125 	neg = 0.125
+9. But, if you saw the                  ... pos = 0.375 	neg = 0.125
+10. * . Unlike most horr                ... pos = 0.5   	neg = 0.0  
+11. Added but not necess                ... pos = 0.875 	neg = 0.25 
+12. There is also a wond                ... pos = 0.75  	neg = 0.5  
+13. I don't want to give                ... pos = 0.75  	neg = 0.375
+14. It's always wonderfu                ... pos = 1.5   	neg = 0.0  
+15. The only thing I did                ... pos = 0.0   	neg = 0.125
+16. I would've liked any                ... pos = 0.125 	neg = 0.0  
+17. Then there's my idea                ... pos = 0     	neg = 0.0  
+18. Apparently, there is                ... pos = 0.0   	neg = 0.25 
+19. Let's hope it lives                 ... pos = 0.375 	neg = 0.0  
+20. Also starring Sarah                 ... pos = 0.0   	neg = 0.0  
+21. Cinematography by Pe                ... pos = 0.0   	neg = 0    
+22. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2124-92 is Positive          ... pos = 11.75 	neg = 3.375
+Overall score of document
+Total Pos = 11.75
+Total Neg = 3.375
+---------------------------------------------------------------------------

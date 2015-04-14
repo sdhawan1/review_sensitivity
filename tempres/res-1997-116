@@ -1,0 +1,52 @@
+0. Starship Troopers Re                 ... pos = 0.75  	neg = 0.25 
+1. The merest glance at                 ... pos = 0.25  	neg = 0.375
+2. Rather, they lie in                  ... pos = 0.5   	neg = 0.375
+3. Inspired by Robert H                 ... pos = 0.875 	neg = 0.0  
+4. On this absurd premi                 ... pos = 0.125 	neg = 1.0  
+5. There's no denying t                 ... pos = 1.25  	neg = 1.25 
+6. This is because the                  ... pos = 0.0   	neg = 0.25 
+7. Although the humans                  ... pos = 0.0   	neg = 0.25 
+8. In fact, they appear                 ... pos = 0.25  	neg = 0.25 
+9. Tactical communicati                 ... pos = 0.25  	neg = 0.5  
+10. Yet during training                 ... pos = 1.25  	neg = 0.625
+11. Why aren't they used                ... pos = 0.0   	neg = 0.0  
+12. Instead, the soldier                ... pos = 0.25  	neg = 0.375
+13. There are numerous o                ... pos = 0.25  	neg = 0.25 
+14. Ships in space in fo                ... pos = 0.625 	neg = 0.375
+15. All planets have blu                ... pos = 0.125 	neg = 0.0  
+16. A meteor launched fr                ... pos = 0.0   	neg = 0.0  
+17. In reality, any such                ... pos = 0.5   	neg = 0.125
+18. The human political                 ... pos = 0.625 	neg = 0.125
+19. How many colonies ar                ... pos = 0.25  	neg = 0.0  
+20. Where are they?                     ... pos = 0.25  	neg = 0    
+21. We are told only tha                ... pos = 0.25  	neg = 0.125
+22. There are some glimp                ... pos = 0.875 	neg = 0.125
+23. The violence sadly r                ... pos = 1.625 	neg = 0.75 
+24. and acting that woul                ... pos = 0.125 	neg = 0.75 
+25. Fortunately there is                ... pos = 0.5   	neg = 0.125
+26. The Bugs themselves                 ... pos = 0.5   	neg = 0.25 
+27. Although we are told                ... pos = 1.25  	neg = 0.5  
+28. The "Brain" bug eats                ... pos = 0.0   	neg = 0.0  
+29. How it gets any info                ... pos = 0.0   	neg = 0.875
+30. Perhaps it should ha                ... pos = 0.0   	neg = 0.5  
+31. The storyline, which                ... pos = 0.625 	neg = 0.0  
+32. It too lives in the                 ... pos = 0.25  	neg = 0.25 
+33. One recruit says he                 ... pos = 0.625 	neg = 0.0  
+34. The characters are a                ... pos = 1.125 	neg = 0.0  
+35. They seem to feel ne                ... pos = 0.875 	neg = 0.25 
+36. Rico is never shown                 ... pos = 0.5   	neg = 0.125
+37. Heinlein's original                 ... pos = 1.25  	neg = 0.5  
+38. The boy-has-girl, bo                ... pos = 0.75  	neg = 0.125
+39. New faces give the m                ... pos = 0.375 	neg = 0.0  
+40. The actress playing                 ... pos = 0.875 	neg = 0.0  
+41. And of course  Disi                 ... pos = 0.0   	neg = 0.0  
+42. Both as a movie and                 ... pos = 0.0   	neg = 0.125
+43. I give it 1 star out                ... pos = 0.0   	neg = 0.0  
+44. Not worth renting, e                ... pos = 0.0   	neg = 0.0  
+45. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-116 is Positive         ... pos = 20.75 	neg = 11.75
+Overall score of document
+Total Pos = 20.75
+Total Neg = 11.75
+---------------------------------------------------------------------------

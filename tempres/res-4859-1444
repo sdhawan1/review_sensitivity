@@ -1,0 +1,75 @@
+0. Directed by Roland E                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Robert                 ... pos = 0.0   	neg = 0.0  
+2. Starring Mel Gibson,                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 164 mi                 ... pos = 0     	neg = 0.0  
+4. Rated AA for blood l                 ... pos = 0.375 	neg = 0.0  
+5. Reviewed on July 4th                 ... pos = 0.0   	neg = 0.0  
+6. I find it amusing th                 ... pos = 0.0   	neg = 0.125
+7. That title so accura                 ... pos = 0.0   	neg = 0.0  
+8. It's been a long tim                 ... pos = 0.125 	neg = 1.875
+9. Don't get me wrong -                 ... pos = 0.125 	neg = 1.25 
+10. But much of its almo                ... pos = 1.875 	neg = 0.75 
+11. For once, I wish the                ... pos = 0.0   	neg = 1.0  
+12. Comparisons with sta                ... pos = 0.25  	neg = 0.125
+13. Both movies feature                 ... pos = 0.25  	neg = 0.0  
+14. There he  was trying                ... pos = 0.0   	neg = 0.75 
+15. The death of Gibson'                ... pos = 0.0   	neg = 0.0  
+16. But "Braveheart" sti                ... pos = 0.364 	neg = 0.0  
+17. "The Patriot" clearl                ... pos = 0.375 	neg = 0.0  
+18. Is it just that I've                ... pos = 0.0   	neg = 0.125
+19. Perhaps.                            ... pos = 0.0   	neg = 0    
+20. But I think  it's mo                ... pos = 0.0   	neg = 0.0  
+21. "Braveheart", you se                ... pos = 0.875 	neg = 0.0  
+22. Gibson's William Wal                ... pos = 1.0   	neg = 0.125
+23. Benjamin Martin in "                ... pos = 0.0   	neg = 0.125
+24. He's not  poorly-act                ... pos = 0.0   	neg = 0.25 
+25. I  believed in Willi                ... pos = 0.125 	neg = 0.0  
+26. The same criticism c                ... pos = 0.0   	neg = 0.125
+27. Ledger spends the wh                ... pos = 0.0   	neg = 0.375
+28. For a movie about fa                ... pos = 0.5   	neg = 0.375
+29. Indeed, so tepid is                 ... pos = 0.0   	neg = 0.625
+30. Most  unfortunate is                ... pos = 0.0   	neg = 0.25 
+31. There is a good stor                ... pos = 0.75  	neg = 0.25 
+32. Benjamin is a vetera                ... pos = 0.0   	neg = 0.125
+33. Against his father's                ... pos = 0.125 	neg = 0.625
+34. When the War of  Ind                ... pos = 0.125 	neg = 0.0  
+35. But the brutal Briti                ... pos = 0.0   	neg = 0.125
+36. When another of the                 ... pos = 0.0   	neg = 0.125
+37. This spurs Benjamin                 ... pos = 0.0   	neg = 0.0  
+38. Accompanied by two m                ... pos = 0.0   	neg = 0.5  
+39. That night, one son                 ... pos = 0.0   	neg = 0.0  
+40. Here was a perfect o                ... pos = 0.0   	neg = 0.375
+41. But no, the movie pa                ... pos = 0.0   	neg = 0.375
+42. Judging from "The Pa                ... pos = 0.375 	neg = 0.5  
+43. Well, duh.                          ... pos = 0.0   	neg = 0    
+44. Things go downhill f                ... pos = 0.0   	neg = 0.0  
+45. There are obligatory                ... pos = 0.25  	neg = 0.0  
+46. Christian's at least                ... pos = 0.5   	neg = 0.0  
+47. Benjamin, however,                  ... pos = 0.75  	neg = 0.625
+48. There is no spark be                ... pos = 0.0   	neg = 0.375
+49. Cliche after cliche                 ... pos = 0.25  	neg = 1.0  
+50. The token black  sol                ... pos = 0.0   	neg = 0.0  
+51. When a recalcitrant                 ... pos = 0.0   	neg = 0.125
+52. A  pause and then...                ... pos = 0.25  	neg = 0.0  
+53. The villains of "The                ... pos = 0.0   	neg = 0.875
+54. Isaacs'  Tavington h                ... pos = 0.0   	neg = 0.5  
+55. Tavington was a real                ... pos = 0.875 	neg = 0.125
+56. Liverpudlians  needn                ... pos = 0.625 	neg = 1.0  
+57. Tavington's  superio                ... pos = 0.5   	neg = 1.375
+58. When Benjamin's mili                ... pos = 0.0   	neg = 0.75 
+59. ". It is when "The P                ... pos = 0.0   	neg = 0.125
+60. Director Roland Emme                ... pos = 0.75  	neg = 0.5  
+61. Every now and then,                 ... pos = 0.25  	neg = 0.375
+62. And the beautiful pe                ... pos = 1.625 	neg = 0.5  
+63. But "The Patriot" is                ... pos = 0.25  	neg = 1.875
+64. This is "Braveheart"                ... pos = 0.0   	neg = 0.5  
+65. And why, if the movi                ... pos = 0.375 	neg = 0.0  
+66. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+67. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+68. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4859-1444 is Negative        ... pos = 15.364 	neg = 21.875
+Overall score of document
+Total Pos = 15.364
+Total Neg = 21.875
+---------------------------------------------------------------------------

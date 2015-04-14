@@ -1,0 +1,29 @@
+0. Starring: Mel Gibson                 ... pos = 0.5   	neg = 0.5  
+1. Riggs jumping off a                  ... pos = 0.375 	neg = 2.0  
+2. Lethal Weapon 4 open                 ... pos = 0.0   	neg = 0.5  
+3. You and I probably w                 ... pos = 0.125 	neg = 0.125
+4. But if Riggs were by                 ... pos = 0.0   	neg = 1.375
+5. That would probably                  ... pos = 0.0   	neg = 0    
+6. Sadly, Lethal Weapon                 ... pos = 0.125 	neg = 0.625
+7. There are some funny                 ... pos = 0.25  	neg = 0.0  
+8. It is one of the few                 ... pos = 0.364 	neg = 0.75 
+9. But those occasional                 ... pos = 0.0   	neg = 0.5  
+10. Guns, kung fu and co                ... pos = 0.0   	neg = 0.0  
+11. But what is more ann                ... pos = 1.375 	neg = 0.5  
+12. Rene Russo's sole pu                ... pos = 0.0   	neg = 0.25 
+13. The character that s                ... pos = 0.875 	neg = 1.125
+14. She is in a few palt                ... pos = 0.0   	neg = 0.875
+15. Though her character                ... pos = 1.625 	neg = 0.25 
+16. He serves absolutely                ... pos = 1.5   	neg = 0.25 
+17. On top of that, thro                ... pos = 0.625 	neg = 1.0  
+18. There are some excit                ... pos = 0.5   	neg = 0.0  
+19. ) And, when the joke                ... pos = 1.125 	neg = 0.25 
+20. But the bottom line                 ... pos = 0.375 	neg = 0.5  
+21. The characters borde                ... pos = 1.25  	neg = 2.5  
+22. It isn't so bad as t                ... pos = 0.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2402-447 is Negative         ... pos = 11.114 	neg = 14.75
+Overall score of document
+Total Pos = 11.114
+Total Neg = 14.75
+---------------------------------------------------------------------------

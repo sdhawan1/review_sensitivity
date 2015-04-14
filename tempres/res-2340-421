@@ -1,0 +1,37 @@
+0. There is a certain c                 ... pos = 1.5   	neg = 0.125
+1. He is the unlikely h                 ... pos = 0.625 	neg = 0.125
+2. In OCTOBER SKY, that                 ... pos = 0.875 	neg = 0.125
+3. The movie is based,                  ... pos = 0.125 	neg = 0.125
+4. It is the story of a                 ... pos = 0.25  	neg = 0.25 
+5. In an early scene, H                 ... pos = 0.0   	neg = 0.5  
+6. Homer doesn't make t                 ... pos = 0.25  	neg = 0.125
+7. That is why when he                  ... pos = 0.125 	neg = 0.125
+8. Homer, influenced by                 ... pos = 0.125 	neg = 0.5  
+9. Soon, even after a f                 ... pos = 0.25  	neg = 0.125
+10. These nerds have bec                ... pos = 0.375 	neg = 0.5  
+11. Cheerleaders skip a                 ... pos = 0.25  	neg = 0.375
+12. Everyone in town is                 ... pos = 0.0   	neg = 0.125
+13. Everyone, that is, e                ... pos = 0.0   	neg = 0.125
+14. John is the head of                 ... pos = 0.0   	neg = 0.25 
+15. Only the football pl                ... pos = 0.0   	neg = 0.0  
+16. John is very disappo                ... pos = 0.625 	neg = 0.25 
+17. Homer, of course, wa                ... pos = 1.25  	neg = 0.125
+18. The father-son relat                ... pos = 0.75  	neg = 0.0  
+19. Cooper, from John Sa                ... pos = 0.5   	neg = 0.25 
+20. His perfromance in O                ... pos = 0.125 	neg = 0.125
+21. As John, Cooper show                ... pos = 0.0   	neg = 0.125
+22. Relative newcomer Ja                ... pos = 0.875 	neg = 0.25 
+23. >From what you have                 ... pos = 1.25  	neg = 0.125
+24. But the sad truth is                ... pos = 1.125 	neg = 1.25 
+25. There are moments in                ... pos = 0.375 	neg = 0.25 
+26. This film is so pred                ... pos = 0.0   	neg = 0.125
+27. Also, writer Lewis C                ... pos = 0.375 	neg = 1.25 
+28. This wouldn't be all                ... pos = 0.25  	neg = 0.625
+29. But I have to give p                ... pos = 0.625 	neg = 0.25 
+30. review by the Teenag                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2340-421 is Positive         ... pos = 12.875 	neg = 8.625
+Overall score of document
+Total Pos = 12.875
+Total Neg = 8.625
+---------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+0. Steven Spielberg has                 ... pos = 0.0   	neg = 0    
+1. Does the man ever fa                 ... pos = 0.0   	neg = 0.125
+2. In an era of Hollywo                 ... pos = 0.5   	neg = 0.125
+3. His latest, Saving P                 ... pos = 0.25  	neg = 0.5  
+4. But, he is able to t                 ... pos = 0.25  	neg = 0.25 
+5. The film starts off                  ... pos = 0.0   	neg = 0.625
+6. It is a twenty-five                  ... pos = 0.375 	neg = 0.25 
+7. There is no introduc                 ... pos = 0.875 	neg = 0.875
+8. For once, war is not                 ... pos = 0.0   	neg = 0.125
+9. Throughout the film,                 ... pos = 0.0   	neg = 0.0  
+10. He shows his audienc                ... pos = 0.25  	neg = 0.0  
+11. This first sequence                 ... pos = 0.625 	neg = 0.625
+12. The film progresses                 ... pos = 1.25  	neg = 0.0  
+13. The mission: Miller                 ... pos = 0.625 	neg = 0.0  
+14. Therefore, Hanks tak                ... pos = 0.0   	neg = 0.0  
+15. The casting of Hanks                ... pos = 0.25  	neg = 0.125
+16. Ed Burns plays the t                ... pos = 0.25  	neg = 0.0  
+17. Tom Sizemore plays t                ... pos = 0.125 	neg = 0.125
+18. Another outstanding                 ... pos = 1.375 	neg = 0.25 
+19. Through Goldberg's c                ... pos = 1.125 	neg = 0.125
+20. But, in my opinion,                 ... pos = 0.625 	neg = 0.125
+21. He is brought along                 ... pos = 0.5   	neg = 0.125
+22. But, Spielberg displ                ... pos = 0.5   	neg = 0.0  
+23. Tom Hanks, as always                ... pos = 0.75  	neg = 0    
+24. His character is a q                ... pos = 1.5   	neg = 0.25 
+25. But, Spielberg displ                ... pos = 1.0   	neg = 0.0  
+26. Captain Miller is a                 ... pos = 0.0   	neg = 0.125
+27. Despite his objectio                ... pos = 0.25  	neg = 0.0  
+28. The film progresses                 ... pos = 1.5   	neg = 0.0  
+29. Throughout their jou                ... pos = 1.125 	neg = 0.25 
+30. We learn of Captain                 ... pos = 0.0   	neg = 0.875
+31. Also, they find Jame                ... pos = 0.0   	neg = 0.0  
+32. And yet through all                 ... pos = 0.75  	neg = 0.125
+33. All in all, they fin                ... pos = 0.125 	neg = 0.0  
+34. It is a truly inspir                ... pos = 1.0   	neg = 0.25 
+35. Saving Private Ryan                 ... pos = 1.0   	neg = 0.125
+36. Throughout the film,                ... pos = 0.0   	neg = 0.25 
+37. He yet again utilize                ... pos = 0.25  	neg = 0.0  
+38. Spielberg truly does                ... pos = 2.0   	neg = 0.0  
+39. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-493 is Positive         ... pos = 21.125 	neg = 6.625
+Overall score of document
+Total Pos = 21.125
+Total Neg = 6.625
+---------------------------------------------------------------------------

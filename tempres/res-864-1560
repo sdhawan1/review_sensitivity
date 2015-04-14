@@ -1,0 +1,21 @@
+0. The Hurricane (1999)                 ... pos = 1.125 	neg = 0.375
+1. Filled to the brim w                 ... pos = 1.5   	neg = 0.125
+2. Denzel Washington's                  ... pos = 1.5   	neg = 0.25 
+3. How turbulent was hi                 ... pos = 0.0   	neg = 0.125
+4. For starters, at age                 ... pos = 0.0   	neg = 0.625
+5. But Carter carried t                 ... pos = 1.375 	neg = 0.125
+6. While behind bars, h                 ... pos = 0.5   	neg = 0.125
+7. It was he, along wit                 ... pos = 0.875 	neg = 0.875
+8. Of course, who knows                 ... pos = 1.25  	neg = 0.125
+9. Rumor has it that th                 ... pos = 1.875 	neg = 0.125
+10. The facts of the cas                ... pos = 0.75  	neg = 0.625
+11. Then again, The Hurr                ... pos = 0.0   	neg = 0.125
+12. Employing the concep                ... pos = 0.5   	neg = 0.375
+13. Aided by a stellar c                ... pos = 0.125 	neg = 0.0  
+14. *Find all of Jason's                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-864-1560 is Positive         ... pos = 11.375 	neg = 4.0  
+Overall score of document
+Total Pos = 11.375
+Total Neg = 4.0
+---------------------------------------------------------------------------

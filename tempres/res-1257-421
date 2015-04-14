@@ -1,0 +1,33 @@
+0. rated R Touchstone P                 ... pos = 0.5   	neg = 0.0  
+1. He has continuously                  ... pos = 1.125 	neg = 0.0  
+2. I don't know Spike L                 ... pos = 0.125 	neg = 0.125
+3. Not for racial toler                 ... pos = 0.25  	neg = 0.0  
+4. Lee, while being qui                 ... pos = 0.625 	neg = 0.625
+5. "Do The Right Thing"                 ... pos = 1.0   	neg = 0.5  
+6. The latest Spike Lee                 ... pos = 0.25  	neg = 0.125
+7. There is not a singl                 ... pos = 0.875 	neg = 0.75 
+8. But in later scenes,                 ... pos = 0.25  	neg = 0.0  
+9. "Summer Of Sam" is r                 ... pos = 0.0   	neg = 0.5  
+10. Son Of Sam) commited                ... pos = 0.375 	neg = 0.375
+11. As journalist Jimmy                 ... pos = 0.0   	neg = 0.0  
+12. John Leguizamo plays                ... pos = 0.5   	neg = 0.375
+13. One night, while che                ... pos = 0.125 	neg = 0.375
+14. His best friend, Rit                ... pos = 0.625 	neg = 0.75 
+15. When a mob boss(Ben                 ... pos = 0.25  	neg = 0.25 
+16. Then, a heat wave kn                ... pos = 0.5   	neg = 0.125
+17. Although Spike Lee h                ... pos = 1.125 	neg = 0.0  
+18. At times, I was unsu                ... pos = 1.25  	neg = 0.25 
+19. John Leguizamo and A                ... pos = 0.875 	neg = 0.0  
+20. Spike Lee takes on S                ... pos = 0.0   	neg = 0.125
+21. While "Summer Of Sam                ... pos = 0.0   	neg = 0.75 
+22. Also, Lee doesn't st                ... pos = 0.25  	neg = 0.75 
+23. Despite the many fla                ... pos = 0.5   	neg = 0.375
+24. While I still don't                 ... pos = 0.375 	neg = 0.0  
+25. Overly ambitious, ov                ... pos = 0.5   	neg = 0.375
+26. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1257-421 is Positive         ... pos = 12.25 	neg = 7.625
+Overall score of document
+Total Pos = 12.25
+Total Neg = 7.625
+---------------------------------------------------------------------------

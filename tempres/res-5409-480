@@ -1,0 +1,33 @@
+0. WARNING: Contains wh                 ... pos = 0.0   	neg = 0.125
+1. Starring: Keanu Reev                 ... pos = 0.0   	neg = 0.125
+2. I'll tell you I was.                 ... pos = 0.0   	neg = 0.125
+3. I sat there and sat                  ... pos = 0     	neg = 1.125
+4. Now wait wait, I kno                 ... pos = 0.5   	neg = 0.0  
+5. What I'm saying is t                 ... pos = 0.75  	neg = 0.25 
+6. Now seeing the trail                 ... pos = 0.0   	neg = 0.125
+7. Don't be fooled, thi                 ... pos = 0.0   	neg = 0.125
+8. And big chunks of ta                 ... pos = 0.25  	neg = 0.0  
+9. But I will admit the                 ... pos = 0.875 	neg = 0.375
+10. Ok now to the story.                ... pos = 0.0   	neg = 0.0  
+11. Well this may take a                ... pos = 0.0   	neg = 0    
+12. Ok first of all, our                ... pos = 0.125 	neg = 0.125
+13. A man played by Kean                ... pos = 0.25  	neg = 0.25 
+14. He does so, and find                ... pos = 0.125 	neg = 0.25 
+15. But he has to fight                 ... pos = 0.125 	neg = 0.875
+16. Laurence Fishburne,                 ... pos = 0.875 	neg = 0.0  
+17. But I sat in the the                ... pos = 0.0   	neg = 0.75 
+18. Yeah there were some                ... pos = 0.125 	neg = 0.125
+19. The trailer for this                ... pos = 0.0   	neg = 0.25 
+20. Now for the second h                ... pos = 0.0   	neg = 0.125
+21. Some of the special                 ... pos = 0.25  	neg = 0.375
+22. The sound, the music                ... pos = 0.375 	neg = 0.375
+23. But with a running t                ... pos = 0.125 	neg = 0.75 
+24. One would have wishe                ... pos = 0.25  	neg = 0.125
+25. Reviewed April 5, 19                ... pos = 0.0   	neg = 0.0  
+26. Brandon Herring Movi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-480 is Negative         ... pos = 5.125 	neg = 6.75 
+Overall score of document
+Total Pos = 5.125
+Total Neg = 6.75
+---------------------------------------------------------------------------

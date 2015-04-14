@@ -1,0 +1,79 @@
+0. Starring: John C. Re                 ... pos = 0.25  	neg = 0.75 
+1. Like a Robert Altman                 ... pos = 0.125 	neg = 0.0  
+2. He leaps between dis                 ... pos = 1.5   	neg = 0.25 
+3. But Anderson has som                 ... pos = 0.0   	neg = 0.0  
+4. Without giving too m                 ... pos = 1.125 	neg = 0.5  
+5. And it's not particu                 ... pos = 0.125 	neg = 0.0  
+6. The film concludes i                 ... pos = 0.125 	neg = 0.125
+7. As the millennium ap                 ... pos = 0.375 	neg = 0.0  
+8. These knuckleheads m                 ... pos = 0.75  	neg = 0.375
+9. Of course nothing di                 ... pos = 0.625 	neg = 0.25 
+10. (Please excuse me fo                ... pos = 0.25  	neg = 0.75 
+11. These kind of sentim                ... pos = 1.375 	neg = 0.25 
+12. We like to think tha                ... pos = 1.0   	neg = 2.0  
+13. Life is a series of                 ... pos = 0.375 	neg = 0.125
+14. I don't believe that                ... pos = 0.5   	neg = 0.0  
+15. Some will say that i                ... pos = 0.25  	neg = 0.25 
+16. However, one somewha                ... pos = 0.125 	neg = 0.0  
+17. This man chortled lo                ... pos = 0.125 	neg = 0.125
+18. " I don't think it i                ... pos = 0.0   	neg = 0.125
+19. The ending coheres w                ... pos = 0.125 	neg = 0.125
+20. Often when a filmmak                ... pos = 0.0   	neg = 0.5  
+21. But Anderson puts ju                ... pos = 1.5   	neg = 0.0  
+22. His story takes plac                ... pos = 0.875 	neg = 0.125
+23. They exist in their                 ... pos = 0.375 	neg = 0.0  
+24. But we see it all, a                ... pos = 0.125 	neg = 0.0  
+25. So what is this thin                ... pos = 0     	neg = 0.125
+26. It's about our past                 ... pos = 0.0   	neg = 1.0  
+27. But we expect it to                 ... pos = 0.0   	neg = 0.0  
+28. Maybe those who reac                ... pos = 0.0   	neg = 0.0  
+29. There is nothing pre                ... pos = 0.0   	neg = 0.75 
+30. Anderson has brazenl                ... pos = 0.625 	neg = 0.0  
+31. Audiences may like b                ... pos = 2.25  	neg = 0.625
+32. Anderson introduces                 ... pos = 0.625 	neg = 0.25 
+33. Other scenes left me                ... pos = 0.0   	neg = 0.0  
+34. The characters are i                ... pos = 1.125 	neg = 0.625
+35. Jason Robards is an                 ... pos = 0.25  	neg = 0.5  
+36. Julianne Moore (esse                ... pos = 0.5   	neg = 0.0  
+37. Robards is looked af                ... pos = 0.0   	neg = 0.125
+38. Tom Cruise is Robard                ... pos = 0.5   	neg = 0.5  
+39. Cruise is constantly                ... pos = 0.125 	neg = 0.125
+40. " with such convicti                ... pos = 0.0   	neg = 0.125
+41. It's a brave perform                ... pos = 0.0   	neg = 0.0  
+42. Cruise has a virtuou                ... pos = 1.125 	neg = 0.875
+43. Though Cruise does p                ... pos = 0.875 	neg = 0.875
+44. Another character is                ... pos = 1.0   	neg = 0.25 
+45. Hall speaks in an ur                ... pos = 0.125 	neg = 0.0  
+46. He has a likeable de                ... pos = 0.5   	neg = 0    
+47. Gator's pug-nosed, c                ... pos = 0.0   	neg = 0.75 
+48. He remains estranged                ... pos = 0.375 	neg = 0    
+49. Rose is so traumatiz                ... pos = 0.75  	neg = 0.75 
+50. This doesn't stop a                 ... pos = 0.0   	neg = 0.25 
+51. If anyone has the mo                ... pos = 3.0   	neg = 0.125
+52. Along with Hoffman,                 ... pos = 0.375 	neg = 0.0  
+53. The Game Show is an                 ... pos = 0.125 	neg = 0.125
+54. The current child st                ... pos = 0.125 	neg = 0.125
+55. Spector is idly in t                ... pos = 0.125 	neg = 0.75 
+56. Then finally, there                 ... pos = 0.5   	neg = 0.5  
+57. Anderson shoots this                ... pos = 0.25  	neg = 0.125
+58. At times he seems to                ... pos = 1.125 	neg = 0.375
+59. He utilizes expansiv                ... pos = 0.0   	neg = 0.375
+60. While that's a sure                 ... pos = 0.25  	neg = 0.125
+61. The film has constan                ... pos = 0.375 	neg = 0.0  
+62. In one affecting seq                ... pos = 0.375 	neg = 0.875
+63. It's a distressing m                ... pos = 0.125 	neg = 0.875
+64. The reaction is subs                ... pos = 0.25  	neg = 0.125
+65. Though MAGNOLIA is c                ... pos = 1.625 	neg = 0.25 
+66. His dialogue and the                ... pos = 1.0   	neg = 0.125
+67. They stutter, stumbl                ... pos = 0.364 	neg = 0.625
+68. They talk about inco                ... pos = 1.25  	neg = 0.0  
+69. Anderson takes a big                ... pos = 1.0   	neg = 0.0  
+70. But it's well worth                 ... pos = 0.625 	neg = 0.0  
+71. At three hours, MAGN                ... pos = 1.0   	neg = 0.125
+72. http://www.geocities                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4191-926 is Positive         ... pos = 36.614 	neg = 20.75
+Overall score of document
+Total Pos = 36.614
+Total Neg = 20.75
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. Jim Carrey plays Tru                 ... pos = 0.0   	neg = 0.0  
+1. Little does he know                  ... pos = 0.125 	neg = 0.375
+2. He is surrounded by                  ... pos = 1.0   	neg = 0.375
+3. "The Truman Show" is                 ... pos = 0.5   	neg = 0.25 
+4. Jim Carrey, known mo                 ... pos = 1.75  	neg = 0.0  
+5. Carrey is so believa                 ... pos = 1.875 	neg = 0.875
+6. He also uses humor t                 ... pos = 0.75  	neg = 0.0  
+7. Ed Harris gives one                  ... pos = 1.125 	neg = 0.125
+8. Harris adds a powerf                 ... pos = 1.25  	neg = 0.375
+9. Peter Weir masterful                 ... pos = 0.5   	neg = 0.25 
+10. Weir also creates a                 ... pos = 0.5   	neg = 0.25 
+11. He cleverly displays                ... pos = 1.25  	neg = 1.0  
+12. Throughout the movie                ... pos = 0.75  	neg = 0.0  
+13. The Truman Show is n                ... pos = 0.0   	neg = 0.125
+14. Its detailed 1984-is                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5847-778 is Positive         ... pos = 12.0  	neg = 4.0  
+Overall score of document
+Total Pos = 12.0
+Total Neg = 4.0
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. Release Date: May 15                 ... pos = 0.75  	neg = 0.0  
+1. The three or four ma                 ... pos = 3.0   	neg = 0.0  
+2. And although that sh                 ... pos = 1.75  	neg = 0.25 
+3. It's been hailed as                  ... pos = 1.375 	neg = 0.25 
+4. Redford directs hims                 ... pos = 0.375 	neg = 0.0  
+5. His skills as both a                 ... pos = 1.5   	neg = 0.0  
+6. Fortunately, the res                 ... pos = 0.625 	neg = 0.125
+7. Kristin Scott Thomas                 ... pos = 0.125 	neg = 0.0  
+8. Believable as everyo                 ... pos = 0.875 	neg = 0.375
+9. No one in the cast a                 ... pos = 2.25  	neg = 0.75 
+10. The movie begins wit                ... pos = 0.125 	neg = 0.0  
+11. Tragically, though,                 ... pos = 0.25  	neg = 0.125
+12. The collision kills                 ... pos = 0.0   	neg = 0.0  
+13. Annie (Scott Thomas)                ... pos = 0.5   	neg = 0.0  
+14. For lack of anything                ... pos = 0.25  	neg = 0.125
+15. It's from here on, t                ... pos = 0.25  	neg = 0.125
+16. The photography of M                ... pos = 0.375 	neg = 0.125
+17. This movie may certa                ... pos = 1.625 	neg = 0.0  
+18. THE HORSE WHISPERER                 ... pos = 0.25  	neg = 0.0  
+19. It runs almost three                ... pos = 0.5   	neg = 0.0  
+20. Rather, it relies on                ... pos = 3.375 	neg = 0.0  
+21. This strategy works                 ... pos = 0.875 	neg = 0.0  
+22. Other than its lack                 ... pos = 0.75  	neg = 1.25 
+23. FINAL AWARD FOR "THE                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5766-700 is Positive         ... pos = 23.0  	neg = 3.5  
+Overall score of document
+Total Pos = 23.0
+Total Neg = 3.5
+---------------------------------------------------------------------------

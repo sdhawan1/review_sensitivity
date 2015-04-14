@@ -1,0 +1,47 @@
+0. What do you do when                  ... pos = 0.75  	neg = 0.125
+1. You hire the person                  ... pos = 0.25  	neg = 0.125
+2. You hire the Jackal.                 ... pos = 0     	neg = 0.0  
+3. The man that the CIA                 ... pos = 0.0   	neg = 0.0  
+4. What do you do if yo                 ... pos = 1.0   	neg = 0.0  
+5. If you're the FBI, y                 ... pos = 1.0   	neg = 0.125
+6. Now you have a bit o                 ... pos = 0.0   	neg = 0.125
+7. The plot of this mov                 ... pos = 0.0   	neg = 0.625
+8. There are gaps left                  ... pos = 0.25  	neg = 0.0  
+9. On more than one occ                 ... pos = 0.5   	neg = 0.0  
+10. For example the thre                ... pos = 0.125 	neg = 0.125
+11. That the two main ma                ... pos = 1.125 	neg = 0.125
+12. This is what happens                ... pos = 0.0   	neg = 0.125
+13. That plot line has b                ... pos = 0.0   	neg = 0.125
+14. Although I am not 10                ... pos = 0.375 	neg = 0.25 
+15. Also if you are goin                ... pos = 0.25  	neg = 1.125
+16. I do have to say one                ... pos = 0.0   	neg = 0.0  
+17. The build up was wel                ... pos = 0.0   	neg = 0.25 
+18. The ending, well I'l                ... pos = 0.0   	neg = 0.0  
+19. Too predictable, and                ... pos = 0.0   	neg = 0.75 
+20. Somethings just seem                ... pos = 0.875 	neg = 0.375
+21. The build up for thi                ... pos = 0.75  	neg = 0.25 
+22. OK, it wasn't that g                ... pos = 0.0   	neg = 1.125
+23. It raises the expect                ... pos = 0.75  	neg = 0.25 
+24. The style this movie                ... pos = 0.25  	neg = 1.125
+25. The characters for t                ... pos = 1.5   	neg = 0.125
+26. The acting for this                 ... pos = 0.0   	neg = 0.25 
+27. I think that the cas                ... pos = 0.75  	neg = 1.0  
+28. Bruce Willis played                 ... pos = 1.75  	neg = 2.0  
+29. Richard Gere, also p                ... pos = 0.75  	neg = 0.125
+30. Some of his manneris                ... pos = 0.0   	neg = 0.625
+31. Sorry Mr. Gere(if yo                ... pos = 0.375 	neg = 1.5  
+32. All in all, I would                 ... pos = 0.125 	neg = 0.25 
+33. It is something of a                ... pos = 0.0   	neg = 0.125
+34. It is a pretty fun w                ... pos = 0.75  	neg = 1.0  
+35. But then again, isn'                ... pos = 0.0   	neg = 0.0  
+36. I wouldn't recommend                ... pos = 0.375 	neg = 0.125
+37. Some suspense, some                 ... pos = 0.125 	neg = 0.125
+38. The movie isn't near                ... pos = 0.75  	neg = 0.125
+39. I rate this movie *{                ... pos = 0     	neg = 0.0  
+40. The potential was th                ... pos = 0     	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4087-1216 is Positive        ... pos = 15.5  	neg = 14.625
+Overall score of document
+Total Pos = 15.5
+Total Neg = 14.625
+---------------------------------------------------------------------------

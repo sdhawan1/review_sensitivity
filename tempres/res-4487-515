@@ -1,0 +1,31 @@
+0. Independence Day (19                 ... pos = 0.0   	neg = 0.125
+1. This is the greatest                 ... pos = 0.875 	neg = 0.125
+2. I repeat, this is th                 ... pos = 0.875 	neg = 0.125
+3. This is exactly what                 ... pos = 0.125 	neg = 0.25 
+4. It's fun, loud, tens                 ... pos = 0.625 	neg = 0.125
+5. Unless you've been l                 ... pos = 0.0   	neg = 0.25 
+6. If for some reason y                 ... pos = 0.0   	neg = 0.0  
+7. That's it.                           ... pos = 0.0   	neg = 0    
+8. That's all there is.                 ... pos = 0.0   	neg = 0.125
+9. But it's more than e                 ... pos = 0.0   	neg = 0.0  
+10. With that you get ma                ... pos = 0.0   	neg = 0.375
+11. This is a great roll                ... pos = 0.0   	neg = 0.125
+12. That's not to say it                ... pos = 0.0   	neg = 0.25 
+13. The plot isn't exact                ... pos = 0.5   	neg = 0.0  
+14. Some scenes seem to                 ... pos = 0.125 	neg = 0.875
+15. The music, which is                 ... pos = 1.375 	neg = 0.875
+16. Also, Randy Quaid pl                ... pos = 0.0   	neg = 0.0  
+17. Yet, even though the                ... pos = 1.5   	neg = 0.625
+18. But, all of these th                ... pos = 1.125 	neg = 0.25 
+19. To be a successful s                ... pos = 1.0   	neg = 0.25 
+20. ID4 succeeds fantast                ... pos = 0.375 	neg = 0.0  
+21. For two and a half h                ... pos = 0.5   	neg = 0.125
+22. ID4 needs to be seen                ... pos = 0.125 	neg = 0.375
+23. Director Roland Emme                ... pos = 0.5   	neg = 0.0  
+24. Please visit my movi                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4487-515 is Positive         ... pos = 9.875 	neg = 5.375
+Overall score of document
+Total Pos = 9.875
+Total Neg = 5.375
+---------------------------------------------------------------------------

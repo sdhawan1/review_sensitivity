@@ -1,0 +1,59 @@
+0. Director: Barry Levi                 ... pos = 0.75  	neg = 0.75 
+1. There isn't a chance                 ... pos = 1.0   	neg = 0.0  
+2. Each character seems                 ... pos = 1.5   	neg = 0.375
+3. Directed by Barry Le                 ... pos = 0.375 	neg = 0.875
+4. But I didn't like it                 ... pos = 0.0   	neg = 0.0  
+5. It has almost nothin                 ... pos = 0.625 	neg = 0.25 
+6. And I'm torn here, b                 ... pos = 0.125 	neg = 0.125
+7. It is a satire--and                  ... pos = 3.875 	neg = 1.25 
+8. In fact, I didn't.                   ... pos = 0.0   	neg = 0.0  
+9. I squirmed a lot.                    ... pos = 0.0   	neg = 0.0  
+10. Maybe I should recom                ... pos = 0.25  	neg = 0.375
+11. The simple fact is t                ... pos = 0.375 	neg = 0.125
+12. Robert De Niro stars                ... pos = 0.0   	neg = 0.125
+13. This, of course, mea                ... pos = 0.375 	neg = 0.0  
+14. They stage ten secon                ... pos = 0.25  	neg = 0.25 
+15. They hire a songwrit                ... pos = 0.625 	neg = 0.0  
+16. Later, they even cre                ... pos = 0.0   	neg = 0.125
+17. His name is Schumann                ... pos = 0.0   	neg = 0.25 
+18. The public refers to                ... pos = 0.875 	neg = 0.125
+19. I never thought I'd                 ... pos = 0.125 	neg = 0.0  
+20. " This film is beyon                ... pos = 0.0   	neg = 0.125
+21. "Acidic" doesn't eve                ... pos = 0.0   	neg = 0.5  
+22. If you dropped a ree                ... pos = 0.125 	neg = 0.625
+23. Okay, so I'm going a                ... pos = 0.0   	neg = 0.375
+24. I did think a lot of                ... pos = 0.5   	neg = 0.125
+25. The whole business i                ... pos = 0.0   	neg = 0.125
+26. Just the thought of                 ... pos = 0.25  	neg = 0.5  
+27. Much of the film is                 ... pos = 0.375 	neg = 0.375
+28. This film also takes                ... pos = 1.25  	neg = 0.0  
+29. It's just that I fou                ... pos = 0.0   	neg = 0.0  
+30. .                                   ... pos = 0     	neg = 0    
+31. .                                   ... pos = 0     	neg = 0    
+32. lifeless.                           ... pos = 0     	neg = 0.5  
+33. Sure, the comedy is                 ... pos = 0.625 	neg = 0.125
+34. The sheer effort tha                ... pos = 0.25  	neg = 0.25 
+35. But for the most par                ... pos = 0.0   	neg = 0.25 
+36. Scenes fumble from o                ... pos = 0.0   	neg = 0.125
+37. For example, as they                ... pos = 0.0   	neg = 0.25 
+38. It didn't seem to ha                ... pos = 0.125 	neg = 0.25 
+39. In addition, I find                 ... pos = 1.25  	neg = 1.125
+40. Films that I conside                ... pos = 2.0   	neg = 0.0  
+41. I realize that Wag t                ... pos = 1.375 	neg = 1.625
+42. De Niro plays Conrad                ... pos = 0.25  	neg = 0.375
+43. Hoffman, on the othe                ... pos = 0.375 	neg = 1.75 
+44. Even the supporting                 ... pos = 1.25  	neg = 0.125
+45. And so, I am put in                 ... pos = 0.375 	neg = 0.125
+46. Should I recommend t                ... pos = 0.75  	neg = 0.0  
+47. I suppose that's wha                ... pos = 0     	neg = 0.0  
+48. I, however, like to                 ... pos = 0.125 	neg = 0.0  
+49. Even films as entire                ... pos = 0.5   	neg = 0.375
+50. Wag the Dog has a un                ... pos = 0.5   	neg = 0.625
+51. I fear that if they                 ... pos = 2.625 	neg = 0.25 
+52. I'm more inclined to                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4231-760 is Positive         ... pos = 26.625 	neg = 15.875
+Overall score of document
+Total Pos = 26.625
+Total Neg = 15.875
+---------------------------------------------------------------------------

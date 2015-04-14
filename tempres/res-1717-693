@@ -1,0 +1,40 @@
+0. It depends on your b                 ... pos = 0.625 	neg = 0.0  
+1. Critics and audience                 ... pos = 2.125 	neg = 0.375
+2. Arlington Road was f                 ... pos = 0.375 	neg = 0.25 
+3. But, after the viole                 ... pos = 0.5   	neg = 0.125
+4. All the more so beca                 ... pos = 0.125 	neg = 0.0  
+5. It seemed nearly imp                 ... pos = 0.375 	neg = 0.125
+6. The film does have b                 ... pos = 0.125 	neg = 0.0  
+7. Jeff Bridges, lookin                 ... pos = 0.875 	neg = 0.0  
+8. He has a nine-year o                 ... pos = 0.375 	neg = 0.0  
+9. agent who was killed                 ... pos = 0.0   	neg = 0.0  
+10. In a tense prologue,                ... pos = 0.375 	neg = 0.5  
+11. After driving him to                ... pos = 0.75  	neg = 0.0  
+12. It turns out the Lan                ... pos = 0.0   	neg = 0.0  
+13. But perhaps there is                ... pos = 0.125 	neg = 0.125
+14. Faraday, a man so pa                ... pos = 0.375 	neg = 0.75 
+15. He starts digging, d                ... pos = 0.5   	neg = 0.25 
+16. After discovering a                 ... pos = 0.5   	neg = 0.125
+17. His current girlfrie                ... pos = 1.375 	neg = 0.25 
+18. To watch Arlington R                ... pos = 0.875 	neg = 0.125
+19. Bridges is terrific;                ... pos = 0.25  	neg = 1.0  
+20. And while Robbins an                ... pos = 2.25  	neg = 0.0  
+21. The latter, in parti                ... pos = 0.125 	neg = 0.125
+22. And Tim Robbins has                 ... pos = 0.875 	neg = 0.125
+23. Still, there's a cer                ... pos = 0.75  	neg = 0.0  
+24. That's a pretty frig                ... pos = 0.25  	neg = 0.125
+25. ' But good for a liv                ... pos = 0.75  	neg = 0.25 
+26. Most viewers will be                ... pos = 0.875 	neg = 0.375
+27. The script, which st                ... pos = 0.0   	neg = 0.625
+28. Luckily, the action                 ... pos = 1.625 	neg = 0.125
+29. Some may find it unn                ... pos = 0.125 	neg = 0.25 
+30. If Arlington Road ha                ... pos = 0.875 	neg = 0.125
+31. Footnote: A good inv                ... pos = 1.625 	neg = 0.125
+32. Ha, ha.                             ... pos = 0     	neg = 0.0  
+33. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1717-693 is Positive         ... pos = 20.75 	neg = 6.25 
+Overall score of document
+Total Pos = 20.75
+Total Neg = 6.25
+---------------------------------------------------------------------------

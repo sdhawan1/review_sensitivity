@@ -1,0 +1,28 @@
+0. Mike Myers's follow-                 ... pos = 1.0   	neg = 0.375
+1. To call it sophomori                 ... pos = 0.0   	neg = 0.375
+2. And to call it funny                 ... pos = 0.0   	neg = 0.125
+3. It's not all funny,                  ... pos = 0.0   	neg = 0.0  
+4. A lot of toilet humo                 ... pos = 0.125 	neg = 0.375
+5. But Mike Myers is a                  ... pos = 0.125 	neg = 0.125
+6. Evil still have some                 ... pos = 0.75  	neg = 0.75 
+7. He tries a third per                 ... pos = 0.0   	neg = 0.75 
+8. If you think you mig                 ... pos = 1.0   	neg = 0.625
+9. But if you're up to                  ... pos = 0.0   	neg = 0.0  
+10. At the close of Powe                ... pos = 0.0   	neg = 0.0  
+11. Evil and married the                ... pos = 0.75  	neg = 0.75 
+12. But marriage isn't                  ... pos = 1.625 	neg = 0.0  
+13. The bad doctor  reap                ... pos = 0.125 	neg = 1.75 
+14. He then constructs a                ... pos = 0.125 	neg = 0.875
+15. The plot is all in t                ... pos = 0.0   	neg = 0.125
+16. Product placement fi                ... pos = 0.0   	neg = 0.0  
+17. Evil locating his he                ... pos = 0.0   	neg = 0.75 
+18. There  are good gags                ... pos = 1.375 	neg = 3.375
+19. Sometimes a joke wor                ... pos = 0.0   	neg = 0.5  
+20. Sometimes once is to                ... pos = 0.125 	neg = 0.375
+21. If you're still in y                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1376-258 is Negative         ... pos = 7.125 	neg = 12.375
+Overall score of document
+Total Pos = 7.125
+Total Neg = 12.375
+---------------------------------------------------------------------------

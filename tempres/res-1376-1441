@@ -1,0 +1,32 @@
+0. So, in the wee early                 ... pos = 0.125 	neg = 0.0  
+1. Ah, well, it's defin                 ... pos = 0.25  	neg = 0.0  
+2. Uttering "Austin Pow                 ... pos = 0.0   	neg = 0.0  
+3. "Austin Powers" had                  ... pos = 0.0   	neg = 0.0  
+4. We can take it a bit                 ... pos = 0.375 	neg = 0.0  
+5. Evil is, like, the l                 ... pos = 0.625 	neg = 1.375
+6. Well, I could have d                 ... pos = 0.125 	neg = 0.0  
+7. "Austin Powers" is a                 ... pos = 0.75  	neg = 0.125
+8. Some things go on fo                 ... pos = 0.125 	neg = 0.625
+9. What plot there is c                 ... pos = 0     	neg = 0.125
+10. Evil going back in t                ... pos = 0.125 	neg = 0.75 
+11. This is basically an                ... pos = 1.5   	neg = 2.125
+12. Dr.                                 ... pos = 0     	neg = 0    
+13. Evil trying and badl                ... pos = 0.125 	neg = 1.75 
+14. "), a sort of consci                ... pos = 0.125 	neg = 0.25 
+15. Austin himself was l                ... pos = 0.875 	neg = 0.125
+16. I'm starting to thin                ... pos = 1.875 	neg = 0.875
+17. But I could be wrong                ... pos = 0     	neg = 0.875
+18. I've only watched on                ... pos = 0.0   	neg = 0.125
+19. I actually didn't li                ... pos = 0.125 	neg = 0.0  
+20. It plodded along: on                ... pos = 0.0   	neg = 0.75 
+21. That's material for                 ... pos = 1.0   	neg = 0.125
+22. This new movie just                 ... pos = 1.25  	neg = 0.875
+23. Oh, stay for the ent                ... pos = 0.0   	neg = 0.0  
+24. Little skits in the                 ... pos = 0.0   	neg = 0.25 
+25. And the DVD for this                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1376-1441 is Negative        ... pos = 9.375 	neg = 11.125
+Overall score of document
+Total Pos = 9.375
+Total Neg = 11.125
+---------------------------------------------------------------------------

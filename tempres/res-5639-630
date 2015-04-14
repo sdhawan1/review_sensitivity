@@ -1,0 +1,48 @@
+0. When cinema's histor                 ... pos = 1.375 	neg = 0.0  
+1. Great as he is, howe                 ... pos = 0.5   	neg = 0.25 
+2. A cursory look at hi                 ... pos = 0.125 	neg = 0.375
+3. Shakespeare, he isn'                 ... pos = 0.0   	neg = 0    
+4. _Analyze This_, to m                 ... pos = 0.125 	neg = 0.625
+5. He's a tough gangste                 ... pos = 0.125 	neg = 0.125
+6. De Niro plays Paul V                 ... pos = 0.375 	neg = 0.375
+7. "  He secretly pulls                 ... pos = 0.25  	neg = 0.25 
+8. Complications ensue.                 ... pos = 0.0   	neg = 0    
+9. Hilarity is blueprin                 ... pos = 0.5   	neg = 0.125
+10. The comic apex is ho                ... pos = 0.0   	neg = 0.125
+11. You'd think De Niro                 ... pos = 0.0   	neg = 0.625
+12. Not quite.                          ... pos = 0.0   	neg = 0    
+13. The result is terrib                ... pos = 0.0   	neg = 0.375
+14. The opening scenes h                ... pos = 0.625 	neg = 0.125
+15. Sure, it's funny, bu                ... pos = 0.375 	neg = 0.125
+16. Are these two carica                ... pos = 0.25  	neg = 0    
+17. I'm pretty good at s                ... pos = 0.875 	neg = 0.125
+18. Worse off, there's n                ... pos = 0.375 	neg = 1.375
+19. He's had to deal wit                ... pos = 0.625 	neg = 0.125
+20. And is there any gui                ... pos = 0.0   	neg = 0.125
+21. No.                                 ... pos = 0     	neg = 0.25 
+22. Because I can't acce                ... pos = 0.25  	neg = 0.0  
+23. Simple as that.                     ... pos = 0.0   	neg = 0    
+24. Billy Crystal tries                 ... pos = 0.0   	neg = 1.25 
+25. This is a role _anyb                ... pos = 0.0   	neg = 0.125
+26. He's just the straig                ... pos = 0.25  	neg = 0.5  
+27. Did you know Lisa Ku                ... pos = 0.0   	neg = 0.125
+28. Wasted.                             ... pos = 0     	neg = 0.375
+29. Bill Macy?                          ... pos = 0.0   	neg = 0    
+30. Wasted.                             ... pos = 0     	neg = 0.375
+31. Molly Shannon?                      ... pos = 0     	neg = 0.0  
+32. I don't even remembe                ... pos = 0.125 	neg = 0.0  
+33. A cameo from Tony Be                ... pos = 0.0   	neg = 0.5  
+34. Been there, done tha                ... pos = 0.0   	neg = 0.125
+35. The film's saving gr                ... pos = 0.0   	neg = 0.125
+36. In perhaps the most                 ... pos = 0.625 	neg = 0.25 
+37. He gets the laughs,                 ... pos = 0.875 	neg = 0.0  
+38. In summary, AT has a                ... pos = 0.75  	neg = 0.0  
+39. Previews are good li                ... pos = 1.0   	neg = 0.0  
+40. They rat-tat-tat the                ... pos = 0.125 	neg = 0.375
+41. They don't carry the                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5639-630 is Positive         ... pos = 10.5  	neg = 9.625
+Overall score of document
+Total Pos = 10.5
+Total Neg = 9.625
+---------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+0. South Park: Bigger,                  ... pos = 0.0   	neg = 0.0  
+1. US Distribution: War                 ... pos = 1.375 	neg = 0.75 
+2. I can honestly say t                 ... pos = 0.0   	neg = 0.25 
+3. While walking out of                 ... pos = 0.375 	neg = 0.125
+4. Perhaps that's true;                 ... pos = 0.25  	neg = 0.25 
+5. And often I couldn't                 ... pos = 0.125 	neg = 0.125
+6. The story has our fo                 ... pos = 0.125 	neg = 0.625
+7. Created almost entir                 ... pos = 0.625 	neg = 0.0  
+8. South Park overflows                 ... pos = 0.0   	neg = 0.125
+9. The film is so bitin                 ... pos = 0.375 	neg = 1.25 
+10. Parker and Stone foc                ... pos = 1.125 	neg = 0.625
+11. But it's still a qui                ... pos = 0.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5926-760 is Positive         ... pos = 4.875 	neg = 4.5  
+Overall score of document
+Total Pos = 4.875
+Total Neg = 4.5
+---------------------------------------------------------------------------

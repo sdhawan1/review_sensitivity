@@ -1,0 +1,48 @@
+0. Starring Denzel Wash                 ... pos = 0.0   	neg = 0.125
+1. But, make no mistake                 ... pos = 0.0   	neg = 0.875
+2. Although, it does tr                 ... pos = 0.5   	neg = 0.75 
+3. Including generous u                 ... pos = 0.25  	neg = 0.25 
+4. Denzel Washington pl                 ... pos = 0.0   	neg = 0.0  
+5. Rhyme now only has m                 ... pos = 0.0   	neg = 0.25 
+6. But even though he i                 ... pos = 1.375 	neg = 0.25 
+7. This is one of those                 ... pos = 0.0   	neg = 0.125
+8. A serial killer call                 ... pos = 0.0   	neg = 1.0  
+9. He then brutally kil                 ... pos = 0.625 	neg = 0.625
+10. Angelina Jolie plays                ... pos = 0.25  	neg = 0.0  
+11. So much so, that he                 ... pos = 0.25  	neg = 0.0  
+12. She is to serve as h                ... pos = 0.0   	neg = 0.125
+13. No surprise that the                ... pos = 0.625 	neg = 0.625
+14. First, let me say th                ... pos = 1.125 	neg = 0.0  
+15. Like the movie that                 ... pos = 0.625 	neg = 0.125
+16. Unlike Seven, which                 ... pos = 0.125 	neg = 0.25 
+17. A great soundtrack a                ... pos = 0.125 	neg = 0.0  
+18. Washington may have                 ... pos = 0.375 	neg = 0.0  
+19. It is truly a credit                ... pos = 1.0   	neg = 0.5  
+20. But as good as Washi                ... pos = 0.75  	neg = 0.25 
+21. This is really Jolie                ... pos = 0.5   	neg = 0.125
+22. The fact that she is                ... pos = 0.75  	neg = 0.125
+23. Am I the only one th                ... pos = 0.0   	neg = 0.125
+24. Washington and Jolie                ... pos = 0.375 	neg = 0.0  
+25. Michael Rooker (Clif                ... pos = 0.5   	neg = 0.25 
+26. Queen Latifah also d                ... pos = 0.125 	neg = 0    
+27. The two biggest surp                ... pos = 0.0   	neg = 0.125
+28. O'Neill plays the le                ... pos = 0.125 	neg = 0.25 
+29. But the biggest trea                ... pos = 0.0   	neg = 0.125
+30. He had some of the b                ... pos = 0.375 	neg = 0.125
+31. My only complaint wi                ... pos = 0.0   	neg = 0.125
+32. The comparisons betw                ... pos = 1.0   	neg = 0.125
+33. But The Bone Collect                ... pos = 0.5   	neg = 0.125
+34. If I had one major c                ... pos = 0.0   	neg = 0.125
+35. Without giving anyth                ... pos = 0.5   	neg = 1.625
+36. I haven't read the n                ... pos = 0.0   	neg = 0.125
+37. Knowing how clever t                ... pos = 0.625 	neg = 0.5  
+38. Regardless of its fl                ... pos = 0.0   	neg = 0.125
+39. The story is enterta                ... pos = 1.0   	neg = 0.25 
+40. But the best reason                 ... pos = 0.0   	neg = 0.125
+41. All the performances                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3770-488 is Positive         ... pos = 14.625 	neg = 11.0 
+Overall score of document
+Total Pos = 14.625
+Total Neg = 11.0
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. So much has been wri                 ... pos = 0.125 	neg = 1.0  
+1. It is a film on a gr                 ... pos = 0.25  	neg = 0.25 
+2. More importantly, th                 ... pos = 0.5   	neg = 0.125
+3. There are two intert                 ... pos = 0.25  	neg = 0.0  
+4. They  are linked by                  ... pos = 0.375 	neg = 0.125
+5. In fact the patient                  ... pos = 0.375 	neg = 0.0  
+6. But this  blurring o                 ... pos = 0.875 	neg = 0.125
+7. Both he and  the Fre                 ... pos = 0.5   	neg = 0.25 
+8. It's a powerful port                 ... pos = 2.375 	neg = 0.25 
+9. The pre-war scenes c                 ... pos = 0.5   	neg = 0.0  
+10. There  is a poignant                ... pos = 1.875 	neg = 0.625
+11. In some ways that re                ... pos = 0.125 	neg = 0.125
+12. Certainly the film h                ... pos = 0.625 	neg = 0.0  
+13. Exceptional performa                ... pos = 2.25  	neg = 0.0  
+14. But Naveen Andrews'                 ... pos = 1.375 	neg = 0.25 
+15. This is cinema for g                ... pos = 0.375 	neg = 0.125
+16. Superficially it is                 ... pos = 0.25  	neg = 0.125
+17. But this is really a                ... pos = 0.5   	neg = 0.25 
+18. Look on it purely as                ... pos = 0.0   	neg = 1.0  
+19. But look  more deepl                ... pos = 0.375 	neg = 0.625
+20. --  Martin Rich  Pho                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1911-142 is Positive         ... pos = 13.875 	neg = 5.25 
+Overall score of document
+Total Pos = 13.875
+Total Neg = 5.25
+---------------------------------------------------------------------------

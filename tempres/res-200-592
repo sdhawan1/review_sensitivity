@@ -1,0 +1,40 @@
+0. Being John Malkovich                 ... pos = 0.5   	neg = 0.125
+1. Many may have  probl                 ... pos = 0.25  	neg = 1.0  
+2. However, a video she                 ... pos = 0.125 	neg = 0.0  
+3. Craig Schwartz (John                 ... pos = 0.0   	neg = 0.5  
+4. Craig's wife, Lotte                  ... pos = 0.375 	neg = 0.125
+5. They live in an apar                 ... pos = 0.25  	neg = 0.5  
+6. Craig finally comes                  ... pos = 0.0   	neg = 0.125
+7. His office space may                 ... pos = 1.5   	neg = 0.75 
+8. Yet the oddest featu                 ... pos = 1.125 	neg = 0.125
+9. The door is a portal                 ... pos = 0.0   	neg = 0.125
+10. When you enter this                 ... pos = 0.75  	neg = 0.0  
+11. Then, after 15 minut                ... pos = 0.625 	neg = 0.0  
+12. Once Craig discovers                ... pos = 0.0   	neg = 0.625
+13. Andy Warhol once sug                ... pos = 0.25  	neg = 0.125
+14. In this movie, every                ... pos = 0.0   	neg = 0.0  
+15. This seems  to hit o                ... pos = 0.0   	neg = 0.125
+16. For Craig being Malk                ... pos = 1.375 	neg = 0.25 
+17. For Lotte it is an                  ... pos = 0.0   	neg = 0.375
+18. (She is so inspired                 ... pos = 0.125 	neg = 0.25 
+19. ") But when Malkovic                ... pos = 0.375 	neg = 0.25 
+20. (It would be  ruinin                ... pos = 0.0   	neg = 0.125
+21. ). John Malkovich is                ... pos = 0.0   	neg = 0.125
+22. He deserves credit f                ... pos = 1.875 	neg = 0.25 
+23. Should this producti                ... pos = 1.0   	neg = 0.125
+24. He portrays a dramat                ... pos = 1.375 	neg = 0.125
+25. (Well timed Hallowee                ... pos = 0.0   	neg = 0.125
+26. ). Rod Sterling beca                ... pos = 0.625 	neg = 0.125
+27. Unfortunately, this                 ... pos = 0.0   	neg = 1.125
+28. At the  beginning, a                ... pos = 0.125 	neg = 0.0  
+29. For example, he had                 ... pos = 0.0   	neg = 0.0  
+30. When Craig fell on t                ... pos = 0.375 	neg = 0.375
+31. So,  what happened t                ... pos = 0.0   	neg = 0.0  
+32. The movie could have                ... pos = 0.0   	neg = 0.125
+33. Although this is a r                ... pos = 1.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-200-592 is Positive          ... pos = 14.625 	neg = 8.125
+Overall score of document
+Total Pos = 14.625
+Total Neg = 8.125
+---------------------------------------------------------------------------

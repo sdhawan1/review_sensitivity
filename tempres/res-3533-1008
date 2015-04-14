@@ -1,0 +1,51 @@
+0. **1/2 (out of 4) The                 ... pos = 0.5   	neg = 0.375
+1. It lasts for about t                 ... pos = 0.0   	neg = 0.0  
+2. Its geographic range                 ... pos = 0.5   	neg = 0.125
+3. The technical skill                  ... pos = 1.125 	neg = 1.125
+4. Such a carefully pla                 ... pos = 0.0   	neg = 0.25 
+5. At first the script                  ... pos = 0.125 	neg = 1.028
+6. Rick Santoro (Nicola                 ... pos = 0.0   	neg = 0.375
+7. In the big introduct                 ... pos = 0.625 	neg = 0.0  
+8. The only unusual thi                 ... pos = 0.125 	neg = 0.25 
+9. Escorting the Secret                 ... pos = 0.125 	neg = 0.125
+10. The fight moves on,                 ... pos = 0.25  	neg = 0.125
+11. The Secretary has be                ... pos = 0.0   	neg = 0.125
+12. Another shot rings o                ... pos = 0.0   	neg = 0.25 
+13. Before the cops arri                ... pos = 0.0   	neg = 0.25 
+14. He failed in his ass                ... pos = 0.25  	neg = 1.0  
+15. Nick suggests they g                ... pos = 0.375 	neg = 0.0  
+16. Eventually Nick and                 ... pos = 0.0   	neg = 0.0  
+17. Given enough time al                ... pos = 0.375 	neg = 0.0  
+18. The setup and invest                ... pos = 0.25  	neg = 0.0  
+19. De Palma uses flashb                ... pos = 1.0   	neg = 0    
+20. With each flashback,                ... pos = 0.0   	neg = 0.375
+21. This part of the fil                ... pos = 1.25  	neg = 0.125
+22. Then it becomes clea                ... pos = 0.625 	neg = 0.125
+23. At this point, the m                ... pos = 0.25  	neg = 0.0  
+24. Instead of tantalizi                ... pos = 0.875 	neg = 0.875
+25. The resolution of th                ... pos = 0.75  	neg = 0.125
+26. In order to allow fo                ... pos = 0.625 	neg = 0.625
+27. As the movie's tone                 ... pos = 0.0   	neg = 0.125
+28. In JACKIE BROWN, the                ... pos = 1.0   	neg = 0.375
+29. Also, Sinise was the                ... pos = 0.0   	neg = 0.875
+30. He never really fill                ... pos = 0.375 	neg = 0.25 
+31. Granted, it was a ha                ... pos = 0.375 	neg = 1.125
+32. But Sinise just neve                ... pos = 0.125 	neg = 0.0  
+33. Cage, on the other h                ... pos = 1.25  	neg = 0.125
+34. He's a crooked cop,                 ... pos = 0.0   	neg = 0.25 
+35. As long as he's gett                ... pos = 0.875 	neg = 0.625
+36. The perfect example                 ... pos = 0.25  	neg = 0.125
+37. This cop's first rea                ... pos = 0.25  	neg = 0.375
+38. But there is a glimm                ... pos = 0.625 	neg = 0.25 
+39. Two minor characters                ... pos = 0.875 	neg = 0.25 
+40. In the ring, the box                ... pos = 0.625 	neg = 1.625
+41. And Carla Gugino, a                 ... pos = 0.25  	neg = 0.0  
+42. De Palma's last film                ... pos = 0.0   	neg = 0.375
+43. SNAKE EYES has simil                ... pos = 0.875 	neg = 0.25 
+44. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3533-1008 is Positive        ... pos = 17.75 	neg = 14.653
+Overall score of document
+Total Pos = 17.75
+Total Neg = 14.653
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. Some movies, while n                 ... pos = 0.0   	neg = 1.5  
+1. Roger Kumble's lame                  ... pos = 0.625 	neg = 0.0  
+2. Loosely based on the                 ... pos = 1.0   	neg = 0.5  
+3. Sebastian(Ryan Phill                 ... pos = 0.5   	neg = 0.0  
+4. Kathryn(Sarah Michel                 ... pos = 0.125 	neg = 0.875
+5. In the first of many                 ... pos = 0.875 	neg = 0.0  
+6. If Kathryn wins, the                 ... pos = 0.25  	neg = 0.0  
+7. Well, anyway, althou                 ... pos = 0.125 	neg = 0.125
+8. I mean, damn, this g                 ... pos = 0     	neg = 0.25 
+9. From that point the                  ... pos = 0.375 	neg = 0.0  
+10. The movie then goes                 ... pos = 0.0   	neg = 0.625
+11. None of the film's c                ... pos = 1.125 	neg = 0.0  
+12. Although many sexual                ... pos = 0.5   	neg = 0.75 
+13. I mean, with a cast                 ... pos = 0.75  	neg = 0.0  
+14. But I wish they at l                ... pos = 0     	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2377-421 is Positive         ... pos = 6.25  	neg = 5.5  
+Overall score of document
+Total Pos = 6.25
+Total Neg = 5.5
+---------------------------------------------------------------------------

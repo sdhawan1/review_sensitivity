@@ -1,0 +1,29 @@
+0. REVIEW: The Opposite                 ... pos = 0.75  	neg = 0.875
+1. The fact that the in                 ... pos = 0.625 	neg = 0.125
+2. Although any Hollywo                 ... pos = 0.125 	neg = 0.625
+3. Damn Neil LaBute (di                 ... pos = 0.625 	neg = 0.625
+4. 16 year old Dedee Tr                 ... pos = 0.375 	neg = 0.0  
+5. " After the death of                 ... pos = 0.5   	neg = 0    
+6. Whilst there she sed                 ... pos = 0.0   	neg = 0.25 
+7. When the two flee th                 ... pos = 0.875 	neg = 0.125
+8. We find Bill to be a                 ... pos = 0.75  	neg = 0.625
+9. It's a pity that non                 ... pos = 0.75  	neg = 0.0  
+10. One of the most stri                ... pos = 0.0   	neg = 0.125
+11. Last years Gattaca w                ... pos = 1.125 	neg = 0.25 
+12. But it can also be a                ... pos = 1.0   	neg = 0.25 
+13. However, one great t                ... pos = 1.5   	neg = 0.375
+14. We don't really care                ... pos = 0.0   	neg = 1.5  
+15. Don't ask me how Chr                ... pos = 0.75  	neg = 0.5  
+16. Ricci is terrific in                ... pos = 0.875 	neg = 0.25 
+17. Ivan Sergei has also                ... pos = 1.0   	neg = 1.25 
+18. Lisa Kudrow is the f                ... pos = 2.375 	neg = 0.375
+19. As a nitty-gritty "w                ... pos = 0.625 	neg = 0.625
+20. It's not as controve                ... pos = 2.25  	neg = 0.375
+21. It may not be typica                ... pos = 1.5   	neg = 0.5  
+22. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2035-1111 is Positive        ... pos = 18.625 	neg = 9.625
+Overall score of document
+Total Pos = 18.625
+Total Neg = 9.625
+---------------------------------------------------------------------------

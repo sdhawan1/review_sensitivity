@@ -1,0 +1,53 @@
+0. Visit Online Film Cr                 ... pos = 0.5   	neg = 0.125
+1. But the action doesn                 ... pos = 0.0   	neg = 0.0  
+2. In 1862 a widowed En                 ... pos = 0.0   	neg = 0.0  
+3. Already we have a wh                 ... pos = 0.375 	neg = 0.125
+4. Mrs. Leonowens (Jody                 ... pos = 0.125 	neg = 0.25 
+5. Although the king is                 ... pos = 0.625 	neg = 0.25 
+6. Nothing but conflict                 ... pos = 0.0   	neg = 0.25 
+7. Heard this story bef                 ... pos = 0.0   	neg = 0    
+8. Yes, it's the same s                 ... pos = 0.5   	neg = 0.0  
+9. This film is  no mus                 ... pos = 0.0   	neg = 0.5  
+10. The king's large fam                ... pos = 0.5   	neg = 0.0  
+11. But  what helps this                ... pos = 0.0   	neg = 0.125
+12. Like a terrible news                ... pos = 0.375 	neg = 0.625
+13. These Burmese squads                ... pos = 0.25  	neg = 0.125
+14. So King  Mongkut of                 ... pos = 0.125 	neg = 0.125
+15. Deceit and betrayal                 ... pos = 0.5   	neg = 0.125
+16. Thus the stage is se                ... pos = 0.125 	neg = 0.125
+17. As Anna Leonowens, J                ... pos = 0.125 	neg = 0.875
+18. An American  to play                ... pos = 0.875 	neg = 0    
+19. But Foster pulls it                 ... pos = 0.875 	neg = 0.625
+20. At times her  voice                 ... pos = 0.875 	neg = 1.0  
+21. It's rather a  pleas                ... pos = 0.625 	neg = 0.0  
+22. And her dialect work                ... pos = 0.125 	neg = 0.0  
+23. Foster's performance                ... pos = 0.125 	neg = 0.125
+24. His acting is unders                ... pos = 0.875 	neg = 0.125
+25. Clearly Chow is  exp                ... pos = 1.625 	neg = 0.125
+26. Look for him to be                  ... pos = 0.875 	neg = 0.5  
+27. The other cast membe                ... pos = 0.5   	neg = 0    
+28. As the young heir to                ... pos = 0.625 	neg = 0.125
+29. Director Andy  Tenna                ... pos = 0.125 	neg = 0.125
+30. Randall Duk Kim is p                ... pos = 0.75  	neg = 0.125
+31. Another star of this                ... pos = 0.0   	neg = 0.25 
+32. Remarkable Victorian                ... pos = 0.375 	neg = 0.0  
+33. Further, the colorfu                ... pos = 0.375 	neg = 0.25 
+34. The word "sumptuous"                ... pos = 0.375 	neg = 0.25 
+35. Similar applause goe                ... pos = 1.75  	neg = 0.0  
+36. The main message of                 ... pos = 0.125 	neg = 0.25 
+37. In this film we can                 ... pos = 2.0   	neg = 0.25 
+38. It's ironic that the                ... pos = 1.5   	neg = 0.375
+39. Of course this theme                ... pos = 1.0   	neg = 0.125
+40. So the reason Anna a                ... pos = 1.125 	neg = 0.125
+41. It's the same with a                ... pos = 2.125 	neg = 0.0  
+42. It's also clear that                ... pos = 0.125 	neg = 0.0  
+43. This film needs to b                ... pos = 0.0   	neg = 0.75 
+44. The few scenes of vi                ... pos = 0.25  	neg = 0.0  
+45. There is no nudity o                ... pos = 0.0   	neg = 1.0  
+46. Viewers 10 and over                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1867-71 is Positive          ... pos = 24.875 	neg = 10.125
+Overall score of document
+Total Pos = 24.875
+Total Neg = 10.125
+---------------------------------------------------------------------------

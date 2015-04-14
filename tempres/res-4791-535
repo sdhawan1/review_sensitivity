@@ -1,0 +1,49 @@
+0. Barry (Tom Green) ha                 ... pos = 0.0   	neg = 0.125
+1. Today, he is leading                 ... pos = 0.25  	neg = 0.25 
+2. In order to keep his                 ... pos = 0.25  	neg = 0.625
+3. Josh has been dating                 ... pos = 0.625 	neg = 0.625
+4. However, when he sus                 ... pos = 0.5   	neg = 0.125
+5. Beth is a willing pa                 ... pos = 0.5   	neg = 0.125
+6. Unfortunately, Josh                  ... pos = 0.125 	neg = 1.375
+7. Josh, Rubin, and two                 ... pos = 1.0   	neg = 0.5  
+8. At long last, a film                 ... pos = 0.125 	neg = 0.375
+9. "Road Trip" is the k                 ... pos = 0.875 	neg = 0.625
+10. A warning to everyon                ... pos = 0.0   	neg = 0.75 
+11. Some of the film's m                ... pos = 0.0   	neg = 0.125
+12. This is the kind of                 ... pos = 0.75  	neg = 0.875
+13. In fact, you will pr                ... pos = 0.125 	neg = 0.0  
+14. Most of you have, no                ... pos = 0.0   	neg = 0.5  
+15. This scene would alr                ... pos = 0.125 	neg = 0.75 
+16. Again, if you don't                 ... pos = 0.0   	neg = 0.0  
+17. The acting in a movi                ... pos = 1.125 	neg = 0.125
+18. I was pleasantly sur                ... pos = 1.25  	neg = 0.125
+19. Tom Green isn't actu                ... pos = 0.5   	neg = 0.125
+20. Breckin Meyer ("Go")                ... pos = 0.125 	neg = 0.0  
+21. Amy Smart ("Varsity                 ... pos = 0.25  	neg = 0.875
+22. The two best perform                ... pos = 0.375 	neg = 0.0  
+23. Scott gives a wonder                ... pos = 1.0   	neg = 0.0  
+24. His best scene invol                ... pos = 0.75  	neg = 0.0  
+25. DJ Qualls is a rathe                ... pos = 0.875 	neg = 0.125
+26. He looks to be over                 ... pos = 0.125 	neg = 0.5  
+27. The entire movie is                 ... pos = 0.375 	neg = 0.25 
+28. Unfortunately, "Road                ... pos = 0.25  	neg = 0.875
+29. While it may be hila                ... pos = 0.25  	neg = 0.125
+30. Things also get a bi                ... pos = 0.625 	neg = 0.25 
+31. Points like college                 ... pos = 0.75  	neg = 0.5  
+32. Thankfully, Todd Phi                ... pos = 0.625 	neg = 0.125
+33. Watch for amusing ca                ... pos = 0.125 	neg = 0.625
+34. I'd recommend "Road                 ... pos = 0.5   	neg = 0.0  
+35. Despite a relatively                ... pos = 0.5   	neg = 0.0  
+36. The movie runs 91 mi                ... pos = 0.0   	neg = 0.0  
+37. Any past movies you                 ... pos = 0.0   	neg = 0.125
+38. Send to: johnbeachem                ... pos = 0.375 	neg = 0.125
+39. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+40. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+41. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+42. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4791-535 is Positive         ... pos = 16.375 	neg = 13.75
+Overall score of document
+Total Pos = 16.375
+Total Neg = 13.75
+---------------------------------------------------------------------------

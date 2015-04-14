@@ -1,0 +1,33 @@
+0. Air traffic controll                 ... pos = 0.0   	neg = 0.0  
+1. With nothing more th                 ... pos = 0.875 	neg = 0.25 
+2. The profession "boas                 ... pos = 0.125 	neg = 0.0  
+3. Talking like auction                 ... pos = 0.0   	neg = 0.375
+4. The airspace around                  ... pos = 1.0   	neg = 0.125
+5. " (The title, by the                 ... pos = 0.0   	neg = 0.125
+6. ). Nick "The Zone" F                 ... pos = 0.75  	neg = 0.125
+7. Unlike most of his c                 ... pos = 0.25  	neg = 0.375
+8. Enter Russell Bell (                 ... pos = 0.0   	neg = 0.125
+9. " His Zen-like appro                 ... pos = 0.125 	neg = 0.25 
+10. He is very nearly th                ... pos = 0.5   	neg = 0.125
+11. And it pushes all of                ... pos = 0.0   	neg = 0    
+12. "Pushing Tin" could                 ... pos = 0.0   	neg = 0.75 
+13. At times, Nick and R                ... pos = 0.875 	neg = 0.0  
+14. The mutual antagonis                ... pos = 1.25  	neg = 0.0  
+15. But at times it flie                ... pos = 1.25  	neg = 0.375
+16. Dry, intellectual hu                ... pos = 0.5   	neg = 0.75 
+17. The laughs are spars                ... pos = 0.25  	neg = 0.125
+18. The last thirty minu                ... pos = 0.75  	neg = 0.125
+19. Any of these aspects                ... pos = 0.0   	neg = 0.125
+20. ". Perhaps because t                ... pos = 0.0   	neg = 0.778
+21. Thornton has already                ... pos = 0.875 	neg = 0.0  
+22. Blanchett and Jolie,                ... pos = 0.875 	neg = 0.0  
+23. With a top-notch cas                ... pos = 0.25  	neg = 0.0  
+24. " But the script tri                ... pos = 0.0   	neg = 0.875
+25. (This review was ori                ... pos = 0.375 	neg = 0.125
+26. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1788-133 is Positive         ... pos = 10.875 	neg = 5.903
+Overall score of document
+Total Pos = 10.875
+Total Neg = 5.903
+---------------------------------------------------------------------------

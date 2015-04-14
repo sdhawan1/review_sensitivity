@@ -1,0 +1,23 @@
+0. Release Date: Octobe                 ... pos = 1.875 	neg = 0.625
+1. As a rule, the ignor                 ... pos = 0.75  	neg = 0.5  
+2. An actor might be ch                 ... pos = 0.0   	neg = 1.25 
+3. Generally, though, t                 ... pos = 0.0   	neg = 0.125
+4. The star for the veh                 ... pos = 0.25  	neg = 0.125
+5. Russell plays Todd,                  ... pos = 0.125 	neg = 0.25 
+6. The movie lets us se                 ... pos = 0.0   	neg = 0.0  
+7. He's about to be rep                 ... pos = 0.875 	neg = 0.625
+8. The pride of this cl                 ... pos = 1.5   	neg = 0.875
+9. Between the two lead                 ... pos = 0.125 	neg = 0.75 
+10. Director Paul Anders                ... pos = 0.0   	neg = 0.125
+11. Todd, upon being rep                ... pos = 0.25  	neg = 1.0  
+12. Events are predictab                ... pos = 0.5   	neg = 0.25 
+13. The most annoying pl                ... pos = 1.375 	neg = 0.75 
+14. It's not as though T                ... pos = 1.375 	neg = 0.0  
+15. The best route throu                ... pos = 1.25  	neg = 0.625
+16. A strict interpretat                ... pos = 0.75  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-5559-700 is Positive         ... pos = 11.0  	neg = 8.625
+Overall score of document
+Total Pos = 11.0
+Total Neg = 8.625
+---------------------------------------------------------------------------

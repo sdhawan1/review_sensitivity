@@ -1,0 +1,41 @@
+0. Last year, writer/di                 ... pos = 1.0   	neg = 0    
+1. This year, he hopes                  ... pos = 0.125 	neg = 0.125
+2. "  Bruce Willis is b                 ... pos = 0.25  	neg = 0.625
+3. However, the current                 ... pos = 0.125 	neg = 0.0  
+4. You wouldn't know it                 ... pos = 0.0   	neg = 0.125
+5. It begins with a set                 ... pos = 0.0   	neg = 0.0  
+6. (It turns  out that                  ... pos = 0.25  	neg = 0.125
+7. )   Comics come up i                 ... pos = 0.0   	neg = 0.25 
+8. Because he's spent m                 ... pos = 0.0   	neg = 0.0  
+9. He owns an art galle                 ... pos = 0.25  	neg = 0    
+10. Elijah figures that                 ... pos = 0.875 	neg = 0.375
+11. Security guard David                ... pos = 0.0   	neg = 0.125
+12. At the beginning of                 ... pos = 0.0   	neg = 1.0  
+13. Over a  hundred peop                ... pos = 0.25  	neg = 0.0  
+14. Based on  this, Elij                ... pos = 0.625 	neg = 0.125
+15. David has  problems                 ... pos = 0.0   	neg = 0.75 
+16. So, David resists th                ... pos = 0.125 	neg = 0.0  
+17. Everyone tries very                 ... pos = 0.5   	neg = 1.25 
+18. Shyamalan pervades e                ... pos = 1.0   	neg = 0.0  
+19. "  His  direction sh                ... pos = 0.875 	neg = 0.0  
+20. Willis gives his  be                ... pos = 0.375 	neg = 0.0  
+21. While I found him un                ... pos = 1.25  	neg = 0.5  
+22. David is such a char                ... pos = 0.875 	neg = 0.125
+23. (When Elijah inquire                ... pos = 0.0   	neg = 0.125
+24. )   Jackson is slick                ... pos = 1.125 	neg = 0.125
+25. Penn is down-to-eart                ... pos = 0.364 	neg = 0.125
+26. Clark is  sweet and                 ... pos = 0.125 	neg = 0.125
+27. However, despite the                ... pos = 0.875 	neg = 0.0  
+28. A major part of the                 ... pos = 0.0   	neg = 0.375
+29. Superheroes  can be                 ... pos = 0.625 	neg = 0.125
+30. The movie's website                 ... pos = 0.0   	neg = 0.0  
+31. Willis recently said                ... pos = 0.125 	neg = 0.125
+32. Hope the next two ha                ... pos = 0.375 	neg = 0.0  
+33. Bottom line:  Unbrea                ... pos = 0.0   	neg = 0.0  
+34. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3905-1265 is Positive        ... pos = 12.364 	neg = 6.625
+Overall score of document
+Total Pos = 12.364
+Total Neg = 6.625
+---------------------------------------------------------------------------

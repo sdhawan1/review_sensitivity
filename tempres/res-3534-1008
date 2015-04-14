@@ -1,0 +1,39 @@
+0. ***1/2 (out of 4) Jo                 ... pos = 0.375 	neg = 0.25 
+1. CONTACT is a smart m                 ... pos = 0.0   	neg = 0.125
+2. It is a science fict                 ... pos = 0.375 	neg = 0.125
+3. Instead of laser bla                 ... pos = 0.5   	neg = 0.125
+4. It is science fictio                 ... pos = 0.125 	neg = 0.375
+5. Foster plays Ellie A                 ... pos = 0.0   	neg = 0.0  
+6. Faced with a governm                 ... pos = 0.375 	neg = 0.875
+7. Her determination pa                 ... pos = 0.0   	neg = 0.625
+8. As Ellie starts deco                 ... pos = 0.75  	neg = 0    
+9. As the message becom                 ... pos = 1.125 	neg = 0.0  
+10. Ellie learns that th                ... pos = 0.5   	neg = 0.125
+11. The blueprints are u                ... pos = 0.875 	neg = 0.25 
+12. Contact is a great t                ... pos = 0.0   	neg = 0.125
+13. Ellie has all of Sag                ... pos = 1.0   	neg = 0.0  
+14. She repeats a probab                ... pos = 0.0   	neg = 0.0  
+15. Ellie is a rational                 ... pos = 0.0   	neg = 0.125
+16. And when she says "b                ... pos = 0.0   	neg = 0.0  
+17. Beyond the character                ... pos = 1.625 	neg = 0.0  
+18. It asks relevant que                ... pos = 0.5   	neg = 1.25 
+19. Most of all, it valu                ... pos = 0.375 	neg = 0.5  
+20. Zemeckis proves his                 ... pos = 0.5   	neg = 0.0  
+21. The opening shot of                 ... pos = 1.25  	neg = 0.125
+22. The second sequence                 ... pos = 0.0   	neg = 0.0  
+23. Zemeckis doesn't con                ... pos = 1.375 	neg = 0    
+24. Even in such mundane                ... pos = 1.0   	neg = 0.25 
+25. A blind man is intro                ... pos = 0.0   	neg = 0.25 
+26. Finally, Zemeckis an                ... pos = 0.0   	neg = 0.25 
+27. Lately, movie tensio                ... pos = 0.25  	neg = 0.125
+28. In CONTACT, the tens                ... pos = 0.0   	neg = 0.125
+29. There is a chance fo                ... pos = 2.25  	neg = 0.25 
+30. Still, all of this t                ... pos = 0.875 	neg = 0.25 
+31. It is a tribute to t                ... pos = 0.5   	neg = 0.125
+32. (c) 1997 Marty Mapes                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3534-1008 is Positive        ... pos = 16.5  	neg = 6.625
+Overall score of document
+Total Pos = 16.5
+Total Neg = 6.625
+---------------------------------------------------------------------------

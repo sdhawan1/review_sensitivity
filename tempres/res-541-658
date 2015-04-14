@@ -1,0 +1,34 @@
+0. Written and Directed                 ... pos = 0.875 	neg = 0.25 
+1. To boot, it is accom                 ... pos = 0.375 	neg = 0.125
+2. Movies of this calib                 ... pos = 0.0   	neg = 0.625
+3. Alex Proyas, whošs                  ... pos = 0.75  	neg = 0.625
+4. At times it moves be                 ... pos = 0.5   	neg = 0.0  
+5. It is the story of �                 ... pos = 0.0   	neg = 0.25 
+6. These aliens are sup                 ... pos = 1.0   	neg = 0.0  
+7. They are aided by a                  ... pos = 0.5   	neg = 0.0  
+8. During this time, Jo                 ... pos = 1.125 	neg = 0.25 
+9. Without a memory and                 ... pos = 0.625 	neg = 0.5  
+10. I donšt want to pro                ... pos = 0.875 	neg = 0.25 
+11. Itšs a pleasure to                 ... pos = 1.375 	neg = 0.0  
+12. Murdochšs wife, Ann                ... pos = 0.0   	neg = 0.25 
+13. Shadows, outlines of                ... pos = 0.375 	neg = 0.0  
+14. We see the outline o                ... pos = 0.0   	neg = 0    
+15. A great entrance.                   ... pos = 0.0   	neg = 0    
+16. However, a film such                ... pos = 2.375 	neg = 0.125
+17. The city is nice to                 ... pos = 0.0   	neg = 0.5  
+18. Blade Runner was pop                ... pos = 0.875 	neg = 0.25 
+19. It is discussed it a                ... pos = 0.125 	neg = 0.125
+20. Other science fictio                ... pos = 1.375 	neg = 0.5  
+21. Wešre left with łl                ... pos = 0.0   	neg = 0.0  
+22. Dark City is not so                 ... pos = 0.375 	neg = 0.125
+23. As the strangers dis                ... pos = 0.25  	neg = 0.125
+24. Where is reality?                   ... pos = 0.125 	neg = 0.125
+25. Dark City is certain                ... pos = 1.125 	neg = 0.125
+26. Perhaps itšs the be                ... pos = 1.125 	neg = 0.125
+27. Anyone who wants to                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-541-658 is Positive          ... pos = 16.875 	neg = 5.25 
+Overall score of document
+Total Pos = 16.875
+Total Neg = 5.25
+---------------------------------------------------------------------------

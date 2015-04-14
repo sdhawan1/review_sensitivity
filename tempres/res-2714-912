@@ -1,0 +1,54 @@
+0. CrankyCriticŽ  The                  ... pos = 0.125 	neg = 0.25 
+1. Here's the hard part                 ... pos = 0.0   	neg = 0.75 
+2. If I tell you anythi                 ... pos = 0.25  	neg = 0.5  
+3. So I'm going to tell                 ... pos = 0.5   	neg = 0.25 
+4. When a person goes t                 ... pos = 0.25  	neg = 1.375
+5. It could be someone                  ... pos = 0.0   	neg = 0.25 
+6. In my case it was "f                 ... pos = 0.125 	neg = 0.25 
+7. They had been damage                 ... pos = 0.0   	neg = 0.375
+8. It may seem shallow,                 ... pos = 0.125 	neg = 0.0  
+9. When my closest frie                 ... pos = 0.25  	neg = 0.0  
+10. I knew what she was                 ... pos = 0.0   	neg = 0.125
+11. We haven't spoken si                ... pos = 0.0   	neg = 0    
+12. Which brings us to a                ... pos = 0.25  	neg = 0.125
+13. His loving wife Anna                ... pos = 1.25  	neg = 0.0  
+14. Then the good doctor                ... pos = 0.875 	neg = 1.125
+15. A year later, post t                ... pos = 0.25  	neg = 0.625
+16. He is physically and                ... pos = 0.625 	neg = 1.0  
+17. Most little kidlets                 ... pos = 1.125 	neg = 0.25 
+18. His "friends" are te                ... pos = 1.5   	neg = 0    
+19. They are the ghosts                 ... pos = 0.875 	neg = 1.0  
+20. Of course, he's prob                ... pos = 0.0   	neg = 0.0  
+21. He's hides in the lo                ... pos = 0.0   	neg = 0.25 
+22. His mom (Toni Collet                ... pos = 0.125 	neg = 0.875
+23. His schoolmates all                 ... pos = 0.5   	neg = 0.5  
+24. Can the Doctor help                 ... pos = 0.0   	neg = 0.0  
+25. And what of helping                 ... pos = 0.0   	neg = 0.0  
+26. How far should your                 ... pos = 0.625 	neg = 0    
+27. Writer/Director M. N                ... pos = 0.25  	neg = 0.0  
+28. Everything you see i                ... pos = 0.0   	neg = 1.125
+29. There may be a momen                ... pos = 0.0   	neg = 0.5  
+30. Nothing you see will                ... pos = 0.5   	neg = 0.25 
+31. And you will.                       ... pos = 0.125 	neg = 0    
+32. And the truth will b                ... pos = 0.625 	neg = 0.25 
+33. Bruce Willis is doin                ... pos = 0.125 	neg = 0.125
+34. He's being a quiet m                ... pos = 0.125 	neg = 0    
+35. No big action stunts                ... pos = 0.125 	neg = 1.125
+36. It's a nice change.                 ... pos = 0.0   	neg = 0    
+37. The real find is Hal                ... pos = 0.25  	neg = 0.375
+38. On average, a first                 ... pos = 0.25  	neg = 0.0  
+39. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+40. .                                   ... pos = 0     	neg = 0    
+41. .                                   ... pos = 0     	neg = 0    
+42. After the Blair Witc                ... pos = 0.0   	neg = 0.25 
+43. The Sixth Sense did.                ... pos = 0.0   	neg = 0.0  
+44. Don't confuse creepy                ... pos = 0.0   	neg = 1.25 
+45. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+46. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+47. On the web at www.cr                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-912 is Negative         ... pos = 12.375 	neg = 15.375
+Overall score of document
+Total Pos = 12.375
+Total Neg = 15.375
+---------------------------------------------------------------------------

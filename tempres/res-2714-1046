@@ -1,0 +1,34 @@
+0. "The Sixth Sense" ab                 ... pos = 0.0   	neg = 0.0  
+1. I don't know what I                  ... pos = 0.5   	neg = 0.375
+2. What I got was an ab                 ... pos = 0.375 	neg = 0.125
+3. "The Sixth Sense" co                 ... pos = 0.875 	neg = 0.125
+4. That movie, with its                 ... pos = 0.625 	neg = 0.125
+5. "The Sixth Sense" ha                 ... pos = 0.25  	neg = 0.375
+6. Bruce Willis, in an                  ... pos = 0.0   	neg = 0.0  
+7. As the movie opens,                  ... pos = 0.25  	neg = 0.25 
+8. One year later, we f                 ... pos = 0.75  	neg = 1.0  
+9. One of the most sham                 ... pos = 0.0   	neg = 0.875
+10. I don't want to make                ... pos = 0.5   	neg = 0.75 
+11. Cole's terror comes                 ... pos = 1.25  	neg = 0.0  
+12. Crowe isn't sure wha                ... pos = 0.5   	neg = 0.125
+13. -- but slowly casts                 ... pos = 0.375 	neg = 0.0  
+14. A description like t                ... pos = 0.5   	neg = 0.0  
+15. On the surface, this                ... pos = 0.25  	neg = 0.25 
+16. The director and scr                ... pos = 1.125 	neg = 0.5  
+17. Shyamalan has manage                ... pos = 0.125 	neg = 0.0  
+18. Volumes have been wr                ... pos = 0.0   	neg = 1.0  
+19. He is half the reaso                ... pos = 0.5   	neg = 0.5  
+20. What's better is tha                ... pos = 0.0   	neg = 0.25 
+21. One of the most asto                ... pos = 0.0   	neg = 1.375
+22. There is a revelatio                ... pos = 1.0   	neg = 0.125
+23. Even better, it does                ... pos = 1.0   	neg = 0.875
+24. "The Sixth Sense" is                ... pos = 0.25  	neg = 0.875
+25. See it, and for God'                ... pos = 0.125 	neg = 0.0  
+26. Sent via Deja.com ht                ... pos = 0.0   	neg = 0.0  
+27. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2714-1046 is Positive        ... pos = 11.125 	neg = 9.875
+Overall score of document
+Total Pos = 11.125
+Total Neg = 9.875
+---------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+0. I sat in the theater                 ... pos = 0.125 	neg = 0.5  
+1. It was smart, very o                 ... pos = 1.375 	neg = 0.125
+2. But then, a scene..w                 ... pos = 0.25  	neg = 0.375
+3. Suddenly the slight                  ... pos = 0.625 	neg = 1.25 
+4. This is another revi                 ... pos = 1.0   	neg = 1.125
+5. It is that kind of m                 ... pos = 0.0   	neg = 0.75 
+6. Unfortunately, trend                 ... pos = 0.5   	neg = 1.0  
+7. However another one                  ... pos = 1.125 	neg = 0.25 
+8. The last few movies                  ... pos = 1.375 	neg = 0.125
+9. I have had so many t                 ... pos = 2.25  	neg = 0.75 
+10. But Peter Weir corra                ... pos = 0.0   	neg = 0.875
+11. Carrey is effective                 ... pos = 1.75  	neg = 1.0  
+12. He is not stifled ho                ... pos = 1.0   	neg = 0.25 
+13. The difference in th                ... pos = 1.25  	neg = 0.625
+14. He was funny, he was                ... pos = 1.75  	neg = 0.25 
+15. Ed Harris, playing t                ... pos = 0.75  	neg = 0.5  
+16. Harris has always ha                ... pos = 0.625 	neg = 0.0  
+17. He is paternally spo                ... pos = 1.5   	neg = 0.5  
+18. As for the other per                ... pos = 1.625 	neg = 0.0  
+19. A slight exception t                ... pos = 0.875 	neg = 0.25 
+20. We see her as a real                ... pos = 0.0   	neg = 0    
+21. This movie is both i                ... pos = 0.75  	neg = 0.125
+22. This movie feeds on                 ... pos = 0.875 	neg = 0.0  
+23. This is a commentary                ... pos = 0.125 	neg = 0.375
+24. Note to Paramount Ma                ... pos = 0.25  	neg = 0.875
+25. Take a chance, give                 ... pos = 1.5   	neg = 0.375
+26. Do not lure the audi                ... pos = 1.375 	neg = 0.625
+27. ) and glad they were                ... pos = 0.625 	neg = 0.5  
+28. Granted, it is good                 ... pos = 1.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5847-684 is Positive         ... pos = 26.75 	neg = 13.75
+Overall score of document
+Total Pos = 26.75
+Total Neg = 13.75
+---------------------------------------------------------------------------

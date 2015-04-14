@@ -1,0 +1,41 @@
+0. Rating: *** out of *                 ... pos = 0.25  	neg = 0.0  
+1. Well, that is what t                 ... pos = 0.0   	neg = 0.25 
+2. Computer generated a                 ... pos = 0.0   	neg = 0    
+3. OK, the movie is not                 ... pos = 0.0   	neg = 0.125
+4. It's about computer                  ... pos = 0.0   	neg = 0.0  
+5. If one wasn't green                  ... pos = 0.0   	neg = 0.0  
+6. The computer graphic                 ... pos = 0.5   	neg = 0.125
+7. Since seeing this mo                 ... pos = 0.0   	neg = 0.25 
+8. Well, in all serious                 ... pos = 1.875 	neg = 0.0  
+9. Just adds something                  ... pos = 1.25  	neg = 0.0  
+10. Along with aliens co                ... pos = 0.0   	neg = 0.125
+11. J, well soon to be J                ... pos = 0.125 	neg = 0.75 
+12. K aims to recruit ou                ... pos = 0.0   	neg = 0.125
+13. The main duty of the                ... pos = 0.25  	neg = 0.125
+14. That's also the main                ... pos = 0.0   	neg = 0.75 
+15. Some of the scum fro                ... pos = 0.0   	neg = 1.0  
+16. Color commentary abo                ... pos = 0.625 	neg = 0.0  
+17. The dialogue is witt                ... pos = 0.5   	neg = 0.125
+18. This wittiness lets                 ... pos = 1.125 	neg = 0.25 
+19. Tommy Lee Jones(as K                ... pos = 0.5   	neg = 0.0  
+20. The characters they                 ... pos = 1.0   	neg = 0.875
+21. I would have to say                 ... pos = 0.0   	neg = 0.125
+22. Both roles complemen                ... pos = 0.5   	neg = 0.25 
+23. The story also goes                 ... pos = 0.875 	neg = 0.625
+24. Altogether good perf                ... pos = 1.5   	neg = 0.375
+25. A movie well worth s                ... pos = 1.375 	neg = 0.0  
+26. As most movies have                 ... pos = 0.75  	neg = 0.875
+27. The character develo                ... pos = 0.875 	neg = 0.375
+28. But if there was mor                ... pos = 1.75  	neg = 0.75 
+29. Especially the evil                 ... pos = 0.0   	neg = 0.875
+30. Though this could ha                ... pos = 1.0   	neg = 0.375
+31. That was achieved ra                ... pos = 0.625 	neg = 0.125
+32. A movie worth a view                ... pos = 1.125 	neg = 0.375
+33. Originally written a                ... pos = 0.375 	neg = 0    
+34. Totally rewritten De                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-917-1216 is Positive         ... pos = 18.75 	neg = 10.0 
+Overall score of document
+Total Pos = 18.75
+Total Neg = 10.0
+---------------------------------------------------------------------------

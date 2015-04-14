@@ -1,0 +1,30 @@
+0. "Air Force One" prob                 ... pos = 0.25  	neg = 0.125
+1. The plot deals with                  ... pos = 0.0   	neg = 0.125
+2. The terrorists think                 ... pos = 0.25  	neg = 0.125
+3. That this story has                  ... pos = 0.0   	neg = 0.375
+4. Unfortunately, this                  ... pos = 1.5   	neg = 2.0  
+5. Gary Oldman's charac                 ... pos = 1.5   	neg = 0.375
+6. For an "ultra-nation                 ... pos = 0.625 	neg = 0.0  
+7. Anyone who knows any                 ... pos = 0.375 	neg = 0.0  
+8. The key motivation f                 ... pos = 1.125 	neg = 0.125
+9. What would make this                 ... pos = 0.125 	neg = 0.75 
+10. Money?                              ... pos = 0     	neg = 0.0  
+11. Is he a closet commi                ... pos = 0.0   	neg = 0.125
+12. Why?                                ... pos = 0     	neg = 0.0  
+13. Another gaping whole                ... pos = 0.5   	neg = 1.25 
+14. I don't know, but if                ... pos = 0.0   	neg = 0.125
+15. The ending of film,                 ... pos = 0.5   	neg = 0.25 
+16. Hey, they are flying                ... pos = 0.25  	neg = 0.0  
+17. Even if the plane is                ... pos = 1.0   	neg = 0.25 
+18. I mean, Air Force On                ... pos = 0.0   	neg = 0.0  
+19. Glenn Close is first                ... pos = 0.375 	neg = 0.125
+20. Ford plays his stock                ... pos = 1.125 	neg = 0.0  
+21. Even though this is                 ... pos = 1.0   	neg = 0.125
+22. Some other top-fligh                ... pos = 0.25  	neg = 0.625
+23. All in all, "Air For                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6212-10 is Positive          ... pos = 11.0  	neg = 7.0  
+Overall score of document
+Total Pos = 11.0
+Total Neg = 7.0
+---------------------------------------------------------------------------

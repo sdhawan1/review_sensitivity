@@ -1,0 +1,29 @@
+0. Theres something a l                 ... pos = 0.375 	neg = 0.25 
+1. Sure  hes a genius b                 ... pos = 0.75  	neg = 0.75 
+2. But lets look at the                 ... pos = 0.5   	neg = 1.0  
+3. Not to mention being                 ... pos = 0.375 	neg = 0.875
+4. He may be able to re                 ... pos = 0.375 	neg = 0.875
+5. This is why he mucks                 ... pos = 1.25  	neg = 0.375
+6. Will (Matt Damon) wo                 ... pos = 0.125 	neg = 0.0  
+7. When he secretly sol                 ... pos = 0.0   	neg = 0.25 
+8. But when he eventual                 ... pos = 0.125 	neg = 0.25 
+9. Lambeau is able to c                 ... pos = 0.25  	neg = 0.125
+10. After quickly humili                ... pos = 1.25  	neg = 0.625
+11. Wills best mate (Ben                ... pos = 1.125 	neg = 0.0  
+12. The exquisite scenes                ... pos = 1.125 	neg = 0.0  
+13. The rest of it, howe                ... pos = 0.25  	neg = 0.125
+14. Its been quite some                 ... pos = 0.5   	neg = 0.125
+15. Many of his recent f                ... pos = 0.25  	neg = 0.125
+16. At last we have some                ... pos = 0.375 	neg = 0.125
+17. Good Will Hunting is                ... pos = 1.0   	neg = 0.125
+18. Gus Van Sant (and th                ... pos = 2.125 	neg = 0.125
+19. But what could have                 ... pos = 0.625 	neg = 0.5  
+20. Its good  yes, but G                ... pos = 2.125 	neg = 0.0  
+21. It shouldnt be known                ... pos = 0.375 	neg = 0.25 
+22. The thin line betwee                ... pos = 0.125 	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-5197-1111 is Positive        ... pos = 15.375 	neg = 8.125
+Overall score of document
+Total Pos = 15.375
+Total Neg = 8.125
+---------------------------------------------------------------------------

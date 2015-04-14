@@ -1,0 +1,33 @@
+0. Starring: Ralph Fien                 ... pos = 2.375 	neg = 0.0  
+1. I don't really know                  ... pos = 0.375 	neg = 0.0  
+2. It's due in great pa                 ... pos = 0.375 	neg = 0.0  
+3. The Avengers is a st                 ... pos = 0.5   	neg = 0.125
+4. I don't think I'd do                 ... pos = 0.5   	neg = 0.0  
+5. The writer didn't do                 ... pos = 1.25  	neg = 0.0  
+6. Basically, Sean Conn                 ... pos = 0.0   	neg = 0.5  
+7. He threatens every c                 ... pos = 0.0   	neg = 0.0  
+8. If they don't pay hi                 ... pos = 0.0   	neg = 0.0  
+9. Special agent John S                 ... pos = 0.597 	neg = 0.125
+10. She looks like Uma,                 ... pos = 0.625 	neg = 1.125
+11. And she is, of cours                ... pos = 0.875 	neg = 1.0  
+12. I don't think I've d                ... pos = 1.5   	neg = 0.0  
+13. But there is somethi                ... pos = 0.125 	neg = 0.125
+14. And how could you no                ... pos = 0.0   	neg = 0.125
+15. There is also a spif                ... pos = 0.0   	neg = 0.375
+16. One of many lines th                ... pos = 0.0   	neg = 0.625
+17. Some films make it d                ... pos = 0.0   	neg = 0.0  
+18. With Congo, they cer                ... pos = 0.25  	neg = 0.0  
+19. With Godzilla, I'm n                ... pos = 0.875 	neg = 0.25 
+20. But The Avengers put                ... pos = 0.75  	neg = 0.5  
+21. True fans probably w                ... pos = 1.0   	neg = 0.0  
+22. But as a viewer who                 ... pos = 1.0   	neg = 1.125
+23. Admitedly, it could                 ... pos = 0.125 	neg = 0.125
+24. Fiennes and Connery                 ... pos = 0.25  	neg = 0.125
+25. But for some reason,                ... pos = 0.125 	neg = 0.0  
+26. I think there is eno                ... pos = 1.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-861-447 is Positive          ... pos = 14.472 	neg = 6.875
+Overall score of document
+Total Pos = 14.472
+Total Neg = 6.875
+---------------------------------------------------------------------------

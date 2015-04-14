@@ -1,0 +1,30 @@
+0. "The Big Hit" didn't                 ... pos = 0.0   	neg = 0.0  
+1. It's a delightful su                 ... pos = 0.75  	neg = 0.125
+2. First-time screenwri                 ... pos = 0.875 	neg = 0.0  
+3. "  You'll find the t                 ... pos = 0.875 	neg = 1.125
+4. Of course, this hybr                 ... pos = 0.0   	neg = 0.125
+5. However, "The Big Hi                 ... pos = 0.875 	neg = 0.0  
+6. "Marky" Mark Wahlber                 ... pos = 0.375 	neg = 0.125
+7. He and some of his h                 ... pos = 0.0   	neg = 0.125
+8. What they don't know                 ... pos = 0.0   	neg = 0.375
+9. When he finds out th                 ... pos = 0.625 	neg = 0.125
+10. So Cisco has to kill                ... pos = 0.0   	neg = 0.0  
+11. While all this is go                ... pos = 0.125 	neg = 0.25 
+12. While Melvin is maki                ... pos = 0.375 	neg = 0.125
+13. He rushes around fra                ... pos = 0.375 	neg = 0.125
+14. The whole thing gets                ... pos = 0.25  	neg = 0.25 
+15. "The Big Hit" is the                ... pos = 0.125 	neg = 0.125
+16. Wong gives us a big                 ... pos = 0.375 	neg = 0.25 
+17. The other two kidnap                ... pos = 1.375 	neg = 0.125
+18. Kidnapee Chow is sma                ... pos = 1.875 	neg = 0.875
+19. There's also a amusi                ... pos = 0.125 	neg = 0.0  
+20. ". "The Big Hit" may                ... pos = 0.0   	neg = 0.125
+21. But I loved it when                 ... pos = 0.875 	neg = 0.0  
+22. Give it a try if you                ... pos = 0.0   	neg = 0.0  
+23. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1640-1265 is Positive        ... pos = 10.25 	neg = 4.375
+Overall score of document
+Total Pos = 10.25
+Total Neg = 4.375
+---------------------------------------------------------------------------

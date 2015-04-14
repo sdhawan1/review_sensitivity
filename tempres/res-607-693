@@ -1,0 +1,33 @@
+0. In anticipation of t                 ... pos = 0.625 	neg = 0.625
+1. Although Irving's no                 ... pos = 1.125 	neg = 0.5  
+2. In addition, the pro                 ... pos = 0.125 	neg = 0    
+3. But surely don't sco                 ... pos = 2.125 	neg = 0.125
+4. To pass it up would                  ... pos = 0.5   	neg = 0.875
+5. The story opens duri                 ... pos = 0.0   	neg = 0.0  
+6. Homer was denied adm                 ... pos = 0.875 	neg = 0.125
+7. When young couple Ca                 ... pos = 0.0   	neg = 0.125
+8. Once out in the worl                 ... pos = 0.5   	neg = 0.375
+9. Here, living in the                  ... pos = 0.375 	neg = 0.0  
+10. And when Lt. Worthin                ... pos = 1.375 	neg = 0.125
+11. Quite simply, `The C                ... pos = 0.0   	neg = 0.125
+12. Another particularly                ... pos = 0.75  	neg = 0.25 
+13. I suspect that, with                ... pos = 0.375 	neg = 0.75 
+14. The process of evalu                ... pos = 0.125 	neg = 0.125
+15. Ultimately though, t                ... pos = 1.625 	neg = 0.25 
+16. Maguire (`Pleasantvi                ... pos = 1.625 	neg = 0.125
+17. Theron (the rising s                ... pos = 1.625 	neg = 0.375
+18. The remainder of the                ... pos = 0.25  	neg = 0    
+19. Backed by a beautifu                ... pos = 2.375 	neg = 0.0  
+20. Looking back on the                 ... pos = 0.0   	neg = 0.125
+21. At times, `The Cider                ... pos = 0.5   	neg = 0.625
+22. But `Cider House' st                ... pos = 0.625 	neg = 0.125
+23. John Irving should b                ... pos = 0.625 	neg = 0.125
+24. `The Cider House Rul                ... pos = 0.125 	neg = 0.875
+25. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+26. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-607-693 is Positive          ... pos = 18.25 	neg = 6.75 
+Overall score of document
+Total Pos = 18.25
+Total Neg = 6.75
+---------------------------------------------------------------------------

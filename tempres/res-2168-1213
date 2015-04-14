@@ -1,0 +1,34 @@
+0. A standard buddy mov                 ... pos = 0.625 	neg = 0.0  
+1. The little guy from                  ... pos = 0.0   	neg = 0.625
+2. The trailer explains                 ... pos = 0.25  	neg = 0.0  
+3. " The biggest mouth                  ... pos = 0.75  	neg = 0.125
+4. Chan and Tucker play                 ... pos = 0.375 	neg = 0.125
+5. The standard buddy m                 ... pos = 0.0   	neg = 0.375
+6. Rush Hour is more am                 ... pos = 0.5   	neg = 0.125
+7. This is definitely C                 ... pos = 0.75  	neg = 0.125
+8. His action scenes ar                 ... pos = 0.875 	neg = 0.0  
+9. His English is also                  ... pos = 1.375 	neg = 0.125
+10. Tucker is more unpre                ... pos = 0.0   	neg = 0.125
+11. He's high pitch whin                ... pos = 0.75  	neg = 0.875
+12. Still, something cli                ... pos = 0.0   	neg = 0.125
+13. The supporting cast                 ... pos = 0.75  	neg = 0.75 
+14. If you're an action                 ... pos = 0.875 	neg = 0.25 
+15. ') Tom Wilkinson mak                ... pos = 0.625 	neg = 0.25 
+16. ). There's some reas                ... pos = 0.625 	neg = 0.0  
+17. The soundtrack is go                ... pos = 1.125 	neg = 0.125
+18. ("Don't ever touch a                ... pos = 0.0   	neg = 0.0  
+19. ) The writers, Ross                 ... pos = 0.125 	neg = 0.75 
+20. There's nothing here                ... pos = 0.125 	neg = 0.375
+21. Director Brett Ratne                ... pos = 0.0   	neg = 0.125
+22. Thankfully, Rush Hou                ... pos = 0.375 	neg = 0.0  
+23. The plot may be midd                ... pos = 1.0   	neg = 0.625
+24. Jackie Chan fans sho                ... pos = 0.375 	neg = 0.125
+25. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+26. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+27. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2168-1213 is Positive        ... pos = 12.25 	neg = 6.125
+Overall score of document
+Total Pos = 12.25
+Total Neg = 6.125
+---------------------------------------------------------------------------

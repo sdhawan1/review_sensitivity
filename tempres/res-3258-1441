@@ -1,0 +1,38 @@
+0. This movie works on                  ... pos = 0.0   	neg = 0.0  
+1. There are elements o                 ... pos = 0.375 	neg = 0.0  
+2. It's an amalgam of a                 ... pos = 0.0   	neg = 0.0  
+3. Yes, the crew of the                 ... pos = 1.0   	neg = 0.5  
+4. Yup.                                 ... pos = 0     	neg = 0    
+5. Don't let the warmly                 ... pos = 1.125 	neg = 0.0  
+6. Those poeple, while                  ... pos = 0.625 	neg = 0.0  
+7. Unfortunately, they                  ... pos = 0.25  	neg = 0.875
+8. We'd otherwise have                  ... pos = 0.125 	neg = 0.0  
+9. We could have used t                 ... pos = 0.375 	neg = 0.0  
+10. I suppose that in ta                ... pos = 0.25  	neg = 0.0  
+11. I suppose I should e                ... pos = 0.0   	neg = 0.25 
+12. Bad guys, led by F.                 ... pos = 0.75  	neg = 1.0  
+13. Now, he's simply the                ... pos = 0.375 	neg = 1.625
+14. ) in cahoots with th                ... pos = 0.25  	neg = 0.0  
+15. They come up with th                ... pos = 0.0   	neg = 0.625
+16. The offer of casino                 ... pos = 0.0   	neg = 0.125
+17. Picard, through a se                ... pos = 0.875 	neg = 0.375
+18. He also gets laid in                ... pos = 0.0   	neg = 0.0  
+19. (Oh, we now have pro                ... pos = 0.0   	neg = 0.125
+20. Of course, the Enter                ... pos = 0.75  	neg = 0.25 
+21. The other amusing ti                ... pos = 0.0   	neg = 0.0  
+22. This ain't no fancy                 ... pos = 0     	neg = 0.25 
+23. It's one of the nast                ... pos = 0.5   	neg = 0.0  
+24. Riker got to use the                ... pos = 0.0   	neg = 0.0  
+25. I have the impressio                ... pos = 0.0   	neg = 0.75 
+26. If it did, it would                 ... pos = 0.0   	neg = 0.0  
+27. There are actually l                ... pos = 0.0   	neg = 0.875
+28. There are other line                ... pos = 0.0   	neg = 0.0  
+29. Boggle.                             ... pos = 0     	neg = 0    
+30. If I were the actors                ... pos = 0.125 	neg = 0.25 
+31. To think, the studio                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3258-1441 is Negative        ... pos = 7.75  	neg = 7.875
+Overall score of document
+Total Pos = 7.75
+Total Neg = 7.875
+---------------------------------------------------------------------------

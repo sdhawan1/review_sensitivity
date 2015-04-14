@@ -1,0 +1,42 @@
+0. Throughtout movie hi                 ... pos = 0.5   	neg = 0.125
+1. Sequels are never as                 ... pos = 1.5   	neg = 1.25 
+2. There are some excep                 ... pos = 0.25  	neg = 1.5  
+3. (The jury is still o                 ... pos = 0.625 	neg = 0.25 
+4. ) The ultimate rule                  ... pos = 0.0   	neg = 0.25 
+5. All of us have seen                  ... pos = 0.25  	neg = 0.875
+6. Even worse is seeing                 ... pos = 0.875 	neg = 1.125
+7. The last two sentenc                 ... pos = 0.375 	neg = 0.375
+8. While none of us sho                 ... pos = 0.75  	neg = 0.0  
+9. Elements add up to b                 ... pos = 1.375 	neg = 0.125
+10. Ichabod Crane (Depp,                ... pos = 0.5   	neg = 0.375
+11. He believes in using                ... pos = 1.0   	neg = 0.375
+12. He detests the usual                ... pos = 0.375 	neg = 0.75 
+13. He is sent to the no                ... pos = 0.0   	neg = 0.125
+14. Recently, several pe                ... pos = 0.0   	neg = 0.125
+15. All of the victims h                ... pos = 0.0   	neg = 0.875
+16. The townspeople beli                ... pos = 0.25  	neg = 0.75 
+17. This is preposterous                ... pos = 0.375 	neg = 1.125
+18. Searching for clues                 ... pos = 1.375 	neg = 0.0  
+19. He also takes a liki                ... pos = 0.125 	neg = 0.0  
+20. He also talks with v                ... pos = 0.125 	neg = 0.0  
+21. The clues begin to a                ... pos = 0.125 	neg = 0.25 
+22. Sleepy Hollow is ver                ... pos = 1.25  	neg = 0.125
+23. The town itself is b                ... pos = 1.25  	neg = 0.75 
+24. Tim Burton does a gr                ... pos = 0.125 	neg = 0.0  
+25. But besides the wond                ... pos = 1.375 	neg = 0.0  
+26. All of the scary sce                ... pos = 0.5   	neg = 1.625
+27. The marketing (once                 ... pos = 0.875 	neg = 0.625
+28. The supporting cast                 ... pos = 1.5   	neg = 1.0  
+29. The film is also sen                ... pos = 1.25  	neg = 0.625
+30. The most ideal way t                ... pos = 0.125 	neg = 0.125
+31. It shows all of the                 ... pos = 0.75  	neg = 0.75 
+32. Falling somewhere be                ... pos = 0.75  	neg = 0.625
+33. The Young-Uns: There                ... pos = 0.875 	neg = 0.0  
+34. There is also a brie                ... pos = 0.125 	neg = 0.375
+35. Good Age: 16 & Up. A                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6111-329 is Positive         ... pos = 22.25 	neg = 17.25
+Overall score of document
+Total Pos = 22.25
+Total Neg = 17.25
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. Starring Winona Ryde                 ... pos = 0     	neg = 0.0  
+1. Directed by James Ma                 ... pos = 0.0   	neg = 0    
+2. Rated R.. I'm usuall                 ... pos = 0.75  	neg = 0.25 
+3. It's almost uncanny.                 ... pos = 0.0   	neg = 0    
+4. But even as such, it                 ... pos = 0.0   	neg = 0.0  
+5. Reversing the gender                 ... pos = 0.5   	neg = 0.0  
+6. Sometimes it's trite                 ... pos = 0.5   	neg = 1.0  
+7. Ryder plays Susanna,                 ... pos = 0.875 	neg = 0.25 
+8. Though she claims sh                 ... pos = 0.125 	neg = 0.5  
+9. "), her parents insi                 ... pos = 0.0   	neg = 0.25 
+10. So off to Claymoore                 ... pos = 0.0   	neg = 0.75 
+11. Susanna forms a pecu                ... pos = 0.25  	neg = 0.375
+12. They and some other                 ... pos = 0.125 	neg = 1.0  
+13. Lisa furiously rebel                ... pos = 1.125 	neg = 0.625
+14. Since Susanna took t                ... pos = 0.25  	neg = 0.625
+15. The movie makes a bi                ... pos = 0.0   	neg = 0.25 
+16. " But no matter.                    ... pos = 0.0   	neg = 0.25 
+17. This isn't a particu                ... pos = 0.75  	neg = 0.0  
+18. The scenes in the ho                ... pos = 0.375 	neg = 0.0  
+19. It's manipulative, y                ... pos = 0.5   	neg = 0.625
+20. The movie works well                ... pos = 0.0   	neg = 0.125
+21. When head nurse Whoo                ... pos = 0.875 	neg = 0.375
+22. We see Susanna as an                ... pos = 0.875 	neg = 0.0  
+23. Her doctors and pare                ... pos = 0.5   	neg = 0.625
+24. She never makes an a                ... pos = 0.0   	neg = 0.0  
+25. Instead, she blindly                ... pos = 0.25  	neg = 0.0  
+26. The clincher is the                 ... pos = 0.0   	neg = 0.125
+27. Though Ryder gives a                ... pos = 2.125 	neg = 0.125
+28. I agree that Jolie w                ... pos = 0.875 	neg = 0.125
+29. Her performance jump                ... pos = 0.0   	neg = 0.625
+30. It surprises me, how                ... pos = 0.625 	neg = 0.375
+31. It reminds me of Sha                ... pos = 1.5   	neg = 0.25 
+32. Without being partic                ... pos = 0.375 	neg = 0.125
+33. Although its ultimat                ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5860-563 is Positive         ... pos = 14.375 	neg = 9.875
+Overall score of document
+Total Pos = 14.375
+Total Neg = 9.875
+---------------------------------------------------------------------------

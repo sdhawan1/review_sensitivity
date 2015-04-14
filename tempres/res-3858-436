@@ -1,0 +1,37 @@
+0. Imagine, if you like                 ... pos = 0.0   	neg = 0.5  
+1. He's been drawn back                 ... pos = 0.125 	neg = 0.125
+2. The investigation dr                 ... pos = 1.75  	neg = 0.0  
+3. Three of them have b                 ... pos = 0.75  	neg = 0.875
+4. Set on stopping this                 ... pos = 0.0   	neg = 0.0  
+5. I guess you could ca                 ... pos = 0.0   	neg = 0.25 
+6. But in a nutshell, t                 ... pos = 0.0   	neg = 0.125
+7. Instead of Somerset,                 ... pos = 0.0   	neg = 0.0  
+8. Since he's also give                 ... pos = 1.5   	neg = 0.125
+9. Even taken on its ow                 ... pos = 0.0   	neg = 0.875
+10. Patterson's novel ea                ... pos = 0.375 	neg = 0.125
+11. The movie, I'm                      ... pos = 0.0   	neg = 0.25 
+12. Fortunately, Klass a                ... pos = 0.875 	neg = 0.625
+13. Freeman turns in an                 ... pos = 0.125 	neg = 0.0  
+14. (Freeman's a good en                ... pos = 0.875 	neg = 0.125
+15. ) Much as I enjoy                   ... pos = 1.375 	neg = 1.375
+16. As a thriller, KISS                 ... pos = 0.0   	neg = 0.125
+17. We've got        the                ... pos = 0.0   	neg = 0.25 
+18. We've got the killer                ... pos = 0.5   	neg = 0.25 
+19. And while the scenes                ... pos = 0.0   	neg = 0    
+20. ) where Kate kicks                  ... pos = 1.25  	neg = 0.125
+21. Judd plays Kate stro                ... pos = 0.625 	neg = 0.0  
+22. The so-so        cin                ... pos = 0.375 	neg = 0.625
+23. We've also got the o                ... pos = 0.25  	neg = 0.125
+24. Their trauma is only                ... pos = 0.625 	neg = 1.625
+25. (I'm told that the n                ... pos = 0.0   	neg = 0.0  
+26. ) Instead, the movie                ... pos = 1.625 	neg = 0.125
+27. I wanted to loathe h                ... pos = 0.125 	neg = 0.0  
+28. Perhaps ironically,                 ... pos = 0.125 	neg = 1.625
+29. For a picture that d                ... pos = 0.5   	neg = 1.125
+30. --------------------                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3858-436 is Positive         ... pos = 13.75 	neg = 11.375
+Overall score of document
+Total Pos = 13.75
+Total Neg = 11.375
+---------------------------------------------------------------------------

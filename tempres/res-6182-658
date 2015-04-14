@@ -1,0 +1,11 @@
+0. The rivalry between                  ... pos = 2.375 	neg = 0.25 
+1. I left feeling like                  ... pos = 0.125 	neg = 0.0  
+2. As a side note, it's                 ... pos = 0.0   	neg = 0.0  
+3. She was the stronger                 ... pos = 1.625 	neg = 0.375
+4. Her performance was                  ... pos = 1.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6182-658 is Positive         ... pos = 5.875 	neg = 0.75 
+Overall score of document
+Total Pos = 5.875
+Total Neg = 0.75
+---------------------------------------------------------------------------

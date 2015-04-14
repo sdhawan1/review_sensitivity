@@ -1,0 +1,54 @@
+0. First, let us now pr                 ... pos = 0.375 	neg = 0.0  
+1. THE  TRUMAN SHOW had                 ... pos = 0.0   	neg = 0.875
+2. All these elements m                 ... pos = 0.0   	neg = 0.0  
+3. Although my students                 ... pos = 0.0   	neg = 0.0  
+4. I'll admit I rented                  ... pos = 0.0   	neg = 0.0  
+5. And a student teache                 ... pos = 0.0   	neg = 0.0  
+6. These are solid but                  ... pos = 0.625 	neg = 0.5  
+7. (From what  I've hea                 ... pos = 0.75  	neg = 0.125
+8. ). What causes me to                 ... pos = 0.875 	neg = 0.125
+9. Think back to 48 HOU                 ... pos = 0.125 	neg = 0.0  
+10. (I might better use                 ... pos = 0.0   	neg = 0.5  
+11. )  Wasn't this Eddie                ... pos = 0.0   	neg = 0.0  
+12. But didn't its confl                ... pos = 0.125 	neg = 0.0  
+13. I remember sitting                  ... pos = 0.25  	neg = 1.0  
+14. Well, THE TRUMAN SHO                ... pos = 0.75  	neg = 0.125
+15. When the picture ope                ... pos = 0.5   	neg = 0.25 
+16. But here's the  rub:                ... pos = 0.75  	neg = 0.0  
+17. One of the reasons t                ... pos = 0.625 	neg = 0.5  
+18. (This is done clever                ... pos = 0.375 	neg = 0.125
+19. )  The eaves-dropper                ... pos = 0.375 	neg = 0.625
+20. This is one type of                 ... pos = 0.0   	neg = 0.125
+21. Another type involve                ... pos = 0.0   	neg = 0.125
+22. No, these are not re                ... pos = 0.25  	neg = 0.25 
+23. Instead, they are  f                ... pos = 0.375 	neg = 0.125
+24. These are self-refle                ... pos = 1.625 	neg = 0.125
+25. That these endorseme                ... pos = 0.5   	neg = 0.5  
+26. "It's a life," says                 ... pos = 0.0   	neg = 0.0  
+27. The way in which wri                ... pos = 1.25  	neg = 0.125
+28. Gabriel Garcia Marqu                ... pos = 0.0   	neg = 0.0  
+29. This is the secret o                ... pos = 0.0   	neg = 0.125
+30. THE TRUMAN SHOW drop                ... pos = 0.875 	neg = 0.0  
+31. We see photos of you                ... pos = 0.0   	neg = 0.0  
+32. We see Truman buryin                ... pos = 0.25  	neg = 0.125
+33. We witness  countles                ... pos = 0.25  	neg = 0.0  
+34. In the end, we reali                ... pos = 1.0   	neg = 0.375
+35. One weakness is the                 ... pos = 0.625 	neg = 0.75 
+36. Pushed beyond what s                ... pos = 0.0   	neg = 0.0  
+37. " and soon disappear                ... pos = 0.0   	neg = 0.25 
+38. Another actress is c                ... pos = 0.625 	neg = 0.25 
+39. But wouldn't it have                ... pos = 0.625 	neg = 0.125
+40. One test I often app                ... pos = 0.0   	neg = 0.25 
+41. This test is subject                ... pos = 0.875 	neg = 0.25 
+42. Although I only guff                ... pos = 0.875 	neg = 0.0  
+43. >From his sickbed, h                ... pos = 0.0   	neg = 0.125
+44. I agree.                            ... pos = 0     	neg = 0.0  
+45. Carrey is no longer                 ... pos = 0.0   	neg = 0.25 
+46. It's the first film                 ... pos = 0.125 	neg = 0.0  
+47. My daughter is grate                ... pos = 0.125 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-5847-71 is Positive          ... pos = 16.75 	neg = 9.75 
+Overall score of document
+Total Pos = 16.75
+Total Neg = 9.75
+---------------------------------------------------------------------------

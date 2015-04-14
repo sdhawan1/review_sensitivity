@@ -1,0 +1,15 @@
+0. Starring: Casper Van                 ... pos = 0.75  	neg = 0.25 
+1. ' The only differenc                 ... pos = 0.25  	neg = 0.125
+2. In the story a high                  ... pos = 0.5   	neg = 0.0  
+3. Johnny only joins to                 ... pos = 0.0   	neg = 0.75 
+4. Eventually Johnny ge                 ... pos = 0.5   	neg = 0.125
+5. Meanwhile Johnny's b                 ... pos = 0.625 	neg = 0.0  
+6. Opinion: Lots of bul                 ... pos = 0.0   	neg = 0.25 
+7. I found 全tarship T                 ... pos = 0.375 	neg = 0.5  
+8. I suspect director P                 ... pos = 0.375 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-1997-416 is Positive         ... pos = 3.375 	neg = 3.125
+Overall score of document
+Total Pos = 3.375
+Total Neg = 3.125
+---------------------------------------------------------------------------

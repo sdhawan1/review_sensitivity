@@ -1,0 +1,16 @@
+0. Starring:  George Cl                 ... pos = 0.0   	neg = 0.5  
+1. Kelly reasons that s                 ... pos = 1.375 	neg = 0.75 
+2. Assisting her in fin                 ... pos = 0.375 	neg = 0.125
+3. Soon people are busy                 ... pos = 0.875 	neg = 0.375
+4. It's all great fun,                  ... pos = 0.625 	neg = 0.625
+5. The Peacemaker' is                 ... pos = 1.25  	neg = 0.125
+6. Opinion:  In search                  ... pos = 1.375 	neg = 0.25 
+7. However, most of the                 ... pos = 0.875 	neg = 1.0  
+8. This is enough to fi                 ... pos = 0.25  	neg = 0.125
+9. Although the acting                  ... pos = 1.125 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-4167-416 is Positive         ... pos = 8.125 	neg = 4.625
+Overall score of document
+Total Pos = 8.125
+Total Neg = 4.625
+---------------------------------------------------------------------------

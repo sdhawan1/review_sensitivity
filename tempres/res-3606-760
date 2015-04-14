@@ -1,0 +1,34 @@
+0. Director: Martin Sco                 ... pos = 0.875 	neg = 0.125
+1. Scorsese tells the s                 ... pos = 0.0   	neg = 0.125
+2. As the film progress                 ... pos = 0.5   	neg = 0.125
+3. The conflicts later                  ... pos = 0.0   	neg = 0.25 
+4. A few months ago I w                 ... pos = 0.0   	neg = 0.125
+5. While that film was                  ... pos = 1.25  	neg = 0.5  
+6. Entertainment value                  ... pos = 0.25  	neg = 1.5  
+7. It's not that he fla                 ... pos = 0.75  	neg = 0.125
+8. The whole time I wat                 ... pos = 0.0   	neg = 0.125
+9. The Tibetans, as por                 ... pos = 0.625 	neg = 0.0  
+10. I feel like the real                ... pos = 0.0   	neg = 0.125
+11. They are so set in t                ... pos = 0.25  	neg = 1.125
+12. I felt like they nee                ... pos = 0.0   	neg = 1.0  
+13. So, I viewed Kundun                 ... pos = 0.625 	neg = 0.125
+14. Textbooks, even nove                ... pos = 0.25  	neg = 0.0  
+15. I was, however, at l                ... pos = 0.125 	neg = 0.375
+16. Tsarong (with whom I                ... pos = 0.875 	neg = 0.375
+17. It doesn't help that                ... pos = 0.875 	neg = 0    
+18. Just for realism's s                ... pos = 1.0   	neg = 0.5  
+19. I wouldn't say Kundu                ... pos = 1.0   	neg = 0.25 
+20. The landscapes are a                ... pos = 0.5   	neg = 0.375
+21. As stated earlier, P                ... pos = 0.75  	neg = 0.125
+22. Atmosphere-wise, the                ... pos = 0.0   	neg = 0.125
+23. But this can't make                 ... pos = 0.375 	neg = 0.0  
+24. I'm not exactly sure                ... pos = 1.556 	neg = 0.375
+25. This being the secon                ... pos = 1.375 	neg = 0.125
+26. Their religion and w                ... pos = 0.375 	neg = 0.875
+27. But if that's not wh                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3606-760 is Positive         ... pos = 14.181 	neg = 9.0  
+Overall score of document
+Total Pos = 14.181
+Total Neg = 9.0
+---------------------------------------------------------------------------

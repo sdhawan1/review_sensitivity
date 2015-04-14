@@ -1,0 +1,30 @@
+0. Release Date: Octobe                 ... pos = 1.125 	neg = 0.375
+1. Those movies which a                 ... pos = 2.125 	neg = 0.375
+2. The most disappointi                 ... pos = 0.75  	neg = 0.875
+3. The latest product o                 ... pos = 0.625 	neg = 0.375
+4. With all of the tale                 ... pos = 0.125 	neg = 0.25 
+5. (It still may harbor                 ... pos = 2.0   	neg = 0.0  
+6. ) It's directed by J                 ... pos = 0.625 	neg = 0.0  
+7. The script is writte                 ... pos = 0.375 	neg = 0.25 
+8. Finally, the two top                 ... pos = 1.5   	neg = 0.0  
+9. For all of these ing                 ... pos = 0.75  	neg = 0.5  
+10. The results are quit                ... pos = 0.25  	neg = 0.0  
+11. BELOVED is a three-h                ... pos = 0.125 	neg = 0.625
+12. Demme and Busia have                ... pos = 1.125 	neg = 0.0  
+13. Herein lies the stor                ... pos = 0.0   	neg = 0    
+14. For her, the year 18                ... pos = 0.125 	neg = 0.0  
+15. Although Sethe agree                ... pos = 0.375 	neg = 0.0  
+16. Not long after Paul                 ... pos = 0.5   	neg = 0.5  
+17. Sethe and Denver are                ... pos = 0.375 	neg = 0.25 
+18. And the climax canno                ... pos = 0.0   	neg = 0.0  
+19. Both 1997 and 1998 h                ... pos = 0.125 	neg = 0.0  
+20. Anything which takes                ... pos = 0.5   	neg = 0.0  
+21. For therein lies the                ... pos = 1.0   	neg = 0.75 
+22. The only thing that                 ... pos = 1.625 	neg = 0.625
+23. Although some viewer                ... pos = 2.375 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-3335-700 is Positive         ... pos = 18.5  	neg = 6.75 
+Overall score of document
+Total Pos = 18.5
+Total Neg = 6.75
+---------------------------------------------------------------------------

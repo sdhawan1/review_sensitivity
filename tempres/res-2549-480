@@ -1,0 +1,31 @@
+0. Rated: R for violenc                 ... pos = 0.0   	neg = 0.125
+1. Starring: Tom Hanks,                 ... pos = 0.75  	neg = 0.0  
+2. Stephen King has alw                 ... pos = 1.75  	neg = 0.875
+3. Remember, however St                 ... pos = 0.75  	neg = 0.0  
+4. Now in 1999 we get y                 ... pos = 2.0   	neg = 0.5  
+5. Tom Hanks plays Paul                 ... pos = 0.125 	neg = 0.125
+6. He works with inmate                 ... pos = 0.0   	neg = 0.0  
+7. A new inmate comes a                 ... pos = 1.0   	neg = 0.375
+8. John Coffey however                  ... pos = 0.125 	neg = 0.125
+9. Paul Edgecomb starts                 ... pos = 0.0   	neg = 0.25 
+10. Then John does the m                ... pos = 0.375 	neg = 0.25 
+11. Now Paul must try an                ... pos = 0.75  	neg = 1.0  
+12. The best thing about                ... pos = 0.75  	neg = 0.125
+13. In fact he might eve                ... pos = 1.875 	neg = 0.625
+14. Tom Hanks (who never                ... pos = 0.75  	neg = 1.25 
+15. Surprisingly enough                 ... pos = 1.25  	neg = 0.25 
+16. The supporting perfo                ... pos = 1.875 	neg = 0.375
+17. The screenplay by Fr                ... pos = 0.5   	neg = 0.125
+18. The whole movie move                ... pos = 1.125 	neg = 0.125
+19. In other words "The                 ... pos = 0.0   	neg = 0.125
+20. It's never slow and                 ... pos = 0.5   	neg = 0.25 
+21. The best thing about                ... pos = 1.5   	neg = 0.25 
+22. Movies that do this                 ... pos = 0.625 	neg = 0.125
+23. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+24. Brandon Herring Http                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2549-480 is Positive         ... pos = 18.375 	neg = 7.25 
+Overall score of document
+Total Pos = 18.375
+Total Neg = 7.25
+---------------------------------------------------------------------------

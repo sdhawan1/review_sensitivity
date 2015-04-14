@@ -1,0 +1,54 @@
+0. Cast: Jason Robards,                 ... pos = 0.625 	neg = 0.125
+1. And the game show ho                 ... pos = 0.0   	neg = 0.0  
+2. And the ex-boy geniu                 ... pos = 0.25  	neg = 0    
+3. There is the story o                 ... pos = 0.0   	neg = 0.125
+4. His lost son, Frank                  ... pos = 0.0   	neg = 0.0  
+5. And the dying man's                  ... pos = 0.0   	neg = 0    
+6. The caretaker, Phil                  ... pos = 0.0   	neg = 0    
+7. And there is the sto                 ... pos = 0.375 	neg = 0.125
+8. And the daughter, Cl                 ... pos = 0.0   	neg = 0.0  
+9. And the police offic                 ... pos = 0.625 	neg = 0    
+10. And this will all ma                ... pos = 0.0   	neg = 0.0  
+11. ". The successor to                 ... pos = 0.875 	neg = 0.125
+12. "Magnolia's" detract                ... pos = 0.25  	neg = 0.75 
+13. Roger Ebert would sa                ... pos = 0.25  	neg = 0.75 
+14. "  Half the people w                ... pos = 0.875 	neg = 0.0  
+15. "Magnolia" is a coll                ... pos = 0.0   	neg = 0.125
+16. Stanley Spector (Jer                ... pos = 0.0   	neg = 0.25 
+17. Stanley is three day                ... pos = 0.0   	neg = 0.125
+18. Donnie is currently                 ... pos = 0.0   	neg = 0.125
+19. Jimmy Gator's got is                ... pos = 0.5   	neg = 0.25 
+20. His estranged daught                ... pos = 0.0   	neg = 1.25 
+21. Walters is a stand o                ... pos = 0.0   	neg = 0.125
+22. She engages in meani                ... pos = 0.125 	neg = 0.75 
+23. Her mother, Rose Gat                ... pos = 0.625 	neg = 0.125
+24. Jim Kurring (John C.                ... pos = 0.75  	neg = 0.625
+25. Then, there's the Pa                ... pos = 0.0   	neg = 0.0  
+26. Earl Partridge (Jaso                ... pos = 0.0   	neg = 0.25 
+27. He tells Phil his dy                ... pos = 0.0   	neg = 0.5  
+28. This is easily the m                ... pos = 0.25  	neg = 0.125
+29. The best dialogue an                ... pos = 0.375 	neg = 0.0  
+30. Two-time Oscar winne                ... pos = 1.5   	neg = 0.625
+31. "  He plays a charac                ... pos = 1.0   	neg = 0.5  
+32. ". The man behind it                ... pos = 0.125 	neg = 0.125
+33. This guy has more in                ... pos = 1.125 	neg = 0.0  
+34. For example, each ac                ... pos = 0.0   	neg = 0.125
+35. He opens the film wi                ... pos = 0.0   	neg = 0.375
+36. P.T.                                ... pos = 0.0   	neg = 0.0  
+37. Anderson said, "The                 ... pos = 0.125 	neg = 0.125
+38. But it's also a prom                ... pos = 1.125 	neg = 0.125
+39. ". Indeed it does, o                ... pos = 1.625 	neg = 0.125
+40. It's one of several                 ... pos = 0.125 	neg = 0    
+41. Jon Brion's score or                ... pos = 0.0   	neg = 0.0  
+42. P.T.                                ... pos = 0.0   	neg = 0.0  
+43. Anderson said, "I re                ... pos = 0.0   	neg = 0.0  
+44. Her songs become the                ... pos = 0.375 	neg = 0.0  
+45. "  That and a specta                ... pos = 0.125 	neg = 0.0  
+46. Like a Kubrick film,                ... pos = 0.375 	neg = 0.0  
+47. "  However, 20 years                ... pos = 1.5   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-4191-1501 is Positive        ... pos = 15.875 	neg = 9.5  
+Overall score of document
+Total Pos = 15.875
+Total Neg = 9.5
+---------------------------------------------------------------------------

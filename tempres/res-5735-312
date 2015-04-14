@@ -1,0 +1,27 @@
+0. Thank goodness for R                 ... pos = 0.75  	neg = 0.0  
+1. My mother came to vi                 ... pos = 0.375 	neg = 0.125
+2. The film choice is r                 ... pos = 1.625 	neg = 1.125
+3. On reading the revie                 ... pos = 0.25  	neg = 0.5  
+4. My eyes rolled.                      ... pos = 0.5   	neg = 0    
+5. Sheesh... give me br                 ... pos = 0.375 	neg = 0.125
+6. Gladiator?                           ... pos = 0.0   	neg = 0    
+7. U-571?                               ... pos = 0     	neg = 0    
+8. Final Destination?                   ... pos = 0.0   	neg = 0    
+9. Hmmm... maybe this h                 ... pos = 0.25  	neg = 0.875
+10. The guy - Bob (David                ... pos = 1.625 	neg = 1.375
+11. Grace lives with her                ... pos = 0.0   	neg = 0.0  
+12. She also hangs aroun                ... pos = 0.875 	neg = 0.5  
+13. (Did I mention that                 ... pos = 0.75  	neg = 0.0  
+14. And nice?                           ... pos = 0.0   	neg = 0    
+15. ). In Return To Me,                 ... pos = 1.5   	neg = 0.625
+16. It pushes the right                 ... pos = 0.0   	neg = 0.375
+17. The film is also let                ... pos = 0.75  	neg = 0.625
+18. Despite a lack of pu                ... pos = 1.375 	neg = 0.25 
+19. (If anyone wants to                 ... pos = 0.125 	neg = 0.0  
+20. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5735-312 is Positive         ... pos = 11.125 	neg = 6.5  
+Overall score of document
+Total Pos = 11.125
+Total Neg = 6.5
+---------------------------------------------------------------------------

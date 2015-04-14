@@ -1,0 +1,61 @@
+0. Note: Just a little                  ... pos = 0.0   	neg = 0.375
+1. Rated: R for graphic                 ... pos = 0.5   	neg = 0.375
+2. Starring: Edward Nor                 ... pos = 0.0   	neg = 0.5  
+3. "The first rule of F                 ... pos = 0.125 	neg = 0.25 
+4. I will say that it i                 ... pos = 0.875 	neg = 1.5  
+5. Brad Pitt give his b                 ... pos = 0.375 	neg = 0.0  
+6. Being a David Finche                 ... pos = 0.75  	neg = 0.75 
+7. Ok let me try to tel                 ... pos = 0.125 	neg = 0.5  
+8. He then starts visit                 ... pos = 0.625 	neg = 0.0  
+9. He goes to groups fo                 ... pos = 0.25  	neg = 0.25 
+10. That's where he meet                ... pos = 0.0   	neg = 0.875
+11. She too going to gro                ... pos = 0.0   	neg = 0.25 
+12. Then the fun begins,                ... pos = 0.375 	neg = 0.0  
+13. He meets Tyler Durde                ... pos = 0.0   	neg = 0.0  
+14. They instantly hit i                ... pos = 0.0   	neg = 0.625
+15. The two decide to st                ... pos = 0.375 	neg = 0.0  
+16. The club gets underw                ... pos = 0.0   	neg = 0.25 
+17. From here on I ain't                ... pos = 0     	neg = 0.25 
+18. The whole movie is a                ... pos = 0.75  	neg = 0.125
+19. Nothing less we can                 ... pos = 0.75  	neg = 0.875
+20. David Fincher gives                 ... pos = 0.875 	neg = 0.0  
+21. What we don't know i                ... pos = 0.375 	neg = 0.125
+22. The audience has to                 ... pos = 0.0   	neg = 1.0  
+23. Brad Pitt is one of                 ... pos = 1.5   	neg = 0.125
+24. He's one of those pe                ... pos = 0.125 	neg = 0.125
+25. Brad Pitt just bring                ... pos = 1.0   	neg = 0.125
+26. Oscar Worthy work he                ... pos = 0.5   	neg = 0.0  
+27. Edward Nortan who ga                ... pos = 1.125 	neg = 0.0  
+28. The way he relates t                ... pos = 0.875 	neg = 0.125
+29. Helena Bonham Carter                ... pos = 0.0   	neg = 0.5  
+30. The writing in the m                ... pos = 0.625 	neg = 0.125
+31. It has a bit of ever                ... pos = 0.0   	neg = 0.125
+32. Both mixing into one                ... pos = 0.5   	neg = 0.625
+33. All the dialogue tha                ... pos = 1.375 	neg = 0.125
+34. Another thing I foun                ... pos = 1.0   	neg = 0.375
+35. It came away from th                ... pos = 0.5   	neg = 0.0  
+36. It has a dark, gritt                ... pos = 0.25  	neg = 0.125
+37. This stuff can happe                ... pos = 0.0   	neg = 0.25 
+38. By the end we are le                ... pos = 0.25  	neg = 0.0  
+39. The last 30 minutes                 ... pos = 0.0   	neg = 0.125
+40. The bottom line is F                ... pos = 1.375 	neg = 0.25 
+41. Every so often a mov                ... pos = 0.25  	neg = 0.0  
+42. Fight Club is that m                ... pos = 0.0   	neg = 0.125
+43. A very controversial                ... pos = 1.25  	neg = 0.0  
+44. Should these things                 ... pos = 0.0   	neg = 0.0  
+45. Should we really hav                ... pos = 0.0   	neg = 0.0  
+46. That isn't for me to                ... pos = 0.0   	neg = 0.0  
+47. But as far as I'm co                ... pos = 0.75  	neg = 0.125
+48. If you think this mo                ... pos = 0.0   	neg = 0.375
+49. Forget it this is a                 ... pos = 1.125 	neg = 0.375
+50. The movie has a side                ... pos = 0.5   	neg = 0.125
+51. But remember when yo                ... pos = 0.5   	neg = 0.0  
+52. See it, live it, exp                ... pos = 0.0   	neg = 0.125
+53. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+54. Brandon Herring Movi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3869-1102 is Positive        ... pos = 22.625 	neg = 13.25
+Overall score of document
+Total Pos = 22.625
+Total Neg = 13.25
+---------------------------------------------------------------------------

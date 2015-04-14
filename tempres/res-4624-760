@@ -1,0 +1,42 @@
+0. Director:  Stephen                  ... pos = 1.375 	neg = 0.75 
+1. Lost in Space, the n                 ... pos = 0.5   	neg = 1.0  
+2. I can watch and enjo                 ... pos = 1.0   	neg = 0.875
+3. Lost in Space isn't                  ... pos = 0.25  	neg = 1.25 
+4. There are too many c                 ... pos = 2.0   	neg = 1.25 
+5. It's like trying to                  ... pos = 0.0   	neg = 0.875
+6. You'll end up with s                 ... pos = 0.75  	neg = 0.0  
+7. We are introduced to                 ... pos = 1.5   	neg = 0.125
+8. The hero is Major Do                 ... pos = 0.625 	neg = 0.125
+9. He's recruited to es                 ... pos = 0.375 	neg = 0.0  
+10. The Robinsons are le                ... pos = 0.25  	neg = 0.0  
+11. The children are Jud                ... pos = 0.375 	neg = 0.0  
+12. Also onboard is Dr.                 ... pos = 0.0   	neg = 0.75 
+13. Well, he only fails                 ... pos = 0.5   	neg = 0.75 
+14. Finally, about forty                ... pos = 0.25  	neg = 0.0  
+15. After this, the stor                ... pos = 0.375 	neg = 0.125
+16. They end up at some                 ... pos = 0.25  	neg = 2.125
+17. Later, they crash on                ... pos = 1.25  	neg = 0.75 
+18. Anyone seen any of t                ... pos = 0.0   	neg = 0.0  
+19. What a tiresome jour                ... pos = 0.0   	neg = 0.375
+20. I knew I was in trou                ... pos = 0.25  	neg = 1.375
+21. After that, the best                ... pos = 1.5   	neg = 0.75 
+22. Unlike the digital b                ... pos = 0.875 	neg = 0.25 
+23. It all looks distrac                ... pos = 0.125 	neg = 0.375
+24. Speaking of live act                ... pos = 0.0   	neg = 0.0  
+25. Gary Oldman is good                 ... pos = 2.375 	neg = 0.625
+26. The biggest disappoi                ... pos = 0.75  	neg = 1.0  
+27. William Hurt and Mim                ... pos = 0.0   	neg = 0.0  
+28. The other two kids,                 ... pos = 1.375 	neg = 0.0  
+29. I don't blame any of                ... pos = 0.0   	neg = 0.75 
+30. I really expected to                ... pos = 0.375 	neg = 0.25 
+31. I don't understand h                ... pos = 0.375 	neg = 0.0  
+32. There are a few plea                ... pos = 1.0   	neg = 0.125
+33. And the actors, desp                ... pos = 1.0   	neg = 0.125
+34. But Lost in Space is                ... pos = 0.5   	neg = 1.125
+35. But hope is not lost                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4624-760 is Positive         ... pos = 22.625 	neg = 18.0 
+Overall score of document
+Total Pos = 22.625
+Total Neg = 18.0
+---------------------------------------------------------------------------

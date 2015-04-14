@@ -1,0 +1,36 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Glen Morg                 ... pos = 0.0   	neg = 0    
+2. Photographed by Robe                 ... pos = 0.0   	neg = 0.0  
+3. I found myself force                 ... pos = 1.0   	neg = 0.125
+4. " I had to  answer n                 ... pos = 0     	neg = 0.25 
+5. While I do usually t                 ... pos = 0.875 	neg = 0.25 
+6. Sometimes it's  heal                 ... pos = 0.625 	neg = 0.125
+7. "Final Destination"                  ... pos = 0.0   	neg = 0.0  
+8. It's not a great hor                 ... pos = 0.375 	neg = 0.75 
+9. It simply inspires                   ... pos = 1.0   	neg = 0.5  
+10. I usually find that                 ... pos = 0.0   	neg = 0.375
+11. What distinguishes t                ... pos = 0.5   	neg = 0.75 
+12. The story begins whe                ... pos = 0.0   	neg = 0.0  
+13. One of them, Alex (D                ... pos = 0.75  	neg = 0.0  
+14. He freaks out trying                ... pos = 0.0   	neg = 1.625
+15. From the airport thi                ... pos = 0.5   	neg = 0.375
+16. Are the survivors lu                ... pos = 1.0   	neg = 0    
+17. Well, no, because th                ... pos = 1.125 	neg = 2.5  
+18. All our heroes have                 ... pos = 0.5   	neg = 0.375
+19. Ah, no problem.                     ... pos = 0     	neg = 0.5  
+20. It's unconventional                 ... pos = 0.375 	neg = 0.5  
+21. Refreshing, too, sin                ... pos = 0.25  	neg = 1.375
+22. Instead we get elabo                ... pos = 0.5   	neg = 0.25 
+23. I don't want to give                ... pos = 0.625 	neg = 1.0  
+24. We know he's  going                 ... pos = 0.625 	neg = 0.875
+25. This is of course si                ... pos = 0.625 	neg = 0.5  
+26. We leer at how grues                ... pos = 0.25  	neg = 0.125
+27. I suspect "Final  De                ... pos = 0.875 	neg = 0.875
+28. Okay, so it deals wi                ... pos = 0.25  	neg = 0.375
+29. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5575-1540 is Negative        ... pos = 12.875 	neg = 14.375
+Overall score of document
+Total Pos = 12.875
+Total Neg = 14.375
+---------------------------------------------------------------------------

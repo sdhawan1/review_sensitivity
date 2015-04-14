@@ -1,0 +1,28 @@
+0. Rated PG-13: Sci-fi                  ... pos = 0.125 	neg = 0.0  
+1. Starring: John Travo                 ... pos = 0.0   	neg = 0.0  
+2. So I went and saw th                 ... pos = 0.125 	neg = 1.5  
+3. Well let me be the f                 ... pos = 0.125 	neg = 1.75 
+4. Roger Christianson w                 ... pos = 0.0   	neg = 0.75 
+5. The look of the film                 ... pos = 1.625 	neg = 0.5  
+6. The sound is terribl                 ... pos = 0.0   	neg = 1.375
+7. The acting is nothin                 ... pos = 0     	neg = 1.5  
+8. Here's the so-called                 ... pos = 0.25  	neg = 0.25 
+9. ) are invading Earth                 ... pos = 0.875 	neg = 0.875
+10. One thing: he has to                ... pos = 0.5   	neg = 1.0  
+11. Of course the sideki                ... pos = 0.125 	neg = 0.125
+12. ) Forest Whitaker, w                ... pos = 0.0   	neg = 0.375
+13. Our friendly human J                ... pos = 0.125 	neg = 1.875
+14. I'm not really sure                 ... pos = 0.25  	neg = 1.5  
+15. Everything in this f                ... pos = 0.75  	neg = 1.0  
+16. In fact I don't reme                ... pos = 0.875 	neg = 0.125
+17. In fact there is no                 ... pos = 0.5   	neg = 0.125
+18. Throughout the entir                ... pos = 0.25  	neg = 1.0  
+19. My advice to Hollywo                ... pos = 1.25  	neg = 0.0  
+20. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+21. For more reviews ple                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5456-480 is Negative         ... pos = 7.75  	neg = 15.625
+Overall score of document
+Total Pos = 7.75
+Total Neg = 15.625
+---------------------------------------------------------------------------

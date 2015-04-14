@@ -1,0 +1,55 @@
+0. Mystery Men Starring                 ... pos = 0.25  	neg = 0.375
+1. Mystery Men is a ver                 ... pos = 2.25  	neg = 0.125
+2. Every summer we alwa                 ... pos = 0.0   	neg = 0.25 
+3. And every summer we                  ... pos = 0.0   	neg = 0.0  
+4. At the beginning of                  ... pos = 0.0   	neg = 0.625
+5. Unfortunately, this                  ... pos = 0.5   	neg = 0.875
+6. What got lost was a                  ... pos = 1.5   	neg = 0.125
+7. The graphics in this                 ... pos = 0.25  	neg = 0.125
+8. They are very colorf                 ... pos = 1.375 	neg = 0    
+9. It is in a futuristi                 ... pos = 0.0   	neg = 0.125
+10. Then, there is the t                ... pos = 0.0   	neg = 0.125
+11. Furious, The Shovele                ... pos = 0.375 	neg = 0.0  
+12. They are the superhe                ... pos = 0.375 	neg = 0    
+13. Things go afoul when                ... pos = 0.625 	neg = 0.0  
+14. He has done such a g                ... pos = 1.0   	neg = 0.25 
+15. Therefore, Captain A                ... pos = 0.0   	neg = 0.0  
+16. Chaos ensues as Casa                ... pos = 0.125 	neg = 0.125
+17. They do some recruit                ... pos = 0.25  	neg = 0.75 
+18. As stated before, th                ... pos = 1.0   	neg = 0.375
+19. Movies can always en                ... pos = 0.625 	neg = 0.125
+20. In Mystery Men, the                 ... pos = 0.625 	neg = 0.0  
+21. Ben Stiller and Jane                ... pos = 0.375 	neg = 0    
+22. Hank Azaria stands o                ... pos = 0.0   	neg = 0.125
+23. William H. Macy give                ... pos = 0.625 	neg = 0.125
+24. But perhaps the funn                ... pos = 0.5   	neg = 0.0  
+25. PeeWee Herman, and W                ... pos = 0.0   	neg = 0    
+26. Reubens plays the fl                ... pos = 0.0   	neg = 0.625
+27. These performances a                ... pos = 1.25  	neg = 0.0  
+28. Unlike Ben Stiller's                ... pos = 1.25  	neg = 0.125
+29. It will not have you                ... pos = 0.375 	neg = 0.125
+30. Are there any proble                ... pos = 0.25  	neg = 0.25 
+31. Of course.                          ... pos = 0     	neg = 0.0  
+32. This could have been                ... pos = 0.25  	neg = 0.125
+33. The script is underw                ... pos = 0.375 	neg = 0.125
+34. They are so funny th                ... pos = 0.25  	neg = 0.0  
+35. Kinka Usher, the dir                ... pos = 0.0   	neg = 0.5  
+36. In particular, Still                ... pos = 0.0   	neg = 0.0  
+37. Despite all of this,                ... pos = 0.25  	neg = 0.0  
+38. And the other detrac                ... pos = 0.0   	neg = 0.125
+39. The spoof ends in th                ... pos = 0.0   	neg = 0.0  
+40. Instead of having a                 ... pos = 0.125 	neg = 0.125
+41. In this case, each m                ... pos = 0.125 	neg = 0.0  
+42. This detracts from t                ... pos = 0.125 	neg = 0.125
+43. Overall, Mystery Men                ... pos = 1.0   	neg = 0.125
+44. It is a spoof of not                ... pos = 0.0   	neg = 0.125
+45. This may be one of t                ... pos = 0.375 	neg = 0.25 
+46. Unfortunately, stiff                ... pos = 1.875 	neg = 0.875
+47. Rating: 3 Stars Out                 ... pos = 0     	neg = 0.0  
+48. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1731-493 is Positive         ... pos = 20.625 	neg = 8.25 
+Overall score of document
+Total Pos = 20.625
+Total Neg = 8.25
+---------------------------------------------------------------------------

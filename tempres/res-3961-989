@@ -1,0 +1,28 @@
+0. The story of Queen E                 ... pos = 0.0   	neg = 0.25 
+1. Both girls were the                  ... pos = 0.125 	neg = 0.125
+2. Although Henry had s                 ... pos = 0.0   	neg = 0.5  
+3. It was this struggle                 ... pos = 0.0   	neg = 0.125
+4. Elizabeth was a fun-                 ... pos = 1.125 	neg = 0.375
+5. She adored wearing t                 ... pos = 1.375 	neg = 0.125
+6. Although Elizabeth c                 ... pos = 0.25  	neg = 0.25 
+7. According to this sc                 ... pos = 0.375 	neg = 0.0  
+8. The film successfull                 ... pos = 0.25  	neg = 0.125
+9. The religious issues                 ... pos = 0.875 	neg = 0.0  
+10. The acting is excell                ... pos = 2.0   	neg = 0.5  
+11. Cate Blanchett matur                ... pos = 0.5   	neg = 0    
+12. John Gielgud appears                ... pos = 0.0   	neg = 0.0  
+13. It is sad that we di                ... pos = 0.0   	neg = 0.875
+14. All of the other mal                ... pos = 1.0   	neg = 0.0  
+15. There is some nudity                ... pos = 0.0   	neg = 0.625
+16. There are also some                 ... pos = 0.875 	neg = 0.0  
+17. It will help you enj                ... pos = 0.75  	neg = 0.0  
+18. The motto of the fil                ... pos = 0.0   	neg = 0.125
+19. It does explain itse                ... pos = 0.0   	neg = 0.0  
+20. I would love to see                 ... pos = 1.25  	neg = 0.0  
+21. I give it a B+.. .                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3961-989 is Positive         ... pos = 10.75 	neg = 4.0  
+Overall score of document
+Total Pos = 10.75
+Total Neg = 4.0
+---------------------------------------------------------------------------

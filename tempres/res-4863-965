@@ -1,0 +1,39 @@
+0. Stigmata was markete                 ... pos = 0.375 	neg = 0.125
+1. It's a religious thr                 ... pos = 0.0   	neg = 0.0  
+2. There is a differenc                 ... pos = 0.25  	neg = 0.125
+3. Whereas (good) horro                 ... pos = 1.125 	neg = 0.0  
+4. Doesn't make you lea                 ... pos = 0.5   	neg = 0.0  
+5. Think Omen, Exorcist                 ... pos = 0.0   	neg = 0.0  
+6. All the same though,                 ... pos = 1.125 	neg = 0.125
+7. But the dramatics ar                 ... pos = 0.25  	neg = 0.0  
+8. It opens with Father                 ... pos = 0.0   	neg = 0.0  
+9. And of course he stu                 ... pos = 0.0   	neg = 0.5  
+10. And of course no one                ... pos = 0.125 	neg = 0.25 
+11. Cut to Philadelphia,                ... pos = 0.125 	neg = 0.0  
+12. Kiernan comes to inv                ... pos = 0.0   	neg = 0.0  
+13. All of this is typic                ... pos = 0.125 	neg = 0.125
+14. What isn't typical,                 ... pos = 0.125 	neg = 0.125
+15. First, there's the R                ... pos = 0.625 	neg = 0.0  
+16. Second, there's some                ... pos = 0.875 	neg = 0.0  
+17. Third, there's no ch                ... pos = 1.375 	neg = 0.375
+18. It does work, though                ... pos = 0.625 	neg = 0.25 
+19. Especially effective                ... pos = 1.625 	neg = 0.25 
+20. Something is, as Kie                ... pos = 0.0   	neg = 0.125
+21. And it's more or les                ... pos = 0.5   	neg = 0.625
+22. Meaning the people w                ... pos = 1.125 	neg = 0.25 
+23. Effective also is th                ... pos = 0.25  	neg = 0.125
+24. Like Se7en, which is                ... pos = 0.375 	neg = 0.875
+25. Not quite as effecti                ... pos = 2.5   	neg = 0.5  
+26. Too--and even though                ... pos = 0.0   	neg = 0.75 
+27. Or, the only viable                 ... pos = 0.375 	neg = 0.0  
+28. It is unsettling, it                ... pos = 0.875 	neg = 0.25 
+29. Twice as unsettling                 ... pos = 1.375 	neg = 0.375
+30. It doesn't quite mak                ... pos = 0.0   	neg = 0.25 
+31. Even the religious t                ... pos = 0.0   	neg = 0.0  
+32. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4863-965 is Positive         ... pos = 16.625 	neg = 6.375
+Overall score of document
+Total Pos = 16.625
+Total Neg = 6.375
+---------------------------------------------------------------------------

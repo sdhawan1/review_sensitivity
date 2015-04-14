@@ -1,0 +1,45 @@
+0. I haven't read _Belo                 ... pos = 0.0   	neg = 0.125
+1. The story is of Seth                 ... pos = 0.625 	neg = 0.125
+2. Digging deeper, the                  ... pos = 2.0   	neg = 0.0  
+3. The film "Beloved" e                 ... pos = 0.375 	neg = 0.25 
+4. If ever there were t                 ... pos = 1.375 	neg = 0.5  
+5. That character is pl                 ... pos = 0.875 	neg = 0.25 
+6. She isn't mysterious                 ... pos = 0.5   	neg = 0    
+7. She isn't horrifying                 ... pos = 0.0   	neg = 0    
+8. She doesn't evoke th                 ... pos = 0.625 	neg = 0.25 
+9. She evokes the chees                 ... pos = 0.375 	neg = 0.0  
+10. For example, to evok                ... pos = 0.0   	neg = 0.5  
+11. Scary?                              ... pos = 0     	neg = 0.75 
+12. Why, it's flat-out h                ... pos = 0     	neg = 0.0  
+13. Gusts of laughter we                ... pos = 0.0   	neg = 0.125
+14. The rest of the cast                ... pos = 1.125 	neg = 0.125
+15. Oprah Winfrey is goo                ... pos = 0.75  	neg = 0.25 
+16. Danny Glover suffice                ... pos = 0.25  	neg = 0.0  
+17. The real surprise is                ... pos = 0.0   	neg = 0.125
+18. She's fantastic, in                 ... pos = 0.625 	neg = 0    
+19. When she's onscreen,                ... pos = 0.625 	neg = 0.0  
+20. Elise's performance                 ... pos = 0.0   	neg = 0.125
+21. At three hours, the                 ... pos = 0.125 	neg = 0.75 
+22. Further, it could ha                ... pos = 0.375 	neg = 0.25 
+23. Ants crawling on a y                ... pos = 0.0   	neg = 0.0  
+24. A dog's eye poked ou                ... pos = 0.0   	neg = 0.125
+25. Oprah urinating?                    ... pos = 0.0   	neg = 0    
+26. A pregnant naked wom                ... pos = 0.0   	neg = 0.125
+27. Still reading this?                 ... pos = 0.0   	neg = 0    
+28. Back to the title ch                ... pos = 0.875 	neg = 0.0  
+29. Perhaps the characte                ... pos = 1.0   	neg = 1.25 
+30. Perhaps it would hav                ... pos = 1.0   	neg = 0.875
+31. My point being, as l                ... pos = 0.75  	neg = 0.5  
+32. But because Jonathan                ... pos = 2.375 	neg = 0.875
+33. And like oil and wat                ... pos = 0.0   	neg = 0.125
+34. Who was this film ma                ... pos = 0.0   	neg = 0.125
+35. Patrons who enjoy ca                ... pos = 2.125 	neg = 1.625
+36. _That_ is the reason                ... pos = 0.0   	neg = 0.125
+37. It's not that viewer                ... pos = 1.125 	neg = 0.5  
+38. It's that if we want                ... pos = 0.25  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-3335-630 is Positive         ... pos = 20.125 	neg = 11.25
+Overall score of document
+Total Pos = 20.125
+Total Neg = 11.25
+---------------------------------------------------------------------------

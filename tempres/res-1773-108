@@ -1,0 +1,29 @@
+0. USA.                                 ... pos = 0     	neg = 0.0  
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director - Gregory H                 ... pos = 0.0   	neg = 0.5  
+3. Production Company -                 ... pos = 0.0   	neg = 0    
+4. Denzel Washington (D                 ... pos = 0.75  	neg = 1.5  
+5. As Hobbes investigat                 ... pos = 1.25  	neg = 0.625
+6. Going in to see `Fal                 ... pos = 0.125 	neg = 0.125
+7. The plot seems merel                 ... pos = 0.5   	neg = 0.5  
+8. But in virtually no                  ... pos = 1.375 	neg = 0.375
+9. And the result is a                  ... pos = 0.875 	neg = 0.125
+10. The film is made by                 ... pos = 0.75  	neg = 0.125
+11. There is a surprisin                ... pos = 0.5   	neg = 1.125
+12. Hoblit does a rather                ... pos = 1.25  	neg = 0    
+13. The script is rather                ... pos = 1.125 	neg = 0.25 
+14. Nevertheless in spit                ... pos = 1.625 	neg = 0.5  
+15. Hoblit generates som                ... pos = 1.125 	neg = 0.375
+16. And there is beautif                ... pos = 0.5   	neg = 0.375
+17. The film kept remind                ... pos = 0.625 	neg = 0.25 
+18. Both employ the same                ... pos = 0.25  	neg = 0    
+19. And both are very si                ... pos = 2.625 	neg = 1.125
+20. Although where `Se7e                ... pos = 0.625 	neg = 0.125
+21. Both films also cont                ... pos = 0.75  	neg = 0.875
+22. Neveretheless for it                ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1773-108 is Positive         ... pos = 17.375 	neg = 9.125
+Overall score of document
+Total Pos = 17.375
+Total Neg = 9.125
+---------------------------------------------------------------------------

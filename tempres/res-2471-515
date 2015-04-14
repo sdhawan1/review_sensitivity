@@ -1,0 +1,37 @@
+0. Cast: Tom Hanks, Edw                 ... pos = 0.25  	neg = 0.625
+1. I thought that there                 ... pos = 0.5   	neg = 1.5  
+2. )  Well, Saving Priv                 ... pos = 0.5   	neg = 0.0  
+3. It's the first war f                 ... pos = 0.625 	neg = 0.25 
+4. The film starts with                 ... pos = 0.0   	neg = 0    
+5. And right away you'l                 ... pos = 0.0   	neg = 0.125
+6. We see one of the in                 ... pos = 0.5   	neg = 0.0  
+7. It's such a powerful                 ... pos = 0.25  	neg = 0.0  
+8. Compare it to a scen                 ... pos = 0.5   	neg = 1.125
+9. Nothing against The                  ... pos = 0.375 	neg = 0.625
+10. After an incredibly                 ... pos = 0.0   	neg = 0.5  
+11. Three brothers have                 ... pos = 0.0   	neg = 0.25 
+12. It's learned that th                ... pos = 0.25  	neg = 0.75 
+13. A squad of soldiers                 ... pos = 1.25  	neg = 0.375
+14. The plot however, ju                ... pos = 0.625 	neg = 0.25 
+15. Saving Private Ryan                 ... pos = 0.5   	neg = 0.0  
+16. The violence in the                 ... pos = 0.0   	neg = 0.125
+17. It may seem gratuito                ... pos = 0.125 	neg = 0.125
+18. I didn't really care                ... pos = 0.0   	neg = 0.0  
+19. In them, an elderly                 ... pos = 0.0   	neg = 0.25 
+20. While the scene's in                ... pos = 1.0   	neg = 0.0  
+21. To me they came off                 ... pos = 0.0   	neg = 1.5  
+22. That's pretty much m                ... pos = 1.125 	neg = 0.25 
+23. So it all comes down                ... pos = 1.0   	neg = 0.125
+24. Yes, it most certain                ... pos = 0.25  	neg = 0.125
+25. But it's more of a g                ... pos = 0.5   	neg = 0.0  
+26. It's certainly not s                ... pos = 0.5   	neg = 0.125
+27. It's powerful, movin                ... pos = 1.125 	neg = 0.0  
+28. It's easily the best                ... pos = 2.25  	neg = 0.0  
+29. [R]. The Jacksonvill                ... pos = 0.0   	neg = 0.0  
+30. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2471-515 is Positive         ... pos = 14.25 	neg = 9.375
+Overall score of document
+Total Pos = 14.25
+Total Neg = 9.375
+---------------------------------------------------------------------------

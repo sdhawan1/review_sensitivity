@@ -1,0 +1,32 @@
+0. Cast: The Spice Girl                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Bob Spie                 ... pos = 0.125 	neg = 0.375
+2. Part of the Spice Gi                 ... pos = 1.625 	neg = 0.25 
+3. I have no problem wi                 ... pos = 1.0   	neg = 0.5  
+4. They are entertainer                 ... pos = 0.625 	neg = 0.125
+5. Can they act though                  ... pos = 0.75  	neg = 0.0  
+6. This could only  be                  ... pos = 0.5   	neg = 0.125
+7. Of course its silly                  ... pos = 0.5   	neg = 0.375
+8. To answer my first q                 ... pos = 0.625 	neg = 0.0  
+9. Her distinctive voic                 ... pos = 0.125 	neg = 0.25 
+10. Yet, she can  really                ... pos = 0.25  	neg = 0.125
+11. Among the others, Me                ... pos = 0.375 	neg = 0.875
+12. You can really feel                 ... pos = 0.0   	neg = 0.0  
+13. The plot basically t                ... pos = 0.25  	neg = 0.0  
+14. Members of the press                ... pos = 0.625 	neg = 0.5  
+15. The tabloid run by K                ... pos = 0.0   	neg = 1.625
+16. The managers, played                ... pos = 0.125 	neg = 0.625
+17. Roger  Moore plays a                ... pos = 0.125 	neg = 0.0  
+18. ".         Other app                ... pos = 0.625 	neg = 0.0  
+19. What is churned out                 ... pos = 0.875 	neg = 0.25 
+20. The Spice Girls sing                ... pos = 1.625 	neg = 0.0  
+21. The Spice Girls show                ... pos = 0.75  	neg = 0.25 
+22. Cameos by Elton John                ... pos = 1.0   	neg = 0.625
+23. I was expecting it t                ... pos = 0.0   	neg = 0.625
+24. If  you're a fan, yo                ... pos = 0.375 	neg = 0.0  
+25. If you're not, then                 ... pos = 0.375 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-3166-593 is Positive         ... pos = 13.25 	neg = 8.375
+Overall score of document
+Total Pos = 13.25
+Total Neg = 8.375
+---------------------------------------------------------------------------

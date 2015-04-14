@@ -1,0 +1,43 @@
+0. After "Unforgiven,"                  ... pos = 0.0   	neg = 0.25 
+1. Since then, he's sta                 ... pos = 0.75  	neg = 0.0  
+2. His latest effort, "                 ... pos = 0.125 	neg = 0.375
+3. Eastwood plays Steve                 ... pos = 0.25  	neg = 0.125
+4. When another reporte                 ... pos = 0.0   	neg = 0.25 
+5. Despite warnings fro                 ... pos = 1.0   	neg = 0.25 
+6. He is innocent, of c                 ... pos = 0.125 	neg = 0.125
+7. I write that without                 ... pos = 0.625 	neg = 0.625
+8. The ending is so ove                 ... pos = 0.0   	neg = 1.75 
+9. But hanging on the b                 ... pos = 0.125 	neg = 0.625
+10. Everett is an intere                ... pos = 0.875 	neg = 0.25 
+11. He cheats on his wif                ... pos = 0.875 	neg = 0.75 
+12. In his single-minded                ... pos = 0.625 	neg = 0.0  
+13. This role, a cousin                 ... pos = 3.25  	neg = 0.125
+14. Eastwood is more a p                ... pos = 0.0   	neg = 0.125
+15. His range is limited                ... pos = 0.0   	neg = 0.125
+16. Any number of actors                ... pos = 0.0   	neg = 0.125
+17. Another element in "                ... pos = 1.5   	neg = 0.25 
+18. Beachum is a poor bl                ... pos = 0.0   	neg = 0.125
+19. Before Everett burst                ... pos = 0.5   	neg = 0.25 
+20. Yet when one charact                ... pos = 1.875 	neg = 0.75 
+21. One thing True Crime                ... pos = 0.5   	neg = 0.125
+22. Everett is not suppo                ... pos = 0.0   	neg = 0.25 
+23. Local TV reporters d                ... pos = 0.0   	neg = 0.375
+24. In brief moments lik                ... pos = 0.5   	neg = 0.125
+25. The case includes se                ... pos = 0.0   	neg = 0.0  
+26. Woods is very funny,                ... pos = 0.75  	neg = 0.25 
+27. Michael Jeter is exc                ... pos = 1.5   	neg = 0.125
+28. Denis Leary stretche                ... pos = 0.0   	neg = 0.0  
+29. He plays Bob, the ne                ... pos = 0.375 	neg = 1.0  
+30. Bob is distinctly di                ... pos = 1.0   	neg = 0.25 
+31. But his performance                 ... pos = 0.0   	neg = 1.0  
+32. Another comedian who                ... pos = 1.5   	neg = 0.875
+33. Bit of trivia:  Ever                ... pos = 0.0   	neg = 0.125
+34. Francesca's mother,                 ... pos = 0.0   	neg = 0.5  
+35. All things considere                ... pos = 0.625 	neg = 0.875
+36. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5485-1265 is Positive        ... pos = 19.25 	neg = 13.125
+Overall score of document
+Total Pos = 19.25
+Total Neg = 13.125
+---------------------------------------------------------------------------

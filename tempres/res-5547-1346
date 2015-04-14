@@ -1,0 +1,36 @@
+0. Directed by: Luc Bes                 ... pos = 0.25  	neg = 0.75 
+1. Not because it looks                 ... pos = 0.0   	neg = 0.75 
+2. Sure, it's a hell of                 ... pos = 0.375 	neg = 0.625
+3. For the  cost of thi                 ... pos = 0.75  	neg = 0.0  
+4. The biggest problem                  ... pos = 0.0   	neg = 0.375
+5. Besson's original st                 ... pos = 0.25  	neg = 0.125
+6. ) length, it has los                 ... pos = 0.875 	neg = 0.0  
+7. Without reading abou                 ... pos = 0.0   	neg = 0.125
+8. So anyway...                         ... pos = 0     	neg = 0.0  
+9. THE FIFTH ELEMENT, w                 ... pos = 0.5   	neg = 0.25 
+10. Dallas gets involved                ... pos = 1.25  	neg = 0.375
+11. And the Fifth Elemen                ... pos = 2.25  	neg = 1.125
+12. Standing in the way                 ... pos = 0.875 	neg = 1.25 
+13. So they all end up o                ... pos = 1.125 	neg = 1.375
+14. OK.                                 ... pos = 0     	neg = 0.0  
+15. So the story make ve                ... pos = 1.0   	neg = 1.25 
+16. Unfortunately, it al                ... pos = 0.0   	neg = 1.0  
+17. In fact, the film re                ... pos = 0.75  	neg = 0.25 
+18. Both share a macho m                ... pos = 0.875 	neg = 1.375
+19. This film is importa                ... pos = 0.875 	neg = 0.875
+20. It will not go down                 ... pos = 0.875 	neg = 0.625
+21. But everybody's goin                ... pos = 0.375 	neg = 0.0  
+22. You won't be overly                 ... pos = 0.125 	neg = 0.5  
+23. Let's just hope that                ... pos = 0.625 	neg = 0.0  
+24. THE FLYING INKPOT's                 ... pos = 0.0   	neg = 0.0  
+25. ** A little creaky,                 ... pos = 0.0   	neg = 0.625
+26. *** Pretty good, bri                ... pos = 0.875 	neg = 0.125
+27. **** Amazing, potent                ... pos = 0.0   	neg = 0.25 
+28. ***** Perfection.                   ... pos = 0.0   	neg = 0    
+29. See it twice.. . .                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5547-1346 is Positive        ... pos = 14.875 	neg = 14.0 
+Overall score of document
+Total Pos = 14.875
+Total Neg = 14.0
+---------------------------------------------------------------------------

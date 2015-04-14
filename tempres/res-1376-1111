@@ -1,0 +1,25 @@
+0. AUSTIN POWERS: THE S                 ... pos = 1.0   	neg = 1.125
+1. Whilst there is prob                 ... pos = 0.5   	neg = 0.625
+2. Yet there is somethi                 ... pos = 2.125 	neg = 0.375
+3. Occasionally overwor                 ... pos = 1.375 	neg = 0.375
+4. Thanks to an even li                 ... pos = 0.875 	neg = 0.125
+5. Which, I suppose, is                 ... pos = 0.0   	neg = 0.5  
+6. Or perhaps, Mike Mye                 ... pos = 0.125 	neg = 0.125
+7. Agent Kensington (El                 ... pos = 1.25  	neg = 0.125
+8. You see, Austin's ar                 ... pos = 0.0   	neg = 0.75 
+9. Austin must not only                 ... pos = 1.5   	neg = 1.0  
+10. The film movies smoo                ... pos = 1.0   	neg = 0    
+11. Fat Bastard (Mike My                ... pos = 1.0   	neg = 1.125
+12. Memorable moments in                ... pos = 2.25  	neg = 0.75 
+13. Everything is direct                ... pos = 0.875 	neg = 1.0  
+14. The Spy Who Shagged                 ... pos = 1.25  	neg = 0.0  
+15. This film is one of                 ... pos = 0.75  	neg = 0.125
+16. It's a refreshing pi                ... pos = 0.75  	neg = 0.125
+17. How would I feel abo                ... pos = 0.0   	neg = 0.125
+18. Groovy, baby.. . .                  ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1376-1111 is Positive        ... pos = 17.375 	neg = 8.375
+Overall score of document
+Total Pos = 17.375
+Total Neg = 8.375
+---------------------------------------------------------------------------

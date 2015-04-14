@@ -1,0 +1,50 @@
+0. give me a buzz on th                 ... pos = 0.625 	neg = 1.75 
+1. However, movie execu                 ... pos = 1.0   	neg = 0.0  
+2. A film like "Shakesp                 ... pos = 0.0   	neg = 0.125
+3. Almost all by itself                 ... pos = 0.125 	neg = 1.0  
+4. With a sizzling tota                 ... pos = 1.375 	neg = 0.375
+5. The complete antithe                 ... pos = 2.625 	neg = 0.375
+6. (I'll save any furth                 ... pos = 1.125 	neg = 0.0  
+7. The plot is simply w                 ... pos = 0.75  	neg = 0.375
+8. Shakespeare (Joseph                  ... pos = 0.0   	neg = 0.125
+9. His eventual love-in                 ... pos = 1.125 	neg = 0.125
+10. Shakespeare mopes ar                ... pos = 1.0   	neg = 0.75 
+11. Now, don't forget th                ... pos = 0.375 	neg = 0.125
+12. To get a fair opport                ... pos = 0.25  	neg = 0.0  
+13. Naturally, she is su                ... pos = 0.875 	neg = 0.375
+14. That is, until Shake                ... pos = 0.625 	neg = 0.875
+15. Despite a marriage h                ... pos = 1.375 	neg = 0.375
+16. She inspires him to                 ... pos = 1.25  	neg = 0.0  
+17. Of course, she is ev                ... pos = 0.0   	neg = 0.125
+18. To say much more abo                ... pos = 1.0   	neg = 0.0  
+19. The plot DOES deserv                ... pos = 0.75  	neg = 0.0  
+20. Director John Madden                ... pos = 1.375 	neg = 1.125
+21. This is a rare movie                ... pos = 0.25  	neg = 0.375
+22. When it was over, I                 ... pos = 0.25  	neg = 0.25 
+23. It's THAT inspiring.                ... pos = 0.125 	neg = 0    
+24. Paltrow and Fiennes                 ... pos = 0.75  	neg = 0.0  
+25. They burn up the scr                ... pos = 0.0   	neg = 0.0  
+26. We see their forbidd                ... pos = 1.25  	neg = 0.0  
+27. Paltrow is even more                ... pos = 0.5   	neg = 0.25 
+28. Some terrific editin                ... pos = 0.625 	neg = 0.125
+29. But this picture nev                ... pos = 0.0   	neg = 0.25 
+30. It pokes fun at its                 ... pos = 1.25  	neg = 0.0  
+31. Also, this movie is                 ... pos = 0.5   	neg = 0.25 
+32. When we get to the a                ... pos = 1.0   	neg = 0.125
+33. Why isn't there more                ... pos = 0.0   	neg = 0.0  
+34. "         The wonder                ... pos = 1.75  	neg = 0.375
+35. It's too bad too bec                ... pos = 1.375 	neg = 1.5  
+36. "Shakespeare In Love                ... pos = 0.0   	neg = 0.0  
+37. Simply put, it's wor                ... pos = 0.5   	neg = 0.0  
+38. "Saving Private Ryan                ... pos = 1.125 	neg = 0.125
+39. "Shakespeare In Love                ... pos = 0.375 	neg = 0.125
+40. It's going to be "fl                ... pos = 0.375 	neg = 0.125
+41. Whichever side the c                ... pos = 0.125 	neg = 0.125
+42. It's war versus love                ... pos = 1.25  	neg = 0.0  
+43. USELESS TRIVIA--If t                ... pos = 0.75  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-1433-1158 is Positive        ... pos = 31.75 	neg = 12.75
+Overall score of document
+Total Pos = 31.75
+Total Neg = 12.75
+---------------------------------------------------------------------------

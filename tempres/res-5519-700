@@ -1,0 +1,28 @@
+0. Release Date: Septem                 ... pos = 2.25  	neg = 0.125
+1. Action movies are ty                 ... pos = 1.25  	neg = 0.625
+2. For fans of both gen                 ... pos = 0.125 	neg = 0.125
+3. Action fans want to                  ... pos = 2.375 	neg = 0.625
+4. On this advice, Dire                 ... pos = 0.5   	neg = 0.125
+5. The depth of intrigu                 ... pos = 0.125 	neg = 0.375
+6. The script, written                  ... pos = 0.0   	neg = 0.0  
+7. Zeik in his big-scre                 ... pos = 0.5   	neg = 0.0  
+8. A certain number of                  ... pos = 0.875 	neg = 0.125
+9. Frankenheimer master                 ... pos = 0.5   	neg = 0.0  
+10. His ability to conve                ... pos = 1.125 	neg = 0.0  
+11. Robert De Niro headl                ... pos = 0.75  	neg = 0.125
+12. He takes command and                ... pos = 0.5   	neg = 0.0  
+13. The package becomes                 ... pos = 0.5   	neg = 0.125
+14. At times, however, Z                ... pos = 0.875 	neg = 1.25 
+15. Fortunately, the foc                ... pos = 1.0   	neg = 0.25 
+16. The action content i                ... pos = 0.125 	neg = 0.125
+17. The only fans who wi                ... pos = 0.625 	neg = 0.125
+18. RONIN does take a de                ... pos = 1.5   	neg = 0.375
+19. The suspense tapers                 ... pos = 0.5   	neg = 0.75 
+20. Considering these fa                ... pos = 1.75  	neg = 0.25 
+21. Since quality is usu                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5519-700 is Positive         ... pos = 18.0  	neg = 5.625
+Overall score of document
+Total Pos = 18.0
+Total Neg = 5.625
+---------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+0. Although it's anothe                 ... pos = 0.125 	neg = 0.25 
+1. Why?                                 ... pos = 0     	neg = 0.0  
+2. Because it's the fir                 ... pos = 0.5   	neg = 0    
+3. Hopefully, not all t                 ... pos = 0.625 	neg = 0.125
+4. A nuclear missile ha                 ... pos = 0.375 	neg = 1.0  
+5. It basically involve                 ... pos = 0.0   	neg = 0.0  
+6. There's some good ac                 ... pos = 0.75  	neg = 0.125
+7. The film is directed                 ... pos = 1.0   	neg = 0.375
+8. The plot is hardly o                 ... pos = 1.375 	neg = 0.25 
+9. It's also hard to se                 ... pos = 0.25  	neg = 1.25 
+10. The performances are                ... pos = 2.25  	neg = 0.0  
+11. The bad guy, however                ... pos = 1.125 	neg = 1.0  
+12. He's not an outright                ... pos = 0.25  	neg = 0.25 
+13. He's very good.                     ... pos = 1.25  	neg = 0    
+14. The direction (from                 ... pos = 1.125 	neg = 0.75 
+15. What they've deliver                ... pos = 0.375 	neg = 0.25 
+16. It's a shame really,                ... pos = 0.0   	neg = 0.875
+17. But with a dull plot                ... pos = 0.875 	neg = 0.0  
+18. Maybe if he had some                ... pos = 0.0   	neg = 0.125
+19. Overall, then, disap                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4167-1213 is Positive        ... pos = 12.25 	neg = 6.875
+Overall score of document
+Total Pos = 12.25
+Total Neg = 6.875
+---------------------------------------------------------------------------

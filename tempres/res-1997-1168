@@ -1,0 +1,36 @@
+0. STARSHIP TROOPERS is                 ... pos = 0.0   	neg = 0.125
+1. I can't say if Holly                 ... pos = 0.0   	neg = 0.25 
+2. The trailers have pr                 ... pos = 0.0   	neg = 0.125
+3. Perhaps if we look i                 ... pos = 0.375 	neg = 0.625
+4. He gave us the viole                 ... pos = 1.083 	neg = 0.875
+5. Violence is a recurr                 ... pos = 0.875 	neg = 0.125
+6. I have not read the                  ... pos = 0.25  	neg = 0.625
+7. Of course I was joki                 ... pos = 0.375 	neg = 0.125
+8. Verhoeven has interl                 ... pos = 0.125 	neg = 0.0  
+9. This is perhaps the                  ... pos = 0.75  	neg = 0.125
+10. Audiences who feel l                ... pos = 1.375 	neg = 0.25 
+11. The actors and actre                ... pos = 0.0   	neg = 0.125
+12. The story has a grou                ... pos = 0.125 	neg = 0.625
+13. Johnny Rico enlists                 ... pos = 1.125 	neg = 0.125
+14. Rico ends up with a                 ... pos = 0.375 	neg = 0.625
+15. When the city of Bue                ... pos = 0.5   	neg = 0.125
+16. The bugs are not as                 ... pos = 0.25  	neg = 0.0  
+17. We have the standard                ... pos = 0.125 	neg = 0.25 
+18. The CGI effects are                 ... pos = 1.375 	neg = 0.25 
+19. Verhoeven's conveyan                ... pos = 0.0   	neg = 0.125
+20. He does not use hint                ... pos = 0.5   	neg = 0.0  
+21. Singapore audiences                 ... pos = 0.375 	neg = 0.75 
+22. Many people I know h                ... pos = 0.0   	neg = 0.75 
+23. I can't say I loved                 ... pos = 0.5   	neg = 0.25 
+24. Plot and scriptwise,                ... pos = 0.0   	neg = 0.375
+25. Verhoeven's directio                ... pos = 1.25  	neg = 1.375
+26. It is more of an alt                ... pos = 0.625 	neg = 0.25 
+27. Bottom line: watch a                ... pos = 1.0   	neg = 0.125
+28. Go for the special e                ... pos = 0.0   	neg = 0.25 
+29. And if you can actua                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-1168 is Positive        ... pos = 14.458 	neg = 9.625
+Overall score of document
+Total Pos = 14.458
+Total Neg = 9.625
+---------------------------------------------------------------------------

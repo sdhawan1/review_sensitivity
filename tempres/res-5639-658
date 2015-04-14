@@ -1,0 +1,42 @@
+0. Analyze This is livi                 ... pos = 0.0   	neg = 0.25 
+1. Every character in t                 ... pos = 1.5   	neg = 0.0  
+2. Yet the movie can be                 ... pos = 1.5   	neg = 0.25 
+3. Audiences know the m                 ... pos = 0.875 	neg = 0.0  
+4. Analyze This is fun                  ... pos = 0.25  	neg = 0.125
+5. For the five of you                  ... pos = 0.125 	neg = 0.5  
+6. He seeks out a thera                 ... pos = 0.0   	neg = 0.25 
+7. Crystal is hesitant                  ... pos = 1.125 	neg = 0.625
+8. Of course, Crystal h                 ... pos = 0.125 	neg = 0.625
+9. A side plot features                 ... pos = 0.0   	neg = 0.0  
+10. Everything in this m                ... pos = 0.25  	neg = 0.25 
+11. I guess itšs hard t                ... pos = 0.25  	neg = 0.75 
+12. Are the stereotypes                 ... pos = 0.25  	neg = 0.0  
+13. No, because making f                ... pos = 0.125 	neg = 0.625
+14. I imagine that the i                ... pos = 0.5   	neg = 0.625
+15. Amazing that a singl                ... pos = 0.125 	neg = 0.0  
+16. To write the script                 ... pos = 0.875 	neg = 0.375
+17. De Nirošs mafia bos                ... pos = 0.875 	neg = 0.5  
+18. He speaks in cliche                 ... pos = 0.75  	neg = 0.25 
+19. He plays it like he                 ... pos = 0.625 	neg = 0.0  
+20. I doubt they researc                ... pos = 0.0   	neg = 0.0  
+21. That would have take                ... pos = 0.25  	neg = 0.25 
+22. They use the stereot                ... pos = 0.625 	neg = 0.0  
+23. Mobsters seem to say                ... pos = 0.625 	neg = 0.0  
+24. Mobsters seem to mak                ... pos = 0.625 	neg = 0.125
+25. Mobsters also beat u                ... pos = 0.0   	neg = 0.0  
+26. When Mobsters have a                ... pos = 0.375 	neg = 0.375
+27. And of course, the p                ... pos = 0.25  	neg = 0.375
+28. All of this does get                ... pos = 0.0   	neg = 0.625
+29. Joe Viterelli did su                ... pos = 0.375 	neg = 0.875
+30. Lisa Kudrow, as Crys                ... pos = 0.0   	neg = 1.0  
+31. Also, Crystalšs son                ... pos = 0.0   	neg = 0.5  
+32. It seems like Išm p                ... pos = 2.125 	neg = 1.375
+33. However, Analyze Thi                ... pos = 0.125 	neg = 0.0  
+34. Itšs a blend of vio                ... pos = 1.125 	neg = 0.0  
+35. Itšs a movie made b                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5639-658 is Positive         ... pos = 16.625 	neg = 11.5 
+Overall score of document
+Total Pos = 16.625
+Total Neg = 11.5
+---------------------------------------------------------------------------

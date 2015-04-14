@@ -1,0 +1,54 @@
+0. Hello kids.                          ... pos = 0.0   	neg = 0.0  
+1. Today the movie stud                 ... pos = 0.125 	neg = 0.25 
+2. And remember, if a f                 ... pos = 0.875 	neg = 0.25 
+3. Armageddon is a COME                 ... pos = 0.0   	neg = 0.125
+4. It stars BRUCE WILLI                 ... pos = 0.0   	neg = 0.0  
+5. It has a tiny rock l                 ... pos = 0.375 	neg = 0.0  
+6. And, chuckle, chuckl                 ... pos = 0.375 	neg = 0.0  
+7. Snorkle, *sniff*, hi                 ... pos = 0.0   	neg = 0    
+8. And it has Steve Bus                 ... pos = 0.125 	neg = 0.125
+9. Knee-SLAP!!                          ... pos = 0     	neg = 0    
+10. Isn't this just so,                 ... pos = 0     	neg = 0.0  
+11. Armageddon also has                 ... pos = 0.0   	neg = 0.0  
+12. It has a tender mome                ... pos = 0.125 	neg = 0.375
+13. And it has Will Patt                ... pos = 0.125 	neg = 0.875
+14. Gurgle, *sniff*, aww                ... pos = 0     	neg = 0.0  
+15. And it has Steve Bus                ... pos = 0.0   	neg = 0.375
+16. Umm, moving right al                ... pos = 0.0   	neg = 1.0  
+17. Not just any action                 ... pos = 0.0   	neg = 0.0  
+18. It must have _origin                ... pos = 0.625 	neg = 0.5  
+19. Like, DRILL, darn it                ... pos = 0.125 	neg = 0.0  
+20. And, let's have inep                ... pos = 0.0   	neg = 0.75 
+21. Can't you hear your                 ... pos = 0.25  	neg = 0.0  
+22. And Steve Buscemi go                ... pos = 0.0   	neg = 0.375
+23. What drama!!                        ... pos = 0     	neg = 0    
+24. Lastly, Armageddon i                ... pos = 0.0   	neg = 0.125
+25. This can't be any ol                ... pos = 0.375 	neg = 0.125
+26. And, and, we must ha                ... pos = 1.125 	neg = 0.0  
+27. And, and, we must ha                ... pos = 0.375 	neg = 0.0  
+28. The final sequence,                 ... pos = 1.0   	neg = 0.25 
+29. I mean, I mean, chee                ... pos = 0.5   	neg = 0.0  
+30. (It was over).                      ... pos = 0.0   	neg = 0.125
+31. Comedy.                             ... pos = 0     	neg = 0.0  
+32. "C".                                ... pos = 0     	neg = 0    
+33. Romance.                            ... pos = 0.0   	neg = 0    
+34. "R".                                ... pos = 0     	neg = 0    
+35. Action.                             ... pos = 0     	neg = 0.0  
+36. "A".                                ... pos = 0     	neg = 0    
+37. Planet.                             ... pos = 0     	neg = 0.0  
+38. "P".                                ... pos = 0     	neg = 0    
+39. Okay, kids, what doe                ... pos = 0.0   	neg = 0.125
+40. Seriously, folks.                   ... pos = 0     	neg = 0.0  
+41. Any film that could                 ... pos = 0.0   	neg = 1.75 
+42. In the midst of all                 ... pos = 0.25  	neg = 0.625
+43. Remember him?                       ... pos = 0.125 	neg = 0    
+44. He was a principal p                ... pos = 1.375 	neg = 0.375
+45. _Armageddon_ cost ov                ... pos = 0.0   	neg = 0.0  
+46. _ITCOM_ cost a paltr                ... pos = 0.0   	neg = 0.5  
+47. Need I say more?. .                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6217-630 is Negative         ... pos = 8.25  	neg = 9.125
+Overall score of document
+Total Pos = 8.25
+Total Neg = 9.125
+---------------------------------------------------------------------------

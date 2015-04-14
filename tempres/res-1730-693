@@ -1,0 +1,42 @@
+0. More MOVIE VIEWS by                  ... pos = 1.25  	neg = 0.125
+1. While you will proba                 ... pos = 0.625 	neg = 0.125
+2. And those expecting                  ... pos = 0.0   	neg = 1.125
+3. This remake follows                  ... pos = 0.5   	neg = 0.125
+4. Brosnan plays a weal                 ... pos = 0.75  	neg = 0.0  
+5. His latest heist has                 ... pos = 0.375 	neg = 0.125
+6. After an ingeniously                 ... pos = 0.375 	neg = 0.0  
+7. Banning, with a stri                 ... pos = 1.25  	neg = 0.125
+8. But the identity of                  ... pos = 0.5   	neg = 0.75 
+9. Working with detecti                 ... pos = 0.0   	neg = 0.0  
+10. She attends a party                 ... pos = 0.5   	neg = 0.25 
+11. She knows this debon                ... pos = 0.0   	neg = 0.125
+12. The chemistry betwee                ... pos = 1.125 	neg = 0.125
+13. They work well enoug                ... pos = 1.0   	neg = 0.0  
+14. Pierce Brosnan perha                ... pos = 0.375 	neg = 0.125
+15. But his performance                 ... pos = 0.375 	neg = 0.125
+16. Russo's role, also m                ... pos = 1.875 	neg = 0.125
+17. She has never looked                ... pos = 0.0   	neg = 0.0  
+18. Perhaps casting wasn                ... pos = 0.25  	neg = 0.0  
+19. The 2nd act of this                 ... pos = 0.25  	neg = 0.0  
+20. The director is John                ... pos = 0.0   	neg = 1.125
+21. Perhaps it's his dir                ... pos = 0.375 	neg = 0.0  
+22. The actors and scene                ... pos = 0.25  	neg = 0.625
+23. Everything seems to                 ... pos = 0.5   	neg = 0.125
+24. If there had been mo                ... pos = 1.375 	neg = 1.75 
+25. The presence of Deni                ... pos = 0.0   	neg = 0.25 
+26. Leary is a gifted co                ... pos = 1.5   	neg = 0.25 
+27. There's also Faye Du                ... pos = 0.375 	neg = 0.0  
+28. Inserting Dunaway in                ... pos = 0.0   	neg = 0.75 
+29. Little additions lik                ... pos = 0.75  	neg = 0.25 
+30. An action film this                 ... pos = 0.0   	neg = 0.0  
+31. The Thomas Crown Aff                ... pos = 0.0   	neg = 0.125
+32. It has a tendency to                ... pos = 0.75  	neg = 0.25 
+33. The actors are charm                ... pos = 0.75  	neg = 0.125
+34. This film has a grea                ... pos = 0.5   	neg = 0.125
+35. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1730-693 is Positive         ... pos = 18.5  	neg = 9.125
+Overall score of document
+Total Pos = 18.5
+Total Neg = 9.125
+---------------------------------------------------------------------------

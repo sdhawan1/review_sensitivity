@@ -1,0 +1,43 @@
+0. Steven Spielberg's s                 ... pos = 0.125 	neg = 0.125
+1. Spielberg, ever the                  ... pos = 0.25  	neg = 0.0  
+2. He also managed to c                 ... pos = 1.25  	neg = 0.375
+3. For about 160 out of                 ... pos = 0.25  	neg = 0.125
+4. Literally.                           ... pos = 0     	neg = 0.0  
+5. The plot is simple e                 ... pos = 0.0   	neg = 0.125
+6. After the epic D-Day                 ... pos = 0.375 	neg = 0.25 
+7. John  Miller (Hanks)                 ... pos = 0.25  	neg = 0.0  
+8. James Ryan  (Damon),                 ... pos = 0.0   	neg = 0.0  
+9. Once they find him,                  ... pos = 0.25  	neg = 0.0  
+10. Accompanying Miller                 ... pos = 1.625 	neg = 0.0  
+11. Barry Pepper, Adam G                ... pos = 0.25  	neg = 0.0  
+12. The battle sequences                ... pos = 0.875 	neg = 0.0  
+13. Literally.                          ... pos = 0     	neg = 0.0  
+14. There is nothing in                 ... pos = 0.375 	neg = 0.5  
+15. Spielberg films almo                ... pos = 1.5   	neg = 0.0  
+16. The sequences in Fra                ... pos = 1.375 	neg = 0.5  
+17. There are no words I                ... pos = 0.75  	neg = 0.0  
+18. This is what Coppola                ... pos = 0.0   	neg = 0.25 
+19. The sheer horror of                 ... pos = 0.625 	neg = 0.0  
+20. The performance by H                ... pos = 0.625 	neg = 0.125
+21. He is head and shoul                ... pos = 1.25  	neg = 0.125
+22. Hanks is this countr                ... pos = 0.375 	neg = 0.125
+23. However, Spielberg a                ... pos = 0.25  	neg = 0.0  
+24. With a  chance to ma                ... pos = 0.875 	neg = 0.25 
+25. The sequence involvi                ... pos = 0.25  	neg = 0.125
+26. But that is forgivab                ... pos = 0.375 	neg = 0.125
+27. What isn't is the bo                ... pos = 0.0   	neg = 0.125
+28. The first one is qui                ... pos = 0.875 	neg = 0.125
+29. The last sequence is                ... pos = 0.0   	neg = 1.0  
+30. The forced emotion,                 ... pos = 0.875 	neg = 1.375
+31. These flaws are what                ... pos = 2.0   	neg = 0    
+32. Spielberg should hav                ... pos = 1.125 	neg = 0.0  
+33. The use  of the flag                ... pos = 0.125 	neg = 0.125
+34. The  power of the bu                ... pos = 0.125 	neg = 0.125
+35. Spielberg has  truly                ... pos = 2.125 	neg = 0.125
+36. This is the film of                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2471-1484 is Positive        ... pos = 21.375 	neg = 6.25 
+Overall score of document
+Total Pos = 21.375
+Total Neg = 6.25
+---------------------------------------------------------------------------

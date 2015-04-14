@@ -1,0 +1,44 @@
+0. BLAST FROM THE PAST                  ... pos = 0.875 	neg = 1.0  
+1. Fraser plays Adam, a                 ... pos = 0.375 	neg = 0.0  
+2. His dad built a worl                 ... pos = 0.5   	neg = 0.125
+3. While underground, t                 ... pos = 0.0   	neg = 0.125
+4. He must live in a li                 ... pos = 0.375 	neg = 0.0  
+5. Now, after a long th                 ... pos = 0.0   	neg = 0.5  
+6. The scenes undergrou                 ... pos = 1.625 	neg = 0.0  
+7. Unfortunately, they                  ... pos = 0.875 	neg = 1.25 
+8. Unlike Austin Powers                 ... pos = 0.25  	neg = 0.25 
+9. Before setting foot                  ... pos = 0.0   	neg = 0.375
+10. His wish is about to                ... pos = 0.5   	neg = 0.5  
+11. When Adam was finall                ... pos = 0.125 	neg = 0.125
+12. Once Adam comes abov                ... pos = 0.0   	neg = 0.125
+13. A corny plot line wi                ... pos = 0.0   	neg = 0.625
+14. When the workers in                 ... pos = 1.25  	neg = 0.25 
+15. To make some money,                 ... pos = 0.0   	neg = 0.0  
+16. At the baseball card                ... pos = 0.0   	neg = 0.0  
+17. She is very confused                ... pos = 1.125 	neg = 0.125
+18. Following the tradit                ... pos = 1.0   	neg = 1.0  
+19. Luckily in Blast Fro                ... pos = 1.125 	neg = 0.25 
+20. Spacek and Walken as                ... pos = 0.0   	neg = 0.125
+21. Silverstone gives a                 ... pos = 0.75  	neg = 0.5  
+22. Fraser's character o                ... pos = 1.375 	neg = 0.75 
+23. He is still a pretty                ... pos = 1.0   	neg = 0.25 
+24. The relationship bet                ... pos = 1.0   	neg = 0.0  
+25. As Eve takes Adam ou                ... pos = 0.0   	neg = 0.0  
+26. Eve is very disappoi                ... pos = 0.5   	neg = 0.125
+27. After Adam tells her                ... pos = 0.125 	neg = 0.5  
+28. This is probably the                ... pos = 0.375 	neg = 0.125
+29. A very predictable e                ... pos = 1.0   	neg = 0.375
+30. It would be nice for                ... pos = 0.625 	neg = 0.125
+31. The scenes in Blast                 ... pos = 1.125 	neg = 0.5  
+32. That's pretty much h                ... pos = 0.125 	neg = 0.25 
+33. It isn't great or a                 ... pos = 0.75  	neg = 0.125
+34. It is a feel good, e                ... pos = 1.5   	neg = 0.25 
+35. It could have been t                ... pos = 0.875 	neg = 0.125
+36. The key to that woul                ... pos = 0.0   	neg = 0.25 
+37. The Bottom Line- Jus                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-533-864 is Positive          ... pos = 21.375 	neg = 11.0 
+Overall score of document
+Total Pos = 21.375
+Total Neg = 11.0
+---------------------------------------------------------------------------

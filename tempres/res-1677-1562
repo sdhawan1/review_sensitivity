@@ -1,0 +1,35 @@
+0. A small Canadian tow                 ... pos = 0.0   	neg = 1.25 
+1. A lawyer, Mitchell S                 ... pos = 0.0   	neg = 0.0  
+2. Who exactly they sho                 ... pos = 0.375 	neg = 0.375
+3. He will blame someon                 ... pos = 0.125 	neg = 0.5  
+4. Stephens interviews                  ... pos = 0.125 	neg = 0    
+5. Most of the parents,                 ... pos = 0.375 	neg = 0.0  
+6. Others are not so co                 ... pos = 1.125 	neg = 0.0  
+7. Stephens' case is al                 ... pos = 0.0   	neg = 0.125
+8. His daughter Zoe (Ca                 ... pos = 0.0   	neg = 0.25 
+9. Through frantic phon                 ... pos = 0.75  	neg = 0.75 
+10. In effect, Stephens                 ... pos = 0.375 	neg = 0.125
+11. He is dealing with t                ... pos = 0.0   	neg = 0.125
+12. Atom Egoyan is an im                ... pos = 0.125 	neg = 0.125
+13. The Sweet Hereafter                 ... pos = 0.375 	neg = 0.125
+14. From his non-linear                 ... pos = 1.5   	neg = 0.375
+15. Many people (my wife                ... pos = 0.25  	neg = 0.125
+16. Dealing with grief a                ... pos = 0.125 	neg = 0.125
+17. Egoyan skillfully in                ... pos = 1.375 	neg = 0    
+18. Very painful, touchi                ... pos = 1.125 	neg = 0.75 
+19. Adding to the poigna                ... pos = 2.0   	neg = 0.125
+20. This is an impressiv                ... pos = 0.375 	neg = 0.375
+21. Most noteworthy Sara                ... pos = 1.75  	neg = 0.0  
+22. She deserves an Acad                ... pos = 1.375 	neg = 0    
+23. The Sweet Hereafter                 ... pos = 0.375 	neg = 0.625
+24. It is unlikely that                 ... pos = 2.125 	neg = 0.125
+25. Egoyan trusts his au                ... pos = 0     	neg = 0.0  
+26. This is one of the b                ... pos = 0.375 	neg = 0.125
+27. Written by Randy Tur                ... pos = 0.0   	neg = 0.0  
+28. January 15, 1998. .                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1677-1562 is Positive        ... pos = 16.5  	neg = 6.5  
+Overall score of document
+Total Pos = 16.5
+Total Neg = 6.5
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. Directed by Renny Ha                 ... pos = 0.125 	neg = 0.875
+1. There was the unforg                 ... pos = 0.125 	neg = 0.125
+2. The exciting JAWS 2.                 ... pos = 0.25  	neg = 0.0  
+3. The rather flaky JAW                 ... pos = 0.75  	neg = 0.375
+4. Now, with the magic                  ... pos = 0.25  	neg = 0.25 
+5. Russell Frankiln (Ja                 ... pos = 0.25  	neg = 1.0  
+6. The substance is sma                 ... pos = 1.25  	neg = 0.625
+7. As sure as the sun s                 ... pos = 0.25  	neg = 0.875
+8. With the flexibility                 ... pos = 1.0   	neg = 0.125
+9. Gone are the days of                 ... pos = 0.625 	neg = 0.0  
+10. This time, we get to                ... pos = 0.125 	neg = 0.0  
+11. So-so acting, expect                ... pos = 0.0   	neg = 0.25 
+12. Jackson (fresh from                 ... pos = 1.125 	neg = 0.0  
+13. LL Cool J's cook rol                ... pos = 0.5   	neg = 0.0  
+14. DEEP BLUE SEA does n                ... pos = 0.125 	neg = 0.0  
+15. It does however, pro                ... pos = 0.375 	neg = 0.25 
+16. Its like JURASSIC PA                ... pos = 0.0   	neg = 0.0  
+17. Nothing too stressfu                ... pos = 0.375 	neg = 0.5  
+18. Renny Harlin, you ar                ... pos = 0.25  	neg = 0.0  
+19. Visit my film review                ... pos = 0.0   	neg = 0    
+20. http://members.tripo                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3081-1168 is Positive        ... pos = 7.75  	neg = 5.25 
+Overall score of document
+Total Pos = 7.75
+Total Neg = 5.25
+---------------------------------------------------------------------------

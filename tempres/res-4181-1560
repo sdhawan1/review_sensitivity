@@ -1,0 +1,38 @@
+0. "I Still Know What Y                 ... pos = 1.75  	neg = 1.375
+1. Think about it for a                 ... pos = 0.0   	neg = 0.0  
+2. If the last movie wa                 ... pos = 0.0   	neg = 0.25 
+3. If anyone working on                 ... pos = 0.0   	neg = 0.0  
+4. greater than five wo                 ... pos = 0.5   	neg = 0.0  
+5. But alas, the people                 ... pos = 0.5   	neg = 0.125
+6. What I will hold the                 ... pos = 0.375 	neg = 1.25 
+7. I guess I'm one of t                 ... pos = 0.125 	neg = 0.0  
+8. It wasn't great or a                 ... pos = 0.875 	neg = 0.0  
+9. There are just so ma                 ... pos = 0.25  	neg = 1.5  
+10. First of all, I gues                ... pos = 0.125 	neg = 0.125
+11. The movie offers no                 ... pos = 0.0   	neg = 0.0  
+12. Exactly why does the                ... pos = 1.5   	neg = 0.75 
+13. The movie suffers fr                ... pos = 0.0   	neg = 0.0  
+14. In one scene, Julie                 ... pos = 0.0   	neg = 2.5  
+15. When Julie discovers                ... pos = 0.125 	neg = 0.0  
+16. Now, this is all fin                ... pos = 0.375 	neg = 1.25 
+17. In another scene, on                ... pos = 0.875 	neg = 0.25 
+18. " Oh yeah, I've just                ... pos = 0.625 	neg = 0.375
+19. After all, it IS in                 ... pos = 0.0   	neg = 0.125
+20. The film's only savi                ... pos = 0.25  	neg = 0.625
+21. He brings some good                 ... pos = 1.125 	neg = 0.375
+22. Way to go , Jeffrey.                ... pos = 0.0   	neg = 0.0  
+23. I have a hunch that                 ... pos = 0.75  	neg = 0.125
+24. With "Scream" and ev                ... pos = 0.0   	neg = 0.125
+25. His ear for dialogue                ... pos = 0.75  	neg = 0.0  
+26. The cool atmosphere                 ... pos = 1.125 	neg = 0.5  
+27. Even though the movi                ... pos = 1.0   	neg = 0.625
+28. I think someone in t                ... pos = 0.375 	neg = 0.625
+29. " cliffhanger, he sa                ... pos = 0.0   	neg = 0.125
+30. " . All in all, "I S                ... pos = 0.75  	neg = 0.875
+31. I mean, it's okay wh                ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4181-1560 is Positive        ... pos = 15.0  	neg = 14.0 
+Overall score of document
+Total Pos = 15.0
+Total Neg = 14.0
+---------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+0. Starring Tim Allen,                  ... pos = 0.5   	neg = 0.75 
+1. After seeing numerou                 ... pos = 0.0   	neg = 1.375
+2. Don't be mistaken, t                 ... pos = 0.625 	neg = 0.75 
+3. My mom, a serious tr                 ... pos = 0.625 	neg = 1.0  
+4. The film is still en                 ... pos = 1.875 	neg = 0.375
+5. The acting in the fi                 ... pos = 2.125 	neg = 0.125
+6. The actors are havin                 ... pos = 0.75  	neg = 0.0  
+7. Playing actors who s                 ... pos = 1.0   	neg = 0.125
+8. " Tim Allen is perfe                 ... pos = 0.375 	neg = 0.25 
+9. Allen is basically d                 ... pos = 0.75  	neg = 0.375
+10. Sigourney Weaver pla                ... pos = 0.75  	neg = 0.5  
+11. Weaver makes her cha                ... pos = 1.375 	neg = 0.125
+12. The biggest surprise                ... pos = 1.125 	neg = 0.625
+13. Rickman shows that t                ... pos = 1.25  	neg = 0.125
+14. The rest of the cast                ... pos = 0.5   	neg = 0.125
+15. Although Rockwell te                ... pos = 1.625 	neg = 0.0  
+16. "Galaxy Quest" does                 ... pos = 1.375 	neg = 0.0  
+17. The movie not only p                ... pos = 2.0   	neg = 0.0  
+18. Once the actors actu                ... pos = 0.0   	neg = 1.75 
+19. However, the film re                ... pos = 1.125 	neg = 0    
+20. "Galaxy Quest" is a                 ... pos = 0.375 	neg = 0.125
+21. This is a must see f                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5750-778 is Positive         ... pos = 20.5  	neg = 8.625
+Overall score of document
+Total Pos = 20.5
+Total Neg = 8.625
+---------------------------------------------------------------------------

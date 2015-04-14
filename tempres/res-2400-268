@@ -1,0 +1,50 @@
+0. Although "film noir"                 ... pos = 0.125 	neg = 0.875
+1. ) We can now add to                  ... pos = 0.0   	neg = 0.125
+2. ". In the classic no                 ... pos = 0.125 	neg = 0.25 
+3. Since radical politi                 ... pos = 0.125 	neg = 0.625
+4. The themes of such f                 ... pos = 1.5   	neg = 0.0  
+5. Film noirs would alm                 ... pos = 0.125 	neg = 0.0  
+6. While Tom Joad, ever                 ... pos = 1.125 	neg = 0.125
+7. It was almost inevit                 ... pos = 0.0   	neg = 0.5  
+8. Although I doubt if                  ... pos = 0.875 	neg = 0.25 
+9. It tells the story o                 ... pos = 0.625 	neg = 0.25 
+10. The plane contains t                ... pos = 0.0   	neg = 0.0  
+11. On the spot they dec                ... pos = 0.0   	neg = 0.0  
+12. They convince themse                ... pos = 0.75  	neg = 1.5  
+13. Two of the men are b                ... pos = 0.375 	neg = 0    
+14. Hank Mitchell (Bill                 ... pos = 0.5   	neg = 0.125
+15. Jacob's best friend                 ... pos = 0.5   	neg = 0.625
+16. You know that there                 ... pos = 0.0   	neg = 0.25 
+17. " Why the fuck could                ... pos = 0.0   	neg = 0.0  
+18. Although Hank has th                ... pos = 0.625 	neg = 0.875
+19. His pregnant wife Sa                ... pos = 0.625 	neg = 0.125
+20. At one point when he                ... pos = 0.0   	neg = 0.75 
+21. Is he going to be sa                ... pos = 0.5   	neg = 0.25 
+22. What about their chi                ... pos = 0.0   	neg = 0.0  
+23. The other kids would                ... pos = 0.0   	neg = 0.125
+24. And, finally, what a                ... pos = 0.0   	neg = 0.0  
+25. Sarah knows that the                ... pos = 0.0   	neg = 0.375
+26. Even though Hank is                 ... pos = 0.0   	neg = 0.25 
+27. He lives in a cheap                 ... pos = 0.0   	neg = 0.625
+28. His eyeglasses are k                ... pos = 0.625 	neg = 0.0  
+29. He is too poor to da                ... pos = 0.125 	neg = 0.375
+30. This is not the boun                ... pos = 0.75  	neg = 0.125
+31. In a poignant scene                 ... pos = 0.875 	neg = 0.125
+32. With millions availa                ... pos = 0.5   	neg = 0.0  
+33. We discover that one                ... pos = 0.0   	neg = 0.375
+34. Finally facing forec                ... pos = 0.0   	neg = 0.0  
+35. Their "simple plan"                 ... pos = 0.0   	neg = 0    
+36. Lou is at odds with                 ... pos = 0.375 	neg = 0.25 
+37. Raimi's direction is                ... pos = 2.5   	neg = 1.0  
+38. Raimi is an odd figu                ... pos = 0.5   	neg = 0.125
+39. His best known film                 ... pos = 2.125 	neg = 1.125
+40. He is also the produ                ... pos = 1.25  	neg = 0.125
+41. I was surprised to d                ... pos = 0.125 	neg = 0.125
+42. Highly recommended.                 ... pos = 0.625 	neg = 0    
+43. Marxist discussion i                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2400-268 is Positive         ... pos = 18.875 	neg = 12.75
+Overall score of document
+Total Pos = 18.875
+Total Neg = 12.75
+---------------------------------------------------------------------------

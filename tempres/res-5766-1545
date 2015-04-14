@@ -1,0 +1,32 @@
+0. THE HORSE WHISPERER                  ... pos = 0.125 	neg = 0.0  
+1. FILM FREAK CENTRAL h                 ... pos = 0.375 	neg = 0.0  
+2. New attitude.                        ... pos = 0.375 	neg = 0    
+3. Same crappy writing.                 ... pos = 0.0   	neg = 0.75 
+4. ). After Indecent Pr                 ... pos = 0.125 	neg = 0.125
+5. Redford may look gre                 ... pos = 0.0   	neg = 0.5  
+6. Ordinary People is o                 ... pos = 0.5   	neg = 0.25 
+7. While The Milagro Be                 ... pos = 1.625 	neg = 0.375
+8. THE HORSE WHISPERER                  ... pos = 0.125 	neg = 0.125
+9. Scott-Thomas plays A                 ... pos = 1.75  	neg = 0.0  
+10. Grace's horse surviv                ... pos = 0.0   	neg = 0.0  
+11. Annie refuses to put                ... pos = 0.625 	neg = 0.375
+12. Eventually, mother a                ... pos = 0.375 	neg = 0.5  
+13. Eventually, they mov                ... pos = 0.875 	neg = 0.0  
+14. THE HORSE WHISPERER                 ... pos = 0.5   	neg = 0.125
+15. I dare say lyrical,                 ... pos = 0.625 	neg = 0.125
+16. Hardly.                             ... pos = 0     	neg = 0.0  
+17. THE HORSE WHISPERER                 ... pos = 1.375 	neg = 0.375
+18. Scott-Thomas and Joh                ... pos = 0.625 	neg = 0.25 
+19. Robert Richardson's                 ... pos = 0.125 	neg = 0.0  
+20. (A gimmicky but effe                ... pos = 0.625 	neg = 0.125
+21. ) The underrated Sam                ... pos = 0.125 	neg = 0.375
+22. He is indeed a refre                ... pos = 0.25  	neg = 0.125
+23. Unfortunately, one o                ... pos = 0.0   	neg = 1.0  
+24. I liked both of them                ... pos = 0.25  	neg = 0.0  
+25. Luckily (and curious                ... pos = 1.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5766-1545 is Positive        ... pos = 12.875 	neg = 5.75 
+Overall score of document
+Total Pos = 12.875
+Total Neg = 5.75
+---------------------------------------------------------------------------

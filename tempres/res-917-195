@@ -1,0 +1,34 @@
+0. A lot of times a thr                 ... pos = 0.625 	neg = 0.125
+1. They're usually the                  ... pos = 0.125 	neg = 0.25 
+2. They're usually not                  ... pos = 0.0   	neg = 0.75 
+3. MEN IN BLACK is a fo                 ... pos = 0.0   	neg = 0.125
+4. (Hope you could foll                 ... pos = 0.5   	neg = 0.0  
+5. Just minutes into th                 ... pos = 1.125 	neg = 0.0  
+6. After all, you can't                 ... pos = 0.0   	neg = 0.0  
+7. MEN IN BLACK is, of                  ... pos = 0.0   	neg = 0.125
+8. NYPD officer James E                 ... pos = 0.625 	neg = 0.125
+9. The alien delivers t                 ... pos = 0.25  	neg = 0.75 
+10. Naturally nobody bel                ... pos = 0.25  	neg = 0.0  
+11. .                                   ... pos = 0     	neg = 0    
+12. .                                   ... pos = 0     	neg = 0    
+13. nobody that is, exce                ... pos = 0.5   	neg = 0.25 
+14. Edwards then meets A                ... pos = 0.0   	neg = 0.25 
+15. Edwards winds up joi                ... pos = 0.125 	neg = 0.125
+16. James Edwards no lon                ... pos = 0.0   	neg = 0.25 
+17. Meet Agent Jay.                     ... pos = 0.0   	neg = 0.0  
+18. Agent Kay takes the                 ... pos = 0.0   	neg = 0.0  
+19. Eventually a far mor                ... pos = 0.0   	neg = 0    
+20. A "bug" has landed o                ... pos = 0.0   	neg = 0.125
+21. The plot isn't exact                ... pos = 0.875 	neg = 0.125
+22. Barry Sonnenfeld, wh                ... pos = 0.25  	neg = 0.0  
+23. It's fun, it's funny                ... pos = 0.125 	neg = 0.0  
+24. A nice summer blockb                ... pos = 0.0   	neg = 0.125
+25. This is one of those                ... pos = 0.5   	neg = 0.375
+26. Will Smith and Tommy                ... pos = 1.0   	neg = 0.0  
+27. Definitely one of th                ... pos = 1.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-917-195 is Positive          ... pos = 8.125 	neg = 3.875
+Overall score of document
+Total Pos = 8.125
+Total Neg = 3.875
+---------------------------------------------------------------------------

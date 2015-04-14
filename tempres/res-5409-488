@@ -1,0 +1,55 @@
+0. Starring Keanu Reeve                 ... pos = 0.375 	neg = 0.25 
+1. So I have tried to b                 ... pos = 0.375 	neg = 0.75 
+2. I watched The Matrix                 ... pos = 0.875 	neg = 0.125
+3. Under no circumstanc                 ... pos = 0.0   	neg = 0.625
+4. This theater, owned                  ... pos = 0.25  	neg = 0.0  
+5. The mono sound that                  ... pos = 0.0   	neg = 0.375
+6. In other words, the                  ... pos = 0.0   	neg = 0.0  
+7. As someone used to d                 ... pos = 0.125 	neg = 1.0  
+8. I'm not even going t                 ... pos = 0.375 	neg = 0.625
+9. There, I've had my r                 ... pos = 0.375 	neg = 0.0  
+10. Which sadly won't in                ... pos = 0.125 	neg = 0.75 
+11. My guess on the soun                ... pos = 0.25  	neg = 0.125
+12. It is nothing short                 ... pos = 0.25  	neg = 0.375
+13. Sadly, the rest of t                ... pos = 1.875 	neg = 1.625
+14. The Matrix has at it                ... pos = 1.0   	neg = 0.5  
+15. Keanu Reeves plays a                ... pos = 1.125 	neg = 0.25 
+16. It turns out that th                ... pos = 0.0   	neg = 0.625
+17. Now machines run the                ... pos = 0.0   	neg = 0.0  
+18. The computers are ge                ... pos = 0.75  	neg = 0.25 
+19. The population of th                ... pos = 0.125 	neg = 0.125
+20. That is except a sma                ... pos = 0.5   	neg = 0.75 
+21. They now spend their                ... pos = 0.125 	neg = 0.0  
+22. Reeve's character, N                ... pos = 0.875 	neg = 0.125
+23. Newcomer Carrie-Anne                ... pos = 0.0   	neg = 0.0  
+24. The action sequences                ... pos = 0.375 	neg = 0.25 
+25. This can be attribut                ... pos = 0.5   	neg = 0.375
+26. This lends itself to                ... pos = 1.25  	neg = 0.0  
+27. When you add this to                ... pos = 1.125 	neg = 0.625
+28. As I already said, t                ... pos = 0.0   	neg = 0.0  
+29. Acting in The Matrix                ... pos = 1.0   	neg = 1.0  
+30. Keanu Reeves gives h                ... pos = 0.5   	neg = 0.0  
+31. Although to his cred                ... pos = 0.375 	neg = 0.125
+32. Laurence Fishburne o                ... pos = 0.25  	neg = 0.25 
+33. More than a few time                ... pos = 0.0   	neg = 0.0  
+34. Joe Pantoliano was a                ... pos = 0.0   	neg = 0.375
+35. Carrie-Anne Moss tur                ... pos = 1.0   	neg = 0.0  
+36. It's nice to see tha                ... pos = 0.375 	neg = 0.625
+37. You have to give all                ... pos = 1.0   	neg = 0.0  
+38. It was clear that no                ... pos = 0.5   	neg = 0.375
+39. I also put much of t                ... pos = 0.625 	neg = 1.25 
+40. In more than a few p                ... pos = 1.0   	neg = 0.375
+41. It almost seems as t                ... pos = 0.0   	neg = 0.75 
+42. So they decided to m                ... pos = 0.0   	neg = 0.125
+43. Thereby covering up                 ... pos = 0.0   	neg = 0.375
+44. My other major compl                ... pos = 0.5   	neg = 0.125
+45. The setup for it was                ... pos = 0.0   	neg = 1.0  
+46. The ending itself wa                ... pos = 0.375 	neg = 0.125
+47. The main reasons to                 ... pos = 0.375 	neg = 0.0  
+48. While the rest of th                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5409-488 is Positive         ... pos = 21.25 	neg = 17.625
+Overall score of document
+Total Pos = 21.25
+Total Neg = 17.625
+---------------------------------------------------------------------------

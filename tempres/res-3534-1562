@@ -1,0 +1,42 @@
+0. Summary          Eig                 ... pos = 0.75  	neg = 0.0  
+1. Her mother died whil                 ... pos = 0.0   	neg = 0.0  
+2. She is a very intell                 ... pos = 0.75  	neg = 0.125
+3. Tragedy strikes her                  ... pos = 0.25  	neg = 0    
+4. Flash forward to pre                 ... pos = 0.0   	neg = 0.0  
+5. She listens intently                 ... pos = 0.25  	neg = 0.375
+6. She has a bumpy road                 ... pos = 0.0   	neg = 0.75 
+7. She refuses to give                  ... pos = 0.125 	neg = 0.0  
+8. Ellie's dreams come                  ... pos = 1.25  	neg = 0.125
+9. It is indeed confirm                 ... pos = 0.375 	neg = 0.375
+10. It is video footage                 ... pos = 0.0   	neg = 0.125
+11. That is not all.                    ... pos = 0.0   	neg = 0.125
+12. It also appears that                ... pos = 0.0   	neg = 0.125
+13. What exactly the mac                ... pos = 0.375 	neg = 0.125
+14. Ellie finds that her                ... pos = 0.0   	neg = 0.0  
+15. She now has to deal                 ... pos = 0.625 	neg = 0.5  
+16. Hadden (John Hurt),                 ... pos = 0.0   	neg = 0.0  
+17. All is not lost for                 ... pos = 0.125 	neg = 0.5  
+18. Commentary         I                ... pos = 0.5   	neg = 0.75 
+19. There was no in betw                ... pos = 0.0   	neg = 0.375
+20. I can honestly say I                ... pos = 0.0   	neg = 0.0  
+21. I liked some of the                 ... pos = 0.625 	neg = 0.0  
+22. There are some good                 ... pos = 1.0   	neg = 0.125
+23. Jodie Foster does he                ... pos = 0.125 	neg = 0    
+24. What I did not care                 ... pos = 0.0   	neg = 0.125
+25. They did not have mu                ... pos = 0.5   	neg = 0.125
+26. I could accurately g                ... pos = 1.25  	neg = 0.375
+27. If anything, I felt                 ... pos = 0.125 	neg = 0.125
+28. There has been much                 ... pos = 0.375 	neg = 0.25 
+29. I felt that the endi                ... pos = 0.0   	neg = 0.125
+30. Without giving away                 ... pos = 0.125 	neg = 0.375
+31. The special effects                 ... pos = 0.25  	neg = 0.5  
+32. I have seen some goo                ... pos = 0.875 	neg = 0.125
+33. But because the enti                ... pos = 0.25  	neg = 0.75 
+34. Directed by Robert Z                ... pos = 0.0   	neg = 0    
+35. Ellie Arroway.......                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3534-1562 is Positive        ... pos = 10.875 	neg = 7.375
+Overall score of document
+Total Pos = 10.875
+Total Neg = 7.375
+---------------------------------------------------------------------------

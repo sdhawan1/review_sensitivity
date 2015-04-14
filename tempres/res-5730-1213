@@ -1,0 +1,31 @@
+0. Starring Roberto Ben                 ... pos = 0.0   	neg = 0.0  
+1. Only the Italians co                 ... pos = 1.875 	neg = 0.0  
+2. Benigni plays Guido,                 ... pos = 0.625 	neg = 0.25 
+3. ) However, this is d                 ... pos = 0.25  	neg = 0.125
+4. We follow their adve                 ... pos = 0.5   	neg = 0.5  
+5. This film is truly g                 ... pos = 0.625 	neg = 0.125
+6. Benigni gives a perf                 ... pos = 0.0   	neg = 0.125
+7. From the jaunty come                 ... pos = 0.875 	neg = 0.25 
+8. Having also written                  ... pos = 0.875 	neg = 0.625
+9. Braschi isn't quite                  ... pos = 0.75  	neg = 0.125
+10. Cantarini is an abso                ... pos = 1.5   	neg = 0.125
+11. He also gets an huge                ... pos = 0.25  	neg = 0.25 
+12. The screenplay is gr                ... pos = 0.125 	neg = 0.375
+13. This is mainly becau                ... pos = 0.125 	neg = 0.25 
+14. Consisting of little                ... pos = 1.5   	neg = 0.375
+15. In fact, you could a                ... pos = 0.625 	neg = 0.125
+16. But the film has a b                ... pos = 0.0   	neg = 0.0  
+17. It may feel strange                 ... pos = 1.375 	neg = 0.0  
+18. It's impossible to d                ... pos = 0.5   	neg = 0.125
+19. I could write paragr                ... pos = 1.5   	neg = 0.0  
+20. Benigni knows exactl                ... pos = 0.5   	neg = 0.0  
+21. It's never too schma                ... pos = 0.5   	neg = 0.625
+22. The greatest achieve                ... pos = 1.0   	neg = 0.125
+23. Witty, surprising, f                ... pos = 1.625 	neg = 0.25 
+24. Do not miss out.. .                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5730-1213 is Positive        ... pos = 17.5  	neg = 4.75 
+Overall score of document
+Total Pos = 17.5
+Total Neg = 4.75
+---------------------------------------------------------------------------

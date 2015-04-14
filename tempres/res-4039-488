@@ -1,0 +1,40 @@
+0. Starring Kevin Costn                 ... pos = 0.5   	neg = 0.375
+1. While Waterworld des                 ... pos = 0.875 	neg = 0.5  
+2. By biggest complaint                 ... pos = 0.0   	neg = 0.625
+3. Other than that, it                  ... pos = 0.0   	neg = 0.875
+4. Sure, maybe it was a                 ... pos = 0.625 	neg = 0.5  
+5. The Postman is set i                 ... pos = 0.625 	neg = 0.125
+6. It is several years                  ... pos = 0.125 	neg = 0.375
+7. The man with the pow                 ... pos = 0.125 	neg = 0.125
+8. He maintains his pow                 ... pos = 0.375 	neg = 0.0  
+9. Kevin Costner plays                  ... pos = 0.0   	neg = 0.625
+10. Costner assumes the                 ... pos = 0.125 	neg = 0.625
+11. The locals buy his s                ... pos = 0.0   	neg = 0.125
+12. In fact, he is so co                ... pos = 0.25  	neg = 0.125
+13. The fact that there                 ... pos = 0.125 	neg = 0.25 
+14. Anyway, these new re                ... pos = 0.375 	neg = 0.125
+15. The rest of the movi                ... pos = 1.0   	neg = 0.0  
+16. The Postman is a bit                ... pos = 0.0   	neg = 0.125
+17. By the end of the mo                ... pos = 0.875 	neg = 0.0  
+18. I never really disli                ... pos = 0.0   	neg = 0.0  
+19. Lorenz Tate gives a                 ... pos = 0.625 	neg = 0.25 
+20. It is he who later i                ... pos = 0.125 	neg = 0.125
+21. Olivia Williams play                ... pos = 0.75  	neg = 0.0  
+22. For the most part, t                ... pos = 0.0   	neg = 0.0  
+23. Although by the end                 ... pos = 0.0   	neg = 0.125
+24. For me, the man who                 ... pos = 0.125 	neg = 0.875
+25. Costner fans might r                ... pos = 0.0   	neg = 1.375
+26. Patton gave the best                ... pos = 1.25  	neg = 0.125
+27. Other cute casting t                ... pos = 0.875 	neg = 0.125
+28. And while it was fun                ... pos = 0.875 	neg = 0.375
+29. My main criticism of                ... pos = 0.0   	neg = 0.375
+30. I'd hazard a guess a                ... pos = 0.375 	neg = 0.625
+31. The result would hav                ... pos = 0.5   	neg = 0.0  
+32. But if you don't min                ... pos = 0.125 	neg = 1.5  
+33. My only hope is that                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4039-488 is Positive         ... pos = 12.625 	neg = 11.5 
+Overall score of document
+Total Pos = 12.625
+Total Neg = 11.5
+---------------------------------------------------------------------------

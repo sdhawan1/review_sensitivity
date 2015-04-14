@@ -1,0 +1,72 @@
+0. *** (out of 4) There                 ... pos = 0.25  	neg = 0.875
+1. Either 1) they knew                  ... pos = 1.25  	neg = 1.0  
+2. Thankfully, it wasn'                 ... pos = 0.125 	neg = 0.0  
+3. Though some hard-cor                 ... pos = 1.125 	neg = 1.125
+4. It wasn't reason two                 ... pos = 0.0   	neg = 0.0  
+5. There was some specu                 ... pos = 0.5   	neg = 0.25 
+6. In fact, this versio                 ... pos = 0.5   	neg = 0.125
+7. That leaves reason t                 ... pos = 0.0   	neg = 0.0  
+8. It appears that Van                  ... pos = 0.25  	neg = 0.625
+9. When the original PS                 ... pos = 0.0   	neg = 0.5  
+10. Van Sant is merely i                ... pos = 0.0   	neg = 0.125
+11. For the uninitiated,                ... pos = 0.125 	neg = 0.375
+12. The opportunity to w                ... pos = 0.0   	neg = 0.0  
+13. She drives for sever                ... pos = 0.0   	neg = 0.5  
+14. Late one night, in a                ... pos = 0.0   	neg = 0.0  
+15. The rest is history.                ... pos = 0.0   	neg = 0.125
+16. If you know your his                ... pos = 0.0   	neg = 0.125
+17. If you don't know yo                ... pos = 0.0   	neg = 0.0  
+18. I would recommend ei                ... pos = 0.0   	neg = 0.0  
+19. I won't say this ver                ... pos = 0.0   	neg = 0.125
+20. But I acknowledge th                ... pos = 0.625 	neg = 0.0  
+21. Given a big-screen w                ... pos = 0.5   	neg = 0.125
+22. This film isn't lite                ... pos = 0.5   	neg = 0.125
+23. In fact, this kind o                ... pos = 0.0   	neg = 0.625
+24. It was a fairly big                 ... pos = 0.25  	neg = 0.125
+25. Nevertheless, it see                ... pos = 0.125 	neg = 0.125
+26. The horrible and ten                ... pos = 0.75  	neg = 0.625
+27. Trivia buffs could s                ... pos = 0.875 	neg = 0.0  
+28. Yet some differences                ... pos = 0.5   	neg = 0.125
+29. Casting, set design,                ... pos = 0.0   	neg = 0.125
+30. Mostly, these decisi                ... pos = 0.0   	neg = 0.125
+31. Vince Vaughn fills t                ... pos = 0.0   	neg = 0.0  
+32. Others in the audien                ... pos = 0.5   	neg = 0.25 
+33. Vaughn had the right                ... pos = 0.0   	neg = 0.0  
+34. He was meek, childis                ... pos = 0.75  	neg = 0.125
+35. Others faulted him f                ... pos = 0.375 	neg = 0.625
+36. The only casting dec                ... pos = 0.25  	neg = 1.125
+37. Macy's iconic face a                ... pos = 0.0   	neg = 0.125
+38. But because he is su                ... pos = 0.0   	neg = 0.125
+39. Everyone else seemed                ... pos = 0.125 	neg = 0.25 
+40. The set design and c                ... pos = 0.0   	neg = 0.5  
+41. The real estate offi                ... pos = 0.375 	neg = 0.625
+42. The hardware store w                ... pos = 0.375 	neg = 0.375
+43. Dresses are loud and                ... pos = 0.25  	neg = 0.125
+44. Shirts are noisy and                ... pos = 0.25  	neg = 0.375
+45. Lamps are salvation-                ... pos = 0.25  	neg = 0.0  
+46. Yet even if all this                ... pos = 0.875 	neg = 0.125
+47. Because the dialogue                ... pos = 1.125 	neg = 0.25 
+48. (After all, who in t                ... pos = 0.0   	neg = 0    
+49. ) The decision to us                ... pos = 0.375 	neg = 0.0  
+50. Bernard Herrmann's m                ... pos = 0.0   	neg = 0.125
+51. Of all the elements,                ... pos = 0.25  	neg = 0.125
+52. The fact that it sti                ... pos = 0.25  	neg = 0.125
+53. In addition, the sou                ... pos = 0.0   	neg = 0.125
+54. At times, you can he                ... pos = 0.5   	neg = 0.0  
+55. At one point near th                ... pos = 0.125 	neg = 0.0  
+56. This film will invit                ... pos = 0.125 	neg = 0.0  
+57. What was different f                ... pos = 0.625 	neg = 0.125
+58. Did the original nee                ... pos = 0.0   	neg = 0.125
+59. But the most importa                ... pos = 0.875 	neg = 0.0  
+60. Creepiness and tensi                ... pos = 0.0   	neg = 0.0  
+61. Even if you know the                ... pos = 0.125 	neg = 0.0  
+62. Even if you know who                ... pos = 0.125 	neg = 0.125
+63. Remakes of movies ar                ... pos = 0.5   	neg = 0.25 
+64. Yet if you follow to                ... pos = 1.125 	neg = 0.25 
+65. Van Sant took the la                ... pos = 1.25  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-6044-1008 is Positive        ... pos = 20.0  	neg = 15.125
+Overall score of document
+Total Pos = 20.0
+Total Neg = 15.125
+---------------------------------------------------------------------------

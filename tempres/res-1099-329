@@ -1,0 +1,50 @@
+0. Rarely is any movie                  ... pos = 0.25  	neg = 0.125
+1. The overall theme of                 ... pos = 0.25  	neg = 0.125
+2. This applies to both                 ... pos = 1.125 	neg = 0.0  
+3. For director Neil La                 ... pos = 0.625 	neg = 0.0  
+4. Screenwriters James                  ... pos = 0.75  	neg = 0.625
+5. The screenplay also                  ... pos = 0.375 	neg = 0.0  
+6. This thing is just a                 ... pos = 0     	neg = 0.375
+7. Betty Sizemore (Rene                 ... pos = 0.0   	neg = 0.0  
+8. Betty's life revolve                 ... pos = 0.625 	neg = 0.0  
+9. In addition to commi                 ... pos = 0.0   	neg = 0.0  
+10. One night Del invite                ... pos = 0.0   	neg = 0    
+11. He is unaware that B                ... pos = 0.0   	neg = 0.25 
+12. Since Del hasn't del                ... pos = 0.0   	neg = 0.125
+13. So they kill him, an                ... pos = 0.0   	neg = 0.0  
+14. She goes into a stat                ... pos = 0.25  	neg = 0.0  
+15. When she hears Dr.                  ... pos = 0.75  	neg = 0.25 
+16. She heads to Los Ang                ... pos = 0.75  	neg = 0.0  
+17. What she doesn't kno                ... pos = 0.0   	neg = 0.25 
+18. It's about time that                ... pos = 0.75  	neg = 0.0  
+19. Both The  Bachelor a                ... pos = 0.0   	neg = 0.875
+20. This film hands her                 ... pos = 1.0   	neg = 0    
+21. The whole picture ri                ... pos = 1.25  	neg = 0.0  
+22. Thank casting direct                ... pos = 0.0   	neg = 0    
+23. Like Steve Martin, h                ... pos = 0.75  	neg = 0.125
+24. The job he does  her                ... pos = 1.375 	neg = 0.0  
+25. Rock is good too, if                ... pos = 0.75  	neg = 0.375
+26. They are best when                  ... pos = 1.0   	neg = 0    
+27. Greg Kinnear, after                 ... pos = 0.375 	neg = 0.0  
+28. His biting work exem                ... pos = 0.0   	neg = 0.0  
+29. The screenplay has a                ... pos = 1.125 	neg = 0.0  
+30. At the same time, it                ... pos = 0.75  	neg = 0.0  
+31. Betty is a perfectly                ... pos = 0.625 	neg = 0.5  
+32. Movement between the                ... pos = 0.5   	neg = 0.125
+33. However, all things                 ... pos = 1.0   	neg = 0.0  
+34. There is quite a bit                ... pos = 0.125 	neg = 0.125
+35. While nothing overly                ... pos = 0.0   	neg = 0.875
+36. The film dips ever-s                ... pos = 0.0   	neg = 0.25 
+37. Beyond  that materia                ... pos = 0.0   	neg = 0.375
+38. Everything about thi                ... pos = 0.625 	neg = 0.125
+39. That may be why USA                 ... pos = 0.25  	neg = 0.375
+40. They're probably try                ... pos = 0.25  	neg = 0.625
+41. This movie isn't  qu                ... pos = 1.0   	neg = 0.375
+42. See  this movie, tel                ... pos = 0.875 	neg = 0.0  
+43. It is the antidote                  ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1099-329 is Positive         ... pos = 20.125 	neg = 7.5  
+Overall score of document
+Total Pos = 20.125
+Total Neg = 7.5
+---------------------------------------------------------------------------

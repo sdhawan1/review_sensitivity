@@ -1,0 +1,17 @@
+0. "A Perfect Murder" i                 ... pos = 0.0   	neg = 0.625
+1. It's got everything                  ... pos = 0.875 	neg = 0.25 
+2. Michael Douglas seem                 ... pos = 1.125 	neg = 0.125
+3. One thing I found in                 ... pos = 0.0   	neg = 0.25 
+4. It's the why and how                 ... pos = 0.0   	neg = 0.0  
+5. Throughout the movie                 ... pos = 0.125 	neg = 0.625
+6. The bathing scene re                 ... pos = 0.875 	neg = 0.125
+7. Towards the end, how                 ... pos = 1.0   	neg = 0.375
+8. Even though "A Perfe                 ... pos = 0.125 	neg = 0.625
+9. Rating:  B- (First v                 ... pos = 0.125 	neg = 0.0  
+10. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1007-977 is Positive         ... pos = 4.25  	neg = 3.0  
+Overall score of document
+Total Pos = 4.25
+Total Neg = 3.0
+---------------------------------------------------------------------------

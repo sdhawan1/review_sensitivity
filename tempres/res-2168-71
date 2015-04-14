@@ -1,0 +1,35 @@
+0. The funniest moments                 ... pos = 0.5   	neg = 0.0  
+1. There's a scene in w                 ... pos = 0.375 	neg = 0.0  
+2. Watching the  gun-ha                 ... pos = 0.0   	neg = 0.0  
+3. There's Lee's confli                 ... pos = 0.0   	neg = 0.625
+4. The premise of the f                 ... pos = 0.5   	neg = 0.0  
+5. Finally, there's the                 ... pos = 0.125 	neg = 0.375
+6. The audience gets ma                 ... pos = 0.0   	neg = 0.25 
+7. Whatever  egotistic                  ... pos = 0.75  	neg = 0.5  
+8. Chan is at his best                  ... pos = 1.625 	neg = 0.75 
+9. Oh, how quickly Chan                 ... pos = 0.0   	neg = 0.0  
+10. The reason Inspector                ... pos = 0.375 	neg = 0.25 
+11. What's moving is tha                ... pos = 0.0   	neg = 0.125
+12. It is Lee's connecti                ... pos = 0.625 	neg = 0.875
+13. Tom Wilkinson does a                ... pos = 1.0   	neg = 0.125
+14. As the evil Sang, Ke                ... pos = 0.0   	neg = 1.5  
+15. It's unclear why Eli                ... pos = 0.0   	neg = 0.125
+16. She  is always likab                ... pos = 0.125 	neg = 0.375
+17. Jackie Chan's closin                ... pos = 0.0   	neg = 0.0  
+18. Once again we get an                ... pos = 0.25  	neg = 0.125
+19. How many takes were                 ... pos = 0.0   	neg = 0.375
+20. In the abandoned bui                ... pos = 0.0   	neg = 0    
+21. Did Jackie break or                 ... pos = 0.0   	neg = 0.0  
+22. Originality is the k                ... pos = 0.0   	neg = 1.125
+23. But  director Brett                 ... pos = 0.0   	neg = 0.0  
+24. In seeing Rush Hour,                ... pos = 0.0   	neg = 0.0  
+25. First, my son and I                 ... pos = 0.125 	neg = 0.0  
+26. OK, it was a small a                ... pos = 0.5   	neg = 0.25 
+27. Bottom line, I laugh                ... pos = 0.375 	neg = 0.875
+28. The man  knows the p                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2168-71 is Negative          ... pos = 7.25  	neg = 9.0  
+Overall score of document
+Total Pos = 7.25
+Total Neg = 9.0
+---------------------------------------------------------------------------

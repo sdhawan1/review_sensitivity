@@ -1,0 +1,31 @@
+0. Release Date: June 1                 ... pos = 0.5   	neg = 1.0  
+1. Its jump to the big                  ... pos = 0.5   	neg = 0.25 
+2. Although producers o                 ... pos = 1.375 	neg = 0.125
+3. This success will su                 ... pos = 0.5   	neg = 1.0  
+4. The television show                  ... pos = 0.0   	neg = 0.0  
+5. Fox Mulder (David Du                 ... pos = 0.125 	neg = 0.25 
+6. His partner, Dana Sc                 ... pos = 0.125 	neg = 0.125
+7. In the movie, Mulder                 ... pos = 0.25  	neg = 1.25 
+8. Mulder, suspecting t                 ... pos = 1.25  	neg = 0.25 
+9. Kurtzweil tells him                  ... pos = 0.0   	neg = 1.375
+10. Kurtzweil also point                ... pos = 1.0   	neg = 0.0  
+11. It's in these openin                ... pos = 1.75  	neg = 0.0  
+12. The dialogue is the                 ... pos = 0.125 	neg = 0.25 
+13. David Duchovny gets                 ... pos = 1.125 	neg = 0.5  
+14. Gillian Anderson, wh                ... pos = 0.75  	neg = 0.25 
+15. Her presence, though                ... pos = 1.5   	neg = 0.125
+16. The cast of supporti                ... pos = 1.375 	neg = 0.375
+17. As the story continu                ... pos = 0.25  	neg = 0.25 
+18. There are quite a fe                ... pos = 1.0   	neg = 0.375
+19. Although the opening                ... pos = 0.75  	neg = 0.375
+20. Because the movie dr                ... pos = 1.25  	neg = 0.0  
+21. Although being a fan                ... pos = 1.25  	neg = 0.125
+22. Having an enlightene                ... pos = 0.125 	neg = 0.125
+23. Once the viewer is p                ... pos = 0.75  	neg = 0.375
+24. FINAL AWARD FOR "THE                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2979-700 is Positive         ... pos = 18.875 	neg = 8.75 
+Overall score of document
+Total Pos = 18.875
+Total Neg = 8.75
+---------------------------------------------------------------------------

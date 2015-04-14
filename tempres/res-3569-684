@@ -1,0 +1,29 @@
+0. Picture this.                        ... pos = 0.0   	neg = 0    
+1. Whenever we are abou                 ... pos = 0.25  	neg = 0.125
+2. Well, most of us, wi                 ... pos = 0.875 	neg = 0.25 
+3. Remember this analog                 ... pos = 0.125 	neg = 0.125
+4. Each movie had scene                 ... pos = 0.375 	neg = 1.25 
+5. There's Something Ab                 ... pos = 0.0   	neg = 0.125
+6. I laughed, quite har                 ... pos = 0.5   	neg = 0.75 
+7. This was, in my eyes                 ... pos = 1.125 	neg = 0.125
+8. In Dumb and Dumber,                  ... pos = 1.25  	neg = 1.125
+9. Now, with this movie                 ... pos = 0.125 	neg = 0.0  
+10. Nothing is taboo her                ... pos = 0.0   	neg = 0.75 
+11. The opening scene is                ... pos = 0.875 	neg = 0.75 
+12. This is not a perfec                ... pos = 1.0   	neg = 0.125
+13. Each has their own i                ... pos = 0.75  	neg = 0.0  
+14. These are real peopl                ... pos = 0.625 	neg = 0.0  
+15. These are characters                ... pos = 1.875 	neg = 0.125
+16. Another sign that I                 ... pos = 2.25  	neg = 0.375
+17. Basically, did it le                ... pos = 0.0   	neg = 0.0  
+18. Well, the length of                 ... pos = 1.625 	neg = 1.375
+19. I had fun, I was bou                ... pos = 0.25  	neg = 0.125
+20. (Another note, to Mr                ... pos = 2.875 	neg = 1.5  
+21. It is very dark, and                ... pos = 1.875 	neg = 0.625
+22. See this one, if you                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3569-684 is Positive         ... pos = 19.25 	neg = 9.625
+Overall score of document
+Total Pos = 19.25
+Total Neg = 9.625
+---------------------------------------------------------------------------

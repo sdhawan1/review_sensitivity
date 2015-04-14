@@ -1,0 +1,19 @@
+0. In "Everyone Says I                  ... pos = 0.625 	neg = 0.25 
+1. Joe (Woody Allen) is                 ... pos = 0.0   	neg = 0.125
+2. It's the kind of stu                 ... pos = 0.5   	neg = 0.25 
+3. I won't reveal the p                 ... pos = 0.625 	neg = 0.125
+4. Many of the conversa                 ... pos = 0.5   	neg = 0.0  
+5. Possibly the best mo                 ... pos = 0.625 	neg = 0.25 
+6. Watching Woody Allen                 ... pos = 0.75  	neg = 0.125
+7. The maid of Bob's ho                 ... pos = 0.25  	neg = 0.5  
+8. Even though the musi                 ... pos = 0.625 	neg = 0.5  
+9. However, possibly th                 ... pos = 1.625 	neg = 0.125
+10. At this point in the                ... pos = 0.625 	neg = 0.0  
+11. "Everyone Says I Lov                ... pos = 0.75  	neg = 0.25 
+12. It's a solid, well m                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3346-1580 is Positive        ... pos = 7.75  	neg = 2.625
+Overall score of document
+Total Pos = 7.75
+Total Neg = 2.625
+---------------------------------------------------------------------------

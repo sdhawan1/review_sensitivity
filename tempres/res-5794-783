@@ -1,0 +1,49 @@
+0. Director Tim Burton,                 ... pos = 0.25  	neg = 0.0  
+1. ". Starring just abo                 ... pos = 0.0   	neg = 0.0  
+2. " is base on the Top                 ... pos = 0.0   	neg = 0.125
+3. Burton, using the ca                 ... pos = 1.5   	neg = 0.25 
+4. While "Mars Attacks!                 ... pos = 0.0   	neg = 0    
+5. " is not the out-and                 ... pos = 2.5   	neg = 0.75 
+6. (I watched a marvelo                 ... pos = 0.0   	neg = 0.875
+7. It is so jaw-droppin                 ... pos = 0.125 	neg = 1.0  
+8. I understand and emb                 ... pos = 1.125 	neg = 0.125
+9. ). "Mars Attacks!                    ... pos = 0     	neg = 0    
+10. " does capture the c                ... pos = 0.0   	neg = 0.125
+11. The quality of the c                ... pos = 0.125 	neg = 0.125
+12. " spoofs, but, they                 ... pos = 0.875 	neg = 0.5  
+13. Glenn Close give an                 ... pos = 0.125 	neg = 0.0  
+14. Everyone else appear                ... pos = 0.125 	neg = 0.125
+15. But, the real star o                ... pos = 0.0   	neg = 0.0  
+16. ", and the thing tha                ... pos = 1.125 	neg = 0.0  
+17. They are so seamless                ... pos = 1.0   	neg = 0.0  
+18. The homage that Burt                ... pos = 0.5   	neg = 0.375
+19. The studio, to say t                ... pos = 0.125 	neg = 0.25 
+20. I would rather he ha                ... pos = 1.375 	neg = 0.0  
+21. Prior to the appeara                ... pos = 0.125 	neg = 0.0  
+22. But, once the bug-ey                ... pos = 0.0   	neg = 0.5  
+23. The evil aliens are                 ... pos = 0.5   	neg = 0.75 
+24. This may not be the                 ... pos = 0.875 	neg = 0.125
+25. It is his biggest, a                ... pos = 0.125 	neg = 0.375
+26. "Mars Attacks!                      ... pos = 0     	neg = 0    
+27. " isn't great, but g                ... pos = 0.75  	neg = 0.0  
+28. "Mars Attacks" is a                 ... pos = 0.0   	neg = 0.125
+29. Burton also handily                 ... pos = 0.625 	neg = 0.125
+30. It looks like everyo                ... pos = 0.125 	neg = 0.625
+31. "Mars Attacks" stars                ... pos = 0.75  	neg = 1.125
+32. Fox as her journalis                ... pos = 0.25  	neg = 0.0  
+33. This isn't a film ab                ... pos = 0.25  	neg = 0.125
+34. Annette Bening is pa                ... pos = 0.75  	neg = 0.125
+35. Pierce Brosnan is pe                ... pos = 0.25  	neg = 0.125
+36. Glenn Close has perf                ... pos = 0.0   	neg = 0.0  
+37. Technically, "Mars A                ... pos = 0.75  	neg = 0.5  
+38. Tim Burton's regular                ... pos = 0.375 	neg = 0.0  
+39. Costume designer Col                ... pos = 0.0   	neg = 0.0  
+40. Screenwriter Jonatho                ... pos = 2.125 	neg = 0.25 
+41. This is a good bit o                ... pos = 0.875 	neg = 0.25 
+42. Tim Burton was able                 ... pos = 0.25  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-5794-783 is Positive         ... pos = 20.625 	neg = 10.5 
+Overall score of document
+Total Pos = 20.625
+Total Neg = 10.5
+---------------------------------------------------------------------------

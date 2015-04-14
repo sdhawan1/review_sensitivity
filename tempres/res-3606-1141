@@ -1,0 +1,37 @@
+0. "In this country you                 ... pos = 0.0   	neg = 0.0  
+1. I want to reply 'Wai                 ... pos = 0.75  	neg = 0.375
+2. This is not a liabil                 ... pos = 0.0   	neg = 0.125
+3. The most that can be                 ... pos = 0.0   	neg = 0.375
+4. Unlike, previous fil                 ... pos = 0.375 	neg = 0.125
+5. I was not sure what                  ... pos = 0.375 	neg = 0.125
+6. Kundun, unlike Casin                 ... pos = 2.375 	neg = 0.0  
+7. The voiceover is onl                 ... pos = 0.0   	neg = 0.375
+8. The director has off                 ... pos = 0.625 	neg = 0.25 
+9. The film has been fa                 ... pos = 0.625 	neg = 0.5  
+10. That Kundun does not                ... pos = 0.5   	neg = 0.375
+11. By his own admission                ... pos = 1.625 	neg = 0.875
+12. Formally, Scorcese e                ... pos = 0.0   	neg = 0.0  
+13. The result is not th                ... pos = 0.0   	neg = 0.125
+14. A film as concerned                 ... pos = 0.0   	neg = 0.125
+15. The careful craftsma                ... pos = 0.625 	neg = 0.125
+16. The very first trans                ... pos = 1.875 	neg = 0.0  
+17. The precise plot thr                ... pos = 1.75  	neg = 0.125
+18. DOP Roger Deakins ha                ... pos = 0.0   	neg = 0.0  
+19. (There is an excelle                ... pos = 1.125 	neg = 0.125
+20. That all this was ac                ... pos = 0.375 	neg = 0.375
+21. It seems clear that                 ... pos = 1.125 	neg = 0.75 
+22. This being the case                 ... pos = 0.125 	neg = 0.125
+23. In opposition to the                ... pos = 0.875 	neg = 0.125
+24. The serene beauty an                ... pos = 1.75  	neg = 0.125
+25. In other words by co                ... pos = 0.625 	neg = 0.25 
+26. The result is both m                ... pos = 0.75  	neg = 0.75 
+27. As usual, the fact t                ... pos = 0.75  	neg = 0.792
+28. In fact if I am not                 ... pos = 0.125 	neg = 0.25 
+29. It is both depressin                ... pos = 0.25  	neg = 0.625
+30. It is a shame that e                ... pos = 0.5   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-3606-1141 is Positive        ... pos = 19.875 	neg = 9.292
+Overall score of document
+Total Pos = 19.875
+Total Neg = 9.292
+---------------------------------------------------------------------------

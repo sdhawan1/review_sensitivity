@@ -1,0 +1,42 @@
+0. Directed by: Anthony                 ... pos = 0.0   	neg = 2.0  
+1. " These words are ut                 ... pos = 0.75  	neg = 0.0  
+2. The line perfectly s                 ... pos = 1.375 	neg = 0.125
+3. Looking back over se                 ... pos = 1.125 	neg = 0.125
+4. In "Good Will Huntin                 ... pos = 1.125 	neg = 0.25 
+5. Here, Damon is able                  ... pos = 0.875 	neg = 0.25 
+6. When Herbert Greenle                 ... pos = 0.0   	neg = 0.125
+7. Tom soon becomes bes                 ... pos = 0.375 	neg = 0.0  
+8. Tom soon becomes so                  ... pos = 0.25  	neg = 0.125
+9. This soon has him si                 ... pos = 1.625 	neg = 0.0  
+10. "The Talented Mister                ... pos = 0.5   	neg = 0.25 
+11. Beautifully shot in                 ... pos = 1.0   	neg = 0.0  
+12. The main difference                 ... pos = 0.25  	neg = 0.125
+13. This is most likely                 ... pos = 1.0   	neg = 0.125
+14. If this had been mad                ... pos = 0.0   	neg = 0.375
+15. In this tale, made f                ... pos = 1.25  	neg = 0.125
+16. Whether this should                 ... pos = 0.875 	neg = 0.625
+17. The acting here is t                ... pos = 0.625 	neg = 0.125
+18. As I've already said                ... pos = 1.375 	neg = 0.25 
+19. Jude Law in particul                ... pos = 0.0   	neg = 0    
+20. Gwyneth Paltrow nice                ... pos = 0.5   	neg = 0.375
+21. Cate Blanchett is un                ... pos = 0.125 	neg = 1.125
+22. Also look for an ent                ... pos = 0.25  	neg = 1.125
+23. One of the film's la                ... pos = 0.0   	neg = 0.125
+24. At 139 minutes thing                ... pos = 1.5   	neg = 0.375
+25. However, this is the                ... pos = 0.875 	neg = 0.125
+26. It does a great job                 ... pos = 0.25  	neg = 0.125
+27. An enjoyable film ov                ... pos = 0.625 	neg = 0.0  
+28. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+29. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+30. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+31. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+32. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+33. See it if you've got                ... pos = 0.0   	neg = 0.25 
+34. * - One of the worst                ... pos = 0.0   	neg = 0.375
+35. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-645-535 is Positive          ... pos = 19.75 	neg = 10.125
+Overall score of document
+Total Pos = 19.75
+Total Neg = 10.125
+---------------------------------------------------------------------------

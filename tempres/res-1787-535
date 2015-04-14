@@ -1,0 +1,36 @@
+0. As a summer movie, T                 ... pos = 0.0   	neg = 0.0  
+1. It's a great, popcor                 ... pos = 0.125 	neg = 0.125
+2. As a horror movie li                 ... pos = 0.375 	neg = 0.25 
+3. The movie opens with                 ... pos = 0.5   	neg = 0.5  
+4. We're then taken to                  ... pos = 0.0   	neg = 0.125
+5. The foreign legion i                 ... pos = 0.0   	neg = 0.125
+6. Siblings who've foun                 ... pos = 0.0   	neg = 0.0  
+7. they then proceed to                 ... pos = 0.125 	neg = 0.0  
+8. First of all, don't                  ... pos = 0.5   	neg = 0.0  
+9. For the most part, t                 ... pos = 0.0   	neg = 0.125
+10. Secondly, this film                 ... pos = 0.0   	neg = 0.25 
+11. This is pure movie g                ... pos = 0.5   	neg = 0.125
+12. As for acting, I mus                ... pos = 0.375 	neg = 0.0  
+13. Normally I'm not a l                ... pos = 0.125 	neg = 0.0  
+14. Rachael Weisz and Jo                ... pos = 1.375 	neg = 0.25 
+15. Though the fact of t                ... pos = 0.0   	neg = 0.25 
+16. The only real proble                ... pos = 0.375 	neg = 0.75 
+17. I frankly went in, e                ... pos = 0.375 	neg = 0.125
+18. While I still got a                 ... pos = 0.875 	neg = 0.125
+19. The other problem, i                ... pos = 0.25  	neg = 1.5  
+20. Perhaps being warned                ... pos = 1.125 	neg = 0.625
+21. I simply hope that w                ... pos = 0.375 	neg = 0.625
+22. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+23. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+24. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+25. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+26. See it if you've got                ... pos = 0.0   	neg = 0.25 
+27. * - One of the worst                ... pos = 0.0   	neg = 0.375
+28. See it only if you e                ... pos = 0.375 	neg = 0.0  
+29. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1787-535 is Positive         ... pos = 8.625 	neg = 7.625
+Overall score of document
+Total Pos = 8.625
+Total Neg = 7.625
+---------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+0. Starring Michael Dou                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Curtis H                 ... pos = 0.0   	neg = 0    
+2. Rated R.. Wonder Boy                 ... pos = 0.125 	neg = 0.375
+3. It succeeds as an un                 ... pos = 0.875 	neg = 0.875
+4. The movie is still a                 ... pos = 1.875 	neg = 0.125
+5. Confidential, this i                 ... pos = 0.125 	neg = 0.125
+6. Douglas plays Grady                  ... pos = 0.0   	neg = 0.0  
+7. He teaches his class                 ... pos = 0.375 	neg = 0.375
+8. His new one is up to                 ... pos = 0.375 	neg = 0.125
+9. But Grady doesn't ca                 ... pos = 0     	neg = 0.0  
+10. He just keeps on wri                ... pos = 0.125 	neg = 0.125
+11. Meanwhile, Grady has                ... pos = 0.375 	neg = 0    
+12. He finds out that sh                ... pos = 0.0   	neg = 0.125
+13. He seems too submerg                ... pos = 0.125 	neg = 0.375
+14. His whole life seems                ... pos = 0.125 	neg = 0.625
+15. James is an aspiring                ... pos = 0.75  	neg = 0.25 
+16. And yet Grady finds                 ... pos = 0.5   	neg = 0.125
+17. Most of the laughs i                ... pos = 0.5   	neg = 0.125
+18. There are times when                ... pos = 1.0   	neg = 0.125
+19. The past few months                 ... pos = 0.875 	neg = 0.375
+20. You can't have insan                ... pos = 0.25  	neg = 0.0  
+21. Still, Wonder Boys i                ... pos = 0.875 	neg = 0.25 
+22. He is so lost and so                ... pos = 0.375 	neg = 0.125
+23. Douglas, in a wonder                ... pos = 0.75  	neg = 0.0  
+24. It's fun to watch hi                ... pos = 0.625 	neg = 0.75 
+25. Sometimes, we just w                ... pos = 0.25  	neg = 0.25 
+26. The supporting chara                ... pos = 1.75  	neg = 0.0  
+27. Maguire's James Leer                ... pos = 0.0   	neg = 0    
+28. There are many attem                ... pos = 0.375 	neg = 0.625
+29. This is not to berat                ... pos = 0.125 	neg = 0.125
+30. By the end, Grady Tr                ... pos = 0.0   	neg = 0.0  
+31. We're with him every                ... pos = 0.0   	neg = 0.0  
+32. Sort of.                            ... pos = 0     	neg = 0.0  
+33. The trouble is that                 ... pos = 1.25  	neg = 0.75 
+34. They're all there to                ... pos = 0.0   	neg = 0.0  
+35. They have no human q                ... pos = 0.375 	neg = 0.25 
+36. I suppose that was t                ... pos = 0.375 	neg = 0.125
+37. Still, I wished for                 ... pos = 1.0   	neg = 0.0  
+38. After all, even the                 ... pos = 0.125 	neg = 0.375
+39. Fortunately, Wonder                 ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4777-563 is Positive         ... pos = 17.125 	neg = 7.875
+Overall score of document
+Total Pos = 17.125
+Total Neg = 7.875
+---------------------------------------------------------------------------

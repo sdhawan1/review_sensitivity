@@ -1,0 +1,35 @@
+0. CAPSULE: Intelligent                 ... pos = 1.25  	neg = 0.0  
+1. Makes CLOSE ENCOUNTE                 ... pos = 0.5   	neg = 1.25 
+2. The opening shots of                 ... pos = 0.5   	neg = 0.0  
+3. In a simple, elegant                 ... pos = 0.875 	neg = 0.0  
+4. By the time the stor                 ... pos = 1.0   	neg = 0.125
+5. They were all ready.                 ... pos = 0.0   	neg = 0.125
+6. CONTACT is about tha                 ... pos = 1.75  	neg = 0.125
+7. It is, next to 2001,                 ... pos = 0.375 	neg = 0.125
+8. How would we get in                  ... pos = 0.0   	neg = 0.0  
+9. What would we say af                 ... pos = 0.0   	neg = 0.0  
+10. Jodie Foster plays a                ... pos = 0.375 	neg = 0.125
+11. After a series of th                ... pos = 1.875 	neg = 1.375
+12. Then one day everyth                ... pos = 0.0   	neg = 0.0  
+13. A whopping huge sign                ... pos = 0.0   	neg = 0.125
+14. Someone out there ha                ... pos = 0.875 	neg = 0.125
+15. There is also someth                ... pos = 0.125 	neg = 0.125
+16. And when they do...                 ... pos = 0     	neg = 0.0  
+17. I will not go any fu                ... pos = 0.5   	neg = 0.0  
+18. One of the beauties                 ... pos = 0.75  	neg = 0.125
+19. What I will say is t                ... pos = 1.0   	neg = 0.125
+20. In CE3K, for instanc                ... pos = 0.75  	neg = 0.375
+21. The film also touche                ... pos = 1.25  	neg = 0.125
+22. Arroway does not thi                ... pos = 0.25  	neg = 0.75 
+23. But they are surroun                ... pos = 0.875 	neg = 0.0  
+24. CONTACT is a daring                 ... pos = 0.0   	neg = 0.125
+25. It tells a strong, h                ... pos = 0.75  	neg = 0.0  
+26. To see the cosmic sc                ... pos = 0.0   	neg = 0    
+27. The closing credits                 ... pos = 0.125 	neg = 0.125
+28. For those who knew t                ... pos = 1.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3534-1046 is Positive        ... pos = 17.25 	neg = 5.5  
+Overall score of document
+Total Pos = 17.25
+Total Neg = 5.5
+---------------------------------------------------------------------------

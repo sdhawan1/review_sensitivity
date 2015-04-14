@@ -1,0 +1,35 @@
+0. Christian Critic's M                 ... pos = 0.375 	neg = 0.375
+1. SCRIPTURE REFERENCES                 ... pos = 0.25  	neg = 0.875
+2. A very liberal inter                 ... pos = 1.0   	neg = 0.25 
+3. Ashley Judd (SIMON B                 ... pos = 0.125 	neg = 0.75 
+4. Her life takes anoth                 ... pos = 0.375 	neg = 0.375
+5. When she finally tra                 ... pos = 0.0   	neg = 0.0  
+6. Her husband is appar                 ... pos = 0.0   	neg = 0.5  
+7. The good news (if yo                 ... pos = 1.625 	neg = 0.5  
+8. ). Director Bruce Be                 ... pos = 0.125 	neg = 0.125
+9. With the exposition                  ... pos = 0.25  	neg = 0.0  
+10. A task made more dif                ... pos = 0.5   	neg = 0.75 
+11. But Mr. Beresford ha                ... pos = 0.0   	neg = 0.25 
+12. Because more time wa                ... pos = 0.375 	neg = 0.0  
+13. The end result is a                 ... pos = 1.75  	neg = 0.5  
+14. Ashley Judd has some                ... pos = 0.75  	neg = 0.0  
+15. She makes some odd c                ... pos = 0.625 	neg = 0.75 
+16. One of those chasing                ... pos = 0.0   	neg = 0.5  
+17. We've seen him befor                ... pos = 0.0   	neg = 0.0  
+18. Here, as an ex-law p                ... pos = 0.875 	neg = 0.25 
+19. Bruce Greenwood (THE                ... pos = 0.375 	neg = 0.125
+20. Appropriately insinc                ... pos = 0.625 	neg = 1.75 
+21. The script by David                 ... pos = 0.375 	neg = 0.625
+22. The actions scenes a                ... pos = 0.5   	neg = 0.375
+23. While in prison, Lib                ... pos = 0.125 	neg = 0.25 
+24. While that may have                 ... pos = 1.5   	neg = 0.375
+25. For I will give you                 ... pos = 0.125 	neg = 0.125
+26. "  Luke 21:14-15 [NI                ... pos = 2.5   	neg = 0.0  
+27. No finer defense cou                ... pos = 0.75  	neg = 0.375
+28. No better counsel co                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5789-305 is Positive         ... pos = 15.875 	neg = 11.125
+Overall score of document
+Total Pos = 15.875
+Total Neg = 11.125
+---------------------------------------------------------------------------

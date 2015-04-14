@@ -1,0 +1,58 @@
+0. ***1/2 (out of 4) Wi                 ... pos = 0.375 	neg = 0.125
+1. For a movie characte                 ... pos = 0.875 	neg = 0.0  
+2. It's a trait associa                 ... pos = 0.875 	neg = 0.0  
+3. Forgive me for spoil                 ... pos = 0.375 	neg = 0.0  
+4. This is no formula m                 ... pos = 0     	neg = 0.625
+5. In fact, it's quite                  ... pos = 0.375 	neg = 0    
+6. It's a character stu                 ... pos = 1.25  	neg = 0.125
+7. Will works whatever                  ... pos = 0.125 	neg = 0.0  
+8. First he's a janitor                 ... pos = 0.125 	neg = 0.0  
+9. Off-screen he speed                  ... pos = 0.125 	neg = 0.0  
+10. On-screen he hangs o                ... pos = 0.125 	neg = 0.0  
+11. Lambeau (Stellan Ska                ... pos = 0.375 	neg = 0.25 
+12. Having confirmed he'                ... pos = 0.375 	neg = 0.0  
+13. He is firmly rejecte                ... pos = 0.5   	neg = 0.125
+14. Finally, Will lands                 ... pos = 0.25  	neg = 0.0  
+15. Lambeau can get him                 ... pos = 0.5   	neg = 0.375
+16. Will (barely) decide                ... pos = 0.125 	neg = 0.0  
+17. Lambeau treats Will                 ... pos = 0.125 	neg = 0.0  
+18. He's proud of, and a                ... pos = 0.375 	neg = 0    
+19. He encourages Will a                ... pos = 0.25  	neg = 0.375
+20. Will isn't really in                ... pos = 0.125 	neg = 0.0  
+21. He knows he would be                ... pos = 1.25  	neg = 0.125
+22. He would rather work                ... pos = 0.75  	neg = 0    
+23. Meanwhile, Will atte                ... pos = 0.125 	neg = 0    
+24. It's not long before                ... pos = 0.0   	neg = 0.375
+25. Will has read enough                ... pos = 0.75  	neg = 0.0  
+26. Shrink after shrink                 ... pos = 0.375 	neg = 0    
+27. Lambeau's last hope                 ... pos = 0.375 	neg = 0.125
+28. Knowing that Will is                ... pos = 1.375 	neg = 0.375
+29. True to form, Will f                ... pos = 1.0   	neg = 0    
+30. But unlike the other                ... pos = 0.125 	neg = 0.125
+31. Like a foster mother                ... pos = 0.375 	neg = 0.125
+32. Like the foster moth                ... pos = 0.875 	neg = 0.125
+33. Robin Williams is ex                ... pos = 1.375 	neg = 0.125
+34. He's not an actor wi                ... pos = 0.0   	neg = 0.0  
+35. In this movie, as in                ... pos = 2.5   	neg = 0.0  
+36. Williams is the only                ... pos = 0.375 	neg = 0.125
+37. I have compared Will                ... pos = 0.625 	neg = 0.0  
+38. Emotionally, he has                 ... pos = 0.125 	neg = 0.125
+39. He has thought about                ... pos = 0.125 	neg = 0.0  
+40. Sean, his girlfriend                ... pos = 0.375 	neg = 0.0  
+41. His exceptional gift                ... pos = 0.875 	neg = 0.0  
+42. If I had to say anyt                ... pos = 0.25  	neg = 1.0  
+43. It's too sentimental                ... pos = 2.0   	neg = 0.5  
+44. It is emotionally en                ... pos = 0.25  	neg = 0.125
+45. This isn't a problem                ... pos = 0.5   	neg = 0.25 
+46. But this is a relati                ... pos = 1.25  	neg = 0.125
+47. A good movie allows                 ... pos = 1.625 	neg = 0.0  
+48. It doesn't just happ                ... pos = 2.25  	neg = 0.0  
+49. GOOD WILL HUNTING ha                ... pos = 0.875 	neg = 0    
+50. If you are at all in                ... pos = 0.75  	neg = 0.0  
+51. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5197-1008 is Positive        ... pos = 31.125 	neg = 5.75 
+Overall score of document
+Total Pos = 31.125
+Total Neg = 5.75
+---------------------------------------------------------------------------

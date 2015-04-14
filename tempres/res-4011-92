@@ -1,0 +1,28 @@
+0. *I Know What You Did                 ... pos = 0.0   	neg = 0.0  
+1. He has also been bus                 ... pos = 0.375 	neg = 0.125
+2. A new era in scary m                 ... pos = 0.375 	neg = 0.875
+3. One that is witty, s                 ... pos = 1.125 	neg = 0.125
+4. So far, it has been                  ... pos = 1.375 	neg = 0.125
+5. *I Know What You Did                 ... pos = 0.0   	neg = 0.0  
+6. On July 4th, just af                 ... pos = 0.0   	neg = 0.0  
+7. Thinking he's dead,                  ... pos = 0.375 	neg = 0.0  
+8. They swear never to                  ... pos = 0.0   	neg = 0.0  
+9. The following year,                  ... pos = 1.25  	neg = 0.375
+10. It's the eve of anot                ... pos = 0.625 	neg = 0.125
+11. ". Without giving to                ... pos = 0.5   	neg = 0.375
+12. As in *Scream*, the                 ... pos = 0.0   	neg = 0.25 
+13. Knowing the psycholo                ... pos = 0.375 	neg = 0.25 
+14. Another element that                ... pos = 0.5   	neg = 0.25 
+15. Crashing waves and r                ... pos = 0.25  	neg = 0.375
+16. Also, the lower-midd                ... pos = 0.125 	neg = 0.125
+17. The actors do a good                ... pos = 1.0   	neg = 0.0  
+18. Sarah Michelle Gella                ... pos = 0.5   	neg = 0.125
+19. Freddie Prinze Jr. i                ... pos = 0.25  	neg = 0.125
+20. Anne Heche is partic                ... pos = 0.875 	neg = 0.125
+21. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4011-92 is Positive          ... pos = 9.875 	neg = 3.875
+Overall score of document
+Total Pos = 9.875
+Total Neg = 3.875
+---------------------------------------------------------------------------

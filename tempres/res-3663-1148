@@ -1,0 +1,20 @@
+0. Traditionally, the b                 ... pos = 0.25  	neg = 0.125
+1. ), so it's somewhat                  ... pos = 0.375 	neg = 0.0  
+2. The  fact that it tu                 ... pos = 0.625 	neg = 0.375
+3. As  his previous fil                 ... pos = 1.125 	neg = 0.75 
+4. (The scriptwriters,                  ... pos = 0.375 	neg = 0.125
+5. ). The cast is up fo                 ... pos = 0.0   	neg = 0.125
+6. In the lead role, Wo                 ... pos = 2.25  	neg = 0.5  
+7. Courtney Love, no st                 ... pos = 1.625 	neg = 0.75 
+8. The standout,  thoug                 ... pos = 0.0   	neg = 0.5  
+9. After only  two movi                 ... pos = 0.375 	neg = 0.0  
+10. His wonderfully natu                ... pos = 0.75  	neg = 0.125
+11. This movie isn't per                ... pos = 1.5   	neg = 0.5  
+12. I never thought that                ... pos = 0.5   	neg = 0.25 
+13. Copyright 1997 The C                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3663-1148 is Positive        ... pos = 9.75  	neg = 4.125
+Overall score of document
+Total Pos = 9.75
+Total Neg = 4.125
+---------------------------------------------------------------------------

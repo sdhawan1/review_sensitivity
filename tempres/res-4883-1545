@@ -1,0 +1,16 @@
+0. A month ago I wrote                  ... pos = 0.0   	neg = 0.5  
+1. I didn't know at the                 ... pos = 0.5   	neg = 0.0  
+2. As directed by Joel                  ... pos = 1.625 	neg = 0.75 
+3. The plot, which has                  ... pos = 0.0   	neg = 0.0  
+4. Freeze and Poison Iv                 ... pos = 1.375 	neg = 1.125
+5. But morals are not t                 ... pos = 0.125 	neg = 0.625
+6. The garish art direc                 ... pos = 1.0   	neg = 1.375
+7. Since when did Gotha                 ... pos = 0.0   	neg = 0.0  
+8. Only George Clooney                  ... pos = 0.25  	neg = 0.25 
+9. * (out of four). .                   ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4883-1545 is Positive        ... pos = 4.875 	neg = 4.625
+Overall score of document
+Total Pos = 4.875
+Total Neg = 4.625
+---------------------------------------------------------------------------

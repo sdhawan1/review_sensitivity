@@ -1,0 +1,34 @@
+0. A work (novel, movie                 ... pos = 0.375 	neg = 0.75 
+1. To look at it anothe                 ... pos = 0.0   	neg = 0.75 
+2. This is what Shakesp                 ... pos = 1.25  	neg = 0.625
+3. This is also what th                 ... pos = 0.375 	neg = 0.75 
+4. The thing is, howeve                 ... pos = 2.25  	neg = 0.625
+5. The 13th Warrior doe                 ... pos = 0.375 	neg = 0.375
+6. Writer/director Mich                 ... pos = 0.875 	neg = 0.375
+7. ) which also manage                  ... pos = 0.0   	neg = 0.0  
+8. In The 13th Warrior,                 ... pos = 0.5   	neg = 0.125
+9. The world this group                 ... pos = 0.0   	neg = 0.125
+10. What they have to sa                ... pos = 0.25  	neg = 0.0  
+11. Which is to say tran                ... pos = 0.0   	neg = 0.125
+12. And, when fighting c                ... pos = 1.125 	neg = 0.125
+13. In addition, though-                ... pos = 0.25  	neg = 2.25 
+14. And this isn't neces                ... pos = 1.125 	neg = 0.875
+15. It does have a flips                ... pos = 0.0   	neg = 0.0  
+16. Meaning we're not su                ... pos = 0.25  	neg = 0.125
+17. If that was the only                ... pos = 0.0   	neg = 0.25 
+18. But there's more.                   ... pos = 0.0   	neg = 0.0  
+19. There's the castle-i                ... pos = 0.0   	neg = 0.25 
+20. There's Ibn Fadlan's                ... pos = 0.625 	neg = 0.0  
+21. There's Antonio Band                ... pos = 0.25  	neg = 0.0  
+22. There's some unwisel                ... pos = 0.125 	neg = 0.25 
+23. On the plus side, th                ... pos = 0.0   	neg = 0.125
+24. '), and there's even                ... pos = 0.0   	neg = 0.0  
+25. More than all that,                 ... pos = 0.75  	neg = 0.625
+26. Which is to say it d                ... pos = 0.0   	neg = 0.625
+27. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-731-965 is Positive          ... pos = 10.75 	neg = 10.125
+Overall score of document
+Total Pos = 10.75
+Total Neg = 10.125
+---------------------------------------------------------------------------

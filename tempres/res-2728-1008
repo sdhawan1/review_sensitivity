@@ -1,0 +1,40 @@
+0. **1/2 (out of 4) Of                  ... pos = 0.25  	neg = 0.5  
+1. It is difficult to w                 ... pos = 0.125 	neg = 0.25 
+2. The violence is the                  ... pos = 0.0   	neg = 0.125
+3. Since coming to Amer                 ... pos = 0.125 	neg = 0.125
+4. I haven't seen his f                 ... pos = 0.5   	neg = 1.125
+5. Woo still includes t                 ... pos = 0.0   	neg = 0.375
+6. It is no longer the                  ... pos = 0.125 	neg = 0.5  
+7. In trying to appreci                 ... pos = 0.125 	neg = 1.125
+8. Rather than continui                 ... pos = 0.5   	neg = 0.125
+9. Woo does have a tale                 ... pos = 0.0   	neg = 0.125
+10. One brutal gunfight                 ... pos = 0.375 	neg = 0.625
+11. There's also plenty                 ... pos = 0.0   	neg = 0.0  
+12. FACE/OFF is smarter                 ... pos = 0.25  	neg = 0.25 
+13. It's interesting to                 ... pos = 0.0   	neg = 0.0  
+14. Sean Archer (John Tr                ... pos = 0.0   	neg = 0    
+15. He's tracking Castor                ... pos = 0.0   	neg = 1.5  
+16. Archer's last hope i                ... pos = 0.375 	neg = 0.125
+17. Like their mythologi                ... pos = 1.25  	neg = 0.0  
+18. A new "morphogenetic                ... pos = 1.0   	neg = 0.375
+19. A modern-day Trojan                 ... pos = 0.0   	neg = 0.0  
+20. The plot takes an in                ... pos = 0.0   	neg = 0.0  
+21. He and his cronies s                ... pos = 0.375 	neg = 0.875
+22. It really does sound                ... pos = 1.25  	neg = 0.625
+23. For example, Nicolas                ... pos = 1.0   	neg = 0.0  
+24. All of the facial ex                ... pos = 0.375 	neg = 0.0  
+25. During a later stand                ... pos = 0.0   	neg = 0.375
+26. The Trojan War refer                ... pos = 0.25  	neg = 1.625
+27. In fact, there are m                ... pos = 0.875 	neg = 0.375
+28. But one has to wonde                ... pos = 0.0   	neg = 0.125
+29. The speed boat seque                ... pos = 0.0   	neg = 0.75 
+30. The fight scenes wer                ... pos = 0.125 	neg = 0.375
+31. Worst of all, FACE/O                ... pos = 0.0   	neg = 0.5  
+32. I'm starting to wond                ... pos = 0.125 	neg = 0.375
+33. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2728-1008 is Negative        ... pos = 9.375 	neg = 13.25
+Overall score of document
+Total Pos = 9.375
+Total Neg = 13.25
+---------------------------------------------------------------------------

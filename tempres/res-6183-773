@@ -1,0 +1,28 @@
+0. The opening of Micha                 ... pos = 0.75  	neg = 0.0  
+1. When the interview i                 ... pos = 0.0   	neg = 0.125
+2. A similar perspectiv                 ... pos = 0.5   	neg = 0.125
+3. The implication is e                 ... pos = 0.125 	neg = 0.375
+4. The movie recounts a                 ... pos = 0.0   	neg = 0.125
+5. In 1995, "60 Minutes                 ... pos = 0.5   	neg = 0.125
+6. The CBS brass pressu                 ... pos = 0.625 	neg = 0.0  
+7. The truth is irrelev                 ... pos = 0.5   	neg = 0.75 
+8. "The truer the infor                 ... pos = 1.0   	neg = 0    
+9. "  And "60 Minutes"                  ... pos = 0     	neg = 0    
+10. Christopher Plummer                 ... pos = 0.5   	neg = 0.0  
+11. Al Pacino stays in c                ... pos = 0.0   	neg = 0.0  
+12. And Russell Crowe, t                ... pos = 0.375 	neg = 0.0  
+13. Confidential", is su                ... pos = 0.875 	neg = 0.5  
+14. There's a fascinatin                ... pos = 1.125 	neg = 0.125
+15. Wigand left a backgr                ... pos = 0.125 	neg = 0.0  
+16. In Mann's treatment,                ... pos = 0.0   	neg = 0.0  
+17. Big Tobacco is the v                ... pos = 0.75  	neg = 1.0  
+18. "The Insider" doesn'                ... pos = 0.0   	neg = 0.375
+19. It's a movie in the                 ... pos = 0.0   	neg = 0.0  
+20. It's drawn from life                ... pos = 0.25  	neg = 0.0  
+21. Still much of it, ac                ... pos = 0.5   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-6183-773 is Positive         ... pos = 8.5   	neg = 4.375
+Overall score of document
+Total Pos = 8.5
+Total Neg = 4.375
+---------------------------------------------------------------------------

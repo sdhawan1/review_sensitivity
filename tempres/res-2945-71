@@ -1,0 +1,44 @@
+0. Naming a film or boo                 ... pos = 0.625 	neg = 0.125
+1. It's a strategy used                 ... pos = 0.125 	neg = 0.0  
+2. What we look for in                  ... pos = 1.625 	neg = 0.5  
+3. A work should, after                 ... pos = 0.0   	neg = 0.25 
+4. So ERIN BROCKOVICH s                 ... pos = 1.375 	neg = 0.125
+5. Julia Roberts  does                  ... pos = 0.625 	neg = 0.0  
+6. As she is driving la                 ... pos = 0.0   	neg = 0.125
+7. After days of legal                  ... pos = 0.375 	neg = 0.875
+8. On a cell phone in a                 ... pos = 0.625 	neg = 0.0  
+9. One flaw in the char                 ... pos = 0.125 	neg = 0.25 
+10. We are told  that Er                ... pos = 0.25  	neg = 0.5  
+11. But her only behavio                ... pos = 0.75  	neg = 0.125
+12. She is hesitant to g                ... pos = 0.125 	neg = 1.375
+13. Couldn't director St                ... pos = 0.0   	neg = 0.0  
+14. The film spends more                ... pos = 0.25  	neg = 0.75 
+15. What proves the salv                ... pos = 0.0   	neg = 0.125
+16. Unsuccessful in a la                ... pos = 0.0   	neg = 0.5  
+17. Again and again show                ... pos = 0.25  	neg = 0.25 
+18. It's a suit against                 ... pos = 0.0   	neg = 0.0  
+19. Of course this whole                ... pos = 0.0   	neg = 0.75 
+20. But the acting lifts                ... pos = 1.875 	neg = 0.875
+21. As Ed Masry, Albert                 ... pos = 0.125 	neg = 0.125
+22. He plays a good foil                ... pos = 1.25  	neg = 0.0  
+23. Like the other focus                ... pos = 1.375 	neg = 0.125
+24. We  only hear him sa                ... pos = 0.25  	neg = 0.0  
+25. Such  simplification                ... pos = 1.75  	neg = 0.125
+26. Aaron Eckhart is und                ... pos = 0.0   	neg = 0.125
+27. George's relationshi                ... pos = 1.25  	neg = 0.125
+28. In any case, Eckhart                ... pos = 0.5   	neg = 0.125
+29. Do we know enough ab                ... pos = 0.125 	neg = 0.375
+30. It  is explained to                 ... pos = 0.875 	neg = 0.25 
+31. Reservations:   the                 ... pos = 0.0   	neg = 0.5  
+32. Julia Roberts is a s                ... pos = 0.0   	neg = 0.125
+33. She has created for                 ... pos = 0.875 	neg = 0.125
+34. At 32, she's  receiv                ... pos = 0.125 	neg = 0.0  
+35. That this informatio                ... pos = 0.0   	neg = 0.25 
+36. Like her or not, she                ... pos = 1.75  	neg = 0.125
+37. ERIN BROCKVICH shows                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2945-71 is Positive          ... pos = 20.25 	neg = 10.125
+Overall score of document
+Total Pos = 20.25
+Total Neg = 10.125
+---------------------------------------------------------------------------

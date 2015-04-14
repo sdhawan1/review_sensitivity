@@ -1,0 +1,28 @@
+0. Disney Studios' late                 ... pos = 0.75  	neg = 0.125
+1. It tells the story o                 ... pos = 0.0   	neg = 0.0  
+2. Then, after the gras                 ... pos = 0.0   	neg = 0.0  
+3. Unfortunately, as th                 ... pos = 0.0   	neg = 1.0  
+4. Flik ventures off th                 ... pos = 0.25  	neg = 1.0  
+5. He goes to the Big C                 ... pos = 0.125 	neg = 0.125
+6. The theatrical troup                 ... pos = 0.5   	neg = 0.875
+7. When I was a child,                  ... pos = 0.0   	neg = 0.25 
+8. This movie reminds m                 ... pos = 0.0   	neg = 0.0  
+9. They use the discard                 ... pos = 0.25  	neg = 0    
+10. An animal cracker co                ... pos = 0.0   	neg = 0.375
+11. It's fun to watch fo                ... pos = 0.625 	neg = 0    
+12. There is humor for e                ... pos = 0     	neg = 0.125
+13. There are jokes aime                ... pos = 0.5   	neg = 0.25 
+14. It was wonderful to                 ... pos = 1.25  	neg = 0.25 
+15. Identifying the voic                ... pos = 0.0   	neg = 0.125
+16. Some belong to old,                 ... pos = 0.0   	neg = 0.0  
+17. Most of us had to wa                ... pos = 0.125 	neg = 0.125
+18. Some of the cleveres                ... pos = 0.0   	neg = 0.0  
+19. There are some very                 ... pos = 1.5   	neg = 0.0  
+20. I do want to see thi                ... pos = 0.0   	neg = 0.125
+21. I give it a solid B.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-989 is Positive         ... pos = 5.875 	neg = 4.75 
+Overall score of document
+Total Pos = 5.875
+Total Neg = 4.75
+---------------------------------------------------------------------------

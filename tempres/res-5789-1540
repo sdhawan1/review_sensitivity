@@ -1,0 +1,31 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Douglas S                 ... pos = 0.0   	neg = 0.0  
+2. Photographed by Pete                 ... pos = 0.0   	neg = 0.0  
+3. "Double Jeopardy" wa                 ... pos = 0.875 	neg = 0.375
+4. But the gimmick does                 ... pos = 0.0   	neg = 0.125
+5. All that  remains is                 ... pos = 0.125 	neg = 0.125
+6. Ashley Judd stars as                 ... pos = 0.125 	neg = 0.125
+7. There is a knife on                  ... pos = 0.0   	neg = 0.125
+8. There is no sign of                  ... pos = 0     	neg = 0.125
+9. Libby is convicted o                 ... pos = 0.0   	neg = 0.125
+10. While in prison, Lib                ... pos = 0.5   	neg = 0.125
+11. So she behaves well,                ... pos = 0.25  	neg = 0.903
+12. She steals a car fro                ... pos = 0.75  	neg = 0.0  
+13. She feels comfortabl                ... pos = 0.0   	neg = 0.25 
+14. Yes, this is the gim                ... pos = 0.625 	neg = 0.375
+15. Since Nick is has be                ... pos = 0.125 	neg = 0.5  
+16. Besides, she would h                ... pos = 0.25  	neg = 0.0  
+17. Travis is supposed t                ... pos = 1.0   	neg = 0.5  
+18. Most scenes just sho                ... pos = 0.0   	neg = 0.25 
+19. We're supposed to be                ... pos = 1.125 	neg = 0.125
+20. Judd holds her own r                ... pos = 2.0   	neg = 0.375
+21. Jones is okay, too,                 ... pos = 0.0   	neg = 0.625
+22. Marshals", which was                ... pos = 0.25  	neg = 0.125
+23. "Double Jeopardy" ra                ... pos = 0.0   	neg = 1.125
+24. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5789-1540 is Positive        ... pos = 8.25  	neg = 6.528
+Overall score of document
+Total Pos = 8.25
+Total Neg = 6.528
+---------------------------------------------------------------------------

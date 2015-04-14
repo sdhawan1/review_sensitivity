@@ -1,0 +1,48 @@
+0. Most people who have                 ... pos = 1.125 	neg = 0.0  
+1. The only people who                  ... pos = 0.5   	neg = 0.125
+2. When people take the                 ... pos = 0.75  	neg = 0.125
+3. This year's student                  ... pos = 0.0   	neg = 0.625
+4. Not too many people                  ... pos = 0.25  	neg = 0.375
+5. She is highly seriou                 ... pos = 0.625 	neg = 0.125
+6. Tracy takes everythi                 ... pos = 0.125 	neg = 0.0  
+7. Everything she sees                  ... pos = 0.25  	neg = 0.375
+8. Tracy is well known                  ... pos = 0.625 	neg = 0.25 
+9. However, Tracy has a                 ... pos = 0.25  	neg = 0.0  
+10. Underneath the surfa                ... pos = 0.125 	neg = 0.0  
+11. Besides simply being                ... pos = 1.5   	neg = 0.0  
+12. It so happens that T                ... pos = 0.5   	neg = 0.0  
+13. While it may initial                ... pos = 1.375 	neg = 0.375
+14. A glaring discrepenc                ... pos = 0.25  	neg = 0.0  
+15. The story takes an u                ... pos = 1.0   	neg = 0.25 
+16. Tracy is cloyingly p                ... pos = 1.0   	neg = 0.375
+17. Credit must be given                ... pos = 1.625 	neg = 0.125
+18. Witherspoon deftly k                ... pos = 0.875 	neg = 0.875
+19. Although Tracy might                ... pos = 1.0   	neg = 1.625
+20. While Jim is initial                ... pos = 1.25  	neg = 0.125
+21. Jim's desires eventu                ... pos = 0.625 	neg = 0.0  
+22. The thought that Tra                ... pos = 0.5   	neg = 0.0  
+23. He decides to encour                ... pos = 0.0   	neg = 0.5  
+24. While Paul does not                 ... pos = 1.0   	neg = 0.625
+25. The story ambitiousl                ... pos = 0.625 	neg = 0.75 
+26. Tammy runs on the pl                ... pos = 0.125 	neg = 0.375
+27. The election will me                ... pos = 0.375 	neg = 0.375
+28. The film is note wor                ... pos = 1.625 	neg = 0.125
+29. However, it could ha                ... pos = 0.125 	neg = 0.0  
+30. Also, Paul's girlfri                ... pos = 0.25  	neg = 0.25 
+31. The remaining charac                ... pos = 1.625 	neg = 0    
+32. The story has one gl                ... pos = 1.125 	neg = 0.5  
+33. However, the story a                ... pos = 0.125 	neg = 0.125
+34. Because the characte                ... pos = 1.5   	neg = 0.125
+35. At times the plot ha                ... pos = 1.25  	neg = 0.25 
+36. Highly recommended.                 ... pos = 0.625 	neg = 0    
+37. This is an entertain                ... pos = 0.125 	neg = 0.125
+38. It strives to presen                ... pos = 2.25  	neg = 0.0  
+39. The plot is engaging                ... pos = 0.0   	neg = 0.125
+40. Sent via Deja.com ht                ... pos = 0.0   	neg = 0.0  
+41. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4362-707 is Positive         ... pos = 28.875 	neg = 10.0 
+Overall score of document
+Total Pos = 28.875
+Total Neg = 10.0
+---------------------------------------------------------------------------

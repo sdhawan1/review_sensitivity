@@ -1,0 +1,47 @@
+0. Today, most of the t                 ... pos = 0.375 	neg = 0.5  
+1. While Welcome to the                 ... pos = 0.625 	neg = 0.0  
+2. Out of this junk com                 ... pos = 1.375 	neg = 0.625
+3. The story feels old                  ... pos = 0.0   	neg = 0.125
+4. I admit to not wanti                 ... pos = 0.25  	neg = 0.0  
+5. While October Sky is                 ... pos = 1.5   	neg = 1.375
+6. Maybe I'm praising O                 ... pos = 0.125 	neg = 0.125
+7. The movie isn't exac                 ... pos = 1.125 	neg = 0.25 
+8. I'll know in a few y                 ... pos = 0.0   	neg = 0.375
+9. Right now, I can't d                 ... pos = 0.875 	neg = 0.125
+10. October Sky centers                 ... pos = 0.0   	neg = 0.125
+11. With the sight of Sp                ... pos = 0.0   	neg = 0.0  
+12. His father (Chris Co                ... pos = 0.375 	neg = 0.25 
+13. Young men in this to                ... pos = 0.0   	neg = 0.0  
+14. It has always been t                ... pos = 0.0   	neg = 0.125
+15. Homer looks at the m                ... pos = 0.375 	neg = 0.75 
+16. Urged on by his teac                ... pos = 0.625 	neg = 0.625
+17. This rocket may be t                ... pos = 0.0   	neg = 0.125
+18. Homer, a boy who's m                ... pos = 0.5   	neg = 0.125
+19. There is a fire in h                ... pos = 0.25  	neg = 0.75 
+20. His hopes for enteri                ... pos = 0.25  	neg = 0.0  
+21. The fire in his eyes                ... pos = 0.5   	neg = 0.0  
+22. I saw this movie in                 ... pos = 0.125 	neg = 0.125
+23. The script and Chris                ... pos = 0.625 	neg = 0.625
+24. He wants the best fo                ... pos = 1.0   	neg = 0.0  
+25. He believes that peo                ... pos = 0.125 	neg = 0.75 
+26. We can't always unde                ... pos = 0.75  	neg = 0.0  
+27. His fights with Home                ... pos = 0.125 	neg = 0.125
+28. There is an especial                ... pos = 0.125 	neg = 0.125
+29. His father doesn't w                ... pos = 0.5   	neg = 0.25 
+30. There is no screamin                ... pos = 0.0   	neg = 0.875
+31. The later brawls bet                ... pos = 0.25  	neg = 0.875
+32. " and "Yeah, I'll go                ... pos = 0     	neg = 0.375
+33. "  These scenes have                ... pos = 0.75  	neg = 0.25 
+34. The movie gets you i                ... pos = 0.25  	neg = 0.0  
+35. When October Sky is                 ... pos = 1.625 	neg = 2.0  
+36. Homer Hickam now liv                ... pos = 0.625 	neg = 0.0  
+37. October Sky is not a                ... pos = 0.375 	neg = 0.125
+38. I wish more kids had                ... pos = 0.0   	neg = 0.375
+39. The only people I sa                ... pos = 0.0   	neg = 0.125
+40. The movie has lots o                ... pos = 1.25  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-2340-546 is Positive         ... pos = 17.625 	neg = 14.125
+Overall score of document
+Total Pos = 17.625
+Total Neg = 14.125
+---------------------------------------------------------------------------

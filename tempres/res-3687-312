@@ -1,0 +1,31 @@
+0. Some outraged self-a                 ... pos = 2.125 	neg = 0.25 
+1. Now that we can see                  ... pos = 0.75  	neg = 0.375
+2. Thanks to the screen                 ... pos = 0.625 	neg = 0.375
+3. American Psycho is a                 ... pos = 0.0   	neg = 0.5  
+4. The audience's expec                 ... pos = 1.125 	neg = 0.375
+5. Blood-and-guts fans                  ... pos = 0.625 	neg = 0.125
+6. Christian Bale is ve                 ... pos = 2.0   	neg = 0.875
+7. Bateman and his fell                 ... pos = 0.25  	neg = 0.0  
+8. Bateman's narration                  ... pos = 0.125 	neg = 0.125
+9. This stuff is import                 ... pos = 0.875 	neg = 0.375
+10. Rather than comparin                ... pos = 1.75  	neg = 0.125
+11. The best scene in th                ... pos = 0.875 	neg = 0.375
+12. Bateman's scary shal                ... pos = 0.75  	neg = 2.25 
+13. It's hilarious stuff                ... pos = 0.5   	neg = 0.25 
+14. Tom Wolfe satirised                 ... pos = 0.0   	neg = 0.375
+15. A typical movie-goer                ... pos = 0.5   	neg = 0.875
+16. Too young to remembe                ... pos = 0.125 	neg = 0.25 
+17. What a thought.                     ... pos = 0.0   	neg = 0.0  
+18. The film's ending le                ... pos = 0.25  	neg = 0    
+19. I have no problem wi                ... pos = 0.25  	neg = 1.0  
+20. After my initial con                ... pos = 0.0   	neg = 0.25 
+21. American Psycho is a                ... pos = 0.0   	neg = 1.278
+22. And it seems to have                ... pos = 0.75  	neg = 0.375
+23. The marketing boys h                ... pos = 0.0   	neg = 0.75 
+24. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3687-312 is Positive         ... pos = 15.25 	neg = 11.528
+Overall score of document
+Total Pos = 15.25
+Total Neg = 11.528
+---------------------------------------------------------------------------

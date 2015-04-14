@@ -1,0 +1,50 @@
+0. This summer, Austin                  ... pos = 0.125 	neg = 0.875
+1. The next time you ha                 ... pos = 0.0   	neg = 0.875
+2. ' on an answering ma                 ... pos = 0.125 	neg = 0.0  
+3. But let's be mature                  ... pos = 0.125 	neg = 0.125
+4. Let's learn to separ                 ... pos = 0.0   	neg = 0.0  
+5. `Austin Powers: The                  ... pos = 1.694 	neg = 0.5  
+6. However poorly Mike                  ... pos = 0.75  	neg = 2.0  
+7. `The Spy Who Shagged                 ... pos = 0.375 	neg = 0.5  
+8. In the long history                  ... pos = 0.0   	neg = 0.5  
+9. ) still doing `SNL'-                 ... pos = 0.375 	neg = 0.875
+10. Playing three of the                ... pos = 1.25  	neg = 0.125
+11. With the help of fun                ... pos = 0.125 	neg = 0.0  
+12. The result is an end                ... pos = 0.0   	neg = 1.25 
+13. For every joke that                 ... pos = 0.75  	neg = 0.25 
+14. That makes for a pre                ... pos = 0.75  	neg = 0.125
+15. When we last left Au                ... pos = 1.375 	neg = 0.0  
+16. The new film opens w                ... pos = 1.375 	neg = 0.0  
+17. In no time, however,                ... pos = 0.125 	neg = 0.5  
+18. CIA agent Felicity S                ... pos = 0.5   	neg = 1.125
+19. Evil (Myers again).                 ... pos = 0.0   	neg = 0.75 
+20. The bald and effete                 ... pos = 0.5   	neg = 0    
+21. Evil (who we first m                ... pos = 0.625 	neg = 1.125
+22. As a result, Austin                 ... pos = 0.5   	neg = 0.125
+23. To recover the lead                 ... pos = 1.625 	neg = 0.125
+24. Curiously, Austin Po                ... pos = 0.875 	neg = 0.125
+25. That honor belongs t                ... pos = 0.75  	neg = 0.75 
+26. Evil, a cackling bad                ... pos = 0.25  	neg = 2.375
+27. Disappointed by his                 ... pos = 0.75  	neg = 1.625
+28. Scott hates the litt                ... pos = 0.875 	neg = 0.75 
+29. As a piece of short-                ... pos = 0.125 	neg = 0.0  
+30. The delights comes i                ... pos = 1.0   	neg = 0.75 
+31. The main satirical s                ... pos = 0.0   	neg = 0.125
+32. Bond fans will recog                ... pos = 0.875 	neg = 0.375
+33. Even product placeme                ... pos = 0.0   	neg = 0.0  
+34. Starbucks, for insta                ... pos = 0.5   	neg = 0.0  
+35. Evil's world-dominat                ... pos = 0.0   	neg = 0    
+36. Unlike another, much                ... pos = 0.625 	neg = 0.125
+37. ), `The Spy Who Shag                ... pos = 0.0   	neg = 0.0  
+38. It's less a cohesive                ... pos = 0.125 	neg = 0.0  
+39. To take one example,                ... pos = 1.25  	neg = 1.125
+40. By mixing arch pop-c                ... pos = 0.25  	neg = 0.0  
+41. Bow to Austin Powers                ... pos = 0.0   	neg = 0.25 
+42. Smashing, baby.                     ... pos = 0     	neg = 0.25 
+43. Simply smashing.. .                 ... pos = 0     	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1376-1006 is Positive        ... pos = 21.319 	neg = 20.625
+Overall score of document
+Total Pos = 21.319
+Total Neg = 20.625
+---------------------------------------------------------------------------

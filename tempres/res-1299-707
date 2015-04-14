@@ -1,0 +1,33 @@
+0. Rushmore Academy is                  ... pos = 0.875 	neg = 0.625
+1. The reason Max is a                  ... pos = 0.0   	neg = 1.25 
+2. Rather, it is becaus                 ... pos = 0.875 	neg = 0.125
+3. Max's most focused t                 ... pos = 0.375 	neg = 0.5  
+4. Just as Max is being                 ... pos = 0.625 	neg = 0.5  
+5. Although a romance b                 ... pos = 0.375 	neg = 0.0  
+6. Age never appears to                 ... pos = 0.875 	neg = 0.25 
+7. However, Max's frien                 ... pos = 0.5   	neg = 0.0  
+8. Herman's age and wea                 ... pos = 0.625 	neg = 0.25 
+9. The setup for the st                 ... pos = 0.0   	neg = 0.125
+10. Countless films have                ... pos = 0.625 	neg = 1.0  
+11. Usually these films                 ... pos = 0.0   	neg = 0.0  
+12. This film, thankfull                ... pos = 1.125 	neg = 0.125
+13. The characters are m                ... pos = 1.375 	neg = 0.375
+14. In fact, it is not r                ... pos = 0.0   	neg = 0.75 
+15. Although the humor i                ... pos = 1.125 	neg = 1.0  
+16. The drama provides p                ... pos = 0.0   	neg = 0.0  
+17. The younger children                ... pos = 3.0   	neg = 0.0  
+18. Bill Murray gives an                ... pos = 1.75  	neg = 0.75 
+19. Herman exists most o                ... pos = 0.0   	neg = 0.0  
+20. This is a difficult                 ... pos = 0.5   	neg = 1.125
+21. Newcomer Jason Schwa                ... pos = 0.625 	neg = 0.125
+22. He is able to expres                ... pos = 0.875 	neg = 0.125
+23. Recommended.                        ... pos = 0.0   	neg = 0    
+24. This is a fresh, ent                ... pos = 0.5   	neg = 0.375
+25. It has involving dra                ... pos = 0.25  	neg = 0.125
+26. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1299-707 is Positive         ... pos = 16.875 	neg = 9.5  
+Overall score of document
+Total Pos = 16.875
+Total Neg = 9.5
+---------------------------------------------------------------------------

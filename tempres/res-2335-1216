@@ -1,0 +1,48 @@
+0. http://www.alien-res                 ... pos = 0.375 	neg = 0.5  
+1. Until now.                           ... pos = 0.0   	neg = 0    
+2. Brought back to life                 ... pos = 0.0   	neg = 0.0  
+3. Brought back to life                 ... pos = 0.375 	neg = 0    
+4. The queen alien is r                 ... pos = 0.375 	neg = 0.125
+5. 'Special' cargo is r                 ... pos = 0.0   	neg = 0.375
+6. But as luck would ha                 ... pos = 0.375 	neg = 0.5  
+7. But with enough orig                 ... pos = 0.75  	neg = 0.125
+8. The beginning of the                 ... pos = 0.0   	neg = 0.125
+9. Then instead of cont                 ... pos = 0.0   	neg = 0.0  
+10. Its pretty well exec                ... pos = 0.0   	neg = 0.375
+11. The plot itself need                ... pos = 0.625 	neg = 0.375
+12. I wont give examples                ... pos = 0.375 	neg = 0.625
+13. All in all the plot                 ... pos = 0.625 	neg = 0.25 
+14. The plot in this mov                ... pos = 0.75  	neg = 0.375
+15. The characters, bein                ... pos = 1.875 	neg = 0.125
+16. This is usually a gi                ... pos = 0.0   	neg = 0.125
+17. But in the case of A                ... pos = 1.375 	neg = 0.25 
+18. I don't know what bo                ... pos = 0.875 	neg = 0.0  
+19. I think that the cha                ... pos = 1.625 	neg = 0.125
+20. The character didn't                ... pos = 1.375 	neg = 0.75 
+21. But thinking about i                ... pos = 1.125 	neg = 0.5  
+22. So I will have to co                ... pos = 0.625 	neg = 0.25 
+23. The actual acting in                ... pos = 0.375 	neg = 0.125
+24. She plays her part w                ... pos = 1.25  	neg = 0.0  
+25. The rest of the cast                ... pos = 0.5   	neg = 0.0  
+26. Although in the end                 ... pos = 3.125 	neg = 0.125
+27. Having some thought                 ... pos = 0.0   	neg = 0.875
+28. The character of Cal                ... pos = 0.875 	neg = 0.25 
+29. Something seemed to                 ... pos = 0.0   	neg = 0.375
+30. I got the distinct i                ... pos = 0.5   	neg = 0.5  
+31. I don't know if I wo                ... pos = 0.625 	neg = 0.625
+32. SO if you are a fan                 ... pos = 0.625 	neg = 0.0  
+33. Now those of you who                ... pos = 0.25  	neg = 1.0  
+34. if yes then you shou                ... pos = 0     	neg = 0.0  
+35. Just don't come cryi                ... pos = 0.25  	neg = 0.0  
+36. Its nothing grand, i                ... pos = 0.0   	neg = 0.25 
+37. You should enjoy the                ... pos = 0.375 	neg = 0    
+38. And If I ever figure                ... pos = 0.0   	neg = 0.875
+39. Other than bin a bit                ... pos = 0.375 	neg = 0.0  
+40. You might want to be                ... pos = 0.125 	neg = 0.75 
+41. This movie isn't for                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2335-1216 is Positive        ... pos = 22.75 	neg = 12.0 
+Overall score of document
+Total Pos = 22.75
+Total Neg = 12.0
+---------------------------------------------------------------------------

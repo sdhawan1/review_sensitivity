@@ -1,0 +1,21 @@
+0. A review from the St                 ... pos = 0.25  	neg = 0.375
+1. With the help of his                 ... pos = 0.0   	neg = 0.0  
+2. The  vampires 'infec                 ... pos = 0.0   	neg = 0.75 
+3. Based on the eponymo                 ... pos = 0.75  	neg = 0.75 
+4. The twist, if you ca                 ... pos = 0.25  	neg = 0.75 
+5. The two factions are                 ... pos = 0.25  	neg = 0.125
+6. And that is as compl                 ... pos = 0.0   	neg = 1.0  
+7. The story of vampire                 ... pos = 0.125 	neg = 0.0  
+8. Since F.W.                           ... pos = 0.0   	neg = 0    
+9. Murnau's Nosferatu (                 ... pos = 0.625 	neg = 0.75 
+10. However, David Goyer                ... pos = 0.375 	neg = 1.25 
+11. The prospect of Blad                ... pos = 0.0   	neg = 0.125
+12. Wesley Snipe's perfo                ... pos = 1.875 	neg = 0.5  
+13. I  can only presume                 ... pos = 0.375 	neg = 0.125
+14. This is  completely                 ... pos = 0     	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5673-355 is Negative         ... pos = 4.875 	neg = 6.875
+Overall score of document
+Total Pos = 4.875
+Total Neg = 6.875
+---------------------------------------------------------------------------

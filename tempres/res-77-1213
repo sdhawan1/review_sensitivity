@@ -1,0 +1,37 @@
+0. Starring Woody Allen                 ... pos = 0.0   	neg = 0.0  
+1. Dreamworks latest pi                 ... pos = 0.0   	neg = 0.25 
+2. And again, like Smal                 ... pos = 0.125 	neg = 0.0  
+3. Woody Allen plays 'Z                 ... pos = 0.0   	neg = 0.0  
+4. By a chance encounte                 ... pos = 1.125 	neg = 0.25 
+5. ) They split company                 ... pos = 0.75  	neg = 0.0  
+6. However, he manages                  ... pos = 1.25  	neg = 0.0  
+7. Like Toy Story (1995                 ... pos = 0.875 	neg = 0.5  
+8. The graphics are sup                 ... pos = 1.875 	neg = 0.0  
+9. There are literally                  ... pos = 0.25  	neg = 0.0  
+10. Although the ants lo                ... pos = 0.75  	neg = 0.375
+11. The voices behind th                ... pos = 1.25  	neg = 0    
+12. Woody Allen makes Z                 ... pos = 0.375 	neg = 0.125
+13. ) Stallone is also g                ... pos = 1.5   	neg = 0.875
+14. Gene Hackman and Chr                ... pos = 1.625 	neg = 0.75 
+15. The only weak link i                ... pos = 0.0   	neg = 1.0  
+16. Being a major charac                ... pos = 1.25  	neg = 0.375
+17. The film is directed                ... pos = 0.375 	neg = 0.25 
+18. The battle scenes ar                ... pos = 1.75  	neg = 1.25 
+19. It's hard for a Wood                ... pos = 0.125 	neg = 0.875
+20. ) Also, the wild vis                ... pos = 1.0   	neg = 0.375
+21. Although the script                 ... pos = 0.125 	neg = 0.75 
+22. The main flaw with t                ... pos = 0.0   	neg = 0.625
+23. Woody Allen's comedy                ... pos = 0.25  	neg = 0.625
+24. There's also a smatt                ... pos = 0.25  	neg = 1.375
+25. Generally, however,                 ... pos = 0.875 	neg = 0.125
+26. A Bug's Life, the ne                ... pos = 0.375 	neg = 0.25 
+27. Worth a look.                       ... pos = 0.0   	neg = 0.375
+28. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+29. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+30. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-1213 is Positive          ... pos = 18.125 	neg = 11.375
+Overall score of document
+Total Pos = 18.125
+Total Neg = 11.375
+---------------------------------------------------------------------------

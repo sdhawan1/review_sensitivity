@@ -1,0 +1,38 @@
+0. South Park: Bigger L                 ... pos = 0.125 	neg = 0.625
+1. ". Featuring the voi                 ... pos = 0.0   	neg = 0.0  
+2. Rated R.. Filmmakers                 ... pos = 0.75  	neg = 0.0  
+3. The debate on whethe                 ... pos = 0.25  	neg = 1.0  
+4. Instead we get a sha                 ... pos = 0.0   	neg = 0.0  
+5. Based on a popular (                 ... pos = 1.125 	neg = 0.875
+6. The movie is about a                 ... pos = 0.125 	neg = 0.125
+7. When they exhibit th                 ... pos = 0.375 	neg = 0.625
+8. The kids form an all                 ... pos = 0.25  	neg = 0.0  
+9. ) Les Misérables.                   ... pos = 0.125 	neg = 0    
+10. In a subplot, one of                ... pos = 0.875 	neg = 0    
+11. ) dies and goes to h                ... pos = 0.0   	neg = 0.875
+12. Satan and Saddam Hus                ... pos = 0.25  	neg = 0.375
+13. Satan is a benevolen                ... pos = 0.625 	neg = 0.75 
+14. Apparently, too, if                 ... pos = 1.25  	neg = 1.25 
+15. Aside from being a b                ... pos = 1.25  	neg = 0.25 
+16. Almost invariably it                ... pos = 0.0   	neg = 0.25 
+17. The same can be said                ... pos = 0.25  	neg = 0.125
+18. toilet humor, endles                ... pos = 0     	neg = 0.125
+19. Not that there's any                ... pos = 0.25  	neg = 0.875
+20. Trey Parker and Matt                ... pos = 0.125 	neg = 0.625
+21. Cruelly mocking the                 ... pos = 0.25  	neg = 1.875
+22. The ratings-a-plenty                ... pos = 0.5   	neg = 0.0  
+23. The distinctively lo                ... pos = 1.375 	neg = 0.125
+24. It's more pleasant t                ... pos = 1.5   	neg = 0.375
+25. The show's popularit                ... pos = 1.0   	neg = 0.25 
+26. Perhaps not.                        ... pos = 0.0   	neg = 0    
+27. Having seen the show                ... pos = 0.0   	neg = 0.0  
+28. The series may be be                ... pos = 0.0   	neg = 0.75 
+29. Parker and Stone hav                ... pos = 0.375 	neg = 0.125
+30. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+31. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5926-563 is Positive         ... pos = 13.0  	neg = 12.25
+Overall score of document
+Total Pos = 13.0
+Total Neg = 12.25
+---------------------------------------------------------------------------

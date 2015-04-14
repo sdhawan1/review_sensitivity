@@ -1,0 +1,27 @@
+0. Cast: Bruce Willis,                  ... pos = 1.875 	neg = 0.375
+1. The now grown man br                 ... pos = 1.125 	neg = 0.0  
+2. Almost nine months l                 ... pos = 1.125 	neg = 1.0  
+3. He takes on the  chi                 ... pos = 0.5   	neg = 0.0  
+4. He soon discovers th                 ... pos = 0.375 	neg = 0.0  
+5. Although the first h                 ... pos = 1.625 	neg = 0.25 
+6. I was expecting this                 ... pos = 1.125 	neg = 0.75 
+7. You'll find yourself                 ... pos = 0.625 	neg = 0.0  
+8. I  must give M. Nigh                 ... pos = 1.125 	neg = 0.0  
+9. The cast should also                 ... pos = 0.375 	neg = 0.25 
+10. A lesser cast could                 ... pos = 0.375 	neg = 0.25 
+11. Bruce Willis  portra                ... pos = 1.625 	neg = 0.75 
+12. Haley Joel  Osment s                ... pos = 1.75  	neg = 1.5  
+13. Toni Collette, looki                ... pos = 2.125 	neg = 1.5  
+14. Finally, Olivia Will                ... pos = 1.25  	neg = 0.0  
+15. It's a shame that th                ... pos = 0.0   	neg = 0.75 
+16. In  retrospect thoug                ... pos = 0.0   	neg = 0.25 
+17. I'm glad that the ru                ... pos = 0.25  	neg = 0.0  
+18. Films like this, the                ... pos = 0.125 	neg = 0.25 
+19. [PG-13]. Brian Mathe                ... pos = 0.0   	neg = 0.0  
+20. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2714-1241 is Positive        ... pos = 17.625 	neg = 8.25 
+Overall score of document
+Total Pos = 17.625
+Total Neg = 8.25
+---------------------------------------------------------------------------

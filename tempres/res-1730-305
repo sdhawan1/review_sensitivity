@@ -1,0 +1,47 @@
+0. DIRECTED BY:      Jo                 ... pos = 2.125 	neg = 0.5  
+1. Both films feature a                 ... pos = 0.875 	neg = 0.0  
+2. In the remake, Pierc                 ... pos = 0.875 	neg = 0.125
+3. Thomas Crown is a mu                 ... pos = 0.0   	neg = 0.375
+4. The high stakes of t                 ... pos = 0.0   	neg = 0.0  
+5. He has bested every                  ... pos = 0.125 	neg = 0.125
+6. There is no more exc                 ... pos = 0.5   	neg = 0.125
+7. No more heights of w                 ... pos = 0.0   	neg = 0.25 
+8. So what is a man to                  ... pos = 0.0   	neg = 0.125
+9. Of course!                           ... pos = 0     	neg = 0    
+10. Risk everything by t                ... pos = 0.0   	neg = 0    
+11. He's not in it for t                ... pos = 0.0   	neg = 0.0  
+12. He just wants (needs                ... pos = 0.125 	neg = 0.125
+13. ) the adrenaline rus                ... pos = 0.0   	neg = 0.0  
+14. After cleverly pulli                ... pos = 0.375 	neg = 0.875
+15. Not being confined t                ... pos = 0.75  	neg = 0.375
+16. As the two main char                ... pos = 0.875 	neg = 0.0  
+17. Setting traps, sprin                ... pos = 0.0   	neg = 0    
+18. They become inexplic                ... pos = 0.125 	neg = 0.125
+19. Trust and honesty be                ... pos = 0.875 	neg = 0.75 
+20. Mr. Bronsan's cool 0                ... pos = 0.0   	neg = 0.0  
+21. "  He plays Crown as                ... pos = 1.0   	neg = 0.0  
+22. That he does so with                ... pos = 0.0   	neg = 0.125
+23. Ms. Russo's characte                ... pos = 1.0   	neg = 0.125
+24. Banning's investigat                ... pos = 1.0   	neg = 0.25 
+25. By allowing herself                 ... pos = 0.125 	neg = 0.0  
+26. Denis Leary (SUICIDE                ... pos = 0.125 	neg = 0.125
+27. Faye Dunaway, who pl                ... pos = 0.0   	neg = 1.125
+28. Director John McTier                ... pos = 0.5   	neg = 0.875
+29. Like the original (w                ... pos = 1.75  	neg = 0.0  
+30. The biggest differen                ... pos = 1.75  	neg = 0.125
+31. "The Kiss," as it wa                ... pos = 0.0   	neg = 0.375
+32. Personally, I look b                ... pos = 1.125 	neg = 1.0  
+33. Of course, it should                ... pos = 0.0   	neg = 0.25 
+34. His money did not bu                ... pos = 0.625 	neg = 0.0  
+35. His life, despite hi                ... pos = 0.0   	neg = 0.75 
+36. Financial wealth is                 ... pos = 0.625 	neg = 0.125
+37. It is not the answer                ... pos = 0.0   	neg = 0.125
+38. It is not the final                 ... pos = 0.625 	neg = 0.125
+39. There are riches tha                ... pos = 0.375 	neg = 0.125
+40. Spiritual riches are                ... pos = 0.5   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1730-305 is Positive         ... pos = 18.75 	neg = 9.5  
+Overall score of document
+Total Pos = 18.75
+Total Neg = 9.5
+---------------------------------------------------------------------------

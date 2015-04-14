@@ -1,0 +1,44 @@
+0. It is the time of th                 ... pos = 1.0   	neg = 0.5  
+1. Little does he know                  ... pos = 0.125 	neg = 0.625
+2. Stabbed in the back                  ... pos = 1.875 	neg = 0.0  
+3. Unfortunately for th                 ... pos = 0.0   	neg = 1.5  
+4. Of course, when you'                 ... pos = 0.0   	neg = 0.0  
+5. Anck-Su-Namum is kil                 ... pos = 0.125 	neg = 0.25 
+6. But that's not all!                  ... pos = 0.0   	neg = 0.0  
+7. No, a terrible curse                 ... pos = 0.125 	neg = 1.875
+8. One trick, though.                   ... pos = 0.0   	neg = 0.25 
+9. If he is ever exhume                 ... pos = 0.125 	neg = 0.125
+10. Well, there's always                ... pos = 0.0   	neg = 0.0  
+11. Skip ahead a few tho                ... pos = 0.25  	neg = 0.0  
+12. He just wants to sel                ... pos = 0.375 	neg = 0.0  
+13. The problem is, they                ... pos = 0.25  	neg = 0.375
+14. Three Americans and                 ... pos = 0.875 	neg = 0.375
+15. For those of you loo                ... pos = 0.0   	neg = 0.5  
+16. Sure, there are some                ... pos = 0.5   	neg = 0.125
+17. Sommers obviously di                ... pos = 0.75  	neg = 0.125
+18. Keep in mind, howeve                ... pos = 1.0   	neg = 0.125
+19. The change in approa                ... pos = 0.375 	neg = 0.125
+20. You see, the mummy i                ... pos = 0.0   	neg = 0.0  
+21. No, this one is able                ... pos = 0.625 	neg = 0.75 
+22. Whereas the thing ab                ... pos = 0.375 	neg = 1.125
+23. After all, think abo                ... pos = 0.375 	neg = 0.125
+24. This one is the full                ... pos = 0.0   	neg = 0.125
+25. Brendan Fraser's O'C                ... pos = 1.0   	neg = 0.0  
+26. O'Connell is brash,                 ... pos = 0.5   	neg = 0.125
+27. You'd expect to see                 ... pos = 0.5   	neg = 0.0  
+28. Fraser plays him wel                ... pos = 0.375 	neg = 0.375
+29. Rachel Weisz's Evely                ... pos = 0.125 	neg = 0.0  
+30. Whereas Fraser plays                ... pos = 0.75  	neg = 0.5  
+31. The rest of the char                ... pos = 1.25  	neg = 1.25 
+32. Visually, this film                 ... pos = 0.25  	neg = 0.25 
+33. Starting off as a de                ... pos = 0.5   	neg = 0.625
+34. As he becomes whole,                ... pos = 0.0   	neg = 0.375
+35. Unfortunately, while                ... pos = 2.0   	neg = 0.875
+36. THE MUMMY gives us v                ... pos = 0.375 	neg = 0.25 
+37. I don't think everyo                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1787-781 is Positive         ... pos = 17.125 	neg = 13.875
+Overall score of document
+Total Pos = 17.125
+Total Neg = 13.875
+---------------------------------------------------------------------------

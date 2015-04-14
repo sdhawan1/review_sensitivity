@@ -1,0 +1,43 @@
+0. In the next book wri                 ... pos = 1.375 	neg = 0.625
+1. With `Wonder Boys',                  ... pos = 0.0   	neg = 0.0  
+2. Confidential') have                  ... pos = 0.5   	neg = 0.875
+3. Our protagonist, Gra                 ... pos = 0.125 	neg = 0.125
+4. Firstly, there's his                 ... pos = 0.625 	neg = 0    
+5. His wife has just le                 ... pos = 0.375 	neg = 0.0  
+6. Now he finds himself                 ... pos = 0.375 	neg = 0.75 
+7. Then, there's his li                 ... pos = 0.0   	neg = 0.0  
+8. It's been seven year                 ... pos = 0.125 	neg = 0.125
+9. This turns out to be                 ... pos = 0.625 	neg = 1.0  
+10. As we soon learn, Gr                ... pos = 0.125 	neg = 0.625
+11. That evening, Prof.                 ... pos = 0.25  	neg = 0.0  
+12. While the professor                 ... pos = 0.125 	neg = 1.125
+13. A few minutes later,                ... pos = 0.25  	neg = 0.625
+14. Like `American Beaut                ... pos = 0.5   	neg = 0.125
+15. Michael Douglas' rol                ... pos = 0.875 	neg = 0.125
+16. Douglas' character i                ... pos = 1.625 	neg = 0.25 
+17. But Douglas brings s                ... pos = 1.5   	neg = 0.0  
+18. In `Wonder Boys', Mi                ... pos = 0.989 	neg = 0.75 
+19. After years of playi                ... pos = 0.25  	neg = 0.75 
+20. `Wonder Boys' also f                ... pos = 2.125 	neg = 0.625
+21. However, the kudos m                ... pos = 0.625 	neg = 0.0  
+22. Curtis Hanson's `Won                ... pos = 1.25  	neg = 0.375
+23. Confidential'.                      ... pos = 0     	neg = 0    
+24. The two films couldn                ... pos = 1.375 	neg = 0.25 
+25. Cinematographer Dant                ... pos = 0.0   	neg = 0.0  
+26. Confidential' (as we                ... pos = 0.0   	neg = 0.0  
+27. Bob Dylan has also r                ... pos = 1.125 	neg = 0.0  
+28. `Wonder Boys' is, of                ... pos = 0.0   	neg = 0.125
+29. The dialogue is ofte                ... pos = 0.0   	neg = 0.625
+30. Also, the interestin                ... pos = 0.125 	neg = 0.25 
+31. But `Wonder Boys' re                ... pos = 0.0   	neg = 0.5  
+32. It is Paramount's ma                ... pos = 0.625 	neg = 0.75 
+33. The poster and trail                ... pos = 0.25  	neg = 0.125
+34. So `Wonder Boys', a                 ... pos = 0.125 	neg = 0.0  
+35. See `Wonder Boys', e                ... pos = 0.375 	neg = 0.0  
+36. B+ Akiva Gottlieb Cr                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4777-421 is Positive         ... pos = 18.614 	neg = 11.5 
+Overall score of document
+Total Pos = 18.614
+Total Neg = 11.5
+---------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+0. Summer is beginning                  ... pos = 0.375 	neg = 0.125
+1. Last year, early May                 ... pos = 0.25  	neg = 0.375
+2. The summer of 2000,                  ... pos = 1.25  	neg = 0.25 
+3. The success of `Glad                 ... pos = 0.375 	neg = 0.125
+4. The first is directo                 ... pos = 0.375 	neg = 0.125
+5. Jane'.                               ... pos = 0     	neg = 0    
+6. The second reason fo                 ... pos = 0.125 	neg = 0.25 
+7. After years of stunn                 ... pos = 0.0   	neg = 0.0  
+8. Confidential', he ma                 ... pos = 0.0   	neg = 0    
+9. The film begins with                 ... pos = 0.5   	neg = 0.0  
+10. The Roman army, led                 ... pos = 0.5   	neg = 0.625
+11. The battle brings to                ... pos = 0.625 	neg = 0.375
+12. The expected choice                 ... pos = 0.25  	neg = 0.375
+13. But Aurelius has a d                ... pos = 0.75  	neg = 0.125
+14. When not on the batt                ... pos = 0.25  	neg = 0.125
+15. Aurelius claims that                ... pos = 0.25  	neg = 0.25 
+16. When Commodus learns                ... pos = 0.125 	neg = 0.5  
+17. Maximus escapes his                 ... pos = 0.0   	neg = 0.125
+18. In the desert, a wou                ... pos = 0.25  	neg = 0.125
+19. Because of his forme                ... pos = 0.5   	neg = 0.125
+20. He plans to use his                 ... pos = 0.5   	neg = 0.25 
+21. `Gladiator' is full                 ... pos = 0.875 	neg = 0.125
+22. It is a slick action                ... pos = 0.25  	neg = 0.875
+23. `Gladiator's' plotli                ... pos = 0.0   	neg = 1.0  
+24. `Gladiator' is glori                ... pos = 0.875 	neg = 0.125
+25. Crowe's Maximus is a                ... pos = 0.5   	neg = 0.625
+26. Though the film has                 ... pos = 0.739 	neg = 0.25 
+27. Ridley Scott is a ma                ... pos = 0.5   	neg = 1.0  
+28. Despite a number of                 ... pos = 0.5   	neg = 0.375
+29. It is a wonderful wa                ... pos = 0.75  	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-2439-421 is Positive         ... pos = 12.239 	neg = 9.75 
+Overall score of document
+Total Pos = 12.239
+Total Neg = 9.75
+---------------------------------------------------------------------------

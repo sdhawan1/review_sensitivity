@@ -1,0 +1,29 @@
+0. Dialogue rehash: "Yo                 ... pos = 0.0   	neg = 1.125
+1. ".         In this l                 ... pos = 0.0   	neg = 0.0  
+2. "Enemy of the State,                 ... pos = 1.0   	neg = 0.0  
+3. This one even more s                 ... pos = 1.0   	neg = 0.25 
+4. I loved Gene Hackman                 ... pos = 1.375 	neg = 0.0  
+5. The characters come                  ... pos = 1.0   	neg = 0.0  
+6. While the transition                 ... pos = 1.5   	neg = 0.25 
+7. The only character I                 ... pos = 0.875 	neg = 0.125
+8. She seemed too artif                 ... pos = 0.25  	neg = 0.625
+9. Jon Voight was convi                 ... pos = 0.25  	neg = 0.75 
+10. I think he should qu                ... pos = 0.25  	neg = 0.0  
+11. Plotwise, the movie                 ... pos = 0     	neg = 0.25 
+12. The action was inten                ... pos = 0.125 	neg = 1.5  
+13. For example, "changi                ... pos = 0.0   	neg = 0.0  
+14. "  That seemed dumb,                ... pos = 0.5   	neg = 0.5  
+15. Like many others I f                ... pos = 0.0   	neg = 0.625
+16. "  Scott Rosenberg s                ... pos = 0.0   	neg = 0.0  
+17. Despite losing point                ... pos = 0.875 	neg = 0.75 
+18. This is what Bruckhe                ... pos = 0.375 	neg = 0.125
+19. "Why are they puttin                ... pos = 0.25  	neg = 0    
+20. ". Rating: B- (First                ... pos = 1.0   	neg = 0.375
+21. For example, the NSA                ... pos = 0.0   	neg = 0.375
+22. ". * EE fans: didn't                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5048-977 is Positive         ... pos = 10.625 	neg = 7.625
+Overall score of document
+Total Pos = 10.625
+Total Neg = 7.625
+---------------------------------------------------------------------------

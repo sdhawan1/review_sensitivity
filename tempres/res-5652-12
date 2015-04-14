@@ -1,0 +1,35 @@
+0. I imagine that upon                  ... pos = 2.25  	neg = 1.875
+1. I can't remember the                 ... pos = 0.625 	neg = 0.125
+2. Like 'Singin' In The                 ... pos = 0.125 	neg = 0.0  
+3. The excitement never                 ... pos = 0.0   	neg = 0.0  
+4. The story was beauti                 ... pos = 1.0   	neg = 0.125
+5. So when I heard it w                 ... pos = 0.25  	neg = 0.375
+6. I was convinced it w                 ... pos = 0.5   	neg = 0.25 
+7. The movie was not a                  ... pos = 0.625 	neg = 0.25 
+8. I have seen SW so ma                 ... pos = 0.75  	neg = 0.0  
+9. The very sight of C3                 ... pos = 0.625 	neg = 0.0  
+10. When they arive on T                ... pos = 0.0   	neg = 0.0  
+11. I love to think to m                ... pos = 0.625 	neg = 0.0  
+12. It all works for me                 ... pos = 0.125 	neg = 0.125
+13. Yet seeing it on a b                ... pos = 0.875 	neg = 0.125
+14. I first saw it at th                ... pos = 0.125 	neg = 0.0  
+15. Then I saw it on the                ... pos = 0.125 	neg = 0.0  
+16. It was truly a commu                ... pos = 1.625 	neg = 0.375
+17. That's the kind of e                ... pos = 0.0   	neg = 0.0  
+18. Why is the movie so                 ... pos = 0.75  	neg = 0.125
+19. It takes a little ad                ... pos = 1.75  	neg = 0.25 
+20. But what really make                ... pos = 0.125 	neg = 0.125
+21. I think it's fair to                ... pos = 1.125 	neg = 0.125
+22. ).                                  ... pos = 0     	neg = 0    
+23. I think that ID4 wan                ... pos = 0.25  	neg = 0.25 
+24. Yet it won't, and I'                ... pos = 0.25  	neg = 0.0  
+25. Star Wars believed t                ... pos = 0.875 	neg = 0.25 
+26. It believed that if                 ... pos = 0.25  	neg = 0.25 
+27. And that is what ID4                ... pos = 2.0   	neg = 0.125
+28. That is why Star War                ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5652-12 is Positive          ... pos = 17.875 	neg = 5.375
+Overall score of document
+Total Pos = 17.875
+Total Neg = 5.375
+---------------------------------------------------------------------------

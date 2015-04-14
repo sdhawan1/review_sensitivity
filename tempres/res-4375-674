@@ -1,0 +1,54 @@
+0. Starring:  Tom Cruis                 ... pos = 0.75  	neg = 0.0  
+1. This time it was a c                 ... pos = 0.0   	neg = 0.125
+2. On some levels I'm g                 ... pos = 0.0   	neg = 0.125
+3. The film sucks us in                 ... pos = 0.5   	neg = 0.125
+4. Jerry Maguire is a f                 ... pos = 0.0   	neg = 0.25 
+5. Cruise portrays him                  ... pos = 0.989 	neg = 0.5  
+6. Maguire has a cathar                 ... pos = 1.5   	neg = 0.5  
+7. His fiance, played b                 ... pos = 0.0   	neg = 0.125
+8. Double Cross and Spa                 ... pos = 1.25  	neg = 0.125
+9. She and Maguire are                  ... pos = 0.375 	neg = 0.375
+10. " (And after a seemi                ... pos = 0.5   	neg = 0.0  
+11. ).      Jerry gets f                ... pos = 0.125 	neg = 0.125
+12. He delcares that he'                ... pos = 0.25  	neg = 0.0  
+13. Only one does, a sof                ... pos = 0.625 	neg = 0.0  
+14. She is inspired by h                ... pos = 0.125 	neg = 0.75 
+15. She seems to have a                 ... pos = 0.0   	neg = 0.125
+16. Jerry calls all of h                ... pos = 0.75  	neg = 0.0  
+17. Gooding won a much d                ... pos = 0.875 	neg = 0    
+18. Jerry's hole deepens                ... pos = 0.125 	neg = 0.25 
+19. Thus being without c                ... pos = 0.5   	neg = 0.125
+20. He shows up at her h                ... pos = 0.0   	neg = 0.125
+21. He seems all the sor                ... pos = 0.125 	neg = 0.75 
+22. At the Boyd house we                ... pos = 1.875 	neg = 0.0  
+23. Hunt's Laurel is an                 ... pos = 1.375 	neg = 0.25 
+24. She does it without                 ... pos = 0.5   	neg = 0.0  
+25. There was a very mov                ... pos = 1.25  	neg = 0.125
+26. Lipnicki's Ray is a                 ... pos = 0.0   	neg = 0.125
+27. To the writer's cred                ... pos = 1.5   	neg = 0.5  
+28. Ray and Jerry bond a                ... pos = 0.0   	neg = 0.0  
+29. Despite his catharse                ... pos = 0.75  	neg = 0.125
+30. They eventually sepa                ... pos = 0.0   	neg = 0    
+31. Rod's lack of stella                ... pos = 0.375 	neg = 0.125
+32. Jerry eventually tri                ... pos = 0.75  	neg = 0.0  
+33. Enough of the plot,                 ... pos = 0.0   	neg = 0.0  
+34. Crowe does a fine jo                ... pos = 1.0   	neg = 0.0  
+35. All of them are stor                ... pos = 0.25  	neg = 0.5  
+36. One of the thing tha                ... pos = 0.125 	neg = 0.125
+37. Don't get me wrong,                 ... pos = 0.5   	neg = 1.125
+38. When she uttered the                ... pos = 0.875 	neg = 0.25 
+39. She's another in a l                ... pos = 0.5   	neg = 1.0  
+40. (Liar Liar's Maura T                ... pos = 0.0   	neg = 0    
+41. Zwelleger is cute, s                ... pos = 2.5   	neg = 0.75 
+42. It bugged me through                ... pos = 0.0   	neg = 0.0  
+43. This certain body-ty                ... pos = 3.0   	neg = 1.5  
+44. Overall, the film wa                ... pos = 0.75  	neg = 0.125
+45. Despite the fact tha                ... pos = 0.0   	neg = 0.0  
+46. Crowe's directing an                ... pos = 0.0   	neg = 0.125
+47. Of the $10 a month e                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4375-674 is Positive         ... pos = 27.489 	neg = 11.375
+Overall score of document
+Total Pos = 27.489
+Total Neg = 11.375
+---------------------------------------------------------------------------

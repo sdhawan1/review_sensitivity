@@ -1,0 +1,41 @@
+0. The year is 2047, an                 ... pos = 0.0   	neg = 0.25 
+1. Upon arrival, the se                 ... pos = 0.5   	neg = 0.0  
+2. A tag-along scientis                 ... pos = 0.25  	neg = 0.625
+3. Now radio signals fr                 ... pos = 0.375 	neg = 0    
+4. The ship is found in                 ... pos = 0.75  	neg = 0.5  
+5. The inside temperatu                 ... pos = 0.0   	neg = 0.875
+6. Boarding the ship, t                 ... pos = 0.25  	neg = 0.125
+7. Soon, the hallucinat                 ... pos = 0.625 	neg = 0.0  
+8. Now the evanescent l                 ... pos = 0.75  	neg = 0.875
+9. The Event Horizon pr                 ... pos = 0.125 	neg = 0.125
+10. "Infinite Space, Inf                ... pos = 0.0   	neg = 0.0  
+11. " That's your basic                 ... pos = 0.125 	neg = 0.0  
+12. Along the way, you c                ... pos = 0.0   	neg = 0.0  
+13. That could show a la                ... pos = 0.0   	neg = 0.125
+14. The production shows                ... pos = 0.875 	neg = 0.375
+15. The Event Horizon ha                ... pos = 0.625 	neg = 0.375
+16. The interiors appear                ... pos = 0.125 	neg = 0.125
+17. Surfaces look like t                ... pos = 0.25  	neg = 0.75 
+18. The cross shape of t                ... pos = 0.0   	neg = 0.75 
+19. Laurence Fishburne d                ... pos = 0.75  	neg = 0    
+20. Both he and Kathleen                ... pos = 1.0   	neg = 0    
+21. Sam Neill was a good                ... pos = 0.875 	neg = 0.125
+22. He was the center of                ... pos = 0.25  	neg = 0.125
+23. " His intelligent, d                ... pos = 0.375 	neg = 0.375
+24. You never quite know                ... pos = 0.5   	neg = 0.0  
+25. The rest of the cast                ... pos = 1.5   	neg = 0.125
+26. And I have to say th                ... pos = 0.875 	neg = 0.625
+27. Only the most compel                ... pos = 0.0   	neg = 0.0  
+28. With all this in the                ... pos = 0.0   	neg = 0.125
+29. The sci-fi front end                ... pos = 0.0   	neg = 0.375
+30. Another visit with H                ... pos = 0.0   	neg = 0.125
+31. Why bother?                         ... pos = 0     	neg = 0.125
+32. What's wrong with re                ... pos = 0.75  	neg = 0.75 
+33. Tarantino's Dusk 'ti                ... pos = 0.0   	neg = 0.0  
+34. For me, Event Horizo                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6159-1359 is Positive        ... pos = 12.5  	neg = 8.75 
+Overall score of document
+Total Pos = 12.5
+Total Neg = 8.75
+---------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+0. Woody Allen's latest                 ... pos = 0.75  	neg = 0.25 
+1. It doesn't have the                  ... pos = 0.0   	neg = 0.0  
+2. What it does have is                 ... pos = 0.25  	neg = 0.125
+3. Allen has taken a ne                 ... pos = 0.625 	neg = 0.125
+4. Harry is a writer wh                 ... pos = 0.125 	neg = 0.25 
+5. The film is a montag                 ... pos = 0.0   	neg = 0.125
+6. (Richard Benjamin, S                 ... pos = 0.125 	neg = 0.125
+7. ) Occasionally, to b                 ... pos = 2.0   	neg = 0.125
+8. Though it doesn't re                 ... pos = 0.0   	neg = 0.25 
+9. One of the technical                 ... pos = 0.375 	neg = 0.125
+10. Much of the film con                ... pos = 0.25  	neg = 0.125
+11. Cuts will also be ma                ... pos = 0.125 	neg = 0.125
+12. For example, a chara                ... pos = 1.875 	neg = 0.25 
+13. It is extremely uniq                ... pos = 1.0   	neg = 0.25 
+14. One of the best sequ                ... pos = 1.25  	neg = 0.25 
+15. It is one of the mos                ... pos = 0.25  	neg = 0.125
+16. That brief sequence                 ... pos = 0.25  	neg = 0.125
+17. The language in Deco                ... pos = 0.125 	neg = 0.25 
+18. It helps to illustra                ... pos = 1.0   	neg = 1.75 
+19. The film is fun for                 ... pos = 0.5   	neg = 0.25 
+20. There are many lines                ... pos = 0.125 	neg = 0.0  
+21. And Allen isn't afra                ... pos = 0.375 	neg = 0.0  
+22. Plus, fans of his bo                ... pos = 0.0   	neg = 0.0  
+23. Deconstructing Harry                ... pos = 2.125 	neg = 0.25 
+24. 3 stars Copyright (C                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3783-380 is Positive         ... pos = 13.5  	neg = 5.25 
+Overall score of document
+Total Pos = 13.5
+Total Neg = 5.25
+---------------------------------------------------------------------------

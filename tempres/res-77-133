@@ -1,0 +1,25 @@
+0. Antz (1998) - voices                 ... pos = 0.5   	neg = 0.125
+1. It's full of compute                 ... pos = 0.25  	neg = 0.25 
+2. Neurotic New Yorker                  ... pos = 0.375 	neg = 0.0  
+3. Unhappy with his lot                 ... pos = 0.25  	neg = 0.875
+4. Predictably, Z falls                 ... pos = 1.5   	neg = 0.375
+5. Then General Mandibl                 ... pos = 0.5   	neg = 0.125
+6. Thrown into the gori                 ... pos = 0.625 	neg = 0.25 
+7. "Antz" is just "your                 ... pos = 0.75  	neg = 0.125
+8. And that's just    t                 ... pos = 0.375 	neg = 0.0  
+9. Fortunately,    scre                 ... pos = 0.625 	neg = 0.125
+10. Liberated from his b                ... pos = 0.0   	neg = 0.125
+11. Working within the l                ... pos = 1.125 	neg = 0.125
+12. They all look pretty                ... pos = 0.125 	neg = 1.5  
+13. And the supporting c                ... pos = 3.0   	neg = 0.125
+14. The visual effects a                ... pos = 0.25  	neg = 0.5  
+15. Imagine thousands of                ... pos = 0.125 	neg = 0.5  
+16. The effects carry we                ... pos = 0.0   	neg = 0.25 
+17. "Antz" might not be                 ... pos = 0.25  	neg = 1.125
+18. But if you go with y                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-133 is Positive           ... pos = 11.375 	neg = 6.5  
+Overall score of document
+Total Pos = 11.375
+Total Neg = 6.5
+---------------------------------------------------------------------------

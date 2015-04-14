@@ -1,0 +1,48 @@
+0. A hotshot lawyer get                 ... pos = 1.5   	neg = 0.75 
+1. The lawyer, Kevin Lo                 ... pos = 0.25  	neg = 0.25 
+2. He accepts.                          ... pos = 0.0   	neg = 0.0  
+3. The jury he selects                  ... pos = 0.0   	neg = 0.5  
+4. Making his decision                  ... pos = 1.0   	neg = 0.25 
+5. He convinces his wif                 ... pos = 0.5   	neg = 0.0  
+6. The first case given                 ... pos = 0.125 	neg = 0.5  
+7. The charge was healt                 ... pos = 0.25  	neg = 0.125
+8. His new boss and par                 ... pos = 1.125 	neg = 0.375
+9. Kevin's next case is                 ... pos = 0.75  	neg = 0.875
+10. Although Kevin's car                ... pos = 0.5   	neg = 0.875
+11. Mary Ann is starting                ... pos = 0.0   	neg = 0.375
+12. She is experiencing                 ... pos = 0.5   	neg = 1.875
+13. Kevin does not help                 ... pos = 0.0   	neg = 0    
+14. He does not spend mo                ... pos = 0.375 	neg = 0.0  
+15. Not helping matters                 ... pos = 0.125 	neg = 0.25 
+16. Mary Ann falls deepe                ... pos = 0.5   	neg = 0.25 
+17. Kevin eventually loo                ... pos = 0.0   	neg = 0.0  
+18. He also starts to lo                ... pos = 0.0   	neg = 0.0  
+19. Kevin learns that al                ... pos = 0.0   	neg = 0.375
+20. That man is his boss                ... pos = 1.5   	neg = 1.375
+21. Kevin must somehow c                ... pos = 0.375 	neg = 1.25 
+22. But how do you defea                ... pos = 0.0   	neg = 0.375
+23. Why is it that most                 ... pos = 0.25  	neg = 0.125
+24. Do filmmakers really                ... pos = 0.25  	neg = 0.0  
+25. The courtroom scenes                ... pos = 0.0   	neg = 2.375
+26. I give Reeves credit                ... pos = 1.75  	neg = 2.0  
+27. Charlize Theron defi                ... pos = 0.75  	neg = 0.75 
+28. The only good perfor                ... pos = 0.75  	neg = 0.25 
+29. Maybe he felt it wou                ... pos = 0.625 	neg = 0.875
+30. It's pretty standard                ... pos = 0.0   	neg = 0.5  
+31. Please read no furth                ... pos = 0.375 	neg = 1.0  
+32. In 1986 I remember w                ... pos = 0.125 	neg = 0.5  
+33. What I like to call                 ... pos = 0.0   	neg = 0.125
+34. In "Wisdom" the two                 ... pos = 2.0   	neg = 0.0  
+35. I considered it inex                ... pos = 0.125 	neg = 0.75 
+36. Well, the same thing                ... pos = 0.625 	neg = 1.375
+37. I know it's a stretc                ... pos = 0.0   	neg = 0.375
+38. Of course, the dream                ... pos = 0.375 	neg = 0.25 
+39. As I recall, "Wisdom                ... pos = 0.0   	neg = 0.125
+40. "The Devil's Advocat                ... pos = 0.0   	neg = 0.125
+41. Directed by Taylor H                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6270-1562 is Negative        ... pos = 17.375 	neg = 22.125
+Overall score of document
+Total Pos = 17.375
+Total Neg = 22.125
+---------------------------------------------------------------------------

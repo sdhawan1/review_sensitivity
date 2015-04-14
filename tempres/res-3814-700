@@ -1,0 +1,27 @@
+0. Release Date: April                  ... pos = 0.75  	neg = 0.5  
+1. The second such film                 ... pos = 0.5   	neg = 0.375
+2. In movies such as th                 ... pos = 0.375 	neg = 0.875
+3. Every single element                 ... pos = 1.0   	neg = 0.875
+4. This might be expect                 ... pos = 0.125 	neg = 1.0  
+5. Confined to a span o                 ... pos = 0.0   	neg = 1.125
+6. There's not much to                  ... pos = 0.125 	neg = 0.125
+7. So the only thing le                 ... pos = 0.0   	neg = 0.625
+8. Justin Lazard plays                  ... pos = 0.125 	neg = 0.25 
+9. After some melodrama                 ... pos = 0.375 	neg = 0.5  
+10. This becomes a probl                ... pos = 0.375 	neg = 0.5  
+11. Only Dr. Laura Baker                ... pos = 0.375 	neg = 0.0  
+12. So they call in Pres                ... pos = 0.0   	neg = 0.0  
+13. Unfortunately, there                ... pos = 0.75  	neg = 0.875
+14. The movie might actu                ... pos = 0.75  	neg = 0.75 
+15. The theme of the mov                ... pos = 1.0   	neg = 1.25 
+16. Thus there is no rea                ... pos = 0.625 	neg = 0.625
+17. Cromwell's decreased                ... pos = 0.5   	neg = 0.0  
+18. CONFIDENTIAL, and as                ... pos = 0.875 	neg = 0.25 
+19. This is another movi                ... pos = 0.25  	neg = 0.625
+20. FINAL AWARD FOR "SPE                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3814-700 is Negative         ... pos = 9.375 	neg = 11.125
+Overall score of document
+Total Pos = 9.375
+Total Neg = 11.125
+---------------------------------------------------------------------------

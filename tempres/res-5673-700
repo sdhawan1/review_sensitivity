@@ -1,0 +1,33 @@
+0. Release Date: August                 ... pos = 1.125 	neg = 0.625
+1. The film is then per                 ... pos = 0.375 	neg = 0.125
+2. There is a dedicated                 ... pos = 0.125 	neg = 0.125
+3. BLADE, too, is worth                 ... pos = 0.5   	neg = 0.375
+4. But instead of being                 ... pos = 0.5   	neg = 0.0  
+5. It is surely a testa                 ... pos = 0.5   	neg = 0.125
+6. The movie opens with                 ... pos = 0.625 	neg = 0.0  
+7. Intent on getting so                 ... pos = 0.125 	neg = 0.75 
+8. He's scrambling for                  ... pos = 0.0   	neg = 0.0  
+9. Impossibly clean and                 ... pos = 0.875 	neg = 0.125
+10. Nicknamed the Daywal                ... pos = 0.0   	neg = 0.625
+11. Aided by an aging pa                ... pos = 0.625 	neg = 0.0  
+12. The opening scenes a                ... pos = 1.125 	neg = 0.25 
+13. Although vampires ar                ... pos = 0.375 	neg = 0.0  
+14. At times, one wonder                ... pos = 1.375 	neg = 0.375
+15. As it progresses, th                ... pos = 0.875 	neg = 0.0  
+16. Moments of excessive                ... pos = 0.375 	neg = 0.25 
+17. But by the final sce                ... pos = 0.0   	neg = 0.0  
+18. The characters are w                ... pos = 1.125 	neg = 0.0  
+19. Like New Line's othe                ... pos = 1.0   	neg = 0.25 
+20. Unlike SPAWN, howeve                ... pos = 2.75  	neg = 0.0  
+21. Snipes gives us an e                ... pos = 1.125 	neg = 0.0  
+22. Dorff's bad guy Fros                ... pos = 0.0   	neg = 1.5  
+23. Then he becomes a mo                ... pos = 1.5   	neg = 0.0  
+24. Despite minor setbac                ... pos = 0.0   	neg = 0.0  
+25. Topped off with absu                ... pos = 0.0   	neg = 1.0  
+26. FINAL AWARD FOR "BLA                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5673-700 is Positive         ... pos = 18.25 	neg = 6.5  
+Overall score of document
+Total Pos = 18.25
+Total Neg = 6.5
+---------------------------------------------------------------------------

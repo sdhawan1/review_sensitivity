@@ -1,0 +1,40 @@
+0. Mars Attacks!                        ... pos = 0     	neg = 0.125
+1. (1996) ***** out of                  ... pos = 0.0   	neg = 0.0  
+2. Fox, Jim Brown, Pam                  ... pos = 0.0   	neg = 0.0  
+3. This is director Tim                 ... pos = 0.5   	neg = 0.125
+4. Many will compare th                 ... pos = 2.125 	neg = 0.0  
+5. However as a whole,                  ... pos = 0.875 	neg = 0.25 
+6. You really have to b                 ... pos = 0.5   	neg = 0.125
+7. It is completely wac                 ... pos = 0.125 	neg = 0.125
+8. Once the silly tone                  ... pos = 0.25  	neg = 0.25 
+9. The plot is simple:                  ... pos = 0.0   	neg = 0.125
+10. But it's different t                ... pos = 0.625 	neg = 0.0  
+11. Usually it's the evi                ... pos = 0.0   	neg = 0.75 
+12. This time however, i                ... pos = 0.125 	neg = 0.0  
+13. The Martians, who ar                ... pos = 1.0   	neg = 0.375
+14. They look funny, the                ... pos = 0.25  	neg = 0.5  
+15. And about the specia                ... pos = 0.0   	neg = 0.25 
+16. The effects in Mars                 ... pos = 0.0   	neg = 0.375
+17. are just about the m                ... pos = 0.375 	neg = 0.0  
+18. The computer animati                ... pos = 0.75  	neg = 0.0  
+19. There are just a cou                ... pos = 0.25  	neg = 0.0  
+20. Also, Glenn Close ov                ... pos = 1.5   	neg = 0.125
+21. But there are many b                ... pos = 0.5   	neg = 0.0  
+22. Could it have been f                ... pos = 0.0   	neg = 0.125
+23. Certainly.                          ... pos = 0.25  	neg = 0    
+24. Was it funny enough?                ... pos = 0.0   	neg = 0.125
+25. Yes.                                ... pos = 0     	neg = 0.0  
+26. Was I entertained?                  ... pos = 0.125 	neg = 0.125
+27. Absolutely.                         ... pos = 0     	neg = 0.0  
+28. On a personal note,                 ... pos = 0.0   	neg = 0.0  
+29. Finally, after many                 ... pos = 0.625 	neg = 0.125
+30. While he's not given                ... pos = 0.0   	neg = 0.0  
+31. The preview audience                ... pos = 0.375 	neg = 0.125
+32. --  Chuck Dowling Vi                ... pos = 0.125 	neg = 0.0  
+33. Movie news, box offi                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5794-515 is Positive         ... pos = 11.25 	neg = 4.125
+Overall score of document
+Total Pos = 11.25
+Total Neg = 4.125
+---------------------------------------------------------------------------

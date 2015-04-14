@@ -1,0 +1,39 @@
+0. Cast: Bruce Willis,                  ... pos = 0.75  	neg = 0.375
+1. I knew that there wa                 ... pos = 1.0   	neg = 0.25 
+2. So even though I was                 ... pos = 0.0   	neg = 0.25 
+3. I'm not saying that                  ... pos = 0.25  	neg = 0.25 
+4. So now, by watching                  ... pos = 0.875 	neg = 0.5  
+5. As a result, the fir                 ... pos = 0.25  	neg = 0.625
+6. I originally gave th                 ... pos = 0.125 	neg = 0.25 
+7. The Sixth Sense is f                 ... pos = 0.25  	neg = 0.125
+8. It's one of the best                 ... pos = 0.375 	neg = 0.75 
+9. The performances in                  ... pos = 0.625 	neg = 0    
+10. In particular, young                ... pos = 1.375 	neg = 0.5  
+11. Forget his Best Supp                ... pos = 1.375 	neg = 0.125
+12. The Sixth Sense:Coll                ... pos = 0.375 	neg = 0.125
+13. It contains the film                ... pos = 0.25  	neg = 0.0  
+14. Also included are se                ... pos = 0.5   	neg = 0.0  
+15. The original theatri                ... pos = 0.375 	neg = 0.0  
+16. The making of segmen                ... pos = 0.625 	neg = 0    
+17. Best of all is the "                ... pos = 0.75  	neg = 0.125
+18. Also, the deleted sc                ... pos = 0.25  	neg = 0.0  
+19. Other discs usually                 ... pos = 0.0   	neg = 0.375
+20. One deleted scene, a                ... pos = 1.375 	neg = 0.0  
+21. But just when it see                ... pos = 0.0   	neg = 0.75 
+22. Apparently their new                ... pos = 0.75  	neg = 0.25 
+23. You instead have to                 ... pos = 0.125 	neg = 0.0  
+24. Making it even more                 ... pos = 0.375 	neg = 0.125
+25. I'm all for extra tr                ... pos = 0.375 	neg = 0.125
+26. Hey Di$ney, when wil                ... pos = 0.125 	neg = 0.125
+27. When will it be enou                ... pos = 0.125 	neg = 0.125
+28. Aside from that mino                ... pos = 0.125 	neg = 0.125
+29. You get one of the v                ... pos = 1.875 	neg = 0.0  
+30. I'll give Di$ney the                ... pos = 1.125 	neg = 0.0  
+31. I hope they don't bl                ... pos = 0.375 	neg = 0.25 
+32. [PG-13]. Reviewed by                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-515 is Positive         ... pos = 17.125 	neg = 6.5  
+Overall score of document
+Total Pos = 17.125
+Total Neg = 6.5
+---------------------------------------------------------------------------

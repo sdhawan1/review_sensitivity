@@ -1,0 +1,60 @@
+0. *** (out of 4) This                  ... pos = 1.125 	neg = 0.0  
+1. The doomed scheme, t                 ... pos = 0.125 	neg = 0.75 
+2. A Simple Plan is a n                 ... pos = 0.0   	neg = 0.875
+3. Scripted by Scott Sm                 ... pos = 0.0   	neg = 0.125
+4. It starts with a for                 ... pos = 0.875 	neg = 0.125
+5. " Past tense.                        ... pos = 0.0   	neg = 0    
+6. Hank (Paxton), his b                 ... pos = 1.5   	neg = 0.125
+7. It is the middle of                  ... pos = 0.125 	neg = 0.125
+8. A fox crosses their                  ... pos = 0.0   	neg = 0.25 
+9. The three come acros                 ... pos = 0.0   	neg = 0.0  
+10. The plane is covered                ... pos = 0.125 	neg = 0.625
+11. Further exploration                 ... pos = 0.625 	neg = 0.25 
+12. A quick debate revea                ... pos = 0.0   	neg = 0.0  
+13. Jacob and Louis, bei                ... pos = 0.25  	neg = 0.375
+14. Hank sees that their                ... pos = 0.0   	neg = 0.125
+15. He agrees to split t                ... pos = 0.375 	neg = 0.125
+16. If the money is miss                ... pos = 0.0   	neg = 0.375
+17. If nobody mentions t                ... pos = 0.125 	neg = 0.0  
+18. Hank takes the money                ... pos = 0.25  	neg = 0.0  
+19. What about the footp                ... pos = 0.375 	neg = 0.0  
+20. Can Hank be trusted?                ... pos = 0.25  	neg = 0.125
+21. Can they keep their                 ... pos = 0.0   	neg = 0.0  
+22. The paranoia leads t                ... pos = 0.0   	neg = 0.625
+23. The mistakes lead to                ... pos = 0.0   	neg = 1.25 
+24. The downward spiral                 ... pos = 0.375 	neg = 0.25 
+25. Several factors add                 ... pos = 0.0   	neg = 0.125
+26. Danny Elfman's amazi                ... pos = 0.375 	neg = 0.125
+27. The orchestra plays                 ... pos = 0.75  	neg = 0.75 
+28. The bleak, lifeless,                ... pos = 0.25  	neg = 0.5  
+29. The omnipresence of                 ... pos = 0.0   	neg = 0.25 
+30. In addition, the cha                ... pos = 1.125 	neg = 0    
+31. Jacob and Louis are                 ... pos = 0.75  	neg = 0    
+32. They haven't done mu                ... pos = 0.125 	neg = 0.0  
+33. They are not too bri                ... pos = 0.25  	neg = 1.625
+34. Hank is a little sma                ... pos = 0.0   	neg = 0.5  
+35. All in all, they are                ... pos = 0.25  	neg = 0.75 
+36. With so many things                 ... pos = 1.0   	neg = 0.125
+37. But like PLEASANTVIL                ... pos = 0.0   	neg = 0.0  
+38. For one thing, Hank                 ... pos = 0.875 	neg = 0.375
+39. The gap in intellige                ... pos = 0.375 	neg = 0.125
+40. The plot required mo                ... pos = 1.75  	neg = 0.75 
+41. For another, the pra                ... pos = 0.125 	neg = 0.875
+42. Perhaps the point wa                ... pos = 0.0   	neg = 0.25 
+43. Still, the movie sho                ... pos = 0.0   	neg = 0.0  
+44. I don't think it's t                ... pos = 0.125 	neg = 0.375
+45. I was disappointed t                ... pos = 0.875 	neg = 0.125
+46. And finally, the fil                ... pos = 0.0   	neg = 0.125
+47. After dozens of othe                ... pos = 0.5   	neg = 1.0  
+48. Barring that, it sho                ... pos = 0.0   	neg = 0.125
+49. It was tragic and mo                ... pos = 0.25  	neg = 0.25 
+50. A Simple Plan is on                 ... pos = 0.0   	neg = 0.125
+51. I really enjoyed the                ... pos = 0.375 	neg = 0.0  
+52. But there were too m                ... pos = 0.0   	neg = 0.75 
+53. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2400-1008 is Positive        ... pos = 16.625 	neg = 16.5 
+Overall score of document
+Total Pos = 16.625
+Total Neg = 16.5
+---------------------------------------------------------------------------

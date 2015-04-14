@@ -1,0 +1,27 @@
+0. Release Date: Decemb                 ... pos = 0.5   	neg = 0.5  
+1. A real charmer of a                  ... pos = 1.125 	neg = 0.375
+2. Now, at the end of 1                 ... pos = 0.125 	neg = 0.0  
+3. There's no substanti                 ... pos = 0.25  	neg = 0.375
+4. The plot is interest                 ... pos = 0.25  	neg = 0.25 
+5. Ned's prize is over                  ... pos = 0.25  	neg = 0.125
+6. Enter Jackie O'Shea                  ... pos = 1.0   	neg = 0.125
+7. The two men eventual                 ... pos = 0.375 	neg = 0.125
+8. Ian Bannen and David                 ... pos = 0.75  	neg = 0.0  
+9. Jackie, stocky and l                 ... pos = 0.375 	neg = 0.25 
+10. The two contrast eac                ... pos = 0.375 	neg = 0.0  
+11. Every viewer is sure                ... pos = 0.5   	neg = 0.125
+12. There are other mino                ... pos = 0.25  	neg = 0.0  
+13. This appears quite i                ... pos = 0.625 	neg = 0.25 
+14. Overall, WAKING NED                 ... pos = 0.25  	neg = 0.0  
+15. The ending, a very h                ... pos = 2.0   	neg = 0.0  
+16. The Kirk Jones scrip                ... pos = 0.0   	neg = 0.125
+17. In a way, WAKING NED                ... pos = 1.25  	neg = 0.125
+18. It's the perfect kin                ... pos = 1.125 	neg = 0.375
+19. There's nothing remo                ... pos = 0.75  	neg = 0.375
+20. Indeed, it's one of                 ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4568-700 is Positive         ... pos = 13.0  	neg = 3.75 
+Overall score of document
+Total Pos = 13.0
+Total Neg = 3.75
+---------------------------------------------------------------------------

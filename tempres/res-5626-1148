@@ -1,0 +1,11 @@
+0. Capsule Review:                      ... pos = 1.0   	neg = 0.75 
+1. A radically dishevel                 ... pos = 0.5   	neg = 0.0  
+2. It's a = tantalizing                 ... pos = 1.75  	neg = 0.5  
+3. Although there are p                 ... pos = 0.875 	neg = 1.125
+4. While longtime fans                  ... pos = 1.75  	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-5626-1148 is Positive        ... pos = 5.875 	neg = 3.5  
+Overall score of document
+Total Pos = 5.875
+Total Neg = 3.5
+---------------------------------------------------------------------------

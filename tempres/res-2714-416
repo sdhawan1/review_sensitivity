@@ -1,0 +1,20 @@
+0. Starring: Bruce Will                 ... pos = 0.125 	neg = 0.25 
+1. A year later, thorou                 ... pos = 1.75  	neg = 1.25 
+2. Opinion: Writer/ N.                  ... pos = 0.0   	neg = 0.0  
+3. Instead of plying us                 ... pos = 0.25  	neg = 0.125
+4. It's wonderful to wa                 ... pos = 0.875 	neg = 0.25 
+5. Is the shaken boy ta                 ... pos = 0.5   	neg = 0.25 
+6. Then, just as you th                 ... pos = 0.25  	neg = 0.0  
+7. .                                    ... pos = 0     	neg = 0    
+8. .                                    ... pos = 0     	neg = 0    
+9. boom!                                ... pos = 0     	neg = 0    
+10. The ending is a dooz                ... pos = 0.0   	neg = 0.125
+11. Despite its title TH                ... pos = 0.5   	neg = 0.25 
+12. But it's the best gh                ... pos = 0.375 	neg = 0.0  
+13. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2714-416 is Positive         ... pos = 4.625 	neg = 2.625
+Overall score of document
+Total Pos = 4.625
+Total Neg = 2.625
+---------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+0. (Dialog in German, E                 ... pos = 0.0   	neg = 0.125
+1. A recent series of t                 ... pos = 0.75  	neg = 0.25 
+2. Coming almost as pro                 ... pos = 0.0   	neg = 0.25 
+3. The frenetic adventu                 ... pos = 1.0   	neg = 0.625
+4. Lola (Franka Potente                 ... pos = 0.0   	neg = 0.0  
+5. Manni (Moritz Bleibt                 ... pos = 0.0   	neg = 0.125
+6. The narrative begins                 ... pos = 0.25  	neg = 0.75 
+7. Manni was running an                 ... pos = 0.0   	neg = 0.125
+8. He needs to meet the                 ... pos = 0.125 	neg = 0.75 
+9. Manni gives Lola 20                  ... pos = 0.75  	neg = 0.0  
+10. Lola's moped was sto                ... pos = 0.0   	neg = 0.25 
+11. The only way for her                ... pos = 0.0   	neg = 0.125
+12. The story is present                ... pos = 0.375 	neg = 0.125
+13. The plot is split be                ... pos = 1.125 	neg = 0.25 
+14. The narrative has it                ... pos = 0.75  	neg = 0.625
+15. It attempts to tell                 ... pos = 1.25  	neg = 0.0  
+16. Writer and director                 ... pos = 0.75  	neg = 0.0  
+17. However, the narrati                ... pos = 0.125 	neg = 0.625
+18. The story follows mu                ... pos = 0.0   	neg = 0.0  
+19. Most of the story co                ... pos = 0.25  	neg = 1.25 
+20. This automatically s                ... pos = 0.875 	neg = 0.125
+21. Although the high ad                ... pos = 0.0   	neg = 0.0  
+22. The fact that it eff                ... pos = 0.5   	neg = 0.125
+23. Highly recommended.                 ... pos = 0.625 	neg = 0    
+24. The film is a fast-p                ... pos = 0.0   	neg = 0.125
+25. It evokes the feel o                ... pos = 0.5   	neg = 0.0  
+26. The appeal of the fi                ... pos = 0.0   	neg = 0.25 
+27. This would be a good                ... pos = 1.25  	neg = 0.125
+28. It may not appeal to                ... pos = 0.0   	neg = 0.25 
+29. Sent via Deja.com ht                ... pos = 0.0   	neg = 0.0  
+30. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3690-707 is Positive         ... pos = 11.25 	neg = 7.25 
+Overall score of document
+Total Pos = 11.25
+Total Neg = 7.25
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by David Koe                 ... pos = 0.0   	neg = 0.0  
+2. Photographed by Fred                 ... pos = 0.0   	neg = 0.0  
+3. "Stir of Echoes" is                  ... pos = 1.5   	neg = 0.25 
+4. Films of this calibr                 ... pos = 0.625 	neg = 0.0  
+5. And yet it has arriv                 ... pos = 0.25  	neg = 0.875
+6. Why?                                 ... pos = 0     	neg = 0.0  
+7. Maybe because  peopl                 ... pos = 0.25  	neg = 0.0  
+8. "Stir of Echoes"  sh                 ... pos = 0.75  	neg = 0.75 
+9. Bacon plays Tom Witz                 ... pos = 0.25  	neg = 0.0  
+10. "How  can you believ                ... pos = 0.125 	neg = 0.25 
+11. " he asks.                          ... pos = 0.125 	neg = 0    
+12. When Lisa has him  u                ... pos = 0.0   	neg = 0.0  
+13. She asks him to be m                ... pos = 0.125 	neg = 0.125
+14. And that he becomes,                ... pos = 0.0   	neg = 0.0  
+15. After Tom wakes up h                ... pos = 0.625 	neg = 0.0  
+16. His son Jake (Zachar                ... pos = 0.0   	neg = 0.125
+17. " When Tom calms dow                ... pos = 0.5   	neg = 0.625
+18. There are a lot of p                ... pos = 0.25  	neg = 0.0  
+19. But they don't feel                 ... pos = 1.125 	neg = 0.125
+20. Things are glimpsed                 ... pos = 0.5   	neg = 0.125
+21. While we're watching                ... pos = 0.375 	neg = 0.25 
+22. We see what  he sees                ... pos = 0.25  	neg = 0.5  
+23. Disorientating appar                ... pos = 0.0   	neg = 0.125
+24. Here they are suppor                ... pos = 1.125 	neg = 0.375
+25. He's not always cast                ... pos = 2.375 	neg = 0.75 
+26. In "Stir of Echoes"                 ... pos = 0.25  	neg = 0.5  
+27. It's also good to se                ... pos = 0.875 	neg = 0.5  
+28. That's one example o                ... pos = 0.375 	neg = 0.5  
+29. Consider also the fi                ... pos = 0.125 	neg = 0.75 
+30. I  haven't read the                 ... pos = 0.0   	neg = 0.0  
+31. After all, most of t                ... pos = 0.375 	neg = 0.125
+32. Then again, maybe th                ... pos = 0.75  	neg = 0.125
+33. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4548-1540 is Positive        ... pos = 14.125 	neg = 7.75 
+Overall score of document
+Total Pos = 14.125
+Total Neg = 7.75
+---------------------------------------------------------------------------

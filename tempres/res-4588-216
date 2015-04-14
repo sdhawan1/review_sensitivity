@@ -1,0 +1,67 @@
+0. What turns regular p                 ... pos = 0.0   	neg = 0.0  
+1. I suspect it's the p                 ... pos = 1.625 	neg = 0.625
+2. People often become                  ... pos = 0.5   	neg = 0.125
+3. In an era when commi                 ... pos = 0.25  	neg = 0.125
+4. Public is willing to                 ... pos = 0.0   	neg = 0.125
+5. Ron Howard's "EDtv"                  ... pos = 0.25  	neg = 0.125
+6. Smart, involving, an                 ... pos = 0.875 	neg = 0.0  
+7. A cross between "The                 ... pos = 0.5   	neg = 0.375
+8. The story: a small c                 ... pos = 0.125 	neg = 0.625
+9. "We're getting our b                 ... pos = 0.0   	neg = 0.0  
+10. " frets a nervous ex                ... pos = 0.125 	neg = 0    
+11. "People would rather                ... pos = 0.625 	neg = 0    
+12. "  But network progr                ... pos = 0.5   	neg = 0.0  
+13. Observing how the pu                ... pos = 0.625 	neg = 0.0  
+14. Many people are audi                ... pos = 0.25  	neg = 0.0  
+15. Ed, an amiable loser                ... pos = 0.375 	neg = 0.375
+16. As compensation, Ed                 ... pos = 0.625 	neg = 0.125
+17. The idea seems like                 ... pos = 0.125 	neg = 0.125
+18. But when his life be                ... pos = 1.0   	neg = 0.625
+19. People become so add                ... pos = 0.25  	neg = 0.0  
+20. Everyone he knows su                ... pos = 1.125 	neg = 0.0  
+21. Indeed, Ed learns th                ... pos = 0.25  	neg = 0.25 
+22. As in "The Truman Sh                ... pos = 0.25  	neg = 0.0  
+23. Ed learns to use thi                ... pos = 0.25  	neg = 0.0  
+24. But fame has its dow                ... pos = 0.25  	neg = 1.25 
+25. But as the program n                ... pos = 1.125 	neg = 0.75 
+26. The feeling of claus                ... pos = 1.125 	neg = 0.375
+27. The constant presenc                ... pos = 0.0   	neg = 0.125
+28. (How does Ray find o                ... pos = 0.0   	neg = 0.125
+29. By watching their fi                ... pos = 0.125 	neg = 0.0  
+30. )  This displeases t                ... pos = 0.375 	neg = 0.25 
+31. (A poll in USA TODAY                ... pos = 0.375 	neg = 0.0  
+32. )  The network execu                ... pos = 0.0   	neg = 0.0  
+33. Ed doesn't realize t                ... pos = 1.0   	neg = 0.25 
+34. This is perhaps the                 ... pos = 0.0   	neg = 0.375
+35. If the market resear                ... pos = 0.0   	neg = 0.625
+36. Matthew McConaughey                 ... pos = 1.25  	neg = 0.0  
+37. He's a genuinely nic                ... pos = 1.0   	neg = 0.0  
+38. He does not ask for                 ... pos = 0.0   	neg = 0.5  
+39. Nor is McConaughey t                ... pos = 0.5   	neg = 0.903
+40. But the film is stol                ... pos = 0.25  	neg = 0.125
+41. I was reminded of hi                ... pos = 1.125 	neg = 1.125
+42. ("I've gotta go to t                ... pos = 0.375 	neg = 0.0  
+43. "Wish me luck!                      ... pos = 0     	neg = 0.0  
+44. ").         There ar                ... pos = 0.25  	neg = 0.25 
+45. Although we're cheer                ... pos = 1.875 	neg = 0.0  
+46. Without the camera c                ... pos = 0.125 	neg = 0.0  
+47. Seeing Ed and Shari                 ... pos = 0.375 	neg = 0.125
+48. Although we want Ed                 ... pos = 0.125 	neg = 0.25 
+49. Nor is the film's fi                ... pos = 0.5   	neg = 0.375
+50. It's an unwarranted                 ... pos = 1.0   	neg = 0.75 
+51. These are minor prob                ... pos = 0.375 	neg = 0.25 
+52. "EDtv" is rich in po                ... pos = 0.25  	neg = 0.125
+53. Why do people become                ... pos = 0.375 	neg = 0.0  
+54. Because they're on T                ... pos = 0     	neg = 0.0  
+55. Why are they on TV?                 ... pos = 0.25  	neg = 0.0  
+56. Because they're famo                ... pos = 0.375 	neg = 0    
+57. "EDtv" serves as a r                ... pos = 0.25  	neg = 0.0  
+58. They needn't be plac                ... pos = 0.0   	neg = 0.875
+59. ("EDtv" invades your                ... pos = 0.375 	neg = 0.25 
+60. ). . E-Mail: jbarlow                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4588-216 is Positive         ... pos = 26.25 	neg = 13.653
+Overall score of document
+Total Pos = 26.25
+Total Neg = 13.653
+---------------------------------------------------------------------------

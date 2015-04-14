@@ -1,0 +1,40 @@
+0. Forces of Nature (19                 ... pos = 1.625 	neg = 1.0  
+1. When a movie is cons                 ... pos = 1.125 	neg = 1.625
+2. But when a film rese                 ... pos = 1.0   	neg = 1.625
+3. The eagerly awaited                  ... pos = 0.25  	neg = 0.375
+4. And as much as I lov                 ... pos = 1.125 	neg = 0.875
+5. Sandra Bullock's tal                 ... pos = 0.0   	neg = 0.25 
+6. She's been an action                 ... pos = 1.125 	neg = 1.125
+7. Why not?                             ... pos = 0.0   	neg = 0.0  
+8. I have no clue, beca                 ... pos = 1.0   	neg = 0.5  
+9. Here, she is the shi                 ... pos = 0.125 	neg = 0.5  
+10. She plays Sara Lewis                ... pos = 0.5   	neg = 0.625
+11. The point of Forces                 ... pos = 1.0   	neg = 0.125
+12. After the aforementi                ... pos = 0.0   	neg = 0.25 
+13. What follows is a dr                ... pos = 0.875 	neg = 0.125
+14. Can Holmes get to hi                ... pos = 0.0   	neg = 0.0  
+15. Do we care?                         ... pos = 0     	neg = 0.0  
+16. During the journey w                ... pos = 0.0   	neg = 0.75 
+17. We discover that the                ... pos = 1.0   	neg = 0.25 
+18. And of course everyt                ... pos = 0.625 	neg = 0.75 
+19. But we never feel an                ... pos = 0.75  	neg = 0.75 
+20. Forces of Nature is                 ... pos = 0.25  	neg = 0.25 
+21. Bullock is indeed ex                ... pos = 1.125 	neg = 0.25 
+22. Ben Affleck on the o                ... pos = 1.0   	neg = 0.375
+23. Some of the movie's                 ... pos = 0.875 	neg = 0.5  
+24. Or that any self-res                ... pos = 0.875 	neg = 0.0  
+25. Director Bronwen Hug                ... pos = 0.5   	neg = 0.625
+26. Consider, for exampl                ... pos = 0.125 	neg = 0.0  
+27. Can you guess what h                ... pos = 0     	neg = 0.0  
+28. There are moments wh                ... pos = 1.5   	neg = 0.125
+29. But overwhelmingly t                ... pos = 0.25  	neg = 0.5  
+30. The only part of the                ... pos = 0.125 	neg = 0.125
+31. Some viewers will ea                ... pos = 0.375 	neg = 0.125
+32. More superficial mov                ... pos = 0.375 	neg = 1.875
+33. But of course, many                 ... pos = 0.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-635-563 is Positive          ... pos = 19.625 	neg = 16.875
+Overall score of document
+Total Pos = 19.625
+Total Neg = 16.875
+---------------------------------------------------------------------------

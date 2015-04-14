@@ -1,0 +1,27 @@
+0. The advertising line                 ... pos = 0.0   	neg = 0.0  
+1. Which is news to me                  ... pos = 0.0   	neg = 0.125
+2. Having now seen thei                 ... pos = 0.125 	neg = 0.625
+3. Fortunately, acting                  ... pos = 1.5   	neg = 0.375
+4. First came the Polar                 ... pos = 0.125 	neg = 0.0  
+5. For what else is Spi                 ... pos = 0.125 	neg = 0.125
+6. The soundtrack is fr                 ... pos = 0.0   	neg = 0.25 
+7. However, spicing up                  ... pos = 0.125 	neg = 0.0  
+8. Its just a good thin                 ... pos = 1.5   	neg = 0.125
+9. The group of five co                 ... pos = 0.125 	neg = 0.75 
+10. Their clichi charact                ... pos = 1.875 	neg = 0.25 
+11. The film follows the                ... pos = 0.625 	neg = 0.0  
+12. The girls are faced                 ... pos = 0.625 	neg = 0.125
+13. But the documentary                 ... pos = 0.5   	neg = 0.5  
+14. The biggest surprise                ... pos = 0.625 	neg = 0.25 
+15. But whereas those fi                ... pos = 0.375 	neg = 0.0  
+16. Celebrities Richard                 ... pos = 0.375 	neg = 0.0  
+17. As for the girls the                ... pos = 0.625 	neg = 0.125
+18. There is no doubt in                ... pos = 1.5   	neg = 0.5  
+19. During the movie gir                ... pos = 2.875 	neg = 0.0  
+20. Its somewhat surpris                ... pos = 2.375 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-3166-1111 is Positive        ... pos = 16.0  	neg = 4.75 
+Overall score of document
+Total Pos = 16.0
+Total Neg = 4.75
+---------------------------------------------------------------------------

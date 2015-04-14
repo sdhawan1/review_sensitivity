@@ -1,0 +1,32 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Robert To                 ... pos = 0.0   	neg = 0.0  
+2. Photographed by Jeff                 ... pos = 0.0   	neg = 0.0  
+3. "Mission: Impossible                 ... pos = 1.125 	neg = 0.375
+4. It could have been                   ... pos = 0.0   	neg = 0.125
+5. It could also have b                 ... pos = 0.0   	neg = 0.75 
+6. Since we get to see                  ... pos = 1.5   	neg = 1.0  
+7. And make no mistake                  ... pos = 0.0   	neg = 1.0  
+8. Gone is the teamwork                 ... pos = 0.875 	neg = 0.25 
+9. Even though he's aid                 ... pos = 0.375 	neg = 1.0  
+10. As pretty much every                ... pos = 0.125 	neg = 0.125
+11. De Palma's cool whit                ... pos = 0.0   	neg = 1.125
+12. Taut structure has b                ... pos = 0.75  	neg = 1.375
+13. Set-pieces have been                ... pos = 0.25  	neg = 1.375
+14. It's a good one, tho                ... pos = 0.75  	neg = 0    
+15. The director, John W                ... pos = 0.0   	neg = 0.125
+16. His techniques in mo                ... pos = 0.25  	neg = 2.5  
+17. You're assured an ef                ... pos = 1.125 	neg = 1.5  
+18. Where can the "M: I"                ... pos = 0     	neg = 0.0  
+19. I have a clear idea,                ... pos = 0.25  	neg = 0.125
+20. They have assigned                  ... pos = 0.0   	neg = 0.0  
+21. James Bond is allowe                ... pos = 0.0   	neg = 0.625
+22. The best  thing to d                ... pos = 1.0   	neg = 0.125
+23. We've had De Palma a                ... pos = 0.0   	neg = 0.0  
+24. Keep the series goin                ... pos = 0.375 	neg = 0.0  
+25. COPYRIGHT(c) 2000 Ia                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3599-1540 is Negative        ... pos = 9.0   	neg = 13.5 
+Overall score of document
+Total Pos = 9.0
+Total Neg = 13.5
+---------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+0. At first I was intri                 ... pos = 1.25  	neg = 0.25 
+1. Now my view has comp                 ... pos = 0.125 	neg = 0.0  
+2. It's time to embrace                 ... pos = 0.625 	neg = 0.75 
+3. The story begins wit                 ... pos = 0.0   	neg = 0.0  
+4. They meet fans who d                 ... pos = 0.375 	neg = 0.0  
+5. Of course they are u                 ... pos = 0.25  	neg = 0.375
+6. Thus begins the long                 ... pos = 0.5   	neg = 0.375
+7. The movie plays like                 ... pos = 0.0   	neg = 1.5  
+8. I don't even think T                 ... pos = 0.125 	neg = 0.5  
+9. All the jokes are ba                 ... pos = 0.25  	neg = 0.25 
+10. One such continuous                 ... pos = 0.5   	neg = 0.25 
+11. Creative jokes like                 ... pos = 0.875 	neg = 0.25 
+12. A person can only ta                ... pos = 0.125 	neg = 0.0  
+13. We do not need to be                ... pos = 0.375 	neg = 0.25 
+14. It's pretty bad when                ... pos = 0.0   	neg = 1.792
+15. It's not like I expe                ... pos = 0.75  	neg = 0.375
+16. Speaking of acting,                 ... pos = 0.0   	neg = 0.625
+17. Sigourney Weaver was                ... pos = 0.0   	neg = 0.25 
+18. It's pretty bad when                ... pos = 0.125 	neg = 1.25 
+19. It just shows you ho                ... pos = 0.0   	neg = 0.625
+20. Alan Rickman however                ... pos = 0.875 	neg = 0.125
+21. After his last hit (                ... pos = 0.0   	neg = 0.5  
+22. It's just a shame to                ... pos = 0.5   	neg = 0.75 
+23. When the film couldn                ... pos = 0.0   	neg = 0.875
+24. Like many big blockb                ... pos = 0.5   	neg = 0.25 
+25. 9 out of 10 times it                ... pos = 0.5   	neg = 2.0  
+26. When will it stop?                  ... pos = 0.125 	neg = 0.0  
+27. I am getting tired o                ... pos = 0.25  	neg = 0.25 
+28. It may look fine and                ... pos = 0.0   	neg = 0.5  
+29. Is that too much to                 ... pos = 0.125 	neg = 0.375
+30. Obviously it is.                    ... pos = 0.0   	neg = 0.125
+31. When Galaxy Quest fi                ... pos = 0.0   	neg = 0.0  
+32. Aside from the impre                ... pos = 0.625 	neg = 0.375
+33. It's not the least b                ... pos = 0.25  	neg = 0.125
+34. The only place where                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5750-789 is Negative         ... pos = 10.0  	neg = 16.042
+Overall score of document
+Total Pos = 10.0
+Total Neg = 16.042
+---------------------------------------------------------------------------

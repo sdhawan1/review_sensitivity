@@ -1,0 +1,42 @@
+0. MOVIE VIEWS by Jamey                 ... pos = 0.75  	neg = 0.875
+1. For every ingenious,                 ... pos = 1.0   	neg = 0.875
+2. Where does The Thirt                 ... pos = 0.0   	neg = 0.0  
+3. Somewhere in the mid                 ... pos = 0.0   	neg = 0.625
+4. During every twist a                 ... pos = 0.75  	neg = 0.0  
+5. The problem is, thes                 ... pos = 0.25  	neg = 0.875
+6. Director Joseph Rusn                 ... pos = 0.125 	neg = 0.125
+7. Well, in a situation                 ... pos = 0.0   	neg = 0.125
+8. The story involves b                 ... pos = 0.875 	neg = 0.125
+9. As we soon learn, Fu                 ... pos = 1.375 	neg = 0    
+10. But before he succes                ... pos = 0.375 	neg = 0.25 
+11. The first twenty min                ... pos = 0.125 	neg = 0.0  
+12. It has the right pie                ... pos = 0.0   	neg = 0.0  
+13. Yes, this film does                 ... pos = 0.125 	neg = 0.125
+14. But its approach i                ... pos = 0.125 	neg = 0.125
+15. Even when the plot g                ... pos = 0.25  	neg = 0.25 
+16. The premise is quite                ... pos = 0.375 	neg = 0.375
+17. In the last third, t                ... pos = 0.125 	neg = 0.625
+18. Could their world be                ... pos = 0.0   	neg = 0.125
+19. The Thirteenth Floor                ... pos = 1.125 	neg = 0.875
+20. The cast has a fun t                ... pos = 0.375 	neg = 0.0  
+21. Vincent DOnofrio p                ... pos = 0.0   	neg = 0.0  
+22. Gretchen Mol is unfa                ... pos = 0.75  	neg = 0.5  
+23. The one actor who pl                ... pos = 1.75  	neg = 0.125
+24. With all of its shor                ... pos = 0.625 	neg = 0.125
+25. There are marvelous                 ... pos = 1.375 	neg = 0.0  
+26. Its really too bad                ... pos = 0.0   	neg = 1.125
+27. It had the potential                ... pos = 0.0   	neg = 0.125
+28. Its always importa                ... pos = 1.875 	neg = 0.125
+29. The rising action wi                ... pos = 1.75  	neg = 0.75 
+30. The Thirteenth Floor                ... pos = 0.0   	neg = 0.25 
+31. This is not a bad fi                ... pos = 0.0   	neg = 1.0  
+32. The intelligence and                ... pos = 0.625 	neg = 0.75 
+33. I believe the answer                ... pos = 1.0   	neg = 0.5  
+34. The material here wo                ... pos = 0.0   	neg = 0.875
+35. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6290-693 is Positive         ... pos = 17.875 	neg = 12.625
+Overall score of document
+Total Pos = 17.875
+Total Neg = 12.625
+---------------------------------------------------------------------------

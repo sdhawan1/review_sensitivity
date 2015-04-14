@@ -1,0 +1,32 @@
+0. MUSIC OF THE HEART *                 ... pos = 0.875 	neg = 0.25 
+1. Wes Craven's new pic                 ... pos = 0.625 	neg = 0.5  
+2. Almost as infuriatin                 ... pos = 0.5   	neg = 0.125
+3. Faithfully based on                  ... pos = 1.5   	neg = 0.0  
+4. The reception from s                 ... pos = 0.375 	neg = 0.125
+5. The story shares not                 ... pos = 0.625 	neg = 0.375
+6. (Are both movies tel                 ... pos = 0.5   	neg = 0.125
+7. ) I preferred what C                 ... pos = 1.0   	neg = 0.25 
+8. ), and Roberta's mil                 ... pos = 1.25  	neg = 0.125
+9. Unintentional humour                 ... pos = 0.0   	neg = 0.375
+10. When a few of Robert                ... pos = 0.625 	neg = 0.75 
+11. When the horror of u                ... pos = 0.0   	neg = 0.375
+12. More gravely, this p                ... pos = 0.625 	neg = 0.625
+13. Take, for example, t                ... pos = 0.5   	neg = 1.5  
+14. One heart-to-heart w                ... pos = 0.0   	neg = 0.0  
+15. The primary grades a                ... pos = 0.25  	neg = 0.375
+16. (Young Nick did, aft                ... pos = 0.25  	neg = 0.375
+17. ) . Craven's biggest                ... pos = 0.75  	neg = 0.125
+18. Roberta's funding is                ... pos = 0.75  	neg = 0.625
+19. His name is also men                ... pos = 0.25  	neg = 1.0  
+20. Blink and you'll mis                ... pos = 0.0   	neg = 0.0  
+21. I wanted a moment in                ... pos = 0.5   	neg = 0.625
+22. You'll notice that u                ... pos = 0.125 	neg = 0.0  
+23. I didn't feel it nec                ... pos = 2.75  	neg = 1.0  
+24. That said, Craven ju                ... pos = 0.625 	neg = 0.0  
+25. After two excellent                 ... pos = 2.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2109-1545 is Positive        ... pos = 17.625 	neg = 9.875
+Overall score of document
+Total Pos = 17.625
+Total Neg = 9.875
+---------------------------------------------------------------------------

@@ -1,0 +1,54 @@
+0. Imagine Dickens with                 ... pos = 1.25  	neg = 1.0  
+1. While the effect is                  ... pos = 1.0   	neg = 0.125
+2. The result is a comp                 ... pos = 0.25  	neg = 0.125
+3. The setting is Maine                 ... pos = 0.0   	neg = 0.125
+4. Tobey Maguire stars                  ... pos = 0.375 	neg = 0.0  
+5. Cloud's, which doubl                 ... pos = 0.0   	neg = 0.125
+6. Michael Caine is Dr.                 ... pos = 0.0   	neg = 0.125
+7. Cloud's, performing                  ... pos = 0.125 	neg = 0.0  
+8. Dr. Larch takes Home                 ... pos = 1.5   	neg = 0.0  
+9. Cloud's for an abort                 ... pos = 0.0   	neg = 0.125
+10. Cloud's, hitches a r                ... pos = 0.25  	neg = 0.0  
+11. Homer discovers alon                ... pos = 0.25  	neg = 0.0  
+12. If it sounds confusi                ... pos = 0.0   	neg = 0.5  
+13. You can doze off for                ... pos = 0.5   	neg = 1.0  
+14. Among the prevailing                ... pos = 0.375 	neg = 0.125
+15. It's implicit that a                ... pos = 0.75  	neg = 0.125
+16. But while the aborti                ... pos = 1.5   	neg = 1.0  
+17. Granted, it's hard t                ... pos = 0.875 	neg = 1.25 
+18. The book uses the la                ... pos = 1.375 	neg = 0.25 
+19. The film's treatment                ... pos = 0.125 	neg = 0.75 
+20. Part of the problem                 ... pos = 0.0   	neg = 0.375
+21. He has a winning smi                ... pos = 1.125 	neg = 0.0  
+22. That's not necessari                ... pos = 2.25  	neg = 0.125
+23. Maguire, alas, has v                ... pos = 0.75  	neg = 0.25 
+24. Because of that, the                ... pos = 0.375 	neg = 0.25 
+25. (His face, which is                 ... pos = 0.875 	neg = 0.125
+26. ) The problem is exa                ... pos = 2.25  	neg = 0.75 
+27. Maguire isn't bad, b                ... pos = 1.375 	neg = 1.625
+28. Raise that voice, To                ... pos = 0.375 	neg = 0    
+29. Chew some scenery!                  ... pos = 0.0   	neg = 0.0  
+30. Wake *up*!                          ... pos = 0     	neg = 0.0  
+31. Theron, for her part                ... pos = 1.625 	neg = 0.5  
+32. A movie that spends                 ... pos = 0.125 	neg = 0.875
+33. A subplot involving                 ... pos = 1.875 	neg = 0.25 
+34. Even the orchard sce                ... pos = 0.75  	neg = 0.625
+35. There's an irony her                ... pos = 2.0   	neg = 0.25 
+36. Without Irving's pro                ... pos = 0.0   	neg = 0.5  
+37. The problem might ha                ... pos = 1.0   	neg = 1.375
+38. As it is, there's ve                ... pos = 1.375 	neg = 0.375
+39. (There's another iro                ... pos = 0.625 	neg = 0.625
+40. ) The soundtrack, so                ... pos = 0.125 	neg = 0.5  
+41. All that said, thoug                ... pos = 0.25  	neg = 0.0  
+42. Prominent among them                ... pos = 1.625 	neg = 0.125
+43. There's a back-and-f                ... pos = 0.875 	neg = 0.125
+44. Caine, who's British                ... pos = 2.375 	neg = 0.0  
+45. Moreover, there's a                 ... pos = 1.25  	neg = 1.75 
+46. Still, the heart of                 ... pos = 1.125 	neg = 1.375
+47. It's not a bad effor                ... pos = 1.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-607-1232 is Positive         ... pos = 38.0  	neg = 20.375
+Overall score of document
+Total Pos = 38.0
+Total Neg = 20.375
+---------------------------------------------------------------------------

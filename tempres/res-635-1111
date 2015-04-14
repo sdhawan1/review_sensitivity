@@ -1,0 +1,27 @@
+0. FORCES OF NATURE Cas                 ... pos = 0.625 	neg = 0.0  
+1. Whereas Steven Marti                 ... pos = 1.0   	neg = 1.0  
+2. From trailers and po                 ... pos = 0.5   	neg = 0.375
+3. This is not your ave                 ... pos = 1.5   	neg = 0.125
+4. Whilst there is noth                 ... pos = 0.625 	neg = 2.25 
+5. There will undoubted                 ... pos = 0.875 	neg = 0.375
+6. Affleck plays Ben Ho                 ... pos = 0.5   	neg = 1.25 
+7. His best man is dema                 ... pos = 0.375 	neg = 0.125
+8. On his way home, Ben                 ... pos = 0.5   	neg = 0.625
+9. Sarah's gorgeous loo                 ... pos = 1.5   	neg = 0.125
+10. Much of Sandra Bullo                ... pos = 1.25  	neg = 1.125
+11. Sure, she works on m                ... pos = 0.875 	neg = 0.125
+12. Consequently, this s                ... pos = 0.0   	neg = 0.375
+13. Affleck has a better                ... pos = 0.5   	neg = 0.0  
+14. This is quite a funn                ... pos = 0.75  	neg = 0.375
+15. Look out for some im                ... pos = 1.125 	neg = 0.875
+16. With so much romanti                ... pos = 0.875 	neg = 0.75 
+17. Love, it seems, carr                ... pos = 0.625 	neg = 0.75 
+18. Forces of Nature suc                ... pos = 0.5   	neg = 0.125
+19. Not a bad film, in f                ... pos = 0.75  	neg = 0.875
+20. But Forces of Nature                ... pos = 0.5   	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-635-1111 is Positive         ... pos = 15.75 	neg = 13.125
+Overall score of document
+Total Pos = 15.75
+Total Neg = 13.125
+---------------------------------------------------------------------------

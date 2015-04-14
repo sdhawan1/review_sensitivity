@@ -1,0 +1,15 @@
+0. Starring: Sylvester                  ... pos = 0.625 	neg = 0.25 
+1. This is a drama, not                 ... pos = 0.0   	neg = 0.125
+2. This time, nstead of                 ... pos = 0.625 	neg = 1.0  
+3. The film is called "                 ... pos = 0.75  	neg = 0.5  
+4. Theres an atmosphere                 ... pos = 0.0   	neg = 0.375
+5. I loved the film and                 ... pos = 0.5   	neg = 0.125
+6. Opinion: Whether or                  ... pos = 1.75  	neg = 0.0  
+7. If you interpret Sta                 ... pos = 1.125 	neg = 0.25 
+8. If you interpret him                 ... pos = 1.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2603-416 is Positive         ... pos = 6.625 	neg = 2.875
+Overall score of document
+Total Pos = 6.625
+Total Neg = 2.875
+---------------------------------------------------------------------------

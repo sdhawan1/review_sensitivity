@@ -1,0 +1,53 @@
+0. ANASTASIA begins whe                 ... pos = 0.125 	neg = 0.125
+1. Ten years later, 18-                 ... pos = 0.0   	neg = 0.125
+2. She doesn't remember                 ... pos = 0.125 	neg = 0.625
+3. You don't have to be                 ... pos = 0.875 	neg = 0.125
+4. The tsars may have b                 ... pos = 0.375 	neg = 0.125
+5. Those Easter eggs th                 ... pos = 0.0   	neg = 0.5  
+6. And you feel a certa                 ... pos = 0.75  	neg = 0.25 
+7. You even feel for Ts                 ... pos = 1.0   	neg = 0.25 
+8. What?").                             ... pos = 0     	neg = 0    
+9. Still, this myth tha                 ... pos = 0.375 	neg = 0.375
+10. Why would presumably                ... pos = 0.25  	neg = 0.0  
+11. After all, the Sovie                ... pos = 0.125 	neg = 0.5  
+12. Are people really so                ... pos = 0.25  	neg = 0.25 
+13. The 20th century has                ... pos = 1.125 	neg = 0.5  
+14. It's probably churli                ... pos = 0.75  	neg = 0.125
+15. To stretch even furt                ... pos = 0.375 	neg = 1.25 
+16. What we have here is                ... pos = 0.125 	neg = 0.125
+17. By 1927, the proleta                ... pos = 1.125 	neg = 0.25 
+18. This is really perve                ... pos = 0.125 	neg = 0.125
+19. What redeems ANASTAS                ... pos = 1.125 	neg = 0.0  
+20. The romantic plot be                ... pos = 0.25  	neg = 0.125
+21. Meg Ryan has better                 ... pos = 0.0   	neg = 0.0  
+22. ) Billy Crystal in W                ... pos = 0.75  	neg = 0.25 
+23. She overcomes her in                ... pos = 0.125 	neg = 0.125
+24. In turn, she dazzles                ... pos = 0.0   	neg = 0.25 
+25. That dynamic is pres                ... pos = 1.125 	neg = 0.125
+26. Unfortunately, Ryan                 ... pos = 0.5   	neg = 1.625
+27. For his part, Cusack                ... pos = 0.875 	neg = 0.0  
+28. Like Michael Keaton,                ... pos = 1.125 	neg = 0.125
+29. Maybe that's why I'v                ... pos = 1.125 	neg = 0.5  
+30. Luckily, though, he'                ... pos = 0.75  	neg = 0.0  
+31. He widens his eyes j                ... pos = 0.75  	neg = 0.625
+32. He does something li                ... pos = 0.0   	neg = 0.0  
+33. The fact that he can                ... pos = 0.125 	neg = 0.125
+34. Kelsey Grammer, thou                ... pos = 0.0   	neg = 0.5  
+35. The vaguely-defined                 ... pos = 1.375 	neg = 0.125
+36. He's meant to be an                 ... pos = 0.125 	neg = 0.25 
+37. "  Vladimir is too c                ... pos = 0.0   	neg = 0.625
+38. Hank Azaria's South                 ... pos = 0.375 	neg = 0.25 
+39. A rhetorical questio                ... pos = 0.5   	neg = 0.0  
+40. My question is, why                 ... pos = 0.0   	neg = 0.75 
+41. Why not cast Chabert                ... pos = 0.0   	neg = 0.0  
+42. As for Don Bluth's a                ... pos = 0.5   	neg = 0.375
+43. In the end, I was di                ... pos = 1.0   	neg = 0.125
+44. In taking up the cha                ... pos = 0.0   	neg = 0.0  
+45. ANASTASIA isn't the                 ... pos = 1.375 	neg = 0.0  
+46. Let's hope this will                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-451-739 is Positive          ... pos = 22.375 	neg = 12.5 
+Overall score of document
+Total Pos = 22.375
+Total Neg = 12.5
+---------------------------------------------------------------------------

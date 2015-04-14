@@ -1,0 +1,37 @@
+0. filmcritic.com prese                 ... pos = 0.0   	neg = 0.0  
+1. You can find the rev                 ... pos = 0.375 	neg = 0.0  
+2. One is letting an am                 ... pos = 0.5   	neg = 0.5  
+3. Two is never greenli                 ... pos = 0.0   	neg = 0.125
+4. To wit, we present t                 ... pos = 0.0   	neg = 0.625
+5. A science-fiction op                 ... pos = 0.25  	neg = 1.25 
+6. Sci-fi is always a t                 ... pos = 1.25  	neg = 0.875
+7. Battlefield Earth fa                 ... pos = 0.125 	neg = 0.125
+8. Here's the `plot.                    ... pos = 0     	neg = 0    
+9. '  The year is 3000.                 ... pos = 0.0   	neg = 0.125
+10. Mankind has been bec                ... pos = 0.819 	neg = 1.0  
+11. A small band of huma                ... pos = 0.375 	neg = 0.25 
+12. The Psychlos are str                ... pos = 0.25  	neg = 0.125
+13. A young rogue named                 ... pos = 1.125 	neg = 0.0  
+14. '  He is promptly ca                ... pos = 0.0   	neg = 0.125
+15. After several attemp                ... pos = 0.25  	neg = 0.625
+16. Jonnie, assumed lead                ... pos = 0.0   	neg = 0.125
+17. Then the story just                 ... pos = 0.0   	neg = 0.125
+18. The whole mess concl                ... pos = 0.0   	neg = 0.75 
+19. Roger Christian, the                ... pos = 0.375 	neg = 0.75 
+20. Christian even shoot                ... pos = 0.0   	neg = 0.0  
+21. And every scene in t                ... pos = 0.0   	neg = 0.0  
+22. The Psychlos reminde                ... pos = 0.25  	neg = 0.875
+23. Travolta's acting ha                ... pos = 0.0   	neg = 1.0  
+24. Jonnie Goodboy Tyler                ... pos = 0.0   	neg = 0.0  
+25. '  Then there's the                 ... pos = 0.25  	neg = 0.125
+26. Why?                                ... pos = 0     	neg = 0.0  
+27. Because Terel provid                ... pos = 0.25  	neg = 0.375
+28. '. Terel may be righ                ... pos = 0.0   	neg = 0.125
+29. Humans made this mov                ... pos = 0     	neg = 0.0  
+30. Director: Roger Chri                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5456-1220 is Negative        ... pos = 6.444 	neg = 10.0 
+Overall score of document
+Total Pos = 6.444
+Total Neg = 10.0
+---------------------------------------------------------------------------

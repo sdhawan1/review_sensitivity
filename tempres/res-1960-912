@@ -1,0 +1,36 @@
+0. Cranky CriticŽ movi                 ... pos = 0.75  	neg = 0.375
+1. At a time when every                 ... pos = 0.625 	neg = 0.5  
+2. Boiler Room, written                 ... pos = 0.25  	neg = 0.0  
+3. Even the usually ann                 ... pos = 0.5   	neg = 0.5  
+4. A college dropout hi                 ... pos = 0.0   	neg = 0.0  
+5. Into the casino one                  ... pos = 0.0   	neg = 0.0  
+6. Knowing that dad wan                 ... pos = 0.125 	neg = 0.0  
+7. In retrospect, Seth                  ... pos = 0.125 	neg = 0.0  
+8. In this case, he is                  ... pos = 0.0   	neg = 0.875
+9. We follow Seth along                 ... pos = 0.5   	neg = 0.75 
+10. It's only a bit part                ... pos = 0.125 	neg = 0.0  
+11. Marlin, owned by an                 ... pos = 0.5   	neg = 0.0  
+12. The battle in the pi                ... pos = 1.125 	neg = 0.25 
+13. Seth is taught how t                ... pos = 0.5   	neg = 0.125
+14. In short, he learns                 ... pos = 0.0   	neg = 0.0  
+15. It is a world in whi                ... pos = 0.0   	neg = 0.25 
+16. So... what happens w                ... pos = 0.125 	neg = 0.0  
+17. I'll leave it at tha                ... pos = 0.0   	neg = 0.0  
+18. Boiler Room is an el                ... pos = 0.25  	neg = 0.125
+19. The necessary scenes                ... pos = 0.0   	neg = 0.0  
+20. This is a world wher                ... pos = 0.375 	neg = 0.625
+21. On average, a first                 ... pos = 0.25  	neg = 0.0  
+22. Were Cranky able to                 ... pos = 0.125 	neg = 0.75 
+23. The rating may prove                ... pos = 0.0   	neg = 0.375
+24. Boiler Room was a we                ... pos = 0.375 	neg = 0.625
+25. (Cranky wonders if t                ... pos = 0.625 	neg = 0.125
+26. But that's just me.                 ... pos = 0     	neg = 0.0  
+27. ). The Cranky Critic                ... pos = 0.0   	neg = 0.125
+28. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+29. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1960-912 is Positive         ... pos = 7.5   	neg = 6.375
+Overall score of document
+Total Pos = 7.5
+Total Neg = 6.375
+---------------------------------------------------------------------------

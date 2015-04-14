@@ -1,0 +1,46 @@
+0. Lake Placid is proba                 ... pos = 0.375 	neg = 0.125
+1. Oh wait... it's the                  ... pos = 0.0   	neg = 0.0  
+2. Yes, ruling out 1980                 ... pos = 0.0   	neg = 0.25 
+3. Or... is it?                         ... pos = 0.0   	neg = 0.125
+4. The set-up is short                  ... pos = 0.0   	neg = 0.125
+5. After a mysterious a                 ... pos = 0.5   	neg = 0.0  
+6. They include Fish an                 ... pos = 0.5   	neg = 0.0  
+7. After they bicker fo                 ... pos = 0.5   	neg = 0.5  
+8. Hint: it's not a gia                 ... pos = 0.0   	neg = 0.0  
+9. It's a 30-foot croco                 ... pos = 0.25  	neg = 0.0  
+10. And so they have to                 ... pos = 0.0   	neg = 0.25 
+11. Actually, there is o                ... pos = 0.0   	neg = 0.125
+12. Former Golden Girl W                ... pos = 0.5   	neg = 0.0  
+13. Lake Placid was writ                ... pos = 0.375 	neg = 0.875
+14. The croc hunt is mer                ... pos = 1.25  	neg = 0.125
+15. Yes, this film is es                ... pos = 1.125 	neg = 0.25 
+16. Nevertheless, a larg                ... pos = 0.625 	neg = 0.5  
+17. Creature effects Sta                ... pos = 1.375 	neg = 0.5  
+18. Unfortunately, there                ... pos = 0.0   	neg = 1.375
+19. The best scene happe                ... pos = 0.375 	neg = 0.375
+20. There are many brief                ... pos = 1.125 	neg = 0.25 
+21. In a movie that cloc                ... pos = 0.5   	neg = 0.0  
+22. Luckily, Lake Placid                ... pos = 1.25  	neg = 0.0  
+23. The cast tries hard                 ... pos = 0.0   	neg = 1.25 
+24. Fonda is originally                 ... pos = 1.125 	neg = 0.5  
+25. She falls out of a b                ... pos = 0.75  	neg = 0.25 
+26. Pullman is earnest a                ... pos = 0.5   	neg = 0.875
+27. Chemistry between Ke                ... pos = 0.75  	neg = 1.0  
+28. Needless to say, the                ... pos = 0.375 	neg = 0.0  
+29. Irish actor Brendan                 ... pos = 1.375 	neg = 0.0  
+30. And Oliver Platt con                ... pos = 1.625 	neg = 0.0  
+31. The insults exchange                ... pos = 1.375 	neg = 0.25 
+32. But somewhere, the f                ... pos = 0.125 	neg = 0.625
+33. While Kelley's scrip                ... pos = 0.375 	neg = 0.125
+34. And the actors can o                ... pos = 1.0   	neg = 0.5  
+35. Of course, similarit                ... pos = 0.625 	neg = 0.0  
+36. How could you make a                ... pos = 0.0   	neg = 0.0  
+37. Lake Placid is ridic                ... pos = 0.375 	neg = 0.625
+38. But folks, for a hor                ... pos = 0.0   	neg = 0.875
+39. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2493-693 is Positive         ... pos = 21.0  	neg = 12.625
+Overall score of document
+Total Pos = 21.0
+Total Neg = 12.625
+---------------------------------------------------------------------------

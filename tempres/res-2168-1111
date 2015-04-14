@@ -1,0 +1,31 @@
+0. Cast: Jackie Chan, C                 ... pos = 0.625 	neg = 0.125
+1. Chinese spectacle Ja                 ... pos = 1.125 	neg = 0.375
+2. The Chan/Tucker comb                 ... pos = 1.125 	neg = 0.5  
+3. The only difference                  ... pos = 1.125 	neg = 0.25 
+4. That is emphasized e                 ... pos = 1.75  	neg = 0.5  
+5. The calm and constru                 ... pos = 0.625 	neg = 0.75 
+6. They are both cops -                 ... pos = 0.875 	neg = 0.25 
+7. Lee and Carter soon                  ... pos = 0.5   	neg = 1.125
+8. Like most Jackie Cha                 ... pos = 0.25  	neg = 0.625
+9. Chan's screen maneuv                 ... pos = 0.375 	neg = 0.0  
+10. Ever since Rumble in                ... pos = 0.375 	neg = 0.125
+11. That's why it was ju                ... pos = 0.0   	neg = 0.125
+12. In doing so, he has                 ... pos = 1.125 	neg = 0.375
+13. When there are so ma                ... pos = 1.375 	neg = 0.0  
+14. Brett Ratner never k                ... pos = 2.25  	neg = 0.875
+15. Give Chan most of th                ... pos = 0.0   	neg = 0.0  
+16. Wrong.                              ... pos = 0     	neg = 0.75 
+17. When both actors cou                ... pos = 0.375 	neg = 0.375
+18. Fortunately for Ratn                ... pos = 0.5   	neg = 0.25 
+19. In fact, occasional                 ... pos = 0.125 	neg = 0.125
+20. One scene in which L                ... pos = 2.25  	neg = 0.125
+21. Most of Rush Hour's                 ... pos = 0.75  	neg = 0.0  
+22. A memorable screen p                ... pos = 1.0   	neg = 0.5  
+23. With any luck a sequ                ... pos = 0.625 	neg = 0.25 
+24. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2168-1111 is Positive        ... pos = 19.375 	neg = 8.375
+Overall score of document
+Total Pos = 19.375
+Total Neg = 8.375
+---------------------------------------------------------------------------

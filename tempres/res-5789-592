@@ -1,0 +1,44 @@
+0. ***I would like to r                 ... pos = 0.0   	neg = 0.0  
+1. He was a fine actor                  ... pos = 0.0   	neg = 0.125
+2. May he rest in peace                 ... pos = 0.125 	neg = 0.0  
+3. ***. Double Jeopardy                 ... pos = 0.125 	neg = 1.0  
+4. Unfortunately, the m                 ... pos = 0.375 	neg = 0.875
+5. The production's big                 ... pos = 0.875 	neg = 0.0  
+6. Libby Parsons (Ashle                 ... pos = 1.125 	neg = 0.375
+7. An abrupt change occ                 ... pos = 0.25  	neg = 0.375
+8. While at sea she fin                 ... pos = 0.0   	neg = 0.0  
+9. Not too much later,                  ... pos = 0.625 	neg = 0.375
+10. Angie disappears soo                ... pos = 0.0   	neg = 0.375
+11. With the help of som                ... pos = 0.875 	neg = 0.0  
+12. Libby doesn't  pursu                ... pos = 1.0   	neg = 0.5  
+13. One  of the two inma                ... pos = 0.5   	neg = 2.375
+14. ". After a suspiciou                ... pos = 1.0   	neg = 0.125
+15. From there, the sear                ... pos = 0.125 	neg = 0.125
+16. One night, her quest                ... pos = 0.0   	neg = 0.0  
+17. She realizes this an                ... pos = 0.375 	neg = 0    
+18. Travis follows in  p                ... pos = 0.125 	neg = 0.0  
+19. The rest of the film                ... pos = 0.0   	neg = 1.625
+20. Ever since James Bon                ... pos = 0.5   	neg = 0.25 
+21. Double Jeopardy  abu                ... pos = 0     	neg = 0.75 
+22. Although the fifth a                ... pos = 1.0   	neg = 0.375
+23. I am  quite confiden                ... pos = 0.625 	neg = 0.75 
+24. It also strikes me a                ... pos = 0.125 	neg = 0.25 
+25. Ironically, it is th                ... pos = 0.25  	neg = 0.625
+26. The brief, yet all i                ... pos = 1.125 	neg = 0.75 
+27. The  two inmates tha                ... pos = 0.25  	neg = 0.0  
+28. At the same time, I                 ... pos = 0.0   	neg = 0.375
+29. At the end of Mumfor                ... pos = 0.125 	neg = 0.125
+30. " That doesn't seem                 ... pos = 0.75  	neg = 0.5  
+31. If ever there were p                ... pos = 0.0   	neg = 0.25 
+32. Ashley Judd is just                 ... pos = 1.875 	neg = 0.25 
+33. But the  real treat                 ... pos = 0.75  	neg = 0.25 
+34. The two actors are v                ... pos = 1.375 	neg = 0.125
+35. However, one scene t                ... pos = 1.125 	neg = 0.625
+36. Some many years from                ... pos = 0.5   	neg = 0.125
+37. Probably, this is th                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5789-592 is Positive         ... pos = 18.0  	neg = 15.0 
+Overall score of document
+Total Pos = 18.0
+Total Neg = 15.0
+---------------------------------------------------------------------------

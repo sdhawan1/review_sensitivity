@@ -1,0 +1,43 @@
+0. Starring Warren Beat                 ... pos = 0.0   	neg = 0.0  
+1. Warren Beatty return                 ... pos = 0.5   	neg = 0.75 
+2. Based on a story con                 ... pos = 0.875 	neg = 0.0  
+3. Beatty stars as Sena                 ... pos = 0.125 	neg = 0.0  
+4. After hiring someone                 ... pos = 1.25  	neg = 0.125
+5. )   Instead of every                 ... pos = 0.625 	neg = 0.0  
+6. However, inside his                  ... pos = 0.125 	neg = 0.125
+7. And he also strikes                  ... pos = 0.0   	neg = 0.0  
+8. ). It's remarkable t                 ... pos = 0.25  	neg = 0.125
+9. Much more open than                  ... pos = 1.875 	neg = 0.0  
+10. The outrageous remar                ... pos = 1.25  	neg = 0.0  
+11. It's great that Beat                ... pos = 0.375 	neg = 0.0  
+12. Talking of Beatty, h                ... pos = 1.125 	neg = 0.5  
+13. And seeing Warren Be                ... pos = 0.375 	neg = 0.125
+14. Even in Dick Tracy,                 ... pos = 0.125 	neg = 0.125
+15. (Then again, he was                 ... pos = 0.875 	neg = 0.125
+16. ) The film gives an                 ... pos = 0.125 	neg = 0.0  
+17. ) And seeing Beatty                 ... pos = 0.125 	neg = 0.25 
+18. It's nice to see tha                ... pos = 0.0   	neg = 0.0  
+19. Second best is Olive                ... pos = 0.375 	neg = 0.125
+20. Halle Berry is fine,                ... pos = 0.0   	neg = 0.125
+21. Also popping up in t                ... pos = 2.5   	neg = 0.125
+22. And, this being a po                ... pos = 0.375 	neg = 0    
+23. The writing and dire                ... pos = 0.25  	neg = 0.0  
+24. The direction is ver                ... pos = 1.625 	neg = 0.125
+25. The script is funny,                ... pos = 1.25  	neg = 0.125
+26. They're not cringe i                ... pos = 0.0   	neg = 0.375
+27. The script makes man                ... pos = 0.5   	neg = 0.125
+28. Best of all, the fil                ... pos = 1.75  	neg = 0.25 
+29. There's also a great                ... pos = 0.375 	neg = 0.0  
+30. Bulworth is a film w                ... pos = 0.625 	neg = 0.125
+31. Perhaps it could be                 ... pos = 0.0   	neg = 1.0  
+32. In fact, there's ver                ... pos = 1.0   	neg = 0.75 
+33. Bulworth, then, is w                ... pos = 0.0   	neg = 0.125
+34. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+35. http://www.geocities                ... pos = 0.0   	neg = 0.0  
+36. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1840-1213 is Positive        ... pos = 20.625 	neg = 5.625
+Overall score of document
+Total Pos = 20.625
+Total Neg = 5.625
+---------------------------------------------------------------------------

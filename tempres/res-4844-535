@@ -1,0 +1,55 @@
+0. It's 1881, and the r                 ... pos = 0.0   	neg = 0.0  
+1. Unfortunately she ha                 ... pos = 0.125 	neg = 1.125
+2. Three royal guards h                 ... pos = 0.125 	neg = 0.125
+3. Accompanying them is                 ... pos = 0.125 	neg = 0.25 
+4. As Wang's group head                 ... pos = 0.5   	neg = 0.125
+5. Wang is seperated fr                 ... pos = 0.0   	neg = 0.125
+6. He forms an unlikely                 ... pos = 0.0   	neg = 0.0  
+7. Accompanying the two                 ... pos = 1.875 	neg = 0.75 
+8. Against them are a g                 ... pos = 0.25  	neg = 0.75 
+9. As everyone knows, J                 ... pos = 0.5   	neg = 0.0  
+10. Chan's films are pre                ... pos = 0.625 	neg = 0.25 
+11. I'm happy to say tha                ... pos = 0.625 	neg = 0.0  
+12. Does that mean this                 ... pos = 0.0   	neg = 0.125
+13. No, of course not.                  ... pos = 0.0   	neg = 0.25 
+14. A Jackie Chan movie                 ... pos = 0.0   	neg = 0.125
+15. "Shanghai Noon" Is r                ... pos = 0.375 	neg = 0.625
+16. Does that mean there                ... pos = 0.0   	neg = 0.25 
+17. Frankly, yes.                       ... pos = 0     	neg = 0.0  
+18. The subject of the t                ... pos = 1.75  	neg = 0.5  
+19. Two of the funniest                 ... pos = 1.375 	neg = 0.375
+20. Jackie Chan has been                ... pos = 0.0   	neg = 0.125
+21. At first I didn't be                ... pos = 1.125 	neg = 0.375
+22. However, after the r                ... pos = 0.375 	neg = 0.125
+23. While physical comed                ... pos = 0.375 	neg = 0.25 
+24. Watch his face in a                 ... pos = 0.625 	neg = 0.0  
+25. On the other hand, O                ... pos = 0.0   	neg = 0.125
+26. He is given some of                 ... pos = 0.375 	neg = 0.125
+27. We're men, we're not                ... pos = 0.0   	neg = 0    
+28. " Yet despite some g                ... pos = 0.75  	neg = 0.75 
+29. Chan and Wilson obvi                ... pos = 0.875 	neg = 0.25 
+30. Lucy Liu ("Play it t                ... pos = 0.25  	neg = 0.0  
+31. Xander Berkely ("Gat                ... pos = 2.0   	neg = 1.125
+32. Okay everyone, you'r                ... pos = 0.125 	neg = 0.125
+33. Thankfully there is                 ... pos = 0.0   	neg = 0.25 
+34. He also gets some in                ... pos = 0.5   	neg = 0.0  
+35. It's also a lot of f                ... pos = 0.25  	neg = 0.0  
+36. The movie's main fau                ... pos = 1.125 	neg = 0.25 
+37. Brandon Merrill's ch                ... pos = 0.875 	neg = 0.375
+38. Another problem is a                ... pos = 0.125 	neg = 1.375
+39. The movie ends with                 ... pos = 0.5   	neg = 0.125
+40. Also, watch for an a                ... pos = 0.125 	neg = 0    
+41. "Shanghai Noon" runs                ... pos = 0.0   	neg = 0.625
+42. I'd recommend the fi                ... pos = 0.375 	neg = 0.0  
+43. Any past movies you                 ... pos = 0.0   	neg = 0.125
+44. Send to: johnbeachem                ... pos = 0.375 	neg = 0.125
+45. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+46. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+47. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+48. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4844-535 is Positive         ... pos = 19.75 	neg = 13.5 
+Overall score of document
+Total Pos = 19.75
+Total Neg = 13.5
+---------------------------------------------------------------------------

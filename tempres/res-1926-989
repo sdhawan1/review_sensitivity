@@ -1,0 +1,25 @@
+0. American Beauty, Sta                 ... pos = 1.0   	neg = 0.875
+1. At first glance Lest                 ... pos = 0.25  	neg = 0.0  
+2. His is the typical s                 ... pos = 0.375 	neg = 0.125
+3. But that's at first                  ... pos = 0.125 	neg = 0.0  
+4. The more we get to k                 ... pos = 0.375 	neg = 0.0  
+5. Every character in t                 ... pos = 0.875 	neg = 0.0  
+6. Lester himself is a                  ... pos = 0.5   	neg = 0.125
+7. He's one of the good                 ... pos = 0.75  	neg = 0.0  
+8. His wife, Carolyn, i                 ... pos = 0.0   	neg = 0.125
+9. She is the one who s                 ... pos = 0.0   	neg = 0.375
+10. She is determined to                ... pos = 0.5   	neg = 0.125
+11. Their daughter is on                ... pos = 0.625 	neg = 0.5  
+12. As Lester's life sta                ... pos = 1.0   	neg = 0.0  
+13. There are many subpl                ... pos = 0.5   	neg = 0.0  
+14. The neighbors are an                ... pos = 0.5   	neg = 0.125
+15. The male couple who                 ... pos = 0.625 	neg = 0.0  
+16. It is an exceptional                ... pos = 0.375 	neg = 0.125
+17. Now that I know what                ... pos = 0.0   	neg = 0.125
+18. It deserves an A for                ... pos = 0.875 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1926-989 is Positive         ... pos = 9.25  	neg = 2.625
+Overall score of document
+Total Pos = 9.25
+Total Neg = 2.625
+---------------------------------------------------------------------------

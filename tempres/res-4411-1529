@@ -1,0 +1,27 @@
+0. The scene at the end                 ... pos = 0.5   	neg = 0.0  
+1. Unfortunately, the c                 ... pos = 0.375 	neg = 0.875
+2. From the surface `Pa                 ... pos = 0.5   	neg = 0.375
+3. It's a story about a                 ... pos = 0.375 	neg = 0.0  
+4. When the film opens,                 ... pos = 0.25  	neg = 0.125
+5. In a few scenes, str                 ... pos = 0.875 	neg = 0.0  
+6. So he checks himself                 ... pos = 0.375 	neg = 0.0  
+7. Right from the start                 ... pos = 0.125 	neg = 0.0  
+8. He continuously brea                 ... pos = 0.5   	neg = 0    
+9. Shortly after joinin                 ... pos = 0.75  	neg = 0.25 
+10. They, along with Pat                ... pos = 0.25  	neg = 0.25 
+11. Once the Dean catche                ... pos = 0.0   	neg = 0.0  
+12. Patch, like what any                ... pos = 0.5   	neg = 0.0  
+13. It's here where the                 ... pos = 0.0   	neg = 0.0  
+14. I have never seen a                 ... pos = 0.0   	neg = 0.25 
+15. It seems more like a                ... pos = 0.5   	neg = 0.125
+16. Considering it runs                 ... pos = 1.0   	neg = 0.625
+17. Not to mention the f                ... pos = 0.0   	neg = 0.875
+18. Robin Williams saves                ... pos = 0.75  	neg = 0.25 
+19. But those moments ar                ... pos = 0.5   	neg = 0.125
+20. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4411-1529 is Positive        ... pos = 8.125 	neg = 4.125
+Overall score of document
+Total Pos = 8.125
+Total Neg = 4.125
+---------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+0. Bill Paxton, Billy B                 ... pos = 0.375 	neg = 0.0  
+1. The hype for this mo                 ... pos = 0.125 	neg = 0.375
+2. The all star cast is                 ... pos = 0.125 	neg = 0.125
+3. Bill Paxton plays Ha                 ... pos = 0.625 	neg = 0.0  
+4. Bridget Fonda plays                  ... pos = 0.0   	neg = 0.0  
+5. Sarah is pregnant, a                 ... pos = 0.75  	neg = 0.125
+6. Hank and his brother                 ... pos = 0.375 	neg = 0.0  
+7. The plan is simple.                  ... pos = 0.0   	neg = 0.125
+8. Hank will keep the m                 ... pos = 0.25  	neg = 0.625
+9. Hank must confront S                 ... pos = 0.375 	neg = 0.5  
+10. The money is taken c                ... pos = 0.0   	neg = 0.5  
+11. Hank has to be espec                ... pos = 0.625 	neg = 0.125
+12. He is even good frie                ... pos = 2.0   	neg = 0.125
+13. A Simple Plan consis                ... pos = 0.125 	neg = 0.25 
+14. The characters are t                ... pos = 1.125 	neg = 0.25 
+15. The film is much lik                ... pos = 0.375 	neg = 1.0  
+16. I almost found mysel                ... pos = 0.0   	neg = 0.0  
+17. The characters besid                ... pos = 1.125 	neg = 0.375
+18. There are two key po                ... pos = 1.25  	neg = 0.0  
+19. Although the charact                ... pos = 0.875 	neg = 0.625
+20. The actors got you t                ... pos = 0.0   	neg = 0.125
+21. The other thing that                ... pos = 0.5   	neg = 0.25 
+22. The music and settin                ... pos = 0.25  	neg = 0.0  
+23. I thought the isolat                ... pos = 0.0   	neg = 0.125
+24. A Simple Plan keeps                 ... pos = 0.0   	neg = 0.0  
+25. Some of the unnecess                ... pos = 0.0   	neg = 0.375
+26. Bridget Fonda and Bi                ... pos = 0.0   	neg = 0.0  
+27. Bill Paxton plays th                ... pos = 1.125 	neg = 0.0  
+28. The actors in A Simp                ... pos = 0.0   	neg = 0.0  
+29. They let you feel th                ... pos = 0.375 	neg = 0.125
+30. The Bottom Line- The                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2400-864 is Positive         ... pos = 12.75 	neg = 6.125
+Overall score of document
+Total Pos = 12.75
+Total Neg = 6.125
+---------------------------------------------------------------------------

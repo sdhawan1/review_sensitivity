@@ -1,0 +1,28 @@
+0. Release Date: June 1                 ... pos = 0.25  	neg = 0.0  
+1. Wong, Harvey Fierste                 ... pos = 0.5   	neg = 0.125
+2. Although those last                  ... pos = 0.0   	neg = 0.25 
+3. Not only that, but a                 ... pos = 0.5   	neg = 0.125
+4. And while this one i                 ... pos = 1.0   	neg = 0.125
+5. Disney's animated fi                 ... pos = 0.75  	neg = 0.0  
+6. In addition to the e                 ... pos = 0.125 	neg = 0.125
+7. They've done this th                 ... pos = 1.0   	neg = 0.125
+8. From the opening sce                 ... pos = 1.375 	neg = 0.125
+9. The animation qualit                 ... pos = 0.75  	neg = 0.375
+10. Early on it was made                ... pos = 0.0   	neg = 0.25 
+11. And indeed it's not,                ... pos = 0.25  	neg = 0.875
+12. She does this, of co                ... pos = 0.5   	neg = 0.0  
+13. Along for the ride i                ... pos = 0.0   	neg = 0.125
+14. Named Mushu and voic                ... pos = 0.375 	neg = 0    
+15. Murphy's also one of                ... pos = 0.0   	neg = 0.0  
+16. The lack of familiar                ... pos = 0.875 	neg = 0.25 
+17. That film sports the                ... pos = 0.625 	neg = 0.125
+18. Normally something D                ... pos = 1.0   	neg = 0.125
+19. Up to this point, th                ... pos = 0.125 	neg = 0.375
+20. But it won't be long                ... pos = 0.125 	neg = 0.625
+21. FINAL AWARD FOR "MUL                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5034-700 is Positive         ... pos = 11.375 	neg = 4.125
+Overall score of document
+Total Pos = 11.375
+Total Neg = 4.125
+---------------------------------------------------------------------------

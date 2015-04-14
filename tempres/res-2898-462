@@ -1,0 +1,26 @@
+0. Tarsem is a successf                 ... pos = 0.75  	neg = 0.125
+1. You'd think "Singh"                  ... pos = 0.0   	neg = 1.0  
+2. )  But I digress....                 ... pos = 0.75  	neg = 0.625
+3. And at times it look                 ... pos = 1.75  	neg = 0.375
+4. The opening, with Je                 ... pos = 1.25  	neg = 0.125
+5. She is at the  time                  ... pos = 1.0   	neg = 0.5  
+6. All right, here's th                 ... pos = 0.125 	neg = 0.75 
+7. The science  is remi                 ... pos = 0.0   	neg = 0.75 
+8. Things aren't so bad                 ... pos = 0.0   	neg = 3.0  
+9. Singh cares little e                 ... pos = 0.25  	neg = 0.375
+10. He has stocked  his                 ... pos = 0.375 	neg = 2.75 
+11. Ultimately, Singh is                ... pos = 0.0   	neg = 0.125
+12. A recurring image of                ... pos = 0.0   	neg = 0.25 
+13. If you like shots of                ... pos = 0.5   	neg = 0.0  
+14. Mommy!                              ... pos = 0     	neg = 0    
+15. Help!                               ... pos = 0     	neg = 0    
+16. " as the  water leve                ... pos = 0.375 	neg = 0.125
+17. If you're fond of di                ... pos = 1.0   	neg = 0.625
+18. If you're a fan of c                ... pos = 0.875 	neg = 0.375
+19. Something's bound to                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2898-462 is Negative         ... pos = 9.125 	neg = 11.875
+Overall score of document
+Total Pos = 9.125
+Total Neg = 11.875
+---------------------------------------------------------------------------

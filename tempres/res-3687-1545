@@ -1,0 +1,24 @@
+0. starring Christian B                 ... pos = 0.125 	neg = 0.625
+1. He works at the pres                 ... pos = 0.0   	neg = 0.125
+2. What's a man who has                 ... pos = 0.0   	neg = 0.0  
+3. Murder, he wrote.                    ... pos = 0.0   	neg = 0.0  
+4. Of course we knew th                 ... pos = 0.0   	neg = 0.5  
+5. Unfortunately, direc                 ... pos = 0.0   	neg = 0.875
+6. Such neutering was p                 ... pos = 1.625 	neg = 1.25 
+7. But other changes ar                 ... pos = 0.375 	neg = 1.125
+8. The script's new, Fi                 ... pos = 0.375 	neg = 0.5  
+9. " They've also homog                 ... pos = 0.875 	neg = 0.0  
+10. (I recall only one i                ... pos = 0.0   	neg = 0.0  
+11. ). I normally don't                 ... pos = 0.25  	neg = 0.0  
+12. The only reason to s                ... pos = 0.0   	neg = 0.5  
+13. Harron's American Ps                ... pos = 1.625 	neg = 0.625
+14. (Or, at least, Ellis                ... pos = 0.0   	neg = 0.0  
+15. ). The one great, ar                ... pos = 0.375 	neg = 0.125
+16. ___ BY THE WAY... Be                ... pos = 0.25  	neg = 0.375
+17. Harron was forced to                ... pos = 1.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-3687-1545 is Negative        ... pos = 6.875 	neg = 7.25 
+Overall score of document
+Total Pos = 6.875
+Total Neg = 7.25
+---------------------------------------------------------------------------

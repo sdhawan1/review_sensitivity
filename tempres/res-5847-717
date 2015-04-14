@@ -1,0 +1,47 @@
+0. THE TRUMAN SHOW (Par                 ... pos = 0.25  	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.0   	neg = 0.5  
+3. This is the world of                 ... pos = 0.125 	neg = 0.25 
+4. Truman Burbank (Jim                  ... pos = 0.0   	neg = 0.125
+5. He has a    pretty,                  ... pos = 1.5   	neg = 0.875
+6. Or so it would seem.                 ... pos = 0.125 	neg = 0.0  
+7. Bizarre, inexplicabl                 ... pos = 0.0   	neg = 0.75 
+8. A lighting fixture u                 ... pos = 0.0   	neg = 0.0  
+9. A rainstorm which gi                 ... pos = 0.375 	neg = 0.0  
+10. A radio broadcast ap                ... pos = 0.0   	neg = 0.125
+11. For the first time i                ... pos = 0.375 	neg = 0.25 
+12. THE TRUMAN SHOW, dir                ... pos = 0.5   	neg = 0.125
+13. Balancing drama with                ... pos = 0.75  	neg = 0.125
+14. In many ways, Mr. Ni                ... pos = 1.5   	neg = 0.0  
+15. Although the film's                 ... pos = 3.625 	neg = 0.25 
+16. Despite the multitud                ... pos = 2.625 	neg = 0    
+17. The tone achieved is                ... pos = 0.875 	neg = 0.5  
+18. The end    act of TH                ... pos = 0.5   	neg = 0.75 
+19. The System formula.                 ... pos = 0.0   	neg = 0.25 
+20. While the film is an                ... pos = 1.0   	neg = 0.125
+21. The device of myster                ... pos = 1.25  	neg = 0.0  
+22. There's not much of                 ... pos = 3.5   	neg = 0.0  
+23. In fact, although th                ... pos = 1.125 	neg = 0.625
+24. Still,    the scathi                ... pos = 1.25  	neg = 0.25 
+25. I've always believed                ... pos = 3.0   	neg = 1.5  
+26. Cheerfully going ove                ... pos = 0.875 	neg = 0.0  
+27. Ms. Linney is a deli                ... pos = 0.625 	neg = 0.125
+28. But it is Mr. Carrey                ... pos = 0.0   	neg = 0.125
+29. He may not have been                ... pos = 1.25  	neg = 1.5  
+30. In a commanding perf                ... pos = 4.625 	neg = 1.625
+31. It's almost poetic h                ... pos = 1.375 	neg = 0.875
+32. In addition to the f                ... pos = 2.875 	neg = 0.25 
+33. Technical credits ar                ... pos = 0.25  	neg = 0.0  
+34. While THE TRUMAN SHO                ... pos = 1.375 	neg = 0.125
+35. All the same, this i                ... pos = 0.875 	neg = 0.125
+36. The curious (and pos                ... pos = 1.5   	neg = 0.75 
+37. Perhaps the highest                 ... pos = 0.75  	neg = 0.375
+38. Perhaps we recognize                ... pos = 0.0   	neg = 0    
+39. -- Alex Fung (aw220@                ... pos = 0.375 	neg = 0.0  
+40. "      - Jennifer Ja                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5847-717 is Positive         ... pos = 41.25 	neg = 13.5 
+Overall score of document
+Total Pos = 41.25
+Total Neg = 13.5
+---------------------------------------------------------------------------

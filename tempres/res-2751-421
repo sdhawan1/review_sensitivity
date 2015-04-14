@@ -1,0 +1,33 @@
+0. "Bowfinger" is one o                 ... pos = 0.125 	neg = 0.25 
+1. Albert Brooks' recen                 ... pos = 0.375 	neg = 0.0  
+2. "Bowfinger", however                 ... pos = 0.375 	neg = 0.375
+3. Judging from my view                 ... pos = 0.0   	neg = 0.0  
+4. Bobby Bowfinger(Stev                 ... pos = 0.0   	neg = 0.25 
+5. His company, Bowfing                 ... pos = 0.0   	neg = 0.5  
+6. But, when a former s                 ... pos = 1.375 	neg = 0.0  
+7. When he pitches it t                 ... pos = 0.0   	neg = 0.0  
+8. (Robert Downey Jr.),                 ... pos = 0.125 	neg = 0.0  
+9. When Ramsey turns hi                 ... pos = 0.625 	neg = 0.0  
+10. It turns out that Ra                ... pos = 0.0   	neg = 0.375
+11. Bowfinger then holds                ... pos = 0.875 	neg = 0.0  
+12. Daisy is not quite a                ... pos = 0.625 	neg = 0.5  
+13. But Bowfinger's real                ... pos = 0.125 	neg = 0.5  
+14. From there, "Bowfing                ... pos = 0.0   	neg = 1.25 
+15. However, "Bowfinger"                ... pos = 0.625 	neg = 0.25 
+16. Being a Hollywood fi                ... pos = 0.25  	neg = 0.0  
+17. Most of Steve Martin                ... pos = 1.0   	neg = 0.25 
+18. Just as Bowfinger pr                ... pos = 0.375 	neg = 0.75 
+19. The acting, though,                 ... pos = 0.0   	neg = 0.125
+20. Heather Graham finds                ... pos = 0.75  	neg = 0.375
+21. Murphy has been skew                ... pos = 0.0   	neg = 0.375
+22. Frank Oz's direction                ... pos = 0.5   	neg = 0.25 
+23. "Bowfinger" is not t                ... pos = 0.125 	neg = 0.375
+24. If you would like a                 ... pos = 0.875 	neg = 0.125
+25. It has the wit, hear                ... pos = 0.25  	neg = 0.125
+26. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2751-421 is Positive         ... pos = 9.375 	neg = 7.125
+Overall score of document
+Total Pos = 9.375
+Total Neg = 7.125
+---------------------------------------------------------------------------

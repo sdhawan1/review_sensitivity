@@ -1,0 +1,37 @@
+0. SAVING PRIVATE RYAN                  ... pos = 0.375 	neg = 0.0  
+1. STARRING TOM HANKS,                  ... pos = 0.625 	neg = 0.125
+2. It may not be the gr                 ... pos = 1.875 	neg = 0.125
+3. Tom Hanks stars as a                 ... pos = 0.25  	neg = 0.125
+4. Action, drama and ev                 ... pos = 0.0   	neg = 0.0  
+5. After the disappoint                 ... pos = 1.0   	neg = 0.25 
+6. I'm not the war movi                 ... pos = 2.25  	neg = 0.875
+7. Tom Hanks is superb,                 ... pos = 1.5   	neg = 0.125
+8. This time, he plays                  ... pos = 0.25  	neg = 0.125
+9. Occasionally he over                 ... pos = 0.25  	neg = 0.125
+10. Edward Burns, lookin                ... pos = 1.0   	neg = 0.125
+11. Spielberg directs ve                ... pos = 0.75  	neg = 0.0  
+12. And what battle scen                ... pos = 0.0   	neg = 0    
+13. They're truly terrif                ... pos = 1.625 	neg = 0.0  
+14. The battle scenes ar                ... pos = 0.625 	neg = 0.125
+15. The gore and violenc                ... pos = 0.0   	neg = 0.0  
+16. This film is certain                ... pos = 0.25  	neg = 0.125
+17. Other factors help S                ... pos = 0.375 	neg = 0.125
+18. The cinematography i                ... pos = 1.875 	neg = 0.25 
+19. It is never intrusiv                ... pos = 0.625 	neg = 0.625
+20. But while they are t                ... pos = 1.5   	neg = 0.0  
+21. It is unusually flat                ... pos = 0.25  	neg = 0.625
+22. The film never reall                ... pos = 0.625 	neg = 0.0  
+23. This is not a major                 ... pos = 0.25  	neg = 0.25 
+24. Still, the script co                ... pos = 0.0   	neg = 0.125
+25. Thankfully, the acto                ... pos = 0.125 	neg = 0.0  
+26. Saving Private Ryan,                ... pos = 1.625 	neg = 0.625
+27. This film should be                 ... pos = 0.75  	neg = 0.125
+28. It really shouldn't                 ... pos = 0.125 	neg = 0.375
+29. Š1998 DAVID WILCOCK                ... pos = 0.0   	neg = 0.0  
+30. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-1213 is Positive        ... pos = 20.75 	neg = 5.375
+Overall score of document
+Total Pos = 20.75
+Total Neg = 5.375
+---------------------------------------------------------------------------

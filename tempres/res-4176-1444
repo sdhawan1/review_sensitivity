@@ -1,0 +1,63 @@
+0. Directed by Bobby Fa                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Mike C                 ... pos = 0.0   	neg = 0.0  
+2. Starring Jim Carrey,                 ... pos = 0     	neg = 0.0  
+3. Running time: 116 mi                 ... pos = 0     	neg = 0.0  
+4. Rated AA for coarse                  ... pos = 0.125 	neg = 0.0  
+5. Reviewed on June 28t                 ... pos = 0.0   	neg = 0.0  
+6. In a way, I have a l                 ... pos = 0.0   	neg = 0.0  
+7. I consider  myself,                  ... pos = 0.25  	neg = 0.0  
+8. I'm polite.                          ... pos = 0.5   	neg = 0    
+9. I do favors  without                 ... pos = 0.0   	neg = 0.0  
+10. I could count on one                ... pos = 0.875 	neg = 0.0  
+11. Sometimes, I'm proba                ... pos = 0.0   	neg = 0    
+12. I've often wondered                 ... pos = 0.0   	neg = 0.0  
+13. The new comedy "Me,                 ... pos = 1.0   	neg = 0.5  
+14. Charlie, played by J                ... pos = 0.25  	neg = 0.125
+15. The film  opens with                ... pos = 0.0   	neg = 0.0  
+16. On their wedding day                ... pos = 0.0   	neg = 0.25 
+17. Soon,  Layla and Sho                ... pos = 0.375 	neg = 0.125
+18. Outwardly oblivious,                ... pos = 0.75  	neg = 0.125
+19. Fast forward to the                 ... pos = 0.0   	neg = 0.0  
+20. Charlie is rearing t                ... pos = 0.0   	neg = 0.75 
+21. His "sons" (Anthony                 ... pos = 1.125 	neg = 0.0  
+22. But gullible Charlie                ... pos = 1.375 	neg = 0.5  
+23. There's more to the                 ... pos = 0.625 	neg = 0.375
+24. Or something.                       ... pos = 0     	neg = 0.0  
+25. Frankly, the specifi                ... pos = 0.875 	neg = 0.0  
+26. The point is just  t                ... pos = 0.375 	neg = 0.5  
+27. "Me, Myself & Irene"                ... pos = 0.0   	neg = 0.375
+28. So much of the set-u                ... pos = 0.25  	neg = 0.25 
+29. Imagine, for instanc                ... pos = 0.0   	neg = 0.625
+30. Few comedies can sus                ... pos = 0.25  	neg = 0.25 
+31. "Me, Myself &  Irene                ... pos = 0.0   	neg = 0.375
+32. There's also somethi                ... pos = 0.0   	neg = 0.25 
+33. Hank starts off as a                ... pos = 1.875 	neg = 1.0  
+34. However, Hank himsel                ... pos = 0.125 	neg = 0.125
+35. To work, Hank needs                 ... pos = 0.25  	neg = 1.0  
+36. There are also some                 ... pos = 0.25  	neg = 0.75 
+37. Or the inexplicable                 ... pos = 0.0   	neg = 1.125
+38. ". Fortunately, thin                ... pos = 0.5   	neg = 0.0  
+39. It is these scenes                  ... pos = 0.625 	neg = 0.125
+40. Carrey  also does a                 ... pos = 2.5   	neg = 0.75 
+41. His interaction with                ... pos = 0.375 	neg = 0.25 
+42. ". Zellweger is also                ... pos = 1.125 	neg = 0.25 
+43. But Irene is a poor                 ... pos = 1.25  	neg = 0.625
+44. There has been some                 ... pos = 0.125 	neg = 0.125
+45. Although the term "s                ... pos = 0.0   	neg = 1.0  
+46. The purported "contr                ... pos = 0.125 	neg = 0.125
+47. Indeed, I was surpri                ... pos = 0.125 	neg = 0.5  
+48. There is a theme run                ... pos = 0.375 	neg = 0.875
+49. This is true not  ju                ... pos = 0.5   	neg = 0.625
+50. "Me, Myself & Irene"                ... pos = 0.375 	neg = 0.25 
+51. I had great hopes fo                ... pos = 0.5   	neg = 0.25 
+52. "Me, Myself &  Irene                ... pos = 0.375 	neg = 0.875
+53. But it is very enter                ... pos = 1.25  	neg = 0.375
+54. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+55. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+56. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4176-1444 is Positive        ... pos = 22.125 	neg = 16.375
+Overall score of document
+Total Pos = 22.125
+Total Neg = 16.375
+---------------------------------------------------------------------------

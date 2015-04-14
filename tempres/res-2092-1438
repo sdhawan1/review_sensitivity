@@ -1,0 +1,38 @@
+0. Call it "Spike Lee's                 ... pos = 0.125 	neg = 0    
+1. "  Or, rather, of Je                 ... pos = 0.5   	neg = 0.0  
+2. This Jesus, as the f                 ... pos = 0.875 	neg = 0.25 
+3. Into this complex mi                 ... pos = 0.75  	neg = 0.75 
+4. This man is    Jesus                 ... pos = 0.0   	neg = 0.125
+5. Jake's out of prison                 ... pos = 0.5   	neg = 0.25 
+6. The governor of New                  ... pos = 0.875 	neg = 0.75 
+7. Jake accepts the off                 ... pos = 1.25  	neg = 0.125
+8. We quickly learn tha                 ... pos = 0.75  	neg = 0.0  
+9. This, in a nutshell,                 ... pos = 0.0   	neg = 0.125
+10. It's    a little con                ... pos = 0.75  	neg = 0.625
+11. We're immediately su                ... pos = 1.125 	neg = 0.0  
+12. He shows us Jake's c                ... pos = 1.375 	neg = 0.25 
+13. (Washington's    str                ... pos = 1.0   	neg = 0.125
+14. )  Lee    also tosse                ... pos = 0.0   	neg = 0.0  
+15. The film's plot isn'                ... pos = 1.125 	neg = 0.125
+16. I'm not sure that's                 ... pos = 1.875 	neg = 0.25 
+17. It    isn't.                        ... pos = 0.0   	neg = 0    
+18. The game referred to                ... pos = 0.625 	neg = 0.375
+19. The film raises the                 ... pos = 1.375 	neg = 0.625
+20. But    Lee's script                 ... pos = 1.75  	neg = 0.25 
+21. He    drives this po                ... pos = 1.0   	neg = 0.125
+22. Jake    buys Dakota'                ... pos = 0.625 	neg = 0.0  
+23. There are, on the ot                ... pos = 0.75  	neg = 0.125
+24. Washington's perform                ... pos = 2.0   	neg = 0.25 
+25. And    Lee does make                ... pos = 0.25  	neg = 1.25 
+26. But the most serious                ... pos = 0.0   	neg = 0.25 
+27. The unfortunate fact                ... pos = 0.5   	neg = 0.125
+28. HE GOT GAME    is a                 ... pos = 0.25  	neg = 0.25 
+29. GAME has a much more                ... pos = 0.125 	neg = 0    
+30. It dissolves on    t                ... pos = 0.75  	neg = 0.125
+31. No relationship is u                ... pos = 0.25  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-2092-1438 is Positive        ... pos = 23.125 	neg = 8.0  
+Overall score of document
+Total Pos = 23.125
+Total Neg = 8.0
+---------------------------------------------------------------------------

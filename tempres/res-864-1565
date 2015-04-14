@@ -1,0 +1,51 @@
+0. The Hurricane (1999)                 ... pos = 1.375 	neg = 1.125
+1. After all, I respect                 ... pos = 0.75  	neg = 0.0  
+2. The Story (WARNING:                  ... pos = 0.5   	neg = 0.625
+3. This is  his story..                 ... pos = 0.0   	neg = 0.25 
+4. By a strange twist o                 ... pos = 1.125 	neg = 0.125
+5. But not  without a f                 ... pos = 0.375 	neg = 0.75 
+6. Vincent Della Pesca                  ... pos = 0.0   	neg = 0.375
+7. The Upshot (WARNING:                 ... pos = 0.75  	neg = 0.125
+8. Washington,  we've s                 ... pos = 0.5   	neg = 0.0  
+9. Hedaya is one of tho                 ... pos = 1.0   	neg = 0.125
+10. But Shannon really i                ... pos = 0.5   	neg = 0.0  
+11. For some reason, I k                ... pos = 0.25  	neg = 0.0  
+12. But beyond  that, Sh                ... pos = 1.75  	neg = 0.0  
+13. Notice that I'm not                 ... pos = 0.875 	neg = 0    
+14. The story itself, th                ... pos = 0.0   	neg = 0.0  
+15. Though of course  Ru                ... pos = 0.0   	neg = 0.125
+16. I also got somewhat                 ... pos = 1.5   	neg = 0.125
+17. And one has to wonde                ... pos = 0.0   	neg = 0.125
+18. Something else bothe                ... pos = 0.0   	neg = 0.375
+19. Unfortunately, sayin                ... pos = 0.125 	neg = 1.625
+20. Still, in spite of i                ... pos = 1.125 	neg = 0.625
+21. Besides the performa                ... pos = 0.0   	neg = 0.25 
+22. Liev Schreiber was a                ... pos = 0.5   	neg = 0.875
+23. Unger and Hannah wer                ... pos = 0.25  	neg = 0.75 
+24. And  what a wasted o                ... pos = 0.75  	neg = 0.75 
+25. But still, not as li                ... pos = 0.0   	neg = 0.25 
+26. Maybe I'm  the only                 ... pos = 0.0   	neg = 0.0  
+27. Played as an absolut                ... pos = 0.0   	neg = 0.125
+28. But maybe I'm too pi                ... pos = 0.125 	neg = 0.25 
+29. The use of period mu                ... pos = 1.125 	neg = 0.125
+30. " Dylan's song, "Hur                ... pos = 0.0   	neg = 0.75 
+31. Their involvement (o                ... pos = 0.25  	neg = 1.75 
+32. The "Black Factor" [                ... pos = 0.375 	neg = 0.25 
+33. And let's go one ste                ... pos = 0.0   	neg = 0.875
+34. Guilty White Liberal                ... pos = 2.0   	neg = 0.75 
+35. Well, maybe.                        ... pos = 0.0   	neg = 0.0  
+36. And maybe the three                 ... pos = 1.5   	neg = 2.25 
+37. Maybe that's the way                ... pos = 0.0   	neg = 0.0  
+38. To those "some", ask                ... pos = 0.0   	neg = 0.125
+39. And as for the fello                ... pos = 0.0   	neg = 1.5  
+40. Pardon my French, bu                ... pos = 0.0   	neg = 0.0  
+41. Bammer's Bottom Line                ... pos = 0.25  	neg = 0.0  
+42. the Canadians were i                ... pos = 0.125 	neg = 0.125
+43. Yeah,  right.                       ... pos = 0.0   	neg = 0.0  
+44. ), featuring bravura                ... pos = 0.75  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-864-1565 is Positive         ... pos = 20.5  	neg = 18.75
+Overall score of document
+Total Pos = 20.5
+Total Neg = 18.75
+---------------------------------------------------------------------------

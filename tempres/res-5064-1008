@@ -1,0 +1,64 @@
+0. ***1/2 (out of 4) BR                 ... pos = 1.75  	neg = 0.75 
+1. From the beginning,                  ... pos = 0.0   	neg = 0.0  
+2. Other reviewers have                 ... pos = 1.0   	neg = 0.625
+3. The story is similar                 ... pos = 1.125 	neg = 0.25 
+4. But BREAKDOWN is not                 ... pos = 0.0   	neg = 0.125
+5. Jeff and Amy Taylor                  ... pos = 0.25  	neg = 0.0  
+6. They make it as far                  ... pos = 0.0   	neg = 0.0  
+7. Amy catches a ride t                 ... pos = 0.25  	neg = 0.25 
+8. A bit of luck leads                  ... pos = 0.5   	neg = 0.25 
+9. He stops the truck a                 ... pos = 0.375 	neg = 0.0  
+10. Another bit of luck                 ... pos = 0.0   	neg = 0.25 
+11. The cop listens to e                ... pos = 0.25  	neg = 0.5  
+12. Jeff, now confused,                 ... pos = 0.5   	neg = 0.0  
+13. But nobody's talking                ... pos = 0     	neg = 0.0  
+14. He's about to call t                ... pos = 0.0   	neg = 0.0  
+15. Jeff follows the tip                ... pos = 0.0   	neg = 0.0  
+16. Kurt Russell gives a                ... pos = 0.0   	neg = 0    
+17. His performance, com                ... pos = 0.25  	neg = 0.25 
+18. When he is afraid, w                ... pos = 0.375 	neg = 0.125
+19. When he gets the upp                ... pos = 0.25  	neg = 0.25 
+20. Also, Russell comes                 ... pos = 0.0   	neg = 0.625
+21. That is to say, he d                ... pos = 0.5   	neg = 0.125
+22. Though there are act                ... pos = 0.25  	neg = 0.125
+23. Russell realizes thi                ... pos = 0.125 	neg = 0.0  
+24. But since it came up                ... pos = 0.375 	neg = 0.0  
+25. One sequence involve                ... pos = 0.25  	neg = 0.0  
+26. The sequence is genu                ... pos = 1.125 	neg = 0.75 
+27. Another sequence inv                ... pos = 0.25  	neg = 0.125
+28. The driving stunts a                ... pos = 0.989 	neg = 1.5  
+29. The action scenes bo                ... pos = 0.0   	neg = 0.375
+30. They say that the mo                ... pos = 0.0   	neg = 0.25 
+31. Comparing it to THE                 ... pos = 0.25  	neg = 0    
+32. But as I said, BREAK                ... pos = 0.0   	neg = 0.125
+33. THE VANISHING has a                 ... pos = 0.125 	neg = 0    
+34. BREAKDOWN has an exp                ... pos = 0.0   	neg = 0    
+35. Perhaps this is the                 ... pos = 0.25  	neg = 0.125
+36. I like both, but nei                ... pos = 0.0   	neg = 0.5  
+37. A few other details                 ... pos = 0.0   	neg = 0.0  
+38. First, the villains                 ... pos = 0.375 	neg = 0.625
+39. They have their own                 ... pos = 0.125 	neg = 0.0  
+40. What appears to be c                ... pos = 0.5   	neg = 0.5  
+41. Second, the last rea                ... pos = 0.0   	neg = 0.125
+42. There is nothing any                ... pos = 0.0   	neg = 0.375
+43. There is some ambien                ... pos = 0.375 	neg = 0.125
+44. It's a nice rest aft                ... pos = 0.0   	neg = 0.125
+45. There are a few flaw                ... pos = 0.25  	neg = 0.0  
+46. They certainly don't                ... pos = 0.875 	neg = 0.0  
+47. For example, the kid                ... pos = 0.125 	neg = 0.0  
+48. The right action on                 ... pos = 0.375 	neg = 0.0  
+49. The reason for their                ... pos = 0.0   	neg = 0.125
+50. [ON SECOND THOUGHT,                 ... pos = 0.125 	neg = 0.875
+51. THAT'S ONE LESS FLAW                ... pos = 0.125 	neg = 0.0  
+52. ] . Also, the kidnap                ... pos = 0.0   	neg = 0.375
+53. Someone else aptly c                ... pos = 0.125 	neg = 0.0  
+54. Also, their operatio                ... pos = 0.125 	neg = 0.0  
+55. The risks didn't see                ... pos = 0.75  	neg = 0.25 
+56. These are minor flaw                ... pos = 0.375 	neg = 0.0  
+57. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5064-1008 is Positive        ... pos = 15.989 	neg = 11.75
+Overall score of document
+Total Pos = 15.989
+Total Neg = 11.75
+---------------------------------------------------------------------------

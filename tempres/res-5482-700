@@ -1,0 +1,33 @@
+0. Release Date: March                  ... pos = 0.375 	neg = 0.125
+1. MARSHALS is the stor                 ... pos = 0.0   	neg = 0.125
+2. " Makes sense, doesn                 ... pos = 0.0   	neg = 0    
+3. And yet so many peop                 ... pos = 0.25  	neg = 0.0  
+4. MARSHALS to convey t                 ... pos = 0.0   	neg = 0.125
+5. Although Tommy Lee J                 ... pos = 1.125 	neg = 0.125
+6. With little or no su                 ... pos = 1.875 	neg = 1.375
+7. MARSHALS have going                  ... pos = 0.0   	neg = 0.0  
+8. There are reasons th                 ... pos = 0.25  	neg = 0.125
+9. Tommy Lee Jones, as                  ... pos = 2.0   	neg = 0.125
+10. Gerard's team, in pa                ... pos = 0.75  	neg = 0.125
+11. Their constant bante                ... pos = 0.0   	neg = 0.125
+12. Wesley Snipes, playi                ... pos = 1.125 	neg = 0.0  
+13. Robert Downey Jr., w                ... pos = 1.875 	neg = 0.875
+14. The plot which encom                ... pos = 1.375 	neg = 0.75 
+15. A tough breed, they                 ... pos = 0.25  	neg = 0.25 
+16. The redneck threaten                ... pos = 0.5   	neg = 0.75 
+17. Unfortunately, she's                ... pos = 0.0   	neg = 0.875
+18. Everything is fine u                ... pos = 0.0   	neg = 0.375
+19. Sheridan escapes, an                ... pos = 0.0   	neg = 0.125
+20. This time, though, J                ... pos = 0.0   	neg = 0.25 
+21. The plot has amazing                ... pos = 0.125 	neg = 0.625
+22. The way that Directo                ... pos = 0.25  	neg = 0.375
+23. During the 133-minut                ... pos = 0.75  	neg = 0.375
+24. This could have been                ... pos = 0.375 	neg = 0.25 
+25. FINAL AWARD FOR "U.S                ... pos = 0.5   	neg = 0    
+26. MARSHALS": 2.0 stars                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5482-700 is Positive         ... pos = 13.75 	neg = 8.25 
+Overall score of document
+Total Pos = 13.75
+Total Neg = 8.25
+---------------------------------------------------------------------------

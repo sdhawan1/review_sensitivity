@@ -1,0 +1,40 @@
+0. The events of Ice St                 ... pos = 0.25  	neg = 0.5  
+1. The title is both a                  ... pos = 0.875 	neg = 0.125
+2. Ang Lee (director of                 ... pos = 0.875 	neg = 0.0  
+3. The characters all h                 ... pos = 1.125 	neg = 0.0  
+4. Stellar performances                 ... pos = 0.125 	neg = 0.375
+5. The main characters                  ... pos = 1.125 	neg = 0.0  
+6. All of them, in one                  ... pos = 0.0   	neg = 0.125
+7. The children, rangin                 ... pos = 0.625 	neg = 0.125
+8. We come to understan                 ... pos = 0.75  	neg = 0.25 
+9. While the folks are                  ... pos = 0.5   	neg = 0.625
+10. Though the parents o                ... pos = 0.75  	neg = 0.0  
+11. It left me with a ve                ... pos = 0.625 	neg = 0.0  
+12. The parents, who obv                ... pos = 1.125 	neg = 0.125
+13. In one scene, Ben (K                ... pos = 0.125 	neg = 0.0  
+14. There is an icy chil                ... pos = 1.0   	neg = 0.125
+15. The children have no                ... pos = 0.0   	neg = 0.5  
+16. The adults all have                 ... pos = 0.0   	neg = 0.25 
+17. The film is coated w                ... pos = 0.875 	neg = 0.125
+18. The interlacing of t                ... pos = 0.0   	neg = 0.625
+19. Any warm or cozy sho                ... pos = 0.25  	neg = 0.25 
+20. Comfort between char                ... pos = 0.875 	neg = 0.125
+21. No one in the film i                ... pos = 0.375 	neg = 0.125
+22. In her attempt at ex                ... pos = 0.5   	neg = 1.75 
+23. After sex with her a                ... pos = 0.25  	neg = 0.375
+24. Christina Ricci give                ... pos = 0.875 	neg = 0.0  
+25. She plays the daught                ... pos = 0.0   	neg = 0.0  
+26. She is always in con                ... pos = 0.625 	neg = 0.25 
+27. There are a number o                ... pos = 0.25  	neg = 1.0  
+28. One may want to comp                ... pos = 1.375 	neg = 0.125
+29. But though there are                ... pos = 1.625 	neg = 0.625
+30. Ordinary People succ                ... pos = 0.75  	neg = 0.0  
+31. Ice Storm never make                ... pos = 0.0   	neg = 0.5  
+32. It is a dreary but m                ... pos = 0.375 	neg = 0.5  
+33. 3 1/2 out of 4 stars                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5697-380 is Positive         ... pos = 18.875 	neg = 9.5  
+Overall score of document
+Total Pos = 18.875
+Total Neg = 9.5
+---------------------------------------------------------------------------

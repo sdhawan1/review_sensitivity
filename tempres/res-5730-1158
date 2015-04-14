@@ -1,0 +1,48 @@
+0. give me a buzz on th                 ... pos = 1.0   	neg = 0.125
+1. And if you can enter                 ... pos = 0.125 	neg = 0.0  
+2. Roberto Benigni's It                 ... pos = 1.875 	neg = 0.125
+3. ), but it's just a n                 ... pos = 0.375 	neg = 0.0  
+4. The brilliance and s                 ... pos = 2.75  	neg = 0.125
+5. ). As writer, direct                 ... pos = 2.5   	neg = 0.0  
+6. He's also written a                  ... pos = 0.125 	neg = 0.0  
+7. The first half of th                 ... pos = 1.0   	neg = 0.125
+8. Also working as a wa                 ... pos = 0.125 	neg = 0.0  
+9. The second half of t                 ... pos = 0.5   	neg = 0.125
+10. Guido and Dora consu                ... pos = 0.625 	neg = 0.125
+11. After years of marit                ... pos = 0.125 	neg = 0.125
+12. She asks the Nazis t                ... pos = 0.125 	neg = 0.25 
+13. Although the family                 ... pos = 1.125 	neg = 0.25 
+14. The boy doesn't unde                ... pos = 0.875 	neg = 0.25 
+15. He tells Giosue that                ... pos = 0.25  	neg = 0.125
+16. He makes up rules th                ... pos = 0.125 	neg = 0.0  
+17. His antics are funny                ... pos = 1.75  	neg = 0.5  
+18. Ah, ignorance is bli                ... pos = 0.5   	neg = 0.125
+19. If only everyone who                ... pos = 0.25  	neg = 1.5  
+20. Such a hateful displ                ... pos = 0.625 	neg = 2.167
+21. However, Benigni doe                ... pos = 0.5   	neg = 0.875
+22. He keeps our spirits                ... pos = 0.25  	neg = 0.0  
+23. I can't remember smi                ... pos = 0.125 	neg = 0.625
+24. I was both the boy A                ... pos = 0.25  	neg = 0.125
+25. I was scared for the                ... pos = 1.0   	neg = 1.0  
+26. If all parents lied                 ... pos = 1.5   	neg = 0.125
+27. Yes, I'm preaching,                 ... pos = 0.375 	neg = 0.875
+28. So the Jeep stalls o                ... pos = 0.0   	neg = 0.0  
+29. It's easier than dra                ... pos = 0.375 	neg = 1.0  
+30. Sorry, no more preac                ... pos = 0.125 	neg = 1.0  
+31. He occasionally evok                ... pos = 0.75  	neg = 0.125
+32. As director, he uses                ... pos = 1.5   	neg = 0.375
+33. As lead actor, he is                ... pos = 1.125 	neg = 0.25 
+34. Still, his character                ... pos = 1.0   	neg = 0.125
+35. The film's conclusio                ... pos = 0.625 	neg = 0.125
+36. These characters are                ... pos = 1.75  	neg = 0    
+37. The film builds up a                ... pos = 0.0   	neg = 0.0  
+38. It's not quite perfe                ... pos = 0.375 	neg = 0.25 
+39. Once they draw you i                ... pos = 0.0   	neg = 0.25 
+40. After all, if Guido                 ... pos = 0.25  	neg = 0.125
+41. USELESS TRIVIA--I'd                 ... pos = 0.125 	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-5730-1158 is Positive        ... pos = 28.75 	neg = 14.792
+Overall score of document
+Total Pos = 28.75
+Total Neg = 14.792
+---------------------------------------------------------------------------

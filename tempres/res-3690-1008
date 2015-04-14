@@ -1,0 +1,45 @@
+0. ***1/2 (out of 4) RU                 ... pos = 0.25  	neg = 0.125
+1. There is never a gap                 ... pos = 0.0   	neg = 0.125
+2. It's all rhythm, sty                 ... pos = 0.0   	neg = 0.0  
+3. There's not much you                 ... pos = 0.125 	neg = 0.0  
+4. Lola (Franka Potente                 ... pos = 0.0   	neg = 0.0  
+5. The crime they were                  ... pos = 0.875 	neg = 0.25 
+6. Manni had to take th                 ... pos = 0.0   	neg = 0.0  
+7. When the cops boarde                 ... pos = 0.0   	neg = 0.875
+8. Now some bum has the                 ... pos = 0.0   	neg = 0.0  
+9. He knows for sure he                 ... pos = 0.25  	neg = 0.0  
+10. Lola tells Manni to                 ... pos = 0.25  	neg = 0.0  
+11. She'll be there ASAP                ... pos = 0.0   	neg = 0.125
+12. She spends the next                 ... pos = 0.0   	neg = 0.0  
+13. She arrives at Manni                ... pos = 0.0   	neg = 0.25 
+14. Manni walks into a g                ... pos = 0.0   	neg = 0.0  
+15. The robbery goes bad                ... pos = 0.0   	neg = 0.875
+16. Lola screams "STOP!                 ... pos = 0     	neg = 0.0  
+17. " and the movie star                ... pos = 0.0   	neg = 0.0  
+18. Lola runs through tw                ... pos = 0.0   	neg = 0.0  
+19. The differences are                 ... pos = 1.0   	neg = 0    
+20. Are the scenarios al                ... pos = 0.25  	neg = 0.0  
+21. Are they imagined?                  ... pos = 0.25  	neg = 0    
+22. Are they three separ                ... pos = 0.25  	neg = 0    
+23. That question is nev                ... pos = 0.875 	neg = 0.25 
+24. It's all form becaus                ... pos = 0.0   	neg = 0.125
+25. It CAN come across a                ... pos = 0.0   	neg = 0.625
+26. But that's like sayi                ... pos = 0.25  	neg = 0.25 
+27. It's not that the pl                ... pos = 0.375 	neg = 0.25 
+28. It's all style becau                ... pos = 0.0   	neg = 0.0  
+29. Even WITHIN the fram                ... pos = 0.75  	neg = 0.75 
+30. It can come across a                ... pos = 0.0   	neg = 0.375
+31. I'm confident repeat                ... pos = 0.625 	neg = 0.0  
+32. Does it sound frustr                ... pos = 0.0   	neg = 0.0  
+33. Do you get annoyed a                ... pos = 0.25  	neg = 0.25 
+34. Then don't see it.                  ... pos = 0.0   	neg = 0.0  
+35. Does it sound intrig                ... pos = 0.25  	neg = 0    
+36. Do you get sucked in                ... pos = 0.375 	neg = 0.5  
+37. Then don't miss it.                 ... pos = 0.0   	neg = 0.0  
+38. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3690-1008 is Positive        ... pos = 7.25  	neg = 6.0  
+Overall score of document
+Total Pos = 7.25
+Total Neg = 6.0
+---------------------------------------------------------------------------

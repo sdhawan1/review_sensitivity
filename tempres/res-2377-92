@@ -1,0 +1,46 @@
+0. Seen on 17 February                  ... pos = 0.625 	neg = 0.375
+1. I viewed the exact o                 ... pos = 0.125 	neg = 0.0  
+2. Well-produced and th                 ... pos = 0.0   	neg = 0.625
+3. Just what we need at                 ... pos = 0.5   	neg = 0.0  
+4. To be fair, the movi                 ... pos = 0.0   	neg = 0.5  
+5. However, this well-k                 ... pos = 0.625 	neg = 1.0  
+6. The one openly gay c                 ... pos = 1.875 	neg = 0.125
+7. In this case, it inv                 ... pos = 0.5   	neg = 0.0  
+8. If he wins he gets t                 ... pos = 0.125 	neg = 0.25 
+9. The closet case is r                 ... pos = 0.5   	neg = 0.5  
+10. Hollywood, I am sure                ... pos = 0.5   	neg = 0.125
+11. Of course, doing som                ... pos = 0.375 	neg = 0.375
+12. But Hollywood is sti                ... pos = 0.25  	neg = 0.375
+13. I am not sure if thi                ... pos = 0.375 	neg = 0.25 
+14. The opening credits                 ... pos = 0.0   	neg = 0.125
+15. Within the first hal                ... pos = 0.625 	neg = 0.375
+16. " when Valmont menti                ... pos = 0.0   	neg = 0.0  
+17. " when Annette doesn                ... pos = 0.0   	neg = 0.0  
+18. Kathryn, the most ev                ... pos = 0.875 	neg = 0.875
+19. The gay character, B                ... pos = 1.375 	neg = 0.75 
+20. Some audience member                ... pos = 0.125 	neg = 0.5  
+21. Written and directed                ... pos = 0.0   	neg = 0.25 
+22. He ought to take a l                ... pos = 0.125 	neg = 0.5  
+23. (Gellar and Phillipp                ... pos = 0.875 	neg = 0.0  
+24. ). As stories go, it                ... pos = 2.0   	neg = 1.25 
+25. The milieu is the pr                ... pos = 0.125 	neg = 0.5  
+26. The "no expense spar                ... pos = 0.25  	neg = 0.75 
+27. Kathryn has been dum                ... pos = 1.125 	neg = 0.25 
+28. Going after Annette                 ... pos = 0.0   	neg = 0.625
+29. " (Who isn't?                       ... pos = 0.0   	neg = 0    
+30. ) Watching these two                ... pos = 0.375 	neg = 0.375
+31. Blair, the poor man'                ... pos = 0.5   	neg = 0.375
+32. Louise Fletcher (Nur                ... pos = 0.125 	neg = 0.625
+33. There is almost no r                ... pos = 0.75  	neg = 0.375
+34. You can rent *Valmon                ... pos = 0     	neg = 0.0  
+35. If you are a fan of                 ... pos = 0.5   	neg = 0.0  
+36. Gellar appears on Bu                ... pos = 0.25  	neg = 0.0  
+37. There is no reason t                ... pos = 0     	neg = 0.625
+38. In the case of Sony-                ... pos = 0.625 	neg = 0.667
+39. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2377-92 is Positive          ... pos = 17.0  	neg = 14.417
+Overall score of document
+Total Pos = 17.0
+Total Neg = 14.417
+---------------------------------------------------------------------------

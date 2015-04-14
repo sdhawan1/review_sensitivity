@@ -1,0 +1,37 @@
+0. USA.                                 ... pos = 0     	neg = 0.0  
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director - Brad Silb                 ... pos = 0.0   	neg = 0.75 
+3. Production Company -                 ... pos = 0.0   	neg = 0    
+4. Nicolas Cage (Seth),                 ... pos = 0.0   	neg = 0.625
+5. One angel, Seth, ach                 ... pos = 0.25  	neg = 0.0  
+6. He is drawn to Maggi                 ... pos = 0.75  	neg = 0.125
+7. Gradually the two fa                 ... pos = 1.0   	neg = 0.125
+8. Wim Wenders' `Wings                  ... pos = 0.0   	neg = 0.125
+9. It lacked anything a                 ... pos = 1.875 	neg = 0.375
+10. Now of course comes                 ... pos = 0.125 	neg = 0.875
+11. In `Wings' the roman                ... pos = 0.375 	neg = 0.875
+12. At which, one must a                ... pos = 0.625 	neg = 0.0  
+13. There are some passa                ... pos = 1.125 	neg = 0.0  
+14. " "She  will").                     ... pos = 0     	neg = 0    
+15. It is just that when                ... pos = 0.375 	neg = 0.125
+16. Director Silberling                 ... pos = 0.875 	neg = 0.0  
+17. And there are even m                ... pos = 0.75  	neg = 0.625
+18. And indeed it even t                ... pos = 1.5   	neg = 0.125
+19. So Close' before get                ... pos = 0.0   	neg = 0.0  
+20. But where Wenders ac                ... pos = 0.875 	neg = 0.125
+21. Silberling just cann                ... pos = 0.5   	neg = 0.0  
+22. One of the most haun                ... pos = 0.875 	neg = 0.125
+23. Silberling repeats i                ... pos = 0.375 	neg = 0.875
+24. And where the film r                ... pos = 0.0   	neg = 0.875
+25. Nicolas Cage is  app                ... pos = 0.625 	neg = 1.5  
+26. And most laughably                  ... pos = 0.875 	neg = 0.5  
+27. Equally Meg Ryan is                 ... pos = 0.25  	neg = 0.25 
+28. Ryan is a light come                ... pos = 1.0   	neg = 0.25 
+29. (And she is not exac                ... pos = 0.25  	neg = 2.125
+30. Between this absurd                 ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5757-108 is Positive         ... pos = 15.375 	neg = 11.5 
+Overall score of document
+Total Pos = 15.375
+Total Neg = 11.5
+---------------------------------------------------------------------------

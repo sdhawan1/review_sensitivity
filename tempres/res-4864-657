@@ -1,0 +1,54 @@
+0. DIRECTED BY: Chris C                 ... pos = 0.5   	neg = 0.125
+1. Runtime: USA:130  RE                 ... pos = 0.0   	neg = 0.25 
+2. Chris Columbus, the                  ... pos = 0.625 	neg = 0.0  
+3. Based on the short s                 ... pos = 0.625 	neg = 1.0  
+4. Starting in a not to                 ... pos = 0.0   	neg = 0.25 
+5. Soon this robot, cal                 ... pos = 0.875 	neg = 0.375
+6. Andrew is interested                 ... pos = 1.239 	neg = 0.125
+7. It shows out that be                 ... pos = 0.125 	neg = 0.0  
+8. This makes him uniqu                 ... pos = 0.625 	neg = 0.75 
+9. Then Mr.Martin decid                 ... pos = 0.0   	neg = 0.0  
+10. Soon Andrew wants to                ... pos = 0.875 	neg = 0    
+11. This film can be des                ... pos = 0.375 	neg = 0.125
+12. Ever since that film                ... pos = 0.5   	neg = 0.0  
+13. What makes us human?                ... pos = 0.0   	neg = 0    
+14. The thoughts?                       ... pos = 0     	neg = 0.625
+15. The emotions?                       ... pos = 0.625 	neg = 0    
+16. Is it possible to be                ... pos = 0.0   	neg = 0.125
+17. At what point can we                ... pos = 0.125 	neg = 0.0  
+18. These are very tough                ... pos = 0.75  	neg = 0.0  
+19. It is obvious that C                ... pos = 0.5   	neg = 0.125
+20. When you think about                ... pos = 0.25  	neg = 0.5  
+21. ", but tells a story                ... pos = 0.375 	neg = 0.125
+22. Andrew is so complex                ... pos = 1.125 	neg = 0.125
+23. In other words, it i                ... pos = 0.75  	neg = 0.125
+24. Further more, there                 ... pos = 0.625 	neg = 0.5  
+25. To this day no serio                ... pos = 0.0   	neg = 0.25 
+26. This has not been do                ... pos = 0.75  	neg = 0.25 
+27. Columbus is the firs                ... pos = 0.125 	neg = 0.125
+28. The result is, as yo                ... pos = 0.0   	neg = 2.625
+29. The world is simply                 ... pos = 0.0   	neg = 0.125
+30. Neither the society,                ... pos = 0.125 	neg = 0.25 
+31. Mom is still working                ... pos = 0.0   	neg = 0.125
+32. When you think back                 ... pos = 1.0   	neg = 0.0  
+33. I am not saying that                ... pos = 0.0   	neg = 0.125
+34. It is unlikely that                 ... pos = 0.75  	neg = 0.25 
+35. I suppose it's possi                ... pos = 0.125 	neg = 1.0  
+36. Robin Williams is hi                ... pos = 0.375 	neg = 0.125
+37. As always he does a                 ... pos = 0.0   	neg = 0.0  
+38. But it doesn't reall                ... pos = 0.0   	neg = 0.0  
+39. It is the sentimenta                ... pos = 0.0   	neg = 0.625
+40. Pretty much like las                ... pos = 1.5   	neg = 0.375
+41. Great actors and a t                ... pos = 0.25  	neg = 0.875
+42. When Isaac Asimov wr                ... pos = 0.0   	neg = 0.125
+43. Everything seemed po                ... pos = 0     	neg = 0.125
+44. Now is the future of                ... pos = 0.0   	neg = 0.75 
+45. For the same reasons                ... pos = 0.5   	neg = 0.125
+46. Let us hope that nex                ... pos = 0.375 	neg = 0.0  
+47. " will be more rewar                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4864-657 is Positive         ... pos = 17.489 	neg = 13.625
+Overall score of document
+Total Pos = 17.489
+Total Neg = 13.625
+---------------------------------------------------------------------------

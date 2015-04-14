@@ -1,0 +1,51 @@
+0. Think back to the ye                 ... pos = 0.0   	neg = 0.0  
+1. That comedy was, of                  ... pos = 0.0   	neg = 1.0  
+2. I'd actually recomme                 ... pos = 0.5   	neg = 0.125
+3. I suppose the bigges                 ... pos = 0.25  	neg = 0.5  
+4. It may not seem this                 ... pos = 0.25  	neg = 0.25 
+5. He even tries to sti                 ... pos = 0.0   	neg = 0.0  
+6. Bob Clark, on the ot                 ... pos = 0.0   	neg = 0.25 
+7. "Porky's" is as obsc                 ... pos = 0.0   	neg = 0.75 
+8. By playing it safe,                  ... pos = 0.25  	neg = 0.0  
+9. Four high school fri                 ... pos = 0.5   	neg = 0.0  
+10. Jim (Jason Biggs) is                ... pos = 0.0   	neg = 0.125
+11. His latest plan is t                ... pos = 0.0   	neg = 0.125
+12. If that plan fails,                 ... pos = 0.0   	neg = 0.25 
+13. Kevin (Thomas Ian Ni                ... pos = 0.0   	neg = 1.0  
+14. However, this will i                ... pos = 0.125 	neg = 0.0  
+15. Oz (Chris Klein), a                 ... pos = 0.75  	neg = 0.0  
+16. Last we have Paul Fi                ... pos = 0.0   	neg = 0.125
+17. His plan is to start                ... pos = 0.125 	neg = 0.375
+18. The friends' put the                ... pos = 0.0   	neg = 0.625
+19. Despite what you may                ... pos = 0.5   	neg = 0.125
+20. I'm not saying it do                ... pos = 1.375 	neg = 1.0  
+21. This is too bad beca                ... pos = 0.5   	neg = 1.375
+22. For example, a scene                ... pos = 0.625 	neg = 0.75 
+23. This happens in an u                ... pos = 0.0   	neg = 0.0  
+24. The big laughs are p                ... pos = 0.875 	neg = 0.0  
+25. "American Pie" is th                ... pos = 0.0   	neg = 0.125
+26. Half the cast member                ... pos = 2.125 	neg = 0.125
+27. Mena Suvari has obvi                ... pos = 1.0   	neg = 0.0  
+28. Even with a script a                ... pos = 0.5   	neg = 0.0  
+29. Alyson Hannigan, who                ... pos = 1.375 	neg = 0.25 
+30. While the remaining                 ... pos = 0.25  	neg = 0.0  
+31. Levy's character is                 ... pos = 1.875 	neg = 0.625
+32. Actually, the lack o                ... pos = 0.0   	neg = 0.5  
+33. There are some movie                ... pos = 0.75  	neg = 0.625
+34. "American Pie" may h                ... pos = 0.0   	neg = 0.0  
+35. I'm sure "American P                ... pos = 0.875 	neg = 0.75 
+36. I know, it has an R                 ... pos = 0.75  	neg = 0.0  
+37. I'd recommend "Ameri                ... pos = 0.375 	neg = 0.375
+38. I give the movie thr                ... pos = 0.0   	neg = 0.0  
+39. Any past movies you                 ... pos = 0.0   	neg = 0.125
+40. Send to: johnbeachem                ... pos = 0.5   	neg = 0.25 
+41. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+42. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+43. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+44. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6196-535 is Positive         ... pos = 17.375 	neg = 13.625
+Overall score of document
+Total Pos = 17.375
+Total Neg = 13.625
+---------------------------------------------------------------------------

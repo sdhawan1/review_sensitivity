@@ -1,0 +1,40 @@
+0. -a review by Bill Ch                 ... pos = 0.0   	neg = 0.125
+1. http://filmfreakcent                 ... pos = 0.625 	neg = 2.375
+2. But Piller's not-qui                 ... pos = 0.5   	neg = 0.0  
+3. I'm about to give th                 ... pos = 0.0   	neg = 0.0  
+4. (While we're at it,                  ... pos = 0.0   	neg = 0.0  
+5. ). For three hundred                 ... pos = 0.0   	neg = 1.0  
+6. Six hundred of them                  ... pos = 0.25  	neg = 0.0  
+7. But evil Ru'afo (thi                 ... pos = 0.875 	neg = 1.25 
+8. The Federation is al                 ... pos = 0.125 	neg = 0.25 
+9. (Never mind that the                 ... pos = 0.375 	neg = 0.0  
+10. ). Every time Frakes                ... pos = 0.125 	neg = 0.375
+11. He has called it a c                ... pos = 0.25  	neg = 0.0  
+12. (I presume that's so                ... pos = 0.25  	neg = 0.0  
+13. ) He has also gone o                ... pos = 0.125 	neg = 0.0  
+14. That's no excuse-som                ... pos = 0.0   	neg = 0.25 
+15. Muddy cinematography                ... pos = 0.25  	neg = 0.125
+16. Consider such curios                ... pos = 0.75  	neg = 0.0  
+17. "Don't ask.                         ... pos = 0     	neg = 0.0  
+18. " Worf gets a pimple                ... pos = 1.0   	neg = 0.125
+19. Most suspiciously, w                ... pos = 0.375 	neg = 0.75 
+20. The filmmakers cloud                ... pos = 1.125 	neg = 0.0  
+21. (And if you've seen                 ... pos = 0.0   	neg = 0.0  
+22. ) Didn't Picard hims                ... pos = 0.125 	neg = 0.0  
+23. Frakes lucked out wi                ... pos = 0.125 	neg = 1.0  
+24. (Take a look at the                 ... pos = 0.0   	neg = 0.875
+25. ) Even the worst Sha                ... pos = 1.0   	neg = 0.375
+26. Neither First Contac                ... pos = 1.375 	neg = 0.25 
+27. And all three Next G                ... pos = 0.125 	neg = 0.375
+28. Need a cheap laugh?                 ... pos = 0.0   	neg = 0.75 
+29. Have Data say someth                ... pos = 0.125 	neg = 0.25 
+30. Here's my proposed t                ... pos = 0.0   	neg = 0.0  
+31. In this movie, Data                 ... pos = 0.625 	neg = 0.25 
+32. Star Trek: Insurrect                ... pos = 0.375 	neg = 0.0  
+33. I'm not saying all o                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3258-1545 is Negative        ... pos = 11.125 	neg = 11.125
+Overall score of document
+Total Pos = 11.125
+Total Neg = 11.125
+---------------------------------------------------------------------------

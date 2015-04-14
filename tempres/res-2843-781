@@ -1,0 +1,56 @@
+0. Back in 1965, a show                 ... pos = 0.0   	neg = 0.5  
+1. The show centered ar                 ... pos = 0.0   	neg = 0.0  
+2. Part period western                  ... pos = 0.125 	neg = 0.75 
+3. The 1999 film versio                 ... pos = 0.625 	neg = 0.25 
+4. WILD WILD WEST is an                 ... pos = 0.0   	neg = 0.5  
+5. In that respect, it                  ... pos = 0.75  	neg = 0.125
+6. Like that little twi                 ... pos = 0     	neg = 0.25 
+7. The film presents us                 ... pos = 0.25  	neg = 0.25 
+8. However, when McGrat                 ... pos = 0.75  	neg = 0.75 
+9. Thought to have been                 ... pos = 0.0   	neg = 0.75 
+10. Without a doubt, Wil                ... pos = 0.5   	neg = 0.125
+11. He's likable, handso                ... pos = 2.25  	neg = 0.25 
+12. His comedic timing i                ... pos = 1.25  	neg = 0.25 
+13. This ability is evid                ... pos = 0.125 	neg = 0.625
+14. Reactions of the mob                ... pos = 0.375 	neg = 0.75 
+15. Kevin Kline makes a                 ... pos = 2.25  	neg = 0.0  
+16. Gordon's banter with                ... pos = 0.75  	neg = 0.25 
+17. Unfortunately, the c                ... pos = 1.75  	neg = 0.875
+18. Branagh actually pla                ... pos = 0.75  	neg = 0.375
+19. Unfortunately, his c                ... pos = 1.125 	neg = 1.375
+20. You just kind of tak                ... pos = 0.375 	neg = 0.75 
+21. As I said earlier, t                ... pos = 0.625 	neg = 0.0  
+22. The overarching stor                ... pos = 0.75  	neg = 0.25 
+23. For example, it wasn                ... pos = 0.0   	neg = 1.125
+24. Later in the film, L                ... pos = 0.25  	neg = 0.625
+25. Then there's Rita Es                ... pos = 0.0   	neg = 0.0  
+26. The character serves                ... pos = 0.875 	neg = 0.5  
+27. She had absolutely n                ... pos = 0     	neg = 0.25 
+28. Loveless didn't have                ... pos = 0.0   	neg = 1.75 
+29. Now, I might be the                 ... pos = 1.125 	neg = 2.0  
+30. Either give her some                ... pos = 0.0   	neg = 0.0  
+31. Director Barry Sonne                ... pos = 0.375 	neg = 0.375
+32. A fist flying here,                 ... pos = 0.0   	neg = 0.125
+33. In a more serious pi                ... pos = 0.375 	neg = 0.5  
+34. Hard to do if the ac                ... pos = 0.125 	neg = 0.75 
+35. Too often, the scree                ... pos = 0.25  	neg = 0.875
+36. There's a part, for                 ... pos = 0.0   	neg = 1.0  
+37. Like I didn't get en                ... pos = 0.0   	neg = 0.0  
+38. ". This lack of orig                ... pos = 0.0   	neg = 1.0  
+39. They abruptly stop j                ... pos = 0.25  	neg = 0.0  
+40. Yeah, I liked it the                ... pos = 0.75  	neg = 0.0  
+41. Okay, you know me, I                ... pos = 0.0   	neg = 0.625
+42. Loveless refers to a                ... pos = 0.0   	neg = 0.25 
+43. History lesson for t                ... pos = 0.0   	neg = 0.375
+44. Loveless might have                 ... pos = 0.25  	neg = 0.75 
+45. You can roll your ey                ... pos = 0.5   	neg = 0.0  
+46. WILD WILD WEST has i                ... pos = 0.375 	neg = 0.5  
+47. It doesn't help, eit                ... pos = 0.0   	neg = 0.0  
+48. Let's hope that if t                ... pos = 0.375 	neg = 0.5  
+49. Now excuse me while                 ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-2843-781 is Negative         ... pos = 21.25 	neg = 24.5 
+Overall score of document
+Total Pos = 21.25
+Total Neg = 24.5
+---------------------------------------------------------------------------

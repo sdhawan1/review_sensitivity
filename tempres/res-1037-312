@@ -1,0 +1,22 @@
+0. Happiness, written a                 ... pos = 0.125 	neg = 0.0  
+1. It is an extremely f                 ... pos = 1.125 	neg = 0.625
+2. The characters' live                 ... pos = 0.5   	neg = 0.5  
+3. The interweaving sto                 ... pos = 1.125 	neg = 0.125
+4. These include a woma                 ... pos = 1.0   	neg = 2.5  
+5. It is this aspect of                 ... pos = 1.0   	neg = 0.25 
+6. The son, embarrassed                 ... pos = 0.125 	neg = 0.25 
+7. The father's calm bu                 ... pos = 0.5   	neg = 0.125
+8. The scenes in which                  ... pos = 0.875 	neg = 1.125
+9. Despite the monstrou                 ... pos = 1.375 	neg = 1.0  
+10. It is this that has                 ... pos = 0.75  	neg = 0.125
+11. The other story line                ... pos = 1.375 	neg = 0.75 
+12. The cast is uniforml                ... pos = 1.875 	neg = 0.125
+13. I was not looking fo                ... pos = 0.125 	neg = 0.25 
+14. I can't say I enjoye                ... pos = 1.125 	neg = 0.125
+15. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1037-312 is Positive         ... pos = 14.0  	neg = 7.875
+Overall score of document
+Total Pos = 14.0
+Total Neg = 7.875
+---------------------------------------------------------------------------

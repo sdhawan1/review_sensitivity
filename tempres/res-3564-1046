@@ -1,0 +1,33 @@
+0. I'm spoiled.                         ... pos = 0     	neg = 0.0  
+1. Long before I had ev                 ... pos = 0.0   	neg = 0.375
+2. The book in question                 ... pos = 0.0   	neg = 0.25 
+3. Crichton probably di                 ... pos = 0.0   	neg = 0.0  
+4. SPHERE, the movie fr                 ... pos = 0.375 	neg = 0.0  
+5. Worse, there has alr                 ... pos = 0.5   	neg = 1.5  
+6. The plot: A ways bac                 ... pos = 0.375 	neg = 0.0  
+7. comes calling.                       ... pos = 0.0   	neg = 0    
+8. He named several col                 ... pos = 0.0   	neg = 0.25 
+9. Sure enough, down on                 ... pos = 0.5   	neg = 0.0  
+10. (There is one funny                 ... pos = 0.0   	neg = 0.125
+11. ). What they find is                ... pos = 0.25  	neg = 0.375
+12. A pattern gets set u                ... pos = 0.0   	neg = 0.125
+13. This is annoying.                   ... pos = 0     	neg = 0.375
+14. When we finally DO u                ... pos = 0.375 	neg = 1.125
+15. The effects are dece                ... pos = 1.125 	neg = 0.25 
+16. I kept harkening bac                ... pos = 0.0   	neg = 1.0  
+17. Nothing like that ho                ... pos = 0.25  	neg = 0.25 
+18. The actors try.                     ... pos = 0.0   	neg = 0.0  
+19. They do not get far.                ... pos = 0.0   	neg = 0.0  
+20. Samuel Jackson is pr                ... pos = 0.5   	neg = 0.25 
+21. Sharon Stone, who is                ... pos = 0.125 	neg = 0.125
+22. ), is totally lost.                 ... pos = 0.0   	neg = 0.125
+23. And Dustin Hoffman h                ... pos = 0.0   	neg = 0.125
+24. No wonder they're co                ... pos = 0.5   	neg = 0.25 
+25. So.                                 ... pos = 0     	neg = 0.0  
+26. When do we get a Tar                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3564-1046 is Negative        ... pos = 4.875 	neg = 6.875
+Overall score of document
+Total Pos = 4.875
+Total Neg = 6.875
+---------------------------------------------------------------------------

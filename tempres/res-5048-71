@@ -1,0 +1,74 @@
+0. A Film Review (in th                 ... pos = 0.5   	neg = 0.0  
+1. Describe scenes from                 ... pos = 0.0   	neg = 0.0  
+2. A:  After a well-don                 ... pos = 0.875 	neg = 0.5  
+3. Several times the  c                 ... pos = 0.75  	neg = 0.125
+4. Early on we witness                  ... pos = 0.0   	neg = 0.25 
+5. One idea established                 ... pos = 0.625 	neg = 0.125
+6. What is noticeable i                 ... pos = 0.75  	neg = 0.75 
+7. This is a necessary                  ... pos = 0.0   	neg = 0.125
+8. The pursuit we see i                 ... pos = 0.25  	neg = 0.625
+9. In a sequence inside                 ... pos = 0.375 	neg = 0.375
+10. The vehicle  chases                 ... pos = 1.5   	neg = 0.125
+11. Scott shows his expe                ... pos = 0.0   	neg = 0.0  
+12. Q:  Describe camera                 ... pos = 0.0   	neg = 0.0  
+13. A:  There are nifty                 ... pos = 0.375 	neg = 0.5  
+14. Clearly, Dean's life                ... pos = 0.25  	neg = 0.125
+15. We watch a surplus                  ... pos = 0.125 	neg = 0.0  
+16. Everywhere we look t                ... pos = 0.0   	neg = 0.625
+17. In these aspects the                ... pos = 0.5   	neg = 0.0  
+18. "  . Q:  Describe th                ... pos = 0.375 	neg = 0.0  
+19. A:  Their appearance                ... pos = 1.0   	neg = 0.0  
+20. As Hammersly, Robard                ... pos = 0.0   	neg = 0.125
+21. We  believe he is pr                ... pos = 0.125 	neg = 1.25 
+22. In his role as  "Bri                ... pos = 0.25  	neg = 0.625
+23. What  casting!                      ... pos = 0     	neg = 0    
+24. Q:  How do you think                ... pos = 0.25  	neg = 0.0  
+25. A:  A good move.                    ... pos = 0.75  	neg = 0.0  
+26. I heard it said that                ... pos = 0.125 	neg = 0.125
+27. (Plus, he's garnered                ... pos = 0.5   	neg = 0.375
+28. ")  Smith once again                ... pos = 1.125 	neg = 0.625
+29. A cultural  aside:                  ... pos = 0.5   	neg = 0.875
+30. Other than this, Smi                ... pos = 0.5   	neg = 0.125
+31. And there are two  H                ... pos = 0.25  	neg = 0.0  
+32. The last word:  I wi                ... pos = 0.5   	neg = 0.0  
+33. Q:  Critique Gene Ha                ... pos = 0.0   	neg = 0.0  
+34. A:  Ahead of the ide                ... pos = 0.375 	neg = 0.125
+35. First, his looks are                ... pos = 0.375 	neg = 0.75 
+36. He is appropriately                 ... pos = 0.25  	neg = 0.125
+37. Brill has "disappear                ... pos = 0.0   	neg = 0.0  
+38. As he demonstrates t                ... pos = 1.75  	neg = 0.125
+39. Q:  Explain the main                ... pos = 0.0   	neg = 0.0  
+40. A:  After a member o                ... pos = 0.375 	neg = 0.5  
+41. Officials in a reneg                ... pos = 0.25  	neg = 0.75 
+42. (At least they do no                ... pos = 0.0   	neg = 0.5  
+43. )  For quite a while                ... pos = 0.25  	neg = 0.25 
+44. In an ingenious  con                ... pos = 0.625 	neg = 0.375
+45. Another twist is tha                ... pos = 0.125 	neg = 0.25 
+46. Yes, this film will                 ... pos = 0.5   	neg = 0.25 
+47. Q:  Is there too muc                ... pos = 0.125 	neg = 0.375
+48. Are there enough ide                ... pos = 0.25  	neg = 0.0  
+49. A:    Having heard f                ... pos = 0.625 	neg = 0.375
+50. I was  pleasantly ta                ... pos = 0.75  	neg = 0.25 
+51. "Enemy of the State"                ... pos = 0.25  	neg = 0.25 
+52. Because of how subtl                ... pos = 0.125 	neg = 0.125
+53. We witness scene aft                ... pos = 0.125 	neg = 1.25 
+54. Nevertheless, the ma                ... pos = 0.125 	neg = 0.0  
+55. For one, we feel clo                ... pos = 0.0   	neg = 0.625
+56. And the handling of                 ... pos = 2.375 	neg = 0.0  
+57. I'm reminded of how                 ... pos = 1.375 	neg = 0.778
+58. "Enemy  of the State                ... pos = 0.625 	neg = 0.125
+59. Q:  Would you recomm                ... pos = 0.125 	neg = 0    
+60. Why or why not?                     ... pos = 0.0   	neg = 0.0  
+61. A:  Yes, and I would                ... pos = 0.25  	neg = 0.0  
+62. Over the last severa                ... pos = 1.0   	neg = 0.125
+63. Will I stop reading                 ... pos = 0.125 	neg = 0.0  
+64. Of course not.                      ... pos = 0.0   	neg = 0.0  
+65. But I'll remember ho                ... pos = 2.0   	neg = 0.625
+66. "Enemy of the State"                ... pos = 0.75  	neg = 0.0  
+67. I think most viewers                ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5048-71 is Positive          ... pos = 29.875 	neg = 17.403
+Overall score of document
+Total Pos = 29.875
+Total Neg = 17.403
+---------------------------------------------------------------------------

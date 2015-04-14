@@ -1,0 +1,66 @@
+0. Barry Levinson's SPH                 ... pos = 0.0   	neg = 0.5  
+1. In this one, Dustin                  ... pos = 0.0   	neg = 0.875
+2. Upon arrival on one                  ... pos = 0.875 	neg = 0.25 
+3. During the Bush admi                 ... pos = 0.0   	neg = 0.125
+4. They include a scien                 ... pos = 0.0   	neg = 0.25 
+5. The team descends a                  ... pos = 0.25  	neg = 0.0  
+6. Upon entering the sp                 ... pos = 0.375 	neg = 0.375
+7. Is the sphere sentie                 ... pos = 0     	neg = 0.625
+8. Their question is an                 ... pos = 0.0   	neg = 0.125
+9. Soon, however, disas                 ... pos = 1.0   	neg = 0.125
+10. SPHERE starts out qu                ... pos = 0.5   	neg = 0.75 
+11. However, when the ac                ... pos = 0.375 	neg = 0.5  
+12. We are given several                ... pos = 0.5   	neg = 0.0  
+13. Under other circumst                ... pos = 0.375 	neg = 0.5  
+14. The result is a conf                ... pos = 0.0   	neg = 0.625
+15. One of the reasons w                ... pos = 1.0   	neg = 0.375
+16. Goodman is indecisiv                ... pos = 0.5   	neg = 0.375
+17. A scene where Fieldi                ... pos = 2.5   	neg = 0.75 
+18. It would seem that t                ... pos = 1.0   	neg = 0.25 
+19. Barnes is a smart fe                ... pos = 0.875 	neg = 0.125
+20. Peter Coyote also pr                ... pos = 0.125 	neg = 0.0  
+21. Coyote delivers his                 ... pos = 0.875 	neg = 0.0  
+22. No big flourishes fo                ... pos = 2.125 	neg = 0.25 
+23. Stone, on the other                 ... pos = 1.875 	neg = 0.25 
+24. It's just too bad th                ... pos = 0.25  	neg = 1.125
+25. Diametrically oppose                ... pos = 0.375 	neg = 0.625
+26. His role requires a                 ... pos = 0.625 	neg = 0.0  
+27. Jackson's performanc                ... pos = 1.875 	neg = 0.25 
+28. A disjointed storyli                ... pos = 0.125 	neg = 0.0  
+29. In terms of visual e                ... pos = 0.0   	neg = 0.25 
+30. We all know that it                 ... pos = 0.25  	neg = 0.125
+31. There's one scene wh                ... pos = 0.125 	neg = 0.125
+32. Fielding looks out a                ... pos = 0.0   	neg = 0.375
+33. "  Cut to a view of                 ... pos = 0.125 	neg = 0.0  
+34. Too bad we couldn't                 ... pos = 0.25  	neg = 1.75 
+35. This film tries so h                ... pos = 0.5   	neg = 1.375
+36. One part of this inv                ... pos = 0.5   	neg = 0.375
+37. To tell you why this                ... pos = 0.375 	neg = 0.625
+38. As I stated previous                ... pos = 0.0   	neg = 0.5  
+39. A question occurred                 ... pos = 0.0   	neg = 0.0  
+40. After all, every tim                ... pos = 0.375 	neg = 0.25 
+41. Why not just write t                ... pos = 0.0   	neg = 0.125
+42. The answer I came up                ... pos = 0.125 	neg = 1.375
+43. People by the millio                ... pos = 0.0   	neg = 0.0  
+44. It's because he's Mi                ... pos = 0.0   	neg = 0.0  
+45. "He must be good," t                ... pos = 1.125 	neg = 0.125
+46. "  Well, I've got an                ... pos = 0.0   	neg = 0.0  
+47. He's begun to write                 ... pos = 0.125 	neg = 0.125
+48. He's become lazy and                ... pos = 0.0   	neg = 0.625
+49. You see, writing for                ... pos = 1.125 	neg = 0.125
+50. In a novel, you must                ... pos = 1.375 	neg = 0.375
+51. To simply read off a                ... pos = 0.875 	neg = 0.875
+52. "Show, don't tell" i                ... pos = 0.25  	neg = 0.125
+53. When you write a scr                ... pos = 1.25  	neg = 0.625
+54. In his novels, Crich                ... pos = 0.0   	neg = 0.0  
+55. Big time.                           ... pos = 0.0   	neg = 0.0  
+56. At the behest of a f                ... pos = 1.75  	neg = 0.125
+57. Sad, really, to find                ... pos = 0.0   	neg = 0.75 
+58. "  The only good thi                ... pos = 1.0   	neg = 0.125
+59. But that's another s                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3564-781 is Positive         ... pos = 29.875 	neg = 21.375
+Overall score of document
+Total Pos = 29.875
+Total Neg = 21.375
+---------------------------------------------------------------------------

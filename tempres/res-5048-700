@@ -1,0 +1,25 @@
+0. Release Date: Novemb                 ... pos = 0.75  	neg = 0.0  
+1. Most are unnecessari                 ... pos = 1.125 	neg = 0.25 
+2. Perhaps the ultimate                 ... pos = 1.75  	neg = 0.5  
+3. The latest Tony Scot                 ... pos = 0.25  	neg = 0.0  
+4. It's a true nineties                 ... pos = 0.5   	neg = 0.75 
+5. Although Director Sc                 ... pos = 0.0   	neg = 0.0  
+6. That vibrant spirit                  ... pos = 0.75  	neg = 0.125
+7. ENEMY OF THE STATE a                 ... pos = 0.875 	neg = 0.375
+8. ENEMY is truly a vis                 ... pos = 0.875 	neg = 0.125
+9. The movie lights up                  ... pos = 0.75  	neg = 0.0  
+10. Reynolds wants a new                ... pos = 0.5   	neg = 0.0  
+11. Reynolds has the sen                ... pos = 0.0   	neg = 0.125
+12. By an extremist chai                ... pos = 0.25  	neg = 0.375
+13. It's only with the h                ... pos = 0.125 	neg = 0.125
+14. The acting is top no                ... pos = 1.5   	neg = 0.125
+15. Smith puts aside the                ... pos = 1.375 	neg = 0.125
+16. Smith's regular joe                 ... pos = 0.0   	neg = 0.625
+17. The supports are als                ... pos = 0.25  	neg = 0.375
+18. This is, for the hol                ... pos = 0.364 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5048-700 is Positive         ... pos = 11.989 	neg = 4.25 
+Overall score of document
+Total Pos = 11.989
+Total Neg = 4.25
+---------------------------------------------------------------------------

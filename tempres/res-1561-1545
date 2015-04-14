@@ -1,0 +1,28 @@
+0. THE FACULTY ** (out                  ... pos = 0.0   	neg = 0.375
+1. His name on a movie'                 ... pos = 0.0   	neg = 0.125
+2. (Often, as he's  cri                 ... pos = 0.0   	neg = 0.0  
+3. ) Williamson is, in                  ... pos = 0.375 	neg = 0.25 
+4. T2's Robert Patrick                  ... pos = 0.0   	neg = 0.375
+5. ) in his screen debu                 ... pos = 0.0   	neg = 0.125
+6. A group of rambuncti                 ... pos = 0.125 	neg = 0.0  
+7. Together, they searc                 ... pos = 0.875 	neg = 0.0  
+8. Said group of archet                 ... pos = 2.25  	neg = 0.625
+9. Did I just describe                  ... pos = 0.0   	neg = 0.0  
+10. Here, Williamson tak                ... pos = 1.25  	neg = 0.375
+11. The real problem is                 ... pos = 2.0   	neg = 0.5  
+12. Relationships are pa                ... pos = 1.875 	neg = 0.125
+13. Marybeth gravitates                 ... pos = 0     	neg = 0.0  
+14. Unlike The Breakfast                ... pos = 1.0   	neg = 0.375
+15. Also, as in most mov                ... pos = 0.125 	neg = 0.25 
+16. (Aside, some entries                ... pos = 0.25  	neg = 0.625
+17. ). There is mild sub                ... pos = 0.25  	neg = 1.0  
+18. " commercial.                       ... pos = 0     	neg = 0.0  
+19. Which is a great mes                ... pos = 1.0   	neg = 0.125
+20. The beauty of all th                ... pos = 1.25  	neg = 0.25 
+21. Today's teenagers an                ... pos = 1.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1561-1545 is Positive        ... pos = 14.25 	neg = 5.875
+Overall score of document
+Total Pos = 14.25
+Total Neg = 5.875
+---------------------------------------------------------------------------

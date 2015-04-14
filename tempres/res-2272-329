@@ -1,0 +1,48 @@
+0. Leo has been in the                  ... pos = 0.25  	neg = 0.75 
+1. While he was enjoyin                 ... pos = 1.125 	neg = 1.375
+2. His first post-Titan                 ... pos = 0.125 	neg = 0.125
+3. ) a selfish movie st                 ... pos = 0.25  	neg = 0.0  
+4. He doesn't do much b                 ... pos = 0.125 	neg = 0.0  
+5. In interviews DiCapr                 ... pos = 0.25  	neg = 0.0  
+6. He's done a fine job                 ... pos = 0.0   	neg = 1.75 
+7. At all.                              ... pos = 0.0   	neg = 0.0  
+8. Richard (Leo!                        ... pos = 0     	neg = 0    
+9. himself) is an Ameri                 ... pos = 0.125 	neg = 0.5  
+10. Seeing as there's no                ... pos = 0.125 	neg = 0.0  
+11. Daffy (Carlyle in a                 ... pos = 0.5   	neg = 0.125
+12. The next morning he                 ... pos = 0.0   	neg = 0.25 
+13. So Richard invites a                ... pos = 0.5   	neg = 0.25 
+14. After a long swim, a                ... pos = 0.625 	neg = 0.375
+15. Everyone that lives                 ... pos = 0.0   	neg = 0.625
+16. Soon Leo begins a lo                ... pos = 2.0   	neg = 0.25 
+17. But everyone knows t                ... pos = 0.125 	neg = 1.0  
+18. There is one rule fo                ... pos = 0.375 	neg = 0.625
+19. You can never, ever,                ... pos = 0.0   	neg = 0.0  
+20. Before Richard left                 ... pos = 0.0   	neg = 0.0  
+21. Big mistake.                        ... pos = 0     	neg = 0.625
+22. There are several im                ... pos = 0.5   	neg = 0.0  
+23. The first has to be                 ... pos = 0.125 	neg = 1.0  
+24. Another problem deal                ... pos = 0.0   	neg = 0.625
+25. The movie is filled                 ... pos = 0.0   	neg = 0.5  
+26. Only about half of t                ... pos = 0.0   	neg = 0.0  
+27. This makes it a bore                ... pos = 0.625 	neg = 0.375
+28. Oh, and did I mentio                ... pos = 0.0   	neg = 0.0  
+29. Even movies with a b                ... pos = 0.25  	neg = 1.0  
+30. There's none of that                ... pos = 0.0   	neg = 0.125
+31. Richard changes mood                ... pos = 0.0   	neg = 1.375
+32. Besides, we don't se                ... pos = 0.125 	neg = 0.0  
+33. The chemistry betwee                ... pos = 0.625 	neg = 0.5  
+34. In fact, almost all                 ... pos = 1.625 	neg = 0.125
+35. The only marginally                 ... pos = 1.0   	neg = 0.125
+36. But never mind him,                 ... pos = 0.125 	neg = 0.125
+37. The ending is also h                ... pos = 0.5   	neg = 0.75 
+38. The only good thing                 ... pos = 1.25  	neg = 0.125
+39. Leo is shirtless for                ... pos = 0.0   	neg = 0.125
+40. The soundtrack is al                ... pos = 1.25  	neg = 0.125
+41. Leo, you're a good a                ... pos = 1.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2272-329 is Negative         ... pos = 16.0  	neg = 16.0 
+Overall score of document
+Total Pos = 16.0
+Total Neg = 16.0
+---------------------------------------------------------------------------

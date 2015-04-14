@@ -1,0 +1,29 @@
+0. Starring Hugh Grant,                 ... pos = 0.5   	neg = 0.0  
+1. Hugh Grant 'plays' (                 ... pos = 0.0   	neg = 0.0  
+2. He proposes to his g                 ... pos = 0.0   	neg = 0.0  
+3. Michael tries to fin                 ... pos = 0.0   	neg = 1.0  
+4. Grant tries to sort                  ... pos = 0.5   	neg = 1.75 
+5. '. Although nothing                  ... pos = 1.25  	neg = 0.25 
+6. The film relies heav                 ... pos = 0.625 	neg = 0.0  
+7. Although Grant tries                 ... pos = 1.125 	neg = 1.625
+8. The same can't be sa                 ... pos = 0.125 	neg = 0.5  
+9. There's little chemi                 ... pos = 0.125 	neg = 0.25 
+10. She comes off as a l                ... pos = 0.5   	neg = 1.0  
+11. James Caan, despite                 ... pos = 0.75  	neg = 0.125
+12. The plot itself is n                ... pos = 0.625 	neg = 0.875
+13. Mixed in with some f                ... pos = 1.375 	neg = 1.25 
+14. The screenwriters, A                ... pos = 0.875 	neg = 0.125
+15. The writers also see                ... pos = 2.5   	neg = 0.625
+16. He's nothing more th                ... pos = 0.0   	neg = 1.125
+17. In fact, only Grant,                ... pos = 0.0   	neg = 0.375
+18. The direction, from                 ... pos = 0.0   	neg = 0.0  
+19. Most of the gags pro                ... pos = 0.5   	neg = 0.125
+20. Although Mickey Blue                ... pos = 2.375 	neg = 0.875
+21. Still, with it's fun                ... pos = 2.5   	neg = 0.875
+22. Well intentioned fun                ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3147-1213 is Positive        ... pos = 16.375 	neg = 12.75
+Overall score of document
+Total Pos = 16.375
+Total Neg = 12.75
+---------------------------------------------------------------------------

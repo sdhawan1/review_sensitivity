@@ -1,0 +1,38 @@
+0. Thailand, 1862.                      ... pos = 0     	neg = 0.0  
+1. Back then it was cal                 ... pos = 0.0   	neg = 0.125
+2. A great monarchy rul                 ... pos = 0.375 	neg = 0.0  
+3. He did everything hi                 ... pos = 0.0   	neg = 0.0  
+4. Until Anna Leonowens                 ... pos = 0.0   	neg = 0.0  
+5. This movie is a rema                 ... pos = 0.625 	neg = 0.125
+6. Anna comes with her                  ... pos = 0.0   	neg = 0    
+7. All 68 of them, comi                 ... pos = 0.0   	neg = 0.0  
+8. Surely makes me wish                 ... pos = 0.375 	neg = 0.5  
+9. But instead of just                  ... pos = 0.125 	neg = 0.125
+10. Anna storms in as if                ... pos = 0.5   	neg = 1.125
+11. Wow, she must be rel                ... pos = 0.375 	neg = 0.5  
+12. The scenery is absol                ... pos = 0.0   	neg = 0.125
+13. Shot in Malaysia, it                ... pos = 1.0   	neg = 0.0  
+14. Too bad that the mov                ... pos = 0.125 	neg = 1.375
+15. The cultural impact                 ... pos = 0.125 	neg = 0.875
+16. The kingdom has is o                ... pos = 0.0   	neg = 0.5  
+17. No wonder that this                 ... pos = 0.0   	neg = 0.625
+18. I feel the same way                 ... pos = 0.25  	neg = 0.0  
+19. You cannot change a                 ... pos = 0.125 	neg = 0.0  
+20. The true story was p                ... pos = 0.75  	neg = 0.5  
+21. Not that I'm saying                 ... pos = 0.0   	neg = 0.125
+22. Not just the bad one                ... pos = 0.75  	neg = 1.5  
+23. Jodie Foster is as t                ... pos = 0.625 	neg = 0.5  
+24. He did have the char                ... pos = 0.375 	neg = 0.0  
+25. Or maybe this girlpo                ... pos = 0.125 	neg = 0.375
+26. So guys, be careful.                ... pos = 0.5   	neg = 0.125
+27. Even a king can be h                ... pos = 0.125 	neg = 0.125
+28. A movie worth watchi                ... pos = 0.0   	neg = 0.0  
+29. Because of the Siame                ... pos = 0.0   	neg = 0.0  
+30. Because of the 68 ki                ... pos = 0.0   	neg = 0    
+31. And to learn another                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1867-331 is Negative         ... pos = 7.25  	neg = 9.375
+Overall score of document
+Total Pos = 7.25
+Total Neg = 9.375
+---------------------------------------------------------------------------

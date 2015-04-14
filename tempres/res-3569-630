@@ -1,0 +1,52 @@
+0. It was with great tr                 ... pos = 0.25  	neg = 0.125
+1. I knew the film woul                 ... pos = 0.125 	neg = 0.125
+2. But I also knew the                  ... pos = 0.375 	neg = 0.875
+3. I figured the film w                 ... pos = 0.75  	neg = 0.875
+4. I may laugh, but wou                 ... pos = 0.0   	neg = 0.0  
+5. I needn+t have worri                 ... pos = 0.25  	neg = 0.0  
+6. +Mary+ is the sweete                 ... pos = 0.5   	neg = 0.125
+7. Surprisingly, the Fa                 ... pos = 1.0   	neg = 0.375
+8. They make laughter,                  ... pos = 0.25  	neg = 0.375
+9. The plot is typical.                 ... pos = 0.125 	neg = 0.125
+10. Thirteen years ago,                 ... pos = 0.5   	neg = 0.0  
+11. As luck would have i                ... pos = 0.5   	neg = 0.25 
+12. Why, I shall not tel                ... pos = 0.5   	neg = 0.125
+13. He hires a private i                ... pos = 0.25  	neg = 0.0  
+14. He becomes one of th                ... pos = 0.0   	neg = 0.375
+15. Upon finding her, he                ... pos = 0.0   	neg = 0.375
+16. It is only a matter                 ... pos = 0.0   	neg = 0.25 
+17. Would the geek get t                ... pos = 0.0   	neg = 0.0  
+18. Puh-lease.                          ... pos = 0     	neg = 0    
+19. The ending is pure H                ... pos = 0.375 	neg = 0.375
+20. But the absolute joy                ... pos = 1.125 	neg = 0.125
+21. The dog on speed seq                ... pos = 1.0   	neg = 0.75 
+22. And yet, for all the                ... pos = 0.5   	neg = 0.0  
+23. Mary, playing the st                ... pos = 1.5   	neg = 0.25 
+24. She is totally devot                ... pos = 0.75  	neg = 0.125
+25. Mary+s sunniness car                ... pos = 0.125 	neg = 0.125
+26. Cameron Diaz makes h                ... pos = 1.625 	neg = 0.0  
+27. Ben Stiller also far                ... pos = 0.75  	neg = 0.0  
+28. ), a complete loser.                ... pos = 0.0   	neg = 0.375
+29. Braces, greasy long                 ... pos = 1.0   	neg = 0.625
+30. Dillon is exceptiona                ... pos = 0.0   	neg = 0.125
+31. And rounding out the                ... pos = 0.125 	neg = 0.25 
+32. Not everything works                ... pos = 0.0   	neg = 0    
+33. Chris Elliot+s role,                ... pos = 0.0   	neg = 0.25 
+34. There+s lousy dialog                ... pos = 0.0   	neg = 0.75 
+35. And there are long s                ... pos = 0.375 	neg = 0.375
+36. But the wait is wort                ... pos = 0.0   	neg = 0.125
+37. When those extraordi                ... pos = 0.75  	neg = 0.0  
+38. belly-aches, that in                ... pos = 0.0   	neg = 0.0  
+39. The Farrelly brother                ... pos = 0.0   	neg = 0.0  
+40. Yes, there are some                 ... pos = 0.25  	neg = 1.375
+41. While tasteless, it                 ... pos = 0.0   	neg = 0.25 
+42. While raunchy, it wa                ... pos = 0.0   	neg = 1.0  
+43. And it is sweet enou                ... pos = 0.25  	neg = 0.25 
+44. After the funny but                 ... pos = 1.125 	neg = 0.375
+45. Approach this with a                ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3569-630 is Positive         ... pos = 17.25 	neg = 12.25
+Overall score of document
+Total Pos = 17.25
+Total Neg = 12.25
+---------------------------------------------------------------------------

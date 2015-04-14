@@ -1,0 +1,70 @@
+0. The National Securit                 ... pos = 0.0   	neg = 0.125
+1. They have electronic                 ... pos = 0.25  	neg = 0.0  
+2. The NSA's acres of c                 ... pos = 0.125 	neg = 0.0  
+3. Simply put, those wh                 ... pos = 0.25  	neg = 0.0  
+4. But what if this cap                 ... pos = 0.625 	neg = 0.125
+5. In fact, what if it                  ... pos = 0.0   	neg = 0.125
+6. It is this question                  ... pos = 0.25  	neg = 0.25 
+7. The film begins at a                 ... pos = 0.125 	neg = 0.0  
+8. Receiving Hammersly'                 ... pos = 0.0   	neg = 0.625
+9. However, the murder                  ... pos = 0.125 	neg = 0.125
+10. When the photographe                ... pos = 0.5   	neg = 0.375
+11. Reynolds and his men                ... pos = 0.875 	neg = 0.0  
+12. Okay, so here's a gu                ... pos = 0.0   	neg = 0.25 
+13. Sound familiar?                     ... pos = 0.0   	neg = 0    
+14. It's the plot for a                 ... pos = 0.0   	neg = 0.0  
+15. Come on, think a bit                ... pos = 0.375 	neg = 0.125
+16. So if the film doesn                ... pos = 0.25  	neg = 1.0  
+17. Of course not.                      ... pos = 0.0   	neg = 0.0  
+18. Does ENEMY OF THE ST                ... pos = 0.25  	neg = 0    
+19. Sort of.                            ... pos = 0     	neg = 0.0  
+20. This movie is suppos                ... pos = 0.25  	neg = 1.125
+21. ENEMY OF THE STATE h                ... pos = 0.25  	neg = 1.75 
+22. A tracking device pl                ... pos = 0.0   	neg = 0.0  
+23. Oh my, what will the                ... pos = 0.125 	neg = 0.0  
+24. Please, Maxwell Smar                ... pos = 0.125 	neg = 0.0  
+25. For original, check                 ... pos = 0.0   	neg = 0.0  
+26. Some Mr. Universe.                  ... pos = 0.0   	neg = 0.0  
+27. Is the ability of th                ... pos = 0.5   	neg = 1.0  
+28. No.                                 ... pos = 0     	neg = 0.25 
+29. I mean, even FAIR GA                ... pos = 0.125 	neg = 0.0  
+30. However, even if it'                ... pos = 0.875 	neg = 0.375
+31. Having some guy at a                ... pos = 0.0   	neg = 0.125
+32. Think about nearly s                ... pos = 0.125 	neg = 0.125
+33. Does it busy up the                 ... pos = 0.375 	neg = 0.0  
+34. Maybe.                              ... pos = 0     	neg = 0.0  
+35. Does it heighten the                ... pos = 0.125 	neg = 0    
+36. Yes, it does.                       ... pos = 0.0   	neg = 0.0  
+37. Am I asking too many                ... pos = 0.0   	neg = 0.375
+38. What do you think?                  ... pos = 0     	neg = 0.0  
+39. Huh?                                ... pos = 0     	neg = 0    
+40. There's a lot of yel                ... pos = 0.0   	neg = 0.5  
+41. As much as it works                 ... pos = 0.5   	neg = 0.375
+42. It seems as though e                ... pos = 0.0   	neg = 1.0  
+43. Perhaps the worst ex                ... pos = 0.875 	neg = 1.75 
+44. I swear, it was loud                ... pos = 0.0   	neg = 0.25 
+45. They're angry and fr                ... pos = 0.375 	neg = 0    
+46. Okay, we get the poi                ... pos = 0     	neg = 0.125
+47. Gene Hackman is grea                ... pos = 0.25  	neg = 0.125
+48. Unfortunately, he sh                ... pos = 0.0   	neg = 1.0  
+49. Will Smith, who is i                ... pos = 0.25  	neg = 0.5  
+50. He could yell and ru                ... pos = 0.0   	neg = 0.125
+51. Working against Smit                ... pos = 1.0   	neg = 0.125
+52. Dean is a lawyer wit                ... pos = 0.0   	neg = 0.125
+53. I started to dislike                ... pos = 0.125 	neg = 0.0  
+54. Jon Voight is perfec                ... pos = 2.125 	neg = 0.25 
+55. We see that Reynolds                ... pos = 0.25  	neg = 0.875
+56. Why screenwriter Dav                ... pos = 0.0   	neg = 0.625
+57. This film also gets                 ... pos = 0.375 	neg = 0.625
+58. I'm sure you've seen                ... pos = 1.0   	neg = 0.0  
+59. It all seems so supe                ... pos = 0.0   	neg = 0.75 
+60. In all, this film th                ... pos = 0.25  	neg = 0.75 
+61. The action segments                 ... pos = 2.375 	neg = 0.75 
+62. One neat little thin                ... pos = 1.0   	neg = 1.125
+63. That, I must say, wa                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5048-781 is Negative         ... pos = 18.0  	neg = 20.25
+Overall score of document
+Total Pos = 18.0
+Total Neg = 20.25
+---------------------------------------------------------------------------

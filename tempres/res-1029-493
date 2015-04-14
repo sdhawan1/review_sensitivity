@@ -1,0 +1,54 @@
+0. A Bug's Life Featuri                 ... pos = 0.0   	neg = 0.0  
+1. Rated G, 96 minutes                  ... pos = 1.5   	neg = 0.375
+2. Disney has a way wit                 ... pos = 0.125 	neg = 0    
+3. Sure, when we were y                 ... pos = 0.75  	neg = 0.125
+4. "Inspector Gadget,"                  ... pos = 0.25  	neg = 0.0  
+5. But, as we grow olde                 ... pos = 0.125 	neg = 0.0  
+6. But, Disney still ke                 ... pos = 0.0   	neg = 0.0  
+7. Whether it be the st                 ... pos = 0.625 	neg = 0.125
+8. In Disney's latest f                 ... pos = 0.0   	neg = 0.0  
+9. Although A Bug's Lif                 ... pos = 1.875 	neg = 0.125
+10. To get the familiari                ... pos = 1.25  	neg = 0.125
+11. Dave Foley, Kevin Sp                ... pos = 0.0   	neg = 0.0  
+12. Their voice acting i                ... pos = 1.625 	neg = 0.125
+13. Plus, Disney still g                ... pos = 0.875 	neg = 0.375
+14. I have seen this don                ... pos = 0.25  	neg = 0.0  
+15. Pixar has done it ag                ... pos = 0.0   	neg = 0    
+16. Despite the tremendo                ... pos = 0.125 	neg = 0.25 
+17. And they did a great                ... pos = 0.0   	neg = 0.0  
+18. Overall, the film is                ... pos = 0.0   	neg = 0.25 
+19. But, the graphics ar                ... pos = 0.25  	neg = 0.125
+20. In Toy Story, the an                ... pos = 0.0   	neg = 0.125
+21. But, they could have                ... pos = 0     	neg = 0.0  
+22. The one major flaw w                ... pos = 0.125 	neg = 0.25 
+23. However, A Bug's Lif                ... pos = 0.5   	neg = 0.0  
+24. Pixar delivered in a                ... pos = 0.0   	neg = 0.0  
+25. The lush graphics we                ... pos = 0.0   	neg = 0.375
+26. Simple details like                 ... pos = 0.5   	neg = 0.0  
+27. The story is pretty                 ... pos = 0.5   	neg = 0.5  
+28. Remember that this i                ... pos = 0.125 	neg = 0.375
+29. Disney has a way wit                ... pos = 0.0   	neg = 0    
+30. It is basically anot                ... pos = 0.0   	neg = 0.25 
+31. However, Disney is a                ... pos = 0.375 	neg = 0.125
+32. I know I gushed on a                ... pos = 0.0   	neg = 0.0  
+33. It has cute humor an                ... pos = 1.25  	neg = 0.0  
+34. Despite being a chil                ... pos = 0.25  	neg = 0.125
+35. Which is why Disney                 ... pos = 0.125 	neg = 0.25 
+36. You rarely- and I me                ... pos = 0.125 	neg = 0.0  
+37. Which runs true with                ... pos = 0.5   	neg = 0    
+38. But, that is usually                ... pos = 0.5   	neg = 0.125
+39. You can only take so                ... pos = 0.375 	neg = 0.375
+40. That also runs true                 ... pos = 0.5   	neg = 0    
+41. The film, despite be                ... pos = 0.625 	neg = 0.625
+42. The last twenty minu                ... pos = 1.25  	neg = 0.75 
+43. It drags on, but for                ... pos = 1.25  	neg = 0.375
+44. In conclusion, A Bug                ... pos = 0.25  	neg = 0.25 
+45. A Bug's Life is the                 ... pos = 0.25  	neg = 0.375
+46. And the help from Pi                ... pos = 0.25  	neg = 0.0  
+47. Three And A Half Sta                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-493 is Positive         ... pos = 19.375 	neg = 7.25 
+Overall score of document
+Total Pos = 19.375
+Total Neg = 7.25
+---------------------------------------------------------------------------

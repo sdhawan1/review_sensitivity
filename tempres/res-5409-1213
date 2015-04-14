@@ -1,0 +1,41 @@
+0. Starring Keanu Reeve                 ... pos = 0.25  	neg = 0.0  
+1. Keanu Reeves plays T                 ... pos = 0.0   	neg = 0.875
+2. He is soon contacted                 ... pos = 0.25  	neg = 0.125
+3. ' Thomas agrees, and                 ... pos = 0.5   	neg = 0.375
+4. Morpheus identifies                  ... pos = 0.125 	neg = 0.0  
+5. Yes, Keanu is indeed                 ... pos = 0.0   	neg = 0.125
+6. The film then follow                 ... pos = 0.0   	neg = 0.875
+7. The plot is cliched,                 ... pos = 0.375 	neg = 1.375
+8. Reeves, it appears,                  ... pos = 0.0   	neg = 0.125
+9. Although lacking in                  ... pos = 0.0   	neg = 0.0  
+10. The action is a real                ... pos = 0.0   	neg = 0.125
+11. It's an awesome sigh                ... pos = 1.0   	neg = 0.625
+12. Also, the movie seem                ... pos = 0.25  	neg = 0.875
+13. Still, the kung fu a                ... pos = 1.25  	neg = 0.0  
+14. The actors also play                ... pos = 0.125 	neg = 0.0  
+15. Although Reeves stil                ... pos = 1.25  	neg = 0.875
+16. His 'where the hell                 ... pos = 0     	neg = 0.625
+17. ' look actually fits                ... pos = 1.125 	neg = 0.375
+18. I'm sure this was al                ... pos = 0.25  	neg = 0.5  
+19. Fishburne, usually c                ... pos = 0.0   	neg = 0.0  
+20. ' roles, holds his o                ... pos = 0.375 	neg = 0.125
+21. Unfortunately, his c                ... pos = 1.375 	neg = 1.375
+22. Although he is given                ... pos = 1.125 	neg = 1.25 
+23. Maybe in the inevita                ... pos = 0.0   	neg = 0.0  
+24. Carrie-Anne Moss pro                ... pos = 0.875 	neg = 1.625
+25. Much of the stuff co                ... pos = 0.25  	neg = 0.375
+26. The special effects                 ... pos = 0.0   	neg = 0.625
+27. ) The film has a gri                ... pos = 0.625 	neg = 0.0  
+28. The gun battles are                 ... pos = 0.75  	neg = 0.0  
+29. In summary, The Matr                ... pos = 0.0   	neg = 0.125
+30. Don't go in expectin                ... pos = 0.125 	neg = 0.125
+31. Only the first and l                ... pos = 0.125 	neg = 0.0  
+32. The rest of the movi                ... pos = 0.0   	neg = 0.75 
+33. Star Wars will have                 ... pos = 0.125 	neg = 0.375
+34. The epitome of hip s                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5409-1213 is Negative        ... pos = 12.5  	neg = 15.0 
+Overall score of document
+Total Pos = 12.5
+Total Neg = 15.0
+---------------------------------------------------------------------------

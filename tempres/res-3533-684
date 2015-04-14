@@ -1,0 +1,48 @@
+0. Asking a movie criti                 ... pos = 0.125 	neg = 0.125
+1. It is hard to pick o                 ... pos = 0.5   	neg = 0.875
+2. Now, asking a favori                 ... pos = 0.625 	neg = 0.125
+3. I like to watch all                  ... pos = 0.75  	neg = 0.125
+4. So you can see my in                 ... pos = 1.125 	neg = 0.625
+5. Unfortunately, it is                 ... pos = 0.75  	neg = 1.0  
+6. The tagline for Snak                 ... pos = 0.5   	neg = 0.25 
+7. Well, I got news for                 ... pos = 0.0   	neg = 0.0  
+8. I didn't believe my                  ... pos = 0.625 	neg = 0.25 
+9. I felt cheapened, ch                 ... pos = 0.0   	neg = 0.25 
+10. This movie was nothi                ... pos = 0.0   	neg = 0.75 
+11. Let me elaborate a b                ... pos = 0.25  	neg = 0.75 
+12. The story concerns a                ... pos = 0.0   	neg = 0.5  
+13. Nicholas Cage plays                 ... pos = 0.125 	neg = 0.25 
+14. A potentially riveti                ... pos = 0.125 	neg = 0.0  
+15. Now, my problem come                ... pos = 0.0   	neg = 0.5  
+16. This leaves another                 ... pos = 0.625 	neg = 0.125
+17. Even that isn't very                ... pos = 0.625 	neg = 0.0  
+18. Because, in my eyes,                ... pos = 0.875 	neg = 0.125
+19. You don't, and so yo                ... pos = 0.0   	neg = 0.5  
+20. You hope that he doe                ... pos = 0.375 	neg = 0.0  
+21. But alas, he does Th                ... pos = 1.25  	neg = 0.75 
+22. All the cards are on                ... pos = 1.25  	neg = 0.25 
+23. When will the bad gu                ... pos = 1.875 	neg = 1.25 
+24. It saddens me to see                ... pos = 1.0   	neg = 0.75 
+25. Giving credit where                 ... pos = 1.625 	neg = 0.125
+26. I loved the manic no                ... pos = 0.625 	neg = 0.75 
+27. I have no problem wi                ... pos = 0.0   	neg = 1.375
+28. The performances?                   ... pos = 0.0   	neg = 0    
+29. Gary Sinise is good,                ... pos = 0.875 	neg = 0.125
+30. Cage seems to have f                ... pos = 0.0   	neg = 0.375
+31. Even normally reliab                ... pos = 1.5   	neg = 0.375
+32. Also, can someone te                ... pos = 0.25  	neg = 0.0  
+33. A big deal was made                 ... pos = 0.25  	neg = 0.25 
+34. I felt no sense of u                ... pos = 0.75  	neg = 1.0  
+35. ) I'm confused.                     ... pos = 0.125 	neg = 0    
+36. Like I've said, I kn                ... pos = 0.125 	neg = 0.0  
+37. Finally, he ends up                 ... pos = 0.0   	neg = 0.0  
+38. DePalma had a good i                ... pos = 0.875 	neg = 0.875
+39. " This movie just do                ... pos = 0.0   	neg = 0.0  
+40. Wait for cable, or e                ... pos = 0.0   	neg = 0.0  
+41. On a ratings scale S                ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3533-684 is Positive         ... pos = 20.875 	neg = 15.625
+Overall score of document
+Total Pos = 20.875
+Total Neg = 15.625
+---------------------------------------------------------------------------

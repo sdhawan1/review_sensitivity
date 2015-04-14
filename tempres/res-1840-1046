@@ -1,0 +1,33 @@
+0. After seeing "Bulwor                 ... pos = 0.125 	neg = 0.125
+1. At some point we wer                 ... pos = 0.0   	neg = 0.125
+2. Well, we got it -- a                 ... pos = 0.375 	neg = 0.625
+3. It is easily one of                  ... pos = 0.625 	neg = 0.125
+4. Beatty stars (in a m                 ... pos = 1.0   	neg = 0.0  
+5. He sits in his offic                 ... pos = 0.25  	neg = 0.375
+6. He can't bring himse                 ... pos = 0.0   	neg = 0.375
+7. Worse, he's lost ton                 ... pos = 0.0   	neg = 0.625
+8. The threat of death                  ... pos = 0.5   	neg = 0.625
+9. He shows up at an in                 ... pos = 0.0   	neg = 0.0  
+10. "  The audience roar                ... pos = 0.0   	neg = 0.125
+11. For the first time i                ... pos = 0.125 	neg = 0.0  
+12. That's when the film                ... pos = 0.0   	neg = 0.0  
+13. Bulworth winds up ge                ... pos = 0.125 	neg = 0.0  
+14. Rather than hide or                 ... pos = 0.875 	neg = 0.0  
+15. " he bellows into th                ... pos = 0.0   	neg = 0.0  
+16. He's transformed int                ... pos = 0.0   	neg = 0    
+17. This is very funny,                 ... pos = 1.5   	neg = 0.5  
+18. In a period where mo                ... pos = 0.5   	neg = 0.0  
+19. "Bulworth" covers an                ... pos = 0.5   	neg = 0.0  
+20. Maybe too much more.                ... pos = 0.125 	neg = 0.25 
+21. The movie's biggest                 ... pos = 1.125 	neg = 0.75 
+22. And there's an endin                ... pos = 0.0   	neg = 0.5  
+23. It's not a perfect f                ... pos = 0.0   	neg = 0.125
+24. "Bulworth" is not ab                ... pos = 0.0   	neg = 0.25 
+25. It's daring and invi                ... pos = 0.0   	neg = 0    
+26. And it also made me                 ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1840-1046 is Positive        ... pos = 8.0   	neg = 5.625
+Overall score of document
+Total Pos = 8.0
+Total Neg = 5.625
+---------------------------------------------------------------------------

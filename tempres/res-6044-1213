@@ -1,0 +1,37 @@
+0. Starring Vince Vaugh                 ... pos = 1.25  	neg = 1.25 
+1. The film, nearly a s                 ... pos = 0.0   	neg = 0.5  
+2. The classic story, a                 ... pos = 0.75  	neg = 0.125
+3. Which means the shoc                 ... pos = 0.25  	neg = 0.0  
+4. Also, because the fi                 ... pos = 0.125 	neg = 0.375
+5. Still, it's a pleasa                 ... pos = 0.625 	neg = 0.25 
+6. Anne Heche is excell                 ... pos = 1.25  	neg = 0.125
+7. She's better than Ja                 ... pos = 1.125 	neg = 0.375
+8. Julianne Moore as he                 ... pos = 1.75  	neg = 0.5  
+9. William H. Macy is a                 ... pos = 0.625 	neg = 0.75 
+10. It's seems that it's                ... pos = 0.0   	neg = 0.125
+11. But while the suppor                ... pos = 1.0   	neg = 0.375
+12. Rather than coming a                ... pos = 1.5   	neg = 0.5  
+13. His performance is a                ... pos = 0.0   	neg = 1.5  
+14. His frame is also to                ... pos = 0.375 	neg = 0.875
+15. Considering  the fil                ... pos = 1.125 	neg = 0.0  
+16. It's a shame, becaus                ... pos = 1.25  	neg = 0.875
+17. Apart from the cast                 ... pos = 0.25  	neg = 0.625
+18. Director Gus Van San                ... pos = 0.625 	neg = 1.25 
+19. Van Sant has basical                ... pos = 0.0   	neg = 0.25 
+20. The bird symbolism s                ... pos = 0.5   	neg = 0.5  
+21. (A look-a-like is st                ... pos = 0.0   	neg = 0.125
+22. ) The direction is f                ... pos = 0.75  	neg = 0.25 
+23. ) But even though Ps                ... pos = 1.0   	neg = 0.5  
+24. Nothing has been cha                ... pos = 0.625 	neg = 0.5  
+25. Obviously, after the                ... pos = 1.25  	neg = 0.75 
+26. It's a nice idea, an                ... pos = 0.375 	neg = 0.125
+27. I'd recommend the fi                ... pos = 0.0   	neg = 0.0  
+28. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+29. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+30. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6044-1213 is Positive        ... pos = 18.375 	neg = 13.375
+Overall score of document
+Total Pos = 18.375
+Total Neg = 13.375
+---------------------------------------------------------------------------

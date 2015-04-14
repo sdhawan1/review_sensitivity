@@ -1,0 +1,38 @@
+0. *** (out of 4) The s                 ... pos = 0.0   	neg = 1.25 
+1. Steve Martin plays B                 ... pos = 0.5   	neg = 0.0  
+2. His accountant Afrim                 ... pos = 0.0   	neg = 0.25 
+3. Martin's Bowfinger w                 ... pos = 0.0   	neg = 0.125
+4. That's not to say he                 ... pos = 0.75  	neg = 0.0  
+5. When he needs help f                 ... pos = 0.125 	neg = 0.125
+6. ") When he needs hel                 ... pos = 0.0   	neg = 0.375
+7. Martin uses his scho                 ... pos = 0.0   	neg = 0.0  
+8. All he has to do is                  ... pos = 0.125 	neg = 0.125
+9. Bowfinger's next sto                 ... pos = 0.5   	neg = 0.125
+10. Things look hopeful                 ... pos = 0.125 	neg = 0.375
+11. Kit Ramsey is extrem                ... pos = 0.875 	neg = 0.25 
+12. He plays the part pe                ... pos = 1.75  	neg = 0.0  
+13. It's unfortunate bec                ... pos = 0.0   	neg = 0.0  
+14. Bowfinger realizes R                ... pos = 0.25  	neg = 0.125
+15. He tries to break th                ... pos = 0.25  	neg = 0.0  
+16. Instead he tells the                ... pos = 0.0   	neg = 0.0  
+17. And he is, too, only                ... pos = 0.0   	neg = 0.375
+18. He's going to stalk                 ... pos = 0.25  	neg = 0.0  
+19. He hires a lookalike                ... pos = 0.0   	neg = 0.0  
+20. Murphy's Jiff -- a d                ... pos = 0.625 	neg = 0.625
+21. Rounding out Bowfing                ... pos = 1.5   	neg = 2.0  
+22. " . BOWFINGER has be                ... pos = 0.75  	neg = 0.125
+23. But it's not a perfe                ... pos = 0.25  	neg = 0.625
+24. The jokes are used o                ... pos = 0.75  	neg = 1.5  
+25. But it's still a fun                ... pos = 0.375 	neg = 0.0  
+26. Everyone really did                 ... pos = 0.75  	neg = 1.375
+27. They were having fun                ... pos = 0.125 	neg = 0.125
+28. Best of all, though                 ... pos = 0.375 	neg = 0.25 
+29. He's energetic, opti                ... pos = 1.5   	neg = 0.25 
+30. His philosophy seems                ... pos = 0.125 	neg = 0.25 
+31. ". Check out more cu                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2751-1008 is Positive        ... pos = 12.625 	neg = 10.625
+Overall score of document
+Total Pos = 12.625
+Total Neg = 10.625
+---------------------------------------------------------------------------

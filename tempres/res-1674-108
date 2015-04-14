@@ -1,0 +1,28 @@
+0. USA.                                 ... pos = 0     	neg = 0.0  
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director - Mimi Lede                 ... pos = 0.5   	neg = 0.75 
+3. Production Company -                 ... pos = 0.0   	neg = 0    
+4. Tea Leoni (Jenny Ler                 ... pos = 0.375 	neg = 0.5  
+5. As the comet nears,                  ... pos = 0.25  	neg = 0.125
+6. Every year studios s                 ... pos = 0.375 	neg = 0.375
+7. Asteroid/meteor coll                 ... pos = 0.125 	neg = 0.125
+8. `Deep Impact' starts                 ... pos = 0.375 	neg = 0.25 
+9. The script comes fro                 ... pos = 0.625 	neg = 0.25 
+10. The promising openin                ... pos = 1.375 	neg = 1.0  
+11. This segues into a,                 ... pos = 0.875 	neg = 0.0  
+12. And the climax of th                ... pos = 0.75  	neg = 0.75 
+13. Unfortunately booken                ... pos = 0.0   	neg = 1.125
+14. It wants to tell a p                ... pos = 4.875 	neg = 0.125
+15. And despite the film                ... pos = 0.5   	neg = 0.5  
+16. You sort of get the                 ... pos = 1.25  	neg = 2.0  
+17. It almost becomes ab                ... pos = 0.5   	neg = 0.875
+18. After the  maddening                ... pos = 0.0   	neg = 0.375
+19. (I don't know if it                 ... pos = 0.25  	neg = 1.25 
+20. You  know:- "She cou                ... pos = 0.0   	neg = 0.125
+21. "). . .                             ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1674-108 is Positive         ... pos = 13.0  	neg = 10.5 
+Overall score of document
+Total Pos = 13.0
+Total Neg = 10.5
+---------------------------------------------------------------------------

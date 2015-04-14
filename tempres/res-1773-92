@@ -1,0 +1,39 @@
+0. Seen on 31 January 1                 ... pos = 0.0   	neg = 0.125
+1. *Fallen* begins with                 ... pos = 0.0   	neg = 0.5  
+2. The killer is unusua                 ... pos = 0.375 	neg = 1.125
+3. Early on in the movi                 ... pos = 0.0   	neg = 0.375
+4. He cannot be bribed,                 ... pos = 0.25  	neg = 0.625
+5. Soon after the priso                 ... pos = 0.0   	neg = 0.375
+6. Some clues by the ki                 ... pos = 0.875 	neg = 0.875
+7. A visit to the man's                 ... pos = 0.125 	neg = 0.125
+8. It turns out that th                 ... pos = 1.625 	neg = 1.25 
+9. Now, if you can go a                 ... pos = 0.25  	neg = 0.0  
+10. That was my problem                 ... pos = 0     	neg = 0.375
+11. It was pretty slow-m                ... pos = 0.375 	neg = 1.25 
+12. In fact, my brother                 ... pos = 0.0   	neg = 0.625
+13. *Fallen* clearly is                 ... pos = 0.5   	neg = 0.125
+14. Watching Washington                 ... pos = 1.125 	neg = 0.875
+15. The best scenes in t                ... pos = 0.375 	neg = 0.125
+16. One takes place righ                ... pos = 0.375 	neg = 0.0  
+17. The better one thoug                ... pos = 0.0   	neg = 0.125
+18. It is the only reall                ... pos = 0.0   	neg = 0.125
+19. *Fallen*'s premise r                ... pos = 0.125 	neg = 0.0  
+20. Director Gregory Hob                ... pos = 1.375 	neg = 0.625
+21. Overall, the movie i                ... pos = 0.125 	neg = 1.0  
+22. Denzel Washington pl                ... pos = 0.0   	neg = 0.0  
+23. His co-stars are Joh                ... pos = 0.5   	neg = 0.0  
+24. Lynne points out, "A                ... pos = 0.375 	neg = 0.375
+25. " And he is.                        ... pos = 0.0   	neg = 0.125
+26. His performance and                 ... pos = 0.25  	neg = 0.0  
+27. Hobbes is a star off                ... pos = 0.25  	neg = 0.25 
+28. So, *Fallen* is not                 ... pos = 0.0   	neg = 1.625
+29. It's a good bet for                 ... pos = 0.75  	neg = 0.0  
+30. Add a star if you re                ... pos = 0.625 	neg = 0.375
+31. " You'll hear it thr                ... pos = 0.0   	neg = 0.0  
+32. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1773-92 is Negative          ... pos = 10.625 	neg = 13.5 
+Overall score of document
+Total Pos = 10.625
+Total Neg = 13.5
+---------------------------------------------------------------------------

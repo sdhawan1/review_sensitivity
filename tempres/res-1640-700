@@ -1,0 +1,28 @@
+0. Release Date: April                  ... pos = 0.25  	neg = 0.0  
+1. Directed by: Kirk Wo                 ... pos = 0.375 	neg = 0.625
+2. Similar to The Repla                 ... pos = 0.5   	neg = 1.25 
+3. While this in itself                 ... pos = 0.5   	neg = 1.25 
+4. Needless to say, tha                 ... pos = 0.75  	neg = 0    
+5. The closest comparis                 ... pos = 0.75  	neg = 0.5  
+6. Similarly, John Woo'                 ... pos = 0.625 	neg = 0.375
+7. However, The Big Hit                 ... pos = 0.375 	neg = 0.375
+8. One of the running j                 ... pos = 1.25  	neg = 0.375
+9. The main character i                 ... pos = 0.875 	neg = 0.25 
+10. A hit man who can't                 ... pos = 0.125 	neg = 0.25 
+11. And of course, as a                 ... pos = 1.25  	neg = 0.0  
+12. So even though he ma                ... pos = 0.0   	neg = 0.375
+13. Unfortunately, the k                ... pos = 0.0   	neg = 1.0  
+14. Infuriated at the tr                ... pos = 0.25  	neg = 0.0  
+15. None of the actors a                ... pos = 1.5   	neg = 0.75 
+16. Avery Brooks, whose                 ... pos = 0.125 	neg = 0.875
+17. The hangdog likes of                ... pos = 0.0   	neg = 1.0  
+18. The movie's only hig                ... pos = 0.625 	neg = 0.0  
+19. Other than that, the                ... pos = 0.5   	neg = 0.375
+20. Worth a look, but pe                ... pos = 0.0   	neg = 0.375
+21. FINAL AWARD FOR "THE                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1640-700 is Positive         ... pos = 11.125 	neg = 10.0 
+Overall score of document
+Total Pos = 11.125
+Total Neg = 10.0
+---------------------------------------------------------------------------

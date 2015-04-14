@@ -1,0 +1,22 @@
+0. Starring: Steve Mart                 ... pos = 0.5   	neg = 0.125
+1. One day Bowfinger is                 ... pos = 0.5   	neg = 0.75 
+2. When paranoid big-na                 ... pos = 0.0   	neg = 0.0  
+3. Will Bowfinger's ali                 ... pos = 0.25  	neg = 0.0  
+4. Opinion: Amazing.                    ... pos = 0.0   	neg = 0    
+5. What a great week fo                 ... pos = 0.0   	neg = 0.0  
+6. Whether you see THE                  ... pos = 0.0   	neg = 0.0  
+7. They're all good.                    ... pos = 0.75  	neg = 0    
+8. Steve Martin is know                 ... pos = 0.0   	neg = 0.25 
+9. It works.                            ... pos = 0.0   	neg = 0    
+10. Murphy is hilarious                 ... pos = 1.25  	neg = 0.125
+11. Heather Graham does                 ... pos = 0.25  	neg = 0    
+12. Federal Express, and                ... pos = 0.625 	neg = 0.0  
+13. BOWFINGER is funny.                 ... pos = 0     	neg = 0.125
+14. Whimsical, yes, but                 ... pos = 0.75  	neg = 0.625
+15. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2751-416 is Positive         ... pos = 4.875 	neg = 2.125
+Overall score of document
+Total Pos = 4.875
+Total Neg = 2.125
+---------------------------------------------------------------------------

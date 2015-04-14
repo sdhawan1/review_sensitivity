@@ -1,0 +1,34 @@
+0. Directed by Robert R                 ... pos = 0.0   	neg = 0    
+1. Written by Kevin Wil                 ... pos = 0.0   	neg = 0    
+2. Starring Jordana Bre                 ... pos = 0.0   	neg = 0.375
+3. 1998, 104 min., Rate                 ... pos = 0.875 	neg = 0.875
+4. And I went into this                 ... pos = 0.125 	neg = 0.0  
+5. After all, director                  ... pos = 0.0   	neg = 0.0  
+6. The theatrical trail                 ... pos = 0.25  	neg = 0.0  
+7. Even the Tommy Hilfi                 ... pos = 1.0   	neg = 0.125
+8. How did my opinion c                 ... pos = 0.0   	neg = 0.0  
+9. You may be as surpri                 ... pos = 0.125 	neg = 0.25 
+10. Lacking the satirica                ... pos = 0.625 	neg = 0.125
+11. "The Breakfast Club,                ... pos = 0.375 	neg = 0.0  
+12. More than influences                ... pos = 1.0   	neg = 0.0  
+13. Herrington High used                ... pos = 0.125 	neg = 0.125
+14. But lately the teach                ... pos = 0.875 	neg = 0.75 
+15. Delilah (Jordana Bre                ... pos = 0.25  	neg = 0.375
+16. He worked hard for t                ... pos = 0.0   	neg = 0.75 
+17. How dare Mr. Furlong                ... pos = 0.5   	neg = 0.25 
+18. Zeke (Josh Hartnett,                ... pos = 0.25  	neg = 1.375
+19. His parents are gone                ... pos = 0.875 	neg = 0.75 
+20. Rounding out the gro                ... pos = 1.0   	neg = 0.875
+21. The faculty itself,                 ... pos = 0.5   	neg = 0.875
+22. As the six students                 ... pos = 1.0   	neg = 0.625
+23. Fast pacing, dialogu                ... pos = 1.375 	neg = 0.5  
+24. Particularly amusing                ... pos = 0.25  	neg = 1.0  
+25. It's not quite campy                ... pos = 0.0   	neg = 0.0  
+26. "The Faculty" is, ho                ... pos = 0.375 	neg = 1.125
+27. A grade A B movie, r                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1561-291 is Positive         ... pos = 11.75 	neg = 11.375
+Overall score of document
+Total Pos = 11.75
+Total Neg = 11.375
+---------------------------------------------------------------------------

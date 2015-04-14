@@ -1,0 +1,82 @@
+0. Starring Pierce Bros                 ... pos = 0.375 	neg = 0.625
+1. I'm not sure if it w                 ... pos = 0.625 	neg = 1.25 
+2. I'm happy to report                  ... pos = 0.75  	neg = 0.125
+3. By that point, it wa                 ... pos = 0.0   	neg = 0.125
+4. Bond was back with a                 ... pos = 0.0   	neg = 0.25 
+5. All doubts would hav                 ... pos = 0.875 	neg = 0.125
+6. It seems that nobody                 ... pos = 1.0   	neg = 0.875
+7. It took a reminder f                 ... pos = 0.0   	neg = 0.0  
+8. I guess they can be                  ... pos = 0.625 	neg = 0.25 
+9. Anyway, after somebo                 ... pos = 0.625 	neg = 0.125
+10. I think the most not                ... pos = 0.625 	neg = 0.125
+11. There were probably                 ... pos = 0.0   	neg = 0.125
+12. And Bond's last one-                ... pos = 0.375 	neg = 0.125
+13. The World Is Not Eno                ... pos = 0.0   	neg = 0.125
+14. Everything from wild                ... pos = 0.125 	neg = 0.5  
+15. For the most part, t                ... pos = 0.5   	neg = 0.0  
+16. Although, there were                ... pos = 0.5   	neg = 0.25 
+17. I think some of the                 ... pos = 0.0   	neg = 0.125
+18. While he did a good                 ... pos = 2.375 	neg = 0.375
+19. Most noticeably sequ                ... pos = 0.125 	neg = 0.125
+20. He almost seemed lik                ... pos = 0.0   	neg = 0.25 
+21. But they were brief                 ... pos = 0.0   	neg = 0.125
+22. If you have ever see                ... pos = 0.875 	neg = 0.25 
+23. The World Is Not Eno                ... pos = 0.0   	neg = 0.5  
+24. This time we have ye                ... pos = 1.0   	neg = 0.5  
+25. 007 matches wits wit                ... pos = 0.125 	neg = 0.0  
+26. Why this point is in                ... pos = 0.0   	neg = 0.25 
+27. They took great pain                ... pos = 0.0   	neg = 0.625
+28. Anyway, Renard, like                ... pos = 0.5   	neg = 0.375
+29. I guess world domina                ... pos = 0.875 	neg = 0.0  
+30. Bond is brought in t                ... pos = 0.375 	neg = 1.0  
+31. Along the way, Bond                 ... pos = 0.0   	neg = 0.25 
+32. Like all Bond films,                ... pos = 0.0   	neg = 0.75 
+33. My biggest complaint                ... pos = 0.0   	neg = 0.25 
+34. There was at least o                ... pos = 0.125 	neg = 0.625
+35. The buddy that I saw                ... pos = 1.0   	neg = 0.125
+36. It was alluded to ea                ... pos = 0.0   	neg = 0.125
+37. Later, it became a b                ... pos = 0.5   	neg = 0.25 
+38. But because it is a                 ... pos = 1.125 	neg = 0.375
+39. After all, it isn't                 ... pos = 0.0   	neg = 0    
+40. How about the cast?                 ... pos = 0.0   	neg = 0.0  
+41. Brosnan seems to get                ... pos = 0.0   	neg = 0.125
+42. I grew up with the R                ... pos = 1.25  	neg = 0.0  
+43. Judi Dench, as M, ha                ... pos = 0.0   	neg = 0.0  
+44. She brought the tale                ... pos = 0.25  	neg = 0.125
+45. Robbie Coltrane was                 ... pos = 1.125 	neg = 0.25 
+46. Coltrane gets more s                ... pos = 0.0   	neg = 0.0  
+47. Then there are the B                ... pos = 0.25  	neg = 0.0  
+48. Sophie Marceau might                ... pos = 0.875 	neg = 0.625
+49. There is just someth                ... pos = 0.875 	neg = 0.25 
+50. Those that saw her i                ... pos = 0.0   	neg = 0.25 
+51. Marceau may be the m                ... pos = 0.375 	neg = 0.125
+52. Then we have Denise                 ... pos = 0.0   	neg = 0.0  
+53. There was no doubt i                ... pos = 0.375 	neg = 0.875
+54. And after you see th                ... pos = 0.5   	neg = 0.625
+55. I was pleasantly sur                ... pos = 1.5   	neg = 0.125
+56. Admittedly, there wa                ... pos = 0.25  	neg = 0.25 
+57. I must say that the                 ... pos = 1.25  	neg = 0.875
+58. While Carlyle did a                 ... pos = 0.875 	neg = 0.0  
+59. The producers tried                 ... pos = 1.875 	neg = 2.0  
+60. I guess I was hoping                ... pos = 2.25  	neg = 0.125
+61. This might have work                ... pos = 0.0   	neg = 0.625
+62. Last, but not least,                ... pos = 0.0   	neg = 0.0  
+63. This is the 17th app                ... pos = 0.75  	neg = 0.25 
+64. Although his screen                 ... pos = 0.125 	neg = 0.125
+65. Rumors abound that t                ... pos = 0.0   	neg = 0.125
+66. He says future appea                ... pos = 0.75  	neg = 0.0  
+67. The producers have i                ... pos = 1.0   	neg = 0.0  
+68. While we don't see m                ... pos = 0.75  	neg = 0.375
+69. So how does it stack                ... pos = 0.0   	neg = 0.125
+70. Despite some problem                ... pos = 0.625 	neg = 0.5  
+71. And, all things cons                ... pos = 0.625 	neg = 0.5  
+72. This is easily the b                ... pos = 0.625 	neg = 0.125
+73. It may even be the b                ... pos = 0.625 	neg = 0.125
+74. One thing is for sur                ... pos = 0.625 	neg = 0.25 
+75. Here's looking forwa                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3999-488 is Positive         ... pos = 36.375 	neg = 22.0 
+Overall score of document
+Total Pos = 36.375
+Total Neg = 22.0
+---------------------------------------------------------------------------

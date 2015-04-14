@@ -1,0 +1,16 @@
+0. Creature features ar                 ... pos = 1.375 	neg = 0.875
+1. Obviously this is us                 ... pos = 0.5   	neg = 0.125
+2. A deputy is bit in h                 ... pos = 0.125 	neg = 0.125
+3. The top of the man i                 ... pos = 0.125 	neg = 0.375
+4. Kelly (Fonda) has ju                 ... pos = 0.875 	neg = 0.375
+5. Two other characters                 ... pos = 2.25  	neg = 0.5  
+6. Lake Placid will kee                 ... pos = 0.75  	neg = 0.0  
+7. A good choice especi                 ... pos = 0.75  	neg = 0.0  
+8. Finally, Hollywood h                 ... pos = 0.625 	neg = 0.875
+9. Come along for one h                 ... pos = 0.75  	neg = 1.875
+---------------------------------------------------------------------------
+./temp/tmp-2493-329 is Positive         ... pos = 8.125 	neg = 5.125
+Overall score of document
+Total Pos = 8.125
+Total Neg = 5.125
+---------------------------------------------------------------------------

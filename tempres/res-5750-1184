@@ -1,0 +1,30 @@
+0. STARRING:  Tim Allen                 ... pos = 0.625 	neg = 0.125
+1. The idea has been to                 ... pos = 0.25  	neg = 0.125
+2. )  In the unexpected                 ... pos = 1.125 	neg = 0.375
+3. It's a great premise                 ... pos = 1.5   	neg = 0.625
+4. The film begins at o                 ... pos = 1.125 	neg = 0.75 
+5. We're also introduce                 ... pos = 0.0   	neg = 0.25 
+6. Gwen DeMarco (Weaver                 ... pos = 2.5   	neg = 0.75 
+7. Tommy Webber ('Chill                 ... pos = 0.75  	neg = 0.375
+8. The two most famous                  ... pos = 1.75  	neg = 1.0  
+9. After overhearing so                 ... pos = 0.75  	neg = 1.5  
+10. He is awakened by an                ... pos = 1.125 	neg = 0.125
+11. Assuming they are fa                ... pos = 0.25  	neg = 0.375
+12. When he comes to, he                ... pos = 1.875 	neg = 0.0  
+13. Convincing the other                ... pos = 1.625 	neg = 2.25 
+14. There are a great ma                ... pos = 1.125 	neg = 0.0  
+15. In fact, the movie i                ... pos = 1.25  	neg = 0.125
+16. The scenes that dire                ... pos = 0.375 	neg = 0.625
+17. Rickman, as usual, i                ... pos = 0.375 	neg = 0.25 
+18. Recently popular act                ... pos = 1.25  	neg = 0.25 
+19. "  The best casting                 ... pos = 0.875 	neg = 0.125
+20. Even the obligatory                 ... pos = 0.5   	neg = 0.25 
+21. Were it not such a c                ... pos = 0.0   	neg = 0.75 
+22. "  Judging from the                 ... pos = 1.25  	neg = 0.625
+23. )  In any case, it i                ... pos = 0.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5750-1184 is Positive        ... pos = 22.875 	neg = 12.0 
+Overall score of document
+Total Pos = 22.875
+Total Neg = 12.0
+---------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+0. Starring Matt Damon;                 ... pos = 0.5   	neg = 0.25 
+1. I'm not sure why, bu                 ... pos = 0.25  	neg = 0.0  
+2. The two guys who I s                 ... pos = 0.125 	neg = 0.0  
+3. But yet my buddy's w                 ... pos = 0.5   	neg = 0.0  
+4. I'm not sure what it                 ... pos = 0.25  	neg = 0.125
+5. I would have to say                  ... pos = 0.0   	neg = 0.0  
+6. Add Gwyneth Paltrow                  ... pos = 0.0   	neg = 1.375
+7. Maybe it was all the                 ... pos = 0.125 	neg = 0.125
+8. I really don't want                  ... pos = 0.0   	neg = 0.25 
+9. (Two women, yes.                     ... pos = 0.0   	neg = 0.0  
+10. But not two guys.                   ... pos = 0.0   	neg = 0.0  
+11. ) But I think the re                ... pos = 0.0   	neg = 1.0  
+12. Do we really need to                ... pos = 0.0   	neg = 0.125
+13. Let me answer that w                ... pos = 0.0   	neg = 0.25 
+14. What is it with the                 ... pos = 0.0   	neg = 0.125
+15. The night before wat                ... pos = 0.0   	neg = 0.0  
+16. I know all the femal                ... pos = 0.125 	neg = 0.5  
+17. But ladies, there is                ... pos = 0.25  	neg = 0.625
+18. I propose a new rule                ... pos = 0.375 	neg = 0.375
+19. If we have to endure                ... pos = 0.0   	neg = 0.125
+20. Just a thought.                     ... pos = 0.0   	neg = 0.0  
+21. Anyway, back to this                ... pos = 0.0   	neg = 0.0  
+22. Another problem that                ... pos = 0.0   	neg = 0.5  
+23. Matt Damon plays Tom                ... pos = 0.125 	neg = 0.125
+24. ) runs into a shippi                ... pos = 0.25  	neg = 0.125
+25. Ripley does nothing                 ... pos = 0.125 	neg = 0.875
+26. Instead he accepts a                ... pos = 0.25  	neg = 0.0  
+27. This is where things                ... pos = 0.0   	neg = 0.125
+28. Tom Ripley immediate                ... pos = 0.25  	neg = 0.0  
+29. He arrives in Italy                 ... pos = 0.0   	neg = 0.0  
+30. It is difficult to g                ... pos = 0.625 	neg = 0.5  
+31. The pure sociopathic                ... pos = 0.625 	neg = 0.125
+32. My hat goes off for                 ... pos = 0.125 	neg = 0.875
+33. At times I almost fe                ... pos = 0.5   	neg = 1.125
+34. My problem with the                 ... pos = 0.25  	neg = 0.75 
+35. (I know he was nuts,                ... pos = 0.0   	neg = 0.125
+36. ) I could never see                 ... pos = 0.0   	neg = 0.0  
+37. Maybe that was suppo                ... pos = 0.0   	neg = 0.125
+38. I can't find fault w                ... pos = 0.875 	neg = 1.125
+39. I just didn't care a                ... pos = 0.0   	neg = 0.0  
+40. So the manipulation                 ... pos = 0.5   	neg = 0.0  
+41. I made a crack about                ... pos = 0.0   	neg = 0.0  
+42. It's not that I disl                ... pos = 0.25  	neg = 0.0  
+43. Damon is actually qu                ... pos = 1.5   	neg = 0.625
+44. Jude Law continues t                ... pos = 0.0   	neg = 0.0  
+45. He was good, but I w                ... pos = 0.75  	neg = 0.25 
+46. Then we have Gwyneth                ... pos = 0     	neg = 0.0  
+47. It seems her only jo                ... pos = 0.875 	neg = 0.25 
+48. She fills the role n                ... pos = 0.375 	neg = 0    
+49. The one actor who I                 ... pos = 1.375 	neg = 0.125
+50. He is about the only                ... pos = 0.375 	neg = 0.25 
+51. Unfortunately, his r                ... pos = 0.125 	neg = 1.0  
+52. This is a movie that                ... pos = 1.0   	neg = 0.375
+53. Other than the above                ... pos = 0.0   	neg = 0.25 
+54. But it was there non                ... pos = 0.125 	neg = 0.125
+55. The Talented Mr. Rip                ... pos = 0.375 	neg = 0.125
+56. All of the major com                ... pos = 0.375 	neg = 0.0  
+57. With some expert twe                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-645-488 is Negative          ... pos = 14.5  	neg = 15.75
+Overall score of document
+Total Pos = 14.5
+Total Neg = 15.75
+---------------------------------------------------------------------------

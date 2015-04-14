@@ -1,0 +1,45 @@
+0. I think Woody Allen                  ... pos = 0.0   	neg = 0.0  
+1. THE ICE STORM is the                 ... pos = 0.875 	neg = 0.625
+2. It's a relatively ne                 ... pos = 0.5   	neg = 0.0  
+3. The changes in socie                 ... pos = 0.0   	neg = 1.25 
+4. Woody Allen's subjec                 ... pos = 0.0   	neg = 0.375
+5. Two years later, ORD                 ... pos = 1.0   	neg = 0    
+6. More recently, we've                 ... pos = 0.0   	neg = 0.125
+7. THE ICE STORM revolv                 ... pos = 0.5   	neg = 0.5  
+8. His son Paul (Tobey                  ... pos = 0.75  	neg = 0.625
+9. His 14-year-old daug                 ... pos = 0.0   	neg = 0.125
+10. Ben, meanwhile, is c                ... pos = 0.5   	neg = 0.125
+11. The youngsters try t                ... pos = 0.25  	neg = 0.125
+12. I should say that I'                ... pos = 0.375 	neg = 0.0  
+13. I think our society                 ... pos = 0.125 	neg = 0.375
+14. It's just that these                ... pos = 0.5   	neg = 0.0  
+15. The people in THE IC                ... pos = 0.5   	neg = 0.75 
+16. In fact, nobody in t                ... pos = 0.375 	neg = 0.875
+17. You ask yourself why                ... pos = 0.0   	neg = 0.375
+18. Maybe it's shallow o                ... pos = 1.5   	neg = 0.625
+19. The suburbs can be p                ... pos = 1.0   	neg = 1.125
+20. Like ORDINARY PEOPLE                ... pos = 0.25  	neg = 0.5  
+21. James Schamus's scre                ... pos = 0.0   	neg = 0.25 
+22. Mikey explains that                 ... pos = 1.5   	neg = 0.0  
+23. Because it's a squar                ... pos = 0.0   	neg = 0    
+24. Not numbers, but spa                ... pos = 0.0   	neg = 0.0  
+25. It's perfect.                       ... pos = 0.0   	neg = 0    
+26. Except that no one c                ... pos = 0.0   	neg = 0.25 
+27. "  I haven't read th                ... pos = 0.125 	neg = 0.0  
+28. The dialogue hamstri                ... pos = 0.0   	neg = 0.0  
+29. I'm also gratified a                ... pos = 1.0   	neg = 0.0  
+30. Any Hollywood studio                ... pos = 0.375 	neg = 0.125
+31. The cast as a whole,                ... pos = 0.0   	neg = 0.125
+32. Here's where directo                ... pos = 0.875 	neg = 0.0  
+33. There's a creepily f                ... pos = 0.125 	neg = 0.25 
+34. Maybe I'm too harsh.                ... pos = 0.0   	neg = 0.25 
+35. Maybe, like so many                 ... pos = 0.5   	neg = 1.0  
+36. It just seems to me                 ... pos = 1.875 	neg = 1.5  
+37. It pushes a movie to                ... pos = 0.0   	neg = 0.0  
+38. THE ICE STORM is a m                ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-5697-739 is Positive         ... pos = 15.375 	neg = 13.25
+Overall score of document
+Total Pos = 15.375
+Total Neg = 13.25
+---------------------------------------------------------------------------

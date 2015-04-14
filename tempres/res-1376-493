@@ -1,0 +1,53 @@
+0. Star Wars Episode 1:                 ... pos = 0.75  	neg = 0.125
+1. Despite Episode 1 fa                 ... pos = 0.375 	neg = 0.125
+2. It is yet another ma                 ... pos = 1.875 	neg = 0.5  
+3. Just to clarify: I a                 ... pos = 0.25  	neg = 0.125
+4. In my opinion Mozart                 ... pos = 0.375 	neg = 0.0  
+5. However, John Willia                 ... pos = 0.5   	neg = 0.0  
+6. When you listen to t                 ... pos = 0.0   	neg = 0.0  
+7. Unlike other blockbu                 ... pos = 0.375 	neg = 0.0  
+8. Williams does not tr                 ... pos = 0.375 	neg = 0.0  
+9. What most people do                  ... pos = 0.0   	neg = 0.25 
+10. That means that it b                ... pos = 0.0   	neg = 0.0  
+11. This is a testament                 ... pos = 1.25  	neg = 0.25 
+12. Whether it be the he                ... pos = 2.125 	neg = 0.75 
+13. The only gripe I cou                ... pos = 0.0   	neg = 0.25 
+14. It is a continuous s                ... pos = 0.25  	neg = 0.125
+15. It would have been b                ... pos = 0.0   	neg = 0.25 
+16. But trust me, we'll                 ... pos = 0.0   	neg = 0.0  
+17. So in a day and age                 ... pos = 0.375 	neg = 0.0  
+18. Not only does he cre                ... pos = 0.375 	neg = 0.125
+19. In fact, this beauti                ... pos = 0.75  	neg = 0.0  
+20. If you get this soun                ... pos = 1.125 	neg = 0.0  
+21. Austin Powers: The S                ... pos = 0.0   	neg = 0.0  
+22. While the soundtrack                ... pos = 0.125 	neg = 0.125
+23. The movie was great;                ... pos = 0.0   	neg = 0.5  
+24. The soundtrack start                ... pos = 0.0   	neg = 0.875
+25. " It's always a risk                ... pos = 0.0   	neg = 0.25 
+26. The Who provide "My                 ... pos = 0.0   	neg = 0.0  
+27. does a good job on t                ... pos = 0.0   	neg = 0.0  
+28. " However, things go                ... pos = 0.125 	neg = 0.0  
+29. Lenny Kravitz provid                ... pos = 0.0   	neg = 0.0  
+30. " Scary Spice is nex                ... pos = 0.0   	neg = 1.375
+31. These two songs are                 ... pos = 0.25  	neg = 0.375
+32. In the film, they do                ... pos = 0.0   	neg = 0.0  
+33. In fact, they actual                ... pos = 0.0   	neg = 0.25 
+34. Anyway, soundtracks                 ... pos = 0.75  	neg = 0.125
+35. The rest of the soun                ... pos = 0.0   	neg = 0.125
+36. The bright spots?                   ... pos = 0.0   	neg = 0.0  
+37. Dr.                                 ... pos = 0     	neg = 0    
+38. Evil's hilarious rem                ... pos = 0.375 	neg = 0.0  
+39. " Green Day also app                ... pos = 0.875 	neg = 0.125
+40. And Burt Bacharach a                ... pos = 1.375 	neg = 0.0  
+41. ". Overall, this is                 ... pos = 0.0   	neg = 0.125
+42. But, it seems they w                ... pos = 1.25  	neg = 0.125
+43. If you liked the mov                ... pos = 0.125 	neg = 0.0  
+44. If you are a fan of                 ... pos = 0.625 	neg = 0.75 
+45. Otherwise, stay away                ... pos = 0.0   	neg = 0    
+46. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1376-493 is Positive         ... pos = 17.125 	neg = 8.0  
+Overall score of document
+Total Pos = 17.125
+Total Neg = 8.0
+---------------------------------------------------------------------------

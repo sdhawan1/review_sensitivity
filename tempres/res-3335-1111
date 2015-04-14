@@ -1,0 +1,32 @@
+0. BELOVED Cast: Oprah                  ... pos = 1.5   	neg = 0.125
+1. In fact, there is re                 ... pos = 0.25  	neg = 0.375
+2. Oprah Winfrey's labo                 ... pos = 1.375 	neg = 0.125
+3. The film succeeds in                 ... pos = 1.625 	neg = 0.5  
+4. It's difficult to pu                 ... pos = 1.625 	neg = 1.375
+5. Sethe (Winfrey) is a                 ... pos = 0.0   	neg = 0.25 
+6. The year is 1873, an                 ... pos = 0.5   	neg = 0.125
+7. Sethe's past, we lea                 ... pos = 0.25  	neg = 0.625
+8. The two are joined b                 ... pos = 0.625 	neg = 0.0  
+9. But a mysterious gue                 ... pos = 0.625 	neg = 0.0  
+10. Where she came from,                ... pos = 0.375 	neg = 0.75 
+11. Although adapted fro                ... pos = 1.25  	neg = 0.0  
+12. There are moments in                ... pos = 0.375 	neg = 0.25 
+13. As easily as a pictu                ... pos = 0.75  	neg = 0.0  
+14. The pictures that ci                ... pos = 0.875 	neg = 0.125
+15. Where Beloved fails                 ... pos = 0.375 	neg = 0.25 
+16. Illiterate is not th                ... pos = 0.0   	neg = 0.25 
+17. That's not to say th                ... pos = 0.125 	neg = 0.75 
+18. He squeezes strong p                ... pos = 0.5   	neg = 0.0  
+19. Beloved's strange ac                ... pos = 1.25  	neg = 0.625
+20. I was patiently wait                ... pos = 1.625 	neg = 0.125
+21. Demme also directs w                ... pos = 0.75  	neg = 0.375
+22. Needless of how good                ... pos = 3.75  	neg = 0.125
+23. But Beloved as a who                ... pos = 0.25  	neg = 0.0  
+24. It is a film that at                ... pos = 0.375 	neg = 0.25 
+25. To see an extraordin                ... pos = 0.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3335-1111 is Positive        ... pos = 21.625 	neg = 7.625
+Overall score of document
+Total Pos = 21.625
+Total Neg = 7.625
+---------------------------------------------------------------------------

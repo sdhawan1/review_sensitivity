@@ -1,0 +1,41 @@
+0. by Curtis Edmonds --                 ... pos = 0.375 	neg = 0.25 
+1. The first one isn't                  ... pos = 0.125 	neg = 0.125
+2. Originally, director                 ... pos = 0.375 	neg = 1.0  
+3. Production was moved                 ... pos = 0.0   	neg = 0.25 
+4. However, it was easi                 ... pos = 0.375 	neg = 0.25 
+5. As a result, A Simpl                 ... pos = 0.25  	neg = 0.0  
+6. I really don't want                  ... pos = 0.0   	neg = 0.125
+7. Partly because it's                  ... pos = 0.0   	neg = 0.0  
+8. Partly because you'd                 ... pos = 0.125 	neg = 0.0  
+9. And partly because,                  ... pos = 0.875 	neg = 0.25 
+10. The book and the mov                ... pos = 0.0   	neg = 0.0  
+11. Paxton and Thornton                 ... pos = 0.0   	neg = 0.0  
+12. Hank is educated, in                ... pos = 0.5   	neg = 0.5  
+13. (Thornton's characte                ... pos = 1.75  	neg = 0.375
+14. )  They are joined b                ... pos = 0.75  	neg = 0.75 
+15. The "simple plan" of                ... pos = 0.375 	neg = 0.25 
+16. A movie isn't a movi                ... pos = 0.25  	neg = 0.0  
+17. Things aren't helped                ... pos = 0.0   	neg = 1.0  
+18. And then, one night,                ... pos = 0.375 	neg = 0.125
+19. The novel, written b                ... pos = 1.375 	neg = 0.125
+20. The filmmakers made                 ... pos = 0.0   	neg = 1.625
+21. I understand their r                ... pos = 0.375 	neg = 0.0  
+22. As a result of a bad                ... pos = 0.0   	neg = 1.625
+23. What should be gut-w                ... pos = 0.25  	neg = 0.125
+24. I take nothing away                 ... pos = 0.0   	neg = 0.25 
+25. When the casting was                ... pos = 0.375 	neg = 0.375
+26. Paxton does a steady                ... pos = 0.0   	neg = 0.0  
+27. Thornton pulls anoth                ... pos = 1.0   	neg = 0.125
+28. Fonda has the most d                ... pos = 0.25  	neg = 0.0  
+29. The performances are                ... pos = 0.5   	neg = 0.0  
+30. But fans of the book                ... pos = 0.0   	neg = 0.0  
+31. The novel is a class                ... pos = 2.125 	neg = 0.125
+32. The real crime in A                 ... pos = 0.0   	neg = 0.875
+33. MovieNation:  Movie                 ... pos = 0.0   	neg = 0.0  
+34. "  -- Sideshow Bob.                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2400-1045 is Positive        ... pos = 12.875 	neg = 10.5 
+Overall score of document
+Total Pos = 12.875
+Total Neg = 10.5
+---------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+0. It's probably inevit                 ... pos = 0.875 	neg = 0.0  
+1. The result should ha                 ... pos = 0.0   	neg = 0.125
+2. ". As the movie open                 ... pos = 1.375 	neg = 0.0  
+3. After months of  the                 ... pos = 0.375 	neg = 0.25 
+4. Meanwhile, killer Ca                 ... pos = 0.0   	neg = 0.5  
+5. His particular hobby                 ... pos = 0.0   	neg = 0.25 
+6. He takes the corpse                  ... pos = 0.0   	neg = 0.75 
+7. Although Carl's been                 ... pos = 0.0   	neg = 0.5  
+8. Not fast enough, tho                 ... pos = 0.0   	neg = 0.125
+9. From the videos in C                 ... pos = 0.25  	neg = 0.125
+10. To save the kidnappe                ... pos = 0.0   	neg = 0.0  
+11. So off they go  to C                ... pos = 0.5   	neg = 0.75 
+12. The focus of "The Ce                ... pos = 0.5   	neg = 0.25 
+13. For the most part, i                ... pos = 0.0   	neg = 0.0  
+14. In his own  mind, Ca                ... pos = 1.25  	neg = 0.125
+15. All in all, the  min                ... pos = 0.375 	neg = 1.5  
+16. Singh is best known                 ... pos = 1.0   	neg = 0.625
+17. Singer Lopez seems t                ... pos = 0.0   	neg = 0.75 
+18. The premise had grea                ... pos = 0.0   	neg = 0.0  
+19. The computer-generat                ... pos = 1.125 	neg = 0.375
+20. The first room Catha                ... pos = 0.125 	neg = 0.0  
+21. She finds a horse st                ... pos = 0.0   	neg = 0.0  
+22. The panes of glass s                ... pos = 0.0   	neg = 0.0  
+23. This scene is twiste                ... pos = 1.0   	neg = 0.25 
+24. Another element that                ... pos = 0.375 	neg = 0.375
+25. Their minds begin to                ... pos = 0.75  	neg = 0.0  
+26. Like Sidney Lumet's                 ... pos = 0.5   	neg = 0.375
+27. However, Catharine's                ... pos = 1.25  	neg = 0.375
+28. Bottom Line:  Don't                 ... pos = 0.0   	neg = 0.375
+29. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2898-1265 is Positive        ... pos = 11.625 	neg = 8.75 
+Overall score of document
+Total Pos = 11.625
+Total Neg = 8.75
+---------------------------------------------------------------------------

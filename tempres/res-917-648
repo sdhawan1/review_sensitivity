@@ -1,0 +1,52 @@
+0. Men in Black (1997)S                 ... pos = 0.125 	neg = 0.0  
+1. Review by Laurence M                 ... pos = 0.5   	neg = 0.125
+2. It's pretty good in                  ... pos = 1.5   	neg = 0.125
+3. It's main problem is                 ... pos = 1.5   	neg = 0.375
+4. From Con Air, it was                 ... pos = 0.0   	neg = 0.25 
+5. In Spawn, it was the                 ... pos = 0.0   	neg = 0.125
+6. In Event Horizon, it                 ... pos = 0.25  	neg = 0.125
+7. And all of Face/Off                  ... pos = 0.75  	neg = 0.25 
+8. But as for Men In Bl                 ... pos = 0.125 	neg = 0.25 
+9. I remember it not fo                 ... pos = 0.75  	neg = 0.375
+10. And yes, I did see M                ... pos = 0.0   	neg = 0.125
+11. Back to Men in Black                ... pos = 0.0   	neg = 0.125
+12. ) I remember first h                ... pos = 0.375 	neg = 0.375
+13. (for those of you wh                ... pos = 0.75  	neg = 0.5  
+14. Okay, that one was p                ... pos = 0.0   	neg = 1.25 
+15. ) Few people know th                ... pos = 1.0   	neg = 1.0  
+16. This was after the r                ... pos = 0.75  	neg = 0.375
+17. Kind of weird, huh?                 ... pos = 0.0   	neg = 0.0  
+18. ) All I can say is,                 ... pos = 0.0   	neg = 0.125
+19. I know I can't be th                ... pos = 0.0   	neg = 0.625
+20. Sorry.                              ... pos = 0     	neg = 0.625
+21. My apologies to O'Do                ... pos = 0.0   	neg = 0.0  
+22. I actually had a 7th                ... pos = 1.875 	neg = 0.625
+23. He decided not to se                ... pos = 0.0   	neg = 0.125
+24. Hmm....                             ... pos = 0     	neg = 0    
+25. So now you're probab                ... pos = 0.0   	neg = 0.375
+26. Good question.                      ... pos = 0.75  	neg = 0    
+27. I'll move on to the                 ... pos = 0.0   	neg = 0.0  
+28. As you probably alre                ... pos = 0.125 	neg = 0.0  
+29. ) Men in Black is a                 ... pos = 0.0   	neg = 0.25 
+30. Not to get too techn                ... pos = 0.0   	neg = 1.0  
+31. Not bad, eh?                        ... pos = 0.0   	neg = 0.875
+32. (I have no idea why                 ... pos = 0.0   	neg = 0.25 
+33. I'm not even really                 ... pos = 0.0   	neg = 0.0  
+34. )         The specia                ... pos = 1.25  	neg = 0.25 
+35. I found their main h                ... pos = 0.0   	neg = 0.25 
+36. The noisy cricket ju                ... pos = 0.0   	neg = 0.625
+37. And the movie defini                ... pos = 0.375 	neg = 0.0  
+38. It's director, Barry                ... pos = 0.0   	neg = 0.125
+39. This movie was basic                ... pos = 0.0   	neg = 0.375
+40. Don't get me wrong o                ... pos = 0     	neg = 0.75 
+41. It's not bad, I gave                ... pos = 0.0   	neg = 0.875
+42. It was mostly entert                ... pos = 1.375 	neg = 0.25 
+43. My diagnosis for thi                ... pos = 1.0   	neg = 0.0  
+44. Of course, the movie                ... pos = 0.0   	neg = 0.5  
+45. I think.. .                         ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-917-648 is Positive          ... pos = 15.125 	neg = 14.625
+Overall score of document
+Total Pos = 15.125
+Total Neg = 14.625
+---------------------------------------------------------------------------

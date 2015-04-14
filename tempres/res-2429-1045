@@ -1,0 +1,73 @@
+0. I am writing you, we                 ... pos = 0.0   	neg = 0.125
+1. You see, I went to s                 ... pos = 0.375 	neg = 0.0  
+2. This particular thea                 ... pos = 0.5   	neg = 0.0  
+3. Anyway, when I walke                 ... pos = 0.0   	neg = 0.125
+4. (I confess I didn't                  ... pos = 0     	neg = 1.5  
+5. )  So, I walked righ                 ... pos = 0.0   	neg = 0.0  
+6. I'm hoping that you'                 ... pos = 0.25  	neg = 0.0  
+7. I'm not all that wor                 ... pos = 0.25  	neg = 0.125
+8. I do, however, want                  ... pos = 1.625 	neg = 0.125
+9. It took me a while t                 ... pos = 0.0   	neg = 0.125
+10. Why, I walked out of                ... pos = 0.125 	neg = 1.625
+11. At first, the whole                 ... pos = 0.5   	neg = 0.125
+12. And the apparent lap                ... pos = 0.0   	neg = 0.25 
+13. (Not to mention that                ... pos = 0.0   	neg = 0.25 
+14. )  How was I to know                ... pos = 0     	neg = 0.25 
+15. I didn't figure it o                ... pos = 0.0   	neg = 0.0  
+16. I started focusing o                ... pos = 0.125 	neg = 0.0  
+17. This baffled me no e                ... pos = 0.0   	neg = 0.0  
+18. The media hype you o                ... pos = 0.5   	neg = 0.125
+19. And of course, it is                ... pos = 0.0   	neg = 0.125
+20. We see all the thing                ... pos = 0.0   	neg = 0.0  
+21. But none of this is                 ... pos = 0.125 	neg = 1.25 
+22. (What is really surp                ... pos = 0.125 	neg = 0.375
+23. ). Anyway, one part                 ... pos = 1.0   	neg = 0.625
+24. You explore this qui                ... pos = 0.0   	neg = 0.375
+25. What had me fooled i                ... pos = 0.0   	neg = 0.125
+26. Oh sure, he stands o                ... pos = 0.25  	neg = 0.0  
+27. He talks to players                 ... pos = 0.25  	neg = 0.25 
+28. But -- as you know -                ... pos = 0.0   	neg = 0.125
+29. Coaches work like do                ... pos = 1.0   	neg = 0.0  
+30. Pacino doesn't do an                ... pos = 0     	neg = 0.0  
+31. He hangs out in bars                ... pos = 0.0   	neg = 0.0  
+32. The only time he get                ... pos = 0.375 	neg = 0.875
+33. ("The running game!                 ... pos = 0     	neg = 0.0  
+34. ' Diaz complains lou                ... pos = 0.375 	neg = 0.75 
+35. "You're always talki                ... pos = 0.0   	neg = 0.0  
+36. Throw some more touc                ... pos = 0.0   	neg = 0.0  
+37. "). Since Any Given                 ... pos = 1.125 	neg = 0.625
+38. (As a Cowboys fan, I                ... pos = 0.0   	neg = 0.0  
+39. )  And then I realiz                ... pos = 0.0   	neg = 0.0  
+40. That's it, isn't it?                ... pos = 0.0   	neg = 0    
+41. I mean, it's obvious                ... pos = 0.0   	neg = 0.0  
+42. Football head coache                ... pos = 0.0   	neg = 0.0  
+43. You both work too ha                ... pos = 0.0   	neg = 1.0  
+44. Most of your real wo                ... pos = 0.0   	neg = 0.125
+45. You both have to dea                ... pos = 0.0   	neg = 0.0  
+46. You both have to dea                ... pos = 0.625 	neg = 0.125
+47. And you have to deal                ... pos = 0.75  	neg = 0.25 
+48. (Movie directing mus                ... pos = 0.375 	neg = 0.75 
+49. ). And... ultimately                ... pos = 0.875 	neg = 0.875
+50. Just as NFL owners f                ... pos = 0.5   	neg = 0.375
+51. (And the actors/play                ... pos = 1.0   	neg = 0.0  
+52. Ask Rob Reiner if yo                ... pos = 0.0   	neg = 0.0  
+53. ). This explains why                ... pos = 1.25  	neg = 0.625
+54. After all, you're no                ... pos = 0.75  	neg = 0.125
+55. Of course not.                      ... pos = 0.0   	neg = 0.0  
+56. So -- if I'm right,                 ... pos = 0.0   	neg = 0.875
+57. The horrible editing                ... pos = 0.25  	neg = 2.75 
+58. We shouldn't worry a                ... pos = 0.25  	neg = 0.0  
+59. We should just under                ... pos = 0.75  	neg = 0.0  
+60. Right?                              ... pos = 0.0   	neg = 0    
+61. Because... well... i                ... pos = 0.0   	neg = 2.375
+62. Anyway, thank you fo                ... pos = 0.0   	neg = 0.0  
+63. The film industry is                ... pos = 1.875 	neg = 0.25 
+64. Good luck on your ne                ... pos = 0.75  	neg = 0.125
+65. Movie Reviews: http:                ... pos = 0.0   	neg = 0.25 
+66. "     -- Governor Ge                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2429-1045 is Negative        ... pos = 18.875 	neg = 21.125
+Overall score of document
+Total Pos = 18.875
+Total Neg = 21.125
+---------------------------------------------------------------------------

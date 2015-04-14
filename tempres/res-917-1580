@@ -1,0 +1,25 @@
+0. "Men In Black" had e                 ... pos = 1.5   	neg = 0.0  
+1. Unfortuately, while                  ... pos = 0.125 	neg = 0.25 
+2. "Men In Black" tells                 ... pos = 0.625 	neg = 0.0  
+3. All members wear bla                 ... pos = 0.125 	neg = 0.0  
+4. hence the name of th                 ... pos = 0.0   	neg = 0.0  
+5. The movie's plot is                  ... pos = 0.25  	neg = 0.125
+6. Plot is just one of                  ... pos = 0.375 	neg = 0.125
+7. In addition, the act                 ... pos = 0.125 	neg = 0.125
+8. The movie is moderat                 ... pos = 0.5   	neg = 1.25 
+9. Instead the extra te                 ... pos = 0.25  	neg = 0.0  
+10. Unfortunately, these                ... pos = 0.0   	neg = 1.125
+11. For example, the rea                ... pos = 0.375 	neg = 0.25 
+12. From there unfortuna                ... pos = 0.125 	neg = 1.5  
+13. In addition, for all                ... pos = 0.125 	neg = 0.5  
+14. Furthermore, the mov                ... pos = 0.25  	neg = 0.25 
+15. Finally, it should b                ... pos = 3.125 	neg = 0.75 
+16. In sum, "Men In Blac                ... pos = 1.125 	neg = 0.0  
+17. However, part way th                ... pos = 0.125 	neg = 0.75 
+18. This is sad consider                ... pos = 1.125 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-917-1580 is Positive         ... pos = 10.25 	neg = 8.0  
+Overall score of document
+Total Pos = 10.25
+Total Neg = 8.0
+---------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+0. "The Fight Club" is                  ... pos = 0.0   	neg = 0.125
+1. The only reason I we                 ... pos = 0.125 	neg = 0.125
+2. It seemed over-hyped                 ... pos = 0.0   	neg = 0.75 
+3. Although I found the                 ... pos = 0.75  	neg = 0.0  
+4. The central characte                 ... pos = 1.625 	neg = 0.25 
+5. He is trapped in the                 ... pos = 0.0   	neg = 0.625
+6. He works for an auto                 ... pos = 0.0   	neg = 0.0  
+7. His job is to prepar                 ... pos = 0.0   	neg = 0.125
+8. If it cost more mone                 ... pos = 1.5   	neg = 0.625
+9. Norton's character l                 ... pos = 0.875 	neg = 0.5  
+10. Rather than masturba                ... pos = 0.5   	neg = 0.0  
+11. His entire apartment                ... pos = 0.125 	neg = 0.25 
+12. He also suffers from                ... pos = 0.0   	neg = 1.125
+13. The emotional confes                ... pos = 1.375 	neg = 0.375
+14. While he enjoys good                ... pos = 1.125 	neg = 0.125
+15. They face physical m                ... pos = 0.0   	neg = 0.0  
+16. He faces spiritual m                ... pos = 0.0   	neg = 0.0  
+17. On an airplane ride                 ... pos = 0.0   	neg = 0.25 
+18. Brash, self-confiden                ... pos = 0.125 	neg = 0.0  
+19. The Norton character                ... pos = 0.875 	neg = 0    
+20. When he arrives back                ... pos = 0.0   	neg = 0.0  
+21. His precious Ikea fu                ... pos = 1.0   	neg = 0.5  
+22. Since Durden gave hi                ... pos = 0.0   	neg = 0.0  
+23. In the back of his m                ... pos = 0.25  	neg = 0    
+24. The two men meet for                ... pos = 0.0   	neg = 0.0  
+25. Basically, Durden pu                ... pos = 0.0   	neg = 0.125
+26. There is nothing mor                ... pos = 0.0   	neg = 1.125
+27. After they have had                 ... pos = 0.0   	neg = 0.0  
+28. Out of the blue, Dur                ... pos = 1.0   	neg = 0.0  
+29. There is no particul                ... pos = 0.125 	neg = 0.375
+30. Whereupon Durden pun                ... pos = 0.0   	neg = 0.0  
+31. Meanwhile, a group o                ... pos = 0.125 	neg = 0.0  
+32. Why are the two men,                ... pos = 0.375 	neg = 0.125
+33. Eventually other men                ... pos = 0.125 	neg = 0.0  
+34. While the film does                 ... pos = 0.625 	neg = 1.125
+35. Men--and it is men w                ... pos = 0.25  	neg = 0.875
+36. To transcend the emp                ... pos = 0.25  	neg = 0.25 
+37. In many ways, this m                ... pos = 1.25  	neg = 0.625
+38. It also evokes "Cloc                ... pos = 0.75  	neg = 0.0  
+39. "The Fight Club" wou                ... pos = 0.25  	neg = 0.125
+40. Eventually fight clu                ... pos = 0.25  	neg = 0.0  
+41. In a very telling sc                ... pos = 0.75  	neg = 0.375
+42. The revolution of fi                ... pos = 0.125 	neg = 0.125
+43. This is not far remo                ... pos = 0.0   	neg = 0.125
+44. Where "The Fight Clu                ... pos = 0.25  	neg = 0.875
+45. While one would not                 ... pos = 0.625 	neg = 0.25 
+46. It is simply not suf                ... pos = 0.25  	neg = 1.5  
+47. Anybody who has been                ... pos = 0.0   	neg = 0.125
+48. In contrast "Clockwo                ... pos = 1.125 	neg = 0.125
+49. Their words, drawn f                ... pos = 0.875 	neg = 0.0  
+50. Whatever the flaws o                ... pos = 0.125 	neg = 0.125
+51. In the final years o                ... pos = 0.5   	neg = 1.125
+52. Marxist discussion i                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3869-268 is Positive         ... pos = 20.25 	neg = 15.375
+Overall score of document
+Total Pos = 20.25
+Total Neg = 15.375
+---------------------------------------------------------------------------

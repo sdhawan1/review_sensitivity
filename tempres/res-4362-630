@@ -1,0 +1,43 @@
+0. Every now and then a                 ... pos = 0.125 	neg = 1.375
+1. MTV Films' _Election                 ... pos = 0.0   	neg = 0.125
+2. Did anybody know thi                 ... pos = 0.0   	neg = 0.0  
+3. The plot is deceptiv                 ... pos = 0.0   	neg = 0.125
+4. George Washington Ca                 ... pos = 0.0   	neg = 0.125
+5. Tracy Flick (Reese W                 ... pos = 0.375 	neg = 0.125
+6. Mr. "M" (Matthew Bro                 ... pos = 0.25  	neg = 0.0  
+7. And Paul's nihilisti                 ... pos = 0.125 	neg = 0.0  
+8. The dark side of suc                 ... pos = 1.0   	neg = 0.875
+9. You can't help going                 ... pos = 0.625 	neg = 0.25 
+10. _Election, a good fi                ... pos = 0.75  	neg = 0.0  
+11. What makes _Election                ... pos = 0.0   	neg = 0.625
+12. The similarities are                ... pos = 1.25  	neg = 0.25 
+13. Max Fischer (_Rushmo                ... pos = 0.625 	neg = 0.25 
+14. The most significant                ... pos = 0.0   	neg = 0.125
+15. The most significant                ... pos = 0.0   	neg = 0.125
+16. Tracy Flick is from                 ... pos = 0.0   	neg = 0.125
+17. Max Fischer is from                 ... pos = 0.0   	neg = 0.125
+18. The male bumbling ad                ... pos = 0.5   	neg = 0.625
+19. He even gets a bee s                ... pos = 0.0   	neg = 0.75 
+20. The male bumbling ad                ... pos = 0.5   	neg = 0.625
+21. He gets several bee                 ... pos = 0.0   	neg = 0.0  
+22. And so on.                          ... pos = 0     	neg = 0.0  
+23. What happened?                      ... pos = 0.0   	neg = 0    
+24. How is it that an in                ... pos = 2.0   	neg = 0.875
+25. Even so, the strengt                ... pos = 1.0   	neg = 0.0  
+26. Broderick here is pl                ... pos = 0.375 	neg = 0.375
+27. Witherspoon is a rev                ... pos = 0.0   	neg = 0.125
+28. It's early in the ye                ... pos = 0.75  	neg = 0.25 
+29. And once Campbell's                 ... pos = 1.25  	neg = 0.0  
+30. One thing that's bee                ... pos = 0.0   	neg = 0.5  
+31. There is an extraord                ... pos = 0.625 	neg = 0.125
+32. I suppose that, comi                ... pos = 0.625 	neg = 0.875
+33. As the screws tighte                ... pos = 0.0   	neg = 0.125
+34. It is bad enough tha                ... pos = 0.125 	neg = 1.0  
+35. Even so, there's no                 ... pos = 0.375 	neg = 0.25 
+36. There's a lot to lik                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4362-630 is Positive         ... pos = 14.0  	neg = 11.125
+Overall score of document
+Total Pos = 14.0
+Total Neg = 11.125
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. Starring Freddie Pri                 ... pos = 0.0   	neg = 0.375
+1. "She's All That" has                 ... pos = 0.25  	neg = 0.5  
+2. And quite frankly, I                 ... pos = 0.0   	neg = 0.875
+3. (At least, I *hope*                  ... pos = 0.0   	neg = 0.875
+4. "She's All That" tel                 ... pos = 0.25  	neg = 0.0  
+5. That, right there, i                 ... pos = 0.0   	neg = 0.375
+6. How many times have                  ... pos = 0.5   	neg = 0.0  
+7. As Cook comments nea                 ... pos = 0.0   	neg = 0.0  
+8. Of course, had the f                 ... pos = 0.375 	neg = 0.125
+9. As it is, though, "S                 ... pos = 0.25  	neg = 0.375
+10. There's not one orig                ... pos = 1.625 	neg = 0.875
+11. The star of the movi                ... pos = 0.0   	neg = 0.75 
+12. I usually don't like                ... pos = 0.0   	neg = 0.25 
+13. Cook wears the same                 ... pos = 0.0   	neg = 1.125
+14. I was never convince                ... pos = 0.125 	neg = 1.125
+15. The movie seems to b                ... pos = 0.375 	neg = 0.5  
+16. As for Freddie Prinz                ... pos = 0.375 	neg = 1.25 
+17. He coasts through th                ... pos = 0.875 	neg = 0.0  
+18. Kieren Culkin is her                ... pos = 0.0   	neg = 0.375
+19. And for some indisce                ... pos = 0.125 	neg = 0.0  
+20. No explanation is gi                ... pos = 0.0   	neg = 0.375
+21. Were we supposed to                 ... pos = 0.125 	neg = 0.125
+22. I don't think so.                   ... pos = 0     	neg = 0.0  
+23. That single element                 ... pos = 0.0   	neg = 0.5  
+24. "She's All That" suc                ... pos = 0.0   	neg = 0.0  
+25. That's what it boils                ... pos = 0.0   	neg = 0.0  
+26. It's not entertainin                ... pos = 0.875 	neg = 0.0  
+27. The hour and a half                 ... pos = 0.0   	neg = 0.0  
+28. And what's worse, it                ... pos = 0.0   	neg = 1.5  
+29. It appears to be tel                ... pos = 0.875 	neg = 0.125
+30. That's unimportant.                 ... pos = 0.375 	neg = 0    
+31. If you want to *trul                ... pos = 0.625 	neg = 0.375
+32. "  Ugh.. .                          ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3223-1280 is Negative        ... pos = 8.0   	neg = 12.75
+Overall score of document
+Total Pos = 8.0
+Total Neg = 12.75
+---------------------------------------------------------------------------

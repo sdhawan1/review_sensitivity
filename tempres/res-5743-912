@@ -1,0 +1,48 @@
+0. CrankyCriticŽ movie                 ... pos = 1.125 	neg = 0.0  
+1. Consider the story o                 ... pos = 0.125 	neg = 0.0  
+2. He's the new shrink                  ... pos = 0.625 	neg = 0.125
+3. The town also has a                  ... pos = 2.5   	neg = 1.125
+4. So I won't).                         ... pos = 0     	neg = 0.0  
+5. Lessee, one spurned                  ... pos = 0.0   	neg = 0.25 
+6. Two headcases with s                 ... pos = 0.25  	neg = 0    
+7. Add 'em all up and .                 ... pos = 0.0   	neg = 0.125
+8. .                                    ... pos = 0     	neg = 0    
+9. .                                    ... pos = 0     	neg = 0    
+10. can we spell "reveng                ... pos = 0.0   	neg = 0.0  
+11. Oh, let's not and sa                ... pos = 0.0   	neg = 0.0  
+12. The characters, and                 ... pos = 1.625 	neg = 0.25 
+13. Given that this stor                ... pos = 0.0   	neg = 0.0  
+14. A lot of ordinary an                ... pos = 0.25  	neg = 0.75 
+15. It's a great talent                 ... pos = 0.375 	neg = 0.375
+16. Formerly a logging t                ... pos = 0.0   	neg = 0.125
+17. Being the sole provi                ... pos = 0.25  	neg = 0.25 
+18. He can't be seen wit                ... pos = 0.0   	neg = 1.0  
+19. So he hires Mumford                 ... pos = 0.375 	neg = 0.375
+20. You'll discover the                 ... pos = 0.0   	neg = 0.0  
+21. As for the other cus                ... pos = 1.125 	neg = 1.0  
+22. All of the dirt abou                ... pos = 0.75  	neg = 0.125
+23. Which is what local                 ... pos = 0.0   	neg = 0.125
+24. What's that you say?                ... pos = 0.0   	neg = 0    
+25. A doctor is supposed                ... pos = 0.25  	neg = 0.125
+26. Absolutely correct a                ... pos = 0.125 	neg = 0.0  
+27. But, as we know from                ... pos = 0.0   	neg = 0.25 
+28. Not even a little.                  ... pos = 0.0   	neg = 0.25 
+29. Only Robert Stack ca                ... pos = 1.125 	neg = 0.625
+30. Sorry about that.                   ... pos = 0     	neg = 0.625
+31. Kasdan writes well.                 ... pos = 0.0   	neg = 0    
+32. I get inspired.                     ... pos = 0.125 	neg = 0.0  
+33. Shame on me.                        ... pos = 0     	neg = 0.75 
+34. Mumford is a cut abo                ... pos = 0.0   	neg = 0.125
+35. It may be a tad too                 ... pos = 1.0   	neg = 0.5  
+36. Mumford offers a fin                ... pos = 0.25  	neg = 0.125
+37. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+38. This one's definitel                ... pos = 0.25  	neg = 0.25 
+39. We didn't appreciate                ... pos = 0.875 	neg = 0.125
+40. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+41. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5743-912 is Positive         ... pos = 13.75 	neg = 9.875
+Overall score of document
+Total Pos = 13.75
+Total Neg = 9.875
+---------------------------------------------------------------------------

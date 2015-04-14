@@ -1,0 +1,53 @@
+0. EDTV is the third re                 ... pos = 0.625 	neg = 0.125
+1. In June 1998, the fi                 ... pos = 0.125 	neg = 0.125
+2. The Truman Show star                 ... pos = 0.0   	neg = 0.125
+3. All his friends and                  ... pos = 0.125 	neg = 0.125
+4. The second one came                  ... pos = 0.0   	neg = 0.125
+5. Two kids get stuck i                 ... pos = 0.25  	neg = 0.0  
+6. The third is EDTV, w                 ... pos = 0.125 	neg = 0.25 
+7. Whoever is chosen by                 ... pos = 0.625 	neg = 0.375
+8. The True Tv committe                 ... pos = 0.625 	neg = 0.0  
+9. The search will be a                 ... pos = 0.125 	neg = 0.5  
+10. After a long search,                ... pos = 0.0   	neg = 0.5  
+11. They feel that he wo                ... pos = 0.25  	neg = 0.125
+12. Ed's brother Ray, pl                ... pos = 0.5   	neg = 0.0  
+13. Ed's parents aren't                 ... pos = 1.25  	neg = 0.25 
+14. Ed doesn't mind the                 ... pos = 0.125 	neg = 0    
+15. After Ray and his gi                ... pos = 0.0   	neg = 0.0  
+16. Shari is on televisi                ... pos = 0.125 	neg = 0.5  
+17. She has no privacy,                 ... pos = 0.375 	neg = 0.25 
+18. She tries to avoid t                ... pos = 0.125 	neg = 0.625
+19. I really liked the w                ... pos = 0.375 	neg = 0.125
+20. Both the characters                 ... pos = 3.125 	neg = 0.0  
+21. Therefore, they are                 ... pos = 2.0   	neg = 0    
+22. At first EDTV was ba                ... pos = 0.125 	neg = 0.125
+23. Everyone thought it                 ... pos = 0.0   	neg = 0.25 
+24. EDTV has become a ph                ... pos = 0.125 	neg = 0    
+25. Ed is about the only                ... pos = 0.25  	neg = 0.25 
+26. The people involved                 ... pos = 1.0   	neg = 0.0  
+27. The performances in                 ... pos = 1.0   	neg = 0    
+28. Matthew McConaughey                 ... pos = 0.75  	neg = 0.125
+29. It was nice to see E                ... pos = 0.0   	neg = 0.25 
+30. In the film, she del                ... pos = 0.0   	neg = 0    
+31. I feel that she was                 ... pos = 0.5   	neg = 0.125
+32. Although she wasn't                 ... pos = 0.25  	neg = 0    
+33. Others who added to                 ... pos = 0.625 	neg = 0.125
+34. At first, I thought                 ... pos = 0.125 	neg = 0.125
+35. It turns out I was w                ... pos = 0.125 	neg = 1.0  
+36. Unlike The Truman Sh                ... pos = 1.625 	neg = 0.125
+37. I like the comedic p                ... pos = 0.5   	neg = 0.0  
+38. Although the second                 ... pos = 0.75  	neg = 0.375
+39. EDTV was a lot of fu                ... pos = 0.25  	neg = 0.125
+40. It had a soundtrack                 ... pos = 0.125 	neg = 0.125
+41. There are a lot of f                ... pos = 0.625 	neg = 0.0  
+42. Towards the end of t                ... pos = 0.0   	neg = 0.375
+43. Luckily, they ended                 ... pos = 1.0   	neg = 0.375
+44. All of the elements                 ... pos = 0.0   	neg = 0.125
+45. Expect large numbers                ... pos = 0.0   	neg = 0.0  
+46. The Bottom Line- A l                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4588-864 is Positive         ... pos = 20.75 	neg = 8.125
+Overall score of document
+Total Pos = 20.75
+Total Neg = 8.125
+---------------------------------------------------------------------------

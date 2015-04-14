@@ -1,0 +1,33 @@
+0. I've noticed somethi                 ... pos = 0.0   	neg = 0.0  
+1. Pseudo- substance -                  ... pos = 0.0   	neg = 0.0  
+2. Have you ever seen a                 ... pos = 0.5   	neg = 0.5  
+3. More and more, filmm                 ... pos = 1.375 	neg = 0.625
+4. I'm not trying to sa                 ... pos = 0.0   	neg = 1.5  
+5. It had a lot going f                 ... pos = 0.125 	neg = 0.625
+6. Somehow, underneath                  ... pos = 1.125 	neg = 0.375
+7. The predictable endi                 ... pos = 0.0   	neg = 0.75 
+8. But for over an hour                 ... pos = 0.0   	neg = 0.125
+9. Nicolas Cage is Seth                 ... pos = 0.625 	neg = 0.125
+10. Meg Ryan, in her mos                ... pos = 0.5   	neg = 0.125
+11. After losing a patie                ... pos = 0.625 	neg = 0.25 
+12. He begins following                 ... pos = 1.125 	neg = 0    
+13. Angels, who we quick                ... pos = 1.0   	neg = 0.125
+14. Seth's adoration is                 ... pos = 1.125 	neg = 0.5  
+15. The angels are inter                ... pos = 1.5   	neg = 0.125
+16. Cage is a wonderfull                ... pos = 0.625 	neg = 0.125
+17. ) who slips into the                ... pos = 0.25  	neg = 0.0  
+18. It's nice to see Rya                ... pos = 0.375 	neg = 0.0  
+19. The two aren't very                 ... pos = 2.375 	neg = 0.0  
+20. But even though the                 ... pos = 0.5   	neg = 0.125
+21. It's a shame that wi                ... pos = 0.875 	neg = 0.875
+22. They struggle for an                ... pos = 0.75  	neg = 0.75 
+23. Filmmakers should kn                ... pos = 1.0   	neg = 1.0  
+24. Based on the German                 ... pos = 0.875 	neg = 0.375
+25. Most movie goers, th                ... pos = 0.375 	neg = 0.625
+26. Nonetheless, CITY OF                ... pos = 2.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5757-195 is Positive         ... pos = 19.75 	neg = 9.875
+Overall score of document
+Total Pos = 19.75
+Total Neg = 9.875
+---------------------------------------------------------------------------

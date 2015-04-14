@@ -1,0 +1,47 @@
+0. It is 1957.                          ... pos = 0.0   	neg = 0.125
+1. Home alone, the 10 y                 ... pos = 0.0   	neg = 0.25 
+2. He is enrapt by a sc                 ... pos = 0.0   	neg = 0.875
+3. Since reports have b                 ... pos = 0.0   	neg = 0.25 
+4. When all of a sudden                 ... pos = 0.5   	neg = 0.5  
+5. Somebody or somethin                 ... pos = 0.0   	neg = 0.625
+6. After noticing immen                 ... pos = 0.375 	neg = 0.625
+7. So begins a powerful                 ... pos = 0.875 	neg = 0.0  
+8. Hughes, who died in                  ... pos = 0.625 	neg = 0.0  
+9. It is about, among o                 ... pos = 0.25  	neg = 0.125
+10. Surely enough he dis                ... pos = 0.5   	neg = 0.0  
+11. When the iron giant                 ... pos = 0.0   	neg = 0.25 
+12. Making a snap decisi                ... pos = 0.625 	neg = 0.0  
+13. After the iron giant                ... pos = 0.125 	neg = 0.0  
+14. Although immensely p                ... pos = 0.625 	neg = 0.125
+15. As it turns out, the                ... pos = 0.0   	neg = 0.25 
+16. Wandering about the                 ... pos = 0.125 	neg = 0.125
+17. Hogarth soon learns                 ... pos = 0.125 	neg = 0.625
+18. After discovering th                ... pos = 0.625 	neg = 0.125
+19. Hidden away in the b                ... pos = 0.25  	neg = 0.125
+20. As he turns through                 ... pos = 0.0   	neg = 0.125
+21. In one story, Superm                ... pos = 0.0   	neg = 0.25 
+22. The iron giant, who                 ... pos = 0.125 	neg = 0.25 
+23. At school, the threa                ... pos = 0.0   	neg = 0.25 
+24. They watch a movie c                ... pos = 0.375 	neg = 0.125
+25. Just duck and cover.                ... pos = 0.0   	neg = 0.0  
+26. Hogarth finds an unl                ... pos = 0.0   	neg = 0.0  
+27. He works there becau                ... pos = 0.0   	neg = 0.0  
+28. After Hogarth has in                ... pos = 0.0   	neg = 0.25 
+29. He directs the giant                ... pos = 0.0   	neg = 0.25 
+30. Those that aren't us                ... pos = 0.0   	neg = 0.0  
+31. Dean, who is the pol                ... pos = 0.0   	neg = 0.25 
+32. He was one of the re                ... pos = 0.125 	neg = 0.125
+33. This film has all th                ... pos = 0.0   	neg = 0.0  
+34. The myth of a child                 ... pos = 0.25  	neg = 0.125
+35. What gives "The Iron                ... pos = 1.375 	neg = 0.375
+36. Hogarth Hughes was e                ... pos = 1.375 	neg = 0.125
+37. The movie offers an                 ... pos = 0.625 	neg = 0.0  
+38. Instead of presentin                ... pos = 0.0   	neg = 0.75 
+39. The voice of Hogarth                ... pos = 0.0   	neg = 0.5  
+40. Marxist discussion i                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1126-268 is Positive         ... pos = 9.875 	neg = 8.875
+Overall score of document
+Total Pos = 9.875
+Total Neg = 8.875
+---------------------------------------------------------------------------

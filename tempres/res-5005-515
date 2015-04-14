@@ -1,0 +1,50 @@
+0. Cast: Kevin Bacon, M                 ... pos = 0.25  	neg = 0.625
+1. A typical guy should                 ... pos = 0.75  	neg = 0.125
+2. I mean, how many mal                 ... pos = 0.25  	neg = 0.0  
+3. You've got lots of a                 ... pos = 0.875 	neg = 0.25 
+4. You've got sex scene                 ... pos = 0.0   	neg = 0.375
+5. And you've got the w                 ... pos = 0.375 	neg = 0.0  
+6. But I'm not your typ                 ... pos = 0.125 	neg = 0.0  
+7. While all the above                  ... pos = 1.375 	neg = 0.875
+8. Thankfully though, W                 ... pos = 0.0   	neg = 0.25 
+9. Areas that real movi                 ... pos = 0.0   	neg = 0.125
+10. Wild Things is so sl                ... pos = 0.0   	neg = 0.375
+11. I mean screenwriter                 ... pos = 0.5   	neg = 0.125
+12. You've got shades of                ... pos = 0.5   	neg = 0.125
+13. Taking place in Sout                ... pos = 0.375 	neg = 0.25 
+14. Early on in the film                ... pos = 0.0   	neg = 0.125
+15. Then another girl (N                ... pos = 0.0   	neg = 0.125
+16. What I've just descr                ... pos = 0.375 	neg = 0.25 
+17. Nor will I even try                 ... pos = 0.125 	neg = 0.0  
+18. The story takes so m                ... pos = 0.0   	neg = 0.5  
+19. The cast is pretty g                ... pos = 0.75  	neg = 0.375
+20. Now the dialogue is                 ... pos = 0.25  	neg = 1.375
+21. Just watch.                         ... pos = 0.125 	neg = 0.0  
+22. " much like most of                 ... pos = 0.125 	neg = 0.125
+23. The writer obviously                ... pos = 0.0   	neg = 0.0  
+24. Bill Murray, brillia                ... pos = 0.875 	neg = 0.0  
+25. He adds the intentio                ... pos = 0.625 	neg = 0.0  
+26. He has about 20 minu                ... pos = 0.0   	neg = 0.25 
+27. The rest of the cast                ... pos = 0.25  	neg = 1.875
+28. And Kevin Bacon (who                ... pos = 0.625 	neg = 0.25 
+29. When you see it, you                ... pos = 0.0   	neg = 0.0  
+30. A big problem I had                 ... pos = 0.125 	neg = 1.375
+31. Forget the fact that                ... pos = 1.375 	neg = 0.25 
+32. Characters who have                 ... pos = 1.875 	neg = 0.375
+33. Even as the closing                 ... pos = 0.375 	neg = 0.125
+34. I don't believe I've                ... pos = 0.125 	neg = 0.25 
+35. Just be sure to stay                ... pos = 0.375 	neg = 0.875
+36. Wild Things is certa                ... pos = 0.375 	neg = 0.75 
+37. It knows it, and doe                ... pos = 0.0   	neg = 0.125
+38. It's humorous, both                 ... pos = 0.75  	neg = 0.125
+39. And the story, while                ... pos = 0.375 	neg = 0.125
+40. And watching it unfo                ... pos = 0.25  	neg = 0.375
+41. Even better.                        ... pos = 0     	neg = 0.0  
+42. [R]. The Jacksonvill                ... pos = 0.0   	neg = 0.0  
+43. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5005-515 is Positive         ... pos = 15.75 	neg = 13.875
+Overall score of document
+Total Pos = 15.75
+Total Neg = 13.875
+---------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+0. There was once a tim                 ... pos = 0.25  	neg = 0.25 
+1. I was reminded of th                 ... pos = 0.5   	neg = 0.75 
+2. Seeing Depp react as                 ... pos = 0.625 	neg = 0.5  
+3. The first half of th                 ... pos = 0.125 	neg = 0.0  
+4. Depp and Del Toro ar                 ... pos = 0.375 	neg = 0.0  
+5. Depp talks with long                 ... pos = 0.625 	neg = 0.25 
+6. " . The film's look                  ... pos = 0.0   	neg = 0.5  
+7. Wide lenses and dist                 ... pos = 1.375 	neg = 0.0  
+8. The cinematography i                 ... pos = 0.875 	neg = 1.125
+9. Different lighting a                 ... pos = 1.75  	neg = 0.0  
+10. There is one moment                 ... pos = 0.625 	neg = 0.125
+11. A highway patrolman                 ... pos = 0.5   	neg = 0.25 
+12. Instead he leads him                ... pos = 1.375 	neg = 0.5  
+13. This leads to a huge                ... pos = 0.0   	neg = 0.125
+14. I don't know how the                ... pos = 0.125 	neg = 0.0  
+15. The critics seem to                 ... pos = 1.5   	neg = 0.125
+16. I am giving the film                ... pos = 0.75  	neg = 0.375
+17. Those not familiar w                ... pos = 0.0   	neg = 0.625
+18. Others can sit back                 ... pos = 0.75  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-3180-1338 is Positive        ... pos = 12.125 	neg = 6.25 
+Overall score of document
+Total Pos = 12.125
+Total Neg = 6.25
+---------------------------------------------------------------------------

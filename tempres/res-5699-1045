@@ -1,0 +1,44 @@
+0. To understand Rounde                 ... pos = 0.75  	neg = 0.0  
+1. Csikszentmihalyi is                  ... pos = 0.125 	neg = 0.125
+2. He's best known for                  ... pos = 0.375 	neg = 0    
+3. Professor Csikszentm                 ... pos = 0.625 	neg = 0.0  
+4. Flow occurs when our                 ... pos = 0.5   	neg = 0.0  
+5. To quote the profess                 ... pos = 0.0   	neg = 0.375
+6. There is no space in                 ... pos = 0.25  	neg = 1.625
+7. Self-consciousness d                 ... pos = 0     	neg = 0.25 
+8. When a person's enti                 ... pos = 0.375 	neg = 0.125
+9. ". For example:  Whe                 ... pos = 0.0   	neg = 0.125
+10. I'd sit down at my d                ... pos = 0.0   	neg = 0.5  
+11. I had blocked out ev                ... pos = 0     	neg = 0.0  
+12. The world had narrow                ... pos = 0.0   	neg = 0.0  
+13. However, I can't cla                ... pos = 0.25  	neg = 0.0  
+14. Law school can be an                ... pos = 0.0   	neg = 0.625
+15. (You knew there was                 ... pos = 0.0   	neg = 0.75 
+16. )  Damon plays a "ro                ... pos = 0.875 	neg = 0.5  
+17. After losing his sta                ... pos = 0.0   	neg = 0.0  
+18. Damon lands on his f                ... pos = 0.5   	neg = 0.0  
+19. But we get the sense                ... pos = 1.25  	neg = 0.0  
+20. When his best friend                ... pos = 1.25  	neg = 0.25 
+21. (A dark, seedy, atmo                ... pos = 0.25  	neg = 0.0  
+22. ). The conflict in t                ... pos = 0.375 	neg = 0.25 
+23. What makes Rounders                 ... pos = 0.125 	neg = 0.75 
+24. There are many facto                ... pos = 2.0   	neg = 0.125
+25. He's able to lose hi                ... pos = 0.375 	neg = 0.0  
+26. Damon is not playing                ... pos = 1.75  	neg = 0.125
+27. Rounders is more tha                ... pos = 0.875 	neg = 0.125
+28. It features fine per                ... pos = 0.375 	neg = 0.375
+29. Norton seems to have                ... pos = 1.125 	neg = 0.125
+30. Malkovich, on the ot                ... pos = 0.0   	neg = 0.875
+31. Rounders is a sharp,                ... pos = 0.625 	neg = 0.125
+32. Well, that about sum                ... pos = 0.0   	neg = 0.0  
+33. Hey!                                ... pos = 0     	neg = 0    
+34. It's almost midnight                ... pos = 0.0   	neg = 0    
+35. Where did the time g                ... pos = 0.0   	neg = 0.0  
+36. MovieNation:  Movie                 ... pos = 0.0   	neg = 0.0  
+37. "  -- Sideshow Bob.                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5699-1045 is Positive        ... pos = 15.125 	neg = 8.125
+Overall score of document
+Total Pos = 15.125
+Total Neg = 8.125
+---------------------------------------------------------------------------

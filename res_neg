@@ -1,0 +1,1841 @@
+0. plot : two teen coup                 ... pos = 0.0   	neg = 0.125
+1. they get into an acc                 ... pos = 0.0   	neg = 0.0  
+2. one of the guys dies                 ... pos = 0.0   	neg = 0.25 
+3. what's the deal ?                    ... pos = 0.0   	neg = 0    
+4. watch the movie and                  ... pos = 0.125 	neg = 0.0  
+5. critique : a mind-fu                 ... pos = 1.0   	neg = 0.875
+6. which is what makes                  ... pos = 1.0   	neg = 1.0  
+7. they seem to have ta                 ... pos = 0.125 	neg = 0.75 
+8. so what are the prob                 ... pos = 0.25  	neg = 0.25 
+9. well , its main prob                 ... pos = 0.0   	neg = 0.625
+10. it starts off " norm                ... pos = 0.0   	neg = 0.875
+11. there are dreams , t                ... pos = 3.375 	neg = 0.625
+12. now i personally don                ... pos = 0.125 	neg = 1.0  
+13. it's obviously got t                ... pos = 0.0   	neg = 0.25 
+14. and do they make thi                ... pos = 0.25  	neg = 0.0  
+15. not really .                        ... pos = 0.0   	neg = 0.0  
+16. the sad part is that                ... pos = 0.125 	neg = 1.75 
+17. i guess the bottom l                ... pos = 0.25  	neg = 0.5  
+18. i mean , showing mel                ... pos = 0.0   	neg = 0.125
+19. okay , we get it . .                ... pos = 0.0   	neg = 0.125
+20. are people chasing h                ... pos = 0.5   	neg = 0.0  
+21. do we really need to                ... pos = 0.0   	neg = 0.125
+22. how about giving us                 ... pos = 1.125 	neg = 0.625
+23. apparently , the stu                ... pos = 0.0   	neg = 0.125
+24. there might've been                 ... pos = 0.0   	neg = 1.125
+25. the actors are prett                ... pos = 3.0   	neg = 0.5  
+26. but my biggest kudos                ... pos = 0.25  	neg = 0.0  
+27. overall , the film d                ... pos = 0.75  	neg = 1.375
+28. oh , and by the way                 ... pos = 0.375 	neg = 0.125
+29. just packaged to loo                ... pos = 0.0   	neg = 0.75 
+30. it also wrapped prod                ... pos = 0.0   	neg = 0.125
+31. whatever . . . skip                 ... pos = 0     	neg = 0.0  
+32. it !                                ... pos = 0.0   	neg = 0    
+33. where's joblo coming                ... pos = 0.0   	neg = 0    
+34. a nightmare of elm s                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv000_29416.txt is Negative  ... pos = 12.75 	neg = 14.0 
+Overall score of document
+Total Pos = 12.75
+Total Neg = 14.0
+---------------------------------------------------------------------------
+0. the happy bastard's                  ... pos = 0.625 	neg = 0.0  
+1. damn that y2k bug .                  ... pos = 0     	neg = 0.125
+2. it's got a head star                 ... pos = 0.25  	neg = 0.75 
+3. little do they know                  ... pos = 0.0   	neg = 0.25 
+4. going for the gore a                 ... pos = 0.5   	neg = 0.625
+5. we don't know why th                 ... pos = 0.0   	neg = 0.5  
+6. here , it's just " h                 ... pos = 0.0   	neg = 0.0  
+7. the acting is below                  ... pos = 0.0   	neg = 0.125
+8. you're more likely t                 ... pos = 0.0   	neg = 0.0  
+9. sutherland is wasted                 ... pos = 0.0   	neg = 0.5  
+10. the real star here a                ... pos = 0.25  	neg = 0.0  
+11. so , if robots and b                ... pos = 0.0   	neg = 0.0  
+12. otherwise , it's pre                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/neg/cv001_19502.txt is Negative  ... pos = 1.75  	neg = 3.0  
+Overall score of document
+Total Pos = 1.75
+Total Neg = 3.0
+---------------------------------------------------------------------------
+0. it is movies like th                 ... pos = 1.25  	neg = 0.125
+1. based on the late 19                 ... pos = 0.0   	neg = 0.5  
+2. however , things go                  ... pos = 0.5   	neg = 0.75 
+3. of course , the ads                  ... pos = 0.25  	neg = 0.0  
+4. quick cuts , cool mu                 ... pos = 0.5   	neg = 0.25 
+5. sounds like a cool m                 ... pos = 0.0   	neg = 0.0  
+6. after the first fift                 ... pos = 0.125 	neg = 0.125
+7. the mod squad is cer                 ... pos = 0.25  	neg = 0.125
+8. the film is best des                 ... pos = 0.375 	neg = 0.375
+9. and with it comes ev                 ... pos = 0.0   	neg = 0.0  
+10. it doesn't really ma                ... pos = 0.0   	neg = 0.25 
+11. the characters and a                ... pos = 1.0   	neg = 0.375
+12. claire danes and oma                ... pos = 0.0   	neg = 0.0  
+13. the only one to esca                ... pos = 1.0   	neg = 0.5  
+14. unfortunately , even                ... pos = 1.0   	neg = 0.875
+15. with the young cast                 ... pos = 0.0   	neg = 0.25 
+16. despite an american                 ... pos = 0.125 	neg = 0.375
+17. information on the c                ... pos = 1.5   	neg = 1.875
+18. the way the film pro                ... pos = 0.75  	neg = 0.5  
+19. basing the show on a                ... pos = 0.5   	neg = 0.25 
+20. the number of times                 ... pos = 0.5   	neg = 0.25 
+21. it is clear that the                ... pos = 0.0   	neg = 1.625
+22. avoid this film at a                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv002_17424.txt is Positive  ... pos = 9.625 	neg = 9.375
+Overall score of document
+Total Pos = 9.625
+Total Neg = 9.375
+---------------------------------------------------------------------------
+0. " quest for camelot                  ... pos = 0.625 	neg = 0.5  
+1. the only other recen                 ... pos = 1.25  	neg = 0.125
+2. this year , it's no                  ... pos = 0.625 	neg = 0.5  
+3. even the magic kingd                 ... pos = 0.0   	neg = 0.903
+4. the story revolves a                 ... pos = 0.625 	neg = 0.25 
+5. kayley's only dream                  ... pos = 1.375 	neg = 0.875
+6. with the help of hun                 ... pos = 0.125 	neg = 0.625
+7. " quest for camelot                  ... pos = 0.75  	neg = 0.375
+8. there's nothing here                 ... pos = 0.25  	neg = 0.25 
+9. ( compare kayley and                 ... pos = 0.875 	neg = 0    
+10. i rest my case . )                  ... pos = 0     	neg = 0.0  
+11. even the characters                 ... pos = 1.375 	neg = 0.75 
+12. in the end , it's a                 ... pos = 0.125 	neg = 0.0  
+13. that dragon's comedy                ... pos = 0.0   	neg = 0.125
+14. at least fans of the                ... pos = 0.25  	neg = 0.125
+15. a few scenes are nic                ... pos = 1.75  	neg = 0.125
+16. but one must strain                 ... pos = 1.25  	neg = 0.25 
+17. aside from the fact                 ... pos = 0.375 	neg = 1.625
+18. and personality , we                ... pos = 0.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/neg/cv003_12683.txt is Positive  ... pos = 12.125 	neg = 7.778
+Overall score of document
+Total Pos = 12.125
+Total Neg = 7.778
+---------------------------------------------------------------------------
+0. synopsis : a mentall                 ... pos = 0.75  	neg = 0.625
+1. unsuccessfully attem                 ... pos = 0.125 	neg = 0.125
+2. comments : stalked i                 ... pos = 1.25  	neg = 0.25 
+3. their proliferation                  ... pos = 0.5   	neg = 1.25 
+4. stalked wavers sligh                 ... pos = 1.75  	neg = 1.0  
+5. other than that , st                 ... pos = 0.375 	neg = 0.25 
+6. stalked does not pro                 ... pos = 0.125 	neg = 0.25 
+7. interspersed through                 ... pos = 0.75  	neg = 0.375
+8. after these credits                  ... pos = 0.0   	neg = 0.0  
+9. the narrator states                  ... pos = 0.25  	neg = 0.25 
+10. of course , really ,                ... pos = 0.0   	neg = 0.125
+11. if the movie was mea                ... pos = 0.0   	neg = 0.375
+12. okay . so we know wh                ... pos = 0.0   	neg = 0.75 
+13. stalked proceeds , t                ... pos = 0.0   	neg = 0.0  
+14. the opening sequence                ... pos = 0.375 	neg = 0.0  
+15. daryl obsesses over                 ... pos = 0.0   	neg = 0.5  
+16. ultimately rejected                 ... pos = 0.0   	neg = 0.375
+17. these plans include                 ... pos = 0.0   	neg = 0.625
+18. for some reason , th                ... pos = 0.0   	neg = 0.125
+19. stalked is no except                ... pos = 0.0   	neg = 0.375
+20. events like these le                ... pos = 0.0   	neg = 0.375
+21. stalked's cast is un                ... pos = 0.125 	neg = 1.0  
+22. jay underwood , as t                ... pos = 0.125 	neg = 0.25 
+23. he overdoes it , in                 ... pos = 0.375 	neg = 0.25 
+24. maryam d'abo , about                ... pos = 1.25  	neg = 0.625
+25. brooke ( d'abo ) nee                ... pos = 0.125 	neg = 0.25 
+26. toward the end , for                ... pos = 0.125 	neg = 0.0  
+27. to ensure he won't u                ... pos = 0.0   	neg = 0.125
+28. does she just leave                 ... pos = 0.0   	neg = 0.25 
+29. of course not .                     ... pos = 0.0   	neg = 0.0  
+30. she tries the door ,                ... pos = 0.0   	neg = 0.875
+31. when daryl returns ,                ... pos = 0.5   	neg = 0.125
+32. somehow , even thoug                ... pos = 0.125 	neg = 0.25 
+33. the whole episode pl                ... pos = 0.0   	neg = 0.0  
+34. stalked receives two                ... pos = 0.625 	neg = 1.25 
+35. rated r mostly for s                ... pos = 0.375 	neg = 0.5  
+36. if you're in the moo                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/neg/cv004_12641.txt is Negative  ... pos = 10.75 	neg = 13.875
+Overall score of document
+Total Pos = 10.75
+Total Neg = 13.875
+---------------------------------------------------------------------------
+0. capsule : in 2176 on                 ... pos = 0.125 	neg = 0.125
+1. there is a lot of fi                 ... pos = 0.0   	neg = 0.125
+2. john carpenter repri                 ... pos = 1.25  	neg = 0.625
+3. , 0 ( -4 to +4 ) .                   ... pos = 0     	neg = 0    
+4. john carpenter appar                 ... pos = 0.75  	neg = 0.75 
+5. for a writer and dir                 ... pos = 1.25  	neg = 1.625
+6. ghosts of mars is ca                 ... pos = 1.125 	neg = 0.375
+7. in addition if anybo                 ... pos = 0.0   	neg = 0.125
+8. this film is just ch                 ... pos = 0.5   	neg = 0.125
+9. it is , in fact , su                 ... pos = 0.25  	neg = 0.125
+10. but that still does                 ... pos = 0.75  	neg = 0.0  
+11. ghosts of mars takes                ... pos = 0.125 	neg = 0.125
+12. mars has been mostly                ... pos = 0.75  	neg = 0.5  
+13. it is never mentione                ... pos = 0.25  	neg = 0.375
+14. society has changed                 ... pos = 0.25  	neg = 0.25 
+15. apparently the cultu                ... pos = 0.5   	neg = 0.125
+16. and from carpenter's                ... pos = 0.0   	neg = 0.0  
+17. society has stagnate                ... pos = 0.375 	neg = 0.5  
+18. the basic plot of gh                ... pos = 1.25  	neg = 1.25 
+19. instead of having th                ... pos = 0.375 	neg = 0.0  
+20. instead of facing ho                ... pos = 0.0   	neg = 0.125
+21. because the ghosts a                ... pos = 0.75  	neg = 0.125
+22. the story is told in                ... pos = 0.0   	neg = 0.125
+23. ghosts of mars takes                ... pos = 1.25  	neg = 0.25 
+24. carpenter manages to                ... pos = 0.25  	neg = 0.0  
+25. sadly what follows i                ... pos = 0.625 	neg = 0.75 
+26. the terror he create                ... pos = 0.25  	neg = 0.875
+27. his idea of building                ... pos = 0.75  	neg = 1.75 
+28. these are standard h                ... pos = 0.25  	neg = 0.625
+29. somewhat newer but a                ... pos = 0.75  	neg = 0.5  
+30. within a short stret                ... pos = 0.375 	neg = 0.25 
+31. after mission to mar                ... pos = 0.0   	neg = 0.875
+32. i rate ghosts of mar                ... pos = 0.0   	neg = 0.125
+33. following the movie                 ... pos = 1.25  	neg = 0.375
+34. her comment is that                 ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/neg/cv005_29357.txt is Positive  ... pos = 16.375 	neg = 14.125
+Overall score of document
+Total Pos = 16.375
+Total Neg = 14.125
+---------------------------------------------------------------------------
+0. so ask yourself what                 ... pos = 0.0   	neg = 0.125
+1. is it about a wholes                 ... pos = 1.125 	neg = 0.125
+2. is it about the busi                 ... pos = 0.0   	neg = 1.375
+3. or is it about those                 ... pos = 0.25  	neg = 0.75 
+4. i'm not talking abou                 ... pos = 0.25  	neg = 0.0  
+5. i'm talking about fi                 ... pos = 0.0   	neg = 0.25 
+6. with a recent run of                 ... pos = 0.75  	neg = 0.0  
+7. is " 8mm " something                 ... pos = 0.0   	neg = 0.25 
+8. probably not .                       ... pos = 0.0   	neg = 0    
+9. the first two-thirds                 ... pos = 0.847 	neg = 0.0  
+10. then , as it's been                 ... pos = 0.0   	neg = 0.5  
+11. and just when you th                ... pos = 0.375 	neg = 1.5  
+12. trust me .                          ... pos = 0     	neg = 0.0  
+13. there are better way                ... pos = 0.375 	neg = 0.0  
+14. nicolas ' " snake ey                ... pos = 0.875 	neg = 0.375
+15. welles goes about hi                ... pos = 1.625 	neg = 0.125
+16. welles certainly mak                ... pos = 0.5   	neg = 0.375
+17. and cops , obviously                ... pos = 0.0   	neg = 0.625
+18. the deeper welles di                ... pos = 0.75  	neg = 0.0  
+19. occasionally , a lit                ... pos = 0.0   	neg = 0.875
+20. there are hints that                ... pos = 1.0   	neg = 0.625
+21. " 8mm " doesn't cond                ... pos = 0.625 	neg = 0.0  
+22. the irony , of cours                ... pos = 0.0   	neg = 0.25 
+23. so we only see snipp                ... pos = 0.125 	neg = 0.0  
+24. later it's the turn                 ... pos = 1.625 	neg = 1.375
+25. all this to get to t                ... pos = 0.75  	neg = 0.125
+26. neither super nor st                ... pos = 0.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/neg/cv006_17022.txt is Positive  ... pos = 12.222 	neg = 10.0 
+Overall score of document
+Total Pos = 12.222
+Total Neg = 10.0
+---------------------------------------------------------------------------
+0. that's exactly how l                 ... pos = 0.125 	neg = 0.375
+1. there weren't even n                 ... pos = 0.0   	neg = 0.0  
+2. it's a terrible mess                 ... pos = 0.0   	neg = 1.375
+3. it's not the whole o                 ... pos = 0.0   	neg = 0.375
+4. not just adam sandle                 ... pos = 0.0   	neg = 0.0  
+5. since when do eye fl                 ... pos = 0.5   	neg = 0.0  
+6. but , on the other h                 ... pos = 0.75  	neg = 1.875
+7. nine months is a pre                 ... pos = 0.0   	neg = 0.375
+8. hugh grant plays a s                 ... pos = 0.625 	neg = 0.0  
+9. why a child psycholo                 ... pos = 0.0   	neg = 0.0  
+10. so the scriptwriters                ... pos = 0.0   	neg = 0.25 
+11. kid : my dad's an as                ... pos = 0.0   	neg = 0.25 
+12. grant ( flutters eye                ... pos = 0.125 	neg = 1.125
+13. kid : my dad's a _hu                ... pos = 0.0   	neg = 0.25 
+14. more like a hugh ass                ... pos = 0.375 	neg = 1.25 
+15. so , anyway , grant                 ... pos = 0.375 	neg = 0.125
+16. this paves the way f                ... pos = 0.0   	neg = 0.375
+17. the annoying friend                 ... pos = 0.375 	neg = 1.125
+18. the only interesting                ... pos = 1.5   	neg = 1.5  
+19. not even robin willi                ... pos = 0.5   	neg = 0.0  
+20. his is a one-joke ch                ... pos = 0.0   	neg = 0.125
+21. that's my favorite v                ... pos = 0.0   	neg = 1.5  
+22. nine months is a com                ... pos = 0.25  	neg = 1.625
+23. hugh grant's sunset                 ... pos = 0.5   	neg = 0.5  
+24. everything in the mo                ... pos = 0.0   	neg = 0.625
+25. over 80 ( sorry , hu                ... pos = 0.375 	neg = 1.5  
+26. but at least they di                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv007_4992.txt is Negative   ... pos = 6.375 	neg = 16.5 
+Overall score of document
+Total Pos = 6.375
+Total Neg = 16.5
+---------------------------------------------------------------------------
+0. call it a road trip                  ... pos = 0.0   	neg = 0.0  
+1. stellan skarsg ? rd                  ... pos = 0.375 	neg = 1.125
+2. yet this ever-reliab                 ... pos = 1.625 	neg = 0.0  
+3. playwright august st                 ... pos = 0.25  	neg = 0.375
+4. that's an accurate r                 ... pos = 1.25  	neg = 0.0  
+5. they haven't spoken                  ... pos = 0.25  	neg = 0.5  
+6. in a soap opera twis                 ... pos = 0.0   	neg = 0.0  
+7. ( only in the movies                 ... pos = 0.0   	neg = 0.0  
+8. too blitzed to even                  ... pos = 0.0   	neg = 0.25 
+9. loathing each other                  ... pos = 0.0   	neg = 1.875
+10. despite his sloshed                 ... pos = 0.5   	neg = 0.25 
+11. kaisa gets nosebleed                ... pos = 0.125 	neg = 0.25 
+12. ain't they a pair ?                 ... pos = 0.0   	neg = 0.0  
+13. unable to find true                 ... pos = 0.75  	neg = 2.5  
+14. by the time they rea                ... pos = 0.625 	neg = 1.0  
+15. this revelation exis                ... pos = 0.0   	neg = 0.0  
+16. aberdeen doesn't kno                ... pos = 0.0   	neg = 0.0  
+17. weak , unimaginative                ... pos = 0.75  	neg = 1.125
+18. if lena headey were                 ... pos = 0.75  	neg = 0.875
+19. headey's too busy ac                ... pos = 0.375 	neg = 0.875
+20. if she were paying a                ... pos = 0.25  	neg = 0.125
+21. it's worthwhile to c                ... pos = 1.625 	neg = 0.0  
+22. it's not just becaus                ... pos = 0.125 	neg = 0.0  
+23. the differences in t                ... pos = 1.125 	neg = 0.25 
+24. in aberdeen , rampli                ... pos = 0.5   	neg = 0.25 
+25. despite skarsg ? rd'                ... pos = 1.0   	neg = 1.0  
+26. there's genuine fero                ... pos = 2.239 	neg = 0.75 
+27. nossiter's film thor                ... pos = 0.0   	neg = 0.875
+28. if signs & wonders s                ... pos = 0.625 	neg = 0.0  
+29. aberdeen is never ha                ... pos = 0.5   	neg = 0.125
+30. when did character d                ... pos = 1.375 	neg = 0.0  
+31. the depressing answe                ... pos = 0.25  	neg = 0.625
+32. even foreign films a                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv008_29326.txt is Positive  ... pos = 17.739 	neg = 15.0 
+Overall score of document
+Total Pos = 17.739
+Total Neg = 15.0
+---------------------------------------------------------------------------
+0. plot : a young frenc                 ... pos = 0.75  	neg = 0.0  
+1. mean , an evil man .                 ... pos = 0.0   	neg = 0.75 
+2. he vows revenge on t                 ... pos = 0.5   	neg = 0.5  
+3. anyway , fourteen ye                 ... pos = 0.0   	neg = 0.0  
+4. critique : this is a                 ... pos = 0.0   	neg = 1.125
+5. let's see , where sh                 ... pos = 0.0   	neg = 0.0  
+6. okay , first of all                  ... pos = 0.125 	neg = 0.25 
+7. it's not original ,                  ... pos = 0.5   	neg = 0.25 
+8. okay , what's next ?                 ... pos = 0     	neg = 0.125
+9. acting , you say .                   ... pos = 0.0   	neg = 0.0  
+10. hmmmm , well , the m                ... pos = 0.125 	neg = 0.875
+11. not as bad as thora                 ... pos = 0.5   	neg = 2.875
+12. now i'm not sure if                 ... pos = 1.125 	neg = 0.25 
+13. the only semi-saving                ... pos = 0.0   	neg = 1.0  
+14. thousand times . . .                ... pos = 0.5   	neg = 0.0  
+15. tim , please . . . f                ... pos = 0.875 	neg = 0.0  
+16. stretch , dude . . .                ... pos = 0     	neg = 0.0  
+17. we all know that you                ... pos = 0.125 	neg = 0.25 
+18. alright , what else                 ... pos = 0.0   	neg = 1.25 
+19. oh yeah , the score                 ... pos = 0.0   	neg = 0.0  
+20. yikes , how's about                 ... pos = 0.125 	neg = 0.0  
+21. this thing blares in                ... pos = 0.125 	neg = 0.25 
+22. i think it's importa                ... pos = 0.875 	neg = 0.0  
+23. it's a fluffy rehash                ... pos = 2.0   	neg = 0.375
+24. dudes . . . you                     ... pos = 0     	neg = 0.0  
+25. failed all around !                 ... pos = 0.0   	neg = 0.125
+26. ( keep reading )                    ... pos = 0.0   	neg = 0    
+27. the editing is also                 ... pos = 0.0   	neg = 0.875
+28. ( why does the guy o                ... pos = 0.125 	neg = 0.125
+29. why don't they just                 ... pos = 0.0   	neg = 0.0  
+30. why doesn't anybody                 ... pos = 0.125 	neg = 0.375
+31. ( at least . . . cha                ... pos = 0.0   	neg = 0.0  
+32. your shirt , man ! )                ... pos = 0.0   	neg = 0    
+33. keep in mind that i                 ... pos = 0.625 	neg = 0.5  
+34. it was boring for st                ... pos = 0.875 	neg = 2.0  
+35. i will give the movi                ... pos = 0.5   	neg = 0.25 
+36. i was hoping that th                ... pos = 1.125 	neg = 0.25 
+37. the first comes righ                ... pos = 1.125 	neg = 1.25 
+38. the ladder sequence                 ... pos = 0.75  	neg = 1.375
+39. and can anyone pleas                ... pos = 0.0   	neg = 0.0  
+40. hullo ?                             ... pos = 0     	neg = 0.0  
+41. the film is called t                ... pos = 0.0   	neg = 0.125
+42. deneuve is barely in                ... pos = 0.0   	neg = 0.125
+43. ugh , just another s                ... pos = 0.0   	neg = 0.125
+44. now say it together                 ... pos = 0.375 	neg = 0.0  
+45. vow to stay away fro                ... pos = 0.0   	neg = 0.0  
+46. thank me later .                    ... pos = 0.0   	neg = 0.0  
+47. where's joblo coming                ... pos = 0.0   	neg = 0    
+48. a knight's tale ( 7/                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/neg/cv009_29417.txt is Negative  ... pos = 14.25 	neg = 17.875
+Overall score of document
+Total Pos = 14.25
+Total Neg = 17.875
+---------------------------------------------------------------------------
+0. best remembered for                  ... pos = 1.75  	neg = 0.0  
+1. usually playing a bi                 ... pos = 0.25  	neg = 1.25 
+2. if you want to see s                 ... pos = 1.125 	neg = 0.125
+3. cox plays the role o                 ... pos = 0.75  	neg = 0.75 
+4. big john feels the l                 ... pos = 0.625 	neg = 0.0  
+5. what bothered some a                 ... pos = 1.375 	neg = 0.5  
+6. he's an even-tempere                 ... pos = 0.25  	neg = 0.25 
+7. he'll have sex-for-p                 ... pos = 0.5   	neg = 0.125
+8. l . i . e . stands f                 ... pos = 0.0   	neg = 0.375
+9. filmmaker michael cu                 ... pos = 0.0   	neg = 0.125
+10. in his opening voice                ... pos = 0.0   	neg = 0.0  
+11. highway deaths of fi                ... pos = 0.0   	neg = 0.125
+12. he's both fascinated                ... pos = 1.0   	neg = 0.125
+13. this makes him much                 ... pos = 0.25  	neg = 1.25 
+14. l . i . e . would ha                ... pos = 0.375 	neg = 0.0  
+15. there is unnecessary                ... pos = 1.0   	neg = 3.25 
+16. rather than add to t                ... pos = 0.5   	neg = 1.0  
+17. concurrently , the r                ... pos = 0.0   	neg = 0.125
+18. cox , sporting a bas                ... pos = 0.625 	neg = 0.375
+19. dano is quiet and at                ... pos = 0.25  	neg = 0.375
+20. we're so used to chi                ... pos = 0.75  	neg = 0.25 
+21. the restraint is adm                ... pos = 0.75  	neg = 0.125
+22. but l . i . e . 's s                ... pos = 0.375 	neg = 0.0  
+23. when howie reads big                ... pos = 0.0   	neg = 0.5  
+24. director michael cue                ... pos = 0.25  	neg = 0.375
+25. it's too much .                     ... pos = 0.125 	neg = 0.25 
+26. there are also some                 ... pos = 1.5   	neg = 0.125
+27. this plot thread pre                ... pos = 0.0   	neg = 0.0  
+28. not content to be a                 ... pos = 1.125 	neg = 0.625
+29. it's typical of unim                ... pos = 0.125 	neg = 0.625
+30. in this regard , l .                ... pos = 0.75  	neg = 0.0  
+31. ( and countless othe                ... pos = 0.25  	neg = 1.0  
+32. how often does real                 ... pos = 0.0   	neg = 0    
+33. to extend the questi                ... pos = 0.5   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/neg/cv010_29063.txt is Positive  ... pos = 17.125 	neg = 14.875
+Overall score of document
+Total Pos = 17.125
+Total Neg = 14.875
+---------------------------------------------------------------------------
+0. janeane garofalo in                  ... pos = 1.5   	neg = 0.25 
+1. this is a by-the-boo                 ... pos = 0.5   	neg = 0.375
+2. it also jumps on the                 ... pos = 0.0   	neg = 0.375
+3. garofalo plays a cam                 ... pos = 0.0   	neg = 0.0  
+4. denis leary plays th                 ... pos = 0.375 	neg = 1.25 
+5. so leary orders garo                 ... pos = 0.0   	neg = 0.0  
+6. she soon learns why                  ... pos = 0.25  	neg = 0.125
+7. the matchmaker falls                 ... pos = 0.0   	neg = 2.5  
+8. then comes what roge                 ... pos = 0.5   	neg = 0.0  
+9. it happens in every                  ... pos = 0.125 	neg = 0.0  
+10. in the matchmaker ,                 ... pos = 0.0   	neg = 0.625
+11. no points for guessi                ... pos = 0.375 	neg = 0.25 
+12. also no points for g                ... pos = 0.375 	neg = 0.625
+13. that's how it works                 ... pos = 0.0   	neg = 0.0  
+14. i know from the inst                ... pos = 1.375 	neg = 1.0  
+15. i haven't mentioned                 ... pos = 0.25  	neg = 0.0  
+16. garofalo comes to th                ... pos = 0.125 	neg = 0.625
+17. milo o'shea ( who lo                ... pos = 0.5   	neg = 0.625
+18. rest assured he'll d                ... pos = 0.5   	neg = 0.0  
+19. oh , and in keeping                 ... pos = 0.25  	neg = 0.0  
+20. what the message her                ... pos = 0.0   	neg = 0.0  
+21. sometimes even the m                ... pos = 0.625 	neg = 0.5  
+22. i was excited to see                ... pos = 0.625 	neg = 0.125
+23. leary stays statesid                ... pos = 0.25  	neg = 0.75 
+24. he even undoes himse                ... pos = 0.0   	neg = 0.0  
+25. both of them should                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv011_13044.txt is Negative  ... pos = 8.5   	neg = 10.0 
+Overall score of document
+Total Pos = 8.5
+Total Neg = 10.0
+---------------------------------------------------------------------------
+0. and now the high-fly                 ... pos = 0.75  	neg = 0.125
+1. this time out the no                 ... pos = 0.0   	neg = 0.75 
+2. by bringing in popul                 ... pos = 0.375 	neg = 1.0  
+3. the end result is a                  ... pos = 0.0   	neg = 2.125
+4. the story is so simp                 ... pos = 0.25  	neg = 0.125
+5. d'artagnan ( justin                  ... pos = 0.0   	neg = 0.125
+6. he travels to paris                  ... pos = 0.0   	neg = 0.0  
+7. in paris , he meets                  ... pos = 0.75  	neg = 1.0  
+8. he finds the muskete                 ... pos = 0.0   	neg = 0.0  
+9. d'artagnan and his n                 ... pos = 1.25  	neg = 0.0  
+10. director peter hyams                ... pos = 0.125 	neg = 0.5  
+11. one problem is that                 ... pos = 0.125 	neg = 0.375
+12. jet li's high risk i                ... pos = 0.0   	neg = 1.0  
+13. ironically , there i                ... pos = 0.625 	neg = 0.875
+14. most asian action fi                ... pos = 0.0   	neg = 0.0  
+15. the musketeer instea                ... pos = 0.75  	neg = 1.5  
+16. chambers' d'artangna                ... pos = 0.0   	neg = 0.0  
+17. and hyam's use of ca                ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/neg/cv012_29411.txt is Negative  ... pos = 5.875 	neg = 9.75 
+Overall score of document
+Total Pos = 5.875
+Total Neg = 9.75
+---------------------------------------------------------------------------
+0. a movie like mortal                  ... pos = 0.375 	neg = 0.125
+1. first , there's the                  ... pos = 0.125 	neg = 0.625
+2. but occasionaly , al                 ... pos = 0.75  	neg = 0.0  
+3. no no . . .                          ... pos = 0     	neg = 0.5  
+4. just kidding .                       ... pos = 0     	neg = 0.125
+5. had you going there                  ... pos = 0.0   	neg = 0.0  
+6. in all seriousness h                 ... pos = 0.625 	neg = 0.375
+7. the first movie ( mo                 ... pos = 0.5   	neg = 0.0  
+8. the mortals won , an                 ... pos = 0.0   	neg = 0.0  
+9. unfortunately , shao                 ... pos = 0.5   	neg = 1.625
+10. the first movie was                 ... pos = 0.5   	neg = 0.125
+11. i'd even go so far a                ... pos = 0.375 	neg = 0.0  
+12. the writers and dire                ... pos = 0.0   	neg = 0.0  
+13. there were a lot of                 ... pos = 0.0   	neg = 0.875
+14. and , as we know , t                ... pos = 0.125 	neg = 0.375
+15. mortal kombat : anni                ... pos = 0.25  	neg = 0.625
+16. shao khan has decide                ... pos = 0.25  	neg = 0.625
+17. thereafter follows a                ... pos = 1.125 	neg = 0.875
+18. one gets the general                ... pos = 0.125 	neg = 0.125
+19. too bad they didn't                 ... pos = 0.125 	neg = 1.375
+20. i could write volume                ... pos = 0.75  	neg = 0.75 
+21. * the acting is trul                ... pos = 0.625 	neg = 1.0  
+22. sandra hess ( playin                ... pos = 2.75  	neg = 1.625
+23. * in one of the wors                ... pos = 0.125 	neg = 0.375
+24. in the first movie ,                ... pos = 1.5   	neg = 0.875
+25. i generally like it                 ... pos = 1.375 	neg = 1.125
+26. * there are too many                ... pos = 2.5   	neg = 0.25 
+27. * there are a number                ... pos = 0.25  	neg = 1.375
+28. for these reasons (                 ... pos = 0.0   	neg = 0.0  
+29. . . . unless you're                 ... pos = 0.125 	neg = 0.125
+30. in that case , the f                ... pos = 0.0   	neg = 0.0  
+31. * sandra hess , whil                ... pos = 0.625 	neg = 0.75 
+32. wilson looked like s                ... pos = 0.5   	neg = 0.125
+33. hess looks like she                 ... pos = 1.5   	neg = 0.375
+34. * in the fights , ea                ... pos = 0.875 	neg = 0.0  
+35. sonya does her " kis                ... pos = 0.0   	neg = 0.0  
+36. a big bonus for thos                ... pos = 0.875 	neg = 0.125
+37. * there aren't as ma                ... pos = 0.375 	neg = 0.125
+38. silly , silly folks                 ... pos = 0     	neg = 0.25 
+39. and the lamest fight                ... pos = 0.0   	neg = 0.375
+40. lame and so obviousl                ... pos = 0.0   	neg = 0.75 
+41. * the special effect                ... pos = 0.25  	neg = 0.25 
+42. motaro and sheeva ar                ... pos = 0.5   	neg = 0.125
+43. for folks like mysel                ... pos = 1.0   	neg = 0.0  
+44. you'll probably like                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv013_10494.txt is Positive  ... pos = 22.625 	neg = 19.125
+Overall score of document
+Total Pos = 22.625
+Total Neg = 19.125
+---------------------------------------------------------------------------
+0. she was the femme in                 ... pos = 0.0   	neg = 0.125
+1. he was the baldwin i                 ... pos = 0.0   	neg = 0.125
+2. together , anne pari                 ... pos = 0.375 	neg = 0.25 
+3. the film poses the q                 ... pos = 0.75  	neg = 0.125
+4. it's either about a                  ... pos = 0.25  	neg = 0.0  
+5. it doesn't much matt                 ... pos = 0.25  	neg = 0.75 
+6. these two lives , wi                 ... pos = 0.75  	neg = 0.75 
+7. it's not that compli                 ... pos = 0.125 	neg = 0.125
+8. of course it helps i                 ... pos = 0.875 	neg = 0.25 
+9. " shattered image "                  ... pos = 0.0   	neg = 0.125
+10. and boring .                        ... pos = 0     	neg = 0.0  
+11. parillaud and baldwi                ... pos = 1.75  	neg = 0.0  
+12. lines like :                        ... pos = 0     	neg = 0.0  
+13. " you don't beg , yo                ... pos = 0     	neg = 0.25 
+14. i like that in a wom                ... pos = 0.0   	neg = 0.0  
+15. that's parillaud's c                ... pos = 0.875 	neg = 0.0  
+16. to her cat !                        ... pos = 0     	neg = 0.0  
+17. and :                               ... pos = 0     	neg = 0    
+18. " you're not the rea                ... pos = 0.125 	neg = 0.0  
+19. huh ?                               ... pos = 0     	neg = 0    
+20. and this wonderful b                ... pos = 0.75  	neg = 0.0  
+21. " if you give me a c                ... pos = 0.0   	neg = 0.625
+22. " i don't have that                 ... pos = 0.0   	neg = 0.0  
+23. talking of pants , p                ... pos = 0.125 	neg = 0.625
+24. we have come to expe                ... pos = 1.0   	neg = 0.625
+25. but there's nothing                 ... pos = 0.0   	neg = 0.25 
+26. karen is as interest                ... pos = 0.0   	neg = 1.375
+27. siouxsie is the chro                ... pos = 0.0   	neg = 0.5  
+28. baldwin seems more i                ... pos = 0.125 	neg = 0.125
+29. each time graham gre                ... pos = 0.0   	neg = 0.0  
+30. barbet schroeder ( "                ... pos = 0.125 	neg = 0.875
+31. every now and again                 ... pos = 0.25  	neg = 0.875
+32. and every now and ag                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/neg/cv014_15600.txt is Negative  ... pos = 8.5   	neg = 8.875
+Overall score of document
+Total Pos = 8.5
+Total Neg = 8.875
+---------------------------------------------------------------------------
+0. john carpenter makes                 ... pos = 0.0   	neg = 0.0  
+1. always has ( " hallo                 ... pos = 0.5   	neg = 0.375
+2. carpenter's latest h                 ... pos = 0.75  	neg = 1.25 
+3. like all those films                 ... pos = 0.5   	neg = 1.0  
+4. in category one , ab                 ... pos = 0.5   	neg = 0.25 
+5. dormant martians ( i                 ... pos = 0.5   	neg = 1.125
+6. all this explained (                 ... pos = 0.0   	neg = 0.0  
+7. officer ballard went                 ... pos = 0.375 	neg = 0.25 
+8. in the second catego                 ... pos = 0.25  	neg = 1.5  
+9. in category number t                 ... pos = 0.125 	neg = 0.0  
+10. state-of-the-art spe                ... pos = 0.125 	neg = 1.0  
+11. " ghosts of mars " i                ... pos = 0.0   	neg = 1.625
+12. the film often and a                ... pos = 0.0   	neg = 0.0  
+13. carpenter might like                ... pos = 0.0   	neg = 1.125
+14. it's just the shooto                ... pos = 0.0   	neg = 0.375
+15. i never thought i'd                 ... pos = 0.0   	neg = 0.0  
+16. it's not * all * the                ... pos = 0.125 	neg = 0    
+17. dubbed the " one-not                ... pos = 0.625 	neg = 0.25 
+18. fortunately this dro                ... pos = 0.5   	neg = 0.0  
+19. the final exchange b                ... pos = 0.25  	neg = 0.125
+20. mars has proven an i                ... pos = 0.125 	neg = 1.125
+21. " ghosts of mars " s                ... pos = 0.625 	neg = 1.125
+22. the irony is that th                ... pos = 0.0   	neg = 0.875
+23. there are occasional                ... pos = 0.375 	neg = 0.625
+24. two things keep " jo                ... pos = 0.0   	neg = 0.25 
+25. 1 .                                 ... pos = 0     	neg = 0    
+26. henstridge keeps her                ... pos = 0.0   	neg = 0.375
+27. what that means , ho                ... pos = 0.625 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/neg/cv015_29356.txt is Negative  ... pos = 6.875 	neg = 15.125
+Overall score of document
+Total Pos = 6.875
+Total Neg = 15.125
+---------------------------------------------------------------------------
+0. i'm really starting                  ... pos = 0     	neg = 0.0  
+1. sure , she is one of                 ... pos = 1.0   	neg = 0.125
+2. the crush was a slow                 ... pos = 0.0   	neg = 0.125
+3. hideaway was a horri                 ... pos = 0.0   	neg = 0.125
+4. clueless was an anno                 ... pos = 0.0   	neg = 1.125
+5. and people have e-ma                 ... pos = 0.75  	neg = 0.875
+6. one girl said if i'd                 ... pos = 0.5   	neg = 0.0  
+7. nothing could be fur                 ... pos = 0.875 	neg = 0.375
+8. i went into the thea                 ... pos = 0.625 	neg = 0.0  
+9. the preview looked g                 ... pos = 1.625 	neg = 2.375
+10. almost everyone i sa                ... pos = 0.0   	neg = 0.0  
+11. when we were walking                ... pos = 0.0   	neg = 0.625
+12. so last night i walk                ... pos = 0.0   	neg = 0.125
+13. i knew it would be b                ... pos = 0.375 	neg = 1.0  
+14. what i got was 90 mi                ... pos = 0.0   	neg = 0.5  
+15. and you already know                ... pos = 0.25  	neg = 0.125
+16. where to begin in cr                ... pos = 0.0   	neg = 0.0  
+17. the plot is a thin s                ... pos = 0.0   	neg = 1.125
+18. there is zero humor                 ... pos = 0.25  	neg = 0.875
+19. zero plus zero plus                 ... pos = 0.0   	neg = 0.0  
+20. so why does this mov                ... pos = 0.0   	neg = 0.0  
+21. well , alicia spends                ... pos = 0.0   	neg = 0.0  
+22. and if it wasn't bub                ... pos = 0.0   	neg = 0.0  
+23. alicia plays a babys                ... pos = 0.25  	neg = 0.0  
+24. and of course anyone                ... pos = 1.125 	neg = 0.0  
+25. as the movie trods a                ... pos = 0.125 	neg = 0.25 
+26. the drunken father t                ... pos = 0.25  	neg = 0.75 
+27. they even throw in t                ... pos = 0.25  	neg = 0.0  
+28. not that any of us a                ... pos = 0.125 	neg = 0.0  
+29. at least none of the                ... pos = 0.0   	neg = 0.25 
+30. in fact , i could im                ... pos = 0.0   	neg = 1.125
+31. so you can't call it                ... pos = 0.0   	neg = 0.25 
+32. i've already pointed                ... pos = 0.5   	neg = 0.0  
+33. bad .                               ... pos = 0     	neg = 0.875
+---------------------------------------------------------------------------
+./temp/neg/cv016_4348.txt is Negative   ... pos = 8.875 	neg = 13.0 
+Overall score of document
+Total Pos = 8.875
+Total Neg = 13.0
+---------------------------------------------------------------------------
+0. so what do you get w                 ... pos = 1.125 	neg = 0.0  
+1. well , whatever it i                 ... pos = 1.25  	neg = 1.5  
+2. this is a film that                  ... pos = 0.625 	neg = 0.625
+3. it's like i said . .                 ... pos = 0     	neg = 0.0  
+4. movie sucks .                        ... pos = 0     	neg = 0.0  
+5. plot : a rescue crew                 ... pos = 0.0   	neg = 0.375
+6. critique : extremely                 ... pos = 1.0   	neg = 0.125
+7. uneven , would be an                 ... pos = 0     	neg = 0.625
+8. the trailer for this                 ... pos = 0.25  	neg = 1.375
+9. but it isn't long be                 ... pos = 0.875 	neg = 2.0  
+10. in a sci-fi movie ?                 ... pos = 0.0   	neg = 0.0  
+11. well , i don't know                 ... pos = 0.125 	neg = 0.125
+12. ultimately , this is                ... pos = 0.0   	neg = 1.25 
+13. mind you , if you en                ... pos = 0.875 	neg = 0.5  
+14. of course , i don't                 ... pos = 0.125 	neg = 0.25 
+15. ugh .                               ... pos = 0     	neg = 0    
+16. what a friggin' mess                ... pos = 0.0   	neg = 0.0  
+17. films like this gene                ... pos = 0.0   	neg = 0.0  
+18. didn't anybody recog                ... pos = 0.0   	neg = 0.0  
+19. didn't they read the                ... pos = 0.25  	neg = 0.875
+20. of course , you can'                ... pos = 0.0   	neg = 0.5  
+21. 'nuff said .                        ... pos = 0     	neg = 0.0  
+22. neither can you blam                ... pos = 0.25  	neg = 1.5  
+23. ears hurt ! ) .                     ... pos = 0.0   	neg = 0    
+24. so is anything salva                ... pos = 0.0   	neg = 0.5  
+25. sure .                              ... pos = 0.25  	neg = 0    
+26. gary sinise does ano                ... pos = 0.125 	neg = 0.25 
+27. other than that ?                   ... pos = 0.0   	neg = 0    
+28. i guess i could say                 ... pos = 0.75  	neg = 0.0  
+29. did i say " admire "                ... pos = 0.625 	neg = 0.125
+30. all in all , this mo                ... pos = 0.75  	neg = 3.625
+31. go see the ninth gat                ... pos = 0.0   	neg = 0.0  
+32. there's a great movi                ... pos = 0.0   	neg = 0.0  
+33. and on a personal no                ... pos = 0.375 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/neg/cv017_23487.txt is Negative  ... pos = 9.625 	neg = 16.875
+Overall score of document
+Total Pos = 9.625
+Total Neg = 16.875
+---------------------------------------------------------------------------
+0. the law of crowd ple                 ... pos = 1.875 	neg = 0.0  
+1. if you're not famili                 ... pos = 0.625 	neg = 0.0  
+2. now if you're a regu                 ... pos = 0.5   	neg = 0.625
+3. no , it definitely i                 ... pos = 0.25  	neg = 0.375
+4. melissa joan hart (                  ... pos = 0.0   	neg = 0.125
+5. adrien grenier is he                 ... pos = 0.0   	neg = 0.75 
+6. apparently he wants                  ... pos = 0.75  	neg = 0.125
+7. so the two pretend t                 ... pos = 0.125 	neg = 0.25 
+8. will grenier like hi                 ... pos = 1.25  	neg = 0.0  
+9. will this crazy sche                 ... pos = 0.125 	neg = 0.375
+10. do i care ?                         ... pos = 0     	neg = 0.0  
+11. the teen comedy resu                ... pos = 0.875 	neg = 0.125
+12. what makes movies li                ... pos = 0.75  	neg = 0.625
+13. i don't know what th                ... pos = 0     	neg = 0.5  
+14. there was some smart                ... pos = 0.0   	neg = 0.125
+15. here there's nothing                ... pos = 0     	neg = 0.25 
+16. just teens whining a                ... pos = 0.0   	neg = 0.0  
+17. do me a favor kids ,                ... pos = 0.0   	neg = 0.0  
+18. just shut the hell u                ... pos = 0     	neg = 0.5  
+19. in all honesty , the                ... pos = 0.5   	neg = 0.125
+20. now normally when i                 ... pos = 0.0   	neg = 0.375
+21. in this case though                 ... pos = 0.375 	neg = 0.0  
+22. after the obligatory                ... pos = 0.375 	neg = 0.0  
+23. nothing great , but                 ... pos = 0.125 	neg = 0.25 
+24. sci-fi fans take not                ... pos = 0.25  	neg = 0.0  
+25. [pg-13]                             ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/neg/cv018_21672.txt is Positive  ... pos = 8.75  	neg = 5.5  
+Overall score of document
+Total Pos = 8.75
+Total Neg = 5.5
+---------------------------------------------------------------------------
+0. mighty joe young blu                 ... pos = 0.375 	neg = 0.25 
+1. his entrance , howev                 ... pos = 0.5   	neg = 0.375
+2. joe bellows at the p                 ... pos = 0.375 	neg = 0.0  
+3. during this scene ,                  ... pos = 0.125 	neg = 0.375
+4. that's some ape . "                  ... pos = 0     	neg = 0.375
+5. joe is quite a goril                 ... pos = 0.125 	neg = 0.125
+6. he runs around the f                 ... pos = 0.0   	neg = 0.0  
+7. he picks things up a                 ... pos = 0.375 	neg = 0.0  
+8. he breaks things on                  ... pos = 0.0   	neg = 0.5  
+9. joe , as a special e                 ... pos = 0.25  	neg = 0.625
+10. as a character , he                 ... pos = 0.875 	neg = 0.0  
+11. and the story he's b                ... pos = 0.0   	neg = 0.625
+12. the words " family e                ... pos = 0.25  	neg = 1.25 
+13. the picture is a rem                ... pos = 0.0   	neg = 0.125
+14. it's mostly just abo                ... pos = 0.875 	neg = 0.125
+15. the main one is jill                ... pos = 0.0   	neg = 0.25 
+16. as a child , she wit                ... pos = 0.0   	neg = 0.875
+17. specifically , she's                ... pos = 0.5   	neg = 0.875
+18. soon , zoologist gre                ... pos = 0.125 	neg = 0.25 
+19. so , in an effort to                ... pos = 0.0   	neg = 0.25 
+20. in addition , the sp                ... pos = 0.0   	neg = 0.5  
+21. and , to add to the                 ... pos = 0.625 	neg = 0.125
+22. jill , of course , d                ... pos = 0.0   	neg = 0.0  
+23. this is just one of                 ... pos = 0.375 	neg = 1.125
+24. the movie isn't real                ... pos = 0.0   	neg = 0.0  
+25. but the story is rea                ... pos = 1.375 	neg = 0.375
+26. the movie also has b                ... pos = 0.0   	neg = 0.875
+27. if a critic says tha                ... pos = 0.875 	neg = 0.875
+28. and " joe isn't safe                ... pos = 0.0   	neg = 0.0  
+29. " we need to get joe                ... pos = 0     	neg = 0.125
+30. " joe is way too big                ... pos = 0.0   	neg = 0.375
+31. i don't know if thes                ... pos = 0.25  	neg = 0.0  
+32. as i said , the char                ... pos = 1.375 	neg = 0.75 
+33. paxton and theron ar                ... pos = 1.875 	neg = 0.0  
+34. sadly , mighty joe y                ... pos = 0.375 	neg = 0.625
+35. there are a few clev                ... pos = 1.375 	neg = 0.25 
+36. it's certainly not a                ... pos = 0.375 	neg = 1.125
+37. but adults in the au                ... pos = 0.125 	neg = 0.0  
+38. a big gorilla is onl                ... pos = 0.0   	neg = 0.625
+39. nobody ever figures                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv019_16117.txt is Negative  ... pos = 13.75 	neg = 15.0 
+Overall score of document
+Total Pos = 13.75
+Total Neg = 15.0
+---------------------------------------------------------------------------
+0. " spawn " features g                 ... pos = 0.75  	neg = 1.875
+1. it not only appears                  ... pos = 0.0   	neg = 0.5  
+2. in a classic example                 ... pos = 1.625 	neg = 0.75 
+3. so much for a messag                 ... pos = 0.125 	neg = 0.0  
+4. the movie then lurch                 ... pos = 0.0   	neg = 1.5  
+5. simmons goes to hell                 ... pos = 0.75  	neg = 1.625
+6. of course , seeing a                 ... pos = 0.0   	neg = 0.25 
+7. sweeney ) .                          ... pos = 0     	neg = 0    
+8. his , uh , shoulder                  ... pos = 0.444 	neg = 0.125
+9. clown manipulates si                 ... pos = 0.569 	neg = 1.0  
+10. wynn , who thinks he                ... pos = 0.819 	neg = 1.625
+11. phew . got all that                 ... pos = 0.0   	neg = 0.0  
+12. it would be easy to                 ... pos = 0.25  	neg = 0.25 
+13. the computer-generat                ... pos = 0.25  	neg = 1.0  
+14. the several scenes s                ... pos = 1.125 	neg = 0.875
+15. other elements of th                ... pos = 1.375 	neg = 0.375
+16. in movies like " con                ... pos = 0.0   	neg = 0.25 
+17. in " spawn , " they                 ... pos = 0.25  	neg = 0.0  
+18. and spawn himself is                ... pos = 0.875 	neg = 0.0  
+19. the film's reliance                 ... pos = 0.25  	neg = 0.5  
+20. what we need is a ba                ... pos = 0.0   	neg = 0.25 
+21. even watching the ad                ... pos = 0.5   	neg = 0.125
+22. poor leguizamo .                    ... pos = 0     	neg = 0.0  
+23. he starred in februa                ... pos = 0.0   	neg = 1.0  
+24. as clown , he overac                ... pos = 0.569 	neg = 0.125
+25. leguizamo farts gree                ... pos = 0.75  	neg = 0.0  
+26. the guy was brillian                ... pos = 1.0   	neg = 0.125
+27. julie newmar . "                    ... pos = 0     	neg = 0    
+28. what is he doing was                ... pos = 0.0   	neg = 1.125
+29. i'm one of the few p                ... pos = 0.125 	neg = 0.0  
+30. yet after catching t                ... pos = 1.0   	neg = 0.0  
+31. there's a compelling                ... pos = 1.0   	neg = 0.625
+32. as it is , " spawn "                ... pos = 0.0   	neg = 2.5  
+---------------------------------------------------------------------------
+./temp/neg/cv020_9234.txt is Negative   ... pos = 14.401 	neg = 18.375
+Overall score of document
+Total Pos = 14.401
+Total Neg = 18.375
+---------------------------------------------------------------------------
+0. " in dreams " might                  ... pos = 0.875 	neg = 1.5  
+1. no , the source of p                 ... pos = 0.25  	neg = 1.125
+2. the big letdown , ho                 ... pos = 0.875 	neg = 0.125
+3. he's no stranger to                  ... pos = 0.375 	neg = 0.5  
+4. things start out str                 ... pos = 0.75  	neg = 0.75 
+5. this eerie opulence                  ... pos = 3.0   	neg = 0.125
+6. don't knock the look                 ... pos = 1.0   	neg = 0.375
+7. annette bening , ano                 ... pos = 1.5   	neg = 0.25 
+8. she plays claire coo                 ... pos = 0.25  	neg = 0.5  
+9. she thinks these vis                 ... pos = 0.25  	neg = 0.875
+10. this being a thrille                ... pos = 0.875 	neg = 0.125
+11. but as soon as a bod                ... pos = 0.375 	neg = 1.125
+12. scenes pile up like                 ... pos = 0.0   	neg = 0.75 
+13. subplots appear and                 ... pos = 0.0   	neg = 0.0  
+14. when claire finally                 ... pos = 0.125 	neg = 0.875
+15. " in dreams " reache                ... pos = 0.375 	neg = 0.625
+16. some questions , the                ... pos = 0.0   	neg = 0.0  
+17. are the drawings on                 ... pos = 0.25  	neg = 0.0  
+18. who cranked up the a                ... pos = 0.0   	neg = 0.0  
+19. what about the compu                ... pos = 0.0   	neg = 0.0  
+20. does vivian possess                 ... pos = 0.0   	neg = 0.25 
+21. why would he continu                ... pos = 0.0   	neg = 0.25 
+22. is the woman in aust                ... pos = 0.0   	neg = 0.125
+23. and the aforemention                ... pos = 0.0   	neg = 0.0  
+24. sigh .                              ... pos = 0     	neg = 0.0  
+25. at least in my own d                ... pos = 0.5   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/neg/cv021_17313.txt is Positive  ... pos = 11.625 	neg = 10.875
+Overall score of document
+Total Pos = 11.625
+Total Neg = 10.875
+---------------------------------------------------------------------------
+0. " knock off " is exa                 ... pos = 0.125 	neg = 2.0  
+1. it's also the worst                  ... pos = 0.0   	neg = 0.375
+2. i figured it would b                 ... pos = 0.0   	neg = 0.625
+3. jean-claude van damm                 ... pos = 0.0   	neg = 0.75 
+4. rob schneider plays                  ... pos = 0.0   	neg = 0.0  
+5. actually , i have no                 ... pos = 0.0   	neg = 0.5  
+6. she just sort of pop                 ... pos = 0.0   	neg = 0.125
+7. many things are not                  ... pos = 0.25  	neg = 0.5  
+8. where chan comes off                 ... pos = 1.25  	neg = 1.375
+9. we're never given an                 ... pos = 0.0   	neg = 0.0  
+10. to be more clear : i                ... pos = 0.0   	neg = 0.75 
+11. the film has been di                ... pos = 0.375 	neg = 1.125
+12. tsui hark ( who dire                ... pos = 0.0   	neg = 2.0  
+13. we are even treated                 ... pos = 0.0   	neg = 0.0  
+14. fabulous !                          ... pos = 0.875 	neg = 0    
+15. seriously , though ,                ... pos = 0.0   	neg = 1.0  
+16. for example , look a                ... pos = 0.0   	neg = 0.375
+17. " army of darkness "                ... pos = 0.875 	neg = 0.25 
+18. that's a concept tha                ... pos = 0.375 	neg = 0    
+19. the special effects                 ... pos = 0.0   	neg = 0.875
+20. another problem with                ... pos = 0.0   	neg = 1.5  
+21. the film stock used                 ... pos = 0.0   	neg = 0.25 
+22. and for some inexpli                ... pos = 0.0   	neg = 0.75 
+23. even the stars .                    ... pos = 0     	neg = 0.0  
+24. and even the special                ... pos = 1.125 	neg = 0.5  
+25. for example , there                 ... pos = 0.0   	neg = 0.125
+26. the car slams into t                ... pos = 0.0   	neg = 0.125
+27. seconds later , the                 ... pos = 0.0   	neg = 0.625
+28. hey , i have no prob                ... pos = 0.375 	neg = 1.125
+29. finally , the acting                ... pos = 0.0   	neg = 0.0  
+30. nobody gives a good                 ... pos = 0.75  	neg = 0.0  
+31. van damme , an actor                ... pos = 0.25  	neg = 0.75 
+32. and schneider , here                ... pos = 0.375 	neg = 0.375
+33. even the usually sol                ... pos = 0.0   	neg = 0.0  
+34. once again , i have                 ... pos = 0.0   	neg = 0.5  
+35. in case i haven't ye                ... pos = 0.25  	neg = 1.5  
+36. and it's not even on                ... pos = 0.0   	neg = 0.875
+37. it's too inept to be                ... pos = 0     	neg = 1.125
+38. there are no redeemi                ... pos = 0.625 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/neg/cv022_14227.txt is Negative  ... pos = 7.875 	neg = 23.875
+Overall score of document
+Total Pos = 7.875
+Total Neg = 23.875
+---------------------------------------------------------------------------
+0. " snake eyes " is th                 ... pos = 0.625 	neg = 1.375
+1. it's not just becaus                 ... pos = 0.375 	neg = 0.125
+2. and it's not even be                 ... pos = 0.0   	neg = 0.375
+3. it's worse than that                 ... pos = 0     	neg = 0.625
+4. it's aggravating for                 ... pos = 0.75  	neg = 1.625
+5. or more deservedly ,                 ... pos = 0.25  	neg = 0.0  
+6. in certain circles ,                 ... pos = 3.75  	neg = 1.75 
+7. in one very very ver                 ... pos = 2.875 	neg = 0.875
+8. there's a big name i                 ... pos = 0.125 	neg = 0.375
+9. this all happens in                  ... pos = 0.125 	neg = 0.625
+10. what really happened                ... pos = 1.375 	neg = 0.0  
+11. discovers there's a                 ... pos = 1.25  	neg = 0.75 
+12. as we follow rick tr                ... pos = 0.375 	neg = 2.375
+13. this is all going pr                ... pos = 0.75  	neg = 0.25 
+14. it takes one wrong s                ... pos = 0.0   	neg = 0.75 
+15. we follow the wrong                 ... pos = 0.875 	neg = 1.0  
+16. but that's not the w                ... pos = 0.0   	neg = 2.375
+17. it only gets worse :                ... pos = 0.25  	neg = 0.75 
+18. it's as if the film                 ... pos = 1.125 	neg = 0.125
+19. events become more a                ... pos = 0.25  	neg = 0.375
+20. that's where some ou                ... pos = 0.0   	neg = 0.625
+21. this time , it's a h                ... pos = 0.0   	neg = 0.0  
+22. what went wrong ?                   ... pos = 0     	neg = 0.75 
+23. depalma and the scre                ... pos = 2.0   	neg = 0.125
+24. depalma , who idoliz                ... pos = 0.125 	neg = 0.75 
+25. but granted , depalm                ... pos = 0.75  	neg = 0.0  
+26. at least his directi                ... pos = 0.0   	neg = 0.0  
+27. then there's koepp ,                ... pos = 2.0   	neg = 0.0  
+28. he can write a flawe                ... pos = 0.875 	neg = 0.25 
+29. he's flawed , and we                ... pos = 0.0   	neg = 0.375
+30. a scene towards the                 ... pos = 1.0   	neg = 0.75 
+31. he may as well have                 ... pos = 0.875 	neg = 0.125
+32. this is the most dis                ... pos = 1.625 	neg = 0.75 
+33. as i was watching th                ... pos = 0.875 	neg = 0.375
+34. now there's a film .                ... pos = 0.0   	neg = 0    
+35. unfortunately , the                 ... pos = 0.125 	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/neg/cv023_13847.txt is Positive  ... pos = 25.375 	neg = 22.875
+Overall score of document
+Total Pos = 25.375
+Total Neg = 22.875
+---------------------------------------------------------------------------
+0. forgive the fevered                  ... pos = 0.625 	neg = 0.25 
+1. set in 1692 at salem                 ... pos = 0.0   	neg = 0.125
+2. they beckon the name                 ... pos = 0.125 	neg = 0.0  
+3. then one of the girl                 ... pos = 0.0   	neg = 0.0  
+4. not to be outdone in                 ... pos = 0.375 	neg = 0.5  
+5. taking even adolesce                 ... pos = 0.875 	neg = 0.125
+6. surely to the purita                 ... pos = 0.375 	neg = 0.125
+7. the crucible errs fr                 ... pos = 0.0   	neg = 0.625
+8. this is far from a h                 ... pos = 1.0   	neg = 1.0  
+9. the play describes t                 ... pos = 0.625 	neg = 0.0  
+10. in the film , the op                ... pos = 0.0   	neg = 0.375
+11. not only is credulit                ... pos = 0.625 	neg = 1.125
+12. it positions the cru                ... pos = 0.458 	neg = 0.0  
+13. not surprisingly , t                ... pos = 0.375 	neg = 0.625
+14. when the girls are q                ... pos = 1.25  	neg = 0.5  
+15. with alarming synchr                ... pos = 0.75  	neg = 0.75 
+16. abigail seizes on th                ... pos = 1.125 	neg = 0.25 
+17. appropriately narrow                ... pos = 0.875 	neg = 0.375
+18. director nicholas hy                ... pos = 0.75  	neg = 1.125
+19. otherwise , hytner's                ... pos = 0.125 	neg = 0.125
+20. ryder's performance                 ... pos = 0.0   	neg = 0.125
+21. her fits of frenzy a                ... pos = 1.875 	neg = 0.0  
+22. abigail supposedly r                ... pos = 1.5   	neg = 0.875
+23. paul scofield is fin                ... pos = 1.25  	neg = 0.375
+24. probably because she                ... pos = 0.875 	neg = 0.5  
+25. a scene near the end                ... pos = 1.0   	neg = 0.125
+26. unfortunately , when                ... pos = 0.0   	neg = 1.0  
+27. it is clear that mil                ... pos = 0.0   	neg = 1.125
+28. his screenplay is an                ... pos = 0.125 	neg = 0.25 
+29. the result is a clum                ... pos = 1.125 	neg = 1.0  
+30. when the gallows bec                ... pos = 0.25  	neg = 0.125
+31. far from bewitching                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv024_7033.txt is Positive   ... pos = 19.083 	neg = 13.5 
+Overall score of document
+Total Pos = 19.083
+Total Neg = 13.5
+---------------------------------------------------------------------------
+0. one might expect a c                 ... pos = 0.625 	neg = 0.5  
+1. after all , he was a                 ... pos = 1.125 	neg = 0.125
+2. he is also an esteem                 ... pos = 0.125 	neg = 0.125
+3. however , his latest                 ... pos = 0.75  	neg = 0.125
+4. the abstract concept                 ... pos = 1.125 	neg = 0.5  
+5. these four universal                 ... pos = 1.125 	neg = 0.25 
+6. it is edgar's ( brun                 ... pos = 0.5   	neg = 0.125
+7. whether this project                 ... pos = 0.125 	neg = 0.625
+8. the thesis is simple                 ... pos = 0.25  	neg = 0.125
+9. instead what ensues                  ... pos = 0.0   	neg = 0.375
+10. only once does any c                ... pos = 1.125 	neg = 0.0  
+11. but don't fret , it                 ... pos = 0.125 	neg = 0.0  
+12. you could easily sle                ... pos = 0.375 	neg = 0.875
+13. but you hold hope fo                ... pos = 0.625 	neg = 0.0  
+14. the background music                ... pos = 0.5   	neg = 0.125
+15. it's only after repe                ... pos = 0.375 	neg = 0.625
+16. and with speeches li                ... pos = 0.25  	neg = 0.25 
+17. to godard's credit ,                ... pos = 0.625 	neg = 0    
+18. the black and white                 ... pos = 0.875 	neg = 0.125
+19. watching edgar read                 ... pos = 0.0   	neg = 0.375
+20. and if this film had                ... pos = 0.5   	neg = 0.625
+21. the environments , b                ... pos = 0.375 	neg = 0.125
+22. unfortunately , goda                ... pos = 0.625 	neg = 0.875
+23. sometimes these brea                ... pos = 1.0   	neg = 0.0  
+24. the second half is c                ... pos = 0.0   	neg = 0.125
+25. you suddenly feel li                ... pos = 0.875 	neg = 0.0  
+26. the only scene that                 ... pos = 0.25  	neg = 0.875
+27. steven spielberg is                 ... pos = 0.0   	neg = 0.125
+28. while i'll grant tha                ... pos = 0.875 	neg = 0.5  
+29. it just goes to show                ... pos = 1.0   	neg = 0.0  
+30. the days of breathle                ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/neg/cv025_29825.txt is Positive  ... pos = 16.375 	neg = 8.75 
+Overall score of document
+Total Pos = 16.375
+Total Neg = 8.75
+---------------------------------------------------------------------------
+0. america loves conven                 ... pos = 0.625 	neg = 0.0  
+1. after all , we're th                 ... pos = 0.125 	neg = 0.0  
+2. yet perhaps this tim                 ... pos = 0.875 	neg = 0.125
+3. ghosts of mars stars                 ... pos = 0.375 	neg = 0.375
+4. when she and her com                 ... pos = 0.875 	neg = 0.25 
+5. filled with a lovely                 ... pos = 0.25  	neg = 1.75 
+6. the only thing keepi                 ... pos = 0.625 	neg = 0.875
+7. ripped straight from                 ... pos = 1.125 	neg = 0.75 
+8. attempts at characte                 ... pos = 1.375 	neg = 0.0  
+9. most of these moment                 ... pos = 0.0   	neg = 0.625
+10. with a gun in one ha                ... pos = 0.375 	neg = 0.125
+11. apparently , crime i                ... pos = 0.0   	neg = 1.125
+12. but , even in the fi                ... pos = 1.5   	neg = 0.0  
+13. yes , in the future                 ... pos = 0.75  	neg = 0.375
+14. and as we all know ,                ... pos = 0.625 	neg = 0.0  
+15. characters die , hea                ... pos = 1.25  	neg = 0.75 
+16. as long as you have                 ... pos = 0.0   	neg = 0.75 
+17. eventually though ,                 ... pos = 0.75  	neg = 0.25 
+18. what better way than                ... pos = 0.875 	neg = 0.25 
+19. explosions are fun .                ... pos = 0.375 	neg = 0.0  
+20. and even if the nuke                ... pos = 0.375 	neg = 0.0  
+21. in the end this film                ... pos = 0.0   	neg = 0.125
+22. for , indeed , john                 ... pos = 0.0   	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/neg/cv026_29229.txt is Positive  ... pos = 13.125 	neg = 9.75 
+Overall score of document
+Total Pos = 13.125
+Total Neg = 9.75
+---------------------------------------------------------------------------
+0. reindeer games is ea                 ... pos = 0.75  	neg = 1.0  
+1. the guy can't seem t                 ... pos = 2.0   	neg = 0.25 
+2. his screenplay for r                 ... pos = 0.5   	neg = 0.25 
+3. i can just envision                  ... pos = 0.0   	neg = 0.125
+4. it's almost as if th                 ... pos = 0.375 	neg = 0.25 
+5. and why the hell wou                 ... pos = 0.75  	neg = 1.125
+6. auteur theory be dam                 ... pos = 0.0   	neg = 0.125
+7. kruger has obviously                 ... pos = 0.375 	neg = 0.125
+8. and his numerous twi                 ... pos = 2.25  	neg = 1.75 
+9. be damned ) .                        ... pos = 0.0   	neg = 0.125
+10. " how did you know t                ... pos = 0     	neg = 0.0  
+11. the stunned protagon                ... pos = 1.0   	neg = 0.125
+12. .                                   ... pos = 0     	neg = 0    
+13. .                                   ... pos = 0     	neg = 0    
+14. since twist endings                 ... pos = 0.25  	neg = 0.25 
+15. he's quickly becomin                ... pos = 0.0   	neg = 0.0  
+16. this is appropriate                 ... pos = 1.0   	neg = 0.75 
+17. their company's curr                ... pos = 0.0   	neg = 0.125
+18. reindeer games stars                ... pos = 0.125 	neg = 0.0  
+19. although affleck is                 ... pos = 0.0   	neg = 1.625
+20. affleck is such a pu                ... pos = 0.125 	neg = 1.25 
+21. the role itself is s                ... pos = 1.125 	neg = 0.5  
+22. it may have been wis                ... pos = 0.25  	neg = 1.625
+23. james frain is nick                 ... pos = 0.875 	neg = 0.125
+24. ashley is a prison g                ... pos = 0.0   	neg = 0.125
+25. which works out fine                ... pos = 1.5   	neg = 1.75 
+26. he plans to rob an i                ... pos = 0.125 	neg = 0.125
+27. though by the end ,                 ... pos = 0.0   	neg = 1.25 
+28. this is what you can                ... pos = 1.25  	neg = 1.125
+29. included : two ( 2 )                ... pos = 1.5   	neg = 1.25 
+30. though it's an actio                ... pos = 0.875 	neg = 1.375
+31. the flick was direct                ... pos = 0.625 	neg = 1.125
+32. it would be a succes                ... pos = 0.125 	neg = 0.375
+33. ( you remember , the                ... pos = 0.625 	neg = 0.0  
+34. he films action sequ                ... pos = 0.75  	neg = 0.125
+35. problem is these act                ... pos = 0.875 	neg = 0.75 
+36. character problems a                ... pos = 1.25  	neg = 2.375
+37. the former he can do                ... pos = 0.625 	neg = 0.125
+38. but then suddenly af                ... pos = 0.444 	neg = 0.25 
+39. charlize theron , an                ... pos = 1.25  	neg = 0.375
+40. she never has a chan                ... pos = 1.0   	neg = 0.5  
+41. gary sinise has play                ... pos = 0.875 	neg = 2.0  
+42. these are talented p                ... pos = 1.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/neg/cv027_26270.txt is Positive  ... pos = 27.069 	neg = 26.75
+Overall score of document
+Total Pos = 27.069
+Total Neg = 26.75
+---------------------------------------------------------------------------
+0. a follow-up to disne                 ... pos = 0.25  	neg = 0.0  
+1. just as unlikely .                   ... pos = 0.0   	neg = 0.0  
+2. with " 102 dalmatian                 ... pos = 0.25  	neg = 0.25 
+3. 1996's " 101 dalmati                 ... pos = 1.125 	neg = 0.0  
+4. in addition , we had                 ... pos = 0.5   	neg = 0.5  
+5. this time around the                 ... pos = 0.375 	neg = 0.125
+6. but that's only half                 ... pos = 0.0   	neg = 0.75 
+7. what makes " 102 dal                 ... pos = 0.25  	neg = 2.25 
+8. gruffudd is cute and                 ... pos = 0.75  	neg = 0.125
+9. the dogs upstage the                 ... pos = 0.375 	neg = 0.0  
+10. bad acting , however                ... pos = 1.125 	neg = 1.125
+11. jean pierre le pelt                 ... pos = 0.125 	neg = 2.5  
+12. france's most popula                ... pos = 0.625 	neg = 0.75 
+13. the finesses of the                 ... pos = 1.25  	neg = 0.5  
+14. that done , it's bac                ... pos = 0.0   	neg = 0.25 
+15. the dogs are pretty                 ... pos = 0.625 	neg = 0.625
+16. there's always the f                ... pos = 0.0   	neg = 0.75 
+17. savvy holiday goers                 ... pos = 0.875 	neg = 0.0  
+18. it's one dalmatian l                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv028_26964.txt is Negative  ... pos = 9.125 	neg = 10.5 
+Overall score of document
+Total Pos = 9.125
+Total Neg = 10.5
+---------------------------------------------------------------------------
+0. one-sided " doom and                 ... pos = 0.125 	neg = 0.0  
+1. orson welles narrate                 ... pos = 0.375 	neg = 0.0  
+2. the film is dated ba                 ... pos = 0.25  	neg = 0.375
+3. for example , the pl                 ... pos = 0.0   	neg = 0.125
+4. we're still here .                   ... pos = 0.0   	neg = 0.0  
+5. the arms race betwee                 ... pos = 0.125 	neg = 0.125
+6. we're still here .                   ... pos = 0.0   	neg = 0.0  
+7. some of the more lud                 ... pos = 0.0   	neg = 0.375
+8. also , there's ten m                 ... pos = 0.0   	neg = 1.375
+9. if it's anything lik                 ... pos = 0.0   	neg = 0.625
+10. the late great plane                ... pos = 0.375 	neg = 0.125
+11. it contains the film                ... pos = 0.25  	neg = 0.0  
+12. also included are br                ... pos = 0.75  	neg = 0.125
+13. audio is mono dolby                 ... pos = 0.875 	neg = 0.25 
+14. i believe this is th                ... pos = 0.25  	neg = 0.25 
+15. certainly i never ex                ... pos = 0.25  	neg = 0.25 
+16. curiously , the menu                ... pos = 0.5   	neg = 0.625
+17. but they're menu scr                ... pos = 0.0   	neg = 0.0  
+18. so who really cares                 ... pos = 0.0   	neg = 0.0  
+19. [pg]                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/neg/cv029_19943.txt is Negative  ... pos = 4.125 	neg = 4.625
+Overall score of document
+Total Pos = 4.125
+Total Neg = 4.625
+---------------------------------------------------------------------------
+0. play it to the bone                  ... pos = 0.375 	neg = 0.125
+1. like most of shelton                 ... pos = 0.875 	neg = 0.375
+2. shelton's films are                  ... pos = 0.375 	neg = 0.0  
+3. shelton has been so                  ... pos = 2.375 	neg = 0.125
+4. play it to the bone                  ... pos = 0.0   	neg = 1.5  
+5. the film has no soci                 ... pos = 0.0   	neg = 0.25 
+6. the relationship bet                 ... pos = 1.0   	neg = 1.375
+7. the whole film , sin                 ... pos = 1.375 	neg = 0.125
+8. unfortunately , it i                 ... pos = 0.5   	neg = 1.5  
+9. 1 ) we never see how                 ... pos = 0.0   	neg = 0    
+10. the two are so diffe                ... pos = 1.75  	neg = 0.125
+11. 2 ) vince and cesar                 ... pos = 0.0   	neg = 0.0  
+12. there is not one con                ... pos = 1.5   	neg = 0.125
+13. 3 ) the third charac                ... pos = 0.875 	neg = 0.0  
+14. she is in nearly eve                ... pos = 1.5   	neg = 0.25 
+15. 4 ) there are two ma                ... pos = 0.25  	neg = 0.625
+16. vince is convinced t                ... pos = 0.5   	neg = 0.75 
+17. these boring tales o                ... pos = 0.0   	neg = 0.0  
+18. 5 ) when it comes to                ... pos = 0.0   	neg = 0.0  
+19. wasn't the whole poi                ... pos = 0.125 	neg = 0.0  
+20. by the time the road                ... pos = 0.125 	neg = 0.25 
+21. shelton , on the oth                ... pos = 0.0   	neg = 0.0  
+22. forty five painful m                ... pos = 0.0   	neg = 0.75 
+23. the boxing scene bet                ... pos = 1.375 	neg = 0.0  
+24. however , the fight                 ... pos = 0.625 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/neg/cv030_22893.txt is Positive  ... pos = 15.5  	neg = 8.875
+Overall score of document
+Total Pos = 15.5
+Total Neg = 8.875
+---------------------------------------------------------------------------
+0. some movies i should                 ... pos = 0.0   	neg = 0.0  
+1. my daughter and i ha                 ... pos = 0.0   	neg = 0.125
+2. true , the probgram                  ... pos = 0.5   	neg = 0.125
+3. but it's a cartoon i                 ... pos = 0.375 	neg = 0.125
+4. but my daughter real                 ... pos = 0.0   	neg = 1.125
+5. turns out i was righ                 ... pos = 0.25  	neg = 0.125
+6. inspector gadget , o                 ... pos = 0.875 	neg = 0.0  
+7. at first i thought i                 ... pos = 0.125 	neg = 0.375
+8. this odd similarity                  ... pos = 1.25  	neg = 0.375
+9. the producers who ob                 ... pos = 0.0   	neg = 0.0  
+10. in some parts you ca                ... pos = 0.0   	neg = 0.125
+11. i want more zany her                ... pos = 0.0   	neg = 0.125
+12. " let's have a reall                ... pos = 0.0   	neg = 1.875
+13. i want the audience                 ... pos = 0.0   	neg = 0.125
+14. " ok , that's fine ,                ... pos = 0.0   	neg = 0.25 
+15. " what does this sce                ... pos = 0.0   	neg = 0.0  
+16. character depth ?                   ... pos = 0.875 	neg = 0    
+17. but where's the zani                ... pos = 0     	neg = 0.0  
+18. i don't see zany her                ... pos = 0.0   	neg = 0.0  
+19. if you can't make it                ... pos = 0.0   	neg = 0.0  
+20. the latter is the on                ... pos = 0.5   	neg = 0.125
+21. michelle ( who plays                ... pos = 0.125 	neg = 0.875
+22. my guess is that the                ... pos = 0.125 	neg = 0.25 
+23. dabney coleman's com                ... pos = 0.25  	neg = 0.5  
+24. i kept expecting him                ... pos = 0.375 	neg = 0.375
+25. he is thoroughly ups                ... pos = 0.0   	neg = 1.125
+26. oteri's overly enthu                ... pos = 0.875 	neg = 1.125
+27. or , maybe all caree                ... pos = 0.25  	neg = 0.0  
+28. i must say , matthew                ... pos = 0.625 	neg = 0.0  
+29. he appears to have s                ... pos = 0.125 	neg = 0.75 
+30. rupert everett is en                ... pos = 0.125 	neg = 0.125
+31. joely fisher does fi                ... pos = 0.125 	neg = 0.0  
+32. her performance is o                ... pos = 0.75  	neg = 0.125
+33. d . l . hughley play                ... pos = 0.5   	neg = 0.0  
+34. the dialog is . . .                 ... pos = 0.0   	neg = 1.125
+35. the tag-line after a                ... pos = 0.0   	neg = 1.25 
+36. a lot of the lines (                ... pos = 0.0   	neg = 0.375
+37. about three-quarters                ... pos = 0.0   	neg = 0.375
+38. gadget then spends t                ... pos = 0.125 	neg = 1.75 
+39. penny does about a m                ... pos = 0.875 	neg = 0.0  
+40. let me rage here jus                ... pos = 0.625 	neg = 0.0  
+41. michelle trachtenber                ... pos = 1.875 	neg = 0.125
+42. she's utterly charmi                ... pos = 1.5   	neg = 0.0  
+43. why she is so underu                ... pos = 0.0   	neg = 0.25 
+44. the film loses a sta                ... pos = 0.625 	neg = 0.75 
+45. inspector gadget is                 ... pos = 0.75  	neg = 1.625
+46. probably the best sc                ... pos = 0.0   	neg = 0.0  
+47. the " evil sidekick                 ... pos = 0.125 	neg = 1.375
+48. all in all , another                ... pos = 0.0   	neg = 1.875
+49. i wonder if disney u                ... pos = 0.0   	neg = 0.375
+50. but if true , why ?                 ... pos = 0.5   	neg = 0.0  
+51. if they're trying fo                ... pos = 0.5   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/neg/cv031_19540.txt is Negative  ... pos = 16.5  	neg = 22.25
+Overall score of document
+Total Pos = 16.5
+Total Neg = 22.25
+---------------------------------------------------------------------------
+0. hong kong cinema has                 ... pos = 0.0   	neg = 1.0  
+1. the last few product                 ... pos = 0.875 	neg = 1.0  
+2. in a nutshell , the                  ... pos = 1.0   	neg = 0.125
+3. with the one time br                 ... pos = 0.375 	neg = 0.125
+4. such talents as jack                 ... pos = 0.125 	neg = 0.625
+5. now we can add two o                 ... pos = 0.0   	neg = 0.375
+6. unfortunately " rome                 ... pos = 0.5   	neg = 0.875
+7. the film opens in a                  ... pos = 0.0   	neg = 0.125
+8. enter a group of chi                 ... pos = 0.0   	neg = 0    
+9. kai confronts po sin                 ... pos = 0.0   	neg = 0.0  
+10. a battle breaks out                 ... pos = 0.125 	neg = 0.125
+11. it's not until club                 ... pos = 0.0   	neg = 0.0  
+12. the following mornin                ... pos = 0.0   	neg = 0.125
+13. suspicions escalate                 ... pos = 0.125 	neg = 0.125
+14. his concern that the                ... pos = 0.75  	neg = 0.0  
+15. issac implores his c                ... pos = 0.125 	neg = 0.0  
+16. the scene shifts to                 ... pos = 0.0   	neg = 0.25 
+17. he fights with the g                ... pos = 0.0   	neg = 1.125
+18. hung upside down by                 ... pos = 0.0   	neg = 0.625
+19. escaping to the u .                 ... pos = 0.625 	neg = 0.0  
+20. " romeo must die " i                ... pos = 0.5   	neg = 0.125
+21. it is both absurd an                ... pos = 0.5   	neg = 0.125
+22. the basic plot of a                 ... pos = 0.25  	neg = 0.0  
+23. the relationship bet                ... pos = 0.875 	neg = 0.25 
+24. their romance is muc                ... pos = 0.125 	neg = 0.125
+25. the performances are                ... pos = 0.25  	neg = 0.0  
+26. li , of course has t                ... pos = 0.375 	neg = 0.125
+27. allayah , in her fea                ... pos = 0.125 	neg = 0.375
+28. it's obvious that th                ... pos = 1.125 	neg = 0.125
+29. but , still the part                ... pos = 0.125 	neg = 0.125
+30. delro lindo as issac                ... pos = 0.0   	neg = 0    
+31. an unsung and under                 ... pos = 0.0   	neg = 0.0  
+32. the other performers                ... pos = 0.375 	neg = 0.0  
+33. the performance is u                ... pos = 1.0   	neg = 0.25 
+34. an unfocused perform                ... pos = 0.0   	neg = 0.75 
+35. first time director                 ... pos = 0.125 	neg = 0.0  
+36. having a career as o                ... pos = 2.125 	neg = 0.375
+37. but the pacing of th                ... pos = 0.0   	neg = 0.5  
+38. the script by eric b                ... pos = 1.125 	neg = 0.125
+39. the big gambit of bu                ... pos = 0.0   	neg = 1.125
+40. and of course the co                ... pos = 1.75  	neg = 0.25 
+41. the best things abou                ... pos = 0.625 	neg = 0.0  
+42. jet li is a master o                ... pos = 0.0   	neg = 0.375
+43. one needs only to se                ... pos = 0.375 	neg = 0.25 
+44. here , jet is given                 ... pos = 0.0   	neg = 0.875
+45. unfortunately , a lo                ... pos = 1.0   	neg = 1.125
+46. also " romeo must di                ... pos = 1.25  	neg = 1.25 
+47. obviously a homage t                ... pos = 0.75  	neg = 0.5  
+48. it's as if the film                 ... pos = 0.0   	neg = 0.125
+49. one problem though a                ... pos = 0.0   	neg = 0.25 
+50. those that are famil                ... pos = 0.875 	neg = 0.0  
+51. they do have an inte                ... pos = 0.0   	neg = 0.0  
+52. a heartbeat , so to                 ... pos = 0.0   	neg = 0.0  
+53. the fight scenes in                 ... pos = 0.375 	neg = 0    
+54. this is created by t                ... pos = 0.0   	neg = 0.125
+55. here in " romeo must                ... pos = 0.375 	neg = 0.375
+56. every fight scene ,                 ... pos = 0.625 	neg = 0.0  
+57. the rhythm is monoto                ... pos = 0.0   	neg = 0.5  
+58. a hong kong film has                ... pos = 0.375 	neg = 0.25 
+59. 'rmd' is limited to                 ... pos = 0.375 	neg = 0.125
+60. a fine example of th                ... pos = 0.25  	neg = 0.125
+61. watch the restaurant                ... pos = 1.625 	neg = 0.125
+62. now look at the ware                ... pos = 0.0   	neg = 0.375
+63. there you have a hea                ... pos = 0.375 	neg = 0.0  
+64. the stops and pauses                ... pos = 1.25  	neg = 1.0  
+65. here in 'romeo must                 ... pos = 1.625 	neg = 0.25 
+66. jet li is a grand an                ... pos = 0.0   	neg = 0.375
+67. it's a shame that hi                ... pos = 0.0   	neg = 1.0  
+68. one day filmmakers h                ... pos = 0.75  	neg = 0.0  
+69. until then , we'll b                ... pos = 0.5   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/neg/cv032_23718.txt is Positive  ... pos = 28.75 	neg = 21.25
+Overall score of document
+Total Pos = 28.75
+Total Neg = 21.25
+---------------------------------------------------------------------------
+0. i wish i could have                  ... pos = 0.0   	neg = 1.125
+1. i bet it was some ho                 ... pos = 1.125 	neg = 0.25 
+2. throw in that hunk o                 ... pos = 0.875 	neg = 0.5  
+3. we'll have a hit on                  ... pos = 0.0   	neg = 0.0  
+4. the replacements is                  ... pos = 1.25  	neg = 2.25 
+5. the story is loosely                 ... pos = 0.0   	neg = 0.125
+6. keanu reeves stars a                 ... pos = 0.0   	neg = 0.0  
+7. gene hackman dons a                  ... pos = 0.125 	neg = 0.0  
+8. rounding out the cas                 ... pos = 1.75  	neg = 1.5  
+9. this bunch of nobodi                 ... pos = 0.125 	neg = 2.25 
+10. the usual things hap                ... pos = 0.125 	neg = 0.0  
+11. the hero rises from                 ... pos = 4.0   	neg = 1.5  
+12. it's also a shame wh                ... pos = 0.75  	neg = 0.75 
+13. howard deutch , who                 ... pos = 1.125 	neg = 1.0  
+14. obviously the proble                ... pos = 0.75  	neg = 0.5  
+15. sports films are str                ... pos = 3.5   	neg = 0.5  
+16. the replacements off                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv033_25680.txt is Positive  ... pos = 15.5  	neg = 12.25
+Overall score of document
+Total Pos = 15.5
+Total Neg = 12.25
+---------------------------------------------------------------------------
+0. if you're into watch                 ... pos = 0.375 	neg = 1.875
+1. based on jim schutze                 ... pos = 0.0   	neg = 2.375
+2. the film could have                  ... pos = 0.25  	neg = 0.0  
+3. in the hands of cont                 ... pos = 1.5   	neg = 0.0  
+4. in terms of the inci                 ... pos = 0.625 	neg = 1.125
+5. the high schoolers a                 ... pos = 1.0   	neg = 0.0  
+6. the bully in questio                 ... pos = 0.375 	neg = 1.625
+7. he hounds and harrie                 ... pos = 0.5   	neg = 0.125
+8. simply remove him fr                 ... pos = 0     	neg = 0.0  
+9. marty and lisa and a                 ... pos = 0.125 	neg = 0.625
+10. there's no remorse--                ... pos = 0.125 	neg = 0.0  
+11. they did it because                 ... pos = 0.0   	neg = 0.0  
+12. what's most troublin                ... pos = 0.5   	neg = 0.5  
+13. not only is the nudi                ... pos = 0.0   	neg = 1.375
+14. gratuitous crotch sh                ... pos = 0.0   	neg = 0.375
+15. clark is so pre-occu                ... pos = 0.75  	neg = 0.375
+16. the stripping bare ,                ... pos = 0.5   	neg = 0.75 
+17. the conclusion of "                 ... pos = 0.0   	neg = 0.875
+18. it's a short sequenc                ... pos = 0.0   	neg = 0.875
+19. " bully " aims for t                ... pos = 0.875 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/neg/cv034_29446.txt is Negative  ... pos = 7.5   	neg = 13.75
+Overall score of document
+Total Pos = 7.5
+Total Neg = 13.75
+---------------------------------------------------------------------------
+0. sean connery stars a                 ... pos = 0.0   	neg = 0.0  
+1. the guy is on death                  ... pos = 0.25  	neg = 0.625
+2. watching connery and                 ... pos = 0.0   	neg = 0.375
+3. there's no logic at                  ... pos = 0.0   	neg = 0.25 
+4. tone is also an issu                 ... pos = 0.0   	neg = 0.25 
+5. director arne glimch                 ... pos = 0.125 	neg = 0.625
+6. is it a statement on                 ... pos = 0.0   	neg = 0.125
+7. is it a knock-off of                 ... pos = 0.0   	neg = 0.125
+8. glimcher never tells                 ... pos = 0.0   	neg = 0    
+9. instead , he forces                  ... pos = 1.5   	neg = 0.0  
+10. just awful .                        ... pos = 0     	neg = 0.875
+11. the madness of king                 ... pos = 0.25  	neg = 0.0  
+12. / not rated ========                ... pos = 0.125 	neg = 0    
+13. still wondering who                 ... pos = 0.0   	neg = 0.125
+14. then check out his o                ... pos = 0.875 	neg = 0.0  
+15. stage director nicho                ... pos = 0.5   	neg = 0.0  
+16. sumptuous-looking an                ... pos = 0.25  	neg = 1.0  
+17. a man of no importan                ... pos = 0.75  	neg = 0.0  
+18. / rated " r " ======                ... pos = 0.125 	neg = 0.0  
+19. in suri krishnamma's                ... pos = 1.375 	neg = 1.0  
+20. his character is a c                ... pos = 1.375 	neg = 0.125
+21. he reads to his ride                ... pos = 0.0   	neg = 0.0  
+22. this year it's " sal                ... pos = 0.0   	neg = 0.0  
+23. for about an hour ,                 ... pos = 0.0   	neg = 0.0  
+24. conflict arises , bu                ... pos = 0.0   	neg = 0.0  
+25. but with finney at t                ... pos = 0.875 	neg = 0.0  
+26. where things get ser                ... pos = 1.125 	neg = 0.25 
+27. the twist makes sens                ... pos = 0.5   	neg = 0.25 
+28. it's not a fatal mis                ... pos = 0.125 	neg = 0.375
+29. it's just a turn off                ... pos = 0.0   	neg = 0.625
+30. dr . strangelove 93                 ... pos = 0     	neg = 0.0  
+31. / not rated ========                ... pos = 0.125 	neg = 0    
+32. mein fuhrer !                       ... pos = 0     	neg = 0    
+33. the most fun that *                 ... pos = 0.125 	neg = 0.125
+34. strangelove ( or how                ... pos = 0.625 	neg = 0.0  
+35. the 1964 film stars                 ... pos = 0.0   	neg = 0.0  
+36. their antics brought                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/neg/cv035_3343.txt is Positive   ... pos = 11.0  	neg = 7.5  
+Overall score of document
+Total Pos = 11.0
+Total Neg = 7.5
+---------------------------------------------------------------------------
+0. among multitude of e                 ... pos = 0.25  	neg = 0.375
+1. those who tend not t                 ... pos = 1.75  	neg = 0.125
+2. as director , ginty                  ... pos = 0.5   	neg = 0.25 
+3. the protagonist of t                 ... pos = 1.25  	neg = 0.375
+4. however , she has re                 ... pos = 0.375 	neg = 0    
+5. one stormy night , t                 ... pos = 0.0   	neg = 0.125
+6. however , his good f                 ... pos = 2.375 	neg = 0.625
+7. belonging more to th                 ... pos = 1.625 	neg = 0.125
+8. unfortunately , this                 ... pos = 0.0   	neg = 1.375
+9. the characters are t                 ... pos = 1.625 	neg = 0.125
+10. the actors that play                ... pos = 0.125 	neg = 0.0  
+11. that is especially t                ... pos = 1.375 	neg = 0.75 
+12. his partner bo derek                ... pos = 0.625 	neg = 0.625
+13. ginty , on the other                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/neg/cv036_18385.txt is Positive  ... pos = 12.5  	neg = 5.0  
+Overall score of document
+Total Pos = 12.5
+Total Neg = 5.0
+---------------------------------------------------------------------------
+0. " lake placid " mark                 ... pos = 0.375 	neg = 0.375
+1. " placid " claims to                 ... pos = 1.125 	neg = 0.125
+2. paleontologist kelly                 ... pos = 0.125 	neg = 0.25 
+3. discovering that the                 ... pos = 0.125 	neg = 0.125
+4. they're joined by an                 ... pos = 0.0   	neg = 0.75 
+5. along the way , the                  ... pos = 0.0   	neg = 0.125
+6. you know what to exp                 ... pos = 2.25  	neg = 0.625
+7. unlike its slippery                  ... pos = 0.25  	neg = 0.5  
+8. the result is neithe                 ... pos = 0.0   	neg = 1.375
+9. while director steve                 ... pos = 1.25  	neg = 0.0  
+10. the body count is su                ... pos = 1.625 	neg = 0.75 
+11. ( " lake placid " ma                ... pos = 0.0   	neg = 0.0  
+12. the croc itself is m                ... pos = 0.0   	neg = 0.125
+13. like the snake in "                 ... pos = 0.25  	neg = 1.25 
+14. " lake placid " also                ... pos = 0.0   	neg = 0.375
+15. there is a lot of se                ... pos = 0.125 	neg = 0.125
+16. they would have been                ... pos = 0.0   	neg = 0.75 
+17. a movie like this do                ... pos = 0.125 	neg = 0.25 
+18. creature from outer                 ... pos = 0.0   	neg = 0.0  
+19. pullman and fonda se                ... pos = 0.125 	neg = 0.125
+20. most of the time , t                ... pos = 0.0   	neg = 0.125
+21. platt and white , on                ... pos = 0.5   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/neg/cv037_19798.txt is Negative  ... pos = 8.25  	neg = 8.875
+Overall score of document
+Total Pos = 8.25
+Total Neg = 8.875
+---------------------------------------------------------------------------
+0. capsule : where are                  ... pos = 0.25  	neg = 0.0  
+1. starship troopers is                 ... pos = 0.25  	neg = 1.667
+2. it is not good cinem                 ... pos = 1.875 	neg = 0.5  
+3. it's one of the wors                 ... pos = 0.0   	neg = 0.75 
+4. why am i calling thi                 ... pos = 0.0   	neg = 0.125
+5. pornography , in the                 ... pos = 0.0   	neg = 0.25 
+6. i remember reading a                 ... pos = 0.75  	neg = 0.0  
+7. i didn't agree with                  ... pos = 0.875 	neg = 0.75 
+8. that sentiment is ec                 ... pos = 0.125 	neg = 0.125
+9. it's * literally * l                 ... pos = 0.0   	neg = 0.25 
+10. it tries frantically                ... pos = 1.25  	neg = 1.125
+11. the film takes place                ... pos = 0.0   	neg = 0.0  
+12. to counterattack , h                ... pos = 0.25  	neg = 1.5  
+13. this isn't heinlein                 ... pos = 0.375 	neg = 1.625
+14. ( one scene has a jo                ... pos = 0.5   	neg = 1.125
+15. the soldiers and the                ... pos = 0.5   	neg = 0.25 
+16. they do not possess                 ... pos = 0.0   	neg = 0.0  
+17. they don't even beha                ... pos = 0.0   	neg = 0.875
+18. we hated the tom ber                ... pos = 0.875 	neg = 1.25 
+19. here , we don't even                ... pos = 0.25  	neg = 0.0  
+20. hating them would be                ... pos = 0.0   	neg = 0.125
+21. if there's anything                 ... pos = 0.0   	neg = 0.667
+22. the screenwriter ( e                ... pos = 1.0   	neg = 0.125
+23. one of the subplots                 ... pos = 0.0   	neg = 0.25 
+24. once or twice is fin                ... pos = 0.0   	neg = 0.125
+25. by the fifth or sixt                ... pos = 0.25  	neg = 0.0  
+26. there's never any se                ... pos = 0.75  	neg = 0.0  
+27. also , the movie is                 ... pos = 0.5   	neg = 0.125
+28. if a bug has one of                 ... pos = 0.75  	neg = 0.0  
+29. but if one human get                ... pos = 0.0   	neg = 0.0  
+30. uh-huh .                            ... pos = 0     	neg = 0    
+31. the very worst featu                ... pos = 0.5   	neg = 1.25 
+32. i say " quasi- " bec                ... pos = 1.0   	neg = 0.625
+33. the bumpers between                 ... pos = 0.5   	neg = 2.375
+34. like the rest of the                ... pos = 0     	neg = 0.0  
+35. there's more , i sup                ... pos = 0.0   	neg = 0.0  
+36. the acting is bland                 ... pos = 0.0   	neg = 1.0  
+37. the heartbreaking th                ... pos = 0.625 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/neg/cv038_9781.txt is Negative   ... pos = 14.0  	neg = 19.334
+Overall score of document
+Total Pos = 14.0
+Total Neg = 19.334
+---------------------------------------------------------------------------
+0. the classic story &                  ... pos = 0.75  	neg = 0.5  
+1. marking the centenni                 ... pos = 2.25  	neg = 0.375
+2. of course , the prod                 ... pos = 0.5   	neg = 0.5  
+3. the story begins wit                 ... pos = 0.125 	neg = 0.75 
+4. douglas soon learns                  ... pos = 0.125 	neg = 0.25 
+5. his host's reluctanc                 ... pos = 0.875 	neg = 0.125
+6. even worse , the oth                 ... pos = 0.375 	neg = 0.625
+7. douglas stumbles acr                 ... pos = 0.75  	neg = 0.5  
+8. using shock-therapy                  ... pos = 1.0   	neg = 1.0  
+9. the island of dr .                   ... pos = 0     	neg = 0.0  
+10. moreau questions the                ... pos = 0.75  	neg = 0.0  
+11. dr . moreau is a man                ... pos = 0.25  	neg = 1.375
+12. moreau has no doubt                 ... pos = 0.75  	neg = 0.25 
+13. even so , the produc                ... pos = 0.0   	neg = 0.125
+14. there are too many c                ... pos = 4.625 	neg = 1.125
+15. ungloriously at time                ... pos = 0.5   	neg = 0.25 
+16. perhaps there is som                ... pos = 0.0   	neg = 0.5  
+17. the two very importa                ... pos = 2.25  	neg = 0.5  
+18. more screen time cou                ... pos = 0.875 	neg = 0.125
+19. i really would have                 ... pos = 0.375 	neg = 0.0  
+20. maybe the nature of                 ... pos = 0.125 	neg = 0.5  
+21. the special effects                 ... pos = 0.25  	neg = 1.25 
+22. at most , i would sa                ... pos = 0.25  	neg = 0.75 
+23. this h . g . wells c                ... pos = 1.5   	neg = 0.125
+24. unfortunately , afte                ... pos = 0.875 	neg = 0.875
+25. as a third outing ,                 ... pos = 0.0   	neg = 0.0  
+26. accomplishes little                 ... pos = 0.0   	neg = 0.625
+27. the flying inkpot ra                ... pos = 0.0   	neg = 0.0  
+28. * * a little creaky                 ... pos = 0.0   	neg = 0.625
+29. * * * pretty good ,                 ... pos = 0.875 	neg = 0.125
+30. * * * * amazing , po                ... pos = 0.0   	neg = 0.25 
+31. * * * * * perfection                ... pos = 0.0   	neg = 0    
+32. see it twice .                      ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv039_5963.txt is Positive   ... pos = 21.0  	neg = 14.0 
+Overall score of document
+Total Pos = 21.0
+Total Neg = 14.0
+---------------------------------------------------------------------------
+0. lengthy and lousy ar                 ... pos = 0.375 	neg = 0.75 
+1. great acting , music                 ... pos = 0.875 	neg = 1.125
+2. ralph fiennes ( stra                 ... pos = 0.75  	neg = 0.625
+3. the story revolves a                 ... pos = 0.0   	neg = 0.5  
+4. anyway , he is taken                 ... pos = 0.0   	neg = 0.125
+5. she was never really                 ... pos = 0.5   	neg = 0.25 
+6. count almasy begins                  ... pos = 0.125 	neg = 0.125
+7. his love ( kirstin s                 ... pos = 0.625 	neg = 0.875
+8. he returned to find                  ... pos = 0.0   	neg = 0.125
+9. so he flew her dead                  ... pos = 0.0   	neg = 0.75 
+10. don't get the wrong                 ... pos = 1.5   	neg = 1.125
+11. maybe if it were an                 ... pos = 0.375 	neg = 0.625
+12. the only redeeming q                ... pos = 1.375 	neg = 0.0  
+13. other than these , t                ... pos = 0.75  	neg = 1.125
+14. ,                                   ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/neg/cv040_8829.txt is Negative   ... pos = 7.25  	neg = 8.125
+Overall score of document
+Total Pos = 7.25
+Total Neg = 8.125
+---------------------------------------------------------------------------
+0. out of sight directo                 ... pos = 0.375 	neg = 1.0  
+1. though the plot desc                 ... pos = 1.25  	neg = 0.0  
+2. in an aggressively n                 ... pos = 0.5   	neg = 0.125
+3. he has come to the u                 ... pos = 0.0   	neg = 0.125
+4. he doesn't know much                 ... pos = 0.125 	neg = 0.125
+5. valentine was jenny'                 ... pos = 0.0   	neg = 0.125
+6. he's played by peter                 ... pos = 0.5   	neg = 0.0  
+7. seeking valentine's                  ... pos = 0.25  	neg = 0.125
+8. he finally finds the                 ... pos = 0.375 	neg = 0.125
+9. he winds up breaking                 ... pos = 0.0   	neg = 0.625
+10. what a mess .                       ... pos = 0.0   	neg = 0.0  
+11. i have no problem wh                ... pos = 0.875 	neg = 1.875
+12. the limey does exact                ... pos = 0.125 	neg = 0.0  
+13. the plot is permeate                ... pos = 0.0   	neg = 0.25 
+14. there is no method t                ... pos = 0.25  	neg = 0.375
+15. it uses a fancy way                 ... pos = 0.5   	neg = 0.75 
+16. the plot isn't parti                ... pos = 0.625 	neg = 0.75 
+17. this is a sort of br                ... pos = 0.375 	neg = 1.375
+18. i felt like the dire                ... pos = 0.5   	neg = 0.0  
+19. ditto for the editin                ... pos = 0.375 	neg = 1.125
+20. sixties icon terrenc                ... pos = 0.125 	neg = 0.25 
+21. he's not much in the                ... pos = 0.875 	neg = 0.0  
+22. peter fonda is an un                ... pos = 0.375 	neg = 0.625
+23. he's adept at convey                ... pos = 1.625 	neg = 0.0  
+24. this is basically a                 ... pos = 0.375 	neg = 0.375
+25. why soderbergh could                ... pos = 0.25  	neg = 0.0  
+26. the result is a wild                ... pos = 0.125 	neg = 0.625
+27. 1999 may have signif                ... pos = 0.25  	neg = 0.0  
+28. shall we go back to                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv041_22364.txt is Positive  ... pos = 11.0  	neg = 10.75
+Overall score of document
+Total Pos = 11.0
+Total Neg = 10.75
+---------------------------------------------------------------------------
+0. a pseudo-intellectua                 ... pos = 0.0   	neg = 0.5  
+1. in the only notable                  ... pos = 1.0   	neg = 0.0  
+2. living in a world of                 ... pos = 0.625 	neg = 0.125
+3. this uninviting pict                 ... pos = 1.75  	neg = 1.0  
+4. 24-year-old syd ( ra                 ... pos = 0.5   	neg = 0.5  
+5. although the recepti                 ... pos = 0.5   	neg = 0.25 
+6. for her to do photos                 ... pos = 0.0   	neg = 0.125
+7. lucy lives with her                  ... pos = 0.0   	neg = 0.25 
+8. the two of them and                  ... pos = 0.125 	neg = 0.375
+9. this does not happen                 ... pos = 0.125 	neg = 0.0  
+10. syd , who lives in t                ... pos = 0.125 	neg = 0.0  
+11. lucy seems pretty ha                ... pos = 0.625 	neg = 0.5  
+12. lucy quit working pr                ... pos = 0.25  	neg = 0.375
+13. a typical scene has                 ... pos = 0.375 	neg = 0.125
+14. that no one has a cl                ... pos = 0.25  	neg = 0.0  
+15. " your work has a cu                ... pos = 0.875 	neg = 0.25 
+16. when the big scene c                ... pos = 0.25  	neg = 0.25 
+17. in lucy's world , se                ... pos = 0.0   	neg = 0.25 
+18. and the movie , exce                ... pos = 0.25  	neg = 0.0  
+19. this vacuous picture                ... pos = 0.625 	neg = 0.0  
+20. in another movie , i                ... pos = 0.375 	neg = 0.875
+21. high art runs 1 : 36                ... pos = 0.25  	neg = 0    
+22. it is rated r for ex                ... pos = 0.625 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/neg/cv042_11927.txt is Positive  ... pos = 9.5   	neg = 6.25 
+Overall score of document
+Total Pos = 9.5
+Total Neg = 6.25
+---------------------------------------------------------------------------
+0. " party camp , " is                  ... pos = 0.0   	neg = 0.375
+1. a late rip-off of th                 ... pos = 0.0   	neg = 0.0  
+2. that's really about                  ... pos = 1.75  	neg = 0.5  
+3. how fun !                            ... pos = 0.125 	neg = 0    
+4. since , " party camp                 ... pos = 0.0   	neg = 1.0  
+5. it's not that i thin                 ... pos = 1.0   	neg = 0.875
+6. even a psychopathic                  ... pos = 0.0   	neg = 0.875
+7. at least , then , it                 ... pos = 0.0   	neg = 0.5  
+8. never before have i                  ... pos = 0.0   	neg = 0.25 
+9. the comedy was easy                  ... pos = 0.25  	neg = 0.125
+10. it was groan-inducin                ... pos = 0.0   	neg = 0.125
+11. constantly throghout                ... pos = 0.125 	neg = 0.25 
+12. so what saves , " pa                ... pos = 0.0   	neg = 0.0  
+13. well , that's simple                ... pos = 0.625 	neg = 0.125
+14. although nothing cou                ... pos = 0.125 	neg = 2.5  
+---------------------------------------------------------------------------
+./temp/neg/cv043_16808.txt is Negative  ... pos = 4.0   	neg = 7.5  
+Overall score of document
+Total Pos = 4.0
+Total Neg = 7.5
+---------------------------------------------------------------------------
+0. i'm currently accept                 ... pos = 1.125 	neg = 0.0  
+1. in _the wedding sing                 ... pos = 0.0   	neg = 0.125
+2. in _never been kisse                 ... pos = 0.0   	neg = 0.125
+3. future db character                  ... pos = 0.875 	neg = 0.0  
+4. aw forget it .                       ... pos = 0.25  	neg = 0    
+5. i'll stick to my day                 ... pos = 0.0   	neg = 0.0  
+6. this is a teen movie                 ... pos = 0.875 	neg = 0.125
+7. drew barrymore is a                  ... pos = 1.75  	neg = 0.25 
+8. the story she's cove                 ... pos = 0.125 	neg = 0.125
+9. she is to return to                  ... pos = 0.0   	neg = 0.125
+10. the irony is that dr                ... pos = 1.25  	neg = 0.375
+11. when she does , she                 ... pos = 0.25  	neg = 1.5  
+12. at least she befrien                ... pos = 1.75  	neg = 0.25 
+13. what works : drew's                 ... pos = 0.0   	neg = 0    
+14. after a start in fil                ... pos = 0.875 	neg = 1.125
+15. it's very funny .                   ... pos = 0.5   	neg = 0.0  
+16. what doesn't work :                 ... pos = 0.0   	neg = 0    
+17. come on .                           ... pos = 0     	neg = 0.0  
+18. nobody dresses as ba                ... pos = 0.125 	neg = 0.875
+19. couldn't she just go                ... pos = 0.0   	neg = 0.0  
+20. had she dressed like                ... pos = 0.0   	neg = 0.125
+21. the comedy is suppos                ... pos = 0.5   	neg = 0.125
+22. now , how in the wor                ... pos = 0.125 	neg = 0.125
+23. in a day ? !                        ... pos = 0.0   	neg = 0    
+24. the dialogue in the                 ... pos = 0.0   	neg = 0.25 
+25. her co-workers ( mol                ... pos = 0.25  	neg = 0.0  
+26. her teenage peers (                 ... pos = 0.25  	neg = 1.75 
+27. couldn't the filmmak                ... pos = 0.25  	neg = 0.0  
+28. lastly , i am proud                 ... pos = 0.375 	neg = 0.125
+29. if you see the film                 ... pos = 0.0   	neg = 0.0  
+30. drew walks into a ba                ... pos = 0.0   	neg = 0.125
+31. she goes wild , slee                ... pos = 0.0   	neg = 0.25 
+32. when she wakes , she                ... pos = 0.0   	neg = 1.0  
+33. funny , eh ?                        ... pos = 0     	neg = 0.0  
+34. . . . except that th                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv044_18429.txt is Positive  ... pos = 11.5  	neg = 8.875
+Overall score of document
+Total Pos = 11.5
+Total Neg = 8.875
+---------------------------------------------------------------------------
+0. when it comes to the                 ... pos = 0.25  	neg = 0.125
+1. predictable , unorig                 ... pos = 0.125 	neg = 1.125
+2. what i really look f                 ... pos = 0.0   	neg = 0.5  
+3. am i enjoying myself                 ... pos = 0     	neg = 0.125
+4. is this a comfortabl                 ... pos = 0.0   	neg = 0.125
+5. this is why i have g                 ... pos = 0.125 	neg = 0.125
+6. so last week i opene                 ... pos = 0.875 	neg = 0.25 
+7. daily news ?                         ... pos = 0.0   	neg = 0.0  
+8. negative .                           ... pos = 0.0   	neg = 0    
+9. reelviews ?                          ... pos = 0     	neg = 0    
+10. negative .                          ... pos = 0.0   	neg = 0    
+11. epinions . com ?                    ... pos = 0     	neg = 0    
+12. negative .                          ... pos = 0.0   	neg = 0    
+13. this was nothing new                ... pos = 0.375 	neg = 0.375
+14. american pie , final                ... pos = 0.625 	neg = 0.625
+15. same goes for she's                 ... pos = 0.625 	neg = 0.375
+16. since boys and girls                ... pos = 0.0   	neg = 0.0  
+17. but , still curious                 ... pos = 0.125 	neg = 0.5  
+18. i had made up my min                ... pos = 0.125 	neg = 0.0  
+19. but , soon after , f                ... pos = 0.25  	neg = 0.125
+20. whoops .                            ... pos = 0     	neg = 0.25 
+21. boys and girls is ab                ... pos = 0.375 	neg = 0.125
+22. briefly meeting as p                ... pos = 1.0   	neg = 0.0  
+23. but in the movies ,                 ... pos = 0.75  	neg = 0.5  
+24. with advice from the                ... pos = 0.5   	neg = 0.0  
+25. the film definitely                 ... pos = 0.25  	neg = 0.75 
+26. i could hardly sit t                ... pos = 0.0   	neg = 0.375
+27. the dialogue is prob                ... pos = 0.875 	neg = 1.25 
+28. it is almost offensi                ... pos = 0.0   	neg = 0.125
+29. an example of an ins                ... pos = 0.625 	neg = 0.0  
+30. " you're dumb .                     ... pos = 0     	neg = 0.25 
+31. dumb , dumb , dumb ,                ... pos = 0     	neg = 1.0  
+32. " no . "                            ... pos = 0     	neg = 0.25 
+33. ( followed by a mand                ... pos = 0.375 	neg = 0.0  
+34. ( well it's not as b                ... pos = 0.0   	neg = 0.875
+35. the supporting cast                 ... pos = 0.375 	neg = 0.75 
+36. detmer and biggs sta                ... pos = 0.0   	neg = 0.5  
+37. and although this is                ... pos = 0.0   	neg = 0.5  
+38. we never learn anyth                ... pos = 0.875 	neg = 1.25 
+39. teenager or not : yo                ... pos = 0.125 	neg = 0.0  
+40. maybe i should rent                 ... pos = 0.0   	neg = 0.0  
+41. is it really as good                ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/neg/cv045_25077.txt is Negative  ... pos = 10.375 	neg = 13.375
+Overall score of document
+Total Pos = 10.375
+Total Neg = 13.375
+---------------------------------------------------------------------------
+0. all through its prod                 ... pos = 0.0   	neg = 0.75 
+1. ultimately , however                 ... pos = 1.25  	neg = 0.75 
+2. but , to paraphrase                  ... pos = 0.125 	neg = 0.0  
+3. no number of name ch                 ... pos = 0.0   	neg = 0.25 
+4. it's not just about                  ... pos = 0.0   	neg = 1.125
+5. hard rain is the cas                 ... pos = 0.0   	neg = 1.5  
+6. the best shot occurs                 ... pos = 0.375 	neg = 0.0  
+7. the community , prot                 ... pos = 0.25  	neg = 1.0  
+8. from that moment on                  ... pos = 0.0   	neg = 0.0  
+9. whatever initial ent                 ... pos = 0.125 	neg = 0.375
+10. it takes forever to                 ... pos = 0.125 	neg = 0.125
+11. basically , hard rai                ... pos = 0.0   	neg = 0.875
+12. there's a lot of wat                ... pos = 0.0   	neg = 0.0  
+13. it's all very routin                ... pos = 1.375 	neg = 0.5  
+14. the film's conclusio                ... pos = 1.5   	neg = 0.5  
+15. action films are sup                ... pos = 0.25  	neg = 0.125
+16. graham yost , the wr                ... pos = 0.625 	neg = 0.75 
+17. unfortunately , neit                ... pos = 0.0   	neg = 1.75 
+18. the action in hard r                ... pos = 0.0   	neg = 1.0  
+19. we see the same kind                ... pos = 0.0   	neg = 0.125
+20. the movie constantly                ... pos = 0.125 	neg = 0.0  
+21. the storyline gives                 ... pos = 0.875 	neg = 0.0  
+22. there's tom ( christ                ... pos = 0.5   	neg = 0.0  
+23. he and his partner ,                ... pos = 0.0   	neg = 0.0  
+24. a group of men , led                ... pos = 0.0   	neg = 0.0  
+25. after charlie is kil                ... pos = 0.0   	neg = 0.125
+26. as he swims and boat                ... pos = 1.625 	neg = 0.25 
+27. there isn't any real                ... pos = 0.0   	neg = 0.0  
+28. christian slater utt                ... pos = 0.0   	neg = 0.375
+29. tom is easily one of                ... pos = 1.125 	neg = 0.625
+30. randy quaid sneers a                ... pos = 0.0   	neg = 0.625
+31. morgan freeman and m                ... pos = 0.25  	neg = 0.0  
+32. freeman , one of the                ... pos = 1.5   	neg = 0.875
+33. following in the wak                ... pos = 0.5   	neg = 0.75 
+34. as a result , we are                ... pos = 1.375 	neg = 0.25 
+35. titanic proved that                 ... pos = 0.0   	neg = 0.125
+36. hard rain successful                ... pos = 0.25  	neg = 0.875
+37. thus far this year ,                ... pos = 0.375 	neg = 0.75 
+38. fortunately , there                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/neg/cv046_10613.txt is Negative  ... pos = 15.25 	neg = 17.125
+Overall score of document
+Total Pos = 15.25
+Total Neg = 17.125
+---------------------------------------------------------------------------
+0. instinct is the kind                 ... pos = 1.0   	neg = 0.125
+1. i have a name for it                 ... pos = 0.0   	neg = 0.0  
+2. this is the sort of                  ... pos = 0.125 	neg = 3.375
+3. how that scene is st                 ... pos = 0.375 	neg = 0.5  
+4. this is one example                  ... pos = 0.25  	neg = 0.25 
+5. instinct's plot is b                 ... pos = 0.375 	neg = 0.375
+6. he was found and is                  ... pos = 0.25  	neg = 1.875
+7. after committing a f                 ... pos = 0.0   	neg = 0.375
+8. assigned to do an ev                 ... pos = 0.375 	neg = 0.125
+9. caulder starts out d                 ... pos = 0.5   	neg = 0.0  
+10. of course ( and no m                ... pos = 0.5   	neg = 0.25 
+11. and then there's the                ... pos = 0.875 	neg = 0.875
+12. he cares for caulder                ... pos = 0.0   	neg = 0.0  
+13. let's get one thing                 ... pos = 0.0   	neg = 1.375
+14. any good shrink will                ... pos = 2.0   	neg = 0.0  
+15. not good old theo .                 ... pos = 0.75  	neg = 0    
+16. no , he asks purpose                ... pos = 0.25  	neg = 0.5  
+17. this is a flaw only                 ... pos = 0.0   	neg = 1.75 
+18. director jon turtelt                ... pos = 1.875 	neg = 0.0  
+19. it's not the kind of                ... pos = 0.875 	neg = 0.25 
+20. it aims to " inspire                ... pos = 0.75  	neg = 0.0  
+21. as yoda would say ,                 ... pos = 0.0   	neg = 0.0  
+22. it is the ultimate s                ... pos = 0.75  	neg = 0.125
+23. indeed , somewhere i                ... pos = 1.75  	neg = 0.75 
+24. this , like the inst                ... pos = 0.125 	neg = 1.25 
+25. i am forced to wonde                ... pos = 0.0   	neg = 0.5  
+26. i think that anthony                ... pos = 1.75  	neg = 0.125
+27. oscar winner cuba go                ... pos = 0.25  	neg = 0.75 
+28. his performance is a                ... pos = 0.375 	neg = 0.25 
+29. i liked the guy in j                ... pos = 0.875 	neg = 0.5  
+30. i love animals , and                ... pos = 1.625 	neg = 0.5  
+31. however this movie's                ... pos = 0.125 	neg = 0.875
+32. tone down the violen                ... pos = 0.125 	neg = 0.125
+33. ? 1999 eugene noviko                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/neg/cv047_18725.txt is Positive  ... pos = 18.875 	neg = 17.75
+Overall score of document
+Total Pos = 18.875
+Total Neg = 17.75
+---------------------------------------------------------------------------
+0. sydney lumet is the                  ... pos = 0.0   	neg = 0.25 
+1. he is praised for so                 ... pos = 1.25  	neg = 0.125
+2. but , in the same ti                 ... pos = 0.5   	neg = 0.875
+3. a stranger among us                  ... pos = 0.0   	neg = 0.0  
+4. the heroine of this                  ... pos = 1.5   	neg = 1.5  
+5. during one of such a                 ... pos = 0.0   	neg = 0.125
+6. in order to help her                 ... pos = 0.875 	neg = 0.0  
+7. emily starts investi                 ... pos = 0.0   	neg = 0.0  
+8. concluding that the                  ... pos = 0.0   	neg = 0.25 
+9. that isn't easy , be                 ... pos = 0.5   	neg = 0.0  
+10. things get even more                ... pos = 0.125 	neg = 0.0  
+11. using peter weir's f                ... pos = 0.875 	neg = 0.25 
+12. even the lame and un                ... pos = 0.125 	neg = 0.0  
+13. but the worst insult                ... pos = 0.0   	neg = 1.5  
+14. the author of this r                ... pos = 0.75  	neg = 0.125
+15. role of emily eden ,                ... pos = 0.125 	neg = 0.875
+16. first of all , she c                ... pos = 0.25  	neg = 0.0  
+17. screenplay by robert                ... pos = 0.125 	neg = 2.125
+18. but , on the other h                ... pos = 2.375 	neg = 0.0  
+19. also , the film migh                ... pos = 0.25  	neg = 0.5  
+20. that is the only thi                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/neg/cv048_18380.txt is Positive  ... pos = 9.875 	neg = 8.625
+Overall score of document
+Total Pos = 9.875
+Total Neg = 8.625
+---------------------------------------------------------------------------
+0. " the world on land                  ... pos = 0.0   	neg = 0.25 
+1. starring tim roth ,                  ... pos = 0.375 	neg = 0.0  
+2. rated r .                            ... pos = 0.125 	neg = 0.0  
+3. the legend of 1900s                  ... pos = 0.0   	neg = 0.375
+4. it stars thespian ex                 ... pos = 0.0   	neg = 0.667
+5. 1900 .                               ... pos = 0     	neg = 0    
+6. you heard right .                    ... pos = 0.0   	neg = 0    
+7. his name is , in all                 ... pos = 0.0   	neg = 0.125
+8. he was born on an oc                 ... pos = 0.0   	neg = 0.125
+9. 1900 spends most of                  ... pos = 0.375 	neg = 0.75 
+10. well , when 1900 is                 ... pos = 0.0   	neg = 0.125
+11. one day , he discove                ... pos = 0.0   	neg = 0    
+12. he sits down and sta                ... pos = 0.25  	neg = 0.375
+13. miraculously , what                 ... pos = 0.75  	neg = 0.125
+14. a group of onlookers                ... pos = 0.125 	neg = 0.0  
+15. when one of the peop                ... pos = 0.5   	neg = 0.125
+16. ho ho ho .                          ... pos = 0     	neg = 0.0  
+17. 1900 grows up never                 ... pos = 0.0   	neg = 0.0  
+18. when he's about 30is                ... pos = 0.0   	neg = 0.125
+19. his name is max ( pr                ... pos = 0.0   	neg = 0.125
+20. after 1900 catches m                ... pos = 0.0   	neg = 1.5  
+21. how the chair they'r                ... pos = 0.0   	neg = 0.125
+22. after that , 1900 an                ... pos = 0.125 	neg = 0.0  
+23. max is determined to                ... pos = 0.0   	neg = 1.125
+24. what's more , he doe                ... pos = 0.0   	neg = 0.25 
+25. -- they're going to                 ... pos = 0.0   	neg = 0.125
+26. the conflict of the                 ... pos = 0.375 	neg = 2.125
+27. the record shouldn't                ... pos = 0.0   	neg = 0.25 
+28. ladies and gentlemen                ... pos = 0.0   	neg = 0.0  
+29. the story itself is                 ... pos = 0.25  	neg = 0.875
+30. we're supposed to be                ... pos = 0.0   	neg = 0.125
+31. piano duel ?                        ... pos = 0.0   	neg = 0    
+32. there isn't anything                ... pos = 0.0   	neg = 0.0  
+33. 1900 comes off as a                 ... pos = 0.625 	neg = 2.25 
+34. ditto for max , who                 ... pos = 0.25  	neg = 0.0  
+35. tim roth plays 1900                 ... pos = 1.5   	neg = 0.25 
+36. he insists that he l                ... pos = 0.625 	neg = 0.125
+37. pruitt taylor vince                 ... pos = 0.75  	neg = 0.375
+38. the highlight of the                ... pos = 1.625 	neg = 0.125
+39. the legend of 1900 w                ... pos = 0.25  	neg = 0.25 
+40. this effort is utter                ... pos = 0     	neg = 1.0  
+41. at once ridiculous ,                ... pos = 0.125 	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/neg/cv049_21917.txt is Negative  ... pos = 9.0   	neg = 15.667
+Overall score of document
+Total Pos = 9.0
+Total Neg = 15.667
+---------------------------------------------------------------------------

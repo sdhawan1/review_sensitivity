@@ -1,0 +1,80 @@
+0. Starring: Giovanni R                 ... pos = 0.75  	neg = 0.5  
+1. WALL STREET lucked o                 ... pos = 2.125 	neg = 0.75 
+2. Stone constructed hi                 ... pos = 0.125 	neg = 0.75 
+3. Critics and audience                 ... pos = 1.75  	neg = 0.0  
+4. I'm proud to say tha                 ... pos = 0.5   	neg = 0.125
+5. I found WALL STREET                  ... pos = 0.625 	neg = 0.125
+6. Stone goes for broke                 ... pos = 0.0   	neg = 0.25 
+7. This approach tends                  ... pos = 1.375 	neg = 0.0  
+8. He directs stock exc                 ... pos = 1.25  	neg = 0.125
+9. It's all an excuse f                 ... pos = 1.375 	neg = 0.0  
+10. I have a feeling the                ... pos = 0.75  	neg = 0.125
+11. These guys are sales                ... pos = 0.25  	neg = 0.0  
+12. More than anything I                ... pos = 0.5   	neg = 0.125
+13. The only possible so                ... pos = 0.375 	neg = 0.125
+14. And not just the tim                ... pos = 1.5   	neg = 0.75 
+15. In my mind, the eigh                ... pos = 0.5   	neg = 3.625
+16. Maybe Stone's After                 ... pos = 0.375 	neg = 0.125
+17. BOILER ROOM is an eq                ... pos = 0.375 	neg = 0.5  
+18. They both feature a                 ... pos = 0.875 	neg = 0.125
+19. And they are both co                ... pos = 1.5   	neg = 1.0  
+20. BOILER ROOM is a mes                ... pos = 0.0   	neg = 0.125
+21. BOILER ROOM is about                ... pos = 0.25  	neg = 0.125
+22. As I said, this film                ... pos = 0.875 	neg = 0.875
+23. In our super-judgmen                ... pos = 0.25  	neg = 0.0  
+24. And Seth (Giovanni R                ... pos = 0.375 	neg = 0    
+25. He's a well-intentio                ... pos = 0.25  	neg = 0.375
+26. Ben Affleck is cast                 ... pos = 0.375 	neg = 0.625
+27. His job is to influe                ... pos = 0.875 	neg = 0.125
+28. It's ironic that he                 ... pos = 0.5   	neg = 0.25 
+29. Affleck's character                 ... pos = 2.125 	neg = 0.125
+30. Affleck shouts, curs                ... pos = 0.0   	neg = 0.5  
+31. When Alec played the                ... pos = 0.0   	neg = 0.125
+32. By comparison Afflec                ... pos = 0.0   	neg = 0.5  
+33. The brokers approach                ... pos = 0.75  	neg = 0.5  
+34. Rap music thumps on                 ... pos = 0.875 	neg = 0.0  
+35. They aren't above a                 ... pos = 0.0   	neg = 0.375
+36. We drink up this wor                ... pos = 0.125 	neg = 0.625
+37. As in all cautionary                ... pos = 1.833 	neg = 0.0  
+38. I know this story.                  ... pos = 0.0   	neg = 0.0  
+39. We all do.                          ... pos = 0.0   	neg = 0.0  
+40. But it can work if i                ... pos = 0.125 	neg = 0.125
+41. As a director of (pl                ... pos = 0.125 	neg = 0.0  
+42. His style is sitcom                 ... pos = 0     	neg = 0.5  
+43. But his writing isn'                ... pos = 0     	neg = 0.0  
+44. Younger's script is                 ... pos = 0.25  	neg = 0.25 
+45. Despite the moderate                ... pos = 0.0   	neg = 0.0  
+46. The brokers\huckster                ... pos = 0.125 	neg = 0.0  
+47. These moments are fi                ... pos = 0.75  	neg = 0.125
+48. With the exception o                ... pos = 1.125 	neg = 0    
+49. Ribisi, who has the                 ... pos = 1.625 	neg = 0.5  
+50. He conveys child-lik                ... pos = 1.0   	neg = 0.125
+51. The Jekyll and Hyde                 ... pos = 0.5   	neg = 0.125
+52. BOILER ROOM thankful                ... pos = 0.25  	neg = 0.0  
+53. Those ploys are taug                ... pos = 0.875 	neg = 0.0  
+54. Diesl shines in his                 ... pos = 0.125 	neg = 0    
+55. This week I saw the                 ... pos = 0.875 	neg = 0.0  
+56. In that film he has                 ... pos = 0.0   	neg = 1.0  
+57. Nicky Katt is also m                ... pos = 0.25  	neg = 0.125
+58. Nia Long, as the fir                ... pos = 1.125 	neg = 1.0  
+59. The two make an oddl                ... pos = 0.625 	neg = 0.0  
+60. Long is smart and br                ... pos = 0.375 	neg = 0.625
+61. At one point he says                ... pos = 0.125 	neg = 0.0  
+62. It's a terrible line                ... pos = 0.625 	neg = 1.375
+63. Unfortunately, towar                ... pos = 0.125 	neg = 0.875
+64. There is much crying                ... pos = 0.625 	neg = 0.125
+65. This is okay when ta                ... pos = 0.0   	neg = 0.375
+66. A particular misstep                ... pos = 0.125 	neg = 0.125
+67. It's not a bad idea                 ... pos = 0.375 	neg = 1.0  
+68. That message being,                 ... pos = 0.25  	neg = 0.125
+69. Yes it's patently ob                ... pos = 0.125 	neg = 0.0  
+70. And all WALL STREET                 ... pos = 0.0   	neg = 0.125
+71. BOILER ROOM offers n                ... pos = 0.125 	neg = 0.25 
+72. It gives us what is                 ... pos = 0.5   	neg = 0.25 
+73. http://www.geocities                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1960-926 is Positive         ... pos = 39.458 	neg = 23.5 
+Overall score of document
+Total Pos = 39.458
+Total Neg = 23.5
+---------------------------------------------------------------------------

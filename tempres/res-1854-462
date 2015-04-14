@@ -1,0 +1,27 @@
+0. Producer Jerry Bruck                 ... pos = 0.0   	neg = 0.375
+1. Halicki and is remem                 ... pos = 0.25  	neg = 0.25 
+2. Halicki himself was                  ... pos = 0.0   	neg = 0.125
+3. Both movies involve                  ... pos = 0.75  	neg = 0.0  
+4. A less sensitive man                 ... pos = 0.5   	neg = 0.625
+5. Bruckheimer veteran                  ... pos = 0.875 	neg = 0.125
+6. Cage once won a Best                 ... pos = 0.5   	neg = 0.625
+7. Memphis is going str                 ... pos = 0.125 	neg = 0.625
+8. Gone In 60 Seconds                   ... pos = 0.625 	neg = 0.5  
+9. Driven, yes; charact                 ... pos = 0.875 	neg = 0.25 
+10. I could tell you how                ... pos = 0.75  	neg = 0.0  
+11. I could  mention Del                ... pos = 0.75  	neg = 0.0  
+12. I could mention Ange                ... pos = 0.5   	neg = 0.125
+13. I couldn't figure fo                ... pos = 0.0   	neg = 0.5  
+14. ".      The answer i                ... pos = 0.0   	neg = 0.375
+15. Boosting one car cou                ... pos = 0.25  	neg = 0.25 
+16. Boosting  50 is just                ... pos = 0     	neg = 0.375
+17. It's like one of tho                ... pos = 0.0   	neg = 0.0  
+18. If all you ask for i                ... pos = 0.0   	neg = 0.375
+19. Memphis's main autom                ... pos = 0.375 	neg = 0.125
+20. )  Her name is Elean                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1854-462 is Positive         ... pos = 7.5   	neg = 5.75 
+Overall score of document
+Total Pos = 7.5
+Total Neg = 5.75
+---------------------------------------------------------------------------

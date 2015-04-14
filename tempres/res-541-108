@@ -1,0 +1,30 @@
+0. USA/Australia.                       ... pos = 0     	neg = 0    
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director/Story - Ale                 ... pos = 0.125 	neg = 0.75 
+3. Production Company -                 ... pos = 0.0   	neg = 0.0  
+4. Rufus Sewell (John M                 ... pos = 0.875 	neg = 0.375
+5. He is pursued by  po                 ... pos = 1.125 	neg = 0.375
+6. However Murdoch find                 ... pos = 0.125 	neg = 0.25 
+7. In his efforts to un                 ... pos = 0.625 	neg = 0.125
+8. Forget about what Va                 ... pos = 1.125 	neg = 1.25 
+9. I can say without an                 ... pos = 0.75  	neg = 0.125
+10. It is the second fil                ... pos = 0.5   	neg = 0.125
+11. The film is clearly                 ... pos = 2.25  	neg = 0.125
+12. It is a film that el                ... pos = 0.25  	neg = 0.25 
+13. It  seemingly takes                 ... pos = 0.875 	neg = 0.0  
+14. Here  Proyas deliber                ... pos = 1.125 	neg = 0.375
+15. (The city was built                 ... pos = 0.5   	neg = 0.125
+16. But there  is also a                ... pos = 0.875 	neg = 1.375
+17. Proyas shoots it all                ... pos = 2.25  	neg = 0.125
+18. Of course in this no                ... pos = 0.0   	neg = 0.125
+19. In an almost  classi                ... pos = 1.125 	neg = 0.375
+20. But  then in the fir                ... pos = 0.75  	neg = 0.375
+21. After several wild (                ... pos = 1.875 	neg = 0.625
+22. One of  the most emo                ... pos = 2.125 	neg = 0.75 
+23. " An extraordinary                  ... pos = 0.625 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-541-108 is Positive          ... pos = 19.875 	neg = 8.0  
+Overall score of document
+Total Pos = 19.875
+Total Neg = 8.0
+---------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+0. Robin Williams, this                 ... pos = 0.875 	neg = 1.375
+1. He plays Chris Niels                 ... pos = 0.0   	neg = 0.0  
+2. They have two great                  ... pos = 0.0   	neg = 0.625
+3. Just when it couldn'                 ... pos = 0.125 	neg = 0.625
+4. ) Annie can't take t                 ... pos = 0.0   	neg = 0.0  
+5. (All sounding like g                 ... pos = 0.875 	neg = 0.0  
+6. ) The 'penalty' for                  ... pos = 0.0   	neg = 0.625
+7. ). Based on a novel                  ... pos = 0.625 	neg = 0.625
+8. This is the worse Sp                 ... pos = 0.0   	neg = 0.75 
+9. Everything is wrong                  ... pos = 1.125 	neg = 1.0  
+10. Williams puts on a c                ... pos = 0.5   	neg = 0.0  
+11. There's no emotion b                ... pos = 0.625 	neg = 0.25 
+12. Sciora's performance                ... pos = 0.0   	neg = 0.125
+13. She may look pretty,                ... pos = 0.0   	neg = 0.5  
+14. Max Von Sydow is O.K                ... pos = 0.0   	neg = 0.375
+15. Cuba Gooding Jnr, th                ... pos = 1.25  	neg = 0.125
+16. It's a shame that hi                ... pos = 0.875 	neg = 1.125
+17. All the performers h                ... pos = 1.0   	neg = 1.125
+18. There are _some_ sce                ... pos = 1.125 	neg = 0.625
+19. While films like E.T                ... pos = 2.125 	neg = 0.5  
+20. Instead, it's all ra                ... pos = 0.5   	neg = 0.0  
+21. Sure, the music is p                ... pos = 0.25  	neg = 1.125
+22. The script doesn't h                ... pos = 0.25  	neg = 0.75 
+23. Richard Matheson can                ... pos = 1.5   	neg = 1.625
+24. Despite being set in                ... pos = 1.125 	neg = 0.25 
+25. The film rushes a ha                ... pos = 2.25  	neg = 1.75 
+26. But there's one rede                ... pos = 0.0   	neg = 0.25 
+27. Heaven and Hell are                 ... pos = 2.125 	neg = 0.375
+28. But despite this, Wh                ... pos = 0.375 	neg = 1.125
+29. Instead of raising q                ... pos = 0.75  	neg = 0.5  
+30. Sadly, I recommend y                ... pos = 0.0   	neg = 0.625
+31. Better luck next tim                ... pos = 0.0   	neg = 0.125
+32. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+33. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+34. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5518-1213 is Positive        ... pos = 20.25 	neg = 18.875
+Overall score of document
+Total Pos = 20.25
+Total Neg = 18.875
+---------------------------------------------------------------------------

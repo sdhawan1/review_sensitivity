@@ -1,0 +1,31 @@
+0. ---A copy of this re                 ... pos = 1.25  	neg = 0.375
+1. This is a problem fo                 ... pos = 1.0   	neg = 0.625
+2. Hunt is an obviously                 ... pos = 0.125 	neg = 0.25 
+3. Return to Me opens w                 ... pos = 0.25  	neg = 0.0  
+4. Read: he is free in                  ... pos = 0.0   	neg = 0.625
+5. Then we meet Grace B                 ... pos = 1.25  	neg = 0.125
+6. Read: it will take a                 ... pos = 0.125 	neg = 0.0  
+7. That grace comes in                  ... pos = 0.0   	neg = 0.0  
+8. She dies suddenly on                 ... pos = 0.0   	neg = 0.125
+9. After a year of Bob                  ... pos = 0.5   	neg = 0.125
+10. This is a mistake of                ... pos = 0.125 	neg = 1.125
+11. The picture would be                ... pos = 0.0   	neg = 0.25 
+12. This would allow the                ... pos = 0.625 	neg = 0.125
+13. Grace's closest peop                ... pos = 0.25  	neg = 0.0  
+14. The motley crew has                 ... pos = 0.625 	neg = 0.0  
+15. ' sketches, only sub                ... pos = 0.0   	neg = 0.0  
+16. It is unfortunate th                ... pos = 0.75  	neg = 0.5  
+17. Bob's closest friend                ... pos = 1.25  	neg = 0.375
+18. A relatively sensibl                ... pos = 1.25  	neg = 0.375
+19. His character serves                ... pos = 1.25  	neg = 0.125
+20. As Return to Me grow                ... pos = 0.875 	neg = 0.0  
+21. But the quality of r                ... pos = 0.0   	neg = 0.0  
+22. Grace's first line i                ... pos = 0.125 	neg = 0.125
+23. ' The intellect neve                ... pos = 0.125 	neg = 0.0  
+24. But for that matter,                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5735-592 is Positive         ... pos = 11.875 	neg = 5.25 
+Overall score of document
+Total Pos = 11.875
+Total Neg = 5.25
+---------------------------------------------------------------------------

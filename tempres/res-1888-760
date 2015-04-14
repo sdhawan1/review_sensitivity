@@ -1,0 +1,34 @@
+0. By Nathaniel R. Atch                 ... pos = 1.125 	neg = 0.25 
+1. The film appears to                  ... pos = 0.75  	neg = 0.0  
+2. It's not what I'd ca                 ... pos = 0.75  	neg = 0.0  
+3. But Mamet's plot is                  ... pos = 0.5   	neg = 0.25 
+4. I don't mind too muc                 ... pos = 0.25  	neg = 0.25 
+5. You see, I respect a                 ... pos = 0.75  	neg = 0.0  
+6. Mamet has created a                  ... pos = 1.375 	neg = 0.125
+7. The film is also ent                 ... pos = 1.75  	neg = 0.25 
+8. The main character i                 ... pos = 0.875 	neg = 0.125
+9. The film begins with                 ... pos = 0.25  	neg = 0.0  
+10. He also meets Susan                 ... pos = 0.0   	neg = 0.375
+11. I've given you the s                ... pos = 0.0   	neg = 0.0  
+12. I went into the film                ... pos = 1.125 	neg = 1.375
+13. The twists are big a                ... pos = 0.25  	neg = 0.0  
+14. A film like this bas                ... pos = 0.0   	neg = 0.0  
+15. As I said, Mamet's s                ... pos = 0.375 	neg = 0.125
+16. Writers for big-budg                ... pos = 1.125 	neg = 0.5  
+17. (The problem with wr                ... pos = 1.75  	neg = 0.5  
+18. ). The acting is int                ... pos = 1.375 	neg = 0.625
+19. This is the kind of                 ... pos = 2.5   	neg = 0.125
+20. The most fascinating                ... pos = 1.125 	neg = 0.125
+21. She's an enticing wo                ... pos = 0.0   	neg = 0.125
+22. Her dialogue is the                 ... pos = 1.25  	neg = 0.25 
+23. Also very interestin                ... pos = 1.875 	neg = 0.375
+24. The Spanish Prisoner                ... pos = 0.0   	neg = 0.25 
+25. I doubt that Mamet h                ... pos = 0.5   	neg = 0.25 
+26. As I said, not even                 ... pos = 0.25  	neg = 0.125
+27. But it succeeds so e                ... pos = 1.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1888-760 is Positive         ... pos = 22.875 	neg = 6.875
+Overall score of document
+Total Pos = 22.875
+Total Neg = 6.875
+---------------------------------------------------------------------------

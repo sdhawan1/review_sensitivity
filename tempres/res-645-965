@@ -1,0 +1,35 @@
+0. The Talented Mr Ripl                 ... pos = 0.125 	neg = 0.375
+1. In The Talented Mr.                  ... pos = 0.125 	neg = 0.0  
+2. Meaning he's in just                 ... pos = 0.0   	neg = 0.125
+3. And he is sick, the                  ... pos = 0.0   	neg = 0.5  
+4. But that's his talen                 ... pos = 0.0   	neg = 0.0  
+5. And, as all chameleo                 ... pos = 0.75  	neg = 0.75 
+6. Meaning of course he                 ... pos = 0.125 	neg = 0.0  
+7. All he needs is a ma                 ... pos = 0.0   	neg = 0.125
+8. Highsmith supplies o                 ... pos = 0.0   	neg = 0.25 
+9. So yes, it's a guy,                  ... pos = 0.0   	neg = 0.0  
+10. All we need now is t                ... pos = 0.125 	neg = 0.25 
+11. Initially it's all a                ... pos = 1.75  	neg = 0.0  
+12. Or, at least isn't a                ... pos = 1.125 	neg = 0.125
+13. When the circumstanc                ... pos = 0.125 	neg = 0.125
+14. We did love Jack Tri                ... pos = 0.625 	neg = 0.5  
+15. Ripley's doing essen                ... pos = 0.5   	neg = 0.0  
+16. Anything but get cau                ... pos = 0.0   	neg = 0.0  
+17. And he does have som                ... pos = 0.125 	neg = 0.375
+18. Meaning it's all cre                ... pos = 1.125 	neg = 0.0  
+19. Interestingly, too,                 ... pos = 0.25  	neg = 1.25 
+20. Which is a nice touc                ... pos = 1.125 	neg = 0.5  
+21. It's impressive, or,                ... pos = 0.5   	neg = 0.25 
+22. The last twenty minu                ... pos = 0.375 	neg = 1.25 
+23. For him, though, the                ... pos = 0.0   	neg = 0.0  
+24. And the thing is, we                ... pos = 0.0   	neg = 0.25 
+25. His most attractive                 ... pos = 0.875 	neg = 0.125
+26. With Silence of the                 ... pos = 0.0   	neg = 0.25 
+27. In The Talented Mr.                 ... pos = 0.0   	neg = 0.0  
+28. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-645-965 is Positive          ... pos = 9.75  	neg = 7.375
+Overall score of document
+Total Pos = 9.75
+Total Neg = 7.375
+---------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+0. Jack Nicholson gave                  ... pos = 1.0   	neg = 0    
+1. Now almost 15-years                  ... pos = 1.875 	neg = 0.125
+2. The audience is so u                 ... pos = 0.375 	neg = 0.125
+3. Nicholson plays Melv                 ... pos = 0.875 	neg = 0.0  
+4. His next door neighb                 ... pos = 0.875 	neg = 1.5  
+5. Nicholson eats every                 ... pos = 0.125 	neg = 0.625
+6. The acting in this f                 ... pos = 1.375 	neg = 0.125
+7. This film is by co-w                 ... pos = 0.0   	neg = 0.125
+8. He has proven to be                  ... pos = 1.0   	neg = 0.125
+9. This film's dialogue                 ... pos = 0.25  	neg = 0.875
+10. Many critics knocked                ... pos = 0.75  	neg = 0.125
+11. The entire film is u                ... pos = 0.625 	neg = 0.25 
+12. It almost has the fe                ... pos = 0.0   	neg = 0.0  
+13. The ending doesn't s                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2115-1338 is Positive        ... pos = 9.5   	neg = 4.0  
+Overall score of document
+Total Pos = 9.5
+Total Neg = 4.0
+---------------------------------------------------------------------------

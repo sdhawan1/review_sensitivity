@@ -1,0 +1,27 @@
+0. * 1/2 (out of 4) - a                 ... pos = 2.0   	neg = 0.125
+1. The rationale is sou                 ... pos = 0.375 	neg = 0.375
+2. Last year's SPEED 2                  ... pos = 0.125 	neg = 0.375
+3. In some cases, a seq                 ... pos = 0.0   	neg = 0.25 
+4. Whatever uniqueness                  ... pos = 0.625 	neg = 0.875
+5. Julie James (Jennife                 ... pos = 1.0   	neg = 0.0  
+6. Julie and Ray experi                 ... pos = 0.875 	neg = 0.0  
+7. Will and Julie hit i                 ... pos = 0.25  	neg = 1.25 
+8. Unfortunately, thing                 ... pos = 0.125 	neg = 2.375
+9. It's another bloody                  ... pos = 0.0   	neg = 0.125
+10. There's not much tha                ... pos = 0.375 	neg = 0.875
+11. For die-hard fans of                ... pos = 0.125 	neg = 0.375
+12. The aura of thriller                ... pos = 1.25  	neg = 0.0  
+13. The man with the hoo                ... pos = 0.5   	neg = 1.875
+14. Much of the mystery                 ... pos = 0.125 	neg = 0.125
+15. The whole reason the                ... pos = 0.125 	neg = 1.0  
+16. And, whereas the kil                ... pos = 0.625 	neg = 0.125
+17. Three or four teens                 ... pos = 0.375 	neg = 0.375
+18. " They're almost use                ... pos = 0.0   	neg = 0.0  
+19. And so, in the end,                 ... pos = 1.0   	neg = 0.0  
+20. God help us.. .                     ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4181-700 is Negative         ... pos = 9.875 	neg = 10.5 
+Overall score of document
+Total Pos = 9.875
+Total Neg = 10.5
+---------------------------------------------------------------------------

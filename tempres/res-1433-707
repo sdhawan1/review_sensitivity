@@ -1,0 +1,30 @@
+0. We know William Shak                 ... pos = 0.0   	neg = 0.25 
+1. This is the question                 ... pos = 0.0   	neg = 0.125
+2. As the story opens,                  ... pos = 0.125 	neg = 0.125
+3. During this time per                 ... pos = 1.25  	neg = 0.25 
+4. The owner of the Ros                 ... pos = 0.375 	neg = 0.125
+5. Viola De Lesseps is                  ... pos = 0.625 	neg = 0.25 
+6. She would love to be                 ... pos = 0.875 	neg = 0.125
+7. She furtively dresse                 ... pos = 0.0   	neg = 0.0  
+8. Shakespeare falls in                 ... pos = 0.375 	neg = 0.375
+9. They pursue a secret                 ... pos = 0.0   	neg = 0.125
+10. It is not necessary                 ... pos = 1.125 	neg = 0.25 
+11. Since it is a work i                ... pos = 1.0   	neg = 0.125
+12. Cleverly, we see tha                ... pos = 0.5   	neg = 0.0  
+13. This technique was p                ... pos = 0.0   	neg = 0.125
+14. (I would recommend f                ... pos = 0.375 	neg = 0.0  
+15. ) Great effort was m                ... pos = 0.375 	neg = 0.375
+16. The film is not with                ... pos = 0.0   	neg = 0.125
+17. The Lord Wessex char                ... pos = 0.875 	neg = 1.0  
+18. However, to the film                ... pos = 0.625 	neg = 0.0  
+19. The dialog is consis                ... pos = 1.25  	neg = 0.125
+20. The acting is superb                ... pos = 0.875 	neg = 0.125
+21. Recommended.                        ... pos = 0.0   	neg = 0    
+22. Admirers of Shakespe                ... pos = 1.375 	neg = 0.0  
+23. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1433-707 is Positive         ... pos = 12.0  	neg = 4.0  
+Overall score of document
+Total Pos = 12.0
+Total Neg = 4.0
+---------------------------------------------------------------------------

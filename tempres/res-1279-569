@@ -1,0 +1,58 @@
+0. Director: Mike Nicho                 ... pos = 0.0   	neg = 0.0  
+1. Jack Stanton), Emma                  ... pos = 0.0   	neg = 0.0  
+2. Fred Picker), Diane                  ... pos = 0.5   	neg = 0.0  
+3. The handshakes at th                 ... pos = 1.125 	neg = 0.75 
+4. At the end of the fi                 ... pos = 1.125 	neg = 0.25 
+5. I don't mind giving                  ... pos = 0.125 	neg = 0.0  
+6. No matter how much d                 ... pos = 0.25  	neg = 1.0  
+7. In between the hands                 ... pos = 0.0   	neg = 0.0  
+8. There is no sense in                 ... pos = 0.0   	neg = 0.125
+9. If Nichols had reall                 ... pos = 0.125 	neg = 0.25 
+10. There are a million                 ... pos = 0.75  	neg = 1.125
+11. The movie is based o                ... pos = 0.0   	neg = 0.125
+12. A great deal of the                 ... pos = 0.75  	neg = 0.25 
+13. Why else would it ha                ... pos = 0.25  	neg = 0.125
+14. Both the book and th                ... pos = 0.75  	neg = 0.125
+15. Burton is a young, i                ... pos = 0.25  	neg = 0.375
+16. He joins Stanton's t                ... pos = 1.125 	neg = 0.125
+17. Among the other char                ... pos = 2.75  	neg = 2.25 
+18. ". In the weeks befo                ... pos = 1.875 	neg = 0.125
+19. There was a great de                ... pos = 0.5   	neg = 1.625
+20. Would Nichols' atten                ... pos = 0.5   	neg = 0.125
+21. Would Thornton, an A                ... pos = 1.125 	neg = 0.375
+22. In short, the movie                 ... pos = 0.0   	neg = 0.375
+23. Of course, how you f                ... pos = 0.25  	neg = 0.375
+24. Even Travolta, in a                 ... pos = 0.0   	neg = 0.125
+25. ". "Primary Colors"                 ... pos = 0.375 	neg = 1.25 
+26. The movie goes to gr                ... pos = 0.625 	neg = 0.875
+27. When Henry is threat                ... pos = 1.0   	neg = 1.375
+28. ". As "Primary Color                ... pos = 0.0   	neg = 0.625
+29. The movie portrays S                ... pos = 2.0   	neg = 0.0  
+30. Of course, this is h                ... pos = 0.0   	neg = 0.125
+31. Nichols has said in                 ... pos = 0.0   	neg = 0.0  
+32. ". The problem with                 ... pos = 0.75  	neg = 0.5  
+33. The book was explici                ... pos = 1.0   	neg = 0.125
+34. When Stanton is info                ... pos = 0.0   	neg = 0.375
+35. " Never mind that he                ... pos = 0.625 	neg = 0.25 
+36. The movie portrays t                ... pos = 0.0   	neg = 0.125
+37. With the exact same                 ... pos = 0.0   	neg = 0.125
+38. Another problem with                ... pos = 1.625 	neg = 0.5  
+39. The film makes a poi                ... pos = 0.5   	neg = 0.5  
+40. Since the story is t                ... pos = 0.75  	neg = 0.125
+41. Still, it makes for                 ... pos = 1.25  	neg = 0.0  
+42. However, some of the                ... pos = 1.0   	neg = 0.0  
+43. For instance, twice                 ... pos = 0.375 	neg = 0.25 
+44. Nothing is suggested                ... pos = 0.5   	neg = 1.125
+45. A similar situation                 ... pos = 2.125 	neg = 0.125
+46. Libby comes into the                ... pos = 1.0   	neg = 0.125
+47. Hello?                              ... pos = 0     	neg = 0.0  
+48. Where did that come                 ... pos = 0.0   	neg = 0.0  
+49. However, despite the                ... pos = 0.875 	neg = 0.0  
+50. Its indictment of th                ... pos = 0.75  	neg = 0.125
+51. Although the movie s                ... pos = 1.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-1279-569 is Positive         ... pos = 32.375 	neg = 19.25
+Overall score of document
+Total Pos = 32.375
+Total Neg = 19.25
+---------------------------------------------------------------------------

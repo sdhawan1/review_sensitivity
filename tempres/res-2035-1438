@@ -1,0 +1,35 @@
+0. The posters advertis                 ... pos = 0.0   	neg = 0.25 
+1. You'll    Cry.                       ... pos = 0.0   	neg = 0    
+2. You'll Be Offended.                  ... pos = 0.125 	neg = 0.125
+3. "  Frankly, this mis                 ... pos = 0.0   	neg = 0.375
+4. I don't mind light f                 ... pos = 1.25  	neg = 0.125
+5. That said, OPPOSITE                  ... pos = 2.125 	neg = 0.125
+6. As the film opens, R                 ... pos = 1.0   	neg = 0.0  
+7. Dedee runs away from                 ... pos = 0.0   	neg = 0.5  
+8. Bill    teaches high                 ... pos = 0.0   	neg = 0.125
+9. He comes to regret t                 ... pos = 0.125 	neg = 0.75 
+10. Bill's troubles are                 ... pos = 0.875 	neg = 0.5  
+11. Suspended from work                 ... pos = 0.125 	neg = 0.625
+12. All this may sound l                ... pos = 0.25  	neg = 0.125
+13. What we have here is                ... pos = 0.375 	neg = 1.875
+14. It    shouldn't have                ... pos = 0.5   	neg = 0.5  
+15. Its primary virtue i                ... pos = 0.0   	neg = 0.625
+16. Ricci, as I've said,                ... pos = 1.375 	neg = 0.125
+17. This is also the bes                ... pos = 0.5   	neg = 0.75 
+18. And Donovan and Love                ... pos = 0.25  	neg = 0.125
+19. It's sad to see this                ... pos = 0.0   	neg = 1.875
+20. It's not just that i                ... pos = 0.0   	neg = 0.0  
+21. It's also that it fe                ... pos = 1.625 	neg = 1.0  
+22. So perhaps it's not                 ... pos = 0.0   	neg = 0.0  
+23. It's rather that the                ... pos = 0.5   	neg = 0.625
+24. Offense can be inter                ... pos = 0.0   	neg = 0.5  
+25. But this film can't                 ... pos = 1.0   	neg = 0.0  
+26. And where it is offe                ... pos = 1.125 	neg = 0.75 
+27. So and watch Ricci b                ... pos = 0.25  	neg = 0.125
+28. But don't expect a s                ... pos = 0.75  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2035-1438 is Positive        ... pos = 14.125 	neg = 13.375
+Overall score of document
+Total Pos = 14.125
+Total Neg = 13.375
+---------------------------------------------------------------------------

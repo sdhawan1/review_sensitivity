@@ -1,0 +1,30 @@
+0. Review by Victory A.                 ... pos = 0.375 	neg = 0.75 
+1. With _Ronin_ (**1/2)                 ... pos = 0.0   	neg = 0.0  
+2. Zeik and Richard Wei                 ... pos = 0.75  	neg = 0.375
+3. The Ronin in this ta                 ... pos = 0.25  	neg = 0.75 
+4. The operatives are s                 ... pos = 0.5   	neg = 0.0  
+5. This premise is intr                 ... pos = 0.25  	neg = 0.5  
+6. To make up for the d                 ... pos = 2.25  	neg = 0.0  
+7. The labyrinthine str                 ... pos = 0.5   	neg = 0.25 
+8. These sequences, sho                 ... pos = 0.875 	neg = 0.625
+9. It is to Robert DeNi                 ... pos = 0.125 	neg = 0.375
+10. As the shadowy soldi                ... pos = 0.625 	neg = 0.125
+11. By necessity and by                 ... pos = 0.0   	neg = 0.0  
+12. The other Ronin are                 ... pos = 0.25  	neg = 0    
+13. Natascha McElhone (_                ... pos = 0.25  	neg = 0.125
+14. Actors Sean Bean(_Go                ... pos = 0.625 	neg = 0.0  
+15. As their icy nemeses                ... pos = 0.125 	neg = 0.5  
+16. The film stifles the                ... pos = 0.5   	neg = 1.25 
+17. The writers have gon                ... pos = 0.0   	neg = 0.375
+18. "Intelligent"  appea                ... pos = 1.0   	neg = 0.25 
+19. The questions pile u                ... pos = 0.625 	neg = 0.875
+20. A warning to the uns                ... pos = 0.875 	neg = 0.625
+21. Don't think.                        ... pos = 0     	neg = 0.0  
+22. Just wait for the ca                ... pos = 0     	neg = 0.0  
+23. Rather than give us                 ... pos = 0.75  	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-5519-66 is Positive          ... pos = 11.5  	neg = 8.875
+Overall score of document
+Total Pos = 11.5
+Total Neg = 8.875
+---------------------------------------------------------------------------

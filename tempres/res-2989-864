@@ -1,0 +1,37 @@
+0. As I saw in the trai                 ... pos = 0.75  	neg = 0.25 
+1. Well, my question st                 ... pos = 1.0   	neg = 0.125
+2. It is shown as more                  ... pos = 0.0   	neg = 0.25 
+3. Everyone was in tear                 ... pos = 0.0   	neg = 0.25 
+4. When I sat back in m                 ... pos = 0.0   	neg = 0.375
+5. Susan Sarandon plays                 ... pos = 0.125 	neg = 0.0  
+6. She was married to L                 ... pos = 0.0   	neg = 0.25 
+7. Luke is now seeing I                 ... pos = 0.0   	neg = 0.125
+8. Jackie and the kids                  ... pos = 0.0   	neg = 0    
+9. Mostly because she i                 ... pos = 0.0   	neg = 0.125
+10. Isabel is extremely                 ... pos = 0.625 	neg = 0.125
+11. For instance when Is                ... pos = 0.0   	neg = 1.5  
+12. "  . Jackie and Luke                ... pos = 0.0   	neg = 0.125
+13. One is more serious                 ... pos = 0.125 	neg = 0.125
+14. He lets Jackie know                 ... pos = 0.25  	neg = 0.0  
+15. At this point, Jacki                ... pos = 1.125 	neg = 0.125
+16. But, this thing is e                ... pos = 1.5   	neg = 0.125
+17. Something that is tr                ... pos = 0.0   	neg = 0.125
+18. (I won't tell you wh                ... pos = 0.0   	neg = 0.125
+19. )  Jackie continues                 ... pos = 0.0   	neg = 0.0  
+20. At this point, Jacki                ... pos = 0.75  	neg = 0.25 
+21. She gives the kids t                ... pos = 0.0   	neg = 0.5  
+22. Now the kids think o                ... pos = 0.0   	neg = 0.125
+23. She becomes very jea                ... pos = 1.0   	neg = 0.0  
+24. Stepmom depicts the                 ... pos = 0.125 	neg = 0.25 
+25. This movie is a stor                ... pos = 0.0   	neg = 0.125
+26. It lets you know tha                ... pos = 0.375 	neg = 0.0  
+27. Susan Sarandon gives                ... pos = 1.375 	neg = 0    
+28. Roberts and Harris a                ... pos = 0.75  	neg = 0.0  
+29. I don't know about y                ... pos = 0.0   	neg = 0.125
+30. Hands down to one of                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2989-864 is Positive         ... pos = 10.75 	neg = 5.5  
+Overall score of document
+Total Pos = 10.75
+Total Neg = 5.5
+---------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+0. Release Date: Octobe                 ... pos = 1.25  	neg = 0.125
+1. Thematically in cine                 ... pos = 2.5   	neg = 0.375
+2. Through a central ca                 ... pos = 2.875 	neg = 0.625
+3. Life *is* beautiful                  ... pos = 0.75  	neg = 0.0  
+4. Living in 1930's Ita                 ... pos = 1.125 	neg = 0.25 
+5. Although Dora is alr                 ... pos = 0.0   	neg = 0.75 
+6. Unfortunately for th                 ... pos = 0.625 	neg = 0.875
+7. It is after the movi                 ... pos = 1.625 	neg = 0.125
+8. Although prior to th                 ... pos = 0.625 	neg = 0.125
+9. Now, instead of awkw                 ... pos = 0.25  	neg = 0.125
+10. Benigni's performanc                ... pos = 0.875 	neg = 0.125
+11. The supports are all                ... pos = 1.375 	neg = 0.0  
+12. LIFE IS BEAUTIFUL is                ... pos = 0.75  	neg = 0.25 
+13. In certain parts it                 ... pos = 1.0   	neg = 0.0  
+14. Characters make repr                ... pos = 1.375 	neg = 0.375
+15. In all, fans of fore                ... pos = 0.5   	neg = 0.0  
+16. LIFE IS BEAUTIFUL is                ... pos = 1.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5730-700 is Positive         ... pos = 19.125 	neg = 4.5  
+Overall score of document
+Total Pos = 19.125
+Total Neg = 4.5
+---------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+0. My first reaction to                 ... pos = 0.25  	neg = 0    
+1. MARSHALS was that th                 ... pos = 0.0   	neg = 1.0  
+2. I was wrong, but not                 ... pos = 0.125 	neg = 0.875
+3. The movie is a seque                 ... pos = 0.25  	neg = 0.125
+4. Actually, it's more                  ... pos = 0.0   	neg = 0.0  
+5. This time, Sam Gerar                 ... pos = 0.0   	neg = 0.125
+6. Sheridan, like Ford'                 ... pos = 0.875 	neg = 0.125
+7. Sheridan is able to                  ... pos = 0.625 	neg = 0.875
+8. I felt bad for Jones                 ... pos = 1.0   	neg = 1.653
+9. In fact, the first t                 ... pos = 0.125 	neg = 0.125
+10. It was beneath his d                ... pos = 0.5   	neg = 0.125
+11. When he first read t                ... pos = 0.125 	neg = 0.0  
+12. But because Jones to                ... pos = 0.0   	neg = 0.125
+13. Jones' portrayal of                 ... pos = 0.0   	neg = 0.0  
+14. Also, the pacing was                ... pos = 1.0   	neg = 0.25 
+15. No sequence lingered                ... pos = 1.0   	neg = 0.875
+16. And the supporting c                ... pos = 1.125 	neg = 0.125
+17. The dialog and bante                ... pos = 0.875 	neg = 0.125
+18. But the movie also h                ... pos = 0.0   	neg = 0.25 
+19. The movie was too un                ... pos = 0.25  	neg = 1.25 
+20. It looks different f                ... pos = 1.125 	neg = 0.875
+21. The structure and ou                ... pos = 0.125 	neg = 0.5  
+22. And other than Jones                ... pos = 1.625 	neg = 0.125
+23. Snipes' character wa                ... pos = 1.25  	neg = 0.25 
+24. Robert Downey Jr. ha                ... pos = 0.0   	neg = 0.75 
+25. And Iréne Jacob's t                ... pos = 1.0   	neg = 0.75 
+26. With U.S.                           ... pos = 0.0   	neg = 0    
+27. MARSHALS, Baird and                 ... pos = 0.0   	neg = 1.25 
+28. Skip this one unless                ... pos = 0.0   	neg = 0.0  
+29. Shouldn't be too muc                ... pos = 0.125 	neg = 0.375
+30. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5482-1008 is Positive        ... pos = 13.375 	neg = 12.903
+Overall score of document
+Total Pos = 13.375
+Total Neg = 12.903
+---------------------------------------------------------------------------

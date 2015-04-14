@@ -1,0 +1,62 @@
+0. Yes!                                 ... pos = 0     	neg = 0    
+1. A movie less plausib                 ... pos = 0.625 	neg = 0.0  
+2. And I'm counting the                 ... pos = 0.375 	neg = 0.0  
+3. The 59th Street Brid                 ... pos = 0.0   	neg = 0.125
+4. ). I saw an early sc                 ... pos = 0.0   	neg = 0.0  
+5. What can I say but t                 ... pos = 1.625 	neg = 1.625
+6. Remarkably and innov                 ... pos = 0.375 	neg = 0.125
+7. It's Paris that gets                 ... pos = 0.125 	neg = 0.0  
+8. This is also the fir                 ... pos = 0.25  	neg = 0.875
+9. To sum up, it's a su                 ... pos = 1.056 	neg = 0.125
+10. The question is whet                ... pos = 0.75  	neg = 1.0  
+11. I lean towards not b                ... pos = 1.25  	neg = 1.125
+12. I missed the first a                ... pos = 0.125 	neg = 0.25 
+13. Mixed reviews, and a                ... pos = 0.0   	neg = 0.25 
+14. Ten minutes of effec                ... pos = 0.125 	neg = 0.375
+15. It'll be at a second                ... pos = 0.0   	neg = 0.75 
+16. In any case, for "Ar                ... pos = 0.0   	neg = 0.0  
+17. After carefully poin                ... pos = 0.625 	neg = 1.25 
+18. Why not the size of                 ... pos = 0.0   	neg = 0.0  
+19. It'll hit in eightee                ... pos = 0.875 	neg = 0.25 
+20. The idea is to drill                ... pos = 0.125 	neg = 0.625
+21. Perhaps no one notic                ... pos = 0.375 	neg = 0.625
+22. Nuclear weapons real                ... pos = 0.0   	neg = 0.0  
+23. But this asteroid is                ... pos = 0.25  	neg = 0.125
+24. Not only can it be s                ... pos = 0.125 	neg = 2.375
+25. This asteroid has an                ... pos = 0.625 	neg = 0.25 
+26. Oh, methane: a by-pr                ... pos = 0.0   	neg = 0.0  
+27. I suppose all this i                ... pos = 0.125 	neg = 0.5  
+28. The most important t                ... pos = 1.125 	neg = 0.375
+29. "Lost in Space" prob                ... pos = 0.375 	neg = 0.25 
+30. The second most impo                ... pos = 0.875 	neg = 0.125
+31. No Celine Dion, so i                ... pos = 0.0   	neg = 0.25 
+32. In terms of plot and                ... pos = 1.25  	neg = 0.5  
+33. They actually set up                ... pos = 0.0   	neg = 0.0  
+34. There's a father-dau                ... pos = 0.125 	neg = 0.0  
+35. Stuff gets resolved                 ... pos = 0.125 	neg = 0.25 
+36. We should not be sur                ... pos = 0.125 	neg = 0.125
+37. A better question ma                ... pos = 0.375 	neg = 0.75 
+38. Well, Liv is sort of                ... pos = 0.0   	neg = 0.125
+39. Ben does his Angry Y                ... pos = 0.75  	neg = 0.25 
+40. Bruce is OK.                        ... pos = 0.0   	neg = 0.125
+41. It's a less interest                ... pos = 0.125 	neg = 0.75 
+42. Besides this, there                 ... pos = 0.0   	neg = 0.0  
+43. "  First time I saw                 ... pos = 0.125 	neg = 0.125
+44. Sneakers?                           ... pos = 0     	neg = 0.0  
+45. The advertising, how                ... pos = 1.375 	neg = 0.75 
+46. "Seven Samurai" this                ... pos = 0.0   	neg = 0.125
+47. The amount of Americ                ... pos = 0.25  	neg = 0.125
+48. In some ways, images                ... pos = 0.375 	neg = 0.25 
+49. At least there, we f                ... pos = 0.0   	neg = 0.125
+50. "Armageddon" does it                ... pos = 1.625 	neg = 0.0  
+51. It's not a big can't                ... pos = 0.0   	neg = 0.0  
+52. Oh, there was a prev                ... pos = 0.0   	neg = 0.125
+53. I really want to see                ... pos = 0.0   	neg = 0.125
+54. ". --  "The court de                ... pos = 0.5   	neg = 0.25 
+55. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6217-1441 is Positive        ... pos = 19.306 	neg = 18.5 
+Overall score of document
+Total Pos = 19.306
+Total Neg = 18.5
+---------------------------------------------------------------------------

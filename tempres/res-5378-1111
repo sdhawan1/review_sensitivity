@@ -1,0 +1,24 @@
+0. Cast: Tom Hanks, Meg                 ... pos = 0.375 	neg = 0.75 
+1. I'm not talking abou                 ... pos = 0.75  	neg = 0.375
+2. You may remember whe                 ... pos = 0.25  	neg = 0.0  
+3. There is just nothin                 ... pos = 0.0   	neg = 1.125
+4. What is interesting                  ... pos = 0.625 	neg = 0.25 
+5. There is a number of                 ... pos = 0.625 	neg = 0.375
+6. But director Nora Ep                 ... pos = 0.0   	neg = 0.125
+7. She avoids any oppor                 ... pos = 0.0   	neg = 0.0  
+8. Ordinarily that woul                 ... pos = 0.875 	neg = 0.25 
+9. Two Internet geeks c                 ... pos = 0.875 	neg = 0.25 
+10. But these are not ge                ... pos = 0.5   	neg = 0.0  
+11. Fox owns Manhattan's                ... pos = 0.375 	neg = 0.0  
+12. "  In "real life," t                ... pos = 0.75  	neg = 0.0  
+13. So what we have is a                ... pos = 0.875 	neg = 0.875
+14. If not for a few str                ... pos = 1.375 	neg = 1.75 
+15. Although, it must be                ... pos = 1.625 	neg = 1.625
+16. For me, it was hard                 ... pos = 0.0   	neg = 0.875
+17. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5378-1111 is Positive        ... pos = 10.125 	neg = 8.625
+Overall score of document
+Total Pos = 10.125
+Total Neg = 8.625
+---------------------------------------------------------------------------

@@ -1,0 +1,65 @@
+0. ** (out of 4) Maybe                  ... pos = 0.0   	neg = 0.125
+1. Perhaps a Folgers sa                 ... pos = 0.0   	neg = 0.5  
+2. That might explain w                 ... pos = 0.125 	neg = 0.5  
+3. Zeedo (Michael Rooke                 ... pos = 0.125 	neg = 0.25 
+4. The kingpin's father                 ... pos = 0.25  	neg = 0.25 
+5. John Lee (Chow Yun-F                 ... pos = 0.5   	neg = 0.125
+6. Lee gets the kid in                  ... pos = 0.25  	neg = 0.0  
+7. Refusing the godfath                 ... pos = 0.125 	neg = 0.5  
+8. Before Lee can get h                 ... pos = 0.0   	neg = 0.75 
+9. Lee and Coburn take                  ... pos = 0.0   	neg = 0.0  
+10. The plot doesn't sou                ... pos = 0.25  	neg = 0.875
+11. The other components                ... pos = 0.375 	neg = 0.125
+12. For instance, the ba                ... pos = 0.25  	neg = 0.875
+13. Drug dealers in an a                ... pos = 0.0   	neg = 0.625
+14. No action movie crim                ... pos = 0.25  	neg = 0.75 
+15. These guys are dress                ... pos = 0.875 	neg = 0.125
+16. They are wealthy, sm                ... pos = 0.25  	neg = 0.5  
+17. Years of the TV show                ... pos = 0.375 	neg = 0.625
+18. A token twist on thi                ... pos = 0.375 	neg = 0.5  
+19. Then there was a pot                ... pos = 0.0   	neg = 0.125
+20. Quickly-cut closeups                ... pos = 0.0   	neg = 0.25 
+21. It looked interestin                ... pos = 0.0   	neg = 0.375
+22. It would have been b                ... pos = 0.0   	neg = 0.125
+23. It's easier to just                 ... pos = 0.25  	neg = 0.25 
+24. Later, after a don't                ... pos = 0.0   	neg = 1.125
+25. Do they kill them in                ... pos = 0.5   	neg = 0.0  
+26. Of course not.                      ... pos = 0.0   	neg = 0.0  
+27. Instead, they calm d                ... pos = 0.0   	neg = 0.75 
+28. It would be better t                ... pos = 0.875 	neg = 1.625
+29. There are some parts                ... pos = 0.5   	neg = 0.875
+30. No amount of effort                 ... pos = 0.625 	neg = 0.375
+31. For example, the god                ... pos = 0.5   	neg = 0.375
+32. His grief takes the                 ... pos = 0.375 	neg = 0.75 
+33. An officer is killed                ... pos = 0.0   	neg = 0.25 
+34. But these shallow at                ... pos = 0.375 	neg = 0.75 
+35. Real emotion is hard                ... pos = 0.625 	neg = 0.875
+36. It's easier to sprin                ... pos = 0.5   	neg = 0.0  
+37. It would have been b                ... pos = 0.5   	neg = 0.125
+38. Eventually the movie                ... pos = 0.0   	neg = 0.0  
+39. When Meg and Lee are                ... pos = 1.125 	neg = 0.125
+40. Mira is eventually a                ... pos = 0.75  	neg = 0.125
+41. A shootout in a thea                ... pos = 0.25  	neg = 0.125
+42. Also, the action cin                ... pos = 0.75  	neg = 0.25 
+43. The camera takes som                ... pos = 0.375 	neg = 0.0  
+44. In the car wash sequ                ... pos = 0.0   	neg = 0.625
+45. The opening sequence                ... pos = 0.875 	neg = 0.125
+46. It's too bad that th                ... pos = 0.75  	neg = 1.25 
+47. But these factors ar                ... pos = 0.25  	neg = 0.0  
+48. I should admit that                 ... pos = 0.125 	neg = 0.0  
+49. The experience itsel                ... pos = 0.125 	neg = 0.125
+50. I even thought I mig                ... pos = 0.125 	neg = 0.625
+51. But I realize I was                 ... pos = 0.625 	neg = 0.25 
+52. A few came close, bu                ... pos = 0.0   	neg = 0.125
+53. If I may be permitte                ... pos = 0.375 	neg = 0.5  
+54. Compare this to what                ... pos = 0.5   	neg = 1.5  
+55. I think it's safe to                ... pos = 0.875 	neg = 0.25 
+56. But audiences are ex                ... pos = 0.25  	neg = 0.25 
+57. I was disappointed b                ... pos = 0.125 	neg = 0.25 
+58. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1398-1008 is Negative        ... pos = 18.25 	neg = 23.5 
+Overall score of document
+Total Pos = 18.25
+Total Neg = 23.5
+---------------------------------------------------------------------------

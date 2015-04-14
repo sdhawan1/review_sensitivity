@@ -1,0 +1,45 @@
+0. Demi Moore plays a                   ... pos = 0.125 	neg = 0.375
+1. Ann Bancroft plays a                 ... pos = 0.0   	neg = 0.125
+2. Chairing a defense o                 ... pos = 0.125 	neg = 0.5  
+3. Threatening to withh                 ... pos = 0.0   	neg = 0.375
+4. Any woman who measur                 ... pos = 0.0   	neg = 0.0  
+5. Testing that assuran                 ... pos = 0.0   	neg = 0.0  
+6. O'Neil is picked, as                 ... pos = 0.125 	neg = 0.5  
+7. Seal training was a                  ... pos = 0.0   	neg = 0.125
+8. Only the best of the                 ... pos = 0.875 	neg = 0.25 
+9. It is expected that                  ... pos = 0.125 	neg = 0.375
+10. The intent is to cul                ... pos = 0.0   	neg = 0.125
+11. Only the Pete Rose/L                ... pos = 0.0   	neg = 0.125
+12. Many will need to st                ... pos = 0.625 	neg = 0.125
+13. Into this ordeal, Lt                ... pos = 0     	neg = 0.5  
+14. But O'Neil feels up                 ... pos = 0.0   	neg = 0.0  
+15. She has the drive, a                ... pos = 0.25  	neg = 0.125
+16. A big question is wh                ... pos = 0.5   	neg = 0.125
+17. These issues make up                ... pos = 0.125 	neg = 0.0  
+18. Those in command are                ... pos = 0.625 	neg = 0.0  
+19. With no precedents,                 ... pos = 1.5   	neg = 0.625
+20. That buzz-cut you se                ... pos = 0.0   	neg = 0.125
+21. Much of O'Neil's str                ... pos = 0.875 	neg = 0.125
+22. Urgayle is an expert                ... pos = 0.0   	neg = 0.625
+23. He truly feels that                 ... pos = 1.0   	neg = 0.0  
+24. When he puts O'Neil                 ... pos = 0.0   	neg = 0.125
+25. The best scenes in t                ... pos = 0.375 	neg = 0.0  
+26. Director Ridley Scot                ... pos = 0.0   	neg = 0.0  
+27. This time, he didn't                ... pos = 0.625 	neg = 0.0  
+28. Demi Moore has had h                ... pos = 0.75  	neg = 0.0  
+29. It looks as if she g                ... pos = 0.0   	neg = 0.375
+30. O'Neil's drive and f                ... pos = 0.0   	neg = 0.375
+31. The audience may  fi                ... pos = 0.875 	neg = 0.0  
+32. It's always nice to                 ... pos = 0.0   	neg = 0.0  
+33. She doesn't work eno                ... pos = 0.625 	neg = 1.0  
+34. 9.                                  ... pos = 0     	neg = 0    
+35. When G.I.                           ... pos = 0.0   	neg = 0.0  
+36. Jane was over, I had                ... pos = 0.375 	neg = 0.125
+37. Viggo Mortensen was                 ... pos = 0.625 	neg = 0.25 
+38. I am looking forward                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2960-1359 is Positive        ... pos = 11.125 	neg = 7.625
+Overall score of document
+Total Pos = 11.125
+Total Neg = 7.625
+---------------------------------------------------------------------------

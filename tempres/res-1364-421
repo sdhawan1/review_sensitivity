@@ -1,0 +1,35 @@
+0. The top rated progra                 ... pos = 0.125 	neg = 0.25 
+1. ' Think about it; mi                 ... pos = 1.25  	neg = 0.625
+2. Why?                                 ... pos = 0     	neg = 0.0  
+3. `Small Time Crooks',                 ... pos = 1.125 	neg = 0.125
+4. Playing the money-gr                 ... pos = 0.75  	neg = 0.5  
+5. In a recent discussi                 ... pos = 0.75  	neg = 0.625
+6. However, fate turned                 ... pos = 0.125 	neg = 0.0  
+7. In `Small Time Crook                 ... pos = 0.0   	neg = 0.125
+8. The only things miss                 ... pos = 0.75  	neg = 0.25 
+9. So he decides to cal                 ... pos = 0.125 	neg = 0.0  
+10. The plan is to buy t                ... pos = 0.0   	neg = 0.375
+11. Their business is a                 ... pos = 0.0   	neg = 0.25 
+12. Her baking is so goo                ... pos = 1.375 	neg = 0.125
+13. Because of the store                ... pos = 1.75  	neg = 0.375
+14. When the bumbling cr                ... pos = 0.125 	neg = 0.5  
+15. So the bank is robbe                ... pos = 0.25  	neg = 0.125
+16. And this is just the                ... pos = 0.125 	neg = 0.125
+17. In an unexpected, cl                ... pos = 0.75  	neg = 0.0  
+18. Ray and Frenchie are                ... pos = 0.375 	neg = 1.0  
+19. Frenchie hires a dev                ... pos = 0.75  	neg = 0.875
+20. `Small Time Crooks'                 ... pos = 1.25  	neg = 0.25 
+21. Film critic Andrew H                ... pos = 0.625 	neg = 0.5  
+22. ' `Small Time Crooks                ... pos = 0.0   	neg = 0.125
+23. Even in his 60's, Wo                ... pos = 0.0   	neg = 0.875
+24. He has gained the re                ... pos = 1.875 	neg = 0.0  
+25. The funny thing is t                ... pos = 1.75  	neg = 0.75 
+26. After a short acting                ... pos = 0.75  	neg = 0.0  
+27. The supporting cast,                ... pos = 0.5   	neg = 0.25 
+28. ', except its more t                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1364-421 is Positive         ... pos = 17.5  	neg = 9.0  
+Overall score of document
+Total Pos = 17.5
+Total Neg = 9.0
+---------------------------------------------------------------------------

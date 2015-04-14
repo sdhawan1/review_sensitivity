@@ -1,0 +1,28 @@
+0. More MOVIE VIEWS by                  ... pos = 0.5   	neg = 0.0  
+1. Utter, complete hell                 ... pos = 0     	neg = 0.5  
+2. And then he pits us                  ... pos = 0.25  	neg = 0.0  
+3. That scene is the la                 ... pos = 0.25  	neg = 1.5  
+4. The deaths are not q                 ... pos = 0.25  	neg = 0.0  
+5. Men have their limbs                 ... pos = 0.625 	neg = 0.625
+6. Spielberg's three ho                 ... pos = 1.375 	neg = 0.125
+7. But that doesn't mea                 ... pos = 0.0   	neg = 0.0  
+8. There are some momen                 ... pos = 0.75  	neg = 0.125
+9. But still, after two                 ... pos = 0.125 	neg = 0.0  
+10. The Private Ryan of                 ... pos = 0.25  	neg = 0.125
+11. After the other thre                ... pos = 0.625 	neg = 0.125
+12. Leading the platoon                 ... pos = 1.375 	neg = 0.125
+13. Jeremy Davies plays                 ... pos = 0.875 	neg = 0.125
+14. When the squad final                ... pos = 0.375 	neg = 0.25 
+15. This means Hanks and                ... pos = 0.375 	neg = 0.125
+16. The editing is marve                ... pos = 0.875 	neg = 0.625
+17. Saving Private Ryan                 ... pos = 1.625 	neg = 0.125
+18. When Steven Spielber                ... pos = 0.0   	neg = 0.125
+19. Unlike his mindless                 ... pos = 0.625 	neg = 0.375
+20. And it seemed to wor                ... pos = 0.0   	neg = 0.125
+21. Jamey Hughton writes                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2471-693 is Positive         ... pos = 11.625 	neg = 5.25 
+Overall score of document
+Total Pos = 11.625
+Total Neg = 5.25
+---------------------------------------------------------------------------

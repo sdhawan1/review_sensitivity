@@ -1,0 +1,53 @@
+0. Seen on 14 June 1998                 ... pos = 0.125 	neg = 0.125
+1. I cried at this movi                 ... pos = 0     	neg = 0.0  
+2. But remember that I                  ... pos = 0.125 	neg = 0.0  
+3. If children die, par                 ... pos = 1.25  	neg = 0.125
+4. Heck, I cried during                 ... pos = 0.875 	neg = 0.0  
+5. So I am a big mushpo                 ... pos = 0.0   	neg = 0.25 
+6. I love a good movie                  ... pos = 2.25  	neg = 0.125
+7. Read on.... *Deep Im                 ... pos = 0.75  	neg = 0.0  
+8. This is essential si                 ... pos = 0.625 	neg = 0.5  
+9. The first problem is                 ... pos = 1.25  	neg = 0.625
+10. The magic is that th                ... pos = 0.875 	neg = 0.125
+11. Unfortunately, the m                ... pos = 0.625 	neg = 1.375
+12. For example, the who                ... pos = 0.125 	neg = 0.25 
+13. So, we all know a hu                ... pos = 0.0   	neg = 0.25 
+14. Luckily, President B                ... pos = 0.75  	neg = 0.375
+15. His backup plan is "                ... pos = 0.625 	neg = 0.625
+16. [The real sci-fi asp                ... pos = 0.25  	neg = 0.125
+17. I don't expect to se                ... pos = 0.0   	neg = 0.0  
+18. ] It's set in the pr                ... pos = 0.375 	neg = 0.375
+19. This poses a problem                ... pos = 0.25  	neg = 0.375
+20. It's an outrage!                    ... pos = 0.0   	neg = 0    
+21. Didn't anyone see Ju                ... pos = 0.0   	neg = 0    
+22. Are we still mad abo                ... pos = 0.875 	neg = 0.0  
+23. Someone should have                 ... pos = 0.0   	neg = 0.0  
+24. This country was bui                ... pos = 0.0   	neg = 0.125
+25. Known for her work o                ... pos = 1.625 	neg = 0.25 
+26. There is just way to                ... pos = 0.125 	neg = 0.375
+27. Her successes, howev                ... pos = 1.0   	neg = 0.0  
+28. These required good                 ... pos = 0.75  	neg = 0.0  
+29. The actors do a pret                ... pos = 0.75  	neg = 0.125
+30. Redgrave and Duvall                 ... pos = 1.25  	neg = 0    
+31. Leoni is pretty good                ... pos = 1.0   	neg = 0.375
+32. Elijah Wood and Leel                ... pos = 1.125 	neg = 0.5  
+33. Two more problems: T                ... pos = 0.0   	neg = 0.125
+34. Those logos are thro                ... pos = 0.25  	neg = 0    
+35. Stars from *ER* and                 ... pos = 0.25  	neg = 0.0  
+36. The other problem is                ... pos = 0.25  	neg = 0.625
+37. It's about two steps                ... pos = 0.125 	neg = 0.0  
+38. Plus, knowing a come                ... pos = 0.25  	neg = 0.25 
+39. I guess it's more fu                ... pos = 0.875 	neg = 0.0  
+40. The only thing missi                ... pos = 0.0   	neg = 0.75 
+41. *Deep Impact* is bes                ... pos = 0.75  	neg = 0.5  
+42. You'll laugh (uninte                ... pos = 0.375 	neg = 0.125
+43. Just try to pay less                ... pos = 0.125 	neg = 0.0  
+44. Written by Bruce Joe                ... pos = 0.0   	neg = 0.25 
+45. At least that's what                ... pos = 0.0   	neg = 0.0  
+46. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1674-92 is Positive          ... pos = 22.875 	neg = 10.125
+Overall score of document
+Total Pos = 22.875
+Total Neg = 10.125
+---------------------------------------------------------------------------

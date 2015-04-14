@@ -1,0 +1,39 @@
+0. New York City, 1977.                 ... pos = 0.375 	neg = 0    
+1. Coming home from a d                 ... pos = 0.25  	neg = 0.375
+2. "  The killer would                  ... pos = 0.125 	neg = 0.375
+3. However, Sam (Michae                 ... pos = 0.625 	neg = 0.375
+4. "Summer of Sam" is r                 ... pos = 0.25  	neg = 0.25 
+5. Vinny is cheating on                 ... pos = 0.25  	neg = 0.375
+6. Dionna feels Vinny s                 ... pos = 0.0   	neg = 0.0  
+7. Because of his punk                  ... pos = 0.0   	neg = 0.5  
+8. While trying to get                  ... pos = 1.25  	neg = 0.5  
+9. He finds a soulmate                  ... pos = 0.0   	neg = 0.25 
+10. As the murders mount                ... pos = 0.875 	neg = 0.375
+11. The guys in the neig                ... pos = 0.0   	neg = 0.125
+12. They make a list of                 ... pos = 0.5   	neg = 0.125
+13. Just as his marriage                ... pos = 0.375 	neg = 0.375
+14. This is familiar ter                ... pos = 0.0   	neg = 0.25 
+15. His best-known film,                ... pos = 1.125 	neg = 0.125
+16. However, the center                 ... pos = 0.5   	neg = 0.125
+17. The dynamic of misco                ... pos = 0.75  	neg = 0.125
+18. Vinny is caught up i                ... pos = 1.0   	neg = 0.5  
+19. Knowing that Vinny g                ... pos = 0.0   	neg = 0.5  
+20. The tension between                 ... pos = 0.0   	neg = 0.0  
+21. Lee's style has grow                ... pos = 0.0   	neg = 0.125
+22. The greatest flaw of                ... pos = 2.375 	neg = 1.125
+23. "  Like "Get on the                 ... pos = 0.5   	neg = 0.0  
+24. The director's style                ... pos = 0.375 	neg = 0.0  
+25. Look for lots of fam                ... pos = 0.0   	neg = 0.25 
+26. Bebe Neuwirth (Lilit                ... pos = 0.0   	neg = 0.125
+27. Patti LuPone (of "Li                ... pos = 0.125 	neg = 0.0  
+28. Anthony LaPaglia is                 ... pos = 0.125 	neg = 0.625
+29. Michael Imperioli (f                ... pos = 0.125 	neg = 0.0  
+30. John Turturro provid                ... pos = 0.0   	neg = 0.625
+31. Spike Lee plays a no                ... pos = 1.625 	neg = 0.25 
+32. ". Read my reviews a                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1257-1265 is Positive        ... pos = 13.5  	neg = 8.75 
+Overall score of document
+Total Pos = 13.5
+Total Neg = 8.75
+---------------------------------------------------------------------------

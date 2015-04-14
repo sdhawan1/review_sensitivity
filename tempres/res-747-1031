@@ -1,0 +1,36 @@
+0. Fox Searchlight / 1:                 ... pos = 1.25  	neg = 1.125
+1. What "The  Birdcage"                 ... pos = 0.0   	neg = 0.0  
+2. A  lot.                              ... pos = 0.0   	neg = 0    
+3. Robert Carlyle, whos                 ... pos = 1.0   	neg = 0.375
+4. The same goes for hi                 ... pos = 0.875 	neg = 0.75 
+5. After the Chippendal                 ... pos = 0.125 	neg = 0.625
+6. Three more unlikely                  ... pos = 0.75  	neg = 0.125
+7. Together, the  half-                 ... pos = 1.125 	neg = 0.0  
+8. "The Full Monty" is                  ... pos = 2.25  	neg = 0.375
+9. In execution, howeve                 ... pos = 0.75  	neg = 0.0  
+10. The latter movie was                ... pos = 0.125 	neg = 0.75 
+11. "Monty," however, fu                ... pos = 0.25  	neg = 0.125
+12. Moore's "Striptease"                ... pos = 0.0   	neg = 0.125
+13. A child also plays a                ... pos = 0.25  	neg = 0.5  
+14. There are themes her                ... pos = 0.5   	neg = 0.125
+15. The actors are unifo                ... pos = 1.125 	neg = 0.0  
+16. If the performances                 ... pos = 0.75  	neg = 0.0  
+17. Carlyle,  in particu                ... pos = 0.25  	neg = 0    
+18. In one early scene,                 ... pos = 0.375 	neg = 0.125
+19. Haplessly swinging h                ... pos = 1.0   	neg = 1.0  
+20. Everyone else appear                ... pos = 1.375 	neg = 0.375
+21. " . "The Full Monty"                ... pos = 0.5   	neg = 0.125
+22. " issue feel unneces                ... pos = 0.125 	neg = 0.5  
+23. And  for those of yo                ... pos = 0.125 	neg = 0.25 
+24. A few subplots ventu                ... pos = 0.125 	neg = 0.25 
+25. Despite those errors                ... pos = 0.875 	neg = 0.75 
+26. It has its head and                 ... pos = 0.125 	neg = 0.25 
+27. It even ends on just                ... pos = 0.125 	neg = 0.125
+28. Gaz and  company may                ... pos = 0.25  	neg = 0.0  
+29. Š 1997 Jamie Peck                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-747-1031 is Positive         ... pos = 16.375 	neg = 8.75 
+Overall score of document
+Total Pos = 16.375
+Total Neg = 8.75
+---------------------------------------------------------------------------

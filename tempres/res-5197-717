@@ -1,0 +1,41 @@
+0. Note: Some may consi                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 2.125 	neg = 0.0  
+3. It is what it is --                  ... pos = 0.375 	neg = 0.25 
+4. The film's about as                  ... pos = 0.625 	neg = 0.0  
+5. 20-year old Will Hun                 ... pos = 2.625 	neg = 0.375
+6. However, Will's deci                 ... pos = 1.625 	neg = 0.0  
+7. He's also a bit of a                 ... pos = 0.0   	neg = 0.0  
+8. When    award-winnin                 ... pos = 1.0   	neg = 0.875
+9. None of the students                 ... pos = 2.75  	neg = 0.625
+10. Before Lambeau can t                ... pos = 0.625 	neg = 0.625
+11. Lambeau convinces th                ... pos = 0.25  	neg = 0.0  
+12. It's at this point w                ... pos = 1.25  	neg = 0.0  
+13. Cue the maudlin musi                ... pos = 0.0   	neg = 0.0  
+14. The film's hokey and                ... pos = 0.125 	neg = 0.0  
+15. To a good extent, th                ... pos = 1.625 	neg = 0.375
+16. Mr. Williams is    f                ... pos = 0.875 	neg = 0.25 
+17. Meanwhile, Mr.    Da                ... pos = 3.125 	neg = 0.0  
+18. Credit has to be all                ... pos = 1.5   	neg = 0.125
+19. His helming is    th                ... pos = 1.75  	neg = 0.25 
+20. The GOOD WILL HUNTIN                ... pos = 0.875 	neg = 0.625
+21. This may    or may n                ... pos = 1.625 	neg = 0.75 
+22. I admired that the f                ... pos = 3.125 	neg = 0.0  
+23. However, the change                 ... pos = 1.75  	neg = 0.125
+24. The themes and story                ... pos = 1.875 	neg = 0.25 
+25. There's a great deal                ... pos = 3.625 	neg = 1.5  
+26. If anything, the gen                ... pos = 0.875 	neg = 0.125
+27. Penned by childhood                 ... pos = 0.125 	neg = 0.125
+28. Resolved to stay on                 ... pos = 0.375 	neg = 0.125
+29. The project    event                ... pos = 1.75  	neg = 0.125
+30. Meanwhile, Mr. Damon                ... pos = 1.375 	neg = 0.25 
+31. Well done,    gents                 ... pos = 0.875 	neg = 0.625
+32. -- Alex Fung (aw220@                ... pos = 0.0   	neg = 0.125
+33. I want to know what                 ... pos = 0.0   	neg = 0.25 
+34. " - Charles Odell. .                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5197-717 is Positive         ... pos = 40.625 	neg = 9.0  
+Overall score of document
+Total Pos = 40.625
+Total Neg = 9.0
+---------------------------------------------------------------------------

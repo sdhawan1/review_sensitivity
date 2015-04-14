@@ -1,0 +1,32 @@
+0. Wow, this is a tough                 ... pos = 0.0   	neg = 0.5  
+1. A return to directin                 ... pos = 0.625 	neg = 0.625
+2. Myself, I was certai                 ... pos = 0.25  	neg = 0.125
+3. The plot, even thoug                 ... pos = 0.125 	neg = 0.625
+4. The screenplay is ma                 ... pos = 0.25  	neg = 0.25 
+5. The Thin Red Line is                 ... pos = 1.0   	neg = 0.75 
+6. While Fox are trying                 ... pos = 0.875 	neg = 0.875
+7. Although it sometime                 ... pos = 1.625 	neg = 1.875
+8. Having never seen Ma                 ... pos = 0.25  	neg = 0.125
+9. Thankfully, I was no                 ... pos = 0.0   	neg = 0.125
+10. While missing some o                ... pos = 0.5   	neg = 0.0  
+11. He also likes to get                ... pos = 1.125 	neg = 0.0  
+12. The style may be ann                ... pos = 0.0   	neg = 0.375
+13. But it's there, and                 ... pos = 0.0   	neg = 0.0  
+14. Sometimes Malick lik                ... pos = 1.125 	neg = 0.0  
+15. And the incessant us                ... pos = 0.5   	neg = 0.125
+16. Another criticism ma                ... pos = 0.875 	neg = 0.25 
+17. We _do_ get to know                 ... pos = 1.0   	neg = 0.0  
+18. All three actors are                ... pos = 1.625 	neg = 0.75 
+19. Considering the mini                ... pos = 1.625 	neg = 0.125
+20. Even the bit actors                 ... pos = 0.0   	neg = 0.875
+21. But again the film s                ... pos = 0.25  	neg = 0.125
+22. John Travolta and Ge                ... pos = 0.75  	neg = 0.375
+23. They could of been c                ... pos = 0.875 	neg = 0.25 
+24. Despite the overleng                ... pos = 0.5   	neg = 1.25 
+25. Although the enterta                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-534-1213 is Positive         ... pos = 16.25 	neg = 10.5 
+Overall score of document
+Total Pos = 16.25
+Total Neg = 10.5
+---------------------------------------------------------------------------

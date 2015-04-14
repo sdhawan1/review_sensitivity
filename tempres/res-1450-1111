@@ -1,0 +1,23 @@
+0. REVIEW: La Confident                 ... pos = 0.75  	neg = 0.25 
+1. Bursting of class an                 ... pos = 0.0   	neg = 0.125
+2. But all is not well                  ... pos = 0.125 	neg = 1.0  
+3. The law enforcement'                 ... pos = 1.125 	neg = 1.125
+4. Although set long af                 ... pos = 0.125 	neg = 0.625
+5. Cops are either croo                 ... pos = 2.0   	neg = 0.25 
+6. But the mechanics of                 ... pos = 0.875 	neg = 0.875
+7. The two most intrigu                 ... pos = 3.5   	neg = 1.25 
+8. Exley, a by-the-book                 ... pos = 1.0   	neg = 0.25 
+9. On the other side of                 ... pos = 0.75  	neg = 1.25 
+10. With a particular gr                ... pos = 1.875 	neg = 0.0  
+11. Along with Jack Vinc                ... pos = 0.25  	neg = 0.25 
+12. But as the plot thic                ... pos = 0.125 	neg = 0.125
+13. LA Confidential, a m                ... pos = 0.375 	neg = 0.0  
+14. I should be said tha                ... pos = 1.875 	neg = 0.25 
+15. In its worst moments                ... pos = 2.5   	neg = 0.5  
+16. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1450-1111 is Positive        ... pos = 17.5  	neg = 8.125
+Overall score of document
+Total Pos = 17.5
+Total Neg = 8.125
+---------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+0. Seen on 5 December 1                 ... pos = 0.125 	neg = 0.375
+1. So of course they we                 ... pos = 1.625 	neg = 0.75 
+2. Well, with very few                  ... pos = 1.5   	neg = 0.0  
+3. Now mind you, I am a                 ... pos = 0.125 	neg = 0.125
+4. It was my term paper                 ... pos = 0.5   	neg = 0.125
+5. So it was actually d                 ... pos = 0.375 	neg = 0.625
+6. The few additions ma                 ... pos = 0.375 	neg = 0.375
+7. Why?                                 ... pos = 0     	neg = 0.0  
+8. It simply ruins the                  ... pos = 0.375 	neg = 0.0  
+9. While refilming the                  ... pos = 0.375 	neg = 0.0  
+10. Elements from the or                ... pos = 0.25  	neg = 0.0  
+11. Meanwhile, reference                ... pos = 0.0   	neg = 0.0  
+12. Oh, and adding slapp                ... pos = 0.375 	neg = 0.5  
+13. Subtlety, Gus, subtl                ... pos = 0.0   	neg = 0.0  
+14. Hitchcock's audience                ... pos = 0.25  	neg = 0.0  
+15. Contrasted to the du                ... pos = 0.875 	neg = 0.875
+16. Because the new vers                ... pos = 0.75  	neg = 0.375
+17. The reasons for this                ... pos = 0.25  	neg = 0.0  
+18. While younger audien                ... pos = 0.375 	neg = 1.25 
+19. In it's day, killing                ... pos = 1.25  	neg = 0.75 
+20. Today, the story see                ... pos = 0.375 	neg = 0.5  
+21. Only Vince Vaughn's                 ... pos = 0.375 	neg = 0.0  
+22. He is much taller th                ... pos = 0.125 	neg = 0.25 
+23. In the end, the most                ... pos = 0.0   	neg = 0.125
+24. The most interesting                ... pos = 0.625 	neg = 1.0  
+25. In both movies, the                 ... pos = 0.25  	neg = 0.625
+26. Chad Everett is hila                ... pos = 0.5   	neg = 0.125
+27. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6044-92 is Positive          ... pos = 12.0  	neg = 8.875
+Overall score of document
+Total Pos = 12.0
+Total Neg = 8.875
+---------------------------------------------------------------------------

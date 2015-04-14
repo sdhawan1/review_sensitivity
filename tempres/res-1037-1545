@@ -1,0 +1,35 @@
+0. HAPPINESS **** (out                  ... pos = 0.25  	neg = 0.0  
+1. FILM FREAK CENTRAL h                 ... pos = 0.375 	neg = 1.25 
+2. I doubt HAPPINESS wi                 ... pos = 1.25  	neg = 0.5  
+3. HAPPINESS is not esc                 ... pos = 0.125 	neg = 0.25 
+4. Its narrative struct                 ... pos = 0.0   	neg = 0.125
+5. We meet three New Je                 ... pos = 4.5   	neg = 0.5  
+6. She is unaware that                  ... pos = 1.25  	neg = 0.125
+7. Nor is Dr. Maplewood                 ... pos = 0.25  	neg = 0.125
+8. Meanwhile, his patie                 ... pos = 1.125 	neg = 0.75 
+9. (The movie rather am                 ... pos = 0.625 	neg = 0.0  
+10. ) Helen is his fanta                ... pos = 0.5   	neg = 0.25 
+11. Which makes his verb                ... pos = 0.375 	neg = 0.25 
+12. I could go on illust                ... pos = 2.25  	neg = 1.0  
+13. (I've only described                ... pos = 0.0   	neg = 0.0  
+14. ) Yet the soul of th                ... pos = 0.875 	neg = 0.25 
+15. (The events leading                 ... pos = 0.125 	neg = 0.0  
+16. ) Baker's portrayal                 ... pos = 1.875 	neg = 0.75 
+17. If someone were to a                ... pos = 1.5   	neg = 0.25 
+18. What is happiness, a                ... pos = 0.125 	neg = 0.125
+19. Solondz' film, from                 ... pos = 0.0   	neg = 0.5  
+20. ) to the melancholy                 ... pos = 1.375 	neg = 0.125
+21. On the cinematic sid                ... pos = 0.0   	neg = 0.5  
+22. (And isn't that the                 ... pos = 0     	neg = 0.0  
+23. Suburbia looks shiny                ... pos = 0.0   	neg = 0.375
+24. ) I also appreciated                ... pos = 0.125 	neg = 0.0  
+25. Universal's "indepen                ... pos = 0.375 	neg = 0.375
+26. So Good Machine (the                ... pos = 0.75  	neg = 1.125
+27. It's their first tim                ... pos = 0.125 	neg = 0.0  
+28. Show them they took                 ... pos = 1.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1037-1545 is Positive        ... pos = 21.625 	neg = 9.5  
+Overall score of document
+Total Pos = 21.625
+Total Neg = 9.5
+---------------------------------------------------------------------------

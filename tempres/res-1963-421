@@ -1,0 +1,28 @@
+0. I love L.A.                          ... pos = 0.625 	neg = 0.0  
+1. Despite the traffic,                 ... pos = 0.5   	neg = 0.125
+2. Los Angeles has been                 ... pos = 0.0   	neg = 0.125
+3. An overlooked aspect                 ... pos = 0.75  	neg = 0.5  
+4. "The Muse" is Woody                  ... pos = 0.0   	neg = 0.375
+5. However, what "The M                 ... pos = 1.375 	neg = 0.25 
+6. Although her role as                 ... pos = 1.25  	neg = 0.125
+7. "The Muse" is the st                 ... pos = 0.0   	neg = 0.25 
+8. He is subsequently f                 ... pos = 0.75  	neg = 0.125
+9. He tells him about S                 ... pos = 0.125 	neg = 0.125
+10. Steven decides to gi                ... pos = 0.125 	neg = 0.25 
+11. Sarah will inspire y                ... pos = 0.625 	neg = 0.0  
+12. So Sarah ends up mov                ... pos = 0.375 	neg = 0.0  
+13. A lot of the fun in                 ... pos = 0.75  	neg = 0.0  
+14. Rob Reiner thanks he                ... pos = 1.125 	neg = 0.25 
+15. The only real flaw i                ... pos = 0.25  	neg = 0.125
+16. But Albert Brooks ha                ... pos = 0.625 	neg = 0.0  
+17. What could be better                ... pos = 0     	neg = 0.125
+18. "The Muse" also prov                ... pos = 0.0   	neg = 0.375
+19. I, myself, have star                ... pos = 0.0   	neg = 0.0  
+20. Creativity is certai                ... pos = 0.625 	neg = 0.125
+21. Well, at least Alber                ... pos = 0.625 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-1963-421 is Positive         ... pos = 10.5  	neg = 3.875
+Overall score of document
+Total Pos = 10.5
+Total Neg = 3.875
+---------------------------------------------------------------------------

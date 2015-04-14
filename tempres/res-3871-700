@@ -1,0 +1,31 @@
+0. Release Date: August                 ... pos = 0.875 	neg = 0.0  
+1. " Granted, the movie                 ... pos = 0.5   	neg = 0.375
+2. One of the things th                 ... pos = 1.25  	neg = 0.125
+3. The critique is them                 ... pos = 1.125 	neg = 0.125
+4. On the surface, 54 i                 ... pos = 0.0   	neg = 0.125
+5. 54 was written and d                 ... pos = 0.625 	neg = 0.25 
+6. Previous to this, he                 ... pos = 0.125 	neg = 0.0  
+7. Unfortunately, any b                 ... pos = 0.625 	neg = 1.0  
+8. Ryan Phillippe, as t                 ... pos = 1.375 	neg = 0.375
+9. Salma Hayek and Mike                 ... pos = 0.25  	neg = 0.125
+10. In fact, only Neve C                ... pos = 1.5   	neg = 0.125
+11. Though she was notew                ... pos = 0.375 	neg = 0.25 
+12. Phillippe (I KNOW WH                ... pos = 0.75  	neg = 0.875
+13. One night he convinc                ... pos = 0.625 	neg = 0.0  
+14. Only the beautiful p                ... pos = 0.75  	neg = 0.0  
+15. The club's eccentric                ... pos = 0.0   	neg = 0.375
+16. With the help of new                ... pos = 0.875 	neg = 0.0  
+17. It's then that he me                ... pos = 0.75  	neg = 0.625
+18. Christopher tells th                ... pos = 0.125 	neg = 0.125
+19. Though only 90 minut                ... pos = 0.625 	neg = 0.625
+20. Because of this, and                ... pos = 0.125 	neg = 0.0  
+21. The love story betwe                ... pos = 2.125 	neg = 0.625
+22. For the most part 54                ... pos = 0.0   	neg = 0.125
+23. It's hard to dislike                ... pos = 0.125 	neg = 0.75 
+24. FINAL AWARD FOR "54"                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3871-700 is Positive         ... pos = 16.5  	neg = 7.0  
+Overall score of document
+Total Pos = 16.5
+Total Neg = 7.0
+---------------------------------------------------------------------------

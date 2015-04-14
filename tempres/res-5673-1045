@@ -1,0 +1,38 @@
+0. Of the major horror                  ... pos = 0.875 	neg = 0    
+1. Think about it.                      ... pos = 0.0   	neg = 0.0  
+2. Frankenstein movies                  ... pos = 0.125 	neg = 0.125
+3. If you made a Franke                 ... pos = 0.125 	neg = 0.75 
+4. Fox, there aren't an                 ... pos = 0.375 	neg = 0.625
+5. Movies about mummies                 ... pos = 0.0   	neg = 0.125
+6. There's not much you                 ... pos = 0.125 	neg = 0.25 
+7. (And there's that Mi                 ... pos = 0.0   	neg = 0.0  
+8. Fox thing again.                     ... pos = 0.0   	neg = 0.0  
+9. ). But you can have                  ... pos = 0.0   	neg = 0.125
+10. You can have traditi                ... pos = 0.375 	neg = 0.0  
+11. You can put vampires                ... pos = 0.5   	neg = 0.0  
+12. Were it not redundan                ... pos = 0.25  	neg = 0.125
+13. Any day now, I expec                ... pos = 0.0   	neg = 0.0  
+14. Or, you can insert t                ... pos = 0.0   	neg = 0.0  
+15. Wesley Snipes has th                ... pos = 0.5   	neg = 0.0  
+16. In this case, the ev                ... pos = 0.0   	neg = 0.125
+17. Snipes has less to s                ... pos = 0.125 	neg = 0.0  
+18. Marshals, but does a                ... pos = 0.375 	neg = 0.125
+19. Blade is a silent, b                ... pos = 0.25  	neg = 0.375
+20. He is as cold as his                ... pos = 0.0   	neg = 0.125
+21. Yet, he's not withou                ... pos = 0.25  	neg = 0.25 
+22. Like any good Hong K                ... pos = 0.75  	neg = 0.125
+23. For some reason, Bla                ... pos = 0.375 	neg = 0.0  
+24. (Blade dismisses a m                ... pos = 0.625 	neg = 0.75 
+25. )  Unfortunately, th                ... pos = 0.125 	neg = 1.0  
+26. The Replacement Kill                ... pos = 0.125 	neg = 0.375
+27. Blade has a little m                ... pos = 0.25  	neg = 0.5  
+28. With a stronger vill                ... pos = 3.0   	neg = 1.625
+29. As it is, Blade is a                ... pos = 0.0   	neg = 0.75 
+30. Movie Reviews: http:                ... pos = 0.25  	neg = 0.25 
+31. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5673-1045 is Positive        ... pos = 9.75  	neg = 8.5  
+Overall score of document
+Total Pos = 9.75
+Total Neg = 8.5
+---------------------------------------------------------------------------

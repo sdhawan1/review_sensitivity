@@ -1,0 +1,27 @@
+0. Paul Thomas Anderson                 ... pos = 0.25  	neg = 0.125
+1. Dirk and Paul rose t                 ... pos = 0.375 	neg = 0.125
+2. Anderson first direc                 ... pos = 0.75  	neg = 0.75 
+3. BOOGIE NIGHTS had a                  ... pos = 0.0   	neg = 0.125
+4. It kept the buzz unt                 ... pos = 0.0   	neg = 0.0  
+5. What an exciting fil                 ... pos = 0.25  	neg = 0.125
+6. Every scene is handl                 ... pos = 0.875 	neg = 0.125
+7. Paul Thomas Anderson                 ... pos = 1.0   	neg = 0.25 
+8. PTA looks to be the                  ... pos = 0.0   	neg = 0.5  
+9. In any other year th                 ... pos = 0.5   	neg = 0.25 
+10. CONFIDENTIAL (****).                ... pos = 0.125 	neg = 0    
+11. Set in the seventies                ... pos = 0.125 	neg = 0.125
+12. We follow Dirk (I lo                ... pos = 0.75  	neg = 0.0  
+13. All great films have                ... pos = 0.75  	neg = 0.0  
+14. This one has many; t                ... pos = 0.5   	neg = 0.0  
+15. Dirk and his friends                ... pos = 0.375 	neg = 0.875
+16. They sit and wait  w                ... pos = 0.0   	neg = 0.375
+17. Must be seen to be b                ... pos = 0.5   	neg = 0.25 
+18. This movie carried c                ... pos = 0.75  	neg = 0.25 
+19. All the films play w                ... pos = 0.125 	neg = 0.0  
+20. ONE HELL OF A RIDE t                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-4409-1338 is Positive        ... pos = 8.0   	neg = 4.875
+Overall score of document
+Total Pos = 8.0
+Total Neg = 4.875
+---------------------------------------------------------------------------

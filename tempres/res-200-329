@@ -1,0 +1,41 @@
+0. Over the past couple                 ... pos = 0.375 	neg = 0.125
+1. South Park: Bigger,                  ... pos = 1.0   	neg = 0.125
+2. The Muse was a great                 ... pos = 0.0   	neg = 0.125
+3. Finally, Bowfinger w                 ... pos = 0.125 	neg = 0.625
+4. None of these films                  ... pos = 0.375 	neg = 0.125
+5. Throughout the film                  ... pos = 0.875 	neg = 0.0  
+6. Finally we have been                 ... pos = 0.75  	neg = 0.125
+7. Craig Schwartz (Cusa                 ... pos = 0.625 	neg = 0.375
+8. So he decides to tak                 ... pos = 0.0   	neg = 0.125
+9. All of the ceilings                  ... pos = 0.25  	neg = 0.0  
+10. The owner of the com                ... pos = 0.0   	neg = 0.5  
+11. Because of this, he                 ... pos = 0.125 	neg = 0.375
+12. The biggest surprise                ... pos = 0.25  	neg = 0.125
+13. Do you know who John                ... pos = 0.0   	neg = 0.125
+14. Some people don't, s                ... pos = 0.0   	neg = 0.0  
+15. John Malkovich is th                ... pos = 0.125 	neg = 0.25 
+16. He also certainly di                ... pos = 0.25  	neg = 0.125
+17. (Inside joke that yo                ... pos = 0.125 	neg = 0.25 
+18. ) What does this hav                ... pos = 0.0   	neg = 0.0  
+19. Read on...When Craig                ... pos = 0.0   	neg = 0.0  
+20. If you open the door                ... pos = 0.25  	neg = 0.375
+21. Then you are dropped                ... pos = 0.625 	neg = 0.0  
+22. Seeing this as a way                ... pos = 0.0   	neg = 1.5  
+23. Craig doesn't seem a                ... pos = 2.25  	neg = 0.375
+24. I can only set up th                ... pos = 0.625 	neg = 0.125
+25. In fact, you must go                ... pos = 0.5   	neg = 0.0  
+26. That is not a sugges                ... pos = 0.0   	neg = 0.25 
+27. Diaz is great (I lov                ... pos = 1.125 	neg = 0.375
+28. Catherine Keener is                 ... pos = 1.25  	neg = 0.125
+29. The real standout th                ... pos = 1.5   	neg = 0.25 
+30. This is an amazing e                ... pos = 0.0   	neg = 0.25 
+31. So stop listening to                ... pos = 0.375 	neg = 0.0  
+32. The masterpiece Bein                ... pos = 0.375 	neg = 0.0  
+33. The Young-Uns: The f                ... pos = 1.125 	neg = 0.625
+34. Good Age 14 & Up. .                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-329 is Positive          ... pos = 16.0  	neg = 7.75 
+Overall score of document
+Total Pos = 16.0
+Total Neg = 7.75
+---------------------------------------------------------------------------

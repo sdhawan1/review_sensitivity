@@ -1,0 +1,55 @@
+0. IN SHORT: At least t                 ... pos = 0.5   	neg = 0.125
+1. But he can play the                  ... pos = 0.0   	neg = 0.0  
+2. Ice Cube finally del                 ... pos = 2.5   	neg = 0.5  
+3. I've said this sever                 ... pos = 1.5   	neg = 0.0  
+4. They should push you                 ... pos = 1.875 	neg = 0.875
+5. The setting is the 1                 ... pos = 1.125 	neg = 0.5  
+6. David O. Russell's s                 ... pos = 0.875 	neg = 0.0  
+7. Soldiers are ordered                 ... pos = 0.25  	neg = 0.25 
+8. Things organic and n                 ... pos = 0.0   	neg = 0.0  
+9. Nothing gratuitous,                  ... pos = 0.375 	neg = 0.25 
+10. Politically, being t                ... pos = 0.25  	neg = 0.25 
+11. Across the board, af                ... pos = 0.0   	neg = 0.125
+12. So I'll stay the hel                ... pos = 0.125 	neg = 0.5  
+13. The Gulf War, as we                 ... pos = 1.25  	neg = 0.5  
+14. The humor in Russell                ... pos = 0.5   	neg = 0.0  
+15. His directorial styl                ... pos = 0.75  	neg = 0.875
+16. The strength is in h                ... pos = 1.5   	neg = 0.125
+17. Our grunts are Army                 ... pos = 0.25  	neg = 0.625
+18. Troy Barlow (Wahlber                ... pos = 0.0   	neg = 0.0  
+19. As the film starts h                ... pos = 0.125 	neg = 0.0  
+20. Still, he's the mora                ... pos = 0.0   	neg = 0.0  
+21. Conrad Elgin (Spike                 ... pos = 0.0   	neg = 0.125
+22. Rounding up surrende                ... pos = 0.25  	neg = 0.125
+23. Rather than turning                 ... pos = 1.0   	neg = 0.625
+24. Materialistic to the                ... pos = 0.5   	neg = 0.75 
+25. Adding a bit of humo                ... pos = 0.0   	neg = 0.125
+26. Clooney's character                 ... pos = 1.75  	neg = 0.625
+27. Labeling both of 'em                ... pos = 0.5   	neg = 0.25 
+28. The conflict between                ... pos = 0.125 	neg = 1.0  
+29. This isn't a "greed                 ... pos = 0.0   	neg = 0.125
+30. Yes, the gold is fou                ... pos = 0.125 	neg = 0.125
+31. Yes, our boys stand                 ... pos = 0.0   	neg = 0.5  
+32. Yes, the violence is                ... pos = 0.5   	neg = 0.125
+33. And, yes (finally) t                ... pos = 0.5   	neg = 0.125
+34. I've been staring a                 ... pos = 0.125 	neg = 0.125
+35. This thing is pissin                ... pos = 0.0   	neg = 1.25 
+36. So, goodnight.                      ... pos = 0     	neg = 0.0  
+37. On average, a first                 ... pos = 0.25  	neg = 0.0  
+38. Were Cranky able to                 ... pos = 0.25  	neg = 0.125
+39. I'll say it again.                  ... pos = 0.0   	neg = 0    
+40. Despite skipping the                ... pos = 0.5   	neg = 0.625
+41. That's what I say I                 ... pos = 0.0   	neg = 0.125
+42. That's what Three Ki                ... pos = 0.125 	neg = 0.0  
+43. I also know my histo                ... pos = 0.0   	neg = 0.0  
+44. Films that piss me o                ... pos = 0.0   	neg = 1.0  
+45. I've seen it all bef                ... pos = 0.0   	neg = 0    
+46. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+47. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+48. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-912 is Positive         ... pos = 20.5  	neg = 13.5 
+Overall score of document
+Total Pos = 20.5
+Total Neg = 13.5
+---------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+0. This week, upon retu                 ... pos = 0.5   	neg = 0.625
+1. Despite the fact tha                 ... pos = 0.25  	neg = 0.75 
+2. The reason why I was                 ... pos = 0.75  	neg = 0.25 
+3. of anyone trying to                  ... pos = 0.0   	neg = 0.5  
+4. Because of this new                  ... pos = 1.375 	neg = 0.5  
+5. The animated film un                 ... pos = 0.125 	neg = 0.375
+6. The timely storyline                 ... pos = 0.0   	neg = 0.25 
+7. The two prance aroun                 ... pos = 0.0   	neg = 0.375
+8. Once the children sp                 ... pos = 0.25  	neg = 0.875
+9. What follows is 80 m                 ... pos = 0.875 	neg = 0.125
+10. Finally, a film with                ... pos = 0.0   	neg = 0    
+11. The songs are catchy                ... pos = 1.75  	neg = 0.125
+12. "South Park: Bigger,                ... pos = 0.625 	neg = 0.0  
+13. Parker and Stone can                ... pos = 0.0   	neg = 0.75 
+14. "South Park" is a wa                ... pos = 0.125 	neg = 0.25 
+15. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5926-421 is Positive         ... pos = 6.625 	neg = 5.875
+Overall score of document
+Total Pos = 6.625
+Total Neg = 5.875
+---------------------------------------------------------------------------

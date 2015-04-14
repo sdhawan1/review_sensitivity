@@ -1,0 +1,39 @@
+0. (POLYGRAM FILMED ENT                 ... pos = 0.625 	neg = 0.25 
+1. Jeff Bridges is Jeff                 ... pos = 0.0   	neg = 0.25 
+2. However, his name is                 ... pos = 0.375 	neg = 0.25 
+3. From here-on, the Du                 ... pos = 0.0   	neg = 0.125
+4. All presented, of co                 ... pos = 0.125 	neg = 0.0  
+5. A mixture between Ra                 ... pos = 0.375 	neg = 0.125
+6. The cast is excellen                 ... pos = 2.125 	neg = 0.125
+7. Jeff Bridges is supe                 ... pos = 0.875 	neg = 0.625
+8. He takes on the char                 ... pos = 1.5   	neg = 0.0  
+9. John Goodman is fun                  ... pos = 0.25  	neg = 0.125
+10. A former Vietnam vet                ... pos = 0.75  	neg = 0.375
+11. He's definitely the                 ... pos = 1.625 	neg = 0.375
+12. Julianne Moore, in a                ... pos = 0.75  	neg = 0.5  
+13. Sadly, her character                ... pos = 1.125 	neg = 0.75 
+14. Coen regular Steve B                ... pos = 1.125 	neg = 0.125
+15. Although his charact                ... pos = 1.0   	neg = 0.75 
+16. The plot is pretty s                ... pos = 0.75  	neg = 0.375
+17. Despite the large am                ... pos = 1.5   	neg = 0.125
+18. This is probably the                ... pos = 0.75  	neg = 0.125
+19. The Dude's dreams ar                ... pos = 1.5   	neg = 0.625
+20. The script is funny,                ... pos = 0.0   	neg = 0.125
+21. The plot can lag occ                ... pos = 0.375 	neg = 0.125
+22. The film may be a bi                ... pos = 1.0   	neg = 0.875
+23. And that's the great                ... pos = 0.0   	neg = 0.0  
+24. It's superb entertai                ... pos = 0.875 	neg = 0    
+25. Blessed with a great                ... pos = 1.375 	neg = 0.375
+26. Once again, the Coen                ... pos = 0.0   	neg = 0.0  
+27. Just a small note to                ... pos = 0.0   	neg = 0.0  
+28. Nearly every Coen fi                ... pos = 0.0   	neg = 0.125
+29. This is a small grip                ... pos = 0.125 	neg = 0.125
+30. The Big Lebowski com                ... pos = 0.625 	neg = 0.0  
+31. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+32. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5626-1213 is Positive        ... pos = 21.5  	neg = 7.75 
+Overall score of document
+Total Pos = 21.5
+Total Neg = 7.75
+---------------------------------------------------------------------------

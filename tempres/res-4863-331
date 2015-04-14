@@ -1,0 +1,20 @@
+0. Stigmata: wounds sim                 ... pos = 0.875 	neg = 0.125
+1. This movie is based                  ... pos = 0.625 	neg = 0.125
+2. If you know all that                 ... pos = 0.0   	neg = 1.0  
+3. Frankie Page (Patric                 ... pos = 0.0   	neg = 0.125
+4. She works and goes o                 ... pos = 0.125 	neg = 0.0  
+5. One day she gets an                  ... pos = 0.125 	neg = 0.0  
+6. Father Andrew Kierna                 ... pos = 0.0   	neg = 0.0  
+7. So he was sent to se                 ... pos = 0.0   	neg = 0.125
+8. The setting is very                  ... pos = 1.25  	neg = 0.5  
+9. Andrew Kiernan is mo                 ... pos = 0.125 	neg = 0.625
+10. And most of all, the                ... pos = 0.0   	neg = 0.125
+11. The climax point was                ... pos = 1.0   	neg = 0.25 
+12. This movie could hav                ... pos = 0.5   	neg = 0.875
+13. I'm not complaining                 ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4863-331 is Positive         ... pos = 5.0   	neg = 4.0  
+Overall score of document
+Total Pos = 5.0
+Total Neg = 4.0
+---------------------------------------------------------------------------

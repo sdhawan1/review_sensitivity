@@ -1,0 +1,54 @@
+0. *** (out of 4) First                 ... pos = 0.125 	neg = 0.125
+1. I have nothing again                 ... pos = 0.125 	neg = 0.25 
+2. Having said that, I                  ... pos = 0.125 	neg = 0.125
+3. For us non-fans, the                 ... pos = 0.25  	neg = 0.5  
+4. The movie opens on a                 ... pos = 0.0   	neg = 0.0  
+5. Two proto-humans ent                 ... pos = 0.0   	neg = 0.0  
+6. The alien breaks fre                 ... pos = 1.5   	neg = 0.125
+7. The movie jumps to t                 ... pos = 0.375 	neg = 0.125
+8. We then cut to FBI a                 ... pos = 0.125 	neg = 0.75 
+9. A caller has threate                 ... pos = 0.0   	neg = 0.0  
+10. On a hunch, Mulder c                ... pos = 0.25  	neg = 0.125
+11. The FBI finds the bo                ... pos = 0.0   	neg = 0.125
+12. Five people die in t                ... pos = 0.5   	neg = 0.125
+13. The two agents team                 ... pos = 0.0   	neg = 0.0  
+14. Their search leads t                ... pos = 0.5   	neg = 0.0  
+15. " . The plot, and "t                ... pos = 0.75  	neg = 0.5  
+16. I got the feeling th                ... pos = 0.0   	neg = 0.125
+17. It didn't.                          ... pos = 0.0   	neg = 0    
+18. The possible existen                ... pos = 0.5   	neg = 0.125
+19. But the point of THE                ... pos = 0.5   	neg = 0.375
+20. It's a slightly more                ... pos = 0.375 	neg = 0.25 
+21. If this were the who                ... pos = 0.0   	neg = 1.028
+22. But there are other                 ... pos = 0.625 	neg = 0.0  
+23. The pacing of the fi                ... pos = 0.5   	neg = 0.125
+24. Before the audience                 ... pos = 0.0   	neg = 0.125
+25. The locations are no                ... pos = 0.25  	neg = 0.0  
+26. There are some artif                ... pos = 0.5   	neg = 0.625
+27. ) make this fantasti                ... pos = 0.375 	neg = 0.0  
+28. Ward Russell's cinem                ... pos = 1.25  	neg = 0.125
+29. The overall look is                 ... pos = 0.125 	neg = 0.5  
+30. Russell is able to m                ... pos = 0.25  	neg = 1.25 
+31. When the movie is se                ... pos = 0.125 	neg = 0.25 
+32. Finally, and specifi                ... pos = 0.375 	neg = 0.125
+33. I don't know if the                 ... pos = 0.0   	neg = 0.875
+34. The movie's soundtra                ... pos = 0.125 	neg = 0.125
+35. (SKIP TO THE NEXT PA                ... pos = 0.25  	neg = 0.125
+36. )During the opening                 ... pos = 1.0   	neg = 0.625
+37. In one of the movie'                ... pos = 0.875 	neg = 0.0  
+38. The visuals of the s                ... pos = 1.5   	neg = 0.125
+39. There was no questio                ... pos = 0.0   	neg = 0.25 
+40. Even so, Duchovny an                ... pos = 1.0   	neg = 0.0  
+41. Both are easy on the                ... pos = 2.125 	neg = 0.0  
+42. There is a hint of c                ... pos = 0.0   	neg = 0.125
+43. They are like a coup                ... pos = 0.25  	neg = 0.0  
+44. There might be some                 ... pos = 0.5   	neg = 0.625
+45. No single element re                ... pos = 0.875 	neg = 0.0  
+46. But enough things we                ... pos = 0.5   	neg = 0.25 
+47. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2979-1008 is Positive        ... pos = 19.375 	neg = 11.028
+Overall score of document
+Total Pos = 19.375
+Total Neg = 11.028
+---------------------------------------------------------------------------

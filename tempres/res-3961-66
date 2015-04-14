@@ -1,0 +1,33 @@
+0. Elizabeth is a poten                 ... pos = 0.5   	neg = 0.125
+1. It is a time when st                 ... pos = 1.375 	neg = 0.125
+2. Internally, the Cath                 ... pos = 0.0   	neg = 0    
+3. Meanwhile, Spain, Sc                 ... pos = 0.0   	neg = 0.0  
+4. Little does England                  ... pos = 1.375 	neg = 0.375
+5. The film charts Eliz                 ... pos = 0.625 	neg = 0.0  
+6. As a Protestant, she                 ... pos = 0.0   	neg = 0.375
+7. But her half-sister                  ... pos = 0.125 	neg = 0.5  
+8. Mary gives her her b                 ... pos = 0.5   	neg = 0.0  
+9. Once declared Queen,                 ... pos = 0.5   	neg = 0.0  
+10. Slowly but surely, t                ... pos = 0.625 	neg = 0.0  
+11. Elizabeth is surroun                ... pos = 0.25  	neg = 0.125
+12. Her closest ally is                 ... pos = 1.5   	neg = 0.125
+13. Also on her side is                 ... pos = 0.0   	neg = 0.125
+14. With few people she                 ... pos = 0.625 	neg = 0.0  
+15. Blanchett deserves a                ... pos = 0.75  	neg = 0    
+16. She portrays the you                ... pos = 0.75  	neg = 0.0  
+17. Though not a classic                ... pos = 2.0   	neg = 0.125
+18. She is at home with                 ... pos = 0.875 	neg = 0.125
+19. Whether fending off                 ... pos = 0.5   	neg = 0.625
+20. Almost as interestin                ... pos = 1.75  	neg = 0.0  
+21. He and cinematograph                ... pos = 0.75  	neg = 0.125
+22. Rolling green hills,                ... pos = 1.125 	neg = 0.375
+23. The castles and cath                ... pos = 0.625 	neg = 0.125
+24. Though writer Michae                ... pos = 2.375 	neg = 0.625
+25. As a whole, the stor                ... pos = 0.75  	neg = 0.125
+26. By the time she make                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3961-66 is Positive          ... pos = 21.375 	neg = 4.125
+Overall score of document
+Total Pos = 21.375
+Total Neg = 4.125
+---------------------------------------------------------------------------

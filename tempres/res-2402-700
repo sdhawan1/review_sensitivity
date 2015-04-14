@@ -1,0 +1,26 @@
+0. Release Date: July 1                 ... pos = 0.625 	neg = 0.625
+1. Although in most res                 ... pos = 1.5   	neg = 1.125
+2. Helmed by Richard Do                 ... pos = 0.375 	neg = 0.0  
+3. Back for LETHAL 4 ar                 ... pos = 0.875 	neg = 0.0  
+4. Gibson and Glover ar                 ... pos = 0.25  	neg = 0.0  
+5. After discovering so                 ... pos = 0.0   	neg = 0.75 
+6. The story in the Cha                 ... pos = 0.25  	neg = 0.125
+7. Equally present is t                 ... pos = 1.375 	neg = 0.5  
+8. It could be said tha                 ... pos = 0.25  	neg = 0.375
+9. For instance: in the                 ... pos = 0.0   	neg = 0.375
+10. Of course, there's a                ... pos = 0.25  	neg = 0.25 
+11. Guess what happens t                ... pos = 0.25  	neg = 1.0  
+12. Or in another scene:                ... pos = 0.25  	neg = 0.5  
+13. Just in time, Riggs                 ... pos = 0.0   	neg = 0.125
+14. There are these exam                ... pos = 0.25  	neg = 0.375
+15. Following on the hee                ... pos = 1.0   	neg = 0.125
+16. It sticks to its gun                ... pos = 0.625 	neg = 0.0  
+17. It's been quite some                ... pos = 1.25  	neg = 1.0  
+18. Of the many films th                ... pos = 0.625 	neg = 0.375
+19. FINAL AWARD FOR "LET                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2402-700 is Positive         ... pos = 11.25 	neg = 7.625
+Overall score of document
+Total Pos = 11.25
+Total Neg = 7.625
+---------------------------------------------------------------------------

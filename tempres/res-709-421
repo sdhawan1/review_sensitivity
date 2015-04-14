@@ -1,0 +1,28 @@
+0. rated R starring Mel                 ... pos = 0.625 	neg = 0.5  
+1. And who could blame                  ... pos = 0.0   	neg = 0.5  
+2. In today's society,                  ... pos = 0.0   	neg = 0.0  
+3. For a long time, Mel                 ... pos = 0.25  	neg = 0.5  
+4. So those executives                  ... pos = 1.875 	neg = 0.0  
+5. And if that wasn't c                 ... pos = 0.875 	neg = 0.0  
+6. CONFIDENTIAL(and, sa                 ... pos = 0.25  	neg = 0.625
+7. And then, just for t                 ... pos = 0.375 	neg = 0.5  
+8. But in the midst of                  ... pos = 0.625 	neg = 0.125
+9. And it's a shame to                  ... pos = 0.0   	neg = 0.875
+10. For one thing Mel Gi                ... pos = 0.875 	neg = 0.125
+11. The film's tagline,                 ... pos = 0.0   	neg = 0.875
+12. The loose storyline                 ... pos = 0.375 	neg = 0.25 
+13. Val then double-cros                ... pos = 0.0   	neg = 0.625
+14. After "surgery", Por                ... pos = 0.25  	neg = 0.375
+15. The people behind th                ... pos = 0.0   	neg = 0.25 
+16. I mean, are we suppo                ... pos = 0.25  	neg = 0.0  
+17. First-time director                 ... pos = 0.0   	neg = 0.875
+18. Even comic turns fro                ... pos = 0.25  	neg = 0.5  
+19. Every once in a whil                ... pos = 0.125 	neg = 0.25 
+20. Throughout PAYBACK,                 ... pos = 0.0   	neg = 0.0  
+21. I think audiences de                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-709-421 is Positive          ... pos = 8.25  	neg = 7.75 
+Overall score of document
+Total Pos = 8.25
+Total Neg = 7.75
+---------------------------------------------------------------------------

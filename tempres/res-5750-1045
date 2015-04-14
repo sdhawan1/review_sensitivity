@@ -1,0 +1,62 @@
+0. GALAXY QUEST:  By Gr                 ... pos = 0.0   	neg = 0.0  
+1. by Curtis Edmonds --                 ... pos = 0.0   	neg = 1.75 
+2. If any film ever des                 ... pos = 1.0   	neg = 0.125
+3. For Star Trek fans (                 ... pos = 0.25  	neg = 0.125
+4. Galaxy Quest is to S                 ... pos = 0.625 	neg = 0.25 
+5. Both movies poke fun                 ... pos = 1.75  	neg = 0.125
+6. (Not to say that The                 ... pos = 0.125 	neg = 1.25 
+7. ). Galaxy Quest work                 ... pos = 0.375 	neg = 0.0  
+8. The movie begins wit                 ... pos = 0.0   	neg = 0.625
+9. Like the Star Trek a                 ... pos = 0.25  	neg = 0.75 
+10. Some, such as Sigour                ... pos = 0.375 	neg = 0.0  
+11. Others, like Alan Ri                ... pos = 0.0   	neg = 0.125
+12. And then, way at the                ... pos = 0.5   	neg = 0.0  
+13. Nesmeth is an egoman                ... pos = 0.0   	neg = 0.125
+14. (One even expects hi                ... pos = 0.0   	neg = 1.5  
+15. )  Naturally, he lov                ... pos = 1.125 	neg = 0.0  
+16. Naturally, he hogs t                ... pos = 0.125 	neg = 0.125
+17. And naturally, he's                 ... pos = 0.75  	neg = 0.75 
+18. This starts the show                ... pos = 0.0   	neg = 0.0  
+19. First, a word about                 ... pos = 0.5   	neg = 0.0  
+20. Accordingly, Galaxy                 ... pos = 0.875 	neg = 0.625
+21. Most of the comedy d                ... pos = 0.0   	neg = 0.125
+22. It's possible that s                ... pos = 2.125 	neg = 1.25 
+23. (There is a Shatnere                ... pos = 0.125 	neg = 0.347
+24. ). The real true fan                ... pos = 0.875 	neg = 0.0  
+25. They have been monit                ... pos = 0.375 	neg = 0.25 
+26. (Star Trek fans will                ... pos = 0.25  	neg = 0.0  
+27. )  When the Thermian                ... pos = 0.25  	neg = 0.0  
+28. (One wonders if this                ... pos = 0.875 	neg = 0.125
+29. ). Allen's Buzz Ligh                ... pos = 1.0   	neg = 0.0  
+30. "  Allen is plenty d                ... pos = 0.125 	neg = 0.375
+31. (This is one of more                ... pos = 0.25  	neg = 0.375
+32. )  Allen, however, e                ... pos = 0.75  	neg = 0.125
+33. This is where the re                ... pos = 1.5   	neg = 0.125
+34. Galaxy Quest manages                ... pos = 0.0   	neg = 0.25 
+35. Every one of the sho                ... pos = 0.25  	neg = 0.625
+36. The Galaxy Quest scr                ... pos = 1.75  	neg = 0.125
+37. Like Star Trek itsel                ... pos = 0.0   	neg = 0.125
+38. And like the Star Tr                ... pos = 0.0   	neg = 0.0  
+39. The underappreciated                ... pos = 0.625 	neg = 0.375
+40. After his boffo perf                ... pos = 0.75  	neg = 2.75 
+41. (Unfortunately, he d                ... pos = 0.0   	neg = 1.125
+42. )  Tony Shalhoub and                ... pos = 0.25  	neg = 0    
+43. Mitchell isn't given                ... pos = 0.125 	neg = 0.875
+44. Shalhoub isn't given                ... pos = 0.125 	neg = 0.125
+45. Tim Allen, of course                ... pos = 0.0   	neg = 0.0  
+46. It's hard to say if                 ... pos = 0.125 	neg = 0.875
+47. (Probably both.                     ... pos = 0.0   	neg = 0    
+48. )  Nevertheless, thi                ... pos = 0.75  	neg = 0.125
+49. Allen is allowed her                ... pos = 1.0   	neg = 1.0  
+50. If Galaxy Quest is t                ... pos = 0.875 	neg = 0.625
+51. Star Trek fans will                 ... pos = 0.625 	neg = 0.375
+52. Go see it.                          ... pos = 0.0   	neg = 0.0  
+53. Movie Reviews: http:                ... pos = 0.75  	neg = 0.125
+54. The occasion was mar                ... pos = 0.625 	neg = 1.125
+55. "  -- Dave Barry. .                 ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5750-1045 is Positive        ... pos = 25.75 	neg = 21.972
+Overall score of document
+Total Pos = 25.75
+Total Neg = 21.972
+---------------------------------------------------------------------------

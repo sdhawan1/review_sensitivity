@@ -1,0 +1,38 @@
+0. "Run Lola Run" ("Lol                 ... pos = 0.25  	neg = 0.75 
+1. The movie has many p                 ... pos = 0.75  	neg = 0.375
+2. The film is apparent                 ... pos = 0.125 	neg = 0.5  
+3. The basic plot is th                 ... pos = 0.25  	neg = 0.25 
+4. She rushes out to sa                 ... pos = 0.0   	neg = 0.0  
+5. The same events unfo                 ... pos = 1.375 	neg = 1.0  
+6. Events unfold differ                 ... pos = 0.625 	neg = 0.0  
+7. It's the idea of the                 ... pos = 0.0   	neg = 0.0  
+8. "Run Lola Run" is fu                 ... pos = 1.25  	neg = 0.125
+9. There are few pauses                 ... pos = 0.25  	neg = 0.0  
+10. The only ones of len                ... pos = 0.875 	neg = 0.125
+11. The movie also has a                ... pos = 0.0   	neg = 0.0  
+12. The cartoons were ne                ... pos = 0.125 	neg = 1.0  
+13. But the heart of the                ... pos = 0.25  	neg = 0.125
+14. One trick that's rec                ... pos = 0.625 	neg = 0.375
+15. Yes, the point of su                ... pos = 0.25  	neg = 0.375
+16. A momentary delay be                ... pos = 1.625 	neg = 0.875
+17. Yes, but only in the                ... pos = 1.625 	neg = 0.875
+18. (I'm under the impre                ... pos = 0.0   	neg = 0.0  
+19. I believe there was                 ... pos = 0.125 	neg = 0.0  
+20. )  Generally, the mo                ... pos = 1.125 	neg = 0.875
+21. These little episode                ... pos = 0.0   	neg = 0.375
+22. Why does the guy on                 ... pos = 0.0   	neg = 0.375
+23. The philosophical po                ... pos = 0.25  	neg = 0.125
+24. There's Lola's parti                ... pos = 0.0   	neg = 0.125
+25. This is more satisfy                ... pos = 1.75  	neg = 0.375
+26. The caught-in-tempor                ... pos = 0.125 	neg = 0.25 
+27. And, of course, ther                ... pos = 0     	neg = 0.0  
+28. In some sense, Lola                 ... pos = 1.5   	neg = 0.125
+29. She knows that event                ... pos = 0.125 	neg = 0.75 
+30. The interludes betwe                ... pos = 0.75  	neg = 0.0  
+31. In a sense, there's                 ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3690-1441 is Positive        ... pos = 16.125 	neg = 10.5 
+Overall score of document
+Total Pos = 16.125
+Total Neg = 10.5
+---------------------------------------------------------------------------

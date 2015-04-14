@@ -1,0 +1,22 @@
+0. Directed by: Eric Da                 ... pos = 0.5   	neg = 0.0  
+1. One is General Mandi                 ... pos = 0.25  	neg = 0.125
+2. He plans to take adv                 ... pos = 1.0   	neg = 0.0  
+3. The other individual                 ... pos = 0.875 	neg = 0.25 
+4. Z secretly wishes fo                 ... pos = 0.375 	neg = 0.0  
+5. A series of adventur                 ... pos = 1.0   	neg = 0.25 
+6. Later, Z and Bala mu                 ... pos = 0.375 	neg = 0.0  
+7. The moral of the sto                 ... pos = 0.25  	neg = 0.125
+8. Opinion: One of the                  ... pos = 1.0   	neg = 0.875
+9. ANTZ features the re                 ... pos = 0.625 	neg = 0.0  
+10. If you're good at th                ... pos = 0.75  	neg = 0.0  
+11. The good news is tha                ... pos = 1.0   	neg = 0.25 
+12. The computer effects                ... pos = 1.125 	neg = 1.375
+13. The bad news is that                ... pos = 0.0   	neg = 1.125
+14. If forced to sit thr                ... pos = 0.0   	neg = 1.0  
+15. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-77-416 is Positive           ... pos = 9.125 	neg = 5.5  
+Overall score of document
+Total Pos = 9.125
+Total Neg = 5.5
+---------------------------------------------------------------------------

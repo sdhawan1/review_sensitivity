@@ -1,0 +1,42 @@
+0. *** (out of 4) "DEEP                 ... pos = 0.0   	neg = 0.25 
+1. ". Yes, I'm trying t                 ... pos = 0.125 	neg = 0.625
+2. It's every unpaid cr                 ... pos = 0.375 	neg = 0.125
+3. DEEP BLUE SEA is a h                 ... pos = 0.375 	neg = 0.125
+4. It's not a thriller.                 ... pos = 0.0   	neg = 0.0  
+5. It's not an action m                 ... pos = 0.0   	neg = 0.0  
+6. It's a horror movie,                 ... pos = 1.625 	neg = 0.125
+7. The film itself has                  ... pos = 0.125 	neg = 1.625
+8. But before long, the                 ... pos = 0.0   	neg = 0.875
+9. Russell Franklin ( S                 ... pos = 0.375 	neg = 0.25 
+10. A plucky young scien                ... pos = 1.0   	neg = 0.0  
+11. They've been experim                ... pos = 0.0   	neg = 0.25 
+12. The scientists have                 ... pos = 0.125 	neg = 0.375
+13. The first night of R                ... pos = 0.125 	neg = 1.0  
+14. At the same time, th                ... pos = 0.5   	neg = 0.125
+15. One of the sedated s                ... pos = 0.625 	neg = 0.5  
+16. As the crew tries to                ... pos = 0.625 	neg = 1.0  
+17. Between the storm an                ... pos = 0.0   	neg = 1.0  
+18. Now damaged, the fac                ... pos = 0.0   	neg = 0.0  
+19. The sharks continue                 ... pos = 0.0   	neg = 0.125
+20. The survivors must f                ... pos = 0.375 	neg = 0.0  
+21. Despite some clunky                 ... pos = 0.875 	neg = 0.375
+22. It has what horror m                ... pos = 0.375 	neg = 0.0  
+23. It seems like a lot                 ... pos = 1.5   	neg = 0.125
+24. It gets to be where                 ... pos = 0.0   	neg = 0.125
+25. Sometimes the formul                ... pos = 0.0   	neg = 0.875
+26. Paul Rieser's slick,                ... pos = 0.875 	neg = 0.125
+27. Or if you prefer sla                ... pos = 0.875 	neg = 0.375
+28. DEEP BLUE SEA shuns                 ... pos = 0.25  	neg = 0.0  
+29. I knew, as soon as I                ... pos = 0.0   	neg = 0.375
+30. It used to be the ru                ... pos = 0.5   	neg = 1.0  
+31. And that, in essence                ... pos = 1.125 	neg = 0.125
+32. It is scary, ruthles                ... pos = 0.125 	neg = 0.875
+33. If that doesn't impr                ... pos = 0.25  	neg = 0.875
+34. Those of us who enjo                ... pos = 1.375 	neg = 0.0  
+35. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3081-1008 is Positive        ... pos = 14.5  	neg = 13.625
+Overall score of document
+Total Pos = 14.5
+Total Neg = 13.625
+---------------------------------------------------------------------------

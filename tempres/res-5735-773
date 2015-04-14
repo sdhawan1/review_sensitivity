@@ -1,0 +1,25 @@
+0. This is Bonnie Hunt'                 ... pos = 0.75  	neg = 0.125
+1. The talented second                  ... pos = 0.0   	neg = 0.0  
+2. In case you think th                 ... pos = 0.875 	neg = 0.125
+3. ". I've seen "Citize                 ... pos = 0.0   	neg = 0.375
+4. On the other hand, i                 ... pos = 0.25  	neg = 0.0  
+5. A good bit of the ac                 ... pos = 1.0   	neg = 0.0  
+6. She gets the heart f                 ... pos = 0.5   	neg = 0.125
+7. The grieving widower                 ... pos = 0.75  	neg = 0.125
+8. Theirs is a sweet, t                 ... pos = 0.875 	neg = 1.125
+9. She knows she should                 ... pos = 0.5   	neg = 0.0  
+10. Then she discovers w                ... pos = 0.25  	neg = 0.125
+11. The premise is a tad                ... pos = 1.25  	neg = 0.125
+12. There's even a lovab                ... pos = 1.125 	neg = 0.0  
+13. Duchovny files away                 ... pos = 0.375 	neg = 0    
+14. He and and Driver ar                ... pos = 1.125 	neg = 0.0  
+15. And if that's not en                ... pos = 0.75  	neg = 0.0  
+16. This isn't an Oscar-                ... pos = 0.125 	neg = 0.625
+17. Hunt keeps the hanki                ... pos = 0.5   	neg = 0.625
+18. She directs with the                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5735-773 is Positive         ... pos = 11.625 	neg = 3.5  
+Overall score of document
+Total Pos = 11.625
+Total Neg = 3.5
+---------------------------------------------------------------------------

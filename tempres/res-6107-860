@@ -1,0 +1,66 @@
+0. UNIVERSAL PICTURES A                 ... pos = 0.0   	neg = 0.25 
+1. "  And most will fee                 ... pos = 0.25  	neg = 0.0  
+2. A trite and overly c                 ... pos = 0.0   	neg = 0.625
+3. A hodge-podge of ide                 ... pos = 0.0   	neg = 0.25 
+4. 1979.. a monk in the                 ... pos = 0.0   	neg = 0.5  
+5. An argument between                  ... pos = 1.0   	neg = 1.0  
+6. The Pope decrees, th                 ... pos = 0.75  	neg = 0.875
+7. As the child is born                 ... pos = 1.375 	neg = 0.375
+8. Flash forward 20 yea                 ... pos = 0.0   	neg = 0.0  
+9. As Satan rises up fr                 ... pos = 0.875 	neg = 0.5  
+10. We are now introduce                ... pos = 1.5   	neg = 0.375
+11. He is currently serv                ... pos = 0.0   	neg = 0.125
+12. When an assassinatio                ... pos = 0.0   	neg = 1.125
+13. Catching and losing                 ... pos = 0.0   	neg = 0.75 
+14. Somehow, Jericho and                ... pos = 0.0   	neg = 0.0  
+15. Amidst all of the re                ... pos = 0.0   	neg = 0.375
+16. We are then introduc                ... pos = 0.25  	neg = 0.125
+17. As she grabs his arm                ... pos = 0.0   	neg = 0.0  
+18. Christine screams, u                ... pos = 0.0   	neg = 0.375
+19. Christine apologizes                ... pos = 0.0   	neg = 0.625
+20. I'm not going to go                 ... pos = 1.0   	neg = 0.25 
+21. Suffice to say, you                 ... pos = 0.0   	neg = 0.625
+22. For those of you tha                ... pos = 0.375 	neg = 0.125
+23. The script by Andrew                ... pos = 0.0   	neg = 0.5  
+24. No research into bib                ... pos = 0.625 	neg = 0.5  
+25. As anyone who has go                ... pos = 0.125 	neg = 0.5  
+26. But this is only the                ... pos = 0.0   	neg = 0.25 
+27. The scripts' utter l                ... pos = 1.5   	neg = 0.375
+28. But suffice to say,                 ... pos = 0.0   	neg = 0.375
+29. Christine is surroun                ... pos = 0.625 	neg = 0.5  
+30. Why, we are not told                ... pos = 0.25  	neg = 0.0  
+31. Why there are two fa                ... pos = 0.25  	neg = 0.125
+32. Every minion of Sata                ... pos = 0.5   	neg = 0.375
+33. And Arnold can just                 ... pos = 0.0   	neg = 0.375
+34. This is a jig-saw pu                ... pos = 0.0   	neg = 0.125
+35. The mix of ideas and                ... pos = 0.0   	neg = 0.5  
+36. There is not one ori                ... pos = 0.0   	neg = 0.125
+37. This is just possibl                ... pos = 0.375 	neg = 0.5  
+38. Scenes from other fi                ... pos = 0.25  	neg = 0.25 
+39. This is almost as ma                ... pos = 0.0   	neg = 0.625
+40. If anyone looked at                 ... pos = 0.875 	neg = 0.0  
+41. I found myself laugh                ... pos = 0.5   	neg = 0.125
+42. As it is, the perfor                ... pos = 0.0   	neg = 0.125
+43. The surprise here is                ... pos = 0.0   	neg = 0.5  
+44. Without any other mo                ... pos = 0.25  	neg = 0.875
+45. Robin Tunney as the                 ... pos = 0.0   	neg = 0.0  
+46. She does have a pres                ... pos = 0.5   	neg = 0.0  
+47. Kevin Pollak turns i                ... pos = 0.25  	neg = 0.0  
+48. Nothing more, nothin                ... pos = 0.125 	neg = 0.5  
+49. The greatest miscarr                ... pos = 0.875 	neg = 0.125
+50. His sole purpose to                 ... pos = 0.0   	neg = 0.0  
+51. The rest of the cast                ... pos = 0.75  	neg = 0.25 
+52. This is a fine examp                ... pos = 0.25  	neg = 0.375
+53. The problem.. like e                ... pos = 0.0   	neg = 0.375
+54. The direction by Pet                ... pos = 0.375 	neg = 0.125
+55. Neither praise nor p                ... pos = 0.75  	neg = 0.25 
+56. To sum up the experi                ... pos = 0.0   	neg = 0.0  
+57. Satan: I can give yo                ... pos = 0     	neg = 0.125
+58. Just tell Me.. what                 ... pos = 0.0   	neg = 0.125
+59. Jericho: I want.. yo                ... pos = 0     	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6107-860 is Negative         ... pos = 17.375 	neg = 19.25
+Overall score of document
+Total Pos = 17.375
+Total Neg = 19.25
+---------------------------------------------------------------------------

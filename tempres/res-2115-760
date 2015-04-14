@@ -1,0 +1,35 @@
+0. Director: James L. B                 ... pos = 1.5   	neg = 0.5  
+1. I always associate a                 ... pos = 0.875 	neg = 0.375
+2. I was relieved as I                  ... pos = 1.0   	neg = 0.125
+3. In fact, James L. Br                 ... pos = 1.75  	neg = 1.0  
+4. That individual is M                 ... pos = 0.0   	neg = 0.125
+5. He's also a novelist                 ... pos = 0.375 	neg = 0    
+6. Across the hall is S                 ... pos = 1.25  	neg = 1.125
+7. Melvin eats lunch ev                 ... pos = 0.25  	neg = 1.125
+8. One fateful day, Sim                 ... pos = 1.25  	neg = 0.125
+9. When Simon goes to i                 ... pos = 0.0   	neg = 0.0  
+10. He loses all inspira                ... pos = 0.0   	neg = 0.0  
+11. Meanwhile, Melvin re                ... pos = 0.125 	neg = 0.0  
+12. Then, the three peop                ... pos = 0.0   	neg = 0.0  
+13. The first thing that                ... pos = 1.125 	neg = 0.0  
+14. Melvin, for instance                ... pos = 0.125 	neg = 0.75 
+15. In one extremely ten                ... pos = 1.75  	neg = 1.125
+16. He also makes jokes-                ... pos = 0.375 	neg = 0.375
+17. Though these moments                ... pos = 2.125 	neg = 0.0  
+18. This character is br                ... pos = 1.25  	neg = 0.25 
+19. Nicholson tends to h                ... pos = 1.75  	neg = 0.875
+20. Later developments o                ... pos = 1.375 	neg = 0.5  
+21. The supporting perfo                ... pos = 1.0   	neg = 0    
+22. Helen Hunt proves on                ... pos = 1.375 	neg = 0.0  
+23. Kinnear, too, goes w                ... pos = 0.25  	neg = 0.25 
+24. There is something t                ... pos = 1.0   	neg = 0.25 
+25. The mixture of diffe                ... pos = 1.125 	neg = 0.125
+26. I loved these charac                ... pos = 2.625 	neg = 0.0  
+27. I wanted to believe                 ... pos = 0.875 	neg = 0.75 
+28. And when the screen                 ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2115-760 is Positive         ... pos = 26.5  	neg = 10.125
+Overall score of document
+Total Pos = 26.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

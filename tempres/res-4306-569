@@ -1,0 +1,47 @@
+0. Director: Bille Augu                 ... pos = 2.5   	neg = 0.0  
+1. The screenplay, by n                 ... pos = 0.375 	neg = 0.0  
+2. At roughly two hours                 ... pos = 0.75  	neg = 0.125
+3. The story itself spa                 ... pos = 0.875 	neg = 0.5  
+4. Instead, it is becau                 ... pos = 0.0   	neg = 0.25 
+5. There are few moment                 ... pos = 0.625 	neg = 0.375
+6. The story begins in                  ... pos = 0.0   	neg = 0.0  
+7. Liam Neeson stars as                 ... pos = 0.0   	neg = 0.125
+8. At this point he is                  ... pos = 0.125 	neg = 0.125
+9. When the priest forg                 ... pos = 0.625 	neg = 0.0  
+10. He breaks his parole                ... pos = 0.625 	neg = 0.125
+11. However, Valjean's p                ... pos = 0.25  	neg = 0.875
+12. Javert is the kind o                ... pos = 0.5   	neg = 0.125
+13. There is no gray are                ... pos = 0.0   	neg = 1.0  
+14. Even though Valjean                 ... pos = 1.75  	neg = 0.125
+15. Most of the film det                ... pos = 0.125 	neg = 0    
+16. Things become compli                ... pos = 1.0   	neg = 0.0  
+17. After being fired fo                ... pos = 0.25  	neg = 0.125
+18. Valjean attempts to                 ... pos = 0.0   	neg = 0.875
+19. In an attempt to esc                ... pos = 0.5   	neg = 0.0  
+20. When the teenage Cos                ... pos = 0.625 	neg = 0.75 
+21. While investigating                 ... pos = 0.375 	neg = 0.0  
+22. Their paths become c                ... pos = 0.25  	neg = 0    
+23. (For those not up on                ... pos = 0.0   	neg = 0.625
+24. ). "Les Misérables"                ... pos = 1.25  	neg = 0.125
+25. Hugo was a fervent p                ... pos = 0.75  	neg = 0.25 
+26. However, the majorit                ... pos = 0.75  	neg = 0.375
+27. The best aspect of t                ... pos = 0.375 	neg = 0.125
+28. Neeson gives Valjean                ... pos = 0.5   	neg = 0.0  
+29. You can truly feel t                ... pos = 1.625 	neg = 0.875
+30. On the other side, G                ... pos = 1.875 	neg = 0.25 
+31. Rush is cunning, har                ... pos = 0.75  	neg = 0.125
+32. On the down side, th                ... pos = 0.0   	neg = 1.0  
+33. Their relationship s                ... pos = 0.0   	neg = 0.125
+34. It might have been b                ... pos = 0.375 	neg = 0.625
+35. As Cosette, Claire D                ... pos = 1.75  	neg = 1.125
+36. This is unfortunate                 ... pos = 1.75  	neg = 0.125
+37. "Les Misérables" do                ... pos = 2.875 	neg = 0.0  
+38. However, the battle                 ... pos = 1.5   	neg = 0.0  
+39. The intense realism                 ... pos = 0.625 	neg = 0.25 
+40. Instead, it is under                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4306-569 is Positive         ... pos = 28.875 	neg = 11.625
+Overall score of document
+Total Pos = 28.875
+Total Neg = 11.625
+---------------------------------------------------------------------------

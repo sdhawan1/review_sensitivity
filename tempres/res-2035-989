@@ -1,0 +1,24 @@
+0. It is usually diffic                 ... pos = 0.0   	neg = 0.125
+1. There is no doubt th                 ... pos = 0.0   	neg = 0.375
+2. She is a wonderful s                 ... pos = 0.75  	neg = 0.125
+3. How times have chang                 ... pos = 0.625 	neg = 0.0  
+4. There was a day when                 ... pos = 0.0   	neg = 0.125
+5. Christina pinches he                 ... pos = 0     	neg = 0    
+6. Without a doubt, Chr                 ... pos = 0.125 	neg = 0.125
+7. When her stepfather                  ... pos = 0.125 	neg = 0.0  
+8. Christina manages to                 ... pos = 0.5   	neg = 0.375
+9. Lisa Kudrow, as the                  ... pos = 0.125 	neg = 0.25 
+10. In a very unglamorou                ... pos = 2.375 	neg = 0.25 
+11. Luckily for her, Lyl                ... pos = 0.5   	neg = 0    
+12. But as a local sheri                ... pos = 0.0   	neg = 0.0  
+13. This is a memorable                 ... pos = 0.25  	neg = 0.125
+14. It does a good job o                ... pos = 0.875 	neg = 0    
+15. It'll make you laugh                ... pos = 0.0   	neg = 0.0  
+16. This is definitely n                ... pos = 0.875 	neg = 0.125
+17. I give it a firm B..                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2035-989 is Positive         ... pos = 7.375 	neg = 2.125
+Overall score of document
+Total Pos = 7.375
+Total Neg = 2.125
+---------------------------------------------------------------------------

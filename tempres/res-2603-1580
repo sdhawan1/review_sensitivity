@@ -1,0 +1,28 @@
+0. Sylvester Stallone c                 ... pos = 0.0   	neg = 0    
+1. Sylvester Stallone c                 ... pos = 0.0   	neg = 0    
+2. I've had that phrase                 ... pos = 0.0   	neg = 0.0  
+3. Finally, I'm pleased                 ... pos = 0.625 	neg = 0.0  
+4. Furthermore, "Cop La                 ... pos = 0.5   	neg = 0.0  
+5. "Cop Land"'s plot in                 ... pos = 0.0   	neg = 0.25 
+6. Stuck in the middle                  ... pos = 0.625 	neg = 0.375
+7. As much as the trail                 ... pos = 0.5   	neg = 0.125
+8. Instead, it's more o                 ... pos = 0.75  	neg = 0.0  
+9. We don't see shoot-o                 ... pos = 0.0   	neg = 0.125
+10. In a way I enjoyed t                ... pos = 0.625 	neg = 0.0  
+11. However, to make a t                ... pos = 1.5   	neg = 0.125
+12. Luckily the talent j                ... pos = 1.375 	neg = 0.125
+13. The big question I'm                ... pos = 0.25  	neg = 0.125
+14. Stallone is great, a                ... pos = 0.375 	neg = 0.125
+15. His body movements,                 ... pos = 0.875 	neg = 0.0  
+16. Hopefully, with any                 ... pos = 1.0   	neg = 0.125
+17. In conclusion, while                ... pos = 0.125 	neg = 0.125
+18. I walk out of the mo                ... pos = 0.125 	neg = 0.0  
+19. "Cop Land" is a much                ... pos = 0.375 	neg = 0.125
+20. However, you can exp                ... pos = 0.125 	neg = 0.25 
+21. To see Stallone ligh                ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2603-1580 is Positive        ... pos = 11.0  	neg = 2.125
+Overall score of document
+Total Pos = 11.0
+Total Neg = 2.125
+---------------------------------------------------------------------------

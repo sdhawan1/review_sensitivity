@@ -1,0 +1,35 @@
+0. Review by Lars Linda                 ... pos = 0.125 	neg = 0.625
+1. The Fugitive?                        ... pos = 0     	neg = 0.0  
+2. Not quiteThis is t                 ... pos = 0.75  	neg = 0.5  
+3. There are other slig                 ... pos = 1.0   	neg = 0.875
+4. Oh and the fugitive                  ... pos = 0.375 	neg = 0.5  
+5. Both movies are on v                 ... pos = 0.25  	neg = 0.0  
+6. Make the wise choice                 ... pos = 0.0   	neg = 0.25 
+7. There are so many fl                 ... pos = 0.25  	neg = 0.375
+8. While serving time i                 ... pos = 0.25  	neg = 0.125
+9. Learning that her hu                 ... pos = 0.125 	neg = 0.125
+10. When the strict Paro                ... pos = 0.5   	neg = 0.0  
+11. ) and continue her p                ... pos = 0.125 	neg = 0.0  
+12. Director Bruce Beres                ... pos = 0.125 	neg = 0.75 
+13. Every other scene, w                ... pos = 0.5   	neg = 0.0  
+14. In an action movie l                ... pos = 0.0   	neg = 0.375
+15. All that is needed i                ... pos = 0.125 	neg = 0.375
+16. " Nothing more, noth                ... pos = 0.125 	neg = 0.5  
+17. Dr. Kimble of The Fu                ... pos = 0.0   	neg = 0.75 
+18. Libby at times shows                ... pos = 0.5   	neg = 0.0  
+19. Ashley Judd and Bruc                ... pos = 1.75  	neg = 0.125
+20. Winning an Oscar for                ... pos = 0.75  	neg = 0.0  
+21. People still pay to                 ... pos = 0.0   	neg = 0.125
+22. Though I don't think                ... pos = 0.25  	neg = 0.125
+23. The ultimate mistake                ... pos = 0.0   	neg = 0.75 
+24. Even if she was excu                ... pos = 0.25  	neg = 0.75 
+25. Burglary, assault, g                ... pos = 0.25  	neg = 0.0  
+26. The message of the m                ... pos = 0.25  	neg = 0.5  
+27. Hopefully criminals                 ... pos = 0.875 	neg = 0.5  
+28. That would just be p                ... pos = 0     	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5789-778 is Positive         ... pos = 9.5   	neg = 9.25 
+Overall score of document
+Total Pos = 9.5
+Total Neg = 9.25
+---------------------------------------------------------------------------

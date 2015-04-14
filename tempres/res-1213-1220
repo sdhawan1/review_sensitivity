@@ -1,0 +1,33 @@
+0. filmcritic.com prese                 ... pos = 0.0   	neg = 0.0  
+1. You can find the rev                 ... pos = 0.625 	neg = 0.125
+2. The toughest thing a                 ... pos = 0.625 	neg = 0.125
+3. Rules of Engagement                  ... pos = 0.375 	neg = 0.875
+4. The movie revolves a                 ... pos = 0.0   	neg = 0.5  
+5. All evidence that wo                 ... pos = 0.125 	neg = 0.0  
+6. Jones complies out o                 ... pos = 0.75  	neg = 0.5  
+7. Soon, everything tur                 ... pos = 2.0   	neg = 0.0  
+8. In the end, I was cl                 ... pos = 0.25  	neg = 0.125
+9. Strangely, all the e                 ... pos = 0.25  	neg = 0.125
+10. It starts with a gre                ... pos = 0.5   	neg = 0.0  
+11. Running the show is                 ... pos = 0.0   	neg = 0.125
+12. There's a compelling                ... pos = 1.5   	neg = 0.0  
+13. A background littere                ... pos = 0.125 	neg = 0.0  
+14. How can you screw th                ... pos = 0     	neg = 0.0  
+15. Well, you just can.                 ... pos = 0.0   	neg = 0.0  
+16. The film is flawed o                ... pos = 0.5   	neg = 1.375
+17. "  A ridiculous cour                ... pos = 0.0   	neg = 0.625
+18. "  Choppy direction,                ... pos = 0.125 	neg = 0.375
+19. The underdeveloped c                ... pos = 0.875 	neg = 0.0  
+20. Any semblance of "ac                ... pos = 0     	neg = 0.25 
+21. "  And a really, rea                ... pos = 0.875 	neg = 1.875
+22. The shoulders that c                ... pos = 0.625 	neg = 0.75 
+23. To wit, two rules sh                ... pos = 0.125 	neg = 0.25 
+24. 1) Do not hire a for                ... pos = 0.0   	neg = 0.0  
+25. 2) Shy away from acc                ... pos = 0.25  	neg = 0.0  
+26. Director: William Fr                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1213-1220 is Positive        ... pos = 10.625 	neg = 8.0  
+Overall score of document
+Total Pos = 10.625
+Total Neg = 8.0
+---------------------------------------------------------------------------

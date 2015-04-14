@@ -1,0 +1,43 @@
+0. What is a movie that                 ... pos = 1.375 	neg = 0.375
+1. Is it a testimony to                 ... pos = 0.125 	neg = 0.375
+2. When Rounders starts                 ... pos = 0.25  	neg = 0.125
+3. And yet, when the la                 ... pos = 0.375 	neg = 0.5  
+4. In-between the begin                 ... pos = 1.5   	neg = 0.25 
+5. And those elements a                 ... pos = 0.5   	neg = 0.0  
+6. But, as it is nice t                 ... pos = 0.0   	neg = 0.125
+7. Mike McDermott (Matt                 ... pos = 0.375 	neg = 0.125
+8. He sits with the bes                 ... pos = 0.625 	neg = 0.375
+9. His best friend, and                 ... pos = 0.875 	neg = 0.5  
+10. His social life has                 ... pos = 0.0   	neg = 0.125
+11. His main focus is hi                ... pos = 0.875 	neg = 0.25 
+12. Everything in Mike M                ... pos = 0.0   	neg = 0.125
+13. Even his gambling at                ... pos = 0.5   	neg = 0.125
+14. So what  happens whe                ... pos = 0.0   	neg = 0.75 
+15. He quits the game,                  ... pos = 0.0   	neg = 0.625
+16. But everything in hi                ... pos = 0.625 	neg = 0.125
+17. Choices are limited,                ... pos = 1.125 	neg = 0.0  
+18. The catch: A chain l                ... pos = 0.625 	neg = 0.125
+19. Rounders is not just                ... pos = 0.0   	neg = 0.375
+20. It is not a collecti                ... pos = 1.375 	neg = 0.125
+21. The unique thread of                ... pos = 2.0   	neg = 0.25 
+22. It is very rare that                ... pos = 1.125 	neg = 0.125
+23. However, that does o                ... pos = 0.125 	neg = 0.0  
+24. Matt Damon, Edward N                ... pos = 1.25  	neg = 0.125
+25. The  chemistry seems                ... pos = 2.625 	neg = 0.125
+26. And yet this wonderf                ... pos = 2.125 	neg = 0.125
+27. If you do not know h                ... pos = 0.5   	neg = 0.125
+28. Despite the successf                ... pos = 1.75  	neg = 0.125
+29. The bottom line when                ... pos = 0.0   	neg = 0.625
+30. Does this takeaway f                ... pos = 0.0   	neg = 0.0  
+31. Somewhat.                           ... pos = 0.0   	neg = 0    
+32. Is the aforementione                ... pos = 0.0   	neg = 0.125
+33. Well, not  necessari                ... pos = 0.0   	neg = 0    
+34. For some viewers, es                ... pos = 1.375 	neg = 0.0  
+35. And yet,  for those                 ... pos = 1.375 	neg = 0.0  
+36. So, I am going to co                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5699-592 is Positive         ... pos = 25.375 	neg = 7.375
+Overall score of document
+Total Pos = 25.375
+Total Neg = 7.375
+---------------------------------------------------------------------------

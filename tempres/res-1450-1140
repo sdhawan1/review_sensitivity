@@ -1,0 +1,34 @@
+0. One of the best movi                 ... pos = 0.375 	neg = 0    
+1. I'd heard extremely                  ... pos = 1.75  	neg = 0.25 
+2. For some reason I'm                  ... pos = 0.25  	neg = 0.125
+3. It was a definite hi                 ... pos = 0.875 	neg = 0.125
+4. After viewing this i                 ... pos = 0.0   	neg = 0.5  
+5. The strength of this                 ... pos = 0.375 	neg = 0.125
+6. The main characters                  ... pos = 1.125 	neg = 0.5  
+7. You may not agree wi                 ... pos = 0.0   	neg = 0.125
+8. I had expected this                  ... pos = 0.0   	neg = 0.5  
+9. Even the interrogati                 ... pos = 0.125 	neg = 0.0  
+10. And the ending......                ... pos = 0.0   	neg = 0    
+11. I've never seen a mo                ... pos = 0.375 	neg = 0.0  
+12. The three male leads                ... pos = 0.5   	neg = 0.0  
+13. The 'Best Actor' Osc                ... pos = 0.0   	neg = 0.375
+14. How could they have                 ... pos = 0.0   	neg = 0.0  
+15. There is no way I co                ... pos = 0.0   	neg = 0.625
+16. It's impossible.                    ... pos = 0     	neg = 0.0  
+17. Kim Bassinger's perf                ... pos = 0.0   	neg = 0.125
+18. I'd never been a big                ... pos = 0.0   	neg = 0.25 
+19. That impression has                 ... pos = 0.625 	neg = 0.0  
+20. The depth to the sto                ... pos = 1.5   	neg = 0.125
+21. No cardboard charact                ... pos = 0.875 	neg = 0.25 
+22. The plot is full of                 ... pos = 1.0   	neg = 0.125
+23. Pearce's interogatio                ... pos = 1.25  	neg = 0.375
+24. I really can't fault                ... pos = 0.0   	neg = 0.125
+25. I was so glad to see                ... pos = 0.25  	neg = 0.125
+26. I had been very fami                ... pos = 0.75  	neg = 0.125
+27. I intend to change t                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1450-1140 is Positive        ... pos = 12.0  	neg = 4.875
+Overall score of document
+Total Pos = 12.0
+Total Neg = 4.875
+---------------------------------------------------------------------------

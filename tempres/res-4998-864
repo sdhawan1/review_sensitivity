@@ -1,0 +1,49 @@
+0. George Clooney, Jenn                 ... pos = 0.0   	neg = 0.5  
+1. George Clooney stars                 ... pos = 0.0   	neg = 0.5  
+2. He has robbed over 2                 ... pos = 0.0   	neg = 0    
+3. He has been caught a                 ... pos = 1.125 	neg = 0.25 
+4. One night at the jai                 ... pos = 0.25  	neg = 0.0  
+5. Ving Rhames plays Bu                 ... pos = 0.0   	neg = 0.0  
+6. Buddy isn't the only                 ... pos = 0.0   	neg = 0.0  
+7. Federal Marshall Kar                 ... pos = 0.375 	neg = 0.125
+8. Jack makes it out of                 ... pos = 0.375 	neg = 0.0  
+9. Buddy and Jack shove                 ... pos = 0.625 	neg = 0.0  
+10. Jack stays in the tr                ... pos = 0.0   	neg = 0.0  
+11. At a gas station, th                ... pos = 0.125 	neg = 0.0  
+12. They put Glenn in th                ... pos = 0.0   	neg = 0.25 
+13. Jack and Buddy step                 ... pos = 0.25  	neg = 0.0  
+14. Now, Jack and Buddy                 ... pos = 0.75  	neg = 0.0  
+15. Karen asks Jack's ex                ... pos = 0.25  	neg = 0.125
+16. Karen sees Jack arou                ... pos = 0.0   	neg = 0.375
+17. When they do meet up                ... pos = 0.0   	neg = 0.0  
+18. She discovers that s                ... pos = 0.25  	neg = 0.125
+19. He loves her to, and                ... pos = 0.625 	neg = 0.125
+20. Karen also has to fi                ... pos = 0.0   	neg = 0    
+21. She remembers him sa                ... pos = 0.5   	neg = 0.625
+22. At a boxing match, s                ... pos = 0.0   	neg = 0.5  
+23. She lets him go, bec                ... pos = 0.375 	neg = 0.0  
+24. She learns from Glen                ... pos = 0.0   	neg = 0.125
+25. Ripley has five poin                ... pos = 0.75  	neg = 0.25 
+26. Little does Glenn kn                ... pos = 0.125 	neg = 0.25 
+27. Jack, Buddy, and the                ... pos = 0.0   	neg = 0.0  
+28. The maid answers the                ... pos = 0.375 	neg = 0.0  
+29. Little do they know                 ... pos = 0.375 	neg = 0.375
+30. Jack finds the diamo                ... pos = 0.0   	neg = 0.625
+31. The others with Jack                ... pos = 0.25  	neg = 1.125
+32. Snoopy, (one of the                 ... pos = 0.0   	neg = 0.0  
+33. She doesn't want to                 ... pos = 0.875 	neg = 0.125
+34. The ending is also s                ... pos = 0.125 	neg = 0.125
+35. Out Of Sight is a ch                ... pos = 0.375 	neg = 0.125
+36. Out Of Sight is with                ... pos = 0.375 	neg = 0.125
+37. All of the acting wa                ... pos = 0.5   	neg = 0.375
+38. George Clooney and J                ... pos = 2.0   	neg = 0.0  
+39. Samuel L. Jackson an                ... pos = 0.75  	neg = 0.5  
+40. I wish that more peo                ... pos = 0.75  	neg = 0.5  
+41. It was a little conf                ... pos = 0.875 	neg = 0.875
+42. All in all, Out Of S                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4998-864 is Positive         ... pos = 14.625 	neg = 9.125
+Overall score of document
+Total Pos = 14.625
+Total Neg = 9.125
+---------------------------------------------------------------------------

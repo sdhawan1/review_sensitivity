@@ -1,0 +1,34 @@
+0. REVIEW:  My Best Fri                 ... pos = 0.875 	neg = 0.0  
+1. Hogan Producers: Ron                 ... pos = 0.5   	neg = 0.125
+2. Just look at the rec                 ... pos = 2.25  	neg = 0.625
+3. Instead the movie ta                 ... pos = 2.875 	neg = 0.625
+4. It's a story of jeal                 ... pos = 0.375 	neg = 0    
+5. The charming and cha                 ... pos = 1.5   	neg = 0.25 
+6. Determined, wearisom                 ... pos = 0.375 	neg = 0.125
+7. Not long into the fi                 ... pos = 2.875 	neg = 0.75 
+8. It seems that Michae                 ... pos = 0.5   	neg = 0.125
+9. Julianne is not in a                 ... pos = 1.375 	neg = 0.125
+10. But the cocky Julian                ... pos = 0.5   	neg = 0.0  
+11. Michael's fiancé Ki                ... pos = 4.25  	neg = 0.125
+12. And to further Julia                ... pos = 0.5   	neg = 0.375
+13. Whilst this may be n                ... pos = 0.75  	neg = 0.125
+14. Until this point (as                ... pos = 0.5   	neg = 0.625
+15. Advising her in mome                ... pos = 1.75  	neg = 0.25 
+16. ". The scenes to fol                ... pos = 1.125 	neg = 0.0  
+17. When watching this f                ... pos = 1.0   	neg = 0.0  
+18. But before too long,                ... pos = 0.25  	neg = 0.625
+19. This was, of course,                ... pos = 0.0   	neg = 0.125
+20. After all, the entir                ... pos = 0.0   	neg = 1.375
+21. Fortunately, he was                 ... pos = 3.25  	neg = 0.125
+22. If most Hollywood pi                ... pos = 1.625 	neg = 0.75 
+23. For Jerry Maguire fa                ... pos = 1.375 	neg = 0.625
+24. Witty, charming and                 ... pos = 2.5   	neg = 0.125
+25. However, one over ri                ... pos = 0.5   	neg = 0.0  
+26. I do.                               ... pos = 0     	neg = 0.0  
+27. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2826-1111 is Positive        ... pos = 33.625 	neg = 8.0  
+Overall score of document
+Total Pos = 33.625
+Total Neg = 8.0
+---------------------------------------------------------------------------

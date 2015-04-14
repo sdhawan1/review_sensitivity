@@ -1,0 +1,29 @@
+0. Rush Hour (1998) - J                 ... pos = 0.375 	neg = 0.0  
+1. He's absolutely dete                 ... pos = 0.0   	neg = 0.25 
+2. Neither Inspector Le                 ... pos = 1.0   	neg = 1.125
+3. So when they're both                 ... pos = 0.0   	neg = 0.0  
+4. They keep getting in                 ... pos = 0.375 	neg = 0.0  
+5. This new film divorc                 ... pos = 0.75  	neg = 0.0  
+6. Gone    are the rest                 ... pos = 0.875 	neg = 0.0  
+7. More traditional, an                 ... pos = 0.0   	neg = 0.0  
+8. The humor is much mo                 ... pos = 0.25  	neg = 1.125
+9. The fights are more                  ... pos = 0.375 	neg = 0.0  
+10. Tucker, best remembe                ... pos = 0.5   	neg = 0.25 
+11. His snappy wit is a                 ... pos = 1.125 	neg = 0.125
+12. This is contrasted w                ... pos = 1.5   	neg = 0.125
+13. The two play off eac                ... pos = 0.0   	neg = 0.625
+14. You want action?                    ... pos = 0     	neg = 0.125
+15. "Rush Hour" has some                ... pos = 0.0   	neg = 0.25 
+16. It's standard    act                ... pos = 0.125 	neg = 0.25 
+17. In particular, Chan'                ... pos = 0.0   	neg = 0.25 
+18. (You want real actio                ... pos = 0.0   	neg = 0.125
+19. ") But the stunts ar                ... pos = 0.625 	neg = 1.25 
+20. "Rush Hour" is tongu                ... pos = 0.25  	neg = 0.125
+21. And    his "straight                ... pos = 0.0   	neg = 0.5  
+22. Don't    take it too                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2168-133 is Positive         ... pos = 8.125 	neg = 6.75 
+Overall score of document
+Total Pos = 8.125
+Total Neg = 6.75
+---------------------------------------------------------------------------

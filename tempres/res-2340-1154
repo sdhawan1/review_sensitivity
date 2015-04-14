@@ -1,0 +1,40 @@
+0. Rating: **1/2 (out o                 ... pos = 0.5   	neg = 0.125
+1. Parts of the film ar                 ... pos = 0.375 	neg = 0    
+2. But the script is fi                 ... pos = 0.125 	neg = 1.125
+3. Yes, I've been prett                 ... pos = 0.5   	neg = 0.25 
+4. Then again, Varsity                  ... pos = 0.125 	neg = 0.125
+5. It just intended to                  ... pos = 0.25  	neg = 0.125
+6. A brain dead cliche                  ... pos = 0.75  	neg = 2.125
+7. Homer Hickam is a yo                 ... pos = 0.125 	neg = 0.25 
+8. He wants to get out                  ... pos = 0.5   	neg = 0.125
+9. As established early                 ... pos = 0.75  	neg = 0.375
+10. Homer is inspired by                ... pos = 0.25  	neg = 0.125
+11. The problem being th                ... pos = 1.0   	neg = 0.25 
+12. Homer and his friend                ... pos = 0.5   	neg = 0.0  
+13. Together, they begin                ... pos = 0.5   	neg = 0.0  
+14. These scenes are by                 ... pos = 0.375 	neg = 0    
+15. The four friends are                ... pos = 0.75  	neg = 0.375
+16. If the film had just                ... pos = 0.0   	neg = 0.125
+17. Unfortunately, the f                ... pos = 0.0   	neg = 1.0  
+18. In Varsity Blues, it                ... pos = 0.5   	neg = 0.375
+19. In October Sky, it f                ... pos = 0.125 	neg = 0.0  
+20. Homer's father is  a                ... pos = 0.125 	neg = 0.125
+21. He  constantly belit                ... pos = 0.125 	neg = 0.0  
+22. All of this  nonsens                ... pos = 0.125 	neg = 0.125
+23. Here it takes up bas                ... pos = 0.0   	neg = 0.0  
+24. The cliche's start p                ... pos = 0.0   	neg = 0.0  
+25. Homer's  inspiration                ... pos = 1.375 	neg = 1.125
+26. A ludicrous subplot                 ... pos = 0.0   	neg = 0.5  
+27. The other kids  have                ... pos = 0.0   	neg = 0.0  
+28. Why did the filmmake                ... pos = 0     	neg = 0.0  
+29. There was some great                ... pos = 0.0   	neg = 0.25 
+30. I would have preferr                ... pos = 0.625 	neg = 0.0  
+31. Teen romance subplot                ... pos = 0.0   	neg = 0.25 
+32. The film certainly h                ... pos = 1.125 	neg = 0.0  
+33. Larry McGillicuddy -                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2340-1154 is Positive        ... pos = 11.5  	neg = 9.25 
+Overall score of document
+Total Pos = 11.5
+Total Neg = 9.25
+---------------------------------------------------------------------------

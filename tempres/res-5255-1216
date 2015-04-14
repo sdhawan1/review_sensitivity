@@ -1,0 +1,55 @@
+0. Rating: ** out of **                 ... pos = 0.0   	neg = 0.0  
+1. As time moves forwar                 ... pos = 1.0   	neg = 0.25 
+2. Also as sequels are                  ... pos = 0.875 	neg = 0.0  
+3. This being yet anoth                 ... pos = 0.5   	neg = 1.0  
+4. Since it is obvious                  ... pos = 0.625 	neg = 0.375
+5. From the beginning B                 ... pos = 0.0   	neg = 0.75 
+6. Since both the basic                 ... pos = 0.125 	neg = 1.125
+7. Let there be Bond mo                 ... pos = 0.0   	neg = 0.125
+8. Simply because the c                 ... pos = 1.0   	neg = 0.25 
+9. It is obvious that B                 ... pos = 0.125 	neg = 0.375
+10. For example: Enter,                 ... pos = 0.125 	neg = 0.0  
+11. This is a fairly ori                ... pos = 0.875 	neg = 0.25 
+12. Bond, well at least                 ... pos = 0.0   	neg = 0.0  
+13. This idea is not pla                ... pos = 0.5   	neg = 1.25 
+14. Wai Lin, played by M                ... pos = 0.875 	neg = 0.25 
+15. But is only there it                ... pos = 1.125 	neg = 0.5  
+16. Michelle Yeoh, seems                ... pos = 3.25  	neg = 1.25 
+17. As Bond, Pierce Bros                ... pos = 0.125 	neg = 0.25 
+18. He is everything he                 ... pos = 0.375 	neg = 1.0  
+19. Yes, Bond actually c                ... pos = 0.0   	neg = 0.0  
+20. Just makes you teary                ... pos = 0.125 	neg = 0.375
+21. Strangely enough tha                ... pos = 0.875 	neg = 0.625
+22. Pulled out of a love                ... pos = 1.125 	neg = 0.0  
+23. Yeah, so?                           ... pos = 0     	neg = 0.0  
+24. He's not supposed to                ... pos = 0.0   	neg = 0.375
+25. It's also not someth                ... pos = 0.5   	neg = 0.0  
+26. One liner's abound w                ... pos = 1.125 	neg = 0.25 
+27. Now no formula is co                ... pos = 0.125 	neg = 2.375
+28. The idea behind the                 ... pos = 0.5   	neg = 1.0  
+29. But the character is                ... pos = 1.25  	neg = 0.25 
+30. The bad guy is sinis                ... pos = 0.0   	neg = 1.75 
+31. Just because the 'Bo                ... pos = 1.5   	neg = 2.25 
+32. There just doesn't s                ... pos = 0.25  	neg = 0.75 
+33. Now, no Bond movie i                ... pos = 0.0   	neg = 0.375
+34. Well, this movie has                ... pos = 0.0   	neg = 0.375
+35. Fair enough not to b                ... pos = 0.125 	neg = 0.125
+36. One thing that strik                ... pos = 0.75  	neg = 1.25 
+37. The whole build up s                ... pos = 0.875 	neg = 0.125
+38. Especially since the                ... pos = 0.0   	neg = 0.125
+39. Other than that, the                ... pos = 1.5   	neg = 0.25 
+40. The action is where                 ... pos = 0.75  	neg = 0.75 
+41. But then when viewin                ... pos = 0.875 	neg = 0.125
+42. The story is there,                 ... pos = 0.0   	neg = 0.375
+43. The character is the                ... pos = 1.75  	neg = 0.125
+44. Finally, the action                 ... pos = 0.125 	neg = 0.125
+45. All in all, this mov                ... pos = 0.125 	neg = 0.625
+46. It is a Bond movie,                 ... pos = 0.375 	neg = 0.5  
+47. It had the potential                ... pos = 0.0   	neg = 0.375
+48. In the end, it's a d                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5255-1216 is Positive        ... pos = 27.25 	neg = 24.625
+Overall score of document
+Total Pos = 27.25
+Total Neg = 24.625
+---------------------------------------------------------------------------

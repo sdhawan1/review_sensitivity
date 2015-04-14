@@ -1,0 +1,29 @@
+0. While Alex Browning                  ... pos = 0.125 	neg = 0.875
+1. As soon as he buckle                 ... pos = 0.0   	neg = 0.0  
+2. When the vision begi                 ... pos = 0.5   	neg = 0.0  
+3. The plane takes off                  ... pos = 0.0   	neg = 0.625
+4. He becomes an object                 ... pos = 0.625 	neg = 0.0  
+5. Alex and another sur                 ... pos = 0.75  	neg = 0.25 
+6. In order to save him                 ... pos = 0.5   	neg = 0.0  
+7. Of the countless hor                 ... pos = 0.375 	neg = 0.125
+8. Talented young scree                 ... pos = 0.5   	neg = 0.25 
+9. We've seen hundreds                  ... pos = 0.25  	neg = 1.375
+10. First-time feature d                ... pos = 0.0   	neg = 0.0  
+11. Every scene is perme                ... pos = 0.125 	neg = 0.25 
+12. Everyday objects and                ... pos = 0.375 	neg = 0    
+13. The most amusing har                ... pos = 0.5   	neg = 0.125
+14. (The link is that De                ... pos = 0.0   	neg = 0.125
+15. )  . The performance                ... pos = 1.375 	neg = 0.0  
+16. Devon Sawa, who prev                ... pos = 0.75  	neg = 0.125
+17. Kerr Smith is Carter                ... pos = 0.0   	neg = 1.125
+18. Smith plays Carter a                ... pos = 0.5   	neg = 0.0  
+19. Seann William Scott,                ... pos = 0.0   	neg = 0.5  
+20. Tony Todd's one-scen                ... pos = 0.0   	neg = 0.875
+21. Bottom line:  Watcha                ... pos = 0.0   	neg = 0.125
+22. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5575-1265 is Positive        ... pos = 7.25  	neg = 6.75 
+Overall score of document
+Total Pos = 7.25
+Total Neg = 6.75
+---------------------------------------------------------------------------

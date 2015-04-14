@@ -1,0 +1,38 @@
+0. There is more than o                 ... pos = 0.125 	neg = 0.25 
+1. This is a truly enjo                 ... pos = 1.125 	neg = 0.125
+2. There are few people                 ... pos = 0.5   	neg = 0.0  
+3. All those millions o                 ... pos = 0.25  	neg = 0.125
+4. Would we spend it?                   ... pos = 0.0   	neg = 0.0  
+5. Invest it?                           ... pos = 0.0   	neg = 0.0  
+6. Give it away?                        ... pos = 0.0   	neg = 0.0  
+7. Share it with friend                 ... pos = 0.125 	neg = 0    
+8. When a winning lotte                 ... pos = 0.25  	neg = 0.125
+9. Ian Bannen and David                 ... pos = 0.75  	neg = 0.0  
+10. First, they buy drin                ... pos = 0.125 	neg = 0.0  
+11. Then, the lady at th                ... pos = 0.0   	neg = 0.0  
+12. But, the real comedy                ... pos = 0.375 	neg = 0.375
+13. As Ned had no heirs,                ... pos = 0.375 	neg = 0.0  
+14. They are sure that N                ... pos = 0.625 	neg = 0.125
+15. The humor that follo                ... pos = 0.5   	neg = 0.125
+16. There is a scene wit                ... pos = 0.125 	neg = 0.125
+17. The telling of the p                ... pos = 0.0   	neg = 0.0  
+18. In the course of the                ... pos = 0.0   	neg = 0.0  
+19. You get to know them                ... pos = 0.0   	neg = 0.0  
+20. And, the question re                ... pos = 0.0   	neg = 0.0  
+21. The plot takes one t                ... pos = 0.875 	neg = 0.125
+22. You can foresee some                ... pos = 0.125 	neg = 0.0  
+23. An audience member r                ... pos = 0.125 	neg = 0.25 
+24. It was a strange sta                ... pos = 0.375 	neg = 0.125
+25. The same could be sa                ... pos = 0.0   	neg = 0.125
+26. Waking Ned Devine is                ... pos = 1.75  	neg = 0.25 
+27. I cannot wait to see                ... pos = 0.0   	neg = 0.0  
+28. And, I want to take                 ... pos = 0.0   	neg = 0.125
+29. I hope that this get                ... pos = 0.375 	neg = 0.0  
+30. People who see it wi                ... pos = 1.0   	neg = 0.25 
+31. I give it an A-.. .                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4568-989 is Positive         ... pos = 9.875 	neg = 2.625
+Overall score of document
+Total Pos = 9.875
+Total Neg = 2.625
+---------------------------------------------------------------------------

@@ -1,0 +1,61 @@
+0. Starring Liam Neeson                 ... pos = 2.0   	neg = 0.75 
+1. While I agree that t                 ... pos = 0.25  	neg = 0.25 
+2. It appears that some                 ... pos = 0.0   	neg = 1.0  
+3. So special effects o                 ... pos = 0.75  	neg = 1.0  
+4. The thing that inter                 ... pos = 0.0   	neg = 0.125
+5. Dern is always great                 ... pos = 0.0   	neg = 0.25 
+6. As I sat through the                 ... pos = 1.625 	neg = 1.125
+7. Never a good sign wh                 ... pos = 0.75  	neg = 0.125
+8. Liam Neeson plays a                  ... pos = 0.375 	neg = 0.125
+9. He decides the best                  ... pos = 0.75  	neg = 0.375
+10. He tricks them into                 ... pos = 0.5   	neg = 0.875
+11. And he also fails to                ... pos = 0.875 	neg = 0.125
+12. Catherine Zeta-Jones                ... pos = 0.0   	neg = 0.0  
+13. Like the original, T                ... pos = 0.875 	neg = 0.125
+14. But since she doesn'                ... pos = 0.25  	neg = 0.125
+15. And let's face it, p                ... pos = 0.125 	neg = 0.0  
+16. I'll admit that I wo                ... pos = 0.0   	neg = 0.0  
+17. But the real stars h                ... pos = 0.125 	neg = 0.5  
+18. They take over the m                ... pos = 0.0   	neg = 1.625
+19. There really isn't m                ... pos = 0.125 	neg = 0.0  
+20. Just endless setups                 ... pos = 0.0   	neg = 0.375
+21. And the special effe                ... pos = 0.25  	neg = 0.25 
+22. In many cases they a                ... pos = 0.5   	neg = 0.0  
+23. In other cases they                 ... pos = 0.25  	neg = 0.125
+24. At no point in the m                ... pos = 0.0   	neg = 0.75 
+25. But not scary.                      ... pos = 0.0   	neg = 0.75 
+26. Then we have the set                ... pos = 0.0   	neg = 0.0  
+27. When I first saw the                ... pos = 1.25  	neg = 0.5  
+28. But it only took a s                ... pos = 1.0   	neg = 0.375
+29. This included a floo                ... pos = 0.0   	neg = 0.0  
+30. What part did these                 ... pos = 0.0   	neg = 0.0  
+31. Absolutely none.                    ... pos = 0     	neg = 0.0  
+32. They were just there                ... pos = 0.125 	neg = 1.125
+33. Then we have the act                ... pos = 0     	neg = 0.0  
+34. Lili Taylor has neve                ... pos = 0.0   	neg = 0.125
+35. And when the fact th                ... pos = 1.375 	neg = 1.125
+36. I have no idea why L                ... pos = 0.0   	neg = 0.25 
+37. He basically reminde                ... pos = 0.0   	neg = 0.0  
+38. His character was in                ... pos = 1.375 	neg = 0.125
+39. I have no doubt that                ... pos = 0.625 	neg = 0.375
+40. Zeta-Jones was cast                 ... pos = 0.0   	neg = 0.5  
+41. The fact that her ch                ... pos = 0.875 	neg = 0.375
+42. All Catherine has to                ... pos = 0.75  	neg = 0.5  
+43. Fortunately that is                 ... pos = 1.0   	neg = 0.125
+44. While she does have                 ... pos = 0.875 	neg = 0.25 
+45. It's too bad someone                ... pos = 0     	neg = 1.625
+46. Any random supermode                ... pos = 0.25  	neg = 0.125
+47. The Haunting is the                 ... pos = 1.125 	neg = 0.25 
+48. The Haunting had a s                ... pos = 0.75  	neg = 1.0  
+49. Both prove quite nic                ... pos = 0.875 	neg = 0.875
+50. If the story sucks,                 ... pos = 0.0   	neg = 0.0  
+51. My advice?                          ... pos = 0     	neg = 0.0  
+52. If you are looking f                ... pos = 0.25  	neg = 0.25 
+53. If it's scares you w                ... pos = 0     	neg = 0.125
+54. Either way, it's pro                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4533-488 is Positive         ... pos = 23.375 	neg = 20.75
+Overall score of document
+Total Pos = 23.375
+Total Neg = 20.75
+---------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+0. rated G Walt Disney                  ... pos = 0.75  	neg = 0.0  
+1. "Tarzan", Disney's l                 ... pos = 0.0   	neg = 0.375
+2. Using the original s                 ... pos = 0.5   	neg = 0.375
+3. "Tarzan" features To                 ... pos = 1.5   	neg = 0.0  
+4. The story is the oft                 ... pos = 0.625 	neg = 0.75 
+5. At times, "Tarzan" i                 ... pos = 2.125 	neg = 0.125
+6. But "Tarzan" is an a                 ... pos = 0.5   	neg = 0.125
+7. a capsule review by                  ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1548-421 is Positive         ... pos = 6.0   	neg = 1.875
+Overall score of document
+Total Pos = 6.0
+Total Neg = 1.875
+---------------------------------------------------------------------------

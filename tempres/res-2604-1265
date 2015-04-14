@@ -1,0 +1,23 @@
+0. Edward Zwick's "The                  ... pos = 1.0   	neg = 0.0  
+1. Its subject is the r                 ... pos = 0.0   	neg = 0.25 
+2. Denzel Washington is                 ... pos = 0.375 	neg = 0.125
+3. His investigation in                 ... pos = 0.125 	neg = 0.0  
+4. Hub focuses on a mys                 ... pos = 0.5   	neg = 0.0  
+5. "  As the terrorist                  ... pos = 0.75  	neg = 0.125
+6. Enter General Devere                 ... pos = 0.125 	neg = 0.0  
+7. Hub listens as Dever                 ... pos = 0.0   	neg = 1.5  
+8. The future Zwick and                 ... pos = 0.0   	neg = 0.375
+9. What would happen, t                 ... pos = 0.5   	neg = 0.125
+10. What would happen to                ... pos = 0.125 	neg = 0.0  
+11. These questions "The                ... pos = 0.375 	neg = 0    
+12. It implies tougher o                ... pos = 0.5   	neg = 0.125
+13. if we encourage terr                ... pos = 1.0   	neg = 0.0  
+14. "Siege" avoids the t                ... pos = 0.75  	neg = 0.75 
+15. This comforting fant                ... pos = 1.375 	neg = 0.125
+16. Still, Zwick deserve                ... pos = 1.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2604-1265 is Positive        ... pos = 8.875 	neg = 3.5  
+Overall score of document
+Total Pos = 8.875
+Total Neg = 3.5
+---------------------------------------------------------------------------

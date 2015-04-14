@@ -1,0 +1,37 @@
+0. 10 Things I Hate Abo                 ... pos = 0.125 	neg = 0.0  
+1. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+2. The teen comedy genr                 ... pos = 0.625 	neg = 0.125
+3. It's even spawned a                  ... pos = 0.0   	neg = 0.125
+4. Yes, we've gotten so                 ... pos = 0.75  	neg = 0.125
+5. 10 Things I Hate Abo                 ... pos = 0.125 	neg = 0.75 
+6. Very loosely based o                 ... pos = 1.0   	neg = 0.125
+7. Larisa Oleynik (of N                 ... pos = 1.375 	neg = 0.5  
+8. The problem is that                  ... pos = 1.5   	neg = 1.0  
+9. That also presents a                 ... pos = 0.0   	neg = 0.25 
+10. Fortunately for him                 ... pos = 0.75  	neg = 0.125
+11. The conflict, then i                ... pos = 0.125 	neg = 0.125
+12. 10 Things has little                ... pos = 0.75  	neg = 0.25 
+13. This is one of the m                ... pos = 0.375 	neg = 0.5  
+14. That almost always w                ... pos = 0.25  	neg = 0.0  
+15. Something like a guy                ... pos = 0.75  	neg = 0.75 
+16. The performances in                 ... pos = 0.375 	neg = 0    
+17. Although Gordon-Levi                ... pos = 0.25  	neg = 1.0  
+18. Julia Stiles is achi                ... pos = 0.75  	neg = 0.125
+19. Andrew Keagan is eff                ... pos = 0.5   	neg = 1.125
+20. But the highlight of                ... pos = 1.375 	neg = 0.125
+21. Previously seen on t                ... pos = 0.375 	neg = 0.125
+22. 10 Things I Hate Abo                ... pos = 0.375 	neg = 0.125
+23. We have the usual "I                ... pos = 0.125 	neg = 0.25 
+24. " speech which is li                ... pos = 0.0   	neg = 0.125
+25. Another rubber stamp                ... pos = 0.0   	neg = 0.25 
+26. The prom is a perfec                ... pos = 0.125 	neg = 0.375
+27. ) but nowadays we se                ... pos = 0.875 	neg = 1.125
+28. Still, those relativ                ... pos = 0.375 	neg = 0.625
+29. It is nothing unique                ... pos = 0.875 	neg = 0.875
+30. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-560-563 is Positive          ... pos = 15.0  	neg = 11.0 
+Overall score of document
+Total Pos = 15.0
+Total Neg = 11.0
+---------------------------------------------------------------------------

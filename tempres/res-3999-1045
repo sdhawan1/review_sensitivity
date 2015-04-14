@@ -1,0 +1,52 @@
+0. The James Bond movie                 ... pos = 0.25  	neg = 0.375
+1. A formula is more ex                 ... pos = 0.0   	neg = 0.375
+2. You mix so many cubi                 ... pos = 0.0   	neg = 0.125
+3. Bond movies are a lo                 ... pos = 0.25  	neg = 0.0  
+4. You have the same in                 ... pos = 0.375 	neg = 0.5  
+5. Here, in The World i                 ... pos = 0.875 	neg = 0.125
+6. In fact, you can alm                 ... pos = 0.125 	neg = 0.0  
+7. We've got Brosnan as                 ... pos = 1.375 	neg = 0.0  
+8. John Cleese joins Q                  ... pos = 0.375 	neg = 0.875
+9. The clever product p                 ... pos = 0.875 	neg = 0.125
+10. The sultry Sophie Ma                ... pos = 0.25  	neg = 0.375
+11. The chase scenes are                ... pos = 0.25  	neg = 0.5  
+12. An imaginative race                 ... pos = 0.875 	neg = 0.25 
+13. Only one ingredient                 ... pos = 0.875 	neg = 0.125
+14. The Bond villain is,                ... pos = 0.0   	neg = 0.5  
+15. Without a compelling                ... pos = 0.0   	neg = 1.0  
+16. Take away the bad gu                ... pos = 0.0   	neg = 1.375
+17. The bad guy in The W                ... pos = 0.0   	neg = 1.125
+18. His name is Renard,                 ... pos = 0.0   	neg = 0.125
+19. Apparently, the bull                ... pos = 0.0   	neg = 0.25 
+20. One wonders, though,                ... pos = 0.75  	neg = 0.0  
+21. Sure, he can hold ho                ... pos = 1.125 	neg = 1.25 
+22. Most Bond villains a                ... pos = 0.25  	neg = 0.5  
+23. He's supposed to be                 ... pos = 0.0   	neg = 0.875
+24. (Brad Pitt's charact                ... pos = 0.625 	neg = 0.125
+25. ). A better bad guy                 ... pos = 0.25  	neg = 1.625
+26. The plot is dreadful                ... pos = 0.125 	neg = 0.875
+27. And the complication                ... pos = 0.75  	neg = 0.0  
+28. Like the nonsense ab                ... pos = 0.75  	neg = 0.125
+29. It is arguable that                 ... pos = 1.125 	neg = 0.125
+30. I think it runs deep                ... pos = 0.25  	neg = 0.0  
+31. The world today is s                ... pos = 0.5   	neg = 0.875
+32. But the scariness co                ... pos = 0.625 	neg = 0.0  
+33. (The World is Not En                ... pos = 0.125 	neg = 0.25 
+34. )  And the geopoliti                ... pos = 0.875 	neg = 0.125
+35. It ought not to be t                ... pos = 0.625 	neg = 0.375
+36. The other flaws in t                ... pos = 0.0   	neg = 0.0  
+37. Denise Richards is n                ... pos = 0.125 	neg = 0.5  
+38. "  (She's given one                 ... pos = 1.125 	neg = 0.875
+39. ) Bond is given a sh                ... pos = 0.0   	neg = 1.125
+40. Robbie Coltrane, who                ... pos = 0.25  	neg = 0.25 
+41. The opening chase sc                ... pos = 0.375 	neg = 0.25 
+42. Anyone who has ever                 ... pos = 1.25  	neg = 1.375
+43. This holiday season,                ... pos = 0.0   	neg = 0.0  
+44. Movie Reviews: http:                ... pos = 0.0   	neg = 0.25 
+45. "     -- Alan Jackso                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3999-1045 is Negative        ... pos = 18.625 	neg = 19.875
+Overall score of document
+Total Pos = 18.625
+Total Neg = 19.875
+---------------------------------------------------------------------------

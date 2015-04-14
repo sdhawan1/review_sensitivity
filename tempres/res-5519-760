@@ -1,0 +1,46 @@
+0. Director:  John Fra                 ... pos = 0.0   	neg = 0.0  
+1. Zeik, Richard Weisz                  ... pos = 0.0   	neg = 0.0  
+2. US Distribution:  M                 ... pos = 0.875 	neg = 0.0  
+3. I'll admit up front                  ... pos = 0.25  	neg = 0.375
+4. I don't look down up                 ... pos = 1.25  	neg = 0.375
+5. But it seems that mo                 ... pos = 0.625 	neg = 0.75 
+6. Here, at last, is a                  ... pos = 0.125 	neg = 0.125
+7. John Frankenheimer's                 ... pos = 0.125 	neg = 0.375
+8. It is highly stylize                 ... pos = 2.625 	neg = 0.125
+9. The film is exciting                 ... pos = 1.25  	neg = 0.25 
+10. Films like this remi                ... pos = 0.25  	neg = 0.0  
+11. However, the most in                ... pos = 0.125 	neg = 0.25 
+12. It's just about a bu                ... pos = 0.0   	neg = 0.5  
+13. The title of the fil                ... pos = 1.125 	neg = 0.0  
+14. The main character i                ... pos = 0.875 	neg = 0.125
+15. He's a sharp guy, an                ... pos = 0.75  	neg = 0.0  
+16. Among his accomplice                ... pos = 0.25  	neg = 0.0  
+17. Deirdre, as it turns                ... pos = 0.375 	neg = 0.25 
+18. What's in the case?                 ... pos = 0.0   	neg = 0.0  
+19. Hell if I know.                     ... pos = 0     	neg = 0.5  
+20. The metal case is no                ... pos = 0.875 	neg = 0.375
+21. To be honest, I don'                ... pos = 0.375 	neg = 0.625
+22. If you think about i                ... pos = 0.375 	neg = 0.5  
+23. I've read reviews th                ... pos = 0.25  	neg = 0.25 
+24. As I said, the plot                 ... pos = 1.75  	neg = 0.125
+25. Frankenheimer is an                 ... pos = 0.625 	neg = 0.125
+26. All the action seque                ... pos = 0.625 	neg = 1.25 
+27. The camerawork in th                ... pos = 0.5   	neg = 0.25 
+28. Frankenheimer's visu                ... pos = 1.125 	neg = 0.875
+29. On top of all this,                 ... pos = 0.875 	neg = 0.0  
+30. Sam is an interestin                ... pos = 0.25  	neg = 0.25 
+31. What motivates him t                ... pos = 0.25  	neg = 0.375
+32. In the female role,                 ... pos = 0.75  	neg = 0.125
+33. Reno creates a pleas                ... pos = 2.375 	neg = 0.0  
+34. What makes all these                ... pos = 0.5   	neg = 0.0  
+35. I suppose that real-                ... pos = 0.0   	neg = 0.0  
+36. Even the ones that I                ... pos = 0.25  	neg = 0.125
+37. I've been around twe                ... pos = 0.125 	neg = 0.625
+38. Ronin, however, make                ... pos = 2.25  	neg = 0.0  
+39. "  Frankenheimer and                ... pos = 1.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5519-760 is Positive         ... pos = 26.375 	neg = 10.125
+Overall score of document
+Total Pos = 26.375
+Total Neg = 10.125
+---------------------------------------------------------------------------

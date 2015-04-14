@@ -1,0 +1,21 @@
+0. In the past 5 years,                 ... pos = 0.0   	neg = 0.5  
+1. New formats, includi                 ... pos = 1.25  	neg = 0.375
+2. However, it is a fil                 ... pos = 0.25  	neg = 0.125
+3. "The Iron Giant" is                  ... pos = 0.875 	neg = 0.25 
+4. It is the story of a                 ... pos = 0.25  	neg = 0.125
+5. )  who, in 1950's Ma                 ... pos = 0.0   	neg = 0.0  
+6. However, this being                  ... pos = 1.0   	neg = 0.0  
+7. Christopher McDonald                 ... pos = 0.125 	neg = 0.25 
+8. While the story is k                 ... pos = 1.625 	neg = 0.125
+9. Despite being a fine                 ... pos = 0.25  	neg = 0.0  
+10. " But director Brad                 ... pos = 0.0   	neg = 0.0  
+11. 81") makes the dialo                ... pos = 0.375 	neg = 0.0  
+12. "The Iron Giant" is                 ... pos = 1.875 	neg = 1.0  
+13. Take a chance and se                ... pos = 0.5   	neg = 0.0  
+14. a capsule review by                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1126-421 is Positive         ... pos = 8.375 	neg = 2.875
+Overall score of document
+Total Pos = 8.375
+Total Neg = 2.875
+---------------------------------------------------------------------------

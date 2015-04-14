@@ -1,0 +1,17 @@
+0. City Of Angels has a                 ... pos = 0.5   	neg = 0.25 
+1. I was mad because th                 ... pos = 0.5   	neg = 0.25 
+2. The story is light,                  ... pos = 0.75  	neg = 0.75 
+3. I didn't.                            ... pos = 0     	neg = 0.0  
+4. The story has Nic Ca                 ... pos = 0.625 	neg = 0.25 
+5. Along the way Cage m                 ... pos = 0.0   	neg = 0.0  
+6. Will he give up his                  ... pos = 0.125 	neg = 0.0  
+7. The story also has a                 ... pos = 0.0   	neg = 0.125
+8. This is what I could                 ... pos = 0.375 	neg = 0.5  
+9. It left m dangling t                 ... pos = 0.0   	neg = 0.0  
+10. It seems to end in m                ... pos = 0.625 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5757-1338 is Positive        ... pos = 3.5   	neg = 2.75 
+Overall score of document
+Total Pos = 3.5
+Total Neg = 2.75
+---------------------------------------------------------------------------

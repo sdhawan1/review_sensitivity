@@ -1,0 +1,56 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.125
+1. The show was investi                 ... pos = 0.625 	neg = 0.125
+2. The plucky squirrels                 ... pos = 1.125 	neg = 0.125
+3. The heroic squirrel                  ... pos = 0.375 	neg = 0.25 
+4. A true representatio                 ... pos = 0.875 	neg = 0    
+5. Primary Colors isn't                 ... pos = 0.875 	neg = 0.125
+6. John Travolta plays.                 ... pos = 0.625 	neg = 0.25 
+7. The movie is about G                 ... pos = 0.5   	neg = 0.125
+8. Like our friend the                  ... pos = 0.625 	neg = 0.25 
+9. We see Stanton solic                 ... pos = 0.375 	neg = 0.125
+10. We see him wearing a                ... pos = 0.625 	neg = 0.0  
+11. We see him selling s                ... pos = 0.0   	neg = 0.0  
+12. We see a lot of the                 ... pos = 0.25  	neg = 0.125
+13. Primary Colors raise                ... pos = 0.375 	neg = 0.125
+14. How do you ask the c                ... pos = 0.0   	neg = 0.125
+15. If it's moral to res                ... pos = 0.0   	neg = 0.25 
+16. The mantra you hear                 ... pos = 0.125 	neg = 0.25 
+17. "  To its credit, Pr                ... pos = 0.625 	neg = 0.125
+18. It's also about poli                ... pos = 0.125 	neg = 0.0  
+19. Political junkies wi                ... pos = 0.625 	neg = 0.125
+20. The set design, from                ... pos = 0.625 	neg = 0.125
+21. The casting is pheno                ... pos = 0.0   	neg = 0.125
+22. The large roles are                 ... pos = 0.75  	neg = 0.0  
+23. The script follows t                ... pos = 0.625 	neg = 0.25 
+24. I was, for a while,                 ... pos = 0.125 	neg = 1.0  
+25. However, Primary Col                ... pos = 0.5   	neg = 0.875
+26. Part of this is due                 ... pos = 0.375 	neg = 0.875
+27. Travolta plays a cha                ... pos = 1.625 	neg = 0.125
+28. As a result, we all                 ... pos = 0.0   	neg = 0.375
+29. Primary Colors gives                ... pos = 0.0   	neg = 0.75 
+30. His worst enemies wi                ... pos = 0.625 	neg = 0.5  
+31. Travolta's character                ... pos = 2.625 	neg = 0.25 
+32. The vague, buffoonis                ... pos = 2.25  	neg = 0.5  
+33. In the same vein, Bi                ... pos = 0.875 	neg = 1.5  
+34. Adrian Lester has a                 ... pos = 1.25  	neg = 0.75 
+35. Only Maura Tierney,                 ... pos = 0.25  	neg = 0.0  
+36. Paradoxically, both                 ... pos = 1.25  	neg = 0.0  
+37. Emma Thompson sheds                 ... pos = 0.0   	neg = 0.0  
+38. She manages to wrenc                ... pos = 2.125 	neg = 0.125
+39. Kathy Bates, as a po                ... pos = 1.75  	neg = 0.125
+40. She acts like a cart                ... pos = 1.75  	neg = 0.0  
+41. But placing these pe                ... pos = 0.25  	neg = 0.125
+42. With the tragic deat                ... pos = 0.5   	neg = 0.5  
+43. It's unfortunate tha                ... pos = 0.0   	neg = 0.125
+44. Primary Colors is a                 ... pos = 0.0   	neg = 2.25 
+45. Nevertheless, there                 ... pos = 0.375 	neg = 0.0  
+46. Movie Reviews: http:                ... pos = 0     	neg = 0.125
+47. No jury in the world                ... pos = 0.0   	neg = 0.25 
+48. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+49. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1279-1045 is Positive        ... pos = 29.25 	neg = 14.25
+Overall score of document
+Total Pos = 29.25
+Total Neg = 14.25
+---------------------------------------------------------------------------

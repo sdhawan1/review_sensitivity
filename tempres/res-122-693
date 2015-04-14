@@ -1,0 +1,43 @@
+0. Starring-Ben Affleck                 ... pos = 0.625 	neg = 0.125
+1. The film was said to                 ... pos = 0.0   	neg = 0.25 
+2. Smith offers a discl                 ... pos = 0.0   	neg = 0.25 
+3. He adds that `even G                 ... pos = 1.375 	neg = 1.125
+4. In handling it's rel                 ... pos = 0.25  	neg = 0.25 
+5. Smith actually takes                 ... pos = 0.625 	neg = 0.0  
+6. While not one of the                 ... pos = 0.875 	neg = 0.125
+7. Two fallen angels na                 ... pos = 0.25  	neg = 0.5  
+8. Upon the arrival of                  ... pos = 0.375 	neg = 0.0  
+9. Passing through the                  ... pos = 0.125 	neg = 0.0  
+10. Metatron (Alan Rickm                ... pos = 0.0   	neg = 0.125
+11. The Scion is none ot                ... pos = 0.625 	neg = 0.125
+12. Assisting her are th                ... pos = 1.125 	neg = 0.125
+13. Reprising their role                ... pos = 1.75  	neg = 0.0  
+14. Along their trek to                 ... pos = 0.5   	neg = 0.125
+15. Rufus (Chris Rock),                 ... pos = 0.125 	neg = 0.5  
+16. Jay and Silent Bob e                ... pos = 1.375 	neg = 0.0  
+17. Following our savior                ... pos = 0.625 	neg = 0.125
+18. I suppose `Dogma' is                ... pos = 0.75  	neg = 0.5  
+19. There are also plent                ... pos = 0.25  	neg = 0.125
+20. The duo of Mewes and                ... pos = 0.625 	neg = 0.125
+21. As the leading heroi                ... pos = 1.375 	neg = 0.625
+22. Damon and Affleck ha                ... pos = 0.375 	neg = 0.0  
+23. Examine the scene in                ... pos = 0.125 	neg = 0.0  
+24. The remarkable scrip                ... pos = 0.875 	neg = 0.0  
+25. There's a hefty dose                ... pos = 0.375 	neg = 0.75 
+26. Critic Roger Ebert h                ... pos = 0.0   	neg = 0.125
+27. `Dogma' provides hon                ... pos = 1.5   	neg = 0.125
+28. This film certainly                 ... pos = 1.125 	neg = 0.0  
+29. An interesting move:                ... pos = 0.0   	neg = 0.5  
+30. Isn't that ironic?                  ... pos = 0.5   	neg = 0    
+31. (ha, ha... never min                ... pos = 0.125 	neg = 0.0  
+32. Offensive?                          ... pos = 0     	neg = 0.0  
+33. I don't think so.                   ... pos = 0     	neg = 0.0  
+34. I would simply call                 ... pos = 0.25  	neg = 0.0  
+35. Comments Appreciated                ... pos = 0     	neg = 0.0  
+36. ">HREF="mailto:movie                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-122-693 is Positive          ... pos = 18.875 	neg = 6.625
+Overall score of document
+Total Pos = 18.875
+Total Neg = 6.625
+---------------------------------------------------------------------------

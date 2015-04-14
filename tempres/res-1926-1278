@@ -1,0 +1,71 @@
+0. Ever seen a film so                  ... pos = 0.125 	neg = 0.0  
+1. That happened to me                  ... pos = 3.625 	neg = 0.0  
+2. Hard to describe, an                 ... pos = 0.625 	neg = 1.25 
+3. He feels dead alread                 ... pos = 0.875 	neg = 0.0  
+4. As opposed to living                 ... pos = 1.125 	neg = 1.125
+5. Noone around you res                 ... pos = 0.875 	neg = 0.125
+6. I canšt imagine a l                 ... pos = 0.5   	neg = 1.25 
+7. Lester canšt take a                 ... pos = 0.0   	neg = 0    
+8. The day to day to da                 ... pos = 0.5   	neg = 0.0  
+9. The nagging sense of                 ... pos = 0.0   	neg = 0.375
+10. His power- trip wife                ... pos = 0.875 	neg = 0.75 
+11. His daughter Jane (T                ... pos = 0.125 	neg = 0.375
+12. At work, his boss hi                ... pos = 0.0   	neg = 0.0  
+13. Hopeless scenario.                  ... pos = 0.0   	neg = 0.75 
+14. Then, Lester meets t                ... pos = 0.0   	neg = 0.0  
+15. One is Amanda Hayes                 ... pos = 0.0   	neg = 0.125
+16. At a high school bas                ... pos = 1.375 	neg = 0.625
+17. Therešs a great sce                ... pos = 1.614 	neg = 0.125
+18. Later, he eavesdrops                ... pos = 0.125 	neg = 0.0  
+19. To impress, at first                ... pos = 0.25  	neg = 0.0  
+20. Person #2 is Ricky (                ... pos = 0.5   	neg = 0.125
+21. He hooks Lester up w                ... pos = 0.25  	neg = 0.125
+22. Lesteršs floored by                ... pos = 0.5   	neg = 0.125
+23. We also meet Rickyš                ... pos = 1.0   	neg = 0.0  
+24. Something I canšt r                ... pos = 0.0   	neg = 0.0  
+25. I didnšt so much ag                ... pos = 0.125 	neg = 0.875
+26. Same goes for the re                ... pos = 0.0   	neg = 0.0  
+27. Thora Birch, as Jane                ... pos = 0.625 	neg = 0.125
+28. Birch finds just the                ... pos = 0.125 	neg = 0.0  
+29. She has the generati                ... pos = 1.25  	neg = 0.375
+30. I loved all her scen                ... pos = 1.25  	neg = 0.0  
+31. Face to face, though                ... pos = 0.25  	neg = 0.5  
+32. Through her.                        ... pos = 0     	neg = 0.0  
+33. Getting to know her,                ... pos = 1.125 	neg = 0.0  
+34. Their best scene is                 ... pos = 1.125 	neg = 0.125
+35. He notices.                         ... pos = 0.625 	neg = 0    
+36. And, therešs the gr                ... pos = 0.875 	neg = 0.0  
+37. Ricky is observant,                 ... pos = 0.5   	neg = 0.125
+38. Išm just curious,˛                ... pos = 0.0   	neg = 0.75 
+39. Youšre boring.                     ... pos = 0     	neg = 0.0  
+40. Totally ordinary.                   ... pos = 0.0   	neg = 0.0  
+41. And, you know it˛ t                ... pos = 0     	neg = 0.5  
+42. Sometimes the words                 ... pos = 0.5   	neg = 0.0  
+43. Itšs a defense mech                ... pos = 0.5   	neg = 0    
+44. We get to sense a lo                ... pos = 0.125 	neg = 0.0  
+45. I have to go back to                ... pos = 0.0   	neg = 0.0  
+46. Hešs found a career                ... pos = 0.375 	neg = 0.25 
+47. Like Billy Bob Thorn                ... pos = 0.625 	neg = 0.125
+48. I always measure the                ... pos = 0.375 	neg = 0.5  
+49. Only the great ones                 ... pos = 0.5   	neg = 0.0  
+50. I was glad to see Le                ... pos = 0.125 	neg = 0.125
+51. I cared.                            ... pos = 0.375 	neg = 0.0  
+52. His alliance with th                ... pos = 0.375 	neg = 0.125
+53. His perhaps insalubr                ... pos = 0.125 	neg = 0.125
+54. Lester is turned on                 ... pos = 0.25  	neg = 0.25 
+55. He also loves his wi                ... pos = 0.625 	neg = 0.0  
+56. This is three-dimens                ... pos = 0.5   	neg = 0.125
+57. Three specific momen                ... pos = 0.875 	neg = 0.25 
+58. The long, aforementi                ... pos = 0.0   	neg = 0.375
+59. And, in the warm, po                ... pos = 2.125 	neg = 0.75 
+60. Bravo to Adam Bellš                ... pos = 0.0   	neg = 0.0  
+61. Bravo to a stellar e                ... pos = 0.125 	neg = 0    
+62. Bravo to myriad inev                ... pos = 0.0   	neg = 0    
+63. AMERICAN BEAUTY remi                ... pos = 0.625 	neg = 0    
+64. Best line:  "I'm loo                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-1278 is Positive        ... pos = 32.239 	neg = 13.625
+Overall score of document
+Total Pos = 32.239
+Total Neg = 13.625
+---------------------------------------------------------------------------

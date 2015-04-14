@@ -1,0 +1,43 @@
+0. I really don't like                  ... pos = 0.0   	neg = 0.0  
+1. It's just not right.                 ... pos = 0.0   	neg = 0.0  
+2. So although I hadn't                 ... pos = 0.625 	neg = 0.125
+3. With nothing but my                  ... pos = 0.5   	neg = 0.625
+4. I'm gonna leave it u                 ... pos = 0.0   	neg = 0.625
+5. I'm not going to wri                 ... pos = 0.5   	neg = 0.0  
+6. With that in mind, t                 ... pos = 0.5   	neg = 0.25 
+7. This review is going                 ... pos = 0.0   	neg = 0.25 
+8. Hopefully it will be                 ... pos = 0.625 	neg = 0.125
+9. As ALIEN: RESURRECTI                 ... pos = 0.25  	neg = 0.0  
+10. Then, from what I co                ... pos = 0.0   	neg = 0.0  
+11. They have cloned Ell                ... pos = 0.0   	neg = 0.125
+12. All within the same                 ... pos = 0.875 	neg = 0.375
+13. Meanwhile a spaceshi                ... pos = 0.5   	neg = 0.0  
+14. Oops!                               ... pos = 0     	neg = 0    
+15. Did I give away a ma                ... pos = 0.0   	neg = 0.0  
+16. Anyway, the group of                ... pos = 0.125 	neg = 0.5  
+17. What happens next is                ... pos = 0     	neg = 0.125
+18. Everybody, aside fro                ... pos = 0.0   	neg = 0.75 
+19. This leaves our main                ... pos = 0.875 	neg = 0.0  
+20. Will they get out in                ... pos = 0.125 	neg = 0.0  
+21. Will Ripley's clone,                ... pos = 0.75  	neg = 0.25 
+22. Will the audience su                ... pos = 0.125 	neg = 0.0  
+23. The acting and dialo                ... pos = 0.5   	neg = 0.25 
+24. Weaver takes a long                 ... pos = 1.25  	neg = 0.375
+25. Ryder on the other h                ... pos = 0.125 	neg = 0.0  
+26. Being a horror film                 ... pos = 1.625 	neg = 0    
+27. .                                   ... pos = 0     	neg = 0    
+28. .                                   ... pos = 0     	neg = 0    
+29. scaring us!                         ... pos = 0.375 	neg = 0    
+30. Yes, we jump quite a                ... pos = 0.875 	neg = 0.25 
+31. If you like blood, t                ... pos = 0.625 	neg = 0.125
+32. The special effects                 ... pos = 0.0   	neg = 1.375
+33. There is a pretty go                ... pos = 0.875 	neg = 0.5  
+34. You'll likely watch                 ... pos = 1.125 	neg = 0.375
+35. But the overall susp                ... pos = 0.875 	neg = 0.375
+36. It's pretty routine,                ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-2335-195 is Positive         ... pos = 14.625 	neg = 8.5  
+Overall score of document
+Total Pos = 14.625
+Total Neg = 8.5
+---------------------------------------------------------------------------

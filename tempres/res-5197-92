@@ -1,0 +1,37 @@
+0. Seen on 7 December 1                 ... pos = 0.375 	neg = 0.0  
+1. *Good Will Hunting*                  ... pos = 0.125 	neg = 0.125
+2. That's the situation                 ... pos = 0.125 	neg = 0    
+3. Mathematics professo                 ... pos = 0.125 	neg = 0.25 
+4. Lambeau tracks him d                 ... pos = 0.5   	neg = 0.0  
+5. But, for all his cer                 ... pos = 0.625 	neg = 0.125
+6. Will's life is roote                 ... pos = 1.125 	neg = 1.0  
+7. To get him under con                 ... pos = 1.0   	neg = 0.375
+8. What follows is a fa                 ... pos = 0.125 	neg = 0.125
+9. " McGuire's backgrou                 ... pos = 0.375 	neg = 0.125
+10. It's a good premise,                ... pos = 1.25  	neg = 0.0  
+11. Even the double-ente                ... pos = 1.75  	neg = 0.125
+12. Skylar, Will's love                 ... pos = 0.625 	neg = 0.0  
+13. The interaction Will                ... pos = 1.0   	neg = 0.125
+14. The epiphanies Will                 ... pos = 1.0   	neg = 0.625
+15. In fact, it is Affle                ... pos = 0.125 	neg = 0.25 
+16. Robin Williams' perf                ... pos = 0.0   	neg = 0.375
+17. Perhaps it's my own                 ... pos = 0.625 	neg = 0.5  
+18. Apparently, it was h                ... pos = 0.5   	neg = 0.25 
+19. The performances are                ... pos = 0.25  	neg = 0.0  
+20. Damon is charming an                ... pos = 0.5   	neg = 0.25 
+21. Affleck's big scene                 ... pos = 1.25  	neg = 0.0  
+22. But, it's enjoyable                 ... pos = 0.5   	neg = 0.625
+23. Directed by Gus Van                 ... pos = 1.5   	neg = 0.5  
+24. *Good Will Hunting*                 ... pos = 1.0   	neg = 0.25 
+25. Affleck and Damon ha                ... pos = 0.0   	neg = 0.125
+26. Why?                                ... pos = 0     	neg = 0.0  
+27. It's a feel-good mov                ... pos = 0.5   	neg = 0.0  
+28. Affleck was in Chasi                ... pos = 0.0   	neg = 0.375
+29. It doesn't seem that                ... pos = 0.125 	neg = 0.0  
+30. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5197-92 is Positive          ... pos = 17.0  	neg = 6.625
+Overall score of document
+Total Pos = 17.0
+Total Neg = 6.625
+---------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+0. Visit Online Film Cr                 ... pos = 0.25  	neg = 0.125
+1. Like many of  his ot                 ... pos = 0.25  	neg = 0.0  
+2. It's also very artfu                 ... pos = 1.0   	neg = 0.0  
+3. Nicolas Cage plays N                 ... pos = 0.75  	neg = 0.0  
+4. He doesn't eat much                  ... pos = 0.125 	neg = 0.5  
+5. But something gets h                 ... pos = 0.125 	neg = 0.0  
+6. What gives the film                  ... pos = 1.375 	neg = 0.375
+7. Each of these  cowor                 ... pos = 0.125 	neg = 0.625
+8. Dark flesh encircles                 ... pos = 0.625 	neg = 0.0  
+9. It's  clear the sett                 ... pos = 0.625 	neg = 1.125
+10. Because he can't get                ... pos = 0.125 	neg = 0.625
+11. Another unifying asp                ... pos = 0.0   	neg = 0.25 
+12. Mr. Burke had been d                ... pos = 0.0   	neg = 0.125
+13. The  result, Burke i                ... pos = 0.75  	neg = 0.25 
+14. After Frank spends                  ... pos = 0.625 	neg = 0.0  
+15. Attracted by her vul                ... pos = 0.375 	neg = 0.0  
+16. Will she be a focal                 ... pos = 0.25  	neg = 0.0  
+17. Or will the high  ra                ... pos = 0.125 	neg = 0.0  
+18. Martin Scorcese's vi                ... pos = 0.875 	neg = 0.125
+19. We see it mostly dur                ... pos = 0.0   	neg = 0.0  
+20. We witness many of t                ... pos = 0.0   	neg = 0.75 
+21. In a small but power                ... pos = 0.875 	neg = 0.0  
+22. Shadows of raindrops                ... pos = 0.0   	neg = 0.625
+23. An  instant later an                ... pos = 0.0   	neg = 0.875
+24. It's Scorcese's voic                ... pos = 0.375 	neg = 0.125
+25. Acting in the film i                ... pos = 0.75  	neg = 0.125
+26. Cage has perfected a                ... pos = 0.0   	neg = 0.375
+27. What's amazing is th                ... pos = 0.0   	neg = 0.75 
+28. After all Frank Pier                ... pos = 1.75  	neg = 0    
+29. Patricia Arquette is                ... pos = 0.681 	neg = 0.625
+30. She delivers her lin                ... pos = 0.125 	neg = 0.0  
+31. We believe her when                 ... pos = 0.75  	neg = 1.5  
+32. Ving Rhames as Marcu                ... pos = 0.375 	neg = 0.0  
+33. Rhames switches mood                ... pos = 0.625 	neg = 0.0  
+34. In one crackhouse sc                ... pos = 0.75  	neg = 0.0  
+35. Look for Irving Rham                ... pos = 0.375 	neg = 0.375
+36. John Goodman is also                ... pos = 0.0   	neg = 0.125
+37. He's looking forward                ... pos = 0.125 	neg = 0.0  
+38. Goodman  convinces u                ... pos = 1.5   	neg = 0.125
+39. Tom Sizemore deserve                ... pos = 0.75  	neg = 0.125
+40. What a remarkable an                ... pos = 0.25  	neg = 0.0  
+41. Finally,  singer Mar                ... pos = 0.875 	neg = 0.375
+42. Martin Scorcese has                 ... pos = 0.375 	neg = 0.625
+43. "  The man deserves                 ... pos = 1.5   	neg = 0    
+44. The film is only sli                ... pos = 0.25  	neg = 0.125
+45. "  At 118 minutes, i                ... pos = 0.0   	neg = 0.75 
+46. It's a must-see for                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3616-71 is Positive          ... pos = 21.431 	neg = 12.5 
+Overall score of document
+Total Pos = 21.431
+Total Neg = 12.5
+---------------------------------------------------------------------------

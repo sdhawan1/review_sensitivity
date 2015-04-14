@@ -1,0 +1,49 @@
+0. Starring-Gary Sinise                 ... pos = 0.5   	neg = 1.25 
+1. Why?                                 ... pos = 0     	neg = 0.0  
+2. The movie is a shodd                 ... pos = 0.375 	neg = 0.5  
+3. I got the feeling th                 ... pos = 0.0   	neg = 0.25 
+4. But no, `Mission to                  ... pos = 0.25  	neg = 0.875
+5. This is a supposedly                 ... pos = 1.125 	neg = 0.25 
+6. You have been warned                 ... pos = 0     	neg = 0.625
+7. Of course, crafting                  ... pos = 1.875 	neg = 0.75 
+8. Brian De Palma has e                 ... pos = 0.25  	neg = 0.625
+9. When he gets his han                 ... pos = 1.125 	neg = 1.0  
+10. Of course, there's a                ... pos = 0.0   	neg = 1.875
+11. That term may be too                ... pos = 0.375 	neg = 1.125
+12. If I were Gary Sinis                ... pos = 0.0   	neg = 0.125
+13. Sinise is a wonderfu                ... pos = 1.875 	neg = 0.375
+14. The Academy Award-wi                ... pos = 0.0   	neg = 0.75 
+15. After a barbecue get                ... pos = 0.375 	neg = 0.0  
+16. Suddenly, a towering                ... pos = 0.375 	neg = 0.0  
+17. For some reason, the                ... pos = 0.875 	neg = 0.125
+18. The team is killed w                ... pos = 0.25  	neg = 0.375
+19. Immediately, a secon                ... pos = 0.75  	neg = 0.125
+20. Let's put the `secre                ... pos = 0.25  	neg = 0.0  
+21. It is explained, whe                ... pos = 1.0   	neg = 0.25 
+22. I'm not sure why the                ... pos = 0.25  	neg = 0.0  
+23. Instead, we join the                ... pos = 0.0   	neg = 0.0  
+24. What happened during                ... pos = 0.0   	neg = 0.0  
+25. Did they just play c                ... pos = 0.0   	neg = 0.0  
+26. Still, there are few                ... pos = 0.5   	neg = 0.125
+27. DePalma's  direction                ... pos = 0.75  	neg = 0.5  
+28. C'mon).                             ... pos = 0     	neg = 0    
+29. There's a few good,                 ... pos = 1.625 	neg = 0.875
+30. It's a colossal bumm                ... pos = 0.25  	neg = 1.375
+31. As mentioned before,                ... pos = 0.0   	neg = 0.375
+32. After the unbelievab                ... pos = 0.0   	neg = 1.0  
+33. Others muttered obsc                ... pos = 0.125 	neg = 0.25 
+34. ' Okay, it did suck.                ... pos = 0.0   	neg = 0.125
+35. But you have to show                ... pos = 0.0   	neg = 0.25 
+36. Sinise is sincere an                ... pos = 2.0   	neg = 0.125
+37. The digital effects                 ... pos = 0.5   	neg = 0.5  
+38. So, by golly, where                 ... pos = 0.0   	neg = 0.75 
+39. Looking back on the                 ... pos = 0.0   	neg = 0.375
+40. While watching `Miss                ... pos = 0.25  	neg = 0.125
+41. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+42. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1598-693 is Negative         ... pos = 17.875 	neg = 18.0 
+Overall score of document
+Total Pos = 17.875
+Total Neg = 18.0
+---------------------------------------------------------------------------

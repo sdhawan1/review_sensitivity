@@ -1,0 +1,27 @@
+0. Available for Rental                 ... pos = 1.625 	neg = 0.125
+1. That said, drop any                  ... pos = 1.375 	neg = 0.625
+2. With movies about hi                 ... pos = 0.75  	neg = 0.875
+3. Yet,  you must reali                 ... pos = 2.125 	neg = 0.25 
+4. The first reminder o                 ... pos = 0.125 	neg = 0.125
+5. Their family is run                  ... pos = 0.0   	neg = 0.75 
+6. In what he thinks  t                 ... pos = 0.625 	neg = 0.25 
+7. " With prom just ahe                 ... pos = 0.0   	neg = 0.125
+8. Don't think this mis                 ... pos = 1.0   	neg = 1.5  
+9. ". Getting Katarina                  ... pos = 0.125 	neg = 0.625
+10. When  Cameron, who l                ... pos = 0.5   	neg = 0.125
+11. The scheme they drea                ... pos = 0.375 	neg = 0.125
+12. " In this case, that                ... pos = 0.0   	neg = 0.125
+13. Cameron's friend, a                 ... pos = 0.25  	neg = 0.5  
+14. The solution lies no                ... pos = 0.0   	neg = 0.25 
+15. This  Verona is far                 ... pos = 0.0   	neg = 0.125
+16. Moreover, Katarina o                ... pos = 0.125 	neg = 0.125
+17. " The laws of high s                ... pos = 0.375 	neg = 0.0  
+18. Providing a constant                ... pos = 0.875 	neg = 0.0  
+19. It is the latter tha                ... pos = 0.0   	neg = 1.5  
+20. Yet surely even thes                ... pos = 0.75  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-560-592 is Positive          ... pos = 11.0  	neg = 9.0  
+Overall score of document
+Total Pos = 11.0
+Total Neg = 9.0
+---------------------------------------------------------------------------

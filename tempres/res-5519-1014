@@ -1,0 +1,30 @@
+0. In the 60's, John Fr                 ... pos = 0.125 	neg = 0.125
+1. His more memorable f                 ... pos = 0.25  	neg = 0.0  
+2. Since the 70's thoug                 ... pos = 0.5   	neg = 0.25 
+3. His tv career has th                 ... pos = 0.625 	neg = 0.0  
+4. But now, the 68 year                 ... pos = 0.625 	neg = 0.0  
+5. Historically, the ro                 ... pos = 0.0   	neg = 0.125
+6. In this action thril                 ... pos = 1.0   	neg = 0.0  
+7. They are to snatch a                 ... pos = 0.25  	neg = 0.375
+8. But once these exper                 ... pos = 0.75  	neg = 0.25 
+9. Gregor (Stellan Skar                 ... pos = 0.125 	neg = 0.625
+10. Sam (Robert De Niro)                ... pos = 1.625 	neg = 0.0  
+11. The deft and sinuous                ... pos = 0.25  	neg = 0.125
+12. As with both Pulp Fi                ... pos = 0.0   	neg = 0.625
+13. The contents are imm                ... pos = 0.625 	neg = 0.75 
+14. The tough characters                ... pos = 1.625 	neg = 0.25 
+15. The performances fro                ... pos = 0.875 	neg = 0.0  
+16. Both De Niro and Ren                ... pos = 1.75  	neg = 0.125
+17. Ronin also includes                 ... pos = 0.625 	neg = 0.375
+18. Ronin is a tense act                ... pos = 0.125 	neg = 0.125
+19. But the highlight of                ... pos = 1.375 	neg = 0.375
+20. Cars race at breakne                ... pos = 0.125 	neg = 0.0  
+21. This adrenaline char                ... pos = 0.5   	neg = 0.0  
+22. Frankenheimer direct                ... pos = 0.0   	neg = 0.0  
+23. Ronin is indeed a we                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5519-1014 is Positive        ... pos = 14.125 	neg = 4.625
+Overall score of document
+Total Pos = 14.125
+Total Neg = 4.625
+---------------------------------------------------------------------------

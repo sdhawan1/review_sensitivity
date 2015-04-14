@@ -1,0 +1,46 @@
+0. http://members.aol.c                 ... pos = 0.125 	neg = 0.125
+1. We are introduced to                 ... pos = 1.0   	neg = 0.0  
+2. This year, the tradi                 ... pos = 0.75  	neg = 0.0  
+3. I have always been a                 ... pos = 0.25  	neg = 0.25 
+4. That tradition conti                 ... pos = 0.125 	neg = 0.25 
+5. In The Mummy, the up                 ... pos = 0.625 	neg = 0.0  
+6. He teams up with a c                 ... pos = 0.5   	neg = 0.625
+7. Evelyn loves Egypt,                  ... pos = 1.25  	neg = 0.0  
+8. Rick has claimed he                  ... pos = 0.0   	neg = 0.125
+9. Also tagging along o                 ... pos = 0.0   	neg = 0.125
+10. Now in Hamunaptra, t                ... pos = 0.0   	neg = 0.0  
+11. "  The curious Evely                ... pos = 0.125 	neg = 0.5  
+12. Along with Imhotep a                ... pos = 0.0   	neg = 0.125
+13. Not only is Imhotep                 ... pos = 0.25  	neg = 0.625
+14. Don't expect huge th                ... pos = 0.75  	neg = 0.125
+15. This movie is extrem                ... pos = 0.875 	neg = 1.5  
+16. On the other hand, t                ... pos = 0.0   	neg = 0.125
+17. There is one thing t                ... pos = 0.25  	neg = 1.0  
+18. The state of the art                ... pos = 0.875 	neg = 0.25 
+19. We are dazzled by fa                ... pos = 0.25  	neg = 0.125
+20. These may have been                 ... pos = 0.0   	neg = 0.125
+21. As of now, The Mummy                ... pos = 0.75  	neg = 0.375
+22. In the past, Brendan                ... pos = 0.0   	neg = 0.0  
+23. When playing "George                ... pos = 0.25  	neg = 0.125
+24. I would say that God                ... pos = 0.125 	neg = 0.125
+25. In The Mummy, Fraser                ... pos = 0.625 	neg = 0.0  
+26. Although Brendan Fra                ... pos = 0.375 	neg = 0.125
+27. Weisz really reminde                ... pos = 1.25  	neg = 0.0  
+28. The way she acts, lo                ... pos = 0.0   	neg = 0.0  
+29. Evelyn is probably t                ... pos = 2.125 	neg = 0.25 
+30. In many films, when                 ... pos = 0.875 	neg = 0.0  
+31. In The Mummy though,                ... pos = 0.0   	neg = 0.0  
+32. There are some scene                ... pos = 1.375 	neg = 0.75 
+33. The Mummy could have                ... pos = 0.0   	neg = 0.0  
+34. I didn't mind the co                ... pos = 0.375 	neg = 0.375
+35. The cinematography i                ... pos = 0.0   	neg = 0.125
+36. Particularly in one                 ... pos = 1.125 	neg = 0    
+37. The costume design i                ... pos = 0.0   	neg = 0.125
+38. From ancient Egyptia                ... pos = 0.375 	neg = 0.0  
+39. The Bottom Line- Wit                ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-1787-864 is Positive         ... pos = 17.625 	neg = 9.125
+Overall score of document
+Total Pos = 17.625
+Total Neg = 9.125
+---------------------------------------------------------------------------

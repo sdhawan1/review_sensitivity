@@ -1,0 +1,37 @@
+0. Seen on 3 January 19                 ... pos = 2.125 	neg = 1.375
+1. Guilty on all counts                 ... pos = 0.0   	neg = 0.75 
+2. "  The special effec                 ... pos = 0.375 	neg = 0.5  
+3. Set in one of those                  ... pos = 0.25  	neg = 0.25 
+4. Part of this one-wor                 ... pos = 0.0   	neg = 0.25 
+5. They even call it "B                 ... pos = 0.0   	neg = 0.0  
+6. " Why not just set i                 ... pos = 0.0   	neg = 0.0  
+7. The Earth is being r                 ... pos = 0.375 	neg = 0.125
+8. In what clearly is *                 ... pos = 3.125 	neg = 0.5  
+9. Johnny's parents don                 ... pos = 0.25  	neg = 0.125
+10. They have minds of t                ... pos = 0.125 	neg = 0.0  
+11. Johnny, however, thi                ... pos = 0.25  	neg = 0.0  
+12. Of course, being 18                 ... pos = 0.25  	neg = 0.125
+13. All the while, Johnn                ... pos = 0.875 	neg = 1.125
+14. Soon, it turns out t                ... pos = 0.75  	neg = 0.0  
+15. " This allows the mo                ... pos = 0.125 	neg = 0.625
+16. The special effects                 ... pos = 0.625 	neg = 0.5  
+17. At one point, space                 ... pos = 0.875 	neg = 0.375
+18. The laser weapons us                ... pos = 0.0   	neg = 0.75 
+19. HUH?                                ... pos = 0     	neg = 0    
+20. Oh, and if they can                 ... pos = 0.0   	neg = 0.0  
+21. The movie does featu                ... pos = 0.625 	neg = 0.375
+22. The ads bring out th                ... pos = 0.0   	neg = 0.125
+23. But, once war breaks                ... pos = 0.125 	neg = 0.0  
+24. " The intelligent in                ... pos = 0.875 	neg = 0.0  
+25. Obscure jokes, the t                ... pos = 0.125 	neg = 0.375
+26. So, if you like this                ... pos = 0.75  	neg = 0.0  
+27. You'll go for the sp                ... pos = 0.125 	neg = 0.25 
+28. Based on the then-co                ... pos = 0.0   	neg = 0.0  
+29. Rated R for graphic                 ... pos = 0.125 	neg = 0.375
+30. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1997-92 is Positive          ... pos = 13.125 	neg = 9.0  
+Overall score of document
+Total Pos = 13.125
+Total Neg = 9.0
+---------------------------------------------------------------------------

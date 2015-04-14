@@ -1,0 +1,41 @@
+0. More than once the t                 ... pos = 0.0   	neg = 0.125
+1. Now, there has to be                 ... pos = 0.0   	neg = 0.125
+2. The movie itself cer                 ... pos = 0.25  	neg = 0.0  
+3. It's right on!                       ... pos = 0.0   	neg = 0    
+4. I guess it's because                 ... pos = 0.25  	neg = 0.0  
+5. Warren Beatty has wr                 ... pos = 0.125 	neg = 0.125
+6. It begins with  Beat                 ... pos = 0.0   	neg = 0.0  
+7. He's had enough!                     ... pos = 0     	neg = 0.0  
+8. He doesn't want to g                 ... pos = 0.0   	neg = 0.125
+9. So, he makes a deal                  ... pos = 0.0   	neg = 0.125
+10. In exchange, he will                ... pos = 0.125 	neg = 0.0  
+11. Why, you wonder?                    ... pos = 0     	neg = 0.0  
+12. Next, Bulworth makes                ... pos = 0.125 	neg = 0.125
+13. He is not to know th                ... pos = 0.0   	neg = 0.125
+14. Once everything is s                ... pos = 0.0   	neg = 0.875
+15. Suddenly he seems to                ... pos = 0.375 	neg = 0.375
+16. This starts the chai                ... pos = 0.0   	neg = 0.0  
+17. Unlike Jim Carrey in                ... pos = 0.625 	neg = 0.0  
+18. He simply says whate                ... pos = 0.125 	neg = 0.0  
+19. His change of behavi                ... pos = 0.125 	neg = 0    
+20. His campaign manager                ... pos = 0.5   	neg = 0    
+21. Halle Berry's charac                ... pos = 0.875 	neg = 0.125
+22. She has too many sid                ... pos = 0.0   	neg = 0.25 
+23. I couldn't believe h                ... pos = 0.125 	neg = 0.0  
+24. Of course, she had t                ... pos = 0.625 	neg = 0.125
+25. Hey, when you're goi                ... pos = 0.0   	neg = 0.0  
+26. What do we think abo                ... pos = 0.0   	neg = 0.0  
+27. His wife, portrayed                 ... pos = 0.375 	neg = 0.25 
+28. Of course that means                ... pos = 0.25  	neg = 0.0  
+29. Christine is perfect                ... pos = 0.0   	neg = 0.5  
+30. I would have liked t                ... pos = 0.25  	neg = 0.25 
+31. This is not a film t                ... pos = 0.0   	neg = 0.25 
+32. It doesn't have the                 ... pos = 0.5   	neg = 0.125
+33. I did find that the                 ... pos = 0.0   	neg = 0.125
+34. Maybe films like thi                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1840-989 is Positive         ... pos = 6.25  	neg = 4.125
+Overall score of document
+Total Pos = 6.25
+Total Neg = 4.125
+---------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+0. See this review as i                 ... pos = 0.125 	neg = 0.375
+1. She has been experie                 ... pos = 2.0   	neg = 0.625
+2. As if trying to assu                 ... pos = 1.375 	neg = 1.25 
+3. A vicious serial kil                 ... pos = 0.0   	neg = 0.5  
+4. Just after kidnappin                 ... pos = 0.5   	neg = 0.625
+5. The police, led by F                 ... pos = 1.375 	neg = 0.125
+6. In a last ditch atte                 ... pos = 0.5   	neg = 0.5  
+7. Initial reports abou                 ... pos = 0.0   	neg = 0.0  
+8. While it does share                  ... pos = 0.75  	neg = 0.125
+9. The buzz around this                 ... pos = 0.5   	neg = 0.125
+10. 's "Losing My Religi                ... pos = 0.75  	neg = 0.0  
+11. Despite the borrowed                ... pos = 0.25  	neg = 0.0  
+12. All of the sequences                ... pos = 1.5   	neg = 1.125
+13. Giger painting come                 ... pos = 2.0   	neg = 0.125
+14. The first sequence t                ... pos = 2.0   	neg = 0.375
+15. If the film had cont                ... pos = 1.125 	neg = 0.875
+16. The cast is basicall                ... pos = 0.25  	neg = 0.875
+17. In my opinion, D'Ono                ... pos = 0.375 	neg = 1.125
+18. The character of Sta                ... pos = 2.0   	neg = 0.125
+19. Detractors of violen                ... pos = 0.25  	neg = 0.125
+20. Besides the nipple r                ... pos = 0.375 	neg = 0.75 
+21. A sequence where Cat                ... pos = 0.5   	neg = 0.25 
+22. One moment also feat                ... pos = 0.875 	neg = 0.0  
+23. As a narrative film,                ... pos = 0.0   	neg = 0.125
+24. As a collection of i                ... pos = 0.625 	neg = 0.125
+25. Although the latter                 ... pos = 1.25  	neg = 0.25 
+26. Unfortunately, a wel                ... pos = 0.125 	neg = 1.375
+27. Reviewed by Brian Ma                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2898-1241 is Positive        ... pos = 21.375 	neg = 11.875
+Overall score of document
+Total Pos = 21.375
+Total Neg = 11.875
+---------------------------------------------------------------------------

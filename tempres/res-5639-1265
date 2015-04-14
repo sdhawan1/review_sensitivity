@@ -1,0 +1,21 @@
+0. When mob boss Paul V                 ... pos = 1.0   	neg = 0.0  
+1. Director Harold Rami                 ... pos = 1.75  	neg = 0.25 
+2. There are subplots t                 ... pos = 0.375 	neg = 0.625
+3. The plot is interest                 ... pos = 0.75  	neg = 0.125
+4. "  There, also, a mo                 ... pos = 0.375 	neg = 0.0  
+5. While "The Sopranos"                 ... pos = 0.125 	neg = 0.0  
+6. However, despite its                 ... pos = 0.375 	neg = 0.125
+7. De Niro obviously en                 ... pos = 0.625 	neg = 0.0  
+8. Although he rarely d                 ... pos = 0.25  	neg = 0.0  
+9. His Paul Vitti is as                 ... pos = 0.375 	neg = 0.625
+10. Crystal's job is to                 ... pos = 0.125 	neg = 0.125
+11. (In this regard, the                ... pos = 0.75  	neg = 0.125
+12. Actually, that's our                ... pos = 0.25  	neg = 0.875
+13. As a general rule, I                ... pos = 0.0   	neg = 0.5  
+14. "  . Š 1999 Christi                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5639-1265 is Positive        ... pos = 7.125 	neg = 3.375
+Overall score of document
+Total Pos = 7.125
+Total Neg = 3.375
+---------------------------------------------------------------------------

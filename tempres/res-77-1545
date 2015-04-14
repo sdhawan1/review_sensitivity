@@ -1,0 +1,45 @@
+0. ztarring the voicez                  ... pos = 0.0   	neg = 0.0  
+1. ANTZ will beat the n                 ... pos = 0.125 	neg = 0.25 
+2. Should he be?                        ... pos = 0.0   	neg = 0.125
+3. This is the first ti                 ... pos = 0.125 	neg = 0.375
+4. All were cast on the                 ... pos = 0.0   	neg = 0.125
+5. Said Darnell: "No au                 ... pos = 0     	neg = 0.0  
+6. " A discussion of th                 ... pos = 0.125 	neg = 0.0  
+7. " .      Aykroyd (wh                 ... pos = 0.0   	neg = 0.25 
+8. " (Laughs.                           ... pos = 0.0   	neg = 0    
+9. ). Woody Allen was c                 ... pos = 0.5   	neg = 0.125
+10. Perhaps it's no surp                ... pos = 1.875 	neg = 0.125
+11. Z knows there is som                ... pos = 0.0   	neg = 0.125
+12. It's Deconstructing                 ... pos = 0.0   	neg = 0.125
+13. Z, a worker ant, emb                ... pos = 0.625 	neg = 0.5  
+14. (Huh?                               ... pos = 0     	neg = 0    
+15. ) Thanks in large pa                ... pos = 0.125 	neg = 0.125
+16. Lionized by his peer                ... pos = 0.875 	neg = 0.125
+17. Together, Z and his                 ... pos = 0.5   	neg = 0.0  
+18. ANTZ' biggest proble                ... pos = 0.125 	neg = 0.5  
+19. Z is looking for som                ... pos = 0.375 	neg = 0.375
+20. Hackman's villain is                ... pos = 0.0   	neg = 1.0  
+21. The whole film is a                 ... pos = 0.0   	neg = 0.375
+22. (With the words like                ... pos = 2.0   	neg = 0.25 
+23. ) Also, even in anim                ... pos = 0.625 	neg = 0.625
+24. What about the look                 ... pos = 0.0   	neg = 0.375
+25. Some scenes in ANTZ                 ... pos = 1.0   	neg = 0.0  
+26. Others play out in d                ... pos = 0.0   	neg = 0.0  
+27. I wasn't keen on Z's                ... pos = 0.0   	neg = 0.375
+28. The result is an aes                ... pos = 0.0   	neg = 1.0  
+29. (And why is it the c                ... pos = 1.5   	neg = 0.125
+30. ) . When confronted                 ... pos = 0.0   	neg = 0.0  
+31. Lotta heart in this                 ... pos = 0.25  	neg = 0    
+32. " Lotta?                            ... pos = 0     	neg = 0    
+33. No.                                 ... pos = 0     	neg = 0.25 
+34. Some?                               ... pos = 0     	neg = 0.0  
+35. Sure.                               ... pos = 0.25  	neg = 0    
+36. Ultimately, it is di                ... pos = 0.625 	neg = 0.75 
+37. (Cheap, cheap laughs                ... pos = 0.0   	neg = 1.25 
+38. ) ANTZ feels compute                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-1545 is Positive          ... pos = 11.625 	neg = 9.625
+Overall score of document
+Total Pos = 11.625
+Total Neg = 9.625
+---------------------------------------------------------------------------

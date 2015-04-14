@@ -1,0 +1,42 @@
+0. I recall this articl                 ... pos = 0.0   	neg = 0.0  
+1. It was about the lac                 ... pos = 0.25  	neg = 0.625
+2. After World War Two,                 ... pos = 0.0   	neg = 1.0  
+3. Similarly, we had Am                 ... pos = 0.0   	neg = 0.25 
+4. Now, with the advent                 ... pos = 1.125 	neg = 1.5  
+5. The article noted th                 ... pos = 0.5   	neg = 0.125
+6. We no longer have a                  ... pos = 0.75  	neg = 0.625
+7. The Chinese may be n                 ... pos = 0.0   	neg = 0.25 
+8. I imagine a day when                 ... pos = 0.5   	neg = 0.5  
+9. Surely a metaphor of                 ... pos = 0.25  	neg = 0.75 
+10. But for now, it's on                ... pos = 0.125 	neg = 0.0  
+11. Among the flavors of                ... pos = 0.25  	neg = 0.125
+12. In this updated vers                ... pos = 0.0   	neg = 0.375
+13. But the principal vi                ... pos = 0.375 	neg = 0.5  
+14. He's a contract kill                ... pos = 0.0   	neg = 1.25 
+15. In contrast, the her                ... pos = 0.5   	neg = 0.5  
+16. He doesn't rely on t                ... pos = 1.0   	neg = 0.125
+17. Despite the current                 ... pos = 0.375 	neg = 0.375
+18. Technocrats aren't i                ... pos = 0.0   	neg = 0.0  
+19. In any case, I saw "                ... pos = 0.0   	neg = 0.0  
+20. The original film fe                ... pos = 0.0   	neg = 0.25 
+21. But times hav change                ... pos = 0.5   	neg = 0.5  
+22. Arguably, people her                ... pos = 0.125 	neg = 0.5  
+23. I haven't seen the o                ... pos = 0.5   	neg = 0.75 
+24. Oh, in reaction to a                ... pos = 1.375 	neg = 1.125
+25. One of the character                ... pos = 0.875 	neg = 0.125
+26. Another thing the Ja                ... pos = 0.0   	neg = 0.25 
+27. "  It's not as direc                ... pos = 0.0   	neg = 0.0  
+28. Along with a Monster                ... pos = 0.0   	neg = 0.0  
+29. As well as extraneou                ... pos = 0.25  	neg = 1.875
+30. But I don't think I'                ... pos = 0.0   	neg = 0.0  
+31. But it's not a horri                ... pos = 0.0   	neg = 0.625
+32. It's reasonably good                ... pos = 0.875 	neg = 0.0  
+33. See it at matinee.                  ... pos = 0.125 	neg = 0.0  
+34. Oh, Richard Gere's b                ... pos = 1.25  	neg = 0.125
+35. This is odd, since t                ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4087-1441 is Negative        ... pos = 12.375 	neg = 15.25
+Overall score of document
+Total Pos = 12.375
+Total Neg = 15.25
+---------------------------------------------------------------------------

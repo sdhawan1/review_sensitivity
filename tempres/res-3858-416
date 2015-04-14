@@ -1,0 +1,19 @@
+0. Starring: Ashley Jud                 ... pos = 1.75  	neg = 0.25 
+1. Alex's college-aged                  ... pos = 0.25  	neg = 0.125
+2. The police attribute                 ... pos = 0.25  	neg = 0.25 
+3. Believing the remain                 ... pos = 0.25  	neg = 0.625
+4. Meanwhile beautiful                  ... pos = 0.75  	neg = 0.125
+5. Kate manages a despe                 ... pos = 0.375 	neg = 0.625
+6. What's worse, Kate i                 ... pos = 0.0   	neg = 0.75 
+7. Natural allies, Kate                 ... pos = 0.0   	neg = 0.0  
+8. But are they hunting                 ... pos = 0.25  	neg = 0.125
+9. Opinion: The mood is                 ... pos = 0.5   	neg = 0.125
+10. For example, the rap                ... pos = 0.75  	neg = 0.25 
+11. Kiss the Girls' ho                ... pos = 2.0   	neg = 0.875
+12. I left the theater f                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3858-416 is Positive         ... pos = 7.625 	neg = 4.125
+Overall score of document
+Total Pos = 7.625
+Total Neg = 4.125
+---------------------------------------------------------------------------

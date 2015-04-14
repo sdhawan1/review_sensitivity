@@ -1,0 +1,71 @@
+0. The basic story of "                 ... pos = 1.0   	neg = 1.125
+1. ), who, while sweepi                 ... pos = 0.0   	neg = 0.625
+2. He's apparently bett                 ... pos = 0.0   	neg = 0.125
+3. He plays a sort of m                 ... pos = 0.625 	neg = 0.125
+4. Will Hunting is not                  ... pos = 0.125 	neg = 0.125
+5. He's actually an aut                 ... pos = 0.875 	neg = 0.125
+6. He also has an assho                 ... pos = 0.0   	neg = 0.375
+7. The young brilliant                  ... pos = 1.0   	neg = 0.625
+8. He's eventually disc                 ... pos = 0.25  	neg = 0.25 
+9. They'll solve math p                 ... pos = 0.375 	neg = 0.25 
+10. Our prodigy also has                ... pos = 0.0   	neg = 0    
+11. The counsoling psych                ... pos = 0.5   	neg = 0.125
+12. Williams is good in                 ... pos = 1.125 	neg = 0.125
+13. In any case, the mov                ... pos = 0.75  	neg = 0.875
+14. It was also doing th                ... pos = 0.125 	neg = 0.375
+15. Complex proofs appar                ... pos = 0.5   	neg = 0.375
+16. Movies, to be effect                ... pos = 0.5   	neg = 0.375
+17. For New Yorkers, a s                ... pos = 1.375 	neg = 0.0  
+18. For me, in the first                ... pos = 0.125 	neg = 1.125
+19. [1]. Actually, anoth                ... pos = 0.0   	neg = 0.25 
+20. This falls back to t                ... pos = 1.5   	neg = 0.25 
+21. He's better than the                ... pos = 0.75  	neg = 0.0  
+22. As said, it pushes t                ... pos = 0.125 	neg = 0.0  
+23. As a side note, one                 ... pos = 0.0   	neg = 0.125
+24. Anyway, after this f                ... pos = 0.25  	neg = 0.125
+25. The interactions bet                ... pos = 0.875 	neg = 0.0  
+26. The same between the                ... pos = 0.875 	neg = 0.0  
+27. It's good movie maki                ... pos = 0.75  	neg = 0.0  
+28. The general story is                ... pos = 0.625 	neg = 0.125
+29. It's a good movie, h                ... pos = 1.375 	neg = 0.0  
+30. One nice thing, show                ... pos = 0.0   	neg = 0.375
+31. The townies also hav                ... pos = 1.0   	neg = 0.0  
+32. While math is not th                ... pos = 0.125 	neg = 0.25 
+33. Basically, we see on                ... pos = 0.375 	neg = 0.0  
+34. For all intents and                 ... pos = 0.375 	neg = 0.375
+35. Math, however, can i                ... pos = 0.5   	neg = 0.0  
+36. So, with the various                ... pos = 0.625 	neg = 0.125
+37. As said, there's sur                ... pos = 2.25  	neg = 0.0  
+38. The only other thing                ... pos = 1.0   	neg = 0.25 
+39. But this isn't that                 ... pos = 0.0   	neg = 0.0  
+40. The movie, in the en                ... pos = 0.25  	neg = 0.25 
+41. It's that genre, rat                ... pos = 0.75  	neg = 0    
+42. Well, geniuses, I th                ... pos = 1.875 	neg = 0.375
+43. Except for "Amadeus"                ... pos = 1.125 	neg = 0.125
+44. Now, that was a good                ... pos = 0.75  	neg = 0.125
+45. Actually, same for "                ... pos = 0.375 	neg = 0.125
+46. Actually, I'm not su                ... pos = 0.25  	neg = 0.125
+47. Ignore me.                          ... pos = 0     	neg = 0.5  
+48. I recently finished                 ... pos = 0.0   	neg = 0.25 
+49. That book, far more                 ... pos = 0.125 	neg = 0.375
+50. There's a vague desi                ... pos = 1.0   	neg = 0.0  
+51. But this is perhaps                 ... pos = 0.0   	neg = 0.5  
+52. [1] That's the subst                ... pos = 0.0   	neg = 0.5  
+53. Undergrad gets into                 ... pos = 0.0   	neg = 2.0  
+54. The moral of the UL                 ... pos = 0.375 	neg = 0.25 
+55. There's a positive t                ... pos = 0.0   	neg = 0.0  
+56. The real story about                ... pos = 0.625 	neg = 0.625
+57. Open problems are ve                ... pos = 1.375 	neg = 0.5  
+58. Actually (falling in                ... pos = 0.0   	neg = 0.125
+59. It's a von Neumann s                ... pos = 0.0   	neg = 0.0  
+60. This is after Danzig                ... pos = 0.0   	neg = 0.25 
+61. Von Neumann is there                ... pos = 0.0   	neg = 0.125
+62. So Danzig is up at t                ... pos = 0.0   	neg = 0.625
+63. The moral is that vo                ... pos = 0.0   	neg = 0.125
+64. A simpler moral: von                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5197-1441 is Positive        ... pos = 31.625 	neg = 17.375
+Overall score of document
+Total Pos = 31.625
+Total Neg = 17.375
+---------------------------------------------------------------------------

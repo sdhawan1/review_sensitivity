@@ -1,0 +1,83 @@
+0. Director: Tom Shadya                 ... pos = 0.375 	neg = 0.0  
+1. US Distribution: Uni                 ... pos = 1.375 	neg = 0.5  
+2. When I noticed that                  ... pos = 0.375 	neg = 1.0  
+3. You see, Patch Adams                 ... pos = 0.0   	neg = 0.0  
+4. I hated this movie f                 ... pos = 1.375 	neg = 1.875
+5. I hate every element                 ... pos = 0.25  	neg = 0.75 
+6. The badness of Patch                 ... pos = 0     	neg = 1.0  
+7. It's confounding.                    ... pos = 0     	neg = 0.625
+8. I can't believe a fi                 ... pos = 0.125 	neg = 1.0  
+9. And yet, it's based                  ... pos = 1.0   	neg = 0.0  
+10. In the film, Patch i                ... pos = 0.5   	neg = 0.375
+11. In the beginning of                 ... pos = 0.0   	neg = 0.125
+12. While there, he noti                ... pos = 1.25  	neg = 0.125
+13. So, Patch goes on a                 ... pos = 0.0   	neg = 0.125
+14. He goes to medical s                ... pos = 1.0   	neg = 0.0  
+15. He also meets Carin                 ... pos = 0.75  	neg = 0.375
+16. Naturally, the dean                 ... pos = 0.5   	neg = 0.375
+17. So Patch decides tha                ... pos = 0.0   	neg = 0.5  
+18. And that, my friends                ... pos = 0.375 	neg = 0.875
+19. On a superficial lev                ... pos = 0.375 	neg = 1.75 
+20. But the film fails f                ... pos = 0.0   	neg = 0.125
+21. Every scene swells w                ... pos = 0.0   	neg = 1.125
+22. Take, for instance,                 ... pos = 0.125 	neg = 0.0  
+23. We don't know Patch                 ... pos = 0.25  	neg = 2.25 
+24. Later on, Patch make                ... pos = 2.125 	neg = 0.25 
+25. And when that patien                ... pos = 0.125 	neg = 0    
+26. ), the music is very                ... pos = 1.0   	neg = 0.875
+27. But the problem with                ... pos = 0.625 	neg = 0.5  
+28. Real drama is charac                ... pos = 0.0   	neg = 0.125
+29. You grow to like som                ... pos = 0.0   	neg = 0.875
+30. We don't ever grow t                ... pos = 0.25  	neg = 0.0  
+31. Real drama doesn't s                ... pos = 0.125 	neg = 0.0  
+32. That's why Patch Ada                ... pos = 0.0   	neg = 0.125
+33. It goes for every ch                ... pos = 0.0   	neg = 1.0  
+34. Even scenes that hav                ... pos = 0.75  	neg = 0.875
+35. Sentimentality like                 ... pos = 0.0   	neg = 1.25 
+36. But it's not as bad                 ... pos = 0.0   	neg = 0.875
+37. You see, Patch is a                 ... pos = 0.0   	neg = 0.125
+38. He aces his tests wi                ... pos = 0.375 	neg = 0.0  
+39. But Patch doesn't th                ... pos = 0.75  	neg = 0.125
+40. "Why don't we see pa                ... pos = 0.0   	neg = 0.0  
+41. " he bursts out ever                ... pos = 0.0   	neg = 0.0  
+42. Well, Patch, that mi                ... pos = 0.0   	neg = 0.625
+43. Not everyone has the                ... pos = 0.625 	neg = 0.25 
+44. Most of us have to s                ... pos = 0.0   	neg = 0.0  
+45. And a doctor who rea                ... pos = 0.75  	neg = 0.375
+46. Oh wait, I almost fo                ... pos = 0.125 	neg = 0.125
+47. "  Yes!                             ... pos = 0     	neg = 0    
+48. That is true!                       ... pos = 0     	neg = 0.125
+49. And you can not do t                ... pos = 0.0   	neg = 0.0  
+50. You can not do that                 ... pos = 0.125 	neg = 0.0  
+51. What Patch never see                ... pos = 1.25  	neg = 1.0  
+52. Follow the rules?                   ... pos = 0.0   	neg = 0    
+53. Bah!                                ... pos = 0     	neg = 0    
+54. Who needs the rules!                ... pos = 0.0   	neg = 0.0  
+55. Only uptight doctors                ... pos = 0.0   	neg = 0.0  
+56. The real saviors are                ... pos = 0.625 	neg = 0.25 
+57. And then there's the                ... pos = 0.125 	neg = 0.0  
+58. A free clinic.                      ... pos = 0.0   	neg = 0    
+59. In the middle of the                ... pos = 0.0   	neg = 0.0  
+60. Where patients can b                ... pos = 0.0   	neg = 0.25 
+61. For free.                           ... pos = 0.0   	neg = 0    
+62. How will patients be                ... pos = 0.125 	neg = 0.125
+63. Will it have an emer                ... pos = 0.125 	neg = 0.0  
+64. Or is it just for me                ... pos = 0.0   	neg = 0.125
+65. And who, may I ask,                 ... pos = 0.125 	neg = 0.0  
+66. The film does give s                ... pos = 1.375 	neg = 1.0  
+67. Reader, please under                ... pos = 0.375 	neg = 0.125
+68. I know nothing about                ... pos = 0     	neg = 0.25 
+69. If his beliefs mirro                ... pos = 1.25  	neg = 0.5  
+70. But regardless of wh                ... pos = 0.375 	neg = 0.0  
+71. And in the last scen                ... pos = 0.0   	neg = 0.5  
+72. Actually, Robin Will                ... pos = 0.375 	neg = 0.5  
+73. He shouts a lot abou                ... pos = 0.25  	neg = 0.5  
+74. I won't tell you tha                ... pos = 0.0   	neg = 0.5  
+75. I was moved in such                 ... pos = 0.0   	neg = 1.0  
+76. Patch Adams is the c                ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-4411-760 is Negative         ... pos = 24.125 	neg = 30.75
+Overall score of document
+Total Pos = 24.125
+Total Neg = 30.75
+---------------------------------------------------------------------------

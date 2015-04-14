@@ -1,0 +1,38 @@
+0. Everybody has one ta                 ... pos = 0.0   	neg = 0.125
+1. Ronaldo's talent is                  ... pos = 0.125 	neg = 0.25 
+2. Monica Lewinsky's ta                 ... pos = 0.0   	neg = 0.25 
+3. Jay Leno's is making                 ... pos = 0.0   	neg = 0.5  
+4. Mine talent is uncle                 ... pos = 0.25  	neg = 1.0  
+5. Tom Ripley's talent                  ... pos = 0.0   	neg = 0.25 
+6. Tom Ripley (Matt Dam                 ... pos = 0.0   	neg = 0.125
+7. A toilet-cleaner, wh                 ... pos = 0.375 	neg = 0    
+8. But a Princeton badg                 ... pos = 0.375 	neg = 0.0  
+9. For Tom, it opened a                 ... pos = 0.375 	neg = 0.0  
+10. So there he goes to                 ... pos = 0.0   	neg = 0.0  
+11. In Italy, he's not t                ... pos = 0.0   	neg = 0.125
+12. He's just someone el                ... pos = 0     	neg = 0.0  
+13. Most of the time he'                ... pos = 0.0   	neg = 0.0  
+14. Then things happen.                 ... pos = 0.0   	neg = 0.0  
+15. Tom's talent seems t                ... pos = 0.25  	neg = 0.25 
+16. All that to be a fak                ... pos = 0.0   	neg = 0.375
+17. What's wrong with th                ... pos = 0     	neg = 0.75 
+18. Girls will love him,                ... pos = 1.0   	neg = 0.125
+19. I still wish I could                ... pos = 0.375 	neg = 0.0  
+20. The movie is very sl                ... pos = 0.5   	neg = 0.125
+21. And the whole theme                 ... pos = 0.0   	neg = 0.125
+22. But in SWF it's set                 ... pos = 0.0   	neg = 0.125
+23. I got bored watching                ... pos = 0     	neg = 0.0  
+24. It was too slow, too                ... pos = 0.0   	neg = 1.5  
+25. To tell you the trut                ... pos = 0.875 	neg = 0.125
+26. It would never get m                ... pos = 0.0   	neg = 0.0  
+27. Well, I don't know.                 ... pos = 0.0   	neg = 0.0  
+28. I'm not a real movie                ... pos = 0.0   	neg = 0.0  
+29. I'm just writing wha                ... pos = 0     	neg = 0.0  
+30. And I know most of t                ... pos = 0.125 	neg = 0.25 
+31. Indra Moeljadi just                 ... pos = 0.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-645-331 is Negative          ... pos = 5.25  	neg = 6.625
+Overall score of document
+Total Pos = 5.25
+Total Neg = 6.625
+---------------------------------------------------------------------------

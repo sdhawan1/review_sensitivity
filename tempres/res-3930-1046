@@ -1,0 +1,25 @@
+0. CAPSULE: A love stor                 ... pos = 1.25  	neg = 0.0  
+1. A friend of my mothe                 ... pos = 0.75  	neg = 0.125
+2. One night she came b                 ... pos = 0.0   	neg = 0.75 
+3. I guess both she and                 ... pos = 0.875 	neg = 0.0  
+4. The cabbie in the mo                 ... pos = 0.0   	neg = 0.25 
+5. So many of his previ                 ... pos = 0.875 	neg = 0.0  
+6. He's a nut.                          ... pos = 0.0   	neg = 0    
+7. He's also a nut with                 ... pos = 1.25  	neg = 0.375
+8. Fletcher and Sutton                  ... pos = 0.0   	neg = 0.125
+9. But she's clearly on                 ... pos = 0.875 	neg = 0.0  
+10. At least at first.                  ... pos = 0.125 	neg = 0.0  
+11. One day Fletcher com                ... pos = 1.375 	neg = 0.5  
+12. After that, he's no                 ... pos = 0.0   	neg = 0.375
+13. Convincing Alice, on                ... pos = 0.125 	neg = 0.25 
+14. The plot unspools in                ... pos = 0.0   	neg = 0.0  
+15. The timing in every                 ... pos = 0.25  	neg = 0.5  
+16. It is, at heart, a r                ... pos = 0.25  	neg = 0.125
+17. Sounds strange consi                ... pos = 1.25  	neg = 1.375
+18. Who'd've thunk it: a                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3930-1046 is Positive        ... pos = 9.375 	neg = 4.75 
+Overall score of document
+Total Pos = 9.375
+Total Neg = 4.75
+---------------------------------------------------------------------------

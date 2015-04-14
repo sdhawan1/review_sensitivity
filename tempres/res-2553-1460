@@ -1,0 +1,31 @@
+0. Starring Tom Hanks,                  ... pos = 0.0   	neg = 0.0  
+1. I cannot say enough                  ... pos = 0.0   	neg = 0.0  
+2. It didn't seem to ap                 ... pos = 0.875 	neg = 0.0  
+3. I was glad I went to                 ... pos = 0.125 	neg = 0.25 
+4. A definite good time                 ... pos = 1.5   	neg = 0.0  
+5. FORREST GUMP is the                  ... pos = 0.75  	neg = 0.625
+6. He's a rather unrema                 ... pos = 0.875 	neg = 0.5  
+7. How can a simpleton                  ... pos = 0.375 	neg = 0.125
+8. How can someone so s                 ... pos = 0.25  	neg = 0.125
+9. It's a feat that mak                 ... pos = 0.75  	neg = 0.0  
+10. Tom Hanks is, as alw                ... pos = 2.75  	neg = 0.125
+11. It all sounds very f                ... pos = 0.875 	neg = 0.0  
+12. It's not all handed                 ... pos = 0.0   	neg = 0.0  
+13. Often times he just                 ... pos = 0.5   	neg = 0.5  
+14. But that's his appea                ... pos = 0.25  	neg = 0.0  
+15. Forrest Gump shows t                ... pos = 0.0   	neg = 0.5  
+16. Even the most horrib                ... pos = 0.0   	neg = 0.75 
+17. The character and th                ... pos = 1.75  	neg = 0.625
+18. It seems, instead, t                ... pos = 0.625 	neg = 0.125
+19. This movie is a pure                ... pos = 0.375 	neg = 0.125
+20. It has something for                ... pos = 0.0   	neg = 0    
+21. The battle scenes ar                ... pos = 1.5   	neg = 0.625
+22. I came out of the th                ... pos = 0.0   	neg = 0.0  
+23. I never thought I wo                ... pos = 0.375 	neg = 0.125
+24. Go see it--it's wort                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2553-1460 is Positive        ... pos = 15.25 	neg = 5.125
+Overall score of document
+Total Pos = 15.25
+Total Neg = 5.125
+---------------------------------------------------------------------------

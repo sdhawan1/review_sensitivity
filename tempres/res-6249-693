@@ -1,0 +1,41 @@
+0. MOVIE VIEWS by Jamey                 ... pos = 0.5   	neg = 0.125
+1. It's more of a ho-hu                 ... pos = 0.875 	neg = 0.125
+2. Luckily, his showcas                 ... pos = 0.875 	neg = 1.25 
+3. The story introduces                 ... pos = 0.0   	neg = 0.125
+4. She works for a bott                 ... pos = 0.0   	neg = 0    
+5. But one day, she is                  ... pos = 0.625 	neg = 0.375
+6. Jackie is working fo                 ... pos = 0.375 	neg = 0.75 
+7. Soon Jackie and Orde                 ... pos = 0.375 	neg = 0.0  
+8. Also entering the pi                 ... pos = 0.875 	neg = 0.125
+9. The big drop-off is                  ... pos = 0.625 	neg = 0.125
+10. It's unfortunate tha                ... pos = 0.625 	neg = 0.0  
+11. There are, as always                ... pos = 1.125 	neg = 0.0  
+12. The funniest reparte                ... pos = 0.625 	neg = 0.5  
+13. The most interesting                ... pos = 0.0   	neg = 0.125
+14. A 56-year old white                 ... pos = 0.625 	neg = 0    
+15. You've got to commen                ... pos = 0.0   	neg = 0.0  
+16. Jackie Brown is a se                ... pos = 0.125 	neg = 0.125
+17. The film clocks in a                ... pos = 0.125 	neg = 0.0  
+18. Tarantino's talky st                ... pos = 2.0   	neg = 0.0  
+19. Also, fans of the di                ... pos = 0.0   	neg = 0.125
+20. Jackie Brown has fou                ... pos = 0.125 	neg = 0.375
+21. You can expect frequ                ... pos = 0.25  	neg = 0.0  
+22. The acting is the gl                ... pos = 0.625 	neg = 0.125
+23. Grier, making a sudd                ... pos = 0.875 	neg = 0.625
+24. In fact, she's flat-                ... pos = 0.0   	neg = 0    
+25. Another comeback com                ... pos = 0.5   	neg = 0.25 
+26. Michael Keaton makes                ... pos = 1.125 	neg = 0.125
+27. Speaking of that, Br                ... pos = 0.375 	neg = 1.0  
+28. There's not a single                ... pos = 0.0   	neg = 0.0  
+29. Which is a life-save                ... pos = 0.0   	neg = 0.125
+30. The story barely hol                ... pos = 0.625 	neg = 0.125
+31. But oh well.                        ... pos = 0.0   	neg = 0.0  
+32. Jackie Brown manages                ... pos = 0.5   	neg = 0.75 
+33. Let's just hope that                ... pos = 0.375 	neg = 0.0  
+34. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-693 is Positive         ... pos = 15.75 	neg = 7.375
+Overall score of document
+Total Pos = 15.75
+Total Neg = 7.375
+---------------------------------------------------------------------------

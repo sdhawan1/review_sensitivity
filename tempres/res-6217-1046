@@ -1,0 +1,50 @@
+0. ARMAGEDDON is a one-                 ... pos = 0.0   	neg = 0.125
+1. It classifies less a                 ... pos = 0.5   	neg = 0    
+2. It's so meat-headedl                 ... pos = 0.0   	neg = 0.5  
+3. People have chided m                 ... pos = 0.25  	neg = 0.625
+4. I know, I know; they                 ... pos = 1.0   	neg = 0.5  
+5. Fine, it's over-the-                 ... pos = 0.0   	neg = 2.625
+6. Here is a movie that                 ... pos = 0.75  	neg = 0.25 
+7. Maybe they should ha                 ... pos = 0     	neg = 0.0  
+8. After an opening sce                 ... pos = 0.125 	neg = 0.5  
+9. To save the planet,                  ... pos = 0.25  	neg = 0.25 
+10. The head of the team                ... pos = 0.0   	neg = 0.75 
+11. (Ben Affleck) with a                ... pos = 0.125 	neg = 0    
+12. See, A.J.                           ... pos = 0.0   	neg = 0    
+13. was sleeping with hi                ... pos = 0.625 	neg = 0.125
+14. I mentioned macho.                  ... pos = 0     	neg = 0.5  
+15. Not just in the scri                ... pos = 0.0   	neg = 0.125
+16. EVERYTHING in this m                ... pos = 0.0   	neg = 0.25 
+17. At one point we get                 ... pos = 0.125 	neg = 0.125
+18. Idiotic.                            ... pos = 0     	neg = 0.25 
+19. There's more slow mo                ... pos = 0.0   	neg = 0.0  
+20. Helicopters, police                 ... pos = 0.25  	neg = 0.375
+21. Every outdoor shot i                ... pos = 0.25  	neg = 0.125
+22. It's like a goddamn                 ... pos = 0.0   	neg = 0.0  
+23. (And oh yeah, there'                ... pos = 0.0   	neg = 0.625
+24. ). It gets worse.                   ... pos = 0.0   	neg = 0.625
+25. Michael Bay has take                ... pos = 0.75  	neg = 0.375
+26. After a few minutes,                ... pos = 0.875 	neg = 0.125
+27. It doesn't work.                    ... pos = 0.0   	neg = 0    
+28. Thornton is the best                ... pos = 0.375 	neg = 0.125
+29. He plays a character                ... pos = 0.875 	neg = 0.25 
+30. Tyler plays the movi                ... pos = 0.75  	neg = 0.625
+31. Willis does his usua                ... pos = 0.125 	neg = 0.0  
+32. I still insist that                 ... pos = 0.75  	neg = 0.5  
+33. ". And then we have                 ... pos = 0     	neg = 0.25 
+34. This is, I believe,                 ... pos = 0.125 	neg = 0.125
+35. Many of the effects                 ... pos = 1.0   	neg = 0.25 
+36. Also, many of the im                ... pos = 0.5   	neg = 0.0  
+37. Or a space station t                ... pos = 0.0   	neg = 0.875
+38. Or an asteroid that                 ... pos = 0.0   	neg = 0.375
+39. And so on.                          ... pos = 0     	neg = 0.0  
+40. John Waters once sai                ... pos = 0.5   	neg = 0.25 
+41. This is that movie.                 ... pos = 0     	neg = 0.125
+42. Too bad he didn't di                ... pos = 0.0   	neg = 1.125
+43. -----== Posted via D                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6217-1046 is Negative        ... pos = 10.875 	neg = 14.625
+Overall score of document
+Total Pos = 10.875
+Total Neg = 14.625
+---------------------------------------------------------------------------

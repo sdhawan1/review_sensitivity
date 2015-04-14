@@ -1,0 +1,27 @@
+0. Tony Scott's ENEMY O                 ... pos = 0.75  	neg = 0.125
+1. The film skillfully                  ... pos = 0.375 	neg = 0.0  
+2. It has clichés out                  ... pos = 0.125 	neg = 0.0  
+3. ), but this is the k                 ... pos = 0.125 	neg = 0.125
+4. ENEMY OF THE STATE e                 ... pos = 1.347 	neg = 1.375
+5. That protagonist is                  ... pos = 0.25  	neg = 0.125
+6. The murder had been                  ... pos = 0.0   	neg = 0.375
+7. Eventually Dean is j                 ... pos = 0.0   	neg = 0.125
+8. This is the second b                 ... pos = 0.375 	neg = 0.25 
+9. ENEMY OF THE STATE i                 ... pos = 0.75  	neg = 0.5  
+10. The initial chase sc                ... pos = 0.125 	neg = 0.0  
+11. Screenwriter David M                ... pos = 1.875 	neg = 0.5  
+12. The dialogue is noth                ... pos = 0.25  	neg = 1.125
+13. Aside from a far-fet                ... pos = 1.5   	neg = 0.375
+14. The scenes of the NS                ... pos = 0.125 	neg = 0.0  
+15. While not as annoyin                ... pos = 0.0   	neg = 0.625
+16. Fortunately, things                 ... pos = 0.5   	neg = 0.0  
+17. ENEMY OF THE STATE i                ... pos = 1.0   	neg = 0.5  
+18. Since I saw it on Ch                ... pos = 0.0   	neg = 0.125
+19. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+20. Film Reviews Archive                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5048-716 is Positive         ... pos = 9.472 	neg = 6.25 
+Overall score of document
+Total Pos = 9.472
+Total Neg = 6.25
+---------------------------------------------------------------------------

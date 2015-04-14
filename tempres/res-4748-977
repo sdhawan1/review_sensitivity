@@ -1,0 +1,47 @@
+0. "And Moses stretched                 ... pos = 0.5   	neg = 0.125
+1. " -- Exodus 14:21.                   ... pos = 0.0   	neg = 0.0  
+2. It's another *seeing                 ... pos = 0.875 	neg = 0.125
+3. In the DreamWorks ca                 ... pos = 1.25  	neg = 0.125
+4. For believers, this                  ... pos = 0.875 	neg = 0.25 
+5. Suffice to say that                  ... pos = 0.125 	neg = 0.0  
+6. As I said, the film'                 ... pos = 0.5   	neg = 0.125
+7. You probably already                 ... pos = 0.0   	neg = 0.0  
+8. There are amazing se                 ... pos = 0.625 	neg = 0.0  
+9. During one spectacul                 ... pos = 0.875 	neg = 0.375
+10. Guards chase him fro                ... pos = 0.0   	neg = 0.0  
+11. And one of my favori                ... pos = 0.0   	neg = 0.0  
+12. It originates as a s                ... pos = 0.5   	neg = 0.0  
+13. It's graceful, haunt                ... pos = 0.25  	neg = 0.125
+14. It's quiet, but the                 ... pos = 0.25  	neg = 0.0  
+15. "   I especially adm                ... pos = 0.875 	neg = 0.375
+16. The light, too.                     ... pos = 0.5   	neg = 0.25 
+17. The light Moses is b                ... pos = 0.5   	neg = 0.875
+18. Of course, overall t                ... pos = 0.0   	neg = 0.125
+19. I liked how they wer                ... pos = 0.125 	neg = 1.125
+20. But then again, this                ... pos = 0.625 	neg = 0.125
+21. Not only was the art                ... pos = 0.0   	neg = 0.125
+22. ) credit for arrangi                ... pos = 0.5   	neg = 0.0  
+23. Having said that the                ... pos = 1.25  	neg = 0.375
+24. "You're Playing w/ t                ... pos = 0.375 	neg = 0.0  
+25. This is not another                 ... pos = 0.0   	neg = 0.25 
+26. " The score was pret                ... pos = 1.75  	neg = 0.75 
+27. To me, it had a chan                ... pos = 1.0   	neg = 0.125
+28. "  The voices were o                ... pos = 0.75  	neg = 0.25 
+29. Val Kilmer did a gre                ... pos = 0.0   	neg = 0.125
+30. In fact, the only vo                ... pos = 0.0   	neg = 0.375
+31. "The Prince of Egypt                ... pos = 0.25  	neg = 0.125
+32. Whether you're a bel                ... pos = 0.25  	neg = 0.25 
+33. I don't know, someti                ... pos = 3.75  	neg = 0.875
+34. What's wrong with be                ... pos = 0.125 	neg = 0.75 
+35. "It is not the noise                ... pos = 0.375 	neg = 0.625
+36. " -- Exodus 32:18. R                ... pos = 0.25  	neg = 0.5  
+37. (Which wouldn't make                ... pos = 0.125 	neg = 0.0  
+38. .                                   ... pos = 0     	neg = 0    
+39. .                                   ... pos = 0     	neg = 0    
+40. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4748-977 is Positive         ... pos = 20.0  	neg = 9.625
+Overall score of document
+Total Pos = 20.0
+Total Neg = 9.625
+---------------------------------------------------------------------------

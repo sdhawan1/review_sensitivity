@@ -1,0 +1,41 @@
+0. "American Beauty" is                 ... pos = 0.125 	neg = 0.75 
+1. It's the story about                 ... pos = 0.125 	neg = 0.0  
+2. They're an extremely                 ... pos = 1.375 	neg = 0.0  
+3. They go to company e                 ... pos = 0.0   	neg = 0.75 
+4. As the tagline says,                 ... pos = 0.375 	neg = 0.5  
+5. Carolyn has an "I ju                 ... pos = 0.0   	neg = 0.0  
+6. Lester on the other                  ... pos = 0.375 	neg = 0.125
+7. Spacey's character i                 ... pos = 0.875 	neg = 0.875
+8. He's a man dead on t                 ... pos = 0.125 	neg = 0.75 
+9. Lester Burnham's lif                 ... pos = 0.875 	neg = 0.5  
+10. It brings back his m                ... pos = 0.125 	neg = 0.125
+11. Meanwhile, his daugh                ... pos = 0.625 	neg = 0.0  
+12. Bentley's character                 ... pos = 0.875 	neg = 0.125
+13. Throughout the film,                ... pos = 1.0   	neg = 0.0  
+14. Kevin Spacey and Ann                ... pos = 0.125 	neg = 0.0  
+15. They give Oscar-wort                ... pos = 0.375 	neg = 0.125
+16. They're so good in f                ... pos = 0.875 	neg = 0.125
+17. Surprisingly, the su                ... pos = 1.375 	neg = 0.5  
+18. At the beginning of                 ... pos = 0.0   	neg = 0.125
+19. "  Now he'll have to                ... pos = 0.625 	neg = 0.125
+20. Then there are the t                ... pos = 1.75  	neg = 0.0  
+21. It's safe to say tha                ... pos = 1.375 	neg = 0.0  
+22. "American Beauty" is                ... pos = 1.125 	neg = 0.125
+23. Though some think it                ... pos = 0.0   	neg = 0.125
+24. He's concocted one o                ... pos = 0.0   	neg = 0.375
+25. Chances are, he'll b                ... pos = 1.125 	neg = 0.125
+26. This scribe has dial                ... pos = 0.0   	neg = 0.0  
+27. He's taken the old d                ... pos = 0.875 	neg = 0.0  
+28. Sam Mendes masterful                ... pos = 1.0   	neg = 0.0  
+29. He is only complemen                ... pos = 1.25  	neg = 0.125
+30. His distinctive touc                ... pos = 0.375 	neg = 0.0  
+31. "Beauty" also has an                ... pos = 0.875 	neg = 0.25 
+32. There are many other                ... pos = 1.625 	neg = 0.0  
+33. "  I'd like to list                 ... pos = 0.0   	neg = 0.0  
+34. However, I'd rather                 ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-1501 is Positive        ... pos = 22.25 	neg = 6.625
+Overall score of document
+Total Pos = 22.25
+Total Neg = 6.625
+---------------------------------------------------------------------------

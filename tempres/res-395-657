@@ -1,0 +1,42 @@
+0. This is one of the m                 ... pos = 0.25  	neg = 0.25 
+1. There are some great                 ... pos = 1.5   	neg = 0.0  
+2. This is the best we'                 ... pos = 0.375 	neg = 0.125
+3. This film begins an                  ... pos = 0.0   	neg = 0    
+4. In the aftermath of                  ... pos = 1.0   	neg = 0.0  
+5. One day, Andy broke                  ... pos = 0.25  	neg = 0.625
+6. Woody is now officia                 ... pos = 0.0   	neg = 0.75 
+7. Later Andy's mother                  ... pos = 0.0   	neg = 0.0  
+8. Since one of these d                 ... pos = 0.125 	neg = 0.125
+9. Although his mission                 ... pos = 1.0   	neg = 0.25 
+10. The cowboy toy repre                ... pos = 0.5   	neg = 0.25 
+11. " If he can acquire                 ... pos = 0.375 	neg = 0.125
+12. So, after Andy's mot                ... pos = 0.875 	neg = 0.0  
+13. And so,  Buzz, Rex (                ... pos = 0.5   	neg = 0.0  
+14. There are car chases                ... pos = 0.25  	neg = 0.0  
+15. Meanwhile, Woody lea                ... pos = 0.0   	neg = 0.125
+16. They offer him anoth                ... pos = 0.0   	neg = 0.125
+17. He is now forced to                 ... pos = 1.5   	neg = 0.625
+18. The problem is, if W                ... pos = 0.25  	neg = 0.375
+19. A real effort is mad                ... pos = 0.0   	neg = 0.125
+20. The animation is ric                ... pos = 0.75  	neg = 0.375
+21. The "cinematography"                ... pos = 1.25  	neg = 0.125
+22. Lighting and filters                ... pos = 1.0   	neg = 0.375
+23. The film ends with t                ... pos = 0.25  	neg = 0.0  
+24. These outtakes are s                ... pos = 0.75  	neg = 0.0  
+25. But what in the end                 ... pos = 1.0   	neg = 0.375
+26. It is its heart and                 ... pos = 1.625 	neg = 0.125
+27. It is not difficult                 ... pos = 0.5   	neg = 0.5  
+28. Unexpected because t                ... pos = 0.375 	neg = 0.25 
+29. But mostly it was un                ... pos = 0.375 	neg = 0.25 
+30. But here the directo                ... pos = 0.875 	neg = 0.0  
+31. This is a big step-a                ... pos = 0.125 	neg = 0.125
+32. Off course, this is                 ... pos = 0.75  	neg = 1.0  
+33. Whether this is the                 ... pos = 0.5   	neg = 0.125
+34. My choice would prob                ... pos = 0.0   	neg = 0.25 
+35. I almost lost my hop                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-395-657 is Positive          ... pos = 19.5  	neg = 7.75 
+Overall score of document
+Total Pos = 19.5
+Total Neg = 7.75
+---------------------------------------------------------------------------

@@ -1,0 +1,63 @@
+0. Year: 1999.                          ... pos = 0     	neg = 0    
+1. Starring Saffron Bur                 ... pos = 0.0   	neg = 0.0  
+2. Written by Duncan Ke                 ... pos = 0.0   	neg = 0.0  
+3. Directed by Renny Ha                 ... pos = 0.0   	neg = 0    
+4. Rated R.. "Jaws" it                  ... pos = 0.125 	neg = 0.0  
+5. It may have fearsome                 ... pos = 1.75  	neg = 0.375
+6. It is, however, a pr                 ... pos = 1.0   	neg = 0.625
+7. It's fun, thrilling,                 ... pos = 0.25  	neg = 0.0  
+8. In the end, unpredic                 ... pos = 1.0   	neg = 0.375
+9. Saffron Burrows play                 ... pos = 0.0   	neg = 0.25 
+10. After a shark escape                ... pos = 0.5   	neg = 0.625
+11. She takes him out to                ... pos = 0.0   	neg = 0.125
+12. After most of the cr                ... pos = 0.0   	neg = 0.25 
+13. The sharks begin to                 ... pos = 0.375 	neg = 1.125
+14. It is eventually rev                ... pos = 0.0   	neg = 0.375
+15. The trapped humans m                ... pos = 0.5   	neg = 1.0  
+16. "Deep Blue Sea" cont                ... pos = 0.0   	neg = 0.25 
+17. First of all, the di                ... pos = 0.125 	neg = 1.875
+18. The plot also makes                 ... pos = 0.5   	neg = 0.25 
+19. The biggest problem                 ... pos = 0.0   	neg = 1.125
+20. The other big proble                ... pos = 0.25  	neg = 0.625
+21. "Deep Blue Sea" seem                ... pos = 0.5   	neg = 0.75 
+22. Furthermore, the cha                ... pos = 2.75  	neg = 0.0  
+23. Burrows is an irresp                ... pos = 0.625 	neg = 0.25 
+24. All of these problem                ... pos = 1.375 	neg = 1.375
+25. During these first 4                ... pos = 0.125 	neg = 0.5  
+26. Then something happe                ... pos = 0.0   	neg = 0.0  
+27. I won't give it away                ... pos = 0.625 	neg = 0.25 
+28. The film manages to                 ... pos = 0.0   	neg = 0.0  
+29. Not only does it kil                ... pos = 1.5   	neg = 0.125
+30. Let's face it, in mo                ... pos = 0.375 	neg = 0.375
+31. In "Deep Blue Sea,"                 ... pos = 0.0   	neg = 0.125
+32. Harlin may be a hack                ... pos = 1.125 	neg = 1.25 
+33. The film has no obvi                ... pos = 0.0   	neg = 0.375
+34. In "Deep Blue Sea,"                 ... pos = 1.375 	neg = 0.25 
+35. The shark has struck                ... pos = 0.0   	neg = 0.25 
+36. In this age of overu                ... pos = 0.875 	neg = 1.125
+37. Not that the effects                ... pos = 0.125 	neg = 0.25 
+38. The mixture of real,                ... pos = 0.125 	neg = 0.375
+39. Like Spielberg did i                ... pos = 1.0   	neg = 0.25 
+40. Until then, an omino                ... pos = 0.125 	neg = 0.25 
+41. He also plays on mon                ... pos = 1.75  	neg = 0.125
+42. In one of the film's                ... pos = 0.0   	neg = 0.25 
+43. Brothers never make                 ... pos = 0.0   	neg = 0.0  
+44. " His character is b                ... pos = 1.0   	neg = 0.75 
+45. Why, they even made                 ... pos = 0.0   	neg = 0.0  
+46. Cool J, however, is                 ... pos = 2.125 	neg = 0.25 
+47. So, "Deep Blue Sea"                 ... pos = 0.875 	neg = 1.5  
+48. Don't get me wrong.                 ... pos = 0     	neg = 0.75 
+49. All the things that                 ... pos = 0.125 	neg = 0.875
+50. The dialogue doesn't                ... pos = 1.25  	neg = 0.25 
+51. If those are the sor                ... pos = 0.25  	neg = 0.25 
+52. " If you' re willing                ... pos = 1.0   	neg = 0.5  
+53. I'm giving "Deep Blu                ... pos = 0.5   	neg = 0.125
+54. That element will ke                ... pos = 0.25  	neg = 0.5  
+55. Any movie that can d                ... pos = 0.125 	neg = 0.125
+56. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3081-1477 is Positive        ... pos = 28.25 	neg = 23.625
+Overall score of document
+Total Pos = 28.25
+Total Neg = 23.625
+---------------------------------------------------------------------------

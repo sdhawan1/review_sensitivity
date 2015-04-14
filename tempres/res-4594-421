@@ -1,0 +1,28 @@
+0. The topic of celebri                 ... pos = 0.125 	neg = 0.125
+1. Should celebrities r                 ... pos = 0.625 	neg = 0    
+2. Well, regardless of                  ... pos = 0.375 	neg = 0.0  
+3. Living in Los Angele                 ... pos = 0.375 	neg = 0.125
+4. When you first see t                 ... pos = 0.125 	neg = 0.0  
+5. As you talk to the p                 ... pos = 0.125 	neg = 0.125
+6. However, when the pe                 ... pos = 0.25  	neg = 0.75 
+7. Therefore, a romance                 ... pos = 0.0   	neg = 0.125
+8. In "Notting Hill", W                 ... pos = 0.75  	neg = 0.0  
+9. A series of coincide                 ... pos = 0.375 	neg = 0.0  
+10. William isn't sure w                ... pos = 1.125 	neg = 0.625
+11. >From that moment on                ... pos = 0.125 	neg = 0.125
+12. She loves him only f                ... pos = 1.0   	neg = 0.125
+13. He loves her because                ... pos = 0.625 	neg = 0.0  
+14. "Notting Hill" is we                ... pos = 0.25  	neg = 0.25 
+15. Hugh Grant once agai                ... pos = 1.25  	neg = 0.5  
+16. The supporting cast                 ... pos = 1.125 	neg = 0.125
+17. The acting more than                ... pos = 0.875 	neg = 0.0  
+18. "Notting Hill" is th                ... pos = 1.125 	neg = 0.5  
+19. I'd like to see a fi                ... pos = 0.25  	neg = 1.125
+20. "Notting Hill" isn't                ... pos = 0.5   	neg = 0.0  
+21. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4594-421 is Positive         ... pos = 11.375 	neg = 4.75 
+Overall score of document
+Total Pos = 11.375
+Total Neg = 4.75
+---------------------------------------------------------------------------

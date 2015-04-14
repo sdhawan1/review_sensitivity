@@ -1,0 +1,29 @@
+0. AUSTIN POWERS: THE S                 ... pos = 0.375 	neg = 0.25 
+1. Evil (Myers again),                  ... pos = 0.25  	neg = 1.25 
+2. Evil's nonsensical s                 ... pos = 0.875 	neg = 0.5  
+3. But do people really                 ... pos = 0.625 	neg = 0.0  
+4. Far more pressing ma                 ... pos = 0.0   	neg = 0.125
+5. The answer -- a stro                 ... pos = 0.75  	neg = 0.375
+6. Evil henchman called                 ... pos = 0.0   	neg = 0.75 
+7. Giving life to this                  ... pos = 0.75  	neg = 0.5  
+8. " He'd be guilty of                  ... pos = 0.5   	neg = 0.875
+9. Like Myers' hats, th                 ... pos = 0.375 	neg = 0.0  
+10. Showing up from the                 ... pos = 0.25  	neg = 0.75 
+11. Misunderstood Scott,                ... pos = 1.5   	neg = 0.875
+12. This "Island of Dr.                 ... pos = 1.0   	neg = 0.125
+13. But the jokes are ne                ... pos = 0.25  	neg = 0.25 
+14. As with all spoofs,                 ... pos = 0.375 	neg = 1.25 
+15. One area done better                ... pos = 0.5   	neg = 0.125
+16. Hurley gets explaine                ... pos = 0.75  	neg = 0.125
+17. No matter.                          ... pos = 0.0   	neg = 0.25 
+18. With Myers, Mini-Me                 ... pos = 0.5   	neg = 0.375
+19. "Austin" 1 did about                ... pos = 0.625 	neg = 0.0  
+20. With those folks now                ... pos = 0.0   	neg = 0.125
+21. In fact, from the wi                ... pos = 1.25  	neg = 0.125
+22. "Goldswinger," anyon                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1376-1031 is Positive        ... pos = 11.5  	neg = 9.0  
+Overall score of document
+Total Pos = 11.5
+Total Neg = 9.0
+---------------------------------------------------------------------------

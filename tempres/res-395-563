@@ -1,0 +1,38 @@
+0. Featuring the voice                  ... pos = 0.0   	neg = 0.0  
+1. Rated G.. Toy Story                  ... pos = 0.25  	neg = 0.25 
+2. It's a profound mast                 ... pos = 2.125 	neg = 0.0  
+3. It's wholesome enter                 ... pos = 2.375 	neg = 0.25 
+4. We got it.                           ... pos = 0.0   	neg = 0.0  
+5. Produced by the enor                 ... pos = 0.875 	neg = 0.125
+6. While the two certai                 ... pos = 2.25  	neg = 0.125
+7. It involves a rescue                 ... pos = 0.125 	neg = 0.0  
+8. You see, Woody (voic                 ... pos = 0.0   	neg = 0.375
+9. In fact a long time                  ... pos = 0.0   	neg = 0.375
+10. Now, he and three co                ... pos = 0.25  	neg = 0.125
+11. It's up to Buzz Ligh                ... pos = 1.25  	neg = 0.0  
+12. ) and seek out "Big                 ... pos = 0.0   	neg = 0.0  
+13. This leads to a geni                ... pos = 0.5   	neg = 0.125
+14. It's not long before                ... pos = 0.125 	neg = 1.375
+15. Meanwhile, Woody fac                ... pos = 2.25  	neg = 0.5  
+16. This has more substa                ... pos = 1.5   	neg = 0.125
+17. Gracefully, it speak                ... pos = 0.5   	neg = 0.25 
+18. It talks to them on                 ... pos = 1.0   	neg = 0.0  
+19. Ergo, adults can app                ... pos = 0.0   	neg = 0.0  
+20. Pixar's computer ani                ... pos = 0.75  	neg = 0.125
+21. After Antz and A Bug                ... pos = 1.125 	neg = 0.125
+22. The characters are s                ... pos = 1.875 	neg = 0.0  
+23. It's a marvelous exp                ... pos = 1.625 	neg = 0.0  
+24. Besides being profou                ... pos = 1.375 	neg = 0.125
+25. It's a nice reversal                ... pos = 0.25  	neg = 0.25 
+26. This recalls the won                ... pos = 1.25  	neg = 0.0  
+27. ) fast enough to mak                ... pos = 0     	neg = 0.0  
+28. Is "masterpiece" too                ... pos = 0.5   	neg = 0.375
+29. Is it appropriate to                ... pos = 0.0   	neg = 0.125
+30. My answers are no an                ... pos = 0.25  	neg = 0.25 
+31. See the movie and co                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-395-563 is Positive          ... pos = 24.375 	neg = 5.375
+Overall score of document
+Total Pos = 24.375
+Total Neg = 5.375
+---------------------------------------------------------------------------

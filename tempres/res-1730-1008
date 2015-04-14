@@ -1,0 +1,40 @@
+0. **1/2 (out of 4) THE                 ... pos = 1.875 	neg = 0.75 
+1. As capers go, it's s                 ... pos = 0.0   	neg = 0.0  
+2. The crime story work                 ... pos = 0.0   	neg = 0    
+3. The movie only fails                 ... pos = 0     	neg = 1.375
+4. This remake of the 1                 ... pos = 0.0   	neg = 0.0  
+5. Rene Russo plays Cat                 ... pos = 0.375 	neg = 0.375
+6. Catherine quickly de                 ... pos = 0.0   	neg = 0.125
+7. Now she just needs s                 ... pos = 0.0   	neg = 0.125
+8. Crown knows how to k                 ... pos = 0.0   	neg = 0.0  
+9. Each time they meet,                 ... pos = 0.875 	neg = 0    
+10. The protracted inves                ... pos = 1.25  	neg = 0.25 
+11. Catherine collaborat                ... pos = 0.125 	neg = 0.0  
+12. Michael's law-abidin                ... pos = 0.625 	neg = 0.0  
+13. She can choose a ric                ... pos = 0.75  	neg = 0.5  
+14. Catherine and Thomas                ... pos = 0.875 	neg = 0.125
+15. Both leads are good-                ... pos = 0.375 	neg = 0    
+16. It was nice to see t                ... pos = 0.125 	neg = 0.125
+17. It draws attention t                ... pos = 0.5   	neg = 0.375
+18. But good looks and c                ... pos = 1.5   	neg = 0.625
+19. Brosnan manages to b                ... pos = 1.125 	neg = 0.125
+20. Russo was better, bu                ... pos = 0.0   	neg = 0.625
+21. For most of the movi                ... pos = 0.375 	neg = 0.0  
+22. The capers are more                 ... pos = 0.375 	neg = 0.125
+23. The temptations of w                ... pos = 0.25  	neg = 0.0  
+24. Even the song WINDMI                ... pos = 0.125 	neg = 0.125
+25. The whole picture ju                ... pos = 0.125 	neg = 0.125
+26. I won't give it away                ... pos = 0.25  	neg = 0.0  
+27. The first movie ende                ... pos = 0.25  	neg = 0.0  
+28. It could have just a                ... pos = 0.25  	neg = 0.0  
+29. The new version of t                ... pos = 0.375 	neg = 0.625
+30. It doesn't entirely                 ... pos = 1.125 	neg = 0.625
+31. But those problems a                ... pos = 0.0   	neg = 0.25 
+32. The interactions bet                ... pos = 2.375 	neg = 0    
+33. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1730-1008 is Positive        ... pos = 16.25 	neg = 7.375
+Overall score of document
+Total Pos = 16.25
+Total Neg = 7.375
+---------------------------------------------------------------------------

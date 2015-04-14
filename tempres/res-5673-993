@@ -1,0 +1,35 @@
+0. The eponymous hero (                 ... pos = 0.5   	neg = 0.125
+1. He also gets a legit                 ... pos = 0.375 	neg = 0.25 
+2. And a good thing too                 ... pos = 0.75  	neg = 0.25 
+3. Think "Wesley Snipes                 ... pos = 0.0   	neg = 0.0  
+4. Think "what's on in                  ... pos = 0.0   	neg = 0.0  
+5. ". But that would be                 ... pos = 0.875 	neg = 1.75 
+6. The slim plot contai                 ... pos = 0.125 	neg = 0.0  
+7. A vampire culture un                 ... pos = 1.125 	neg = 0.25 
+8. (We know they're reb                 ... pos = 0.0   	neg = 0.25 
+9. They're so k3wl.                     ... pos = 0     	neg = 0.0  
+10. ) Quicker than you c                ... pos = 0.0   	neg = 0.75 
+11. In between working o                ... pos = 0.625 	neg = 0.0  
+12. Fin.                                ... pos = 0.0   	neg = 0    
+13. But what does the fi                ... pos = 0.0   	neg = 0.0  
+14. First on the list ar                ... pos = 0.625 	neg = 0.0  
+15. Fluidly choreographe                ... pos = 0.125 	neg = 0.0  
+16. Snipes, ridiculously                ... pos = 0.75  	neg = 0.125
+17. An actor he isn't, b                ... pos = 0.125 	neg = 0.125
+18. And while we're on S                ... pos = 0.5   	neg = 0.0  
+19. Vampires shot with s                ... pos = 0.0   	neg = 0.75 
+20. Staked vampires crum                ... pos = 0.0   	neg = 0.25 
+21. It's a tasty if gory                ... pos = 0.625 	neg = 0    
+22. Actually the directi                ... pos = 0.5   	neg = 0.125
+23. Combined with some c                ... pos = 1.125 	neg = 1.125
+24. There are a few miss                ... pos = 0.25  	neg = 0.375
+25. But it is a pretty a                ... pos = 0.125 	neg = 0.375
+26. Rated as such, it's                 ... pos = 0.375 	neg = 0.0  
+27. -- Paul-Michael Agap                ... pos = 0.0   	neg = 0.0  
+28. Biology, Imperial Co                ... pos = 0.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5673-993 is Positive         ... pos = 9.625 	neg = 7.75 
+Overall score of document
+Total Pos = 9.625
+Total Neg = 7.75
+---------------------------------------------------------------------------

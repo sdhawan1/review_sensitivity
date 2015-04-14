@@ -1,0 +1,27 @@
+0. The Happy Bastard's                  ... pos = 0.625 	neg = 0.0  
+1. Well, a few years ag                 ... pos = 2.0   	neg = 1.375
+2. failed to really get                 ... pos = 0     	neg = 0.375
+3. This time around, ho                 ... pos = 0.125 	neg = 0.0  
+4. The story goes like                  ... pos = 0.0   	neg = 0.0  
+5. A mobster (Robert De                 ... pos = 0.375 	neg = 0.0  
+6. It's these attacks t                 ... pos = 0.5   	neg = 0.0  
+7. First, of course, he                 ... pos = 1.375 	neg = 0.5  
+8. And, of course, he c                 ... pos = 0.875 	neg = 0.125
+9. Fortunately, the mov                 ... pos = 0.5   	neg = 0.125
+10. Director Harold Rami                ... pos = 1.375 	neg = 1.0  
+11. DeNiro does some of                 ... pos = 1.125 	neg = 0.625
+12. (A scene where he tr                ... pos = 0.625 	neg = 0.75 
+13. ) Crystal plays an e                ... pos = 1.875 	neg = 0.0  
+14. Kudrow is also a hoo                ... pos = 0.125 	neg = 0.125
+15. Is the movie perfect                ... pos = 0.0   	neg = 0.125
+16. Not really, thanks t                ... pos = 1.0   	neg = 0.625
+17. ), but it is an enjo                ... pos = 2.125 	neg = 0.125
+18. Kudos to Crystal and                ... pos = 0.0   	neg = 0.0  
+19. Line of the movie: C                ... pos = 0.0   	neg = 0.375
+20. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5639-1292 is Positive        ... pos = 14.625 	neg = 6.25 
+Overall score of document
+Total Pos = 14.625
+Total Neg = 6.25
+---------------------------------------------------------------------------

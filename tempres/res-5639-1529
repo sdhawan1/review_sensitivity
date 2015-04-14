@@ -1,0 +1,27 @@
+0. Robert De Niro's bee                 ... pos = 0.875 	neg = 0.125
+1. ' He usually portray                 ... pos = 2.0   	neg = 0.0  
+2. While he remains one                 ... pos = 1.125 	neg = 0.625
+3. But more recently he                 ... pos = 1.375 	neg = 0.0  
+4. ' `Analyze This' is                  ... pos = 0.0   	neg = 0.5  
+5. He employs a great c                 ... pos = 0.75  	neg = 0.0  
+6. The script is not as                 ... pos = 0.125 	neg = 0.875
+7. The film revolves ar                 ... pos = 0.0   	neg = 0.75 
+8. He is having a mob w                 ... pos = 0.25  	neg = 0.5  
+9. Paul begins to have                  ... pos = 0.375 	neg = 0.0  
+10. Completely by accide                ... pos = 0.125 	neg = 0.0  
+11. '.         While Ben                ... pos = 1.0   	neg = 0.125
+12. He becomes an employ                ... pos = 0.0   	neg = 0.0  
+13. When Ben goes on vac                ... pos = 0.125 	neg = 0.0  
+14. Ben's fiancée, Laur                ... pos = 0.25  	neg = 0.125
+15. But it's not over ye                ... pos = 0.375 	neg = 0.125
+16. `Analyze This' is a                 ... pos = 0.125 	neg = 0.125
+17. De Niro makes the mo                ... pos = 0.0   	neg = 0.625
+18. But Crystal holds hi                ... pos = 0.875 	neg = 0.0  
+19. All in all an entert                ... pos = 0.125 	neg = 0.0  
+20. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5639-1529 is Positive        ... pos = 9.875 	neg = 4.5  
+Overall score of document
+Total Pos = 9.875
+Total Neg = 4.5
+---------------------------------------------------------------------------

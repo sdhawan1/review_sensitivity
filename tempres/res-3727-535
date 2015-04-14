@@ -1,0 +1,55 @@
+0. Directed by: John Si                 ... pos = 0.0   	neg = 0.125
+1. This time his  enemy                 ... pos = 0.375 	neg = 0.75 
+2. Now, two years  late                 ... pos = 0.0   	neg = 0.0  
+3. Walter's  father, a                  ... pos = 0.5   	neg = 0.5  
+4. The witness is a wai                 ... pos = 0.0   	neg = 0.125
+5. Now Shaft has to tra                 ... pos = 0.0   	neg = 0.0  
+6. Assisting him are a                  ... pos = 0.875 	neg = 0.0  
+7. Unfortunately for Sh                 ... pos = 0.0   	neg = 1.375
+8. Now the two groups a                 ... pos = 1.125 	neg = 0.0  
+9. Okay, before everyon                 ... pos = 0.375 	neg = 0.125
+10. That version had an                 ... pos = 0.125 	neg = 0.125
+11. This version has non                ... pos = 0.375 	neg = 0.0  
+12. Singleton, who showe                ... pos = 0.0   	neg = 0.125
+13. The plot, in this ve                ... pos = 0.25  	neg = 0.25 
+14. Shaft was a normal g                ... pos = 0.5   	neg = 0.25 
+15. I don't think I saw                 ... pos = 0.375 	neg = 0.0  
+16. I also found it puzz                ... pos = 0.25  	neg = 0.875
+17. I know,  that sounds                ... pos = 1.125 	neg = 0.125
+18. I don't even remembe                ... pos = 0.125 	neg = 0.0  
+19. It felt a little odd                ... pos = 0.5   	neg = 0.5  
+20. It's not easy for an                ... pos = 0.25  	neg = 0.125
+21. Denzel  Washington d                ... pos = 0.0   	neg = 0.625
+22. Samuel L. Jackson is                ... pos = 0.125 	neg = 0.5  
+23. Don't get me wrong,                 ... pos = 0.5   	neg = 2.0  
+24. The rest of the cast                ... pos = 0.125 	neg = 0.625
+25. Richard Roundtree ha                ... pos = 0.0   	neg = 2.0  
+26. Vanessa Williams ("S                ... pos = 2.25  	neg = 0.125
+27. Then there's poor  D                ... pos = 0.0   	neg = 0.875
+28. Last we have Christi                ... pos = 1.75  	neg = 0.375
+29. Don't get me  wrong,                ... pos = 0.0   	neg = 2.625
+30. He's whiny and insec                ... pos = 0.375 	neg = 1.0  
+31. The film's  real vil                ... pos = 0.125 	neg = 1.375
+32. I think one of the m                ... pos = 0.375 	neg = 0.25 
+33. The fight scenes go                 ... pos = 0.0   	neg = 0.0  
+34. This got old and ted                ... pos = 0.0   	neg = 0.25 
+35. In fact, that's the                 ... pos = 0.0   	neg = 0.25 
+36. Everything, from all                ... pos = 1.25  	neg = 0.0  
+37. Then there's the fil                ... pos = 0.375 	neg = 0.5  
+38. I decided that  sinc                ... pos = 0.125 	neg = 0.0  
+39. So overall, what do                 ... pos = 0.375 	neg = 0.0  
+40. I think the  man sho                ... pos = 0.0   	neg = 0.0  
+41. "Shaft" runs only 99                ... pos = 0.0   	neg = 0.0  
+42. I'd recommend it onl                ... pos = 0.0   	neg = 0.5  
+43. Comments?                           ... pos = 0     	neg = 0.0  
+44. Send to: johnbeachem                ... pos = 0.375 	neg = 0.125
+45. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+46. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+47. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+48. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3727-535 is Negative         ... pos = 15.625 	neg = 20.5 
+Overall score of document
+Total Pos = 15.625
+Total Neg = 20.5
+---------------------------------------------------------------------------

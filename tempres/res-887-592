@@ -1,0 +1,35 @@
+0. As I watched the swe                 ... pos = 0.625 	neg = 0.75 
+1. Gibson takes on two                  ... pos = 1.5   	neg = 0.0  
+2. In the premier,  he                  ... pos = 0.25  	neg = 0.0  
+3. In  the latter, he p                 ... pos = 0.0   	neg = 0.0  
+4. ) Rooster who will l                 ... pos = 0.125 	neg = 0    
+5. Both very entertaini                 ... pos = 1.375 	neg = 0.125
+6. Nick Park, the possi                 ... pos = 3.0   	neg = 0.625
+7. ) to  create a live-                 ... pos = 0.0   	neg = 0    
+8. "The Patriot," on th                 ... pos = 0.75  	neg = 0.125
+9. Unfortunately, "The                  ... pos = 0.25  	neg = 1.375
+10. The revolution in "C                ... pos = 0.625 	neg = 1.125
+11. Soon after the doome                ... pos = 0.0   	neg = 0.125
+12. If the group can lea                ... pos = 0.25  	neg = 0.0  
+13. But the process will                ... pos = 2.125 	neg = 0.75 
+14. "The Patriot" is dec                ... pos = 1.125 	neg = 0.125
+15. Screenwriter Robert                 ... pos = 2.125 	neg = 0.125
+16. But don't think this                ... pos = 0.0   	neg = 0.375
+17. Unfortunately, the p                ... pos = 0.375 	neg = 1.25 
+18. "The Patriot" does,                 ... pos = 3.0   	neg = 0.0  
+19. "Chicken Run," on th                ... pos = 0.125 	neg = 0.0  
+20. Perhaps Lord and Par                ... pos = 1.625 	neg = 0.125
+21. When an escape attem                ... pos = 1.0   	neg = 0.125
+22. And when the farm's                 ... pos = 0.25  	neg = 0.625
+23. Other references inc                ... pos = 0.25  	neg = 0.0  
+24. ". In the time it ta                ... pos = 0.0   	neg = 0.0  
+25. This may not be such                ... pos = 0.0   	neg = 1.0  
+26. Although, if you ins                ... pos = 0.0   	neg = 0.375
+27. And if you decide to                ... pos = 0.125 	neg = 0.0  
+28. These birds of a fea                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-887-592 is Positive          ... pos = 21.5  	neg = 9.125
+Overall score of document
+Total Pos = 21.5
+Total Neg = 9.125
+---------------------------------------------------------------------------

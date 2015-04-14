@@ -1,0 +1,56 @@
+0. American Beauty by J                 ... pos = 0.5   	neg = 0.75 
+1. When was the last ti                 ... pos = 0.0   	neg = 0.125
+2. Seconds, minutes lat                 ... pos = 0.0   	neg = 0.125
+3. The grin on your fac                 ... pos = 0.25  	neg = 0.25 
+4. You can't move a mus                 ... pos = 0.75  	neg = 0.125
+5. If you're stumped, a                 ... pos = 0.5   	neg = 0.75 
+6. You see a happily ma                 ... pos = 0.0   	neg = 0.25 
+7. He is a magazine wri                 ... pos = 0.0   	neg = 0.125
+8. His life couldn't be                 ... pos = 0.625 	neg = 0.125
+9. You see a self absor                 ... pos = 0.5   	neg = 0.625
+10. You see a happily ma                ... pos = 0.0   	neg = 0.25 
+11. She is a successful                 ... pos = 0.625 	neg = 0.125
+12. Her life couldn't be                ... pos = 0.0   	neg = 0.125
+13. You see a shallow, r                ... pos = 0.75  	neg = 0.25 
+14. Lester (Kevin Spacey                ... pos = 0.5   	neg = 0.125
+15. The unhappily marrie                ... pos = 0.125 	neg = 1.5  
+16. This relatively smal                ... pos = 2.625 	neg = 0.5  
+17. By the time American                ... pos = 2.75  	neg = 0.125
+18. By the time American                ... pos = 1.125 	neg = 0.75 
+19. By the time American                ... pos = 0.875 	neg = 0.125
+20. Looking to take an a                ... pos = 0.0   	neg = 0.125
+21. Lester catches a gli                ... pos = 0.125 	neg = 0.125
+22. Just by taking one l                ... pos = 0.0   	neg = 0.375
+23. "I feel like I've be                ... pos = 0.0   	neg = 0.125
+24. ". Of course the ent                ... pos = 0.75  	neg = 0.0  
+25. Jane's life is chang                ... pos = 0.5   	neg = 0.125
+26. Ricky, who has been                 ... pos = 1.0   	neg = 0.125
+27. In an extraordinaril                ... pos = 1.75  	neg = 0.0  
+28. Carolyn's life is ch                ... pos = 0.625 	neg = 0.125
+29. Carolyn goes through                ... pos = 0.375 	neg = 0.125
+30. As the three go on t                ... pos = 0.25  	neg = 0.375
+31. The entire ensemble                 ... pos = 2.125 	neg = 0.375
+32. The screenplay, alon                ... pos = 2.0   	neg = 0.0  
+33. The screenplay takes                ... pos = 2.0   	neg = 0.0  
+34. The main cast, consi                ... pos = 2.25  	neg = 0.5  
+35. Annette Bening and K                ... pos = 2.0   	neg = 0.125
+36. At times, the two ar                ... pos = 1.75  	neg = 0.625
+37. Watching a fight bet                ... pos = 0.25  	neg = 0.875
+38. It's obvious where v                ... pos = 0.5   	neg = 0.0  
+39. Thora Birch and Mena                ... pos = 4.0   	neg = 0.0  
+40. American Beauty can                 ... pos = 0.5   	neg = 0.0  
+41. Or three.                           ... pos = 0.0   	neg = 0.0  
+42. Or twenty.                          ... pos = 0.0   	neg = 0.0  
+43. The heart racing, mo                ... pos = 1.25  	neg = 0.5  
+44. Everything from star                ... pos = 1.125 	neg = 0.375
+45. The screenplay, writ                ... pos = 1.125 	neg = 0.25 
+46. Ball knows not only                 ... pos = 2.375 	neg = 0.0  
+47. Director Sam Mendes'                ... pos = 0.875 	neg = 0.625
+48. The Bottom Line- You                ... pos = 0.0   	neg = 0.0  
+49. Look closer, and you                ... pos = 0.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1926-8 is Positive           ... pos = 42.375 	neg = 13.375
+Overall score of document
+Total Pos = 42.375
+Total Neg = 13.375
+---------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+0. THERE'S SOMETHING AB                 ... pos = 0.625 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 3.125 	neg = 0.25 
+3. She has    the prope                 ... pos = 0.125 	neg = 0.0  
+4. Well, okay,    she's                 ... pos = 0.0   	neg = 0.125
+5. The ridiculously ide                 ... pos = 0.0   	neg = 0.75 
+6. Unlike the sugar-coa                 ... pos = 2.625 	neg = 2.125
+7. Indeed, the sibling                  ... pos = 1.25  	neg = 1.25 
+8. The film's (semblanc                 ... pos = 1.0   	neg = 1.875
+9. In its outline, then                 ... pos = 0.625 	neg = 0.625
+10. There's little doubt                ... pos = 1.875 	neg = 0.375
+11. And, as per the    r                ... pos = 2.0   	neg = 0.625
+12. In its best moments,                ... pos = 1.75  	neg = 1.0  
+13. "I can't believe the                ... pos = 0.125 	neg = 0    
+14. " murmured someone b                ... pos = 0.0   	neg = 0.0  
+15. "That's *so mean*!                  ... pos = 0     	neg = 0    
+16. "    gasped the woma                ... pos = 0.0   	neg = 0.0  
+17. (The guy in front of                ... pos = 0.375 	neg = 0.375
+18. )  The film's humour                ... pos = 0.5   	neg = 1.0  
+19. However, this didn't                ... pos = 0.125 	neg = 0.375
+20. THERE'S SOMETHING AB                ... pos = 1.375 	neg = 1.625
+21. As a result, the fil                ... pos = 0.75  	neg = 0.875
+22. In addition, the fil                ... pos = 1.125 	neg = 0.25 
+23. Still, while wildly                 ... pos = 0.5   	neg = 0.5  
+24. It left me consideri                ... pos = 1.125 	neg = 0.625
+25. While in general I f                ... pos = 1.375 	neg = 0.0  
+26. -- Alex Fung (aw220@                ... pos = 0.5   	neg = 1.25 
+27. "                                   ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3569-717 is Positive         ... pos = 22.875 	neg = 16.125
+Overall score of document
+Total Pos = 22.875
+Total Neg = 16.125
+---------------------------------------------------------------------------

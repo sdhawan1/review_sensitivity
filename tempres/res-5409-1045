@@ -1,0 +1,68 @@
+0. by Curtis Edmonds --                 ... pos = 0.5   	neg = 0.5  
+1. There are no longer                  ... pos = 0.375 	neg = 0.5  
+2. There is only the qu                 ... pos = 0.125 	neg = 0.25 
+3. ". William Faulkner,                 ... pos = 0.25  	neg = 0.125
+4. Today, that threat h                 ... pos = 0.625 	neg = 0.25 
+5. Unless, of course, y                 ... pos = 0.0   	neg = 0.0  
+6. In Hollywood, the qu                 ... pos = 0.125 	neg = 0.125
+7. " but "How can we bl                 ... pos = 0.0   	neg = 0.25 
+8. "  In the Decade of                  ... pos = 0.625 	neg = 0.75 
+9. The only limits to t                 ... pos = 0.5   	neg = 0.0  
+10. Together, they can w                ... pos = 0.375 	neg = 1.125
+11. The Matrix, if nothi                ... pos = 1.125 	neg = 0.375
+12. The Matrix plays on                 ... pos = 1.125 	neg = 0.75 
+13. Eventually, we are t                ... pos = 0.75  	neg = 0.125
+14. The Matrix.                         ... pos = 0.0   	neg = 0    
+15. What is the Matrix?                 ... pos = 0.0   	neg = 0.125
+16. Well, not to give aw                ... pos = 0.75  	neg = 0.375
+17. As long as you accep                ... pos = 1.125 	neg = 0.375
+18. Once you question th                ... pos = 0.25  	neg = 0.0  
+19. You're no longer com                ... pos = 0.25  	neg = 0.25 
+20. You can leap tall bu                ... pos = 0.125 	neg = 0.0  
+21. Of course, once you                 ... pos = 0.0   	neg = 0.0  
+22. (In The Matrix, the                 ... pos = 0.0   	neg = 0.0  
+23. ). The alternate uni                ... pos = 0.125 	neg = 0.25 
+24. It's rendition of th                ... pos = 1.375 	neg = 0.25 
+25. It's populated by sm                ... pos = 0.0   	neg = 0.5  
+26. It has a good sense                 ... pos = 0.75  	neg = 0.25 
+27. The Matrix has every                ... pos = 1.25  	neg = 0.0  
+28. The Matrix manages t                ... pos = 0.125 	neg = 0.125
+29. It starts out as a t                ... pos = 0.0   	neg = 0.75 
+30. But The Matrix betra                ... pos = 0.0   	neg = 0.25 
+31. The last half of the                ... pos = 0.0   	neg = 1.5  
+32. While it has very go                ... pos = 1.25  	neg = 0.5  
+33. (Fans of the lets-pu                ... pos = 0.125 	neg = 0.0  
+34. ). As in other movie                ... pos = 0.125 	neg = 0.5  
+35. Most producers simpl                ... pos = 0.0   	neg = 0.25 
+36. (Steven Spielberg an                ... pos = 0.0   	neg = 0.125
+37. )  Laurence Fishburn                ... pos = 0.375 	neg = 1.25 
+38. Carrie-Anne Moss has                ... pos = 0.0   	neg = 0.0  
+39. The rest of the pira                ... pos = 0.0   	neg = 0.25 
+40. The rest of the pira                ... pos = 0.125 	neg = 0.625
+41. Only Australian acto                ... pos = 0.0   	neg = 0.0  
+42. Detractors of Keanu                 ... pos = 0.625 	neg = 0.0  
+43. The Matrix seems des                ... pos = 0.375 	neg = 0.125
+44. (Fittingly, Reeves d                ... pos = 1.125 	neg = 0.125
+45. )  He does an awful                 ... pos = 0.0   	neg = 0.875
+46. There's nothing espe                ... pos = 1.5   	neg = 1.375
+47. Reeves has his entir                ... pos = 0.5   	neg = 0.375
+48. He doesn't even ask                 ... pos = 0.875 	neg = 0.25 
+49. But the real problem                ... pos = 0.0   	neg = 0.375
+50. Where The Matrix is                 ... pos = 0.5   	neg = 0.375
+51. While there is some                 ... pos = 1.125 	neg = 0.75 
+52. Everyone in the movi                ... pos = 0.125 	neg = 0.125
+53. It's almost as thoug                ... pos = 0.375 	neg = 1.5  
+54. There are a lot of p                ... pos = 0.625 	neg = 0.25 
+55. We can gaze at amaze                ... pos = 1.75  	neg = 0.875
+56. The Matrix promises                 ... pos = 0.75  	neg = 0.0  
+57. To quote Faulkner ag                ... pos = 1.0   	neg = 0.25 
+58. Instead, it settles                 ... pos = 0.0   	neg = 0.0  
+59. Nothing wrong with t                ... pos = 0.125 	neg = 1.0  
+60. MovieNation:  Movie                 ... pos = 0.0   	neg = 0.0  
+61. "  -- Sideshow Bob.                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-1045 is Positive        ... pos = 26.125 	neg = 22.25
+Overall score of document
+Total Pos = 26.125
+Total Neg = 22.25
+---------------------------------------------------------------------------

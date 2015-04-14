@@ -1,0 +1,36 @@
+0. Starring Mel Gibson,                 ... pos = 1.25  	neg = 0.375
+1. Although the movie o                 ... pos = 1.125 	neg = 0.5  
+2. Gibson plays Porter,                 ... pos = 0.0   	neg = 0.375
+3. ) Mr Nice Guy soon b                 ... pos = 1.5   	neg = 0.875
+4. Payback is a well ma                 ... pos = 0.75  	neg = 0.375
+5. Although the film te                 ... pos = 1.125 	neg = 0.125
+6. Mel dominates the wh                 ... pos = 1.25  	neg = 0.875
+7. His 'hard assed' fac                 ... pos = 1.25  	neg = 1.375
+8. Also, someone decide                 ... pos = 0.75  	neg = 2.0  
+9. The rest of the cast                 ... pos = 0.0   	neg = 0.75 
+10. Familiar to viewers                 ... pos = 0.25  	neg = 0.25 
+11. More fun Lucy Alexis                ... pos = 0.375 	neg = 0.0  
+12. Kris Kristofferson,                 ... pos = 0.125 	neg = 1.0  
+13. Finally, William Dev                ... pos = 1.125 	neg = 1.0  
+14. The direction by L.A                ... pos = 0.125 	neg = 0.125
+15. Sadly, the 'talky' s                ... pos = 0.25  	neg = 1.0  
+16. This film should be                 ... pos = 0.0   	neg = 0.75 
+17. The film is shot in                 ... pos = 0.875 	neg = 0.125
+18. And it's also nice t                ... pos = 0.125 	neg = 1.625
+19. In fact, I warmed to                ... pos = 0.25  	neg = 0.875
+20. The violence quota i                ... pos = 1.75  	neg = 0.125
+21. There's a cool sound                ... pos = 0.75  	neg = 0.875
+22. The last twenty minu                ... pos = 1.5   	neg = 0.0  
+23. And here lies the ma                ... pos = 0.0   	neg = 1.0  
+24. This film should be                 ... pos = 0.25  	neg = 0.25 
+25. When the violence ar                ... pos = 0.875 	neg = 0    
+26. But then the drama c                ... pos = 0.0   	neg = 0.5  
+27. Payback, therefore,                 ... pos = 0.75  	neg = 0.125
+28. Gibson fans will enj                ... pos = 0.5   	neg = 0.75 
+29. A shame.. .                         ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-709-1213 is Positive         ... pos = 18.875 	neg = 18.75
+Overall score of document
+Total Pos = 18.875
+Total Neg = 18.75
+---------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+0. Steven Spielberg's "                 ... pos = 1.125 	neg = 0.375
+1. First, the film addr                 ... pos = 0.25  	neg = 0    
+2. Second, it deals wit                 ... pos = 0.0   	neg = 0.0  
+3. Last, and most impor                 ... pos = 0.0   	neg = 0.25 
+4. "Amistad" succeeds a                 ... pos = 0.125 	neg = 0.0  
+5. I have to admit that                 ... pos = 0.25  	neg = 0.5  
+6. Having seen several                  ... pos = 0.125 	neg = 0.125
+7. Fortunately, I turne                 ... pos = 0.5   	neg = 0.875
+8. For one thing, Spiel                 ... pos = 1.125 	neg = 0.125
+9. And some of the imag                 ... pos = 0.375 	neg = 0.0  
+10. One scene in the mid                ... pos = 0.0   	neg = 0.125
+11. Spielberg digs farth                ... pos = 0.0   	neg = 0.125
+12. The stark suffering                 ... pos = 1.125 	neg = 0.625
+13. Exposing politicians                ... pos = 0.5   	neg = 1.0  
+14. The film also examin                ... pos = 1.125 	neg = 0.25 
+15. The biggest success                 ... pos = 0.125 	neg = 0.125
+16. Through Cinque, we a                ... pos = 1.875 	neg = 0.125
+17. Cinque sees the disp                ... pos = 1.0   	neg = 0    
+18. "What kind of countr                ... pos = 0.125 	neg = 0.125
+19. " he asks Baldwin in                ... pos = 0.5   	neg = 0.125
+20. Spielberg's directio                ... pos = 2.0   	neg = 0.25 
+21. Still, there isn't e                ... pos = 0.0   	neg = 0.375
+22. The main flaw in thi                ... pos = 0.375 	neg = 0.25 
+23. This summer's Contac                ... pos = 0.125 	neg = 0.25 
+24. "Amistad" tries to p                ... pos = 0.625 	neg = 0.25 
+25. Perhaps the best way                ... pos = 0.375 	neg = 0.25 
+26. Almost every individ                ... pos = 0.125 	neg = 0.25 
+27. However, I can't hon                ... pos = 1.625 	neg = 0.25 
+28. Visit my Film Review                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1489-716 is Positive         ... pos = 15.5  	neg = 7.0  
+Overall score of document
+Total Pos = 15.5
+Total Neg = 7.0
+---------------------------------------------------------------------------

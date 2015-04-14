@@ -1,0 +1,72 @@
+0. It's unusual, but ev                 ... pos = 0.375 	neg = 0.75 
+1. "Being John Malkovic                 ... pos = 0.0   	neg = 0.125
+2. So often we see movi                 ... pos = 0.75  	neg = 0.875
+3. Not this one.                        ... pos = 0.0   	neg = 0    
+4. This film explores e                 ... pos = 0.0   	neg = 0.375
+5. The film is a funny,                 ... pos = 0.125 	neg = 0.125
+6. It's truly amazing t                 ... pos = 0.75  	neg = 0.0  
+7. Nevertheless, "Being                 ... pos = 0.125 	neg = 0.75 
+8. It's the most creati                 ... pos = 0.0   	neg = 0    
+9. John Cusack stars as                 ... pos = 1.375 	neg = 0.0  
+10. Pushed by his wife L                ... pos = 0.375 	neg = 0.0  
+11. While working in his                ... pos = 0.5   	neg = 0.0  
+12. Craig lets Maxine (C                ... pos = 0.0   	neg = 0.125
+13. The opportunistic Ma                ... pos = 0.25  	neg = 0.375
+14. Complications ensue                 ... pos = 0.25  	neg = 0.125
+15. .                                   ... pos = 0     	neg = 0    
+16. .                                   ... pos = 0     	neg = 0    
+17. but only through Mal                ... pos = 0     	neg = 0.0  
+18. The situation grows                 ... pos = 0.5   	neg = 0.375
+19. ". This film takes a                ... pos = 1.125 	neg = 0.625
+20. Cusack and Diaz play                ... pos = 1.0   	neg = 0.25 
+21. Both actors acquit t                ... pos = 0.5   	neg = 0.0  
+22. Cusack's bemused nat                ... pos = 0.875 	neg = 0.125
+23. Catherine Keener, so                ... pos = 0.0   	neg = 0.375
+24. As for the title cha                ... pos = 3.75  	neg = 0.375
+25. The actor begins by                 ... pos = 0.25  	neg = 0.375
+26. He must then pull of                ... pos = 0.375 	neg = 0.875
+27. When Craig learns to                ... pos = 0.0   	neg = 0.0  
+28. He does it so well t                ... pos = 0.0   	neg = 0.25 
+29. It's most likely the                ... pos = 0.375 	neg = 0.0  
+30. The screenplay, by C                ... pos = 0.875 	neg = 0.625
+31. "Being John Malkovic                ... pos = 1.0   	neg = 0.25 
+32. It has hilarious sig                ... pos = 0.5   	neg = 0.0  
+33. There are classic su                ... pos = 2.625 	neg = 0.0  
+34. Numerous self-parody                ... pos = 0.125 	neg = 0.5  
+35. The laughs come cons                ... pos = 2.25  	neg = 0.0  
+36. The film unapologeti                ... pos = 0.0   	neg = 0.0  
+37. If you're willing to                ... pos = 0.125 	neg = 0.0  
+38. What's truly most ad                ... pos = 1.625 	neg = 0.125
+39. There are countless                 ... pos = 0.875 	neg = 0.375
+40. A less ambitious fil                ... pos = 1.125 	neg = 1.375
+41. I was never certain                 ... pos = 0.625 	neg = 0.25 
+42. Nearly any pressing                 ... pos = 0.0   	neg = 0.625
+43. For example, what ha                ... pos = 0.0   	neg = 0.0  
+44. What if Malkovich we                ... pos = 0.0   	neg = 0.0  
+45. What if more than on                ... pos = 0.0   	neg = 0    
+46. What if there are ot                ... pos = 0.0   	neg = 0.0  
+47. Most films might onl                ... pos = 0.0   	neg = 1.125
+48. "Being John Malkovic                ... pos = 0.0   	neg = 0    
+49. There are plenty of                 ... pos = 1.0   	neg = 0.125
+50. It raises questions                 ... pos = 0.875 	neg = 0.0  
+51. (Perhaps the film's                 ... pos = 0.375 	neg = 0.625
+52. ) It raises issues o                ... pos = 0.5   	neg = 0    
+53. (Is it a coincidence                ... pos = 0.25  	neg = 0.125
+54. ) It raises issues o                ... pos = 0.875 	neg = 0    
+55. In fact, there are s                ... pos = 0.25  	neg = 0.625
+56. I'll just leave it a                ... pos = 0.0   	neg = 0.875
+57. A film that can acco                ... pos = 0.25  	neg = 0.125
+58. A film as creative a                ... pos = 0.5   	neg = 0.0  
+59. It 's funny, inventi                ... pos = 0.375 	neg = 0.0  
+60. It may have some dif                ... pos = 0.125 	neg = 0.125
+61. " After all, this fi                ... pos = 0.5   	neg = 0.0  
+62. All they see it as i                ... pos = 0.375 	neg = 0.125
+63. Some may find this h                ... pos = 1.0   	neg = 0.625
+64. Whatever one may thi                ... pos = 0.25  	neg = 0.25 
+65. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-1477 is Positive         ... pos = 32.875 	neg = 16.125
+Overall score of document
+Total Pos = 32.875
+Total Neg = 16.125
+---------------------------------------------------------------------------

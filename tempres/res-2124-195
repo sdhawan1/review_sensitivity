@@ -1,0 +1,48 @@
+0. SCREAM 2 has a titil                 ... pos = 0.75  	neg = 0.25 
+1. During a film-class                  ... pos = 0.375 	neg = 0.0  
+2. A few rare exception                 ... pos = 0.5   	neg = 0.0  
+3. .                                    ... pos = 0     	neg = 0    
+4. .                                    ... pos = 0     	neg = 0    
+5. SCREAM 2!                            ... pos = 0     	neg = 0.0  
+6. 1996's surprise horr                 ... pos = 0.625 	neg = 0.0  
+7. A sequel was unavoid                 ... pos = 0.875 	neg = 0.375
+8. In fact, at the risk                 ... pos = 0.0   	neg = 0.625
+9. Sidney Prescott (Nev                 ... pos = 0.75  	neg = 1.125
+10. Meanwhile, TV journa                ... pos = 0.5   	neg = 1.125
+11. As SCREAM 2 opens, a                ... pos = 0.875 	neg = 0.375
+12. This marks the begin                ... pos = 1.125 	neg = 0.125
+13. .                                   ... pos = 0     	neg = 0    
+14. .                                   ... pos = 0     	neg = 0    
+15. and finish what hasn                ... pos = 0.0   	neg = 0    
+16. Of course the killer                ... pos = 1.875 	neg = 1.25 
+17. This is in large par                ... pos = 1.375 	neg = 0.125
+18. As much as the film                 ... pos = 1.5   	neg = 0.25 
+19. I will note, however                ... pos = 0.25  	neg = 0.0  
+20. " did wind up being                 ... pos = 1.125 	neg = 0.5  
+21. All the actors outdo                ... pos = 0.0   	neg = 0.0  
+22. We're not talking Os                ... pos = 0.625 	neg = 0.0  
+23. The characters remai                ... pos = 1.625 	neg = 0.0  
+24. We can see how the e                ... pos = 1.375 	neg = 0.125
+25. The nice thing about                ... pos = 0.125 	neg = 0.125
+26. It's a natural, smoo                ... pos = 1.0   	neg = 0.0  
+27. We skip two years, b                ... pos = 0.375 	neg = 0.375
+28. It flows so well tha                ... pos = 0.0   	neg = 0.375
+29. ) than just revitali                ... pos = 0.5   	neg = 0.0  
+30. While main character                ... pos = 1.875 	neg = 0.0  
+31. As I said before, SC                ... pos = 0.25  	neg = 0.0  
+32. The only reason SCRE                ... pos = 0.25  	neg = 0.375
+33. This doesn't mean th                ... pos = 1.0   	neg = 0.75 
+34. If ever a film follo                ... pos = 0.75  	neg = 0.125
+35. SCREAM 2 fits snugly                ... pos = 0.75  	neg = 0.0  
+36. It would top off the                ... pos = 0.0   	neg = 0.625
+37. It's unlikely to ass                ... pos = 1.125 	neg = 0.0  
+38. Like they say, don't                ... pos = 0.0   	neg = 0.0  
+39. .                                   ... pos = 0     	neg = 0    
+40. .                                   ... pos = 0     	neg = 0    
+41. but when a money-mak                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2124-195 is Positive         ... pos = 24.125 	neg = 9.125
+Overall score of document
+Total Pos = 24.125
+Total Neg = 9.125
+---------------------------------------------------------------------------

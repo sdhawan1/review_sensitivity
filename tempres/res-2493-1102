@@ -1,0 +1,34 @@
+0. Rated R for violence                 ... pos = 0.125 	neg = 0.0  
+1. Starring: Bill Pullm                 ... pos = 0.0   	neg = 0    
+2. 'Lake Placid' is def                 ... pos = 1.125 	neg = 0.375
+3. Actually it comes of                 ... pos = 0.375 	neg = 0.625
+4. Well the ending is k                 ... pos = 0.25  	neg = 0.875
+5. I will admit that 'L                 ... pos = 1.0   	neg = 0.75 
+6. Bridget Fonda plays                  ... pos = 0.75  	neg = 0.375
+7. She gets there but r                 ... pos = 0.375 	neg = 0.125
+8. Bill Pullman plays a                 ... pos = 0.0   	neg = 0.125
+9. What they find thoug                 ... pos = 0.0   	neg = 0    
+10. A huge and I mean hu                ... pos = 0.0   	neg = 0.375
+11. They have to fight a                ... pos = 0.0   	neg = 0.0  
+12. Betty White plays a                 ... pos = 0.0   	neg = 0.0  
+13. Her character is ver                ... pos = 1.75  	neg = 1.25 
+14. To me the movie came                ... pos = 0.0   	neg = 0.625
+15. With the opening seq                ... pos = 0.0   	neg = 0.25 
+16. When you watch this                 ... pos = 1.125 	neg = 0.0  
+17. David E. Kelly who i                ... pos = 0.5   	neg = 0.125
+18. The characters have                 ... pos = 0.875 	neg = 0.0  
+19. But believe me, don'                ... pos = 0.125 	neg = 0.25 
+20. But it is a movie th                ... pos = 0.5   	neg = 0.25 
+21. But I guess it rates                ... pos = 0.0   	neg = 0.0  
+22. Sit back, watch the                 ... pos = 0.125 	neg = 0.5  
+23. Even though the movi                ... pos = 0.0   	neg = 0.125
+24. There's really not t                ... pos = 0.25  	neg = 0.625
+25. 'Lake Placid' is a s                ... pos = 1.0   	neg = 1.125
+26. Reviewed: July 21, 1                ... pos = 0.0   	neg = 0    
+27. Brandon Herring Movi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2493-1102 is Positive        ... pos = 10.375 	neg = 8.75 
+Overall score of document
+Total Pos = 10.375
+Total Neg = 8.75
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. CrankyCriticŽ movie                 ... pos = 0.625 	neg = 0.0  
+1. Delightful.                          ... pos = 0.75  	neg = 0    
+2. Mickey Blue Eyes has                 ... pos = 0.5   	neg = 0.0  
+3. Backup to the Englis                 ... pos = 0.0   	neg = 0.0  
+4. My femme friends tel                 ... pos = 1.0   	neg = 0.0  
+5. .                                    ... pos = 0     	neg = 0    
+6. .                                    ... pos = 0     	neg = 0    
+7. " 'cuz lightning has                 ... pos = 0.125 	neg = 0.0  
+8. Here's the secret to                 ... pos = 1.0   	neg = 0.0  
+9. He makes men and wom                 ... pos = 0.0   	neg = 0.0  
+10. He makes us all happ                ... pos = 0.75  	neg = 0.0  
+11. Warm fuzzies all aro                ... pos = 0.375 	neg = 0.0  
+12. This time out, Grant                ... pos = 0.375 	neg = 0.125
+13. He is madly in love                 ... pos = 1.375 	neg = 0.25 
+14. This comes early in                 ... pos = 0.625 	neg = 0.125
+15. Luckily, there's a l                ... pos = 0.5   	neg = 0.25 
+16. Trying to figure out                ... pos = 0.0   	neg = 0.625
+17. The sight of actor J                ... pos = 0.0   	neg = 0.0  
+18. He is not ignorant o                ... pos = 1.375 	neg = 0.25 
+19. Which leaves a stand                ... pos = 1.375 	neg = 0.0  
+20. The plot points incl                ... pos = 0.375 	neg = 1.0  
+21. Each sets up a serie                ... pos = 0.25  	neg = 0.0  
+22. I don't have to tell                ... pos = 0.0   	neg = 1.25 
+23. The strength of this                ... pos = 0.375 	neg = 0.375
+24. Like I wrote, a moth                ... pos = 0.0   	neg = 0.0  
+25. Unlike the earlier M                ... pos = 0.625 	neg = 0.25 
+26. Yes, the Italian Mob                ... pos = 0.375 	neg = 0.125
+27. You'll know it when                 ... pos = 0.0   	neg = 0.0  
+28. On average, a first                 ... pos = 0.25  	neg = 0.0  
+29. Were Cranky able to                 ... pos = 0.625 	neg = 0.125
+30. Damn fine fun.                      ... pos = 0.125 	neg = 0.125
+31. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+32. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+33. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3147-912 is Positive         ... pos = 14.0  	neg = 5.0  
+Overall score of document
+Total Pos = 14.0
+Total Neg = 5.0
+---------------------------------------------------------------------------

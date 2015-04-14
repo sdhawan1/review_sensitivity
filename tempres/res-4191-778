@@ -1,0 +1,41 @@
+0. Starring Phillip Bak                 ... pos = 0.5   	neg = 0.0  
+1. The film "Magnolia"                  ... pos = 0.625 	neg = 0.125
+2. The dozens of charac                 ... pos = 1.375 	neg = 0.25 
+3. They all come from t                 ... pos = 0.0   	neg = 0.0  
+4. The numerous charact                 ... pos = 2.0   	neg = 0.375
+5. From a humiliated bu                 ... pos = 1.0   	neg = 0.375
+6. They are each seriou                 ... pos = 0.375 	neg = 0.0  
+7. Whether this compani                 ... pos = 0.875 	neg = 0.125
+8. "Magnolia" is a clev                 ... pos = 0.75  	neg = 0.125
+9. The detailed charact                 ... pos = 1.375 	neg = 0.0  
+10. However, what really                ... pos = 1.375 	neg = 1.125
+11. Anderson's control o                ... pos = 0.75  	neg = 0.25 
+12. He also knows exactl                ... pos = 0.75  	neg = 0.75 
+13. Any three hour film                 ... pos = 0.25  	neg = 0.625
+14. From the fascinating                ... pos = 1.375 	neg = 0.0  
+15. It is obvious that A                ... pos = 0.0   	neg = 0.125
+16. This is the ultimate                ... pos = 0.0   	neg = 0.125
+17. Every character is c                ... pos = 1.75  	neg = 0.125
+18. For example, cop Joh                ... pos = 0.125 	neg = 0.375
+19. The fact that each c                ... pos = 2.375 	neg = 0.625
+20. Anderson's explanati                ... pos = 0.625 	neg = 0.125
+21. The only mistake And                ... pos = 0.875 	neg = 1.25 
+22. This was foolish not                ... pos = 0.375 	neg = 0.375
+23. The performances in                 ... pos = 0.25  	neg = 0    
+24. This is a classic ex                ... pos = 0.75  	neg = 0.125
+25. Anderson allows many                ... pos = 2.0   	neg = 0.0  
+26. All of the main char                ... pos = 2.125 	neg = 0.0  
+27. Worth noting is Tom                 ... pos = 0.125 	neg = 0.75 
+28. He was probably noti                ... pos = 4.375 	neg = 0.75 
+29. She seemed to be thr                ... pos = 0.5   	neg = 0.5  
+30. "Magnolia" uses seve                ... pos = 1.125 	neg = 0.0  
+31. Anderson has the tal                ... pos = 0.125 	neg = 0.125
+32. To see that Anderson                ... pos = 1.5   	neg = 0.125
+33. Diversity is what ma                ... pos = 0.75  	neg = 0.5  
+34. I predict a lot of d                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4191-778 is Positive         ... pos = 33.5  	neg = 10.125
+Overall score of document
+Total Pos = 33.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

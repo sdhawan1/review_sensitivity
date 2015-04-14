@@ -1,0 +1,37 @@
+0. Walt Disney has domi                 ... pos = 0.0   	neg = 0.125
+1. The merging of Disne                 ... pos = 2.75  	neg = 0.0  
+2. This last year, `A B                 ... pos = 0.5   	neg = 0.125
+3. It seemed as if Disn                 ... pos = 0.75  	neg = 0.25 
+4. I truly cannot imagi                 ... pos = 0.625 	neg = 0.5  
+5. It's an endlessly im                 ... pos = 3.375 	neg = 0.0  
+6. Director John Lasset                 ... pos = 1.125 	neg = 0.125
+7. For viewers of all a                 ... pos = 0.75  	neg = 0.375
+8. Lasseter opens with                  ... pos = 0.0   	neg = 0.75 
+9. This sequence is, al                 ... pos = 0.75  	neg = 0.125
+10. Meanwhile, cowboy Wo                ... pos = 0.5   	neg = 0.0  
+11. During a rescue miss                ... pos = 0.5   	neg = 0.125
+12. He stumbles upon sur                ... pos = 0.125 	neg = 0.5  
+13. With the entire Wo                ... pos = 0.125 	neg = 0.25 
+14. At time same, Buzz a                ... pos = 0.75  	neg = 0.0  
+15. Yes, all those lovab                ... pos = 1.875 	neg = 0.25 
+16. Potato Head (Don Ric                ... pos = 0.0   	neg = 0.625
+17. As they travel acros                ... pos = 0.375 	neg = 0.25 
+18. Just one example is                 ... pos = 0.375 	neg = 0.5  
+19. `Toy Story 2' is eas                ... pos = 2.681 	neg = 0.125
+20. They look real, peop                ... pos = 0.0   	neg = 0.375
+21. This sequel is defin                ... pos = 0.25  	neg = 0.125
+22. No one in the audien                ... pos = 0.0   	neg = 0.375
+23. The humor is both cl                ... pos = 1.5   	neg = 0.125
+24. All of the actors ar                ... pos = 0.5   	neg = 0.125
+25. And, with an agreeme                ... pos = 0.0   	neg = 0.5  
+26. Family entertainment                ... pos = 0.5   	neg = 0.875
+27. I applaud `Toy Story                ... pos = 1.625 	neg = 0.125
+28. I am certainly past                 ... pos = 0.625 	neg = 0.25 
+29. Here is one excited                 ... pos = 0.25  	neg = 0.125
+30. After all, no one is                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-395-693 is Positive          ... pos = 23.181 	neg = 8.625
+Overall score of document
+Total Pos = 23.181
+Total Neg = 8.625
+---------------------------------------------------------------------------

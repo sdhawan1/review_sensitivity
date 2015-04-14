@@ -1,0 +1,29 @@
+0. After the pretty awf                 ... pos = 0.5   	neg = 1.5  
+1. However, the place i                 ... pos = 0.375 	neg = 0.0  
+2. Dosen't really matte                 ... pos = 0.0   	neg = 0.0  
+3. This film is just as                 ... pos = 1.5   	neg = 2.375
+4. No, you haven't clic                 ... pos = 0.875 	neg = 0.25 
+5. Jones gives a good p                 ... pos = 2.125 	neg = 0.125
+6. However, Jones is al                 ... pos = 0.125 	neg = 0.125
+7. But he can't quite s                 ... pos = 0.0   	neg = 0.125
+8. Like Willem Dafoe in                 ... pos = 0.75  	neg = 0.0  
+9. Some of the speacial                 ... pos = 1.25  	neg = 0.625
+10. Also, some of the th                ... pos = 1.125 	neg = 0.0  
+11. For example, at the                 ... pos = 0.375 	neg = 0.125
+12. He lifts the boy ont                ... pos = 0.25  	neg = 0.25 
+13. The boy then looks a                ... pos = 0.625 	neg = 0.375
+14. They all look the sa                ... pos = 0.0   	neg = 0.375
+15. ' The Coca-Cola very                ... pos = 0.5   	neg = 0.875
+16.    This film is non                ... pos = 0.0   	neg = 0.125
+17. I suppose if you lik                ... pos = 0.0   	neg = 0.0  
+18. Maybe if it was rain                ... pos = 0.375 	neg = 1.625
+19. But that's not much                 ... pos = 0.125 	neg = 0.0  
+20. Overall Rating=** ou                ... pos = 0.0   	neg = 0.0  
+21. Almost.                             ... pos = 0.0   	neg = 0    
+22. ) . .                               ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-135-1213 is Positive         ... pos = 10.875 	neg = 8.875
+Overall score of document
+Total Pos = 10.875
+Total Neg = 8.875
+---------------------------------------------------------------------------

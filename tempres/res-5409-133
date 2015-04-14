@@ -1,0 +1,35 @@
+0. "The Matrix" (1999)                  ... pos = 0.375 	neg = 0.125
+1. Dominated by writers                 ... pos = 0.625 	neg = 0.0  
+2. "The Matrix" is one                  ... pos = 0.75  	neg = 0.25 
+3. To fans of the genre                 ... pos = 0.75  	neg = 0.25 
+4. ". Our hero is, natu                 ... pos = 0.625 	neg = 0.125
+5. By day Thomas Anders                 ... pos = 0.0   	neg = 0.0  
+6. For the most part, h                 ... pos = 0.625 	neg = 0.875
+7. He sits in his apart                 ... pos = 0.125 	neg = 0.375
+8. Enter Morpheus (Laur                 ... pos = 0.125 	neg = 0.0  
+9. Morpheus offers Neo                  ... pos = 0.0   	neg = 0.125
+10. " As it turns out, t                ... pos = 0.0   	neg = 0.125
+11. Explaining too much                 ... pos = 0.75  	neg = 1.25 
+12. So Keanu Reeves can'                ... pos = 0.0   	neg = 0.0  
+13. Many of his lines ar                ... pos = 0.0   	neg = 0.0  
+14. So what?                            ... pos = 0     	neg = 0.0  
+15. The other actors (Fi                ... pos = 0.125 	neg = 0.25 
+16. The real stars of "T                ... pos = 0.25  	neg = 0.25 
+17. The story was writte                ... pos = 0.625 	neg = 0.125
+18. "The Matrix" and its                ... pos = 0.25  	neg = 0.0  
+19. That's the role of t                ... pos = 0.0   	neg = 0.0  
+20. Some shots will, in                 ... pos = 0.25  	neg = 0.0  
+21. And the visuals are                 ... pos = 1.875 	neg = 0.25 
+22. All the best parts a                ... pos = 0.25  	neg = 0.0  
+23. The action sequences                ... pos = 0.25  	neg = 0.0  
+24. So, what IS the Matr                ... pos = 0.0   	neg = 0.125
+25. That, gentle reader,                ... pos = 0.0   	neg = 0.125
+26. But if you go see "T                ... pos = 0.0   	neg = 0.125
+27. (This review was ori                ... pos = 0.375 	neg = 0.125
+28. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5409-133 is Positive         ... pos = 9.0   	neg = 4.875
+Overall score of document
+Total Pos = 9.0
+Total Neg = 4.875
+---------------------------------------------------------------------------

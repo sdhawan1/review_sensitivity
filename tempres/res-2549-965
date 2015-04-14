@@ -1,0 +1,32 @@
+0. In keeping with bloc                 ... pos = 0.25  	neg = 0.125
+1. Aside from the drama                 ... pos = 0.625 	neg = 0    
+2. .                                    ... pos = 0     	neg = 0    
+3. .                                    ... pos = 0     	neg = 0    
+4. ) this set-up has tw                 ... pos = 0.0   	neg = 0.0  
+5. unreliable, it allow                 ... pos = 0.25  	neg = 0.125
+6. ); and, B) by settin                 ... pos = 0.0   	neg = 0.25 
+7. Look to the Old Test                 ... pos = 0.5   	neg = 0.375
+8. In American terms, t                 ... pos = 0.25  	neg = 0.25 
+9. Iron John, Paul Buny                 ... pos = 0.0   	neg = 0.0  
+10. And now Stephen King                ... pos = 0.5   	neg = 0.0  
+11. Too, though--and unl                ... pos = 1.0   	neg = 0.375
+12. Instead that falls t                ... pos = 1.25  	neg = 0.5  
+13. Not only is he extra                ... pos = 0.0   	neg = 0.125
+14. In fact, only one of                ... pos = 0.125 	neg = 0.75 
+15. And, when that's the                ... pos = 0.5   	neg = 0.125
+16. Conversely, though,                 ... pos = 0.125 	neg = 1.0  
+17. Which is no easy thi                ... pos = 0.25  	neg = 0.125
+18. Without King behind                 ... pos = 0.125 	neg = 0.5  
+19. Since he is there, t                ... pos = 0.125 	neg = 0.375
+20. Think Iron Giant; Th                ... pos = 0.0   	neg = 0.125
+21. And The Iron Giant w                ... pos = 1.0   	neg = 0.125
+22. So is The Green Mile                ... pos = 1.625 	neg = 0.375
+23. It's a very nice tou                ... pos = 1.0   	neg = 0.0  
+24. The Green Mile is ev                ... pos = 0.75  	neg = 0.125
+25. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2549-965 is Positive         ... pos = 10.25 	neg = 5.75 
+Overall score of document
+Total Pos = 10.25
+Total Neg = 5.75
+---------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+0. Lifelong drinking bu                 ... pos = 0.25  	neg = 0.25 
+1. In order to secure t                 ... pos = 0.375 	neg = 0.0  
+2. One lets his wife in                 ... pos = 0.0   	neg = 0.125
+3. Needless to say, com                 ... pos = 0.75  	neg = 0    
+4. The men struggle aga                 ... pos = 0.25  	neg = 0.0  
+5. Suspicious outsiders                 ... pos = 0.0   	neg = 0.75 
+6. The movie is, of cou                 ... pos = 0     	neg = 0.125
+7. The delightfully dro                 ... pos = 1.75  	neg = 0.0  
+8. The two plan to coll                 ... pos = 0.0   	neg = 0.0  
+9. The laughs come from                 ... pos = 1.25  	neg = 0.0  
+10. And yet.... And yet,                ... pos = 0.625 	neg = 0.125
+11. It starred Bill Paxt                ... pos = 0.125 	neg = 0.0  
+12. They decide to "hold                ... pos = 0.125 	neg = 0.0  
+13. That film had tackle                ... pos = 0.375 	neg = 0.0  
+14. In both films, greed                ... pos = 0.0   	neg = 0.625
+15. In _A Simple Plan_,                 ... pos = 0.0   	neg = 0.0  
+16. In _Waking Ned Devin                ... pos = 0.625 	neg = 0.0  
+17. In one, the end resu                ... pos = 0.0   	neg = 0.5  
+18. In the other, it app                ... pos = 1.25  	neg = 0.125
+19. What makes this all                 ... pos = 1.625 	neg = 0.625
+20. When Paxton and his                 ... pos = 0.0   	neg = 0.375
+21. But when Ian Bannen                 ... pos = 0.25  	neg = 0.375
+22. For the former pair,                ... pos = 0.0   	neg = 0.125
+23. For the latter pair,                ... pos = 0.75  	neg = 0.375
+24. Because it is a come                ... pos = 0.5   	neg = 0.375
+25. Even if you fully ro                ... pos = 1.625 	neg = 0.5  
+26. I don+t think the fi                ... pos = 0.0   	neg = 1.125
+27. Still, considering t                ... pos = 0.75  	neg = 1.5  
+28. _Waking Ned Devine_                 ... pos = 0.125 	neg = 0.375
+29. _A Simple Plan_ is m                ... pos = 1.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2400-630 is Positive         ... pos = 14.5  	neg = 8.5  
+Overall score of document
+Total Pos = 14.5
+Total Neg = 8.5
+---------------------------------------------------------------------------

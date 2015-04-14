@@ -1,0 +1,47 @@
+0. Less than a full day                 ... pos = 0.125 	neg = 0.125
+1. Since I've never got                 ... pos = 0.375 	neg = 0.0  
+2. I've grown to dislik                 ... pos = 0.0   	neg = 0    
+3. I didn't initially;                  ... pos = 0.375 	neg = 0.0  
+4. After that he's grow                 ... pos = 0.25  	neg = 0.625
+5. Because my primary r                 ... pos = 0.625 	neg = 1.0  
+6. First, I have grown                  ... pos = 0.25  	neg = 1.125
+7. This is not the same                 ... pos = 0.625 	neg = 0.125
+8. There, we have at le                 ... pos = 0.0   	neg = 0.0  
+9. Lynch's approach is                  ... pos = 0.0   	neg = 0.25 
+10. The noxious opening                 ... pos = 1.0   	neg = 0.875
+11. Lynch gives us Nicho                ... pos = 0.0   	neg = 0.75 
+12. Roger Ebert felt the                ... pos = 0.25  	neg = 0.5  
+13. ". I'm also tired of                ... pos = 0.875 	neg = 0.0  
+14. Symbolism is private                ... pos = 0.25  	neg = 0.125
+15. Your interpretation                 ... pos = 0.25  	neg = 0.5  
+16. Because of that, it'                ... pos = 0.25  	neg = 0.25 
+17. A movie that isn't i                ... pos = 0.5   	neg = 0.125
+18. It's like the boy wh                ... pos = 0.25  	neg = 0.0  
+19. If Lynch sits there                 ... pos = 0.0   	neg = 0.875
+20. As far as non-linear                ... pos = 0.0   	neg = 0.0  
+21. That movie was non-l                ... pos = 0.5   	neg = 0.125
+22. The technique served                ... pos = 0.0   	neg = 0    
+23. In LOST HIGHWAY, the                ... pos = 0.0   	neg = 0.125
+24. There's one line whi                ... pos = 0.125 	neg = 0.0  
+25. " This is presumably                ... pos = 0.125 	neg = 0.75 
+26. Fine, but if they'd                 ... pos = 0.0   	neg = 0.125
+27. As it stands, it jus                ... pos = 0.375 	neg = 0.0  
+28. Other people have ar                ... pos = 0.875 	neg = 0.0  
+29. Fine.                               ... pos = 0.0   	neg = 0    
+30. Scott Renshaw, anoth                ... pos = 1.5   	neg = 0.25 
+31. " Maybe not, but it'                ... pos = 1.75  	neg = 0.0  
+32. If *all* Lynch wante                ... pos = 0.375 	neg = 0.875
+33. It's not that his mo                ... pos = 0.5   	neg = 0.25 
+34. They're part of a st                ... pos = 0.125 	neg = 0.125
+35. I am not a person wh                ... pos = 0.0   	neg = 0.125
+36. I do not walk into a                ... pos = 0.375 	neg = 0.0  
+37. I admire experimenta                ... pos = 0.625 	neg = 0.0  
+38. I *liked* ERASERHEAD                ... pos = 0.0   	neg = 0.5  
+39. Art critic and histo                ... pos = 0.0   	neg = 0.5  
+40. I like the fact that                ... pos = 1.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-5865-1046 is Positive        ... pos = 14.5  	neg = 12.0 
+Overall score of document
+Total Pos = 14.5
+Total Neg = 12.0
+---------------------------------------------------------------------------

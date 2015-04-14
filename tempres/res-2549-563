@@ -1,0 +1,41 @@
+0. Starring Tom Hanks,                  ... pos = 0.0   	neg = 0.125
+1. Directed by Frank Da                 ... pos = 0.0   	neg = 0    
+2. Rated R.. The infamo                 ... pos = 0.875 	neg = 1.0  
+3. At three hours and e                 ... pos = 0.125 	neg = 0.125
+4. Hell, it's a pleasur                 ... pos = 0.375 	neg = 0.5  
+5. Despite its imperfec                 ... pos = 0.375 	neg = 0.375
+6. The story is told in                 ... pos = 0.0   	neg = 0.5  
+7. He tells his wife ab                 ... pos = 0.0   	neg = 0.125
+8. Edgecomb's domain wa                 ... pos = 0.5   	neg = 0.25 
+9. The hands-down star                  ... pos = 0.0   	neg = 0.125
+10. One day, a new inmat                ... pos = 0.375 	neg = 0    
+11. This is seven-foot-t                ... pos = 0.0   	neg = 0.125
+12. Coffey immediately s                ... pos = 0.25  	neg = 0.125
+13. Soon enough, though,                ... pos = 0.625 	neg = 0.0  
+14. Doug Hutchinson, hav                ... pos = 0.625 	neg = 0.875
+15. What Percy wants is                 ... pos = 0.375 	neg = 0.5  
+16. This doesn't sound l                ... pos = 0.125 	neg = 0.0  
+17. That's what makes Th                ... pos = 1.375 	neg = 0.0  
+18. And these are remark                ... pos = 1.375 	neg = 0.0  
+19. Hanks's Paul Edgecom                ... pos = 0.875 	neg = 0.125
+20. Percy isn't much in                 ... pos = 1.125 	neg = 0.0  
+21. The most engaging ch                ... pos = 0.875 	neg = 0.125
+22. Duncan deserves an O                ... pos = 1.5   	neg = 0.125
+23. For over three hours                ... pos = 0.625 	neg = 0.625
+24. There's no denying t                ... pos = 0.375 	neg = 0.375
+25. Moments where essent                ... pos = 0.875 	neg = 0.5  
+26. Making a movie this                 ... pos = 0.625 	neg = 0.75 
+27. It's a feat deservin                ... pos = 1.25  	neg = 0.25 
+28. If there is one flaw                ... pos = 0.0   	neg = 0.125
+29. The Christ metaphor                 ... pos = 0.0   	neg = 0.625
+30. The Green Mile's oth                ... pos = 0.5   	neg = 0.125
+31. Despite abominations                ... pos = 1.5   	neg = 0.125
+32. He makes keen observ                ... pos = 0.5   	neg = 0.25 
+33. This gets translated                ... pos = 0.25  	neg = 0.0  
+34. This one is more tha                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2549-563 is Positive         ... pos = 18.25 	neg = 9.0  
+Overall score of document
+Total Pos = 18.25
+Total Neg = 9.0
+---------------------------------------------------------------------------

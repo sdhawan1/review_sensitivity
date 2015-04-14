@@ -1,0 +1,28 @@
+0. Fear and Loathing in                 ... pos = 2.625 	neg = 1.25 
+1. I knew this before I                 ... pos = 0.5   	neg = 0.0  
+2. However, I still had                 ... pos = 0.125 	neg = 0.75 
+3. For the following tw                 ... pos = 0.625 	neg = 0.75 
+4. By the time I left t                 ... pos = 0.25  	neg = 0.5  
+5. At first, I was a ta                 ... pos = 0.25  	neg = 0.25 
+6. But I'm just going t                 ... pos = 0.5   	neg = 0.125
+7. Much like the other                  ... pos = 0.625 	neg = 0.5  
+8. Hell, I defy anyone                  ... pos = 0.0   	neg = 0.5  
+9. But like I said, plo                 ... pos = 0.25  	neg = 0.75 
+10. Much like an abstrac                ... pos = 0.25  	neg = 0.0  
+11. How can this film be                ... pos = 0.875 	neg = 0.375
+12. That is the plot in                 ... pos = 0.125 	neg = 0.125
+13. Along the way, thoug                ... pos = 2.625 	neg = 0.625
+14. I've been told that                 ... pos = 0.625 	neg = 0.875
+15. I've also been told                 ... pos = 0.125 	neg = 0.375
+16. So shouldn't we be g                ... pos = 0.875 	neg = 0.5  
+17. Even if you don't di                ... pos = 0.625 	neg = 0.0  
+18. One one of the many                 ... pos = 2.125 	neg = 0.875
+19. If you want to hear                 ... pos = 0.875 	neg = 0.25 
+20. I know it's going to                ... pos = 2.25  	neg = 0.125
+21. It's that well made.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3180-1560 is Positive        ... pos = 17.125 	neg = 9.5  
+Overall score of document
+Total Pos = 17.125
+Total Neg = 9.5
+---------------------------------------------------------------------------

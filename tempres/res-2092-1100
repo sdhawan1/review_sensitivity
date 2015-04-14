@@ -1,0 +1,56 @@
+0. I'm afraid Spike can                 ... pos = 0.75  	neg = 0.0  
+1. It certainly wasn't                  ... pos = 0.625 	neg = 0.0  
+2. " A pity considering                 ... pos = 0.375 	neg = 0.125
+3. I don't know why Spi                 ... pos = 0.0   	neg = 0.0  
+4. Perhaps he's not hun                 ... pos = 0.125 	neg = 0    
+5. He's got the exposur                 ... pos = 0     	neg = 0.0  
+6. He's got the reputat                 ... pos = 0.5   	neg = 0.0  
+7. He's  got the undivi                 ... pos = 0.0   	neg = 0.0  
+8. Maybe he's  got too                  ... pos = 0.0   	neg = 0.25 
+9. Success has a way of                 ... pos = 0.125 	neg = 0.0  
+10. Not much politically                ... pos = 0.25  	neg = 0.25 
+11. Interestingly, Spike                ... pos = 1.875 	neg = 0.0  
+12. And the Hispano-blac                ... pos = 0.0   	neg = 0.375
+13. " Funny, but  kind o                ... pos = 0.0   	neg = 0.0  
+14. Kind of like naming                 ... pos = 0.125 	neg = 0.0  
+15. " _Boricua_ is throw                ... pos = 0.25  	neg = 0.125
+16. And one of Jesus' ga                ... pos = 0.625 	neg = 0.125
+17. Jesus' mother looks                 ... pos = 0.0   	neg = 0.375
+18. I get the sense that                ... pos = 0.25  	neg = 0.0  
+19. I know he disapprove                ... pos = 0.0   	neg = 0.0  
+20. And then again maybe                ... pos = 0.0   	neg = 0.125
+21. After all, I remembe                ... pos = 0.25  	neg = 0.0  
+22. Maybe I should have                 ... pos = 0.0   	neg = 0.125
+23. Traditionally, they                 ... pos = 0.625 	neg = 0.0  
+24. Hey, any black man c                ... pos = 1.25  	neg = 0.625
+25. Yet, there was nothi                ... pos = 0.625 	neg = 0.375
+26. The movie's failure                 ... pos = 0.0   	neg = 0.125
+27. Think about the prom                ... pos = 0.875 	neg = 1.25 
+28. His film had a quint                ... pos = 0.0   	neg = 0.125
+29. And whereas I've alm                ... pos = 0.0   	neg = 0.25 
+30. Simply, it tried too                ... pos = 0.0   	neg = 1.5  
+31. I bet Spike hoped th                ... pos = 0.25  	neg = 0.0  
+32. Yet, all it signalle                ... pos = 0.25  	neg = 0.125
+33. " Way too much Aaron                ... pos = 0.125 	neg = 0.25 
+34. Way too many slow-pa                ... pos = 0.0   	neg = 0.625
+35. One wheat-field shot                ... pos = 0.0   	neg = 0.375
+36. All the P.E.                        ... pos = 0.0   	neg = 0    
+37. tracks used  classic                ... pos = 0.0   	neg = 0.0  
+38. The first scene, in                 ... pos = 0.375 	neg = 0.0  
+39. C'mon!                              ... pos = 0     	neg = 0    
+40. Basketball might be                 ... pos = 0.0   	neg = 0.75 
+41. As for the drama, Sp                ... pos = 0.5   	neg = 0.0  
+42. Jesus remains the sa                ... pos = 0.0   	neg = 0.0  
+43. Other characters rem                ... pos = 1.125 	neg = 0.0  
+44. I know Spike's been                 ... pos = 1.75  	neg = 0.375
+45. Perhaps there's a le                ... pos = 0.0   	neg = 0.0  
+46. In one scene, when a                ... pos = 0.0   	neg = 0.5  
+47. The agent quickly pu                ... pos = 0.125 	neg = 0.25 
+48. " Well, now I know w                ... pos = 0.125 	neg = 0.0  
+49. --------------------                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2092-1100 is Positive        ... pos = 14.125 	neg = 9.375
+Overall score of document
+Total Pos = 14.125
+Total Neg = 9.375
+---------------------------------------------------------------------------

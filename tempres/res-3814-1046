@@ -1,0 +1,39 @@
+0. CAPSULE: MONEY TRAIN                 ... pos = 0.0   	neg = 0.625
+1. You'll notice that t                 ... pos = 0.0   	neg = 0.0  
+2. This is deliberate:                  ... pos = 0.125 	neg = 0.875
+3. Minus-one stars, the                 ... pos = 0     	neg = 0.0  
+4. SPECIES II is the mo                 ... pos = 0.5   	neg = 0.125
+5. Period.                              ... pos = 0.125 	neg = 0    
+6. It's a sequel, I gue                 ... pos = 0.5   	neg = 0.875
+7. This movie doesn't e                 ... pos = 0.375 	neg = 0.0  
+8. It's a geek show.                    ... pos = 0.0   	neg = 0.0  
+9. There is one scene i                 ... pos = 0.375 	neg = 0.25 
+10. It consists of two c                ... pos = 0.625 	neg = 0.0  
+11. One of them -- the "                ... pos = 0.875 	neg = 0.125
+12. It's impossible to i                ... pos = 0.0   	neg = 0.0  
+13. I am astonished that                ... pos = 0.75  	neg = 1.0  
+14. But there it is.                    ... pos = 0.0   	neg = 0.125
+15. When the film isn't                 ... pos = 0.25  	neg = 0.125
+16. Its plot, what littl                ... pos = 0.0   	neg = 0.625
+17. One of them mutates,                ... pos = 0.0   	neg = 1.0  
+18. I am not leaving out                ... pos = 0.125 	neg = 0.75 
+19. The director of his                 ... pos = 0.0   	neg = 0.625
+20. Medak is a good film                ... pos = 0.875 	neg = 0.125
+21. Medak has directed L                ... pos = 0.0   	neg = 0.25 
+22. SPECIES II seems to                 ... pos = 0.625 	neg = 1.5  
+23. A friend brought up                 ... pos = 0.125 	neg = 0.0  
+24. The Japanese animate                ... pos = 0.125 	neg = 0.75 
+25. But it is nowhere ne                ... pos = 0.0   	neg = 1.167
+26. As disgusting and re                ... pos = 0.25  	neg = 0.5  
+27. SPECIES II doesn't e                ... pos = 0.0   	neg = 0.625
+28. It isn't interesting                ... pos = 0.125 	neg = 0.0  
+29. It's an all-new cine                ... pos = 0.0   	neg = 0.125
+30. Congratulations, guy                ... pos = 0     	neg = 0.0  
+31. You're my new baseme                ... pos = 0.375 	neg = 0.0  
+32. -----== Posted via D                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3814-1046 is Negative        ... pos = 7.125 	neg = 12.167
+Overall score of document
+Total Pos = 7.125
+Total Neg = 12.167
+---------------------------------------------------------------------------

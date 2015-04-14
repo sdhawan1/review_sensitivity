@@ -1,0 +1,35 @@
+0. Release Date: March                  ... pos = 0.875 	neg = 1.0  
+1. How else can you exp                 ... pos = 0.125 	neg = 0.0  
+2. No, the champagne di                 ... pos = 0.0   	neg = 0.25 
+3. It was gratuitous.                   ... pos = 0.0   	neg = 0.125
+4. And like most other                  ... pos = 0.875 	neg = 0.25 
+5. How else to describe                 ... pos = 0.875 	neg = 0.75 
+6. If you haven't alrea                 ... pos = 0.75  	neg = 0.5  
+7. If you've seen PALME                 ... pos = 0.0   	neg = 0.25 
+8. Put man and woman to                 ... pos = 0.375 	neg = 0.25 
+9. Yes, there's more of                 ... pos = 0.0   	neg = 0.25 
+10. Sam Lombardo (Matt D                ... pos = 0.375 	neg = 0.125
+11. It doesn't help Sam                 ... pos = 0.125 	neg = 0.5  
+12. It doesn't help him,                ... pos = 0.0   	neg = 0.0  
+13. Luckily for Sam, he'                ... pos = 0.75  	neg = 0.625
+14. Unfortunately, the r                ... pos = 0.5   	neg = 0.875
+15. This movie belongs t                ... pos = 0.25  	neg = 0.0  
+16. Murray's straight-fa                ... pos = 1.25  	neg = 0.5  
+17. Unfortunately for Ke                ... pos = 0.0   	neg = 1.375
+18. We like to see him a                ... pos = 0.0   	neg = 0.0  
+19. The rest of the cast                ... pos = 0.75  	neg = 0.5  
+20. Dillon, whom the aud                ... pos = 0.875 	neg = 0.375
+21. And while it does ru                ... pos = 0.625 	neg = 0.0  
+22. Bring some popcorn.                 ... pos = 0.0   	neg = 0.0  
+23. The script is what's                ... pos = 0.5   	neg = 0.375
+24. It takes a twistier                 ... pos = 0.5   	neg = 0.0  
+25. Your jaw will drop o                ... pos = 1.25  	neg = 0.75 
+26. All in all, WILD THI                ... pos = 0.625 	neg = 0.375
+27. It's also the kind o                ... pos = 0.5   	neg = 0.0  
+28. FINAL AWARD FOR "WIL                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5005-700 is Positive         ... pos = 13.75 	neg = 10.0 
+Overall score of document
+Total Pos = 13.75
+Total Neg = 10.0
+---------------------------------------------------------------------------

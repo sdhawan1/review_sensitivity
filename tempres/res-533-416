@@ -1,0 +1,24 @@
+0. Written by: Bill Kel                 ... pos = 2.5   	neg = 0.875
+1. In 1964 when Mr. and                 ... pos = 0.5   	neg = 0.75 
+2. Through their misund                 ... pos = 0.5   	neg = 0.125
+3. When 35-year-old Ada                 ... pos = 0.125 	neg = 0.625
+4. Adam is literally a                  ... pos = 0.5   	neg = 0.125
+5. Luckily he befriends                 ... pos = 0.875 	neg = 0.0  
+6. Will Adam's un-hip g                 ... pos = 0.875 	neg = 0.0  
+7. Opinion: Brendan Fra                 ... pos = 2.375 	neg = 0.25 
+8. Meanwhile Sissy Spac                 ... pos = 0.5   	neg = 0.0  
+9. BLAST FROM THE PAST                  ... pos = 1.0   	neg = 0.0  
+10. While chuckling at t                ... pos = 0.25  	neg = 0.0  
+11. In the story, years                 ... pos = 1.5   	neg = 0.0  
+12. In real life it's no                ... pos = 0.25  	neg = 0.0  
+13. Isolationist dictato                ... pos = 0.25  	neg = 0.125
+14. BLAST FROM THE PAST                 ... pos = 1.0   	neg = 0.25 
+15. Sweet, romantic, fun                ... pos = 0.5   	neg = 0.0  
+16. I like it.                          ... pos = 0.0   	neg = 0.0  
+17. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-533-416 is Positive          ... pos = 13.5  	neg = 3.25 
+Overall score of document
+Total Pos = 13.5
+Total Neg = 3.25
+---------------------------------------------------------------------------

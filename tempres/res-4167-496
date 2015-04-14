@@ -1,0 +1,35 @@
+0. *** (out of 4) Direc                 ... pos = 0.875 	neg = 0.125
+1. Her mast famous epis                 ... pos = 0.75  	neg = 0.375
+2. The way she moved th                 ... pos = 0.0   	neg = 0.125
+3. There was more  exci                 ... pos = 0.0   	neg = 0.25 
+4. So it's only natural                 ... pos = 0.5   	neg = 0.0  
+5. And I have to say,                   ... pos = 0.0   	neg = 0.0  
+6. Peacemaker deals wit                 ... pos = 0.375 	neg = 0.375
+7. The first half hour                  ... pos = 0.75  	neg = 0.25 
+8. Despite a few good i                 ... pos = 1.875 	neg = 0.125
+9. It's long and drawn                  ... pos = 0.0   	neg = 0.75 
+10. Once George Clooney                 ... pos = 0.0   	neg = 0.625
+11. George Clooney is an                ... pos = 0.0   	neg = 0.125
+12. He has a nice sarcas                ... pos = 0.875 	neg = 0.625
+13. Nicole Kidman is hea                ... pos = 0.0   	neg = 0.125
+14. There is the usual f                ... pos = 0.375 	neg = 0.25 
+15. The story takes Cloo                ... pos = 0.25  	neg = 0.75 
+16. This is when  Leder                 ... pos = 0.5   	neg = 0.375
+17. She starts us off wi                ... pos = 0.0   	neg = 0.875
+18. Then we get Clooney                 ... pos = 0.25  	neg = 0.0  
+19. Then that leads us t                ... pos = 1.25  	neg = 0.0  
+20. Mimi Leder is a natu                ... pos = 0.0   	neg = 0.25 
+21. She reminds me of Wo                ... pos = 0.625 	neg = 0.0  
+22. Nicole Kidman is an                 ... pos = 0.75  	neg = 0.125
+23. You're not gonna fin                ... pos = 0.0   	neg = 0.0  
+24. George Clooney is a                 ... pos = 0.0   	neg = 0.125
+25. Many of you may have                ... pos = 0.0   	neg = 0.875
+26. He has a natural scr                ... pos = 0.125 	neg = 0.0  
+27. He'll be around for                 ... pos = 0.0   	neg = 0.125
+28. Dreamworks  is off t                ... pos = 0.5   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-4167-496 is Positive         ... pos = 10.625 	neg = 8.375
+Overall score of document
+Total Pos = 10.625
+Total Neg = 8.375
+---------------------------------------------------------------------------

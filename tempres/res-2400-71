@@ -1,0 +1,48 @@
+0. Visit Online Film Cr                 ... pos = 0.75  	neg = 0.25 
+1. But words in our lan                 ... pos = 0.25  	neg = 0.0  
+2. The opening shots es                 ... pos = 0.0   	neg = 0.0  
+3. Hank's wife Sarah (B                 ... pos = 0.125 	neg = 0.125
+4. Their love seems pur                 ... pos = 1.125 	neg = 0.125
+5. Intending to place a                 ... pos = 0.5   	neg = 0.125
+6. With them in the tru                 ... pos = 0.25  	neg = 0.75 
+7. Before long the trio                 ... pos = 0.25  	neg = 1.25 
+8. What puts a stop to                  ... pos = 0.0   	neg = 0.125
+9. Will they keep it?                   ... pos = 0.125 	neg = 0    
+10. Give it back?                       ... pos = 0.0   	neg = 0.0  
+11. Are there other choi                ... pos = 0.25  	neg = 0.0  
+12. Thus the scene is se                ... pos = 0.875 	neg = 0.125
+13. '  The fate of the m                ... pos = 0.0   	neg = 0.125
+14. It's enough to say t                ... pos = 0.5   	neg = 0.125
+15. Much of what makes t                ... pos = 0.875 	neg = 0.125
+16. Almost nothing is pr                ... pos = 0.875 	neg = 1.25 
+17. Bill Paxton does a s                ... pos = 0.25  	neg = 0    
+18. We admire his humani                ... pos = 1.75  	neg = 0    
+19. When his life confli                ... pos = 0.875 	neg = 0.0  
+20. He's a formidable  e                ... pos = 1.375 	neg = 0.125
+21. "Who would you choos                ... pos = 0.0   	neg = 0.0  
+22. "  It's clear that,                 ... pos = 0.625 	neg = 0.0  
+23. Key to his  performa                ... pos = 0.375 	neg = 0.25 
+24. The best acting in t                ... pos = 0.5   	neg = 0.125
+25. Already the recipien                ... pos = 2.0   	neg = 0.125
+26. If Bill Paxton plays                ... pos = 0.125 	neg = 0.375
+27. Sporting longish hai                ... pos = 0.875 	neg = 1.25 
+28. And what's  nearly l                ... pos = 0.222 	neg = 0.625
+29. That's the queer mag                ... pos = 0.875 	neg = 0.375
+30. In his expressions -                ... pos = 0.875 	neg = 0.375
+31. As Lou, Brent Brisco                ... pos = 1.875 	neg = 0    
+32. '  Lou is just a bit                ... pos = 0.0   	neg = 0.25 
+33. Briscoe plays him wi                ... pos = 1.0   	neg = 1.25 
+34. In another  supporti                ... pos = 0.375 	neg = 0.25 
+35. Fonda is good with t                ... pos = 2.0   	neg = 0.125
+36. She often surprises                 ... pos = 0.0   	neg = 0.125
+37. The settings of the                 ... pos = 1.5   	neg = 0    
+38. From the forest wher                ... pos = 0.0   	neg = 0.0  
+39. Likewise, music serv                ... pos = 1.125 	neg = 0.125
+40. The final quarter of                ... pos = 0.5   	neg = 0.875
+41. Director Sam Raimi r                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2400-71 is Positive          ... pos = 26.222 	neg = 11.125
+Overall score of document
+Total Pos = 26.222
+Total Neg = 11.125
+---------------------------------------------------------------------------

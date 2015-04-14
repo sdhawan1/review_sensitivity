@@ -1,0 +1,15 @@
+0. Money has a bad repu                 ... pos = 0.5   	neg = 0.875
+1. In addition to being                 ... pos = 1.875 	neg = 0.75 
+2. Its lure can cause t                 ... pos = 0.25  	neg = 0.0  
+3. Even those who would                 ... pos = 1.375 	neg = 0.0  
+4. But is wealth worth                  ... pos = 0.125 	neg = 0.125
+5. Hank Mitchell (Bill                  ... pos = 0.625 	neg = 0.125
+6. His lovely wife Sara                 ... pos = 0.25  	neg = 0.25 
+7. Hank's dim-witted bu                 ... pos = 0.375 	neg = 0.0  
+8. Although Lou and Han                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2400-216 is Positive         ... pos = 5.375 	neg = 2.125
+Overall score of document
+Total Pos = 5.375
+Total Neg = 2.125
+---------------------------------------------------------------------------

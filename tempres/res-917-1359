@@ -1,0 +1,45 @@
+0. Men in Black is a re                 ... pos = 0.75  	neg = 0.125
+1. First, it rides the                  ... pos = 0.125 	neg = 0.0  
+2. Conflicts with alien                 ... pos = 0.0   	neg = 0.25 
+3. Add the cachet of a                  ... pos = 0.75  	neg = 0.125
+4. Mercifully, this pro                 ... pos = 0.125 	neg = 0.25 
+5. Barry Sonnenfeld was                 ... pos = 0.75  	neg = 0.125
+6. He had previously do                 ... pos = 0.0   	neg = 0.0  
+7. These films had thei                 ... pos = 1.0   	neg = 0.0  
+8. MIB has its own tu                 ... pos = 0.125 	neg = 0.0  
+9. I wonder if the gene                 ... pos = 0.0   	neg = 0.569
+10. Fact is, Tommy Lee J                ... pos = 0.25  	neg = 0.125
+11. Will Smith showed us                ... pos = 0.125 	neg = 0.0  
+12. Tommy doing comedy i                ... pos = 0.0   	neg = 0.125
+13. Comedy acting requir                ... pos = 0.125 	neg = 0.0  
+14. Check out Tommy's Os                ... pos = 0.0   	neg = 0.0  
+15. Will plays a NYPD co                ... pos = 0.125 	neg = 0.5  
+16. These guys police th                ... pos = 0.0   	neg = 0.0  
+17. Earth is sort of a n                ... pos = 0.125 	neg = 0.125
+18. ' Jones becomes Will                ... pos = 0.125 	neg = 0.25 
+19. Tommy and boss Rip T                ... pos = 0.0   	neg = 0.0  
+20. Their un-sensational                ... pos = 0.75  	neg = 0.125
+21. It gives contrast to                ... pos = 0.875 	neg = 0.25 
+22. And the MIB agency i                ... pos = 0.0   	neg = 0.125
+23. The main bug hunt in                ... pos = 0.125 	neg = 0.125
+24. Vincent D'Onofrio ha                ... pos = 1.0   	neg = 0.625
+25. Imagine: Terminator                 ... pos = 0.0   	neg = 0.0  
+26. As bodies pile up, t                ... pos = 0.125 	neg = 0.375
+27. Not the first time f                ... pos = 0.375 	neg = 0.125
+28. This little doodad g                ... pos = 0.25  	neg = 0.375
+29. Further humor ensues                ... pos = 0.875 	neg = 0.375
+30. Actually, he's kind                 ... pos = 0.5   	neg = 0.125
+31. Turns out that she u                ... pos = 0.0   	neg = 0.375
+32. Not to worry.                       ... pos = 0.25  	neg = 0    
+33. The bug is stopped,                 ... pos = 0.25  	neg = 0.25 
+34. Men in Black deliver                ... pos = 0.0   	neg = 0.0  
+35. The talented Smith a                ... pos = 0.0   	neg = 0.0  
+36. ' for offbeat storie                ... pos = 0.0   	neg = 0.125
+37. Creature-meister Ric                ... pos = 0.625 	neg = 0.0  
+38. Betcha can't see it                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-917-1359 is Positive         ... pos = 10.5  	neg = 5.944
+Overall score of document
+Total Pos = 10.5
+Total Neg = 5.944
+---------------------------------------------------------------------------

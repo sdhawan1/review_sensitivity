@@ -1,0 +1,37 @@
+0. STARRING:  Arnold Sc                 ... pos = 0.25  	neg = 0.5  
+1. You see, we were onl                 ... pos = 0.25  	neg = 0.25 
+2. Very, very badly.                    ... pos = 1.0   	neg = 0.25 
+3. So there we sat, fev                 ... pos = 0.625 	neg = 0.875
+4. After almost an hour                 ... pos = 0.0   	neg = 0.125
+5. The much-feared coun                 ... pos = 0.0   	neg = 0.0  
+6. What followed was so                 ... pos = 0.125 	neg = 0.25 
+7. When it ended I was                  ... pos = 1.0   	neg = 0.25 
+8. All of which brings                  ... pos = 0.0   	neg = 0.25 
+9. Apparently, 16-year-                 ... pos = 0.25  	neg = 0.125
+10. The film casts the A                ... pos = 0.0   	neg = 0.5  
+11. It seems that every                 ... pos = 0.125 	neg = 0.625
+12. If he is allowed to                 ... pos = 0.125 	neg = 1.25 
+13. Naturally, Jericho h                ... pos = 0.375 	neg = 1.25 
+14. Furthermore, he has                 ... pos = 0.0   	neg = 0.375
+15. Hey, waitaminnit...                 ... pos = 0.0   	neg = 0.0  
+16. Arnold has plenty of                ... pos = 0.625 	neg = 0.375
+17. While this may have                 ... pos = 0.25  	neg = 0.75 
+18. I started wishing I                 ... pos = 0.0   	neg = 0.5  
+19. At the two-thirds ma                ... pos = 0.125 	neg = 0.75 
+20. )  By the time the c                ... pos = 0.0   	neg = 0.125
+21. Not since Commando h                ... pos = 0.125 	neg = 0.125
+22. Normally, his self-e                ... pos = 0.125 	neg = 0.25 
+23. Pollak, saddled with                ... pos = 0.75  	neg = 0.625
+24. Even Byrne, who coul                ... pos = 0.125 	neg = 1.875
+25. Much of the dialogue                ... pos = 0.5   	neg = 1.875
+26. )  Eventually, the o                ... pos = 0.0   	neg = 0.75 
+27. Like everything else                ... pos = 0.0   	neg = 1.25 
+28. As a longtime Schwar                ... pos = 0.625 	neg = 0.875
+29. At 54, he's still in                ... pos = 0.5   	neg = 0.0  
+30. If he is to remain r                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6107-1184 is Negative        ... pos = 8.375 	neg = 17.125
+Overall score of document
+Total Pos = 8.375
+Total Neg = 17.125
+---------------------------------------------------------------------------

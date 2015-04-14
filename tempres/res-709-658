@@ -1,0 +1,47 @@
+0. Payback (* 1/2 out o                 ... pos = 1.0   	neg = 0.25 
+1. Take Payback, for ex                 ... pos = 0.125 	neg = 0.0  
+2. However, It's horrib                 ... pos = 0.25  	neg = 1.625
+3. It was written and d                 ... pos = 0.125 	neg = 0.125
+4. Mel Gibson, that hol                 ... pos = 0.0   	neg = 0.125
+5. What a crock.                        ... pos = 0.0   	neg = 0.0  
+6. If you sign on to do                 ... pos = 0.0   	neg = 0.0  
+7. Why film a movie and                 ... pos = 0.25  	neg = 0.625
+8. You're fired.                        ... pos = 0     	neg = 0.0  
+9. Let's get someone el                 ... pos = 0.0   	neg = 0.0  
+10. - I suppose honor is                ... pos = 0.75  	neg = 0.125
+11. The end of the film                 ... pos = 0.0   	neg = 0.125
+12. Which is to say that                ... pos = 1.125 	neg = 0.125
+13. In this case, as is                 ... pos = 0.375 	neg = 0.25 
+14. I miss originality i                ... pos = 0.0   	neg = 0.0  
+15. I think audiences ar                ... pos = 0.375 	neg = 0.125
+16. Payback's tagline -                 ... pos = 0.5   	neg = 1.0  
+17. While Gibson's chara                ... pos = 3.75  	neg = 1.25 
+18. There's nothing bad                 ... pos = 0.875 	neg = 1.125
+19. And Gibson knows it                 ... pos = 0.5   	neg = 1.25 
+20. The story involves G                ... pos = 0.25  	neg = 1.375
+21. Gibson recovers from                ... pos = 0.375 	neg = 0.625
+22. He makes a point of                 ... pos = 0.0   	neg = 0.0  
+23. A real bad guy would                ... pos = 0.0   	neg = 0.875
+24. This idea is complet                ... pos = 0     	neg = 0.125
+25. Gibson ends up going                ... pos = 0.0   	neg = 0.125
+26. What I didn't unders                ... pos = 0.375 	neg = 0.125
+27. $70,000 is like spar                ... pos = 0.0   	neg = 0.125
+28. They'd probably just                ... pos = 0.5   	neg = 0.625
+29. I think they'd respe                ... pos = 0.5   	neg = 0.625
+30. Maybe I'm being too                 ... pos = 0.25  	neg = 1.0  
+31. Perhaps the filmmake                ... pos = 0.0   	neg = 0.625
+32. I read Roger Ebert's                ... pos = 0.625 	neg = 1.0  
+33. That's why we're all                ... pos = 0.0   	neg = 0.0  
+34. And it's true - Gibs                ... pos = 0.5   	neg = 0.25 
+35. But he's wrong here.                ... pos = 0     	neg = 0.75 
+36. I wanted a Lee Marvi                ... pos = 0.0   	neg = 0.125
+37. As a side note, I've                ... pos = 0.0   	neg = 0.125
+38. After this many revi                ... pos = 0.0   	neg = 0.125
+39. Really, I don't care                ... pos = 0     	neg = 0.0  
+40. I'm just trying to g                ... pos = 0.125 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-709-658 is Negative          ... pos = 13.5  	neg = 17.25
+Overall score of document
+Total Pos = 13.5
+Total Neg = 17.25
+---------------------------------------------------------------------------

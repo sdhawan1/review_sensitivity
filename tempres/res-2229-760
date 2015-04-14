@@ -1,0 +1,12 @@
+0. Director: Dennis Dug                 ... pos = 0.25  	neg = 0.625
+1. Most of his movies a                 ... pos = 1.25  	neg = 0.125
+2. Big Daddy is the fir                 ... pos = 1.0   	neg = 1.125
+3. Sandler plays a thir                 ... pos = 0.25  	neg = 1.0  
+4. As one might expect                  ... pos = 1.625 	neg = 2.25 
+5. There's a hilarious                  ... pos = 0.875 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-2229-760 is Negative         ... pos = 5.25  	neg = 6.125
+Overall score of document
+Total Pos = 5.25
+Total Neg = 6.125
+---------------------------------------------------------------------------

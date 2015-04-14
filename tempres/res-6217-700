@@ -1,0 +1,28 @@
+0. Release Date: July 1                 ... pos = 0.875 	neg = 0.5  
+1. Similar to VOLCANO,                  ... pos = 1.625 	neg = 0.875
+2. Produced by Jerry Br                 ... pos = 0.0   	neg = 0.125
+3. In short, there's mo                 ... pos = 0.0   	neg = 0.0  
+4. There's quite a bit                  ... pos = 0.0   	neg = 0.125
+5. Although the movie b                 ... pos = 0.0   	neg = 0.25 
+6. Dan Truman (Billy Bo                 ... pos = 0.0   	neg = 0.0  
+7. They realize there's                 ... pos = 0.5   	neg = 0.0  
+8. They can't hit the t                 ... pos = 0.0   	neg = 0.875
+9. So they need to find                 ... pos = 0.375 	neg = 0.25 
+10. Once there, they nee                ... pos = 0.0   	neg = 0.75 
+11. The picture is large                ... pos = 0.125 	neg = 1.125
+12. Also, they're workin                ... pos = 2.375 	neg = 0.5  
+13. There are no truly t                ... pos = 1.75  	neg = 0.375
+14. Harry Stamper, A.J.                 ... pos = 0.0   	neg = 0.125
+15. Frost (Stamper's soo                ... pos = 1.5   	neg = 0.5  
+16. The movie's last hal                ... pos = 1.25  	neg = 0.125
+17. ARMAGEDDON runs 144                 ... pos = 1.125 	neg = 1.0  
+18. Although it never pr                ... pos = 0.75  	neg = 0.75 
+19. There's nothing wron                ... pos = 0.25  	neg = 1.125
+20. Certainly one of the                ... pos = 0.25  	neg = 0.0  
+21. FINAL AWARD FOR "ARM                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6217-700 is Positive         ... pos = 14.0  	neg = 9.375
+Overall score of document
+Total Pos = 14.0
+Total Neg = 9.375
+---------------------------------------------------------------------------

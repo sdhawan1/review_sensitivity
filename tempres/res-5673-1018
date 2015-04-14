@@ -1,0 +1,46 @@
+0. Based on the relativ                 ... pos = 0.625 	neg = 0.25 
+1. Now swearing vengean                 ... pos = 0.0   	neg = 0.125
+2. His latest challenge                 ... pos = 0.375 	neg = 0.25 
+3. Admitedly, comic boo                 ... pos = 0.375 	neg = 0.0  
+4. Judging by a series                  ... pos = 0.5   	neg = 1.0  
+5. To some degree, I ag                 ... pos = 0.125 	neg = 0.25 
+6. Having read comic bo                 ... pos = 0.75  	neg = 0.0  
+7. ("Men in Black" is n                 ... pos = 0.0   	neg = 0.375
+8. For the most part, i                 ... pos = 0.375 	neg = 0.125
+9. The Crow and Batman                  ... pos = 0.125 	neg = 0.0  
+10. The Mask features a                 ... pos = 0.125 	neg = 1.5  
+11. Superman. is not ove                ... pos = 0.125 	neg = 0.125
+12. Blade uses common no                ... pos = 0.0   	neg = 0.0  
+13. This is in stark con                ... pos = 0.625 	neg = 0.375
+14. Batman and Robin pro                ... pos = 0.25  	neg = 0.125
+15. Which brings me back                ... pos = 0.0   	neg = 0.0  
+16. Although he may be a                ... pos = 1.5   	neg = 0.125
+17. The film depicts a v                ... pos = 0.125 	neg = 0.375
+18. The end results are                 ... pos = 0.25  	neg = 0.125
+19. The story elements w                ... pos = 0.5   	neg = 0    
+20. Screenwriter David G                ... pos = 0.375 	neg = 0.0  
+21. This is presented th                ... pos = 0.0   	neg = 0.125
+22. This leads to invent                ... pos = 0.5   	neg = 0.0  
+23. Add this. to the nea                ... pos = 0.0   	neg = 0.75 
+24. However, the film wo                ... pos = 0.125 	neg = 0.0  
+25. Actor Wesley Snipes                 ... pos = 0.5   	neg = 0.0  
+26. Proving that quick,                 ... pos = 1.125 	neg = 0.25 
+27. Regardless, this fil                ... pos = 0.0   	neg = 0.125
+28. The film suffers fro                ... pos = 0.125 	neg = 0.25 
+29. The ritual requires                 ... pos = 1.25  	neg = 1.5  
+30. Obvious continuity e                ... pos = 0.0   	neg = 1.375
+31. Much of the special                 ... pos = 0.5   	neg = 0.25 
+32. While vampire disint                ... pos = 2.125 	neg = 0.75 
+33. Scenes with computer                ... pos = 0.875 	neg = 1.625
+34. The film's R rating                 ... pos = 0.875 	neg = 0.5  
+35. Still, scenes involv                ... pos = 0.5   	neg = 1.125
+36. Wesley Snipes is the                ... pos = 0.0   	neg = 0.25 
+37. While not talking mu                ... pos = 0.125 	neg = 0.125
+38. A decent (by comic b                ... pos = 0.0   	neg = 0.0  
+39. --. .                               ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5673-1018 is Positive        ... pos = 15.75 	neg = 14.125
+Overall score of document
+Total Pos = 15.75
+Total Neg = 14.125
+---------------------------------------------------------------------------

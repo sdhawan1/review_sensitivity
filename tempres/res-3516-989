@@ -1,0 +1,35 @@
+0. As Message in a Bott                 ... pos = 0.0   	neg = 0.125
+1. Your first thoughts                  ... pos = 0.375 	neg = 0.75 
+2. But rest assured, it                 ... pos = 0.5   	neg = 0.125
+3. It is a marvelous, w                 ... pos = 1.5   	neg = 0.125
+4. Robin Wright Penn, w                 ... pos = 0.75  	neg = 0.625
+5. She has brought him                  ... pos = 0.375 	neg = 0.0  
+6. In an attempt to rel                 ... pos = 0.0   	neg = 0.0  
+7. The message is writt                 ... pos = 1.375 	neg = 0.75 
+8. She takes the bottle                 ... pos = 0.0   	neg = 0.0  
+9. The column prompts m                 ... pos = 0.375 	neg = 0.0  
+10. With the help of her                ... pos = 0.125 	neg = 0.375
+11. He is a ship-builder                ... pos = 0.0   	neg = 0.125
+12. She convinces her bo                ... pos = 0.125 	neg = 0.0  
+13. Once there, she meet                ... pos = 0.625 	neg = 0.25 
+14. The real treasure of                ... pos = 0.25  	neg = 0.125
+15. This man has certain                ... pos = 0.5   	neg = 0    
+16. He's still nice look                ... pos = 1.75  	neg = 0.625
+17. It is a long time un                ... pos = 1.5   	neg = 0.5  
+18. He deserves it.                     ... pos = 0.75  	neg = 0    
+19. Although most people                ... pos = 0.875 	neg = 0.125
+20. There were many men                 ... pos = 0.25  	neg = 0.125
+21. If you didn't even c                ... pos = 0.75  	neg = 0.125
+22. There are some of th                ... pos = 2.75  	neg = 0.0  
+23. It shows how a love                 ... pos = 0.625 	neg = 0.125
+24. There is nothing sal                ... pos = 0.25  	neg = 0.375
+25. The lighting is love                ... pos = 0.625 	neg = 0.125
+26. Hollywood should tak                ... pos = 0.75  	neg = 0.5  
+27. It's early in the ye                ... pos = 0.0   	neg = 0.125
+28. I do want to see it                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3516-989 is Positive         ... pos = 17.75 	neg = 6.25 
+Overall score of document
+Total Pos = 17.75
+Total Neg = 6.25
+---------------------------------------------------------------------------

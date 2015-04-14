@@ -1,0 +1,37 @@
+0. Despite being based                  ... pos = 0.75  	neg = 0.125
+1. Ostensibly, the film                 ... pos = 0.0   	neg = 1.0  
+2. A well-endowed, twic                 ... pos = 0.0   	neg = 0.0  
+3. As David Spade might                 ... pos = 0.25  	neg = 0.625
+4. The film, which was                  ... pos = 0.0   	neg = 0.5  
+5. Unfortunately, the t                 ... pos = 0.0   	neg = 1.5  
+6. Just as an aside, I                  ... pos = 1.0   	neg = 0.0  
+7. People put their fee                 ... pos = 0.0   	neg = 0.25 
+8. Julia Roberts is con                 ... pos = 0.375 	neg = 0.25 
+9. In movie after movie                 ... pos = 0.875 	neg = 0.0  
+10. In "My Best Friends                 ... pos = 1.125 	neg = 1.0  
+11. She is reprehensible                ... pos = 1.625 	neg = 2.625
+12. Wasn't the whole poi                ... pos = 1.0   	neg = 0.125
+13. In "Runaway Bride,"                 ... pos = 0.0   	neg = 0.0  
+14. Gee, let's make a ch                ... pos = 1.0   	neg = 0.375
+15. And now she plays an                ... pos = 0.0   	neg = 1.25 
+16. When she loses, she                 ... pos = 0.0   	neg = 0.0  
+17. In addition, she goe                ... pos = 0.125 	neg = 0.75 
+18. And when Ed, her bos                ... pos = 0.0   	neg = 0.875
+19. Instead of feeling b                ... pos = 1.125 	neg = 1.375
+20. Unlike any other goo                ... pos = 1.625 	neg = 0.375
+21. Soderbergh and his w                ... pos = 1.0   	neg = 0.75 
+22. Finney comes across                 ... pos = 0.0   	neg = 0.0  
+23. The office co-worker                ... pos = 0.25  	neg = 0.125
+24. The love interest, G                ... pos = 0.75  	neg = 0.25 
+25. Even the poor folks                 ... pos = 0.25  	neg = 2.625
+26. I feel terrible for                 ... pos = 0.75  	neg = 0.75 
+27. The biggest disappoi                ... pos = 0.75  	neg = 0.875
+28. Maybe he did it just                ... pos = 0.625 	neg = 0.0  
+29. However, I think the                ... pos = 0.25  	neg = 0.25 
+30. That's fine, breasts                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2945-155 is Negative         ... pos = 15.75 	neg = 18.625
+Overall score of document
+Total Pos = 15.75
+Total Neg = 18.625
+---------------------------------------------------------------------------

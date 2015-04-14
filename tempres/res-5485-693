@@ -1,0 +1,30 @@
+0. MOVIE VIEWS by Jamey                 ... pos = 0.5   	neg = 0.0  
+1. When Steve Everett (                 ... pos = 2.5   	neg = 0.125
+2. Eastwood has played                  ... pos = 0.875 	neg = 0.625
+3. He gets my vote, at                  ... pos = 0.75  	neg = 0.375
+4. When his colleague a                 ... pos = 0.875 	neg = 0.75 
+5. The interview is wit                 ... pos = 0.0   	neg = 0.125
+6. Eastwood furrows his                 ... pos = 0.0   	neg = 0.0  
+7. As Everett gradually                 ... pos = 0.875 	neg = 0.125
+8. He interviews a key                  ... pos = 0.125 	neg = 0.0  
+9. But Everett protests                 ... pos = 0.0   	neg = 0.125
+10. Jeter doesn't know w                ... pos = 0.0   	neg = 0.0  
+11. Eastwood furrows his                ... pos = 0.0   	neg = 0.0  
+12. Crinkled expressions                ... pos = 0.5   	neg = 0.125
+13. The film is by no me                ... pos = 1.125 	neg = 0.375
+14. Isaiah Washington ha                ... pos = 1.25  	neg = 0.0  
+15. But the best scenes                 ... pos = 0.625 	neg = 0.0  
+16. Denis Leary, as Ever                ... pos = 0.625 	neg = 0.125
+17. But hands down, the                 ... pos = 0.75  	neg = 0.125
+18. Playing the big boss                ... pos = 0.25  	neg = 0.0  
+19. When True Crime opts                ... pos = 0.5   	neg = 0.375
+20. Eastwood was so succ                ... pos = 1.5   	neg = 0.25 
+21. True Crime is a tens                ... pos = 0.75  	neg = 0.125
+22. This is a road block                ... pos = 0.25  	neg = 0.125
+23. ....................                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5485-693 is Positive         ... pos = 14.625 	neg = 3.875
+Overall score of document
+Total Pos = 14.625
+Total Neg = 3.875
+---------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by David O.                  ... pos = 0.0   	neg = 0.0  
+2. Photographed by Newt                 ... pos = 0.0   	neg = 0.0  
+3. David O. Russell's "                 ... pos = 0.125 	neg = 0.25 
+4. What's more, the mom                 ... pos = 0.5   	neg = 0.125
+5. This is a fast-talki                 ... pos = 0.625 	neg = 0.5  
+6. The story takes plac                 ... pos = 0.0   	neg = 0.0  
+7. In a camp  of Americ                 ... pos = 0.5   	neg = 0.125
+8. Gates orders a goofy                 ... pos = 0.25  	neg = 0.0  
+9. "Can't I have a  glo                 ... pos = 0.0   	neg = 0.0  
+10. " he asks.                          ... pos = 0.125 	neg = 0    
+11. "No," Gates replies,                ... pos = 0.0   	neg = 0    
+12. ". Gates and Vig con                ... pos = 0.5   	neg = 0.25 
+13. Together the quintet                ... pos = 0.625 	neg = 0.25 
+14. Their plan: To steal                ... pos = 0.0   	neg = 0.0  
+15. If they get  caught:                ... pos = 0.0   	neg = 0.125
+16. Since we never see m                ... pos = 1.0   	neg = 0.75 
+17. Our heroes'  obstacl                ... pos = 0.0   	neg = 0.125
+18. Iraqi guards are mak                ... pos = 0.25  	neg = 0.875
+19. There is a scene of                 ... pos = 0.375 	neg = 0.125
+20. A mother is shot  in                ... pos = 0.0   	neg = 0.125
+21. Soldiers resume figh                ... pos = 0.0   	neg = 0.0  
+22. Watching  this at a                 ... pos = 0.5   	neg = 0.5  
+23. Of course, that's al                ... pos = 0.0   	neg = 0.0  
+24. George Bush may have                ... pos = 0.625 	neg = 0.875
+25. Most people already                 ... pos = 0.75  	neg = 0.25 
+26. The film surrounds G                ... pos = 0.625 	neg = 0.625
+27. That's a little anti                ... pos = 1.5   	neg = 0.625
+28. Russell,  who wrote                 ... pos = 1.125 	neg = 0.0  
+29. It is creative to fo                ... pos = 0.375 	neg = 0.75 
+30. What "Three Kings" c                ... pos = 0.875 	neg = 0.125
+31. "), the disorganisat                ... pos = 0.0   	neg = 0.0  
+32. We can decipher what                ... pos = 0.5   	neg = 0.125
+33. Ambiguous individual                ... pos = 0.625 	neg = 0.0  
+34. Newton Thomas Sigel'                ... pos = 0.75  	neg = 0.125
+35. In the tradition of                 ... pos = 1.5   	neg = 0.125
+36. There are huge contr                ... pos = 0.75  	neg = 0.375
+37. The four main actors                ... pos = 1.5   	neg = 0.25 
+38. Clooney has authorit                ... pos = 2.875 	neg = 0.375
+39. As of yet, the only                 ... pos = 0.375 	neg = 0.125
+40. So it's amazing,  wh                ... pos = 0.375 	neg = 0.25 
+41. Shame on Warner Bros                ... pos = 0.0   	neg = 1.0  
+42. They're shooting the                ... pos = 0.75  	neg = 0.875
+43. "Three Kings"  deser                ... pos = 1.75  	neg = 0.375
+44. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3790-1540 is Positive        ... pos = 23.25 	neg = 11.5 
+Overall score of document
+Total Pos = 23.25
+Total Neg = 11.5
+---------------------------------------------------------------------------

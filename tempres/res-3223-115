@@ -1,0 +1,52 @@
+0. For me, the problem                  ... pos = 0.5   	neg = 0.375
+1. It's not even that t                 ... pos = 1.875 	neg = 2.625
+2. My problem with this                 ... pos = 0.625 	neg = 0.75 
+3. I can accept that no                 ... pos = 0.75  	neg = 0.125
+4. And maybe at some sc                 ... pos = 0.25  	neg = 0.375
+5. There may even be a                  ... pos = 0.625 	neg = 0.875
+6. But I can't accept s                 ... pos = 0.25  	neg = 0.25 
+7. Without even a threa                 ... pos = 0.25  	neg = 0.0  
+8. Apparently having no                 ... pos = 0.625 	neg = 0.375
+9. I don't think this w                 ... pos = 0.5   	neg = 0.5  
+10. Perhaps it was an at                ... pos = 0.0   	neg = 0.125
+11. Whatever it's suppos                ... pos = 1.0   	neg = 0.125
+12. It just makes no god                ... pos = 0.125 	neg = 0.25 
+13. It's hard to get a k                ... pos = 0.25  	neg = 1.375
+14. I also can't accept                 ... pos = 0.875 	neg = 0.75 
+15. He runs right past h                ... pos = 0.125 	neg = 0.625
+16. There are many scene                ... pos = 1.75  	neg = 1.5  
+17. I'm not talking abou                ... pos = 0.25  	neg = 0.75 
+18. Watching these unbel                ... pos = 1.75  	neg = 0.125
+19. A problem that occas                ... pos = 0.75  	neg = 0.5  
+20. I don't know if I ca                ... pos = 0.25  	neg = 0.5  
+21. ) her mom and cousin                ... pos = 0.0   	neg = 0.125
+22. Not only do I not be                ... pos = 1.25  	neg = 0.25 
+23. This kind of moronic                ... pos = 0.125 	neg = 0.75 
+24. I want an apology an                ... pos = 0.0   	neg = 0.75 
+25. Now.                                ... pos = 0.0   	neg = 0    
+26. This movie also has                 ... pos = 0.0   	neg = 0.875
+27. I'm sure you're supp                ... pos = 1.125 	neg = 0.25 
+28. But the All That Gir                ... pos = 0.125 	neg = 0.125
+29. The performance art                 ... pos = 0.0   	neg = 0.875
+30. It's done in that sa                ... pos = 0.5   	neg = 0.0  
+31. But it goes on for a                ... pos = 1.5   	neg = 3.0  
+32. Class President, for                ... pos = 1.375 	neg = 0.125
+33. But watching the sce                ... pos = 0.875 	neg = 1.75 
+34. Sarah Michelle Gella                ... pos = 0.75  	neg = 0.375
+35. Also slumming is Ann                ... pos = 0.0   	neg = 0.375
+36. In retrospect I'm ve                ... pos = 1.75  	neg = 0.125
+37. She's All That makes                ... pos = 1.125 	neg = 1.625
+38. Filmmakers have made                ... pos = 0.0   	neg = 0.5  
+39. Movies like Pump Up                 ... pos = 0.125 	neg = 0.625
+40. (Every social clique                ... pos = 0.375 	neg = 2.125
+41. Yeah, I wish.                       ... pos = 0     	neg = 0.375
+42. ) At least these kid                ... pos = 0.0   	neg = 0.625
+43. More importantly, it                ... pos = 0.75  	neg = 1.875
+44. "I write rhymes so f                ... pos = 0.375 	neg = 0.5  
+45. " --Tash. .                         ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3223-115 is Negative         ... pos = 25.5  	neg = 30.875
+Overall score of document
+Total Pos = 25.5
+Total Neg = 30.875
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. TV producer Cynthia                  ... pos = 0.5   	neg = 0.0  
+1. A talent search turn                 ... pos = 0.0   	neg = 0.125
+2. Ed Pekurny (Matthew                  ... pos = 0.5   	neg = 0.375
+3. He takes the offer a                 ... pos = 0.0   	neg = 0.125
+4. The show becomes a p                 ... pos = 0.375 	neg = 0.0  
+5. However, Shari objec                 ... pos = 0.25  	neg = 0.0  
+6. Ed doesn't understan                 ... pos = 0.5   	neg = 0.0  
+7. Life becomes increas                 ... pos = 0.0   	neg = 0    
+8. Everywhere he goes c                 ... pos = 0.0   	neg = 0.0  
+9. "USA Today" takes po                 ... pos = 0.75  	neg = 0.125
+10. When Ed's father (De                ... pos = 0.375 	neg = 0.125
+11. When Ed decides he w                ... pos = 0.125 	neg = 0.5  
+12. When "Edtv" was firs                ... pos = 0.25  	neg = 0.125
+13. It was called 'The T                ... pos = 0.0   	neg = 0.125
+14. '"  I ignored the de                ... pos = 0.125 	neg = 0.0  
+15. There are basic simi                ... pos = 2.25  	neg = 0.5  
+16. In "Truman" those is                ... pos = 0.125 	neg = 0.125
+17. In the best parts of                ... pos = 0.0   	neg = 0.375
+18. And the other parts?                ... pos = 0.0   	neg = 0    
+19. By the end, the roma                ... pos = 0.625 	neg = 0.0  
+20. Matthew McConaughey                 ... pos = 0.0   	neg = 0.625
+21. He was incredibly un                ... pos = 0.0   	neg = 1.375
+22. Among the supporting                ... pos = 2.0   	neg = 1.0  
+23. Ironically, a movie                 ... pos = 0.0   	neg = 1.375
+24. .                                   ... pos = 0     	neg = 0    
+25. .                                   ... pos = 0     	neg = 0    
+26. you guessed it .                    ... pos = 0.0   	neg = 0.0  
+27. .                                   ... pos = 0     	neg = 0    
+28. .                                   ... pos = 0     	neg = 0    
+29. shameless self-promo                ... pos = 0     	neg = 0.625
+30. The Ed TV broadcasts                ... pos = 0.0   	neg = 0.0  
+31. Pepsi even puts a so                ... pos = 0.0   	neg = 0.0  
+32. Also, cameos abound.                ... pos = 0.0   	neg = 0.5  
+33. Look for Jay Leno, B                ... pos = 0.0   	neg = 0.375
+34. Bottom line:  When "                ... pos = 0.5   	neg = 0.125
+35. The rest we've seen                 ... pos = 0.0   	neg = 0.0  
+36. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4588-1265 is Positive        ... pos = 9.25  	neg = 8.625
+Overall score of document
+Total Pos = 9.25
+Total Neg = 8.625
+---------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+0. 20th Century Fox / 1                 ... pos = 0.625 	neg = 1.5  
+1. Because "Peak" explo                 ... pos = 1.875 	neg = 0.5  
+2. The movie's premise                  ... pos = 0.0   	neg = 0.25 
+3. Tommy Lee Jones play                 ... pos = 0.375 	neg = 0.0  
+4. It certainly doesn't                 ... pos = 0.625 	neg = 0.0  
+5. We, of course, know                  ... pos = 0     	neg = 0.5  
+6. Pretty seismologist                  ... pos = 0.125 	neg = 0.25 
+7. Before too long, the                 ... pos = 1.75  	neg = 0.625
+8. Roark's daughter (Ga                 ... pos = 0.25  	neg = 1.0  
+9. Roark and Barnes mee                 ... pos = 0.0   	neg = 0.0  
+10. The rest of the stor                ... pos = 0.375 	neg = 0.125
+11. I really could have                 ... pos = 1.75  	neg = 1.75 
+12. I think this is why                 ... pos = 0.5   	neg = 0.125
+13. "Peak" knew it was a                ... pos = 0.0   	neg = 0.375
+14. Towards its end, "Vo                ... pos = 0.5   	neg = 1.125
+15. " "Volcano" even fea                ... pos = 0.25  	neg = 1.375
+16. Acting-wise, all is                 ... pos = 0.0   	neg = 0.125
+17. Jones can play this                 ... pos = 0.625 	neg = 0.0  
+18. Heche, a real find i                ... pos = 0.25  	neg = 0.0  
+19. And Cheadle, most re                ... pos = 0.0   	neg = 0.0  
+20. Put all plotting fla                ... pos = 0.5   	neg = 0.5  
+21. (In one gruesome seg                ... pos = 2.25  	neg = 0.5  
+22. ) And for the record                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-135-1031 is Positive         ... pos = 13.125 	neg = 10.625
+Overall score of document
+Total Pos = 13.125
+Total Neg = 10.625
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. rated R starring Kea                 ... pos = 0.125 	neg = 0.125
+1. If it helps answer t                 ... pos = 0.5   	neg = 0.125
+2. The second film by t                 ... pos = 0.625 	neg = 0.0  
+3. It has a similar loo                 ... pos = 0.75  	neg = 0.375
+4. But after seeing THE                 ... pos = 0.25  	neg = 0.125
+5. Like THE THIN RED LI                 ... pos = 1.5   	neg = 0.875
+6. The complicated plot                 ... pos = 0.875 	neg = 0.375
+7. Keanu Reeves plays T                 ... pos = 0.375 	neg = 0.0  
+8. He is then contacted                 ... pos = 0.0   	neg = 0.125
+9. He then joins Morphe                 ... pos = 0.0   	neg = 0.125
+10. Morpheus believes th                ... pos = 0.25  	neg = 0.125
+11. Neo trusts Morpheus                 ... pos = 0.125 	neg = 0.125
+12. And Neo decides to s                ... pos = 0.0   	neg = 0    
+13. The Wachowski brothe                ... pos = 1.375 	neg = 0.125
+14. THE MATRIX took a lo                ... pos = 0.0   	neg = 0.5  
+15. THE MATRIX should al                ... pos = 0.0   	neg = 0.125
+16. After trash like JOH                ... pos = 1.5   	neg = 0.25 
+17. Mainstream audiences                ... pos = 0.375 	neg = 0.625
+18. THE MATRIX may not b                ... pos = 1.0   	neg = 0.375
+19. Of all the many ques                ... pos = 0.875 	neg = 0.375
+20. ". a review by Akiva                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5409-421 is Positive         ... pos = 10.625 	neg = 5.0  
+Overall score of document
+Total Pos = 10.625
+Total Neg = 5.0
+---------------------------------------------------------------------------

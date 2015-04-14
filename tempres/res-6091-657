@@ -1,0 +1,62 @@
+0. DIRECTED BY: Milos F                 ... pos = 2.25  	neg = 0.125
+1. So I decided to cut                  ... pos = 0.0   	neg = 0.0  
+2. Now the movie is muc                 ... pos = 0.125 	neg = 0.25 
+3. Than you very much [                 ... pos = 1.125 	neg = 0.25 
+4. Second: though this                  ... pos = 0.25  	neg = 1.0  
+5. The director of this                 ... pos = 1.0   	neg = 0.125
+6. That is probably why                 ... pos = 1.0   	neg = 0.25 
+7. This devotion for th                 ... pos = 0.375 	neg = 0.125
+8. Andy Kaufman fits pe                 ... pos = 0.625 	neg = 0    
+9. Although we know ver                 ... pos = 0.5   	neg = 0.375
+10. So who was Andy Kauf                ... pos = 0.0   	neg = 0.125
+11. Andy Kaufman was (an                ... pos = 0.0   	neg = 0.25 
+12. He was not a comedia                ... pos = 0.25  	neg = 0.25 
+13. The man that dared t                ... pos = 0.625 	neg = 0.125
+14. The man that dreamed                ... pos = 0.125 	neg = 0.0  
+15. He provoked the audi                ... pos = 0.25  	neg = 0.625
+16. This was his profess                ... pos = 0.0   	neg = 0.125
+17. He could provoke rea                ... pos = 0.875 	neg = 0    
+18. Andy Kaufman was the                ... pos = 0.5   	neg = 0.875
+19. A man that nobody re                ... pos = 0.375 	neg = 0.0  
+20. The world and everyt                ... pos = 0.0   	neg = 0.625
+21. This information is                 ... pos = 0.375 	neg = 0.125
+22. It proves that we do                ... pos = 0.125 	neg = 0.0  
+23. And the film was goi                ... pos = 0.5   	neg = 0.25 
+24. Or at least it is su                ... pos = 0.0   	neg = 0.25 
+25. What it is, is simpl                ... pos = 0.375 	neg = 0.375
+26. It begins in a bizar                ... pos = 0.5   	neg = 0.25 
+27. I am Andy.                          ... pos = 0     	neg = 0.125
+28. Welcome to my movie"                ... pos = 0.25  	neg = 0    
+29. You have to admit th                ... pos = 0.0   	neg = 0.125
+30. Regrettably from tha                ... pos = 0.625 	neg = 0.875
+31. First he creates the                ... pos = 1.125 	neg = 0.25 
+32. In addition to the T                ... pos = 0.25  	neg = 1.0  
+33. This is all very ent                ... pos = 1.875 	neg = 0.75 
+34. We long to finally g                ... pos = 0.0   	neg = 0.375
+35. Unfortunately Forman                ... pos = 0.125 	neg = 1.625
+36. Of the two hours tha                ... pos = 0.375 	neg = 0.0  
+37. It's not that it is                 ... pos = 0.0   	neg = 0.125
+38. It certainly is, and                ... pos = 0.75  	neg = 0.375
+39. There is in fact a m                ... pos = 0.5   	neg = 1.0  
+40. Like the boy who has                ... pos = 0.625 	neg = 0.375
+41. This is something th                ... pos = 0.5   	neg = 0.5  
+42. Forman doesn't even                 ... pos = 0.0   	neg = 0.0  
+43. To me it was the big                ... pos = 0.0   	neg = 0.875
+44. However there are mo                ... pos = 0.875 	neg = 0.0  
+45. When the film is mov                ... pos = 0.5   	neg = 0.125
+46. In the end "Man on t                ... pos = 0.625 	neg = 0.25 
+47. You might wonder abo                ... pos = 0.0   	neg = 1.25 
+48. It is difficult to e                ... pos = 1.375 	neg = 0.25 
+49. He completes the tra                ... pos = 0.0   	neg = 0.0  
+50. Not only does Carrey                ... pos = 1.375 	neg = 0.0  
+51. The forcefulness wit                ... pos = 1.0   	neg = 0.375
+52. This is a role that                 ... pos = 0.0   	neg = 0.375
+53. It would be a disgra                ... pos = 0.625 	neg = 0.125
+54. As for the film itse                ... pos = 1.0   	neg = 0.5  
+55. "Thank you very much                ... pos = 0.5   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6091-657 is Positive         ... pos = 27.0  	neg = 18.375
+Overall score of document
+Total Pos = 27.0
+Total Neg = 18.375
+---------------------------------------------------------------------------

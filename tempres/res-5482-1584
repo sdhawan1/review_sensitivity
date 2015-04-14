@@ -1,0 +1,39 @@
+0. I do not know what t                 ... pos = 0.0   	neg = 0.0  
+1. I find myself in the                 ... pos = 0.875 	neg = 0.0  
+2. On one side , it's a                 ... pos = 0.125 	neg = 0.125
+3. Unfortunately , it's                 ... pos = 0.25  	neg = 0.875
+4. Case in point , the                  ... pos = 0.5   	neg = 0.5  
+5. After all , when you                 ... pos = 0.75  	neg = 0.875
+6. In fact , i could ha                 ... pos = 0.625 	neg = 0.375
+7. I know what you are                  ... pos = 1.375 	neg = 0.75 
+8. Wrong.                               ... pos = 0     	neg = 0.75 
+9. However , i simply m                 ... pos = 3.25  	neg = 0.375
+10. No matter how bad th                ... pos = 0.0   	neg = 2.25 
+11. It's just one of "th                ... pos = 0.0   	neg = 0.0  
+12. The kind where you d                ... pos = 0.125 	neg = 1.0  
+13. What could it be?                   ... pos = 0.0   	neg = 0.125
+14. The acting , perhaps                ... pos = 0.0   	neg = 0.0  
+15. Let's examine this a                ... pos = 0.0   	neg = 0.0  
+16. I am now even more c                ... pos = 0.125 	neg = 0.25 
+17. Or at least , the vo                ... pos = 0.0   	neg = 0.0  
+18. I am quite certain t                ... pos = 0.875 	neg = 0.25 
+19. Or maybe , with that                ... pos = 0.125 	neg = 0.0  
+20. " Because for some r                ... pos = 0.0   	neg = 0.0  
+21. While he will not be                ... pos = 0.875 	neg = 0.25 
+22. You know this man ha                ... pos = 0.0   	neg = 0.125
+23. Speaking of Snipes ,                ... pos = 1.125 	neg = 0.375
+24. ( Well , who is?                    ... pos = 0.0   	neg = 0.125
+25. ) Or , for that matt                ... pos = 0.125 	neg = 0.375
+26. At least Mr. Kimble                 ... pos = 0.0   	neg = 0.125
+27. Our boy Snipes makes                ... pos = 0.25  	neg = 0.625
+28. What kind of moron o                ... pos = 1.0   	neg = 0.25 
+29. "Gee whiz , those pe                ... pos = 0.375 	neg = 1.375
+30. " . Despite these ma                ... pos = 0.875 	neg = 0.875
+31. I'm glad i saw U.S M                ... pos = 0.375 	neg = 0.125
+32. Rating : 2 and half                 ... pos = 0.75  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5482-1584 is Positive        ... pos = 14.75 	neg = 14.0 
+Overall score of document
+Total Pos = 14.75
+Total Neg = 14.0
+---------------------------------------------------------------------------

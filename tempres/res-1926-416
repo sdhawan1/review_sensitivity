@@ -1,0 +1,23 @@
+0. Starring: Kevin Spac                 ... pos = 0.375 	neg = 1.0  
+1. Everyone else around                 ... pos = 0.375 	neg = 0.0  
+2. Lester's unassertive                 ... pos = 0.875 	neg = 0.75 
+3. His wife Carolyn (An                 ... pos = 0.0   	neg = 0.125
+4. And these are people                 ... pos = 0.25  	neg = 0.0  
+5. The only person who                  ... pos = 0.625 	neg = 0.375
+6. When Lester embarks                  ... pos = 0.625 	neg = 0.125
+7. Will Lester regain h                 ... pos = 0.625 	neg = 0    
+8. Opinion:  People say                 ... pos = 0.75  	neg = 0.0  
+9. Likewise, people rai                 ... pos = 2.875 	neg = 0.75 
+10. Sometimes it takes a                ... pos = 0.125 	neg = 0.125
+11. The deprivation/appr                ... pos = 0.5   	neg = 0.125
+12. AMERICAN BEAUTY is a                ... pos = 1.25  	neg = 0.25 
+13. The thing I like abo                ... pos = 1.875 	neg = 0.75 
+14. The movie entertains                ... pos = 1.0   	neg = 0.125
+15. If you are in the mo                ... pos = 1.625 	neg = 0.0  
+16. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1926-416 is Positive         ... pos = 13.75 	neg = 4.625
+Overall score of document
+Total Pos = 13.75
+Total Neg = 4.625
+---------------------------------------------------------------------------

@@ -1,0 +1,78 @@
+0. Respect's Reviews ca                 ... pos = 0.5   	neg = 0.125
+1. I am pretty biased t                 ... pos = 0.75  	neg = 0.375
+2. I admit it...                        ... pos = 0.0   	neg = 0.0  
+3. I love Stallone movi                 ... pos = 0.625 	neg = 0.0  
+4. Even if they are bra                 ... pos = 1.0   	neg = 1.25 
+5. However, upon hearin                 ... pos = 0.875 	neg = 0.5  
+6. After films like Ass                 ... pos = 0.125 	neg = 0.25 
+7. Watching Rocky, I kn                 ... pos = 0.0   	neg = 0.125
+8. But that isn't sayin                 ... pos = 0.75  	neg = 0.0  
+9. Demolition Man was h                 ... pos = 1.5   	neg = 0.375
+10. Cliffhanger was just                ... pos = 1.0   	neg = 0.125
+11. But Stallone was alw                ... pos = 0.625 	neg = 0.125
+12. Until now.                          ... pos = 0.0   	neg = 0    
+13. It has taken over 20                ... pos = 0.75  	neg = 0.125
+14. Was it worth the wai                ... pos = 0.0   	neg = 0.125
+15. Some of us loyal and                ... pos = 1.25  	neg = 0.5  
+16. Well, it is here.                   ... pos = 0.0   	neg = 0.125
+17. Cop Land is not only                ... pos = 0.75  	neg = 0.375
+18. Considering that it                 ... pos = 0.25  	neg = 0.125
+19. My only hope is that                ... pos = 0.75  	neg = 0.25 
+20. Cop Land begins with                ... pos = 0.5   	neg = 0.25 
+21. Freddy Heflin (Stall                ... pos = 0.375 	neg = 0.5  
+22. Freddy dreams about                 ... pos = 0.75  	neg = 0.25 
+23. Unfortunately, Fredd                ... pos = 0.0   	neg = 1.0  
+24. So he settles for be                ... pos = 0.25  	neg = 0.0  
+25. Cop Land was created                ... pos = 0.375 	neg = 0.5  
+26. But the only problem                ... pos = 0.25  	neg = 0.875
+27. So a group of New Yo                ... pos = 0.75  	neg = 0.25 
+28. As Freddy begins to                 ... pos = 0.75  	neg = 0.625
+29. He witnesses things                 ... pos = 0.25  	neg = 0.375
+30. But by nature, Fredd                ... pos = 0.0   	neg = 0.0  
+31. He remains quiet, an                ... pos = 0.125 	neg = 0.125
+32. His only real friend                ... pos = 0.375 	neg = 0.0  
+33. Naturally, he is in                 ... pos = 0.875 	neg = 0.125
+34. But she is married t                ... pos = 0.75  	neg = 0.625
+35. Soon, however, an in                ... pos = 0.125 	neg = 0.75 
+36. Murray "Superboy" Ba                ... pos = 0.75  	neg = 0.875
+37. Or does he?                         ... pos = 0.0   	neg = 0.0  
+38. Freddy is the only w                ... pos = 0.625 	neg = 0.25 
+39. The investigation of                ... pos = 0.625 	neg = 0.25 
+40. Unfortunately, the C                ... pos = 0.5   	neg = 1.5  
+41. It is up to Freddy t                ... pos = 0.0   	neg = 0.125
+42. But he does have hel                ... pos = 0.125 	neg = 0.625
+43. Together, these two                 ... pos = 1.125 	neg = 0.5  
+44. What makes Cop Land                 ... pos = 0.125 	neg = 0.5  
+45. While the film does                 ... pos = 1.0   	neg = 0.125
+46. The pace is kept slo                ... pos = 0.5   	neg = 0.25 
+47. Freddy is such a gre                ... pos = 2.5   	neg = 0.25 
+48. But that isn't the o                ... pos = 0     	neg = 0.0  
+49. Freddy, the sheriff                 ... pos = 0.5   	neg = 0.625
+50. He doesn't speak his                ... pos = 0.625 	neg = 0.125
+51. His emotions are sto                ... pos = 2.75  	neg = 0.875
+52. But let's face it: t                ... pos = 0.625 	neg = 0.125
+53. Liotta almost steals                ... pos = 2.25  	neg = 0.0  
+54. Liotta is a very und                ... pos = 1.125 	neg = 0.125
+55. Keitel is amazing as                ... pos = 0.0   	neg = 0.625
+56. It was almost a role                ... pos = 0.0   	neg = 0.125
+57. De Niro is terrific                 ... pos = 0.375 	neg = 0.25 
+58. Sciorra gives a nice                ... pos = 0.5   	neg = 0    
+59. Janeane Garofalo giv                ... pos = 0.625 	neg = 0.0  
+60. When she is, she han                ... pos = 0.0   	neg = 0.125
+61. Rapaport is good wit                ... pos = 0.75  	neg = 0.125
+62. But, as the hype has                ... pos = 0.0   	neg = 0.5  
+63. Perhaps I am just ov                ... pos = 0.625 	neg = 0.25 
+64. But I don't think so                ... pos = 0     	neg = 0.0  
+65. Hopefully, Oscar won                ... pos = 0.75  	neg = 0    
+66. Cop Land is rated R                 ... pos = 0.125 	neg = 0.75 
+67. Director/writer Jame                ... pos = 0.5   	neg = 0.25 
+68. Nothing is really su                ... pos = 0.5   	neg = 0.375
+69. But none of that mat                ... pos = 0.5   	neg = 0.125
+70. It's nice to see a f                ... pos = 0.25  	neg = 0.25 
+71. I just hope that Cop                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2603-1566 is Positive        ... pos = 39.625 	neg = 22.25
+Overall score of document
+Total Pos = 39.625
+Total Neg = 22.25
+---------------------------------------------------------------------------

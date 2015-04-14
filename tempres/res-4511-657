@@ -1,0 +1,51 @@
+0. Rule number 1: Forge                 ... pos = 0.25  	neg = 0.0  
+1. Forget everything ab                 ... pos = 0.25  	neg = 0.0  
+2. Because you will dis                 ... pos = 0.625 	neg = 0.0  
+3. Rule number 2: Anyon                 ... pos = 0.875 	neg = 0.0  
+4. Rule number 3: The k                 ... pos = 0.25  	neg = 1.5  
+5. Prepare yourself for                 ... pos = 0.25  	neg = 0.75 
+6. Not many survived 'S                 ... pos = 0.0   	neg = 0    
+7. Those who have, are                  ... pos = 0.75  	neg = 0.0  
+8. Among them: Gale (th                 ... pos = 0.5   	neg = 0.25 
+9. The bloody unpleasan                 ... pos = 0.0   	neg = 0.75 
+10. Well, that is everyo                ... pos = 0.0   	neg = 0.75 
+11. Meanwhile, in Hollyw                ... pos = 0.25  	neg = 0.0  
+12. Everything is swell,                ... pos = 0.0   	neg = 0.125
+13. And so the remaining                ... pos = 0.75  	neg = 0.625
+14. Calm yourself, becau                ... pos = 0.0   	neg = 0.125
+15. Just think of it as                 ... pos = 0.0   	neg = 0.0  
+16. 'Scream 3' gives Cra                ... pos = 0.0   	neg = 0.0  
+17. He is almost success                ... pos = 0.625 	neg = 0.125
+18. The first installmen                ... pos = 0.25  	neg = 0.125
+19. It was self ironic a                ... pos = 1.375 	neg = 0.625
+20. The second one was a                ... pos = 0.0   	neg = 0.25 
+21. His latest addition                 ... pos = 0.0   	neg = 0.0  
+22. It starts fresh and                 ... pos = 0.625 	neg = 0.375
+23. Craven begins well,                 ... pos = 0.875 	neg = 0.125
+24. There are surprises,                ... pos = 0.25  	neg = 0.0  
+25. There are some incre                ... pos = 0.375 	neg = 0.5  
+26. There is a certain s                ... pos = 0.375 	neg = 0.125
+27. Who will die first?                 ... pos = 0.25  	neg = 0.0  
+28. Why?                                ... pos = 0     	neg = 0.0  
+29. Who is the mysteriou                ... pos = 0.5   	neg = 0.5  
+30. And what is the myst                ... pos = 0.625 	neg = 0.125
+31. Craven is filling th                ... pos = 1.0   	neg = 0.625
+32. Unfortunately it all                ... pos = 0.0   	neg = 1.125
+33. Already after 50 min                ... pos = 0.0   	neg = 0.0  
+34. And by the finale yo                ... pos = 0.25  	neg = 0.5  
+35. It is unfortunate, b                ... pos = 0.25  	neg = 0.125
+36. But Craven is too oc                ... pos = 0.375 	neg = 0.5  
+37. So, after the killer                ... pos = 1.5   	neg = 1.125
+38. The film is as frigh                ... pos = 0.375 	neg = 0.125
+39. It has a much more s                ... pos = 0.375 	neg = 0.125
+40. You can't trust them                ... pos = 0     	neg = 0.0  
+41. 'Scream 3' is probab                ... pos = 0.0   	neg = 0.125
+42. It plays on a much h                ... pos = 1.25  	neg = 0.75 
+43. And though it's not                 ... pos = 1.25  	neg = 0.25 
+44. It is not quite an a                ... pos = 1.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4511-657 is Positive         ... pos = 18.5  	neg = 13.375
+Overall score of document
+Total Pos = 18.5
+Total Neg = 13.375
+---------------------------------------------------------------------------

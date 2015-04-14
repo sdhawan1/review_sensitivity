@@ -1,0 +1,29 @@
+0. I suppose I never ha                 ... pos = 1.25  	neg = 0.25 
+1. The film is centered                 ... pos = 0.875 	neg = 0.5  
+2. But as soon as he st                 ... pos = 0.875 	neg = 0.125
+3. Mamet builds up to t                 ... pos = 0.125 	neg = 0.5  
+4. Many details are wit                 ... pos = 0.625 	neg = 0.5  
+5. A fair amount of the                 ... pos = 2.25  	neg = 0.125
+6. When Susan Ricci (Re                 ... pos = 1.0   	neg = 0.0  
+7. And then there's the                 ... pos = 0.625 	neg = 0.25 
+8. Martin's performance                 ... pos = 0.5   	neg = 0.125
+9. His offer for the ca                 ... pos = 0.625 	neg = 0.0  
+10. He doesn't let us fo                ... pos = 0.875 	neg = 0.875
+11. " Jimmy Dell is hard                ... pos = 0.875 	neg = 0.375
+12. " Clearly, someone i                ... pos = 0.25  	neg = 0.125
+13. Unfortunately, the s                ... pos = 0.125 	neg = 1.0  
+14. In a series of plot                 ... pos = 1.375 	neg = 0.125
+15. Mamet consistently k                ... pos = 0.375 	neg = 0.0  
+16. The downside is that                ... pos = 0.125 	neg = 0.125
+17. Because of the preci                ... pos = 3.0   	neg = 0.0  
+18. Mamet seems to be pu                ... pos = 0.0   	neg = 0.25 
+19. The numerous decepti                ... pos = 1.75  	neg = 0.5  
+20. More than anything,                 ... pos = 0.5   	neg = 0.25 
+21. Still, it could have                ... pos = 0.625 	neg = 0.5  
+22. With the stale chara                ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1888-716 is Positive         ... pos = 19.5  	neg = 6.75 
+Overall score of document
+Total Pos = 19.5
+Total Neg = 6.75
+---------------------------------------------------------------------------

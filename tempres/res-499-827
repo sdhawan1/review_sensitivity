@@ -1,0 +1,53 @@
+0. Directed by Tony Kay                 ... pos = 0.0   	neg = 0    
+1. Written by David McK                 ... pos = 0.0   	neg = 0    
+2. Running time: 117 mi                 ... pos = 0     	neg = 0.0  
+3. Rated R (for graphic                 ... pos = 0.625 	neg = 0.375
+4. Racism is a horrible                 ... pos = 0.125 	neg = 0.875
+5. A few films stick in                 ... pos = 0.125 	neg = 0.0  
+6. Schindler's List was                 ... pos = 0.0   	neg = 0.125
+7. American History X i                 ... pos = 0.375 	neg = 0.125
+8. Derek Vinyard has ha                 ... pos = 0.375 	neg = 0.0  
+9. His father was murde                 ... pos = 0.125 	neg = 0.875
+10. He became the leader                ... pos = 0.0   	neg = 0    
+11. After a horrible cri                ... pos = 0.25  	neg = 0.875
+12. He leaves with him h                ... pos = 0.0   	neg = 0.125
+13. Derek has been refor                ... pos = 0.375 	neg = 1.0  
+14. He tries desparately                ... pos = 0.0   	neg = 0.5  
+15. He shocks his former                ... pos = 0.625 	neg = 1.625
+16. Edward Norton gives                 ... pos = 0.0   	neg = 0.0  
+17. Flashback scenes sho                ... pos = 0.125 	neg = 0.75 
+18. He conveys the evil                 ... pos = 0.125 	neg = 0.875
+19. Edward Furlong also                 ... pos = 0.75  	neg = 0.125
+20. He still looks as he                ... pos = 0.0   	neg = 0.375
+21. Director Tony Kaye,                 ... pos = 0.625 	neg = 0.25 
+22. He claims Edward Nor                ... pos = 0.0   	neg = 0.0  
+23. If he did than he sh                ... pos = 0.0   	neg = 0.125
+24. Kaye is very good in                ... pos = 1.25  	neg = 0.125
+25. I don't know how muc                ... pos = 0.25  	neg = 0.125
+26. The current cut is g                ... pos = 0.75  	neg = 0.125
+27. This film is brutal.                ... pos = 0.0   	neg = 0.125
+28. The Nazi scenes are                 ... pos = 0.75  	neg = 0.667
+29. The flashbacks of De                ... pos = 0.375 	neg = 0.0  
+30. I'm not exactly sure                ... pos = 0.375 	neg = 0.0  
+31. Some complaints I've                ... pos = 0.25  	neg = 0.0  
+32. I can't find anythin                ... pos = 0.0   	neg = 0.75 
+33. My only complaint is                ... pos = 0.0   	neg = 0.25 
+34. This lessens the epi                ... pos = 0.75  	neg = 0.0  
+35. That's a very small                 ... pos = 0.625 	neg = 0    
+36. I've heard a lot of                 ... pos = 0.0   	neg = 0.625
+37. Thank God I've never                ... pos = 0.0   	neg = 0.0  
+38. I grew up hearing st                ... pos = 0.625 	neg = 0.0  
+39. The stories are sick                ... pos = 0.25  	neg = 0.625
+40. American History X f                ... pos = 0.0   	neg = 0.25 
+41. Doug Galecawitz from                ... pos = 0.0   	neg = 0.0  
+42. He typed in it that                 ... pos = 0.125 	neg = 0.125
+43. Doug says his friend                ... pos = 0.25  	neg = 0.75 
+44. This film will scare                ... pos = 0.25  	neg = 0.25 
+45. This is the kind of                 ... pos = 0.0   	neg = 0.25 
+46. No school violence o                ... pos = 0.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-499-827 is Negative          ... pos = 11.875 	neg = 14.417
+Overall score of document
+Total Pos = 11.875
+Total Neg = 14.417
+---------------------------------------------------------------------------

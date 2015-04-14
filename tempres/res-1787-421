@@ -1,0 +1,30 @@
+0. I am a movie critic;                 ... pos = 0.125 	neg = 0.25 
+1. But moreso, I consid                 ... pos = 0.125 	neg = 0.0  
+2. Sometimes, in an awf                 ... pos = 0.25  	neg = 0.875
+3. But I always stay, h                 ... pos = 0.75  	neg = 0.625
+4. But two-thirds of th                 ... pos = 0.625 	neg = 1.25 
+5. We walked through th                 ... pos = 0.75  	neg = 0.0  
+6. We watched "L.A.                     ... pos = 0.0   	neg = 0.0  
+7. Confidential" with t                 ... pos = 0.0   	neg = 0    
+8. When we got in the c                 ... pos = 0.0   	neg = 0.0  
+9. "  "We saw a bad mov                 ... pos = 0.0   	neg = 0.875
+10. "The Mummy?                         ... pos = 0     	neg = 0.0  
+11. " he asked.                         ... pos = 0.0   	neg = 0.0  
+12. He explained that th                ... pos = 0.0   	neg = 0.5  
+13. Enough said.                        ... pos = 0     	neg = 0.0  
+14. Brendan Fraser, whom                ... pos = 0.0   	neg = 0.125
+15. He is fighting for t                ... pos = 0.0   	neg = 0.125
+16. Many years before, a                ... pos = 0.25  	neg = 1.25 
+17. Anyway, Rick, a libr                ... pos = 0.0   	neg = 0.0  
+18. What they end up doi                ... pos = 0.0   	neg = 0.625
+19. Going through all th                ... pos = 0.0   	neg = 1.125
+20. Director Stephen Som                ... pos = 0.375 	neg = 0.375
+21. If only Sommers coul                ... pos = 2.375 	neg = 1.75 
+22. The film should do l                ... pos = 0.875 	neg = 0.375
+23. I feel as if I've wa                ... pos = 0.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-1787-421 is Negative         ... pos = 6.625 	neg = 11.0 
+Overall score of document
+Total Pos = 6.625
+Total Neg = 11.0
+---------------------------------------------------------------------------

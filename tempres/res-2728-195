@@ -1,0 +1,24 @@
+0. Woo, this is a wild                  ... pos = 0.0   	neg = 0.375
+1. Despite it's elabora                 ... pos = 0.625 	neg = 0.75 
+2. The problem with thi                 ... pos = 0.125 	neg = 0.75 
+3. Well, maybe a bit mo                 ... pos = 0.125 	neg = 0.25 
+4. But most audiences o                 ... pos = 0.875 	neg = 0.0  
+5. This movie had the p                 ... pos = 0.5   	neg = 0.25 
+6. "I can't believe I a                 ... pos = 0.125 	neg = 0.0  
+7. " to quote the famou                 ... pos = 0.375 	neg = 0.0  
+8. But even the acting                  ... pos = 0.375 	neg = 0.25 
+9. And vice versa.                      ... pos = 0     	neg = 0.375
+10. Subtle mannerisms ar                ... pos = 2.25  	neg = 0.125
+11. Someone who doesn't                 ... pos = 0.25  	neg = 0.125
+12. I've never been one                 ... pos = 0.0   	neg = 0.125
+13. It's very complex.                  ... pos = 0.5   	neg = 0    
+14. I could lay it out i                ... pos = 1.875 	neg = 0.125
+15. So while I can't go                 ... pos = 1.0   	neg = 0.125
+16. And, in case you did                ... pos = 0.0   	neg = 0.125
+17. Far fetched, wildy o                ... pos = 0.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-2728-195 is Positive         ... pos = 9.25  	neg = 4.375
+Overall score of document
+Total Pos = 9.25
+Total Neg = 4.375
+---------------------------------------------------------------------------

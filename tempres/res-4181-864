@@ -1,0 +1,56 @@
+0. I STILL KNOW WHAT YO                 ... pos = 0.375 	neg = 0.125
+1. The film went on to                  ... pos = 0.375 	neg = 0.0  
+2. When the trailer hit                 ... pos = 0.75  	neg = 0.0  
+3. Did it live up to th                 ... pos = 0.125 	neg = 0.0  
+4. The answer is no.                    ... pos = 0     	neg = 0.375
+5. Jennifer Love Hewitt                 ... pos = 0.75  	neg = 0.375
+6. She has been so upse                 ... pos = 0.0   	neg = 0.125
+7. Nightmares haunt her                 ... pos = 0.0   	neg = 0.25 
+8. She know attends col                 ... pos = 0.625 	neg = 0.75 
+9. Karla's boyfriend is                 ... pos = 0.0   	neg = 0.25 
+10. Freddie Prinze Jr. a                ... pos = 0.0   	neg = 0.0  
+11. One morning, Julie a                ... pos = 0.5   	neg = 0.0  
+12. Of course, they answ                ... pos = 0.25  	neg = 0.625
+13. Julie wants Ray to c                ... pos = 0.5   	neg = 0.0  
+14. After they arrive at                ... pos = 0.0   	neg = 0.125
+15. It starts off as the                ... pos = 0.375 	neg = 0.625
+16. Something just had t                ... pos = 0.0   	neg = 0.0  
+17. Ben Willis (Muse Wat                ... pos = 0.125 	neg = 0.125
+18. Will Ray come to the                ... pos = 0.125 	neg = 0.625
+19. Jennifer Love Hewitt                ... pos = 1.125 	neg = 0.0  
+20. Brandy in particular                ... pos = 0.375 	neg = 0.25 
+21. You could see that t                ... pos = 0.875 	neg = 0.125
+22. Matthew Settle and F                ... pos = 0.875 	neg = 0.0  
+23. Let's start with Set                ... pos = 0     	neg = 0.0  
+24. Matthew is completel                ... pos = 0.0   	neg = 0.25 
+25. You could not believ                ... pos = 0.125 	neg = 0.0  
+26. You could tell he wa                ... pos = 0.875 	neg = 0.125
+27. He does do a good jo                ... pos = 0.75  	neg = 0.0  
+28. Freddie Prinze Jr. i                ... pos = 0.0   	neg = 1.125
+29. He is almost complet                ... pos = 0.0   	neg = 0.5  
+30. We don't see him as                 ... pos = 0.25  	neg = 0.125
+31. Mekhi Phifer is alri                ... pos = 0.25  	neg = 0.5  
+32. The plot of I Still                 ... pos = 0.75  	neg = 0.25 
+33. I like where the fil                ... pos = 0.125 	neg = 0.125
+34. The cinematography a                ... pos = 1.0   	neg = 0.0  
+35. There are a lot of v                ... pos = 0.75  	neg = 0.0  
+36. The sound is pretty                 ... pos = 0.875 	neg = 0.25 
+37. Jennifer Love Hewitt                ... pos = 0.625 	neg = 0.125
+38. I Still Know What Yo                ... pos = 0.375 	neg = 0.375
+39. The first film was v                ... pos = 1.375 	neg = 0.125
+40. The last fifteen min                ... pos = 0.25  	neg = 0.0  
+41. Before this part in                 ... pos = 0.25  	neg = 0.375
+42. That is okay though,                ... pos = 1.0   	neg = 0.375
+43. I think the reason t                ... pos = 0.25  	neg = 1.25 
+44. He made them suffer                 ... pos = 0.0   	neg = 0.0  
+45. In the second film,                 ... pos = 0.125 	neg = 0.0  
+46. He doesn't stick wit                ... pos = 0.0   	neg = 0.25 
+47. He had to go after K                ... pos = 0.125 	neg = 0.0  
+48. If the characters he                ... pos = 1.0   	neg = 0.375
+49. The Bottom Line- Not                ... pos = 0.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-4181-864 is Positive         ... pos = 19.25 	neg = 12.125
+Overall score of document
+Total Pos = 19.25
+Total Neg = 12.125
+---------------------------------------------------------------------------

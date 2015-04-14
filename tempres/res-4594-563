@@ -1,0 +1,43 @@
+0. Starring Hugh Grant,                 ... pos = 0     	neg = 0.0  
+1. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+2. Notting Hill is a mo                 ... pos = 0.25  	neg = 0.75 
+3. It's a dream many pe                 ... pos = 0.375 	neg = 0.0  
+4. Imagine, if you will                 ... pos = 0.125 	neg = 0.5  
+5. You go to open it, a                 ... pos = 1.75  	neg = 0.0  
+6. What would you do?                   ... pos = 0     	neg = 0.0  
+7. What would you say?                  ... pos = 0.0   	neg = 0    
+8. How would you conduc                 ... pos = 0     	neg = 0.0  
+9. It's quite an intere                 ... pos = 0.0   	neg = 0.0  
+10. One often imagines s                ... pos = 0.125 	neg = 0.125
+11. And what if that mov                ... pos = 0.0   	neg = 0.25 
+12. That's what Notting                 ... pos = 0     	neg = 0.125
+13. Hugh Grant, whose ta                ... pos = 1.125 	neg = 0.5  
+14. He's got a boyish, o                ... pos = 0.875 	neg = 0.75 
+15. Here, he stars as Wi                ... pos = 0.0   	neg = 0.0  
+16. When Anna Scott (Jul                ... pos = 0.5   	neg = 0.125
+17. He remains human eve                ... pos = 0.0   	neg = 0.0  
+18. He excitedly invites                ... pos = 0.125 	neg = 0.0  
+19. That is where the bi                ... pos = 0     	neg = 0.25 
+20. Before long, it's fu                ... pos = 1.0   	neg = 0.375
+21. " by astounded famil                ... pos = 0.0   	neg = 0.25 
+22. It's an extraordinar                ... pos = 1.25  	neg = 0.125
+23. For once, here is th                ... pos = 2.875 	neg = 0.25 
+24. Notting Hill asks wh                ... pos = 0.625 	neg = 0.25 
+25. It is an exhiliratin                ... pos = 1.625 	neg = 0.125
+26. Julia Roberts, whose                ... pos = 1.75  	neg = 1.125
+27. Hugh Grant is someth                ... pos = 1.25  	neg = 0.375
+28. Director Roger Miche                ... pos = 0.875 	neg = 0.375
+29. Even though William'                ... pos = 0.125 	neg = 0.375
+30. This is a perfect ex                ... pos = 0.75  	neg = 0.25 
+31. It's hard to remembe                ... pos = 0.625 	neg = 0.75 
+32. Grant and Roberts ar                ... pos = 1.625 	neg = 0.5  
+33. It would be cliched                 ... pos = 2.5   	neg = 0.875
+34. Happens every day.                  ... pos = 0.0   	neg = 0.0  
+35. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+36. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4594-563 is Positive         ... pos = 22.25 	neg = 9.375
+Overall score of document
+Total Pos = 22.25
+Total Neg = 9.375
+---------------------------------------------------------------------------

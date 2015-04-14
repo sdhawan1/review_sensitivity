@@ -1,0 +1,33 @@
+0. This movie was full                  ... pos = 0.125 	neg = 0.125
+1. The shooting was in                  ... pos = 0.0   	neg = 0.125
+2. Knowing that a Holly                 ... pos = 0.0   	neg = 0.125
+3. And things got worse                 ... pos = 0.0   	neg = 0.75 
+4. Hundreds of schoolgi                 ... pos = 0.375 	neg = 0.0  
+5. But then again, whic                 ... pos = 0.0   	neg = 0.125
+6. Another controversy                  ... pos = 0.125 	neg = 0.375
+7. Directed by Danny Bo                 ... pos = 0.0   	neg = 0.0  
+8. So this one, being h                 ... pos = 0.25  	neg = 0.125
+9. But the movie compan                 ... pos = 0.125 	neg = 0.0  
+10. "Oooohhh, he's soooo                ... pos = 0.5   	neg = 0    
+11. " (Actually that is                 ... pos = 0.0   	neg = 0.125
+12. So Leonardo's in, an                ... pos = 0.25  	neg = 0.125
+13. Richard (Leonardo Di                ... pos = 0.0   	neg = 0.125
+14. There he meets Daffy                ... pos = 0.0   	neg = 0.125
+15. Richard ask his two                 ... pos = 0.0   	neg = 0.0  
+16. So the three of them                ... pos = 0.75  	neg = 0.0  
+17. Fast forward a bit (                ... pos = 0.0   	neg = 0.25 
+18. First he was lonely,                ... pos = 0.25  	neg = 0.375
+19. Rambo in a video gam                ... pos = 0.75  	neg = 0.125
+20. Which is funny, beca                ... pos = 0.0   	neg = 0.625
+21. But then again, he i                ... pos = 0.0   	neg = 0.125
+22. After the whole adve                ... pos = 0.5   	neg = 0.0  
+23. A very nice ending s                ... pos = 0.875 	neg = 0.0  
+24. How we communicate u                ... pos = 0.0   	neg = 0    
+25. Think of Trainspotti                ... pos = 0.875 	neg = 0.0  
+26. Indra Moeljadi is ho                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2272-331 is Positive         ... pos = 5.875 	neg = 4.0  
+Overall score of document
+Total Pos = 5.875
+Total Neg = 4.0
+---------------------------------------------------------------------------

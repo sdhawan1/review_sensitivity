@@ -1,0 +1,29 @@
+0. Starring the voices                  ... pos = 0.625 	neg = 0.0  
+1. In a colony of billi                 ... pos = 0.25  	neg = 0.0  
+2. The animation gurus                  ... pos = 0.125 	neg = 0.0  
+3. They zoom in and out                 ... pos = 0.0   	neg = 0.125
+4. Z (voice of Woody Al                 ... pos = 0.625 	neg = 0.125
+5. Living and working i                 ... pos = 0.625 	neg = 0.0  
+6. Quite a complex them                 ... pos = 0.0   	neg = 0.0  
+7. Antz never fails to                  ... pos = 1.25  	neg = 0.125
+8. Woody Allen was an a                 ... pos = 0.75  	neg = 0.125
+9. Sharon Stone plays P                 ... pos = 0.75  	neg = 0.125
+10. Meanwhile, Sylvester                ... pos = 1.0   	neg = 0.5  
+11. As we all know, ther                ... pos = 0.375 	neg = 1.75 
+12. I would have liked t                ... pos = 0.625 	neg = 0.375
+13. The three screenwrit                ... pos = 0.25  	neg = 0.0  
+14. Once we have a good                 ... pos = 1.25  	neg = 0.25 
+15. Which, in every sens                ... pos = 0.625 	neg = 0.125
+16. The quality of viewi                ... pos = 0.75  	neg = 0.25 
+17. Not so much a storm                 ... pos = 0.125 	neg = 0.5  
+18. And if it does becom                ... pos = 1.375 	neg = 0.125
+19. In short, Antz conta                ... pos = 2.625 	neg = 0.25 
+20. I at least speak for                ... pos = 0.375 	neg = 0.0  
+21. Z can beat the pants                ... pos = 0.0   	neg = 0.625
+22. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-1111 is Positive          ... pos = 14.625 	neg = 5.375
+Overall score of document
+Total Pos = 14.625
+Total Neg = 5.375
+---------------------------------------------------------------------------

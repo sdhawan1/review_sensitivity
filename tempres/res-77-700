@@ -1,0 +1,30 @@
+0. Release Date: Octobe                 ... pos = 1.0   	neg = 0.25 
+1. They've had a hand i                 ... pos = 1.125 	neg = 0.0  
+2. However, a lot of th                 ... pos = 0.375 	neg = 0.0  
+3. DreamWorks has yet t                 ... pos = 0.75  	neg = 0.0  
+4. Both impressive and                  ... pos = 0.5   	neg = 0.25 
+5. The impressiveness c                 ... pos = 0.125 	neg = 0    
+6. The movie runs ninet                 ... pos = 0.5   	neg = 0.125
+7. The CGIs are remarka                 ... pos = 0.75  	neg = 0.0  
+8. It will be interesti                 ... pos = 0.625 	neg = 0.625
+9. Certain aspects of i                 ... pos = 0.75  	neg = 0.375
+10. The insects are give                ... pos = 0.875 	neg = 0.0  
+11. Everything in ANTZ i                ... pos = 0.75  	neg = 0.125
+12. The cast behind the                 ... pos = 1.0   	neg = 0.25 
+13. Most of these A-list                ... pos = 1.125 	neg = 0.0  
+14. Stallone, for exampl                ... pos = 1.0   	neg = 0.625
+15. Allen is the best ov                ... pos = 0.5   	neg = 0.125
+16. Z questions his tota                ... pos = 0.25  	neg = 0.0  
+17. Eventually, Z meets                 ... pos = 0.0   	neg = 0.625
+18. Z convinces his frie                ... pos = 0.25  	neg = 0.25 
+19. The secret is blown,                ... pos = 0.375 	neg = 0.125
+20. The two make a fanta                ... pos = 0.375 	neg = 2.0  
+21. It's in the plot tha                ... pos = 0.25  	neg = 0.375
+22. Granted, a family mo                ... pos = 0.75  	neg = 0.375
+23. For the computer ima                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-77-700 is Positive           ... pos = 14.125 	neg = 6.625
+Overall score of document
+Total Pos = 14.125
+Total Neg = 6.625
+---------------------------------------------------------------------------

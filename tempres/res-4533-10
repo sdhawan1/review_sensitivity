@@ -1,0 +1,26 @@
+0. Rule #1 in telling a                 ... pos = 0.875 	neg = 0.0  
+1. Robert Wise remember                 ... pos = 0.125 	neg = 0.0  
+2. To be honest, for th                 ... pos = 1.375 	neg = 0.625
+3. The ghostly manifest                 ... pos = 0.625 	neg = 0.0  
+4. After that, however,                 ... pos = 0.125 	neg = 0.25 
+5. There were a few ear                 ... pos = 0.0   	neg = 0.625
+6. The first was the ho                 ... pos = 0.125 	neg = 0.125
+7. In the book and the                  ... pos = 0.875 	neg = 0.25 
+8. Secondly, in the boo                 ... pos = 1.125 	neg = 0.375
+9. In this version, The                 ... pos = 1.375 	neg = 0.25 
+10. As far as the story                 ... pos = 0.375 	neg = 1.625
+11. The foreshadowing in                ... pos = 0.625 	neg = 0.125
+12. The acting is fine,                 ... pos = 0.0   	neg = 0.375
+13. He's probably just m                ... pos = 0.0   	neg = 0.125
+14. Jan de Bont serves u                ... pos = 0.0   	neg = 0.375
+15. This is probably his                ... pos = 0.0   	neg = 0.125
+16. All in all, this ver                ... pos = 0.0   	neg = 0.25 
+17. See the 1963 origina                ... pos = 0.0   	neg = 0.0  
+18. Better yet, read Shi                ... pos = 1.125 	neg = 0.0  
+19. This is film gets 4                 ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4533-10 is Positive          ... pos = 9.25  	neg = 5.75 
+Overall score of document
+Total Pos = 9.25
+Total Neg = 5.75
+---------------------------------------------------------------------------

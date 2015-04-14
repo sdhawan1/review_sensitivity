@@ -1,0 +1,41 @@
+0. Review by Victory A.                 ... pos = 0.375 	neg = 0.875
+1. "  These are the fir                 ... pos = 0.5   	neg = 0.125
+2. When a movie is call                 ... pos = 0.0   	neg = 0.25 
+3. But that wasn't my o                 ... pos = 0.0   	neg = 0.0  
+4. John Carpenter is a                  ... pos = 0.5   	neg = 0.125
+5. Unfortunately, the o                 ... pos = 0.375 	neg = 1.75 
+6. With an anemic plot                  ... pos = 0.25  	neg = 0.375
+7. The film is at first                 ... pos = 0.125 	neg = 0.875
+8. Like some sort of ho                 ... pos = 0.375 	neg = 0.0  
+9. Their method is amus                 ... pos = 0.25  	neg = 0.125
+10. To commemorate their                ... pos = 0.375 	neg = 0.625
+11. Their celebration is                ... pos = 0.25  	neg = 0.625
+12. Woods' Jack Crow and                ... pos = 0.0   	neg = 0.0  
+13. Although the woman h                ... pos = 0.0   	neg = 0.125
+14. The rest of the movi                ... pos = 0.0   	neg = 0.125
+15. Along the way they p                ... pos = 1.375 	neg = 0.125
+16. Upham in _Saving Pri                ... pos = 0.25  	neg = 0    
+17. Some stuff happens i                ... pos = 0.125 	neg = 0.5  
+18. _Vampires_ finally s                ... pos = 0.0   	neg = 0.0  
+19. Only then does the f                ... pos = 0.0   	neg = 0.0  
+20. But it's too little                 ... pos = 0     	neg = 0.75 
+21. We get the inevitabl                ... pos = 0.5   	neg = 0.125
+22. ) . Interestingly, l                ... pos = 0.25  	neg = 0.75 
+23. Woods' Jack Crow spo                ... pos = 0.0   	neg = 0.25 
+24. And his motive for k                ... pos = 0     	neg = 0.0  
+25. Take a wild guess.                  ... pos = 0.0   	neg = 0.25 
+26. (Hint: A ______ kill                ... pos = 0.0   	neg = 0.125
+27. ). At least _Blade_                 ... pos = 0.0   	neg = 0.0  
+28. _Vampires_ lacks eve                ... pos = 0.125 	neg = 0.75 
+29. To make up for this,                ... pos = 0.5   	neg = 0.25 
+30. ") . It can be argue                ... pos = 0.125 	neg = 0.5  
+31. If not scary and gor                ... pos = 0.0   	neg = 1.5  
+32. _John Carpenter's Va                ... pos = 0     	neg = 0.125
+33. I can only recommend                ... pos = 0.5   	neg = 0.0  
+34. For the rest of you                 ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1040-66 is Negative          ... pos = 7.875 	neg = 12.375
+Overall score of document
+Total Pos = 7.875
+Total Neg = 12.375
+---------------------------------------------------------------------------

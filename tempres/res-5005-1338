@@ -1,0 +1,36 @@
+0. Wild Things is the s                 ... pos = 0.0   	neg = 0.625
+1. This one has more se                 ... pos = 0.0   	neg = 0.625
+2. It is also a better                  ... pos = 0.0   	neg = 0.125
+3. It is fun to watch a                 ... pos = 0.5   	neg = 0.125
+4. Wild Things is about                 ... pos = 0.375 	neg = 0.625
+5. Later another girl (                 ... pos = 0.375 	neg = 0.125
+6. Up to this point the                 ... pos = 0.75  	neg = 0.125
+7. Then something unexp                 ... pos = 0.125 	neg = 0.0  
+8. Comedians don't get                  ... pos = 0.5   	neg = 0.0  
+9. I will tell you that                 ... pos = 0.125 	neg = 0.25 
+10. It would look like a                ... pos = 0.0   	neg = 0.375
+11. He adds life to this                ... pos = 0.625 	neg = 0.0  
+12. I want to be very cl                ... pos = 0.5   	neg = 1.0  
+13. Murray (very hilario                ... pos = 1.0   	neg = 0.0  
+14. Then we get a twist,                ... pos = 0.625 	neg = 0.0  
+15. They are also involv                ... pos = 0.25  	neg = 0    
+16. We get a spicy sex s                ... pos = 0.0   	neg = 1.25 
+17. You are entralled an                ... pos = 0.625 	neg = 0.0  
+18. I felt there was one                ... pos = 0.0   	neg = 0.375
+19. The film you are lef                ... pos = 0.375 	neg = 0.125
+20. Much has been made a                ... pos = 0.125 	neg = 0.25 
+21. There are a few stea                ... pos = 0.25  	neg = 0.375
+22. An old rule is that                 ... pos = 0.375 	neg = 0.375
+23. I have no problem wi                ... pos = 0.0   	neg = 0.625
+24. Denis Richards is na                ... pos = 0.625 	neg = 1.25 
+25. It may sound shallow                ... pos = 0.5   	neg = 1.125
+26. I like twisty film n                ... pos = 0.0   	neg = 0.0  
+27. Bound of 1996 was a                 ... pos = 0.125 	neg = 0.375
+28. It didn't promise th                ... pos = 0.75  	neg = 0.75 
+29. Neve if the script c                ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5005-1338 is Negative        ... pos = 10.25 	neg = 11.25
+Overall score of document
+Total Pos = 10.25
+Total Neg = 11.25
+---------------------------------------------------------------------------

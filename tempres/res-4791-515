@@ -1,0 +1,44 @@
+0. Cast: Breckin Meyer,                 ... pos = 0.0   	neg = 0.625
+1. It was revitalized i                 ... pos = 0.625 	neg = 0.625
+2. Last year, American                  ... pos = 0.5   	neg = 0.0  
+3. Now comes Road Trip,                 ... pos = 0.125 	neg = 0.625
+4. It's certainly bette                 ... pos = 0.25  	neg = 0.125
+5. Not only is Road Tri                 ... pos = 0.0   	neg = 0.5  
+6. I'm not a fan of Gre                 ... pos = 0.0   	neg = 0.375
+7. I'm usually against                  ... pos = 0.0   	neg = 0.0  
+8. It prevents him from                 ... pos = 0.25  	neg = 0.125
+9. Green plays Barry, t                 ... pos = 0.0   	neg = 0.0  
+10. He relates the event                ... pos = 0.125 	neg = 0.0  
+11. The story that Barry                ... pos = 0.125 	neg = 0.875
+12. When he learns that                 ... pos = 1.0   	neg = 1.125
+13. Now I know it's hard                ... pos = 0.125 	neg = 1.0  
+14. If you were telling                 ... pos = 0.75  	neg = 0.5  
+15. He does take some li                ... pos = 0.0   	neg = 1.0  
+16. Logic argument #2: M                ... pos = 0.375 	neg = 0.0  
+17. When he finds out th                ... pos = 0.0   	neg = 0.375
+18. Now he shouldn't rea                ... pos = 0.625 	neg = 0.875
+19. When he finds out th                ... pos = 0.0   	neg = 0.25 
+20. It would have been f                ... pos = 0.25  	neg = 1.0  
+21. An unfortunate aspec                ... pos = 0.625 	neg = 1.125
+22. In Overnight Deliver                ... pos = 0.0   	neg = 0.0  
+23. When Rudd's characte                ... pos = 0.875 	neg = 1.0  
+24. The two sent out on                 ... pos = 0.0   	neg = 0.0  
+25. Sound similar?                      ... pos = 0.375 	neg = 0    
+26. Both the situations                 ... pos = 0.25  	neg = 0.75 
+27. Now I'm not saying t                ... pos = 0.25  	neg = 0.125
+28. Yes, the two stories                ... pos = 0.625 	neg = 0.625
+29. But it was a major d                ... pos = 0.25  	neg = 0.125
+30. Most of the "big" jo                ... pos = 0.0   	neg = 0.375
+31. And speaking of trai                ... pos = 0.5   	neg = 0.25 
+32. Anyway, the smaller                 ... pos = 0.75  	neg = 0.0  
+33. Lots of witty dialog                ... pos = 0.5   	neg = 0.25 
+34. A small, hilarious r                ... pos = 1.0   	neg = 0.125
+35. The success of Road                 ... pos = 0.75  	neg = 0.0  
+36. And as long as they                 ... pos = 0.75  	neg = 0.75 
+37. Reviewed by Chuck Do                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4791-515 is Negative         ... pos = 12.625 	neg = 15.5 
+Overall score of document
+Total Pos = 12.625
+Total Neg = 15.5
+---------------------------------------------------------------------------

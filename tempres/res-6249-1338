@@ -1,0 +1,28 @@
+0. Jackie Brown is not                  ... pos = 0.0   	neg = 0.125
+1. In Pulp Fiction and                  ... pos = 0.0   	neg = 0.0  
+2. Jackie Brown tells u                 ... pos = 0.0   	neg = 0.125
+3. In Jackie Brown, bas                 ... pos = 3.125 	neg = 0.0  
+4. These scenes are han                 ... pos = 0.25  	neg = 0.0  
+5. The film is also dec                 ... pos = 0.5   	neg = 0.125
+6. There are two common                 ... pos = 0.25  	neg = 0.0  
+7. One of them is Sam J                 ... pos = 0.875 	neg = 0.125
+8. "  I want to strain                  ... pos = 0.0   	neg = 0.25 
+9. Spike Lee has spoken                 ... pos = 0.625 	neg = 0.125
+10. "  This is absurd, a                ... pos = 1.125 	neg = 0.125
+11. Are white writers no                ... pos = 1.125 	neg = 0.0  
+12. Are there not people                ... pos = 0.25  	neg = 0.0  
+13. Spike you made Get o                ... pos = 0.0   	neg = 0.0  
+14. The other complaint                 ... pos = 0.0   	neg = 0.125
+15. It runs long but was                ... pos = 0.125 	neg = 0.5  
+16. This film also has m                ... pos = 1.0   	neg = 0.0  
+17. On a side note I am                 ... pos = 1.875 	neg = 0.125
+18. She had quite a care                ... pos = 0.0   	neg = 0.0  
+19. She was notable as t                ... pos = 0.125 	neg = 0.875
+20. Her body left such a                ... pos = 0.125 	neg = 0.0  
+21. She gives a great pe                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-1338 is Positive        ... pos = 12.625 	neg = 2.625
+Overall score of document
+Total Pos = 12.625
+Total Neg = 2.625
+---------------------------------------------------------------------------

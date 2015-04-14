@@ -1,0 +1,50 @@
+0. We have been very bl                 ... pos = 0.5   	neg = 0.125
+1. It all started with                  ... pos = 0.125 	neg = 0    
+2. Despite what you tho                 ... pos = 0.375 	neg = 0.125
+3. Then, we saw Austin                  ... pos = 0.0   	neg = 0.125
+4. Then, we saw the end                 ... pos = 0.0   	neg = 0.0  
+5. And in recent weeks,                 ... pos = 0.25  	neg = 0.625
+6. And last, but certai                 ... pos = 0.25  	neg = 0.0  
+7. It is very comparabl                 ... pos = 1.5   	neg = 0.125
+8. They are both great                  ... pos = 3.375 	neg = 1.0  
+9. The premise is that                  ... pos = 0.0   	neg = 0.25 
+10. The film starts with                ... pos = 0.75  	neg = 0.0  
+11. Crowe and his wife g                ... pos = 0.375 	neg = 0.0  
+12. He shoots Crowe and                 ... pos = 0.0   	neg = 0.0  
+13. Crowe takes a new pa                ... pos = 0.5   	neg = 1.125
+14. Crowe wants to help                 ... pos = 0.125 	neg = 0.25 
+15. Bruce Willis is exce                ... pos = 1.0   	neg = 0.125
+16. He is the prototypic                ... pos = 0.0   	neg = 0.125
+17. He can do action, as                ... pos = 0.0   	neg = 0.75 
+18. And he can also do s                ... pos = 0.0   	neg = 0.0  
+19. He is completely bel                ... pos = 0.625 	neg = 0.375
+20. The premise not exac                ... pos = 0.125 	neg = 0.375
+21. And Willis does.                    ... pos = 0.0   	neg = 0.0  
+22. However, compared to                ... pos = 0.125 	neg = 0.5  
+23. Osment gives a great                ... pos = 0.0   	neg = 0.625
+24. He is able to displa                ... pos = 0.5   	neg = 0.5  
+25. He gives a better pe                ... pos = 0.0   	neg = 0.0  
+26. I had heard the hype                ... pos = 1.0   	neg = 0.0  
+27. I did not believe it                ... pos = 0.125 	neg = 0.125
+28. He got such a demand                ... pos = 0.375 	neg = 0.125
+29. And his career can o                ... pos = 0     	neg = 0.0  
+30. Some of you may reme                ... pos = 0.125 	neg = 0.0  
+31. The rest of the cast                ... pos = 0.0   	neg = 0.75 
+32. The reason this film                ... pos = 0.75  	neg = 0.5  
+33. The main plot is, of                ... pos = 0.0   	neg = 1.75 
+34. The only other subpl                ... pos = 0.25  	neg = 0.625
+35. It is simple, straig                ... pos = 0.75  	neg = 0.125
+36. Overall, The Sixth S                ... pos = 0.0   	neg = 0.125
+37. Just like The Blair                 ... pos = 0.0   	neg = 0.75 
+38. Also like The Blair                 ... pos = 0.0   	neg = 0.875
+39. Expect to see Haley                 ... pos = 0.0   	neg = 0.25 
+40. The only thing holdi                ... pos = 0.25  	neg = 0.125
+41. But, their performan                ... pos = 0.75  	neg = 0.125
+42. And when you start t                ... pos = 0.75  	neg = 0.0  
+43. Four Stars Out of Fo                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-493 is Positive         ... pos = 15.75 	neg = 13.375
+Overall score of document
+Total Pos = 15.75
+Total Neg = 13.375
+---------------------------------------------------------------------------

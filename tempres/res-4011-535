@@ -1,0 +1,30 @@
+0. If there is one univ                 ... pos = 0.75  	neg = 0.25 
+1. Such is the case wit                 ... pos = 0.0   	neg = 0.125
+2. A cheap, predictable                 ... pos = 0.75  	neg = 2.0  
+3. Four teenagers celeb                 ... pos = 0.125 	neg = 0.0  
+4. They drive to the be                 ... pos = 0.0   	neg = 0.0  
+5. They then choose to                  ... pos = 0.625 	neg = 0.25 
+6. A year later, they b                 ... pos = 0.375 	neg = 0.0  
+7. I'm going to keep th                 ... pos = 0.75  	neg = 1.75 
+8. First, let me point                  ... pos = 0.125 	neg = 0.625
+9. Second, if there is                  ... pos = 0.125 	neg = 0.75 
+10. Third, and final, I'                ... pos = 1.375 	neg = 0.75 
+11. The only reason I ga                ... pos = 0.25  	neg = 0.125
+12. They both try valian                ... pos = 0.375 	neg = 0.792
+13. Do yourself a favor                 ... pos = 0.0   	neg = 0.0  
+14. I give it a measly s                ... pos = 0.0   	neg = 0.0  
+15. * * * * * - One of t                ... pos = 0.875 	neg = 0    
+16. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+17. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+18. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+19. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+20. See it if you've got                ... pos = 0.0   	neg = 0.25 
+21. * - One of the worst                ... pos = 0.0   	neg = 0.375
+22. See it only if you e                ... pos = 0.375 	neg = 0.0  
+23. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4011-535 is Negative         ... pos = 6.875 	neg = 9.167
+Overall score of document
+Total Pos = 6.875
+Total Neg = 9.167
+---------------------------------------------------------------------------

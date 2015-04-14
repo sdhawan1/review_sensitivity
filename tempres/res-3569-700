@@ -1,0 +1,30 @@
+0. Release Date: July 1                 ... pos = 2.0   	neg = 0.25 
+1. Skeptics and antagon                 ... pos = 0.0   	neg = 0.125
+2. The Farrelly Brother                 ... pos = 0.375 	neg = 0.125
+3. " After the film has                 ... pos = 1.25  	neg = 0.0  
+4. MARY is a textbook e                 ... pos = 0.0   	neg = 0.125
+5. Ben Stiller is Ted S                 ... pos = 0.625 	neg = 0.125
+6. Ted makes it to Mary                 ... pos = 0.375 	neg = 1.125
+7. Instead, he's taken                  ... pos = 0.25  	neg = 0.0  
+8. Now, in the present                  ... pos = 1.25  	neg = 0.0  
+9. Healy does, but inst                 ... pos = 0.625 	neg = 0.25 
+10. This all goes well u                ... pos = 0.125 	neg = 0.125
+11. The plot is not near                ... pos = 0.375 	neg = 0.25 
+12. The actors have all                 ... pos = 0.0   	neg = 0.25 
+13. Stiller is the most                 ... pos = 1.125 	neg = 1.0  
+14. Cameron Diaz adds th                ... pos = 2.25  	neg = 0.5  
+15. Although the plot ge                ... pos = 0.0   	neg = 0.375
+16. And, for a Packers f                ... pos = 0.375 	neg = 0.5  
+17. For those who've fol                ... pos = 0.5   	neg = 0.125
+18. The physical and mos                ... pos = 0.75  	neg = 0.25 
+19. SOMETHING ABOUT MARY                ... pos = 1.375 	neg = 0.0  
+20. These results, along                ... pos = 0.25  	neg = 0.125
+21. Fans will see it aga                ... pos = 0.25  	neg = 0.125
+22. It's a workable movi                ... pos = 0.0   	neg = 0.0  
+23. FINAL AWARD FOR "SOM                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3569-700 is Positive         ... pos = 15.125 	neg = 5.75 
+Overall score of document
+Total Pos = 15.125
+Total Neg = 5.75
+---------------------------------------------------------------------------

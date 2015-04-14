@@ -1,0 +1,35 @@
+0. CAPSULE: The first A                 ... pos = 0.625 	neg = 0.25 
+1. Most people I know s                 ... pos = 0.0   	neg = 1.0  
+2. They sit there and g                 ... pos = 0.0   	neg = 1.125
+3. " Most movies are an                 ... pos = 0.25  	neg = 0.0  
+4. Happily, FACE/OFF is                 ... pos = 0.0   	neg = 0.375
+5. Calling FACE/OFF an                  ... pos = 0.0   	neg = 0.125
+6. You have the functio                 ... pos = 0.0   	neg = 0.0  
+7. FACE/OFF wraps a mus                 ... pos = 0.625 	neg = 0.125
+8. Consider the premise                 ... pos = 0.125 	neg = 0.0  
+9. An antiterrorist exp                 ... pos = 0.0   	neg = 0.75 
+10. Violence ensues, in                 ... pos = 0.0   	neg = 0.125
+11. All too late, he lea                ... pos = 0.0   	neg = 1.0  
+12. After a good deal of                ... pos = 1.0   	neg = 0.5  
+13. Yes, this is neat.                  ... pos = 0     	neg = 0.5  
+14. Preposterous as all                 ... pos = 0.0   	neg = 0.875
+15. What's even neater i                ... pos = 0.25  	neg = 0.625
+16. In the process, both                ... pos = 0.375 	neg = 0.0  
+17. How do you behave wh                ... pos = 0.125 	neg = 0.875
+18. This whole level of                 ... pos = 1.5   	neg = 0.25 
+19. It's about personali                ... pos = 0.75  	neg = 0.125
+20. Although in his movi                ... pos = 0.625 	neg = 0.0  
+21. FACE/OFF is right in                ... pos = 0.0   	neg = 0.125
+22. The acting is fascin                ... pos = 0.25  	neg = 0.125
+23. Both Travolta and Ca                ... pos = 0.0   	neg = 0.0  
+24. Look carefully at th                ... pos = 1.125 	neg = 0.375
+25. " and uses violence                 ... pos = 0.375 	neg = 0.5  
+26. Or the creepy scene                 ... pos = 1.125 	neg = 0.25 
+27. Most movies don't ha                ... pos = 0.0   	neg = 0.25 
+28. FACE/OFF wears it li                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2728-1046 is Negative        ... pos = 9.875 	neg = 10.25
+Overall score of document
+Total Pos = 9.875
+Total Neg = 10.25
+---------------------------------------------------------------------------

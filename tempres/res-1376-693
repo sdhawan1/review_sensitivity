@@ -1,0 +1,61 @@
+0. Starring-Mike Myers,                 ... pos = 0.125 	neg = 0.375
+1. ' Austin Powers: `I                  ... pos = 0.0   	neg = 0.0  
+2. '. And so begins our                 ... pos = 0.25  	neg = 0.0  
+3. Austin Powers 2, the                 ... pos = 0.75  	neg = 0.875
+4. The mind of Mike Mye                 ... pos = 0.625 	neg = 0.375
+5. Myers returns as the                 ... pos = 0.0   	neg = 0.0  
+6. Evil, who is given m                 ... pos = 0.125 	neg = 0.875
+7. There's an early sce                 ... pos = 0.0   	neg = 0.0  
+8. Evil and his son Sco                 ... pos = 0.125 	neg = 1.625
+9. Most of these talk-s                 ... pos = 0.25  	neg = 0.125
+10. Happily, this is an                 ... pos = 0.0   	neg = 0.375
+11. Evil and the other g                ... pos = 0.0   	neg = 0.75 
+12. (Sample dialogue- `C                ... pos = 0.0   	neg = 0.0  
+13. You want a piece of                 ... pos = 0.0   	neg = 0.25 
+14. ') The audience was                 ... pos = 0.0   	neg = 0.125
+15. There are many good                 ... pos = 1.0   	neg = 0.0  
+16. Dr.                                 ... pos = 0     	neg = 0    
+17. Evil is now assisted                ... pos = 0.0   	neg = 1.0  
+18. Mini-Me is the most                 ... pos = 1.5   	neg = 0.125
+19. Mindy Sterling retur                ... pos = 1.0   	neg = 0.0  
+20. This works surprisin                ... pos = 0.125 	neg = 0    
+21. Afterward, there's e                ... pos = 0.0   	neg = 0.125
+22. Oh, yes... the plot.                ... pos = 0     	neg = 0.0  
+23. After a short honeym                ... pos = 1.25  	neg = 1.625
+24. Evil.                               ... pos = 0     	neg = 0.75 
+25. In the original, the                ... pos = 1.875 	neg = 0.125
+26. Here, it's time trav                ... pos = 0.0   	neg = 0.0  
+27. Dr.                                 ... pos = 0     	neg = 0    
+28. Evil has this crazy                 ... pos = 0.125 	neg = 1.5  
+29. There, he employs a                 ... pos = 0.75  	neg = 0.25 
+30. Meanwhile, Austin is                ... pos = 0.5   	neg = 0.25 
+31. Once back in 1969, P                ... pos = 1.125 	neg = 0.0  
+32. Evil's plans to dest                ... pos = 0.0   	neg = 0.0  
+33. In one of the many u                ... pos = 0.25  	neg = 0.75 
+34. If there ever was a                 ... pos = 0.0   	neg = 0.5  
+35. AP2 has many hilario                ... pos = 0.375 	neg = 0.0  
+36. But what it doesn't                 ... pos = 0.75  	neg = 0.375
+37. While Myers has a kn                ... pos = 0.625 	neg = 0.0  
+38. The hilarious scene                 ... pos = 0.375 	neg = 0.375
+39. Robert Wagner, as Dr                ... pos = 0.0   	neg = 0    
+40. Evil's #2 man, has o                ... pos = 0.875 	neg = 0.125
+41. One nice surprise is                ... pos = 0.0   	neg = 0.125
+42. There are more recyc                ... pos = 0.375 	neg = 0.5  
+43. But Myers has clearl                ... pos = 0.625 	neg = 0.125
+44. Don't miss an extend                ... pos = 1.5   	neg = 0.0  
+45. Her performance is m                ... pos = 0.875 	neg = 0.375
+46. And as for Fat Basta                ... pos = 0.25  	neg = 0.25 
+47. But my most severe c                ... pos = 0.0   	neg = 0.125
+48. But, with gritted te                ... pos = 0.0   	neg = 0.0  
+49. This sequel will not                ... pos = 0.125 	neg = 0.0  
+50. And, I look optimist                ... pos = 0.625 	neg = 0.375
+51. If Myers can up the                 ... pos = 0.5   	neg = 0.125
+52. Jamey Hughton (15) h                ... pos = 0.0   	neg = 0    
+53. He was a 1999 Writin                ... pos = 0.5   	neg = 0.125
+54. Contact Jamey also a                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1376-693 is Positive         ... pos = 20.125 	neg = 15.75
+Overall score of document
+Total Pos = 20.125
+Total Neg = 15.75
+---------------------------------------------------------------------------

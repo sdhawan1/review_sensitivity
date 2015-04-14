@@ -1,0 +1,31 @@
+0. There are not very m                 ... pos = 1.25  	neg = 0.0  
+1. To most viewers of T                 ... pos = 0.25  	neg = 0.5  
+2. Director Malick has                  ... pos = 1.75  	neg = 0.5  
+3. Using flashbacks Mal                 ... pos = 0.0   	neg = 0.0  
+4. There are too many o                 ... pos = 0.25  	neg = 0.25 
+5. A little symbolism g                 ... pos = 0.0   	neg = 0.625
+6. Many of the `stars'                  ... pos = 0.25  	neg = 0.75 
+7. John Travolta, portr                 ... pos = 0.75  	neg = 0.375
+8. George Clooney has b                 ... pos = 0.0   	neg = 0.0  
+9. It is said that his                  ... pos = 0.0   	neg = 0.375
+10. Bill Pullman is ther                ... pos = 0.0   	neg = 0.375
+11. He says nothing.                    ... pos = 0.0   	neg = 0.25 
+12. One of the best vign                ... pos = 0.5   	neg = 0.125
+13. His act of heroism i                ... pos = 0.0   	neg = 0.25 
+14. Others have lauded N                ... pos = 0.75  	neg = 0.125
+15. It is almost one-dim                ... pos = 0.25  	neg = 0.375
+16. Some of the best act                ... pos = 0.375 	neg = 0.25 
+17. Adrien Brody, Jim Ca                ... pos = 0.375 	neg = 0    
+18. Their characters see                ... pos = 2.0   	neg = 0.625
+19. Even the officers fo                ... pos = 0.0   	neg = 0.0  
+20. It is especially dif                ... pos = 0.0   	neg = 0.125
+21. Several of the scene                ... pos = 0.375 	neg = 0.25 
+22. And there are the do                ... pos = 0.25  	neg = 0.0  
+23. It is very long, nee                ... pos = 0.5   	neg = 1.375
+24. I don't want to see                 ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-534-989 is Positive          ... pos = 9.875 	neg = 7.875
+Overall score of document
+Total Pos = 9.875
+Total Neg = 7.875
+---------------------------------------------------------------------------

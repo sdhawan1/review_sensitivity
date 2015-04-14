@@ -1,0 +1,33 @@
+0. Starring:        Al                  ... pos = 0.0   	neg = 0.0  
+1. There are numerous f                 ... pos = 0.25  	neg = 0.0  
+2. The list is goes on                  ... pos = 0.0   	neg = 0.375
+3. The Insider has such                 ... pos = 0.875 	neg = 0.25 
+4. At first you might t                 ... pos = 0.875 	neg = 0.625
+5. That's not it.                       ... pos = 0.0   	neg = 0    
+6. It also is the story                 ... pos = 0.0   	neg = 0.125
+7. But even that is not                 ... pos = 0.5   	neg = 0.125
+8. It's really the stor                 ... pos = 1.0   	neg = 0.0  
+9. Bergman is a produce                 ... pos = 0.0   	neg = 0.25 
+10. When he convinces so                ... pos = 0.125 	neg = 0.75 
+11. Wigand is a former e                ... pos = 0.125 	neg = 0.25 
+12. When they fire him h                ... pos = 0.5   	neg = 0.0  
+13. In return, B & W bes                ... pos = 1.0   	neg = 0.75 
+14. When a movie is base                ... pos = 0.125 	neg = 0.25 
+15. People cannot be por                ... pos = 0.625 	neg = 0.125
+16. So, when they show W                ... pos = 0.75  	neg = 0.375
+17. As we were leaving t                ... pos = 0.75  	neg = 0.375
+18. I can't think of any                ... pos = 0.0   	neg = 0.125
+19. Every actor in the f                ... pos = 0.25  	neg = 0.125
+20. There is already tal                ... pos = 1.25  	neg = 0.25 
+21. We'll see.                          ... pos = 0.0   	neg = 0    
+22. Personally, I loved                 ... pos = 0.5   	neg = 0.0  
+23. I liked him so much                 ... pos = 0.25  	neg = 0.0  
+24. This is a very diffe                ... pos = 1.125 	neg = 0.125
+25. I give the film an A                ... pos = 0.0   	neg = 0.0  
+26. The only objectionab                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6183-989 is Positive         ... pos = 11.0  	neg = 5.375
+Overall score of document
+Total Pos = 11.0
+Total Neg = 5.375
+---------------------------------------------------------------------------

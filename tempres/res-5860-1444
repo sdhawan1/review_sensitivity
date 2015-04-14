@@ -1,0 +1,51 @@
+0. Directed by James Ma                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Mangol                 ... pos = 0.0   	neg = 0.0  
+2. Starring Winona  Ryd                 ... pos = 0     	neg = 0.0  
+3. Running time: 147 mi                 ... pos = 0     	neg = 0.0  
+4. Rated  AA for mature                 ... pos = 0.25  	neg = 0.0  
+5. Reviewed on February                 ... pos = 0.0   	neg = 0.0  
+6. Shortly after her 19                 ... pos = 0.0   	neg = 0.125
+7. "I had  a headache,"                 ... pos = 0.75  	neg = 0.0  
+8. But Susanna's brush                  ... pos = 0.5   	neg = 0.125
+9. She is the only memb                 ... pos = 0.0   	neg = 0.75 
+10. While much of the Un                ... pos = 0.5   	neg = 0.25 
+11. So it is  hardly sur                ... pos = 0.125 	neg = 0.25 
+12. At  least now, direc                ... pos = 0.125 	neg = 0.375
+13. "Girl, Interrupted"                 ... pos = 0.5   	neg = 0.125
+14. Kaysen lost a year a                ... pos = 0.125 	neg = 0.0  
+15. Despite a lack of re                ... pos = 0.25  	neg = 0.25 
+16. We are introduced to                ... pos = 0.5   	neg = 0.0  
+17. These characters are                ... pos = 1.5   	neg = 0.5  
+18. Watching over everyt                ... pos = 0.875 	neg = 0.25 
+19. "Do not drop anchor                 ... pos = 0.875 	neg = 0.0  
+20. Since there is nothi                ... pos = 0.0   	neg = 1.25 
+21. Everything is stirre                ... pos = 0.5   	neg = 0.5  
+22. Despite the fact  th                ... pos = 1.375 	neg = 0.625
+23. Lisa plays the leade                ... pos = 0.25  	neg = 0.0  
+24. For a time, Claymoor                ... pos = 0.25  	neg = 0.125
+25. Of course, a mental                 ... pos = 0.0   	neg = 0.125
+26. It is this reality -                ... pos = 0.25  	neg = 0.5  
+27. Much of "Girl, Inter                ... pos = 1.5   	neg = 0.125
+28. We are witness  to h                ... pos = 0.625 	neg = 0.0  
+29. The film also observ                ... pos = 0.25  	neg = 0.125
+30. Some of Claymoore's                 ... pos = 0.75  	neg = 0.5  
+31. But, more  darkly, n                ... pos = 0.875 	neg = 0.0  
+32. Unfortunately, after                ... pos = 0.5   	neg = 1.0  
+33. These scenes feel aw                ... pos = 1.875 	neg = 0.25 
+34. Instead, the movie e                ... pos = 0.25  	neg = 0.25 
+35. The cast is well cho                ... pos = 1.75  	neg = 0.25 
+36. Jolie is terrific in                ... pos = 0.75  	neg = 0.125
+37. Of all the character                ... pos = 1.125 	neg = 0.5  
+38. It is clear that she                ... pos = 0.375 	neg = 0.25 
+39. Ryder's  performance                ... pos = 0.375 	neg = 0.625
+40. Denouement aside, "G                ... pos = 0.125 	neg = 0.125
+41. Both scripting and a                ... pos = 0.625 	neg = 0.0  
+42. Although it lacks th                ... pos = 0.5   	neg = 0.375
+43. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+44. Archived at http://w                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5860-1444 is Positive        ... pos = 21.75 	neg = 10.625
+Overall score of document
+Total Pos = 21.75
+Total Neg = 10.625
+---------------------------------------------------------------------------

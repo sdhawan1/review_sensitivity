@@ -1,0 +1,20 @@
+0. Slidings Doors just                  ... pos = 0.0   	neg = 0.0  
+1. It's a fantasy about                 ... pos = 0.0   	neg = 0.125
+2. She cuts off her lon                 ... pos = 0.0   	neg = 1.0  
+3. But, that's when Sli                 ... pos = 0.0   	neg = 0.125
+4. Helen No.                            ... pos = 0     	neg = 0.25 
+5. 2 continues her life                 ... pos = 0.0   	neg = 0.25 
+6. 1 misses her train h                 ... pos = 0.0   	neg = 0.0  
+7. An interesting premi                 ... pos = 0.0   	neg = 0.0  
+8. Paltrow is great as                  ... pos = 0.0   	neg = 0.125
+9. But, the film could                  ... pos = 0.375 	neg = 0.0  
+10. John Hannah, as Hele                ... pos = 0.0   	neg = 0.0  
+11. 1's new beau, ranges                ... pos = 0.875 	neg = 0.25 
+12. Sliding Doors is a n                ... pos = 0.0   	neg = 0.125
+13. 1999 (c) Quick Flick                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3333-170 is Negative         ... pos = 1.25  	neg = 2.25 
+Overall score of document
+Total Pos = 1.25
+Total Neg = 2.25
+---------------------------------------------------------------------------

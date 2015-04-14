@@ -1,0 +1,41 @@
+0. Review by Lars Linda                 ... pos = 0.125 	neg = 0.0  
+1. Edward Norton burst                  ... pos = 1.625 	neg = 0    
+2. He proved he wasn't                  ... pos = 0.125 	neg = 0.0  
+3. How does Norton fair                 ... pos = 0.25  	neg = 0.0  
+4. Well he once again s                 ... pos = 0.375 	neg = 1.75 
+5. In a very simple mov                 ... pos = 2.125 	neg = 0.125
+6. By also directing th                 ... pos = 0.0   	neg = 0.625
+7. Keeping the Faith is                 ... pos = 0.75  	neg = 0.125
+8. Co-star Ben Stiller,                 ... pos = 0.125 	neg = 0.125
+9. Much like his charac                 ... pos = 1.125 	neg = 0.5  
+10. Maybe he isn't the b                ... pos = 0.5   	neg = 0.125
+11. With as many one lin                ... pos = 0.0   	neg = 0.125
+12. No wonder he appears                ... pos = 0.625 	neg = 0.375
+13. Keeping the Faith fo                ... pos = 1.25  	neg = 0.0  
+14. The two have known e                ... pos = 0.5   	neg = 0.125
+15. However, their frien                ... pos = 0.375 	neg = 0.0  
+16. Not only do their su                ... pos = 0.875 	neg = 0.625
+17. The priest shouldn't                ... pos = 1.0   	neg = 0.375
+18. The mistake Keeping                 ... pos = 0.125 	neg = 1.5  
+19. In order to convey t                ... pos = 0.625 	neg = 0.625
+20. In a romantic comedy                ... pos = 0.25  	neg = 0.125
+21. Don't get me wrong,                 ... pos = 1.0   	neg = 1.25 
+22. The movie just dragg                ... pos = 0.375 	neg = 1.0  
+23. A number of segments                ... pos = 0.0   	neg = 0.5  
+24. The supporting cast                 ... pos = 1.25  	neg = 0.125
+25. Anne Bancroft, in pa                ... pos = 0.0   	neg = 0.125
+26. Lisa Edelstein is al                ... pos = 0.0   	neg = 0.5  
+27. As "the date from he                ... pos = 0.375 	neg = 0.5  
+28. As for Jenna Elfman,                ... pos = 1.125 	neg = 0.0  
+29. Honest, gregarious a                ... pos = 0.875 	neg = 0.0  
+30. Elfman believably pl                ... pos = 1.375 	neg = 0.0  
+31. Like Stiller, she se                ... pos = 1.0   	neg = 0.125
+32. Keeping the Faith wo                ... pos = 0.5   	neg = 0.25 
+33. And Norton, I expect                ... pos = 0.125 	neg = 0.0  
+34. Just not for movies                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1484-778 is Positive         ... pos = 20.75 	neg = 11.625
+Overall score of document
+Total Pos = 20.75
+Total Neg = 11.625
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. Starring Kevin Bacon                 ... pos = 0.0   	neg = 1.25 
+1. Considering most cli                 ... pos = 1.125 	neg = 0.25 
+2. Of course by now, mo                 ... pos = 0.125 	neg = 0.0  
+3. If that wasn't enoug                 ... pos = 0.0   	neg = 0.375
+4. So with all this T&A                 ... pos = 0.25  	neg = 0.625
+5. Much to my surprise,                 ... pos = 0.875 	neg = 0.375
+6. Now I have to admit                  ... pos = 0.0   	neg = 0.125
+7. (Judging by the larg                 ... pos = 0.0   	neg = 0.0  
+8. ). Now Wild Things i                 ... pos = 0.0   	neg = 0.375
+9. Not that it's confus                 ... pos = 0.125 	neg = 0.75 
+10. Wild Things revolves                ... pos = 0.125 	neg = 0.25 
+11. Kevin Bacon plays th                ... pos = 0.75  	neg = 0.875
+12. Obviously not everyt                ... pos = 0.125 	neg = 0.625
+13. Let's just say that                 ... pos = 0.0   	neg = 0.125
+14. By the end of the mo                ... pos = 0.0   	neg = 0.25 
+15. This is one well tho                ... pos = 0.0   	neg = 0.125
+16. As to performances -                ... pos = 1.25  	neg = 0.375
+17. Kevin Bacon also gav                ... pos = 0.125 	neg = 0.0  
+18. Denise Richards who'                ... pos = 1.125 	neg = 0.125
+19. She has a great deal                ... pos = 0.625 	neg = 0.5  
+20. Too often talented a                ... pos = 0.0   	neg = 1.0  
+21. (Natasha Henstridge                 ... pos = 0.75  	neg = 0.125
+22. ) Although, I digres                ... pos = 0     	neg = 0.0  
+23. Neve Campbell does a                ... pos = 0.25  	neg = 0.5  
+24. Theresa Russell also                ... pos = 0.0   	neg = 0.625
+25. My question was, why                ... pos = 0.0   	neg = 0.125
+26. The woman is in her                 ... pos = 0.0   	neg = 0.125
+27. It was just embarras                ... pos = 0.0   	neg = 0.375
+28. Robert Wagner has a                 ... pos = 1.125 	neg = 0.75 
+29. The one to watch is                 ... pos = 0.125 	neg = 0.125
+30. Murray, as always is                ... pos = 0.375 	neg = 0.25 
+31. Murray steals every                 ... pos = 0.5   	neg = 0.125
+32. One other point abou                ... pos = 0.375 	neg = 0.25 
+33. In recent years dire                ... pos = 0.375 	neg = 0.0  
+34. Wild Things goes a s                ... pos = 0.375 	neg = 0.25 
+35. During the credits t                ... pos = 0.0   	neg = 0.125
+36. It's kind of like a                 ... pos = 0.0   	neg = 0.0  
+37. Its worth the extra                 ... pos = 0.25  	neg = 0.0  
+38. So if you want lots                 ... pos = 0.0   	neg = 1.0  
+39. If you are intereste                ... pos = 1.125 	neg = 0.5  
+40. It's certainly going                ... pos = 0.375 	neg = 0.0  
+41. 8/10 (I would even r                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5005-488 is Negative         ... pos = 12.625 	neg = 13.75
+Overall score of document
+Total Pos = 12.625
+Total Neg = 13.75
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. WARNING: May contain                 ... pos = 0.0   	neg = 0.125
+1. Rated: R for intense                 ... pos = 0.625 	neg = 0.0  
+2. Starring: Arnold Sch                 ... pos = 0.0   	neg = 0.0  
+3. We go into a movie t                 ... pos = 0.0   	neg = 0.0  
+4. the lights go down,                  ... pos = 0.875 	neg = 0.5  
+5. We sit there, watch                  ... pos = 0.125 	neg = 1.5  
+6. Why shouldn't I have                 ... pos = 0     	neg = 0.125
+7. Again like this past                 ... pos = 0.0   	neg = 0.75 
+8. It's not like this i                 ... pos = 0.0   	neg = 0.375
+9. Whala you have "End                  ... pos = 0.875 	neg = 0.75 
+10. Sadly but truly agai                ... pos = 1.875 	neg = 0.625
+11. The plot which is ve                ... pos = 1.625 	neg = 1.25 
+12. Jericho Cane (Arnold                ... pos = 0.25  	neg = 1.375
+13. He has to do this be                ... pos = 0.25  	neg = 0.5  
+14. He seeks help from t                ... pos = 0.875 	neg = 0.5  
+15. That's pretty much i                ... pos = 0.125 	neg = 0.125
+16. It does have the raz                ... pos = 0.125 	neg = 0.0  
+17. As for Arnie?                       ... pos = 0.0   	neg = 0    
+18. Good role, OK perfor                ... pos = 0.75  	neg = 0.0  
+19. I think since he is                 ... pos = 0.125 	neg = 1.125
+20. The thing that disap                ... pos = 0.0   	neg = 0.5  
+21. In the trailers it l                ... pos = 1.0   	neg = 1.5  
+22. Gabriel Byrnes (who                 ... pos = 1.875 	neg = 1.0  
+23. Two years back Al Pa                ... pos = 1.25  	neg = 0.25 
+24. Robin Tunney (great                 ... pos = 0.125 	neg = 0.0  
+25. Of course Rod Stiege                ... pos = 0.375 	neg = 0.375
+26. The direction by Pet                ... pos = 0.5   	neg = 0.875
+27. Here we are given gr                ... pos = 0.5   	neg = 0.625
+28. The script written b                ... pos = 0.5   	neg = 0.25 
+29. Only a few things wo                ... pos = 0.25  	neg = 0.0  
+30. The sad thing is tha                ... pos = 0.0   	neg = 0.875
+31. The plot could have                 ... pos = 0.625 	neg = 0.25 
+32. At times it seems li                ... pos = 0.5   	neg = 0.375
+33. Hollywood is running                ... pos = 0.375 	neg = 1.125
+34. Even with its 100m b                ... pos = 0.75  	neg = 0.125
+35. In fact the 100m dol                ... pos = 0.25  	neg = 0.125
+36. Maybe I sound crazy,                ... pos = 1.5   	neg = 0.5  
+37. We need to get new i                ... pos = 0.375 	neg = 0.125
+38. We need to get more                 ... pos = 0.5   	neg = 0.375
+39. Overblown effects, s                ... pos = 0.875 	neg = 1.375
+40. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+41. Brandon Herring Http                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6107-480 is Positive         ... pos = 20.625 	neg = 20.25
+Overall score of document
+Total Pos = 20.625
+Total Neg = 20.25
+---------------------------------------------------------------------------

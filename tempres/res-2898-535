@@ -1,0 +1,61 @@
+0. Serial killer Carl S                 ... pos = 0.5   	neg = 1.125
+1. FBI agent Peter Nova                 ... pos = 0.125 	neg = 0.625
+2. This wouldn't be a p                 ... pos = 0.5   	neg = 0.5  
+3. Novak has no idea wh                 ... pos = 0.125 	neg = 0.375
+4. It seems Catherine i                 ... pos = 0.125 	neg = 0.75 
+5. Novak hopes Stargher                 ... pos = 0.125 	neg = 0.0  
+6. She  agrees to enter                 ... pos = 0.625 	neg = 0.0  
+7. Soon she's lost in t                 ... pos = 0.0   	neg = 0.25 
+8. So Novak decides to                  ... pos = 0.125 	neg = 0.125
+9. Stephen King once sa                 ... pos = 0.25  	neg = 0.125
+10. " I disagree with  h                ... pos = 0.625 	neg = 0.125
+11. There's nothing remo                ... pos = 0.125 	neg = 0.25 
+12. The  only thing I co                ... pos = 0.375 	neg = 0.375
+13. Other than that, I w                ... pos = 0.75  	neg = 0.125
+14. It's also the only m                ... pos = 0.0   	neg = 0.0  
+15. Is it worse than "Ba                ... pos = 0.0   	neg = 0.75 
+16. Of  course not, but                 ... pos = 0.0   	neg = 1.0  
+17. "The Cell" is one of                ... pos = 1.0   	neg = 0.375
+18. It's one thing for a                ... pos = 0.625 	neg = 0.125
+19. Singh and Protosevic                ... pos = 0.375 	neg = 0.125
+20. So how does the acti                ... pos = 0.0   	neg = 0.625
+21. Well, you've got  Vi                ... pos = 1.25  	neg = 0.125
+22. I heard him  in a re                ... pos = 0.25  	neg = 0.0  
+23. " If that's the case                ... pos = 0.125 	neg = 0.75 
+24. Jennifer Lopez (who                 ... pos = 0.875 	neg = 0.5  
+25. The only problem is                 ... pos = 0.0   	neg = 0.25 
+26. Vince Vaughn  ("Swin                ... pos = 1.5   	neg = 0.75 
+27. Protosevich's idea o                ... pos = 1.125 	neg = 0.5  
+28. When Lopez's charact                ... pos = 1.0   	neg = 0.0  
+29. Watch for  a cameo b                ... pos = 0.125 	neg = 0.5  
+30. In that first paragr                ... pos = 0.375 	neg = 0.25 
+31. Singh  tries to hide                ... pos = 0.75  	neg = 1.125
+32. What was this messag                ... pos = 0.125 	neg = 0.125
+33. Simply, that inside                 ... pos = 0.375 	neg = 1.75 
+34. What a  serial kille                ... pos = 0.125 	neg = 0.75 
+35. I figure there will                 ... pos = 3.375 	neg = 1.125
+36. If you're in the fir                ... pos = 0.125 	neg = 0.0  
+37. If you're in the sec                ... pos = 0.125 	neg = 0.0  
+38. If you're in the thi                ... pos = 0.625 	neg = 0.0  
+39. Obviously, one of th                ... pos = 0.375 	neg = 0.5  
+40. Other than that,  th                ... pos = 0.375 	neg = 0.0  
+41. It's as  though the                 ... pos = 0.125 	neg = 0.125
+42. Tarsem Singh's filmi                ... pos = 0.75  	neg = 1.0  
+43. It also involves mak                ... pos = 0.0   	neg = 1.0  
+44. Tarsem  Singh is a f                ... pos = 0.5   	neg = 0.375
+45. "The Cell" runs a lo                ... pos = 0.0   	neg = 0.375
+46. I'd recommend it onl                ... pos = 0.375 	neg = 0.125
+47. I give the movie one                ... pos = 0.0   	neg = 0.0  
+48. Comments?                           ... pos = 0     	neg = 0.0  
+49. Send to: johnbeachem                ... pos = 0.375 	neg = 0.125
+50. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+51. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+52. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+53. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+54. Share information ab                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2898-535 is Positive         ... pos = 21.875 	neg = 21.0 
+Overall score of document
+Total Pos = 21.875
+Total Neg = 21.0
+---------------------------------------------------------------------------

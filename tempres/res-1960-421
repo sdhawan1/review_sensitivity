@@ -1,0 +1,29 @@
+0. At some point in the                 ... pos = 0.25  	neg = 0.5  
+1. The characters in `B                 ... pos = 1.75  	neg = 0.125
+2. Seth (Giovanni Ribis                 ... pos = 0.0   	neg = 1.125
+3. When we first meet h                 ... pos = 0.125 	neg = 0.0  
+4. His overbearing fath                 ... pos = 0.25  	neg = 0.125
+5. At this point, fate                  ... pos = 0.0   	neg = 0.0  
+6. He offers him a job                  ... pos = 0.0   	neg = 0.0  
+7. Martin, where Seth i                 ... pos = 0.125 	neg = 0.125
+8. Why pass it up, thin                 ... pos = 0.0   	neg = 0.0  
+9. So he decides to tak                 ... pos = 0.0   	neg = 0.0  
+10. It only takes a few                 ... pos = 0.0   	neg = 0.0  
+11. But la dolce vita is                ... pos = 0.0   	neg = 0.25 
+12. An intense battle wi                ... pos = 0.25  	neg = 0    
+13. First-time writer/di                ... pos = 0.25  	neg = 0    
+14. However, the film la                ... pos = 0.625 	neg = 0.125
+15. Younger's hip-hop st                ... pos = 0.625 	neg = 0.125
+16. What makes `Boiler R                ... pos = 0.875 	neg = 0    
+17. Along with Ribisi an                ... pos = 0.125 	neg = 0.375
+18. The energy needed to                ... pos = 0.625 	neg = 0.25 
+19. `Boiler Room' is cer                ... pos = 1.0   	neg = 0.375
+20. The first portion of                ... pos = 0.625 	neg = 0.375
+21. Younger has built `B                ... pos = 0.25  	neg = 0.0  
+22. The world is one big                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1960-421 is Positive         ... pos = 7.75  	neg = 4.0  
+Overall score of document
+Total Pos = 7.75
+Total Neg = 4.0
+---------------------------------------------------------------------------

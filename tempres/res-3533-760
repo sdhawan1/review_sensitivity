@@ -1,0 +1,15 @@
+0. By Nathaniel R. Atch                 ... pos = 1.125 	neg = 1.875
+1.   Unfortunately, it                 ... pos = 3.5   	neg = 4.5  
+2. The film stars Nicol                 ... pos = 1.5   	neg = 1.125
+3. It's now up to our o                 ... pos = 0.375 	neg = 0.75 
+4.   Soon, however, it                 ... pos = 0.75  	neg = 0.875
+5. The only real proble                 ... pos = 4.625 	neg = 4.25 
+6. Cage is a magnetic,                  ... pos = 0.0   	neg = 0.125
+7.   There's not a who                 ... pos = 4.125 	neg = 0.25 
+8. But it all breaks ap                 ... pos = 2.625 	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-3533-760 is Positive         ... pos = 18.625 	neg = 15.25
+Overall score of document
+Total Pos = 18.625
+Total Neg = 15.25
+---------------------------------------------------------------------------

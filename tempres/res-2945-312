@@ -1,0 +1,20 @@
+0. In Erin Brockovich,                  ... pos = 0.25  	neg = 1.0  
+1. Like The Insider, th                 ... pos = 1.0   	neg = 0.0  
+2. Director Steven Sode                 ... pos = 0.25  	neg = 0.125
+3. As the foul-mouthed                  ... pos = 1.0   	neg = 0.625
+4. She handles it all v                 ... pos = 0.5   	neg = 0.0  
+5. With Erin Brockovich                 ... pos = 0.25  	neg = 0.0  
+6. Romantic interest is                 ... pos = 0.25  	neg = 0.125
+7. I had to wonder whet                 ... pos = 0.625 	neg = 0.25 
+8. As William Goldman p                 ... pos = 3.125 	neg = 1.25 
+9. Erin Brockovich is p                 ... pos = 0.0   	neg = 0.75 
+10. When movie stars pla                ... pos = 5.5   	neg = 2.472
+11. Erin Brockovich tell                ... pos = 0.875 	neg = 0.0  
+12. As a piece of filmed                ... pos = 0.375 	neg = 0.375
+13. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2945-312 is Positive         ... pos = 15.0  	neg = 6.972
+Overall score of document
+Total Pos = 15.0
+Total Neg = 6.972
+---------------------------------------------------------------------------

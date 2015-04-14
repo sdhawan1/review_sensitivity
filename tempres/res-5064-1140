@@ -1,0 +1,30 @@
+0. This little movie se                 ... pos = 0     	neg = 0.625
+1. And when a movie wit                 ... pos = 0.0   	neg = 0.25 
+2. But not this movie.                  ... pos = 0.0   	neg = 0.0  
+3. I'm sill trying to w                 ... pos = 0.0   	neg = 0.75 
+4. Because it's a terri                 ... pos = 0.25  	neg = 0    
+5. In a year when most                  ... pos = 0.25  	neg = 2.375
+6. I knew from the clev                 ... pos = 1.125 	neg = 0.25 
+7. Very nicely done.                    ... pos = 0.75  	neg = 0    
+8. Kurt Russell is perf                 ... pos = 0.75  	neg = 0.125
+9. What makes his chara                 ... pos = 1.625 	neg = 0.25 
+10. He makes mistakes, i                ... pos = 0.625 	neg = 0.875
+11. The villian's shoes                 ... pos = 0.25  	neg = 0.25 
+12. Walsh.                              ... pos = 0     	neg = 0    
+13. .                                   ... pos = 0     	neg = 0    
+14. He leads the small g                ... pos = 0.0   	neg = 0    
+15. The rest of the kidn                ... pos = 0.0   	neg = 0.0  
+16. In particular, Jack                 ... pos = 0.0   	neg = 0.125
+17. I did have a few min                ... pos = 0.0   	neg = 0.25 
+18. For instance when th                ... pos = 0.0   	neg = 0.375
+19. I don't think so.                   ... pos = 0     	neg = 0.0  
+20. But as I said, the e                ... pos = 0.625 	neg = 0.875
+21. Unlike many movies t                ... pos = 0.25  	neg = 0.25 
+22. And it is also durin                ... pos = 0.375 	neg = 0.75 
+23. The scene where the                 ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5064-1140 is Negative        ... pos = 7.375 	neg = 8.625
+Overall score of document
+Total Pos = 7.375
+Total Neg = 8.625
+---------------------------------------------------------------------------

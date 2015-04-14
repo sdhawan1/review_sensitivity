@@ -1,0 +1,37 @@
+0. It's a good thing WA                 ... pos = 0.875 	neg = 1.625
+1. Perhaps a sequel is                  ... pos = 0.0   	neg = 0.125
+2. Or, with Clinton and                 ... pos = 0.25  	neg = 0.125
+3. Oh what fun we can h                 ... pos = 0.75  	neg = 0.875
+4. ("If you wanna be my                 ... pos = 0.0   	neg = 0.125
+5. ). One must admit, t                 ... pos = 0.875 	neg = 0.125
+6. Who would've thought                 ... pos = 0.125 	neg = 0.0  
+7. I can only assume it                 ... pos = 0.875 	neg = 0.625
+8. But WAG THE DOG's fo                 ... pos = 0.25  	neg = 0.0  
+9. When the President i                 ... pos = 0.125 	neg = 0.5  
+10. In turn, Conrad enli                ... pos = 0.5   	neg = 0.0  
+11. .                                   ... pos = 0     	neg = 0    
+12. .                                   ... pos = 0     	neg = 0    
+13. not quite a war, but                ... pos = 0.0   	neg = 0.0  
+14. Picking Albania as t                ... pos = 1.125 	neg = 0.25 
+15. The acting is sharp,                ... pos = 0.5   	neg = 0.25 
+16. WAG THE DOG is too m                ... pos = 0.25  	neg = 1.0  
+17. The pacing is hectic                ... pos = 0.875 	neg = 0.25 
+18. While one can easily                ... pos = 1.25  	neg = 0.0  
+19. Speaking for myself,                ... pos = 0.0   	neg = 0.125
+20. De Niro has received                ... pos = 1.125 	neg = 0.25 
+21. It's obvious this pr                ... pos = 0.0   	neg = 0.125
+22. The acting adrenalin                ... pos = 0.125 	neg = 0.125
+23. On the other hand, w                ... pos = 0.0   	neg = 0.0  
+24. If you believe this                 ... pos = 0.25  	neg = 0.625
+25. Heche seems to add n                ... pos = 1.375 	neg = 0.5  
+26. Not only the directi                ... pos = 0.375 	neg = 1.0  
+27. It's a bit distracti                ... pos = 0.0   	neg = 0.0  
+28. Still, the intellige                ... pos = 0.5   	neg = 0.75 
+29. For that aspect alon                ... pos = 0.125 	neg = 0.75 
+30. With all the hoopla                 ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4231-195 is Positive         ... pos = 12.875 	neg = 10.125
+Overall score of document
+Total Pos = 12.875
+Total Neg = 10.125
+---------------------------------------------------------------------------

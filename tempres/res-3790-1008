@@ -1,0 +1,44 @@
+0. *** (out of 4) David                 ... pos = 0.75  	neg = 0.0  
+1. The three title char                 ... pos = 1.0   	neg = 0.0  
+2. Major Archie Gates (                 ... pos = 0.0   	neg = 0.125
+3. The map takes them i                 ... pos = 0.25  	neg = 0    
+4. Some are villagers,                  ... pos = 1.375 	neg = 0.0  
+5. The civilians are in                 ... pos = 0.75  	neg = 0.25 
+6. The villagers believ                 ... pos = 0.5   	neg = 0.125
+7. Archie doesn't know                  ... pos = 0.125 	neg = 1.25 
+8. They get a strange r                 ... pos = 0.5   	neg = 0.125
+9. Archie is savvy enou                 ... pos = 0.125 	neg = 0.625
+10. Though the G.I.s (Ma                ... pos = 0.625 	neg = 0.625
+11. Greed tells the Amer                ... pos = 0.625 	neg = 0.375
+12. Now they can grab th                ... pos = 0.125 	neg = 0.0  
+13. But their curiosity,                ... pos = 0.875 	neg = 0.0  
+14. Should they take the                ... pos = 0.0   	neg = 0.0  
+15. Shouldn't they prote                ... pos = 0.0   	neg = 0.75 
+16. Should they attack t                ... pos = 0.0   	neg = 0.0  
+17. If they intervene, a                ... pos = 0.25  	neg = 0    
+18. The plot contrives t                ... pos = 0.0   	neg = 0.0  
+19. For example, one of                 ... pos = 0.375 	neg = 0.125
+20. He forces his Americ                ... pos = 0.0   	neg = 0.125
+21. Oil -- the stuff Ame                ... pos = 0.0   	neg = 0.75 
+22. And a compact disc -                ... pos = 0.75  	neg = 0    
+23. (The irony goes deep                ... pos = 0.375 	neg = 0.125
+24. One could make the c                ... pos = 0.125 	neg = 0.5  
+25. You could say that t                ... pos = 0.0   	neg = 0.125
+26. On the other hand, I                ... pos = 0.625 	neg = 0.25 
+27. So on the whole, I'd                ... pos = 0.875 	neg = 0.0  
+28. Along with the thoug                ... pos = 0.25  	neg = 0.375
+29. The film seems overe                ... pos = 0.0   	neg = 0.125
+30. The only colors are                 ... pos = 0.25  	neg = 0.125
+31. The cinematography f                ... pos = 0.25  	neg = 0.0  
+32. THREE KINGS sounds l                ... pos = 0.5   	neg = 0.0  
+33. But somehow, as soon                ... pos = 0.0   	neg = 0.0  
+34. By the time I hit th                ... pos = 0.0   	neg = 0.625
+35. "Now if you take the                ... pos = 0.125 	neg = 0.875
+36. Whatever you do, don                ... pos = 0.0   	neg = 0.0  
+37. "  -- Desmond Llewel                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-1008 is Positive        ... pos = 12.375 	neg = 8.375
+Overall score of document
+Total Pos = 12.375
+Total Neg = 8.375
+---------------------------------------------------------------------------

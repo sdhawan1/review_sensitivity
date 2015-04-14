@@ -1,0 +1,30 @@
+0. Cast: Gwyneth Paltro                 ... pos = 0.5   	neg = 0.375
+1. The film followers t                 ... pos = 2.125 	neg = 0.0  
+2. It stars Gwyneth Pal                 ... pos = 0.0   	neg = 0.25 
+3. The film plays on th                 ... pos = 0.0   	neg = 0.0  
+4. Sure enough, when He                 ... pos = 0.625 	neg = 0.25 
+5. But of course she al                 ... pos = 0.0   	neg = 0.625
+6. Whilst on the train                  ... pos = 1.0   	neg = 0.125
+7. When she doesn't cat                 ... pos = 0.0   	neg = 1.0  
+8. The cleverest thing                  ... pos = 0.875 	neg = 0.375
+9. One can't help but b                 ... pos = 1.125 	neg = 0.125
+10. But this intrigue is                ... pos = 0.375 	neg = 0.375
+11. I'm starting to real                ... pos = 1.25  	neg = 0.25 
+12. She carries the load                ... pos = 0.125 	neg = 0.375
+13. She showed great ski                ... pos = 0.375 	neg = 0.0  
+14. She gives a remarkab                ... pos = 2.375 	neg = 0.125
+15. Still, this is ultim                ... pos = 2.625 	neg = 0.125
+16. Sadly, the different                ... pos = 1.875 	neg = 1.25 
+17. Many believe that ha                ... pos = 2.625 	neg = 0.75 
+18. As the film draws to                ... pos = 0.625 	neg = 0.0  
+19. Yet a messy and fain                ... pos = 1.125 	neg = 1.0  
+20. Not a very satisfyin                ... pos = 1.75  	neg = 0.125
+21. Would my life have b                ... pos = 0.125 	neg = 0.125
+22. Probably not, but I'                ... pos = 0.125 	neg = 0.125
+23. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3333-1111 is Positive        ... pos = 21.875 	neg = 7.75 
+Overall score of document
+Total Pos = 21.875
+Total Neg = 7.75
+---------------------------------------------------------------------------

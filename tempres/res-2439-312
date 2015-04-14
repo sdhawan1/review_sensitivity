@@ -1,0 +1,48 @@
+0. If ever a genre was                  ... pos = 0.375 	neg = 0.25 
+1. Who on earth would c                 ... pos = 0.25  	neg = 0.0  
+2. Director Ridley Scot                 ... pos = 0.0   	neg = 0.0  
+3. If Gladiator had bee                 ... pos = 0.0   	neg = 0.875
+4. "Who wants to see a                  ... pos = 0.125 	neg = 0.0  
+5. A gladiator movie fe                 ... pos = 0.0   	neg = 0.0  
+6. " Well actually, bas                 ... pos = 0.0   	neg = 0.0  
+7. Forget the cheesy an                 ... pos = 0.75  	neg = 0.875
+8. to ask "Do you like                  ... pos = 0.0   	neg = 0.0  
+9. ", this is a full-bl                 ... pos = 0.0   	neg = 0.125
+10. Quiche-eaters should                ... pos = 0.0   	neg = 0    
+11. The film opens with                 ... pos = 0.5   	neg = 0.0  
+12. The dying emperor (R                ... pos = 0.5   	neg = 0.75 
+13. The emperor's son Co                ... pos = 0.375 	neg = 0.25 
+14. Instead of being the                ... pos = 0.625 	neg = 0.375
+15. Action heroes of the                ... pos = 0.75  	neg = 0.375
+16. Russell Crowe is a n                ... pos = 2.0   	neg = 0.5  
+17. Crowe's effectivenes                ... pos = 1.125 	neg = 0.5  
+18. Joachim Phoenix is a                ... pos = 0.75  	neg = 1.625
+19. Oliver Reed, who pla                ... pos = 0.25  	neg = 0.125
+20. Reed's public image                 ... pos = 0.694 	neg = 0.75 
+21. At one point his cha                ... pos = 0.875 	neg = 0.0  
+22. " He was certainly t                ... pos = 0.25  	neg = 0.25 
+23. The scenes of gladia                ... pos = 0.5   	neg = 0    
+24. Limbs are hacked, he                ... pos = 0.5   	neg = 0.125
+25. Comparisons have bee                ... pos = 1.125 	neg = 0.25 
+26. Whereas Spielberg us                ... pos = 0.125 	neg = 1.875
+27. Not only does this s                ... pos = 1.125 	neg = 0.5  
+28. The smell of fear an                ... pos = 0.375 	neg = 0.0  
+29. The battle sequence                 ... pos = 0.125 	neg = 0.125
+30. Shot in a gloomy and                ... pos = 0.0   	neg = 0.0  
+31. The CGI team worked                 ... pos = 0.125 	neg = 0.0  
+32. When the gladiators                 ... pos = 0.75  	neg = 0.0  
+33. As they look up and                 ... pos = 0.5   	neg = 0.375
+34. The film also benefi                ... pos = 0.0   	neg = 0.125
+35. The script (by David                ... pos = 1.125 	neg = 0.0  
+36. Maybe that's the way                ... pos = 0.0   	neg = 0.125
+37. If centurions and em                ... pos = 1.25  	neg = 0.5  
+38. I don't know if any                 ... pos = 0.0   	neg = 0.25 
+39. And as is usual with                ... pos = 1.375 	neg = 1.0  
+40. Although the script                 ... pos = 0.125 	neg = 0.375
+41. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2439-312 is Positive         ... pos = 20.319 	neg = 13.25
+Overall score of document
+Total Pos = 20.319
+Total Neg = 13.25
+---------------------------------------------------------------------------

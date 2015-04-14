@@ -1,0 +1,27 @@
+0. Starring Laurence Fi                 ... pos = 0.0   	neg = 0.0  
+1. Review by Laurence M                 ... pos = 0.0   	neg = 0.0  
+2. For about the first                  ... pos = 0.625 	neg = 0.25 
+3. I was wrong.                         ... pos = 0     	neg = 0.875
+4. The movie sets up th                 ... pos = 0.5   	neg = 0.0  
+5. Now, in the present(                 ... pos = 0.0   	neg = 0.25 
+6. A rescue ship crew,                  ... pos = 0.0   	neg = 0.0  
+7. Accompanying he and                  ... pos = 0.0   	neg = 0.125
+8. He lets them in on a                 ... pos = 0.75  	neg = 0.375
+9. Miller's crew boards                 ... pos = 0.0   	neg = 0.875
+10. Eventually, they beg                ... pos = 0.25  	neg = 0.125
+11. Event Horizon owes m                ... pos = 0.125 	neg = 0.25 
+12. The special effects,                ... pos = 1.25  	neg = 0.875
+13. Like a man being cut                ... pos = 0.0   	neg = 0.0  
+14. Did I mention this i                ... pos = 0.0   	neg = 0.125
+15. All though it's prob                ... pos = 0.75  	neg = 0.375
+16. Which, I suppose, ma                ... pos = 0.75  	neg = 0.0  
+17. Except it's better t                ... pos = 0     	neg = 0.0  
+18. Except that's not th                ... pos = 0.0   	neg = 0.0  
+19. Or is it?                           ... pos = 0.0   	neg = 0.125
+20. Aww, forget it.... .                ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6159-648 is Positive         ... pos = 5.25  	neg = 4.625
+Overall score of document
+Total Pos = 5.25
+Total Neg = 4.625
+---------------------------------------------------------------------------

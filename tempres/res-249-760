@@ -1,0 +1,51 @@
+0. Director:  Martin C                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution:  S                 ... pos = 1.0   	neg = 0.125
+2. The story is straigh                 ... pos = 1.75  	neg = 0.125
+3. It's also a film tha                 ... pos = 0.0   	neg = 0.125
+4. Sometimes it's thril                 ... pos = 0.125 	neg = 0.25 
+5. Mix in some irritati                 ... pos = 0.125 	neg = 0.375
+6. Is that what you wan                 ... pos = 0     	neg = 0.25 
+7. I mean, is that what                 ... pos = 0.0   	neg = 0.25 
+8. I suppose that's pos                 ... pos = 1.125 	neg = 0.25 
+9. Maybe it's because t                 ... pos = 0.125 	neg = 0.375
+10. Maybe it's because I                ... pos = 0.125 	neg = 0.25 
+11. Maybe it's because,                 ... pos = 0.125 	neg = 0.25 
+12. Here's an official d                ... pos = 0.125 	neg = 0.0  
+13. I have no particular                ... pos = 0.125 	neg = 0.375
+14. It begins with Zorro                ... pos = 0.0   	neg = 0.0  
+15. His real name is Don                ... pos = 0.0   	neg = 0.25 
+16. Montero loves Diego'                ... pos = 0.625 	neg = 0.375
+17. Montero has Diego im                ... pos = 0.375 	neg = 0    
+18. Twenty years pass, a                ... pos = 0.0   	neg = 0.125
+19. When his brother is                 ... pos = 0.25  	neg = 0.375
+20. That's when he meets                ... pos = 0.0   	neg = 0.0  
+21. It turns out that th                ... pos = 0.0   	neg = 0.125
+22. The two men then hel                ... pos = 0.625 	neg = 0.5  
+23. The Mask of Zorro is                ... pos = 0.0   	neg = 0.125
+24. Director Martin Camp                ... pos = 1.75  	neg = 0.125
+25. Some of the sequence                ... pos = 0.875 	neg = 0.0  
+26. The final sequence i                ... pos = 0.0   	neg = 0.125
+27. On a technical level                ... pos = 1.375 	neg = 0.0  
+28. But very little of i                ... pos = 0.75  	neg = 0.25 
+29. The music and cinema                ... pos = 1.0   	neg = 0.0  
+30. Yes, it's fast-paced                ... pos = 0.5   	neg = 0.875
+31. I found the film ple                ... pos = 1.625 	neg = 0.5  
+32. In addition, the scr                ... pos = 1.25  	neg = 0.25 
+33. Ironically, what I l                ... pos = 1.0   	neg = 0.625
+34. While the characters                ... pos = 2.0   	neg = 0.125
+35. Banderas is always c                ... pos = 1.0   	neg = 0.125
+36. Hopkins forces us to                ... pos = 0.875 	neg = 0.0  
+37. This scene also incl                ... pos = 0.5   	neg = 0.25 
+38. Zeta-Jones is lumino                ... pos = 1.25  	neg = 0.125
+39. Wilson is terrific,                 ... pos = 0.375 	neg = 1.375
+40. As a period piece, t                ... pos = 0.125 	neg = 0.25 
+41. While Hopkins and Wi                ... pos = 1.75  	neg = 0.5  
+42. The dialogue is adeq                ... pos = 0.25  	neg = 0.875
+43. When all is consider                ... pos = 0.375 	neg = 0.375
+44. It's nice to see a l                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-249-760 is Positive          ... pos = 25.375 	neg = 11.875
+Overall score of document
+Total Pos = 25.375
+Total Neg = 11.875
+---------------------------------------------------------------------------

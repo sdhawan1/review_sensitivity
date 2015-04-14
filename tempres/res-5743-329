@@ -1,0 +1,34 @@
+0. There are many diffe                 ... pos = 0.875 	neg = 0.0  
+1. Some are loud and no                 ... pos = 0.25  	neg = 0.75 
+2. Others show comedies                 ... pos = 0.0   	neg = 0.0  
+3. These are simply the                 ... pos = 0.25  	neg = 0.0  
+4. So when a modest fil                 ... pos = 0.875 	neg = 0.625
+5. A psychiatrist named                 ... pos = 0.125 	neg = 0.625
+6. He enjoys listening                  ... pos = 0.375 	neg = 0.0  
+7. Now it just so happe                 ... pos = 1.625 	neg = 0.0  
+8. Mumford is called on                 ... pos = 0.125 	neg = 0.375
+9. But the two resident                 ... pos = 0.375 	neg = 0.125
+10. Then he meets Sofie                 ... pos = 1.875 	neg = 0.25 
+11. Now falling in love                 ... pos = 0.75  	neg = 2.125
+12. It turns out Mumford                ... pos = 0.0   	neg = 0.0  
+13. He just thought it w                ... pos = 0.75  	neg = 0.125
+14. I won't give you the                ... pos = 0.0   	neg = 0.25 
+15. When they think that                ... pos = 0.0   	neg = 0.25 
+16. So what should he do                ... pos = 0.0   	neg = 0.0  
+17. Face what he has don                ... pos = 0.0   	neg = 0    
+18. Or go into hiding on                ... pos = 0.0   	neg = 0.0  
+19. And so Hollywood onc                ... pos = 0.0   	neg = 0.0  
+20. Mumford is very mode                ... pos = 1.875 	neg = 0.5  
+21. The ensemble cast (T                ... pos = 0.25  	neg = 0.0  
+22. Especially Ted Danso                ... pos = 0.0   	neg = 0.0  
+23. Dean has an interest                ... pos = 0.0   	neg = 0.0  
+24. Of course I have to                 ... pos = 0.5   	neg = 1.0  
+25. While not outstandin                ... pos = 0.125 	neg = 0.125
+26. The Young-Uns: Three                ... pos = 0.0   	neg = 1.0  
+27. Good Age 13 & Up. .                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5743-329 is Positive         ... pos = 11.75 	neg = 8.125
+Overall score of document
+Total Pos = 11.75
+Total Neg = 8.125
+---------------------------------------------------------------------------

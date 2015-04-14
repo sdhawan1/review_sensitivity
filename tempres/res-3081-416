@@ -1,0 +1,17 @@
+0. Written by: Duncan K                 ... pos = 0.25  	neg = 0.375
+1. Mako sharks, a speci                 ... pos = 0.875 	neg = 0.375
+2. An unfortunate conse                 ... pos = 0.0   	neg = 0.25 
+3. The humans seem firm                 ... pos = 0.625 	neg = 0.0  
+4. Opinion: Who will su                 ... pos = 0.125 	neg = 0.0  
+5. The beautiful but ic                 ... pos = 0.75  	neg = 0.0  
+6. The depressed resear                 ... pos = 0.0   	neg = 0.125
+7. DEEP BLUE SEA is no                  ... pos = 0.0   	neg = 0.375
+8. It'll put you on the                 ... pos = 0.5   	neg = 0.0  
+9. DEEP BLUE SEA was th                 ... pos = 0.75  	neg = 0.875
+10. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3081-416 is Positive         ... pos = 3.875 	neg = 2.5  
+Overall score of document
+Total Pos = 3.875
+Total Neg = 2.5
+---------------------------------------------------------------------------

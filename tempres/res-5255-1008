@@ -1,0 +1,33 @@
+0. **1/2 (out of 4) TOM                 ... pos = 0.0   	neg = 0.25 
+1. It doesn't deviate t                 ... pos = 0.0   	neg = 0.5  
+2. The villain this tim                 ... pos = 0.125 	neg = 0.5  
+3. He plans to instigat                 ... pos = 0.625 	neg = 0.0  
+4. Because he's scripti                 ... pos = 0.25  	neg = 0.0  
+5. James Bond (Pierce B                 ... pos = 0.375 	neg = 0.75 
+6. China sends Wai Lin                  ... pos = 0.0   	neg = 0.0  
+7. Bond has encountered                 ... pos = 0.625 	neg = 0.0  
+8. Yeoh, who has worked                 ... pos = 0.0   	neg = 0.125
+9. She has a scene wher                 ... pos = 0.0   	neg = 0.875
+10. Bond shows up in tim                ... pos = 0.0   	neg = 0.375
+11. Wai Lin's relationsh                ... pos = 0.625 	neg = 0.5  
+12. Desmond Llewelyn mak                ... pos = 0.0   	neg = 0.0  
+13. He has the usual gad                ... pos = 1.625 	neg = 0.0  
+14. Judi Dench returns a                ... pos = 0.75  	neg = 0.25 
+15. TOMORROW has all the                ... pos = 0.625 	neg = 1.375
+16. But this is also wha                ... pos = 0.25  	neg = 0.125
+17. Nothing new makes th                ... pos = 0.375 	neg = 0.25 
+18. I enjoyed the movie,                ... pos = 1.125 	neg = 0.0  
+19. If this film had bee                ... pos = 0.0   	neg = 0.75 
+20. But in this age of c                ... pos = 0.0   	neg = 0.375
+21. We know or are wise                 ... pos = 0.5   	neg = 1.5  
+22. The days of a "real"                ... pos = 0.25  	neg = 0.375
+23. But as the politics                 ... pos = 0.5   	neg = 0.875
+24. One thing hasn't cha                ... pos = 0.125 	neg = 0.0  
+25. "James Bond will ret                ... pos = 0.125 	neg = 0    
+26. ". Check out more cu                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5255-1008 is Negative        ... pos = 8.875 	neg = 9.75 
+Overall score of document
+Total Pos = 8.875
+Total Neg = 9.75
+---------------------------------------------------------------------------

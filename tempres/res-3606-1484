@@ -1,0 +1,39 @@
+0. KUNDUN is Martin Sco                 ... pos = 0.625 	neg = 0.125
+1. Using no Western act                 ... pos = 0.0   	neg = 0.75 
+2. Leave it to Scorsese                 ... pos = 0.0   	neg = 0.0  
+3. Scorsese was  faced                  ... pos = 0.75  	neg = 0.25 
+4. Compounding his dile                 ... pos = 0.0   	neg = 0.5  
+5. )  Scorsese's film i                 ... pos = 0.875 	neg = 0.25 
+6. 20. The film's story                 ... pos = 0.0   	neg = 0.125
+7. His Holiness is play                 ... pos = 2.25  	neg = 0.125
+8. The youngest is prob                 ... pos = 0.625 	neg = 0.25 
+9. The actors show a tr                 ... pos = 1.0   	neg = 0.0  
+10. In the latter part o                ... pos = 0.0   	neg = 0.125
+11. The script, written                 ... pos = 0.0   	neg = 0.0  
+12. scribe (and Harrison                ... pos = 0.875 	neg = 0.25 
+13. There are several "d                ... pos = 0.875 	neg = 0.0  
+14. Scorsese lets the fi                ... pos = 0.5   	neg = 0.0  
+15. They are instead an                 ... pos = 0.25  	neg = 0.0  
+16. The visuals are at o                ... pos = 0.5   	neg = 0.375
+17. Several sequences ar                ... pos = 0.25  	neg = 0.0  
+18. One in particular  i                ... pos = 0.0   	neg = 0.0  
+19. It is a deeply relig                ... pos = 0.0   	neg = 0.25 
+20. Scorsese is quite pa                ... pos = 0.875 	neg = 0.25 
+21. 20. The performances                ... pos = 0.625 	neg = 0.0  
+22. The score, by  Phill                ... pos = 0.75  	neg = 0.125
+23. The movie is, howeve                ... pos = 0.5   	neg = 0.125
+24. But for the chosen f                ... pos = 0.0   	neg = 0.375
+25. With tremendous arti                ... pos = 0.5   	neg = 0.125
+26. There is so much bea                ... pos = 1.875 	neg = 0.125
+27. It is a slow-moving,                ... pos = 0.0   	neg = 0.375
+28. It is a deeply philo                ... pos = 0.5   	neg = 0.25 
+29. But KUNDUN is truly                 ... pos = 0.625 	neg = 0.125
+30. It is instead the  u                ... pos = 1.125 	neg = 0.125
+31. KUNDUN may lack a si                ... pos = 1.875 	neg = 0.5  
+32. One of Scorsese's mo                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3606-1484 is Positive        ... pos = 19.25 	neg = 6.0  
+Overall score of document
+Total Pos = 19.25
+Total Neg = 6.0
+---------------------------------------------------------------------------

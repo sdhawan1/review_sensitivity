@@ -1,0 +1,59 @@
+0. Director: Kevin Cost                 ... pos = 1.5   	neg = 0.375
+1. A man named Bethlehe                 ... pos = 0.375 	neg = 0.0  
+2. His day-to-day activ                 ... pos = 1.0   	neg = 0.5  
+3. Oh yeah, and before                  ... pos = 0.125 	neg = 0.125
+4. One day he makes the                 ... pos = 0.125 	neg = 0.625
+5. Kevin Costner's The                  ... pos = 0.0   	neg = 0.5  
+6. It's a multi-faceted                 ... pos = 0.222 	neg = 0.25 
+7. To see it--to sit th                 ... pos = 1.125 	neg = 1.625
+8. It is almost inconce                 ... pos = 1.0   	neg = 2.75 
+9. These things alone d                 ... pos = 0.25  	neg = 0.125
+10. It plays almost like                ... pos = 0.25  	neg = 0.125
+11. General Bethlehem, p                ... pos = 1.375 	neg = 0.125
+12. He's not so enticing                ... pos = 0.5   	neg = 0.125
+13. Patton brings and au                ... pos = 1.5   	neg = 1.75 
+14. I'll give you .                     ... pos = 0     	neg = 0.0  
+15. .                                   ... pos = 0     	neg = 0    
+16. .                                   ... pos = 0     	neg = 0    
+17. a war!                              ... pos = 0.0   	neg = 0    
+18. " Patton, unlike Cos                ... pos = 0.25  	neg = 0.125
+19. He overacts, true, b                ... pos = 1.125 	neg = 0.375
+20. Out of all the chara                ... pos = 1.75  	neg = 0.25 
+21. Although I liked him                ... pos = 1.25  	neg = 0.625
+22. Of course, the rest                 ... pos = 0.0   	neg = 1.5  
+23. Nothing feels real i                ... pos = 0.0   	neg = 0.5  
+24. I really hated the s                ... pos = 0.25  	neg = 1.0  
+25. Costner shot this in                ... pos = 0.125 	neg = 0.25 
+26. Scene after scene ha                ... pos = 0.25  	neg = 0.625
+27. The Postman is based                ... pos = 0.125 	neg = 0.375
+28. It's hard to imagine                ... pos = 0.0   	neg = 1.375
+29. I, personally, just                 ... pos = 0.0   	neg = 0.0  
+30. Sure, there are prob                ... pos = 1.25  	neg = 0.0  
+31. Giving mail, picking                ... pos = 0.0   	neg = 0.0  
+32. As if this weren't e                ... pos = 0.25  	neg = 0.125
+33. Aside from this, no                 ... pos = 0.5   	neg = 1.125
+34. Everything else is s                ... pos = 0.5   	neg = 0.125
+35. The film could have                 ... pos = 0.0   	neg = 0.5  
+36. Bad acting and bad d                ... pos = 0.625 	neg = 1.75 
+37. The dialogue, howeve                ... pos = 0.125 	neg = 0.125
+38. One scene, in which                 ... pos = 0.625 	neg = 0.625
+39. Costner, however, co                ... pos = 0.125 	neg = 0.0  
+40. " in a really goofy                 ... pos = 0.0   	neg = 0.0  
+41. A lot of people laug                ... pos = 0.0   	neg = 0.0  
+42. I thought it might h                ... pos = 1.125 	neg = 1.0  
+43. Costner even says, "                ... pos = 0.0   	neg = 0.0  
+44. " at one point.                     ... pos = 0.0   	neg = 0.0  
+45. Most of the dialogue                ... pos = 0.875 	neg = 1.625
+46. Yes, The Postman is                 ... pos = 0.0   	neg = 0.5  
+47. No amount of good in                ... pos = 0.875 	neg = 0.25 
+48. Even the Beautiful s                ... pos = 1.0   	neg = 0.125
+49. Like I said, many sh                ... pos = 1.375 	neg = 1.125
+50. A hopelessly inane c                ... pos = 0.25  	neg = 0.375
+51. View it with awe and                ... pos = 0.5   	neg = 0.125
+52. " The answer to that                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4039-760 is Negative         ... pos = 24.472 	neg = 25.625
+Overall score of document
+Total Pos = 24.472
+Total Neg = 25.625
+---------------------------------------------------------------------------

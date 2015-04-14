@@ -1,0 +1,13 @@
+0. Martin Scorsese's KU                 ... pos = 0.625 	neg = 0.25 
+1. Personally, I don't                  ... pos = 0.5   	neg = 0.125
+2. Scorsese views the D                 ... pos = 1.0   	neg = 0.125
+3. The set design and c                 ... pos = 1.125 	neg = 0.125
+4. Political art someti                 ... pos = 1.125 	neg = 0.75 
+5. Send comments to ktp                 ... pos = 0.0   	neg = 0.0  
+6. Film Reviews Page: h                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3606-716 is Positive         ... pos = 4.375 	neg = 1.375
+Overall score of document
+Total Pos = 4.375
+Total Neg = 1.375
+---------------------------------------------------------------------------

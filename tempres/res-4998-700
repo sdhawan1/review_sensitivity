@@ -1,0 +1,25 @@
+0. Release Date: June 2                 ... pos = 2.875 	neg = 0.375
+1. Written by Scott Fra                 ... pos = 0.0   	neg = 0.0  
+2. Marked by one critic                 ... pos = 1.75  	neg = 0.375
+3. It stars George Cloo                 ... pos = 0.625 	neg = 1.375
+4. In the slammer, he u                 ... pos = 0.625 	neg = 0.0  
+5. The only thing that                  ... pos = 0.75  	neg = 0.125
+6. From here, the story                 ... pos = 0.375 	neg = 0.75 
+7. Their characters are                 ... pos = 1.5   	neg = 0.0  
+8. The acting is of a s                 ... pos = 0.875 	neg = 0.125
+9. George Clooney redee                 ... pos = 0.0   	neg = 0.875
+10. It works out for the                ... pos = 0.125 	neg = 0.0  
+11. Ving Rhames is simil                ... pos = 0.5   	neg = 0.75 
+12. Jennifer Lopez is se                ... pos = 0.125 	neg = 0.125
+13. The other supporting                ... pos = 0.625 	neg = 0.75 
+14. There's no doubt tha                ... pos = 0.125 	neg = 0.5  
+15. Anyone who's not in                 ... pos = 0.375 	neg = 0.625
+16. On the other hand, t                ... pos = 0.875 	neg = 0.375
+17. On the whole, there'                ... pos = 0.375 	neg = 1.25 
+18. FINAL AWARD FOR "OUT                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4998-700 is Positive         ... pos = 13.75 	neg = 8.375
+Overall score of document
+Total Pos = 13.75
+Total Neg = 8.375
+---------------------------------------------------------------------------

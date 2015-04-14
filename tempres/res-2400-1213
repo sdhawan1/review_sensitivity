@@ -1,0 +1,40 @@
+0. Starring Bill Paxton                 ... pos = 0.125 	neg = 0.125
+1. This dilemma faces M                 ... pos = 1.0   	neg = 0.75 
+2. The film follows the                 ... pos = 0.75  	neg = 0.0  
+3. Naturally, it all st                 ... pos = 0.375 	neg = 0.0  
+4. A Simple Plan seems                  ... pos = 0.0   	neg = 0.125
+5. The inventiveness se                 ... pos = 0.0   	neg = 1.25 
+6. Raimi has directed t                 ... pos = 0.0   	neg = 0.5  
+7. A shame really, this                 ... pos = 1.0   	neg = 0.75 
+8. The film looks far f                 ... pos = 0.0   	neg = 2.75 
+9. A Simple Plan also r                 ... pos = 0.375 	neg = 0.5  
+10. His monotonous, deep                ... pos = 0.125 	neg = 0.75 
+11. I assume the filmmak                ... pos = 0.125 	neg = 0.125
+12. There's no denying t                ... pos = 0.125 	neg = 0.875
+13. He's just not versat                ... pos = 1.25  	neg = 0.75 
+14. Anyway, that's the f                ... pos = 0.0   	neg = 0.0  
+15. Thankfully, A Simple                ... pos = 1.375 	neg = 0.875
+16. Firstly, the films m                ... pos = 2.0   	neg = 0.125
+17. If Billy Bob can get                ... pos = 1.5   	neg = 0.0  
+18. His nervous, none-to                ... pos = 0.625 	neg = 0.25 
+19. The audience will ce                ... pos = 0.625 	neg = 0.125
+20. He's just a great ac                ... pos = 0.0   	neg = 0.0  
+21. Fonda, looking frump                ... pos = 0.0   	neg = 0.125
+22. She's the real brain                ... pos = 1.25  	neg = 0.5  
+23. She has a real prese                ... pos = 0.0   	neg = 0.0  
+24. The supporting cast                 ... pos = 0.625 	neg = 0.125
+25. Secondly, A Simple P                ... pos = 0.75  	neg = 0.0  
+26. Sadly, it has been u                ... pos = 1.75  	neg = 0.75 
+27. The script is a char                ... pos = 2.0   	neg = 0.125
+28. There's some great e                ... pos = 0.0   	neg = 0.375
+29. Unfortunately, the f                ... pos = 0.0   	neg = 1.125
+30. These moments are fe                ... pos = 0.75  	neg = 0    
+31. But there's one fina                ... pos = 0.5   	neg = 0.875
+32. Some of the murders                 ... pos = 0.25  	neg = 0.5  
+33. But, in all honesty,                ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2400-1213 is Positive        ... pos = 19.75 	neg = 15.375
+Overall score of document
+Total Pos = 19.75
+Total Neg = 15.375
+---------------------------------------------------------------------------

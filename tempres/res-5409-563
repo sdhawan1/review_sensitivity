@@ -1,0 +1,35 @@
+0. Starring Keanu Reeve                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. The Matrix                 ... pos = 1.5   	neg = 0.375
+2. It hails from the Br                 ... pos = 0.625 	neg = 0.125
+3. I will go into some                  ... pos = 0.375 	neg = 0.625
+4. The story involves a                 ... pos = 0.0   	neg = 0.0  
+5. Neo (Keanu Reeves) i                 ... pos = 0.125 	neg = 0.25 
+6. In the middle of the                 ... pos = 1.114 	neg = 0.0  
+7. But the AI soon gets                 ... pos = 0.0   	neg = 0.5  
+8. So the AI creates "T                 ... pos = 1.0   	neg = 0.5  
+9. But there is hope fo                 ... pos = 1.125 	neg = 0.375
+10. That person died not                ... pos = 0.375 	neg = 0.625
+11. Now Morpheus, and hi                ... pos = 0.25  	neg = 0.25 
+12. As layers of this de                ... pos = 2.125 	neg = 0.375
+13. The story seems rele                ... pos = 0.5   	neg = 0.125
+14. It makes sense becau                ... pos = 0.333 	neg = 0.0  
+15. It involves subject                 ... pos = 0.0   	neg = 0.0  
+16. The film's visuals a                ... pos = 1.25  	neg = 0    
+17. When Neo is "unplugg                ... pos = 0.25  	neg = 0.375
+18. Stellar cinematograp                ... pos = 1.125 	neg = 0.0  
+19. Most of the first ha                ... pos = 0.125 	neg = 0.125
+20. Brutal hand-to-hand                 ... pos = 0.0   	neg = 0.25 
+21. Part of the reason h                ... pos = 0.0   	neg = 0.125
+22. Neo is a role crafte                ... pos = 0.125 	neg = 0.125
+23. It is a non-demandin                ... pos = 1.25  	neg = 0.625
+24. Laurence Fishburne i                ... pos = 0.125 	neg = 0.25 
+25. I don't know when I'                ... pos = 0.5   	neg = 0.125
+26. When watching this m                ... pos = 0.0   	neg = 0.0  
+27. Everything from the                 ... pos = 0.0   	neg = 0.5  
+28. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-563 is Positive         ... pos = 14.197 	neg = 6.625
+Overall score of document
+Total Pos = 14.197
+Total Neg = 6.625
+---------------------------------------------------------------------------

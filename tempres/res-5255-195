@@ -1,0 +1,61 @@
+0. If TOMORROW NEVER DI                 ... pos = 0.125 	neg = 0.5  
+1. Obviously a bloody l                 ... pos = 0.0   	neg = 0.375
+2. Even though the firs                 ... pos = 0.625 	neg = 0.375
+3. Hell, James Bond sho                 ... pos = 0.0   	neg = 0.625
+4. He *should* be well                  ... pos = 1.0   	neg = 0.25 
+5. In this installment                  ... pos = 0.0   	neg = 0.125
+6. Carver owns a commun                 ... pos = 0.0   	neg = 0.125
+7. Carver's elaborate s                 ... pos = 0.5   	neg = 0.125
+8. Not only that, but j                 ... pos = 0.75  	neg = 0.625
+9. Ok, I lied about tha                 ... pos = 0.0   	neg = 0.125
+10. This whole scandal i                ... pos = 0.5   	neg = 0.75 
+11. It seems the Chinese                ... pos = 0.0   	neg = 0.125
+12. Devonshire to turn b                ... pos = 0.0   	neg = 0.125
+13. Convinced they were                 ... pos = 0.125 	neg = 0.125
+14. The Chinese think th                ... pos = 0.0   	neg = 0.0  
+15. The British think th                ... pos = 0.0   	neg = 0.0  
+16. Only we know that Ca                ... pos = 0.25  	neg = 0.125
+17. So why does anybody                 ... pos = 0.0   	neg = 0.0  
+18. Good question.                      ... pos = 0.75  	neg = 0    
+19. The answer lies in C                ... pos = 0.0   	neg = 0.125
+20. Could Carver have in                ... pos = 0.375 	neg = 0.0  
+21. And, as Carver himse                ... pos = 0.875 	neg = 0.125
+22. Naturally Bond sets                 ... pos = 0.875 	neg = 0.125
+23. That's right - it's                 ... pos = 0.125 	neg = 0    
+24. Wildly outrageous, t                ... pos = 0.125 	neg = 0.625
+25. That's all we expect                ... pos = 0.0   	neg = 0.125
+26. Bond is merely a tes                ... pos = 0.125 	neg = 0.125
+27. But it's also nothin                ... pos = 0.5   	neg = 0.5  
+28. What makes this one                 ... pos = 0.75  	neg = 0.375
+29. Michelle Yeoh makes                 ... pos = 0.0   	neg = 0.0  
+30. When they continuous                ... pos = 0.0   	neg = 0.0  
+31. Yeoh is impressive a                ... pos = 0.875 	neg = 0.125
+32. In fact, if this had                ... pos = 0.125 	neg = 0.75 
+33. Not with Yeoh.                      ... pos = 0.0   	neg = 0    
+34. She keeps things fre                ... pos = 1.0   	neg = 0    
+35. Teri Hatcher also ha                ... pos = 0.0   	neg = 0.0  
+36. Hatcher, who became                 ... pos = 0.0   	neg = 1.125
+37. Her lack of screen p                ... pos = 0.0   	neg = 0.5  
+38. She's in this a lot                 ... pos = 0.375 	neg = 0.5  
+39. In other words, if y                ... pos = 0.0   	neg = 0.125
+40. That's expensive oog                ... pos = 0     	neg = 0.0  
+41. Also known as "Bond                 ... pos = 0.875 	neg = 0.125
+42. How good of a job he                ... pos = 0.875 	neg = 0.375
+43. Seeing as how I didn                ... pos = 1.75  	neg = 0.25 
+44. The thing that Brosn                ... pos = 0.5   	neg = 0.25 
+45. Yes, he's debonair,                 ... pos = 1.0   	neg = 0.0  
+46. You can envision Con                ... pos = 0.5   	neg = 0.0  
+47. Brosnan, on the othe                ... pos = 0.125 	neg = 0.125
+48. Bond enthusiasts wil                ... pos = 0.75  	neg = 0.125
+49. If you're not overly                ... pos = 0.625 	neg = 0.75 
+50. It goes way overboar                ... pos = 1.0   	neg = 0.0  
+51. I guess the main pro                ... pos = 0.0   	neg = 0.375
+52. I actually found mys                ... pos = 0.0   	neg = 0.125
+53. My mind was wanderin                ... pos = 0.625 	neg = 0.75 
+54. It's not awful - it'                ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-5255-195 is Positive         ... pos = 19.375 	neg = 14.0 
+Overall score of document
+Total Pos = 19.375
+Total Neg = 14.0
+---------------------------------------------------------------------------

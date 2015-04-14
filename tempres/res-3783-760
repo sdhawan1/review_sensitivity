@@ -1,0 +1,43 @@
+0. Director: Woody Alle                 ... pos = 0.5   	neg = 1.0  
+1. I, myself, am one of                 ... pos = 0.0   	neg = 0.125
+2. I think he is intens                 ... pos = 0.0   	neg = 0.375
+3. I watch him jitter a                 ... pos = 0.625 	neg = 0.25 
+4. It doesn't take me l                 ... pos = 0.0   	neg = 0.375
+5. That's usually what                  ... pos = 0.0   	neg = 0.0  
+6. Maybe the character                  ... pos = 2.875 	neg = 0.0  
+7. Deconstructing Harry                 ... pos = 0.0   	neg = 0.875
+8. I, for one, do not--                 ... pos = 0.0   	neg = 0.125
+9. But I know that this                 ... pos = 0.625 	neg = 0.25 
+10. But like most of his                ... pos = 2.0   	neg = 0.125
+11. What this film seems                ... pos = 0.625 	neg = 0.917
+12. It's about Harry Blo                ... pos = 0.25  	neg = 0.25 
+13. He's just written a                 ... pos = 1.0   	neg = 0.0  
+14. He's never allowed t                ... pos = 0.5   	neg = 0.375
+15. On top of all this,                 ... pos = 0.25  	neg = 0.125
+16. The film is kind of                 ... pos = 0.875 	neg = 0.25 
+17. It leads to a situat                ... pos = 0.375 	neg = 0.0  
+18. Like all of Allen's                 ... pos = 0.0   	neg = 0.125
+19. It's nearly distract                ... pos = 0.0   	neg = 0.0  
+20. Most of the women tu                ... pos = 0.625 	neg = 0.0  
+21. If you're familiar w                ... pos = 0.0   	neg = 0.0  
+22. This one, however, s                ... pos = 0.25  	neg = 0.125
+23. Because of the natur                ... pos = 0.5   	neg = 0.125
+24. He remembers one of                 ... pos = 0.375 	neg = 0.0  
+25. Another story he rem                ... pos = 0.75  	neg = 0.75 
+26. Throughout the film,                ... pos = 0.625 	neg = 0.25 
+27. If my explanation of                ... pos = 0.5   	neg = 1.25 
+28. I didn't put the pie                ... pos = 0.375 	neg = 0.0  
+29. It's really not that                ... pos = 0.0   	neg = 0.75 
+30. The flashbacks sure                 ... pos = 0.5   	neg = 0.0  
+31. Towards the end, he                 ... pos = 0.875 	neg = 0.125
+32. I like the idea (loo                ... pos = 0.5   	neg = 0.375
+33. Ultimately, the film                ... pos = 0.5   	neg = 0.625
+34. Whether you love him                ... pos = 1.125 	neg = 0.125
+35. And if you know Alle                ... pos = 0.0   	neg = 0.0  
+36. As for me, it proved                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3783-760 is Positive         ... pos = 18.25 	neg = 10.167
+Overall score of document
+Total Pos = 18.25
+Total Neg = 10.167
+---------------------------------------------------------------------------

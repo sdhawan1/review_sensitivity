@@ -1,0 +1,44 @@
+0. Visit Online Film Cr                 ... pos = 0.125 	neg = 0.0  
+1. First, my family lik                 ... pos = 0.25  	neg = 0    
+2. My wife and kids and                 ... pos = 0.25  	neg = 0.375
+3. The computer-assists                 ... pos = 0.625 	neg = 0.0  
+4. Many of the characte                 ... pos = 1.875 	neg = 0.0  
+5. What's most exciting                 ... pos = 0.375 	neg = 0.125
+6. He zips and zooms, c                 ... pos = 0.25  	neg = 0.0  
+7. American amusement p                 ... pos = 0.375 	neg = 1.375
+8. Tarzan is always lik                 ... pos = 0.25  	neg = 0.125
+9. Edgar Rice Burroughs                 ... pos = 0.125 	neg = 0.0  
+10. We watch a  husband,                ... pos = 0.125 	neg = 0.0  
+11. They land on some pa                ... pos = 0.0   	neg = 0.0  
+12. Discovered by a comp                ... pos = 0.0   	neg = 0.0  
+13. Although the  silver                ... pos = 0.625 	neg = 0.625
+14. They are Tantor, don                ... pos = 0.75  	neg = 0.125
+15. Both  of these voice                ... pos = 1.25  	neg = 0.875
+16. Something else we lo                ... pos = 0.625 	neg = 0.125
+17. We are attracted to                 ... pos = 1.5   	neg = 0.5  
+18. Tarzan frequently fe                ... pos = 0.25  	neg = 0.125
+19. Of course the main c                ... pos = 0.0   	neg = 0.5  
+20. What's rather  predi                ... pos = 0.875 	neg = 0.5  
+21. Small moments make m                ... pos = 0.25  	neg = 0.0  
+22. Directors Chris Buck                ... pos = 0.0   	neg = 0.25 
+23. There's one scene in                ... pos = 0.5   	neg = 0.0  
+24. We watch as he picks                ... pos = 0.125 	neg = 0.0  
+25. It's foreign and uns                ... pos = 0.222 	neg = 0.0  
+26. Another moving scene                ... pos = 0.375 	neg = 0.25 
+27. These brief moments                 ... pos = 1.25  	neg = 0.0  
+28. As the voice of Tarz                ... pos = 0.125 	neg = 0    
+29. He's heroic without                 ... pos = 0.75  	neg = 0.625
+30. Minnie Driver is ver                ... pos = 0.625 	neg = 0.25 
+31. Finally, the voice o                ... pos = 0.75  	neg = 0.125
+32. It's a pleasure that                ... pos = 0.375 	neg = 0.375
+33. Another aspect of la                ... pos = 0.5   	neg = 0.375
+34. It's more believeabl                ... pos = 1.0   	neg = 0.375
+35. Only The Lion King u                ... pos = 0.125 	neg = 0.0  
+36. I find it  ironic, t                ... pos = 0.625 	neg = 0.0  
+37. I hope they keep doi                ... pos = 2.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1548-71 is Positive          ... pos = 20.972 	neg = 8.0  
+Overall score of document
+Total Pos = 20.972
+Total Neg = 8.0
+---------------------------------------------------------------------------

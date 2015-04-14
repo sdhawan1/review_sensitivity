@@ -1,0 +1,37 @@
+0. It wasn't all that l                 ... pos = 0.125 	neg = 0.625
+1. Those of us who were                 ... pos = 0.0   	neg = 0.125
+2. It was clear to me,                  ... pos = 0.0   	neg = 0.25 
+3. Fortunately, the cas                 ... pos = 0.625 	neg = 0.5  
+4. I mention this to sa                 ... pos = 0.0   	neg = 0.875
+5. I realize that.                      ... pos = 0.125 	neg = 0.0  
+6. But it doesn't take                  ... pos = 1.125 	neg = 0.125
+7. Lost in Space is not                 ... pos = 0.0   	neg = 0.625
+8. By casting the serio                 ... pos = 0.125 	neg = 0.0  
+9. Hurt is not the only                 ... pos = 0.75  	neg = 0.875
+10. I can see William Hu                ... pos = 0.25  	neg = 0.0  
+11. Unfortunately, that'                ... pos = 0.0   	neg = 1.0  
+12. This is a strictly f                ... pos = 0.625 	neg = 0.75 
+13. The movie is at its                 ... pos = 0.375 	neg = 1.0  
+14. Most of the performa                ... pos = 0.0   	neg = 0.375
+15. All these people are                ... pos = 0.75  	neg = 2.75 
+16. LeBlanc is a great d                ... pos = 0.375 	neg = 0.25 
+17. (The other two main                 ... pos = 2.25  	neg = 0.0  
+18. ). The problem with                 ... pos = 0.0   	neg = 0.5  
+19. The plot is simple e                ... pos = 0.75  	neg = 0.5  
+20. But apparently the s                ... pos = 1.75  	neg = 1.125
+21. There's entirely too                ... pos = 0.625 	neg = 0.875
+22. And the action and w                ... pos = 0.0   	neg = 0.5  
+23. The last thing we se                ... pos = 0.125 	neg = 1.5  
+24. "  Lost in Space wor                ... pos = 0.0   	neg = 0.0  
+25. I know it sounds wei                ... pos = 0.25  	neg = 0.875
+26. Lost in Space is Dum                ... pos = 0.0   	neg = 0.75 
+27. The Hollywood Stock                 ... pos = 0.0   	neg = 0.125
+28. No jury in the world                ... pos = 0.0   	neg = 0.25 
+29. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+30. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4624-1045 is Negative        ... pos = 11.0  	neg = 17.125
+Overall score of document
+Total Pos = 11.0
+Total Neg = 17.125
+---------------------------------------------------------------------------

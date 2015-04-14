@@ -1,0 +1,20 @@
+0. In one of the most h                 ... pos = 0.0   	neg = 0.125
+1. A disaster flick tha                 ... pos = 0.0   	neg = 1.125
+2. Not even  Bruce Will                 ... pos = 0.0   	neg = 0.375
+3. Following in the sup                 ... pos = 0.0   	neg = 0.0  
+4. The  film fails to m                 ... pos = 0.25  	neg = 1.0  
+5. Oops.                                ... pos = 0     	neg = 0    
+6. NASA couldn't see th                 ... pos = 0.0   	neg = 0.0  
+7. I guess when you are                 ... pos = 1.25  	neg = 0.125
+8. Willis plays Harry S                 ... pos = 0.375 	neg = 2.0  
+9. I have no  idea why                  ... pos = 0.25  	neg = 0.5  
+10. I guess it would see                ... pos = 1.125 	neg = 0.0  
+11. The DVD of the movie                ... pos = 0.0   	neg = 0.25 
+12. It contains a traile                ... pos = 0.75  	neg = 0.125
+13. The soundtrack is wi                ... pos = 1.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6217-1561 is Negative        ... pos = 5.0   	neg = 6.125
+Overall score of document
+Total Pos = 5.0
+Total Neg = 6.125
+---------------------------------------------------------------------------

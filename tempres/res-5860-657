@@ -1,0 +1,64 @@
+0. DIRECTED BY: James M                 ... pos = 0.625 	neg = 0.0  
+1. Runtime: USA:127. "W                 ... pos = 0.0   	neg = 0.125
+2. - Susanna, "GIRL, IN                 ... pos = 0.0   	neg = 0.125
+3. She is eighteen and                  ... pos = 0.875 	neg = 0.25 
+4. But there is somethi                 ... pos = 0.0   	neg = 0.125
+5. She has a gift.                      ... pos = 0.0   	neg = 0    
+6. She is the philosoph                 ... pos = 0.0   	neg = 0.125
+7. Her dream is writing                 ... pos = 0.875 	neg = 0.625
+8. But no one listens.                  ... pos = 0.0   	neg = 0.25 
+9. No body cares.                       ... pos = 0.0   	neg = 0.0  
+10. She is not like ever                ... pos = 0.0   	neg = 0.125
+11. And therefore she is                ... pos = 0.0   	neg = 0.5  
+12. Before long, she is                 ... pos = 1.0   	neg = 0.5  
+13. Here she meets peopl                ... pos = 0.875 	neg = 0.0  
+14. And though the perso                ... pos = 0.25  	neg = 0.5  
+15. There is Giorgina ()                ... pos = 0.25  	neg = 0.25 
+16. Trapped and helpless                ... pos = 0.0   	neg = 0.375
+17. What's really wrong                 ... pos = 0     	neg = 0.75 
+18. Is she really crazy?                ... pos = 0     	neg = 0.5  
+19. Is it the sixties?                  ... pos = 0.0   	neg = 0.125
+20. Or maybe she is just                ... pos = 0.0   	neg = 0.125
+21. Original?                           ... pos = 0.0   	neg = 0    
+22. No, but nevertheless                ... pos = 0.75  	neg = 0.25 
+23. The story is not str                ... pos = 0.0   	neg = 0.125
+24. It jumps back and fo                ... pos = 0.0   	neg = 0.0  
+25. Most of the time the                ... pos = 0.0   	neg = 0.0  
+26. It is a meditation o                ... pos = 0.125 	neg = 0.125
+27. It is a story about                 ... pos = 1.25  	neg = 0.125
+28. It is a fable about                 ... pos = 0.875 	neg = 0.25 
+29. The first half of th                ... pos = 0.75  	neg = 0.5  
+30. Another complementar                ... pos = 0.875 	neg = 0.25 
+31. Every character is a                ... pos = 1.25  	neg = 0.625
+32. The problems start e                ... pos = 0.75  	neg = 0.375
+33. And this is a disapp                ... pos = 0.0   	neg = 0.375
+34. All its mysteries ar                ... pos = 0.25  	neg = 0.0  
+35. No dark secrets rema                ... pos = 0.125 	neg = 0.25 
+36. Nothing is left to o                ... pos = 0.0   	neg = 0.375
+37. And what felt like a                ... pos = 0.375 	neg = 0.25 
+38. Acting is the only t                ... pos = 0.0   	neg = 0.125
+39. Wiona Ryder is impre                ... pos = 0.125 	neg = 0.125
+40. There are no flaws i                ... pos = 0.875 	neg = 0.25 
+41. But the real acting                 ... pos = 0.5   	neg = 0.0  
+42. She puts on a perfor                ... pos = 0.25  	neg = 0.0  
+43. But unlike Ryder, wh                ... pos = 0.375 	neg = 0.0  
+44. There is some origin                ... pos = 0.5   	neg = 0.75 
+45. The rest of the cast                ... pos = 0.125 	neg = 0.375
+46. The technical aspect                ... pos = 0.0   	neg = 0.903
+47. This is probably the                ... pos = 0.375 	neg = 0.125
+48. In the end the film                 ... pos = 0.0   	neg = 0.0  
+49. The frightening them                ... pos = 0.625 	neg = 0.125
+50. It is a cliché, and                ... pos = 1.0   	neg = 0.25 
+51. There is some kind o                ... pos = 0.0   	neg = 0.375
+52. And even when you kn                ... pos = 0.375 	neg = 0.0  
+53. I can't really expla                ... pos = 1.75  	neg = 0.75 
+54. Will it be remembere                ... pos = 0.25  	neg = 0.125
+55. No.                                 ... pos = 0     	neg = 0.25 
+56. It resembles the cou                ... pos = 0.125 	neg = 0.0  
+57. But for those who en                ... pos = 1.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5860-657 is Positive         ... pos = 20.5  	neg = 13.903
+Overall score of document
+Total Pos = 20.5
+Total Neg = 13.903
+---------------------------------------------------------------------------

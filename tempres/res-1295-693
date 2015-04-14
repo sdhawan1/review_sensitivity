@@ -1,0 +1,42 @@
+0. As of late, certain                  ... pos = 0.375 	neg = 0.125
+1. In The Sixth Sense,                  ... pos = 0.125 	neg = 0.125
+2. And earlier in the s                 ... pos = 0.0   	neg = 0.0  
+3. The Astronaut's Wife                 ... pos = 0.125 	neg = 0.125
+4. If writer/director R                 ... pos = 0.375 	neg = 0.375
+5. As this predictable                  ... pos = 0.5   	neg = 1.5  
+6. Ravich has been mode                 ... pos = 0.875 	neg = 0.625
+7. This leaves numerous                 ... pos = 0.75  	neg = 0.625
+8. The set-up is intere                 ... pos = 0.5   	neg = 1.375
+9. The story follows NA                 ... pos = 0.0   	neg = 0.125
+10. The assignment seems                ... pos = 0.625 	neg = 0.25 
+11. Worried wives Jillia                ... pos = 1.125 	neg = 0.0  
+12. But both are surpris                ... pos = 0.375 	neg = 0.25 
+13. When Jillian becomes                ... pos = 0.0   	neg = 0.25 
+14. What happened in tho                ... pos = 0.0   	neg = 0.0  
+15. Use your imagination                ... pos = 0.0   	neg = 0    
+16. The beautiful Charli                ... pos = 0.875 	neg = 0.5  
+17. This is only one of                 ... pos = 0.0   	neg = 0.125
+18. There is also a pinc                ... pos = 0.0   	neg = 0.125
+19. The best elements of                ... pos = 1.375 	neg = 0.125
+20. Unfortunately, The A                ... pos = 0.0   	neg = 1.0  
+21. Theron's character s                ... pos = 1.75  	neg = 0.0  
+22. Despite enormous pot                ... pos = 0.0   	neg = 0.125
+23. One would hope that                 ... pos = 1.0   	neg = 0.375
+24. His script and direc                ... pos = 0.375 	neg = 0.125
+25. In the title role, T                ... pos = 0.75  	neg = 0.0  
+26. Her emotional and me                ... pos = 1.5   	neg = 0.0  
+27. Johnny Depp, speakin                ... pos = 0.5   	neg = 0.375
+28. His delivery is high                ... pos = 0.75  	neg = 0.375
+29. The excellent Joe Mo                ... pos = 2.0   	neg = 0.75 
+30. And Clea DuVall (The                ... pos = 0.0   	neg = 0.0  
+31. The Astronaut's Wife                ... pos = 0.625 	neg = 0.125
+32. There's certainly ea                ... pos = 0.25  	neg = 0.0  
+33. While Ravich doesn't                ... pos = 0.25  	neg = 0.75 
+34. And who can blame th                ... pos = 0.375 	neg = 1.625
+35. We deserve more than                ... pos = 0.75  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1295-693 is Positive         ... pos = 18.875 	neg = 12.25
+Overall score of document
+Total Pos = 18.875
+Total Neg = 12.25
+---------------------------------------------------------------------------

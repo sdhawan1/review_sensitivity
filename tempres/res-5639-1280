@@ -1,0 +1,41 @@
+0. Starring Robert DeNi                 ... pos = 0.5   	neg = 0.0  
+1. And then when the co                 ... pos = 0.5   	neg = 0.875
+2. But then when "Analy                 ... pos = 0.5   	neg = 0.0  
+3. It got great reviews                 ... pos = 0.0   	neg = 0.0  
+4. Critics were proclai                 ... pos = 0.0   	neg = 0.125
+5. Well, with praise li                 ... pos = 1.125 	neg = 0.75 
+6. You know that expres                 ... pos = 0.0   	neg = 0.0  
+7. Well, turns out that                 ... pos = 0.5   	neg = 0.125
+8. "Analyze This" is sl                 ... pos = 0.0   	neg = 0.625
+9. Don't get me wrong,                  ... pos = 1.0   	neg = 1.0  
+10. I think the problem                 ... pos = 0.0   	neg = 0.375
+11. He plays his charact                ... pos = 0.875 	neg = 0.625
+12. If he had played the                ... pos = 1.5   	neg = 0.125
+13. As it is, though, he                ... pos = 0.875 	neg = 0.125
+14. This doesn't work.                  ... pos = 0.0   	neg = 0    
+15. It creates an uneven                ... pos = 0.875 	neg = 0.375
+16. And the movie is bad                ... pos = 0.0   	neg = 0.625
+17. It never takes off.                 ... pos = 0.0   	neg = 0.625
+18. It just crawls from                 ... pos = 0.0   	neg = 0.25 
+19. I think the blame fo                ... pos = 0.0   	neg = 0.125
+20. It's obvious the wri                ... pos = 0.75  	neg = 0.125
+21. The formula of the f                ... pos = 0.125 	neg = 0.75 
+22. This formula of sort                ... pos = 0.5   	neg = 0.375
+23. I've said it before                 ... pos = 0.125 	neg = 0.125
+24. If "Analyze This" ha                ... pos = 0     	neg = 1.375
+25. I would have been to                ... pos = 1.0   	neg = 0.375
+26. But as it is, I only                ... pos = 0.5   	neg = 0.125
+27. The only really funn                ... pos = 0.0   	neg = 0.125
+28. Sadly, though, I don                ... pos = 0.125 	neg = 0.875
+29. But my sense of humo                ... pos = 1.0   	neg = 0.125
+30. I loathed "There's S                ... pos = 0.75  	neg = 0.25 
+31. Now, if you want a m                ... pos = 0.0   	neg = 0.25 
+32. It's full of genuine                ... pos = 0.489 	neg = 0.0  
+33. --  David Nusair                    ... pos = 0.0   	neg = 0.625
+34. "         -R. Wiley                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5639-1280 is Positive        ... pos = 13.614 	neg = 12.25
+Overall score of document
+Total Pos = 13.614
+Total Neg = 12.25
+---------------------------------------------------------------------------

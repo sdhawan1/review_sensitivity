@@ -1,0 +1,30 @@
+I'm writing this as I'm waiting for Oracle to churn out a big new tablespace for the developers to do some testing in later this week.
+This exercise began, in 15-minute fits and starts and a spasm of e-mail, late last week, when the request came down the line, resurfacing Friday, when I got scheduled downtime to bounce the RDBMS early Saturday to twiddle a parameter set by the guys who set up this instance in the first place (two hours worth of Saturday morning twiddling, most of it spent waiting around for the OS to do a cold backup in case something disasterous happened), finally culminating in executing three glorious SQL commands this Monday morning.
+Yes, the new Mike Judge movie, "Office Space", struck a small cord in the stupidest of places, when Our Hero is watching his workstation get bogged down in I/O.
+Yes, it was a cliched scene, but I'm spending part of my recent time watching I/O happen.
+And I don't even have the benefit of a little spinning disk to tell me something is going on.
+It's an uneven movie, though.
+Though it's far, far better than the very disappointing Beavis and Butthead movie, "Office Space" is only about as good as a good "King of the Hill" episode.
+The best parts are the wonderful moments that show the little frustrations of post-industrial America.
+Some scenes of wish fulfillment were fantastic, most notably gutting the fish (if only he used a Leatherman) and an ultraviolent, gangsta video inspired beating.
+Their office bulding, by the way, looked eeriely like my company's Dallas office, which I recently had to visit: acres of parking lot surrounding a large flat building.
+The Dallas office, however, looks a bit more run down and dimly lit than the one in the movie, at least the area where the DBAs sat.
+[Ah, that bit of I/O just finished.
+Now to FTP (a continuation of I/O by an admixture of means) a bunch of export files...]. The film loses steam towards the end, or when it gets too involved with this Superman III-style plot hatched by Our Hero and his downsized coworkers.
+The writing's fine edge in depicting office life is lost when it tries to move a story, a not particularly interesting one at that.
+This scheme, unfortunately, takes up a good part of the second half of the movie.
+As noted, the film is inconsistent, a better rental than anything else.
+The film also dips a toe in the more blue-collar world of food service through Our Hero's love interest, a waitress played by Jennifer Aniston.
+No array of indignities confront the waitress, however, only the single indignity of having to wear "flair" to spice up a drab uniform: stupid little buttons, slogans and cheesy ties and LED-enhanced ribbons to be worn as an expression of institutional creativity.
+The web of small indignities from, say, the customers, is wholely absent: Judge apparently wants to focus on the absurdities that descent from the managers up on high like manna.
+Well, that, and office equipment.
+[Harpers Magazine a few issues ago had Barbara Ehrenreich pose as a waitress for a month in a variety of places, a sort of limosine liberal exercise in showing the inadequacy of minimal wage.
+If nothing else, that article suggests that Aniston's minimum of fifteen pieces of flair is the least of worries.
+]. [So, the FTP is done.
+Now, gzip -d.  Yes, I feel I'm being paid absurdly much for absurdly little.
+]. Our Hero, incidentally, finds joy at the end in manual labor.
+(Something I'm not unsymapthetic to, having noted that digging a ditch at least lives you with a ditch at the end of the day, instead of this abstraction running with the aid of metaphorical baling wire and duct tape on some computer I've never actually seen.
+But then, I've never dug a ditch, so I really shouldn't be glorifying the whole thing, given that I'd probably think ditch digging really, really sucks if I had to do it, despite my going to the gym nowadays.
+) I suppose Judge's final point is that there's dignity in labor or work, just that it's usually lost in the actions of petty managers, clueless consultants and absurd institutional rules.
+It's a new dialectic: the bosses and the bureaucracy are the new bourgeois, the owners of the mission statement and time card.
+The rest of us are the post-industrial proletariate, office workers and glorified burger flippers.. . 

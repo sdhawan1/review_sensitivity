@@ -1,0 +1,38 @@
+0. Julia Roberts has be                 ... pos = 1.125 	neg = 0.375
+1. She was cast in the                  ... pos = 1.125 	neg = 0.25 
+2. After Bride, I was b                 ... pos = 0.0   	neg = 0.25 
+3. It just seemed like                  ... pos = 0.25  	neg = 0.25 
+4. She has done a marve                 ... pos = 0.75  	neg = 0.25 
+5. While she still reta                 ... pos = 1.0   	neg = 0.125
+6. Erin Brockovich, (Ro                 ... pos = 0.0   	neg = 0.625
+7. When misfortune lead                 ... pos = 0.125 	neg = 0.625
+8. Ed Masry (an amazing                 ... pos = 0.0   	neg = 0.125
+9. Erin convinces him s                 ... pos = 1.0   	neg = 0.0  
+10. Soon after they hire                ... pos = 0.625 	neg = 0.375
+11. She investigates the                ... pos = 0.0   	neg = 0.25 
+12. People in the town a                ... pos = 0.875 	neg = 0.375
+13. For some reason, no                 ... pos = 0.0   	neg = 0.375
+14. They aren't wealthy                 ... pos = 0.125 	neg = 0.0  
+15. Erin discovers that                 ... pos = 0.625 	neg = 0.75 
+16. Due to her low knowl                ... pos = 0.875 	neg = 0.125
+17. Winning performances                ... pos = 0.25  	neg = 0.0  
+18. The two have dazzlin                ... pos = 0.5   	neg = 0.125
+19. The two make a great                ... pos = 0.0   	neg = 0.0  
+20. It's really fun to s                ... pos = 0.125 	neg = 0.0  
+21. Don't think this mov                ... pos = 0.0   	neg = 0.125
+22. It would be appropri                ... pos = 1.0   	neg = 0.125
+23. The scenes of Erin's                ... pos = 0.75  	neg = 0.0  
+24. The film doesn't get                ... pos = 0.875 	neg = 0.25 
+25. Director Steven Sode                ... pos = 1.75  	neg = 0.125
+26. A welcome addition t                ... pos = 1.125 	neg = 0.125
+27. Besides the heavy us                ... pos = 0.75  	neg = 0.125
+28. At times Erin's stri                ... pos = 1.25  	neg = 1.375
+29. The real Erin Brocko                ... pos = 0.0   	neg = 0.5  
+30. What fun, I can't wa                ... pos = 0.125 	neg = 0.0  
+31. And maybe if the mov                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2945-329 is Positive         ... pos = 17.0  	neg = 8.125
+Overall score of document
+Total Pos = 17.0
+Total Neg = 8.125
+---------------------------------------------------------------------------

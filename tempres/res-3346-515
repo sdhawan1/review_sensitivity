@@ -1,0 +1,52 @@
+0. Everyone Says I Love                 ... pos = 0.625 	neg = 0.0  
+1. Written and Directed                 ... pos = 0.0   	neg = 0    
+2. Running Time: 101 mi                 ... pos = 0     	neg = 0.0  
+3. You know, there's a                  ... pos = 0.0   	neg = 0.0  
+4. They don't work.                     ... pos = 0.0   	neg = 0    
+5. Anyone remember "New                 ... pos = 0.125 	neg = 0    
+6. Why Woody Allen has                  ... pos = 0.625 	neg = 0.625
+7. There really is no p                 ... pos = 0.0   	neg = 0.375
+8. Edward Norton (playi                 ... pos = 1.0   	neg = 0.375
+9. That's it.                           ... pos = 0.0   	neg = 0    
+10. To fill time, just a                ... pos = 0.0   	neg = 0.0  
+11. And I believe everyo                ... pos = 0.125 	neg = 0.125
+12. Usually I prefer Woo                ... pos = 0.875 	neg = 0.0  
+13. Not in this case how                ... pos = 1.0   	neg = 0.375
+14. His character's subp                ... pos = 0     	neg = 0.125
+15. How's this sound: Al                ... pos = 0.375 	neg = 0.0  
+16. One day, his daughte                ... pos = 0.0   	neg = 0.0  
+17. For no reason, she t                ... pos = 0.0   	neg = 0.25 
+18. Now, cut to Venice.                 ... pos = 0.0   	neg = 0.0  
+19. Allen has taken his                 ... pos = 0.0   	neg = 0.0  
+20. They are having dinn                ... pos = 0.25  	neg = 0.0  
+21. Allen's daughter the                ... pos = 0.0   	neg = 0.125
+22. Allen then tries to                 ... pos = 0.125 	neg = 0.5  
+23. What the...?                        ... pos = 0     	neg = 0    
+24. ) The thing is, the                 ... pos = 0.0   	neg = 0.125
+25. She was telling her                 ... pos = 0.0   	neg = 0.375
+26. Is that what you'd t                ... pos = 0.0   	neg = 0.125
+27. Your turn-ons and tu                ... pos = 0.0   	neg = 0.0  
+28. Between this contriv                ... pos = 1.125 	neg = 0.625
+29. I just don't like th                ... pos = 0.0   	neg = 0.0  
+30. Wouldn't it perplex                 ... pos = 0.0   	neg = 0.625
+31. At one point it seem                ... pos = 1.25  	neg = 0.875
+32. But just because it'                ... pos = 0.0   	neg = 0.0  
+33. There's no story to                 ... pos = 0.0   	neg = 0.25 
+34. Although, a dance nu                ... pos = 0.0   	neg = 0.625
+35. You will get to see                 ... pos = 0.125 	neg = 0.0  
+36. There's a few second                ... pos = 0.0   	neg = 0.0  
+37. There's almost a car                ... pos = 0.0   	neg = 0.0  
+38. There's computerized                ... pos = 0.0   	neg = 0.0  
+39. But there's no story                ... pos = 0     	neg = 0.25 
+40. And not to be crude,                ... pos = 0.0   	neg = 0.125
+41. Watch for the scene                 ... pos = 0.125 	neg = 0.0  
+42. It won't be hard to                 ... pos = 0.0   	neg = 1.125
+43. (The password is: ma                ... pos = 0     	neg = 0.0  
+44. [R]. Visit Chuck's M                ... pos = 0.125 	neg = 0.0  
+45. Movie news, film rel                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3346-515 is Negative         ... pos = 7.875 	neg = 8.0  
+Overall score of document
+Total Pos = 7.875
+Total Neg = 8.0
+---------------------------------------------------------------------------

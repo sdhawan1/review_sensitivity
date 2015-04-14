@@ -1,0 +1,26 @@
+0. Watching Robert Duva                 ... pos = 0.375 	neg = 0.125
+1. As the film progress                 ... pos = 1.375 	neg = 0.125
+2. To call this film an                 ... pos = 1.125 	neg = 0.125
+3. At the start of the                  ... pos = 0.125 	neg = 0.625
+4. Sonny may not be the                 ... pos = 0.125 	neg = 0.125
+5. He admits that he is                 ... pos = 0.625 	neg = 0.375
+6. His wife has had eno                 ... pos = 0.375 	neg = 0.0  
+7. Sonny gets a little                  ... pos = 0.0   	neg = 0.25 
+8. When Horace tried to                 ... pos = 0.0   	neg = 0.625
+9. Sonny, fearing legal                 ... pos = 0.125 	neg = 0    
+10. He meets a few peopl                ... pos = 0.0   	neg = 0    
+11. He knows, and the au                ... pos = 0.125 	neg = 0.375
+12. How he changes the l                ... pos = 0.75  	neg = 0.125
+13. This film is easily                 ... pos = 0.25  	neg = 0.125
+14. Robert Duvall's perf                ... pos = 0.375 	neg = 0.125
+15. The script it tight                 ... pos = 0.0   	neg = 0.125
+16. I really loved this                 ... pos = 1.5   	neg = 0.125
+17. The movie's emotiona                ... pos = 0.375 	neg = 0.5  
+18. This is a triumphant                ... pos = 2.625 	neg = 0.25 
+19. Go see it!. .                       ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5199-1529 is Positive        ... pos = 10.25 	neg = 4.125
+Overall score of document
+Total Pos = 10.25
+Total Neg = 4.125
+---------------------------------------------------------------------------

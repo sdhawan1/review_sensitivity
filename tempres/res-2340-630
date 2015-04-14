@@ -1,0 +1,36 @@
+0. When _Star Wars_ cam                 ... pos = 0.125 	neg = 0.0  
+1. When the Millenium F                 ... pos = 0.0   	neg = 0.0  
+2. When Han Solo goes l                 ... pos = 0.75  	neg = 0.625
+3. Cool.                                ... pos = 0     	neg = 0.0  
+4. _October Sky_ offers                 ... pos = 0.25  	neg = 0.0  
+5. Was it really only f                 ... pos = 0.0   	neg = 0.5  
+6. Have we become so te                 ... pos = 0.25  	neg = 0.25 
+7. It sounds hokey, but                 ... pos = 0.375 	neg = 0.0  
+8. Determined to make a                 ... pos = 0.75  	neg = 0.125
+9. It is films like thi                 ... pos = 0.0   	neg = 0.125
+10. When lovely teacher                 ... pos = 1.25  	neg = 0.125
+11. But the joy in a fil                ... pos = 0.5   	neg = 0.375
+12. For example, Homer i                ... pos = 0.75  	neg = 0.125
+13. If he has any streng                ... pos = 1.125 	neg = 0.125
+14. It means that he may                ... pos = 0.5   	neg = 0.0  
+15. It means that if his                ... pos = 0.5   	neg = 0.625
+16. Homer+s Dad is playe                ... pos = 0.0   	neg = 0.125
+17. Here he plays the an                ... pos = 1.75  	neg = 0.25 
+18. This is will be one                 ... pos = 1.0   	neg = 0.375
+19. He is his son+s last                ... pos = 0.375 	neg = 0.125
+20. But he truly loves h                ... pos = 1.5   	neg = 0.0  
+21. Through coal-mining.                ... pos = 0     	neg = 0.0  
+22. Because of his chara                ... pos = 0.875 	neg = 0.0  
+23. The revolution of mo                ... pos = 0.125 	neg = 0.0  
+24. We don+t understand                 ... pos = 0.75  	neg = 0.125
+25. The paradigm was shi                ... pos = 0.0   	neg = 0.125
+26. So _October Sky_, fa                ... pos = 1.0   	neg = 0.0  
+27. And this is the best                ... pos = 1.0   	neg = 0.125
+28. BTW, the final image                ... pos = 0.625 	neg = 0.25 
+29. Another commonplace                 ... pos = 1.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2340-630 is Positive         ... pos = 17.125 	neg = 4.875
+Overall score of document
+Total Pos = 17.125
+Total Neg = 4.875
+---------------------------------------------------------------------------

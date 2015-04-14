@@ -1,0 +1,27 @@
+0. Will Smith stars in                  ... pos = 0.125 	neg = 0.0  
+1. Smith is Robert Clay                 ... pos = 0.0   	neg = 0.125
+2. The murderer (Jon Vo                 ... pos = 0.125 	neg = 1.0  
+3. Helping him is 'Bril                 ... pos = 0.0   	neg = 0.125
+4. Enemy of the State p                 ... pos = 1.875 	neg = 0.75 
+5. While the direction                  ... pos = 2.125 	neg = 0.75 
+6. ) Still, director To                 ... pos = 1.875 	neg = 0.25 
+7. Hackman does a great                 ... pos = 0.875 	neg = 0.5  
+8. Jon Voight is a suit                 ... pos = 0.25  	neg = 1.125
+9. The story, by David                  ... pos = 0.75  	neg = 0.375
+10. It might take a lot                 ... pos = 0.5   	neg = 0.625
+11. It certainly won't w                ... pos = 0.875 	neg = 0.0  
+12. While no smart state                ... pos = 0.5   	neg = 0.375
+13. While Enemy of the S                ... pos = 1.25  	neg = 1.375
+14. The film looks like                 ... pos = 0.0   	neg = 0.375
+15. This movie could eas                ... pos = 0.375 	neg = 1.25 
+16. Still, the pumping m                ... pos = 0.125 	neg = 0.0  
+17. In the end, Enemy of                ... pos = 0.875 	neg = 1.125
+18. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+19. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+20. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5048-1213 is Positive        ... pos = 12.5  	neg = 10.125
+Overall score of document
+Total Pos = 12.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. Starring: Johnny Dep                 ... pos = 0.0   	neg = 0.0  
+1. Everyone is familiar                 ... pos = 0.0   	neg = 0.125
+2. You know that it's t                 ... pos = 0.0   	neg = 0.625
+3. But how much more of                 ... pos = 0.25  	neg = 0.0  
+4. Doubtlessly, you've                  ... pos = 1.0   	neg = 0.0  
+5. The tale begins with                 ... pos = 0.5   	neg = 0.25 
+6. In the next scene yo                 ... pos = 0.0   	neg = 0.5  
+7. There's the sudden s                 ... pos = 0.0   	neg = 0.5  
+8. A headless man is no                 ... pos = 0.0   	neg = 0.75 
+9. Is this the headless                 ... pos = 0     	neg = 0.75 
+10. No, it's the deed of                ... pos = 0     	neg = 0.875
+11. And how does Ichabod                ... pos = 0.0   	neg = 0.0  
+12. Well, he's a police                 ... pos = 0.5   	neg = 0.0  
+13. This drives his supe                ... pos = 0.75  	neg = 0.75 
+14. This is a very good                 ... pos = 1.25  	neg = 0.125
+15. In retrospect, you w                ... pos = 0.25  	neg = 0.125
+16. It really is a well-                ... pos = 0.0   	neg = 0.25 
+17. There are some unfor                ... pos = 0.375 	neg = 0.625
+18. This motion picture                 ... pos = 0.0   	neg = 0.125
+19. To see a real actor'                ... pos = 0.0   	neg = 0.0  
+20. I want to see it aga                ... pos = 0.0   	neg = 0.125
+21. I give it an A- for                 ... pos = 0.0   	neg = 0.0  
+22. It's not for them.                  ... pos = 0.0   	neg = 0    
+23. Heads will roll!. .                 ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6111-989 is Negative         ... pos = 5.0   	neg = 6.5  
+Overall score of document
+Total Pos = 5.0
+Total Neg = 6.5
+---------------------------------------------------------------------------

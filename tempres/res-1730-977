@@ -1,0 +1,29 @@
+0. Okay, I admit.                       ... pos = 0.0   	neg = 0.125
+1. I had high expectati                 ... pos = 0.0   	neg = 0.0  
+2. My friend Jody saw i                 ... pos = 1.125 	neg = 0.0  
+3. I was disappointed (                 ... pos = 0.625 	neg = 0.625
+4. I was only bored for                 ... pos = 0.0   	neg = 0.375
+5. Another problem I ha                 ... pos = 0.0   	neg = 0.5  
+6. Sure, he's rich, sua                 ... pos = 2.0   	neg = 0.0  
+7. Sure, there was fore                 ... pos = 0.5   	neg = 0.125
+8. But when I ask mysel                 ... pos = 0.0   	neg = 0.125
+9. Other than creative                  ... pos = 0.0   	neg = 0.0  
+10. I probably would hav                ... pos = 0.375 	neg = 0.0  
+11. I also how he could'                ... pos = 0.625 	neg = 0.25 
+12. I mean it's not like                ... pos = 0.0   	neg = 0.0  
+13. It didn't feel right                ... pos = 0.0   	neg = 0    
+14. Banning seemed just                 ... pos = 0.25  	neg = 1.125
+15. I suppose Russo's no                ... pos = 0.0   	neg = 0.125
+16. I didn't like it and                ... pos = 0.0   	neg = 0.0  
+17. However I did like h                ... pos = 0.25  	neg = 0.0  
+18. When Crown "returns"                ... pos = 0.75  	neg = 1.25 
+19. "The Thomas Crown Af                ... pos = 2.125 	neg = 0.125
+20. The scenery and cine                ... pos = 0.25  	neg = 0.125
+21. It's tempting to lab                ... pos = 0.125 	neg = 0.75 
+22. I'm just glad that o                ... pos = 1.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1730-977 is Positive         ... pos = 10.75 	neg = 5.625
+Overall score of document
+Total Pos = 10.75
+Total Neg = 5.625
+---------------------------------------------------------------------------

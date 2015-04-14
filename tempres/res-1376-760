@@ -1,0 +1,48 @@
+0. Austin Powers: The S                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution: New                 ... pos = 0.5   	neg = 0.75 
+2. I don't know much ab                 ... pos = 0.75  	neg = 0.125
+3. I'm glad to see that                 ... pos = 0.375 	neg = 0.25 
+4. I liked AP2, but not                 ... pos = 0.375 	neg = 0.0  
+5. My reasons for this                  ... pos = 0.75  	neg = 1.0  
+6. The story is goofy a                 ... pos = 0.0   	neg = 0.5  
+7. There are also some                  ... pos = 2.75  	neg = 0.125
+8. I recommend the film                 ... pos = 0.125 	neg = 0.0  
+9. However, I think I l                 ... pos = 0.125 	neg = 0.0  
+10. It has a kind of ins                ... pos = 0.375 	neg = 0.0  
+11. Myers also does the                 ... pos = 0.0   	neg = 0.0  
+12. Evil what seems like                ... pos = 0.0   	neg = 0.875
+13. (That also makes me                 ... pos = 0.0   	neg = 0.5  
+14. )  The basic structu                ... pos = 0.0   	neg = 0.0  
+15. Evil -- he goes back                ... pos = 0.125 	neg = 0.75 
+16. After drinking the m                ... pos = 0.125 	neg = 0.0  
+17. Evil becomes much mo                ... pos = 0.125 	neg = 0.75 
+18. Austin, meanwhile, w                ... pos = 1.625 	neg = 0.125
+19. Little does he know                 ... pos = 0.0   	neg = 0.25 
+20. Evil has new evil co                ... pos = 0.375 	neg = 1.5  
+21. Evil, one-eighth his                ... pos = 0.0   	neg = 0.75 
+22. AP2 is a rare exampl                ... pos = 0.25  	neg = 0.125
+23. Just before things g                ... pos = 0.25  	neg = 0.125
+24. The best subplot is                 ... pos = 0.625 	neg = 0.125
+25. Evil and Mini-Me; Tr                ... pos = 0.75  	neg = 1.125
+26. Evil's love for his                 ... pos = 0.75  	neg = 0.75 
+27. This also adds a new                ... pos = 1.0   	neg = 0.0  
+28. Evil's biological so                ... pos = 0.0   	neg = 0.75 
+29. Green is a very funn                ... pos = 0.75  	neg = 0.25 
+30. Mindy Sterling, repr                ... pos = 0.125 	neg = 0.5  
+31. And Rob Lowe does a                 ... pos = 0.25  	neg = 0    
+32. There's no doubt tha                ... pos = 0.875 	neg = 0.25 
+33. The two best sequenc                ... pos = 0.375 	neg = 0.125
+34. Evil's phallic space                ... pos = 0.5   	neg = 0.625
+35. And Myers' love for                 ... pos = 1.5   	neg = 0.75 
+36. But some scenes go w                ... pos = 0.375 	neg = 0.875
+37. I had the distinct s                ... pos = 0.875 	neg = 0.25 
+38. I can't say I blame                 ... pos = 0.0   	neg = 1.625
+39. But it lacks the dis                ... pos = 1.0   	neg = 0.75 
+40. Don't get me wrong:                 ... pos = 0.0   	neg = 0.0  
+41. And, seeing as how a                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1376-760 is Positive         ... pos = 19.25 	neg = 17.375
+Overall score of document
+Total Pos = 19.25
+Total Neg = 17.375
+---------------------------------------------------------------------------

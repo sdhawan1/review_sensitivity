@@ -1,0 +1,44 @@
+0. The ability to suspe                 ... pos = 1.0   	neg = 0.125
+1. However, due to the                  ... pos = 1.375 	neg = 0.0  
+2. The biggest complain                 ... pos = 0.0   	neg = 0.25 
+3. I'm sorry, but I per                 ... pos = 1.0   	neg = 1.25 
+4. Twenty years ago, a                  ... pos = 0.0   	neg = 1.625
+5. Now, young Christine                 ... pos = 0.875 	neg = 1.5  
+6. Drawn into the confl                 ... pos = 0.25  	neg = 0.625
+7. As Cane is drawn dee                 ... pos = 0.875 	neg = 0.25 
+8. If you don't like Ar                 ... pos = 0.75  	neg = 0.0  
+9. If this somehow hasn                 ... pos = 0.5   	neg = 0.125
+10. Being a typical film                ... pos = 0.75  	neg = 0.25 
+11. There are more plot                 ... pos = 0.25  	neg = 0.25 
+12. This movie isn't abo                ... pos = 0.0   	neg = 0.0  
+13. It's about fight sce                ... pos = 0.0   	neg = 0.25 
+14. These are certainly                 ... pos = 0.5   	neg = 0    
+15. On the down side, th                ... pos = 0.375 	neg = 0.125
+16. As all know, Arnold                 ... pos = 0.0   	neg = 0.0  
+17. However, he is chari                ... pos = 0.625 	neg = 0.125
+18. Robin Tunney, on the                ... pos = 0.875 	neg = 0.125
+19. Not only is she laug                ... pos = 0.125 	neg = 1.5  
+20. As for the rest of t                ... pos = 1.25  	neg = 1.25 
+21. The real standout pe                ... pos = 0.0   	neg = 0.125
+22. Byrne simply oozes c                ... pos = 0.0   	neg = 0.0  
+23. Watch for a scene in                ... pos = 0.125 	neg = 0.0  
+24. "End of Days" is min                ... pos = 0.125 	neg = 0.375
+25. It doesn't quite mak                ... pos = 0.75  	neg = 0.5  
+26. Some of the scenes w                ... pos = 0.375 	neg = 0.25 
+27. If you think you can                ... pos = 0.375 	neg = 0.375
+28. "End of Days" runs a                ... pos = 0.0   	neg = 0.625
+29. I give it three and                 ... pos = 0.125 	neg = 0.0  
+30. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+31. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+32. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+33. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+34. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+35. See it if you've got                ... pos = 0.0   	neg = 0.25 
+36. * - One of the worst                ... pos = 0.0   	neg = 0.375
+37. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6107-535 is Positive         ... pos = 14.5  	neg = 13.625
+Overall score of document
+Total Pos = 14.5
+Total Neg = 13.625
+---------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+0. Release Date: Februa                 ... pos = 1.0   	neg = 0.125
+1. Fathers and sons in                  ... pos = 0.375 	neg = 0.0  
+2. Some sons aspire to                  ... pos = 0.125 	neg = 0.25 
+3. In the case of Wade                  ... pos = 1.75  	neg = 0.125
+4. Wade, a character es                 ... pos = 0.875 	neg = 0.625
+5. His wife (Mary Beth                  ... pos = 0.375 	neg = 0.75 
+6. His life is plagued                  ... pos = 0.375 	neg = 1.5  
+7. His father (James Co                 ... pos = 0.0   	neg = 0.75 
+8. Yet the tensions bet                 ... pos = 1.5   	neg = 0    
+9. Nolte and Coburn rea                 ... pos = 2.25  	neg = 0.125
+10. Nolte, in particular                ... pos = 0.875 	neg = 0.625
+11. Some of the risks th                ... pos = 0.0   	neg = 0.625
+12. For instance, center                ... pos = 1.875 	neg = 0.625
+13. Deviating from the c                ... pos = 0.375 	neg = 0.0  
+14. Using a particular d                ... pos = 0.125 	neg = 0.0  
+15. Also, the script suf                ... pos = 2.75  	neg = 0.0  
+16. In all, AFFLICTION i                ... pos = 1.0   	neg = 0.875
+17. It has a very realis                ... pos = 1.5   	neg = 0.125
+18. And the atmosphere b                ... pos = 0.0   	neg = 0.25 
+19. This is a different                 ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3695-700 is Positive         ... pos = 18.375 	neg = 7.5  
+Overall score of document
+Total Pos = 18.375
+Total Neg = 7.5
+---------------------------------------------------------------------------

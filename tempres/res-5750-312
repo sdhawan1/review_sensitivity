@@ -1,0 +1,30 @@
+0. What happens to the                  ... pos = 0.125 	neg = 0.0  
+1. In the case of the t                 ... pos = 0.5   	neg = 0.5  
+2. Tim Allen plays the                  ... pos = 0.0   	neg = 0.0  
+3. Now a boozy has-been                 ... pos = 0.875 	neg = 0.5  
+4. Sigourney Weaver was                 ... pos = 0.5   	neg = 0.375
+5. Alan Rickman plays a                 ... pos = 0.0   	neg = 0.375
+6. But things are about                 ... pos = 0.25  	neg = 0.0  
+7. Transmissions of the                 ... pos = 0.875 	neg = 0.375
+8. As if the Thermians                  ... pos = 0.739 	neg = 0.875
+9. Oops.                                ... pos = 0     	neg = 0    
+10. Obviously a race lac                ... pos = 0.625 	neg = 0.0  
+11. Spoof science fictio                ... pos = 0.625 	neg = 1.0  
+12. (Spaceballs.                        ... pos = 0     	neg = 0    
+13. I rest my case.                     ... pos = 0     	neg = 0.0  
+14. ) In fact, good scie                ... pos = 2.0   	neg = 0.0  
+15. The sci-fi porn epic                ... pos = 0.0   	neg = 0.25 
+16. Although Galaxy Ques                ... pos = 1.125 	neg = 0.5  
+17. And the fans, who co                ... pos = 1.375 	neg = 0.375
+18. The lead performance                ... pos = 0.875 	neg = 0.0  
+19. Sam Rockwell plays "                ... pos = 2.125 	neg = 0.125
+20. The most memorable t                ... pos = 1.25  	neg = 0.375
+21. Dean Parisot's direc                ... pos = 1.5   	neg = 0.625
+22. Although Galaxy Ques                ... pos = 2.875 	neg = 0.375
+23. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5750-312 is Positive         ... pos = 19.239 	neg = 6.625
+Overall score of document
+Total Pos = 19.239
+Total Neg = 6.625
+---------------------------------------------------------------------------

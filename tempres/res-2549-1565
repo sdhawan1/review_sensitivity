@@ -1,0 +1,50 @@
+0. The Green Mile (1999                 ... pos = 1.75  	neg = 0.5  
+1. Awesome.                             ... pos = 0.875 	neg = 0    
+2. Wonderful.                           ... pos = 0.75  	neg = 0    
+3. Excellent.                           ... pos = 1.0   	neg = 0    
+4. Speechless.                          ... pos = 0     	neg = 0.625
+5. The Story (WARNING:                  ... pos = 0.75  	neg = 0.875
+6. In Louisana's Cold M                 ... pos = 1.25  	neg = 0.25 
+7. Inmates Eduard "Del"                 ... pos = 1.0   	neg = 0.5  
+8. Edgecomb and his cre                 ... pos = 2.125 	neg = 1.625
+9. Armed with the  know                 ... pos = 0.375 	neg = 0.125
+10. And came out awed.                  ... pos = 0.125 	neg = 0.0  
+11. Reminiscent of King'                ... pos = 0.0   	neg = 0.0  
+12. The protagonists  in                ... pos = 1.0   	neg = 0.5  
+13. (As an aside, I had                 ... pos = 0.5   	neg = 1.25 
+14. The performances wer                ... pos = 0.0   	neg = 0.5  
+15. Of the three leads t                ... pos = 1.5   	neg = 1.125
+16. ); Hutchison made me                ... pos = 0.5   	neg = 0.625
+17. But the "secondary"                 ... pos = 1.0   	neg = 0.0  
+18. As I said in my  rev                ... pos = 0.875 	neg = 0.625
+19. DeMunn and  Pepper b                ... pos = 3.125 	neg = 0.625
+20. Michael  Jeter, as c                ... pos = 0.625 	neg = 1.403
+21. Whoever came up with                ... pos = 0.0   	neg = 0.375
+22. As Jan Edgecomb, Bon                ... pos = 2.0   	neg = 0.375
+23. Besides the creepine                ... pos = 0.875 	neg = 0.125
+24. And though he was in                ... pos = 0.0   	neg = 0.625
+25. ) Burt Hammersmith,                 ... pos = 0.0   	neg = 0.75 
+26. All that said, I'm g                ... pos = 0.375 	neg = 0.125
+27. Length aside, "Mile"                ... pos = 0.25  	neg = 0.25 
+28. Building on to this,                ... pos = 0.375 	neg = 0.5  
+29. It's  too bad that t                ... pos = 0.0   	neg = 1.5  
+30. But that was a minor                ... pos = 0.0   	neg = 0.125
+31. So  fine that, if I                 ... pos = 0.0   	neg = 0.0  
+32. Can't think of a bet                ... pos = 0.0   	neg = 0.0  
+33. The "Black Factor" [                ... pos = 2.0   	neg = 0.75 
+34. Coffey's humbleness                 ... pos = 0.375 	neg = 0.25 
+35. Good  for him, I say                ... pos = 0.75  	neg = 0.0  
+36. Further, the idea th                ... pos = 1.25  	neg = 2.417
+37. So to those who saw                 ... pos = 1.75  	neg = 0.375
+38. And to those who hav                ... pos = 0.25  	neg = 0.125
+39. Bammer's Bottom Line                ... pos = 1.125 	neg = 0.375
+40. 'Mile' is excellent,                ... pos = 3.375 	neg = 1.125
+41. ". I couldn't have s                ... pos = 0.0   	neg = 0.0  
+42. "The Green Mile" (ra                ... pos = 0.5   	neg = 0    
+43. Seems apropos, no?.                 ... pos = 0     	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-2549-1565 is Positive        ... pos = 34.375 	neg = 21.82
+Overall score of document
+Total Pos = 34.375
+Total Neg = 21.82
+---------------------------------------------------------------------------

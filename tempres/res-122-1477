@@ -1,0 +1,67 @@
+0. Year: 1999.                          ... pos = 0     	neg = 0    
+1. Starring Ben Affleck                 ... pos = 0.125 	neg = 0.0  
+2. Written by Kevin Smi                 ... pos = 0.0   	neg = 0    
+3. Directed by Kevin Sm                 ... pos = 0.0   	neg = 0    
+4. Rated R.. Kevin Smit                 ... pos = 0.125 	neg = 0.125
+5. This film is, for th                 ... pos = 0.5   	neg = 0.125
+6. It's clever and funn                 ... pos = 1.0   	neg = 0.0  
+7. Rather than being a                  ... pos = 1.25  	neg = 0.125
+8. It's not perfect, an                 ... pos = 0.75  	neg = 0.5  
+9. "Dogma" is humorous                  ... pos = 1.625 	neg = 0.25 
+10. Ben Affleck and Matt                ... pos = 0.25  	neg = 0.5  
+11. Because of a doctrin                ... pos = 0.625 	neg = 0.125
+12. Unfortunately, since                ... pos = 0.5   	neg = 0.875
+13. To stop Bart and Lar                ... pos = 0.25  	neg = 0.0  
+14. Along to help her ar                ... pos = 1.25  	neg = 0.375
+15. Further complicating                ... pos = 2.25  	neg = 0.75 
+16. Kevin Smith's best t                ... pos = 0.375 	neg = 0.125
+17. In "Dogma," his four                ... pos = 0.0   	neg = 0.0  
+18. He has begun making                 ... pos = 0.0   	neg = 0.0  
+19. Smith has always bee                ... pos = 1.125 	neg = 0.75 
+20. As always, when he c                ... pos = 0.5   	neg = 0.0  
+21. His script is a litt                ... pos = 0.125 	neg = 0.625
+22. Smith does a good jo                ... pos = 0.75  	neg = 0.0  
+23. There are several pr                ... pos = 0.75  	neg = 0.125
+24. " program, in which                 ... pos = 0.875 	neg = 0.5  
+25. " Smith's idea of a                 ... pos = 0.25  	neg = 0.125
+26. Chris Rock has some                 ... pos = 0.75  	neg = 0.125
+27. Some other inspired                 ... pos = 0.25  	neg = 0.25 
+28. Smith has a fine pop                ... pos = 0.25  	neg = 0.0  
+29. " Most of them work.                ... pos = 0.0   	neg = 0    
+30. The performances in                 ... pos = 0.25  	neg = 0    
+31. Matt Damon and Ben A                ... pos = 0.625 	neg = 0.0  
+32. " Linda Fiorentino i                ... pos = 0.875 	neg = 0.25 
+33. Her one "big" emotio                ... pos = 0.375 	neg = 0.625
+34. " Chris Rock and Ala                ... pos = 0.75  	neg = 0.0  
+35. Jason Lee (who seems                ... pos = 0.625 	neg = 1.375
+36. Salma Hayek has yet                 ... pos = 0.625 	neg = 0.125
+37. Jay and Silent Bob,                 ... pos = 1.75  	neg = 0.25 
+38. Jay's stoner quips a                ... pos = 1.875 	neg = 0.125
+39. Where "Dogma" really                ... pos = 0.0   	neg = 0.375
+40. Smith may be profici                ... pos = 1.875 	neg = 0.125
+41. One of the reasons I                ... pos = 0.75  	neg = 0.625
+42. Here, he's got an ac                ... pos = 0.0   	neg = 0.25 
+43. Very often, the stor                ... pos = 0.5   	neg = 0.875
+44. What "Dogma" needed                 ... pos = 0.0   	neg = 0.25 
+45. Unfortunately, we ge                ... pos = 1.0   	neg = 3.25 
+46. This is a clear exam                ... pos = 0.875 	neg = 0.625
+47. I don't know why he                 ... pos = 0.0   	neg = 0.0  
+48. Smith needs to learn                ... pos = 0.125 	neg = 0.25 
+49. I do give him credit                ... pos = 0.375 	neg = 0.0  
+50. He definitely didn't                ... pos = 0.5   	neg = 0.625
+51. If he keeps on track                ... pos = 1.0   	neg = 0.0  
+52. "Dogma" is far from                 ... pos = 0.375 	neg = 0.125
+53. (Note to Smith devot                ... pos = 0.0   	neg = 0.875
+54. ) Smith is a filmmak                ... pos = 0.5   	neg = 0.125
+55. His discussion of Ca                ... pos = 1.625 	neg = 0.125
+56. Smith is a writer an                ... pos = 0.25  	neg = 0.375
+57. He has the pop-cultu                ... pos = 0.375 	neg = 0.0  
+58. If he keeps this up,                ... pos = 0.625 	neg = 0.0  
+59. "Dogma" is merely a                 ... pos = 0.75  	neg = 0.125
+60. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-1477 is Positive         ... pos = 35.75 	neg = 18.125
+Overall score of document
+Total Pos = 35.75
+Total Neg = 18.125
+---------------------------------------------------------------------------

@@ -1,0 +1,50 @@
+0. Visit Online Film Cr                 ... pos = 0.5   	neg = 0.125
+1. Based on the book "T                 ... pos = 0.875 	neg = 0.0  
+2. Bird's vision gives                  ... pos = 0.25  	neg = 0.0  
+3. The opening shot sho                 ... pos = 0.0   	neg = 0.75 
+4. "  The animation sty                 ... pos = 0.875 	neg = 0.0  
+5. When Hogarth's newly                 ... pos = 0.0   	neg = 0.125
+6. Dean is a starving                   ... pos = 0.0   	neg = 0.125
+7. (As in many works of                 ... pos = 0.375 	neg = 0.25 
+8. Was  he lost in Kore                 ... pos = 0.25  	neg = 0.125
+9. ). A lot is made of                  ... pos = 0.125 	neg = 0.125
+10. One of Hogarth's com                ... pos = 1.0   	neg = 0.125
+11. What  sparks concern                ... pos = 0.0   	neg = 0.375
+12. Something is taking                 ... pos = 0.125 	neg = 0.625
+13. At a power station i                ... pos = 0.0   	neg = 0.0  
+14. The giant suddenly                  ... pos = 0.0   	neg = 0.375
+15. Frightenend, Hogarth                ... pos = 0.125 	neg = 1.0  
+16. Later  Hogarth disco                ... pos = 0.75  	neg = 0.25 
+17. Because the giant ne                ... pos = 0.875 	neg = 0.125
+18. Bird does a wonderfu                ... pos = 1.75  	neg = 0    
+19. But Agent Mansley ha                ... pos = 0.0   	neg = 0.625
+20. He will get informat                ... pos = 0.5   	neg = 0.125
+21. The remainder of the                ... pos = 0.0   	neg = 0.0  
+22. The innocent and mis                ... pos = 0.125 	neg = 0.125
+23. Fortunately, "The Ir                ... pos = 1.125 	neg = 0.25 
+24. We witness some wond                ... pos = 0.25  	neg = 0.5  
+25. The giant is mimetic                ... pos = 0.0   	neg = 0.25 
+26. Some of the most cap                ... pos = 1.375 	neg = 0.125
+27. Dean has him hanging                ... pos = 0.25  	neg = 0.0  
+28. The  humanity evince                ... pos = 0.5   	neg = 0.125
+29. Further, just his ap                ... pos = 0.375 	neg = 0.125
+30. Fifty feet tall, eye                ... pos = 1.125 	neg = 0.0  
+31. His voice is supplie                ... pos = 0.0   	neg = 0.875
+32. Another feature that                ... pos = 0.75  	neg = 0.875
+33. Even better is his a                ... pos = 0.5   	neg = 0.5  
+34. An important dimensi                ... pos = 0.875 	neg = 0.125
+35. Because Hogarth  is                 ... pos = 0.125 	neg = 0.125
+36. "Souls never die" an                ... pos = 0.75  	neg = 0.25 
+37. What leads to the cl                ... pos = 0.875 	neg = 0.25 
+38. The script could do                 ... pos = 0.0   	neg = 0.875
+39. Although there is so                ... pos = 0.125 	neg = 0.375
+40. A viewer should not                 ... pos = 0.25  	neg = 0.0  
+41. And the direction co                ... pos = 1.25  	neg = 0    
+42. Our whole family att                ... pos = 0.25  	neg = 0.125
+43. I would recommend "T                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1126-71 is Positive          ... pos = 19.25 	neg = 11.125
+Overall score of document
+Total Pos = 19.25
+Total Neg = 11.125
+---------------------------------------------------------------------------

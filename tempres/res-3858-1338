@@ -1,0 +1,19 @@
+0. I hate films in whic                 ... pos = 0.875 	neg = 0.375
+1. That is one thing th                 ... pos = 0.0   	neg = 0.375
+2. Morgan Freeman is ch                 ... pos = 0.0   	neg = 0.75 
+3. Ashley Judd is the a                 ... pos = 0.0   	neg = 0.125
+4. Her escape is one of                 ... pos = 0.5   	neg = 0.25 
+5. By the end of the ch                 ... pos = 0.75  	neg = 0.5  
+6. She convinces Freema                 ... pos = 0.125 	neg = 0    
+7. ) and the film begin                 ... pos = 0.0   	neg = 0.375
+8. Too bad.                             ... pos = 0     	neg = 1.125
+9. Individual scenes ar                 ... pos = 2.125 	neg = 0.0  
+10. And the Acting is fi                ... pos = 2.0   	neg = 0.375
+11. Gary Fleder, directo                ... pos = 0.0   	neg = 0.0  
+12. Unfortunatly the fil                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3858-1338 is Positive        ... pos = 6.375 	neg = 4.25 
+Overall score of document
+Total Pos = 6.375
+Total Neg = 4.25
+---------------------------------------------------------------------------

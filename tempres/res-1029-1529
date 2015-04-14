@@ -1,0 +1,23 @@
+0. It's rather strange                  ... pos = 1.0   	neg = 0.375
+1. While A Bugs Life is                 ... pos = 0.0   	neg = 0.125
+2. A Bug's Life centers                 ... pos = 0.25  	neg = 0.0  
+3. Flik, cutely voiced                  ... pos = 0.75  	neg = 0.875
+4. When one of his inve                 ... pos = 0.0   	neg = 0.625
+5. The offering is food                 ... pos = 0.0   	neg = 0.375
+6. The leader of the gr                 ... pos = 0.25  	neg = 0.25 
+7. When the offering is                 ... pos = 0.5   	neg = 0.5  
+8. When the leaders of                  ... pos = 1.75  	neg = 0.125
+9. Flik's mission is to                 ... pos = 0.0   	neg = 1.25 
+10. Instead Flik acciden                ... pos = 0.5   	neg = 0.0  
+11. When he returns with                ... pos = 0.75  	neg = 0.375
+12. A Bug's Life has ani                ... pos = 0.0   	neg = 0.125
+13. The sheer uniqueness                ... pos = 1.5   	neg = 0.125
+14. Together with the gr                ... pos = 0.375 	neg = 0.125
+15. Its main weakness is                ... pos = 0.125 	neg = 0.125
+16. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-1529 is Positive        ... pos = 7.75  	neg = 5.375
+Overall score of document
+Total Pos = 7.75
+Total Neg = 5.375
+---------------------------------------------------------------------------

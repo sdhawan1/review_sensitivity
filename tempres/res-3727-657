@@ -1,0 +1,33 @@
+0. DIRECTED BY: John Si                 ... pos = 3.0   	neg = 0.0  
+1. What's most importan                 ... pos = 2.5   	neg = 0.375
+2. For those of you who                 ... pos = 0.75  	neg = 0.375
+3. One night outside of                 ... pos = 0.875 	neg = 0.0  
+4. There is one witness                 ... pos = 0.0   	neg = 0.125
+5. Shaft makes the arre                 ... pos = 0.0   	neg = 0.125
+6. It doesn't take long                 ... pos = 0.0   	neg = 0.375
+7. Two years later, whe                 ... pos = 0.0   	neg = 0.625
+8. Meanwhile, the detec                 ... pos = 0.0   	neg = 0.125
+9. Wade and Peoples mee                 ... pos = 0.0   	neg = 0.0  
+10. What is true is that                ... pos = 1.375 	neg = 0.625
+11. Of course director J                ... pos = 0.125 	neg = 1.375
+12. Most importantly, ho                ... pos = 0.125 	neg = 0.0  
+13. Though the action se                ... pos = 0.375 	neg = 0.375
+14. What is truly amazin                ... pos = 0.75  	neg = 0.25 
+15. Unlike Wesley Snipes                ... pos = 0.875 	neg = 0.125
+16. Basically carrying t                ... pos = 0.375 	neg = 0.125
+17. However, the support                ... pos = 0.5   	neg = 0.125
+18. Christian Bale puts                 ... pos = 0.125 	neg = 0.125
+19. Still not quite fini                ... pos = 0.5   	neg = 0.625
+20. The third and probab                ... pos = 0.0   	neg = 0.25 
+21. What happens is that                ... pos = 0.0   	neg = 0.125
+22. Shaft pushes our but                ... pos = 0.25  	neg = 0.25 
+23. Whatever the reason,                ... pos = 0.5   	neg = 0.125
+24. Succeeding basically                ... pos = 0.625 	neg = 1.0  
+25. This results in that                ... pos = 0.625 	neg = 0.25 
+26. Though Entertainment                ... pos = 0.5   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-3727-657 is Positive         ... pos = 14.75 	neg = 8.625
+Overall score of document
+Total Pos = 14.75
+Total Neg = 8.625
+---------------------------------------------------------------------------

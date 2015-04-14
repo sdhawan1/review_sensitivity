@@ -1,0 +1,54 @@
+0. They didn't have a l                 ... pos = 0.0   	neg = 0.375
+1. It was the scene whe                 ... pos = 0.875 	neg = 0.25 
+2. I envision Gerard pu                 ... pos = 0.0   	neg = 0.0  
+3. ". The way this movi                 ... pos = 0.0   	neg = 0.25 
+4. Samuel L. Jackson as                 ... pos = 0.0   	neg = 0.25 
+5. It all looked so pro                 ... pos = 0.0   	neg = 0.0  
+6. And throw in a bit o                 ... pos = 1.625 	neg = 1.375
+7. What a shame that Th                 ... pos = 0.0   	neg = 0.875
+8. The premise of the m                 ... pos = 0.0   	neg = 0.125
+9. Jackson, wrongfully                  ... pos = 0.5   	neg = 0.0  
+10. He calls on Spacey t                ... pos = 1.125 	neg = 0.25 
+11. So, this ought to be                ... pos = 0.125 	neg = 0.125
+12. Right?                              ... pos = 0.0   	neg = 0    
+13. The Negotiator would                ... pos = 2.0   	neg = 0.125
+14. You can make a good                 ... pos = 1.5   	neg = 1.375
+15. And especially here,                ... pos = 0.125 	neg = 0.25 
+16. We already know he's                ... pos = 0.625 	neg = 0.0  
+17. What I would have li                ... pos = 0.75  	neg = 0.375
+18. The only time we rea                ... pos = 0.875 	neg = 0.875
+19. There's nothing real                ... pos = 0.375 	neg = 0.25 
+20. (Contrast the imagin                ... pos = 0.375 	neg = 0.0  
+21. )  Throw in a couple                ... pos = 0.0   	neg = 1.125
+22. Jackson's best perfo                ... pos = 0.875 	neg = 0.375
+23. For example, both Ju                ... pos = 1.0   	neg = 1.5  
+24. Danny Roman is meant                ... pos = 0.0   	neg = 0.375
+25. There's only one lit                ... pos = 0.0   	neg = 0.375
+26. Not a great performa                ... pos = 0.0   	neg = 0.125
+27. If Jackson doesn't l                ... pos = 0.0   	neg = 0.25 
+28. Spacey is a great ac                ... pos = 0.25  	neg = 0.75 
+29. Other than a too-lon                ... pos = 0.125 	neg = 0.875
+30. He's consistently in                ... pos = 0.25  	neg = 0.25 
+31. His voice must have                 ... pos = 0.375 	neg = 0.25 
+32. The rest of the cast                ... pos = 0.0   	neg = 0.125
+33. John Spencer, so goo                ... pos = 1.0   	neg = 0.375
+34. The late, great J.T.                ... pos = 0.0   	neg = 0.0  
+35. Walsh plays an oily                 ... pos = 0.625 	neg = 0.25 
+36. Ron Rifkin plays a d                ... pos = 0.0   	neg = 0.875
+37. Speaking of ER, here                ... pos = 0.25  	neg = 0.125
+38. Remember him?                       ... pos = 0.125 	neg = 0    
+39. He was the sensitive                ... pos = 0.25  	neg = 0.125
+40. Elsewhere.                          ... pos = 0     	neg = 0.0  
+41. Unfortunately, he's                 ... pos = 0.125 	neg = 2.0  
+42. Something to think a                ... pos = 0     	neg = 0.0  
+43. There really isn't m                ... pos = 0.125 	neg = 0.875
+44. It's perfectly servi                ... pos = 0.5   	neg = 0.25 
+45. But it could have be                ... pos = 0.125 	neg = 0.875
+46. Movie Reviews: http:                ... pos = 0.0   	neg = 0.125
+47. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6278-1045 is Negative        ... pos = 16.875 	neg = 19.375
+Overall score of document
+Total Pos = 16.875
+Total Neg = 19.375
+---------------------------------------------------------------------------

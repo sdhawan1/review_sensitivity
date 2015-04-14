@@ -1,0 +1,33 @@
+0. When I first heard o                 ... pos = 0.125 	neg = 0.125
+1. Now, with that in mi                 ... pos = 0.125 	neg = 0.125
+2. As it turned out, my                 ... pos = 0.0   	neg = 0.125
+3. Robert Zemeckis, bac                 ... pos = 1.0   	neg = 0.0  
+4. Don't get me wrong,                  ... pos = 1.0   	neg = 0.875
+5. Based on the late Ca                 ... pos = 0.0   	neg = 0.0  
+6. Allie (Foster) is a                  ... pos = 0.0   	neg = 0.125
+7. She spends her time                  ... pos = 0.25  	neg = 0.0  
+8. Her passion for `lon                 ... pos = 1.0   	neg = 0.125
+9. A scene which partic                 ... pos = 0.75  	neg = 0.125
+10. Allie's research is                 ... pos = 1.375 	neg = 0.125
+11. Her work has never b                ... pos = 0.125 	neg = 0.75 
+12. Undaunted, Allie man                ... pos = 1.375 	neg = 0.0  
+13. The following months                ... pos = 1.5   	neg = 0.125
+14. The news of her find                ... pos = 0.0   	neg = 0.0  
+15. The situation became                ... pos = 0.125 	neg = 0.125
+16. As the world join fo                ... pos = 0.0   	neg = 0.5  
+17. She enrols herself a                ... pos = 0.125 	neg = 0.125
+18. Her eligibility for                 ... pos = 0.875 	neg = 0.25 
+19. At this point the mo                ... pos = 0.375 	neg = 0.125
+20. A strong point which                ... pos = 1.375 	neg = 0.125
+21. From the very first                 ... pos = 2.125 	neg = 0.375
+22. The meeting of their                ... pos = 0.25  	neg = 0.0  
+23. Many people who read                ... pos = 1.375 	neg = 1.0  
+24. Zemeckis and his tea                ... pos = 0.25  	neg = 0.0  
+25. CONTACT works by NOT                ... pos = 1.0   	neg = 0.0  
+26. I consider CONTACT a                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3534-1168 is Positive        ... pos = 16.625 	neg = 5.25 
+Overall score of document
+Total Pos = 16.625
+Total Neg = 5.25
+---------------------------------------------------------------------------

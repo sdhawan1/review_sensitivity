@@ -1,0 +1,63 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.375
+1. Remember the scene i                 ... pos = 0.375 	neg = 0.375
+2. Otto cracks the safe                 ... pos = 0.0   	neg = 0.0  
+3. Kline stands up, emp                 ... pos = 0.0   	neg = 0.0  
+4. ". Well, Wild Wild W                 ... pos = 0.0   	neg = 0.25 
+5. And Mr. Summer Movie                 ... pos = 0.125 	neg = 0.0  
+6. And Kenneth Branagh,                 ... pos = 0.875 	neg = 0    
+7. And the babelicious                  ... pos = 0     	neg = 0.0  
+8. And Ted Levine from                  ... pos = 0.0   	neg = 0.0  
+9. And It's directed by                 ... pos = 0.375 	neg = 0.125
+10. Wild Wild West is as                ... pos = 0.0   	neg = 1.375
+11. It's an action movie                ... pos = 0.0   	neg = 0.75 
+12. The only person who                 ... pos = 1.25  	neg = 1.125
+13. A Newsweek critic ca                ... pos = 0.0   	neg = 0.625
+14. (Hudson Hawk at leas                ... pos = 0.25  	neg = 0.5  
+15. ). This is the part                 ... pos = 0.0   	neg = 0.125
+16. It's too painful.                   ... pos = 0     	neg = 1.0  
+17. Instead, what follow                ... pos = 0.25  	neg = 0.0  
+18. Never, ever, EVER ag                ... pos = 0.0   	neg = 0.125
+19. The Avengers should                 ... pos = 0.0   	neg = 0.0  
+20. Please, please, plea                ... pos = 0.0   	neg = 0.25 
+21. Placing the successe                ... pos = 0.0   	neg = 0.625
+22. (Consider that Twin                 ... pos = 0.5   	neg = 0.375
+23. ). 2.                               ... pos = 0     	neg = 0    
+24. Wild Wild West has a                ... pos = 0.0   	neg = 0.75 
+25. Remember how neat it                ... pos = 0.125 	neg = 0.875
+26. Branagh's character                 ... pos = 1.375 	neg = 0.25 
+27. 3.                                  ... pos = 0     	neg = 0    
+28. In a summer chock-fu                ... pos = 0.0   	neg = 0.5  
+29. Charles Krauthammer                 ... pos = 1.875 	neg = 0.125
+30. The racial jokes aim                ... pos = 1.25  	neg = 1.125
+31. I don't have any pro                ... pos = 1.0   	neg = 0.75 
+32. Instead, we get thin                ... pos = 0.0   	neg = 0.0  
+33. 5.                                  ... pos = 0     	neg = 0    
+34. Salma Hayek is given                ... pos = 0.0   	neg = 0.5  
+35. This might have been                ... pos = 0.0   	neg = 0.625
+36. 6.                                  ... pos = 0     	neg = 0    
+37. Kevin Kline imitates                ... pos = 0.0   	neg = 0.0  
+38. (Dave is a lot bette                ... pos = 0.0   	neg = 0.125
+39. )  I think Robert Co                ... pos = 0.0   	neg = 0.375
+40. 7.                                  ... pos = 0     	neg = 0    
+41. The black-white budd                ... pos = 0.0   	neg = 0.125
+42. So has the bit about                ... pos = 0.0   	neg = 0.375
+43. Wild Wild West doesn                ... pos = 0.0   	neg = 0.25 
+44. (One could wish that                ... pos = 0.5   	neg = 0.625
+45. ). 8.                               ... pos = 0     	neg = 0    
+46. Another note about t                ... pos = 0.875 	neg = 0.75 
+47. Kline makes no impre                ... pos = 0.25  	neg = 0.375
+48. And Branagh just muc                ... pos = 0.25  	neg = 0.875
+49. Kline would be a muc                ... pos = 0.25  	neg = 0.125
+50. And Branagh could do                ... pos = 0.0   	neg = 0.0  
+51. 9.                                  ... pos = 0     	neg = 0    
+52. Even if the casting                 ... pos = 0.25  	neg = 0.625
+53. There's no way of ma                ... pos = 0.0   	neg = 1.125
+54. I could go on, of co                ... pos = 0.0   	neg = 0.0  
+55. Don't go see the Wil                ... pos = 0.125 	neg = 0.875
+56. "  Don't be surprise                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2843-1045 is Negative        ... pos = 12.25 	neg = 20.25
+Overall score of document
+Total Pos = 12.25
+Total Neg = 20.25
+---------------------------------------------------------------------------

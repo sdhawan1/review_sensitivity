@@ -1,0 +1,64 @@
+0. Director:  Kirk Won                 ... pos = 0.375 	neg = 1.0  
+1. For the entirety of                  ... pos = 0.625 	neg = 0.125
+2. I found the film int                 ... pos = 1.25  	neg = 0.625
+3. As a narrative, The                  ... pos = 1.125 	neg = 0.125
+4. It reminded me a lot                 ... pos = 0.375 	neg = 0.25 
+5. It's fine to mix gen                 ... pos = 0.0   	neg = 0.0  
+6. Unfortunately, write                 ... pos = 0.375 	neg = 1.125
+7. The biggest problem                  ... pos = 0.0   	neg = 0.625
+8. But it sure is a fas                 ... pos = 0.5   	neg = 0.125
+9. Marky .                              ... pos = 0     	neg = 0    
+10. .                                   ... pos = 0     	neg = 0    
+11. .                                   ... pos = 0     	neg = 0    
+12. er, Mark Wahlberg st                ... pos = 0.0   	neg = 0.0  
+13. He's a good hitman,                 ... pos = 0.875 	neg = 0.125
+14. He works with a few                 ... pos = 0.0   	neg = 0.375
+15. They're a nice bunch                ... pos = 0.25  	neg = 0.25 
+16. They all work for a                 ... pos = 0.25  	neg = 0.5  
+17. It is very important                ... pos = 1.375 	neg = 0.25 
+18. They decide to kidna                ... pos = 0.0   	neg = 0.125
+19. When they do this, i                ... pos = 0.0   	neg = 0.125
+20. .                                   ... pos = 0     	neg = 0    
+21. .                                   ... pos = 0     	neg = 0    
+22. Goddaughter!                        ... pos = 0     	neg = 0    
+23. It's very bad to hav                ... pos = 0.5   	neg = 0.875
+24. The story is standar                ... pos = 0.0   	neg = 0.375
+25. It's nothing new, an                ... pos = 0.625 	neg = 0.875
+26. Clearly the major se                ... pos = 0.25  	neg = 0.125
+27. It's true that a lot                ... pos = 1.0   	neg = 0.0  
+28. There are stunts tha                ... pos = 0.625 	neg = 0.875
+29. They use night visio                ... pos = 0.25  	neg = 0.25 
+30. Melvin is also very                 ... pos = 1.25  	neg = 0.25 
+31. Like I said, it's no                ... pos = 0.0   	neg = 0.0  
+32. What makes it so bad                ... pos = 0.25  	neg = 1.0  
+33. It seems to start ou                ... pos = 0.0   	neg = 0.25 
+34. Then, as soon as the                ... pos = 0.125 	neg = 0.0  
+35. Then, somewhere in b                ... pos = 0.0   	neg = 0.625
+36. Keiko turns out to b                ... pos = 0.75  	neg = 0.875
+37. And scenes like this                ... pos = 0.0   	neg = 0.25 
+38. One of the most irri                ... pos = 0.25  	neg = 0.25 
+39. The scene is played                 ... pos = 0.0   	neg = 0.125
+40. And since it doesn't                ... pos = 0.0   	neg = 0.125
+41. This is a film where                ... pos = 0.0   	neg = 0.125
+42. Cars land on tree br                ... pos = 0.625 	neg = 0.0  
+43. Characters betray ea                ... pos = 0.875 	neg = 0.0  
+44. Grenades are thrown                 ... pos = 0.25  	neg = 0.0  
+45. People jump out of t                ... pos = 0.0   	neg = 0.0  
+46. People outrun tumbli                ... pos = 0.125 	neg = 0.0  
+47. Most frustrating of                 ... pos = 1.5   	neg = 0.125
+48. They're more like so                ... pos = 0.0   	neg = 0.625
+49. The characters each                 ... pos = 1.0   	neg = 0.0  
+50. The acting is kind o                ... pos = 1.375 	neg = 1.25 
+51. Phillips certainly h                ... pos = 1.625 	neg = 0.125
+52. The Big Hit is an ac                ... pos = 0.0   	neg = 1.125
+53. The funniest parts a                ... pos = 0.75  	neg = 0.125
+54. It's a true disaster                ... pos = 0.625 	neg = 1.75 
+55. Despite all this, th                ... pos = 0.375 	neg = 0.0  
+56. You can cherish the                 ... pos = 0.0   	neg = 0.375
+57. If you embrace The B                ... pos = 0.5   	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-1640-760 is Positive         ... pos = 22.875 	neg = 19.625
+Overall score of document
+Total Pos = 22.875
+Total Neg = 19.625
+---------------------------------------------------------------------------

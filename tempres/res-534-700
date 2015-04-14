@@ -1,0 +1,29 @@
+0. Release Date: Januar                 ... pos = 1.125 	neg = 0.25 
+1. A veteran of World W                 ... pos = 0.25  	neg = 0.0  
+2. They are reminiscent                 ... pos = 0.75  	neg = 0.0  
+3. But perhaps none mat                 ... pos = 0.75  	neg = 0.0  
+4. The book's principal                 ... pos = 1.5   	neg = 0.125
+5. Each of the roles ha                 ... pos = 0.0   	neg = 0.0  
+6. There's a definitive                 ... pos = 0.25  	neg = 0.0  
+7. But most importantly                 ... pos = 1.125 	neg = 0.125
+8. Malick has several c                 ... pos = 1.625 	neg = 0.625
+9. The issues at stake                  ... pos = 0.375 	neg = 0.0  
+10. Told from a limited                 ... pos = 0.5   	neg = 0.0  
+11. The South Pacific is                ... pos = 0.375 	neg = 0.25 
+12. And want to win the                 ... pos = 0.125 	neg = 0.125
+13. In an excellent perf                ... pos = 1.0   	neg = 0.0  
+14. He's an aging soldie                ... pos = 0.25  	neg = 0.5  
+15. This philosophy is o                ... pos = 0.625 	neg = 0.125
+16. At the front are the                ... pos = 0.375 	neg = 0.0  
+17. Welsh (Sean Penn), w                ... pos = 0.0   	neg = 0.0  
+18. THE THIN RED LINE is                ... pos = 0.375 	neg = 0.5  
+19. Although the interes                ... pos = 0.25  	neg = 0.375
+20. THE THIN RED LINE wi                ... pos = 1.875 	neg = 0.0  
+21. But to do so is to b                ... pos = 0.625 	neg = 0.125
+22. Director Malick has                 ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-534-700 is Positive          ... pos = 15.375 	neg = 3.25 
+Overall score of document
+Total Pos = 15.375
+Total Neg = 3.25
+---------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+0. Starring David Ducho                 ... pos = 0.0   	neg = 0.125
+1. Not that I have anyt                 ... pos = 0.125 	neg = 0.25 
+2. I am wired into pop                  ... pos = 0.0   	neg = 0.625
+3. I know that the show                 ... pos = 0.375 	neg = 0.125
+4. A movie version of t                 ... pos = 0.25  	neg = 0.5  
+5. Series  creator Chri                 ... pos = 0.375 	neg = 0.25 
+6. Did they succeed?                    ... pos = 0.125 	neg = 0.0  
+7. From this outsider's                 ... pos = 0.0   	neg = 0.0  
+8. THE X FILES: FIGHT T                 ... pos = 1.125 	neg = 0.375
+9. If you're a fan of t                 ... pos = 0.125 	neg = 0.25 
+10. On the off chance th                ... pos = 0.875 	neg = 0.625
+11. Suffice it to say th                ... pos = 0.0   	neg = 0.125
+12. The film opens in Te                ... pos = 0.0   	neg = 0.875
+13. This is some virus:                 ... pos = 0.25  	neg = 1.5  
+14. We fast-forward to t                ... pos = 0.25  	neg = 0.875
+15. This event leads us                 ... pos = 0.25  	neg = 0.0  
+16. The death of the inf                ... pos = 0.75  	neg = 0.25 
+17. Before  they know it                ... pos = 0.708 	neg = 0.625
+18. It looked  to me lik                ... pos = 0.5   	neg = 0.0  
+19. Like the STAR TREK m                ... pos = 1.25  	neg = 0.375
+20. This  history result                ... pos = 0.5   	neg = 0.0  
+21. They didn't  seem to                ... pos = 0.25  	neg = 0.125
+22. There are a couple o                ... pos = 1.875 	neg = 0.0  
+23. But the  picture was                ... pos = 0.5   	neg = 0.625
+24. Carter and company c                ... pos = 1.25  	neg = 0.0  
+25. But the plot is besi                ... pos = 0     	neg = 0.125
+26. What I learned from                 ... pos = 1.125 	neg = 0.25 
+27. Mulder  and Scully a                ... pos = 0.875 	neg = 0    
+28. To succumb to their                 ... pos = 0.75  	neg = 0.25 
+29. These  two make Sam                 ... pos = 0.0   	neg = 0.375
+30. Duchovny and Anderso                ... pos = 1.625 	neg = 0.0  
+31. If you  watch closel                ... pos = 0.875 	neg = 0.125
+32. It doesn't matter wh                ... pos = 0.25  	neg = 0.625
+33. So THE X FILES seems                ... pos = 0.375 	neg = 0.125
+34. It offers a refreshi                ... pos = 0.0   	neg = 0.0  
+35. It also  has a futur                ... pos = 0.0   	neg = 0.0  
+36. Not only did it demo                ... pos = 0.375 	neg = 0.0  
+37. I just might have to                ... pos = 0.0   	neg = 0.5  
+38. Please visit the Fil                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2979-176 is Positive         ... pos = 17.958 	neg = 10.875
+Overall score of document
+Total Pos = 17.958
+Total Neg = 10.875
+---------------------------------------------------------------------------

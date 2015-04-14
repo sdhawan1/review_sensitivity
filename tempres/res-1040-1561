@@ -1,0 +1,25 @@
+0. Wow, the vampires in                 ... pos = 0.25  	neg = 0.375
+1. Not only do that dre                 ... pos = 0.0   	neg = 0.0  
+2. Well, I guess if a m                 ... pos = 0.25  	neg = 0.625
+3. That is one of the p                 ... pos = 0.375 	neg = 0.375
+4. The new bite-and-suc                 ... pos = 0.625 	neg = 0.125
+5. James Woods stars as                 ... pos = 0.0   	neg = 0.0  
+6. His buddy (played by                 ... pos = 0.0   	neg = 1.0  
+7. That hooker is playe                 ... pos = 0.0   	neg = 0.625
+8. She's just there for                 ... pos = 0.125 	neg = 0.25 
+9. Vampires is easy on                  ... pos = 0.625 	neg = 0.75 
+10. Too bad.                            ... pos = 0     	neg = 1.125
+11. This could have been                ... pos = 0.0   	neg = 0.125
+12. Halloween is probabl                ... pos = 0.75  	neg = 0.125
+13. I can't believe it i                ... pos = 0.125 	neg = 0.125
+14. Carpenter has made s                ... pos = 0.75  	neg = 0.0  
+15. In The Mouth of Madn                ... pos = 1.125 	neg = 1.0  
+16. The DVD of Vampires                 ... pos = 1.25  	neg = 0.125
+17. The trailer is aweso                ... pos = 0.875 	neg = 0.25 
+18. Add this to your col                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1040-1561 is Positive        ... pos = 7.25  	neg = 7.125
+Overall score of document
+Total Pos = 7.25
+Total Neg = 7.125
+---------------------------------------------------------------------------

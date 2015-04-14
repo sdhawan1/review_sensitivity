@@ -1,0 +1,32 @@
+0. starring Kevin Kline                 ... pos = 0.625 	neg = 0.125
+1. Both PLAYING GOD and                 ... pos = 0.25  	neg = 0.5  
+2. In GOD, Duchovny bla                 ... pos = 0.375 	neg = 0.0  
+3. What follows is this                 ... pos = 0.0   	neg = 0.25 
+4. So, if we were going                 ... pos = 0.125 	neg = 0.125
+5. The answer, dare I v                 ... pos = 0.75  	neg = 1.0  
+6. THE ICE STORM, on th                 ... pos = 0.0   	neg = 0.5  
+7. Poetically, he compa                 ... pos = 0.875 	neg = 0.0  
+8. So there, the most t                 ... pos = 0.0   	neg = 0.125
+9. Many such moments in                 ... pos = 0.25  	neg = 0.5  
+10. The story takes plac                ... pos = 0.125 	neg = 0.125
+11. Kline plays the harr                ... pos = 1.375 	neg = 0.25 
+12. While he spends his                 ... pos = 0.375 	neg = 0.0  
+13. Ricci is a sexually                 ... pos = 1.0   	neg = 0.125
+14. His son is away at p                ... pos = 0.75  	neg = 0.125
+15. Their actions are mo                ... pos = 0.375 	neg = 0.0  
+16. There is a shared de                ... pos = 0.125 	neg = 0.125
+17. Despite its subject                 ... pos = 1.5   	neg = 0.625
+18. Suburbia in most fil                ... pos = 0.25  	neg = 0.125
+19. THE ICE STORM is les                ... pos = 0.375 	neg = 0.625
+20. So subtly portrayed                 ... pos = 1.25  	neg = 0.125
+21. This is the kind of                 ... pos = 0.0   	neg = 0.25 
+22. Even the downplayed                 ... pos = 0.25  	neg = 0.375
+23. THE ICE STORM upstag                ... pos = 0.0   	neg = 0.75 
+24. Witty without being                 ... pos = 1.375 	neg = 1.0  
+25. More reviews to be f                ... pos = 0.25  	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-5697-1545 is Positive        ... pos = 12.625 	neg = 9.25 
+Overall score of document
+Total Pos = 12.625
+Total Neg = 9.25
+---------------------------------------------------------------------------

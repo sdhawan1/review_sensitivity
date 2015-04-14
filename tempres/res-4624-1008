@@ -1,0 +1,63 @@
+0. *1/2 (out of 4) Watc                 ... pos = 0.875 	neg = 0.5  
+1. If the monkey died,                  ... pos = 0.25  	neg = 0.125
+2. Alas, the monkey sho                 ... pos = 0.0   	neg = 0.875
+3. What that means is t                 ... pos = 0.75  	neg = 0.125
+4. That's pretty genero                 ... pos = 0.125 	neg = 0.125
+5. When Will Robinson (                 ... pos = 0.5   	neg = 0.0  
+6. So why such a seemin                 ... pos = 0.5   	neg = 0.0  
+7. There are a few reas                 ... pos = 0.25  	neg = 0.0  
+8. First, we saw the mo                 ... pos = 0.5   	neg = 0.0  
+9. The sound and screen                 ... pos = 0.0   	neg = 0.0  
+10. Nobody in the countr                ... pos = 1.25  	neg = 0.0  
+11. Also, there were mor                ... pos = 0.0   	neg = 0.125
+12. I even liked the com                ... pos = 0.125 	neg = 0.0  
+13. I usually prefer to                 ... pos = 0.875 	neg = 0.75 
+14. Also, Gary Oldman is                ... pos = 0.0   	neg = 1.5  
+15. William Hurt isn't t                ... pos = 0.0   	neg = 1.125
+16. Neither actor had a                 ... pos = 0.0   	neg = 0.375
+17. And perhaps I should                ... pos = 0.0   	neg = 0.0  
+18. There is very little                ... pos = 1.125 	neg = 1.625
+19. It felt like one of                 ... pos = 0.0   	neg = 0.125
+20. Those movies were pr                ... pos = 0.125 	neg = 1.125
+21. That type of moviema                ... pos = 0.0   	neg = 0.125
+22. Worst and most unfor                ... pos = 0.0   	neg = 2.125
+23. It's squeaky-clean,                 ... pos = 0.125 	neg = 1.375
+24. "You better hold on                 ... pos = 0.25  	neg = 0.125
+25. And when a Robinson                 ... pos = 0.0   	neg = 1.875
+26. Second worst, and cl                ... pos = 0.0   	neg = 0.5  
+27. The story's expositi                ... pos = 0.125 	neg = 0.0  
+28. Once the story gets                 ... pos = 0.25  	neg = 0.125
+29. When Gary Oldman eas                ... pos = 0.375 	neg = 0.0  
+30. '" . Then there's th                ... pos = 0.0   	neg = 0.0  
+31. The Colorado Daily s                ... pos = 1.0   	neg = 0.25 
+32. Then it could be an                 ... pos = 0.5   	neg = 0.125
+33. They're mostly right                ... pos = 0.875 	neg = 0.625
+34. Still, that the film                ... pos = 0.5   	neg = 0.125
+35. Just because a movie                ... pos = 0.0   	neg = 0.125
+36. Many quality family                 ... pos = 0.25  	neg = 0.125
+37. And the politics of                 ... pos = 0.25  	neg = 0.0  
+38. In STAR WARS, the re                ... pos = 0.75  	neg = 0.125
+39. We were rooting for                 ... pos = 0.0   	neg = 0.25 
+40. In LOST IN SPACE, th                ... pos = 0.625 	neg = 1.0  
+41. That ominous excuse                 ... pos = 0.375 	neg = 0.0  
+42. Finally, a few speci                ... pos = 0.75  	neg = 0    
+43. The movie tells us t                ... pos = 0.0   	neg = 0.125
+44. Why?                                ... pos = 0     	neg = 0.0  
+45. Why bother saying wh                ... pos = 0.0   	neg = 0.25 
+46. Just tell us it's th                ... pos = 0.0   	neg = 0.0  
+47. I bring it up becaus                ... pos = 0.0   	neg = 0.125
+48. Setting a specific d                ... pos = 0.25  	neg = 0.25 
+49. Then there is a scen                ... pos = 0.375 	neg = 0.125
+50. This silly waste of                 ... pos = 0.0   	neg = 0.25 
+51. One vaguely redeemin                ... pos = 0.125 	neg = 0.875
+52. The strong techno be                ... pos = 0.75  	neg = 0.875
+53. This is overlaid on                 ... pos = 0.375 	neg = 0.125
+54. But if that's the be                ... pos = 0.75  	neg = 0.25 
+55. Still, if you get st                ... pos = 0.5   	neg = 1.5  
+56. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4624-1008 is Negative        ... pos = 17.375 	neg = 22.25
+Overall score of document
+Total Pos = 17.375
+Total Neg = 22.25
+---------------------------------------------------------------------------

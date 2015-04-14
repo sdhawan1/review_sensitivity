@@ -1,0 +1,42 @@
+0. Christian Critic's M                 ... pos = 0.0   	neg = 0.625
+1. And it is a sad pity                 ... pos = 0.25  	neg = 1.25 
+2. THE TALENTED MR. RIP                 ... pos = 0.25  	neg = 0.875
+3. Matt Damon (DOGMA) p                 ... pos = 0.125 	neg = 0.75 
+4. Mistaken for a Princ                 ... pos = 0.25  	neg = 0.125
+5. Recognizing a good d                 ... pos = 1.125 	neg = 0.25 
+6. Even before setting                  ... pos = 0.0   	neg = 0.25 
+7. One taste of Dickie'                 ... pos = 0.125 	neg = 0.25 
+8. Little did he realiz                 ... pos = 0.125 	neg = 0.375
+9. After ingratiating h                 ... pos = 0.25  	neg = 0.0  
+10. Figuring it is bette                ... pos = 0.25  	neg = 0.375
+11. When Dickie eventual                ... pos = 0.5   	neg = 0.5  
+12. Upon Dickie's demise                ... pos = 0.0   	neg = 0    
+13. This will present a                 ... pos = 0.125 	neg = 0.625
+14. Thus begins a series                ... pos = 1.0   	neg = 0.875
+15. THE TALENTED MR. RIP                ... pos = 1.239 	neg = 0.125
+16. Mr. Damon does a fin                ... pos = 0.25  	neg = 0.0  
+17. Quick-witted and eve                ... pos = 0.25  	neg = 0.0  
+18. Jude Law is well cas                ... pos = 0.625 	neg = 0.125
+19. Spoiled beyond words                ... pos = 0.875 	neg = 0.5  
+20. And yet his charisma                ... pos = 1.375 	neg = 0.75 
+21. Both Gwyneth Paltrow                ... pos = 1.375 	neg = 0.125
+22. Writer/director Anth                ... pos = 0.625 	neg = 0.0  
+23. While focusing on th                ... pos = 0.125 	neg = 0.125
+24. An added plot device                ... pos = 0.625 	neg = 0.375
+25. Subtly introduced a                 ... pos = 1.5   	neg = 0.0  
+26. It was not needed an                ... pos = 0.0   	neg = 0.25 
+27. Ripley is a tragic f                ... pos = 0.0   	neg = 0.125
+28. He is made tragic by                ... pos = 0.0   	neg = 0.375
+29. Whenever we envy the                ... pos = 1.125 	neg = 0.375
+30. Envy leads to discon                ... pos = 0.125 	neg = 0.0  
+31. "For where envying a                ... pos = 0.0   	neg = 1.125
+32. " James 3:16 [KJV].                 ... pos = 1.125 	neg = 0.125
+33. God would have you b                ... pos = 0.5   	neg = 0.125
+34. After all...                        ... pos = 0.0   	neg = 0    
+35. He is.. .                           ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-645-305 is Positive          ... pos = 16.114 	neg = 11.875
+Overall score of document
+Total Pos = 16.114
+Total Neg = 11.875
+---------------------------------------------------------------------------

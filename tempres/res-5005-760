@@ -1,0 +1,44 @@
+0. Director:  John McN                 ... pos = 1.375 	neg = 1.5  
+1. I liked Showgirls (t                 ... pos = 0.125 	neg = 0.0  
+2. I typically enjoy my                 ... pos = 0.5   	neg = 0.125
+3. Wild Things is the b                 ... pos = 0.375 	neg = 0.375
+4. It's filled with gre                 ... pos = 0.875 	neg = 0.5  
+5. Criticizing this fil                 ... pos = 1.375 	neg = 1.5  
+6. Wild Things is a fil                 ... pos = 1.875 	neg = 0.375
+7. I must admit up-fron                 ... pos = 0.5   	neg = 0.25 
+8. I imagine that this                  ... pos = 0.0   	neg = 0.5  
+9. It's hard to give a                  ... pos = 0.0   	neg = 0.875
+10. I thought I had the                 ... pos = 0.25  	neg = 0.125
+11. I'll just say that t                ... pos = 0.125 	neg = 0.25 
+12. In Blue Bay lives Sa                ... pos = 0.0   	neg = 0.125
+13. Kelly's mother, Sand                ... pos = 0.0   	neg = 0.375
+14. All of this happens                 ... pos = 0.125 	neg = 0.0  
+15. And right up until t                ... pos = 0.0   	neg = 0.0  
+16. I was wrong, though,                ... pos = 0.375 	neg = 1.875
+17. Wild Things isn't ev                ... pos = 0.625 	neg = 1.375
+18. I remember first see                ... pos = 0.25  	neg = 0.25 
+19. I'd give the preview                ... pos = 0.0   	neg = 0.0  
+20. It made me want to s                ... pos = 0.125 	neg = 0.25 
+21. Over the past few we                ... pos = 0.125 	neg = 1.0  
+22. The preview for this                ... pos = 0.25  	neg = 0.5  
+23. But I'm not here to                 ... pos = 0.0   	neg = 0.0  
+24. I'm here to talk abo                ... pos = 0.0   	neg = 0.0  
+25. Now, I found her mil                ... pos = 0.0   	neg = 0.625
+26. Of course, this migh                ... pos = 0.5   	neg = 0.75 
+27. No, Richards is trul                ... pos = 0.75  	neg = 0.5  
+28. This mixed in with h                ... pos = 0.5   	neg = 0.0  
+29. The other actors are                ... pos = 1.0   	neg = 0.25 
+30. Dillon is as suave a                ... pos = 0.625 	neg = 0.125
+31. Bacon does a good jo                ... pos = 0.875 	neg = 0.5  
+32. Neve Campbell gives                 ... pos = 1.125 	neg = 0.25 
+33. For a plot like this                ... pos = 0.0   	neg = 0.125
+34. That's okay, because                ... pos = 0.25  	neg = 0.125
+35. Each scene--even the                ... pos = 0.5   	neg = 0.625
+36. There isn't an incon                ... pos = 0.125 	neg = 2.25 
+37. I loved it.. .                      ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5005-760 is Negative         ... pos = 16.0  	neg = 18.25
+Overall score of document
+Total Pos = 16.0
+Total Neg = 18.25
+---------------------------------------------------------------------------

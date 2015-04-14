@@ -1,0 +1,23 @@
+0. Being released on th                 ... pos = 1.375 	neg = 0.125
+1. It's a shame that su                 ... pos = 0.5   	neg = 0.875
+2. Hogarth Hughes is an                 ... pos = 0.875 	neg = 0.125
+3. It's 1957 and Sputni                 ... pos = 0.125 	neg = 0.25 
+4. When cars start gett                 ... pos = 0.125 	neg = 0.0  
+5. When Kent Mansley (a                 ... pos = 0.0   	neg = 0.125
+6. The truth is, Hogart                 ... pos = 0.5   	neg = 0.375
+7. He's beginning to fo                 ... pos = 0.125 	neg = 0.125
+8. When Kent discovers                  ... pos = 0.375 	neg = 0.5  
+9. While bearing the st                 ... pos = 0.5   	neg = 0.625
+10. Finally, an animated                ... pos = 0.875 	neg = 1.0  
+11. Instead this is a wo                ... pos = 1.5   	neg = 1.125
+12. The film has receive                ... pos = 0.625 	neg = 0.875
+13. This is a magical fi                ... pos = 0.125 	neg = 0.25 
+14. So what are you wait                ... pos = 0.25  	neg = 0.0  
+15. Go out and see this                 ... pos = 0.0   	neg = 0.0  
+16. Don't delay, call Mo                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1126-329 is Positive         ... pos = 7.875 	neg = 6.375
+Overall score of document
+Total Pos = 7.875
+Total Neg = 6.375
+---------------------------------------------------------------------------

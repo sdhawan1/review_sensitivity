@@ -1,0 +1,21 @@
+0. That is, unless you'                 ... pos = 0.5   	neg = 0.125
+1. I can tell you one t                 ... pos = 0.0   	neg = 0.0  
+2. Why someone would wa                 ... pos = 0.5   	neg = 0.375
+3. However, if they *ha                 ... pos = 0.125 	neg = 0.75 
+4. Obviously, the produ                 ... pos = 0.0   	neg = 0.0  
+5. "Double Jeopardy" of                 ... pos = 0.25  	neg = 0.125
+6. It also offers some                  ... pos = 1.125 	neg = 0.25 
+7. Half the time I'm wo                 ... pos = 0.375 	neg = 0.125
+8. Judging by the begin                 ... pos = 0.0   	neg = 1.0  
+9. The movie's stretchi                 ... pos = 0.0   	neg = 0.375
+10. Implausible material                ... pos = 0.125 	neg = 0.625
+11. Loose interpretation                ... pos = 0.875 	neg = 0.5  
+12. " That kind of stuff                ... pos = 0.5   	neg = 1.0  
+13. Everything seems dra                ... pos = 0     	neg = 0.5  
+14. When they should've                 ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5789-977 is Negative         ... pos = 4.5   	neg = 6.0  
+Overall score of document
+Total Pos = 4.5
+Total Neg = 6.0
+---------------------------------------------------------------------------

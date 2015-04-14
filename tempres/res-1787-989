@@ -1,0 +1,34 @@
+0. In the first scenes                  ... pos = 0.125 	neg = 0.125
+1. But, you'd be wrong.                 ... pos = 0     	neg = 0.875
+2. Her `dress' is allur                 ... pos = 0.5   	neg = 0.125
+3. For a few seconds, y                 ... pos = 0.25  	neg = 0.125
+4. This guy is NOT the                  ... pos = 0.0   	neg = 0.125
+5. She is slain for bei                 ... pos = 0.5   	neg = 0.125
+6. Then, her lover beco                 ... pos = 0.0   	neg = 0.125
+7. Does this sound like                 ... pos = 0.0   	neg = 0.0  
+8. Well, it is.                         ... pos = 0.0   	neg = 0.125
+9. Throughout the movie                 ... pos = 0.75  	neg = 0.0  
+10. There are interestin                ... pos = 0.25  	neg = 0.0  
+11. It is not a great fi                ... pos = 0.125 	neg = 0.125
+12. When my children wer                ... pos = 1.125 	neg = 0.125
+13. I think that it was                 ... pos = 0.0   	neg = 0.125
+14. I really didn't thin                ... pos = 1.25  	neg = 0.125
+15. The Mummy is that ki                ... pos = 0.0   	neg = 0.125
+16. It makes you think o                ... pos = 1.875 	neg = 0.125
+17. When movies such as                 ... pos = 0.375 	neg = 0.125
+18. Too many films today                ... pos = 0.125 	neg = 1.125
+19. That really scares m                ... pos = 0     	neg = 0.0  
+20. The Mummy is a fun,                 ... pos = 0.125 	neg = 0.875
+21. You know that someth                ... pos = 0.375 	neg = 0.125
+22. The woman behind me                 ... pos = 0.0   	neg = 0.375
+23. You won't recognize                 ... pos = 0.125 	neg = 0.0  
+24. They are all excelle                ... pos = 1.25  	neg = 0    
+25. They also reminded m                ... pos = 0.0   	neg = 0.0  
+26. It is well worth you                ... pos = 0.0   	neg = 0.125
+27. Take your kids and g                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1787-989 is Positive         ... pos = 9.25  	neg = 5.375
+Overall score of document
+Total Pos = 9.25
+Total Neg = 5.375
+---------------------------------------------------------------------------

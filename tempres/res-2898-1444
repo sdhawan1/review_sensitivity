@@ -1,0 +1,60 @@
+0. Directed by Tarsem.                  ... pos = 0.0   	neg = 0    
+1. Screenplay by Mark P                 ... pos = 0.0   	neg = 0.0  
+2. Starring Jennifer Lo                 ... pos = 0     	neg = 0.0  
+3. Running time: 107 mi                 ... pos = 0     	neg = 0.0  
+4. Rated AA by the MFCB                 ... pos = 0.125 	neg = 0.0  
+5. Reviewed on August 2                 ... pos = 0.0   	neg = 0.0  
+6. Whatever the medium,                 ... pos = 0.0   	neg = 0.75 
+7. Often, it comes acro                 ... pos = 1.375 	neg = 1.0  
+8. The first type usual                 ... pos = 0.75  	neg = 0.125
+9. Although it makes a                  ... pos = 0.625 	neg = 0.25 
+10. The film, by first-t                ... pos = 0.0   	neg = 0.5  
+11. Whereas those movies                ... pos = 0.125 	neg = 0.0  
+12. But while the visual                ... pos = 1.25  	neg = 0.375
+13. "The Cell" opens on                 ... pos = 0.0   	neg = 0.125
+14. We soon learn that a                ... pos = 0.25  	neg = 0.25 
+15. Catharine, a child p                ... pos = 0.75  	neg = 0.625
+16. Meanwhile, FBI agent                ... pos = 0.0   	neg = 0.375
+17. Stargher has murdere                ... pos = 0.5   	neg = 0.625
+18. He then bleaches the                ... pos = 0.0   	neg = 0.375
+19. Just before his arre                ... pos = 0.125 	neg = 0.0  
+20. Unfortunately, he ha                ... pos = 0.5   	neg = 1.0  
+21. With less than two d                ... pos = 0.75  	neg = 0.0  
+22. It is these scenes,                 ... pos = 0.125 	neg = 1.25 
+23. Having cut his teeth                ... pos = 0.5   	neg = 0.0  
+24. Consider, for exampl                ... pos = 0.25  	neg = 0.625
+25. Also very impressive                ... pos = 1.0   	neg = 0.875
+26. Tarsem does a fine j                ... pos = 0.0   	neg = 0.0  
+27. But one of the joys                 ... pos = 0.75  	neg = 0.125
+28. But Tarsem does not                 ... pos = 0.125 	neg = 0.0  
+29. Though he does paint                ... pos = 0.0   	neg = 0.0  
+30. This makes the whole                ... pos = 0.5   	neg = 0.25 
+31. Most things in Carl'                ... pos = 1.0   	neg = 0.5  
+32. Indeed, I was someti                ... pos = 0.5   	neg = 0.375
+33. Here we do get flash                ... pos = 1.5   	neg = 0.875
+34. They had the potenti                ... pos = 0.75  	neg = 0.0  
+35. The two main protago                ... pos = 0.0   	neg = 0.0  
+36. Lopez's Catharine se                ... pos = 0.5   	neg = 0.625
+37. This may have been i                ... pos = 1.375 	neg = 0.375
+38. Vaughn, meanwhile, p                ... pos = 0.125 	neg = 0.25 
+39. Intriguing hints tha                ... pos = 0.625 	neg = 0.0  
+40. D'Onofrio, on the ot                ... pos = 1.25  	neg = 0.5  
+41. The biggest problem                 ... pos = 0.25  	neg = 0.875
+42. Although scriptwrite                ... pos = 0.75  	neg = 0.0  
+43. Stargher's own perso                ... pos = 0.25  	neg = 0.125
+44. "The Cell" also goes                ... pos = 0.25  	neg = 1.25 
+45. Although this does p                ... pos = 0.125 	neg = 0.0  
+46. And surely, if we ar                ... pos = 1.375 	neg = 0.375
+47. Isn't it a little to                ... pos = 0.0   	neg = 0.875
+48. It is unfortunate th                ... pos = 0.75  	neg = 0.125
+49. Instead, it ends up                 ... pos = 0.5   	neg = 0.5  
+50. It can be recommende                ... pos = 1.25  	neg = 1.375
+51. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+52. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+53. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2898-1444 is Positive        ... pos = 24.0  	neg = 18.5 
+Overall score of document
+Total Pos = 24.0
+Total Neg = 18.5
+---------------------------------------------------------------------------

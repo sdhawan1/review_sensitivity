@@ -1,0 +1,61 @@
+0. Cast:  Kevin Spacey,                 ... pos = 0.375 	neg = 0.25 
+1. Seldom have I seen s                 ... pos = 2.5   	neg = 0.0  
+2. And it is not often                  ... pos = 0.625 	neg = 0.25 
+3. The story itself is                  ... pos = 1.875 	neg = 0.75 
+4. The hero in the stor                 ... pos = 0.5   	neg = 0.125
+5. He is working in a r                 ... pos = 1.25  	neg = 0.25 
+6. He is living the Ame                 ... pos = 0.375 	neg = 0.25 
+7. The truth is that Le                 ... pos = 0.5   	neg = 1.125
+8. His wife, Carolyn (A                 ... pos = 0.25  	neg = 0.125
+9. She is a successful                  ... pos = 1.5   	neg = 0.25 
+10. Actually Carolyn is                 ... pos = 0.0   	neg = 0.625
+11. She has simply forgo                ... pos = 0.125 	neg = 0.125
+12. His daughter, Jane (                ... pos = 0.5   	neg = 0.125
+13. Her friend, Angela (                ... pos = 1.25  	neg = 0.25 
+14. A girl that is dream                ... pos = 0.375 	neg = 0.125
+15. Her motto is "There                 ... pos = 0.25  	neg = 1.125
+16. The truth is that sh                ... pos = 2.875 	neg = 0.25 
+17. Those are the main c                ... pos = 1.375 	neg = 0.25 
+18. There is an ex-Marin                ... pos = 0.125 	neg = 1.0  
+19. He is a tuff, angry,                ... pos = 0.5   	neg = 0.625
+20. In the end it become                ... pos = 0.125 	neg = 0.125
+21. Ricky is the good an                ... pos = 1.25  	neg = 0.5  
+22. What starts as paral                ... pos = 0.625 	neg = 0.5  
+23. Lester is unwillingl                ... pos = 0.0   	neg = 0.5  
+24. And it is here he se                ... pos = 0.25  	neg = 0.125
+25. The only trouble is                 ... pos = 0     	neg = 0.875
+26. There are so many ev                ... pos = 0.25  	neg = 0.5  
+27. The film ends with a                ... pos = 0.5   	neg = 0.25 
+28. "American Beauty" is                ... pos = 0.0   	neg = 0.125
+29. It is a tale about a                ... pos = 0.0   	neg = 0.375
+30. It is a man that wan                ... pos = 1.25  	neg = 0.5  
+31. Off course there is                 ... pos = 0.0   	neg = 0.75 
+32. It is basically a st                ... pos = 1.0   	neg = 0.125
+33. It is about the fact                ... pos = 0.5   	neg = 0.125
+34. What we are trying t                ... pos = 1.875 	neg = 0.625
+35. This theme is rather                ... pos = 0.75  	neg = 0.25 
+36. Like "Fight Club", "                ... pos = 0.625 	neg = 0.0  
+37. Both films are brill                ... pos = 1.625 	neg = 0.875
+38. So it almost seems t                ... pos = 0.25  	neg = 0.125
+39. David Fincher's desc                ... pos = 1.375 	neg = 0.125
+40. Sam Mendes doesn't g                ... pos = 0.375 	neg = 0.125
+41. "Fight lub" didn't o                ... pos = 0.25  	neg = 0.25 
+42. Mendes doesn't do th                ... pos = 0.0   	neg = 0.0  
+43. He is simply scratch                ... pos = 0.0   	neg = 0.125
+44. That is why "America                ... pos = 1.0   	neg = 0.25 
+45. Acting (as I've ment                ... pos = 1.25  	neg = 0.125
+46. This may be Kevin Sp                ... pos = 0.5   	neg = 0.125
+47. A natural and intell                ... pos = 0.25  	neg = 0.0  
+48. Likewise is Anette B                ... pos = 0.0   	neg = 0.125
+49. A rather unexpected                 ... pos = 1.875 	neg = 0.125
+50. The other cast membe                ... pos = 0.375 	neg = 0.0  
+51. Especially Wes Bentl                ... pos = 1.5   	neg = 0    
+52. I am confident that                 ... pos = 0.375 	neg = 0.125
+53. The technical side o                ... pos = 0.0   	neg = 0.125
+54. A brilliant cinemato                ... pos = 3.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-657 is Positive         ... pos = 40.125 	neg = 16.75
+Overall score of document
+Total Pos = 40.125
+Total Neg = 16.75
+---------------------------------------------------------------------------

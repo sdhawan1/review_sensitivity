@@ -1,0 +1,58 @@
+0. Roberto Benigni's LI                 ... pos = 1.625 	neg = 0.125
+1. It is clearly a humo                 ... pos = 2.125 	neg = 0.25 
+2. At its roots, this i                 ... pos = 0.625 	neg = 0.25 
+3. It just so happens t                 ... pos = 1.694 	neg = 0.75 
+4. For the first hour,                  ... pos = 1.0   	neg = 0.875
+5. Guido is able to liv                 ... pos = 0.75  	neg = 0.125
+6. So far, his freedom                  ... pos = 0.5   	neg = 0.125
+7. He can't quite consi                 ... pos = 0.625 	neg = 0.25 
+8. Benigni is a talente                 ... pos = 0.75  	neg = 1.125
+9. Then we jump forward                 ... pos = 0     	neg = 0.0  
+10. He and Dora are marr                ... pos = 0.25  	neg = 0.0  
+11. But Italy is a sligh                ... pos = 0.0   	neg = 0.5  
+12. Armed troops patrol                 ... pos = 0.125 	neg = 0.125
+13. Suddenly, one day th                ... pos = 0.0   	neg = 0.5  
+14. Dora is exempt since                ... pos = 0.25  	neg = 0.25 
+15. When they arrive the                ... pos = 0.0   	neg = 0.0  
+16. How, after all, do y                ... pos = 0.125 	neg = 0.25 
+17. So, instead, Guido t                ... pos = 1.375 	neg = 0.0  
+18. Hiding from the guar                ... pos = 1.25  	neg = 0.0  
+19. Whenever Giosue come                ... pos = 0.375 	neg = 0.125
+20. LIFE IS BEAUTIFUL ha                ... pos = 0.875 	neg = 0.5  
+21. The thing I realized                ... pos = 0.375 	neg = 0.375
+22. Certainly an unimagi                ... pos = 0.375 	neg = 1.0  
+23. In one scene that is                ... pos = 0.25  	neg = 1.0  
+24. Guido, not wanting G                ... pos = 0.375 	neg = 0.0  
+25. Avoiding us gets you                ... pos = 0.375 	neg = 0.0  
+26. And no complaining f                ... pos = 0.0   	neg = 0.25 
+27. The other day I comp                ... pos = 0.0   	neg = 0.0  
+28. ". Obviously this is                ... pos = 0.875 	neg = 0.125
+29. Are the rules Guido                 ... pos = 0.5   	neg = 0.375
+30. If someone claimed t                ... pos = 0.25  	neg = 0.125
+31. Recently, while surf                ... pos = 0.25  	neg = 1.0  
+32. Once I got past the                 ... pos = 0.5   	neg = 0.125
+33. Not because I find t                ... pos = 0.625 	neg = 0.75 
+34. Is Nazism any more i                ... pos = 0.625 	neg = 0.125
+35. I don't think so.                   ... pos = 0     	neg = 0.0  
+36. The only real differ                ... pos = 0.625 	neg = 0.25 
+37. What Benigni has rea                ... pos = 1.5   	neg = 0.75 
+38. In fact, in one scen                ... pos = 0.25  	neg = 1.0  
+39. Part of the reason i                ... pos = 0.875 	neg = 1.625
+40. Guido does what he d                ... pos = 0.25  	neg = 0.75 
+41. The only time that h                ... pos = 0.875 	neg = 1.625
+42. This is also, I thin                ... pos = 1.0   	neg = 0.625
+43. It's not just charac                ... pos = 2.125 	neg = 0.0  
+44. We may find ourselve                ... pos = 0.0   	neg = 0.0  
+45. LIFE IS BEAUTIFUL do                ... pos = 1.125 	neg = 1.125
+46. Little children may                 ... pos = 0.5   	neg = 0.625
+47. Giosue protests that                ... pos = 0.25  	neg = 0.625
+48. Logically, I think h                ... pos = 1.0   	neg = 0.0  
+49. Nazism has been port                ... pos = 1.0   	neg = 0.125
+50. I can't recall anyon                ... pos = 1.5   	neg = 1.0  
+51. Film Reviews Page: h                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5730-716 is Positive         ... pos = 32.569 	neg = 21.5 
+Overall score of document
+Total Pos = 32.569
+Total Neg = 21.5
+---------------------------------------------------------------------------

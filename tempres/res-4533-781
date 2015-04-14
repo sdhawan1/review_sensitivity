@@ -1,0 +1,64 @@
+0. Okay, I admit it.                    ... pos = 0.0   	neg = 0.125
+1. I don't really like                  ... pos = 0.0   	neg = 1.5  
+2. Sometimes the ol' im                 ... pos = 0.0   	neg = 0.0  
+3. I lie in bed under t                 ... pos = 0.125 	neg = 0.0  
+4. Doing so would mean                  ... pos = 0.25  	neg = 0.5  
+5. No, I can wait until                 ... pos = 0     	neg = 0.25 
+6. If I can go back to                  ... pos = 0.0   	neg = 0.125
+7. The latest film to c                 ... pos = 1.0   	neg = 0.0  
+8. There's a scene, for                 ... pos = 0.875 	neg = 0.0  
+9. What happens next ca                 ... pos = 0.125 	neg = 0.0  
+10. Phil Tippett's effec                ... pos = 1.75  	neg = 0.625
+11. The one image that h                ... pos = 0.0   	neg = 0.125
+12. Interestingly, it wa                ... pos = 0.25  	neg = 0.125
+13. Throughout the house                ... pos = 0.75  	neg = 0.25 
+14. One of the character                ... pos = 1.375 	neg = 0.125
+15. She looks away for a                ... pos = 0.25  	neg = 0.375
+16. Very reminiscent of                 ... pos = 0.5   	neg = 0.0  
+17. It goes it show that                ... pos = 0.5   	neg = 0.0  
+18. Unfortunately, it se                ... pos = 0.5   	neg = 1.5  
+19. The plot revolves ar                ... pos = 1.5   	neg = 1.0  
+20. As part of this stud                ... pos = 0.25  	neg = 0.0  
+21. The three subjects,                 ... pos = 1.0   	neg = 0.0  
+22. "You don't tell the                 ... pos = 0.125 	neg = 0    
+23. Indeed.                             ... pos = 0.0   	neg = 0    
+24. Marrow's reasoning f                ... pos = 1.375 	neg = 0.375
+25. The rest of the stor                ... pos = 0.0   	neg = 0.125
+26. Mayhem ensues.                      ... pos = 0.0   	neg = 0.0  
+27. It turns out that th                ... pos = 0.0   	neg = 0.125
+28. Crane apparently bui                ... pos = 0.25  	neg = 0.125
+29. Why this is and why                 ... pos = 0.875 	neg = 0.25 
+30. It also turns out th                ... pos = 0.25  	neg = 0.125
+31. This is also not exp                ... pos = 0.75  	neg = 0.75 
+32. Basically, we see th                ... pos = 0.625 	neg = 0.5  
+33. What sort of power d                ... pos = 0.0   	neg = 0.0  
+34. Why does she have th                ... pos = 0.0   	neg = 0.0  
+35. How, exactly, was sh                ... pos = 0.125 	neg = 0.125
+36. Crane had two wives?                ... pos = 0.0   	neg = 0.0  
+37. When were we informe                ... pos = 0     	neg = 0.25 
+38. Eleanor is the only                 ... pos = 1.75  	neg = 0.375
+39. Marrow, the one who                 ... pos = 0.25  	neg = 1.375
+40. "I like your boots,"                ... pos = 0.625 	neg = 0.0  
+41. "Prada," explains Th                ... pos = 0.25  	neg = 0    
+42. "Milan, not New York                ... pos = 0.375 	neg = 0    
+43. "  Oh, she likes gir                ... pos = 0.0   	neg = 0.0  
+44. I don't know why the                ... pos = 0.25  	neg = 0.0  
+45. As for Luke, he's ju                ... pos = 0.125 	neg = 0.0  
+46. As a result, our emo                ... pos = 1.25  	neg = 0.25 
+47. There are a few good                ... pos = 1.125 	neg = 0.25 
+48. Soundwise, THE HAUNT                ... pos = 0.5   	neg = 0.125
+49. The mere sound of th                ... pos = 0.375 	neg = 1.0  
+50. More than a few shot                ... pos = 0.375 	neg = 0.125
+51. On several occasions                ... pos = 0.125 	neg = 0.0  
+52. Did I see it move?                  ... pos = 0.0   	neg = 0.0  
+53. It's as if we're the                ... pos = 0.0   	neg = 0.0  
+54. Marrow's study.                     ... pos = 0.0   	neg = 0    
+55. Oh, yeah, and the fi                ... pos = 0.625 	neg = 0.0  
+56. No, I don't like the                ... pos = 0.125 	neg = 0.25 
+57. Unfortunately, with                 ... pos = 0.125 	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-4533-781 is Positive         ... pos = 23.625 	neg = 14.625
+Overall score of document
+Total Pos = 23.625
+Total Neg = 14.625
+---------------------------------------------------------------------------

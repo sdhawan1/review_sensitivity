@@ -1,0 +1,30 @@
+0. How do you fight a w                 ... pos = 0.875 	neg = 0.0  
+1. When the conflict is                 ... pos = 0.0   	neg = 0.25 
+2. Such is the dilemma                  ... pos = 0.875 	neg = 0.125
+3. A harrowing and thou                 ... pos = 0.0   	neg = 0.25 
+4. The film is based on                 ... pos = 0.0   	neg = 0.125
+5. Laura Bickford, one                  ... pos = 0.375 	neg = 0.125
+6. The film revolves ar                 ... pos = 0.125 	neg = 0.125
+7. One story centers on                 ... pos = 1.25  	neg = 0.0  
+8. Del Toro is a stando                 ... pos = 1.125 	neg = 0.125
+9. A second story cente                 ... pos = 0.375 	neg = 0.25 
+10. This story focuses o                ... pos = 0.0   	neg = 1.0  
+11. Douglas and Amy Irvi                ... pos = 1.375 	neg = 0.0  
+12. Finally, the third s                ... pos = 0.125 	neg = 0.0  
+13. The story is anchore                ... pos = 0.0   	neg = 0.25 
+14. Unaware of her husba                ... pos = 0.833 	neg = 0.0  
+15. Soderbergh's deft di                ... pos = 0.625 	neg = 0.375
+16. The Mexican landscap                ... pos = 0.5   	neg = 0.125
+17. The home of Douglas                 ... pos = 0.25  	neg = 0    
+18. San Diego has a warm                ... pos = 0.25  	neg = 0.0  
+19. Whenever characters                 ... pos = 0.875 	neg = 0.5  
+20. Traffic tackles toug                ... pos = 0.125 	neg = 0    
+21. The film doesn't del                ... pos = 0.125 	neg = 0.0  
+22. As a tale about the                 ... pos = 0.125 	neg = 0.25 
+23. Five stars out of fi                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3669-1220 is Positive        ... pos = 10.208 	neg = 3.875
+Overall score of document
+Total Pos = 10.208
+Total Neg = 3.875
+---------------------------------------------------------------------------

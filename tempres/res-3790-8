@@ -1,0 +1,46 @@
+0. The year is 1991.                    ... pos = 0.0   	neg = 0.125
+1. War has broken out b                 ... pos = 0.25  	neg = 0.75 
+2. Flash forward to the                 ... pos = 0.0   	neg = 0.0  
+3. Many men have died,                  ... pos = 0.0   	neg = 0.75 
+4. Most survivors would                 ... pos = 0.75  	neg = 0    
+5. This doesn't go for                  ... pos = 0.125 	neg = 0.0  
+6. What do they do inst                 ... pos = 0.0   	neg = 0.0  
+7. Go out to steal gold                 ... pos = 0.125 	neg = 0.0  
+8. Three Kings focuses                  ... pos = 0.125 	neg = 0.875
+9. Major Sargent Archie                 ... pos = 0.0   	neg = 0.0  
+10. Troy Barlow (Mark Wa                ... pos = 0.0   	neg = 0.0  
+11. This task is easier                 ... pos = 2.25  	neg = 0.125
+12. Three Kings has a st                ... pos = 1.625 	neg = 0.0  
+13. It's safe to say Mar                ... pos = 0.875 	neg = 0.0  
+14. Wahlberg's character                ... pos = 1.25  	neg = 0.25 
+15. In a powerful scene                 ... pos = 1.875 	neg = 0.125
+16. A similar situation                 ... pos = 0.875 	neg = 0.0  
+17. Clooney, Jonze, and                 ... pos = 1.125 	neg = 0.0  
+18. Clooney acts with th                ... pos = 1.25  	neg = 0.625
+19. As usual, Clooney re                ... pos = 0.125 	neg = 0.5  
+20. When Desert Storm to                ... pos = 0.75  	neg = 0.75 
+21. I remember my parent                ... pos = 0.125 	neg = 0.125
+22. I learned from Three                ... pos = 1.625 	neg = 0.375
+23. David O. Russell, kn                ... pos = 0.375 	neg = 0.5  
+24. Russell's script con                ... pos = 1.875 	neg = 0.625
+25. The script can't dec                ... pos = 1.25  	neg = 0.375
+26. One moment Three Kin                ... pos = 2.625 	neg = 0.375
+27. The entire gold plot                ... pos = 2.25  	neg = 0.25 
+28. When gold stealing i                ... pos = 0.25  	neg = 0.25 
+29. Russell's direction                 ... pos = 0.125 	neg = 0.5  
+30. His techniques of sh                ... pos = 0.5   	neg = 0.25 
+31. Russell also effecti                ... pos = 0.375 	neg = 0.125
+32. Unlike Saving Privat                ... pos = 1.125 	neg = 0.0  
+33. Russell's offbeat ca                ... pos = 0.375 	neg = 0.0  
+34. The entire film seem                ... pos = 1.0   	neg = 0.25 
+35. Three Kings is a cle                ... pos = 1.0   	neg = 0.125
+36. Instead of only maki                ... pos = 2.375 	neg = 0.0  
+37. Every character is e                ... pos = 2.5   	neg = 0.125
+38. The wiser route with                ... pos = 0.875 	neg = 0.375
+39. The Bottom Line: A s                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-8 is Positive           ... pos = 35.25 	neg = 9.5  
+Overall score of document
+Total Pos = 35.25
+Total Neg = 9.5
+---------------------------------------------------------------------------

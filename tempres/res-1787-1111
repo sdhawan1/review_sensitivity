@@ -1,0 +1,16 @@
+0. THE MUMMY Cast: Bren                 ... pos = 0.625 	neg = 1.0  
+1. Perhaps it was the f                 ... pos = 1.0   	neg = 1.0  
+2. During the first hou                 ... pos = 0.25  	neg = 0.125
+3. But sure enough, The                 ... pos = 1.0   	neg = 2.25 
+4. There are plenty of                  ... pos = 2.375 	neg = 0.375
+5. Well, The Mummy hasn                 ... pos = 0.125 	neg = 0.125
+6. It's one of those fi                 ... pos = 1.0   	neg = 0.25 
+7. But The Mummy did no                 ... pos = 0.375 	neg = 0.0  
+8. A couple of good rea                 ... pos = 1.75  	neg = 0.375
+9. You might enjoy seei                 ... pos = 1.375 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-1787-1111 is Positive        ... pos = 9.875 	neg = 6.375
+Overall score of document
+Total Pos = 9.875
+Total Neg = 6.375
+---------------------------------------------------------------------------

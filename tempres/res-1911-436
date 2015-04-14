@@ -1,0 +1,45 @@
+0. THE ENGLISH PATIENT                  ... pos = 1.5   	neg = 0.125
+1. We wonder whether th                 ... pos = 0.5   	neg = 0.125
+2. The image, we will l                 ... pos = 0.125 	neg = 0.125
+3. The cave of swimmers                 ... pos = 0.0   	neg = 0.375
+4. The next day, those                  ... pos = 0.375 	neg = 0.25 
+5. Two lovers-to-be are                 ... pos = 0.75  	neg = 0.0  
+6. One of them, inspire                 ... pos = 0.125 	neg = 0.625
+7. The winds are harbin                 ... pos = 1.125 	neg = 0.0  
+8. Nations at war conju                 ... pos = 1.25  	neg = 0.5  
+9. THE ENGLISH PATIENT                  ... pos = 1.125 	neg = 0.25 
+10. Director Anthony Min                ... pos = 2.5   	neg = 0.0  
+11. In the one tale, Fre                ... pos = 0.25  	neg = 0.375
+12. This patient is esse                ... pos = 1.625 	neg = 0.125
+13. ". Nationality matte                ... pos = 0.625 	neg = 0.75 
+14. We soon learn that h                ... pos = 0.0   	neg = 0.125
+15. It's the tale leadin                ... pos = 0.5   	neg = 0.0  
+16. It's an absolute ple                ... pos = 1.0   	neg = 0.0  
+17. Minghella is a confi                ... pos = 0.625 	neg = 0.125
+18. Navigating a world l                ... pos = 1.5   	neg = 0.0  
+19. Chief among these is                ... pos = 0.375 	neg = 0.375
+20. Meanwhile (at least                 ... pos = 1.125 	neg = 0.5  
+21. Kip sets up camp nea                ... pos = 0.625 	neg = 0.0  
+22. He tries to read Rud                ... pos = 0.125 	neg = 0.5  
+23. "Your eye is too imp                ... pos = 0.125 	neg = 0.375
+24. "Think about the spe                ... pos = 0     	neg = 0.0  
+25. " Later, Kip will lu                ... pos = 0.25  	neg = 0.0  
+26. Such shamelessly rom                ... pos = 0.875 	neg = 0.25 
+27. Scott Thomas's perfo                ... pos = 1.875 	neg = 0.125
+28. John Seale's cinemat                ... pos = 0.375 	neg = 0.5  
+29. Film editor Walter M                ... pos = 2.25  	neg = 0.125
+30. Murch's instinctive                 ... pos = 0.25  	neg = 0.25 
+31. In the final scenes,                ... pos = 1.0   	neg = 0.0  
+32. I can't explain exac                ... pos = 0.5   	neg = 0.125
+33. It is.                              ... pos = 0.0   	neg = 0.125
+34. The big-screen trick                ... pos = 2.875 	neg = 0.375
+35. If anything, THE ENG                ... pos = 1.75  	neg = 0.75 
+36. For its flaws, and d                ... pos = 0.125 	neg = 0.25 
+37. From beginning to en                ... pos = 0.375 	neg = 0.125
+38. It never quite reach                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1911-436 is Positive         ... pos = 30.875 	neg = 8.75 
+Overall score of document
+Total Pos = 30.875
+Total Neg = 8.75
+---------------------------------------------------------------------------

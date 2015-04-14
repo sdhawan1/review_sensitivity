@@ -1,0 +1,56 @@
+0. Directed by John Car                 ... pos = 0.0   	neg = 0.0  
+1. Written by Don Jakob                 ... pos = 0.0   	neg = 0.0  
+2. Based on the novel V                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 107 mi                 ... pos = 0     	neg = 0.0  
+4. Rated R (for strong                  ... pos = 0.625 	neg = 0.0  
+5. Vampires have been s                 ... pos = 0.625 	neg = 0.125
+6. The film's have rang                 ... pos = 1.25  	neg = 0.875
+7. Recently though, vam                 ... pos = 0.5   	neg = 0.125
+8. "Buffy, the Vampire                  ... pos = 0.0   	neg = 0.25 
+9. Now the most liked h                 ... pos = 0.125 	neg = 0.0  
+10. John Carpenter's Vam                ... pos = 0.0   	neg = 0.125
+11. They use a variety o                ... pos = 0.625 	neg = 0.0  
+12. They then use a pull                ... pos = 0.0   	neg = 0.375
+13. Jack Crow is your ty                ... pos = 1.0   	neg = 0.125
+14. Carpenter has used t                ... pos = 2.25  	neg = 0.875
+15. The only addition to                ... pos = 0.875 	neg = 0.125
+16. He drinks, he swears                ... pos = 0.0   	neg = 0.75 
+17. After a tough day of                ... pos = 0.0   	neg = 0.0  
+18. They are interrupted                ... pos = 0.5   	neg = 0.5  
+19. The only surviving m                ... pos = 0.25  	neg = 0.375
+20. After Crow consults                 ... pos = 0.125 	neg = 0.125
+21. He plans to find a b                ... pos = 0.75  	neg = 0.125
+22. Katrinia, while at t                ... pos = 0.0   	neg = 0.125
+23. She has 2 days befor                ... pos = 0.0   	neg = 0    
+24. In these 2 days she                 ... pos = 0.25  	neg = 0.25 
+25. Crow and Montayo use                ... pos = 0.0   	neg = 0.75 
+26. John Carpenter is on                ... pos = 0.125 	neg = 0.125
+27. He has made such cla                ... pos = 0.75  	neg = 0.0  
+28. His 70s and 80s coll                ... pos = 0.25  	neg = 0.125
+29. Then the 90s came ar                ... pos = 0.0   	neg = 0.0  
+30. No J.C. film in the                 ... pos = 0.0   	neg = 0.375
+31. Vampires is quite a                 ... pos = 0.125 	neg = 0.125
+32. What Carpenter was k                ... pos = 1.125 	neg = 0.25 
+33. In that movie he rel                ... pos = 0.25  	neg = 0.0  
+34. Although Halloween i                ... pos = 0.5   	neg = 1.0  
+35. Vampires believes th                ... pos = 0.5   	neg = 0.625
+36. This is not true.                   ... pos = 0.5   	neg = 0.125
+37. Another major compla                ... pos = 0.0   	neg = 0.625
+38. Valek just isn't tha                ... pos = 0.75  	neg = 0.375
+39. He's your tired old                 ... pos = 2.25  	neg = 0.5  
+40. He vanishes from the                ... pos = 0.5   	neg = 0.0  
+41. Then when he reappea                ... pos = 0.125 	neg = 0.375
+42. Of course Vampires i                ... pos = 0.0   	neg = 0.875
+43. Woods does a good jo                ... pos = 1.0   	neg = 0.375
+44. The vampire hunting                 ... pos = 0.5   	neg = 0.0  
+45. They are brutal figh                ... pos = 0.25  	neg = 0.0  
+46. Scenes of Crow buryi                ... pos = 0.25  	neg = 0.0  
+47. I can just barely re                ... pos = 0.25  	neg = 0.0  
+48. Vampires, had it bee                ... pos = 0.875 	neg = 0.25 
+49. But it is currently                 ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1040-827 is Positive         ... pos = 21.0  	neg = 12.375
+Overall score of document
+Total Pos = 21.0
+Total Neg = 12.375
+---------------------------------------------------------------------------

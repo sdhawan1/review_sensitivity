@@ -1,0 +1,37 @@
+0. Note: For personal r                 ... pos = 0.125 	neg = 0.125
+1. No reviews will be p                 ... pos = 0.125 	neg = 0.375
+2. -Mac. American Pie i                 ... pos = 0.5   	neg = 1.125
+3. The film is indisput                 ... pos = 1.375 	neg = 0.25 
+4. However, the same se                 ... pos = 0.625 	neg = 0.25 
+5. Jim (Jason Biggs), O                 ... pos = 0.75  	neg = 0.5  
+6. The last straw for t                 ... pos = 0.625 	neg = 0.375
+7. Realizing that prom                  ... pos = 0.875 	neg = 0.375
+8. Candidates for the g                 ... pos = 0.0   	neg = 0.375
+9. The guys also have f                 ... pos = 1.0   	neg = 0.375
+10. The funniest part of                ... pos = 0.625 	neg = 0.125
+11. But it is Jim giving                ... pos = 0.875 	neg = 0.125
+12. The MPAA issued Amer                ... pos = 0.0   	neg = 0.0  
+13. However, the film is                ... pos = 1.0   	neg = 0.125
+14. Some of the  more of                ... pos = 0.0   	neg = 0.0  
+15. The movie also highl                ... pos = 0.125 	neg = 1.125
+16. If this film  doesn'                ... pos = 0.0   	neg = 0.125
+17. One thing American P                ... pos = 0.25  	neg = 0.25 
+18. As the four friends                 ... pos = 0.75  	neg = 0.625
+19. This memorable speec                ... pos = 0.375 	neg = 0.0  
+20. " And Natasha Lyonne                ... pos = 1.125 	neg = 0.0  
+21. It's sex!                           ... pos = 0     	neg = 0    
+22. " And some of the  g                ... pos = 0.875 	neg = 0.0  
+23. ". Unfortunately, Am                ... pos = 0.0   	neg = 0.875
+24. The  production also                ... pos = 0.5   	neg = 0.125
+25. Perhaps the most pre                ... pos = 0.125 	neg = 0.125
+26. But to the credit of                ... pos = 0.375 	neg = 0.25 
+27. American Pie opens w                ... pos = 0.0   	neg = 0.0  
+28. It is obvious that t                ... pos = 0.5   	neg = 0.375
+29. Ironically there may                ... pos = 0.0   	neg = 0.875
+30. It is an  entertaini                ... pos = 0.875 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-6196-592 is Positive         ... pos = 14.375 	neg = 10.125
+Overall score of document
+Total Pos = 14.375
+Total Neg = 10.125
+---------------------------------------------------------------------------

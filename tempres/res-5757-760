@@ -1,0 +1,46 @@
+0. By Nathaniel R. Atch                 ... pos = 1.125 	neg = 0.125
+1. I find it interestin                 ... pos = 0.0   	neg = 0.625
+2. City of Angels is a                  ... pos = 1.625 	neg = 0.125
+3. It's a love story th                 ... pos = 1.0   	neg = 0.0  
+4. City of Angels is an                 ... pos = 0.625 	neg = 0.25 
+5. I have yet to see Wi                 ... pos = 0.5   	neg = 1.0  
+6. I have heard, howeve                 ... pos = 0.125 	neg = 0.125
+7. Nicolas Cage stars a                 ... pos = 0.125 	neg = 0.75 
+8. One day, he is force                 ... pos = 0.125 	neg = 0.25 
+9. The angels can make                  ... pos = 0.0   	neg = 0.0  
+10. He shows himself to                 ... pos = 0.375 	neg = 0.375
+11. Seth wants to become                ... pos = 0.125 	neg = 0.0  
+12. That's when he meets                ... pos = 0.375 	neg = 0.0  
+13. "  (As a side note,                 ... pos = 1.5   	neg = 1.25 
+14. )  Messinger explain                ... pos = 0.25  	neg = 0.125
+15. Seth manages to conv                ... pos = 0.625 	neg = 1.0  
+16. This, of course, is                 ... pos = 0.625 	neg = 0.25 
+17. Since I love this fi                ... pos = 1.0   	neg = 0.0  
+18. Although it is origi                ... pos = 0.125 	neg = 0.125
+19. The plotting of the                 ... pos = 1.75  	neg = 0.5  
+20. The ending, too, cou                ... pos = 0.375 	neg = 0.375
+21. These elements are m                ... pos = 0.25  	neg = 0.0  
+22. The acting is superb                ... pos = 0.875 	neg = 0.125
+23. This is perhaps my s                ... pos = 0.25  	neg = 0.125
+24. He's quiet and pensi                ... pos = 1.125 	neg = 0    
+25. He's perfect for a r                ... pos = 1.125 	neg = 0.5  
+26. Meg Ryan is a powerf                ... pos = 0.625 	neg = 0.375
+27. Dennis Franz, howeve                ... pos = 1.0   	neg = 0    
+28. What I admire most a                ... pos = 0.625 	neg = 0.125
+29. Director Brad Silber                ... pos = 1.375 	neg = 0.5  
+30. His direction is ste                ... pos = 0.0   	neg = 0.25 
+31. There is no music or                ... pos = 1.0   	neg = 0.5  
+32. This is the way stor                ... pos = 1.375 	neg = 0.25 
+33. The film also appeal                ... pos = 0.625 	neg = 0.0  
+34. Cinematographer John                ... pos = 0.25  	neg = 0.25 
+35. The music, by Gabrie                ... pos = 0.25  	neg = 0.125
+36. ), and adds to the a                ... pos = 0.875 	neg = 0    
+37. The visual presentat                ... pos = 0.625 	neg = 0.125
+38. All of this adds up                 ... pos = 0.5   	neg = 0.125
+39. It's a film that rel                ... pos = 2.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5757-760 is Positive         ... pos = 27.625 	neg = 10.625
+Overall score of document
+Total Pos = 27.625
+Total Neg = 10.625
+---------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+0. Rated R: strong viol                 ... pos = 0.625 	neg = 0    
+1. Starring: Devon Sawa                 ... pos = 0.0   	neg = 0.0  
+2. Running Time: 97 min                 ... pos = 0.625 	neg = 0.125
+3. We've had films such                 ... pos = 0.0   	neg = 0.0  
+4. What brought out the                 ... pos = 0.25  	neg = 0.75 
+5. Even though I liked                  ... pos = 0.125 	neg = 0.5  
+6. Well nothing could h                 ... pos = 0.375 	neg = 0.25 
+7. The trailer truly sc                 ... pos = 1.0   	neg = 0.625
+8. Well I was wrong, yo                 ... pos = 0.0   	neg = 1.25 
+9. The film starts out                  ... pos = 0.25  	neg = 0.0  
+10. Aboard the plane Ale                ... pos = 0.25  	neg = 0.375
+11. Everything that happ                ... pos = 0.5   	neg = 1.0  
+12. When he is back into                ... pos = 0.75  	neg = 0.375
+13. A few months later,                 ... pos = 1.25  	neg = 0.25 
+14. The film is directed                ... pos = 0.375 	neg = 0.25 
+15. The thing that I fou                ... pos = 1.75  	neg = 0.25 
+16. Some brilliant ideas                ... pos = 1.25  	neg = 0.5  
+17. The cast is a far cr                ... pos = 0.5   	neg = 0.375
+18. Devon Sawa clocks in                ... pos = 2.5   	neg = 0.25 
+19. Ali Larter (who was                 ... pos = 1.0   	neg = 0.25 
+20. The rest of the cast                ... pos = 0.0   	neg = 0.0  
+21. This is one breathta                ... pos = 0.0   	neg = 1.0  
+22. It's inventiveness n                ... pos = 0.75  	neg = 0.25 
+23. I definately recomme                ... pos = 1.125 	neg = 0.0  
+24. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5575-480 is Positive         ... pos = 15.25 	neg = 8.625
+Overall score of document
+Total Pos = 15.25
+Total Neg = 8.625
+---------------------------------------------------------------------------

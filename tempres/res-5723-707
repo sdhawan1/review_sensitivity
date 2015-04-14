@@ -1,0 +1,27 @@
+0. Many office workers                  ... pos = 0.125 	neg = 0.375
+1. Peter Gibbons experi                 ... pos = 0.625 	neg = 0.75 
+2. After a mishap durin                 ... pos = 0.0   	neg = 0.0  
+3. He parks in his boss                 ... pos = 0.125 	neg = 0.0  
+4. When he finds out th                 ... pos = 0.625 	neg = 1.0  
+5. Director Mike Judge                  ... pos = 0.375 	neg = 0.0  
+6. He also is behind th                 ... pos = 0.125 	neg = 0.125
+7. This story is based                  ... pos = 1.75  	neg = 0.375
+8. Typical of Judge hum                 ... pos = 0.5   	neg = 0.0  
+9. From the business or                 ... pos = 0.375 	neg = 0.5  
+10. Although the film is                ... pos = 0.25  	neg = 0.25 
+11. Peters romance with                 ... pos = 0.5   	neg = 1.125
+12. It was apparently in                ... pos = 0.0   	neg = 0.25 
+13. The Milton character                ... pos = 0.875 	neg = 0.625
+14. The entire story has                ... pos = 0.875 	neg = 0.125
+15. This film has many s                ... pos = 0.375 	neg = 0.25 
+16. Moderately recommend                ... pos = 0.0   	neg = 0.25 
+17. The film is consiste                ... pos = 0.25  	neg = 0.125
+18. Anyone who works in                 ... pos = 0.375 	neg = 0.0  
+19. However, the story i                ... pos = 0.125 	neg = 0.25 
+20. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5723-707 is Positive         ... pos = 8.25  	neg = 6.375
+Overall score of document
+Total Pos = 8.25
+Total Neg = 6.375
+---------------------------------------------------------------------------

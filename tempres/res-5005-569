@@ -1,0 +1,48 @@
+0. Director: John McNau                 ... pos = 1.25  	neg = 2.125
+1. ". Director John McN                 ... pos = 0.25  	neg = 1.375
+2. It doesn't make the                  ... pos = 0.0   	neg = 1.125
+3. The movie resides so                 ... pos = 0.375 	neg = 0.625
+4. Because plot secrets                 ... pos = 1.875 	neg = 0.0  
+5. Sam Lombardo (Matt D                 ... pos = 0.75  	neg = 0.5  
+6. Kelly Van Ryan (Deni                 ... pos = 0.75  	neg = 0.0  
+7. Kelly is the daughte                 ... pos = 0.0   	neg = 1.25 
+8. Kelly's father, a re                 ... pos = 0.0   	neg = 0.25 
+9. One day, Kelly comes                 ... pos = 0.0   	neg = 0.0  
+10. She and girlfriend f                ... pos = 0.0   	neg = 0.125
+11. Kelly comes into Lom                ... pos = 0.0   	neg = 0.375
+12. The screen fades to                 ... pos = 0.5   	neg = 0.375
+13. What happened in the                ... pos = 0.0   	neg = 0.0  
+14. Kelly answers that q                ... pos = 0.0   	neg = 0.0  
+15. Police detective Ray                ... pos = 0.25  	neg = 0.5  
+16. That is, until Suzie                ... pos = 0.0   	neg = 1.125
+17. It seems to be a clo                ... pos = 1.875 	neg = 0.375
+18. The case goes to cou                ... pos = 0.375 	neg = 0.0  
+19. Things go hay-wire a                ... pos = 0.0   	neg = 0.0  
+20. By the time it is ar                ... pos = 0.0   	neg = 0.25 
+21. "Wild Things" is the                ... pos = 0.125 	neg = 1.375
+22. It gets so complicat                ... pos = 0.0   	neg = 0.0  
+23. The screenplay, by S                ... pos = 0.375 	neg = 0.125
+24. Because the script h                ... pos = 0.0   	neg = 1.625
+25. A script like this d                ... pos = 0.75  	neg = 0.375
+26. And who can blame hi                ... pos = 0.0   	neg = 0.5  
+27. The story is screami                ... pos = 0.25  	neg = 1.0  
+28. "Wild Things" isn't                 ... pos = 0.875 	neg = 0.125
+29. The A-list cast in b                ... pos = 1.125 	neg = 0.375
+30. Dillon, although a l                ... pos = 1.0   	neg = 0.75 
+31. Our sympathies are w                ... pos = 1.0   	neg = 0.125
+32. Richards, who had pr                ... pos = 0.25  	neg = 0.25 
+33. I would be surprised                ... pos = 0.25  	neg = 0.125
+34. However, she can act                ... pos = 0.625 	neg = 0.5  
+35. Too many "teenagers"                ... pos = 0.0   	neg = 0.625
+36. And, for those who a                ... pos = 0.375 	neg = 0.0  
+37. Her portrayal of a d                ... pos = 0.875 	neg = 0.75 
+38. .                                   ... pos = 0     	neg = 0    
+39. .                                   ... pos = 0     	neg = 0    
+40. ). To sum up, if you                ... pos = 0.375 	neg = 0.0  
+41. " However, if you do                ... pos = 0.375 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-5005-569 is Negative         ... pos = 16.875 	neg = 20.0 
+Overall score of document
+Total Pos = 16.875
+Total Neg = 20.0
+---------------------------------------------------------------------------

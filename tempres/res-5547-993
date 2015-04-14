@@ -1,0 +1,49 @@
+0. It is 250 years in t                 ... pos = 0.0   	neg = 0.125
+1. Dallas (Willis), an                  ... pos = 0.375 	neg = 0.0  
+2. One day a orange-hai                 ... pos = 0.0   	neg = 0.125
+3. Soon she is doing th                 ... pos = 0.375 	neg = 0.625
+4. Unless, of course, f                 ... pos = 0.375 	neg = 1.0  
+5. Did that sound silly                 ... pos = 0.0   	neg = 0.125
+6. You have no idea ...                 ... pos = 0     	neg = 0.25 
+7. There are several ty                 ... pos = 0.25  	neg = 0.25 
+8. In "The Fifth Elemen                 ... pos = 0.125 	neg = 1.375
+9. Stupid, but the plot                 ... pos = 0.375 	neg = 0.125
+10. You shouldn't get to                ... pos = 0.125 	neg = 0.25 
+11. A second might be th                ... pos = 0.25  	neg = 0.75 
+12. But "The Fifth Eleme                ... pos = 0.125 	neg = 0.875
+13. Although the moment                 ... pos = 1.0   	neg = 0.375
+14. The President, the f                ... pos = 0.125 	neg = 0.0  
+15. Leeloo is surprised                 ... pos = 0.25  	neg = 0.375
+16. Zorg's motives are m                ... pos = 0.25  	neg = 0.25 
+17. Several times the pl                ... pos = 0.875 	neg = 0.125
+18. " logic.                            ... pos = 0     	neg = 0.0  
+19. Possibly there is a                 ... pos = 0.125 	neg = 0.25 
+20. Or maybe the film is                ... pos = 0.0   	neg = 0.375
+21. The cast is crowded                 ... pos = 0.875 	neg = 1.625
+22. Gary Oldman, soundin                ... pos = 0.0   	neg = 0.25 
+23. On the bright side W                ... pos = 0.125 	neg = 0.25 
+24. (The more English sh                ... pos = 1.125 	neg = 0    
+25. )  Mention should al                ... pos = 1.25  	neg = 0.875
+26. And despite the abov                ... pos = 0.625 	neg = 0.375
+27. Besson has always fa                ... pos = 0.0   	neg = 0.375
+28. For example, his "Su                ... pos = 0.625 	neg = 0.625
+29. But more recently, w                ... pos = 2.25  	neg = 0.0  
+30. "The Fifth Element"                 ... pos = 0.125 	neg = 0.375
+31. The whole is absurd                 ... pos = 0.875 	neg = 0.125
+32. In a way the correct                ... pos = 0.875 	neg = 0.125
+33. It also helps that t                ... pos = 1.25  	neg = 0.875
+34. It grieves me to rec                ... pos = 0.125 	neg = 0.0  
+35. But unlike other big                ... pos = 1.25  	neg = 0.625
+36. If you're going to t                ... pos = 0.875 	neg = 0.0  
+37. Unfortunately this f                ... pos = 0.5   	neg = 0.875
+38. [**/ok] and on the S                ... pos = 0.0   	neg = 0.0  
+39. "The Fifth Element"                 ... pos = 0.0   	neg = 0.0  
+40. Starring Bruce Willi                ... pos = 0.0   	neg = 0.0  
+41. Released 1997.                      ... pos = 0.0   	neg = 0    
+42. ------ paul-michael                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5547-993 is Positive         ... pos = 17.75 	neg = 15.0 
+Overall score of document
+Total Pos = 17.75
+Total Neg = 15.0
+---------------------------------------------------------------------------

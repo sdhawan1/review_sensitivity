@@ -1,0 +1,26 @@
+0. Starring: Sigourney                  ... pos = 0.0   	neg = 1.125
+1. In the gloomy third                  ... pos = 0.25  	neg = 0.0  
+2. This fourth film,                  ... pos = 0.0   	neg = 0.625
+3. In Alien: Resurrec                 ... pos = 0.0   	neg = 0.0  
+4. This leads to a situ                 ... pos = 0.25  	neg = 0.5  
+5. The twist is, becaus                 ... pos = 0.375 	neg = 0.375
+6. Also we get to see a                 ... pos = 0.0   	neg = 1.0  
+7. In a subplot, Winona                 ... pos = 0.5   	neg = 0.0  
+8. The humans are tryin                 ... pos = 0.375 	neg = 0.5  
+9. Can they reach it be                 ... pos = 0.125 	neg = 0.625
+10. Opinion:  Prior to t                ... pos = 0.75  	neg = 0.25 
+11. Next best was the or                ... pos = 0.375 	neg = 0.125
+12. And coming in last w                ... pos = 0.0   	neg = 0.25 
+13. Now that I've seen �                ... pos = 0.0   	neg = 0.0  
+14. On the plus side, th                ... pos = 0.75  	neg = 0.375
+15. On the minus side, t                ... pos = 0.125 	neg = 0.25 
+16. And the dialogue's p                ... pos = 0.0   	neg = 0.125
+17. Then you die.").                    ... pos = 0     	neg = 0.0  
+18. This one's strictly                 ... pos = 0.125 	neg = 0.375
+19. Kinda funny, but Fre                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2335-416 is Negative         ... pos = 4.375 	neg = 6.75 
+Overall score of document
+Total Pos = 4.375
+Total Neg = 6.75
+---------------------------------------------------------------------------

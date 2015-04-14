@@ -1,0 +1,107 @@
+0. give me a buzz on th                 ... pos = 0.875 	neg = 0.125
+1. the garbage known as                 ... pos = 0.0   	neg = 0.0  
+2. Nothing, right?                      ... pos = 0.0   	neg = 0.25 
+3. What's to like about                 ... pos = 0.25  	neg = 0.125
+4. Well...nothing.                      ... pos = 0.0   	neg = 0.25 
+5. So, why make it, Hol                 ... pos = 0.0   	neg = 0.0  
+6. There's no reason wh                 ... pos = 0.125 	neg = 0.375
+7. No one is going to e                 ... pos = 1.25  	neg = 0.125
+8. The lack of quality                  ... pos = 0.5   	neg = 0.125
+9. But Joel Schumacher                  ... pos = 0.0   	neg = 0.625
+10. Like Paul Schrader,                 ... pos = 0.0   	neg = 0.0  
+11. ) between.                          ... pos = 0.0   	neg = 0    
+12. Basically, this pict                ... pos = 0.0   	neg = 0.625
+13. Why not walk out?                   ... pos = 0.0   	neg = 0.0  
+14. Well, this wouldn't                 ... pos = 0.75  	neg = 1.0  
+15. Here's why you shoul                ... pos = 1.375 	neg = 1.25 
+16. It's not easy to wat                ... pos = 0.375 	neg = 0    
+17. I didn't know the de                ... pos = 0.625 	neg = 0.0  
+18. The (HA!                            ... pos = 0     	neg = 0    
+19. ) plot revolves arou                ... pos = 0.25  	neg = 0.0  
+20. A rich old woman dis                ... pos = 0.0   	neg = 0.0  
+21. She calls Welles and                ... pos = 0.0   	neg = 0.125
+22. ) who appears to be                 ... pos = 0.0   	neg = 0.875
+23. She's horrified that                ... pos = 0.125 	neg = 0.0  
+24. Family-man Welles ag                ... pos = 0.375 	neg = 0.5  
+25. Let me backtrack for                ... pos = 0.0   	neg = 0.0  
+26. See, "snuff" films a                ... pos = 1.625 	neg = 0.0  
+27. However, the deaths                 ... pos = 0.625 	neg = 0.0  
+28. Very sick people enj                ... pos = 0.875 	neg = 0.0  
+29. The thought of this                 ... pos = 0.0   	neg = 0.25 
+30. Welles follows clues                ... pos = 0.125 	neg = 0.0  
+31. You'd think he's She                ... pos = 0.25  	neg = 0.0  
+32. He comes across smut                ... pos = 0.0   	neg = 1.0  
+33. After a lot of diggi                ... pos = 0.875 	neg = 0.0  
+34. Skip ahead, skip ahe                ... pos = 0.0   	neg = 0.0  
+35. Led by Dino Velvet (                ... pos = 0.0   	neg = 0.625
+36. The movie doesn't en                ... pos = 0.0   	neg = 1.125
+37. This film doesn't dr                ... pos = 0.0   	neg = 0    
+38. It keeps you about 7                ... pos = 0.125 	neg = 0.125
+39. It IS possible to li                ... pos = 0.0   	neg = 0.25 
+40. "Se7en"), but it tak                ... pos = 0.125 	neg = 0.75 
+41. By those jabs, I'm n                ... pos = 0.75  	neg = 1.0  
+42. For a guy who gets s                ... pos = 1.0   	neg = 1.0  
+43. A good screenwriter                 ... pos = 1.625 	neg = 0.125
+44. Writer Andrew Kevin                 ... pos = 0.25  	neg = 0.625
+45. Director Schumacher                 ... pos = 0.5   	neg = 0.25 
+46. He must not have bel                ... pos = 0.75  	neg = 1.0  
+47. However, gratuitous                 ... pos = 0.125 	neg = 0.125
+48. He must think that n                ... pos = 0.625 	neg = 0.375
+49. No, he doesn't go TH                ... pos = 0.0   	neg = 0.5  
+50. He doesn't leave muc                ... pos = 0.125 	neg = 0    
+51. It's manipulating to                ... pos = 0.0   	neg = 0.125
+52. The script and actin                ... pos = 1.25  	neg = 0.375
+53. ) craft.                            ... pos = 0.125 	neg = 0    
+54. Case in point, a sho                ... pos = 0.75  	neg = 0.0  
+55. ) drives away to rev                ... pos = 0.0   	neg = 1.25 
+56. See...no subtlety.                  ... pos = 0.0   	neg = 0.25 
+57. Does Joel think we'r                ... pos = 0.25  	neg = 0.5  
+58. Who do we root for i                ... pos = 0.0   	neg = 0.0  
+59. Is there anybody out                ... pos = 0     	neg = 0.125
+60. It's not all the dir                ... pos = 0.0   	neg = 0.125
+61. Why did the actors s                ... pos = 0     	neg = 0.0  
+62. Nicolas Cage is an O                ... pos = 0.0   	neg = 0.125
+63. If he claims to do f                ... pos = 0.625 	neg = 0.125
+64. What is Cage suppose                ... pos = 0.125 	neg = 0.25 
+65. Villainous Peter Sto                ... pos = 0.0   	neg = 0.903
+66. And what is James Ga                ... pos = 0.0   	neg = 0.25 
+67. He was so solid as a                ... pos = 0.125 	neg = 0.125
+68. I guess ol' Nic, Pet                ... pos = 0.0   	neg = 0.25 
+69. Or they just don't c                ... pos = 0     	neg = 0.0  
+70. There ARE moments (a                ... pos = 0.625 	neg = 0.125
+71. Catherine Keener is                 ... pos = 0.75  	neg = 0.375
+72. Baby Cindy is obviou                ... pos = 1.125 	neg = 0.25 
+73. The mother (Amy Nort                ... pos = 0.25  	neg = 2.25 
+74. This film has an app                ... pos = 0.125 	neg = 0.5  
+75. The editing is okay                 ... pos = 0.5   	neg = 0.5  
+76. During some conversa                ... pos = 1.75  	neg = 1.25 
+77. Such a technical err                ... pos = 0.0   	neg = 0.625
+78. Speaking of standing                ... pos = 0.125 	neg = 0.0  
+79. There's not much act                ... pos = 0.125 	neg = 0.0  
+80. Occasionally, yes, b                ... pos = 0.25  	neg = 0.0  
+81. After seeing "8MM",                 ... pos = 0.0   	neg = 0.125
+82. Is that a positive?                 ... pos = 0.0   	neg = 0.125
+83. Well, if making me a                ... pos = 0.0   	neg = 0.625
+84. It'll be a long time                ... pos = 0.125 	neg = 1.25 
+85. But today I'm not de                ... pos = 0.375 	neg = 0.875
+86. I'm sure that somewh                ... pos = 0.25  	neg = 1.125
+87. Yes, Mr. Walker, you                ... pos = 0.25  	neg = 0.0  
+88. Yes, Mr. Walker, the                ... pos = 0.0   	neg = 0.25 
+89. You said all that in                ... pos = 0.0   	neg = 0.0  
+90. Move on.                            ... pos = 0     	neg = 0.0  
+91. This film serves no                 ... pos = 0.0   	neg = 0.25 
+92. It doesn't entertain                ... pos = 0.125 	neg = 0.375
+93. Only if this film aw                ... pos = 1.0   	neg = 0.0  
+94. That's not likely to                ... pos = 0.0   	neg = 1.0  
+95. Orson Welles said ye                ... pos = 0.75  	neg = 0.0  
+96. If only Joel Schumac                ... pos = 0.0   	neg = 1.125
+97. Like "snuff" films,                 ... pos = 0.0   	neg = 0.125
+98. Now, excuse me while                ... pos = 0.25  	neg = 0.0  
+99. USELESS TRIVIA--Joel                ... pos = 0.625 	neg = 0.625
+100. He used it in "Batma               ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2514-1158 is Negative        ... pos = 30.0  	neg = 34.028
+Overall score of document
+Total Pos = 30.0
+Total Neg = 34.028
+---------------------------------------------------------------------------

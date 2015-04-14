@@ -1,0 +1,18 @@
+0. HILARY AND JACKIE Re                 ... pos = 1.5   	neg = 0.75 
+1. However, the Hilary                  ... pos = 1.875 	neg = 1.25 
+2. The  jury's currentl                 ... pos = 1.625 	neg = 0.125
+3. "Hilary and Jackie"                  ... pos = 0.75  	neg = 0.125
+4. But  when Jackie rev                 ... pos = 1.125 	neg = 0.125
+5. For the  second time                 ... pos = 0.625 	neg = 0.375
+6. This story is told i                 ... pos = 1.0   	neg = 1.25 
+7. There  are a few und                 ... pos = 1.875 	neg = 1.0  
+8. Simply put, these  w                 ... pos = 0.75  	neg = 0.0  
+9. Also remarkable is h                 ... pos = 1.25  	neg = 0.375
+10. Screenwriter Frank C                ... pos = 0.5   	neg = 0.875
+11. One such rendering i                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6182-1031 is Positive        ... pos = 13.875 	neg = 6.375
+Overall score of document
+Total Pos = 13.875
+Total Neg = 6.375
+---------------------------------------------------------------------------

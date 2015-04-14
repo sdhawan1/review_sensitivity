@@ -1,0 +1,34 @@
+0. THE HAUNTING * (out                  ... pos = 0.625 	neg = 1.25 
+1. " Nothing short of h                 ... pos = 0.75  	neg = 0.625
+2. The Haunting is late                 ... pos = 0.75  	neg = 3.625
+3. ". Fragile Nell (Tay                 ... pos = 0.375 	neg = 0.0  
+4. Marrow's secretly ga                 ... pos = 0.0   	neg = 0.0  
+5. He's not prepared fo                 ... pos = 0.5   	neg = 0.375
+6. Taylor is thoroughly                 ... pos = 0.125 	neg = 0.125
+7. For starters, her co                 ... pos = 0.25  	neg = 1.25 
+8. Her character is sup                 ... pos = 2.25  	neg = 2.625
+9. As for the obscenely                 ... pos = 0.0   	neg = 0.0  
+10. Unfortunately, she's                ... pos = 0.0   	neg = 0.875
+11. Theo's assessment of                ... pos = 0.0   	neg = 0    
+12. "I love it!                         ... pos = 0.625 	neg = 0    
+13. Sort of Charles Fost                ... pos = 0.0   	neg = 0.0  
+14. " Who on Earth would                ... pos = 0.125 	neg = 0.0  
+15. (Furthermore, would                 ... pos = 0.25  	neg = 0.0  
+16. ). Both actresses fa                ... pos = 1.625 	neg = 1.25 
+17. As Luke puts it, Dr.                ... pos = 0.0   	neg = 0    
+18. Marrow pulls the old                ... pos = 0.125 	neg = 0.375
+19. Later, he risks his                 ... pos = 0.0   	neg = 0.5  
+20. Why was this nice, h                ... pos = 1.375 	neg = 0.125
+21. The Haunting was wel                ... pos = 0.0   	neg = 0.125
+22. His sets are obsessi                ... pos = 0.5   	neg = 0.0  
+23. I do have one beef w                ... pos = 0.25  	neg = 1.375
+24. Eighty million dolla                ... pos = 0.125 	neg = 0.125
+25. Thank Jan De Bont fo                ... pos = 0.5   	neg = 0.875
+26. His images, well-lit                ... pos = 1.0   	neg = 0.375
+27. I don't mean to sugg                ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4533-1545 is Negative        ... pos = 13.375 	neg = 16.0 
+Overall score of document
+Total Pos = 13.375
+Total Neg = 16.0
+---------------------------------------------------------------------------

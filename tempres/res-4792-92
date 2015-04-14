@@ -1,0 +1,38 @@
+0. Seen on 22 November                  ... pos = 0.0   	neg = 0.0  
+1. This is the latest e                 ... pos = 1.25  	neg = 0.125
+2. Henry James' charact                 ... pos = 1.125 	neg = 0.0  
+3. What could have been                 ... pos = 0.5   	neg = 0.25 
+4. Set in London in 191                 ... pos = 0.0   	neg = 0.125
+5. She forbids Kate to                  ... pos = 0.0   	neg = 0.125
+6. Since her choice inv                 ... pos = 0.0   	neg = 0.5  
+7. Resentfully settling                 ... pos = 1.125 	neg = 0.125
+8. The two women become                 ... pos = 0.5   	neg = 0.0  
+9. When Kate finds out                  ... pos = 0.0   	neg = 0.0  
+10. They both love him,                 ... pos = 1.125 	neg = 0.25 
+11. Luckily, this is not                ... pos = 0.5   	neg = 0.125
+12. The characters are r                ... pos = 1.875 	neg = 0.0  
+13. Their faces reflect                 ... pos = 0.625 	neg = 0    
+14. It's a joy to watch                 ... pos = 0.625 	neg = 0.125
+15. You really feel the                 ... pos = 0.375 	neg = 0.0  
+16. Linus Roach, who I l                ... pos = 1.0   	neg = 0.125
+17. It's nice to see som                ... pos = 0.0   	neg = 0.125
+18. Venice is the fourth                ... pos = 0.0   	neg = 0.125
+19. It is one of the onl                ... pos = 0.0   	neg = 0.375
+20. Whether it's *Summer                ... pos = 0.0   	neg = 0.0  
+21. It's hard to imagine                ... pos = 0.5   	neg = 1.25 
+22. Director Iain Softle                ... pos = 0.75  	neg = 0.0  
+23. It takes something s                ... pos = 0.0   	neg = 0.375
+24. He really knows when                ... pos = 0.0   	neg = 0.0  
+25. For example, when He                ... pos = 0.75  	neg = 0.0  
+26. Kudos also to Sandy                 ... pos = 0.0   	neg = 0.0  
+27. The flamboyant fashi                ... pos = 0.75  	neg = 0.0  
+28. The whole production                ... pos = 0.0   	neg = 0.375
+29. MPAA reasons: Rated                 ... pos = 0.125 	neg = 0.0  
+30. That would be *heter                ... pos = 0.0   	neg = 0.125
+31. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4792-92 is Positive          ... pos = 13.5  	neg = 4.75 
+Overall score of document
+Total Pos = 13.5
+Total Neg = 4.75
+---------------------------------------------------------------------------

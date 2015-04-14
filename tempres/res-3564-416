@@ -1,0 +1,26 @@
+0. Written by: Kurt Wim                 ... pos = 0.625 	neg = 0.375
+1. Inside the craft the                 ... pos = 0.625 	neg = 0.0  
+2. ' . Without warning,                 ... pos = 1.0   	neg = 0.625
+3. Then the nightmares                  ... pos = 0.375 	neg = 0.25 
+4. For instance, phobia                 ... pos = 0.875 	neg = 0.625
+5. (Queen Latifah plays                 ... pos = 0.125 	neg = 0.5  
+6. ) Will Norman and th                 ... pos = 0.25  	neg = 0.5  
+7. Opinion: There are g                 ... pos = 1.0   	neg = 0.625
+8. The main problem wit                 ... pos = 0.875 	neg = 0.375
+9. The characters aren'                 ... pos = 0.875 	neg = 0.0  
+10. In a regular movie,                 ... pos = 2.125 	neg = 0.0  
+11. But in this movie, t                ... pos = 0.0   	neg = 0.0  
+12. The characters just                 ... pos = 0.875 	neg = 0.0  
+13. We the audience don'                ... pos = 0.25  	neg = 0.0  
+14. At least two the mai                ... pos = 0.875 	neg = 0.375
+15. But throughout the f                ... pos = 0.0   	neg = 0.125
+16. For the audience, al                ... pos = 0.625 	neg = 0.0  
+17. At unexpected times                 ... pos = 1.5   	neg = 0.5  
+18. We don't find out -                 ... pos = 0.375 	neg = 0.375
+19. Nor do we learn anyt                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3564-416 is Positive         ... pos = 13.875 	neg = 5.25 
+Overall score of document
+Total Pos = 13.875
+Total Neg = 5.25
+---------------------------------------------------------------------------

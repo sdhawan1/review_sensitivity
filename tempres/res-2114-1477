@@ -1,0 +1,78 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring Matthew McC                 ... pos = 0.0   	neg = 0.0  
+2. Carson, Jack Nosewor                 ... pos = 0.0   	neg = 0.0  
+3. Written by Jonathan                  ... pos = 0.0   	neg = 0.0  
+4. Directed by Jonathan                 ... pos = 0.0   	neg = 0    
+5. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+6. "U-571" is the kind                  ... pos = 0.0   	neg = 0.25 
+7. In fact, it  is abso                 ... pos = 0.0   	neg = 0.375
+8. At all.                              ... pos = 0.0   	neg = 0.0  
+9. If  you do, you'll h                 ... pos = 0.125 	neg = 0.0  
+10. But this isn't a ter                ... pos = 0.0   	neg = 0.0  
+11. You pays your money,                ... pos = 0.125 	neg = 0.0  
+12. It's also somewhat p                ... pos = 0.25  	neg = 0.625
+13. But I liked it.                     ... pos = 0.125 	neg = 0.0  
+14. Why?                                ... pos = 0     	neg = 0.0  
+15. Because this movie m                ... pos = 0.0   	neg = 0.0  
+16. I didn't gain any gr                ... pos = 0.625 	neg = 0.0  
+17. The plot?                           ... pos = 0     	neg = 0.0  
+18. OK, so there are the                ... pos = 0.25  	neg = 0.625
+19. .                                   ... pos = 0     	neg = 0    
+20. .                                   ... pos = 0     	neg = 0    
+21. oh.                                 ... pos = 0     	neg = 0.0  
+22. You want names, don'                ... pos = 0     	neg = 0.125
+23. Fine: Lt. Andrew Tyl                ... pos = 0.0   	neg = 0.125
+24. second in command) a                ... pos = 0.0   	neg = 0    
+25. His captain (Bill Pa                ... pos = 0.125 	neg = 0.0  
+26. While on shore leave                ... pos = 0.25  	neg = 0.875
+27. Since its capture me                ... pos = 0.5   	neg = 0.5  
+28. Unfortunately, the p                ... pos = 0.0   	neg = 1.125
+29. But as I said before                ... pos = 0.0   	neg = 0.0  
+30. What matters is that                ... pos = 1.5   	neg = 0.375
+31. There is a simple,                  ... pos = 1.25  	neg = 0.875
+32. You'd think it's an                 ... pos = 0.5   	neg = 0.125
+33. Either we got murky                 ... pos = 0     	neg = 0.75 
+34. Compared to  some of                ... pos = 0.25  	neg = 0.375
+35. Mostow keeps it simp                ... pos = 1.625 	neg = 0.875
+36. This gives us ample                 ... pos = 0.0   	neg = 0.625
+37. Mostow handles this                 ... pos = 1.0   	neg = 0.25 
+38. Any director wonderi                ... pos = 0.125 	neg = 0.25 
+39. The cast, most likel                ... pos = 0.375 	neg = 0.0  
+40. In a movie like "U-5                ... pos = 0.0   	neg = 0.25 
+41. McConaughey, Paxton,                ... pos = 0.875 	neg = 0.5  
+42. That's all they're r                ... pos = 0.0   	neg = 0.0  
+43. After all,  we don't                ... pos = 1.25  	neg = 0.75 
+44. Most of the actors'                 ... pos = 0.0   	neg = 0.0  
+45. " or "Foreshadowing!                ... pos = 0     	neg = 0.0  
+46. " But that's okay --                ... pos = 0.875 	neg = 0.875
+47. Let me see, if McCon                ... pos = 1.5   	neg = 0.125
+48. If there's a German                 ... pos = 0.75  	neg = 0.0  
+49. Will the good guys w                ... pos = 0.875 	neg = 0.0  
+50. Don't worry;  you do                ... pos = 0.0   	neg = 0.0  
+51. So yes, the plot dev                ... pos = 0.25  	neg = 0.0  
+52. They  also happen at                ... pos = 0.5   	neg = 0.625
+53. When a  young sailor                ... pos = 0.0   	neg = 0.0  
+54. When the Nazi gets h                ... pos = 0.0   	neg = 0.222
+55. Once it gets past th                ... pos = 1.0   	neg = 0.125
+56. It's also Hollywood                 ... pos = 0.125 	neg = 0.125
+57. Controversy has  ari                ... pos = 0.5   	neg = 0.375
+58. The film does includ                ... pos = 0.875 	neg = 0.375
+59. Is  anybody going to                ... pos = 0.5   	neg = 0.75 
+60. I hope not.                         ... pos = 0.375 	neg = 0.0  
+61. It's easy to complai                ... pos = 1.5   	neg = 0.0  
+62. In  fact, after watc                ... pos = 0.0   	neg = 0.0  
+63. I found that the  fi                ... pos = 0.375 	neg = 0.25 
+64. But therein  lay my                 ... pos = 0.125 	neg = 0.375
+65. "U-571" is not the k                ... pos = 0.625 	neg = 0.5  
+66. You're not in a movi                ... pos = 0.75  	neg = 0.625
+67. That's where "U-571"                ... pos = 0.125 	neg = 0    
+68. Jonathan  Mostow has                ... pos = 0.25  	neg = 0.0  
+69. He just wanted to gi                ... pos = 0.125 	neg = 0.0  
+70. That he has.                        ... pos = 0.0   	neg = 0    
+71. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2114-1477 is Positive        ... pos = 23.25 	neg = 15.972
+Overall score of document
+Total Pos = 23.25
+Total Neg = 15.972
+---------------------------------------------------------------------------

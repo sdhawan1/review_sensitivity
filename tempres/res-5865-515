@@ -1,0 +1,37 @@
+0. Lost Highway (1996)                  ... pos = 0.0   	neg = 0.0  
+1. Written by: David Ly                 ... pos = 0.0   	neg = 0.125
+2. Directed by: David L                 ... pos = 0.0   	neg = 0.125
+3. Running Time: 135 mi                 ... pos = 0     	neg = 0.0  
+4. In just about every                  ... pos = 0.25  	neg = 0.5  
+5. The reviewer cannot                  ... pos = 0.0   	neg = 0.125
+6. Well, neither can I.                 ... pos = 0.0   	neg = 0.25 
+7. It just can't be don                 ... pos = 0.0   	neg = 0.125
+8. And I'm sorry, if I                  ... pos = 1.25  	neg = 0.875
+9. Surprisingly, despit                 ... pos = 0.5   	neg = 0.25 
+10. First off, the openi                ... pos = 1.25  	neg = 0.75 
+11. I can't explain why,                ... pos = 0.0   	neg = 0.0  
+12. Then "Lost Highway"                 ... pos = 0.75  	neg = 0.25 
+13. I was extremely inte                ... pos = 0.875 	neg = 0.125
+14. But unfortunately, I                ... pos = 0.125 	neg = 0.875
+15. And so the story pro                ... pos = 0.0   	neg = 0.0  
+16. It must have killed                 ... pos = 1.625 	neg = 0.0  
+17. Now, as it seems, he                ... pos = 0.125 	neg = 1.0  
+18. So when the closing                 ... pos = 1.25  	neg = 0.375
+19. Hey, I've got a joke                ... pos = 0.0   	neg = 1.375
+20. Enjoy that one.                     ... pos = 0.375 	neg = 0    
+21. The cast is fine wit                ... pos = 0.0   	neg = 0.5  
+22. As with most of his                 ... pos = 1.25  	neg = 0.0  
+23. Entertainment Weekly                ... pos = 0.5   	neg = 0.0  
+24. That's all Lynch giv                ... pos = 0.0   	neg = 0.125
+25. I'm not saying that'                ... pos = 0.875 	neg = 1.0  
+26. A grip or a best boy                ... pos = 0.625 	neg = 0.0  
+27. And Jack Nance, who                 ... pos = 0.0   	neg = 0.0  
+28. I believe this was h                ... pos = 0.125 	neg = 0.125
+29. [R]. Visit Chuck's M                ... pos = 0.125 	neg = 0.0  
+30. Movie news, film rel                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5865-515 is Positive         ... pos = 11.875 	neg = 8.875
+Overall score of document
+Total Pos = 11.875
+Total Neg = 8.875
+---------------------------------------------------------------------------

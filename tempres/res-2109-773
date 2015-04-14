@@ -1,0 +1,24 @@
+0. To repeat that Meryl                 ... pos = 0.0   	neg = 0.625
+1. One of Streep's most                 ... pos = 3.625 	neg = 0.125
+2. In "Music of the Hea                 ... pos = 0.75  	neg = 0.0  
+3. Streep spent two mon                 ... pos = 0.75  	neg = 0.0  
+4. When the marriage fa                 ... pos = 1.875 	neg = 0.25 
+5. Streep's face as she                 ... pos = 0.0   	neg = 0.125
+6. Sadly, there is more                 ... pos = 0.0   	neg = 0.75 
+7. There is also a scre                 ... pos = 0.375 	neg = 0.375
+8. Gray has gathered he                 ... pos = 0.5   	neg = 0.25 
+9. The result is a seri                 ... pos = 1.25  	neg = 0.75 
+10. When Guaspari's scho                ... pos = 0.375 	neg = 0.125
+11. Only at this late po                ... pos = 0.875 	neg = 0.375
+12. The presence of thes                ... pos = 0.125 	neg = 0.25 
+13. The role of Roberta                 ... pos = 0.125 	neg = 0.125
+14. Too bad.                            ... pos = 0     	neg = 1.125
+15. Madonna's acting tal                ... pos = 0.5   	neg = 0.25 
+16. The shocker is that                 ... pos = 0.0   	neg = 0.625
+17. In his effort to men                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2109-773 is Positive         ... pos = 11.125 	neg = 6.375
+Overall score of document
+Total Pos = 11.125
+Total Neg = 6.375
+---------------------------------------------------------------------------

@@ -1,0 +1,56 @@
+0. **** (out of 4) Ther                 ... pos = 0.25  	neg = 0.125
+1. Casting Woody Allen                  ... pos = 0.25  	neg = 0.125
+2. Also, ANTZ was put o                 ... pos = 0.0   	neg = 0.25 
+3. It's nice to see som                 ... pos = 0.125 	neg = 0.0  
+4. But as much as I lik                 ... pos = 0.25  	neg = 0.125
+5. It is not just cleve                 ... pos = 0.875 	neg = 0.25 
+6. There are some genui                 ... pos = 1.25  	neg = 0.0  
+7. The people at Pixar                  ... pos = 0.625 	neg = 0.75 
+8. The film introduces                  ... pos = 0.375 	neg = 0.25 
+9. If the ants fail to                  ... pos = 0.125 	neg = 0.125
+10. So the ants gather t                ... pos = 0.0   	neg = 0.125
+11. One ant, Flik (Dave                 ... pos = 0.0   	neg = 0.0  
+12. While showing his pi                ... pos = 0.375 	neg = 0.25 
+13. When the hoppers sho                ... pos = 0.25  	neg = 0.0  
+14. The royal court has                 ... pos = 0.625 	neg = 0.0  
+15. Any plan that involv                ... pos = 0.0   	neg = 0.25 
+16. Flik makes it to the                ... pos = 0.375 	neg = 1.125
+17. In a seamy tin can F                ... pos = 0.25  	neg = 1.125
+18. He asks for their he                ... pos = 0.125 	neg = 0.0  
+19. The mercenaries are                 ... pos = 0.5   	neg = 0.0  
+20. The actors think Fli                ... pos = 0.0   	neg = 0.125
+21. Eventually things ge                ... pos = 0.0   	neg = 0.5  
+22. The colony will have                ... pos = 0.125 	neg = 0.0  
+23. Necessity is the mot                ... pos = 0.375 	neg = 0.125
+24. Screenwriters John L                ... pos = 0.0   	neg = 0.0  
+25. The problem was how                 ... pos = 0.0   	neg = 0.375
+26. I was amazed that th                ... pos = 0.375 	neg = 0.5  
+27. The solution to thei                ... pos = 0.875 	neg = 0.625
+28. Other refreshing exa                ... pos = 0.0   	neg = 0.0  
+29. There was a flute-li                ... pos = 0.625 	neg = 0.125
+30. There was even a sec                ... pos = 0.0   	neg = 0.125
+31. Each of these bumps                 ... pos = 1.875 	neg = 0.25 
+32. And speaking of writ                ... pos = 1.625 	neg = 0.25 
+33. When the previews sh                ... pos = 0.5   	neg = 1.125
+34. But in fact, these c                ... pos = 1.125 	neg = 0.375
+35. Yes, the bugs are ca                ... pos = 0.75  	neg = 0.0  
+36. In addition to the w                ... pos = 1.375 	neg = 0.5  
+37. I was at first disap                ... pos = 1.0   	neg = 0.25 
+38. But on closer inspec                ... pos = 0.125 	neg = 0.0  
+39. You can also see som                ... pos = 0.5   	neg = 0.0  
+40. So even though the l                ... pos = 0.125 	neg = 1.125
+41. And when the "camera                ... pos = 0.125 	neg = 0.0  
+42. There seems to be so                ... pos = 0.0   	neg = 0.5  
+43. Perhaps it's the pho                ... pos = 0.0   	neg = 0.0  
+44. In any case, the han                ... pos = 0.25  	neg = 0.0  
+45. There are lots of ta                ... pos = 0.25  	neg = 0.5  
+46. In this age of selli                ... pos = 0.0   	neg = 0.0  
+47. Enjoy!                              ... pos = 0     	neg = 0    
+48. And don't miss the "                ... pos = 0.0   	neg = 0.0  
+49. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-1008 is Positive        ... pos = 18.625 	neg = 12.25
+Overall score of document
+Total Pos = 18.625
+Total Neg = 12.25
+---------------------------------------------------------------------------

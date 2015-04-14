@@ -1,0 +1,60 @@
+0. Steven Spielberg is,                 ... pos = 0.875 	neg = 0.125
+1. He has made us belie                 ... pos = 0.125 	neg = 0.25 
+2. The hallmark of Spie                 ... pos = 0.375 	neg = 0.625
+3. Every scene, every s                 ... pos = 0.0   	neg = 0.125
+4. Only the best Hollyw                 ... pos = 1.625 	neg = 0.625
+5. However, just as som                 ... pos = 0.375 	neg = 0.125
+6. And Spielberg's last                 ... pos = 0.0   	neg = 0    
+7. Although the dinosau                 ... pos = 0.0   	neg = 0.75 
+8. Both the historical                  ... pos = 0.875 	neg = 0.125
+9. From a technical sta                 ... pos = 0.0   	neg = 0.75 
+10. There was every reas                ... pos = 0.625 	neg = 0.25 
+11. And so it is.                       ... pos = 0.0   	neg = 0.125
+12. Veterans who were th                ... pos = 1.5   	neg = 0.5  
+13. Spielberg conveys th                ... pos = 0.0   	neg = 0.0  
+14. With the resources o                ... pos = 0.0   	neg = 0.0  
+15. The "cabinet" of the                ... pos = 0.0   	neg = 0.125
+16. The war scenes, whil                ... pos = 1.5   	neg = 0.375
+17. The set design is fa                ... pos = 1.25  	neg = 0.375
+18. But what makes Savin                ... pos = 0.25  	neg = 0.0  
+19. This movie turns out                ... pos = 0.0   	neg = 0.125
+20. Saving Private Ryan                 ... pos = 0.25  	neg = 0.125
+21. The story is simple:                ... pos = 0.25  	neg = 0.125
+22. He is to be found an                ... pos = 0.0   	neg = 0.25 
+23. However, Ryan droppe                ... pos = 0.125 	neg = 0.0  
+24. Hanks, his top serge                ... pos = 0.75  	neg = 0.125
+25. The quest for Ryan i                ... pos = 0.0   	neg = 0.5  
+26. Hanks and his crew d                ... pos = 0.75  	neg = 0.125
+27. This makes the movie                ... pos = 0.625 	neg = 0.0  
+28. Is it OK to shoot pr                ... pos = 0.0   	neg = 0.125
+29. Is one man's life wo                ... pos = 0.75  	neg = 0.125
+30. In doing so, Saving                 ... pos = 2.25  	neg = 0.0  
+31. By focusing on these                ... pos = 0.5   	neg = 0.0  
+32. Although some of the                ... pos = 0.625 	neg = 0.0  
+33. It's a celebration o                ... pos = 0.5   	neg = 0.125
+34. (And one of the thin                ... pos = 0.25  	neg = 0.25 
+35. Try doing that with                 ... pos = 0.0   	neg = 0.0  
+36. ). One thing that no                ... pos = 0.125 	neg = 0.125
+37. Damon, so good as th                ... pos = 4.0   	neg = 0.0  
+38. Sizemore is not so m                ... pos = 0.125 	neg = 0.5  
+39. The rest of the squa                ... pos = 0.875 	neg = 0.25 
+40. The images of these                 ... pos = 0.25  	neg = 1.125
+41. (Especially Adam Gol                ... pos = 0.0   	neg = 0.625
+42. Juden!                              ... pos = 0     	neg = 0    
+43. " as he fingers his                 ... pos = 0.0   	neg = 0.0  
+44. ). And Hanks?                       ... pos = 0.0   	neg = 0    
+45. If his competition s                ... pos = 0.375 	neg = 0.75 
+46. There won't be a bet                ... pos = 0.0   	neg = 0.125
+47. The American soldier                ... pos = 1.25  	neg = 0.125
+48. He's a hard-bitten c                ... pos = 1.875 	neg = 0.0  
+49. He's able to exhibit                ... pos = 1.0   	neg = 0.0  
+50. Saving Private Ryan                 ... pos = 1.5   	neg = 0.125
+51. As I said, no higher                ... pos = 0.5   	neg = 0.5  
+52. Movie Reviews: http:                ... pos = 0.0   	neg = 0.125
+53. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2471-1045 is Positive        ... pos = 28.875 	neg = 11.625
+Overall score of document
+Total Pos = 28.875
+Total Neg = 11.625
+---------------------------------------------------------------------------

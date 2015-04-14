@@ -1,0 +1,10 @@
+0. RULES OF ENGAGEMENT                 ... pos = 0.25  	neg = 0.0  
+1. Really a mess from m                 ... pos = 0.5   	neg = 0.875
+2. It certainly feels l                 ... pos = 1.875 	neg = 0.375
+3. C+. .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1213-417 is Positive         ... pos = 2.625 	neg = 1.25 
+Overall score of document
+Total Pos = 2.625
+Total Neg = 1.25
+---------------------------------------------------------------------------

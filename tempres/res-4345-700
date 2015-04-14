@@ -1,0 +1,28 @@
+0. Release Date: Januar                 ... pos = 0.75  	neg = 0.25 
+1. Flashy images often                  ... pos = 1.5   	neg = 0.0  
+2. But after a true cou                 ... pos = 0.875 	neg = 0.25 
+3. THE RAINMAKER, for e                 ... pos = 1.5   	neg = 0.875
+4. Perhaps this history                 ... pos = 0.125 	neg = 0.25 
+5. There's nothing gimm                 ... pos = 0.0   	neg = 0.375
+6. Everything is a cold                 ... pos = 1.5   	neg = 0.375
+7. Gone is the Perry Ma                 ... pos = 0.625 	neg = 0.125
+8. Instead, a large per                 ... pos = 0.0   	neg = 0.0  
+9. Travolta is our star                 ... pos = 0.25  	neg = 0.125
+10. (Indeed, all of Zail                ... pos = 0.5   	neg = 0.125
+11. ) Jan is well-dresse                ... pos = 1.125 	neg = 0.125
+12. Perhaps unfortunatel                ... pos = 0.0   	neg = 0.875
+13. As it happens there'                ... pos = 0.25  	neg = 0.125
+14. Jan traces the water                ... pos = 1.0   	neg = 0.125
+15. Now all Jan has to d                ... pos = 0.0   	neg = 0.125
+16. Seemingly against hi                ... pos = 0.625 	neg = 0.0  
+17. He carries on his cr                ... pos = 0.625 	neg = 0.0  
+18. It's here that the a                ... pos = 0.125 	neg = 0.5  
+19. The supports are als                ... pos = 1.0   	neg = 0.125
+20. Kathleen Quinlan's p                ... pos = 0.0   	neg = 1.75 
+21. Some might find it a                ... pos = 0.125 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-4345-700 is Positive         ... pos = 12.5  	neg = 7.5  
+Overall score of document
+Total Pos = 12.5
+Total Neg = 7.5
+---------------------------------------------------------------------------

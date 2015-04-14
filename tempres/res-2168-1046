@@ -1,0 +1,30 @@
+0. I seem to be in a mi                 ... pos = 0.375 	neg = 0.125
+1. When he appeared in                  ... pos = 0.875 	neg = 0.125
+2. The same thing appli                 ... pos = 1.0   	neg = 0.125
+3. Don't expect it to b                 ... pos = 0.0   	neg = 0.25 
+4. It is also the best                  ... pos = 0.5   	neg = 1.125
+5. RUSH HOUR is funner                  ... pos = 0.25  	neg = 0.25 
+6. The plot is standard                 ... pos = 0     	neg = 0.125
+7. A Chinese diplomat's                 ... pos = 0.0   	neg = 0.375
+8. The diplomat wants t                 ... pos = 0.25  	neg = 0.25 
+9. The FBI refuses to a                 ... pos = 0.0   	neg = 0.0  
+10. Carter (Tucker) catc                ... pos = 0.125 	neg = 0.25 
+11. Funny thing is, Lee                 ... pos = 0.375 	neg = 0.125
+12. All of this is, of c                ... pos = 0.5   	neg = 0.125
+13. What makes all of th                ... pos = 0.0   	neg = 0.125
+14. Most movies in this                 ... pos = 2.75  	neg = 0.125
+15. I'm betting Jackie h                ... pos = 0.625 	neg = 0.125
+16. Barely anyone gets s                ... pos = 1.0   	neg = 0.625
+17. (There is one stunt                 ... pos = 0.0   	neg = 1.5  
+18. ). There is also the                ... pos = 0.125 	neg = 0.25 
+19. At one point during                 ... pos = 0.0   	neg = 0.0  
+20. In turn, Jackie teac                ... pos = 0.0   	neg = 0.5  
+21. My main criterion fo                ... pos = 0.0   	neg = 0.125
+22. I walked into RUSH H                ... pos = 0.0   	neg = 0.625
+23. I don't think you ca                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2168-1046 is Positive        ... pos = 9.25  	neg = 7.25 
+Overall score of document
+Total Pos = 9.25
+Total Neg = 7.25
+---------------------------------------------------------------------------

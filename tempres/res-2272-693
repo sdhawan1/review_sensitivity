@@ -1,0 +1,42 @@
+0. Starring-Leonardo Di                 ... pos = 0.375 	neg = 0.75 
+1. Leonardo DiCaprio's                  ... pos = 0.0   	neg = 0.375
+2. It's more like a roc                 ... pos = 0.25  	neg = 0.125
+3. Instead, it's nothin                 ... pos = 0.0   	neg = 0.25 
+4. But enough with the                  ... pos = 0.0   	neg = 0.0  
+5. Unlike a large fragm                 ... pos = 0.375 	neg = 0.125
+6. I do concede that th                 ... pos = 0.125 	neg = 0.125
+7. Given the incoherent                 ... pos = 0.0   	neg = 1.0  
+8. Playing Richard, an                  ... pos = 1.25  	neg = 0.75 
+9. I wasn't concerned a                 ... pos = 0.25  	neg = 0.0  
+10. Sadly, Danny Boyle (                ... pos = 0.25  	neg = 0.625
+11. After a set-up bubbl                ... pos = 0.25  	neg = 0.25 
+12. Perhaps after the fi                ... pos = 0.375 	neg = 0.5  
+13. '. The script is wea                ... pos = 0.0   	neg = 1.125
+14. The story follows Ri                ... pos = 0.125 	neg = 0.0  
+15. A map to this suppos                ... pos = 0.125 	neg = 0.125
+16. Once the determined                 ... pos = 0.375 	neg = 0.0  
+17. This is where the se                ... pos = 1.125 	neg = 0.25 
+18. Aside from that, DiC                ... pos = 0.25  	neg = 0.875
+19. Even through a serie                ... pos = 0.625 	neg = 0.125
+20. Perhaps I'm just daf                ... pos = 0.125 	neg = 0.125
+21. Some of Boyle's irre                ... pos = 0.5   	neg = 0.0  
+22. But unfortunately, a                ... pos = 0.75  	neg = 1.25 
+23. The romance between                 ... pos = 0.0   	neg = 0.125
+24. For such a fuss to b                ... pos = 0.5   	neg = 0.25 
+25. Tilda Swinton is qui                ... pos = 2.0   	neg = 0.5  
+26. It all boils down to                ... pos = 0.0   	neg = 0.0  
+27. Those nice aerial sh                ... pos = 1.25  	neg = 0.25 
+28. Also be forewarned o                ... pos = 0.75  	neg = 0.375
+29. At any rate, the ple                ... pos = 0.375 	neg = 0.0  
+30. It's also not a film                ... pos = 0.875 	neg = 0    
+31. Although it goes to                 ... pos = 0.625 	neg = 0.0  
+32. Those looking for a                 ... pos = 0.25  	neg = 0.125
+33. You'll find the wate                ... pos = 0.0   	neg = 0.25 
+34. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+35. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2272-693 is Positive         ... pos = 14.125 	neg = 10.625
+Overall score of document
+Total Pos = 14.125
+Total Neg = 10.625
+---------------------------------------------------------------------------

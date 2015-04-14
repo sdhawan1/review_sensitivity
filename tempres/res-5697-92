@@ -1,0 +1,27 @@
+0. Seen on 18 October 1                 ... pos = 0.125 	neg = 0.625
+1. Well, it's the sort                  ... pos = 0.25  	neg = 0.625
+2. Even the tiniest tre                 ... pos = 0.375 	neg = 0.0  
+3. The year is 1973, Ni                 ... pos = 0.375 	neg = 0.75 
+4. What is truly dysfun                 ... pos = 0.625 	neg = 0.25 
+5. President Nixon is c                 ... pos = 0.5   	neg = 0.375
+6. When Jim Carver (Jam                 ... pos = 0.5   	neg = 0.125
+7. ". The backdrop of t                 ... pos = 0.625 	neg = 1.5  
+8. Ang Lee makes wonder                 ... pos = 1.25  	neg = 0.0  
+9. The Hoods and the Ca                 ... pos = 0.625 	neg = 0.25 
+10. Ben Hood (Kevin Klin                ... pos = 0.5   	neg = 0.125
+11. Elena Hood (Joan All                ... pos = 0.125 	neg = 1.0  
+12. Jim Carver is almost                ... pos = 0.0   	neg = 0.625
+13. The children fare no                ... pos = 0.0   	neg = 0.25 
+14. They are as empty an                ... pos = 0.25  	neg = 0.75 
+15. Wendy Hood (Christin                ... pos = 1.125 	neg = 0.125
+16. *The Ice Storm* is o                ... pos = 0.375 	neg = 0.5  
+17. All the performances                ... pos = 0.5   	neg = 0.0  
+18. The 1970s kitsch and                ... pos = 0.625 	neg = 0.875
+19. Director Ang Lee's s                ... pos = 1.0   	neg = 0.0  
+20. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5697-92 is Positive          ... pos = 9.75  	neg = 8.875
+Overall score of document
+Total Pos = 9.75
+Total Neg = 8.875
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. PAYBACK Reviewed by                  ... pos = 0.0   	neg = 0.125
+1. Gibson's Porter char                 ... pos = 1.625 	neg = 1.0  
+2. OK, so this panhandl                 ... pos = 0.625 	neg = 0.375
+3. Too late.                            ... pos = 0     	neg = 0.25 
+4. Gibson starts off "P                 ... pos = 0.25  	neg = 0.625
+5. It seems he recently                 ... pos = 0.0   	neg = 1.75 
+6. But heavies rarely g                 ... pos = 0.125 	neg = 0.0  
+7. This is where all th                 ... pos = 0.0   	neg = 0.375
+8. "Payback" is so deli                 ... pos = 1.25  	neg = 0.25 
+9. And speaking of subm                 ... pos = 0.375 	neg = 2.25 
+10. Like it or not, the                 ... pos = 1.375 	neg = 0.75 
+11. As assorted lowlifes                ... pos = 0.0   	neg = 0.0  
+12. Much has been made o                ... pos = 0.75  	neg = 0.375
+13. It  sort of shows: T                ... pos = 1.0   	neg = 0.375
+14. The hard-to-classify                ... pos = 0.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-709-1031 is Negative         ... pos = 7.375 	neg = 9.375
+Overall score of document
+Total Pos = 7.375
+Total Neg = 9.375
+---------------------------------------------------------------------------

@@ -1,0 +1,70 @@
+0. Starring: George Clo                 ... pos = 0.0   	neg = 0.125
+1. Such an ironic title                 ... pos = 0.5   	neg = 0.0  
+2. Perhaps that is the                  ... pos = 0.0   	neg = 0.25 
+3. Supposedly, the peac                 ... pos = 0.25  	neg = 0.0  
+4. But do those peacema                 ... pos = 0.125 	neg = 0.25 
+5. Well, upon witnessin                 ... pos = 0.375 	neg = 0.375
+6. Then again, the nove                 ... pos = 0.625 	neg = 0.0  
+7. But this film, while                 ... pos = 0.125 	neg = 0.875
+8. Beware of the ads fo                 ... pos = 0     	neg = 0.0  
+9. They carry the one b                 ... pos = 0.5   	neg = 0.0  
+10. "Based on the #1 Bes                ... pos = 0.375 	neg = 0.0  
+11. "  If you don't know                ... pos = 0.0   	neg = 0.125
+12. Unfortunately, it do                ... pos = 0.0   	neg = 1.375
+13. The Peacemaker is on                ... pos = 0.75  	neg = 3.25 
+14. The pace of this fil                ... pos = 0.375 	neg = 1.125
+15. Not many films can d                ... pos = 0.0   	neg = 0.0  
+16. Fortunately, there a                ... pos = 1.375 	neg = 0.0  
+17. To sum up The Peacem                ... pos = 0.0   	neg = 0.25 
+18. The Game was another                ... pos = 0.5   	neg = 0.25 
+19. Star power is one of                ... pos = 0.5   	neg = 0.125
+20. The film begins with                ... pos = 0.375 	neg = 0.0  
+21. A simple plan, until                ... pos = 0.5   	neg = 0.0  
+22. Aboard this second t                ... pos = 0.0   	neg = 0.125
+23. "  They hijack nine                 ... pos = 0.0   	neg = 0.0  
+24. As you can imagine,                 ... pos = 0.0   	neg = 1.375
+25. I must admit that I                 ... pos = 1.125 	neg = 0.125
+26. Much of The Peacemak                ... pos = 0.25  	neg = 0.5  
+27. If done correctly, t                ... pos = 0.0   	neg = 0.0  
+28. Director Mimi Leder,                ... pos = 0.0   	neg = 0.875
+29. The screenplay by Mi                ... pos = 0.0   	neg = 0.5  
+30. In Cliffhanger, John                ... pos = 0.125 	neg = 0.5  
+31. Duson, however, supp                ... pos = 1.125 	neg = 0.875
+32. We don't really care                ... pos = 0.0   	neg = 0.875
+33. Instead of hating hi                ... pos = 0.0   	neg = 0.375
+34. Kelly, on the other                 ... pos = 2.125 	neg = 0.125
+35. Kidman has a very ni                ... pos = 0.5   	neg = 0.0  
+36. While she wasn't abl                ... pos = 0.125 	neg = 0.0  
+37. And as for Clooney,                 ... pos = 0.0   	neg = 0    
+38. Arguably the only re                ... pos = 1.125 	neg = 0.125
+39. He plays Clooney por                ... pos = 0.875 	neg = 0.0  
+40. The supporting cast                 ... pos = 0.5   	neg = 0.0  
+41. Armin Mueller-Stahl,                ... pos = 0.25  	neg = 0.125
+42. Iures, while given m                ... pos = 0.125 	neg = 1.125
+43. While showing a good                ... pos = 0.75  	neg = 0.75 
+44. Kidman's scenes, how                ... pos = 0.75  	neg = 0.0  
+45. Her discussion with                 ... pos = 0.25  	neg = 0.75 
+46. The main theme of Th                ... pos = 0.25  	neg = 1.375
+47. In one scene, Cloone                ... pos = 0.0   	neg = 0.0  
+48. However, the soldier                ... pos = 0.125 	neg = 0.375
+49. Nevertheless, they s                ... pos = 0.125 	neg = 0    
+50. Not only was I shock                ... pos = 0.625 	neg = 0.125
+51. Perhaps this scene w                ... pos = 0.875 	neg = 0.125
+52. Maybe we aren't as p                ... pos = 0.375 	neg = 0.0  
+53. However, many of the                ... pos = 0.625 	neg = 0.0  
+54. The chase through Ve                ... pos = 0.0   	neg = 0.125
+55. In Roger Ebert's rev                ... pos = 0.0   	neg = 1.5  
+56. I had the same react                ... pos = 0.125 	neg = 0.5  
+57. So much for keeping                 ... pos = 0.25  	neg = 0.0  
+58. The Peacemaker is ra                ... pos = 0.125 	neg = 0.125
+59. No sex or nudity is                 ... pos = 0.125 	neg = 1.0  
+60. There is language, b                ... pos = 0.125 	neg = 0.25 
+61. For her first time d                ... pos = 0.125 	neg = 0.125
+62. And for the Dreamwor                ... pos = 0.875 	neg = 0.0  
+63. Easily the most hear                ... pos = 0.375 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-4167-1566 is Negative        ... pos = 22.375 	neg = 24.125
+Overall score of document
+Total Pos = 22.375
+Total Neg = 24.125
+---------------------------------------------------------------------------

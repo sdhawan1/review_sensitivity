@@ -1,0 +1,79 @@
+0. I Know What You Did                  ... pos = 0.625 	neg = 0.0  
+1. ---------  Out of 4                  ... pos = 0.625 	neg = 0.0  
+2. Some movies are mean                 ... pos = 0.25  	neg = 0.0  
+3. These are the films                  ... pos = 0.25  	neg = 1.125
+4. I KNOW WHAT YOU DID                  ... pos = 0.0   	neg = 0.125
+5. The acting is quite                  ... pos = 1.25  	neg = 1.903
+6. Based on Lois Duncan                 ... pos = 0.125 	neg = 0.625
+7. Instead of being a p                 ... pos = 0.625 	neg = 0.125
+8. In fact, the first h                 ... pos = 1.875 	neg = 0.25 
+9. I have no objections                 ... pos = 1.25  	neg = 1.25 
+10. This is quite unusua                ... pos = 0.5   	neg = 0.125
+11. What made that film                 ... pos = 0.625 	neg = 0.125
+12. LAST SUMMER doesn't                 ... pos = 1.125 	neg = 0.125
+13. But what makes LAST                 ... pos = 0.125 	neg = 0.0  
+14. The plot is the high                ... pos = 0.625 	neg = 0.875
+15. However, actors can                 ... pos = 1.125 	neg = 0.5  
+16. Thankfully, the dire                ... pos = 0.0   	neg = 0.25 
+17. I KNOW WHAT YOU DID                 ... pos = 1.625 	neg = 0.0  
+18. His solitude creates                ... pos = 1.0   	neg = 0.0  
+19. However, it doesn't                 ... pos = 0.125 	neg = 0.5  
+20. The annual Croaker F                ... pos = 0.125 	neg = 0.25 
+21. One of these student                ... pos = 1.375 	neg = 0.25 
+22. Helen wins, obviousl                ... pos = 0.625 	neg = 0.625
+23. Her three friends be                ... pos = 1.5   	neg = 0.375
+24. After the crowning a                ... pos = 0.5   	neg = 0.125
+25. They all have sex, a                ... pos = 0.0   	neg = 0.25 
+26. Turning a curve, Ray                ... pos = 0.0   	neg = 0.125
+27. After dumping the ne                ... pos = 0.25  	neg = 0.0  
+28. Julie takes it the h                ... pos = 0.875 	neg = 0.75 
+29. A year passes, and J                ... pos = 0.0   	neg = 0.125
+30. Her roommate suggest                ... pos = 0.375 	neg = 0.125
+31. "  At home, she rece                ... pos = 0.5   	neg = 0.0  
+32. She contacts all of                 ... pos = 0.125 	neg = 0.0  
+33. The most obvious wou                ... pos = 0.0   	neg = 0.125
+34. Very quickly, bodies                ... pos = 0.75  	neg = 0.0  
+35. Who is the killer?                  ... pos = 0.0   	neg = 0.5  
+36. Could it be the dead                ... pos = 0.0   	neg = 0.125
+37. All these questions                 ... pos = 1.5   	neg = 0.125
+38. However, the mystery                ... pos = 0.125 	neg = 0.125
+39. The purpose of LAST                 ... pos = 0.0   	neg = 0.125
+40. The film succeeds at                ... pos = 0.125 	neg = 0.125
+41. I will admit that wh                ... pos = 1.75  	neg = 0.125
+42. Many critics claim t                ... pos = 1.375 	neg = 1.5  
+43. Unfortunately, there                ... pos = 0.125 	neg = 1.125
+44. Kevin Williamson's s                ... pos = 0.75  	neg = 0.75 
+45. After watching LAST                 ... pos = 1.5   	neg = 0.625
+46. True suspense is exp                ... pos = 0.5   	neg = 0.5  
+47. You know someone is                 ... pos = 0.25  	neg = 0.25 
+48. Sometimes, it doesn'                ... pos = 0.0   	neg = 0.125
+49. Director Jim Gillesp                ... pos = 0.989 	neg = 0.5  
+50. Unfortunately, many                 ... pos = 0.125 	neg = 1.375
+51. Williamson does writ                ... pos = 1.0   	neg = 0.625
+52. This setup gives the                ... pos = 1.5   	neg = 0.0  
+53. The cast is one of t                ... pos = 0.0   	neg = 0.125
+54. Jennifer Love Hewitt                ... pos = 1.875 	neg = 0.75 
+55. Hewitt's presence is                ... pos = 1.125 	neg = 0.25 
+56. I liked her characte                ... pos = 1.0   	neg = 0.0  
+57. Gellar nearly steals                ... pos = 0.75  	neg = 0.875
+58. Gellar, from TV's "B                ... pos = 1.5   	neg = 0.125
+59. I'm not sure if we w                ... pos = 1.125 	neg = 0.5  
+60. Freddie Prinze Jr. g                ... pos = 0.875 	neg = 0.75 
+61. Ryan Phillippe is go                ... pos = 2.625 	neg = 0.625
+62. Anne Heche gives a v                ... pos = 2.25  	neg = 0.0  
+63. Heche is given a sma                ... pos = 0.0   	neg = 0.125
+64. Johnny Galecki portr                ... pos = 0.125 	neg = 0.0  
+65. Galecki has a very u                ... pos = 1.625 	neg = 0.375
+66. I KNOW WHAT YOU DID                 ... pos = 1.0   	neg = 0.125
+67. Because the film is                 ... pos = 0.0   	neg = 0.125
+68. I kept expecting one                ... pos = 1.875 	neg = 0.125
+69. Normally I don't lik                ... pos = 0.25  	neg = 0.0  
+70. LAST SUMMER isn't sc                ... pos = 0.125 	neg = 0.75 
+71. For what it is thoug                ... pos = 0.5   	neg = 0.25 
+72. Reviewed by Respect                 ... pos = 0.75  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4011-1566 is Positive        ... pos = 51.739 	neg = 25.528
+Overall score of document
+Total Pos = 51.739
+Total Neg = 25.528
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. Director: Simon West                 ... pos = 0.375 	neg = 0.0  
+1. US Distribution: Par                 ... pos = 1.75  	neg = 1.5  
+2. Director Simon West                  ... pos = 0.75  	neg = 0.25 
+3. What's worse is that                 ... pos = 1.75  	neg = 2.75 
+4. John Travolta finds                  ... pos = 0.25  	neg = 0.125
+5. Brenner is teamed up                 ... pos = 0.25  	neg = 0.125
+6. Soon, it becomes app                 ... pos = 0.0   	neg = 0.5  
+7. Ebert's Law of the E                 ... pos = 2.0   	neg = 0.125
+8. Perhaps I should hav                 ... pos = 0.0   	neg = 0.125
+9. On a story level, Th                 ... pos = 0.0   	neg = 0.125
+10. The film, adapted by                ... pos = 0.75  	neg = 1.0  
+11. Having not read the                 ... pos = 0.5   	neg = 1.25 
+12. Scene after scene st                ... pos = 0.0   	neg = 1.375
+13. (Sunderland actually                ... pos = 0.125 	neg = 0.125
+14. " to which I would h                ... pos = 0.0   	neg = 0.125
+15. ")  Only after we've                ... pos = 2.0   	neg = 0.875
+16. Not that it really m                ... pos = 1.125 	neg = 0.25 
+17. In one scene, Sunder                ... pos = 0.0   	neg = 0.125
+18. She sees one of his                 ... pos = 0.0   	neg = 0.0  
+19. Instead of questioni                ... pos = 0.0   	neg = 0.5  
+20. This scene really pu                ... pos = 1.25  	neg = 0.125
+21. It was impossible fo                ... pos = 0.0   	neg = 0.375
+22. I realized that thes                ... pos = 1.0   	neg = 0.0  
+23. This would have been                ... pos = 0.0   	neg = 1.75 
+24. Compelling films abo                ... pos = 1.0   	neg = 0.125
+25. These scenes are not                ... pos = 0.375 	neg = 0.5  
+26. In addition, the mov                ... pos = 0.375 	neg = 0.5  
+27. This standpoint is c                ... pos = 0.25  	neg = 0.125
+28. As it is, the film f                ... pos = 0.125 	neg = 0.375
+29. Perhaps the only pos                ... pos = 0.25  	neg = 0.0  
+30. James Woods has a fe                ... pos = 0.75  	neg = 0.0  
+31. I also liked James C                ... pos = 0.125 	neg = 0.778
+32. Nonetheless, these p                ... pos = 0.875 	neg = 0.875
+33. The General's Daught                ... pos = 0.5   	neg = 1.625
+---------------------------------------------------------------------------
+./temp/tmp-1224-760 is Positive         ... pos = 18.5  	neg = 18.403
+Overall score of document
+Total Pos = 18.5
+Total Neg = 18.403
+---------------------------------------------------------------------------

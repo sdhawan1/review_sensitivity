@@ -1,0 +1,61 @@
+0. *** (out of 4) The t                 ... pos = 0.0   	neg = 0.25 
+1. For example, in HAPP                 ... pos = 0.625 	neg = 0.5  
+2. If the star were any                 ... pos = 0.25  	neg = 0.25 
+3. That extra motive do                 ... pos = 0.875 	neg = 0.0  
+4. It doesn't really ad                 ... pos = 0.739 	neg = 0.125
+5. In fact, the motive                  ... pos = 0.0   	neg = 0.75 
+6. But Sandler's philos                 ... pos = 0.0   	neg = 0.25 
+7. That is endlessly re                 ... pos = 0.0   	neg = 0.125
+8. In THE WEDDING SINGE                 ... pos = 0.0   	neg = 0.125
+9. The fact that he's a                 ... pos = 0.125 	neg = 0.125
+10. What KIND of a weddi                ... pos = 1.0   	neg = 0.25 
+11. David Spade could ha                ... pos = 0.25  	neg = 0.0  
+12. He could make fun of                ... pos = 0.625 	neg = 0.75 
+13. But Sandler instead                 ... pos = 1.75  	neg = 0.0  
+14. He seems to really e                ... pos = 0.375 	neg = 0.25 
+15. Robbie Hart (Sandler                ... pos = 0.125 	neg = 0.25 
+16. He is exactly the ma                ... pos = 0.125 	neg = 0.25 
+17. The day comes when R                ... pos = 0.0   	neg = 0.25 
+18. Robbie takes it hard                ... pos = 0.0   	neg = 0.75 
+19. He doesn't sleep, he                ... pos = 0.0   	neg = 0.0  
+20. Julia (Drew Barrymor                ... pos = 0.0   	neg = 0.0  
+21. Eventually, Robbie s                ... pos = 0.0   	neg = 0    
+22. He really likes her,                ... pos = 0.0   	neg = 0.0  
+23. Her fiancé is a sel                ... pos = 0.75  	neg = 0.875
+24. Julia seems to like                 ... pos = 0.5   	neg = 1.0  
+25. You know the story.                 ... pos = 0.0   	neg = 0.0  
+26. You've seen it a mil                ... pos = 0.5   	neg = 0    
+27. There's always a new                ... pos = 1.5   	neg = 0.0  
+28. And sometimes, it wo                ... pos = 0.0   	neg = 0    
+29. First of all, the ch                ... pos = 0.375 	neg = 0.125
+30. Actually, it's not s                ... pos = 0.375 	neg = 0.125
+31. Sandler captures the                ... pos = 0.625 	neg = 0.375
+32. Barrymore is charmin                ... pos = 0.5   	neg = 0.125
+33. Sparks don't fly whe                ... pos = 0.125 	neg = 0.0  
+34. Second, their love i                ... pos = 0.75  	neg = 0.125
+35. They are not driven                 ... pos = 1.75  	neg = 0.5  
+36. Instead, they are bo                ... pos = 0.25  	neg = 0.0  
+37. At a wedding, Robbie                ... pos = 0.0   	neg = 0.0  
+38. The repulsing situat                ... pos = 0.5   	neg = 0.25 
+39. The 80s soundtrack                ... pos = 0.0   	neg = 0.0  
+40. Other critics liked                 ... pos = 0.125 	neg = 0.0  
+41. Often, the music and                ... pos = 0.0   	neg = 0    
+42. For example, Robbie                 ... pos = 0.25  	neg = 0.0  
+43. " (Ha ha ha.                        ... pos = 0     	neg = 0.0  
+44. Get it?                             ... pos = 0.0   	neg = 0.0  
+45. David Lee Roth DID l                ... pos = 0.0   	neg = 0.0  
+46. ) Or how about when                 ... pos = 0.125 	neg = 0.0  
+47. (That's EXACTLY what                ... pos = 0.125 	neg = 0.0  
+48. Unfortunately, makin                ... pos = 0.375 	neg = 1.375
+49. That's not to say th                ... pos = 0.0   	neg = 0.0  
+50. Screenwriter Tim Her                ... pos = 1.375 	neg = 0.0  
+51. Herlihy knows what s                ... pos = 0.875 	neg = 0.375
+52. Let's hope Herlihy a                ... pos = 0.75  	neg = 0.0  
+53. With Barrymore's cha                ... pos = 0.25  	neg = 1.625
+54. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4133-1008 is Positive        ... pos = 19.614 	neg = 12.125
+Overall score of document
+Total Pos = 19.614
+Total Neg = 12.125
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Karey Kir                 ... pos = 0.0   	neg = 0    
+2. Photographed by Dave                 ... pos = 0.0   	neg = 0.0  
+3. Ginger has been take                 ... pos = 0.0   	neg = 0.125
+4. There lies Mrs. Twee                 ... pos = 0.375 	neg = 0.0  
+5. Rocky runs in to sav                 ... pos = 0.75  	neg = 0.0  
+6. This is an amazing m                 ... pos = 0.625 	neg = 0.25 
+7. The plot involves th                 ... pos = 0.0   	neg = 0.0  
+8. If everything had  b                 ... pos = 1.875 	neg = 0.625
+9. It doesn't, and isn'                 ... pos = 1.25  	neg = 0.0  
+10. The chickens hold me                ... pos = 1.5   	neg = 0.125
+11. But references to "S                ... pos = 0.0   	neg = 0.25 
+12. "The Simpsons" satir                ... pos = 0.0   	neg = 0.0  
+13. That might be less i                ... pos = 0.125 	neg = 0.75 
+14. "Toy  Story" allowed                ... pos = 0.875 	neg = 0.75 
+15. The creatures in  th                ... pos = 0.5   	neg = 0.0  
+16. Is there any interes                ... pos = 0.125 	neg = 0.625
+17. The climax sees them                ... pos = 0.0   	neg = 0.0  
+18. Go figure.                          ... pos = 0     	neg = 0.0  
+19. Small tots will enjo                ... pos = 1.125 	neg = 0    
+20. The Claymation  proc                ... pos = 0.625 	neg = 0.0  
+21. For older children a                ... pos = 0.125 	neg = 0.0  
+22. Watching chickens be                ... pos = 0.5   	neg = 0.375
+23. COPYRIGHT(c) 2000 Ia                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-887-1540 is Positive         ... pos = 10.625 	neg = 3.875
+Overall score of document
+Total Pos = 10.625
+Total Neg = 3.875
+---------------------------------------------------------------------------

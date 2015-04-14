@@ -1,0 +1,37 @@
+0. How much are twelve                  ... pos = 1.125 	neg = 0.0  
+1. That's the primary q                 ... pos = 0.75  	neg = 0.125
+2. Based on a true stor                 ... pos = 0.875 	neg = 0.0  
+3. Little is truly reso                 ... pos = 0.75  	neg = 0.5  
+4. Something lurks in t                 ... pos = 0.125 	neg = 0.625
+5. Suspecting these dea                 ... pos = 0.875 	neg = 0.125
+6. A self- professed "a                 ... pos = 0.125 	neg = 0.25 
+7. This reluctance vani                 ... pos = 0.125 	neg = 0.0  
+8. Schlichtmann has, of                 ... pos = 0.625 	neg = 1.5  
+9. Alas, apologies are                  ... pos = 0.5   	neg = 0.0  
+10. Assisting Schlichtma                ... pos = 0.25  	neg = 0.25 
+11. (Macy stole the show                ... pos = 0.0   	neg = 0.0  
+12. )  Robert Duvall is                 ... pos = 0.25  	neg = 0.125
+13. His odd, nervous hab                ... pos = 1.5   	neg = 0.0  
+14. The man is a brillia                ... pos = 0.875 	neg = 0.125
+15. The big strength of                 ... pos = 0.875 	neg = 0.125
+16. Conveying a hard, se                ... pos = 0.125 	neg = 1.25 
+17. The film's opening s                ... pos = 0.625 	neg = 0.125
+18. Least valuable?                     ... pos = 0.0   	neg = 0.0  
+19. "A dead child.                      ... pos = 0.0   	neg = 0.0  
+20. ")  Much of the stor                ... pos = 0.25  	neg = 0.0  
+21. "  The change is a b                ... pos = 0.125 	neg = 1.0  
+22. His efforts are to b                ... pos = 0.75  	neg = 1.0  
+23. "A Civil Action" is                 ... pos = 0.125 	neg = 0.125
+24. It's made all the mo                ... pos = 0.5   	neg = 0.0  
+25. Only Travolta's forc                ... pos = 0.75  	neg = 0.0  
+26. A pity.                             ... pos = 0.125 	neg = 0    
+27. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+28. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+29. Thanks.                             ... pos = 0.125 	neg = 0    
+30. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4345-216 is Positive         ... pos = 13.75 	neg = 7.375
+Overall score of document
+Total Pos = 13.75
+Total Neg = 7.375
+---------------------------------------------------------------------------

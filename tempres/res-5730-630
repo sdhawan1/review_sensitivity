@@ -1,0 +1,57 @@
+0. What a great film.                   ... pos = 0.0   	neg = 0    
+1. What a stunning, tou                 ... pos = 0.125 	neg = 0    
+2. >From its opening mo                 ... pos = 0.25  	neg = 0.125
+3. A car with no brakes                 ... pos = 0.0   	neg = 0.375
+4. They mistake him to                  ... pos = 0.0   	neg = 0.75 
+5. Heil!                                ... pos = 0     	neg = 0    
+6. Heil!                                ... pos = 0     	neg = 0    
+7. Huh?                                 ... pos = 0     	neg = 0    
+8. Shortly thereafter,                  ... pos = 0.0   	neg = 0.0  
+9. This is standard, bu                 ... pos = 1.194 	neg = 0.25 
+10. Granted, _The Great                 ... pos = 0.5   	neg = 0    
+11. I think LIB (which B                ... pos = 1.125 	neg = 0.0  
+12. Benigni is given a s                ... pos = 1.125 	neg = 0.25 
+13. Benigni+s Guido stay                ... pos = 1.375 	neg = 0.0  
+14. It = is one of the g                ... pos = 0.0   	neg = 0.125
+15. There are many other                ... pos = 0.625 	neg = 0.125
+16. Slapstick reigns, an                ... pos = 0.5   	neg = 0.625
+17. And although it+s fo                ... pos = 0.625 	neg = 0.125
+18. This is clearly a ra                ... pos = 0.5   	neg = 0.125
+19. The second half of t                ... pos = 0.25  	neg = 0.0  
+20. Guido, seeing the ho                ... pos = 0.375 	neg = 1.125
+21. For = his wife, who                 ... pos = 0.375 	neg = 0.25 
+22. For his son, (and th                ... pos = 1.625 	neg = 0.375
+23. Which raises the big                ... pos = 0.375 	neg = 0.0  
+24. With persecution?                   ... pos = 0.0   	neg = 0    
+25. With injustice on th                ... pos = 0.0   	neg = 0.375
+26. It+s said that trage                ... pos = 0.75  	neg = 0.0  
+27. Other times they det                ... pos = 1.5   	neg = 0.25 
+28. Sometimes even, peop                ... pos = 2.375 	neg = 0.25 
+29. Benigni+s Guido real                ... pos = 0.125 	neg = 0    
+30. He is the clown, but                ... pos = 1.069 	neg = 0.25 
+31. He sees the slurs an                ... pos = 0.375 	neg = 0.0  
+32. His liberty is strip                ... pos = 1.25  	neg = 0.125
+33. It+s obvious from th                ... pos = 0.875 	neg = 0.25 
+34. Perhaps that is a fo                ... pos = 0.0   	neg = 0.125
+35. Perhaps his alternat                ... pos = 1.375 	neg = 0.125
+36. Or...  perhaps this                 ... pos = 0.5   	neg = 0.375
+37. Whatever his purpose                ... pos = 1.375 	neg = 0.25 
+38. Surprisingly, it wor                ... pos = 0.125 	neg = 0    
+39. It is an important f                ... pos = 1.375 	neg = 0.375
+40. It+s not that the at                ... pos = 0.375 	neg = 0    
+41. They don+t have to b                ... pos = 0.25  	neg = 0.25 
+42. I believe = that Ben                ... pos = 0.625 	neg = 0.25 
+43. However, any critici                ... pos = 0.125 	neg = 1.25 
+44. Benigni+s film has w                ... pos = 2.5   	neg = 0.125
+45. He has been made an                 ... pos = 0.125 	neg = 0.125
+46. It swept the Italian                ... pos = 0.625 	neg = 0    
+47. Controversy notwiths                ... pos = 0.625 	neg = 0.125
+48. Masterful.                          ... pos = 0.75  	neg = 0    
+49. Miraculous.                         ... pos = 0.0   	neg = 0    
+50. A must-see.. .                      ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5730-630 is Positive         ... pos = 30.013 	neg = 9.5  
+Overall score of document
+Total Pos = 30.013
+Total Neg = 9.5
+---------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+0. The best scene in _T                 ... pos = 0.5   	neg = 0.0  
+1. He meets his wife, T                 ... pos = 0.875 	neg = 0.0  
+2. No dialogue is heard                 ... pos = 0.0   	neg = 0.375
+3. This is all done in                  ... pos = 0.0   	neg = 0.125
+4. I highlight this to                  ... pos = 1.0   	neg = 0.0  
+5. It isn't a typical s                 ... pos = 0.125 	neg = 0    
+6. In any other film, t                 ... pos = 0.375 	neg = 0.125
+7. Not here.                            ... pos = 0.0   	neg = 0.0  
+8. If Orson Welles had                  ... pos = 0.0   	neg = 0.0  
+9. This film is so glor                 ... pos = 0.125 	neg = 0.125
+10. There are scenes in                 ... pos = 0.5   	neg = 0.0  
+11. Take the scene where                ... pos = 0.0   	neg = 0.0  
+12. Rameses' son is in t                ... pos = 0.5   	neg = 0.125
+13. Not only is it a con                ... pos = 0.0   	neg = 1.25 
+14. There's a scene wher                ... pos = 0.0   	neg = 0.0  
+15. The backdrop is a gi                ... pos = 0.0   	neg = 0.125
+16. It's as if young Mos                ... pos = 0.0   	neg = 0.125
+17. Brilliant.                          ... pos = 0.875 	neg = 0    
+18. Then there are the t                ... pos = 0.25  	neg = 0.0  
+19. Not just the parting                ... pos = 0.125 	neg = 0.125
+20. The river itself, sw                ... pos = 0.125 	neg = 0.375
+21. Much of Pharoah's ki                ... pos = 1.125 	neg = 0.125
+22. Thousands of extras                 ... pos = 0.5   	neg = 0.375
+23. Even those individua                ... pos = 0.375 	neg = 0.0  
+24. The voices are also                 ... pos = 0.25  	neg = 0    
+25. Val Kilmer is not my                ... pos = 0.625 	neg = 0.125
+26. (I have to remind my                ... pos = 0.0   	neg = 0.0  
+27. ) Ralph Fiennes does                ... pos = 1.25  	neg = 0.0  
+28. Michelle Pfieffer (a                ... pos = 0.75  	neg = 0.125
+29. I can now attest tha                ... pos = 0.75  	neg = 0.0  
+30. _When You Believe_ i                ... pos = 0.125 	neg = 0.25 
+31. (That's because it w                ... pos = 0.25  	neg = 0.125
+32. Also, Baby's Lullaby                ... pos = 1.125 	neg = 0    
+33. None of these tremen                ... pos = 1.5   	neg = 0.375
+34. And here, in the yea                ... pos = 0.25  	neg = 0.0  
+35. This is a story that                ... pos = 0.0   	neg = 0.375
+36. Who doesn't want to                 ... pos = 1.125 	neg = 0.375
+37. When God calls Moses                ... pos = 0.0   	neg = 0.0  
+38. When he initially fa                ... pos = 0.0   	neg = 0.875
+39. Yet somehow he's ste                ... pos = 1.125 	neg = 0.25 
+40. When Moses was inbet                ... pos = 0.5   	neg = 0.25 
+41. For all that familia                ... pos = 0.75  	neg = 0.125
+42. It still speaks many                ... pos = 1.0   	neg = 0.0  
+43. Jeff Goldblum, in a                 ... pos = 0.25  	neg = 0.5  
+44. I couldn't agree mor                ... pos = 0.0   	neg = 0.0  
+45. Will kids dig it?                   ... pos = 0.125 	neg = 0.0  
+46. I hope so.                          ... pos = 0.375 	neg = 0.0  
+47. But this film isn't                 ... pos = 0.0   	neg = 0.0  
+48. The makers at Dreamw                ... pos = 0.0   	neg = 0.0  
+49. _The Prince of Egypt                ... pos = 0.0   	neg = 0.125
+50. It will be remembere                ... pos = 0.875 	neg = 0.125
+51. I don't think I'm ex                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4748-630 is Positive         ... pos = 21.0  	neg = 7.375
+Overall score of document
+Total Pos = 21.0
+Total Neg = 7.375
+---------------------------------------------------------------------------

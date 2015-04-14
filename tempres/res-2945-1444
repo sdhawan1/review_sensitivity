@@ -1,0 +1,56 @@
+0. Directed by Steven S                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Susann                 ... pos = 0.0   	neg = 0.0  
+2. Starring Julia Rober                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 129 mi                 ... pos = 0     	neg = 0.0  
+4. Rated AA for offensi                 ... pos = 0.125 	neg = 0.0  
+5. Reviewed on March 29                 ... pos = 0.0   	neg = 0.0  
+6. It's said that every                 ... pos = 0.625 	neg = 0.75 
+7. In that case, the bo                 ... pos = 1.0   	neg = 1.0  
+8. Not only is its hero                 ... pos = 1.0   	neg = 1.375
+9. The fact that the mo                 ... pos = 0.0   	neg = 0.25 
+10. The story begins aro                ... pos = 0.125 	neg = 0.0  
+11. Brockovich has no pr                ... pos = 0.125 	neg = 0.375
+12. Setting to work as a                ... pos = 0.125 	neg = 0.25 
+13. Gaining no insight f                ... pos = 0.375 	neg = 0.625
+14. The Jensens live in                 ... pos = 0.0   	neg = 0.0  
+15. The family has been                 ... pos = 0.125 	neg = 0.875
+16. Soon it becomes clea                ... pos = 0.75  	neg = 0.25 
+17. Brockovich manages t                ... pos = 0.875 	neg = 0.0  
+18. As the title implies                ... pos = 0.125 	neg = 0.25 
+19. As such, it lives an                ... pos = 0.0   	neg = 0.0  
+20. Fortunately Roberts                 ... pos = 1.125 	neg = 0.125
+21. This is not the sort                ... pos = 0.875 	neg = 1.0  
+22. Brockovich is tenaci                ... pos = 0.75  	neg = 0.125
+23. Her life has not bee                ... pos = 1.125 	neg = 0.75 
+24. No doubt the aspect                 ... pos = 1.375 	neg = 1.0  
+25. Rather than making h                ... pos = 0.625 	neg = 0.25 
+26. But "Erin Brockovich                ... pos = 0.875 	neg = 0.125
+27. Finney does a respec                ... pos = 0.5   	neg = 0.0  
+28. Masry's entire perso                ... pos = 0.25  	neg = 0.5  
+29. The other major supp                ... pos = 0.875 	neg = 0.125
+30. It is here that the                 ... pos = 0.125 	neg = 1.0  
+31. He seems to exist pu                ... pos = 0.375 	neg = 0.5  
+32. "Erin Brockovich" do                ... pos = 0.0   	neg = 0.0  
+33. It is smart enough t                ... pos = 0.25  	neg = 0.375
+34. It is peppered with                 ... pos = 0.0   	neg = 0.125
+35. However, the film st                ... pos = 0.125 	neg = 0.0  
+36. The lawyers represen                ... pos = 0.25  	neg = 1.25 
+37. Scenes such as one w                ... pos = 0.25  	neg = 0.0  
+38. The movie is also pl                ... pos = 0.0   	neg = 0.625
+39. Much is  made, for e                ... pos = 0.75  	neg = 0.125
+40. And yet, when she re                ... pos = 0.25  	neg = 0.375
+41. This is not to say                  ... pos = 0.5   	neg = 0.25 
+42. But it seems inconce                ... pos = 0.625 	neg = 0.125
+43. This is only exacerb                ... pos = 0.0   	neg = 0.25 
+44. What, then, was the                 ... pos = 0     	neg = 0.125
+45. "Erin Brockovich" is                ... pos = 1.5   	neg = 0.125
+46. But it sets the bar                 ... pos = 0.5   	neg = 0.5  
+47. For a movie about a                 ... pos = 0.375 	neg = 0.125
+48. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+49. Archived at http://w                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2945-1444 is Positive        ... pos = 19.625 	neg = 15.875
+Overall score of document
+Total Pos = 19.625
+Total Neg = 15.875
+---------------------------------------------------------------------------

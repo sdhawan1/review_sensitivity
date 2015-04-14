@@ -1,0 +1,58 @@
+0. by Curtis Edmonds --                 ... pos = 0.125 	neg = 0.125
+1. Plaintiff's attorney                 ... pos = 0.25  	neg = 0.25 
+2. This is because a pe                 ... pos = 0.125 	neg = 0.5  
+3. A civil action (as d                 ... pos = 0.375 	neg = 0.75 
+4. However, this leaves                 ... pos = 0.125 	neg = 0.25 
+5. The professor put it                 ... pos = 0.5   	neg = 0.0  
+6. I'm going to get sue                 ... pos = 0.0   	neg = 0.25 
+7. A Civil Action doesn                 ... pos = 2.0   	neg = 0.25 
+8. A Civil Action just                  ... pos = 0.5   	neg = 0.125
+9. While this is a trag                 ... pos = 0.0   	neg = 0.125
+10. The movie could have                ... pos = 0.0   	neg = 0.125
+11. What we care about,                 ... pos = 0.75  	neg = 0.375
+12. Travolta is Jan Schl                ... pos = 0.25  	neg = 0.125
+13. His style is go-for-                ... pos = 0     	neg = 0.125
+14. He focuses all his t                ... pos = 0.0   	neg = 0.0  
+15. We don't see Schlich                ... pos = 0.0   	neg = 0.125
+16. He's not a shark --                 ... pos = 0.125 	neg = 0.25 
+17. He's a fisherman loo                ... pos = 0.0   	neg = 0.0  
+18. And when the orphan                 ... pos = 0.0   	neg = 0.0  
+19. When Travolta sees t                ... pos = 0.375 	neg = 0.625
+20. Duvall gets the plum                ... pos = 0.0   	neg = 0.0  
+21. Facher is a real per                ... pos = 1.375 	neg = 0.125
+22. Since we don't get t                ... pos = 0.25  	neg = 0.125
+23. When confronted earl                ... pos = 0.375 	neg = 0.625
+24. It's a hell of an ac                ... pos = 0.125 	neg = 0.25 
+25. Both actors are fort                ... pos = 1.375 	neg = 0.0  
+26. Duvall is stable whe                ... pos = 0.375 	neg = 0.5  
+27. Duvall wins the acti                ... pos = 0.5   	neg = 0.0  
+28. Travolta takes A Civ                ... pos = 0.125 	neg = 0.0  
+29. The story of A Civil                ... pos = 0.125 	neg = 0.0  
+30. Some of the technica                ... pos = 0.0   	neg = 1.125
+31. The story is about T                ... pos = 0.25  	neg = 0.125
+32. As the trial continu                ... pos = 0.5   	neg = 0.0  
+33. How this happens is                 ... pos = 0.0   	neg = 0.125
+34. Why it happens isn't                ... pos = 0.0   	neg = 0.0  
+35. Schlichtmann is an e                ... pos = 1.0   	neg = 0.125
+36. Is he really concern                ... pos = 0.875 	neg = 0.125
+37. Is he fighting for t                ... pos = 0.0   	neg = 0.125
+38. It's a fascinating d                ... pos = 1.125 	neg = 0.0  
+39. If I have a complain                ... pos = 2.125 	neg = 0.125
+40. Kathleen Quinlan pla                ... pos = 1.125 	neg = 0.0  
+41. She's chillingly eff                ... pos = 0.375 	neg = 0.25 
+42. Likewise, Tony Shalh                ... pos = 0.125 	neg = 0.375
+43. John Lithgow just bl                ... pos = 0.25  	neg = 0.0  
+44. Only William H. Macy                ... pos = 0.375 	neg = 0.25 
+45. Audiences play lots                 ... pos = 0.625 	neg = 0.25 
+46. Here, we are the jur                ... pos = 0.25  	neg = 0.0  
+47. We get to examine hi                ... pos = 0.875 	neg = 0.375
+48. A Civil Action is th                ... pos = 0.5   	neg = 0.5  
+49. (And big-screen lawy                ... pos = 0.625 	neg = 0.0  
+50. ). MovieNation:  Mov                ... pos = 0.0   	neg = 0.0  
+51. "  -- Sideshow Bob.                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4345-1045 is Positive        ... pos = 21.25 	neg = 9.875
+Overall score of document
+Total Pos = 21.25
+Total Neg = 9.875
+---------------------------------------------------------------------------

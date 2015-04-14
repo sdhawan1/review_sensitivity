@@ -1,0 +1,43 @@
+0. by Curtis Edmonds --                 ... pos = 0.5   	neg = 0.125
+1. If they're talking a                 ... pos = 0.75  	neg = 0.375
+2. If they're talking a                 ... pos = 0.375 	neg = 0.0  
+3. I don't have any way                 ... pos = 0.125 	neg = 1.0  
+4. I went to see Lawren                 ... pos = 0.25  	neg = 0.125
+5. This intermixed with                 ... pos = 0.25  	neg = 0.75 
+6. He talked almost the                 ... pos = 0.375 	neg = 0.25 
+7. I say that to say tw                 ... pos = 0.0   	neg = 0.0  
+8. First, if you're the                 ... pos = 0.25  	neg = 0.75 
+9. Second, Arlington Ro                 ... pos = 0.375 	neg = 0.0  
+10. I know this because                 ... pos = 0.0   	neg = 0.5  
+11. It wasn't individual                ... pos = 0.375 	neg = 0.625
+12. In this, possibly th                ... pos = 0.25  	neg = 0.875
+13. Yes!                                ... pos = 0     	neg = 0    
+14. A Smart Movie!                      ... pos = 0.0   	neg = 0    
+15. Arlington Road is no                ... pos = 0.25  	neg = 0.875
+16. The plot is simple e                ... pos = 0.375 	neg = 0.125
+17. For example, we know                ... pos = 0.875 	neg = 0.875
+18. We know this because                ... pos = 0.625 	neg = 0.375
+19. We know this because                ... pos = 0.75  	neg = 0.75 
+20. And we know this bec                ... pos = 0.875 	neg = 0.25 
+21. But what makes Arlin                ... pos = 0.875 	neg = 0.375
+22. He's got his suspici                ... pos = 0.125 	neg = 0.25 
+23. Bridges finds out, f                ... pos = 0.875 	neg = 0.125
+24. (Arlington Road pret                ... pos = 0.0   	neg = 0.25 
+25. )  Ipso facto, Robbi                ... pos = 0.0   	neg = 0.125
+26. But Bridges can't ma                ... pos = 0.125 	neg = 0.0  
+27. There's one wrenchin                ... pos = 0.875 	neg = 1.25 
+28. Another sign of inte                ... pos = 0.25  	neg = 0.25 
+29. It makes sense, in a                ... pos = 1.75  	neg = 0.0  
+30. (The housing shortag                ... pos = 0.0   	neg = 1.0  
+31. )  Arlington Road ha                ... pos = 0.0   	neg = 0.0  
+32. In fact, when you ge                ... pos = 0.25  	neg = 0.0  
+33. The minor things tha                ... pos = 1.375 	neg = 1.25 
+34. For all fans of Smar                ... pos = 0.75  	neg = 0.125
+35. This... yes!                        ... pos = 0     	neg = 0    
+36. is a movie to talk a                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1717-1045 is Positive        ... pos = 14.875 	neg = 13.75
+Overall score of document
+Total Pos = 14.875
+Total Neg = 13.75
+---------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+0. Years ago, Robin Wil                 ... pos = 1.25  	neg = 0.5  
+1. The same can be said                 ... pos = 0.375 	neg = 0.375
+2. Don't get me wrong:                  ... pos = 0.875 	neg = 0.25 
+3. _Brazil_ is on my pe                 ... pos = 0.0   	neg = 0.125
+4. _The City of Lost Ch                 ... pos = 0.0   	neg = 0.125
+5. I even love _2001_ a                 ... pos = 1.0   	neg = 0.0  
+6. _What Dreams May Com                 ... pos = 0.375 	neg = 0.25 
+7. The daring thought i                 ... pos = 0.125 	neg = 0.125
+8. It's idea of a plot                  ... pos = 0.375 	neg = 0.75 
+9. It would have been b                 ... pos = 0.625 	neg = 0.125
+10. Robin Williams plays                ... pos = 0.875 	neg = 0.25 
+11. The director, Vincen                ... pos = 0.0   	neg = 0.0  
+12. Big mistake.                        ... pos = 0     	neg = 0.625
+13. It would have been f                ... pos = 1.625 	neg = 0.375
+14. Instead, the filmmak                ... pos = 0.5   	neg = 0.25 
+15. It doesn't.                         ... pos = 0.0   	neg = 0    
+16. So in the afterlife,                ... pos = 0.375 	neg = 0.625
+17. Hmm...  I+ll grant o                ... pos = 0.0   	neg = 0.125
+18. (The "not meeting Go                ... pos = 1.125 	neg = 0.125
+19. That said, this alte                ... pos = 0.125 	neg = 0.25 
+20. Read on.... Chris' w                ... pos = 0.0   	neg = 0.0  
+21. Since suicides go to                ... pos = 0.125 	neg = 0.625
+22. The important questi                ... pos = 2.0   	neg = 0.25 
+23. Good question.                      ... pos = 0.75  	neg = 0    
+24. And I like good thou                ... pos = 0.75  	neg = 0.0  
+25. I don+t like it when                ... pos = 0.0   	neg = 0.0  
+26. I _loathe_ it when t                ... pos = 0.125 	neg = 0.0  
+27. I _really_ loathe it                ... pos = 0.0   	neg = 0.625
+28. Hey Chris: did you f                ... pos = 0.25  	neg = 0.0  
+29. Your thoughts are _r                ... pos = 0.25  	neg = 0.625
+30. They are more _real_                ... pos = 0.25  	neg = 0.0  
+31. So, why don+t you co                ... pos = 0.125 	neg = 0.875
+32. And then she would a                ... pos = 0.625 	neg = 0.0  
+33. Because there would                 ... pos = 0     	neg = 0.375
+34. And Albert the angel                ... pos = 0.0   	neg = 0.125
+35. " Umm... if your tho                ... pos = 0.25  	neg = 0.75 
+36. Surely some Eastern                 ... pos = 0.375 	neg = 0.125
+37. And if you happen to                ... pos = 1.5   	neg = 1.25 
+38. All due respect.                    ... pos = 1.125 	neg = 0    
+39. Another idea, based                 ... pos = 0.125 	neg = 0.125
+40. "  So Chris, spend y                ... pos = 0.0   	neg = 0.25 
+41. You+ve got eternity:                ... pos = 0.0   	neg = 0.375
+42. And forcing her to w                ... pos = 0.0   	neg = 0.875
+43. There are many other                ... pos = 1.0   	neg = 0.0  
+44. The great aforementi                ... pos = 0.0   	neg = 0.375
+45. Most insulting is th                ... pos = 1.375 	neg = 0.625
+46. And when this happen                ... pos = 0.625 	neg = 0.0  
+47. _Gag me with a spoon                ... pos = 0.0   	neg = 0.0  
+48. So the only things f                ... pos = 1.0   	neg = 0.25 
+49. Please note that whi                ... pos = 0.75  	neg = 0.625
+50. It sounds like a jok                ... pos = 0.375 	neg = 0.75 
+51. My vote goes to a ra                ... pos = 0.25  	neg = 0.0  
+52. It+s pretty good, an                ... pos = 0.75  	neg = 0.125
+53. (It+s too late for A                ... pos = 0.125 	neg = 0.875
+54. Melancholic, yes.                   ... pos = 0.0   	neg = 0.0  
+55. Depressing, yes.                    ... pos = 0     	neg = 0.125
+56. But far more enterta                ... pos = 0.125 	neg = 0.0  
+57. So, in case you don+                ... pos = 0.0   	neg = 0.125
+58. Suicide--BAD.                       ... pos = 0     	neg = 0    
+59. _DON+T DO IT_.                      ... pos = 0     	neg = 0.0  
+60. No.                                 ... pos = 0     	neg = 0.25 
+61. No.                                 ... pos = 0     	neg = 0.25 
+62. No.                                 ... pos = 0     	neg = 0.25 
+63. (Got it?--you should                ... pos = 0.375 	neg = 0.875
+64. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5518-630 is Positive         ... pos = 25.0  	neg = 18.0 
+Overall score of document
+Total Pos = 25.0
+Total Neg = 18.0
+---------------------------------------------------------------------------

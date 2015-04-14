@@ -1,0 +1,20 @@
+0. Director:   Brenda                  ... pos = 0.0   	neg = 0.0  
+1. US Distribution: Dre                 ... pos = 0.875 	neg = 0.375
+2. "  I like this stat                 ... pos = 1.25  	neg = 1.25 
+3. The Prince of Egypt                  ... pos = 2.75  	neg = 0.625
+4.    Moses grows up w                 ... pos = 1.25  	neg = 0.75 
+5. I realize that The P                 ... pos = 2.875 	neg = 1.875
+6. I can't deny that th                 ... pos = 1.0   	neg = 0.25 
+7.   (I might even go                  ... pos = 0.25  	neg = 0.5  
+8. )  The film is live                 ... pos = 3.875 	neg = 0.25 
+9.    But I have a maj                 ... pos = 0.375 	neg = 0.125
+10. ), but this is the f                ... pos = 1.625 	neg = 0.375
+11. I'm not attacking re                ... pos = 0.0   	neg = 1.0  
+12.   What I'm saying i                ... pos = 1.625 	neg = 0.5  
+13.   There are good le                ... pos = 1.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4748-760 is Positive         ... pos = 19.5  	neg = 8.125
+Overall score of document
+Total Pos = 19.5
+Total Neg = 8.125
+---------------------------------------------------------------------------

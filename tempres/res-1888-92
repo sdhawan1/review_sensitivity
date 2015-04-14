@@ -1,0 +1,35 @@
+0. People are gushing o                 ... pos = 0.5   	neg = 0.125
+1. Without giving too m                 ... pos = 0.125 	neg = 0.25 
+2. " Apparently not.                    ... pos = 0.0   	neg = 0.125
+3. You cannot even trus                 ... pos = 0.0   	neg = 0.0  
+4. My biggest problems                  ... pos = 0.625 	neg = 0.625
+5. It's unswervingly fl                 ... pos = 0     	neg = 0.0  
+6. While it's nice not                  ... pos = 0.0   	neg = 0.25 
+7. There is unforgivabl                 ... pos = 0.0   	neg = 0.25 
+8. While it adds to the                 ... pos = 1.431 	neg = 0.0  
+9. The other problem is                 ... pos = 0.0   	neg = 0.625
+10. Its a bit much to se                ... pos = 0.125 	neg = 0.0  
+11. You expect that from                ... pos = 0.0   	neg = 0.125
+12. The idea that you ne                ... pos = 0.125 	neg = 0.125
+13. That people are take                ... pos = 1.0   	neg = 0.5  
+14. In its favor, there                 ... pos = 0.614 	neg = 0.0  
+15. Most of these come f                ... pos = 0.0   	neg = 0.5  
+16. The movie begins wit                ... pos = 0.5   	neg = 0.0  
+17. It's a business retr                ... pos = 0.75  	neg = 1.375
+18. While on the island,                ... pos = 1.125 	neg = 0.25 
+19. The action moves to                 ... pos = 1.0   	neg = 0.75 
+20. There is a very odd                 ... pos = 1.875 	neg = 0.625
+21. The only other chemi                ... pos = 0.25  	neg = 0.125
+22. I cannot say much mo                ... pos = 0.125 	neg = 0.0  
+23. I will say this, tho                ... pos = 0.875 	neg = 0.0  
+24. See it with coupons                 ... pos = 0.0   	neg = 0.0  
+25. I would normally nev                ... pos = 0.0   	neg = 0.375
+26. With a good director                ... pos = 1.5   	neg = 0.125
+27. I expect so much mor                ... pos = 1.125 	neg = 0.0  
+28. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1888-92 is Positive          ... pos = 13.67 	neg = 7.25 
+Overall score of document
+Total Pos = 13.67
+Total Neg = 7.25
+---------------------------------------------------------------------------

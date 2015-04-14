@@ -1,0 +1,22 @@
+0. "I didn't kill my wi                 ... pos = 0     	neg = 0.0  
+1. " Dr. Richard Kimble                 ... pos = 0.5   	neg = 0.5  
+2. ", right before Rich                 ... pos = 0.0   	neg = 0.0  
+3. This is a classic sc                 ... pos = 0.75  	neg = 0.125
+4. Now five years later                 ... pos = 0.0   	neg = 0.375
+5. In short: NO.                        ... pos = 0.0   	neg = 0.25 
+6. The plot follows the                 ... pos = 0.0   	neg = 0.25 
+7. Here we have a innoc                 ... pos = 0.875 	neg = 0.0  
+8. Since Sam has a lot                  ... pos = 0.0   	neg = 0.125
+9. Along the way Sam di                 ... pos = 0.625 	neg = 0.0  
+10. The movie's plot is                 ... pos = 0.0   	neg = 0.5  
+11. Yea that's realism f                ... pos = 0.0   	neg = 0.0  
+12. Robery Downey Jr. an                ... pos = 0.375 	neg = 0.625
+13. If the movie had att                ... pos = 1.5   	neg = 0.125
+14. The Fugitive had a n                ... pos = 0.25  	neg = 0.125
+15. Don't bother seeing                 ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5482-1529 is Positive        ... pos = 5.0   	neg = 3.125
+Overall score of document
+Total Pos = 5.0
+Total Neg = 3.125
+---------------------------------------------------------------------------

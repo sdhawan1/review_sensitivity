@@ -1,0 +1,31 @@
+0. Magnolia is writer-d                 ... pos = 0.0   	neg = 0.125
+1. This time, Anderson                  ... pos = 1.5   	neg = 0.125
+2. Story hardly seems t                 ... pos = 0.0   	neg = 0.625
+3. The film has a cast                  ... pos = 3.0   	neg = 0.75 
+4. There are, though, a                 ... pos = 1.25  	neg = 0.75 
+5. William H. Macy play                 ... pos = 1.125 	neg = 2.5  
+6. Perhaps surprisingly                 ... pos = 0.125 	neg = 0.375
+7. All teeth and flashi                 ... pos = 0.875 	neg = 0.0  
+8. Cruise excels as he                  ... pos = 0.75  	neg = 0.25 
+9. Later, when an inter                 ... pos = 0.25  	neg = 0.25 
+10. "What are you doing?                ... pos = 0.25  	neg = 0.0  
+11. " she asks.                         ... pos = 0.125 	neg = 0    
+12. "I'm quietly judging                ... pos = 0.0   	neg = 0.0  
+13. I have always had my                ... pos = 1.25  	neg = 0.125
+14. All that time locked                ... pos = 0.75  	neg = 0.125
+15. Here he is simply te                ... pos = 1.125 	neg = 0.125
+16. Technically, Magnoli                ... pos = 0.75  	neg = 0.875
+17. Some haunting songs                 ... pos = 1.25  	neg = 0.0  
+18. In some scenes, the                 ... pos = 1.125 	neg = 0.25 
+19. The opening pre-cred                ... pos = 0.375 	neg = 0.125
+20. This macabrely funny                ... pos = 2.125 	neg = 0.875
+21. (The strange climact                ... pos = 1.375 	neg = 0.125
+22. ). If I had my sarca                ... pos = 2.75  	neg = 1.875
+23. In a fairer mood, I'                ... pos = 1.625 	neg = 0.5  
+24. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4191-312 is Positive         ... pos = 24.75 	neg = 10.75
+Overall score of document
+Total Pos = 24.75
+Total Neg = 10.75
+---------------------------------------------------------------------------

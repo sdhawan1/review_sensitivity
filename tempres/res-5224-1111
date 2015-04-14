@@ -1,0 +1,34 @@
+0. This is a multi-part                 ... pos = 0.0   	neg = 0.125
+1. URBAN LEGEND (Columb                 ... pos = 1.125 	neg = 0.875
+2. These are urban lege                 ... pos = 0.875 	neg = 0.25 
+3. There's a killer in                  ... pos = 0.0   	neg = 0.5  
+4. Urban Legend milks t                 ... pos = 0.375 	neg = 0.625
+5. Those interested in                  ... pos = 0.375 	neg = 0.875
+6. The way Jamie Blanks                 ... pos = 0.0   	neg = 0.125
+7. Craven has been arou                 ... pos = 0.375 	neg = 0.5  
+8. Blanks doesn't have                  ... pos = 0.125 	neg = 0.125
+9. Consequently, some m                 ... pos = 1.0   	neg = 0.25 
+10. Like its final few s                ... pos = 0.75  	neg = 0.0  
+11. But this is escaping                ... pos = 0.0   	neg = 1.75 
+12. At New England's Pen                ... pos = 0.375 	neg = 0.125
+13. As students begin di                ... pos = 1.0   	neg = 0.625
+14. Helping her is Paul                 ... pos = 0.25  	neg = 0.625
+15. Natalie's best frien                ... pos = 0.5   	neg = 0.25 
+16. Natalie and Paul pri                ... pos = 0.75  	neg = 1.375
+17. Blanks keeps us gues                ... pos = 0.0   	neg = 0.5  
+18. On one occasion he u                ... pos = 1.0   	neg = 1.625
+19. It works to reasonab                ... pos = 1.5   	neg = 0.5  
+20. The identity of the                 ... pos = 0.375 	neg = 0.75 
+21. Alicia Witt's perfor                ... pos = 1.375 	neg = 0.125
+22. She offers something                ... pos = 0.625 	neg = 0.125
+23. Though appearing as                 ... pos = 0.5   	neg = 0.5  
+24. Portraying intellige                ... pos = 0.0   	neg = 0.25 
+25. Rebecca Gayheart giv                ... pos = 1.0   	neg = 0.25 
+26. Veteran John Neville                ... pos = 0.375 	neg = 0.125
+27. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5224-1111 is Positive        ... pos = 14.875 	neg = 13.75
+Overall score of document
+Total Pos = 14.875
+Total Neg = 13.75
+---------------------------------------------------------------------------

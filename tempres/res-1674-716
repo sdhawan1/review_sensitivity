@@ -1,0 +1,46 @@
+0. Since Hollywood has                  ... pos = 0.25  	neg = 1.25 
+1. Accordingly, this su                 ... pos = 0.25  	neg = 0.25 
+2. The creative forces                  ... pos = 0.375 	neg = 0.75 
+3. They are partly righ                 ... pos = 0.25  	neg = 0    
+4. A team of astronauts                 ... pos = 0.0   	neg = 0.0  
+5. Sturgeon Tanner (Rob                 ... pos = 0.625 	neg = 1.375
+6. Meanwhile, we follow                 ... pos = 1.0   	neg = 0.375
+7. The astronauts manag                 ... pos = 0.25  	neg = 1.375
+8. (Hint: which do you                  ... pos = 0.625 	neg = 0.0  
+9. ). The problem is th                 ... pos = 0.75  	neg = 0.375
+10. The astronauts' tens                ... pos = 0.625 	neg = 0.875
+11. But the only scene i                ... pos = 0.0   	neg = 0.125
+12. The "impact" of the                 ... pos = 0.5   	neg = 0.0  
+13. Part of the reason f                ... pos = 0.0   	neg = 0.375
+14. Towards the beginnin                ... pos = 0.0   	neg = 0.125
+15. When the President f                ... pos = 0.5   	neg = 0.625
+16. " and "Does anyone k                ... pos = 0.0   	neg = 0.125
+17. " Meanwhile, one of                 ... pos = 0.5   	neg = 0.375
+18. That's the best reas                ... pos = 0.75  	neg = 0.125
+19. ". This angle soon f                ... pos = 1.25  	neg = 0.375
+20. Unfortunately, the f                ... pos = 0.625 	neg = 0.875
+21. We appreciate these                 ... pos = 1.625 	neg = 0.0  
+22. James Cameron, in wr                ... pos = 1.125 	neg = 0.125
+23. In DEEP IMPACT, we s                ... pos = 0.625 	neg = 0.625
+24. The plot, meanwhile,                ... pos = 0.25  	neg = 0.5  
+25. I'm still not sure w                ... pos = 2.25  	neg = 0.375
+26. Also, why wouldn't t                ... pos = 0.125 	neg = 0.125
+27. I realize it's expen                ... pos = 0.25  	neg = 0.125
+28. And why didn't the a                ... pos = 0.0   	neg = 0.0  
+29. The script also leav                ... pos = 0.5   	neg = 0.5  
+30. Perhaps the biggest                 ... pos = 0.125 	neg = 0.125
+31. There are reports of                ... pos = 0.25  	neg = 0.625
+32. At the end, the Pres                ... pos = 1.125 	neg = 0.125
+33. I had hoped the film                ... pos = 1.25  	neg = 1.125
+34. DEEP IMPACT, however                ... pos = 0.625 	neg = 0.125
+35. DEEP IMPACT makes a                ... pos = 0.0   	neg = 0.75 
+36. What it would be lik                ... pos = 0.125 	neg = 0.375
+37. Or filmed, as the ca                ... pos = 0.0   	neg = 0.125
+38. Send comments and su                ... pos = 0.0   	neg = 0.0  
+39. Film Reviews Page: h                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1674-716 is Positive         ... pos = 19.375 	neg = 15.5 
+Overall score of document
+Total Pos = 19.375
+Total Neg = 15.5
+---------------------------------------------------------------------------

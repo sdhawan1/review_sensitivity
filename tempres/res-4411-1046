@@ -1,0 +1,36 @@
+0. What an offensive an                 ... pos = 0.0   	neg = 0.125
+1. "Patch Adams" has ga                 ... pos = 0.125 	neg = 0.75 
+2. Drawn to some extent                 ... pos = 1.125 	neg = 0.0  
+3. He's suicidal, but h                 ... pos = 0.5   	neg = 0.0  
+4. A more cynical, know                 ... pos = 0.625 	neg = 2.125
+5. Patch enrolls in med                 ... pos = 1.125 	neg = 0.125
+6. Anyone who has seen                  ... pos = 1.375 	neg = 0.25 
+7. Patch fights back ag                 ... pos = 1.125 	neg = 0.625
+8. The only problem is                  ... pos = 0.25  	neg = 0.875
+9. He puts bedpans on h                 ... pos = 0.0   	neg = 0.875
+10. It's not that any of                ... pos = 0.25  	neg = 0.625
+11. Any doctor started j                ... pos = 0.0   	neg = 0.0  
+12. I said the movie was                ... pos = 0.125 	neg = 0.125
+13. Adams is the free-sp                ... pos = 0.0   	neg = 0.25 
+14. This is neither true                ... pos = 0.625 	neg = 0.375
+15. If the movie had an                 ... pos = 0.5   	neg = 0.75 
+16. Break a window, and                 ... pos = 0.0   	neg = 0.0  
+17. you're a rebel.                     ... pos = 0.0   	neg = 0    
+18. The film's gears are                ... pos = 0.25  	neg = 0.125
+19. Patch has (no!                      ... pos = 0.0   	neg = 0.0  
+20. ) a Love Interest (M                ... pos = 1.0   	neg = 0.625
+21. And once he does cli                ... pos = 0.25  	neg = 0.0  
+22. This I could have to                ... pos = 0.125 	neg = 1.375
+23. On cue, the doors op                ... pos = 0.0   	neg = 0.0  
+24. The scene is horribl                ... pos = 0.0   	neg = 0.375
+25. One, if those childr                ... pos = 0.625 	neg = 0.625
+26. And two, isn't this                 ... pos = 0.875 	neg = 1.5  
+27. It's one thing to be                ... pos = 1.125 	neg = 0.875
+28. "Patch Adams" is not                ... pos = 0.0   	neg = 0.125
+29. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4411-1046 is Negative        ... pos = 12.0  	neg = 13.5 
+Overall score of document
+Total Pos = 12.0
+Total Neg = 13.5
+---------------------------------------------------------------------------

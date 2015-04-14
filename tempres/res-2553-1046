@@ -1,0 +1,57 @@
+0. CAPSULE: A cultural                  ... pos = 1.0   	neg = 0.125
+1. Many movies are abou                 ... pos = 0.875 	neg = 0.25 
+2. FORREST GUMP is abou                 ... pos = 1.5   	neg = 1.0  
+3. The very oddest thin                 ... pos = 1.75  	neg = 0.125
+4. I wondered how no on                 ... pos = 0.0   	neg = 0.375
+5. And yet, as a whole,                 ... pos = 0.25  	neg = 0.0  
+6. It's vastly overrate                 ... pos = 0.25  	neg = 0.125
+7. Forrest is played wi                 ... pos = 0.0   	neg = 0.125
+8. He (Gump) is mildly                  ... pos = 0.125 	neg = 0.625
+9. His trove of facts i                 ... pos = 0.0   	neg = 0.0  
+10. As a boy, with brace                ... pos = 1.375 	neg = 0.75 
+11. Then one day the bra                ... pos = 0.125 	neg = 0.875
+12. He couples that with                ... pos = 0.0   	neg = 1.0  
+13. And the one thing th                ... pos = 0.0   	neg = 0.0  
+14. Although he rescues                 ... pos = 0.125 	neg = 1.125
+15. Good luck rains down                ... pos = 0.75  	neg = 1.125
+16. He goes on to be the                ... pos = 0.0   	neg = 0.125
+17. The sly thing about                 ... pos = 1.375 	neg = 0.5  
+18. All he wants out of                 ... pos = 2.25  	neg = 0.375
+19. Too much of any one                 ... pos = 0.125 	neg = 0.625
+20. The balance is almos                ... pos = 0.0   	neg = 0.125
+21. He plays a man who i                ... pos = 0.0   	neg = 0.875
+22. He understands just                 ... pos = 0.375 	neg = 0.875
+23. He asks himself a qu                ... pos = 0.375 	neg = 0.0  
+24. -- and based on ever                ... pos = 0.125 	neg = 0.375
+25. The movie throws thi                ... pos = 1.875 	neg = 0.375
+26. There are two big tr                ... pos = 0.25  	neg = 0.0  
+27. One is the nonstop r                ... pos = 1.0   	neg = 0.75 
+28. Another is the way h                ... pos = 0.5   	neg = 0.25 
+29. (The scene where he                 ... pos = 0.0   	neg = 0.0  
+30. ) After a while, I s                ... pos = 0.0   	neg = 0.125
+31. To further throw his                ... pos = 0.75  	neg = 0.0  
+32. It only makes us con                ... pos = 0.0   	neg = 0.5  
+33. This attitude extend                ... pos = 0.0   	neg = 0.0  
+34. In another scene, Fo                ... pos = 0.125 	neg = 0.25 
+35. The scene serves ult                ... pos = 0.0   	neg = 0.25 
+36. I, for one, would ha                ... pos = 0.5   	neg = 0.0  
+37. The way the script s                ... pos = 0.875 	neg = 0.25 
+38. There's also a tende                ... pos = 0.125 	neg = 0.0  
+39. Gump isn't morally s                ... pos = 0.5   	neg = 0.125
+40. ), just differently                 ... pos = 0.25  	neg = 0.5  
+41. It's a troubling sig                ... pos = 0.625 	neg = 0.5  
+42. And yet, what an unm                ... pos = 1.875 	neg = 0.125
+43. The best moments are                ... pos = 0.625 	neg = 0.0  
+44. The ping-pong matche                ... pos = 0.0   	neg = 0    
+45. Or when Forrest find                ... pos = 0.125 	neg = 0.0  
+46. I am reminded strong                ... pos = 0.375 	neg = 0.375
+47. BEING THERE was far                 ... pos = 0.25  	neg = 0.125
+48. GUMP never quite has                ... pos = 0.0   	neg = 0.625
+49. * A friend of mine,                 ... pos = 1.125 	neg = 0.25 
+50. I decided that the m                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2553-1046 is Positive        ... pos = 25.0  	neg = 17.0 
+Overall score of document
+Total Pos = 25.0
+Total Neg = 17.0
+---------------------------------------------------------------------------

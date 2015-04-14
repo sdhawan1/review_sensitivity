@@ -1,0 +1,32 @@
+0. No, it is not a bad                  ... pos = 1.0   	neg = 1.375
+1. EVENT HORIZON is not                 ... pos = 0.375 	neg = 0.125
+2. It is not even origi                 ... pos = 0.0   	neg = 0.125
+3. The magic of this fi                 ... pos = 1.125 	neg = 0    
+4. The story brings us                  ... pos = 0.0   	neg = 0.0  
+5. The EVENT HORIZON is                 ... pos = 0.875 	neg = 0.125
+6. The ship disappeared                 ... pos = 0.0   	neg = 0.25 
+7. A search and rescue                  ... pos = 0.0   	neg = 0.125
+8. The designer of the                  ... pos = 0.25  	neg = 0.0  
+9. EVENT HORIZON is a s                 ... pos = 1.0   	neg = 0.25 
+10. While in ALIEN, the                 ... pos = 1.0   	neg = 0.125
+11. The story unfolds it                ... pos = 1.75  	neg = 0.375
+12. I can't stand this a                ... pos = 0.0   	neg = 0.0  
+13. There are more than                 ... pos = 0.375 	neg = 0.0  
+14. The story in itself                 ... pos = 0.875 	neg = 0.25 
+15. Even so, the essence                ... pos = 1.375 	neg = 0.25 
+16. Director Paul Anders                ... pos = 0.0   	neg = 0.0  
+17. This picture did not                ... pos = 0.875 	neg = 0.0  
+18. Although on the face                ... pos = 0.125 	neg = 0.25 
+19. However, the offbeat                ... pos = 1.0   	neg = 0.125
+20. My friend and I coul                ... pos = 0.125 	neg = 0.0  
+21. I guess it was just                 ... pos = 0.125 	neg = 0.125
+22. Be forewarned, this                 ... pos = 0.375 	neg = 0.25 
+23. Be prepared to be di                ... pos = 0.125 	neg = 0.25 
+24. EVENT HORIZON is hig                ... pos = 0.625 	neg = 0.125
+25. It has been a long t                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-6159-1168 is Positive        ... pos = 13.375 	neg = 5.125
+Overall score of document
+Total Pos = 13.375
+Total Neg = 5.125
+---------------------------------------------------------------------------

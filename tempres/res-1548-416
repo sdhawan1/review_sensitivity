@@ -1,0 +1,23 @@
+0. Starring: the voices                 ... pos = 0.5   	neg = 0.5  
+1. Tarzan becomes adept                 ... pos = 1.0   	neg = 0.5  
+2. When Tarzan stumbles                 ... pos = 1.0   	neg = 1.375
+3. Rosie O'Donnel offer                 ... pos = 0.75  	neg = 0.0  
+4. Opinion: This animat                 ... pos = 0.5   	neg = 0.375
+5. Adults will enjoy wa                 ... pos = 1.375 	neg = 0    
+6. With knife in hand,                  ... pos = 0.625 	neg = 0.375
+7. And when he gets tra                 ... pos = 0.25  	neg = 1.125
+8. On the other hand, c                 ... pos = 0.75  	neg = 0.0  
+9. Here's this young ki                 ... pos = 0.375 	neg = 0.5  
+10. He surfs down windin                ... pos = 0.25  	neg = 0.125
+11. He faces down danger                ... pos = 0.0   	neg = 0.0  
+12. He has exciting adve                ... pos = 0.75  	neg = 0    
+13. He finds his way.                   ... pos = 0.0   	neg = 0    
+14. Take the whole famil                ... pos = 0.0   	neg = 0.0  
+15. This one's worth it.                ... pos = 0.0   	neg = 0    
+16. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1548-416 is Positive         ... pos = 8.125 	neg = 5.0  
+Overall score of document
+Total Pos = 8.125
+Total Neg = 5.0
+---------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+0. "Why can't you just                  ... pos = 0.0   	neg = 0.0  
+1. ". Starring Pierce B                 ... pos = 0.0   	neg = 0.0  
+2. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+3. Why can't James Bond                 ... pos = 0.5   	neg = 0.125
+4. I don't think people                 ... pos = 0.0   	neg = 0.0  
+5. Instead of eliciting                 ... pos = 0.25  	neg = 0.0  
+6. It's worn out and it                 ... pos = 0.0   	neg = 0.0  
+7. As a matter of fact,                 ... pos = 0.0   	neg = 0.125
+8. I move for all trade                 ... pos = 0.0   	neg = 0.125
+9. That means buh-bye,                  ... pos = 0.0   	neg = 0.0  
+10. " No more "talking k                ... pos = 0.0   	neg = 0.625
+11. " Here's a franchise                ... pos = 1.0   	neg = 0.25 
+12. I mean completely or                ... pos = 0.125 	neg = 0.0  
+13. After 19 installment                ... pos = 0.0   	neg = 0.125
+14. Bond's latest escapa                ... pos = 0.5   	neg = 1.875
+15. The maniacal supervi                ... pos = 0.0   	neg = 0.25 
+16. The bullet makes him                ... pos = 1.125 	neg = 0.125
+17. His evil plan for wo                ... pos = 0.0   	neg = 1.125
+18. 007 is dispatched by                ... pos = 2.0   	neg = 0.375
+19. Is she really the go                ... pos = 0.75  	neg = 0.375
+20. Or does she have an                 ... pos = 0.875 	neg = 0.0  
+21. Any guesses?                        ... pos = 0.0   	neg = 0.0  
+22. Anyone?                             ... pos = 0     	neg = 0    
+23. Things get personal                 ... pos = 1.375 	neg = 1.125
+24. Oh, never mind, this                ... pos = 0.125 	neg = 0.125
+25. I get it now.                       ... pos = 0.0   	neg = 0.0  
+26. Beg your pardon.                    ... pos = 0.0   	neg = 0.0  
+27. ) to diffuse the bom                ... pos = 0.125 	neg = 0.25 
+28. This is the same old                ... pos = 0.25  	neg = 0.875
+29. Director Michael Apt                ... pos = 1.0   	neg = 1.125
+30. For all the flaws of                ... pos = 0.375 	neg = 0.0  
+31. The World is Not Eno                ... pos = 1.25  	neg = 0.25 
+32. Pierce Brosnan is no                ... pos = 0.0   	neg = 0.5  
+33. Charming and charism                ... pos = 1.625 	neg = 0.125
+34. Sophie Marceau and D                ... pos = 1.125 	neg = 1.0  
+35. When Bond was resurr                ... pos = 0.25  	neg = 0.25 
+36. People went six year                ... pos = 0.375 	neg = 0.5  
+37. Now that's worn off                 ... pos = 0.375 	neg = 0.75 
+38. Keep Brosnan.                       ... pos = 0.0   	neg = 0    
+39. Change everything el                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3999-563 is Positive         ... pos = 15.5  	neg = 12.375
+Overall score of document
+Total Pos = 15.5
+Total Neg = 12.375
+---------------------------------------------------------------------------

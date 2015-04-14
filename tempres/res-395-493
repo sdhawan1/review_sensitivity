@@ -1,0 +1,50 @@
+0. Toy Story 2, featuri                 ... pos = 0.0   	neg = 0.0  
+1. Directed by John Las                 ... pos = 0.0   	neg = 0    
+2. 1999.                                ... pos = 0     	neg = 0    
+3. Disney has always ha                 ... pos = 0.25  	neg = 0.0  
+4. Even in a year with                  ... pos = 0.75  	neg = 0.125
+5. Disney decided to th                 ... pos = 0.875 	neg = 0.25 
+6. Where these two have                 ... pos = 0.875 	neg = 0.125
+7. The original Toy Sto                 ... pos = 1.0   	neg = 0.375
+8. Movie audiences were                 ... pos = 1.375 	neg = 0.25 
+9. A Bug's Life tried t                 ... pos = 0.875 	neg = 0.5  
+10. However, the additio                ... pos = 0.375 	neg = 0.0  
+11. With Toy Story 2, ho                ... pos = 1.875 	neg = 0.25 
+12. In Toy Story 2, all                 ... pos = 0.25  	neg = 0.0  
+13. Tom Hanks and Tim Al                ... pos = 0.5   	neg = 0    
+14. The rest of the cast                ... pos = 1.0   	neg = 0.0  
+15. Don Rickles (Mr.                    ... pos = 0     	neg = 0.0  
+16. Potato Head), Jim Va                ... pos = 1.5   	neg = 0.75 
+17. Joan Cusack (Jessie                 ... pos = 0.0   	neg = 0.0  
+18. Just like all Disney                ... pos = 0.25  	neg = 0.25 
+19. The premise for Toy                 ... pos = 1.125 	neg = 0.125
+20. Woody, while saving                 ... pos = 0.0   	neg = 0.0  
+21. When Al the Toy Coll                ... pos = 0.0   	neg = 0.5  
+22. However, Al takes hi                ... pos = 0.125 	neg = 0.0  
+23. The toys see this, a                ... pos = 0.0   	neg = 0.0  
+24. Potato Head set out                 ... pos = 0.0   	neg = 0.0  
+25. Woody gets taken bac                ... pos = 0.0   	neg = 0.0  
+26. Woody finds out he u                ... pos = 0.125 	neg = 0.125
+27. The movie than chron                ... pos = 0.625 	neg = 0.0  
+28. Unlike a lot of chil                ... pos = 1.25  	neg = 0    
+29. There are some under                ... pos = 1.25  	neg = 0.0  
+30. The script is very c                ... pos = 2.125 	neg = 0.375
+31. The original Toy Sto                ... pos = 0.25  	neg = 0.25 
+32. Toy Story 2, on the                 ... pos = 0.5   	neg = 0.125
+33. For one stretch of t                ... pos = 0.0   	neg = 0.0  
+34. Potato Head are in A                ... pos = 1.625 	neg = 0.125
+35. As said before, the                 ... pos = 0.25  	neg = 0.0  
+36. For instance, one sc                ... pos = 0.375 	neg = 0.0  
+37. To the children, it                 ... pos = 0.0   	neg = 0.5  
+38. To the older audienc                ... pos = 1.125 	neg = 0.125
+39. Potato Head checks h                ... pos = 0.0   	neg = 0.0  
+40. In the end, Toy Stor                ... pos = 0.125 	neg = 0.0  
+41. Instead of susceptin                ... pos = 0.375 	neg = 1.0  
+42. The tagline for Toy                 ... pos = 2.125 	neg = 0.125
+43. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-395-493 is Positive          ... pos = 25.25 	neg = 6.25 
+Overall score of document
+Total Pos = 25.25
+Total Neg = 6.25
+---------------------------------------------------------------------------

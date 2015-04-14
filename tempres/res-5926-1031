@@ -1,0 +1,32 @@
+0. Rating: **1/2 (out o                 ... pos = 0.875 	neg = 0.125
+1. " If you don't spot                  ... pos = 0.125 	neg = 0.25 
+2. This double entendre                 ... pos = 0.75  	neg = 0.0  
+3. At least give credit                 ... pos = 0.75  	neg = 0.0  
+4. Their movie's defini                 ... pos = 0.25  	neg = 0.0  
+5. " It's certainly "Lo                 ... pos = 0.75  	neg = 0.0  
+6. And it's undeniably                  ... pos = 1.25  	neg = 0.5  
+7. Hijinks as usual are                 ... pos = 1.375 	neg = 0.875
+8. As real-life theatre                 ... pos = 0.125 	neg = 0.5  
+9. These sewer-mouthed                  ... pos = 0.875 	neg = 0.25 
+10. This is where "South                ... pos = 0.0   	neg = 0.125
+11. " Being "Bigger" is                 ... pos = 0.25  	neg = 0.125
+12. But the "Longer & Un                ... pos = 0.625 	neg = 0.5  
+13. The novelty of carto                ... pos = 0.875 	neg = 0.0  
+14. ) gets old fast, lon                ... pos = 0.5   	neg = 1.25 
+15. Kenny's death is "A-                ... pos = 0.375 	neg = 0.375
+16. We've seen this U.S-                ... pos = 0.125 	neg = 0.0  
+17. That's right, "South                ... pos = 1.5   	neg = 1.625
+18. Broadway, especially                ... pos = 0.0   	neg = 0.875
+19. Sure, some of the ex                ... pos = 0.75  	neg = 0.0  
+20. But Parker and Stone                ... pos = 0.5   	neg = 0.875
+21. "South Park" lovers                 ... pos = 0.25  	neg = 0.125
+22. But I'll take smalle                ... pos = 0.0   	neg = 0.0  
+23. Š 1999 Jamie Peck E                ... pos = 0.25  	neg = 0.0  
+24. If you think this mo                ... pos = 0.0   	neg = 0.375
+25. " -Roger Ebert on "V                ... pos = 0     	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5926-1031 is Positive        ... pos = 13.125 	neg = 9.625
+Overall score of document
+Total Pos = 13.125
+Total Neg = 9.625
+---------------------------------------------------------------------------

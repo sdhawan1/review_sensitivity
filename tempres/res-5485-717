@@ -1,0 +1,36 @@
+0. TRUE CRIME (Warner B                 ... pos = 0.75  	neg = 0.25 
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 1.125 	neg = 0.25 
+3. Still, under Eastwoo                 ... pos = 2.125 	neg = 0.75 
+4. The central characte                 ... pos = 1.25  	neg = 0.0  
+5. Nonetheless, there's                 ... pos = 1.375 	neg = 0.0  
+6. A somber dread perme                 ... pos = 0.25  	neg = 0.0  
+7. Convicted for the mu                 ... pos = 0.125 	neg = 0.125
+8. While the scales are                 ... pos = 2.375 	neg = 0.625
+9. Meanwhile, upon the                  ... pos = 0.0   	neg = 0.75 
+10. Assigned to intervie                ... pos = 0.125 	neg = 0.0  
+11. What follows is larg                ... pos = 0.0   	neg = 0.125
+12. ".    All standard f                ... pos = 4.875 	neg = 1.125
+13. Few have played flaw                ... pos = 0.25  	neg = 0.375
+14. A washout as a husba                ... pos = 1.375 	neg = 1.375
+15. We've seen this sort                ... pos = 3.125 	neg = 0.375
+16. While there's an obv                ... pos = 1.0   	neg = 0.0  
+17. With a refreshing                   ... pos = 0.0   	neg = 0.0  
+18. While the film isn't                ... pos = 1.0   	neg = 0.5  
+19. While leaning toward                ... pos = 1.0   	neg = 0.125
+20. If anything, what's                 ... pos = 1.625 	neg = 0.75 
+21. Eastwood elicits typ                ... pos = 3.375 	neg = 0.0  
+22. As always, it's grea                ... pos = 1.375 	neg = 0.125
+23. Loose but never slac                ... pos = 0.5   	neg = 0.5  
+24. Eastwood oversees                   ... pos = 1.5   	neg = 0.125
+25. There's an ostensibl                ... pos = 0.0   	neg = 2.0  
+26. In most pictures, th                ... pos = 1.5   	neg = 0.125
+27. -- Alex Fung (aw220@                ... pos = 0.125 	neg = 0.125
+28. Half the time I have                ... pos = 0.0   	neg = 0.25 
+29. " - Martin Landau. .                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5485-717 is Positive         ... pos = 32.125 	neg = 11.0 
+Overall score of document
+Total Pos = 32.125
+Total Neg = 11.0
+---------------------------------------------------------------------------

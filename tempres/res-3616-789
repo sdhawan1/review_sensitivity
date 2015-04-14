@@ -1,0 +1,41 @@
+0. With a few exception                 ... pos = 0.0   	neg = 0.125
+1. With such classics l                 ... pos = 0.875 	neg = 0.25 
+2. Bringing Out The Dea                 ... pos = 0.75  	neg = 0.75 
+3. If you know Scorsese                 ... pos = 1.0   	neg = 0.125
+4. In Bringing Out The                  ... pos = 0.875 	neg = 0.0  
+5. Cage's character in                  ... pos = 0.875 	neg = 0.125
+6. He wanders the stree                 ... pos = 0.375 	neg = 0.375
+7. The first stop is wi                 ... pos = 0.125 	neg = 0.125
+8. When the old man arr                 ... pos = 0.25  	neg = 0.0  
+9. For some reason Cage                 ... pos = 0.0   	neg = 0.0  
+10. When he's out on the                ... pos = 0.0   	neg = 0.125
+11. It's like ER in hell                ... pos = 0.0   	neg = 0.5  
+12. You would think that                ... pos = 0.375 	neg = 0.0  
+13. The whole film I was                ... pos = 0.0   	neg = 1.0  
+14. It's not like Scorse                ... pos = 0.0   	neg = 0.0  
+15. I was quite disappoi                ... pos = 0.0   	neg = 0.125
+16. It should have chang                ... pos = 0.5   	neg = 0.0  
+17. On the brighter side                ... pos = 0.0   	neg = 0.125
+18. Even though the film                ... pos = 0.5   	neg = 0.125
+19. If anyone looks like                ... pos = 0     	neg = 1.0  
+20. Those depressed eyes                ... pos = 0.5   	neg = 1.0  
+21. The other supporting                ... pos = 0.875 	neg = 0.0  
+22. John Goodman is the                 ... pos = 0.0   	neg = 0.625
+23. Despite Sizemore's h                ... pos = 0.5   	neg = 0.625
+24. Pretty disturbing if                ... pos = 0.0   	neg = 0.125
+25. Martin Scorsese turn                ... pos = 0.125 	neg = 0    
+26. Some noteworthy rema                ... pos = 0.875 	neg = 0.125
+27. There's also some tw                ... pos = 0.125 	neg = 0.0  
+28. He does this a few t                ... pos = 0.5   	neg = 0.0  
+29. Like Goodfellas, Sco                ... pos = 0.25  	neg = 0.0  
+30. You have to applaud                 ... pos = 1.125 	neg = 0.0  
+31. He definitely choose                ... pos = 0.625 	neg = 0    
+32. Although "Bringing O                ... pos = 0.5   	neg = 0.125
+33. Some may hate it's n                ... pos = 0.125 	neg = 0.0  
+34. Not for people with                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3616-789 is Positive         ... pos = 12.625 	neg = 7.625
+Overall score of document
+Total Pos = 12.625
+Total Neg = 7.625
+---------------------------------------------------------------------------

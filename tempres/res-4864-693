@@ -1,0 +1,37 @@
+0. You may assume `Bice                 ... pos = 1.625 	neg = 0.375
+1. You would be mistake                 ... pos = 0.0   	neg = 0.125
+2. Although this Willia                 ... pos = 0.375 	neg = 0.625
+3. You may also be led                  ... pos = 0.875 	neg = 0.25 
+4. Again, you would be                  ... pos = 0.0   	neg = 0.125
+5. For any youngster ex                 ... pos = 1.0   	neg = 0.375
+6. There is humor (and                  ... pos = 2.5   	neg = 0.375
+7. This age group may b                 ... pos = 0.614 	neg = 0.125
+8. Others, I'm afraid,                  ... pos = 0.0   	neg = 1.125
+9. The movie does have                  ... pos = 0.75  	neg = 0.0  
+10. When we are first in                ... pos = 1.5   	neg = 0.5  
+11. Andrew is the new pr                ... pos = 1.0   	neg = 0.375
+12. Sir begins to notice                ... pos = 1.5   	neg = 0.125
+13. A greedy business ex                ... pos = 0.75  	neg = 0.25 
+14. For these 45 minutes                ... pos = 1.864 	neg = 0.0  
+15. But, unfortunately,                 ... pos = 0.0   	neg = 0.875
+16. Andrew, with his pos                ... pos = 0.0   	neg = 0.0  
+17. The film radiates so                ... pos = 0.375 	neg = 0.25 
+18. It is awkward and un                ... pos = 1.0   	neg = 0.25 
+19. The film continues w                ... pos = 0.625 	neg = 0.875
+20. Despite my disappoin                ... pos = 0.125 	neg = 0.875
+21. Williams delivers an                ... pos = 0.75  	neg = 0.0  
+22. In both robotic and                 ... pos = 2.25  	neg = 0.125
+23. Embeth Davidtz plays                ... pos = 0.25  	neg = 0.25 
+24. Sam Neill is terrifi                ... pos = 1.25  	neg = 0.125
+25. The performances are                ... pos = 0.875 	neg = 0.25 
+26. The production value                ... pos = 0.625 	neg = 0.25 
+27. There is an abundanc                ... pos = 0.75  	neg = 0.875
+28. And so I offer a del                ... pos = 1.306 	neg = 0.125
+29. A few aspects are re                ... pos = 1.125 	neg = 0.25 
+30. Cast Your Votes for                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4864-693 is Positive         ... pos = 25.659 	neg = 10.125
+Overall score of document
+Total Pos = 25.659
+Total Neg = 10.125
+---------------------------------------------------------------------------

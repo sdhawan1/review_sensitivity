@@ -1,0 +1,50 @@
+0. Review by Lars Linda                 ... pos = 0.0   	neg = 0.0  
+1. Imagine this.                        ... pos = 0     	neg = 0.5  
+2. You're given a sword                 ... pos = 0.5   	neg = 0.0  
+3. A man you don't know                 ... pos = 0.25  	neg = 0.125
+4. You are thrown into                  ... pos = 0.625 	neg = 0.0  
+5. You frantically moni                 ... pos = 0.75  	neg = 0.0  
+6. You watch as the inn                 ... pos = 0.5   	neg = 0.625
+7. If you are lucky eno                 ... pos = 1.0   	neg = 0.0  
+8. Eventually know matt                 ... pos = 1.375 	neg = 0.0  
+9. This is the life of                  ... pos = 0.0   	neg = 0.125
+10. You'll never have to                ... pos = 0.75  	neg = 0.25 
+11. With his new film, S                ... pos = 0.625 	neg = 0.0  
+12. And like those prece                ... pos = 1.75  	neg = 0.25 
+13. Since the two aforem                ... pos = 0.75  	neg = 0.25 
+14. >From a weak beginni                ... pos = 0.625 	neg = 2.014
+15. Rome's best general                 ... pos = 0.375 	neg = 0.25 
+16. Scott shoots the gor                ... pos = 1.125 	neg = 0.0  
+17. It's blurry, in slow                ... pos = 0.125 	neg = 0.125
+18. As soon as this arti                ... pos = 0.0   	neg = 1.125
+19. It's a good thing Sc                ... pos = 1.0   	neg = 0.125
+20. Instead, the general                ... pos = 0.125 	neg = 0.0  
+21. He wants to go back                 ... pos = 0.375 	neg = 0.0  
+22. But, unexpectedly, h                ... pos = 0.0   	neg = 0.0  
+23. The dying emperor of                ... pos = 0.375 	neg = 0.0  
+24. He asks Maximus to r                ... pos = 0.0   	neg = 0.0  
+25. All of this does not                ... pos = 0.375 	neg = 0.125
+26. Jealous and upset, C                ... pos = 0.5   	neg = 0.0  
+27. But Maximus is able                 ... pos = 0.25  	neg = 0.125
+28. Now a slave, the onl                ... pos = 0.75  	neg = 0.125
+29. A story of betrayal                 ... pos = 0.0   	neg = 0.375
+30. You actually care ab                ... pos = 0.875 	neg = 1.375
+31. Phoenix plays his ch                ... pos = 1.25  	neg = 0.0  
+32. Think of Commodus as                ... pos = 0.0   	neg = 1.5  
+33. Every scene we see C                ... pos = 0.5   	neg = 0.5  
+34. Phoenix has definite                ... pos = 0.375 	neg = 0.25 
+35. Crowe is also excell                ... pos = 1.5   	neg = 0.125
+36. Maximus is one of th                ... pos = 1.75  	neg = 0.125
+37. This guy actually ac                ... pos = 0.125 	neg = 0.25 
+38. The rest of the cast                ... pos = 0.375 	neg = 0.0  
+39. Ridley Scott, using                 ... pos = 1.375 	neg = 0.25 
+40. The visuals are brea                ... pos = 0.5   	neg = 0.0  
+41. The costuming is als                ... pos = 1.125 	neg = 0.25 
+42. Gladiator is another                ... pos = 0.0   	neg = 0.25 
+43. Along with U-571, ac                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2439-778 is Positive         ... pos = 24.75 	neg = 11.389
+Overall score of document
+Total Pos = 24.75
+Total Neg = 11.389
+---------------------------------------------------------------------------

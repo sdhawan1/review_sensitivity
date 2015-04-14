@@ -1,0 +1,35 @@
+0. U.S.                                 ... pos = 0.0   	neg = 0    
+1. MARSHALS Reviewed by                 ... pos = 0.125 	neg = 0.625
+2. Marshal Sam Gerard,                  ... pos = 0.625 	neg = 0.0  
+3. This time around, Ge                 ... pos = 1.375 	neg = 1.0  
+4. Also on Gerard's  si                 ... pos = 0.625 	neg = 0.125
+5. Gerard doesn't compl                 ... pos = 0.75  	neg = 0.0  
+6. Many of "U.S.                        ... pos = 0.0   	neg = 0    
+7. Marshals"' problems                  ... pos = 1.125 	neg = 0.75 
+8. We  cared about Harr                 ... pos = 0.5   	neg = 0.0  
+9. Ford had to use inst                 ... pos = 0.875 	neg = 0.5  
+10. Snipes, on the other                ... pos = 0.25  	neg = 0.125
+11. It's just no  fun ro                ... pos = 0.125 	neg = 0.25 
+12. That gives a lot of                 ... pos = 0.125 	neg = 0.625
+13. Compared to "The Fug                ... pos = 0.5   	neg = 0    
+14. Marshals" is half-ea                ... pos = 0     	neg = 0.125
+15. At least Jones' Gera                ... pos = 0.25  	neg = 0.125
+16. His presence deems t                ... pos = 0.0   	neg = 0.5  
+17. Take, for example, t                ... pos = 0.0   	neg = 0.25 
+18. Here, Gerard and com                ... pos = 0.25  	neg = 0.375
+19. It's useless stuff t                ... pos = 1.625 	neg = 0.875
+20. And that prisoner tr                ... pos = 0.375 	neg = 0.125
+21. Director Stuart Bair                ... pos = 0.125 	neg = 0.125
+22. One of the smaller c                ... pos = 0.0   	neg = 0    
+23. Marshals" commits is                ... pos = 0.625 	neg = 0.375
+24. To  its middling cre                ... pos = 0.375 	neg = 0    
+25. Marshals" provides a                ... pos = 1.0   	neg = 1.0  
+26. A lot of the film is                ... pos = 0.125 	neg = 0.5  
+27. Don't go expecting a                ... pos = 0.0   	neg = 0.125
+28. Marshals" is  decide                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5482-1031 is Positive        ... pos = 12.0  	neg = 8.625
+Overall score of document
+Total Pos = 12.0
+Total Neg = 8.625
+---------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+0. STARRING:  Vin Diese                 ... pos = 0.25  	neg = 0.875
+1. Come on, now, it was                 ... pos = 0.5   	neg = 0.625
+2. As far as fears go,                  ... pos = 1.0   	neg = 0.25 
+3. As a result, it's al                 ... pos = 1.625 	neg = 0.625
+4. In the movies, what                  ... pos = 0.125 	neg = 0.0  
+5. Light, in all its fo                 ... pos = 0.5   	neg = 0    
+6. Pitch Black takes th                 ... pos = 0.0   	neg = 1.0  
+7. Thanks to Diesel's g                 ... pos = 0.375 	neg = 0.0  
+8. All you really need                  ... pos = 0.375 	neg = 0.125
+9. These include a stro                 ... pos = 1.125 	neg = 0.25 
+10. The film goes to gre                ... pos = 0.125 	neg = 1.125
+11. As the group attempt                ... pos = 0.375 	neg = 0.0  
+12. They also discover t                ... pos = 0.25  	neg = 0.125
+13. The rest is standard                ... pos = 0.5   	neg = 0.375
+14. In order to enjoy th                ... pos = 0.625 	neg = 0.875
+15. The scenes dealing w                ... pos = 1.5   	neg = 0.25 
+16. As for the creatures                ... pos = 0.75  	neg = 0.375
+17. While comparisons to                ... pos = 0.125 	neg = 0.125
+18. Giger-designed Alien                ... pos = 0.125 	neg = 0.125
+19. "  They fly, issue d                ... pos = 0.625 	neg = 0.0  
+20. In one memorable sce                ... pos = 1.625 	neg = 0.125
+21. It's good for a shoc                ... pos = 1.0   	neg = 0.125
+22. Diesel (an indie dir                ... pos = 0.25  	neg = 0.875
+23. Physically, he's a s                ... pos = 0.0   	neg = 0.0  
+24. After the novelty of                ... pos = 0.125 	neg = 0.75 
+25. While Twohy can't be                ... pos = 0.125 	neg = 0.625
+26. Given the film's pre                ... pos = 1.0   	neg = 0.125
+27. In shedding a bit to                ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2272-1184 is Positive        ... pos = 15.875 	neg = 10.0 
+Overall score of document
+Total Pos = 15.875
+Total Neg = 10.0
+---------------------------------------------------------------------------

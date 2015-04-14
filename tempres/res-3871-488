@@ -1,0 +1,26 @@
+0. Starring Ryan Philli                 ... pos = 1.75  	neg = 0.875
+1. The fictitious story                 ... pos = 1.75  	neg = 1.0  
+2. I actually didn't ex                 ... pos = 1.375 	neg = 0.25 
+3. Mike Myers is brilli                 ... pos = 1.375 	neg = 0.25 
+4. Salma Hayek and Neve                 ... pos = 0.125 	neg = 0.125
+5. While both actresses                 ... pos = 0.625 	neg = 0.25 
+6. The film's unlikely                  ... pos = 0.375 	neg = 1.125
+7. It kept my attention                 ... pos = 0.0   	neg = 0.75 
+8. Also helping Phillip                 ... pos = 0.875 	neg = 0.25 
+9. While Myers and Camp                 ... pos = 0.0   	neg = 0.125
+10. Hayek isn't bad for                 ... pos = 0.375 	neg = 1.75 
+11. I have to admit it -                ... pos = 0.375 	neg = 0.0  
+12. I feel I should be a                ... pos = 0.0   	neg = 0.125
+13. Although I am happy                 ... pos = 0.625 	neg = 0.25 
+14. I must say that afte                ... pos = 0.5   	neg = 0.125
+15. It looked like it wa                ... pos = 0.0   	neg = 0.625
+16. I think 54 captured                 ... pos = 0.0   	neg = 0.125
+17. Sure, the fictitious                ... pos = 2.125 	neg = 0.625
+18. I'm sure another Mik                ... pos = 1.125 	neg = 0.125
+19. Worth checking out i                ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3871-488 is Positive         ... pos = 14.125 	neg = 9.125
+Overall score of document
+Total Pos = 14.125
+Total Neg = 9.125
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. The title of Martin                  ... pos = 1.125 	neg = 0.0  
+1. "  The New York City                 ... pos = 1.25  	neg = 1.0  
+2. Scorsese is perhaps                  ... pos = 0.875 	neg = 0.625
+3. And yet he is a dire                 ... pos = 0.25  	neg = 0.125
+4. In "Bringing Out the                 ... pos = 0.25  	neg = 0.125
+5. At the center of thi                 ... pos = 0.0   	neg = 0.125
+6. Pale of skin and dar                 ... pos = 0.125 	neg = 0.5  
+7. Frank drives an ambu                 ... pos = 0.375 	neg = 0.0  
+8. The action (you coul                 ... pos = 0.0   	neg = 0.0  
+9. On the first, he's c                 ... pos = 0.375 	neg = 0.125
+10. He's ambivalent abou                ... pos = 1.0   	neg = 0.375
+11. Arquette is bland, a                ... pos = 0.5   	neg = 1.5  
+12. The performances tha                ... pos = 0.0   	neg = 0.0  
+13. There's also a wonde                ... pos = 1.125 	neg = 0.25 
+14. "). Scorsese dazzles                ... pos = 0.5   	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-3616-773 is Positive         ... pos = 7.75  	neg = 5.875
+Overall score of document
+Total Pos = 7.75
+Total Neg = 5.875
+---------------------------------------------------------------------------

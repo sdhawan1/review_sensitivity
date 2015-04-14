@@ -1,0 +1,29 @@
+0. ANALYZE THIS Cast: R                 ... pos = 1.375 	neg = 0.25 
+1. What doesn't seem so                 ... pos = 0.125 	neg = 0.125
+2. The only really clev                 ... pos = 0.875 	neg = 0.125
+3. You can probably gue                 ... pos = 0.125 	neg = 0.875
+4. The comedy between t                 ... pos = 0.375 	neg = 0.0  
+5. It then comes as goo                 ... pos = 0.875 	neg = 0.125
+6. It must be said, the                 ... pos = 0.625 	neg = 0.375
+7. But in this case, so                 ... pos = 0.75  	neg = 1.0  
+8. If you appreciate a                  ... pos = 0.0   	neg = 0.25 
+9. Unfortunately, Analy                 ... pos = 0.0   	neg = 1.375
+10. However much like Ru                ... pos = 1.125 	neg = 0.0  
+11. Paul Vitti (De Niro)                ... pos = 0.625 	neg = 0.5  
+12. His tough guy image                 ... pos = 0.0   	neg = 0.125
+13. He becomes the victi                ... pos = 0.25  	neg = 0.0  
+14. Vitti realizes that                 ... pos = 1.125 	neg = 0.0  
+15. Sobol has a young so                ... pos = 0.125 	neg = 0.5  
+16. Robert De Niro is fu                ... pos = 1.25  	neg = 0.75 
+17. De Niro's part is si                ... pos = 0.25  	neg = 0.625
+18. Billy Crystal is the                ... pos = 0.125 	neg = 0.125
+19. Crystal never lets h                ... pos = 0.5   	neg = 0.625
+20. The biting chemistry                ... pos = 1.0   	neg = 0.125
+21. Like other "concept"                ... pos = 0.875 	neg = 0.125
+22. For those who have h                ... pos = 0.625 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5639-1111 is Positive        ... pos = 13.0  	neg = 8.5  
+Overall score of document
+Total Pos = 13.0
+Total Neg = 8.5
+---------------------------------------------------------------------------

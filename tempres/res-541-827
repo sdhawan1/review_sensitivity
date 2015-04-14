@@ -1,0 +1,41 @@
+0. John Murdoch: Rufus                  ... pos = 0.25  	neg = 0.0  
+1. Written by Proyas, L                 ... pos = 0.0   	neg = 0    
+2. Running time: 100 mi                 ... pos = 0     	neg = 0.0  
+3. Rated R (for violenc                 ... pos = 0.125 	neg = 0.375
+4. Dark City is a dark,                 ... pos = 0.375 	neg = 0.125
+5. It deals with a grou                 ... pos = 0.25  	neg = 0.0  
+6. They have an ability                 ... pos = 0.5   	neg = 0.0  
+7. They imprint thought                 ... pos = 0.25  	neg = 0.625
+8. John Murdoch (Rufus                  ... pos = 0.375 	neg = 0.125
+9. His memory is lost.                  ... pos = 0.0   	neg = 0.125
+10. He stumbles around a                ... pos = 0.625 	neg = 1.125
+11. How could he have do                ... pos = 0.0   	neg = 0.0  
+12. He gets a phone call                ... pos = 0.125 	neg = 0.0  
+13. He travels around th                ... pos = 0.875 	neg = 0.0  
+14. Dark City is a techn                ... pos = 0.125 	neg = 0.125
+15. Proyas along with ci                ... pos = 0.5   	neg = 0.0  
+16. Towering buildings a                ... pos = 0.875 	neg = 0.375
+17. The script by Proyas                ... pos = 1.25  	neg = 0.125
+18. It plays out like a                 ... pos = 0.125 	neg = 0.125
+19. The cast does a fine                ... pos = 0.25  	neg = 0.0  
+20. Sutherland has alway                ... pos = 1.75  	neg = 1.0  
+21. He seems to be havin                ... pos = 0.25  	neg = 0.25 
+22. Hurt has always been                ... pos = 1.375 	neg = 0.25 
+23. Almost all films tha                ... pos = 0.0   	neg = 0.375
+24. CGI is almost always                ... pos = 0.125 	neg = 1.0  
+25. It adds to the film                 ... pos = 1.5   	neg = 0.125
+26. The "tuning" scenes                 ... pos = 0.375 	neg = 0    
+27. I do have a complain                ... pos = 0.0   	neg = 0.0  
+28. Jennifer Connely has                ... pos = 0.75  	neg = 0.125
+29. She always plays a g                ... pos = 0.25  	neg = 0.5  
+30. In this film she pla                ... pos = 0.875 	neg = 0.125
+31. She wasn't interesti                ... pos = 0.875 	neg = 0.75 
+32. She looks out of pla                ... pos = 0.125 	neg = 0.0  
+33. With my complaint as                ... pos = 0.375 	neg = 0.25 
+34. Proyas continues his                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-541-827 is Positive          ... pos = 15.875 	neg = 8.125
+Overall score of document
+Total Pos = 15.875
+Total Neg = 8.125
+---------------------------------------------------------------------------

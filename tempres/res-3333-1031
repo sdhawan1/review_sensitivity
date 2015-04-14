@@ -1,0 +1,16 @@
+0. SLIDING DOORS Review                 ... pos = 0.125 	neg = 0.125
+1. Following this sensa                 ... pos = 1.5   	neg = 0.5  
+2. True to stints in pa                 ... pos = 1.75  	neg = 0.0  
+3. Too bad the screenpl                 ... pos = 0.125 	neg = 1.375
+4. Still, it could be w                 ... pos = 0.0   	neg = 1.75 
+5. There's really nothi                 ... pos = 1.25  	neg = 2.0  
+6. And as annoying as i                 ... pos = 0.5   	neg = 0.5  
+7. Let's at least give                  ... pos = 0.375 	neg = 0.25 
+8. His casting of the l                 ... pos = 2.125 	neg = 0.875
+9. By the time "Sliding                 ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3333-1031 is Positive        ... pos = 8.375 	neg = 7.5  
+Overall score of document
+Total Pos = 8.375
+Total Neg = 7.5
+---------------------------------------------------------------------------

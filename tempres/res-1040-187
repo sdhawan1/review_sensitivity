@@ -1,0 +1,80 @@
+0. John Carpenter's VAM                 ... pos = 0.5   	neg = 0.0  
+1. The genre has been r                 ... pos = 1.75  	neg = 0.5  
+2. The history of the c                 ... pos = 0.0   	neg = 0.0  
+3. Legends and mytholog                 ... pos = 0.625 	neg = 0.0  
+4. All of these various                 ... pos = 0.25  	neg = 0.625
+5. Secondly, they are t                 ... pos = 0.25  	neg = 0.0  
+6. With John Carpenter'                 ... pos = 1.0   	neg = 0.0  
+7. One which is so intr                 ... pos = 0.75  	neg = 0.25 
+8. The film opens in Ne                 ... pos = 0.375 	neg = 0.0  
+9. We are introduced to                 ... pos = 0.25  	neg = 0.125
+10. Without a line of di                ... pos = 0.375 	neg = 0.5  
+11. The raid on the hous                ... pos = 0.0   	neg = 0.25 
+12. They are systematica                ... pos = 0.5   	neg = 1.125
+13. The lone Priest (Tho                ... pos = 0.375 	neg = 0.125
+14. After the siege, Jac                ... pos = 0.0   	neg = 0.75 
+15. During a celebratory                ... pos = 0.0   	neg = 0.0  
+16. Valek (Thomas Ian Gr                ... pos = 0.0   	neg = 0.125
+17. As the vampire hunte                ... pos = 0.375 	neg = 0.0  
+18. Rescuing Katrina, th                ... pos = 0.875 	neg = 0.0  
+19. It is from here that                ... pos = 0.0   	neg = 0.125
+20. There is a growing s                ... pos = 0.0   	neg = 0.375
+21. Returning to the a C                ... pos = 0.5   	neg = 0.0  
+22. Balking at the order                ... pos = 0.5   	neg = 0.125
+23. "Vampires" is more o                ... pos = 0.875 	neg = 0.625
+24. If a comparison need                ... pos = 0.5   	neg = 0.375
+25. Carpenter's directio                ... pos = 0.125 	neg = 0.125
+26. He discloses only en                ... pos = 0.375 	neg = 0.0  
+27. This leaves the view                ... pos = 0.375 	neg = 0    
+28. As Carpenter has don                ... pos = 0.75  	neg = 0.625
+29. Carpenter's villains                ... pos = 0.25  	neg = 1.125
+30. James Woods is one o                ... pos = 0.875 	neg = 0.125
+31. His portrayal of Jac                ... pos = 0.0   	neg = 0.125
+32. His affiliation with                ... pos = 0.375 	neg = 0.125
+33. He curses, drinks, a                ... pos = 0.0   	neg = 0    
+34. This is a man who is                ... pos = 0.0   	neg = 0.25 
+35. He's soul purpose in                ... pos = 0.125 	neg = 0.375
+36. Daniel Baldwin as To                ... pos = 0.0   	neg = 0.125
+37. Here is a man with n                ... pos = 0.375 	neg = 0.25 
+38. His relationship wit                ... pos = 0.0   	neg = 0.125
+39. While Baldwin does a                ... pos = 0.0   	neg = 0.0  
+40. Sheryl Lee as Katrin                ... pos = 0.875 	neg = 0.125
+41. We really know nothi                ... pos = 0.0   	neg = 0.375
+42. What Ms. Lee is able                ... pos = 0.5   	neg = 0.25 
+43. Her change from fear                ... pos = 1.5   	neg = 0.5  
+44. Here is a woman who                 ... pos = 1.0   	neg = 0.125
+45. There is a nice Aids                ... pos = 0.75  	neg = 0.5  
+46. Death is no longer a                ... pos = 0.375 	neg = 0.375
+47. The sole disappointm                ... pos = 0.0   	neg = 0.875
+48. While Mr. Griffin do                ... pos = 0.375 	neg = 0.625
+49. A plot device used s                ... pos = 0.0   	neg = 0.25 
+50. There are some wonde                ... pos = 2.125 	neg = 1.5  
+51. The script by Dan Ja                ... pos = 0.0   	neg = 0.0  
+52. WE are told that the                ... pos = 1.0   	neg = 0.5  
+53. Religious beliefs ha                ... pos = 0.125 	neg = 0.125
+54. This is one of the m                ... pos = 0.25  	neg = 0.125
+55. While completely fic                ... pos = 0.125 	neg = 0.0  
+56. How does this film f                ... pos = 0.125 	neg = 0    
+57. The best answer is v                ... pos = 0.875 	neg = 0.125
+58. The film continues h                ... pos = 0.125 	neg = 0.0  
+59. He shows his charact                ... pos = 0.875 	neg = 0.0  
+60. These men have no bo                ... pos = 0.0   	neg = 0.0  
+61. While they have a fa                ... pos = 1.306 	neg = 0.5  
+62. Vampirism from that                 ... pos = 0.625 	neg = 0.625
+63. Is "Vampires' politi                ... pos = 0.0   	neg = 0.125
+64. Yes, very much so.                  ... pos = 0.625 	neg = 0.0  
+65. But it's politics ar                ... pos = 0.375 	neg = 0.0  
+66. But they are always                 ... pos = 0.75  	neg = 0.0  
+67. "Vampires" is a very                ... pos = 1.0   	neg = 0.125
+68. Taken as a purely es                ... pos = 1.125 	neg = 0.0  
+69. 'Vampires' also deli                ... pos = 0.125 	neg = 0    
+70. You may find yoursel                ... pos = 0.0   	neg = 0.375
+71. On a scale of 1 to 5                ... pos = 0.0   	neg = 0.0  
+72. Rated 'R' for extrem                ... pos = 0.25  	neg = 0.5  
+73. Copyright 1998 R. L                 ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1040-187 is Positive         ... pos = 32.181 	neg = 18.375
+Overall score of document
+Total Pos = 32.181
+Total Neg = 18.375
+---------------------------------------------------------------------------

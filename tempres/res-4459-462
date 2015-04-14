@@ -1,0 +1,18 @@
+0. Screenplay by David                  ... pos = 1.75  	neg = 0.0  
+1. Society is not pleas                 ... pos = 1.75  	neg = 0.125
+2. As Senator Kelly (Br                 ... pos = 0.0   	neg = 0.125
+3. ".      The allusion                 ... pos = 0.125 	neg = 0.875
+4. Kelly is a McCarthye                 ... pos = 2.25  	neg = 2.625
+5. And as for the bad o                 ... pos = 0.0   	neg = 1.0  
+6. Still, this is rousi                 ... pos = 0.0   	neg = 0.375
+7. It boasts a top dire                 ... pos = 2.0   	neg = 1.0  
+8. )  The Xs, by the wa                 ... pos = 0.0   	neg = 0.0  
+9. The movie has style,                 ... pos = 0.875 	neg = 0.25 
+10. Ultimately it turns                 ... pos = 0.0   	neg = 0.25 
+11. But of course it doe                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4459-462 is Positive         ... pos = 8.75  	neg = 6.625
+Overall score of document
+Total Pos = 8.75
+Total Neg = 6.625
+---------------------------------------------------------------------------

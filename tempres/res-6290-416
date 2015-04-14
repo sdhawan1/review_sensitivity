@@ -1,0 +1,19 @@
+0. Synopsis:  Douglas H                 ... pos = 0.0   	neg = 0.25 
+1. His best friend, a r                 ... pos = 2.375 	neg = 0.125
+2. The problem is that                  ... pos = 0.0   	neg = 1.125
+3. Poor Hall can't reme                 ... pos = 0.125 	neg = 0.125
+4. Hall chases down a p                 ... pos = 1.375 	neg = 0.5  
+5. He meets a mysteriou                 ... pos = 0.875 	neg = 0.5  
+6. ". Opinion: The trou                 ... pos = 0.0   	neg = 0.75 
+7. Characters go throug                 ... pos = 0.875 	neg = 0.375
+8. Unfortunately, the r                 ... pos = 0.875 	neg = 1.0  
+9. I can recommend the                  ... pos = 0.625 	neg = 0.125
+10. But there's not enou                ... pos = 0.0   	neg = 0.125
+11. It's hard to pay ful                ... pos = 0.25  	neg = 1.0  
+12. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6290-416 is Positive         ... pos = 7.375 	neg = 6.125
+Overall score of document
+Total Pos = 7.375
+Total Neg = 6.125
+---------------------------------------------------------------------------

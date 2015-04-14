@@ -1,0 +1,45 @@
+0. Imagine watching the                 ... pos = 0.0   	neg = 0.5  
+1. The tension is palpa                 ... pos = 0.625 	neg = 0.125
+2. Then, just as the pl                 ... pos = 0.125 	neg = 0.25 
+3. This seems to be the                 ... pos = 0.0   	neg = 0.25 
+4. I'm sure some will c                 ... pos = 0.875 	neg = 0.75 
+5. Stone's idea of dire                 ... pos = 0.0   	neg = 0.125
+6. The Miami Sharks are                 ... pos = 0.25  	neg = 0.75 
+7. Led by head coach To                 ... pos = 0.125 	neg = 0.0  
+8. The team's owner has                 ... pos = 0.875 	neg = 0.0  
+9. Chistina wants to pe                 ... pos = 0.375 	neg = 0.625
+10. The problem is, the                 ... pos = 1.125 	neg = 0.375
+11. Tony tries desperate                ... pos = 0.375 	neg = 0.625
+12. After watching this                 ... pos = 0.0   	neg = 0.0  
+13. I haven't enjoyed a                 ... pos = 1.5   	neg = 0.125
+14. The man is not witho                ... pos = 0.875 	neg = 0.25 
+15. As for the rest of t                ... pos = 0.0   	neg = 0.375
+16. Then again, I'm only                ... pos = 0.0   	neg = 0.75 
+17. I couldn't hear half                ... pos = 0.25  	neg = 0.125
+18. On those rare occasi                ... pos = 0.25  	neg = 1.0  
+19. I always try to poin                ... pos = 1.125 	neg = 0.75 
+20. Lawrence Taylor, the                ... pos = 0.25  	neg = 0.0  
+21. James Woods shows up                ... pos = 0.25  	neg = 1.25 
+22. The final game of th                ... pos = 0.25  	neg = 0.625
+23. That about does it f                ... pos = 1.125 	neg = 0.0  
+24. The remainder of the                ... pos = 0.0   	neg = 0.625
+25. "Any Given Sunday" r                ... pos = 0.0   	neg = 0.625
+26. Don't worry though,                 ... pos = 0.5   	neg = 0.125
+27. I'd recommend the fi                ... pos = 0.5   	neg = 0.875
+28. The movie contains a                ... pos = 1.0   	neg = 0.25 
+29. Good luck staying th                ... pos = 0.75  	neg = 0.125
+30. I give "Any Given Su                ... pos = 0.0   	neg = 0.0  
+31. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+32. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+33. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+34. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+35. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+36. See it if you've got                ... pos = 0.0   	neg = 0.25 
+37. * - One of the worst                ... pos = 0.0   	neg = 0.375
+38. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2429-535 is Positive         ... pos = 14.625 	neg = 14.0 
+Overall score of document
+Total Pos = 14.625
+Total Neg = 14.0
+---------------------------------------------------------------------------

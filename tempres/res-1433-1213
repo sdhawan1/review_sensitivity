@@ -1,0 +1,31 @@
+0. This story about the                 ... pos = 3.25  	neg = 0.125
+1. The plot centres aro                 ... pos = 0.0   	neg = 0.125
+2. He soon hashes one t                 ... pos = 0.875 	neg = 0.125
+3. They soon start a re                 ... pos = 0.125 	neg = 1.0  
+4. Will Will (pun kinda                 ... pos = 0.25  	neg = 0.0  
+5. Despite a simple sto                 ... pos = 1.125 	neg = 0.125
+6. Wit and drama is dis                 ... pos = 0.25  	neg = 0.5  
+7. The cast give all th                 ... pos = 0.0   	neg = 0.0  
+8. Fiennes is a standou                 ... pos = 0.375 	neg = 0.125
+9. Ben Affleck is fun a                 ... pos = 0.625 	neg = 0.125
+10. Colin Firth doesn't                 ... pos = 1.75  	neg = 1.0  
+11. Also popping up are                 ... pos = 1.25  	neg = 0.0  
+12. The cast list goes o                ... pos = 0.625 	neg = 0.125
+13. But it's Paltrow who                ... pos = 0.0   	neg = 0.0  
+14. Thankfully, she's re                ... pos = 3.25  	neg = 0.0  
+15. I find it hard to be                ... pos = 1.375 	neg = 1.125
+16. ) And, the chemistry                ... pos = 0.125 	neg = 0.625
+17. While the story is w                ... pos = 1.125 	neg = 0.125
+18. I found it very hard                ... pos = 1.25  	neg = 0.875
+19. There's also lots of                ... pos = 0.375 	neg = 1.0  
+20. The soundtrack is ni                ... pos = 0.625 	neg = 0.25 
+21. Knowledge of Shakesp                ... pos = 0.0   	neg = 0.375
+22. The film is based ar                ... pos = 0.5   	neg = 0.375
+23. In summary, it's ver                ... pos = 1.125 	neg = 0.75 
+24. It truly is a lovely                ... pos = 2.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1433-1213 is Positive        ... pos = 22.25 	neg = 9.125
+Overall score of document
+Total Pos = 22.25
+Total Neg = 9.125
+---------------------------------------------------------------------------

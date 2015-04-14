@@ -1,0 +1,51 @@
+0. director: Atom Egoya                 ... pos = 0.75  	neg = 0.0  
+1. He shows us how it i                 ... pos = 0.5   	neg = 0.875
+2. On a cold winter day                 ... pos = 0.0   	neg = 0.625
+3. Fourteen children di                 ... pos = 0.25  	neg = 0.0  
+4. For the residents of                 ... pos = 0.375 	neg = 0.25 
+5. They have always rel                 ... pos = 0.25  	neg = 0.25 
+6. Alberta and Risa Wal                 ... pos = 0.375 	neg = 0.0  
+7. The bus driver, Dolo                 ... pos = 2.375 	neg = 0.25 
+8. The bus seems to hav                 ... pos = 0.25  	neg = 0.5  
+9. However, according t                 ... pos = 0.5   	neg = 0.125
+10. He goes through the                 ... pos = 0.5   	neg = 0.0  
+11. And, for his work, S                ... pos = 0.125 	neg = 0.0  
+12. However, it is immed                ... pos = 0.125 	neg = 0.625
+13. He is driven by some                ... pos = 0.25  	neg = 0.125
+14. He has lost a child,                ... pos = 0.0   	neg = 0.25 
+15. His daughter, Zoe (C                ... pos = 0.0   	neg = 0.625
+16. She calls him on an                 ... pos = 0.0   	neg = 0.125
+17. "I don't know who I'                ... pos = 0.0   	neg = 0.0  
+18. In his mind, his dau                ... pos = 0.125 	neg = 0.125
+19. The lawsuit is, to S                ... pos = 0.0   	neg = 0.125
+20. However, not everyon                ... pos = 0.25  	neg = 0.0  
+21. Billy Ansell (Bruce                 ... pos = 0.5   	neg = 0.375
+22. He has already lost                 ... pos = 0.375 	neg = 0.0  
+23. He doesn't want to t                ... pos = 0.0   	neg = 0.625
+24. To him, the town sho                ... pos = 0.125 	neg = 0.125
+25. Central to "The Swee                ... pos = 0.625 	neg = 0.25 
+26. Aside from Stephens,                ... pos = 1.0   	neg = 0.25 
+27. It is also her sad,                 ... pos = 0.25  	neg = 1.125
+28. Obviously, Nicole is                ... pos = 0.0   	neg = 0.375
+29. Her situation is fur                ... pos = 1.25  	neg = 0.25 
+30. There is only one, f                ... pos = 0.375 	neg = 0.25 
+31. Of all the storyline                ... pos = 0.25  	neg = 0.125
+32. Egoyan knows that th                ... pos = 0.25  	neg = 0.25 
+33. What Egoyan has done                ... pos = 0.0   	neg = 0.375
+34. In his adaptation of                ... pos = 2.375 	neg = 0.792
+35. Egoyan has always be                ... pos = 0.375 	neg = 0.125
+36. "The Sweet Hereafter                ... pos = 1.125 	neg = 0.125
+37. "The Sweet Hereafter                ... pos = 0.375 	neg = 0.125
+38. The film is filled w                ... pos = 1.25  	neg = 1.0  
+39. The beautiful, rovin                ... pos = 1.375 	neg = 0.0  
+40. Like his earlier fil                ... pos = 0.375 	neg = 0.0  
+41. He works with time a                ... pos = 0.5   	neg = 0.0  
+42. The actual bus wreck                ... pos = 1.0   	neg = 0.5  
+43. Because human life h                ... pos = 0.125 	neg = 1.375
+44. Certainly one of the                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1677-569 is Positive         ... pos = 21.625 	neg = 13.417
+Overall score of document
+Total Pos = 21.625
+Total Neg = 13.417
+---------------------------------------------------------------------------

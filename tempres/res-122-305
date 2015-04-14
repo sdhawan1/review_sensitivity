@@ -1,0 +1,40 @@
+0. Christian Critic's M                 ... pos = 0.625 	neg = 0.0  
+1. SCRIPTURE REFERENCES                 ... pos = 0.0   	neg = 0.125
+2. "  Contrary to the p                 ... pos = 0.375 	neg = 0.125
+3. It may be, at variou                 ... pos = 2.125 	neg = 0.125
+4. But dangerous?                       ... pos = 0.0   	neg = 0.0  
+5. No.                                  ... pos = 0     	neg = 0.25 
+6. What it asks us, in                  ... pos = 0.5   	neg = 1.25 
+7. If this is considere                 ... pos = 0.125 	neg = 1.5  
+8. The film does levy a                 ... pos = 0.375 	neg = 0.0  
+9. Ben Affleck (FORCES                  ... pos = 1.25  	neg = 0.25 
+10. A public relations c                ... pos = 0.0   	neg = 0    
+11. ) headed by Cardinal                ... pos = 2.25  	neg = 0.0  
+12. The trouble is, if t                ... pos = 0.625 	neg = 1.125
+13. To stop them, an ang                ... pos = 0.5   	neg = 0.0  
+14. God (Alanis Morisset                ... pos = 0.375 	neg = 0.0  
+15. Mr. Smith has assemb                ... pos = 0.125 	neg = 0.0  
+16. Alan Rickman (JUDAS                 ... pos = 0.0   	neg = 0.25 
+17. Linda Fiorentino (TH                ... pos = 0.375 	neg = 0.5  
+18. Chris Rock (LETHAL W                ... pos = 0.625 	neg = 0.25 
+19. Jason Mewes (CLERKS)                ... pos = 1.375 	neg = 0.0  
+20. DOGMA is ultimately                 ... pos = 0.5   	neg = 0.375
+21. It is hard to take s                ... pos = 0.0   	neg = 0.875
+22. But it is equally di                ... pos = 0.25  	neg = 0.375
+23. If one can wade thro                ... pos = 1.0   	neg = 0.75 
+24. What we find is that                ... pos = 1.0   	neg = 0.625
+25. The disappointment o                ... pos = 0.0   	neg = 1.125
+26. For every profound a                ... pos = 0.875 	neg = 0.0  
+27. And of course, it is                ... pos = 0.375 	neg = 0.125
+28. For instance, Rufus                 ... pos = 0.5   	neg = 0.0  
+29. Such a claim can be                 ... pos = 0.125 	neg = 0.125
+30. But later, Rufus mak                ... pos = 0.625 	neg = 0.0  
+31. That is simply a lie                ... pos = 0.0   	neg = 0.125
+32. While false doctrine                ... pos = 0.875 	neg = 0.375
+33. There just wasn't en                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-305 is Positive          ... pos = 17.75 	neg = 10.625
+Overall score of document
+Total Pos = 17.75
+Total Neg = 10.625
+---------------------------------------------------------------------------

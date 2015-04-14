@@ -1,0 +1,56 @@
+0. *** (out of 4) In a                  ... pos = 0.5   	neg = 0.375
+1. Which is too bad for                 ... pos = 0.125 	neg = 1.625
+2. Vincent's parents de                 ... pos = 0.25  	neg = 0.125
+3. This time they get t                 ... pos = 0.0   	neg = 0.0  
+4. So Vincent grows up                  ... pos = 0.25  	neg = 0.125
+5. If that weren't enou                 ... pos = 0.375 	neg = 1.125
+6. Understandably, Vinc                 ... pos = 0.375 	neg = 0.0  
+7. Vincent (Ethan Hawke                 ... pos = 0.0   	neg = 1.0  
+8. Vincent uses Jerome'                 ... pos = 0.125 	neg = 0.0  
+9. Jerome gets room and                 ... pos = 0.0   	neg = 0.0  
+10. When Vincent's missi                ... pos = 0.0   	neg = 1.0  
+11. A wayward eyelash of                ... pos = 0.375 	neg = 0.375
+12. It sounds a lot like                ... pos = 0.0   	neg = 0.125
+13. The backdrop happens                ... pos = 0.625 	neg = 0.25 
+14. On the one hand, It                 ... pos = 0.75  	neg = 0.125
+15. It was a somber, dar                ... pos = 0.25  	neg = 0.125
+16. The story was a nobl                ... pos = 0.75  	neg = 0.25 
+17. The metaphoric detai                ... pos = 0.0   	neg = 0.125
+18. For example, our her                ... pos = 0.75  	neg = 0.25 
+19. The pacing was calm                 ... pos = 0.0   	neg = 0.125
+20. The lighting and pro                ... pos = 0.5   	neg = 0.375
+21. Overall, it felt lik                ... pos = 0.0   	neg = 0.0  
+22. It really drew me in                ... pos = 0.0   	neg = 0.125
+23. Gattaca started with                ... pos = 2.125 	neg = 0.125
+24. It could have been a                ... pos = 0.875 	neg = 0.125
+25. On the other hand, s                ... pos = 0.0   	neg = 1.25 
+26. When I attended film                ... pos = 0.25  	neg = 0.375
+27. (It also allowed us                 ... pos = 0.125 	neg = 0.125
+28. ) There is a lot of                 ... pos = 0.0   	neg = 0.125
+29. It didn't DETRACT, b                ... pos = 0.125 	neg = 0.125
+30. Perhaps if I weren't                ... pos = 0.0   	neg = 0.25 
+31. But it is a valid cr                ... pos = 0.625 	neg = 0.25 
+32. Also, the movie's se                ... pos = 0.25  	neg = 0.5  
+33. This is the adversit                ... pos = 0.875 	neg = 0.125
+34. But it is a straw ma                ... pos = 0.0   	neg = 0.125
+35. The movie makes the                 ... pos = 0.125 	neg = 0.5  
+36. Finally, and most im                ... pos = 1.0   	neg = 0.125
+37. For example, If you                 ... pos = 0.0   	neg = 0.25 
+38. Literally.                          ... pos = 0     	neg = 0.0  
+39. The real killer is i                ... pos = 0.0   	neg = 0.5  
+40. Literally.                          ... pos = 0     	neg = 0.0  
+41. These pieces ALMOST                 ... pos = 0.125 	neg = 0.125
+42. But the rest of the                 ... pos = 0.75  	neg = 0.625
+43. The story itself, "o                ... pos = 0.125 	neg = 0.25 
+44. It sounds timeless a                ... pos = 0.125 	neg = 0.0  
+45. But in a specific mo                ... pos = 0.125 	neg = 0.5  
+46. That's why I think G                ... pos = 0.0   	neg = 0.0  
+47. All the elements tha                ... pos = 0.25  	neg = 0.75 
+48. I'm rooting for GATT                ... pos = 0.375 	neg = 0.375
+49. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3272-1008 is Negative        ... pos = 14.25 	neg = 15.125
+Overall score of document
+Total Pos = 14.25
+Total Neg = 15.125
+---------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+0. Director: Robert Zem                 ... pos = 0.875 	neg = 0.75 
+1. She has a particular                 ... pos = 0.25  	neg = 0.0  
+2. After obtaining her                  ... pos = 0.375 	neg = 0.0  
+3. When after years of                  ... pos = 1.0   	neg = 0.125
+4. Having grappled with                 ... pos = 0.5   	neg = 0.0  
+5. The United States de                 ... pos = 0.25  	neg = 1.25 
+6. In fact, the first t                 ... pos = 0.875 	neg = 0.5  
+7. The project seems to                 ... pos = 0.0   	neg = 0.375
+8. CONTACT presents Jod                 ... pos = 0.5   	neg = 0.0  
+9. The only trouble is                  ... pos = 0.125 	neg = 1.375
+10. Quite obviously, Hol                ... pos = 1.875 	neg = 0.375
+11. This can also be see                ... pos = 1.375 	neg = 1.0  
+12. In a film such as CO                ... pos = 0.5   	neg = 0.125
+13. Robert Zemeckis' fil                ... pos = 0.375 	neg = 0.125
+14. For example, the con                ... pos = 0.125 	neg = 0.0  
+15. In many individuals                 ... pos = 0.375 	neg = 0.125
+16. Another matter of gr                ... pos = 0.125 	neg = 0.625
+17. The church is embodi                ... pos = 0.0   	neg = 0.125
+18. The love story, whic                ... pos = 2.25  	neg = 0.5  
+19. Having said that, CO                ... pos = 1.625 	neg = 0.125
+20. The special effects                 ... pos = 0.25  	neg = 0.25 
+21. They provide the fil                ... pos = 0.25  	neg = 0.125
+22. Right at the beginni                ... pos = 0.0   	neg = 0.25 
+23. Some may think that                 ... pos = 0.25  	neg = 0.875
+24. The main cast is per                ... pos = 0.25  	neg = 0.625
+25. So if an action spec                ... pos = 0.625 	neg = 0.125
+26. Homepage: Book and m                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3534-76 is Positive          ... pos = 15.0  	neg = 9.75 
+Overall score of document
+Total Pos = 15.0
+Total Neg = 9.75
+---------------------------------------------------------------------------

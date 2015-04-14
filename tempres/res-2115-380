@@ -1,0 +1,52 @@
+0. As Good As It Gets D                 ... pos = 0.75  	neg = 0.0  
+1. In the film's openin                 ... pos = 0.625 	neg = 1.25 
+2. It was at this point                 ... pos = 0.625 	neg = 0.125
+3. Not that I was happy                 ... pos = 0.75  	neg = 0.375
+4. As it turns out the                  ... pos = 0.0   	neg = 0.75 
+5. He manages to wiggle                 ... pos = 0.25  	neg = 0.25 
+6. But As Good As It Ge                 ... pos = 0.75  	neg = 0.0  
+7. It has fantastic dia                 ... pos = 2.0   	neg = 0.0  
+8. They all blend perfe                 ... pos = 0.625 	neg = 0    
+9. The only negative I                  ... pos = 1.0   	neg = 0.5  
+10. It is too good a fil                ... pos = 0.75  	neg = 0.375
+11. Simon Udall is a fan                ... pos = 1.25  	neg = 0.125
+12. But he is more devel                ... pos = 0.25  	neg = 0.25 
+13. He is a successful r                ... pos = 1.25  	neg = 0.25 
+14. But his quirks are w                ... pos = 0.625 	neg = 0.0  
+15. He is obsessive comp                ... pos = 0.0   	neg = 0.125
+16. He is also obnoxious                ... pos = 0.125 	neg = 0.125
+17. But most importantly                ... pos = 0.0   	neg = 1.0  
+18. Somehow, though, we                 ... pos = 0.625 	neg = 0.0  
+19. Probably because his                ... pos = 0.5   	neg = 0.875
+20. Nicholson was born t                ... pos = 0.25  	neg = 0.25 
+21. His performance is a                ... pos = 0.0   	neg = 0.125
+22. Carol Connoly (Helen                ... pos = 0.125 	neg = 0.25 
+23. (He brings his own p                ... pos = 0.625 	neg = 0.0  
+24. ) Hunt really gets a                ... pos = 0.625 	neg = 0.0  
+25. She turns in a marve                ... pos = 0.75  	neg = 0.0  
+26. She hits every chord                ... pos = 1.125 	neg = 0.125
+27. She does it all so w                ... pos = 0.0   	neg = 0.0  
+28. Hunt surely deserves                ... pos = 1.0   	neg = 0.125
+29. To be honest, as muc                ... pos = 1.125 	neg = 0.375
+30. She needs to dump Pa                ... pos = 0.0   	neg = 0.125
+31. Greg Kinnear has com                ... pos = 0.0   	neg = 1.0  
+32. He plays Simon's nex                ... pos = 0.125 	neg = 0.875
+33. Kinnear proves his w                ... pos = 0.125 	neg = 0.0  
+34. He avoids the gay st                ... pos = 1.0   	neg = 0.0  
+35. It is a very interes                ... pos = 1.375 	neg = 0.375
+36. To say the very leas                ... pos = 1.75  	neg = 0.125
+37. It is pretty easy to                ... pos = 1.0   	neg = 0.375
+38. The film turns into                 ... pos = 1.25  	neg = 0.0  
+39. It is so funny, so e                ... pos = 0.375 	neg = 1.125
+40. You just want to see                ... pos = 0.0   	neg = 0.125
+41. Absolutely one of th                ... pos = 0.375 	neg = 0.0  
+42. (Point of interest:                 ... pos = 0.0   	neg = 0.0  
+43. For a while, the bes                ... pos = 0.375 	neg = 0.125
+44. Apparently, the fact                ... pos = 0.125 	neg = 0.875
+45. He also threw about                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2115-380 is Positive         ... pos = 26.25 	neg = 12.875
+Overall score of document
+Total Pos = 26.25
+Total Neg = 12.875
+---------------------------------------------------------------------------

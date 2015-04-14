@@ -1,0 +1,31 @@
+0. Scott Smith's novel                  ... pos = 0.25  	neg = 0.75 
+1. How surprising it is                 ... pos = 0.5   	neg = 0.25 
+2. Raimi, creator of su                 ... pos = 0.25  	neg = 2.25 
+3. It is a quiet winter                 ... pos = 0.125 	neg = 0.125
+4. Lou (Briscoe) and br                 ... pos = 0.0   	neg = 0.0  
+5. The pilot is already                 ... pos = 0.25  	neg = 0.5  
+6. The three men decide                 ... pos = 0.375 	neg = 0.25 
+7. The trouble is, Jaco                 ... pos = 1.25  	neg = 1.778
+8. Even if you've read                  ... pos = 0.0   	neg = 0.0  
+9. (The movie's climax                  ... pos = 0.625 	neg = 0.125
+10. ) An obvious and tir                ... pos = 0.375 	neg = 0.125
+11. That's because this                 ... pos = 0.614 	neg = 0.0  
+12. Danny Boyle's Shallo                ... pos = 2.125 	neg = 1.125
+13. A Simple Plan's trio                ... pos = 0.25  	neg = 1.375
+14. I give: the best rea                ... pos = 0.75  	neg = 0.25 
+15. For about the first                 ... pos = 0.125 	neg = 0.25 
+16. Yet as the plot thic                ... pos = 1.125 	neg = 0.125
+17. Watch the sequence w                ... pos = 0.75  	neg = 0.25 
+18. I haven't believed a                ... pos = 1.75  	neg = 0.375
+19. Actually, Raimi yiel                ... pos = 1.125 	neg = 0.125
+20. I mentioned earlier                 ... pos = 0.125 	neg = 0.0  
+21. Both films are dark-                ... pos = 1.375 	neg = 0.125
+22. (I loved Fargo, but                 ... pos = 1.0   	neg = 0.0  
+23. ) A Simple Plan is a                ... pos = 0.0   	neg = 0.875
+24. Its bleakness is uni                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2400-1545 is Positive        ... pos = 15.114 	neg = 11.153
+Overall score of document
+Total Pos = 15.114
+Total Neg = 11.153
+---------------------------------------------------------------------------

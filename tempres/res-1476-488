@@ -1,0 +1,23 @@
+0. Starring Patrick Ste                 ... pos = 0.125 	neg = 0.125
+1. It is the second mov                 ... pos = 0.0   	neg = 0.125
+2. First Contact is one                 ... pos = 1.5   	neg = 0.25 
+3. Unlike the other fil                 ... pos = 0.25  	neg = 0.375
+4. (Except for Majel Ba                 ... pos = 0.0   	neg = 0.0  
+5. ). In this latest in                 ... pos = 0.375 	neg = 0.0  
+6. It seems the Borg wa                 ... pos = 0.375 	neg = 0.25 
+7. For those of you out                 ... pos = 0.5   	neg = 0.0  
+8. This is usually not                  ... pos = 0.875 	neg = 0.25 
+9. As far as villains g                 ... pos = 0.375 	neg = 0.75 
+10. The special effects                 ... pos = 0.625 	neg = 0.25 
+11. As are the sets for                 ... pos = 0.625 	neg = 0.0  
+12. In the tradition of                 ... pos = 1.0   	neg = 0.0  
+13. The "guest stars" of                ... pos = 0.25  	neg = 0.125
+14. Cromwell, in my humb                ... pos = 0.5   	neg = 0.125
+15. As usual, there is t                ... pos = 0.25  	neg = 0.25 
+16. Generally, a great f                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1476-488 is Positive         ... pos = 8.125 	neg = 2.875
+Overall score of document
+Total Pos = 8.125
+Total Neg = 2.875
+---------------------------------------------------------------------------

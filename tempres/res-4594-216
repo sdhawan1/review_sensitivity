@@ -1,0 +1,41 @@
+0. Anna Scott (Julia Ro                 ... pos = 0.125 	neg = 0.125
+1. While in London to p                 ... pos = 0.25  	neg = 0.375
+2. Anna is charmed by W                 ... pos = 0.5   	neg = 0.125
+3. A second accidental                  ... pos = 1.375 	neg = 0.0  
+4. There's nothing new                  ... pos = 1.375 	neg = 1.375
+5. Still, the movie doe                 ... pos = 0.625 	neg = 0.25 
+6. The biggest one: the                 ... pos = 0.0   	neg = 0.0  
+7. Although the lead ac                 ... pos = 2.25  	neg = 0.25 
+8. Will's little sister                 ... pos = 0.375 	neg = 1.25 
+9. Comic relief is prov                 ... pos = 0.875 	neg = 0.125
+10. I was quite frankly                 ... pos = 0.125 	neg = 0.375
+11. Visual grace is not                 ... pos = 0.5   	neg = 0.125
+12. Most of the time he                 ... pos = 0.5   	neg = 0.0  
+13. Much has been made o                ... pos = 0.75  	neg = 0.75 
+14. Too much of the film                ... pos = 0.25  	neg = 0.375
+15. There are, however,                 ... pos = 0.75  	neg = 0.0  
+16. The first is the imp                ... pos = 1.375 	neg = 0.125
+17. Through the pullback                ... pos = 0.0   	neg = 0.0  
+18. There's also a great                ... pos = 0.125 	neg = 0.25 
+19. "Notting Hill" isn't                ... pos = 0.125 	neg = 0.0  
+20. '  We're given a gli                ... pos = 1.0   	neg = 0.125
+21. It's undeniably inte                ... pos = 0.5   	neg = 0.0  
+22. Although Grant and R                ... pos = 0.5   	neg = 1.0  
+23. The script flings th                ... pos = 1.0   	neg = 0.375
+24. Nor did I understand                ... pos = 2.0   	neg = 0.375
+25. It's probably not a                 ... pos = 2.5   	neg = 0.0  
+26. I can understand the                ... pos = 0.375 	neg = 0.25 
+27. There are some probl                ... pos = 0.75  	neg = 0.375
+28. I don't often laugh                 ... pos = 0.0   	neg = 0.125
+29. It's that beloved ra                ... pos = 1.0   	neg = 0.125
+30. The touching but hil                ... pos = 1.375 	neg = 0.125
+31. The entire movie is                 ... pos = 0.25  	neg = 0.125
+32. "Notting Hill" is a                 ... pos = 0.125 	neg = 0.75 
+33. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+34. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4594-216 is Positive         ... pos = 24.0  	neg = 9.625
+Overall score of document
+Total Pos = 24.0
+Total Neg = 9.625
+---------------------------------------------------------------------------

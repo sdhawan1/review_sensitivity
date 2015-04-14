@@ -1,0 +1,30 @@
+0. Written by: Elaine M                 ... pos = 0.125 	neg = 0.125
+1. That is the main que                 ... pos = 0.0   	neg = 0.125
+2. Is presidential hope                 ... pos = 2.0   	neg = 0.5  
+3. This is the main sub                 ... pos = 0.125 	neg = 0.125
+4. As a vehicle for get                 ... pos = 0.125 	neg = 0.0  
+5. Henry is similar to                  ... pos = 0.375 	neg = 0.125
+6. Other campaign staff                 ... pos = 0.125 	neg = 0.0  
+7. At first Henry is en                 ... pos = 0.875 	neg = 0.125
+8. But as the campaign                  ... pos = 0.25  	neg = 0.875
+9. So is he, or isn't h                 ... pos = 0.0   	neg = 0.125
+10. Henry ponders.                      ... pos = 0.0   	neg = 0    
+11. John Travolta plays                 ... pos = 0.0   	neg = 0.0  
+12. They seem to look an                ... pos = 0.25  	neg = 0.0  
+13. Because the movie is                ... pos = 0.125 	neg = 0.125
+14. A large part of thei                ... pos = 0.125 	neg = 0.25 
+15. Opinion: The movie P                ... pos = 0.0   	neg = 0.125
+16. In WAG THE DOG the f                ... pos = 0.125 	neg = 1.75 
+17. In real life Preside                ... pos = 0.0   	neg = 0.25 
+18. Today, fresh from th                ... pos = 1.0   	neg = 0.625
+19. Similarly, in PRIMAR                ... pos = 0.0   	neg = 0.25 
+20. And just as the fict                ... pos = 2.375 	neg = 0.125
+21. So what are we to ma                ... pos = 1.375 	neg = 0.125
+22. In my opinion PRIMAR                ... pos = 0.25  	neg = 0.125
+23. It is a well acted m                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1279-416 is Positive         ... pos = 10.625 	neg = 6.0  
+Overall score of document
+Total Pos = 10.625
+Total Neg = 6.0
+---------------------------------------------------------------------------

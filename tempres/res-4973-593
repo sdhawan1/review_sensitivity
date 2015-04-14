@@ -1,0 +1,50 @@
+0. In "The Net," Sandra                 ... pos = 0.0   	neg = 0    
+1. In predictable fashi                 ... pos = 0.125 	neg = 0.125
+2. Writers John Braccat                 ... pos = 0.375 	neg = 0.375
+3. Michael Douglas is S                 ... pos = 0.0   	neg = 0.125
+4. A composite of his p                 ... pos = 0.0   	neg = 0.0  
+5. "  Throw in the bad                  ... pos = 0.875 	neg = 1.0  
+6. Nicholas is a miserl                 ... pos = 0.75  	neg = 1.0  
+7. How could this six h                 ... pos = 0.0   	neg = 0.0  
+8. While not seeking to                 ... pos = 0.0   	neg = 0.0  
+9. In them, we  see a y                 ... pos = 1.25  	neg = 0    
+10. Unfortunately, the h                ... pos = 0.125 	neg = 0.875
+11. Today happens to be                 ... pos = 0.125 	neg = 0.125
+12. Dark rooms, cold flo                ... pos = 0.875 	neg = 0.625
+13. Director  David Finc                ... pos = 0.625 	neg = 0.125
+14. Wide screen views of                ... pos = 1.375 	neg = 0.0  
+15. We care about the in                ... pos = 0.0   	neg = 1.0  
+16. The spark plug in th                ... pos = 0.25  	neg = 0.0  
+17. Conrad has part of t                ... pos = 0.0   	neg = 0.0  
+18. Seeing Nicholas' mis                ... pos = 0.375 	neg = 0.125
+19. For his birthday, Co                ... pos = 0.625 	neg = 0.0  
+20. In order to play,  N                ... pos = 0.0   	neg = 0.0  
+21. As the representativ                ... pos = 0.125 	neg = 0.125
+22. In Nicholas' case, h                ... pos = 0.625 	neg = 0.125
+23. It begins while he w                ... pos = 0.375 	neg = 0.0  
+24. Essentially,  whatev                ... pos = 0.5   	neg = 0.0  
+25. It will not ruin the                ... pos = 0.125 	neg = 0.0  
+26. While all this is in                ... pos = 0.0   	neg = 1.0  
+27. "The Game" descends                 ... pos = 0.375 	neg = 0.0  
+28. The game overlaps  a                ... pos = 0.25  	neg = 0.125
+29. Even his friends see                ... pos = 0.25  	neg = 0.0  
+30. Technically, Fincher                ... pos = 0.0   	neg = 0.0  
+31. The initial expansiv                ... pos = 0.5   	neg = 0.0  
+32. As the pressure on N                ... pos = 0.375 	neg = 0.375
+33. Sweat and strain rep                ... pos = 0.0   	neg = 0.5  
+34. The paranoia runs de                ... pos = 0.5   	neg = 0.0  
+35. After all this, we h                ... pos = 0.0   	neg = 0.0  
+36. I find it hard to im                ... pos = 0.125 	neg = 0.875
+37. Given  the way Nicho                ... pos = 1.0   	neg = 0.625
+38. With the  tables tur                ... pos = 0.0   	neg = 0.0  
+39. The acting on the pa                ... pos = 0.875 	neg = 0.75 
+40. The supporting cast                 ... pos = 0.625 	neg = 0.5  
+41. "   While the suppor                ... pos = 1.125 	neg = 0.0  
+42. "The Game" is an exc                ... pos = 0.875 	neg = 0.125
+43. It runs over two hou                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4973-593 is Positive         ... pos = 16.5  	neg = 10.75
+Overall score of document
+Total Pos = 16.5
+Total Neg = 10.75
+---------------------------------------------------------------------------

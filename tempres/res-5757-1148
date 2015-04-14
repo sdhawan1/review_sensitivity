@@ -1,0 +1,12 @@
+0. Capsule Review: A Me                 ... pos = 2.875 	neg = 0.25 
+1. It's hard to believe                 ... pos = 2.375 	neg = 1.125
+2. The plot does come a                 ... pos = 2.25  	neg = 0.375
+3. (He also makes his L                 ... pos = 0.75  	neg = 0.375
+4. ) On its own terms,                  ... pos = 0.625 	neg = 0.375
+5. Copyright 1998 by Th                 ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5757-1148 is Positive        ... pos = 9.125 	neg = 2.75 
+Overall score of document
+Total Pos = 9.125
+Total Neg = 2.75
+---------------------------------------------------------------------------

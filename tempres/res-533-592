@@ -1,0 +1,11 @@
+0. Blast From the Past                  ... pos = 0.75  	neg = 1.875
+1. The movie is about a                 ... pos = 0.25  	neg = 0.25 
+2. 35 years later, the                  ... pos = 0.0   	neg = 0.125
+3. His experiences of L                 ... pos = 1.125 	neg = 0    
+4. Don't worry if you m                 ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-533-592 is Positive          ... pos = 2.625 	neg = 2.25 
+Overall score of document
+Total Pos = 2.625
+Total Neg = 2.25
+---------------------------------------------------------------------------

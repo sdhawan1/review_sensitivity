@@ -1,0 +1,18 @@
+0. Contact - a solid 8                  ... pos = 0.125 	neg = 0.125
+1. SF movies tend to be                 ... pos = 1.0   	neg = 0.125
+2. While Contact has so                 ... pos = 0.0   	neg = 0.25 
+3. ), it's mostly right                 ... pos = 0.0   	neg = 0.0  
+4. What made this movie                 ... pos = 0.75  	neg = 0.125
+5. Many SF movies are a                 ... pos = 0.25  	neg = 0.375
+6. There's an awful lot                 ... pos = 0.5   	neg = 1.125
+7. The first two minute                 ... pos = 0.125 	neg = 0.0  
+8. When there is a visu                 ... pos = 0.5   	neg = 0.125
+9. The performances are                 ... pos = 2.25  	neg = 1.125
+10. People complained ab                ... pos = 0.0   	neg = 0.0  
+11. I would like to have                ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3534-63 is Positive          ... pos = 6.0   	neg = 3.625
+Overall score of document
+Total Pos = 6.0
+Total Neg = 3.625
+---------------------------------------------------------------------------

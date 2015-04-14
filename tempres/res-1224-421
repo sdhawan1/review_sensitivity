@@ -1,0 +1,17 @@
+0. rated R Paramount Pi                 ... pos = 1.0   	neg = 0.25 
+1. The problem, though,                 ... pos = 0.0   	neg = 0.5  
+2. And from watching th                 ... pos = 0.0   	neg = 0.625
+3. "The General's Daugh                 ... pos = 0.0   	neg = 0.375
+4. Elizabeth Campbell(L                 ... pos = 0.0   	neg = 0.0  
+5. What the two end up                  ... pos = 0.0   	neg = 0.125
+6. The script is awful,                 ... pos = 0.25  	neg = 1.0  
+7. The most I can say i                 ... pos = 0.0   	neg = 0.5  
+8. John Travolta needs                  ... pos = 0.75  	neg = 0.125
+9. "The General's Daugh                 ... pos = 0.125 	neg = 0.125
+10. a capsule review by                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1224-421 is Negative         ... pos = 2.125 	neg = 3.75 
+Overall score of document
+Total Pos = 2.125
+Total Neg = 3.75
+---------------------------------------------------------------------------

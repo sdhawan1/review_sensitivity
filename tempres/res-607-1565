@@ -1,0 +1,51 @@
+0. The Cider House Rule                 ... pos = 1.5   	neg = 0.875
+1. Felt like...family.                  ... pos = 0.0   	neg = 0.0  
+2. The Story (WARNING:                  ... pos = 0.375 	neg = 0.125
+3. Cloud, Maine during                  ... pos = 0.0   	neg = 0    
+4. The  abortions he pe                 ... pos = 1.125 	neg = 0.0  
+5. This, though, is lit                 ... pos = 2.0   	neg = 0.375
+6. The difference, thou                 ... pos = 0.625 	neg = 0.375
+7. Homer's life takes a                 ... pos = 0.375 	neg = 0.125
+8. Cloud for an abortio                 ... pos = 0.0   	neg = 0    
+9. When they leave, Hom                 ... pos = 0.0   	neg = 0.0  
+10. There, he  meets a b                ... pos = 1.125 	neg = 0.0  
+11. But Homer's former l                ... pos = 0.25  	neg = 0.0  
+12. The Upshot: I went i                ... pos = 0.25  	neg = 0.25 
+13. I need to get  rid o                ... pos = 0.625 	neg = 0.125
+14. "Cider" was like a b                ... pos = 0.5   	neg = 0.125
+15. I'm just sayin'.                    ... pos = 0     	neg = 0.0  
+16. )   It was  nice to                 ... pos = 0.0   	neg = 0.25 
+17. The flow of the movi                ... pos = 0.0   	neg = 0.0  
+18. Told almost as a bed                ... pos = 1.125 	neg = 1.125
+19. Of course, not every                ... pos = 0.625 	neg = 0.25 
+20. That the  movie didn                ... pos = 0.0   	neg = 0.125
+21. One would think that                ... pos = 0.125 	neg = 0.875
+22. One would be wrong.                 ... pos = 0.0   	neg = 0.875
+23. Though the Issue was                ... pos = 1.375 	neg = 0.5  
+24. And o, the humanity.                ... pos = 0.375 	neg = 0.0  
+25. The characters felt                 ... pos = 1.25  	neg = 0.875
+26. Other than the horri                ... pos = 0.875 	neg = 0.625
+27. Maguire as the eager                ... pos = 2.25  	neg = 0.5  
+28. Ditto  Charlize Ther                ... pos = 0.25  	neg = 0.0  
+29. In fact, I can't rem                ... pos = 0.125 	neg = 0.0  
+30. Heck, especially the                ... pos = 1.125 	neg = 0.5  
+31. ). The movie took a                 ... pos = 1.0   	neg = 0.125
+32. That said,  Delroy L                ... pos = 2.375 	neg = 0.75 
+33. Though Erykah Badu's                ... pos = 0.125 	neg = 0.125
+34. ], Lindo's powerful                 ... pos = 0.25  	neg = 0.0  
+35. The "Black Factor" [                ... pos = 1.5   	neg = 1.25 
+36. That said, I cannot                 ... pos = 0.5   	neg = 1.25 
+37. Excuse it away if yo                ... pos = 0.625 	neg = 0.0  
+38. Bammer's Bottom Line                ... pos = 1.875 	neg = 1.75 
+39. An additional  tip o                ... pos = 0.875 	neg = 1.125
+40. "The Cider House Rul                ... pos = 0.0   	neg = 0    
+41. movies (c.f.                        ... pos = 0.0   	neg = 0.0  
+42. "Star Wars" The  Rev                ... pos = 0.0   	neg = 0.0  
+43. "Magnolia"), "Cider"                ... pos = 0.5   	neg = 0.0  
+44. Y'all go.. .                        ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-607-1565 is Positive         ... pos = 27.875 	neg = 15.25
+Overall score of document
+Total Pos = 27.875
+Total Neg = 15.25
+---------------------------------------------------------------------------

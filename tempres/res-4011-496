@@ -1,0 +1,31 @@
+0. The slasher movie wa                 ... pos = 1.25  	neg = 0.125
+1. Scream was notable f                 ... pos = 1.375 	neg = 0.125
+2. But I think the reas                 ... pos = 1.375 	neg = 0.5  
+3. When the slasher mov                 ... pos = 0.125 	neg = 0.0  
+4. ), it was      becau                 ... pos = 0.375 	neg = 0.25 
+5. His follow up to                     ... pos = 0.625 	neg = 0.125
+6. Suddenly it's one ye                 ... pos = 0.0   	neg = 0.0  
+7. One of the things th                 ... pos = 1.0   	neg = 0.125
+8. It's alot scarier wh                 ... pos = 0.875 	neg = 0.125
+9. Most of this occurs                  ... pos = 0.875 	neg = 0.0  
+10. Anyways, when   she                 ... pos = 0.0   	neg = 0.0  
+11. Suddenly, they are a                ... pos = 0.25  	neg = 0.75 
+12. The lighting and cam                ... pos = 2.0   	neg = 0.0  
+13. The screenplay throw                ... pos = 1.25  	neg = 0.875
+14. But this is not a wh                ... pos = 0.0   	neg = 0.125
+15. It's a slaher flick,                ... pos = 0.375 	neg = 0.125
+16. The acting is top no                ... pos = 0.125 	neg = 0.125
+17. Jennifer Love      H                ... pos = 1.375 	neg = 0.375
+18. Sarah Michelle Gella                ... pos = 1.0   	neg = 0.125
+19. And Anne Heche has a                ... pos = 0.0   	neg = 1.0  
+20. First time director                 ... pos = 0.375 	neg = 0.625
+21. In the old days of s                ... pos = 0.0   	neg = 0.125
+22. During this rebirth,                ... pos = 1.375 	neg = 0.125
+23. This movie is told p                ... pos = 0.25  	neg = 0.5  
+24. This is a good thing                ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4011-496 is Positive         ... pos = 17.0  	neg = 6.5  
+Overall score of document
+Total Pos = 17.0
+Total Neg = 6.5
+---------------------------------------------------------------------------

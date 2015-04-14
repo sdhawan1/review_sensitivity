@@ -1,0 +1,27 @@
+0. Making film in the s                 ... pos = 0.25  	neg = 0.125
+1. Not only must a sci-                 ... pos = 0.375 	neg = 0.0  
+2. ), it also has to cr                 ... pos = 0.75  	neg = 0    
+3. "The Fifth Element"                  ... pos = 0.375 	neg = 0.0  
+4. Unfortunately, a sli                 ... pos = 0.875 	neg = 1.125
+5. Korben Dallas (Bruce                 ... pos = 1.0   	neg = 0.125
+6. Naturally, he's the                  ... pos = 0.125 	neg = 0.0  
+7. Sound a little fishy                 ... pos = 0.0   	neg = 0.25 
+8. It is.                               ... pos = 0.0   	neg = 0.125
+9. During the first thi                 ... pos = 1.375 	neg = 0.5  
+10. While the effects an                ... pos = 0.5   	neg = 0.25 
+11. Two other elements d                ... pos = 0.0   	neg = 0.0  
+12. The first - Bruce Wi                ... pos = 0.125 	neg = 0.0  
+13. While Willis acts ad                ... pos = 0.625 	neg = 1.875
+14. In addition, this re                ... pos = 0.875 	neg = 0.0  
+15. His constant barrage                ... pos = 0.5   	neg = 0.5  
+16. Even with these prob                ... pos = 0.0   	neg = 0.25 
+17. The special effects,                ... pos = 1.0   	neg = 0.25 
+18. In addition, the hum                ... pos = 0.125 	neg = 0.125
+19. In sum, while "The F                ... pos = 1.25  	neg = 0.25 
+20. *** Movies rated fro                ... pos = 0.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5547-1580 is Positive        ... pos = 10.625 	neg = 6.125
+Overall score of document
+Total Pos = 10.625
+Total Neg = 6.125
+---------------------------------------------------------------------------

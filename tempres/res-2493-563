@@ -1,0 +1,41 @@
+0. "I didn't know croco                 ... pos = 0.0   	neg = 0.0  
+1. " "Of course not!                    ... pos = 0     	neg = 0.0  
+2. That information is                  ... pos = 0.0   	neg = 0.125
+3. ". Starring Bill Pul                 ... pos = 0.0   	neg = 0.0  
+4. Rated R.. I believe                  ... pos = 1.75  	neg = 0.125
+5. The obligatory grues                 ... pos = 0.25  	neg = 0.625
+6. Craven's butt-ugly a                 ... pos = 0.25  	neg = 0.125
+7. Since then, the horr                 ... pos = 1.5   	neg = 0.75 
+8. So it's only fitting                 ... pos = 1.375 	neg = 0.0  
+9. David E. Kelley, the                 ... pos = 1.75  	neg = 1.0  
+10. Delivering one-liner                ... pos = 0.375 	neg = 0.125
+11. Investigating the vi                ... pos = 1.75  	neg = 0.125
+12. The four of them see                ... pos = 0.125 	neg = 1.125
+13. When it is clear tha                ... pos = 2.125 	neg = 0.5  
+14. The latter choice is                ... pos = 1.625 	neg = 0.25 
+15. It's a shame that in                ... pos = 0.0   	neg = 1.0  
+16. At its best, Lake Pl                ... pos = 0.875 	neg = 0.125
+17. It has some wonderfu                ... pos = 0.75  	neg = 0.0  
+18. " "Bears don't attac                ... pos = 0.0   	neg = 0.0  
+19. " "Probably a beaver                ... pos = 0.0   	neg = 0.0  
+20. ") and has some fun                 ... pos = 0.5   	neg = 0.0  
+21. The main problem, as                ... pos = 1.25  	neg = 0.375
+22. The film moves from                 ... pos = 0.0   	neg = 0.875
+23. To the film's credit                ... pos = 1.125 	neg = 1.375
+24. Then again with stat                ... pos = 1.5   	neg = 0.375
+25. That's very unfortun                ... pos = 2.364 	neg = 0.125
+26. I really liked Brend                ... pos = 0.875 	neg = 0.625
+27. I similarly enjoyed                 ... pos = 3.125 	neg = 1.125
+28. On the other hand Br                ... pos = 0.25  	neg = 1.75 
+29. There's nothing wron                ... pos = 0.0   	neg = 1.375
+30. It's not a cinematic                ... pos = 0.0   	neg = 0    
+31. It's not a great fil                ... pos = 0.75  	neg = 0.0  
+32. It can, however, be                 ... pos = 1.5   	neg = 0.75 
+33. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+34. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2493-563 is Positive         ... pos = 27.739 	neg = 14.75
+Overall score of document
+Total Pos = 27.739
+Total Neg = 14.75
+---------------------------------------------------------------------------

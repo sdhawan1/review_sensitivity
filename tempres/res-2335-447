@@ -1,0 +1,43 @@
+0. If you compared the                  ... pos = 0.0   	neg = 0.625
+1. Ellen Ripley (Weaver                 ... pos = 0.0   	neg = 0.125
+2. Unfortunatley for th                 ... pos = 0.125 	neg = 1.0  
+3. I half expected Paul                 ... pos = 0.0   	neg = 0.25 
+4. " Eh.                                ... pos = 0     	neg = 0    
+5. Not so much.                         ... pos = 0.125 	neg = 0.0  
+6. Despite the core of                  ... pos = 0.75  	neg = 0.375
+7. What's different abo                 ... pos = 0.625 	neg = 0.125
+8. Her only similarity                  ... pos = 0.5   	neg = 0.5  
+9. The fourth installme                 ... pos = 0.0   	neg = 0.25 
+10. But those sneaky sci                ... pos = 1.125 	neg = 0.75 
+11. One fascinating elem                ... pos = 0.75  	neg = 0.25 
+12. She has natural inst                ... pos = 0.375 	neg = 0.0  
+13. ("It's right behind                 ... pos = 0.0   	neg = 0    
+14. Get out of there man                ... pos = 0     	neg = 0.0  
+15. ") There are some ps                ... pos = 0.25  	neg = 0.0  
+16. Let's just say there                ... pos = 0.0   	neg = 0.25 
+17. Pretty funky stuff.                 ... pos = 0.0   	neg = 0.375
+18. Another thing that A                ... pos = 0.25  	neg = 0.5  
+19. Here's a tip; whenev                ... pos = 0.0   	neg = 0.125
+20. If you see an Alien                 ... pos = 0.125 	neg = 0.0  
+21. I tell you this beca                ... pos = 0.375 	neg = 0.125
+22. For true Alien fans,                ... pos = 1.25  	neg = 0.125
+23. There is a classic f                ... pos = 0.75  	neg = 0.125
+24. Acid blood plays a b                ... pos = 0.0   	neg = 0.5  
+25. But not everything i                ... pos = 0.0   	neg = 0.375
+26. There are a few new                 ... pos = 0.875 	neg = 0.375
+27. This is indeed the m                ... pos = 0.375 	neg = 0.125
+28. (No, it ain't Flubbe                ... pos = 0.0   	neg = 0.25 
+29. ) But Jeunet manages                ... pos = 0.125 	neg = 0.125
+30. Very seldom did I ge                ... pos = 0.5   	neg = 0.375
+31. Everything seems to                 ... pos = 0.0   	neg = 0.125
+32. It kept me on the ed                ... pos = 0.75  	neg = 0.125
+33. What's more, who kno                ... pos = 0.0   	neg = 0.375
+34. After Alien 3, we we                ... pos = 0.25  	neg = 0.375
+35. But ever since they                 ... pos = 0.375 	neg = 0.0  
+36. 3 out of 4 stars Cop                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2335-447 is Positive         ... pos = 10.625 	neg = 9.0  
+Overall score of document
+Total Pos = 10.625
+Total Neg = 9.0
+---------------------------------------------------------------------------

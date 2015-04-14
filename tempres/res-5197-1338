@@ -1,0 +1,18 @@
+0. My mind is constantl                 ... pos = 0.25  	neg = 0.125
+1. My brain races to fi                 ... pos = 0.0   	neg = 0.125
+2. I didn't let my mind                 ... pos = 1.125 	neg = 0.375
+3. I couldn't ruin the                  ... pos = 0.0   	neg = 0.5  
+4. This is a wonderful                  ... pos = 1.125 	neg = 0.25 
+5. The writing is very                  ... pos = 1.25  	neg = 0.125
+6. I relish in good wri                 ... pos = 2.25  	neg = 0.125
+7. I laughed more in th                 ... pos = 0.0   	neg = 0.0  
+8. Matched with the fun                 ... pos = 1.125 	neg = 0.125
+9. Damon and Affleck wi                 ... pos = 1.625 	neg = 0.0  
+10. Critics who dismis t                ... pos = 1.0   	neg = 0.25 
+11. SOme of these are th                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5197-1338 is Positive        ... pos = 10.0  	neg = 2.0  
+Overall score of document
+Total Pos = 10.0
+Total Neg = 2.0
+---------------------------------------------------------------------------

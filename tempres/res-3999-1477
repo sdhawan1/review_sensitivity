@@ -1,0 +1,80 @@
+0. Year: 1999.                          ... pos = 0     	neg = 0    
+1. Starring Pierce Bros                 ... pos = 0.0   	neg = 0.0  
+2. Written by Neal Purv                 ... pos = 0.0   	neg = 0    
+3. Directed by Michael                  ... pos = 0.0   	neg = 0.0  
+4. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+5. When viewing a Bond                  ... pos = 0.625 	neg = 1.125
+6. For example, all the                 ... pos = 0.375 	neg = 1.125
+7. Nor does it seem to                  ... pos = 0.125 	neg = 0.375
+8. Most other films of                  ... pos = 0.25  	neg = 0.625
+9. Let's face it: 007 c                 ... pos = 0.0   	neg = 0.125
+10. Is this fair?                       ... pos = 0     	neg = 0.125
+11. No, but it's true.                  ... pos = 0.5   	neg = 0.25 
+12. We want to see James                ... pos = 0.0   	neg = 0.375
+13. Here, he delivers.                  ... pos = 0.0   	neg = 0.0  
+14. We get stunts, femme                ... pos = 0.0   	neg = 1.75 
+15. This, the 19th insta                ... pos = 0.5   	neg = 0.0  
+16. The plot (though I'm                ... pos = 1.625 	neg = 0.625
+17. Determined to have t                ... pos = 0.625 	neg = 0.75 
+18. She and the villain                 ... pos = 0.0   	neg = 0.375
+19. Bond tracks down Ren                ... pos = 0.0   	neg = 0.75 
+20. The villain has an i                ... pos = 0.875 	neg = 0.5  
+21. (Do not try this at                 ... pos = 0.0   	neg = 0.0  
+22. ) Once the bomb is t                ... pos = 0.0   	neg = 1.125
+23. No problem, right?                  ... pos = 0.0   	neg = 0.5  
+24. A real strong point                 ... pos = 0.5   	neg = 0.25 
+25. I think it's safe to                ... pos = 1.25  	neg = 0.75 
+26. He 's a different ki                ... pos = 0.625 	neg = 0    
+27. Low-key and reserved                ... pos = 0.0   	neg = 0.125
+28. Considering how long                ... pos = 1.375 	neg = 0.625
+29. Brosnan's Bond defin                ... pos = 0.25  	neg = 0.125
+30. It's because of Bros                ... pos = 0.375 	neg = 1.125
+31. Brosnan understands                 ... pos = 1.0   	neg = 0.125
+32. The rest of the cast                ... pos = 0.0   	neg = 0.125
+33. Desmond Llewelyn ret                ... pos = 0.125 	neg = 0.0  
+34. R's scenes are price                ... pos = 0.875 	neg = 0.0  
+35. Robert Carlyle plays                ... pos = 0.125 	neg = 0.375
+36. Robbie Coltrane appe                ... pos = 1.375 	neg = 0.0  
+37. I suppose Judi Dench                ... pos = 1.0   	neg = 0.25 
+38. As could be expected                ... pos = 0.75  	neg = 0.5  
+39. Her M is strong and                 ... pos = 0.5   	neg = 0.5  
+40. And what about those                ... pos = 0.0   	neg = 0.0  
+41. There are two of the                ... pos = 0.25  	neg = 0.0  
+42. Marceau's performanc                ... pos = 1.625 	neg = 0.25 
+43. She exchanges witty                 ... pos = 0.5   	neg = 0.125
+44. She is certainly att                ... pos = 2.25  	neg = 1.125
+45. Marceau definitely s                ... pos = 0.625 	neg = 0.625
+46. I was unaware that B                ... pos = 0.0   	neg = 0.75 
+47. Yes, her breasts are                ... pos = 0.25  	neg = 0.0  
+48. Yes, she looks good                 ... pos = 0.0   	neg = 0.375
+49. (Regular nuclear phy                ... pos = 0.25  	neg = 0.0  
+50. Check your common se                ... pos = 0.0   	neg = 0.0  
+51. ) Unfortunately, any                ... pos = 0.625 	neg = 1.625
+52. " It doesn't matter                 ... pos = 0.375 	neg = 0.25 
+53. " or "I have to diff                ... pos = 0.0   	neg = 0.0  
+54. " doesn't help.                     ... pos = 0.0   	neg = 0    
+55. Somebody needed to t                ... pos = 0.0   	neg = 0.25 
+56. Richards-bashing asi                ... pos = 0.0   	neg = 0.0  
+57. The action sequences                ... pos = 0.375 	neg = 0.0  
+58. We open with a motor                ... pos = 0.125 	neg = 0.75 
+59. All are loads of fun                ... pos = 0.375 	neg = 0    
+60. Completely improbabl                ... pos = 0.25  	neg = 0.0  
+61. (I do, for example,                 ... pos = 0.375 	neg = 0.0  
+62. ) "The World Is Not                 ... pos = 0.125 	neg = 0.375
+63. After Mike Myers' tw                ... pos = 0.375 	neg = 0.875
+64. This latest installm                ... pos = 0.0   	neg = 0.125
+65. Fortunately, the fil                ... pos = 1.5   	neg = 0.25 
+66. He plays it straight                ... pos = 0.125 	neg = 0.25 
+67. It's a pleasing comb                ... pos = 0.625 	neg = 0    
+68. Is "The World Is Not                ... pos = 0.375 	neg = 0.25 
+69. Probably not, though                ... pos = 0.0   	neg = 0.0  
+70. Still, it will proba                ... pos = 0.625 	neg = 0.125
+71. With smashing action                ... pos = 0.5   	neg = 0.375
+72. It's got just about                 ... pos = 0.125 	neg = 0.125
+73. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3999-1477 is Positive        ... pos = 28.375 	neg = 24.25
+Overall score of document
+Total Pos = 28.375
+Total Neg = 24.25
+---------------------------------------------------------------------------

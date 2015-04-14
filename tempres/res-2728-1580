@@ -1,0 +1,30 @@
+0. "Face/Off" is the st                 ... pos = 0.25  	neg = 0.125
+1. In the opening of th                 ... pos = 0.125 	neg = 0.0  
+2. Unfortunately, while                 ... pos = 0.125 	neg = 1.625
+3. Normal action movie                  ... pos = 0.0   	neg = 0.0  
+4. Wrong.                               ... pos = 0     	neg = 0.75 
+5. Flashy action direct                 ... pos = 0.0   	neg = 0.125
+6. To better infiltrate                 ... pos = 0.125 	neg = 0.625
+7. What technology you                  ... pos = 0.0   	neg = 0.0  
+8. It's not just rubber                 ... pos = 0.5   	neg = 0.375
+9. Sound moderately cor                 ... pos = 0.0   	neg = 0.625
+10. It is, and no matter                ... pos = 0.0   	neg = 0.75 
+11. While this is in som                ... pos = 1.125 	neg = 0.125
+12. As suspected, Castor                ... pos = 0.375 	neg = 0.0  
+13. Thus for the majorit                ... pos = 0.0   	neg = 0.5  
+14. More importantly how                ... pos = 0.75  	neg = 0.25 
+15. You can see the acto                ... pos = 1.0   	neg = 0.625
+16. Now the real questio                ... pos = 0.0   	neg = 0.0  
+17. Fortunately, it's th                ... pos = 0.875 	neg = 0.5  
+18. John Woo is a master                ... pos = 0.375 	neg = 0.25 
+19. On that same note ho                ... pos = 0.375 	neg = 0.5  
+20. Consequently, while                 ... pos = 0.0   	neg = 0.625
+21. And on a minor point                ... pos = 0.25  	neg = 0.0  
+22. Woo seems to be a li                ... pos = 0.0   	neg = 0.75 
+23. All in all, if you a                ... pos = 1.125 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-2728-1580 is Negative        ... pos = 7.375 	neg = 9.625
+Overall score of document
+Total Pos = 7.375
+Total Neg = 9.625
+---------------------------------------------------------------------------

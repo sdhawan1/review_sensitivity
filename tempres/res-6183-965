@@ -1,0 +1,40 @@
+0. The first question t                 ... pos = 0.25  	neg = 0.25 
+1. With a Heat, yes; wi                 ... pos = 0.5   	neg = 0.25 
+2. The next question th                 ... pos = 0.25  	neg = 1.25 
+3. The Insider pretends                 ... pos = 0.5   	neg = 0.0  
+4. Which is to say if y                 ... pos = 0.0   	neg = 0.25 
+5. It's all on the big                  ... pos = 0.0   	neg = 0.0  
+6. With big name actors                 ... pos = 0.75  	neg = 0.375
+7. Too, though, The Ins                 ... pos = 0.125 	neg = 0.25 
+8. Rain Maker-Civil Act                 ... pos = 0.0   	neg = 1.0  
+9. 60 Minutes is 60 Min                 ... pos = 0.0   	neg = 0.125
+10. Their calls get retu                ... pos = 0.0   	neg = 0.0  
+11. As for Bergman and W                ... pos = 0.5   	neg = 0.375
+12. And both want to rig                ... pos = 0.0   	neg = 0.625
+13. The first part of be                ... pos = 0.875 	neg = 0.125
+14. Watch all the Deathw                ... pos = 0.125 	neg = 0.0  
+15. Of course there are                 ... pos = 1.0   	neg = 0.0  
+16. The problem with all                ... pos = 0.75  	neg = 0.5  
+17. Not that we don't al                ... pos = 0.0   	neg = 0.0  
+18. That can be assumed.                ... pos = 0     	neg = 0.125
+19. It's the threats the                ... pos = 0.5   	neg = 0.125
+20. Which is to say the                 ... pos = 0.75  	neg = 0.25 
+21. Which is to say that                ... pos = 0.0   	neg = 0.125
+22. Yes, though, one obj                ... pos = 0.875 	neg = 0.375
+23. Which is fine, excep                ... pos = 0.125 	neg = 0.25 
+24. ' And dramatizations                ... pos = 0.375 	neg = 0.125
+25. And there are times                 ... pos = 1.75  	neg = 0.0  
+26. But so be it.                       ... pos = 0.0   	neg = 0.125
+27. Russell Crowe is exc                ... pos = 0.0   	neg = 0.25 
+28. And nevermind that t                ... pos = 1.375 	neg = 0.25 
+29. Is The Insider worth                ... pos = 0.25  	neg = 0.125
+30. Yes, but only for th                ... pos = 0.0   	neg = 0.0  
+31. Wallace?                            ... pos = 0.0   	neg = 0    
+32. " line, which we've                 ... pos = 0.0   	neg = 0.0  
+33. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6183-965 is Positive         ... pos = 11.625 	neg = 7.5  
+Overall score of document
+Total Pos = 11.625
+Total Neg = 7.5
+---------------------------------------------------------------------------

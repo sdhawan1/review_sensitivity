@@ -1,0 +1,32 @@
+0. Here it is, ladies a                 ... pos = 0.0   	neg = 0.5  
+1. I say this in blanke                 ... pos = 0.25  	neg = 0.875
+2. I'll take my chances                 ... pos = 0.75  	neg = 0.75 
+3. Derived from the onl                 ... pos = 0.0   	neg = 0.0  
+4. Humanity has descend                 ... pos = 0.375 	neg = 0.0  
+5. The head Psychlo on                  ... pos = 0.25  	neg = 0.0  
+6. He also engages in s                 ... pos = 0.0   	neg = 0.0  
+7. The human hero, Jonn                 ... pos = 0.5   	neg = 0.0  
+8. He manages to organi                 ... pos = 0.25  	neg = 1.125
+9. Does anyone here bel                 ... pos = 0.125 	neg = 0.25 
+10. Or that there would                 ... pos = 0.0   	neg = 0.125
+11. I've never seen so m                ... pos = 0.0   	neg = 0.75 
+12. John Travolta is not                ... pos = 0.0   	neg = 1.125
+13. He's just not a very                ... pos = 1.5   	neg = 1.375
+14. His one really menac                ... pos = 0.5   	neg = 0.25 
+15. With all the mugging                ... pos = 0.125 	neg = 1.0  
+16. Come to think of it,                ... pos = 0.125 	neg = 0.5  
+17. In a film loaded wit                ... pos = 0.0   	neg = 2.25 
+18. The Psychlos look li                ... pos = 0.0   	neg = 0.5  
+19. Every set is dark, c                ... pos = 0.25  	neg = 0.375
+20. The sound effects ar                ... pos = 0.25  	neg = 0.25 
+21. The camera looks at                 ... pos = 0.0   	neg = 0.5  
+22. I've seen films made                ... pos = 0.125 	neg = 0.0  
+23. THe film's one claim                ... pos = 1.0   	neg = 0.25 
+24. But the film is devo                ... pos = 0.5   	neg = 1.25 
+25. Maybe that's for the                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5456-1046 is Negative        ... pos = 6.875 	neg = 14.0 
+Overall score of document
+Total Pos = 6.875
+Total Neg = 14.0
+---------------------------------------------------------------------------

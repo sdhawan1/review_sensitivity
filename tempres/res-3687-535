@@ -1,0 +1,44 @@
+0. Directed by: Mary Ha                 ... pos = 0.25  	neg = 0.5  
+1. You may walk out of                  ... pos = 1.0   	neg = 1.5  
+2. This may also be the                 ... pos = 0.5   	neg = 0.25 
+3. Alternatingly uproar                 ... pos = 0.75  	neg = 0.125
+4. I'll warn you right                  ... pos = 0.0   	neg = 0.5  
+5. It's the mid 1980's                  ... pos = 0.0   	neg = 0.125
+6. Patrick Bateman (Chr                 ... pos = 1.375 	neg = 0.25 
+7. He is engaged to Eve                 ... pos = 0.375 	neg = 0.375
+8. It may sound like a                  ... pos = 0.25  	neg = 0.0  
+9. He may have the appe                 ... pos = 0.375 	neg = 0.5  
+10. Bateman isn't sure w                ... pos = 1.25  	neg = 0.125
+11. The film may start o                ... pos = 0.625 	neg = 0.625
+12. When things turn vio                ... pos = 1.125 	neg = 0.625
+13. Yet despite what you                ... pos = 0.5   	neg = 0.625
+14. Nearly all the slaug                ... pos = 0.0   	neg = 0.625
+15. This doesn't mean th                ... pos = 0.0   	neg = 0.125
+16. We do see the afterm                ... pos = 0.75  	neg = 0.25 
+17. Mary Harron does an                 ... pos = 1.75  	neg = 0.0  
+18. The atmosphere consi                ... pos = 0.25  	neg = 0.5  
+19. This gives the film                 ... pos = 0.125 	neg = 0.0  
+20. I'm sorry this movie                ... pos = 0.875 	neg = 0.75 
+21. Bale manages to make                ... pos = 1.0   	neg = 0.5  
+22. Reese Witherspoon ("                ... pos = 0.5   	neg = 1.25 
+23. Chloe Sevigny ("Boys                ... pos = 0.0   	neg = 0.125
+24. The remainder of the                ... pos = 0.5   	neg = 0.625
+25. "American Psycho" ha                ... pos = 0.5   	neg = 0.0  
+26. The soundtrack is a                 ... pos = 0.25  	neg = 0.25 
+27. Bateman's voice over                ... pos = 0.875 	neg = 0.125
+28. The humor sprinkled                 ... pos = 1.25  	neg = 0.125
+29. The only thing worki                ... pos = 0.75  	neg = 0.625
+30. I think it was suppo                ... pos = 0.0   	neg = 0.5  
+31. "American Psycho" ru                ... pos = 0.0   	neg = 0.5  
+32. I'd recommend the mo                ... pos = 1.125 	neg = 0.0  
+33. Comments?                           ... pos = 0     	neg = 0.0  
+34. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+35. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+36. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+37. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-3687-535 is Positive         ... pos = 19.875 	neg = 14.625
+Overall score of document
+Total Pos = 19.875
+Total Neg = 14.625
+---------------------------------------------------------------------------

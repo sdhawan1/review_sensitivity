@@ -1,0 +1,25 @@
+0. Last year's mob come                 ... pos = 0.0   	neg = 0.0  
+1. didn't work very wel                 ... pos = 1.625 	neg = 0.125
+2. Harold Ramis' ANALYZ                 ... pos = 0.0   	neg = 0.0  
+3. doesn't.                             ... pos = 0     	neg = 0    
+4. ANALYZE THIS tells t                 ... pos = 0.375 	neg = 0.375
+5. "You didn't see noth                 ... pos = 0.625 	neg = 0.25 
+6. Jelly's Don, Paul Vi                 ... pos = 0.5   	neg = 0.125
+7. " Jelly tells him ab                 ... pos = 0.125 	neg = 0.0  
+8. Vitti seems to be lo                 ... pos = 0.0   	neg = 0.25 
+9. He cries at corny co                 ... pos = 0.125 	neg = 0.375
+10. Vitti becomes so obs                ... pos = 0.0   	neg = 0.125
+11. If put in the hands                 ... pos = 0.0   	neg = 0.0  
+12. But director Ramis(G                ... pos = 0.5   	neg = 0.0  
+13. Billy Crystal has fo                ... pos = 1.0   	neg = 0.125
+14. The greatest actor o                ... pos = 0.875 	neg = 0.0  
+15. In the film, he seem                ... pos = 2.5   	neg = 0.5  
+16. ANALYZE THIS also gi                ... pos = 1.0   	neg = 0.0  
+17. Oh, if only word got                ... pos = 0.0   	neg = 0.0  
+18. There is nothing gro                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5639-421 is Positive         ... pos = 9.25  	neg = 2.625
+Overall score of document
+Total Pos = 9.25
+Total Neg = 2.625
+---------------------------------------------------------------------------

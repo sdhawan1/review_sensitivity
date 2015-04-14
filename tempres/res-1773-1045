@@ -1,0 +1,34 @@
+0. Curtis Edmonds -- bl                 ... pos = 1.0   	neg = 0.75 
+1. "  So says Kevin Spa                 ... pos = 1.375 	neg = 0.25 
+2. Fallen stands for th                 ... pos = 0.125 	neg = 0.625
+3. Or anyway, that he w                 ... pos = 0.125 	neg = 0.0  
+4. This devil's name is                 ... pos = 2.0   	neg = 1.125
+5. (In a movie like thi                 ... pos = 0.25  	neg = 0.625
+6. ) Azazel is left-han                 ... pos = 0.375 	neg = 0.875
+7. He has spent the las                 ... pos = 0.0   	neg = 2.0  
+8. Azazel's motto, as o                 ... pos = 0.0   	neg = 0.125
+9. Fun for Azazel is to                 ... pos = 0.5   	neg = 0.125
+10. So Azazel begins kil                ... pos = 0.375 	neg = 0.625
+11. Fallen has two speci                ... pos = 0.0   	neg = 0.375
+12. The first problem  -                ... pos = 0.5   	neg = 1.0  
+13. There's a couple of                 ... pos = 0.5   	neg = 0.0  
+14. Also, the people Aza                ... pos = 0.5   	neg = 0.0  
+15. And the people that                 ... pos = 1.0   	neg = 0    
+16. They all have a demo                ... pos = 0.25  	neg = 0.875
+17. The second problem i                ... pos = 0.0   	neg = 0.25 
+18. Well, you don't.                    ... pos = 0.0   	neg = 0    
+19. The main problem wit                ... pos = 0.875 	neg = 0.625
+20. Denzel, like the goo                ... pos = 0.875 	neg = 0.125
+21. And the movie ambles                ... pos = 0.0   	neg = 0.25 
+22. There's nothing in t                ... pos = 0.0   	neg = 0.25 
+23. Fallen is Moviemakin                ... pos = 0.875 	neg = 1.25 
+24. One wants to ask the                ... pos = 0.125 	neg = 0.625
+25. "  The greatest tric                ... pos = 1.0   	neg = 1.0  
+26. The Hollywood Stock                 ... pos = 0.0   	neg = 0.375
+27. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1773-1045 is Negative        ... pos = 12.625 	neg = 14.125
+Overall score of document
+Total Pos = 12.625
+Total Neg = 14.125
+---------------------------------------------------------------------------

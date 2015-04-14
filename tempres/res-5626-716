@@ -1,0 +1,33 @@
+0. With the exception o                 ... pos = 2.0   	neg = 1.0  
+1. Their latest offerin                 ... pos = 0.25  	neg = 0.375
+2. The main difference,                 ... pos = 3.125 	neg = 0.5  
+3. That main character                  ... pos = 0.875 	neg = 0.125
+4. " The Dude is unempl                 ... pos = 0.5   	neg = 0.5  
+5. " he shouts at a sus                 ... pos = 0.5   	neg = 0.875
+6. These three seem to                  ... pos = 1.75  	neg = 0.5  
+7. If that doesn't give                 ... pos = 1.0   	neg = 0.125
+8. They've mistaken him                 ... pos = 0.375 	neg = 0.125
+9. The Dude goes to the                 ... pos = 0.5   	neg = 0.875
+10. Unfortunately, Walte                ... pos = 0.0   	neg = 0.875
+11. Soon, the Dude is be                ... pos = 0.0   	neg = 0.375
+12. Meanwhile, the Big L                ... pos = 0.25  	neg = 0.125
+13. The plot, however, i                ... pos = 1.375 	neg = 1.125
+14. The previews for THE                ... pos = 0.5   	neg = 0.875
+15. The film doesn't fea                ... pos = 2.25  	neg = 0.25 
+16. The film sometimes s                ... pos = 0.5   	neg = 1.0  
+17. There's also a notic                ... pos = 0.75  	neg = 0.375
+18. The Coens take aim a                ... pos = 0.625 	neg = 0.0  
+19. " shouts the Big Leb                ... pos = 0.125 	neg = 0.0  
+20. By the end, we reall                ... pos = 2.0   	neg = 0.125
+21. He also turns out to                ... pos = 0.5   	neg = 0.125
+22. The Coens certainly                 ... pos = 1.5   	neg = 0.625
+23. I think that, more t                ... pos = 2.489 	neg = 0.25 
+24. Audience members may                ... pos = 0.375 	neg = 0.5  
+25. "It's good knowin' h                ... pos = 1.125 	neg = 0.0  
+26. I dare say that true                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5626-716 is Positive         ... pos = 25.739 	neg = 11.75
+Overall score of document
+Total Pos = 25.739
+Total Neg = 11.75
+---------------------------------------------------------------------------

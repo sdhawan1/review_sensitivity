@@ -1,0 +1,32 @@
+0. Opening May 1, "Les                  ... pos = 0.0   	neg = 0.125
+1. It  sprawls across t                 ... pos = 0.25  	neg = 0.0  
+2. Even larger are the                  ... pos = 1.0   	neg = 0.0  
+3. Liam Neeson dominate                 ... pos = 0.0   	neg = 0    
+4. His Jean Valjean is                  ... pos = 1.0   	neg = 0.125
+5. ) Jean's soul from e                 ... pos = 0.125 	neg = 0.75 
+6. For the rest of the                  ... pos = 0.875 	neg = 0.0  
+7. His relentless kindn                 ... pos = 1.625 	neg = 0.75 
+8. Dynamically changed                  ... pos = 1.5   	neg = 0.125
+9. Indeed his decency d                 ... pos = 0.0   	neg = 0.125
+10. Uma Thurman never lo                ... pos = 0.625 	neg = 0.875
+11. As Fantine, eyes bug                ... pos = 0.5   	neg = 0.0  
+12. Of course Victor Hug                ... pos = 1.5   	neg = 0.5  
+13. Inspector Javert's p                ... pos = 0.375 	neg = 0.625
+14. Geoffrey Rush, who t                ... pos = 1.75  	neg = 0.0  
+15. His Javert carries o                ... pos = 0.0   	neg = 0.5  
+16. Claire Danes gives u                ... pos = 0.625 	neg = 0    
+17. Reacting with  under                ... pos = 1.375 	neg = 0.0  
+18. Danes is  wide-eyed                 ... pos = 1.5   	neg = 0.5  
+19. It is admirable that                ... pos = 0.875 	neg = 0.125
+20. This remake of  "Les                ... pos = 1.625 	neg = 0.625
+21. But there is too muc                ... pos = 0.25  	neg = 0.5  
+22. I was not expecting                 ... pos = 0.25  	neg = 0.125
+23. But a  greater amoun                ... pos = 1.625 	neg = 0.0  
+24. The story stands  ju                ... pos = 0.375 	neg = 0.0  
+25. But at least fifteen                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4306-71 is Positive          ... pos = 20.75 	neg = 6.375
+Overall score of document
+Total Pos = 20.75
+Total Neg = 6.375
+---------------------------------------------------------------------------

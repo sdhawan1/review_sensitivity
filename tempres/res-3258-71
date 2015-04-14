@@ -1,0 +1,45 @@
+0. A Film Review by Mar                 ... pos = 0.125 	neg = 0.0  
+1. In the opening shots                 ... pos = 1.25  	neg = 0.0  
+2. (Have you noticed,                   ... pos = 0.0   	neg = 0.0  
+3. )  Thus there are bl                 ... pos = 0.25  	neg = 0.0  
+4. The set decoration r                 ... pos = 0.0   	neg = 0.5  
+5. It is the  quaintest                 ... pos = 0.0   	neg = 0.125
+6. Another aspect of th                 ... pos = 1.125 	neg = 0.25 
+7. The few deep space s                 ... pos = 0.25  	neg = 0.0  
+8. A sudden intrusion o                 ... pos = 0.25  	neg = 1.25 
+9. Data (Brent Spiner)                  ... pos = 0.75  	neg = 0.125
+10. Quickly he thwarts t                ... pos = 0.0   	neg = 0.125
+11. Soon we witness the                 ... pos = 0.125 	neg = 0.125
+12. When matters  become                ... pos = 0.625 	neg = 0.0  
+13. It seems that this A                ... pos = 0.125 	neg = 0.25 
+14. If carried out, thes                ... pos = 0.125 	neg = 0.25 
+15. Will the principled                 ... pos = 0.25  	neg = 0.125
+16. In the tradition of                 ... pos = 0.5   	neg = 0.0  
+17. The agenda of this i                ... pos = 0.0   	neg = 0.0  
+18. So the central confl                ... pos = 0.0   	neg = 0.75 
+19. William T.  Riker, t                ... pos = 0.625 	neg = 0.25 
+20. Michael Piller's scr                ... pos = 0.875 	neg = 0.125
+21. Pretty standard stuf                ... pos = 0.0   	neg = 0.375
+22. The villain's seat i                ... pos = 0.375 	neg = 0.5  
+23. Abraham's  makeup is                ... pos = 0.625 	neg = 0.125
+24. Ru'afo is moderately                ... pos = 0.25  	neg = 0.875
+25. Not until we discove                ... pos = 0.875 	neg = 0.75 
+26. Once again Patrick S                ... pos = 0.125 	neg = 0.0  
+27. His acting  is proba                ... pos = 0.0   	neg = 0.125
+28. He makes us believe                 ... pos = 1.0   	neg = 0.0  
+29. Picard  even gets a                 ... pos = 1.125 	neg = 0.0  
+30. Unfortunately, the C                ... pos = 0.0   	neg = 1.125
+31. Hints of a rekindled                ... pos = 0.125 	neg = 0.0  
+32. (The dearth of affec                ... pos = 0.75  	neg = 0.75 
+33. ). Music in Insurrec                ... pos = 0.375 	neg = 0.0  
+34. As I believe the mak                ... pos = 0.75  	neg = 0.0  
+35. All the baloney abou                ... pos = 0.0   	neg = 0.125
+36. It is not as rivetin                ... pos = 0.75  	neg = 1.125
+37. By leaving this tren                ... pos = 1.375 	neg = 0.0  
+38. Two decisions that,                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3258-71 is Positive          ... pos = 16.5  	neg = 10.125
+Overall score of document
+Total Pos = 16.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

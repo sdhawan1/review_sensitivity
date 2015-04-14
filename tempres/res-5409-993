@@ -1,0 +1,42 @@
+0. Trinity, an outlaw,                  ... pos = 0.5   	neg = 1.25 
+1. Meanwhile Neo, a hac                 ... pos = 0.125 	neg = 0.75 
+2. Things get more comp                 ... pos = 0.625 	neg = 0.0  
+3. ". It seems unlikely                 ... pos = 0.0   	neg = 0.375
+4. But even given the p                 ... pos = 1.375 	neg = 0.625
+5. It's a winner alrigh                 ... pos = 0.25  	neg = 0.25 
+6. As is always the cas                 ... pos = 0.875 	neg = 0.25 
+7. Many others have sun                 ... pos = 0.75  	neg = 0.125
+8. There's some kinetic                 ... pos = 1.375 	neg = 0.375
+9. (With the exception                  ... pos = 0.0   	neg = 0.0  
+10. Actually his essenti                ... pos = 0.375 	neg = 0.125
+11. )  There's a literat                ... pos = 0.875 	neg = 0.25 
+12. And the film carves                 ... pos = 0.0   	neg = 0.0  
+13. Some plot developmen                ... pos = 0.625 	neg = 0.125
+14. And to partly repeat                ... pos = 0.25  	neg = 0.375
+15. "The Matrix" is _the                ... pos = 0.0   	neg = 0.125
+16. Is there anything wr                ... pos = 0     	neg = 0.875
+17. Although you wouldn'                ... pos = 0.125 	neg = 0.125
+18. It's terrific fun, b                ... pos = 0.375 	neg = 0.375
+19. The intellectual con                ... pos = 0.125 	neg = 0.0  
+20. It doesn't have the                 ... pos = 0.5   	neg = 0.0  
+21. The implications of                 ... pos = 0.625 	neg = 0.125
+22. The inevitable talk                 ... pos = 0.5   	neg = 0.375
+23. Conversely, one migh                ... pos = 0.0   	neg = 0.625
+24. Actually the first h                ... pos = 0.125 	neg = 0.25 
+25. It's to the credit o                ... pos = 1.0   	neg = 0.375
+26. Again, Keanu is oddl                ... pos = 0.5   	neg = 0.25 
+27. His character is act                ... pos = 2.0   	neg = 0.5  
+28. In this way, "The Ma                ... pos = 0.0   	neg = 0.5  
+29. These problems aside                ... pos = 1.0   	neg = 0.5  
+30. It isn't a great fil                ... pos = 0.125 	neg = 0.125
+31. Don't miss it.                      ... pos = 0.0   	neg = 0    
+32. [***/good] and reall                ... pos = 0.0   	neg = 0.125
+33. "The Matrix" Release                ... pos = 0.0   	neg = 0    
+34. Directed by Andy & L                ... pos = 0.0   	neg = 0    
+35. Starring Keanu Reeve                ... pos = 0.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5409-993 is Positive         ... pos = 15.125 	neg = 11.0 
+Overall score of document
+Total Pos = 15.125
+Total Neg = 11.0
+---------------------------------------------------------------------------

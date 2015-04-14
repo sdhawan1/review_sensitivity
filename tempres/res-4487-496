@@ -1,0 +1,40 @@
+0. **** (out of 4) Dire                 ... pos = 0.125 	neg = 0.625
+1. It was dull, moronic                 ... pos = 0.25  	neg = 0.125
+2. Roland  Emmerich dir                 ... pos = 0.0   	neg = 0.0  
+3. Someone named Roland                 ... pos = 0.0   	neg = 0.0  
+4. Before I saw Indepen                 ... pos = 0.0   	neg = 0.125
+5. Now I'm not so sure.                 ... pos = 0.25  	neg = 0.0  
+6. There is nothing dul                 ... pos = 0.375 	neg = 0.5  
+7. In short, Independen                 ... pos = 0.125 	neg = 0.0  
+8. Independence Day pro                 ... pos = 0.0   	neg = 0.0  
+9. What if we  were vis                 ... pos = 0.0   	neg = 0.25 
+10. What if the visitors                ... pos = 0.125 	neg = 0.125
+11. How would we react t                ... pos = 0.0   	neg = 0    
+12. All of these questio                ... pos = 1.125 	neg = 0.0  
+13. Aliens have entered                 ... pos = 0.0   	neg = 0.0  
+14. At first we're not s                ... pos = 0.375 	neg = 0.0  
+15. All the world can do                ... pos = 0.0   	neg = 0.125
+16. Then a mathemetician                ... pos = 0.0   	neg = 0.0  
+17. ) discovers the alie                ... pos = 0.25  	neg = 0.0  
+18. In doing so, he is a                ... pos = 0.125 	neg = 0.625
+19. A fighter pilot, pla                ... pos = 0.125 	neg = 0.0  
+20. Many cities have bee                ... pos = 0.125 	neg = 0.25 
+21. The Americans must d                ... pos = 0.375 	neg = 0    
+22. A stellar cast of re                ... pos = 1.0   	neg = 0.125
+23. Bill Pullman plays t                ... pos = 1.25  	neg = 0.0  
+24. jeff Goldblum, one o                ... pos = 0.0   	neg = 0.25 
+25. His offbeat line rea                ... pos = 0.625 	neg = 0.0  
+26. Will Smith is quickl                ... pos = 0.5   	neg = 0.25 
+27. He also gets much  f                ... pos = 0.125 	neg = 0.875
+28. And then there are                  ... pos = 0.25  	neg = 0.25 
+29. Not for one second w                ... pos = 0.0   	neg = 0.125
+30. The over 2 hour runn                ... pos = 0.25  	neg = 0.375
+31. If you want  to see                 ... pos = 0.0   	neg = 0.125
+32. I'll probably be in                 ... pos = 0.0   	neg = 0.0  
+33. This movie was worth                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4487-496 is Positive         ... pos = 7.75  	neg = 5.25 
+Overall score of document
+Total Pos = 7.75
+Total Neg = 5.25
+---------------------------------------------------------------------------

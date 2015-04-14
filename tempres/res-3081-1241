@@ -1,0 +1,25 @@
+0. Cast: Samuel L. Jack                 ... pos = 1.0   	neg = 1.0  
+1. When a research shar                 ... pos = 0.375 	neg = 0.25 
+2. It turns out that th                 ... pos = 0.625 	neg = 0.625
+3. She  is given the we                 ... pos = 0.375 	neg = 0.25 
+4. What he finds are  s                 ... pos = 0.25  	neg = 1.875
+5. I wish every scene i                 ... pos = 0.375 	neg = 0.875
+6. Unfortunately, the m                 ... pos = 0.375 	neg = 0.875
+7. Sure there are a cou                 ... pos = 0.5   	neg = 0.25 
+8. Scream 2  already br                 ... pos = 0.25  	neg = 0.125
+9. Renny Harlin's direc                 ... pos = 0.0   	neg = 0.375
+10. I'm not sure I would                ... pos = 0.25  	neg = 1.0  
+11. We are supposed to f                ... pos = 0.75  	neg = 0.375
+12. Most of the film's f                ... pos = 0.0   	neg = 0.625
+13. A relationship that                 ... pos = 2.0   	neg = 0.375
+14. Thankfully, there is                ... pos = 0.375 	neg = 0.375
+15. Too bad  there were                 ... pos = 0.0   	neg = 1.625
+16. That's another sure-                ... pos = 0.75  	neg = 0.125
+17. [R]. Brian Matherly                 ... pos = 0.0   	neg = 0.0  
+18. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3081-1241 is Negative        ... pos = 8.5   	neg = 11.375
+Overall score of document
+Total Pos = 8.5
+Total Neg = 11.375
+---------------------------------------------------------------------------

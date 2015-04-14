@@ -1,0 +1,43 @@
+0. REVIEWER'S NOTE: For                 ... pos = 0.25  	neg = 0.0  
+1. I recently saw the f                 ... pos = 0.625 	neg = 0.25 
+2. See below for explan                 ... pos = 0.0   	neg = 0.0  
+3. As the Coen Brothers                 ... pos = 0.25  	neg = 0.0  
+4. He has a rather uniq                 ... pos = 1.125 	neg = 0.5  
+5. What is instantly cl                 ... pos = 1.347 	neg = 0.625
+6. Between that and the                 ... pos = 0.625 	neg = 0.5  
+7. Pretty soon, the ver                 ... pos = 0.75  	neg = 0.375
+8. FARGO is far from th                 ... pos = 0.125 	neg = 0.125
+9. It is "about" this k                 ... pos = 0.0   	neg = 0.5  
+10. It is about Northern                ... pos = 0.0   	neg = 0.125
+11. " It is about ice on                ... pos = 0.0   	neg = 0.125
+12. Most importantly, it                ... pos = 0.125 	neg = 0.875
+13. "), easy-going way.                 ... pos = 0.0   	neg = 0    
+14. McDormand herself ha                ... pos = 0.5   	neg = 0.0  
+15. " . Stylistically, F                ... pos = 1.0   	neg = 0.375
+16. Sometimes it even ha                ... pos = 0.0   	neg = 0.0  
+17. The kidnapping scene                ... pos = 1.625 	neg = 0.625
+18. The Coens do not mak                ... pos = 0.5   	neg = 1.375
+19. FARGO is sometimes b                ... pos = 0.875 	neg = 0.25 
+20. "Oh, for Pete's sake                ... pos = 0     	neg = 0.0  
+21. " she exclaims at on                ... pos = 0.0   	neg = 0.625
+22. Not only is she inst                ... pos = 0.375 	neg = 0.25 
+23. When she arrives at                 ... pos = 0.0   	neg = 0.0  
+24. The locals, meanwhil                ... pos = 0.25  	neg = 0.625
+25. " The interaction be                ... pos = 0.625 	neg = 0.5  
+26. What the Coens have                 ... pos = 0.25  	neg = 0.125
+27. It's almost like the                ... pos = 1.125 	neg = 0.625
+28. But while Lynch's pr                ... pos = 0.125 	neg = 0.75 
+29. She investigates the                ... pos = 0.875 	neg = 1.375
+30. The Coens have, thro                ... pos = 0.25  	neg = 0.125
+31. FARGO isn't quite th                ... pos = 2.375 	neg = 0.5  
+32. Poignant, intelligen                ... pos = 1.0   	neg = 0.375
+33. For one thing, I don                ... pos = 0.125 	neg = 0.0  
+34. Also, I criticized t                ... pos = 0.0   	neg = 0.75 
+35. The dangling plot th                ... pos = 0.625 	neg = 0.125
+36. As for the criminals                ... pos = 0.875 	neg = 1.875
+---------------------------------------------------------------------------
+./temp/tmp-1950-716 is Positive         ... pos = 18.597 	neg = 15.25
+Overall score of document
+Total Pos = 18.597
+Total Neg = 15.25
+---------------------------------------------------------------------------

@@ -1,0 +1,55 @@
+0. I KNOW WHAT YOU DID                  ... pos = 0.75  	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.125 	neg = 0.125
+3. With the completely                  ... pos = 1.125 	neg = 0.75 
+4. As of this    writin                 ... pos = 0.625 	neg = 0.625
+5. Putting aside the la                 ... pos = 0.625 	neg = 0.5  
+6. I KNOW WHAT YOU DID                  ... pos = 0.25  	neg = 0.25 
+7. There are too many s                 ... pos = 1.25  	neg = 0.25 
+8. ) to take it serious                 ... pos = 0.125 	neg = 0    
+9. I KNOW WHAT YOU DID                  ... pos = 0.5   	neg = 0.125
+10. The film focuses on                 ... pos = 3.75  	neg = 0.0  
+11. As is often the case                ... pos = 1.375 	neg = 0.125
+12. In fact, given the f                ... pos = 0.875 	neg = 0.5  
+13. After a cozy July 4t                ... pos = 0.0   	neg = 0.667
+14. While driving back,                 ... pos = 0.0   	neg = 0.375
+15. They all begin to pa                ... pos = 0.875 	neg = 0.25 
+16. Jump forward to a ye                ... pos = 0.0   	neg = 0.0  
+17. The formerly tight-k                ... pos = 1.375 	neg = 0.125
+18. seemingly    resigne                ... pos = 0.5   	neg = 0.0  
+19. Suitably gaunt    an                ... pos = 1.0   	neg = 0.0  
+20. " (as opposed, I gue                ... pos = 0.0   	neg = 0.0  
+21. ")  In the wake of t                ... pos = 0.125 	neg = 0.0  
+22. And the killing begi                ... pos = 0.0   	neg = 0.0  
+23. The costumed killer                 ... pos = 0.5   	neg = 0.875
+24. The film    makes a                 ... pos = 0.0   	neg = 0.25 
+25. When The    Fisherma                ... pos = 0.625 	neg = 0.125
+26. erupting from the au                ... pos = 0.0   	neg = 0.0  
+27. For awhile, it appea                ... pos = 0.375 	neg = 0.375
+28. Julie, who was the m                ... pos = 0.375 	neg = 1.0  
+29. I KNOW WHAT YOU DID                 ... pos = 0.5   	neg = 0.625
+30. Although    it can b                ... pos = 1.125 	neg = 0.25 
+31. After a character                   ... pos = 3.125 	neg = 1.125
+32. The sequence which i                ... pos = 2.5   	neg = 0.375
+33. I    particularly en                ... pos = 1.375 	neg = 0.0  
+34. " in the aftermath o                ... pos = 0.625 	neg = 0.5  
+35. In general, the perf                ... pos = 1.25  	neg = 0.0  
+36. While the leads are                 ... pos = 0.25  	neg = 0.5  
+37. After some nondescri                ... pos = 1.0   	neg = 0.125
+38. As in SCREAM, Mr. Wi                ... pos = 0.25  	neg = 0.0  
+39. There's a cute    re                ... pos = 1.25  	neg = 0.0  
+40. While he's an intere                ... pos = 1.125 	neg = 0.125
+41. Who wasn't wincing d                ... pos = 0.0   	neg = 0.375
+42. Along the same lines                ... pos = 0.0   	neg = 0.0  
+43. I don't think it spo                ... pos = 0.125 	neg = 0.375
+44. " to leave the    au                ... pos = 0.375 	neg = 0.0  
+45. This coda teases at                 ... pos = 0.625 	neg = 0.375
+46. As Mr. Williamson hi                ... pos = 0.0   	neg = 0.0  
+47. ". -- Alex Fung (aw2                ... pos = 0.0   	neg = 0.25 
+48. '" - Tom DiCillo. .                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4011-717 is Positive         ... pos = 32.625 	neg = 12.542
+Overall score of document
+Total Pos = 32.625
+Total Neg = 12.542
+---------------------------------------------------------------------------

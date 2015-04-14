@@ -1,0 +1,38 @@
+0. "The Hurricane" is h                 ... pos = 0.25  	neg = 0.125
+1. Although it has a fe                 ... pos = 0.125 	neg = 0.0  
+2. As you may or may no                 ... pos = 0.625 	neg = 0.0  
+3. The film starts out                  ... pos = 0.0   	neg = 0.25 
+4. The story then focus                 ... pos = 0.25  	neg = 0.375
+5. So the background st                 ... pos = 0.375 	neg = 0.0  
+6. After he finishes th                 ... pos = 0.125 	neg = 0.375
+7. This leads us to the                 ... pos = 0.0   	neg = 0.0  
+8. I'll admit, I though                 ... pos = 1.0   	neg = 0.25 
+9. Sure it was formulai                 ... pos = 0.25  	neg = 0.625
+10. A story is only a sm                ... pos = 0.0   	neg = 0.125
+11. The film's messages                 ... pos = 0.375 	neg = 0.0  
+12. The film mainly deal                ... pos = 0.875 	neg = 0.125
+13. It may not seem like                ... pos = 0.375 	neg = 0.125
+14. Absolutely uplifting                ... pos = 0.0   	neg = 0.0  
+15. Unfortunately there                 ... pos = 0.25  	neg = 0.875
+16. The whole investigat                ... pos = 0.125 	neg = 0.125
+17. I would have rather                 ... pos = 1.0   	neg = 0.0  
+18. It just didn't quite                ... pos = 0.125 	neg = 0.0  
+19. Also as I said befor                ... pos = 0.125 	neg = 0.5  
+20. If it was not for th                ... pos = 1.25  	neg = 0.5  
+21. Now for the real kno                ... pos = 0.25  	neg = 0    
+22. Not only is this his                ... pos = 1.25  	neg = 0.125
+23. If someone else was                 ... pos = 0.875 	neg = 0.25 
+24. He delivered here bi                ... pos = 0.0   	neg = 0.0  
+25. He's got an Oscar No                ... pos = 0.125 	neg = 0.0  
+26. Everyone else in the                ... pos = 0.75  	neg = 0.0  
+27. Director Norman Jewi                ... pos = 0.0   	neg = 0.0  
+28. I have never really                 ... pos = 0.125 	neg = 0.125
+29. He has outdone himse                ... pos = 1.0   	neg = 0.125
+30. I suggest you go see                ... pos = 1.0   	neg = 0.0  
+31. A must see.. .                      ... pos = 0.375 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-864-789 is Positive          ... pos = 13.25 	neg = 5.0  
+Overall score of document
+Total Pos = 13.25
+Total Neg = 5.0
+---------------------------------------------------------------------------

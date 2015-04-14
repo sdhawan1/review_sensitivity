@@ -1,0 +1,44 @@
+0. "You've Got Mail," t                 ... pos = 1.125 	neg = 0.875
+1. Not since "The Wizar                 ... pos = 0.125 	neg = 0.0  
+2. It's one thing to ha                 ... pos = 1.75  	neg = 0.25 
+3. It's true that produ                 ... pos = 0.625 	neg = 0.875
+4. If Hollywood can mak                 ... pos = 0.0   	neg = 0.0  
+5. I can understand thi                 ... pos = 0.625 	neg = 0.0  
+6. I'm less eager to ac                 ... pos = 0.625 	neg = 0.0  
+7. There are no special                 ... pos = 0.375 	neg = 0.25 
+8. Joe Fox (Hanks) and                  ... pos = 0.25  	neg = 0.0  
+9. Kelly is the owner o                 ... pos = 0.5   	neg = 0.25 
+10. The store is Kelly's                ... pos = 0.125 	neg = 0.25 
+11. Nothing gives her gr                ... pos = 1.0   	neg = 0.25 
+12. Joe is the manager o                ... pos = 0.0   	neg = 0.125
+13. Soon the new arrival                ... pos = 0.375 	neg = 0.5  
+14. Seeking advice and r                ... pos = 0.0   	neg = 0.0  
+15. For quite a while, K                ... pos = 0.625 	neg = 0.125
+16. Over the past severa                ... pos = 1.0   	neg = 0.125
+17. They address each ot                ... pos = 0.0   	neg = 0.375
+18. Naturally, Kathleen'                ... pos = 0.125 	neg = 0.125
+19. The rest of the film                ... pos = 0.875 	neg = 0.0  
+20. Forgetting the issue                ... pos = 0.5   	neg = 0.5  
+21. Surely anyone who is                ... pos = 1.375 	neg = 0.25 
+22. (In fact, I question                ... pos = 1.25  	neg = 0.25 
+23. Perhaps in real life                ... pos = 0.5   	neg = 0.125
+24. Let me know your tho                ... pos = 0.0   	neg = 0.625
+25. )  The fact that the                ... pos = 0.875 	neg = 2.0  
+26. Director/co-writer N                ... pos = 2.75  	neg = 0.0  
+27. If her screenplay is                ... pos = 1.375 	neg = 0.5  
+28. Particularly fun is                 ... pos = 0.125 	neg = 0.125
+29. Greg Kinnear also ap                ... pos = 0.875 	neg = 0.125
+30. "You've Got Mail" is                ... pos = 0.375 	neg = 0.75 
+31. Occasionally simple-                ... pos = 0.375 	neg = 0.75 
+32. Significantly, this                 ... pos = 0.25  	neg = 0.125
+33. And I hate to adopt                 ... pos = 0.125 	neg = 0.0  
+34. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+35. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+36. Thanks.                             ... pos = 0.125 	neg = 0    
+37. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5378-216 is Positive         ... pos = 21.625 	neg = 10.625
+Overall score of document
+Total Pos = 21.625
+Total Neg = 10.625
+---------------------------------------------------------------------------

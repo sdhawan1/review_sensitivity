@@ -1,0 +1,75 @@
+0. Directed by: Roger C                 ... pos = 0.875 	neg = 0.125
+1. Movies like "Ben Hur                 ... pos = 0.0   	neg = 0.25 
+2. Roger Christian's "B                 ... pos = 0.0   	neg = 0.125
+3. "Battlefield Earth"                  ... pos = 0.625 	neg = 1.5  
+4. "Battlefield Earth"                  ... pos = 0.0   	neg = 0.125
+5. I hate to say this,                  ... pos = 1.25  	neg = 0.25 
+6. Most bad films have                  ... pos = 1.375 	neg = 1.625
+7. This movie somehow m                 ... pos = 0.375 	neg = 0.25 
+8. I must admit, it's n                 ... pos = 0.625 	neg = 0.125
+9. Appreciate this movi                 ... pos = 0.125 	neg = 0.125
+10. You'll not see anoth                ... pos = 0.0   	neg = 0.125
+11. It's the 31st centur                ... pos = 0.125 	neg = 0.875
+12. The Psychlos, a race                ... pos = 0.125 	neg = 0.0  
+13. Now, 1000 years late                ... pos = 0.5   	neg = 0.625
+14. A lone woodsman, Jon                ... pos = 0.125 	neg = 0.25 
+15. Found to be somewhat                ... pos = 0.25  	neg = 0.25 
+16. Tyler soon decides t                ... pos = 0.5   	neg = 0.5  
+17. With nothing but his                ... pos = 0.125 	neg = 0.375
+18. Let me start by list                ... pos = 0.125 	neg = 0.0  
+19. Okay, now on to the                 ... pos = 0.0   	neg = 0.125
+20. You can tell from th                ... pos = 0.5   	neg = 0.625
+21. The picture leaps ri                ... pos = 0.25  	neg = 0    
+22. Instead, we meet Bar                ... pos = 1.125 	neg = 0.75 
+23. In fact, there is no                ... pos = 1.25  	neg = 0.375
+24. At one point, Terl h                ... pos = 0.0   	neg = 0.125
+25. I think this was sup                ... pos = 0.375 	neg = 0.25 
+26. The problem, however                ... pos = 0.25  	neg = 0.75 
+27. Things are even wors                ... pos = 0.25  	neg = 0.625
+28. they die all the tim                ... pos = 0.0   	neg = 0.0  
+29. Everytime anyone die                ... pos = 1.5   	neg = 0.0  
+30. Allow me to now list                ... pos = 0.0   	neg = 0.875
+31. The scenery is obvio                ... pos = 1.0   	neg = 2.875
+32. The special effects                 ... pos = 0.0   	neg = 0.75 
+33. The costumes consist                ... pos = 0.125 	neg = 0.625
+34. The battle scenes ar                ... pos = 0.75  	neg = 0.25 
+35. These fights consist                ... pos = 1.125 	neg = 1.0  
+36. The dialogue is amaz                ... pos = 0.125 	neg = 1.75 
+37. The score is quite o                ... pos = 1.125 	neg = 0.75 
+38. Barry Pepper raises                 ... pos = 0.375 	neg = 0.125
+39. There is much more t                ... pos = 0.25  	neg = 0.125
+40. In case you're wonde                ... pos = 0.0   	neg = 0.125
+41. Christian is the fel                ... pos = 0.0   	neg = 0.375
+42. He also worked as a                 ... pos = 0.125 	neg = 0.0  
+43. The problem is, whil                ... pos = 0.625 	neg = 0.375
+44. The wipe starts in t                ... pos = 0.0   	neg = 0.375
+45. Not only is it amate                ... pos = 0.0   	neg = 1.5  
+46. The actors are given                ... pos = 0.75  	neg = 0.25 
+47. Barry Pepper, who wa                ... pos = 0.25  	neg = 0.875
+48. John Travolta overac                ... pos = 1.069 	neg = 0.75 
+49. Only Forest Whitaker                ... pos = 0.375 	neg = 0.75 
+50. For nearly any scien                ... pos = 0.125 	neg = 0.125
+51. "Battlefield Earth"                 ... pos = 0.375 	neg = 0.0  
+52. Nearly every scene c                ... pos = 0.0   	neg = 0.25 
+53. Try this out: the Ps                ... pos = 0.375 	neg = 0.0  
+54. Jonnie Tyler, being                 ... pos = 0.75  	neg = 0.125
+55. There are two seriou                ... pos = 0.25  	neg = 0.0  
+56. First, Terl actually                ... pos = 0.5   	neg = 0.0  
+57. Not ludicrous enough                ... pos = 0.0   	neg = 0.25 
+58. Try this one on for                 ... pos = 0.0   	neg = 0.0  
+59. Tyler's men, who cou                ... pos = 0.125 	neg = 0.625
+60. There are dozens of                 ... pos = 0.25  	neg = 0.75 
+61. I'd recommend "Battl                ... pos = 0.0   	neg = 0.25 
+62. The movie runs a tor                ... pos = 0.0   	neg = 0.75 
+63. Any past movies you                 ... pos = 0.0   	neg = 0.125
+64. Send to: johnbeachem                ... pos = 0.5   	neg = 0.25 
+65. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+66. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+67. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+68. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5456-535 is Negative         ... pos = 24.319 	neg = 30.25
+Overall score of document
+Total Pos = 24.319
+Total Neg = 30.25
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. Directed by: Phillip                 ... pos = 1.0   	neg = 0.75 
+1. With a tried and tru                 ... pos = 0.5   	neg = 1.5  
+2. By being utterly, ri                 ... pos = 0.25  	neg = 0.375
+3. Another example of h                 ... pos = 0.0   	neg = 0.125
+4. Lincoln Rhyme (Denze                 ... pos = 1.0   	neg = 0.125
+5. Despite support from                 ... pos = 0.125 	neg = 0.0  
+6. However, Paulie want                 ... pos = 0.5   	neg = 0.5  
+7. Lincoln agrees, but                  ... pos = 1.0   	neg = 0.125
+8. As I said, the actin                 ... pos = 0.75  	neg = 0.125
+9. It's remarkable what                 ... pos = 0.375 	neg = 0.0  
+10. Angelina Jolie deliv                ... pos = 0.5   	neg = 0.25 
+11. As always, it's a pl                ... pos = 0.125 	neg = 0    
+12. Being known almost e                ... pos = 1.875 	neg = 0.5  
+13. Michael Rooker (Clif                ... pos = 0.875 	neg = 1.0  
+14. Speaking of implausi                ... pos = 0.125 	neg = 0.875
+15. Quite a long time, a                ... pos = 0.0   	neg = 0.375
+16. According to "The Bo                ... pos = 0.0   	neg = 0.0  
+17. The scene involves A                ... pos = 0.0   	neg = 0.0  
+18. She stands in front                 ... pos = 0.0   	neg = 0.5  
+19. The clue is a piece                 ... pos = 0.25  	neg = 0.125
+20. This could very easi                ... pos = 0.75  	neg = 0.875
+21. Another nice, imposs                ... pos = 0.0   	neg = 0.5  
+22. The first store she                 ... pos = 0.5   	neg = 0.375
+23. The novel in questio                ... pos = 0.0   	neg = 0.0  
+24. As for the identity                 ... pos = 0.625 	neg = 0.5  
+25. "The Bone Collector"                ... pos = 0.0   	neg = 0.875
+26. I'd recommend it onl                ... pos = 0.0   	neg = 0.0  
+27. Even if you fall und                ... pos = 0.375 	neg = 0.0  
+28. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+29. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+30. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+31. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+32. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+33. See it if you've got                ... pos = 0.0   	neg = 0.25 
+34. * - One of the worst                ... pos = 0.0   	neg = 0.375
+35. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3770-535 is Positive         ... pos = 12.75 	neg = 12.125
+Overall score of document
+Total Pos = 12.75
+Total Neg = 12.125
+---------------------------------------------------------------------------

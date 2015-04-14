@@ -1,0 +1,38 @@
+0. I'm currently accept                 ... pos = 1.125 	neg = 0.0  
+1. In _The Wedding Sing                 ... pos = 0.0   	neg = 0.125
+2. In _Never Been Kisse                 ... pos = 0.0   	neg = 0.125
+3. Future DB character                  ... pos = 1.125 	neg = 0.0  
+4. I'll stick to my day                 ... pos = 0.0   	neg = 0.0  
+5. This is a teen movie                 ... pos = 0.875 	neg = 0.125
+6. Drew Barrymore is a                  ... pos = 1.75  	neg = 0.25 
+7. The story she's cove                 ... pos = 0.125 	neg = 0.125
+8. She is to return to                  ... pos = 0.0   	neg = 0.125
+9. The irony is that Dr                 ... pos = 1.25  	neg = 0.375
+10. When she does, she s                ... pos = 0.25  	neg = 1.5  
+11. At least she befrien                ... pos = 1.75  	neg = 0.25 
+12. What works:  Drew's                 ... pos = 0     	neg = 0    
+13. After a start in fil                ... pos = 0.875 	neg = 1.125
+14. It's very funny.                    ... pos = 0.5   	neg = 0.0  
+15. What doesn't work:                  ... pos = 0     	neg = 0    
+16. Come on.                            ... pos = 0     	neg = 0.0  
+17. Nobody dresses as ba                ... pos = 0.125 	neg = 0.875
+18. Couldn't she just go                ... pos = 0.0   	neg = 0.0  
+19. Had she dressed like                ... pos = 0.0   	neg = 0.125
+20. The comedy is suppos                ... pos = 0.5   	neg = 0.125
+21. Now, how in the worl                ... pos = 0.125 	neg = 0.125
+22. The dialogue in the                 ... pos = 0.0   	neg = 0.25 
+23. Her co-workers (Moll                ... pos = 0.25  	neg = 0.0  
+24. Her teenage peers (e                ... pos = 0.25  	neg = 1.75 
+25. Couldn't the filmmak                ... pos = 0.25  	neg = 0.0  
+26. Lastly, I am proud t                ... pos = 0.375 	neg = 0.125
+27. If you see the film,                ... pos = 0.0   	neg = 0.125
+28. She goes wild, sleep                ... pos = 0.0   	neg = 0.25 
+29. When she wakes, she                 ... pos = 0.0   	neg = 0.625
+30. Funny, eh?                          ... pos = 0     	neg = 0.0  
+31. ...except that the h                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4911-630 is Positive         ... pos = 11.5  	neg = 8.5  
+Overall score of document
+Total Pos = 11.5
+Total Neg = 8.5
+---------------------------------------------------------------------------

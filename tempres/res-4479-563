@@ -1,0 +1,81 @@
+0. "The real conundrum                  ... pos = 0.625 	neg = 0.0  
+1. It's getting a human                 ... pos = 0.625 	neg = 0.0  
+2. ". Starring Haley Jo                 ... pos = 0.0   	neg = 0.25 
+3. Directed by Steven S                 ... pos = 0.0   	neg = 0    
+4. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+5. Everyone is talking                  ... pos = 0.0   	neg = 0.125
+6. Artificial Intellige                 ... pos = 0.375 	neg = 0.0  
+7. Though there are som                 ... pos = 0.375 	neg = 0.125
+8. The bizarre, upsetti                 ... pos = 2.0   	neg = 0.625
+9. Like many, it took m                 ... pos = 0.0   	neg = 0.0  
+10. I knew right away th                ... pos = 0.0   	neg = 0.0  
+11. The second time, it                 ... pos = 2.25  	neg = 1.125
+12. A.I.                                ... pos = 0.0   	neg = 0.0  
+13. begins with the fami                ... pos = 0.625 	neg = 0.375
+14. Major cities, includ                ... pos = 0.375 	neg = 0.125
+15. Strict population co                ... pos = 0.5   	neg = 0.125
+16. Humans became increa                ... pos = 0.25  	neg = 0.0  
+17. By now, Spielberg ha                ... pos = 0.375 	neg = 0.75 
+18. should already be di                ... pos = 0.0   	neg = 0.125
+19. We fade to a confere                ... pos = 1.75  	neg = 0.0  
+20. Someone poses a ques                ... pos = 1.625 	neg = 0.125
+21. The answer isn't, as                ... pos = 0.0   	neg = 0.0  
+22. " If we are responsi                ... pos = 2.625 	neg = 0.0  
+23. After all, his feeli                ... pos = 0.375 	neg = 0.0  
+24. Cybertronics, Inc. c                ... pos = 0.0   	neg = 0.625
+25. He and his wife Moni                ... pos = 0.625 	neg = 0.125
+26. Monica, understandab                ... pos = 0.375 	neg = 0.625
+27. David looks and acts                ... pos = 0.625 	neg = 1.0  
+28. This part of the fil                ... pos = 0.125 	neg = 0.25 
+29. David comes with an                 ... pos = 1.125 	neg = 0.125
+30. If, after imprinting                ... pos = 0.375 	neg = 0.125
+31. At first, Monica doe                ... pos = 0.375 	neg = 0.375
+32. Then, almost impulsi                ... pos = 0.125 	neg = 0.0  
+33. Martin regains consc                ... pos = 0.125 	neg = 0    
+34. He's Henry and Monic                ... pos = 0.0   	neg = 0.0  
+35. Martin sees him as j                ... pos = 1.375 	neg = 0.5  
+36. After being taunted                 ... pos = 0.25  	neg = 0.25 
+37. The next day, under                 ... pos = 0.25  	neg = 0.0  
+38. Only she can't bear                 ... pos = 0.0   	neg = 0.125
+39. So she decides to le                ... pos = 0.0   	neg = 0.0  
+40. This is where my emo                ... pos = 0.625 	neg = 0.5  
+41. The scene in the for                ... pos = 0.989 	neg = 0.375
+42. But the scene is eve                ... pos = 0.375 	neg = 0.25 
+43. After all, David isn                ... pos = 0.25  	neg = 0.0  
+44. So isn't it like lea                ... pos = 0.625 	neg = 0.0  
+45. This is the genius o                ... pos = 0.25  	neg = 0.125
+46. He isn't going for p                ... pos = 1.125 	neg = 0.0  
+47. A.I.                                ... pos = 0.0   	neg = 0.0  
+48. then shifts in tone                 ... pos = 0.75  	neg = 0.5  
+49. " The head of the fa                ... pos = 0.0   	neg = 1.125
+50. David spends the res                ... pos = 0.875 	neg = 0.0  
+51. He wants to become a                ... pos = 1.125 	neg = 0.0  
+52. His companions are T                ... pos = 0.25  	neg = 0.125
+53. Joe was Kubrick's id                ... pos = 0.125 	neg = 0.125
+54. The film is insanely                ... pos = 0.5   	neg = 0.375
+55. It dares to regard t                ... pos = 1.625 	neg = 0    
+56. Why do we claim to h                ... pos = 0.875 	neg = 0.0  
+57. If we make a compute                ... pos = 0.0   	neg = 0.125
+58. In his third act, Sp                ... pos = 0.625 	neg = 0.25 
+59. Critics who gripe th                ... pos = 1.125 	neg = 0.875
+60. No matter how you in                ... pos = 0.0   	neg = 0.25 
+61. 's last few seconds,                ... pos = 1.5   	neg = 0.0  
+62. A.I.                                ... pos = 0.0   	neg = 0.0  
+63. is anchored by an am                ... pos = 0.375 	neg = 0.75 
+64. Jude Law, in his sho                ... pos = 1.0   	neg = 0.625
+65. I suppose it's not h                ... pos = 0.0   	neg = 1.25 
+66. It's Spielberg's mos                ... pos = 1.0   	neg = 0.0  
+67. Moviegoers were conf                ... pos = 0.125 	neg = 0.125
+68. If you had that reac                ... pos = 0.5   	neg = 0.0  
+69. This is the kind of                 ... pos = 0.0   	neg = 0.125
+70. Weeks after seeing i                ... pos = 0.0   	neg = 0.0  
+71. The image that has h                ... pos = 0.25  	neg = 0.0  
+72. "I am.                              ... pos = 0     	neg = 0.125
+73. I was.                              ... pos = 0     	neg = 0.125
+74. " . .                               ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4479-563 is Positive         ... pos = 37.489 	neg = 16.125
+Overall score of document
+Total Pos = 37.489
+Total Neg = 16.125
+---------------------------------------------------------------------------

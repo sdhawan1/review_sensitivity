@@ -1,0 +1,60 @@
+0. Ever wonder what hap                 ... pos = 0.0   	neg = 0.0  
+1. You remember, he was                 ... pos = 1.0   	neg = 0.125
+2. "  Always trying to                  ... pos = 0.625 	neg = 1.0  
+3. "So," you ask, "wher                 ... pos = 0.0   	neg = 0.125
+4. "  Mr. Kaplan actual                 ... pos = 0.875 	neg = 0.0  
+5. That's right.                        ... pos = 0.0   	neg = 0    
+6. I'm not sure if it's                 ... pos = 0.25  	neg = 0.0  
+7. And there you were,                  ... pos = 0.0   	neg = 0.375
+8. You silly goose.                     ... pos = 0     	neg = 0.25 
+9. Well, Gabe Kaplan is                 ... pos = 0.0   	neg = 0.125
+10. But ROUNDERS is abou                ... pos = 0.0   	neg = 0.625
+11. Sorry about the segu                ... pos = 0.0   	neg = 0.75 
+12. Matt Damon plays Mik                ... pos = 0.0   	neg = 0.125
+13. He's been playing fo                ... pos = 0.5   	neg = 0.125
+14. He goes to all the u                ... pos = 0.5   	neg = 0.0  
+15. In the beginning of                 ... pos = 0.0   	neg = 0.0  
+16. Mike is there to mak                ... pos = 0.0   	neg = 0.125
+17. Mike has the potenti                ... pos = 0.0   	neg = 0.0  
+18. Months later, he's p                ... pos = 0.0   	neg = 0.0  
+19. When Mike's best fri                ... pos = 1.0   	neg = 1.0  
+20. Although Mike has st                ... pos = 1.75  	neg = 0.25 
+21. To make a film about                ... pos = 1.375 	neg = 0.0  
+22. This is because few                 ... pos = 0.125 	neg = 0.125
+23. ROUNDERS, however, s                ... pos = 0.125 	neg = 0.125
+24. The card clubs Mike                 ... pos = 0.875 	neg = 0.25 
+25. There's a basement,                 ... pos = 0.375 	neg = 0.0  
+26. Except for one brief                ... pos = 1.125 	neg = 0.875
+27. The reason ROUNDERS                 ... pos = 0.75  	neg = 0.375
+28. We're given a nice s                ... pos = 1.625 	neg = 0.0  
+29. Matt Damon is very n                ... pos = 1.25  	neg = 0.25 
+30. Ed Norton's Worm is                 ... pos = 0.875 	neg = 0.625
+31. John Turturro, who a                ... pos = 0.75  	neg = 0.0  
+32. He's both a friend a                ... pos = 0.625 	neg = 0.25 
+33. Martin Landau is als                ... pos = 0.0   	neg = 0.25 
+34. While Landau slips w                ... pos = 1.375 	neg = 0.125
+35. Perhaps the weak lin                ... pos = 1.25  	neg = 0.75 
+36. She's a genuine peac                ... pos = 1.364 	neg = 0.625
+37. A good thing about R                ... pos = 1.75  	neg = 0.125
+38. The film is peppered                ... pos = 1.25  	neg = 0.375
+39. One game in a cigar                 ... pos = 0.0   	neg = 0.0  
+40. "I LOVE the sweetnes                ... pos = 1.25  	neg = 0.125
+41. I was hoping Mike an                ... pos = 0.0   	neg = 0.375
+42. With all the poker b                ... pos = 0.75  	neg = 0.625
+43. You might think you                 ... pos = 0.0   	neg = 0.5  
+44. Luckily, we're given                ... pos = 0.5   	neg = 0.0  
+45. The narrations are m                ... pos = 0.75  	neg = 0.75 
+46. It's nice that as th                ... pos = 1.5   	neg = 0.0  
+47. As a film about succ                ... pos = 0.125 	neg = 0.0  
+48. Wait!                               ... pos = 0     	neg = 0    
+49. As a film about the                 ... pos = 0.0   	neg = 0.125
+50. Hang on!                            ... pos = 0.0   	neg = 0    
+51. Packed with great ac                ... pos = 0.875 	neg = 0.125
+52. Okay, I guess that's                ... pos = 0     	neg = 0.125
+53. Oh, by the way, if y                ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5699-781 is Positive         ... pos = 29.364 	neg = 13.125
+Overall score of document
+Total Pos = 29.364
+Total Neg = 13.125
+---------------------------------------------------------------------------

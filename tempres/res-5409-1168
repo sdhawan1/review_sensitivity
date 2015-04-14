@@ -1,0 +1,16 @@
+0. THE MATRIX is possib                 ... pos = 0.375 	neg = 0.125
+1. This kung-fu laced s                 ... pos = 1.375 	neg = 1.125
+2. This review contain                  ... pos = 0.25  	neg = 1.5  
+3. Do discontinue your                  ... pos = 0.125 	neg = 0.0  
+4. I guess by now, word                 ... pos = 0.0   	neg = 0.0  
+5. So does it matter re                 ... pos = 0.0   	neg = 0.0  
+6. Oh well.                             ... pos = 0.0   	neg = 0.0  
+7. The story brings us                  ... pos = 0.125 	neg = 0.125
+8. Call it a bit of `si                 ... pos = 1.125 	neg = 0.375
+9. Thomas's obsession i                 ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5409-1168 is Positive        ... pos = 4.0   	neg = 3.375
+Overall score of document
+Total Pos = 4.0
+Total Neg = 3.375
+---------------------------------------------------------------------------

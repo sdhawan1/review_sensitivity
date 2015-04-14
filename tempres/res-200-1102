@@ -1,0 +1,53 @@
+0. Starring: John Cusac                 ... pos = 0.375 	neg = 0.0  
+1. ), Orsen Bean, and a                 ... pos = 0.0   	neg = 0.5  
+2. WOW!                                 ... pos = 0     	neg = 0    
+3. What a movie.                        ... pos = 0.0   	neg = 0.0  
+4. It's everything a mo                 ... pos = 0.625 	neg = 0.0  
+5. Yep that pretty much                 ... pos = 0.125 	neg = 0.125
+6. It starts out like a                 ... pos = 0.75  	neg = 0.0  
+7. It boggles the mind                  ... pos = 0.375 	neg = 0.0  
+8. Besides being one of                 ... pos = 1.25  	neg = 0.125
+9. Period.                              ... pos = 0.125 	neg = 0    
+10. Then again there are                ... pos = 1.0   	neg = 0.0  
+11. John Cusack plays a                 ... pos = 0.0   	neg = 0.0  
+12. His wife Lotte Schwa                ... pos = 0.375 	neg = 2.0  
+13. Craig finds a job as                ... pos = 0.0   	neg = 0.25 
+14. He is hired by his 1                ... pos = 0.0   	neg = 0.25 
+15. In his office, he di                ... pos = 0.0   	neg = 0.375
+16. To his curiosity he                 ... pos = 0.25  	neg = 0.0  
+17. Fifteen minutes late                ... pos = 0.375 	neg = 0.125
+18. He returns to tell h                ... pos = 0.5   	neg = 0.0  
+19. Lotte also finds out                ... pos = 1.0   	neg = 0.125
+20. John Malkovich of co                ... pos = 0.25  	neg = 0.625
+21. John Cusack is outst                ... pos = 0.75  	neg = 0.125
+22. He fits the role per                ... pos = 1.0   	neg = 0.125
+23. Cameron Diaz is outs                ... pos = 2.5   	neg = 0.5  
+24. She however gives a                 ... pos = 1.25  	neg = 0.125
+25. Catherine Keener is                 ... pos = 1.875 	neg = 0.375
+26. The whole group comb                ... pos = 0.875 	neg = 0.125
+27. Spike Jonze (Three K                ... pos = 2.5   	neg = 0.0  
+28. He lets the viewer g                ... pos = 0.75  	neg = 0.0  
+29. By the time the endi                ... pos = 0.0   	neg = 0.0  
+30. The screenplay writt                ... pos = 0.25  	neg = 0.125
+31. The film also had a                 ... pos = 0.625 	neg = 1.25 
+32. The whole movie was                 ... pos = 0.375 	neg = 0.125
+33. From Cameron Diaz's                 ... pos = 1.5   	neg = 0.875
+34. There isn't a slow p                ... pos = 0.0   	neg = 0.0  
+35. There are no cliches                ... pos = 0.75  	neg = 0.75 
+36. I found myself amaze                ... pos = 0.0   	neg = 0.0  
+37. By the end I had to                 ... pos = 0.0   	neg = 0.125
+38. Or why they don't.                  ... pos = 0     	neg = 0.0  
+39. All filmmakers watch                ... pos = 0.125 	neg = 0.0  
+40. This was a surprise                 ... pos = 0.5   	neg = 0.25 
+41. 'Being John Malkovic                ... pos = 0.375 	neg = 0.125
+42. It has something tha                ... pos = 0.25  	neg = 0.25 
+43. In fact it may as we                ... pos = 0.375 	neg = 0.125
+44. I highly recommend '                ... pos = 0.75  	neg = 0.375
+45. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+46. Brandon Herring Http                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-1102 is Positive         ... pos = 24.75 	neg = 10.25
+Overall score of document
+Total Pos = 24.75
+Total Neg = 10.25
+---------------------------------------------------------------------------

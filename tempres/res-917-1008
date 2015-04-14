@@ -1,0 +1,33 @@
+0. The movie is light a                 ... pos = 0.5   	neg = 0.125
+1. It never drags and i                 ... pos = 0.125 	neg = 0.875
+2. In case you haven't                  ... pos = 0.0   	neg = 0.0  
+3. K recruits young J (                 ... pos = 0.125 	neg = 0.0  
+4. Soon after J joins u                 ... pos = 0.25  	neg = 0.375
+5. Or something like th                 ... pos = 0     	neg = 0.0  
+6. As NEWSWEEK says, th                 ... pos = 0.0   	neg = 0.0  
+7. What does matter are                 ... pos = 1.5   	neg = 0.0  
+8. Tommy Lee Jones is t                 ... pos = 0.0   	neg = 0.125
+9. His K has been favor                 ... pos = 0.875 	neg = 0.125
+10. Everything in the mo                ... pos = 0.0   	neg = 0.125
+11. And Will Smith plays                ... pos = 1.25  	neg = 0.625
+12. Production designer                 ... pos = 1.0   	neg = 0.0  
+13. He designed EDWARD S                ... pos = 0.0   	neg = 0.0  
+14. That same bold carto                ... pos = 0.75  	neg = 0.5  
+15. The MiB testing room                ... pos = 0.0   	neg = 0.5  
+16. The main foyer of th                ... pos = 0.25  	neg = 1.375
+17. Once inside, the off                ... pos = 0.0   	neg = 0.375
+18. The script keeps the                ... pos = 0.25  	neg = 0.25 
+19. In fact, you may hav                ... pos = 0.125 	neg = 0.875
+20. Continuing the tradi                ... pos = 0.125 	neg = 0.25 
+21. Some of the fun in M                ... pos = 0.125 	neg = 0.25 
+22. I Found references t                ... pos = 0.5   	neg = 0.5  
+23. That's one more thin                ... pos = 0.5   	neg = 0.0  
+24. Though you will be r                ... pos = 0.375 	neg = 0.125
+25. It is a light and re                ... pos = 0.875 	neg = 0.125
+26. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-917-1008 is Positive         ... pos = 9.5   	neg = 7.5  
+Overall score of document
+Total Pos = 9.5
+Total Neg = 7.5
+---------------------------------------------------------------------------

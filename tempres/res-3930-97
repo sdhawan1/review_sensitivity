@@ -1,0 +1,42 @@
+0. RATING: *** 1/2 out                  ... pos = 0.875 	neg = 0.125
+1. This was, of course,                 ... pos = 0.5   	neg = 0.25 
+2. Not only did I get t                 ... pos = 0.125 	neg = 0.125
+3. The very fast-paced                  ... pos = 1.875 	neg = 0.0  
+4. Gibson's performance                 ... pos = 1.5   	neg = 0.25 
+5. Gibson again teams u                 ... pos = 0.0   	neg = 0.0  
+6. The character of Jer                 ... pos = 1.25  	neg = 0.125
+7. Try to imagine a ton                 ... pos = 0.375 	neg = 0.625
+8. If you can imagine t                 ... pos = 0.0   	neg = 0.5  
+9. In many ways, I was                  ... pos = 0.125 	neg = 0.125
+10. To begin with, I was                ... pos = 0.875 	neg = 0.25 
+11. Don't get me wrong,                 ... pos = 1.375 	neg = 1.0  
+12. Secondly, I was surp                ... pos = 0.125 	neg = 0.125
+13. He provided a fantas                ... pos = 0.375 	neg = 0.0  
+14. The previews of this                ... pos = 0.25  	neg = 0.25 
+15. Gibson's character h                ... pos = 2.5   	neg = 0.125
+16. For instance, Jerry'                ... pos = 0.25  	neg = 0.125
+17. And last, I was surp                ... pos = 0.875 	neg = 0.25 
+18. Writer Brian Helgela                ... pos = 1.375 	neg = 0.625
+19. Mel Gibson isn't the                ... pos = 0.0   	neg = 0.0  
+20. Julia Roberts is ver                ... pos = 2.375 	neg = 0.125
+21. He also seems obsess                ... pos = 0.625 	neg = 0.125
+22. But whenever he appr                ... pos = 0.5   	neg = 0.875
+23. Jerry, obviously det                ... pos = 0.625 	neg = 0.125
+24. Although he only has                ... pos = 0.125 	neg = 0.0  
+25. Very soon after he d                ... pos = 0.875 	neg = 0.125
+26. After barely escapin                ... pos = 0.125 	neg = 0.125
+27. The remainder of the                ... pos = 0.125 	neg = 0.5  
+28. And more along the w                ... pos = 0.0   	neg = 0.0  
+29. Many things are expl                ... pos = 1.125 	neg = 0.0  
+30. For instance, the me                ... pos = 0.125 	neg = 0.0  
+31. Lee Harvey Oswald an                ... pos = 0.5   	neg = 0.25 
+32. Make sure listen clo                ... pos = 0.375 	neg = 0.125
+33. Definitely, when CON                ... pos = 0.625 	neg = 0.0  
+34. I am nearly positive                ... pos = 1.125 	neg = 0.125
+35. And even if you aren                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3930-97 is Positive          ... pos = 23.875 	neg = 7.375
+Overall score of document
+Total Pos = 23.875
+Total Neg = 7.375
+---------------------------------------------------------------------------

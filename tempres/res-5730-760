@@ -1,0 +1,12 @@
+0. Director:   Roberto                 ... pos = 0     	neg = 0.0  
+1. US Distribution: Mir                 ... pos = 1.625 	neg = 0.125
+2. The film is actually                 ... pos = 0.125 	neg = 0.25 
+3. This portion of the                  ... pos = 0.25  	neg = 0.875
+4. But the slapstick to                 ... pos = 1.5   	neg = 0.625
+5. Overall, Life is Bea                 ... pos = 1.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5730-760 is Positive         ... pos = 4.75  	neg = 2.125
+Overall score of document
+Total Pos = 4.75
+Total Neg = 2.125
+---------------------------------------------------------------------------

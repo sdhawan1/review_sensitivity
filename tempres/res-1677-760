@@ -1,0 +1,44 @@
+0. Director:  Atom Ego                 ... pos = 0.75  	neg = 0.0  
+1. US Distribution:  F                 ... pos = 1.5   	neg = 0.875
+2. And there are films                  ... pos = 0.5   	neg = 0.125
+3. Egoyan's picture is                  ... pos = 1.625 	neg = 0.125
+4. It encased me from t                 ... pos = 0.0   	neg = 0.125
+5. Ian Holm leads the t                 ... pos = 0.0   	neg = 0.0  
+6. The story is non-lin                 ... pos = 0.125 	neg = 0.125
+7. Stephens, in what is                 ... pos = 0.125 	neg = 0.75 
+8. He convinces many of                 ... pos = 0.125 	neg = 0.25 
+9. Stephens is the main                 ... pos = 1.875 	neg = 0.25 
+10. The Sweet Hereafter                 ... pos = 0.875 	neg = 0.25 
+11. Later in the film th                ... pos = 0.25  	neg = 0.0  
+12. I can't simply state                ... pos = 1.125 	neg = 0.0  
+13. This is a film about                ... pos = 0.0   	neg = 0.125
+14. We get the feeling t                ... pos = 1.375 	neg = 0.125
+15. The characters depic                ... pos = 1.75  	neg = 0.0  
+16. Ian Holm, one of my                 ... pos = 0.0   	neg = 0.125
+17. It is so nice to see                ... pos = 0.125 	neg = 0.125
+18. He emits so much emo                ... pos = 0.75  	neg = 0.125
+19. At various points th                ... pos = 0.5   	neg = 0.125
+20. The look on his face                ... pos = 0.0   	neg = 1.0  
+21. Sarah Polley is subt                ... pos = 0.5   	neg = 0.125
+22. Her transition from                 ... pos = 0.25  	neg = 0.125
+23. Bruce Greenwood, who                ... pos = 1.625 	neg = 0.125
+24. He tries to start a                 ... pos = 0.125 	neg = 0.625
+25. The narrative struct                ... pos = 0.625 	neg = 0.125
+26. Egoyan's screenplay                 ... pos = 0.125 	neg = 0.75 
+27. Not unlike Anthony M                ... pos = 0.875 	neg = 0.875
+28. But what is differen                ... pos = 1.875 	neg = 0.25 
+29. The altered chronolo                ... pos = 0.125 	neg = 0.625
+30. Egoyan does not begi                ... pos = 0.625 	neg = 0.25 
+31. Stephens, at one cru                ... pos = 2.25  	neg = 0.25 
+32. Simple, direct, and                 ... pos = 0.5   	neg = 0    
+33. And that is exactly                 ... pos = 0.125 	neg = 0.25 
+34. There is not even a                 ... pos = 0.0   	neg = 0.375
+35. Swelling, saddening                 ... pos = 0.875 	neg = 0.25 
+36. This film is not abo                ... pos = 0.0   	neg = 2.0  
+37. In all of its simpli                ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1677-760 is Positive         ... pos = 24.75 	neg = 11.75
+Overall score of document
+Total Pos = 24.75
+Total Neg = 11.75
+---------------------------------------------------------------------------

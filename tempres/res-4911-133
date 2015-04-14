@@ -1,0 +1,26 @@
+0. "Never Been Kissed"                  ... pos = 0.75  	neg = 0.375
+1. " The latter movie,                  ... pos = 0.0   	neg = 0.125
+2. On the surface, "Nev                 ... pos = 0.0   	neg = 0.125
+3. Drew Barrymore is Jo                 ... pos = 0.375 	neg = 0.5  
+4. The first time aroun                 ... pos = 0.5   	neg = 0.625
+5. Between bad memories                 ... pos = 0.5   	neg = 1.5  
+6. South Glen South H.S                 ... pos = 0.0   	neg = 0    
+7. has it all: the soci                 ... pos = 0.25  	neg = 0.0  
+8. All of these are exp                 ... pos = 1.0   	neg = 0.0  
+9. The romance doesn't                  ... pos = 0.0   	neg = 0.0  
+10. In the proud traditi                ... pos = 0.875 	neg = 0.625
+11. "Never Been Kissed"                 ... pos = 0.25  	neg = 0.125
+12. Barrymore and Vartan                ... pos = 1.625 	neg = 0.0  
+13. Unlike many films in                ... pos = 0.125 	neg = 0.375
+14. David Arquette steal                ... pos = 0.875 	neg = 0.0  
+15. Through a hidden cam                ... pos = 0.0   	neg = 0.0  
+16. Even the closing cre                ... pos = 1.25  	neg = 0.0  
+17. "Never Been Kissed"                 ... pos = 1.5   	neg = 0.375
+18. (This review was ori                ... pos = 0.375 	neg = 0.125
+19. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4911-133 is Positive         ... pos = 10.25 	neg = 4.875
+Overall score of document
+Total Pos = 10.25
+Total Neg = 4.875
+---------------------------------------------------------------------------

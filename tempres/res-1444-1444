@@ -1,0 +1,60 @@
+0. Directed by Cameron                  ... pos = 0.0   	neg = 0.0  
+1. Starring Patrick Fug                 ... pos = 0.0   	neg = 0.0  
+2. Running time: 126 mi                 ... pos = 0     	neg = 0.0  
+3. Rated AA for coarse                  ... pos = 0.125 	neg = 0.0  
+4. Reviewed on October                  ... pos = 0.0   	neg = 0.0  
+5. "Almost Famous" is t                 ... pos = 0.0   	neg = 0.125
+6. The coming-of-age fi                 ... pos = 0.25  	neg = 0.25 
+7. But "Almost Famous"                  ... pos = 0.0   	neg = 0.0  
+8. Writer/director Came                 ... pos = 0.864 	neg = 0.375
+9. Certainly, the close                 ... pos = 1.375 	neg = 0.125
+10. Like William Miller                 ... pos = 0.25  	neg = 0.125
+11. It is not hard to im                ... pos = 0.375 	neg = 1.375
+12. While there has no d                ... pos = 1.5   	neg = 0.375
+13. As a result, instead                ... pos = 2.375 	neg = 0.0  
+14. He is transformed an                ... pos = 0.5   	neg = 0.125
+15. William (Patrick Fug                ... pos = 0.25  	neg = 0.125
+16. William's university                ... pos = 0.0   	neg = 0.75 
+17. Her efforts have alr                ... pos = 0.75  	neg = 0.0  
+18. Anita, though, leave                ... pos = 0.25  	neg = 0.625
+19. Bangs' encouragement                ... pos = 0.125 	neg = 0.0  
+20. With Elaine's grudgi                ... pos = 0.25  	neg = 0.0  
+21. Originally intending                ... pos = 0.25  	neg = 0.0  
+22. Along the way, he cu                ... pos = 0.125 	neg = 0.0  
+23. The crowning glory o                ... pos = 1.375 	neg = 0.125
+24. There is not a throw                ... pos = 0.25  	neg = 0.5  
+25. Newcomer Fugit is a                 ... pos = 0.0   	neg = 0.125
+26. William could easily                ... pos = 0.5   	neg = 0.0  
+27. His William is unusu                ... pos = 0.125 	neg = 0.125
+28. William is sensible                 ... pos = 0.75  	neg = 0.25 
+29. He is an innocent, b                ... pos = 0.125 	neg = 0.625
+30. Also terrific is Hud                ... pos = 0.25  	neg = 0.125
+31. Penny Lane, we learn                ... pos = 0.25  	neg = 0.25 
+32. (It is probably no m                ... pos = 0.25  	neg = 0.375
+33. ) Penny is an enigma                ... pos = 1.75  	neg = 0.125
+34. Crudup is well-cast                 ... pos = 0.0   	neg = 0.75 
+35. Russell is a musicia                ... pos = 1.25  	neg = 0.25 
+36. Bebe, Stillwater's f                ... pos = 0.5   	neg = 0.75 
+37. He is as much findin                ... pos = 0.125 	neg = 0.125
+38. Finally, McDormand d                ... pos = 0.75  	neg = 0.0  
+39. Having already lost                 ... pos = 0.0   	neg = 1.5  
+40. Her inner conflict i                ... pos = 0.0   	neg = 0.125
+41. Crowe has also assem                ... pos = 2.5   	neg = 0.0  
+42. Crowe's pacing is te                ... pos = 0.5   	neg = 0.125
+43. Not unexpectedly, Cr                ... pos = 0.625 	neg = 0.375
+44. Indeed, Crowe's only                ... pos = 0.0   	neg = 0.375
+45. Intended to spark em                ... pos = 1.25  	neg = 0.625
+46. This may have been i                ... pos = 0.25  	neg = 0.625
+47. Even a bit of levity                ... pos = 0.125 	neg = 0.0  
+48. Even this miscue can                ... pos = 0.125 	neg = 0.0  
+49. Wonderfully written                 ... pos = 0.625 	neg = 1.25 
+50. This is the best mov                ... pos = 0.375 	neg = 0.125
+51. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+52. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+53. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1444-1444 is Positive        ... pos = 24.739 	neg = 14.0 
+Overall score of document
+Total Pos = 24.739
+Total Neg = 14.0
+---------------------------------------------------------------------------

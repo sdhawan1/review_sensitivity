@@ -1,0 +1,34 @@
+0. Written by: Hilary H                 ... pos = 0.75  	neg = 1.25 
+1. Do events drive publ                 ... pos = 0.0   	neg = 0.0  
+2. In WAG THE DOG, it's                 ... pos = 0.375 	neg = 0.625
+3. This fun spoof is a                  ... pos = 0.125 	neg = 0.5  
+4. Eleven days before t                 ... pos = 0.25  	neg = 0.0  
+5. Although the Preside                 ... pos = 0.375 	neg = 0.375
+6. Winifred, Conrad, an                 ... pos = 0.25  	neg = 0.25 
+7. To rally the America                 ... pos = 0.0   	neg = 1.375
+8. Just as Ronald Reaga                 ... pos = 1.25  	neg = 1.25 
+9. Will the eleven-day                  ... pos = 0.25  	neg = 0    
+10. Opinion: I figure th                ... pos = 0.0   	neg = 0.0  
+11. Frankly, WAG THE DOG                ... pos = 0.25  	neg = 0.75 
+12. WAG THE DOG is a fin                ... pos = 1.0   	neg = 0.75 
+13. The running gag is t                ... pos = 0.0   	neg = 0.625
+14. Although in theory t                ... pos = 0.25  	neg = 0.0  
+15. The media is the fou                ... pos = 0.625 	neg = 0.25 
+16. A racial minority al                ... pos = 0.0   	neg = 0.0  
+17. Which angle sells mo                ... pos = 0.0   	neg = 0.0  
+18. In the O.J.                         ... pos = 0.0   	neg = 0.0  
+19. Simpson case the pre                ... pos = 0.0   	neg = 0.0  
+20. In Cunanan/Versace (                ... pos = 0.125 	neg = 0.125
+21. Impartial news, or j                ... pos = 0.0   	neg = 0.125
+22. A Middle Eastern min                ... pos = 0.0   	neg = 0.0  
+23. Which angle sells th                ... pos = 0.0   	neg = 0.0  
+24. The drunk driving an                ... pos = 0.0   	neg = 0.0  
+25. "  The answer, of co                ... pos = 0.0   	neg = 0.125
+26. Let's ask ourselves.                ... pos = 0     	neg = 0.0  
+27. Are we being hooked                 ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4231-416 is Negative         ... pos = 6.375 	neg = 8.375
+Overall score of document
+Total Pos = 6.375
+Total Neg = 8.375
+---------------------------------------------------------------------------

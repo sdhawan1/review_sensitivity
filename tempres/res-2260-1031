@@ -1,0 +1,19 @@
+0. YOUR FRIENDS & NEIGH                 ... pos = 0.875 	neg = 0.0  
+1. Jerry decides to ini                 ... pos = 0.875 	neg = 0.0  
+2. The long  100 minute                 ... pos = 0.0   	neg = 1.875
+3. All of the bed-hoppi                 ... pos = 1.0   	neg = 0.5  
+4. The blame may be in                  ... pos = 1.625 	neg = 1.125
+5. Particularly whup-wo                 ... pos = 0.5   	neg = 0.25 
+6. Stiller and Eckhart                  ... pos = 1.125 	neg = 0.375
+7. The women's roles ar                 ... pos = 0.125 	neg = 0.0  
+8. Keener and Brenneman                 ... pos = 0.875 	neg = 0.75 
+9. In "In the Company                   ... pos = 0.375 	neg = 0.125
+10. The  antagonists' be                ... pos = 0.375 	neg = 0.25 
+11. Save a  seat for me,                ... pos = 0.0   	neg = 0.0  
+12. I'm coming with you.                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2260-1031 is Positive        ... pos = 7.75  	neg = 5.25 
+Overall score of document
+Total Pos = 7.75
+Total Neg = 5.25
+---------------------------------------------------------------------------

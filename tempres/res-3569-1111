@@ -1,0 +1,19 @@
+0. REVIEW: There's Some                 ... pos = 1.375 	neg = 0.625
+1. Just in case you wan                 ... pos = 0.5   	neg = 0.375
+2. The Farley brothers,                 ... pos = 1.25  	neg = 1.0  
+3. There's not only som                 ... pos = 1.75  	neg = 0.0  
+4. That's why Ted (Ben                  ... pos = 0.25  	neg = 0.0  
+5. But Pat begins to fa                 ... pos = 1.0   	neg = 0.625
+6. The good news is tha                 ... pos = 0.75  	neg = 1.375
+7. To subside for the f                 ... pos = 0.375 	neg = 0.25 
+8. All of the cast shin                 ... pos = 1.0   	neg = 1.0  
+9. Cameron Diaz is also                 ... pos = 1.375 	neg = 1.875
+10. After a long, long t                ... pos = 1.25  	neg = 0.75 
+11. It's up there with T                ... pos = 1.5   	neg = 1.0  
+12. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3569-1111 is Positive        ... pos = 12.625 	neg = 8.875
+Overall score of document
+Total Pos = 12.625
+Total Neg = 8.875
+---------------------------------------------------------------------------

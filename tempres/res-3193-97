@@ -1,0 +1,48 @@
+0. RATING: *** out of *                 ... pos = 1.75  	neg = 0.25 
+1. And, like many of th                 ... pos = 0.25  	neg = 0.125
+2. From horror and thri                 ... pos = 0.375 	neg = 0.125
+3. In my opinion, SCREA                 ... pos = 1.25  	neg = 0.125
+4. It is about, of cour                 ... pos = 0.0   	neg = 0.625
+5. The killer will not                  ... pos = 0.625 	neg = 0.5  
+6. The movie begins in                  ... pos = 0.0   	neg = 0.125
+7. In the middle of her                 ... pos = 0.875 	neg = 0.125
+8. At first, the caller                 ... pos = 0.75  	neg = 0.125
+9. That is, until Casey                 ... pos = 1.5   	neg = 0.75 
+10. He makes very seriou                ... pos = 0.75  	neg = 0.0  
+11. The caller informs C                ... pos = 0.125 	neg = 0.0  
+12. The game is a very s                ... pos = 0.625 	neg = 0.125
+13. If she gets them wro                ... pos = 0.0   	neg = 0.875
+14. If she answers corre                ... pos = 0.125 	neg = 0    
+15. Unfortunately for Ca                ... pos = 0.125 	neg = 1.25 
+16. The next day at, the                ... pos = 0.0   	neg = 0.125
+17. The high school is c                ... pos = 0.0   	neg = 0.125
+18. Gale Weathers is not                ... pos = 0.75  	neg = 0.125
+19. Gale was one of the                 ... pos = 0.375 	neg = 0.875
+20. Gale continually ins                ... pos = 0.375 	neg = 1.0  
+21. However, Sidney does                ... pos = 0.625 	neg = 0.0  
+22. After the school day                ... pos = 0.25  	neg = 0.125
+23. Sidney, probably mos                ... pos = 0.875 	neg = 0.25 
+24. Her father is on a b                ... pos = 0.625 	neg = 0.125
+25. They agree that at s                ... pos = 0.125 	neg = 0.0  
+26. Somehow, Sidney fall                ... pos = 0.125 	neg = 0.25 
+27. She is awakened a li                ... pos = 0.375 	neg = 0.375
+28. It's Tatum, informin                ... pos = 0.625 	neg = 0.125
+29. However, when the ph                ... pos = 0.125 	neg = 0.0  
+30. Sidney, too, falls v                ... pos = 0.125 	neg = 0.625
+31. After the attack, Si                ... pos = 0.0   	neg = 0.0  
+32. However, when Sidney                ... pos = 0.875 	neg = 0.75 
+33. Billy is arrested an                ... pos = 0.375 	neg = 0.125
+34. Another interesting                 ... pos = 0.0   	neg = 0.5  
+35. Dewey (David Arquett                ... pos = 0.25  	neg = 0.75 
+36. However, it becomes                 ... pos = 0.5   	neg = 0.75 
+37. >From here, the terr                ... pos = 1.375 	neg = 0.875
+38. However, the killer'                ... pos = 0.375 	neg = 0.25 
+39. The rest of the even                ... pos = 0.75  	neg = 0.125
+40. If you are a fan of                 ... pos = 1.5   	neg = 0.875
+41. And if you *really*                 ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3193-97 is Positive          ... pos = 21.375 	neg = 14.375
+Overall score of document
+Total Pos = 21.375
+Total Neg = 14.375
+---------------------------------------------------------------------------

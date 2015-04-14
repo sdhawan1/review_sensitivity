@@ -1,0 +1,34 @@
+0. A mysterious big ali                 ... pos = 0.5   	neg = 0.125
+1. The inevitable team                  ... pos = 0.25  	neg = 0.0  
+2. "Sphere" may not be                  ... pos = 0.0   	neg = 0.5  
+3. They'd have to try h                 ... pos = 0.0   	neg = 1.0  
+4. So, while a film of                  ... pos = 0.75  	neg = 0.875
+5. But it is, yessiree.                 ... pos = 0.0   	neg = 0.125
+6. Unfortunately, it's                  ... pos = 0.5   	neg = 4.0  
+7. The setup is this: a                 ... pos = 0.0   	neg = 0.125
+8. )   starship is foun                 ... pos = 0.0   	neg = 0.125
+9. Obviously this is a                  ... pos = 0.25  	neg = 0.125
+10. Alas, they have to m                ... pos = 0.0   	neg = 0.625
+11. Inevitably, a storm                 ... pos = 0.0   	neg = 0.5  
+12. That setup is hardly                ... pos = 0.0   	neg = 0.75 
+13. A military  sidekick                ... pos = 0.125 	neg = 0.125
+14. As Sharon Stone (wit                ... pos = 0.625 	neg = 1.0  
+15. I can't imagine the                 ... pos = 0.0   	neg = 0.5  
+16. "  Even more  ludicr                ... pos = 0.375 	neg = 0.125
+17. (Stone's faux-dyke c                ... pos = 0.5   	neg = 0.375
+18. )  Samuel L  Jackson                ... pos = 0.875 	neg = 0.0  
+19. Later, the whiny  as                ... pos = 0.0   	neg = 1.25 
+20. Stone  decides that                 ... pos = 0.375 	neg = 0.375
+21. Slap in the fact the                ... pos = 0.0   	neg = 0.125
+22. There is one good mo                ... pos = 1.25  	neg = 0.375
+23. But this is one dull                ... pos = 0.0   	neg = 0.375
+24. Barry Levison has do                ... pos = 0.125 	neg = 0.0  
+25. [*/misfire] and extr                ... pos = 0.0   	neg = 0.25 
+26. -- paul-michael agap                ... pos = 0.75  	neg = 1.5  
+27. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3564-993 is Negative         ... pos = 7.25  	neg = 15.25
+Overall score of document
+Total Pos = 7.25
+Total Neg = 15.25
+---------------------------------------------------------------------------

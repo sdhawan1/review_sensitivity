@@ -1,0 +1,33 @@
+0. Directed by: Randall                 ... pos = 0.75  	neg = 0.125
+1. THE MAN IN THE IRON                  ... pos = 0.0   	neg = 0.0  
+2. It's an action drama                 ... pos = 0.0   	neg = 0.0  
+3. The first hour and a                 ... pos = 0.125 	neg = 0.375
+4. Basically it takes n                 ... pos = 0.0   	neg = 0.375
+5. The last half hour i                 ... pos = 0.0   	neg = 0.125
+6. They try to secretly                 ... pos = 1.25  	neg = 0.75 
+7. Meanwhile their dear                 ... pos = 1.25  	neg = 0.875
+8. In the end we learn                  ... pos = 1.125 	neg = 0.875
+9. THE MAN IN THE IRON                  ... pos = 0.5   	neg = 0.125
+10. Dumas wrote the th                ... pos = 0.125 	neg = 0.0  
+11. LE VICOMTE DE BRAGEL                ... pos = 0.125 	neg = 0.25 
+12. Opinion:  Fans of TI                ... pos = 0.5   	neg = 0.0  
+13. THE MAN IN THE IRON                 ... pos = 0.0   	neg = 0.0  
+14. Unfortunately, THE M                ... pos = 0.0   	neg = 1.625
+15. Only the last half h                ... pos = 0.0   	neg = 0.0  
+16. In addition, the scr                ... pos = 0.25  	neg = 0.0  
+17. For example, the mov                ... pos = 3.125 	neg = 1.0  
+18. " Instead of showing                ... pos = 0.75  	neg = 0.375
+19. "  Or instead of sho                ... pos = 2.125 	neg = 0.0  
+20. " Put simply, the di                ... pos = 0.25  	neg = 0.25 
+21. The other deficiency                ... pos = 0.875 	neg = 0.25 
+22. For example, when At                ... pos = 0.5   	neg = 0.875
+23. But nobody in the au                ... pos = 0.25  	neg = 0.0  
+24. Later of course, Ath                ... pos = 0.0   	neg = 0.0  
+25. In THE MAN IN THE IR                ... pos = 0.25  	neg = 0.375
+26. But a good solid foc                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5987-416 is Positive         ... pos = 15.125 	neg = 8.625
+Overall score of document
+Total Pos = 15.125
+Total Neg = 8.625
+---------------------------------------------------------------------------

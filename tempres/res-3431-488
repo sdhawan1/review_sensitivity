@@ -1,0 +1,71 @@
+0. Starring Sean Conner                 ... pos = 0.25  	neg = 0.625
+1. Over the last few da                 ... pos = 0.0   	neg = 0.875
+2. All anybody seems to                 ... pos = 0.375 	neg = 0.375
+3. I'm really beginning                 ... pos = 0.0   	neg = 0.0  
+4. I didn't think that                  ... pos = 0.25  	neg = 0.125
+5. Especially not consi                 ... pos = 0.125 	neg = 0    
+6. This may sound a bit                 ... pos = 0.0   	neg = 0.0  
+7. As far as I know, th                 ... pos = 0.0   	neg = 0.125
+8. So it seems perfectl                 ... pos = 1.875 	neg = 0.125
+9. Many of the critics                  ... pos = 0.0   	neg = 0.0  
+10. Some have even sugge                ... pos = 0.0   	neg = 0.125
+11. Streep might be a gr                ... pos = 0.75  	neg = 1.0  
+12. I guarantee you that                ... pos = 0.25  	neg = 0.875
+13. Young guys aren't go                ... pos = 0.0   	neg = 0.0  
+14. They certainly aren'                ... pos = 0.5   	neg = 0.125
+15. Am I just a sexist p                ... pos = 0.0   	neg = 0.125
+16. Or is it just realis                ... pos = 0.25  	neg = 0.125
+17. And Catherine Zeta-J                ... pos = 0.125 	neg = 0.125
+18. I'd like to see Ange                ... pos = 0.75  	neg = 0.375
+19. And now, our feature                ... pos = 0.0   	neg = 0    
+20. Entrapment is what I                ... pos = 0.0   	neg = 0.875
+21. It is your typical b                ... pos = 0.125 	neg = 0.125
+22. It is all style and                 ... pos = 0.125 	neg = 0.25 
+23. Although, it does ma                ... pos = 0.0   	neg = 0.0  
+24. The chemistry that S                ... pos = 0.0   	neg = 0.125
+25. Quite frankly, I got                ... pos = 0.0   	neg = 0.875
+26. He is still one of t                ... pos = 0.0   	neg = 0.25 
+27. Zeta-Jones, in addit                ... pos = 1.625 	neg = 0.25 
+28. Her beauty gives her                ... pos = 1.25  	neg = 0.125
+29. The combination of C                ... pos = 1.25  	neg = 0.0  
+30. The supporting cast                 ... pos = 0.75  	neg = 0.125
+31. Entrapment focuses o                ... pos = 0.0   	neg = 0.75 
+32. She has set her sigh                ... pos = 0.0   	neg = 0.0  
+33. In order to catch hi                ... pos = 0.875 	neg = 0.0  
+34. She does so by prete                ... pos = 0.5   	neg = 0.25 
+35. He agrees, and the t                ... pos = 0.375 	neg = 0.75 
+36. Of course, this is H                ... pos = 0.125 	neg = 0.125
+37. I don't think that I                ... pos = 0.125 	neg = 0.875
+38. Entrapment doesn't c                ... pos = 0.0   	neg = 0.75 
+39. Connery still looks                 ... pos = 0.25  	neg = 0.375
+40. I suppose that it's                 ... pos = 0.625 	neg = 0.0  
+41. Catherine Zeta-Jones                ... pos = 0.5   	neg = 0.0  
+42. She held her own aga                ... pos = 0.25  	neg = 0.875
+43. I would go so far as                ... pos = 0.0   	neg = 0.0  
+44. Contrary to popular                 ... pos = 0.375 	neg = 0.0  
+45. She was an accomplis                ... pos = 0.0   	neg = 0.25 
+46. Her experience shows                ... pos = 0.0   	neg = 0.75 
+47. The Mask Of Zorro mi                ... pos = 0.125 	neg = 1.25 
+48. Ving Rhames plays a                 ... pos = 0.0   	neg = 0.125
+49. He is the man who pr                ... pos = 0.375 	neg = 0.125
+50. Will Patton is also                 ... pos = 0.125 	neg = 0.125
+51. Both Rhames and Patt                ... pos = 0.0   	neg = 0.375
+52. The plot was a bit o                ... pos = 0.0   	neg = 0.125
+53. Most of the question                ... pos = 0.125 	neg = 0.875
+54. So, I for one, wasn'                ... pos = 0.0   	neg = 0.0  
+55. And the twists and t                ... pos = 0.0   	neg = 0.0  
+56. Entrapment is a grea                ... pos = 0.0   	neg = 0.875
+57. And I'm not just tal                ... pos = 0.0   	neg = 0.0  
+58. Director Jon Amiel m                ... pos = 0.0   	neg = 0.0  
+59. The high tech robber                ... pos = 0.75  	neg = 0.375
+60. Even as fantastic as                ... pos = 0.625 	neg = 0.125
+61. Entrapment is a ligh                ... pos = 0.5   	neg = 0.875
+62. The story is a fun o                ... pos = 0.375 	neg = 0.125
+63. Of course none of th                ... pos = 0.25  	neg = 0.75 
+64. I'm going to go out                 ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-3431-488 is Negative         ... pos = 17.875 	neg = 20.75
+Overall score of document
+Total Pos = 17.875
+Total Neg = 20.75
+---------------------------------------------------------------------------

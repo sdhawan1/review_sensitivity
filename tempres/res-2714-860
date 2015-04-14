@@ -1,0 +1,54 @@
+0. HOLLYWOOD PICTURES A                 ... pos = 0.625 	neg = 0.375
+1. Director M. Night Sh                 ... pos = 0.125 	neg = 0.0  
+2. The film opens with                  ... pos = 0.5   	neg = 0.0  
+3. Intoxicated and rela                 ... pos = 1.0   	neg = 0.375
+4. Unable to cope with                  ... pos = 0.25  	neg = 0.0  
+5. Several months later                 ... pos = 0.125 	neg = 0.125
+6. Disenchanted over th                 ... pos = 0.75  	neg = 0.375
+7. His chance comes whe                 ... pos = 1.25  	neg = 1.375
+8. Slowly, Cole and Dr.                 ... pos = 0.0   	neg = 0.625
+9. Slowly Dr. Crowe sta                 ... pos = 0.125 	neg = 0.875
+10. His investigation an                ... pos = 0.5   	neg = 0.0  
+11. In a remarkably deft                ... pos = 1.0   	neg = 0.0  
+12. The script by Mr. Sh                ... pos = 0.0   	neg = 0.125
+13. And when the ghosts                 ... pos = 0.625 	neg = 0.125
+14. The best filmic comp                ... pos = 0.375 	neg = 0.125
+15. What Mr. Shyamalan h                ... pos = 1.25  	neg = 0.125
+16. The performances are                ... pos = 1.375 	neg = 0.25 
+17. What showed as a pro                ... pos = 0.0   	neg = 0.25 
+18. What young Mr. Osman                ... pos = 0.75  	neg = 0.375
+19. With the subtlety of                ... pos = 0.5   	neg = 0.125
+20. Within five minutes                 ... pos = 0.375 	neg = 0.0  
+21. I hereby cast my vot                ... pos = 0.625 	neg = 0.0  
+22. Mr. Osmant is more t                ... pos = 0.5   	neg = 0.125
+23. Bruce Willis, always                ... pos = 1.5   	neg = 0.125
+24. His slow realization                ... pos = 1.5   	neg = 0.875
+25. An underrated perfor                ... pos = 0.375 	neg = 0.0  
+26. Bringing nuance and                 ... pos = 0.875 	neg = 0.625
+27. The best surprise in                ... pos = 0.375 	neg = 0.125
+28. Unlike other film re                ... pos = 1.0   	neg = 0.5  
+29. The depth of her con                ... pos = 1.0   	neg = 0.0  
+30. Also, while not bein                ... pos = 1.125 	neg = 0.0  
+31. From her early recog                ... pos = 0.125 	neg = 0.125
+32. And those two qualit                ... pos = 0.875 	neg = 0    
+33. To comment on M. Nig                ... pos = 0.75  	neg = 0.25 
+34. Never does the camer                ... pos = 0.0   	neg = 0.0  
+35. The cinematography b                ... pos = 0.125 	neg = 0.25 
+36. Mr. Shyamalan's hand                ... pos = 0.125 	neg = 0.125
+37. Most notably is a se                ... pos = 0.0   	neg = 0.375
+38. The slow, almost cau                ... pos = 0.375 	neg = 0.5  
+39. In his earlier film                 ... pos = 1.25  	neg = 0.0  
+40. Here, with this film                ... pos = 0.0   	neg = 0.125
+41. Without revealing th                ... pos = 1.5   	neg = 0.125
+42. But the ultimate rea                ... pos = 0.5   	neg = 0.125
+43. On a scale of one to                ... pos = 0.0   	neg = 0.0  
+44. A marvelously creepy                ... pos = 0.25  	neg = 0.0  
+45. One that will have y                ... pos = 0.125 	neg = 0.0  
+46. Copyright Š 1999 R.                ... pos = 0.75  	neg = 0.375
+47. The Dungeon Master's                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-860 is Positive         ... pos = 27.125 	neg = 10.375
+Overall score of document
+Total Pos = 27.125
+Total Neg = 10.375
+---------------------------------------------------------------------------

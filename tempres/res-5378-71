@@ -1,0 +1,55 @@
+0. A Film Review by Mar                 ... pos = 0.5   	neg = 0.0  
+1. He's talking about p                 ... pos = 0.625 	neg = 0.0  
+2. Not getting mail has                 ... pos = 0.5   	neg = 1.0  
+3. Parts  of "You've Go                 ... pos = 0.25  	neg = 0.125
+4. This film reminds us                 ... pos = 0.25  	neg = 0.125
+5. One reason "You've G                 ... pos = 0.625 	neg = 0.25 
+6. First, New York City                 ... pos = 2.25  	neg = 0.125
+7. In fact we witness t                 ... pos = 0.875 	neg = 0.625
+8. The dwellings are al                 ... pos = 0.875 	neg = 0.125
+9. Likewise, Kathleen s                 ... pos = 0.125 	neg = 0.0  
+10. All over the apartme                ... pos = 0.0   	neg = 0    
+11. ), and hosts of othe                ... pos = 0.0   	neg = 0.0  
+12. This story, after al                ... pos = 0.0   	neg = 0.125
+13. ". Then there are th                ... pos = 0.25  	neg = 0.0  
+14. Joe and Kathleen use                ... pos = 0.75  	neg = 0.625
+15. The scenes  involvin                ... pos = 0.25  	neg = 0.0  
+16. Nice modern touches                 ... pos = 0.0   	neg = 0.0  
+17. "  . It's a modern t                ... pos = 0.25  	neg = 0.125
+18. When Joe first meets                ... pos = 0.125 	neg = 0.5  
+19. This is Kathleen in                 ... pos = 0.125 	neg = 0.375
+20. We hear some of her                 ... pos = 0.125 	neg = 0.0  
+21. Her mother did thing                ... pos = 0.0   	neg = 0.25 
+22. Aside from a few sho                ... pos = 0.625 	neg = 0.75 
+23. Kathleen asks a wise                ... pos = 0.125 	neg = 0.0  
+24. "  The answer is tha                ... pos = 0.0   	neg = 0.875
+25. Of course the closin                ... pos = 0.875 	neg = 0.0  
+26. It's inevitable that                ... pos = 0.125 	neg = 0    
+27. The feuding that sta                ... pos = 0.125 	neg = 0.0  
+28. When "shopgirl" take                ... pos = 0.125 	neg = 0.0  
+29. Naturally, the advic                ... pos = 0.125 	neg = 0.875
+30. The sentiment, "It's                ... pos = 0.5   	neg = 0.0  
+31. Tom Hanks, already t                ... pos = 2.0   	neg = 0.125
+32. Probably it will com                ... pos = 0.375 	neg = 0.0  
+33. "  Hanks continues                  ... pos = 0.25  	neg = 0.125
+34. In his tiniest  expr                ... pos = 1.125 	neg = 0    
+35. What makes Hanks  a                 ... pos = 0.75  	neg = 0.125
+36. Similar to Joe, Kath                ... pos = 0.375 	neg = 0    
+37. She is dynamic  beca                ... pos = 1.375 	neg = 0.625
+38. Ryan is best in her                 ... pos = 1.0   	neg = 0.792
+39. Unlike Ephron's "Sle                ... pos = 1.25  	neg = 0.0  
+40. (The supporting char                ... pos = 0.875 	neg = 0.0  
+41. )  Much of the plot,                ... pos = 1.5   	neg = 0.0  
+42. We know what's going                ... pos = 0.0   	neg = 0.125
+43. What redeems  the na                ... pos = 0.0   	neg = 0.125
+44. Scenes in which Ryan                ... pos = 1.25  	neg = 0.0  
+45. Thanks again to the                 ... pos = 0.25  	neg = 0.0  
+46. It's not crucial, Ho                ... pos = 0.5   	neg = 0.0  
+47. Take the family alon                ... pos = 0.5   	neg = 0.125
+48. ". . .                              ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5378-71 is Positive          ... pos = 24.75 	neg = 9.042
+Overall score of document
+Total Pos = 24.75
+Total Neg = 9.042
+---------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+0. "That's not the poin                 ... pos = 0.5   	neg = 0.0  
+1. ". Starring Russell                  ... pos = 0.0   	neg = 0.0  
+2. Rated R.. I don't ha                 ... pos = 1.75  	neg = 0.25 
+3. Subtlety is not alwa                 ... pos = 1.25  	neg = 0.75 
+4. But an audience shou                 ... pos = 0.0   	neg = 0.25 
+5. Do that and you insu                 ... pos = 0.25  	neg = 0.25 
+6. Michael Mann's much                  ... pos = 1.375 	neg = 0.75 
+7. The film comes on so                 ... pos = 0.625 	neg = 0.5  
+8. Mann is working with                 ... pos = 0.125 	neg = 0.875
+9. Our favorite thespia                 ... pos = 0.375 	neg = 0.125
+10. He is forced to sign                ... pos = 0.25  	neg = 0.125
+11. Should he break the                 ... pos = 0.375 	neg = 0.375
+12. In the meantime he i                ... pos = 0.75  	neg = 0.125
+13. " Lowell believes, c                ... pos = 1.0   	neg = 0.125
+14. More specifically, W                ... pos = 1.125 	neg = 0.0  
+15. This is pretty impor                ... pos = 0.875 	neg = 0.5  
+16. Lowell is determined                ... pos = 0.5   	neg = 0.375
+17. They resort to (alle                ... pos = 0.0   	neg = 0.0  
+18. Basis?                              ... pos = 0     	neg = 0.0  
+19. Assisting Weigand in                ... pos = 0.125 	neg = 0    
+20. The lawyer for CBS,                 ... pos = 1.125 	neg = 0.875
+21. Running an exorbitan                ... pos = 0.375 	neg = 0.0  
+22. It's bloated and sel                ... pos = 0.0   	neg = 0.5  
+23. The result is a mess                ... pos = 0.0   	neg = 1.125
+24. Since when is it a r                ... pos = 0.0   	neg = 0.25 
+25. After all, though fi                ... pos = 2.0   	neg = 0.0  
+26. Today's directors ne                ... pos = 0.0   	neg = 0.25 
+27. What is the movie tr                ... pos = 0.0   	neg = 0.625
+28. Journalistic integri                ... pos = 2.5   	neg = 0.125
+29. The problem?                        ... pos = 0     	neg = 0.25 
+30. Well, a) it's not ex                ... pos = 0.875 	neg = 0.0  
+31. It even goes so far                 ... pos = 0.875 	neg = 0.0  
+32. At the two hour poin                ... pos = 0.75  	neg = 0.125
+33. " at the screen.                    ... pos = 0.0   	neg = 0.0  
+34. But The Insider show                ... pos = 0.0   	neg = 0.0  
+35. There will not be a                 ... pos = 0.375 	neg = 0.125
+36. Russell Crowe and Al                ... pos = 0.5   	neg = 0.0  
+37. They both give explo                ... pos = 0.25  	neg = 0.0  
+38. The standout, I thin                ... pos = 1.25  	neg = 0.375
+39. If anyone deserves a                ... pos = 1.125 	neg = 0.375
+40. I can't wait until h                ... pos = 0.0   	neg = 0.625
+41. A little subtlety ne                ... pos = 0.0   	neg = 0.25 
+42. It shouldn't be so s                ... pos = 0.875 	neg = 0.125
+43. A film has to hold o                ... pos = 0.5   	neg = 0.0  
+44. Viewer intimidation                 ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6183-563 is Positive         ... pos = 25.375 	neg = 11.5 
+Overall score of document
+Total Pos = 25.375
+Total Neg = 11.5
+---------------------------------------------------------------------------

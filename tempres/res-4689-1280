@@ -1,0 +1,30 @@
+0. Meet Joe Black (Revi                 ... pos = 0.0   	neg = 0.0  
+1. That's all that real                 ... pos = 0.75  	neg = 0.375
+2. Death decides to tak                 ... pos = 0.0   	neg = 0.125
+3. Death assumes the bo                 ... pos = 0.125 	neg = 0.625
+4. For one thing, Death                 ... pos = 0.625 	neg = 0.25 
+5. Obviously this enrag                 ... pos = 0.0   	neg = 0.0  
+6. Besides eternal damn                 ... pos = 0.25  	neg = 0.0  
+7. There is also a sub-                 ... pos = 0.0   	neg = 0.625
+8. "Meet Joe Black" run                 ... pos = 0.125 	neg = 0.0  
+9. I've always thought                  ... pos = 0.5   	neg = 0.75 
+10. "Meet Joe Black" is                 ... pos = 0.125 	neg = 0.75 
+11. Every single scene i                ... pos = 0.0   	neg = 0.625
+12. And the ending takes                ... pos = 0.0   	neg = 0.0  
+13. A severe editing job                ... pos = 1.75  	neg = 0.25 
+14. Pitt, an actor I nor                ... pos = 0.0   	neg = 0.125
+15. I believed his perfo                ... pos = 1.625 	neg = 0.0  
+16. I have to agree with                ... pos = 0.125 	neg = 1.0  
+17. That has nothing to                 ... pos = 0.0   	neg = 0.625
+18. Hopkins gives his us                ... pos = 1.125 	neg = 0    
+19. He's able to portray                ... pos = 0.625 	neg = 1.0  
+20. And in her first maj                ... pos = 1.0   	neg = 0.125
+21. She has a sweet tend                ... pos = 0.625 	neg = 0.0  
+22. So, "Meet Joe Black"                ... pos = 0.75  	neg = 0.75 
+23. Had the film been cu                ... pos = 0.375 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-4689-1280 is Positive        ... pos = 10.5  	neg = 8.5  
+Overall score of document
+Total Pos = 10.5
+Total Neg = 8.5
+---------------------------------------------------------------------------

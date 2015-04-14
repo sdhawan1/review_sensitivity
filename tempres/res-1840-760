@@ -1,0 +1,20 @@
+0. Director:  Warren B                 ... pos = 2.75  	neg = 3.125
+1.   . Beatty plays in                 ... pos = 0.75  	neg = 0.125
+2.   He's not stark ra                 ... pos = 1.0   	neg = 0.0  
+3.   It's the final we                 ... pos = 0.0   	neg = 0.75 
+4.   Bulworth begins t                 ... pos = 1.375 	neg = 0.625
+5. "  "Well," he shout                 ... pos = 0.0   	neg = 0.5  
+6. ". The story is prop                 ... pos = 0.125 	neg = 1.125
+7.   Bulworth also mee                 ... pos = 0.375 	neg = 0    
+8.   Suddenly, in the                  ... pos = 0.0   	neg = 0.125
+9. Beatty's work on bot                 ... pos = 7.125 	neg = 1.375
+10.   Beatty is so much                ... pos = 2.375 	neg = 0.125
+11.   Beatty is so good                ... pos = 2.5   	neg = 0.25 
+12. The supporting cast                 ... pos = 5.375 	neg = 0.5  
+13. Is Bulworth offensiv                ... pos = 2.875 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1840-760 is Positive         ... pos = 26.625 	neg = 9.125
+Overall score of document
+Total Pos = 26.625
+Total Neg = 9.125
+---------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+0. Starring Tea Leoni,                  ... pos = 0.25  	neg = 0.375
+1. The fact that both o                 ... pos = 0.0   	neg = 0.0  
+2. Now, Deep Impact is                  ... pos = 0.375 	neg = 0.875
+3. Freeman is the Presi                 ... pos = 0.25  	neg = 1.0  
+4. Everest is careening                 ... pos = 0.0   	neg = 1.25 
+5. In three separate st                 ... pos = 0.0   	neg = 0    
+6. Leoni is an MSNBC re                 ... pos = 0.375 	neg = 0.125
+7. Duvall is a veteran                  ... pos = 0.0   	neg = 0.125
+8. (These are the best                  ... pos = 1.25  	neg = 0.5  
+9. ) And Wood is a teen                 ... pos = 1.125 	neg = 0.875
+10. After the boring The                ... pos = 0.0   	neg = 0.125
+11. " She handles the ma                ... pos = 0.125 	neg = 0.0  
+12. As well, by followin                ... pos = 1.75  	neg = 0.125
+13. I also didn't buy Wo                ... pos = 0.0   	neg = 0.125
+14. Yet the gripping mom                ... pos = 0.625 	neg = 0.0  
+15. I really enjoyed the                ... pos = 0.5   	neg = 0.0  
+16. Freeman and Duvall a                ... pos = 1.0   	neg = 0.125
+17. In addition, wheneve                ... pos = 0.75  	neg = 0.75 
+18. One thing's for sure                ... pos = 1.375 	neg = 1.125
+19. -Bill Chambers; May,                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1674-1545 is Positive        ... pos = 9.875 	neg = 7.5  
+Overall score of document
+Total Pos = 9.875
+Total Neg = 7.5
+---------------------------------------------------------------------------

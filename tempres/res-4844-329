@@ -1,0 +1,38 @@
+0. One reason I think J                 ... pos = 0.5   	neg = 0.25 
+1. Known internationall                 ... pos = 0.75  	neg = 0.0  
+2. More recently, his f                 ... pos = 0.125 	neg = 0.0  
+3. This was mostly due                  ... pos = 0.375 	neg = 0.125
+4. Chan's latest, Shang                 ... pos = 0.375 	neg = 0.0  
+5. This is  basically R                 ... pos = 0.0   	neg = 0.125
+6. While this may seem                  ... pos = 0.25  	neg = 0.375
+7. Shanghai Noon is the                 ... pos = 0.0   	neg = 0.375
+8. Chon Wang (Jackie Ch                 ... pos = 0.125 	neg = 0.25 
+9. She actually went vo                 ... pos = 0.0   	neg = 0.625
+10. Roy O'Bannon (Owen W                ... pos = 0.25  	neg = 1.375
+11. About five thrilling                ... pos = 0.5   	neg = 0.0  
+12. Many adventures invo                ... pos = 1.875 	neg = 0.375
+13. Shanghai Noon is pro                ... pos = 1.125 	neg = 0.25 
+14. The fish out of wate                ... pos = 0.875 	neg = 0.0  
+15. As the chatty and se                ... pos = 0.375 	neg = 0.0  
+16. He provides a nice a                ... pos = 0.0   	neg = 0.25 
+17. Much of the film's h                ... pos = 0.375 	neg = 0.0  
+18. When a Western  coup                ... pos = 0.375 	neg = 0.375
+19. Similar jokes involv                ... pos = 0.625 	neg = 0.25 
+20. However, the film is                ... pos = 1.125 	neg = 0.375
+21. In addition to some                 ... pos = 0.25  	neg = 0.0  
+22. These too get effect                ... pos = 0.5   	neg = 0.25 
+23. Jackie Chan  retains                ... pos = 1.125 	neg = 0.0  
+24. Pei Pei gets to kick                ... pos = 0.0   	neg = 0.25 
+25. Lucy Liu, who will s                ... pos = 0.125 	neg = 1.125
+26. It's  nice to see a                 ... pos = 0.875 	neg = 0.0  
+27. This movie has the                  ... pos = 0.375 	neg = 0.625
+28. I'm not sure  exactl                ... pos = 0.875 	neg = 0.25 
+29. It is not only a bet                ... pos = 0.125 	neg = 0.5  
+30. After  the film ends                ... pos = 0.25  	neg = 0.0  
+31. This movie embodies                 ... pos = 0.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-4844-329 is Positive         ... pos = 14.625 	neg = 9.0  
+Overall score of document
+Total Pos = 14.625
+Total Neg = 9.0
+---------------------------------------------------------------------------

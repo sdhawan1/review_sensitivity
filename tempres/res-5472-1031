@@ -1,0 +1,31 @@
+0. 20th Century Fox / 1                 ... pos = 1.5   	neg = 1.625
+1. It's actually a smar                 ... pos = 1.0   	neg = 0.125
+2. "Great Expectations"                 ... pos = 1.125 	neg = 0.125
+3. " . "Great Expectati                 ... pos = 0.75  	neg = 0.75 
+4. There's icy, 11-year                 ... pos = 0.5   	neg = 0.0  
+5. Finn, who lives with                 ... pos = 1.25  	neg = 0.0  
+6. Flash forward into t                 ... pos = 0.75  	neg = 0.875
+7. There, Finn seems to                 ... pos = 0.75  	neg = 0.25 
+8. When Estella resurfa                 ... pos = 1.125 	neg = 0.0  
+9. But she's not the on                 ... pos = 0.0   	neg = 0.125
+10. Comparisons with the                ... pos = 1.375 	neg = 0.125
+11. "Great Expectations"                ... pos = 1.75  	neg = 0.375
+12. The movie is a visua                ... pos = 1.25  	neg = 0.125
+13. The eclectic rock so                ... pos = 0.875 	neg = 0.0  
+14. Acting credits are f                ... pos = 0.25  	neg = 0.0  
+15. Hawke is sincere and                ... pos = 0.75  	neg = 0.25 
+16. Paltrow's  Estella,                 ... pos = 0.5   	neg = 0.125
+17. While the actress  i                ... pos = 3.0   	neg = 0.875
+18. Robert De Niro is ni                ... pos = 2.625 	neg = 0.25 
+19. Alfonso Cuaron's vis                ... pos = 0.75  	neg = 0.0  
+20. Another problem is p                ... pos = 0.0   	neg = 0.25 
+21. Despite its script                  ... pos = 0.5   	neg = 0.5  
+22. And frankly, it's ni                ... pos = 1.0   	neg = 0.0  
+23. Perhaps that  renova                ... pos = 1.0   	neg = 0.0  
+24. Š 1998 Jamie Peck                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5472-1031 is Positive        ... pos = 24.375 	neg = 6.75 
+Overall score of document
+Total Pos = 24.375
+Total Neg = 6.75
+---------------------------------------------------------------------------

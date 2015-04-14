@@ -1,0 +1,19 @@
+0. Written by Brad Bird                 ... pos = 0.125 	neg = 0.125
+1. The killing machine                  ... pos = 0.5   	neg = 0.25 
+2. Unfortunately for Ho                 ... pos = 0.875 	neg = 1.0  
+3. Opinion: Great casti                 ... pos = 0.0   	neg = 0    
+4. FRIENDS waitress Jen                 ... pos = 0.125 	neg = 0.125
+5. Crooner Harry Connic                 ... pos = 0.0   	neg = 0.25 
+6. In THE IRON GIANT Co                 ... pos = 0.0   	neg = 0.0  
+7. Both Aniston and Con                 ... pos = 0.125 	neg = 0    
+8. The artwork's pretty                 ... pos = 0     	neg = 0.375
+9. It's late 50s style,                 ... pos = 0.25  	neg = 0.0  
+10. THE IRON GIANT plays                ... pos = 1.125 	neg = 0.125
+11. Bring the family.                   ... pos = 0.0   	neg = 0    
+12. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1126-416 is Positive         ... pos = 3.125 	neg = 2.375
+Overall score of document
+Total Pos = 3.125
+Total Neg = 2.375
+---------------------------------------------------------------------------

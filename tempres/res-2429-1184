@@ -1,0 +1,34 @@
+0. STARRING:  Al Pacino                 ... pos = 2.875 	neg = 0.0  
+1. When they succeed, t                 ... pos = 1.5   	neg = 0.0  
+2. When they fail, they                 ... pos = 0.0   	neg = 0.625
+3. Whether you call the                 ... pos = 0.375 	neg = 0.0  
+4. Which brings us to T                 ... pos = 0.875 	neg = 0.0  
+5. It's not hard to see                 ... pos = 0.5   	neg = 0.875
+6. It's this passion, b                 ... pos = 0.5   	neg = 0.0  
+7. D'Amato (Pacino, loo                 ... pos = 0.75  	neg = 0.5  
+8. Luckily, third-strin                 ... pos = 0.75  	neg = 0.625
+9. Not so luckily, he's                 ... pos = 0.75  	neg = 0.125
+10. To make D'Amato's pr                ... pos = 1.125 	neg = 1.0  
+11. To her, the players-                ... pos = 0.25  	neg = 0.125
+12. Then there's team do                ... pos = 0.25  	neg = 0.375
+13. Worst of all is spor                ... pos = 0.375 	neg = 0.5  
+14. If there were any li                ... pos = 0.5   	neg = 0.25 
+15. None of these charac                ... pos = 1.5   	neg = 0.25 
+16. This is not to say t                ... pos = 0.375 	neg = 0.125
+17. The camera pans in b                ... pos = 0.125 	neg = 0.0  
+18. The hits are huge, b                ... pos = 0.75  	neg = 0.25 
+19. What really makes An                ... pos = 1.25  	neg = 0.0  
+20. Football players hav                ... pos = 0.75  	neg = 0.125
+21. Like the hapless cha                ... pos = 0.625 	neg = 1.125
+22. The only thing the h                ... pos = 1.0   	neg = 0.125
+23. Even more than Quaid                ... pos = 1.375 	neg = 0.25 
+24. Former New York Gian                ... pos = 0.5   	neg = 0.0  
+25. Any Given Sunday is                 ... pos = 0.5   	neg = 0.5  
+26. It may be bigger, ri                ... pos = 1.5   	neg = 0.25 
+27. In that, the worlds                 ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2429-1184 is Positive        ... pos = 22.75 	neg = 8.0  
+Overall score of document
+Total Pos = 22.75
+Total Neg = 8.0
+---------------------------------------------------------------------------

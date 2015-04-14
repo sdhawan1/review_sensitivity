@@ -1,0 +1,28 @@
+0. Review by Lars Linda                 ... pos = 0.0   	neg = 0.0  
+1. Carson, David Keith,                 ... pos = 0.125 	neg = 0.0  
+2. I had lost all faith                 ... pos = 0.25  	neg = 0.0  
+3. The last dozen or so                 ... pos = 1.75  	neg = 0.125
+4. However, after seein                 ... pos = 0.625 	neg = 0.125
+5. Both films are as in                 ... pos = 1.125 	neg = 0.75 
+6. Even better, I didn'                 ... pos = 0.875 	neg = 0.125
+7. Everyone loves surpr                 ... pos = 0.625 	neg = 0    
+8. U-571 looked like an                 ... pos = 0.125 	neg = 0.125
+9. This may be true, bu                 ... pos = 1.125 	neg = 1.25 
+10. Set during the early                ... pos = 0.5   	neg = 0.0  
+11. There's only one pro                ... pos = 0.0   	neg = 0.125
+12. It is now up to the                 ... pos = 0.0   	neg = 0.125
+13. The film starts off                 ... pos = 0.5   	neg = 1.625
+14. Once the crew gets o                ... pos = 0.0   	neg = 0.125
+15. As soon as the actio                ... pos = 0.75  	neg = 0.25 
+16. This is not a movie                 ... pos = 1.125 	neg = 0.875
+17. The best parts of U-                ... pos = 0.75  	neg = 0.125
+18. Throughout the movie                ... pos = 1.25  	neg = 0.0  
+19. Germans gun down the                ... pos = 0.5   	neg = 0.25 
+20. All of these example                ... pos = 0.75  	neg = 0.0  
+21. They also make U-571                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2114-778 is Positive         ... pos = 13.0  	neg = 6.0  
+Overall score of document
+Total Pos = 13.0
+Total Neg = 6.0
+---------------------------------------------------------------------------

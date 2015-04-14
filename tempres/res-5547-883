@@ -1,0 +1,38 @@
+0. Bruce Willis is a ty                 ... pos = 0.0   	neg = 0.125
+1. In Die Hard, he play                 ... pos = 0.0   	neg = 2.5  
+2. Again, in Pulp Ficti                 ... pos = 0.0   	neg = 0.75 
+3. In Luc Besson's The                  ... pos = 0.375 	neg = 1.125
+4. A stylish science fi                 ... pos = 0.5   	neg = 0.0  
+5. An enormous spacecra                 ... pos = 0.25  	neg = 0.75 
+6. Cut to present day,                  ... pos = 0.0   	neg = 0.125
+7. The year is 2023, an                 ... pos = 0.375 	neg = 0.25 
+8. The only basic diffe                 ... pos = 1.375 	neg = 0.25 
+9. Anyway, the "evil" c                 ... pos = 0.0   	neg = 0.5  
+10. " In the process, ho                ... pos = 0.125 	neg = 0.25 
+11. When officials arriv                ... pos = 0.0   	neg = 0.125
+12. What can you do with                ... pos = 0.0   	neg = 0.0  
+13. Hey, its the 21st Ce                ... pos = 0.125 	neg = 0    
+14. This hand turns out                 ... pos = 1.375 	neg = 0.0  
+15. She escapes and, att                ... pos = 0.0   	neg = 1.0  
+16. It's love at first s                ... pos = 1.0   	neg = 0.25 
+17. When Leeloo begins m                ... pos = 0.875 	neg = 0.5  
+18. Now, Korben, Leeloo,                ... pos = 0.5   	neg = 0.375
+19. It is here, where th                ... pos = 0.125 	neg = 1.0  
+20. He, too, wants posse                ... pos = 0.125 	neg = 0.25 
+21. In a spectacular end                ... pos = 0.125 	neg = 0.125
+22. The question is a go                ... pos = 0.75  	neg = 0.25 
+23. But enough of that.                 ... pos = 0     	neg = 0.0  
+24. When Korben points o                ... pos = 1.5   	neg = 0.125
+25. The Fifth Element fe                ... pos = 2.194 	neg = 0.375
+26. The supporting cast,                ... pos = 0.625 	neg = 0.25 
+27. Although Besson's Th                ... pos = 0.75  	neg = 0.25 
+28. Some other directors                ... pos = 0.0   	neg = 0.0  
+29. Ideas from Star Wars                ... pos = 0.0   	neg = 0.125
+30. Sci-fi fan or not, a                ... pos = 0.5   	neg = 0.0  
+31. Grade: A-, ****1/2 o                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5547-883 is Positive         ... pos = 13.569 	neg = 11.625
+Overall score of document
+Total Pos = 13.569
+Total Neg = 11.625
+---------------------------------------------------------------------------

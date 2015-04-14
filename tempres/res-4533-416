@@ -1,0 +1,19 @@
+0. Written by: David Se                 ... pos = 0.0   	neg = 0.75 
+1. Little do they know,                 ... pos = 0.625 	neg = 0.25 
+2. Marrow (Liam Neeson)                 ... pos = 0.5   	neg = 0.75 
+3. Soon enough the thre                 ... pos = 0.0   	neg = 0.5  
+4. Opinion: The movie t                 ... pos = 0.0   	neg = 0.0  
+5. Nothing really excit                 ... pos = 0.375 	neg = 0.25 
+6. In the second half,                  ... pos = 0.0   	neg = 0.25 
+7. These are great effe                 ... pos = 0.25  	neg = 0.5  
+8. Like, how come every                 ... pos = 0.0   	neg = 0.125
+9. Accompanying a suici                 ... pos = 1.0   	neg = 0.0  
+10. Also shouldn't they                 ... pos = 0.0   	neg = 0.0  
+11. Great effects, but w                ... pos = 0.0   	neg = 0.25 
+12. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4533-416 is Negative         ... pos = 2.75  	neg = 3.75 
+Overall score of document
+Total Pos = 2.75
+Total Neg = 3.75
+---------------------------------------------------------------------------

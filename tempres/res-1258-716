@@ -1,0 +1,27 @@
+0. The Lost World (PG-1                 ... pos = 0.0   	neg = 0    
+1. Screenplay by David                  ... pos = 0.0   	neg = 0.0  
+2. Based on the novel b                 ... pos = 0.0   	neg = 0.0  
+3. Starring Jeff Goldbl                 ... pos = 0     	neg = 0.0  
+4. Let's start with the                 ... pos = 0.875 	neg = 0.125
+5. The special effects                  ... pos = 1.0   	neg = 0.5  
+6. Jeff Goldblum return                 ... pos = 1.125 	neg = 0.0  
+7. It has all the neces                 ... pos = 0.0   	neg = 0.0  
+8. Now for the bad news                 ... pos = 0.0   	neg = 0.875
+9. First of all, the pl                 ... pos = 0.25  	neg = 0.125
+10. Humans manage to pis                ... pos = 0     	neg = 0.625
+11. The main characters                 ... pos = 1.25  	neg = 0.125
+12. The only difference                 ... pos = 0.5   	neg = 0.125
+13. It also sinks even f                ... pos = 0.375 	neg = 0.0  
+14. Perhaps in an attemp                ... pos = 0.375 	neg = 0.75 
+15. It doesn't always wo                ... pos = 1.375 	neg = 1.5  
+16. It also tries to pus                ... pos = 0.75  	neg = 0.625
+17. eco-terrorists.                     ... pos = 0     	neg = 0    
+18. This is not to take                 ... pos = 0.25  	neg = 1.0  
+19. I just don't think t                ... pos = 0.875 	neg = 0.25 
+20. Like Independence Da                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1258-716 is Positive         ... pos = 9.125 	neg = 7.0  
+Overall score of document
+Total Pos = 9.125
+Total Neg = 7.0
+---------------------------------------------------------------------------

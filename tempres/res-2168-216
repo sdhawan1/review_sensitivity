@@ -1,0 +1,45 @@
+0. Let me get this off                  ... pos = 0.125 	neg = 0.625
+1. I mean it.                           ... pos = 0.0   	neg = 0.0  
+2. I'd love nothing mor                 ... pos = 0.625 	neg = 0.875
+3. I'm not a violent pe                 ... pos = 0.875 	neg = 0.0  
+4. By contrast, I adore                 ... pos = 1.375 	neg = 0.0  
+5. Rarely seen without                  ... pos = 0.375 	neg = 0.5  
+6. Chan's secret: he pl                 ... pos = 0.25  	neg = 0.625
+7. " Now THAT'S dedicat                 ... pos = 0.125 	neg = 0    
+8. The pairing of these                 ... pos = 1.625 	neg = 0.25 
+9. Did director Brett R                 ... pos = 0.0   	neg = 0.0  
+10. Happily, yes.                       ... pos = 0     	neg = 0.25 
+11. "Rush Hour" is a wil                ... pos = 1.5   	neg = 0.5  
+12. James Carter (Tucker                ... pos = 0.125 	neg = 0.75 
+13. After his latest und                ... pos = 1.0   	neg = 0.75 
+14. Their chance arrives                ... pos = 0.5   	neg = 0.125
+15. The politician, Mr.                 ... pos = 0.25  	neg = 0.125
+16. The American authori                ... pos = 0.875 	neg = 0.625
+17. Our heroes, naturall                ... pos = 0.125 	neg = 0.25 
+18. "Rush Hour" crackles                ... pos = 0.125 	neg = 0.0  
+19. Tucker is more restr                ... pos = 1.25  	neg = 0.375
+20. (Incidentally, Tucke                ... pos = 0.5   	neg = 1.25 
+21. ")  I think I know w                ... pos = 1.125 	neg = 1.125
+22. I guess I only find                 ... pos = 0.875 	neg = 0.0  
+23. Chan is also in top                 ... pos = 1.25  	neg = 0.625
+24. The two finest momen                ... pos = 0.625 	neg = 0.125
+25. And yes, like all of                ... pos = 0.375 	neg = 0.0  
+26. One of the reasons "                ... pos = 1.0   	neg = 0.375
+27. Granted, the plot is                ... pos = 1.25  	neg = 0.625
+28. Over the course of t                ... pos = 1.875 	neg = 0.0  
+29. Toss in the standard                ... pos = 0.75  	neg = 0.625
+30. The final cherry on                 ... pos = 0.0   	neg = 0.25 
+31. Is "Rush Hour" breat                ... pos = 0.0   	neg = 0.125
+32. Hardly.                             ... pos = 0     	neg = 0.0  
+33. Is it a whole lot of                ... pos = 0.125 	neg = 0.125
+34. Very much so.                       ... pos = 0.625 	neg = 0.0  
+35. The laughs are frequ                ... pos = 1.125 	neg = 0.25 
+36. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+37. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+38. Thanks.. .                          ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2168-216 is Positive         ... pos = 23.375 	neg = 12.25
+Overall score of document
+Total Pos = 23.375
+Total Neg = 12.25
+---------------------------------------------------------------------------

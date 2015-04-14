@@ -1,0 +1,49 @@
+0. THE DEVIL'S ADVOCATE                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 1.0   	neg = 0.5  
+3. The protagonist of T                 ... pos = 1.75  	neg = 0.25 
+4. Kevin's courtroom re                 ... pos = 0.5   	neg = 0.5  
+5. As victimized school                 ... pos = 0.75  	neg = 0.875
+6. ") recounts her accu                 ... pos = 0.125 	neg = 0.0  
+7. Nonetheless, Kevin                   ... pos = 0.5   	neg = 0.0  
+8. Kevin's good, but th                 ... pos = 0.75  	neg = 0.0  
+9. Fortunately, a bigge                 ... pos = 2.25  	neg = 0.25 
+10. Falling under the wi                ... pos = 0.625 	neg = 0.125
+11. Although it's not ex                ... pos = 0.25  	neg = 0.75 
+12. Even Milton himself                 ... pos = 1.125 	neg = 1.75 
+13. While in this respec                ... pos = 1.75  	neg = 0.25 
+14. Due not only to the                 ... pos = 0.875 	neg = 1.125
+15. As the conclusion of                ... pos = 1.875 	neg = 0.875
+16. Still, Mr. Pacino ma                ... pos = 0.375 	neg = 0.125
+17. While a few    actor                ... pos = 0.75  	neg = 1.5  
+18. This is the perfect                 ... pos = 1.25  	neg = 0.625
+19. By the end of the fi                ... pos = 2.75  	neg = 0.625
+20. Mr. Pacino seems to                 ... pos = 1.125 	neg = 0.125
+21. He's way over the to                ... pos = 0.875 	neg = 1.25 
+22. His physical perform                ... pos = 0.0   	neg = 0.5  
+23. Ms. Theron's attempt                ... pos = 0.125 	neg = 0.875
+24. She often has a star                ... pos = 1.375 	neg = 0.875
+25. Judith Ivey's role,                 ... pos = 0.0   	neg = 1.125
+26. You dread her    sol                ... pos = 0.5   	neg = 0.125
+27. Still, as insufferab                ... pos = 1.0   	neg = 0.125
+28. THE DEVIL'S ADVOCATE                ... pos = 1.489 	neg = 0.5  
+29. I was stunned and th                ... pos = 1.25  	neg = 1.125
+30. After teasing at a p                ... pos = 0.5   	neg = 0.625
+31. Technically, THE DEV                ... pos = 2.375 	neg = 0.75 
+32. The film is cast rem                ... pos = 0.625 	neg = 0.75 
+33. Mr. Hackford's helmi                ... pos = 0.0   	neg = 0.875
+34. There are too many                  ... pos = 1.125 	neg = 1.125
+35. Mr. Hackford also go                ... pos = 0.25  	neg = 0.5  
+36. Once or twice is eno                ... pos = 0.0   	neg = 1.0  
+37. All the same, THE DE                ... pos = 2.375 	neg = 0.75 
+38. There's a    scene w                ... pos = 0.75  	neg = 0.0  
+39. You talk too much.                  ... pos = 0.125 	neg = 0.25 
+40. "    What, and lose                 ... pos = 0.125 	neg = 0.0  
+41. -- Alex Fung (aw220@                ... pos = 0.625 	neg = 0.0  
+42. " - Parker Posey, TH                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6270-717 is Positive         ... pos = 35.989 	neg = 23.625
+Overall score of document
+Total Pos = 35.989
+Total Neg = 23.625
+---------------------------------------------------------------------------

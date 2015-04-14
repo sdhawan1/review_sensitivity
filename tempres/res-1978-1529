@@ -1,0 +1,41 @@
+0. When I watch Nick at                 ... pos = 0.625 	neg = 0.0  
+1. Shows like `Leave It                 ... pos = 1.25  	neg = 0.5  
+2. David (Tobey Maguire                 ... pos = 0.0   	neg = 0.25 
+3. One day in preparati                 ... pos = 0.125 	neg = 0.0  
+4. During the brief fig                 ... pos = 0.0   	neg = 0    
+5. Magically and withou                 ... pos = 0.375 	neg = 0.0  
+6. With the press of a                  ... pos = 0.25  	neg = 0.0  
+7. The two teens are in                 ... pos = 1.5   	neg = 0.0  
+8. Their new parents ar                 ... pos = 1.375 	neg = 0.0  
+9. The father (William                  ... pos = 0.125 	neg = 0    
+10. The mother (Joan All                ... pos = 0.0   	neg = 0.0  
+11. Pleasantville, at fi                ... pos = 0.25  	neg = 0.125
+12. Upon further study,                 ... pos = 0.375 	neg = 0.25 
+13. Things begin to chan                ... pos = 0.5   	neg = 0.0  
+14. These `coloreds' are                ... pos = 0.875 	neg = 0.0  
+15. The film continues o                ... pos = 1.0   	neg = 0.25 
+16. The movie, itself, i                ... pos = 1.0   	neg = 0.125
+17. The way that black a                ... pos = 0.875 	neg = 0.25 
+18. I wouldn't be surpri                ... pos = 0.5   	neg = 0.25 
+19. The acting is also g                ... pos = 0.0   	neg = 0.125
+20. Tobey Maguire and Re                ... pos = 0.0   	neg = 0.0  
+21. Although it is reall                ... pos = 0.625 	neg = 0.125
+22. Walsh, Jeff Daniels,                ... pos = 0.5   	neg = 0.0  
+23. The leads have the m                ... pos = 1.125 	neg = 0.25 
+24. Pleasantville is an                 ... pos = 0.0   	neg = 0.625
+25. In fact, it is far t                ... pos = 0.0   	neg = 0.375
+26. Instead of concentra                ... pos = 0.25  	neg = 0.0  
+27. After only one scree                ... pos = 0.125 	neg = 0.0  
+28. With so much taking                 ... pos = 0.125 	neg = 0.125
+29. Pleasantville runs a                ... pos = 0.125 	neg = 0.625
+30. While some of the sc                ... pos = 0.375 	neg = 0.375
+31. Better editing would                ... pos = 0.625 	neg = 0.0  
+32. Pleasantville still                 ... pos = 0.25  	neg = 0.125
+33. While it is about 20                ... pos = 1.125 	neg = 0.625
+34. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1978-1529 is Positive        ... pos = 16.25 	neg = 5.375
+Overall score of document
+Total Pos = 16.25
+Total Neg = 5.375
+---------------------------------------------------------------------------

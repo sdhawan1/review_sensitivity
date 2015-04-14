@@ -1,0 +1,34 @@
+0. Several months after                 ... pos = 0.125 	neg = 0.375
+1. This one is written                  ... pos = 0.375 	neg = 0.125
+2. There is some of the                 ... pos = 0.875 	neg = 0.125
+3. There's a catch.                     ... pos = 0.0   	neg = 0.0  
+4. No one in PLEASANTVI                 ... pos = 0.875 	neg = 0.125
+5. David's boss at the                  ... pos = 0.25  	neg = 0.0  
+6. .                                    ... pos = 0     	neg = 0    
+7. .                                    ... pos = 0     	neg = 0    
+8. kept wiping.                         ... pos = 0.0   	neg = 0.0  
+9. " No one actually le                 ... pos = 0.5   	neg = 0.25 
+10. The bathrooms don't                 ... pos = 0.25  	neg = 0.125
+11. The firemen only kno                ... pos = 0.375 	neg = 0.0  
+12. For a while, it seem                ... pos = 0.0   	neg = 0.625
+13. As David and Jennife                ... pos = 0.0   	neg = 0.0  
+14. Ross makes a poor ch                ... pos = 0.125 	neg = 0.875
+15. This isn't handled p                ... pos = 0.625 	neg = 0.25 
+16. The movie reaches wh                ... pos = 0.0   	neg = 1.0  
+17. " (The scene does, a                ... pos = 1.0   	neg = 0.875
+18. "). Fortunately, PLE                ... pos = 0.5   	neg = 0.25 
+19. The only other obvio                ... pos = 0.125 	neg = 0.125
+20. And for the most par                ... pos = 0.375 	neg = 0.0  
+21. With the arrival of                 ... pos = 0.875 	neg = 0    
+22. It clouds over and r                ... pos = 0.75  	neg = 0.375
+23. The town's leaders t                ... pos = 0.375 	neg = 0.125
+24. By the end of PLEASA                ... pos = 0.625 	neg = 1.375
+25. It's not quite as po                ... pos = 1.0   	neg = 0.0  
+26. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+27. Film Reviews Page: h                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1978-716 is Positive         ... pos = 10.0  	neg = 7.0  
+Overall score of document
+Total Pos = 10.0
+Total Neg = 7.0
+---------------------------------------------------------------------------

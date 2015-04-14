@@ -1,0 +1,73 @@
+0. Cast: Tom Cruise, Do                 ... pos = 0.0   	neg = 0.0  
+1. Writers: Robert Town                 ... pos = 0.0   	neg = 0.0  
+2. Director: John Woo.                  ... pos = 0.0   	neg = 0.0  
+3. Review by Scott Hunt                 ... pos = 0.0   	neg = 0.0  
+4. Visit me at Movie Hu                 ... pos = 0.5   	neg = 0.625
+5. Fact is, they might                  ... pos = 0.0   	neg = 0.625
+6. The pair, under the                  ... pos = 0.25  	neg = 0.5  
+7. It's a star turn for                 ... pos = 0.0   	neg = 0.0  
+8. It's just a shame he                 ... pos = 0.0   	neg = 0.75 
+9. In paring down uness                 ... pos = 0.0   	neg = 0.125
+10. Relationships are le                ... pos = 0.5   	neg = 0.0  
+11. They've tried to mak                ... pos = 1.0   	neg = 0.5  
+12. Even the main story                 ... pos = 0.0   	neg = 1.0  
+13. Mission Impossible a                ... pos = 0.0   	neg = 0.125
+14. IMF knows nothing ab                ... pos = 0.0   	neg = 0.375
+15. In a prickly meeting                ... pos = 1.25  	neg = 0.125
+16. Eventually, we're sh                ... pos = 0.25  	neg = 1.75 
+17. Ambose aims to loose                ... pos = 0.625 	neg = 0.75 
+18. It's not the most mu                ... pos = 0.0   	neg = 0.0  
+19. Rather than have the                ... pos = 2.125 	neg = 0.75 
+20. Hunt and Ambrose hav                ... pos = 0.0   	neg = 0.0  
+21. It's one filled with                ... pos = 0.25  	neg = 0.0  
+22. Nothing more is said                ... pos = 0.0   	neg = 0.375
+23. Ambrose has a homici                ... pos = 0.875 	neg = 1.0  
+24. It's a tango perform                ... pos = 0.0   	neg = 0.0  
+25. It's a dance of deat                ... pos = 0.0   	neg = 0.25 
+26. Why does Ambrose hat                ... pos = 0.125 	neg = 0.0  
+27. What made him leave                 ... pos = 0.0   	neg = 0.0  
+28. Was Cruise recruited                ... pos = 0.25  	neg = 0.125
+29. These are questions                 ... pos = 0.25  	neg = 0.625
+30. Ambrose is unremarka                ... pos = 0.569 	neg = 0.125
+31. He is simply a petul                ... pos = 0.5   	neg = 0.375
+32. He isn't given any i                ... pos = 0.25  	neg = 0.0  
+33. Seeing Hopkins brief                ... pos = 1.125 	neg = 0.25 
+34. Instead we're treate                ... pos = 0.0   	neg = 0.0  
+35. Cruise and Newton no                ... pos = 1.25  	neg = 0.75 
+36. They share a primal                 ... pos = 0.75  	neg = 0.125
+37. There are no shots o                ... pos = 0.25  	neg = 0.5  
+38. They don't seek to l                ... pos = 0.5   	neg = 0.0  
+39. If not for the stren                ... pos = 0.875 	neg = 0.25 
+40. As it stands, there                 ... pos = 0.125 	neg = 0.125
+41. Heaving a huge stone                ... pos = 0.0   	neg = 0.625
+42. Instead of this fact                ... pos = 0.0   	neg = 0.25 
+43. Another misstep by T                ... pos = 0.0   	neg = 0.375
+44. Because of this, the                ... pos = 0.75  	neg = 0    
+45. Just as with Hunt an                ... pos = 0.5   	neg = 0.125
+46. For Ambrose's part,                 ... pos = 3.125 	neg = 0.5  
+47. I felt as if I was w                ... pos = 0.0   	neg = 1.0  
+48. At times, the scenes                ... pos = 1.375 	neg = 0.0  
+49. Fortunately the acti                ... pos = 2.375 	neg = 0.0  
+50. Hunt breaks into the                ... pos = 0.375 	neg = 0.0  
+51. Hunt, time and again                ... pos = 0.375 	neg = 0.0  
+52. Here's where the fil                ... pos = 0.0   	neg = 0.0  
+53. Woo throws it all at                ... pos = 0.25  	neg = 0.0  
+54. Older time Woo fans                 ... pos = 0.375 	neg = 0.0  
+55. There's an engrossin                ... pos = 0.5   	neg = 0.5  
+56. It's a mano a mano f                ... pos = 0.375 	neg = 0.75 
+57. Hunt doesn't dispatc                ... pos = 0.25  	neg = 0.0  
+58. It's fight in which                 ... pos = 0.375 	neg = 0.375
+59. In stripping away th                ... pos = 0.0   	neg = 0.0  
+60. A resourceful and po                ... pos = 0.625 	neg = 0.25 
+61. It's painful to see                 ... pos = 0.0   	neg = 0.75 
+62. His character seems                 ... pos = 1.0   	neg = 0.25 
+63. Despite it's flaws,                 ... pos = 0.875 	neg = 0.125
+64. MI:2 is a fun, thril                ... pos = 0.375 	neg = 0.125
+65. With the talents beh                ... pos = 0.0   	neg = 0.75 
+66. It's entertaining fa                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3599-1217 is Positive        ... pos = 28.694 	neg = 19.875
+Overall score of document
+Total Pos = 28.694
+Total Neg = 19.875
+---------------------------------------------------------------------------

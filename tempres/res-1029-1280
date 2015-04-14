@@ -1,0 +1,30 @@
+0. Featuring the voices                 ... pos = 0.125 	neg = 0.25 
+1. It's Pixar's sophomo                 ... pos = 1.0   	neg = 0.25 
+2. Alas, "A Bug's Life"                 ... pos = 0.75  	neg = 0.125
+3. The movie is about a                 ... pos = 0.25  	neg = 0.75 
+4. Flik comes up with a                 ... pos = 0.0   	neg = 0.75 
+5. He mistakenly hires                  ... pos = 0.875 	neg = 0.0  
+6. The biggest problem                  ... pos = 0.5   	neg = 0.375
+7. Young children under                 ... pos = 0.625 	neg = 0.0  
+8. The movie starts off                 ... pos = 0.375 	neg = 0.625
+9. The last half-hour c                 ... pos = 0.125 	neg = 0.375
+10. Another problem is t                ... pos = 1.625 	neg = 0.75 
+11. Look at "Toy Story".                ... pos = 0     	neg = 0.375
+12. Buzz Lightyear and W                ... pos = 2.0   	neg = 0.0  
+13. In "A Bug's Life", w                ... pos = 0.0   	neg = 0.0  
+14. Flik?                               ... pos = 0     	neg = 0    
+15. Well, he's not very                 ... pos = 0.5   	neg = 0.125
+16. And then there's the                ... pos = 0.375 	neg = 0.0  
+17. So we're left with n                ... pos = 0.0   	neg = 0.25 
+18. However, the animati                ... pos = 0.125 	neg = 0.125
+19. There's no other wor                ... pos = 0.0   	neg = 0.25 
+20. The computer animati                ... pos = 0.0   	neg = 0.125
+21. I was literally stun                ... pos = 0.125 	neg = 0.125
+22. I remember thinking                 ... pos = 0.0   	neg = 0.375
+23. So, "A Bug's Life" i                ... pos = 2.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1029-1280 is Positive        ... pos = 11.875 	neg = 6.25 
+Overall score of document
+Total Pos = 11.875
+Total Neg = 6.25
+---------------------------------------------------------------------------

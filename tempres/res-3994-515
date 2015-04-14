@@ -1,0 +1,37 @@
+0. See this review the                  ... pos = 0.375 	neg = 0.625
+1. Shandling is chosen                  ... pos = 0.0   	neg = 0.375
+2. After a few disastro                 ... pos = 0.5   	neg = 1.125
+3. The leader of Harold                 ... pos = 0.25  	neg = 0.125
+4. Despite its title an                 ... pos = 0.375 	neg = 0.125
+5. is a very funny movi                 ... pos = 0.5   	neg = 0.125
+6. The plot (which the                  ... pos = 0.875 	neg = 1.25 
+7. The material may be                  ... pos = 0.125 	neg = 1.0  
+8. But he brings a sort                 ... pos = 0.625 	neg = 0.875
+9. Plus if you think ab                 ... pos = 0.25  	neg = 0.0  
+10. could have VERY easi                ... pos = 2.25  	neg = 0.125
+11. We never SEE anythin                ... pos = 0.0   	neg = 0    
+12. I'm glad to see that                ... pos = 0.375 	neg = 0.125
+13. The talented support                ... pos = 1.25  	neg = 0.0  
+14. Annette Bening (oddl                ... pos = 3.0   	neg = 0.125
+15. ) does a fine job ke                ... pos = 0.75  	neg = 0.0  
+16. She even manages to                 ... pos = 0.75  	neg = 1.375
+17. Ben Kingsley, John G                ... pos = 0.875 	neg = 0.5  
+18. Everything about her                ... pos = 0.875 	neg = 0.0  
+19. What Planet Are You                 ... pos = 0.25  	neg = 0.0  
+20. is available on DVD                 ... pos = 0.375 	neg = 0.125
+21. The disc gives you t                ... pos = 0.125 	neg = 0.0  
+22. Also included on the                ... pos = 0.875 	neg = 0.125
+23. When I first saw tha                ... pos = 0.125 	neg = 0.0  
+24. How great could the                 ... pos = 0.0   	neg = 0.5  
+25. Well as it turns out                ... pos = 0.75  	neg = 0.0  
+26. Kudos to Columbia Tr                ... pos = 0.0   	neg = 0    
+27. What Planet Are Your                ... pos = 0.25  	neg = 0.0  
+28. was unjustly ignored                ... pos = 1.25  	neg = 0.125
+29. This fine DVD is cer                ... pos = 0.25  	neg = 0.125
+30. [R]. Reviewed by Chu                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3994-515 is Positive         ... pos = 18.25 	neg = 8.875
+Overall score of document
+Total Pos = 18.25
+Total Neg = 8.875
+---------------------------------------------------------------------------

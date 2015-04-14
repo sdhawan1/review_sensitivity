@@ -1,0 +1,30 @@
+0. STARRING:  Antonio B                 ... pos = 1.0   	neg = 0.875
+1. Banderas plays Ahmad                 ... pos = 0.5   	neg = 0.75 
+2. After word is receiv                 ... pos = 0.5   	neg = 0.375
+3. During the journey,                  ... pos = 0.125 	neg = 0.125
+4. When they arrive, th                 ... pos = 1.0   	neg = 0.25 
+5. That evening, they a                 ... pos = 0.25  	neg = 0.0  
+6. ), mysterious creatu                 ... pos = 0.5   	neg = 0.625
+7. Soon enough, they ar                 ... pos = 0.25  	neg = 0.125
+8. Barely holding out a                 ... pos = 0.25  	neg = 0.5  
+9. The rest of the film                 ... pos = 0.125 	neg = 0.125
+10. Watching this film,                 ... pos = 0.375 	neg = 0.375
+11. Instead, he seems co                ... pos = 0.375 	neg = 0.125
+12. Banderas, in fact, i                ... pos = 1.5   	neg = 1.75 
+13. The film's major fla                ... pos = 0.125 	neg = 0.625
+14. The actors are all s                ... pos = 0.5   	neg = 0.0  
+15. The exception to thi                ... pos = 0.75  	neg = 0.125
+16. With his size and No                ... pos = 1.75  	neg = 0.5  
+17. Still, more time cou                ... pos = 1.125 	neg = 0.125
+18. Speaking of which, t                ... pos = 0.375 	neg = 0.0  
+19. The two films also s                ... pos = 0.0   	neg = 0.5  
+20. Unfortunately, "The                 ... pos = 0.875 	neg = 1.0  
+21. Combined with the la                ... pos = 0.875 	neg = 0.125
+22. Nonetheless, it is w                ... pos = 0.75  	neg = 0.375
+23. Action fans likely w                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-731-1184 is Positive         ... pos = 13.875 	neg = 9.5  
+Overall score of document
+Total Pos = 13.875
+Total Neg = 9.5
+---------------------------------------------------------------------------

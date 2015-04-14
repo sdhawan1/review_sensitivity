@@ -1,0 +1,42 @@
+0. Review of La Vita E                  ... pos = 0.875 	neg = 0.25 
+1. The movie has two cl                 ... pos = 0.125 	neg = 0.25 
+2. The first half is fa                 ... pos = 0.125 	neg = 0.25 
+3. As a whole, it's dis                 ... pos = 0.75  	neg = 0.0  
+4. Roberto Benigni is b                 ... pos = 0.875 	neg = 1.125
+5. Here, Benigni is bot                 ... pos = 0.0   	neg = 0.875
+6. (In that latter scen                 ... pos = 0.75  	neg = 0.125
+7. So you wonder, how d                 ... pos = 0.125 	neg = 0.0  
+8. The answer: It doesn                 ... pos = 0.0   	neg = 0    
+9. The first half of th                 ... pos = 0.125 	neg = 0.125
+10. Guido is a perpetual                ... pos = 0.444 	neg = 0.125
+11. That he is Jewish in                ... pos = 0.125 	neg = 0.25 
+12. His uncle is roughed                ... pos = 0.5   	neg = 0.25 
+13. " (NOTE: *The Garden                ... pos = 0.5   	neg = 0    
+14. ) But the courtship                 ... pos = 0.0   	neg = 0.0  
+15. It also works in tha                ... pos = 0.625 	neg = 0.0  
+16. He is part-Chaplin a                ... pos = 0.0   	neg = 0.125
+17. Especially funny are                ... pos = 0.25  	neg = 0.0  
+18. (The man's squabblin                ... pos = 0.25  	neg = 0    
+19. In fact, the first h                ... pos = 0.125 	neg = 0.25 
+20. However, when the fa                ... pos = 0.375 	neg = 0.375
+21. But Guido keeps up t                ... pos = 0.625 	neg = 0.25 
+22. No matter how knowin                ... pos = 0.375 	neg = 0.5  
+23. Playing the fool is                 ... pos = 1.125 	neg = 0.375
+24. Here, the manipulati                ... pos = 0.125 	neg = 0.125
+25. The likelihood that                 ... pos = 0.75  	neg = 1.875
+26. Ignored are *all* th                ... pos = 0.25  	neg = 0.25 
+27. It is not clear how                 ... pos = 0.5   	neg = 1.375
+28. That Guido's clownin                ... pos = 0.5   	neg = 0.875
+29. The idea that Guido                 ... pos = 0.694 	neg = 0.375
+30. This goes counter to                ... pos = 0.0   	neg = 0.0  
+31. Perhaps *Life Is Bea                ... pos = 1.75  	neg = 0.5  
+32. As it remains, despi                ... pos = 0.0   	neg = 0.625
+33. If I could advise yo                ... pos = 1.569 	neg = 0.0  
+34. " The first half is                 ... pos = 0.625 	neg = 0.25 
+35. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5730-92 is Positive          ... pos = 15.832 	neg = 11.875
+Overall score of document
+Total Pos = 15.832
+Total Neg = 11.875
+---------------------------------------------------------------------------

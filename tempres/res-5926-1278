@@ -1,0 +1,31 @@
+0. " Southpark: Bigger,                 ... pos = 0.5   	neg = 0.25 
+1. By default; there ha                 ... pos = 0.25  	neg = 0.75 
+2. And, right from the                  ... pos = 0.5   	neg = 0.625
+3. Iconoclasm in place;                 ... pos = 0.25  	neg = 0.0  
+4. The kids canšt get                  ... pos = 1.125 	neg = 0.875
+5. Tip, if you find you                 ... pos = 0.375 	neg = 0.375
+6. Good thing they get                  ... pos = 1.0   	neg = 0.375
+7. Then comes the hook:                 ... pos = 0.0   	neg = 0.0  
+8. So, once the boys le                 ... pos = 0.0   	neg = 1.0  
+9. Not more than a lot                  ... pos = 0.25  	neg = 0.125
+10. But, still; the crea                ... pos = 0.125 	neg = 0.625
+11. Which takes only a f                ... pos = 0.125 	neg = 0.375
+12. So, just being crude                ... pos = 0.25  	neg = 0.125
+13. No, series creators                 ... pos = 2.25  	neg = 0.25 
+14. A scapegoat is neede                ... pos = 0.0   	neg = 0.25 
+15. Canadians, of course                ... pos = 0.0   	neg = 0.0  
+16. War is declared, Ter                ... pos = 1.875 	neg = 0.125
+17. In the meantime, Ken                ... pos = 0.625 	neg = 1.75 
+18. But, nevermind.                     ... pos = 0     	neg = 0.0  
+19. SOUTHPARK is enterta                ... pos = 0.375 	neg = 0.375
+20. Because it didnšt h                ... pos = 0.75  	neg = 0.25 
+21. There are a few sc                ... pos = 0.5   	neg = 0.25 
+22. Before that happens,                ... pos = 0.875 	neg = 0.0  
+23. Highlights:  Winona                 ... pos = 0.0   	neg = 1.0  
+24. And, needless to say                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5926-1278 is Positive        ... pos = 12.5  	neg = 9.75 
+Overall score of document
+Total Pos = 12.5
+Total Neg = 9.75
+---------------------------------------------------------------------------

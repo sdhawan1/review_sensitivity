@@ -1,0 +1,26 @@
+0. THERE'S SOMETHING AB                 ... pos = 0.625 	neg = 0.25 
+1. I figured that eithe                 ... pos = 1.0   	neg = 0.125
+2. Instead, I found mys                 ... pos = 0.625 	neg = 0.0  
+3. Yes, it's gross, and                 ... pos = 0.0   	neg = 0.25 
+4. This may be partly a                 ... pos = 0.125 	neg = 0.5  
+5. The movie is, in fac                 ... pos = 0.5   	neg = 0.375
+6. But since I had been                 ... pos = 0.25  	neg = 0.375
+7. The same goes for an                 ... pos = 1.625 	neg = 0.625
+8. A lot of the jokes a                 ... pos = 0.25  	neg = 0.5  
+9. Some of them, partic                 ... pos = 0.75  	neg = 2.875
+10. By and large, the fu                ... pos = 1.75  	neg = 0.25 
+11. Surprisingly enough,                ... pos = 1.125 	neg = 0.75 
+12. Among the obstacles                 ... pos = 0.25  	neg = 0.0  
+13. Ted had originally h                ... pos = 0.25  	neg = 0.625
+14. It's fairly easy to                 ... pos = 1.375 	neg = 0.25 
+15. There's a fairly com                ... pos = 1.75  	neg = 0.25 
+16. THERE'S SOMETHING AB                ... pos = 0.625 	neg = 0.5  
+17. As such, it's reason                ... pos = 0.375 	neg = 0.25 
+18. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+19. Visit my Film Review                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3569-716 is Positive         ... pos = 13.25 	neg = 8.75 
+Overall score of document
+Total Pos = 13.25
+Total Neg = 8.75
+---------------------------------------------------------------------------

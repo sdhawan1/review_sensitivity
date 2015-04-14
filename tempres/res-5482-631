@@ -1,0 +1,121 @@
+0. Starring: Tommy Lee                  ... pos = 1.75  	neg = 0.0  
+1. Sam Gerard, the Chie                 ... pos = 0.125 	neg = 0.0  
+2. Marshal from THE FUG                 ... pos = 0.875 	neg = 0.0  
+3. Another man has fled                 ... pos = 1.0   	neg = 0.125
+4. But what's the story                 ... pos = 0.0   	neg = 0.0  
+5. Why is he running?                   ... pos = 0.0   	neg = 0.125
+6. Did he do what he wa                 ... pos = 0.0   	neg = 0.125
+7. If not, who did?                     ... pos = 0.0   	neg = 0.0  
+8. Who's doing the cove                 ... pos = 0     	neg = 0.0  
+9. Why?                                 ... pos = 0     	neg = 0.0  
+10. And so on.                          ... pos = 0     	neg = 0.0  
+11. All the stuff you lo                ... pos = 1.5   	neg = 0.25 
+12. Plus, it's a Warner                 ... pos = 1.25  	neg = 0.125
+13. '97 was their best r                ... pos = 0.0   	neg = 0.125
+14. CONFIDENTIAL.                       ... pos = 0.125 	neg = 0    
+15. Maybe things will lo                ... pos = 0.125 	neg = 0.375
+16. Now then...                         ... pos = 0.0   	neg = 0.0  
+17. I've never felt the                 ... pos = 0.5   	neg = 0.125
+18. It's just that this                 ... pos = 0.875 	neg = 0.625
+19. I'm not talking abou                ... pos = 0.0   	neg = 0.625
+20. I'm talking things t                ... pos = 1.0   	neg = 0.875
+21. I guess some of thes                ... pos = 0.0   	neg = 0.75 
+22. Regardless, I have n                ... pos = 0.0   	neg = 0.25 
+23. I'll just ramble the                ... pos = 0.0   	neg = 0.625
+24. The following statem                ... pos = 0.0   	neg = 0.625
+25. MARSHALS is nothing                 ... pos = 0.125 	neg = 0.375
+26. 3) Tommy Lee Jones d                ... pos = 1.25  	neg = 0.0  
+27. MARSHALS as he was i                ... pos = 0.0   	neg = 0.125
+28. 4) Sam Gerard's open                ... pos = 0.0   	neg = 0.375
+29. 5) After discovering                ... pos = 0.25  	neg = 0.125
+30. He still chases Snip                ... pos = 1.375 	neg = 0.0  
+31. 6) Wesley Snipes' ch                ... pos = 1.125 	neg = 0.25 
+32. 7) Wesley Snipes' ch                ... pos = 1.375 	neg = 0.75 
+33. 8) Every detail of t                ... pos = 0.125 	neg = 0.375
+34. 9) None of these cha                ... pos = 1.125 	neg = 0.0  
+35. 10) Certain plot poi                ... pos = 0.5   	neg = 0.0  
+36. Now, stand back, whi                ... pos = 0.125 	neg = 0.375
+37. Incidentally, I apol                ... pos = 0.125 	neg = 1.0  
+38. 1) So let's see, the                ... pos = 0.0   	neg = 0.125
+39. Is it so unbelievabl                ... pos = 0.0   	neg = 0.125
+40. Marshal might have t                ... pos = 0.5   	neg = 0.5  
+41. I think not.                        ... pos = 0.0   	neg = 0.0  
+42. I mean, what else wa                ... pos = 0     	neg = 0.125
+43. Okay, both fugitives                ... pos = 0.0   	neg = 0.125
+44. That's one plot poin                ... pos = 0.0   	neg = 0.0  
+45. What else?                          ... pos = 0     	neg = 0    
+46. Don't use that lame                 ... pos = 0.0   	neg = 0.0  
+47. A man jumped from a                 ... pos = 0.625 	neg = 3.375
+48. MARSHALS just a clon                ... pos = 0.0   	neg = 0.0  
+49. 2) Even though the f                ... pos = 0.125 	neg = 0.5  
+50. Okay.                               ... pos = 0     	neg = 0.125
+51. Let's talk about the                ... pos = 0.0   	neg = 0.0  
+52. It's up to 18 films                 ... pos = 0.0   	neg = 0.0  
+53. They all have Bond s                ... pos = 0.0   	neg = 0.0  
+54. "  Bond always sleep                ... pos = 0.75  	neg = 0.0  
+55. Bond always uses int                ... pos = 0.0   	neg = 0.0  
+56. Bond always dresses                 ... pos = 0.0   	neg = 0.0  
+57. Bond always defeats                 ... pos = 0.0   	neg = 0.0  
+58. Bond always makes ch                ... pos = 0.0   	neg = 1.125
+59. The fact that TOMORR                ... pos = 0.375 	neg = 0.625
+60. In fact, it received                ... pos = 0.75  	neg = 0    
+61. But, gasp!                          ... pos = 0     	neg = 0.0  
+62. How can that be!                    ... pos = 0     	neg = 0.0  
+63. It's such a copy, it                ... pos = 0.5   	neg = 0.125
+64. After all, U.S.                     ... pos = 0.0   	neg = 0    
+65. MARSHALS isn't anywh                ... pos = 0.25  	neg = 0.125
+66. MARSHALS is already                 ... pos = 0.0   	neg = 1.0  
+67. Sure.                               ... pos = 0.25  	neg = 0    
+68. Right.                              ... pos = 0.0   	neg = 0    
+69. Whatever.                           ... pos = 0     	neg = 0.0  
+70. 3) You were in the b                ... pos = 0.0   	neg = 0.125
+71. I mean...                           ... pos = 0     	neg = 0.0  
+72. I can't barely fight                ... pos = 0.0   	neg = 0.375
+73. Struggling to get th                ... pos = 0.0   	neg = 0.0  
+74. Barking orders power                ... pos = 0.25  	neg = 0.0  
+75. Hey, this is Sam Ger                ... pos = 0.0   	neg = 0.125
+76. The one we loved in                 ... pos = 0.5   	neg = 0.0  
+77. Of course, it's no l                ... pos = 0.0   	neg = 0.25 
+78. We've been here befo                ... pos = 0.0   	neg = 0.125
+79. But still, it's a st                ... pos = 2.25  	neg = 0.375
+80. With some help of co                ... pos = 0.0   	neg = 0.0  
+81. 4) It's nice to have                ... pos = 0.0   	neg = 0.375
+82. It's nice to get rea                ... pos = 0.125 	neg = 0.625
+83. We need this here so                ... pos = 0.75  	neg = 0.125
+84. If not for this scen                ... pos = 0.0   	neg = 0.125
+85. Stupid!                             ... pos = 0     	neg = 0    
+86. " when Sam climbs on                ... pos = 0.0   	neg = 0    
+87. Now he has a reason.                ... pos = 0.0   	neg = 0.0  
+88. Aren't you glad the                 ... pos = 0.0   	neg = 0.0  
+89. 5) Yeah, stop chasin                ... pos = 0.375 	neg = 0.0  
+90. That'd be real smart                ... pos = 0.0   	neg = 0.125
+91. Sure.                               ... pos = 0.25  	neg = 0    
+92. 6) Huh?!                            ... pos = 0     	neg = 0    
+93. He's the fugitive th                ... pos = 0     	neg = 0.0  
+94. He has nearly as muc                ... pos = 0.125 	neg = 0.0  
+95. He's the reason ther                ... pos = 0.0   	neg = 0.0  
+96. 7) So you really DID                ... pos = 0.0   	neg = 0.0  
+97. You know, you really                ... pos = 0.125 	neg = 0.0  
+98. I don't want to list                ... pos = 0.0   	neg = 0.375
+99. 8) God, this is just                ... pos = 0     	neg = 1.125
+100. Not only is the whol               ... pos = 0.125 	neg = 0.125
+101. 9) Yeah, that would                ... pos = 1.375 	neg = 0.5  
+102. That's not a danger,               ... pos = 0.0   	neg = 0.0  
+103. 10) When the whole "               ... pos = 0.0   	neg = 0.375
+104. Sorry about the rant               ... pos = 0.25  	neg = 0.625
+105. I apologize again.                 ... pos = 0.0   	neg = 0.625
+106. But don't worry abou               ... pos = 0.25  	neg = 0.0  
+107. Just go out and see                ... pos = 0.0   	neg = 0.0  
+108. MARSHALS.                          ... pos = 0     	neg = 0.0  
+109. I mean, aren't you g               ... pos = 0.0   	neg = 0.0  
+110. You've been 47 times               ... pos = 0     	neg = 0.125
+111. For the love of God!               ... pos = 0.625 	neg = 0    
+112. Just go check out U.               ... pos = 0.0   	neg = 0.0  
+113. MARSHALS, and have f               ... pos = 0.125 	neg = 0.0  
+114. It may not be near t               ... pos = 2.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5482-631 is Positive         ... pos = 30.5  	neg = 24.5 
+Overall score of document
+Total Pos = 30.5
+Total Neg = 24.5
+---------------------------------------------------------------------------

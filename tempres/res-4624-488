@@ -1,0 +1,38 @@
+0. Starring Gary Oldman                 ... pos = 0.0   	neg = 0.625
+1. While it certainly i                 ... pos = 0.75  	neg = 0.75 
+2. Unlike the series, t                 ... pos = 0.25  	neg = 0.375
+3. None of the aliens m                 ... pos = 0.0   	neg = 0.125
+4. Lost In Space boasts                 ... pos = 0.0   	neg = 0.75 
+5. Unlike TV show remak                 ... pos = 1.375 	neg = 0.0  
+6. The good guys from t                 ... pos = 1.75  	neg = 1.875
+7. Although, if I had o                 ... pos = 0.875 	neg = 0.125
+8. While Gary Oldman do                 ... pos = 2.25  	neg = 2.625
+9. Maybe part of my pro                 ... pos = 0.25  	neg = 0.375
+10. Harris was the main                 ... pos = 0.125 	neg = 0.625
+11. The same can not be                 ... pos = 0.875 	neg = 0.125
+12. Lost In Space, in ad                ... pos = 0.5   	neg = 0.0  
+13. These included cameo                ... pos = 0.0   	neg = 0.625
+14. You should also pay                 ... pos = 0.0   	neg = 0.0  
+15. As for plot, it is t                ... pos = 0.25  	neg = 0.5  
+16. John Robinson and hi                ... pos = 0.625 	neg = 0.0  
+17. Something goes horri                ... pos = 0.0   	neg = 1.0  
+18. A terrorist stowaway                ... pos = 0.0   	neg = 0.0  
+19. This new region of s                ... pos = 0.625 	neg = 0.75 
+20. As I mentioned, the                 ... pos = 0.125 	neg = 0.125
+21. While Gary Oldman's                 ... pos = 0.75  	neg = 0.125
+22. While his portrayal                 ... pos = 0.75  	neg = 1.75 
+23. You have to love som                ... pos = 1.25  	neg = 0.0  
+24. As for the rest of t                ... pos = 1.25  	neg = 0.0  
+25. But what else would                 ... pos = 0.0   	neg = 0.0  
+26. Hurt and the rest of                ... pos = 1.375 	neg = 0.0  
+27. It would have been v                ... pos = 1.5   	neg = 0.375
+28. Not to mention the v                ... pos = 0.5   	neg = 0.0  
+29. Lost In Space is a w                ... pos = 0.125 	neg = 0.125
+30. Whether you were a f                ... pos = 0.5   	neg = 0.25 
+31. Although I must admi                ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4624-488 is Positive         ... pos = 19.375 	neg = 14.25
+Overall score of document
+Total Pos = 19.375
+Total Neg = 14.25
+---------------------------------------------------------------------------

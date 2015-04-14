@@ -1,0 +1,33 @@
+0. USA.                                 ... pos = 0     	neg = 0.0  
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director - Vincent W                 ... pos = 0.25  	neg = 1.75 
+3. Production Company -                 ... pos = 0.0   	neg = 0    
+4. Robin Williams (Chri                 ... pos = 0.5   	neg = 0.875
+5. He  finds himself in                 ... pos = 0.375 	neg = 0.625
+6. But then comes the n                 ... pos = 0.0   	neg = 0.0  
+7. Here suicides  are n                 ... pos = 0.5   	neg = 0.5  
+8. Christy ignores all                  ... pos = 0.25  	neg = 0.375
+9. New Zealander Vincen                 ... pos = 0.625 	neg = 0.125
+10. Ward trained as an a                ... pos = 0.0   	neg = 0.0  
+11. As a director he has                ... pos = 0.75  	neg = 0.375
+12. His first feature fi                ... pos = 1.5   	neg = 0.375
+13. The  Cannes-acclaime                ... pos = 0.125 	neg = 0.5  
+14. Ward lost the plot s                ... pos = 1.375 	neg = 0.0  
+15. And since Map' War                ... pos = 0.75  	neg = 1.0  
+16. But What Dreams' i                ... pos = 0.5   	neg = 0.125
+17. It is an adaption of                ... pos = 0.375 	neg = 0.125
+18. Ward's work on the f                ... pos = 0.625 	neg = 0.125
+19. He lights the  scree                ... pos = 1.125 	neg = 0.125
+20. In an extraordinary                 ... pos = 0.875 	neg = 0.25 
+21. In the most wondrous                ... pos = 1.25  	neg = 0.375
+22. The sheer breadth of                ... pos = 0.0   	neg = 0.125
+23. One of Ward's failin                ... pos = 0.875 	neg = 0.125
+24. But thanks to a good                ... pos = 2.375 	neg = 0.5  
+25. The film's humanist                 ... pos = 0.375 	neg = 0.125
+26. A  landmark achievem                ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5518-108 is Positive         ... pos = 15.5  	neg = 8.5  
+Overall score of document
+Total Pos = 15.5
+Total Neg = 8.5
+---------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+0. Or "How I Learned to                 ... pos = 0.625 	neg = 0.0  
+1. An enraged  comet at                 ... pos = 0.0   	neg = 0.0  
+2. America gets all mus                 ... pos = 0.0   	neg = 0.0  
+3. Apparently the rest                  ... pos = 0.0   	neg = 0.75 
+4. Two years ago, it wa                 ... pos = 0.125 	neg = 0.125
+5. Last year, it was se                 ... pos = 0.0   	neg = 0.125
+6. This year, it's cosm                 ... pos = 0.0   	neg = 0    
+7. In light of such  ob                 ... pos = 1.125 	neg = 0.0  
+8. Are these going  to                  ... pos = 1.0   	neg = 0.125
+9. Now, little Steven                   ... pos = 0.0   	neg = 0.25 
+10. No, but he might giv                ... pos = 0.0   	neg = 0.75 
+11. This is how it goes:                ... pos = 0.625 	neg = 0.5  
+12. Somehow, the entire                 ... pos = 1.0   	neg = 0.125
+13. The Prez (Morgan Fre                ... pos = 0.0   	neg = 0.0  
+14. "  The nation, as re                ... pos = 0.0   	neg = 0.25 
+15. But it's all OK, the                ... pos = 0.0   	neg = 0.125
+16. Strangely enough, th                ... pos = 0.625 	neg = 0.0  
+17. No, how else do you                 ... pos = 0.5   	neg = 0.25 
+18. Hell, if I was a  co                ... pos = 0.0   	neg = 0.625
+19. And so it goes.                     ... pos = 0.0   	neg = 0.0  
+20. We can tell there is                ... pos = 0.125 	neg = 0.125
+21. Tea realises  that o                ... pos = 0.5   	neg = 0.0  
+22. So she goes and mooc                ... pos = 0.0   	neg = 0.125
+23. Later, if you look                  ... pos = 0.0   	neg = 0.5  
+24. Meanwhile the astron                ... pos = 0.875 	neg = 0.0  
+25. Angered by this, one                ... pos = 0.5   	neg = 0.5  
+26. Russian guy, black g                ... pos = 0.375 	neg = 0.0  
+27. Other guy realises                  ... pos = 0.375 	neg = 0.375
+28. And indeed, after th                ... pos = 0.0   	neg = 0.0  
+29. (He dies after calcu                ... pos = 0.125 	neg = 1.0  
+30. ) Aggressive guy and                ... pos = 0.5   	neg = 0.5  
+31. Cowed by this, Russi                ... pos = 0.0   	neg = 0.0  
+32. Back on the ground,                 ... pos = 0.0   	neg = 0.125
+33. Finally people can s                ... pos = 0.0   	neg = 0.125
+34. (Missouri?                          ... pos = 0     	neg = 0.0  
+35. Are you kidding me?                 ... pos = 0.25  	neg = 0.125
+36. )  About 30 mildly                  ... pos = 0.5   	neg = 0.375
+37. (I  assume they're d                ... pos = 0.25  	neg = 0.25 
+38. )  But now there are                ... pos = 0.375 	neg = 1.125
+39. The Prez  orders all                ... pos = 0.0   	neg = 0.125
+40. Later he tells us th                ... pos = 0.0   	neg = 0.125
+41. (Just between you an                ... pos = 0.0   	neg = 0.125
+42. The Prez has probabl                ... pos = 0.0   	neg = 0.375
+43. )  Subsequently a lo                ... pos = 0.25  	neg = 0.875
+44. It would be churlish                ... pos = 0.875 	neg = 0.125
+45. In particular, those                ... pos = 1.125 	neg = 0.0  
+46. There is also some n                ... pos = 0.0   	neg = 0.25 
+47. However these are se                ... pos = 1.25  	neg = 0.375
+48. It's  not a bad pict                ... pos = 0.0   	neg = 0.875
+49. [**/ok] and "The Com                ... pos = 0.0   	neg = 0.0  
+50. "Deep Impact" Releas                ... pos = 0.0   	neg = 0    
+51. Directed by Mimi Led                ... pos = 0.0   	neg = 0    
+52. Produced by Steven S                ... pos = 0.0   	neg = 0.0  
+53. Written by Bruce Joe                ... pos = 0.0   	neg = 0.25 
+54. Music by James Horne                ... pos = 0.0   	neg = 0    
+55. Starring Robert Duva                ... pos = 0.0   	neg = 0.0  
+56. -- Paul-Michael Agap                ... pos = 0.75  	neg = 1.5  
+57. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1674-993 is Positive         ... pos = 14.625 	neg = 14.25
+Overall score of document
+Total Pos = 14.625
+Total Neg = 14.25
+---------------------------------------------------------------------------

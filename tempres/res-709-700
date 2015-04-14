@@ -1,0 +1,35 @@
+0. Release Date: Februa                 ... pos = 0.875 	neg = 0.875
+1. Porter has a unique                  ... pos = 0.5   	neg = 0.875
+2. Already the red flag                 ... pos = 0.625 	neg = 0.125
+3. And what's this?                     ... pos = 0     	neg = 0    
+4. By the end of the mo                 ... pos = 0.0   	neg = 0.0  
+5. Unacceptable.                        ... pos = 0     	neg = 0.75 
+6. A successful antiher                 ... pos = 2.875 	neg = 0.0  
+7. But not Porter.                      ... pos = 0.0   	neg = 0.0  
+8. Nope.                                ... pos = 0     	neg = 0    
+9. However, maybe it *i                 ... pos = 0.125 	neg = 0.0  
+10. PAYBACK needs someth                ... pos = 0.0   	neg = 0.125
+11. Porter, essayed in f                ... pos = 0.375 	neg = 0.625
+12. Unfortunately, his p                ... pos = 0.0   	neg = 1.5  
+13. Not only that, but P                ... pos = 0.0   	neg = 0.125
+14. So now Porter's got                 ... pos = 0.0   	neg = 0.25 
+15. It's when Porter get                ... pos = 0.0   	neg = 0.0  
+16. Here it loses the up                ... pos = 1.75  	neg = 0.375
+17. This isn't good film                ... pos = 0.75  	neg = 0.5  
+18. Fortunately, the slo                ... pos = 0.5   	neg = 0.125
+19. The finishing touch                 ... pos = 0.75  	neg = 0.125
+20. Written by Brian Hel                ... pos = 0.0   	neg = 0.0  
+21. CONFIDENTIAL, it inc                ... pos = 1.125 	neg = 0.0  
+22. Helgeland, who makes                ... pos = 0.375 	neg = 0.0  
+23. It does not accompli                ... pos = 0.0   	neg = 0.0  
+24. The movie comes in a                ... pos = 0.0   	neg = 0.0  
+25. He gives a sadistic                 ... pos = 0.625 	neg = 1.25 
+26. The supports are all                ... pos = 0.25  	neg = 0.0  
+27. Largely, the pieces                 ... pos = 0.75  	neg = 0.125
+28. Not to be seen by th                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-709-700 is Positive          ... pos = 13.0  	neg = 7.875
+Overall score of document
+Total Pos = 13.0
+Total Neg = 7.875
+---------------------------------------------------------------------------

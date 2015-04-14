@@ -1,0 +1,23 @@
+0. "Event Horizon" mana                 ... pos = 0.75  	neg = 0.0  
+1. What starts out as a                 ... pos = 0.0   	neg = 0.625
+2. A rescue team led by                 ... pos = 0.0   	neg = 0.125
+3. For seven years the                  ... pos = 1.25  	neg = 2.25 
+4. The ship seems to ha                 ... pos = 0.5   	neg = 1.375
+5. All of that sounds l                 ... pos = 0.0   	neg = 0.0  
+6. It doesn't.                          ... pos = 0.0   	neg = 0    
+7. The dialogue is by t                 ... pos = 0.375 	neg = 0.25 
+8. The plot devices hav                 ... pos = 0.625 	neg = 0.0  
+9. The "science" in thi                 ... pos = 0.0   	neg = 0.5  
+10. (How about a guy in                 ... pos = 0.25  	neg = 0.5  
+11. ). The movie is near                ... pos = 0.75  	neg = 1.25 
+12. Laughably loud edits                ... pos = 0.25  	neg = 0.875
+13. I got the impression                ... pos = 0.0   	neg = 0.125
+14. Here is your officia                ... pos = 0.25  	neg = 0.625
+15. Somone in the parkin                ... pos = 0.0   	neg = 0.0  
+16. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6159-777 is Negative         ... pos = 5.0   	neg = 8.5  
+Overall score of document
+Total Pos = 5.0
+Total Neg = 8.5
+---------------------------------------------------------------------------

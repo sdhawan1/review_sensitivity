@@ -1,0 +1,30 @@
+0. Directed by Gus Van                  ... pos = 0.0   	neg = 0.0  
+1. Starring Matt Damon                  ... pos = 0.625 	neg = 0.125
+2. This film is a break                 ... pos = 0.75  	neg = 0.25 
+3. In fact, he's made a                 ... pos = 1.625 	neg = 0.5  
+4. Filmgoers hoping for                 ... pos = 0.875 	neg = 0.125
+5. But Van Sant proves                  ... pos = 0.875 	neg = 0.25 
+6. We have certainly se                 ... pos = 0.25  	neg = 0.125
+7. Will Hunting (Matt D                 ... pos = 0.125 	neg = 0.125
+8. A young tough guy fr                 ... pos = 0.0   	neg = 1.75 
+9. His nights, though,                  ... pos = 0.25  	neg = 0.0  
+10. Will is a math geniu                ... pos = 3.0   	neg = 0.5  
+11. This last point is t                ... pos = 0.875 	neg = 1.25 
+12. Sean is a brilliant                 ... pos = 0.875 	neg = 0.125
+13. And, at this point,                 ... pos = 1.125 	neg = 0.875
+14. Williams gives one o                ... pos = 0.875 	neg = 0.125
+15. These scenes with Wi                ... pos = 1.75  	neg = 0.0  
+16. Williams and Damon a                ... pos = 1.75  	neg = 0.0  
+17. Damon, while not del                ... pos = 3.0   	neg = 0.625
+18. The film has difficu                ... pos = 4.0   	neg = 0.875
+19. And the film hardly                 ... pos = 1.5   	neg = 0.375
+20. Taken on its own, ho                ... pos = 0.875 	neg = 0.125
+21. And it does somethin                ... pos = 1.0   	neg = 0.5  
+22. Too many stories ask                ... pos = 0.125 	neg = 0.5  
+23. Damon, Affleck, and                 ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5197-1438 is Positive        ... pos = 26.375 	neg = 9.375
+Overall score of document
+Total Pos = 26.375
+Total Neg = 9.375
+---------------------------------------------------------------------------

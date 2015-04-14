@@ -1,0 +1,21 @@
+0. Written by: William                  ... pos = 0.0   	neg = 0.0  
+1. Based on the Nelson                  ... pos = 0.0   	neg = 0.0  
+2. Starring: John Travo                 ... pos = 0.0   	neg = 0.0  
+3. Elisabeth Campbell (                 ... pos = 0.0   	neg = 0.0  
+4. Elisabeth's body was                 ... pos = 0.5   	neg = 0.5  
+5. Brenner and Sunhill                  ... pos = 0.625 	neg = 1.0  
+6. Opinion: THE GENERAL                 ... pos = 0.625 	neg = 0.125
+7. For example, the She                 ... pos = 0.0   	neg = 0.75 
+8. Yet we never see the                 ... pos = 0.25  	neg = 0.125
+9. Or when Sarah Sunhil                 ... pos = 0.125 	neg = 0.0  
+10. Instead, she just st                ... pos = 0.0   	neg = 0.25 
+11. Travolta's character                ... pos = 0.875 	neg = 0.25 
+12. In fact the murderer                ... pos = 0.5   	neg = 0.125
+13. As a result of carel                ... pos = 0.125 	neg = 0.5  
+14. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1224-416 is Negative         ... pos = 3.625 	neg = 3.75 
+Overall score of document
+Total Pos = 3.625
+Total Neg = 3.75
+---------------------------------------------------------------------------

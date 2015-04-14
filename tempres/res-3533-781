@@ -1,0 +1,43 @@
+0. It was a dark and st                 ... pos = 0.0   	neg = 0.125
+1. A hurricane was maki                 ... pos = 0.875 	neg = 0.25 
+2. The rain came down l                 ... pos = 0.75  	neg = 1.25 
+3. But taking shelter i                 ... pos = 0.875 	neg = 0.125
+4. That's how I envisio                 ... pos = 0.625 	neg = 0.25 
+5. It's got all the ing                 ... pos = 0.0   	neg = 2.0  
+6. The main character i                 ... pos = 1.0   	neg = 0.25 
+7. He knows everybody,                  ... pos = 0.0   	neg = 0.125
+8. It's obvious he runs                 ... pos = 0.25  	neg = 0.125
+9. Atlantic City is a b                 ... pos = 0.0   	neg = 0.25 
+10. On this particular n                ... pos = 1.625 	neg = 0.375
+11. Kirkland's attendanc                ... pos = 1.0   	neg = 0.125
+12. When, in the middle                 ... pos = 0.0   	neg = 0.375
+13. The problem with fil                ... pos = 0.5   	neg = 0.375
+14. There have already b                ... pos = 0.0   	neg = 0.125
+15. It is for this reaso                ... pos = 0.625 	neg = 0.375
+16. De Palma treats us t                ... pos = 1.625 	neg = 0.125
+17. We can anticipate th                ... pos = 0.375 	neg = 0.125
+18. This is why it is pe                ... pos = 0.375 	neg = 0.875
+19. For example, Julia C                ... pos = 0.0   	neg = 0.25 
+20. Disappearing into th                ... pos = 1.125 	neg = 1.625
+21. Principal role, righ                ... pos = 0.0   	neg = 0    
+22. Important to the plo                ... pos = 0.875 	neg = 0.0  
+23. It wasn't until the                 ... pos = 0.0   	neg = 0.0  
+24. Was the part where h                ... pos = 0.125 	neg = 0.375
+25. I wonder how she is                 ... pos = 0.875 	neg = 0.625
+26. There are other disa                ... pos = 0.75  	neg = 1.625
+27. De Palma is successf                ... pos = 1.25  	neg = 0.125
+28. However, there is ze                ... pos = 0.625 	neg = 0.125
+29. Unfortunately, the f                ... pos = 0.125 	neg = 1.625
+30. Luckily, we are give                ... pos = 0.75  	neg = 0.0  
+31. Cage is engaging as                 ... pos = 0.375 	neg = 0.125
+32. It would be difficul                ... pos = 1.75  	neg = 0.5  
+33. Cage also plays well                ... pos = 0.125 	neg = 0.75 
+34. I sometimes wonder i                ... pos = 0.0   	neg = 0.25 
+35. SNAKE EYES is a film                ... pos = 0.75  	neg = 0.375
+36. Cage and Sinise save                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3533-781 is Positive         ... pos = 20.375 	neg = 16.0 
+Overall score of document
+Total Pos = 20.375
+Total Neg = 16.0
+---------------------------------------------------------------------------

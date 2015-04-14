@@ -1,0 +1,33 @@
+0. rated R starring Joh                 ... pos = 2.625 	neg = 0.0  
+1. When I first heard t                 ... pos = 0.5   	neg = 0.5  
+2. John Cusack stars as                 ... pos = 0.375 	neg = 0.0  
+3. His marriage to Conn                 ... pos = 1.125 	neg = 0.125
+4. But then Russell Bel                 ... pos = 0.375 	neg = 0.0  
+5. An intense rivalry b                 ... pos = 0.125 	neg = 0.0  
+6. Nick begins to crush                 ... pos = 0.125 	neg = 0.0  
+7. Nick and Russell's r                 ... pos = 0.875 	neg = 1.0  
+8. John Cusack is fine                  ... pos = 0.5   	neg = 0.875
+9. It has been a while                  ... pos = 0.25  	neg = 0.125
+10. Billy Bob Thornton s                ... pos = 0.25  	neg = 0.375
+11. Thornton is indeed t                ... pos = 0.125 	neg = 0.5  
+12. Cate Blanchett's per                ... pos = 0.0   	neg = 0.125
+13. First of all, why sh                ... pos = 0.5   	neg = 0.25 
+14. She tries hard enoug                ... pos = 0.875 	neg = 1.0  
+15. Blanchett is a comma                ... pos = 1.125 	neg = 0.125
+16. And then there is th                ... pos = 0.0   	neg = 0.125
+17. Angelina Jolie.                     ... pos = 0     	neg = 0    
+18. There is nothing tha                ... pos = 1.75  	neg = 0.625
+19. Seriously, everyone                 ... pos = 0.625 	neg = 0.0  
+20. Angelina Jolie is go                ... pos = 0.0   	neg = 0.125
+21. Director Mike Newell                ... pos = 0.875 	neg = 0.0  
+22. For the most part, i                ... pos = 0.75  	neg = 0.25 
+23. If nothing else, New                ... pos = 0.625 	neg = 0.25 
+24. PUSHING TIN is also                 ... pos = 0.0   	neg = 0.25 
+25. That's my recommedat                ... pos = 0     	neg = 0    
+26. a review by Akiva Go                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1788-421 is Positive         ... pos = 14.5  	neg = 6.75 
+Overall score of document
+Total Pos = 14.5
+Total Neg = 6.75
+---------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+0. Starring: Julia Robe                 ... pos = 1.25  	neg = 0.125
+1. Of course he acciden                 ... pos = 0.75  	neg = 0.0  
+2. Thacker's underachie                 ... pos = 0.5   	neg = 0.125
+3. Opinion: We all know                 ... pos = 0.0   	neg = 0.25 
+4. Cute meeting.                        ... pos = 0.5   	neg = 0    
+5. Girl meets boy.                      ... pos = 0.25  	neg = 0.0  
+6. Girl loses boy.                      ... pos = 0.25  	neg = 0.0  
+7. Fate draws them toge                 ... pos = 0.375 	neg = 0.0  
+8. NOTTING HILL is no d                 ... pos = 0.625 	neg = 0.375
+9. The twist is that SH                 ... pos = 0.0   	neg = 0.375
+10. Meanwhile comic reli                ... pos = 0.375 	neg = 0.25 
+11. Julia Roberts does a                ... pos = 2.25  	neg = 0.5  
+12. Anna is rotten at re                ... pos = 0.375 	neg = 0.875
+13. Roberts is absolutel                ... pos = 0.625 	neg = 0.875
+14. NOTTING HILL, howeve                ... pos = 1.125 	neg = 0.125
+15. Women may thrill to                 ... pos = 1.125 	neg = 0.5  
+16. Thacker humbly "unde                ... pos = 0.0   	neg = 0.0  
+17. He kowtows and submi                ... pos = 0.25  	neg = 0.875
+18. His answer to Anna's                ... pos = 0.0   	neg = 0.125
+19. " Thacker needs a ba                ... pos = 0.0   	neg = 0.125
+20. Male or female, if y                ... pos = 0.25  	neg = 0.375
+21. But we can fantasize                ... pos = 0.0   	neg = 0.0  
+22. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4594-416 is Positive         ... pos = 10.875 	neg = 6.0  
+Overall score of document
+Total Pos = 10.875
+Total Neg = 6.0
+---------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Lisa Loom                 ... pos = 0.0   	neg = 0.0  
+2. Photographed by Jack                 ... pos = 0.0   	neg = 0.0  
+3. "Girl, Interrupted"                  ... pos = 0.625 	neg = 0.375
+4. While I am sure thes                 ... pos = 1.5   	neg = 1.25 
+5. "Haven't you ever co                 ... pos = 0.625 	neg = 0.375
+6. " she  pleads with u                 ... pos = 0.0   	neg = 0    
+7. But that's not the k                 ... pos = 0.25  	neg = 0.0  
+8. This is a young lady                 ... pos = 0.0   	neg = 0.125
+9. " whenever  anyone a                 ... pos = 0.75  	neg = 0.125
+10. Her name is Susanna                 ... pos = 0.0   	neg = 0.25 
+11. If the film is anyth                ... pos = 0.75  	neg = 0.125
+12. "Girl,  Interrupted"                ... pos = 0.0   	neg = 1.125
+13. There  are journal e                ... pos = 1.125 	neg = 0.0  
+14. Most of them are jus                ... pos = 0.25  	neg = 1.125
+15. The story is set in                 ... pos = 0.5   	neg = 1.0  
+16. After a suicide atte                ... pos = 1.125 	neg = 0.875
+17. ". Susanna does a lo                ... pos = 1.875 	neg = 0.375
+18. Fellow inmate Lisa (                ... pos = 0.0   	neg = 0.375
+19. Other friendly faces                ... pos = 0.125 	neg = 0.0  
+20. Anyone in a position                ... pos = 0.0   	neg = 0.125
+21. I am reminded of "Re                ... pos = 0.0   	neg = 1.0  
+22. "Girl, Interrupted"                 ... pos = 1.125 	neg = 1.875
+23. "  Perhaps the book                 ... pos = 1.875 	neg = 0.75 
+24. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5860-1540 is Positive        ... pos = 12.75 	neg = 11.375
+Overall score of document
+Total Pos = 12.75
+Total Neg = 11.375
+---------------------------------------------------------------------------

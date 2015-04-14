@@ -1,0 +1,40 @@
+0. Film review (C) 1997                 ... pos = 0.0   	neg = 0.25 
+1. Written by Akiva Gol                 ... pos = 0.0   	neg = 0    
+2. Starring Arnold Schw                 ... pos = 0.0   	neg = 0.0  
+3. I think maybe it's t                 ... pos = 0.0   	neg = 0.125
+4. Not only has the fir                 ... pos = 0.625 	neg = 0.125
+5. Let me give you an e                 ... pos = 0.375 	neg = 0.125
+6. Freeze (Arnold Schwa                 ... pos = 0.0   	neg = 0.0  
+7. Mr.                                  ... pos = 0     	neg = 0.0  
+8. Freeze's thugs are a                 ... pos = 0.25  	neg = 0.75 
+9. I might have expecte                 ... pos = 0.5   	neg = 1.0  
+10. After all, the previ                ... pos = 0.625 	neg = 1.25 
+11. Not any more; the li                ... pos = 0.0   	neg = 0.0  
+12. Robin holds onto the                ... pos = 0.25  	neg = 0.0  
+13. Mr.                                 ... pos = 0     	neg = 0.0  
+14. Freeze and Poison Iv                ... pos = 0.625 	neg = 0.375
+15. A World Dominating M                ... pos = 0.0   	neg = 0.25 
+16. My very favorite exa                ... pos = 1.125 	neg = 0.125
+17. Not bad, but wouldn'                ... pos = 0.0   	neg = 0.875
+18. ) notice if the road                ... pos = 0.625 	neg = 0.125
+19. I knew Gotham City w                ... pos = 0.0   	neg = 0.5  
+20. .                                   ... pos = 0     	neg = 0    
+21. .                                   ... pos = 0     	neg = 0    
+22. .                                   ... pos = 0     	neg = 0    
+23. It also seems that t                ... pos = 1.25  	neg = 0.25 
+24. As if three protagon                ... pos = 1.0   	neg = 1.5  
+25. All this might be se                ... pos = 0.125 	neg = 0.75 
+26. In fact, it's kind o                ... pos = 0.0   	neg = 0.0  
+27. Mr.                                 ... pos = 0     	neg = 0.0  
+28. Freeze and Poison Iv                ... pos = 0.0   	neg = 1.0  
+29. Their evil plot is a                ... pos = 0.0   	neg = 0.875
+30. ") as it is lame-bra                ... pos = 0.0   	neg = 1.0  
+31. And Robin's constant                ... pos = 0.125 	neg = 0.125
+32. Strip away the stars                ... pos = 0.0   	neg = 0.25 
+33. Grade: D+. .                        ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4883-716 is Negative         ... pos = 7.5   	neg = 11.625
+Overall score of document
+Total Pos = 7.5
+Total Neg = 11.625
+---------------------------------------------------------------------------

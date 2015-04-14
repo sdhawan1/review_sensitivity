@@ -1,0 +1,48 @@
+0. Hilarious, entertain                 ... pos = 0.625 	neg = 0.125
+1. With acting so uproa                 ... pos = 0.25  	neg = 0.625
+2. A sequel in the true                 ... pos = 1.0   	neg = 0.0  
+3. Dr.                                  ... pos = 0     	neg = 0    
+4. Evil (Mike Myers in                  ... pos = 0.25  	neg = 1.625
+5. He plans on taking o                 ... pos = 0.5   	neg = 0.0  
+6. In order to do this                  ... pos = 0.5   	neg = 0.0  
+7. Considering this see                 ... pos = 0.5   	neg = 0.625
+8. Understanding that l                 ... pos = 0.5   	neg = 0.125
+9. Dr.                                  ... pos = 0     	neg = 0    
+10. Evil has yet another                ... pos = 0.25  	neg = 2.0  
+11. This leads to a  won                ... pos = 1.25  	neg = 0.0  
+12. Just infuriating Sco                ... pos = 0.375 	neg = 0.0  
+13. Evil has been cloned                ... pos = 0.0   	neg = 0.875
+14. The result is what h                ... pos = 0.0   	neg = 0.75 
+15. To Dr.                              ... pos = 0     	neg = 0    
+16. Evil the clone is li                ... pos = 0.0   	neg = 1.0  
+17. After all, as the fi                ... pos = 0.125 	neg = 0.375
+18. This is an absolute                 ... pos = 1.375 	neg = 0.125
+19. Evil complains that                 ... pos = 0.0   	neg = 2.375
+20. ". When you have  a                 ... pos = 0.125 	neg = 0.0  
+21. In this installment,                ... pos = 0.5   	neg = 0.0  
+22. The basic plot outli                ... pos = 0.25  	neg = 0.125
+23. Evil, save Felicity                 ... pos = 0.5   	neg = 0.875
+24. Additionally, this p                ... pos = 0.0   	neg = 0.625
+25. Burt Bacharach, Elvi                ... pos = 0.125 	neg = 0.25 
+26. Mike Myers also take                ... pos = 0.0   	neg = 0.5  
+27. What really brings t                ... pos = 1.0   	neg = 0.375
+28. Even the trailers fo                ... pos = 0.5   	neg = 0.125
+29. So the  solution cho                ... pos = 0.125 	neg = 0.5  
+30. Additionally, there                 ... pos = 0.75  	neg = 0.25 
+31. And just to  top it                 ... pos = 0.75  	neg = 1.125
+32. Mike Myers may well                 ... pos = 0.0   	neg = 0.375
+33. Despite moderate suc                ... pos = 1.125 	neg = 0.125
+34. Regardless,  he is p                ... pos = 0.75  	neg = 0.125
+35. Heather Graham is th                ... pos = 0.0   	neg = 0.5  
+36. This is never better                ... pos = 1.125 	neg = 0.125
+37. The two of them ligh                ... pos = 0.5   	neg = 0.875
+38. Mike Myers has creat                ... pos = 0.25  	neg = 0    
+39. Spoofing everything                 ... pos = 0.25  	neg = 0.625
+40. Further enlightened                 ... pos = 2.0   	neg = 0.5  
+41. Needless to say, thi                ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1376-592 is Negative         ... pos = 18.375 	neg = 18.625
+Overall score of document
+Total Pos = 18.375
+Total Neg = 18.625
+---------------------------------------------------------------------------

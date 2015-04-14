@@ -1,0 +1,16 @@
+0. A Perfect Murder is                  ... pos = 0.0   	neg = 0.125
+1. Steven's business wi                 ... pos = 0.125 	neg = 0.125
+2. Emily is secretly sl                 ... pos = 0.0   	neg = 0.125
+3. All of this leads to                 ... pos = 0.0   	neg = 0.0  
+4. Based on the play Di                 ... pos = 1.375 	neg = 0.25 
+5. I would rank it as o                 ... pos = 0.0   	neg = 0.0  
+6. The film is far more                 ... pos = 1.375 	neg = 0.5  
+7. It's beautifully sho                 ... pos = 0.375 	neg = 0.0  
+8. I recommend the DVD,                 ... pos = 0.0   	neg = 0.0  
+9. 1999 (c) Quick Flick                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1007-170 is Positive         ... pos = 3.25  	neg = 1.125
+Overall score of document
+Total Pos = 3.25
+Total Neg = 1.125
+---------------------------------------------------------------------------

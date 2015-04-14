@@ -1,0 +1,43 @@
+0. Every combat veteran                 ... pos = 0.5   	neg = 0.125
+1. The vet will likely                  ... pos = 0.75  	neg = 0.375
+2. This is the territor                 ... pos = 2.875 	neg = 0.625
+3. The first half-hour                  ... pos = 0.375 	neg = 0.125
+4. It is a rendering of                 ... pos = 0.125 	neg = 0.125
+5. >From the first minu                 ... pos = 0.625 	neg = 0.25 
+6. The camera is at gru                 ... pos = 0.375 	neg = 0.375
+7. There's also waves o                 ... pos = 0.375 	neg = 0.25 
+8. In one of the most h                 ... pos = 0.5   	neg = 0    
+9. John Miller (Tom Han                 ... pos = 0.5   	neg = 0.625
+10. The tone thus set, w                ... pos = 0.125 	neg = 0.0  
+11. They are to descend                 ... pos = 0.625 	neg = 0.0  
+12. The reason?                         ... pos = 0     	neg = 0.0  
+13. Ryan is the last sur                ... pos = 0.125 	neg = 0.125
+14. Of course, as one of                ... pos = 0.375 	neg = 0.25 
+15. Is it worth it to ri                ... pos = 0.75  	neg = 0.125
+16. Besides Damon, `Savi                ... pos = 0.5   	neg = 0.125
+17. Edward Burns, the wi                ... pos = 0.0   	neg = 0.875
+18. Giovanni Ribisi, who                ... pos = 0.0   	neg = 0.5  
+19. Scrawny Jeremy Davie                ... pos = 0.875 	neg = 0.25 
+20. Holding it all toget                ... pos = 1.25  	neg = 1.0  
+21. Hanks is emblematic                 ... pos = 0.5   	neg = 0.125
+22. ' Miller clearly thi                ... pos = 1.0   	neg = 0.25 
+23. He just wants the or                ... pos = 0.125 	neg = 0.5  
+24. He's more Eisenhower                ... pos = 0.0   	neg = 0    
+25. What's striking abou                ... pos = 0.375 	neg = 0.125
+26. There is a minimum o                ... pos = 0.375 	neg = 0.25 
+27. The death is cheap,                 ... pos = 0.5   	neg = 1.25 
+28. One scene of a dying                ... pos = 0.125 	neg = 0.125
+29. No dewy, choked sent                ... pos = 0.125 	neg = 0.25 
+30. This portrayal of th                ... pos = 0.625 	neg = 0.125
+31. The exception to thi                ... pos = 0.25  	neg = 0.125
+32. Private Ryan?                       ... pos = 0.25  	neg = 0    
+33. ), a handsome family                ... pos = 1.0   	neg = 0.375
+34. It's here where `Sav                ... pos = 0.25  	neg = 0.0  
+35. The empty pandering                 ... pos = 0.125 	neg = 0.375
+36. This picture attempt                ... pos = 2.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2471-1006 is Positive        ... pos = 19.25 	neg = 10.375
+Overall score of document
+Total Pos = 19.25
+Total Neg = 10.375
+---------------------------------------------------------------------------

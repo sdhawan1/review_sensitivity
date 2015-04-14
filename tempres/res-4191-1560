@@ -1,0 +1,25 @@
+0. Magnolia Rating (out                 ... pos = 0.25  	neg = 0.875
+1. It's a film so beaut                 ... pos = 1.625 	neg = 0.0  
+2. But...... Let's get                  ... pos = 0.0   	neg = 0.75 
+3. Something happens at                 ... pos = 1.0   	neg = 0.375
+4. Taken at face value,                 ... pos = 1.5   	neg = 0.0  
+5. Although, once exami                 ... pos = 0.0   	neg = 0.0  
+6. And it is your toler                 ... pos = 0.25  	neg = 0.125
+7. However, despite wha                 ... pos = 0.125 	neg = 0.5  
+8. Sure, the basic prem                 ... pos = 1.375 	neg = 0.25 
+9. But it's director Pa                 ... pos = 0.0   	neg = 0.125
+10. While Altman's film                 ... pos = 1.0   	neg = 0.125
+11. >From foul-mouthed s                ... pos = 1.625 	neg = 1.625
+12. Nobody in the film's                ... pos = 0.625 	neg = 0.125
+13. But this is so much                 ... pos = 0.125 	neg = 0.125
+14. Tackling universal t                ... pos = 1.75  	neg = 0.125
+15. At one point late in                ... pos = 0.875 	neg = 0.125
+16. While most movies wo                ... pos = 1.0   	neg = 0.125
+17. Therein lies its bri                ... pos = 0.625 	neg = 0    
+18. *Find all of Jason's                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4191-1560 is Positive        ... pos = 13.75 	neg = 5.375
+Overall score of document
+Total Pos = 13.75
+Total Neg = 5.375
+---------------------------------------------------------------------------

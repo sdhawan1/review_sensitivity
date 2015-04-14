@@ -1,0 +1,40 @@
+0. Starring:  Tenzin Ye                 ... pos = 0.25  	neg = 0.25 
+1. The Dalai Lama is th                 ... pos = 0.0   	neg = 0.125
+2. Tibetans revere him                  ... pos = 0.0   	neg = 0.0  
+3. KUNDUN traces the Da                 ... pos = 0.0   	neg = 0    
+4. Opinion:  1.                         ... pos = 0     	neg = 0    
+5. The cinematography i                 ... pos = 0.875 	neg = 0.125
+6. 2.                                   ... pos = 0     	neg = 0    
+7. The plot is so unnec                 ... pos = 0.0   	neg = 1.0  
+8. 3.                                   ... pos = 0     	neg = 0    
+9. The music says 'Tibe                 ... pos = 0.125 	neg = 1.0  
+10. 4.                                  ... pos = 0     	neg = 0    
+11. Tencho Gyalpo does a                ... pos = 0.875 	neg = 0    
+12. 5.                                  ... pos = 0     	neg = 0    
+13. KUNDUN is an unconve                ... pos = 0.0   	neg = 0.125
+14. In my hometown there                ... pos = 0.0   	neg = 0.875
+15. Hollywood turned it                 ... pos = 0.0   	neg = 0.0  
+16. They portrayed the d                ... pos = 1.0   	neg = 0.0  
+17. And they portrayed h                ... pos = 0.25  	neg = 0.75 
+18. The Hollywood-ized v                ... pos = 0.0   	neg = 0.25 
+19. But that's the way H                ... pos = 0.25  	neg = 0.0  
+20. They dramatize and g                ... pos = 0.0   	neg = 0.75 
+21. What if movies didn'                ... pos = 0.0   	neg = 0.0  
+22. Then they might turn                ... pos = 0.0   	neg = 0.5  
+23. KUNDUN takes the opp                ... pos = 0.0   	neg = 0.0  
+24. Instead of giving us                ... pos = 0.625 	neg = 0.0  
+25. It plunges us into a                ... pos = 0.0   	neg = 0.25 
+26. KUNDUN is like openi                ... pos = 0.25  	neg = 1.0  
+27. With no big emphasis                ... pos = 0.25  	neg = 0.25 
+28. Which is probably ju                ... pos = 0.0   	neg = 0.125
+29. Remarkably, the enti                ... pos = 0.0   	neg = 0.125
+30. This makes KUNDUN th                ... pos = 0.0   	neg = 0.0  
+31. There are only two p                ... pos = 0.25  	neg = 0.0  
+32. Either you'll wonder                ... pos = 0.125 	neg = 0.125
+33. Or you'll be awed by                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3606-416 is Negative         ... pos = 5.875 	neg = 7.75 
+Overall score of document
+Total Pos = 5.875
+Total Neg = 7.75
+---------------------------------------------------------------------------

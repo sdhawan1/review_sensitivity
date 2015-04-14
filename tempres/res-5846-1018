@@ -1,0 +1,31 @@
+0. It is movies like th                 ... pos = 1.25  	neg = 0.125
+1. Based on the late 19                 ... pos = 0.0   	neg = 0.5  
+2. However, things go w                 ... pos = 0.5   	neg = 0.75 
+3. Of course, the ads m                 ... pos = 0.25  	neg = 0.0  
+4. Quick cuts, cool mus                 ... pos = 0.5   	neg = 0.25 
+5. Sounds like a cool m                 ... pos = 0.0   	neg = 0.0  
+6. After the first fift                 ... pos = 0.125 	neg = 0.125
+7. The Mod Squad is cer                 ... pos = 0.25  	neg = 0.125
+8. The film is best des                 ... pos = 0.375 	neg = 0.375
+9. And with it comes ev                 ... pos = 0.0   	neg = 0.0  
+10. It doesn't really ma                ... pos = 0.0   	neg = 0.25 
+11. The characters and a                ... pos = 1.0   	neg = 0.375
+12. Claire Danes and Oma                ... pos = 0.0   	neg = 0.0  
+13. The only one to esca                ... pos = 1.0   	neg = 0.5  
+14. Unfortunately, even                 ... pos = 1.0   	neg = 0.875
+15. With the young cast,                ... pos = 0.0   	neg = 0.25 
+16. Despite an American                 ... pos = 0.125 	neg = 0.375
+17. Information on the c                ... pos = 0.875 	neg = 1.0  
+18. ), dialogue is poorl                ... pos = 0.625 	neg = 0.875
+19. The way the film pro                ... pos = 0.75  	neg = 0.5  
+20. Basing the show on a                ... pos = 0.5   	neg = 0.25 
+21. The number of times                 ... pos = 0.5   	neg = 0.25 
+22. It is clear that the                ... pos = 0.0   	neg = 1.625
+23. Avoid this film at a                ... pos = 0.0   	neg = 0.0  
+24. -- . .                              ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5846-1018 is Positive        ... pos = 9.625 	neg = 9.375
+Overall score of document
+Total Pos = 9.625
+Total Neg = 9.375
+---------------------------------------------------------------------------

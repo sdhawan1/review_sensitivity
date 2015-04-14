@@ -1,0 +1,52 @@
+0. It is an understood                  ... pos = 1.25  	neg = 0.125
+1. Bud White walks into                 ... pos = 0.25  	neg = 0.375
+2. "  He's one of L.A.'                 ... pos = 0.375 	neg = 0.25 
+3. It's understood that                 ... pos = 0.75  	neg = 0.25 
+4. It's understood that                 ... pos = 1.375 	neg = 0.375
+5. You know without hav                 ... pos = 0.0   	neg = 0.125
+6. "You're the first gu                 ... pos = 0.125 	neg = 0.375
+7. "You look ten times                  ... pos = 0.5   	neg = 0.375
+8. "  He says it withou                 ... pos = 0.0   	neg = 0.0  
+9. Like he knows withou                 ... pos = 0.0   	neg = 0.0  
+10. White's face doesn't                ... pos = 0.0   	neg = 0    
+11. You see his eyes, an                ... pos = 0.625 	neg = 0    
+12. It's a perfect momen                ... pos = 0.0   	neg = 0.0  
+13. L.A.                                ... pos = 0.0   	neg = 0    
+14. Confidential is the                 ... pos = 0.5   	neg = 0.125
+15. It is grace and poet                ... pos = 0.375 	neg = 0.125
+16. It is a portrait of                 ... pos = 1.375 	neg = 0.625
+17. In a phrase, it is e                ... pos = 0.0   	neg = 0.125
+18. It is funny, it is e                ... pos = 0.75  	neg = 0.375
+19. It is the pinnacle o                ... pos = 0.375 	neg = 0.125
+20. It's hard to tell yo                ... pos = 0.125 	neg = 0.75 
+21. Besides, there's too                ... pos = 0.125 	neg = 0.25 
+22. Sure, it's about pol                ... pos = 1.5   	neg = 0.0  
+23. But it's also about                 ... pos = 1.375 	neg = 0.375
+24. Director Curtis Hans                ... pos = 1.375 	neg = 0.0  
+25. The actors work with                ... pos = 1.375 	neg = 0.125
+26. You can tell what ea                ... pos = 0.5   	neg = 0.125
+27. Russell Crowe plays                 ... pos = 0.25  	neg = 0.25 
+28. His movements are fi                ... pos = 0.5   	neg = 0    
+29. When he strikes, you                ... pos = 0.0   	neg = 0.5  
+30. His intensity oozes                 ... pos = 0.0   	neg = 0.0  
+31. You follow his chara                ... pos = 1.875 	neg = 0.125
+32. He's looking for a w                ... pos = 0.25  	neg = 0.0  
+33. His counter is Ed Ex                ... pos = 0.0   	neg = 0.125
+34. You feel for him, fo                ... pos = 0.875 	neg = 0.75 
+35. You know that he mus                ... pos = 1.125 	neg = 0.0  
+36. I've seen L.A Confid                ... pos = 0.25  	neg = 0.125
+37. I didn't want the th                ... pos = 0.0   	neg = 0.125
+38. It's been a long tim                ... pos = 0.0   	neg = 0.5  
+39. That's why I love mo                ... pos = 0.875 	neg = 0.375
+40. Watch L.A.                          ... pos = 0.125 	neg = 0    
+41. Confidential:  after                ... pos = 0.75  	neg = 0.0  
+42. That's why LA Confid                ... pos = 0.5   	neg = 0.0  
+43. L.A.                                ... pos = 0.0   	neg = 0    
+44. Confidential (**** o                ... pos = 0.125 	neg = 0.0  
+45. Starring Russell Cro                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1450-658 is Positive         ... pos = 22.5  	neg = 8.25 
+Overall score of document
+Total Pos = 22.5
+Total Neg = 8.25
+---------------------------------------------------------------------------

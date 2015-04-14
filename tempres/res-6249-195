@@ -1,0 +1,76 @@
+0. Do film critics have                 ... pos = 0.125 	neg = 0.0  
+1. Are there any unwrit                 ... pos = 0.75  	neg = 0.0  
+2. Naturally we don't w                 ... pos = 0.125 	neg = 0.375
+3. Secondly, and along                  ... pos = 0.0   	neg = 0.0  
+4. The difference?                      ... pos = 0.25  	neg = 0    
+5. Well, in the first o                 ... pos = 1.125 	neg = 1.125
+6. On the second hand,                  ... pos = 0.875 	neg = 1.0  
+7. Oh, it's just a merc                 ... pos = 0.0   	neg = 0.0  
+8. It's gonna stink!                    ... pos = 0     	neg = 0    
+9. ), or the director (                 ... pos = 0.0   	neg = 0.0  
+10. can't be that good).                ... pos = 0.75  	neg = 0.125
+11. This is more of a bi                ... pos = 0.375 	neg = 0.125
+12. Make sense?                         ... pos = 0.0   	neg = 0.0  
+13. Ok, but what about c                ... pos = 0.0   	neg = 0.0  
+14. Isn't that kind of a                ... pos = 0.0   	neg = 0.0  
+15. When we compare a ce                ... pos = 0.375 	neg = 0.75 
+16. Sure, in sequels you                ... pos = 0.5   	neg = 0.125
+17. Is it fair for me to                ... pos = 0.0   	neg = 0.125
+18. I think it is, and I                ... pos = 0.0   	neg = 0.125
+19. A good critic should                ... pos = 1.5   	neg = 0.125
+20. Sometimes that can b                ... pos = 0.0   	neg = 0.125
+21. "The acting was supe                ... pos = 1.375 	neg = 0.25 
+22. It was sooooo cheezy                ... pos = 0.0   	neg = 0.125
+23. " might be used to d                ... pos = 0.0   	neg = 0.625
+24. These are contradict                ... pos = 0.375 	neg = 0.0  
+25. But which is more im                ... pos = 0.875 	neg = 0.125
+26. And which is better?                ... pos = 0     	neg = 0.125
+27. An extremely well sh                ... pos = 0.625 	neg = 0.25 
+28. Getting back to the                 ... pos = 0.75  	neg = 0.0  
+29. Every average person                ... pos = 0.25  	neg = 0.125
+30. " And so, as a criti                ... pos = 0.625 	neg = 0.0  
+31. JACKIE BROWN stars P                ... pos = 1.5   	neg = 0.125
+32. Tarantino's PULP FIC                ... pos = 0.75  	neg = 0.75 
+33. (We've made it thru                 ... pos = 0.0   	neg = 0.0  
+34. ) Jackie is a 44-yea                ... pos = 0.5   	neg = 0.125
+35. Ordell is in the ill                ... pos = 0.125 	neg = 0.625
+36. Trouble arises when                 ... pos = 0.25  	neg = 0.875
+37. Naturally this prove                ... pos = 0.625 	neg = 0.125
+38. The thing is, Ordell                ... pos = 0.0   	neg = 0.625
+39. Jackie finds herself                ... pos = 0.0   	neg = 0.0  
+40. Ordell won't think t                ... pos = 0.25  	neg = 0.625
+41. It comes down to a s                ... pos = 0.75  	neg = 0.0  
+42. What ensues is a ric                ... pos = 0.25  	neg = 0.25 
+43. Coming into play is                 ... pos = 0.0   	neg = 0.25 
+44. Max's obvious fondne                ... pos = 2.5   	neg = 0.0  
+45. Also involved is Ord                ... pos = 0.0   	neg = 0.5  
+46. Fonda does the best                 ... pos = 1.875 	neg = 0.25 
+47. De Niro is also wast                ... pos = 0.125 	neg = 0.75 
+48. De Niro is a brillia                ... pos = 1.75  	neg = 0.125
+49. Compared to PULP FIC                ... pos = 2.0   	neg = 0.0  
+50. In PULP FICTION, eve                ... pos = 2.875 	neg = 0.75 
+51. Tarantino wrote this                ... pos = 1.0   	neg = 0.25 
+52. Sadly, Grier too cou                ... pos = 0.5   	neg = 1.0  
+53. Jackson teams up wit                ... pos = 1.125 	neg = 0.0  
+54. Jules was the rambli                ... pos = 0.0   	neg = 0.875
+55. And although Jackson                ... pos = 0.75  	neg = 0.125
+56. In fact, maybe a new                ... pos = 0.375 	neg = 0.125
+57. Jackson could've rem                ... pos = 0.5   	neg = 0.0  
+58. Sadly, these charact                ... pos = 2.0   	neg = 1.0  
+59. Another problem is t                ... pos = 0.0   	neg = 0.625
+60. This is Grier's film                ... pos = 1.875 	neg = 0.5  
+61. It not only makes th                ... pos = 0.0   	neg = 0.5  
+62. It is likely that th                ... pos = 0.75  	neg = 0.25 
+63. For those movie-goer                ... pos = 0.875 	neg = 0.25 
+64. The directing has to                ... pos = 2.375 	neg = 0.125
+65. So getting back to t                ... pos = 0.0   	neg = 0.0  
+66. It's good, but it is                ... pos = 0.875 	neg = 0.0  
+67. This is a more conse                ... pos = 0.625 	neg = 0.125
+68. If you can realize t                ... pos = 0.75  	neg = 0.75 
+69. After all, we all kn                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-195 is Positive         ... pos = 42.875 	neg = 19.0 
+Overall score of document
+Total Pos = 42.875
+Total Neg = 19.0
+---------------------------------------------------------------------------

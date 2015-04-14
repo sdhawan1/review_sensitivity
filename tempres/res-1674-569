@@ -1,0 +1,44 @@
+0. Director: Mimi Leder                 ... pos = 0.0   	neg = 0.375
+1. " This year, history                 ... pos = 0.0   	neg = 0.625
+2. Michael Bay's "Armag                 ... pos = 0.5   	neg = 0.0  
+3. All those involved w                 ... pos = 0.75  	neg = 0.25 
+4. They insist that "De                 ... pos = 1.25  	neg = 0.5  
+5. Maybe the deep impac                 ... pos = 0.625 	neg = 0.75 
+6. "Deep Impact" - unli                 ... pos = 1.125 	neg = 1.125
+7. Like all disaster mo                 ... pos = 0.0   	neg = 1.375
+8. It's a vicious, crue                 ... pos = 0.75  	neg = 0.5  
+9. No matter how much s                 ... pos = 0.5   	neg = 0.375
+10. Just think how ticke                ... pos = 0.0   	neg = 0.25 
+11. But then again, what                ... pos = 0.25  	neg = 0.25 
+12. Screenwriters Bruce                 ... pos = 0.25  	neg = 0.25 
+13. They have astronauts                ... pos = 0.125 	neg = 0.0  
+14. This way, we can sti                ... pos = 1.0   	neg = 0.125
+15. Plenty of death and                 ... pos = 0.125 	neg = 0.0  
+16. The majority of the                 ... pos = 1.5   	neg = 0.5  
+17. First off, we have T                ... pos = 1.25  	neg = 1.25 
+18. Jenny stumbles acros                ... pos = 0.0   	neg = 0.625
+19. Jenny then spends mo                ... pos = 0.125 	neg = 0.5  
+20. We also have Elijah                 ... pos = 0.125 	neg = 0.25 
+21. When the President a                ... pos = 0.375 	neg = 1.375
+22. Of course, 800,000 o                ... pos = 0.25  	neg = 0.125
+23. Last, but not least,                ... pos = 0.0   	neg = 0.125
+24. The team is led by c                ... pos = 0.125 	neg = 0.125
+25. Their first attempt                 ... pos = 0.125 	neg = 0.0  
+26. But don't count them                ... pos = 0     	neg = 0.0  
+27. Strictly speaking, "                ... pos = 0.0   	neg = 0.125
+28. Producers Richard Za                ... pos = 0.125 	neg = 0.625
+29. The script has been                 ... pos = 0.125 	neg = 0.125
+30. The script is still                 ... pos = 0.625 	neg = 0.375
+31. "Deep Impact" is def                ... pos = 0.375 	neg = 0.125
+32. On a tight schedule                 ... pos = 1.625 	neg = 0.375
+33. But because the stor                ... pos = 0.875 	neg = 0.875
+34. You can feel that th                ... pos = 0.75  	neg = 0.25 
+35. There are a few mome                ... pos = 1.239 	neg = 0.0  
+36. However, "Titanic" h                ... pos = 1.0   	neg = 0.125
+37. Somehow, it's just n                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1674-569 is Positive         ... pos = 17.864 	neg = 14.625
+Overall score of document
+Total Pos = 17.864
+Total Neg = 14.625
+---------------------------------------------------------------------------

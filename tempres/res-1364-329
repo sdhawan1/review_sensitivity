@@ -1,0 +1,48 @@
+0. Ray (Woody Allen) is                 ... pos = 0.0   	neg = 1.0  
+1. His brilliant idea i                 ... pos = 0.875 	neg = 0.0  
+2. Ray's wife Frenchy (                 ... pos = 0.375 	neg = 0.0  
+3. At the same time, th                 ... pos = 0.0   	neg = 0.0  
+4. Ray's very surprised                 ... pos = 1.125 	neg = 0.25 
+5. People line up for h                 ... pos = 0.0   	neg = 0.125
+6. Soon they have a mul                 ... pos = 0.0   	neg = 0.125
+7. Their company, Sunse                 ... pos = 0.0   	neg = 0.0  
+8. As we learn from a v                 ... pos = 0.5   	neg = 0.125
+9. One man is in charge                 ... pos = 0.0   	neg = 0.25 
+10. It appears Ray and F                ... pos = 0.125 	neg = 0.0  
+11. To her, being rich i                ... pos = 0.25  	neg = 0.0  
+12. It's things like boo                ... pos = 0.75  	neg = 0.0  
+13. So she hires a schol                ... pos = 0.75  	neg = 0.0  
+14. The couple begins to                ... pos = 0.0   	neg = 0.0  
+15. Ray starts  spending                ... pos = 0.375 	neg = 0.0  
+16. This film's packed f                ... pos = 0.0   	neg = 0.0  
+17. The wisecracking Fre                ... pos = 0.375 	neg = 0.125
+18. One of  my favorite                 ... pos = 0.0   	neg = 0.125
+19. She believes that  m                ... pos = 0.5   	neg = 0.125
+20. During the party, sh                ... pos = 1.375 	neg = 0.125
+21. " She also insists o                ... pos = 0.25  	neg = 0.0  
+22. Woody Allen does a g                ... pos = 0.0   	neg = 0    
+23. I truly  believe tha                ... pos = 2.25  	neg = 0.0  
+24. Woody gets to wear s                ... pos = 0.0   	neg = 0.25 
+25. Shorts notwithstandi                ... pos = 0.125 	neg = 0.0  
+26. He is a comic genius                ... pos = 0.25  	neg = 0.125
+27. Another character I                 ... pos = 1.375 	neg = 0.25 
+28. Elaine May makes her                ... pos = 0.0   	neg = 0.0  
+29. May never quite catc                ... pos = 0.875 	neg = 0.125
+30. She  definitely stea                ... pos = 0.75  	neg = 0.0  
+31. Also making good use                ... pos = 1.375 	neg = 0.0  
+32. The trailers promine                ... pos = 1.125 	neg = 0.0  
+33. Regardless of how mu                ... pos = 0.125 	neg = 0.0  
+34. Woody Allen has crea                ... pos = 0.5   	neg = 0.125
+35. This  amiable comedy                ... pos = 0.125 	neg = 0.0  
+36. Adults will rejoice                 ... pos = 0.625 	neg = 0.0  
+37. Kids may not fully u                ... pos = 0.875 	neg = 0.375
+38. Crooks becomes  slig                ... pos = 0.0   	neg = 0.25 
+39. Small Time Crooks is                ... pos = 0.0   	neg = 0.75 
+40. This movie manages t                ... pos = 0.25  	neg = 0.375
+41. The film is a treat,                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1364-329 is Positive         ... pos = 18.25 	neg = 5.125
+Overall score of document
+Total Pos = 18.25
+Total Neg = 5.125
+---------------------------------------------------------------------------

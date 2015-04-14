@@ -1,0 +1,32 @@
+0. Seen on 19 December                  ... pos = 0.125 	neg = 0.875
+1. That's the problem w                 ... pos = 0.0   	neg = 0.25 
+2. Or perhaps it just t                 ... pos = 0.25  	neg = 0.375
+3. This is the ninth *S                 ... pos = 0.0   	neg = 0.125
+4. ". The plot, in a nu                 ... pos = 0.375 	neg = 0.125
+5. Their activities are                 ... pos = 1.0   	neg = 0    
+6. Data (Brent Spiner)                  ... pos = 0.0   	neg = 0.375
+7. Meanwhile, it become                 ... pos = 0.5   	neg = 0.5  
+8. Captain Jean-Luc Pic                 ... pos = 0.125 	neg = 0.5  
+9. That, and he has a l                 ... pos = 1.125 	neg = 0.375
+10. Must be that Oil of                 ... pos = 0.375 	neg = 0.25 
+11. Meanwhile, Data "lea                ... pos = 0.125 	neg = 0.5  
+12. That's all well and                 ... pos = 0.75  	neg = 0    
+13. However, there are t                ... pos = 0.5   	neg = 0.5  
+14. What fans of the sho                ... pos = 1.25  	neg = 0.25 
+15. However, many dramat                ... pos = 0.875 	neg = 1.375
+16. What *is* entertaini                ... pos = 1.125 	neg = 0.875
+17. The special effects                 ... pos = 1.0   	neg = 0.375
+18. The Sona, by the way                ... pos = 0.0   	neg = 0.375
+19. The performances ran                ... pos = 0.5   	neg = 0.0  
+20. A final problem that                ... pos = 0.0   	neg = 0.25 
+21. William Riker) shoul                ... pos = 0.125 	neg = 0.0  
+22. Much of the action t                ... pos = 0.375 	neg = 0.375
+23. Sci-fi often works b                ... pos = 0.875 	neg = 0.0  
+24. Never has daylight s                ... pos = 0.0   	neg = 0.125
+25. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3258-92 is Positive          ... pos = 11.375 	neg = 8.875
+Overall score of document
+Total Pos = 11.375
+Total Neg = 8.875
+---------------------------------------------------------------------------

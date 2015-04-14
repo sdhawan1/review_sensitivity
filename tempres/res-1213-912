@@ -1,0 +1,47 @@
+0. IN SHORT: Jackson an                 ... pos = 0.0   	neg = 0.25 
+1. We begin with a mob                  ... pos = 0.0   	neg = 0.0  
+2. A team of Marines is                 ... pos = 0.375 	neg = 1.125
+3. Ambassador Mourain (                 ... pos = 0.125 	neg = 0.125
+4. His wife (Anne Arche                 ... pos = 0.5   	neg = 0    
+5. Colonel Childers doe                 ... pos = 0.0   	neg = 0.125
+6. Having been fired up                 ... pos = 0.25  	neg = 0.125
+7. The world's press (t                 ... pos = 0.25  	neg = 0.0  
+8. National Security Ad                 ... pos = 0.625 	neg = 0.125
+9. This, despite the fa                 ... pos = 0.25  	neg = 0.125
+10. Gee whillickers, lad                ... pos = 0     	neg = 0.0  
+11. A movie with somethi                ... pos = 0.0   	neg = 0.625
+12. dee-FENSE") and whin                ... pos = 0.0   	neg = 0.75 
+13. ") .                                ... pos = 0     	neg = 0    
+14. .                                   ... pos = 0     	neg = 0    
+15. .                                   ... pos = 0     	neg = 0    
+16. and there's more bla                ... pos = 0.0   	neg = 0.375
+17. You'll catch it imme                ... pos = 0.0   	neg = 0.0  
+18. Director William Fri                ... pos = 0.0   	neg = 0.875
+19. With eight day to mu                ... pos = 0.0   	neg = 1.0  
+20. Simply put, Good Sol                ... pos = 0.75  	neg = 0.0  
+21. Self-admitted Bad La                ... pos = 0.0   	neg = 0.875
+22. Evil Government Stoo                ... pos = 0.0   	neg = 0.875
+23. Do I believe any of                 ... pos = 0.125 	neg = 0.0  
+24. Hell no.                            ... pos = 0     	neg = 0.75 
+25. 'cuz we all have tha                ... pos = 0.25  	neg = 0.875
+26. Sure, it would be ni                ... pos = 0.375 	neg = 0.625
+27. And it would have be                ... pos = 0.125 	neg = 0.125
+28. We know from their p                ... pos = 1.375 	neg = 0.125
+29. Both of 'em generate                ... pos = 0.0   	neg = 0.0  
+30. We've already pointe                ... pos = 0.25  	neg = 0.125
+31. On average, a first                 ... pos = 0.25  	neg = 0.0  
+32. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+33. There's so little st                ... pos = 0.375 	neg = 0.25 
+34. There was a Gulf War                ... pos = 0.0   	neg = 0.125
+35. But did he "hate the                ... pos = 0.0   	neg = 0.0  
+36. Hell no.                            ... pos = 0     	neg = 0.75 
+37. Simply, buy the big                 ... pos = 0.0   	neg = 0.0  
+38. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+39. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+40. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1213-912 is Negative         ... pos = 6.625 	neg = 11.375
+Overall score of document
+Total Pos = 6.625
+Total Neg = 11.375
+---------------------------------------------------------------------------

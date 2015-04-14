@@ -1,0 +1,46 @@
+0. *** (out of 4) "The                  ... pos = 0.0   	neg = 0.625
+1. That might explain t                 ... pos = 0.625 	neg = 1.0  
+2. No, even with a less                 ... pos = 1.75  	neg = 0.25 
+3. The movie starts wit                 ... pos = 0.125 	neg = 0.0  
+4. The film jumps 25 ye                 ... pos = 0.125 	neg = 0.0  
+5. Hard times have sinc                 ... pos = 0.75  	neg = 1.125
+6. On their way home fr                 ... pos = 0.125 	neg = 0.5  
+7. But the poster gives                 ... pos = 0.0   	neg = 0.0  
+8. They'll put on their                 ... pos = 0.0   	neg = 0.0  
+9. Dave is reluctant an                 ... pos = 0.125 	neg = 0.125
+10. But Gaz persists.                   ... pos = 0.0   	neg = 0.0  
+11. In one of the movie'                ... pos = 0.375 	neg = 0.0  
+12. What makes the scene                ... pos = 0.75  	neg = 0.625
+13. Until now, Gaz has b                ... pos = 0.0   	neg = 0.125
+14. Suddenly, he has all                ... pos = 0.0   	neg = 0.375
+15. The change is so une                ... pos = 0.125 	neg = 0.375
+16. Gaz hires more and m                ... pos = 0.0   	neg = 0.0  
+17. .                                   ... pos = 0     	neg = 0    
+18. .                                   ... pos = 0     	neg = 0    
+19. .                                   ... pos = 0     	neg = 0    
+20. uh .                                ... pos = 0     	neg = 0    
+21. .                                   ... pos = 0     	neg = 0    
+22. .                                   ... pos = 0     	neg = 0    
+23. .                                   ... pos = 0     	neg = 0    
+24. Monty.                              ... pos = 0     	neg = 0    
+25. Soon there are enoug                ... pos = 0.25  	neg = 0.0  
+26. The story is rather                 ... pos = 0.5   	neg = 0.125
+27. It still has just th                ... pos = 0.0   	neg = 0.0  
+28. Its characters are f                ... pos = 1.5   	neg = 0.0  
+29. For example, Gaz and                ... pos = 0.875 	neg = 0.125
+30. The way they do it i                ... pos = 0.5   	neg = 1.125
+31. And when they remove                ... pos = 0.0   	neg = 0.125
+32. We laugh not because                ... pos = 0.25  	neg = 0.25 
+33. The only flaw I perc                ... pos = 0.375 	neg = 0.875
+34. After an entire movi                ... pos = 0.125 	neg = 0.25 
+35. If you do go see THE                ... pos = 0.0   	neg = 0.125
+36. Could the movie have                ... pos = 0.0   	neg = 0.375
+37. Would it be possible                ... pos = 0.0   	neg = 0.375
+38. Mabye it could be ca                ... pos = 0.0   	neg = 0.375
+39. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-747-1008 is Negative         ... pos = 9.25  	neg = 9.25 
+Overall score of document
+Total Pos = 9.25
+Total Neg = 9.25
+---------------------------------------------------------------------------

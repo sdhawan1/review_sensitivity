@@ -1,0 +1,31 @@
+0. Cinematic storytelli                 ... pos = 0.875 	neg = 0.0  
+1. That is why there ar                 ... pos = 0.25  	neg = 0.125
+2. (Although in real li                 ... pos = 0.125 	neg = 0.375
+3. ) This film is about                 ... pos = 0.25  	neg = 0.75 
+4. By definition, the j                 ... pos = 0.0   	neg = 0.625
+5. They are always hand                 ... pos = 0.625 	neg = 0.375
+6. Any mistakes made ca                 ... pos = 0.0   	neg = 0.625
+7. Frank Pierce (Nicola                 ... pos = 0.375 	neg = 0.125
+8. He is lacking an imp                 ... pos = 0.875 	neg = 0.125
+9. Frank gets too invol                 ... pos = 0.0   	neg = 0.25 
+10. The story begins wit                ... pos = 0.5   	neg = 0.0  
+11. Frank is able to rev                ... pos = 0.75  	neg = 0.125
+12. The sympathetic Fran                ... pos = 0.25  	neg = 0    
+13. Like the drugs that                 ... pos = 0.25  	neg = 0.25 
+14. He wants to quit, bu                ... pos = 0.125 	neg = 0.0  
+15. The lingering state                 ... pos = 0.75  	neg = 0.0  
+16. Although Frank is ef                ... pos = 0.625 	neg = 0.5  
+17. Veteran director Mar                ... pos = 0.625 	neg = 0.0  
+18. The high speed views                ... pos = 0.375 	neg = 0.0  
+19. However, in terms of                ... pos = 0.75  	neg = 0.125
+20. The subplot of Noel                 ... pos = 0.375 	neg = 0.75 
+21. The character of Fra                ... pos = 2.25  	neg = 0.125
+22. Recommended.                        ... pos = 0.0   	neg = 0    
+23. The film is well dir                ... pos = 0.0   	neg = 0.75 
+24. It dwells upon its b                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3616-707 is Positive         ... pos = 11.0  	neg = 6.0  
+Overall score of document
+Total Pos = 11.0
+Total Neg = 6.0
+---------------------------------------------------------------------------

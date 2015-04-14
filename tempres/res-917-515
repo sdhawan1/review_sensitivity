@@ -1,0 +1,39 @@
+0. Men in Black (1997)                  ... pos = 0.125 	neg = 0.0  
+1. Directed by: Barry S                 ... pos = 0.0   	neg = 0    
+2. Running Time: 98 min                 ... pos = 0     	neg = 0.0  
+3. Finally a decent sum                 ... pos = 0.0   	neg = 0.0  
+4. Not a great one, but                 ... pos = 0.0   	neg = 0.0  
+5. But as far as the su                 ... pos = 0.25  	neg = 0.25 
+6. "Men in Black" is pr                 ... pos = 0.0   	neg = 0.125
+7. In it, secret govern                 ... pos = 0.875 	neg = 0.0  
+8. Yes, it seems aliens                 ... pos = 0.0   	neg = 0.25 
+9. Smith is a New York                  ... pos = 0.375 	neg = 0.75 
+10. The film does two th                ... pos = 0.0   	neg = 0.0  
+11. The concept is refre                ... pos = 1.0   	neg = 0.25 
+12. What it fails at is                 ... pos = 1.0   	neg = 0.25 
+13. Any details of this                 ... pos = 1.0   	neg = 0.0  
+14. Not much, but just a                ... pos = 0.125 	neg = 0.125
+15. As far as the meat o                ... pos = 0.0   	neg = 1.125
+16. That is how clear th                ... pos = 0.0   	neg = 0.125
+17. This evil alien, who                ... pos = 0.5   	neg = 1.375
+18. ) and attempts to us                ... pos = 0.125 	neg = 0.0  
+19. I use the word "atte                ... pos = 0.375 	neg = 0.0  
+20. It's partly amusing                 ... pos = 0.125 	neg = 0.5  
+21. Do we care if the sl                ... pos = 0.0   	neg = 0.25 
+22. There's never any se                ... pos = 0.0   	neg = 0.0  
+23. You can make a zany                 ... pos = 0.0   	neg = 0.5  
+24. And the film's final                ... pos = 0.875 	neg = 0.875
+25. Unfortunately, some                 ... pos = 0.25  	neg = 1.125
+26. The filmmakers shoul                ... pos = 0.25  	neg = 0.0  
+27. ", as those are stil                ... pos = 0.25  	neg = 0.25 
+28. "Men in Black" does                 ... pos = 0.25  	neg = 0    
+29. Jones and Smith have                ... pos = 0.5   	neg = 1.0  
+30. It's a fun flick, as                ... pos = 0.125 	neg = 0.125
+31. [PG-13]. Visit Chuck                ... pos = 0.125 	neg = 0.0  
+32. Movie news, film rel                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-917-515 is Negative          ... pos = 8.5   	neg = 9.25 
+Overall score of document
+Total Pos = 8.5
+Total Neg = 9.25
+---------------------------------------------------------------------------

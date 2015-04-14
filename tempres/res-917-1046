@@ -1,0 +1,34 @@
+0. CAPSULE: Winsomely e                 ... pos = 0.75  	neg = 0    
+1. Too bad it's all emp                 ... pos = 0.0   	neg = 1.125
+2. There is never a que                 ... pos = 0.625 	neg = 0.375
+3. It is.                               ... pos = 0.0   	neg = 0.125
+4. It's a comic book fo                 ... pos = 0.0   	neg = 0.375
+5. The premise is simpl                 ... pos = 0.0   	neg = 0.125
+6. They're a corps of e                 ... pos = 0.25  	neg = 0.0  
+7. Agent K (Tommy Lee J                 ... pos = 0.875 	neg = 0.375
+8. (This is the second                  ... pos = 0.0   	neg = 0.125
+9. ). There are moments                 ... pos = 0.5   	neg = 0.0  
+10. Smith, alias J, wond                ... pos = 0.625 	neg = 0.25 
+11. But then the movie s                ... pos = 0.0   	neg = 1.375
+12. This is undeniably a                ... pos = 0.5   	neg = 0.625
+13. Take, for instance,                 ... pos = 0.0   	neg = 0.0  
+14. That begs a question                ... pos = 0.0   	neg = 0.25 
+15. That's only one exam                ... pos = 0.875 	neg = 0.0  
+16. Instead we get a plo                ... pos = 0.0   	neg = 0.0  
+17. And there are severa                ... pos = 0.5   	neg = 0.875
+18. One of the surest si                ... pos = 0.125 	neg = 0.625
+19. Yes, the movie is fu                ... pos = 0.125 	neg = 0.125
+20. Specifically, the ac                ... pos = 0.75  	neg = 0.0  
+21. Tommy Lee Jones, as                 ... pos = 0.5   	neg = 0.5  
+22. Smith is sidesplitti                ... pos = 1.25  	neg = 0.125
+23. But somehow it's all                ... pos = 0.0   	neg = 0.25 
+24. I went in expecting                 ... pos = 1.125 	neg = 0.25 
+25. I mentioned at the s                ... pos = 0.0   	neg = 0.125
+26. If the folks who mad                ... pos = 0.0   	neg = 0.125
+27. LOCATION FOOTNOTE: T                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-917-1046 is Positive         ... pos = 9.75  	neg = 8.25 
+Overall score of document
+Total Pos = 9.75
+Total Neg = 8.25
+---------------------------------------------------------------------------

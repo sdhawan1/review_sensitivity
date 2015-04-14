@@ -1,0 +1,45 @@
+0. Starring Julia Rober                 ... pos = 0     	neg = 0.0  
+1. Rated PG.                            ... pos = 0.125 	neg = 0    
+2. If I had to name the                 ... pos = 0.25  	neg = 0.875
+3. How and why the char                 ... pos = 2.5   	neg = 0.5  
+4. Sometimes we aren't                  ... pos = 0.25  	neg = 0.125
+5. The reason I warmed                  ... pos = 0.625 	neg = 0.5  
+6. This is a film that                  ... pos = 0.0   	neg = 0.125
+7. It works not only as                 ... pos = 1.625 	neg = 0.0  
+8. The Runaway Bride re                 ... pos = 0     	neg = 0.25 
+9. The latter plays Ike                 ... pos = 0.125 	neg = 0.25 
+10. Sitting in his favor                ... pos = 0.125 	neg = 0.25 
+11. Ike loves it and dec                ... pos = 0.625 	neg = 0.0  
+12. His damning mistake                 ... pos = 0.875 	neg = 0.75 
+13. Maggie Carpenter, th                ... pos = 0.125 	neg = 0.25 
+14. Lies about her in a                 ... pos = 0.75  	neg = 0.625
+15. The editor (coincide                ... pos = 0.0   	neg = 0.0  
+16. His friend makes the                ... pos = 0.125 	neg = 0.0  
+17. Our merry journalist                ... pos = 0.875 	neg = 0.125
+18. There's Peggy, Maggi                ... pos = 1.0   	neg = 0.0  
+19. Bob is a nice enough                ... pos = 0.25  	neg = 0.375
+20. The romance that ine                ... pos = 1.125 	neg = 0.125
+21. They fall in love li                ... pos = 0.625 	neg = 0.0  
+22. There is no suddenne                ... pos = 0.625 	neg = 0.375
+23. We can see not only                 ... pos = 1.0   	neg = 0.25 
+24. Julia Roberts looks                 ... pos = 0.0   	neg = 0.375
+25. She's spontaneous, f                ... pos = 1.125 	neg = 0.125
+26. She pulls her role o                ... pos = 1.375 	neg = 1.25 
+27. Richard Gere is a bi                ... pos = 0.75  	neg = 1.75 
+28. And what can I say a                ... pos = 0.0   	neg = 0.0  
+29. One of the best work                ... pos = 0.625 	neg = 0.375
+30. The Runaway Bride li                ... pos = 0.0   	neg = 0.125
+31. Director Gary Marsha                ... pos = 2.625 	neg = 0.0  
+32. Some of the jokes ar                ... pos = 1.0   	neg = 0.75 
+33. Like most romantic c                ... pos = 1.375 	neg = 0.0  
+34. The Runaway Bride is                ... pos = 0.0   	neg = 0.375
+35. In addition to laugh                ... pos = 0.125 	neg = 0.25 
+36. That has become so r                ... pos = 0.25  	neg = 0.25 
+37. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+38. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-363-563 is Positive          ... pos = 22.875 	neg = 11.375
+Overall score of document
+Total Pos = 22.875
+Total Neg = 11.375
+---------------------------------------------------------------------------

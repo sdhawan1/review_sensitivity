@@ -1,0 +1,28 @@
+0. Cast: David Duchovny                 ... pos = 2.5   	neg = 0.25 
+1. But the question eve                 ... pos = 0.0   	neg = 0.25 
+2. The answer, not surp                 ... pos = 0.5   	neg = 0.25 
+3. In terms of budget,                  ... pos = 0.25  	neg = 0.375
+4. But strangely, it fe                 ... pos = 0.375 	neg = 0.5  
+5. But, like always, cr                 ... pos = 0.875 	neg = 0.625
+6. After all, what woul                 ... pos = 0.0   	neg = 0.125
+7. Capping off where th                 ... pos = 0.125 	neg = 1.25 
+8. It appears as if two                 ... pos = 1.25  	neg = 1.25 
+9. Thus a new conspirac                 ... pos = 1.75  	neg = 0.125
+10. Oh yeah, and The Tru                ... pos = 0.5   	neg = 0.125
+11. I guess it goes with                ... pos = 1.0   	neg = 0.125
+12. But, it isn't just a                ... pos = 1.125 	neg = 0.125
+13. However, the more de                ... pos = 1.25  	neg = 0.25 
+14. Rob Bowman (who has                 ... pos = 0.375 	neg = 0.0  
+15. He follows the scree                ... pos = 0.5   	neg = 0.0  
+16. Along with Mike Oldf                ... pos = 0.25  	neg = 0.0  
+17. For a movie that isn                ... pos = 0.0   	neg = 0.0  
+18. Perhaps it is becaus                ... pos = 0.5   	neg = 0.5  
+19. Should there will be                ... pos = 2.125 	neg = 0.375
+20. Maybe then we would                 ... pos = 1.875 	neg = 0.125
+21. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2979-1111 is Positive        ... pos = 17.375 	neg = 6.625
+Overall score of document
+Total Pos = 17.375
+Total Neg = 6.625
+---------------------------------------------------------------------------

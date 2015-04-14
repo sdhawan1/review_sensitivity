@@ -1,0 +1,72 @@
+0. Starring: David Duch                 ... pos = 0.75  	neg = 0.25 
+1. Well, if you mean yo                 ... pos = 0.875 	neg = 0.25 
+2. The movie titles onl                 ... pos = 0     	neg = 0.0  
+3. The advertisements a                 ... pos = 0.125 	neg = 0.0  
+4. Well, take it either                 ... pos = 0.0   	neg = 0.0  
+5. I think it's just TH                 ... pos = 0.0   	neg = 0.0  
+6. Oh, did you want the                 ... pos = 0.5   	neg = 0.125
+7. As in, is it any goo                 ... pos = 0.75  	neg = 0.125
+8. Well, I'm not the bi                 ... pos = 0.0   	neg = 0.0  
+9. You see, I've only s                 ... pos = 0.0   	neg = 0.0  
+10. So I'm not a big X-P                ... pos = 0.0   	neg = 0.0  
+11. So it's safe to say                 ... pos = 0.0   	neg = 0.0  
+12. It's good.                          ... pos = 0.75  	neg = 0    
+13. It's very good.                     ... pos = 1.25  	neg = 0    
+14. It's great, in fact.                ... pos = 0.0   	neg = 0    
+15. The first true RIDE                 ... pos = 0.625 	neg = 0.25 
+16. If you haven't seen                 ... pos = 0.25  	neg = 0.0  
+17. Wait, not now.                      ... pos = 0.0   	neg = 0.0  
+18. You might want to re                ... pos = 0.125 	neg = 0.625
+19. Of course, that's re                ... pos = 0.0   	neg = 0.625
+20. Don't worry, I won't                ... pos = 0.25  	neg = 0.0  
+21. I make a point to on                ... pos = 0.0   	neg = 0.125
+22. Okay, citizens.                     ... pos = 0.0   	neg = 0.125
+23. THE X-FILES opens up                ... pos = 0.0   	neg = 0.375
+24. caveman ages.                       ... pos = 0.0   	neg = 0    
+25. The beast remains in                ... pos = 0.25  	neg = 0.5  
+26. Cut to the present d                ... pos = 0.0   	neg = 0.0  
+27. We see a mysterious                 ... pos = 0.875 	neg = 0.75 
+28. Is there a connectio                ... pos = 0.0   	neg = 0.125
+29. Does Bea Arthur look                ... pos = 0.0   	neg = 1.375
+30. And from there, we c                ... pos = 0     	neg = 0.25 
+31. Previously, they wor                ... pos = 1.0   	neg = 0.375
+32. Cases that seem to d                ... pos = 0.125 	neg = 0.0  
+33. But that's ridiculou                ... pos = 0     	neg = 0.625
+34. Well, Scully thinks                 ... pos = 0.0   	neg = 0.625
+35. Mulder believes all                 ... pos = 0.125 	neg = 0    
+36. Anyway, the files ha                ... pos = 0.125 	neg = 1.375
+37. Now he and Scully ar                ... pos = 0.375 	neg = 0.0  
+38. Yeah, that's a big y                ... pos = 0.0   	neg = 0.0  
+39. Of course, when some                ... pos = 0.5   	neg = 1.875
+40. Now they're going to                ... pos = 1.25  	neg = 0.0  
+41. Of course, they can'                ... pos = 0.0   	neg = 0.25 
+42. The performances are                ... pos = 2.5   	neg = 1.125
+43. And since they've ha                ... pos = 1.375 	neg = 0.0  
+44. We really care about                ... pos = 0.625 	neg = 0.25 
+45. The action scenes ar                ... pos = 0.25  	neg = 0.625
+46. Really though, this                 ... pos = 0.0   	neg = 0.125
+47. It's a winding plot                 ... pos = 0.0   	neg = 0.0  
+48. Some of the scenes a                ... pos = 0.875 	neg = 0.25 
+49. The plot winds aroun                ... pos = 0.25  	neg = 0.0  
+50. The effects, when th                ... pos = 0.25  	neg = 0.25 
+51. Seems like this movi                ... pos = 0.875 	neg = 1.0  
+52. If there's a flaw to                ... pos = 0.25  	neg = 0.0  
+53. We understand their                 ... pos = 0.5   	neg = 0.0  
+54. There had to be some                ... pos = 0.0   	neg = 0.125
+55. I know, I know, I'm                 ... pos = 0.25  	neg = 0.125
+56. But I can assure you                ... pos = 0.5   	neg = 0.5  
+57. Maybe series fans kn                ... pos = 0.0   	neg = 0.0  
+58. Though really, in su                ... pos = 0.0   	neg = 0.0  
+59. I can't elaborate to                ... pos = 0.125 	neg = 0.5  
+60. You have to go and s                ... pos = 0.0   	neg = 0.0  
+61. And you'd better.                   ... pos = 0     	neg = 0.0  
+62. The summer has had s                ... pos = 1.5   	neg = 0.25 
+63. One wonders if Chris                ... pos = 0.75  	neg = 0.0  
+64. But there's no need                 ... pos = 0.25  	neg = 0.375
+65. Now, all you have to                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2979-631 is Positive         ... pos = 22.0  	neg = 16.625
+Overall score of document
+Total Pos = 22.0
+Total Neg = 16.625
+---------------------------------------------------------------------------

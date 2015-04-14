@@ -1,0 +1,56 @@
+0. Starring Matt Damon,                 ... pos = 0.625 	neg = 0.125
+1. Good advice, conside                 ... pos = 1.125 	neg = 0.0  
+2. ROUNDERS tries  hard                 ... pos = 0.958 	neg = 0.75 
+3. It tries to dazzle                   ... pos = 0.0   	neg = 0.625
+4. It wants you to succ                 ... pos = 0.875 	neg = 0.125
+5. The film tries so ha                 ... pos = 0.0   	neg = 1.25 
+6. But I'm here to tell                 ... pos = 0.0   	neg = 0.0  
+7. For all its finely h                 ... pos = 0.875 	neg = 0.75 
+8. Mike is a law studen                 ... pos = 0.25  	neg = 0.125
+9. As the story opens,                  ... pos = 1.625 	neg = 0.375
+10. But the good times n                ... pos = 1.25  	neg = 0.0  
+11. Out of prison steps                 ... pos = 0.5   	neg = 0.25 
+12. Worm, the proverbial                ... pos = 0.625 	neg = 0.375
+13. Mike makes the mista                ... pos = 0.0   	neg = 0.875
+14. Before he knows what                ... pos = 0.0   	neg = 0.375
+15. There is nothing for                ... pos = 0.0   	neg = 0.375
+16. He must win large, w                ... pos = 0.875 	neg = 0.375
+17. Much is made of the                 ... pos = 0.125 	neg = 0.375
+18. To Mike,  gambling i                ... pos = 0.0   	neg = 0.125
+19. He has spent a lifet                ... pos = 0.875 	neg = 0.625
+20. Worm, on the other h                ... pos = 0.625 	neg = 0.375
+21. Will Mike's blind lo                ... pos = 0.75  	neg = 0.75 
+22. You betcha.                         ... pos = 0     	neg = 0    
+23. Damon and Norton, gi                ... pos = 0.0   	neg = 0.0  
+24. The problem is that                 ... pos = 0.0   	neg = 0.375
+25. There's Denzel Washi                ... pos = 0.25  	neg = 0.0  
+26. The good-hearted  an                ... pos = 1.375 	neg = 0.0  
+27. Gritty realism and g                ... pos = 0.125 	neg = 0.25 
+28. The rest of the film                ... pos = 0.375 	neg = 0.125
+29. Gretchen Mol is sadd                ... pos = 0.375 	neg = 0.25 
+30. John Turturro has a                 ... pos = 0.5   	neg = 0.5  
+31. And what can I say a                ... pos = 0.0   	neg = 0.0  
+32. His  performance is                 ... pos = 0.875 	neg = 0.125
+33. He affects a nearly                 ... pos = 0.125 	neg = 0.5  
+34. Toning it down a bit                ... pos = 0.0   	neg = 0.125
+35. I did, however,  enj                ... pos = 0.5   	neg = 0.0  
+36. Before placing his b                ... pos = 0.25  	neg = 0.0  
+37. Everybody has a secr                ... pos = 0.0   	neg = 0.125
+38. ROUNDERS is worth a                 ... pos = 0.25  	neg = 0.625
+39. But there is simply                 ... pos = 0.125 	neg = 0.125
+40. High stakes poker wo                ... pos = 0.125 	neg = 0.25 
+41. Part of the problem                 ... pos = 0.0   	neg = 0.375
+42. But the direction, t                ... pos = 0.0   	neg = 0.625
+43. Dahl has a good resu                ... pos = 1.5   	neg = 0.25 
+44. While  those films w                ... pos = 0.875 	neg = 0.25 
+45. It doesn't help that                ... pos = 0.125 	neg = 0.0  
+46. If you really want t                ... pos = 0.125 	neg = 0.75 
+47. Why settle for a cou                ... pos = 0.25  	neg = 0.125
+48. Please visit the FIL                ... pos = 0.625 	neg = 0.0  
+49. " -- The LOS ANGELES                ... pos = 0.5   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5699-176 is Positive         ... pos = 21.208 	neg = 14.75
+Overall score of document
+Total Pos = 21.208
+Total Neg = 14.75
+---------------------------------------------------------------------------

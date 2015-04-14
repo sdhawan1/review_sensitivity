@@ -1,0 +1,43 @@
+0. NOTE: Ordinarily, Mo                 ... pos = 0.5   	neg = 0.0  
+1. " However, being  th                 ... pos = 1.25  	neg = 0.25 
+2. If  this bothers you                 ... pos = 0.0   	neg = 0.0  
+3. "What does it take t                 ... pos = 0.0   	neg = 0    
+4. Practice.                            ... pos = 0.25  	neg = 0    
+5. ". It takes two hour                 ... pos = 0.25  	neg = 0.0  
+6. Like the children it                 ... pos = 0.25  	neg = 0.875
+7. Roberta Guaspari (Ac                 ... pos = 0.875 	neg = 0    
+8. Her life desperately                 ... pos = 0.25  	neg = 0.125
+9. She soon finds her j                 ... pos = 0.0   	neg = 0.125
+10. That is  the pattern                ... pos = 0.0   	neg = 0.125
+11. Ultimately, the film                ... pos = 0.0   	neg = 0.25 
+12. The first hour of Mu                ... pos = 0.875 	neg = 0.875
+13. Roberta's  character                ... pos = 0.875 	neg = 0.375
+14. Also  lacking depth                 ... pos = 0.875 	neg = 1.625
+15. The next 15 minutes                 ... pos = 0.25  	neg = 0.778
+16. They are highlighted                ... pos = 1.125 	neg = 0.25 
+17. Not knowing the runn                ... pos = 0.0   	neg = 0.0  
+18. But they don't.                     ... pos = 0     	neg = 0.0  
+19. Instead the film use                ... pos = 1.0   	neg = 1.653
+20. Director Wes Craven,                ... pos = 1.5   	neg = 0.0  
+21. One romantic break u                ... pos = 1.125 	neg = 0.125
+22. The city of Harlem p                ... pos = 0.5   	neg = 0.0  
+23. Roberta's mother  is                ... pos = 0.125 	neg = 0.375
+24. The noise tracks for                ... pos = 0.25  	neg = 0.75 
+25. One thing the film d                ... pos = 0.125 	neg = 0.25 
+26. The fact that a litt                ... pos = 1.625 	neg = 0.5  
+27. The fact that the en                ... pos = 0.375 	neg = 0.5  
+28. (Of  course, in horr                ... pos = 1.0   	neg = 0.625
+29. ). Even with all its                ... pos = 1.0   	neg = 0.125
+30. That is  not an excu                ... pos = 0.0   	neg = 0.125
+31. But as I watched the                ... pos = 0.0   	neg = 0.0  
+32. In December of 1979                 ... pos = 0.375 	neg = 0.125
+33. The performance incl                ... pos = 0.375 	neg = 0.0  
+34. So,  how did this co                ... pos = 0.25  	neg = 0.0  
+35. He had a  character                 ... pos = 0.875 	neg = 0.125
+36. Perhaps it is okay f                ... pos = 0.25  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2109-592 is Positive         ... pos = 18.375 	neg = 11.806
+Overall score of document
+Total Pos = 18.375
+Total Neg = 11.806
+---------------------------------------------------------------------------

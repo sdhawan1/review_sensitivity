@@ -1,0 +1,30 @@
+0. In 1976's Taxi Drive                 ... pos = 1.25  	neg = 0.75 
+1. In Bringing Out The                  ... pos = 0.375 	neg = 0.0  
+2. Nicholas Cage plays                  ... pos = 0.375 	neg = 0.0  
+3. He works in the same                 ... pos = 2.75  	neg = 1.5  
+4. The grim setting is                  ... pos = 0.0   	neg = 0.125
+5. He is on a bad strea                 ... pos = 0.125 	neg = 1.0  
+6. He is drinking and h                 ... pos = 0.0   	neg = 0.125
+7. One death in particu                 ... pos = 0.0   	neg = 0.25 
+8. Scorsese's early wor                 ... pos = 0.625 	neg = 0.75 
+9. With Raging Bull, hi                 ... pos = 0.375 	neg = 0.0  
+10. While fellow New Yor                ... pos = 1.625 	neg = 0.75 
+11. Films such as Goodfe                ... pos = 2.625 	neg = 0.75 
+12. And despite Scorsese                ... pos = 0.625 	neg = 0.375
+13. Frank is screwed up.                ... pos = 0.0   	neg = 0.125
+14. He meets a girl.                    ... pos = 0.0   	neg = 0.0  
+15. He sorts himself out                ... pos = 0.0   	neg = 0.0  
+16. That's about it.                    ... pos = 0.0   	neg = 0.0  
+17. This lack of a narra                ... pos = 0.0   	neg = 0.5  
+18. There are some typic                ... pos = 1.125 	neg = 0.0  
+19. The most interesting                ... pos = 2.75  	neg = 0.625
+20. Although the film ha                ... pos = 1.125 	neg = 0.25 
+21. This disjointed and                 ... pos = 0.125 	neg = 0.75 
+22. Bringing Out The Dea                ... pos = 0.875 	neg = 0.25 
+23. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3616-312 is Positive         ... pos = 17.75 	neg = 8.875
+Overall score of document
+Total Pos = 17.75
+Total Neg = 8.875
+---------------------------------------------------------------------------

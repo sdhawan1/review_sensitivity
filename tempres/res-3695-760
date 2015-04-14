@@ -1,0 +1,49 @@
+0. Director:   Paul Sc                 ... pos = 0.625 	neg = 0.0  
+1. US Distribution: Lio                 ... pos = 0.0   	neg = 0.0  
+2. Rated R:  Violence,                 ... pos = 0.375 	neg = 0.25 
+3. The film features br                 ... pos = 0.875 	neg = 0.0  
+4. This is some of the                  ... pos = 1.125 	neg = 0.5  
+5. The film didn't enga                 ... pos = 0.0   	neg = 0.125
+6. After all, Nolte's p                 ... pos = 1.25  	neg = 0.375
+7. He plays Wade Whiteh                 ... pos = 0.0   	neg = 0.0  
+8. We follow him throug                 ... pos = 0.0   	neg = 0.875
+9. His ex-wife (Mary Be                 ... pos = 0.0   	neg = 0.25 
+10. And he's romanticall                ... pos = 0.375 	neg = 0.25 
+11. On the first day of                 ... pos = 0.75  	neg = 0.125
+12. Jack says that it wa                ... pos = 0.0   	neg = 0.5  
+13. Wade doesn't quite b                ... pos = 0.125 	neg = 0.0  
+14. Woven through all th                ... pos = 1.25  	neg = 0.125
+15. Affliction is certai                ... pos = 0.625 	neg = 1.375
+16. It does, after all,                 ... pos = 0.375 	neg = 0    
+17. Schrader also makes                 ... pos = 0.0   	neg = 0.0  
+18. We get the feeling t                ... pos = 1.375 	neg = 0.875
+19. There are many wonde                ... pos = 1.0   	neg = 0.0  
+20. But Schrader is also                ... pos = 0.625 	neg = 0.125
+21. It seems that one of                ... pos = 0.75  	neg = 1.0  
+22. Atom Egoyan, who ada                ... pos = 1.125 	neg = 0.0  
+23. Schrader, however, h                ... pos = 0.375 	neg = 0.0  
+24. Instead of letting u                ... pos = 0.375 	neg = 0.5  
+25. Whose flashbacks are                ... pos = 0.25  	neg = 0    
+26. Well, we assume they                ... pos = 0.0   	neg = 0.25 
+27. This brings me to th                ... pos = 0.0   	neg = 0.125
+28. The narration opens                 ... pos = 0.125 	neg = 0.125
+29. In the opening shots                ... pos = 0.25  	neg = 0.0  
+30. In the concluding se                ... pos = 0.0   	neg = 0.75 
+31. He spells out to us                 ... pos = 0.25  	neg = 0.5  
+32. On one level, it's i                ... pos = 0.0   	neg = 0.625
+33. I'd imagine that Ban                ... pos = 0.125 	neg = 0.625
+34. Thankfully, Nolte an                ... pos = 0.875 	neg = 0    
+35. We get a sense of Wa                ... pos = 0.125 	neg = 0.375
+36. Nolte subtly conveys                ... pos = 1.0   	neg = 0.5  
+37. Coburn is also fasci                ... pos = 0.25  	neg = 1.375
+38. But I was sidetracke                ... pos = 0.0   	neg = 0.25 
+39. I didn't sympathize                 ... pos = 1.25  	neg = 0.25 
+40. Affliction is a stor                ... pos = 0.0   	neg = 1.0  
+41. It's not a story abo                ... pos = 0.375 	neg = 0.0  
+42. I don't know why Sch                ... pos = 1.75  	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-3695-760 is Positive         ... pos = 20.0  	neg = 14.75
+Overall score of document
+Total Pos = 20.0
+Total Neg = 14.75
+---------------------------------------------------------------------------

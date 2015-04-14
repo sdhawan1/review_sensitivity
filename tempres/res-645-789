@@ -1,0 +1,58 @@
+0. Anthony Minghella's                  ... pos = 2.0   	neg = 0.25 
+1. Thankfully, it's nei                 ... pos = 0.5   	neg = 0.375
+2. The film begins with                 ... pos = 0.125 	neg = 0.125
+3. He sees that he atte                 ... pos = 0.0   	neg = 0.0  
+4. Tom accepts and leav                 ... pos = 0.0   	neg = 0.0  
+5. When he finds Dickie                 ... pos = 0.875 	neg = 0.0  
+6. They become good fri                 ... pos = 0.875 	neg = 0.375
+7. For example he does                  ... pos = 0.125 	neg = 0.125
+8. Along the way Tom al                 ... pos = 0.0   	neg = 0.0  
+9. The film soon takes                  ... pos = 0.125 	neg = 0.625
+10. This stylish thrille                ... pos = 1.625 	neg = 0.125
+11. Ripley's obsession w                ... pos = 0.25  	neg = 0.0  
+12. Both lead characters                ... pos = 1.125 	neg = 0.25 
+13. Unfortunately Ripley                ... pos = 0.0   	neg = 1.125
+14. The story is rushed                 ... pos = 0.625 	neg = 0.5  
+15. Within the first 5 m                ... pos = 0.5   	neg = 0.125
+16. I just found it a li                ... pos = 0.375 	neg = 0.25 
+17. Also, when I meant t                ... pos = 0.125 	neg = 0.25 
+18. How could anyone be                 ... pos = 0.0   	neg = 0.125
+19. Even I had trouble k                ... pos = 0.75  	neg = 0.625
+20. It's highly unlogica                ... pos = 0.625 	neg = 0.125
+21. Aside from that, the                ... pos = 0.875 	neg = 0    
+22. I know some people l                ... pos = 0.75  	neg = 0.375
+23. Take Star Wars for e                ... pos = 0.5   	neg = 0.125
+24. With Ripley, directo                ... pos = 0.0   	neg = 0.375
+25. After Dickie was kil                ... pos = 1.125 	neg = 0.5  
+26. Sure he is unpleasan                ... pos = 0.25  	neg = 1.125
+27. The fact that becomi                ... pos = 0.75  	neg = 0.125
+28. Never has nastiness                 ... pos = 0.375 	neg = 0.875
+29. Another wonderful as                ... pos = 0.75  	neg = 0.25 
+30. Jude Law, Matt Damon                ... pos = 0.75  	neg = 0    
+31. Each character had i                ... pos = 1.75  	neg = 0.125
+32. Jude Law played a go                ... pos = 0.75  	neg = 0.125
+33. If it hadn't been fo                ... pos = 2.25  	neg = 0.75 
+34. Now I know, I may be                ... pos = 0.0   	neg = 0.375
+35. People are saying ho                ... pos = 0.25  	neg = 0.0  
+36. Patch Adams, Flawles                ... pos = 0.0   	neg = 0.0  
+37. That's nothing to be                ... pos = 0.375 	neg = 0.375
+38. I'm disgusted by him                ... pos = 0.125 	neg = 0.0  
+39. Luckily he isn't in                 ... pos = 0.625 	neg = 0    
+40. Gwyenth Platrow howe                ... pos = 0.875 	neg = 0.125
+41. I actually thought s                ... pos = 0.625 	neg = 0.0  
+42. She was that good.                  ... pos = 0.75  	neg = 0.125
+43. Director Anthony Min                ... pos = 0.0   	neg = 0.0  
+44. I'm glad he redeemed                ... pos = 0.125 	neg = 0.375
+45. There's also some fa                ... pos = 1.75  	neg = 0.0  
+46. Good stuff.                         ... pos = 0.75  	neg = 0.25 
+47. In the end, I get th                ... pos = 0.25  	neg = 0.25 
+48. What once was a simp                ... pos = 0.0   	neg = 0.625
+49. No matter how much h                ... pos = 0.125 	neg = 1.625
+50. The Talented Mr. Rip                ... pos = 0.75  	neg = 0.125
+51. A must see.. .                      ... pos = 0.375 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-645-789 is Positive          ... pos = 29.25 	neg = 14.375
+Overall score of document
+Total Pos = 29.25
+Total Neg = 14.375
+---------------------------------------------------------------------------

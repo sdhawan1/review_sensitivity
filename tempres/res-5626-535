@@ -1,0 +1,50 @@
+0. Imagine if someone c                 ... pos = 0.0   	neg = 0.5  
+1. Not just any rug eit                 ... pos = 0.375 	neg = 0.125
+2. What would you do?                   ... pos = 0     	neg = 0.0  
+3. While this may not s                 ... pos = 0.125 	neg = 0.0  
+4. Like the television                  ... pos = 0.0   	neg = 0.375
+5. It doesn't have much                 ... pos = 1.5   	neg = 0.5  
+6. Jeff Lebowski (Jeff                  ... pos = 0.0   	neg = 0.0  
+7. You see, these thugs                 ... pos = 0.0   	neg = 0.25 
+8. It would seem that T                 ... pos = 0.125 	neg = 0.0  
+9. So, after consulting                 ... pos = 1.25  	neg = 0.0  
+10. This soon leads to t                ... pos = 0.0   	neg = 0.25 
+11. What follows is a hi                ... pos = 0.75  	neg = 0.75 
+12. If this so called pl                ... pos = 0.125 	neg = 0.125
+13. Even the film's narr                ... pos = 0.0   	neg = 0.375
+14. Let me say that this                ... pos = 0.25  	neg = 0.0  
+15. There isn't much of                 ... pos = 0.125 	neg = 0.375
+16. Perhaps the best way                ... pos = 1.25  	neg = 0.125
+17. To start with, we ha                ... pos = 0.5   	neg = 0.0  
+18. The dude is a comica                ... pos = 0.5   	neg = 0.125
+19. This shaggy looking                 ... pos = 0.875 	neg = 0.0  
+20. Next up, we have Wal                ... pos = 1.125 	neg = 0.0  
+21. Walter is a Vietnam                 ... pos = 0.125 	neg = 0.5  
+22. While The Dude and W                ... pos = 1.75  	neg = 0.0  
+23. Maude Lebowski (Juli                ... pos = 0.0   	neg = 0.125
+24. Donny (Steve Buscemi                ... pos = 0.0   	neg = 0.125
+25. Of course, we can on                ... pos = 0.0   	neg = 0.0  
+26. Jesus, the bowler (J                ... pos = 0.0   	neg = 0.125
+27. Brandt (Philip Seymo                ... pos = 0.25  	neg = 0.625
+28. There are dozens mor                ... pos = 0.25  	neg = 0.25 
+29. The film's main stre                ... pos = 1.375 	neg = 0.125
+30. For example, there i                ... pos = 0.75  	neg = 0.125
+31. The movie's only wea                ... pos = 0.125 	neg = 0.5  
+32. As a result of this,                ... pos = 1.125 	neg = 0.25 
+33. All that aside, "The                ... pos = 0.875 	neg = 0.5  
+34. The film does run a                 ... pos = 0.0   	neg = 0.625
+35. While the rather unu                ... pos = 1.625 	neg = 1.875
+36. Comments?                           ... pos = 0     	neg = 0.0  
+37. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+38. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+39. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+40. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+41. See it only if you'v                ... pos = 0.0   	neg = 0.25 
+42. * - One of the worst                ... pos = 0.0   	neg = 0.375
+43. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5626-535 is Positive         ... pos = 18.5  	neg = 11.625
+Overall score of document
+Total Pos = 18.5
+Total Neg = 11.625
+---------------------------------------------------------------------------

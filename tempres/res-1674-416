@@ -1,0 +1,27 @@
+0. Written by: Michael                  ... pos = 0.0   	neg = 0.25 
+1. There are three sets                 ... pos = 1.125 	neg = 0.0  
+2. A teenage boy named                  ... pos = 1.25  	neg = 0.125
+3. 2.                                   ... pos = 0     	neg = 0    
+4. An American lady rep                 ... pos = 0.375 	neg = 0.125
+5. 3.                                   ... pos = 0     	neg = 0    
+6. A retired ace astron                 ... pos = 0.625 	neg = 0.0  
+7. Once the main charac                 ... pos = 1.5   	neg = 0.0  
+8. Then comet gets focu                 ... pos = 0.0   	neg = 0.0  
+9. Opinion: When disast                 ... pos = 1.0   	neg = 1.125
+10. Then the catastrophe                ... pos = 0.625 	neg = 0.5  
+11. This is the TITANIC                 ... pos = 0.0   	neg = 0.375
+12. On the other hand, s                ... pos = 0.75  	neg = 0.75 
+13. Then the subsequent                 ... pos = 0.625 	neg = 1.0  
+14. In DEEP IMPACT main                 ... pos = 1.5   	neg = 0.0  
+15. The main focus on th                ... pos = 0.625 	neg = 0.625
+16. In terms of drama, i                ... pos = 0.0   	neg = 0    
+17. And so, paradoxicall                ... pos = 1.0   	neg = 0.875
+18. Decent acting and go                ... pos = 2.75  	neg = 0.625
+19. On the other hand, D                ... pos = 0.0   	neg = 0.0  
+20. It is well-acted, it                ... pos = 0.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-1674-416 is Positive         ... pos = 13.875 	neg = 7.0  
+Overall score of document
+Total Pos = 13.875
+Total Neg = 7.0
+---------------------------------------------------------------------------

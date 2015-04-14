@@ -1,0 +1,40 @@
+0. Few movies in 1999 p                 ... pos = 0.125 	neg = 0.125
+1. Three camps seem to                  ... pos = 1.0   	neg = 0.375
+2. I'm in the third cam                 ... pos = 0.0   	neg = 0    
+3. "Fight Club", at the                 ... pos = 0.875 	neg = 0.375
+4. The film gets a lot                  ... pos = 1.375 	neg = 0.125
+5. In this film, Norton                 ... pos = 0.125 	neg = 0.0  
+6. Norton is an insomni                 ... pos = 0.0   	neg = 0.125
+7. For what, we may ask                 ... pos = 0.0   	neg = 0.0  
+8. For the fact that hi                 ... pos = 0.0   	neg = 0.75 
+9. How bad can his life                 ... pos = 0.25  	neg = 1.0  
+10. That's the way he th                ... pos = 0.0   	neg = 0.125
+11. Marla and the Norton                ... pos = 1.25  	neg = 0.5  
+12. Things get complicat                ... pos = 1.0   	neg = 0.0  
+13. Durden seems to have                ... pos = 0.0   	neg = 0.25 
+14. This is exactly what                ... pos = 0.125 	neg = 0.25 
+15. So far the film has                 ... pos = 0.25  	neg = 0.125
+16. Then it takes a left                ... pos = 0.0   	neg = 0.0  
+17. Durden, as it turns                 ... pos = 0.0   	neg = 0.125
+18. The logic of this wi                ... pos = 0.125 	neg = 0.625
+19. "Fight Club" has the                ... pos = 1.25  	neg = 0.5  
+20. Before long Fight Cl                ... pos = 0.25  	neg = 0.5  
+21. The parallels with t                ... pos = 0.25  	neg = 0.375
+22. I suspect "Fight Clu                ... pos = 0.0   	neg = 1.125
+23. It's one thing to wr                ... pos = 0.0   	neg = 0.125
+24. Film has a way of li                ... pos = 1.25  	neg = 0.125
+25. People will say (and                ... pos = 0.875 	neg = 0.625
+26. The movie isn't genu                ... pos = 1.25  	neg = 0.625
+27. By the time we get t                ... pos = 0.0   	neg = 0.875
+28. What's worse, a movi                ... pos = 0.75  	neg = 0.625
+29. The problem isn't wi                ... pos = 0.625 	neg = 0.25 
+30. Let's face it, there                ... pos = 1.25  	neg = 0.25 
+31. Her weirdo monologue                ... pos = 0.375 	neg = 0.25 
+32. I wanted to like "Fi                ... pos = 0.0   	neg = 1.0  
+33. It's a cold, crass j                ... pos = 0.375 	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-3869-1046 is Positive        ... pos = 15.0  	neg = 13.375
+Overall score of document
+Total Pos = 15.0
+Total Neg = 13.375
+---------------------------------------------------------------------------

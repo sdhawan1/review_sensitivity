@@ -1,0 +1,31 @@
+0. ***Moviereviews.org                  ... pos = 0.0   	neg = 0.25 
+1. If this  interests y                 ... pos = 1.125 	neg = 0.0  
+2. Then check back at M                 ... pos = 0.5   	neg = 0.125
+3. ***. ---Starting on                  ... pos = 0.0   	neg = 0.0  
+4. Details on time and                  ... pos = 0.0   	neg = 0.0  
+5. Stay tuned!---. ***                  ... pos = 1.375 	neg = 1.5  
+6. Director Chris Colum                 ... pos = 0.375 	neg = 0.0  
+7. In "the not too dist                 ... pos = 0.375 	neg = 0.25 
+8. Our protagabot ventu                 ... pos = 0.125 	neg = 0.75 
+9. He also comes across                 ... pos = 0.0   	neg = 0.0  
+10. They  come and go, A                ... pos = 0.0   	neg = 0.375
+11. Now banished to a fa                ... pos = 0.75  	neg = 1.375
+12. Richard Gautier, a r                ... pos = 0.25  	neg = 0.25 
+13. Much like Andrew, Hy                ... pos = 0.875 	neg = 0.375
+14. Hymie was friendly a                ... pos = 0.625 	neg = 0.125
+15. Richard Gautier may                 ... pos = 1.125 	neg = 0.25 
+16. The positive end of                 ... pos = 0.125 	neg = 0.0  
+17. In a time where they                ... pos = 0.5   	neg = 0.5  
+18. Robin Williams is ve                ... pos = 1.0   	neg = 0.125
+19. The explanation offe                ... pos = 0.0   	neg = 0.375
+20. But the movie is eve                ... pos = 0.5   	neg = 0.375
+21. We are also told tha                ... pos = 0.625 	neg = 0.375
+22. This film also marks                ... pos = 0.875 	neg = 0.125
+23. Last  year, Chris Co                ... pos = 0.75  	neg = 0.875
+24. Mr. Capra, rest assu                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4864-592 is Positive         ... pos = 12.375 	neg = 8.5  
+Overall score of document
+Total Pos = 12.375
+Total Neg = 8.5
+---------------------------------------------------------------------------

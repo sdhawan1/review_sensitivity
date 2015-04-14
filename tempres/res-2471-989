@@ -1,0 +1,38 @@
+0. If you like war movi                 ... pos = 0.375 	neg = 0.125
+1. To say that it start                 ... pos = 0.0   	neg = 1.375
+2. >From the very begin                 ... pos = 0.75  	neg = 0    
+3. As the troops are pr                 ... pos = 0.375 	neg = 0.625
+4. As the LCVPs pull on                 ... pos = 0.0   	neg = 0.0  
+5. In the audience, you                 ... pos = 0.625 	neg = 0.25 
+6. You get quick glimps                 ... pos = 0.25  	neg = 0.25 
+7. If you would stop to                 ... pos = 0.0   	neg = 0.25 
+8. It was every man for                 ... pos = 0.0   	neg = 0.125
+9. But, you had to foll                 ... pos = 0.0   	neg = 0.0  
+10. Tom Hanks is the sta                ... pos = 0.625 	neg = 0.125
+11. This makes it even m                ... pos = 0.875 	neg = 0.0  
+12. There are cameos tha                ... pos = 0.5   	neg = 1.0  
+13. It's a long movie, b                ... pos = 0.125 	neg = 0.375
+14. I'm one of those peo                ... pos = 0.0   	neg = 0.125
+15. My husband served in                ... pos = 0.0   	neg = 0.125
+16. He was one of four b                ... pos = 0.625 	neg = 0.25 
+17. Once or twice he hap                ... pos = 0.0   	neg = 0.125
+18. Unlike Private Ryan,                ... pos = 1.25  	neg = 0.125
+19. Even though I was aw                ... pos = 0.5   	neg = 0.125
+20. The  violence that i                ... pos = 0.625 	neg = 0.25 
+21. It just affects you                 ... pos = 0.125 	neg = 0.125
+22. I dare anyone to wat                ... pos = 0.125 	neg = 0.0  
+23. They say that our ch                ... pos = 0.0   	neg = 0.0  
+24. Just like Schindler'                ... pos = 0.25  	neg = 0.125
+25. Maybe it could help                 ... pos = 0.125 	neg = 0.0  
+26. I did notice one blo                ... pos = 0.625 	neg = 0.0  
+27. The squad goes from                 ... pos = 0.25  	neg = 0.0  
+28. Watch for it.                       ... pos = 0.125 	neg = 0    
+29. But, it doesn't stop                ... pos = 0.0   	neg = 0.0  
+30. It's by far the best                ... pos = 0.375 	neg = 0    
+31. I want to see it aga                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2471-989 is Positive         ... pos = 9.5   	neg = 6.0  
+Overall score of document
+Total Pos = 9.5
+Total Neg = 6.0
+---------------------------------------------------------------------------

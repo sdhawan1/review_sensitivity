@@ -1,0 +1,12 @@
+0. Bob the Happy Bastar                 ... pos = 2.5   	neg = 0.375
+1. However, as the movi                 ... pos = 0.875 	neg = 0.25 
+2. Still, the movie's g                 ... pos = 0.75  	neg = 0.0  
+3. Ving Rhames doesn't                  ... pos = 1.125 	neg = 0.125
+4. The story has holes,                 ... pos = 0.375 	neg = 0.375
+5. The movie seems to f                 ... pos = 1.125 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-3431-1292 is Positive        ... pos = 6.75  	neg = 1.875
+Overall score of document
+Total Pos = 6.75
+Total Neg = 1.875
+---------------------------------------------------------------------------

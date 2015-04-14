@@ -1,0 +1,47 @@
+0. Starring Ben Stiller                 ... pos = 0.875 	neg = 0.125
+1. A great cast of resp                 ... pos = 0.875 	neg = 0.0  
+2. An interesting premi                 ... pos = 0.875 	neg = 0.375
+3. However, "Mystery Me                 ... pos = 0.125 	neg = 0.875
+4. The jokes were bland                 ... pos = 0.5   	neg = 1.25 
+5. The number of cliche                 ... pos = 0.875 	neg = 0.375
+6. The script tried to                  ... pos = 0.375 	neg = 2.153
+7. The jokes were not f                 ... pos = 0.0   	neg = 0.375
+8. They had been used a                 ... pos = 2.75  	neg = 1.778
+9. "Mystery Men" might                  ... pos = 0.0   	neg = 0.875
+10. But with veterans do                ... pos = 0.125 	neg = 0.5  
+11. Thankfully most acto                ... pos = 1.0   	neg = 0.25 
+12. The film follows a b                ... pos = 0.25  	neg = 1.5  
+13. The fact is these pa                ... pos = 0.875 	neg = 1.5  
+14. Captain Amazing (pla                ... pos = 1.125 	neg = 0.625
+15. After freeing one of                ... pos = 0.5   	neg = 3.0  
+16. It is up to the wann                ... pos = 0.0   	neg = 0.125
+17. By the time this sec                ... pos = 0.5   	neg = 0.375
+18. There are very few s                ... pos = 1.0   	neg = 0.0  
+19. The first scene in t                ... pos = 0.25  	neg = 0.625
+20. Right when it was be                ... pos = 0.125 	neg = 0.125
+21. Instead of editing t                ... pos = 0.0   	neg = 0.375
+22. Furious (Ben Stiller                ... pos = 0.375 	neg = 0.5  
+23. A simple rule: More                 ... pos = 0.25  	neg = 0.5  
+24. Another major proble                ... pos = 0.5   	neg = 1.25 
+25. The film depended on                ... pos = 0.875 	neg = 0.0  
+26. However, most charac                ... pos = 1.125 	neg = 0.375
+27. To pull one of the a                ... pos = 1.125 	neg = 0.875
+28. As a wannabe who use                ... pos = 0.375 	neg = 0.625
+29. Fart jokes that have                ... pos = 0.375 	neg = 0.5  
+30. " . "Mystery Men" dr                ... pos = 0.125 	neg = 0.125
+31. Anyone with a brain                 ... pos = 1.0   	neg = 0.625
+32. So why continue to w                ... pos = 0.125 	neg = 0.0  
+33. This film is far fro                ... pos = 0.625 	neg = 0.75 
+34. "Mystery Men" indeed                ... pos = 1.0   	neg = 0.125
+35. " "Mystery Men" fail                ... pos = 0.0   	neg = 0.125
+36. What makes this film                ... pos = 0.875 	neg = 1.125
+37. Terrible acting, ter                ... pos = 0.0   	neg = 2.5  
+38. "I'm unpredictable!                 ... pos = 0     	neg = 0    
+39. " an overexcited Ben                ... pos = 0.125 	neg = 0.75 
+40. No Ben, you're the c                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1731-778 is Negative         ... pos = 22.0  	neg = 28.181
+Overall score of document
+Total Pos = 22.0
+Total Neg = 28.181
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. Cast Arnold Schwarze                 ... pos = 0.625 	neg = 0.25 
+1. It's this simple:  B                 ... pos = 0.0   	neg = 0.5  
+2. Now I have seen some                 ... pos = 0.0   	neg = 0.875
+3. CONGO, LAST ACTION H                 ... pos = 0.5   	neg = 0.0  
+4. But this movie sucks                 ... pos = 0     	neg = 0.0  
+5. I think Ed Wood is s                 ... pos = 0.0   	neg = 0.125
+6. I refuse to see anot                 ... pos = 0.0   	neg = 0.75 
+7. Why the hell did the                 ... pos = 0     	neg = 0.5  
+8. George Clooney as Ba                 ... pos = 0.0   	neg = 0.0  
+9. He sucked!!                          ... pos = 0.0   	neg = 0    
+10. Arnold Schwarzengger                ... pos = 0.0   	neg = 0.5  
+11. Freeze who wants to                 ... pos = 0.125 	neg = 0.125
+12. Oh boo-hoo.                         ... pos = 0     	neg = 0.0  
+13. Who the hell cares.                 ... pos = 0.0   	neg = 0.5  
+14. Chris O'Donnell in a                ... pos = 0.0   	neg = 0.0  
+15. AHHH!!!!                            ... pos = 0     	neg = 0    
+16. Someone save me.                    ... pos = 0     	neg = 0.0  
+17. Alicia Silverstone a                ... pos = 0.25  	neg = 0.125
+18. Give me a break.                    ... pos = 0.0   	neg = 0.0  
+19. Where are the nipple                ... pos = 0.25  	neg = 0.0  
+20. Uma Thurman as Poisi                ... pos = 0.625 	neg = 0.0  
+21. Ohhhh, suductive.                   ... pos = 0     	neg = 0    
+22. Yuck.                               ... pos = 0     	neg = 0    
+23. what an awful movie.                ... pos = 0.0   	neg = 0.875
+24. Throw in faithful bu                ... pos = 0.375 	neg = 1.125
+25. I mean, the guy can                 ... pos = 0.75  	neg = 0.5  
+26. Also, I have never s                ... pos = 0.25  	neg = 0.0  
+27. This is the first mo                ... pos = 0.125 	neg = 0.25 
+28. I recommend the show                ... pos = 0.0   	neg = 0.0  
+29. Oh yea, YES there is                ... pos = 0.0   	neg = 0.25 
+30. Rumor has it to feat                ... pos = 0.0   	neg = 0.0  
+31. Yawn!!                              ... pos = 0     	neg = 0    
+32. I can't wait for the                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4883-1368 is Negative        ... pos = 3.875 	neg = 7.25 
+Overall score of document
+Total Pos = 3.875
+Total Neg = 7.25
+---------------------------------------------------------------------------

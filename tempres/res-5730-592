@@ -1,0 +1,12 @@
+0. Life is Beautiful (L                 ... pos = 1.5   	neg = 0.25 
+1. Do not be mistaken,                  ... pos = 1.0   	neg = 0.25 
+2. But the movie is a s                 ... pos = 0.625 	neg = 0.125
+3. The film follows a f                 ... pos = 0.25  	neg = 0.25 
+4. Roberto Benigni won                  ... pos = 1.25  	neg = 0.0  
+5. Yet, the work is sti                 ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5730-592 is Positive         ... pos = 5.875 	neg = 1.0  
+Overall score of document
+Total Pos = 5.875
+Total Neg = 1.0
+---------------------------------------------------------------------------

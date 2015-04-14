@@ -1,0 +1,37 @@
+0. AMERICAN HISTORY X C                 ... pos = 0.25  	neg = 0.25 
+1. The film boasts many                 ... pos = 0.25  	neg = 0.0  
+2. You'll know it if yo                 ... pos = 0.375 	neg = 0.125
+3. Debut director Tony                  ... pos = 2.375 	neg = 1.125
+4. Labeling these chara                 ... pos = 0.875 	neg = 0.0  
+5. In the case of Ameri                 ... pos = 0.25  	neg = 0.125
+6. In no way does this                  ... pos = 0.75  	neg = 0.125
+7. Derek Vineyard (Edwa                 ... pos = 0.0   	neg = 0.125
+8. On the day of Derek'                 ... pos = 0.0   	neg = 0.125
+9. Before his jail sent                 ... pos = 0.125 	neg = 0.375
+10. Whilst serving time                 ... pos = 0.25  	neg = 0.625
+11. When he is back on t                ... pos = 0.0   	neg = 0.5  
+12. But after taking a s                ... pos = 0.5   	neg = 0.5  
+13. Derek's drastic chan                ... pos = 2.75  	neg = 0.125
+14. In 1996's Primal Fea                ... pos = 2.25  	neg = 1.0  
+15. Norton projects a pe                ... pos = 0.625 	neg = 0.875
+16. Derek, as a characte                ... pos = 0.875 	neg = 0.125
+17. The scariest thing a                ... pos = 0.0   	neg = 0.25 
+18. It is that his racis                ... pos = 0.0   	neg = 0.125
+19. A passionate believe                ... pos = 0.875 	neg = 0.5  
+20. At a time of emotion                ... pos = 0.375 	neg = 0.875
+21. "  He shakes his hea                ... pos = 0.125 	neg = 0.875
+22. Like the surprise hi                ... pos = 0.0   	neg = 0.0  
+23. For the most part it                ... pos = 0.625 	neg = 0.625
+24. In a film about a co                ... pos = 0.25  	neg = 0.0  
+25. Perhaps this is what                ... pos = 0.125 	neg = 0.125
+26. Whilst one can only                 ... pos = 0.375 	neg = 0.25 
+27. Rather than opting f                ... pos = 1.75  	neg = 0.0  
+28. Don't be put off by                 ... pos = 0.0   	neg = 0.75 
+29. It's a film that wil                ... pos = 0.25  	neg = 0    
+30. ". . .                              ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-499-1111 is Positive         ... pos = 17.25 	neg = 10.5 
+Overall score of document
+Total Pos = 17.25
+Total Neg = 10.5
+---------------------------------------------------------------------------

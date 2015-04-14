@@ -1,0 +1,22 @@
+0. Ever since my wife b                 ... pos = 0.375 	neg = 0.0  
+1. ". Aside from the ch                 ... pos = 1.0   	neg = 0.5  
+2. (Of  course, I didn'                 ... pos = 1.0   	neg = 0.375
+3. "Lost in Space" was                  ... pos = 0.0   	neg = 0.125
+4. ) . Following the pr                 ... pos = 0.125 	neg = 0.0  
+5. But it's a good prem                 ... pos = 0.75  	neg = 0.125
+6. Their journey is  in                 ... pos = 0.0   	neg = 0.25 
+7. Anyway, the adventur                 ... pos = 1.375 	neg = 0.0  
+8. (No, I'm still not d                 ... pos = 0.625 	neg = 0.25 
+9. ). Though I like Wil                 ... pos = 0.375 	neg = 0.5  
+10. OK -- the head of th                ... pos = 1.125 	neg = 0.25 
+11. The rest of the cast                ... pos = 0.0   	neg = 0.25 
+12. ) is  eminently disl                ... pos = 0.375 	neg = 0.5  
+13. Get ready for anothe                ... pos = 0.0   	neg = 0.125
+14. "Lost in Space" is e                ... pos = 0.125 	neg = 0.125
+15. I'd  pay to see a se                ... pos = 0.5   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-4624-71 is Positive          ... pos = 7.75  	neg = 3.875
+Overall score of document
+Total Pos = 7.75
+Total Neg = 3.875
+---------------------------------------------------------------------------

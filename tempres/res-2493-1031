@@ -1,0 +1,28 @@
+0. Rating: **1/2 (out o                 ... pos = 1.25  	neg = 0.375
+1. " The answer: a surp                 ... pos = 0.125 	neg = 0.0  
+2. If Kelley's trying t                 ... pos = 0.25  	neg = 0.5  
+3. While "McBeal"'s ski                 ... pos = 0.125 	neg = 0.625
+4. He's the aforementio                 ... pos = 1.0   	neg = 0.0  
+5. All of the diver goe                 ... pos = 0.0   	neg = 0.0  
+6. This casualty happen                 ... pos = 0.625 	neg = 0.0  
+7. Enter "Lake Placid"'                 ... pos = 0.875 	neg = 0.0  
+8. Chief among them are                 ... pos = 0.5   	neg = 0.0  
+9. They team up with th                 ... pos = 0.875 	neg = 0.0  
+10. Also present for pot                ... pos = 1.0   	neg = 0.5  
+11. The mere inclusion o                ... pos = 2.375 	neg = 0.5  
+12. Unfortunately, Kelle                ... pos = 0.125 	neg = 1.0  
+13. "Lake Placid" runs a                ... pos = 0.864 	neg = 0.0  
+14. Good thing the movie                ... pos = 1.5   	neg = 0.0  
+15. Of course, the audie                ... pos = 0.25  	neg = 0.0  
+16. They'll want their f                ... pos = 1.25  	neg = 0.25 
+17. " Those unenamored o                ... pos = 0.0   	neg = 0.5  
+18. Š 1999 Jamie Peck E                ... pos = 0.75  	neg = 0.0  
+19. These areas are his                 ... pos = 1.125 	neg = 0.0  
+20. By the film's end, h                ... pos = 1.25  	neg = 0.125
+21. " -Roger Ebert on "2                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2493-1031 is Positive        ... pos = 16.114 	neg = 4.375
+Overall score of document
+Total Pos = 16.114
+Total Neg = 4.375
+---------------------------------------------------------------------------

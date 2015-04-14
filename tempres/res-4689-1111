@@ -1,0 +1,38 @@
+0. MEET JOE BLACK Cast:                 ... pos = 0.375 	neg = 0.0  
+1. The script fumbles,                  ... pos = 0.0   	neg = 0.375
+2. But somehow, I find                  ... pos = 0.125 	neg = 0.75 
+3. Meet Joe Black has a                 ... pos = 0.875 	neg = 0.375
+4. There are many rewar                 ... pos = 0.875 	neg = 0.375
+5. With a running time                  ... pos = 0.75  	neg = 0.0  
+6. During his extravaga                 ... pos = 0.75  	neg = 0.375
+7. It's just a pity tha                 ... pos = 0.25  	neg = 0.0  
+8. Media tycoon William                 ... pos = 0.0   	neg = 0.375
+9. In fact, Death himse                 ... pos = 1.25  	neg = 0.375
+10. Parrish grudgingly a                ... pos = 0.25  	neg = 0.0  
+11. "  Black experiments                ... pos = 0.125 	neg = 0.0  
+12. "  Before long, thou                ... pos = 0.0   	neg = 0.375
+13. Parish's daughter Su                ... pos = 0.625 	neg = 0.375
+14. In my review of 1998                ... pos = 0.625 	neg = 0.125
+15. On paper, his charac                ... pos = 1.125 	neg = 1.5  
+16. In this case, the ch                ... pos = 1.125 	neg = 0.0  
+17. Fortunately, Hopkins                ... pos = 1.375 	neg = 0.0  
+18. Parrish is not unlik                ... pos = 1.75  	neg = 0.125
+19. Brad Pitt's presence                ... pos = 1.125 	neg = 0.25 
+20. It is almost as if P                ... pos = 0.625 	neg = 1.625
+21. Meet Joe Black is mo                ... pos = 0.0   	neg = 0.125
+22. The screenplay was l                ... pos = 0.625 	neg = 0.125
+23. The film takes a lot                ... pos = 0.25  	neg = 0.25 
+24. Whilst it is often h                ... pos = 0.25  	neg = 1.75 
+25. The central romance                 ... pos = 0.75  	neg = 0.125
+26. What is unforgivable                ... pos = 0.125 	neg = 0.625
+27. The three hours of f                ... pos = 0.625 	neg = 0.375
+28. The dialogue is draw                ... pos = 0.75  	neg = 0.25 
+29. Still, amongst all t                ... pos = 0.25  	neg = 0.125
+30. It takes risks, and                 ... pos = 0.875 	neg = 0.625
+31. I could imagine that                ... pos = 3.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-4689-1111 is Positive        ... pos = 21.5  	neg = 12.25
+Overall score of document
+Total Pos = 21.5
+Total Neg = 12.25
+---------------------------------------------------------------------------

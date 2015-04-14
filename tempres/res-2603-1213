@@ -1,0 +1,26 @@
+0. Stallone attempts to                 ... pos = 0.0   	neg = 0.25 
+1. The film is set in a                 ... pos = 0.0   	neg = 0.25 
+2. Keital dosen't reall                 ... pos = 0.5   	neg = 0.75 
+3. This film should be                  ... pos = 0.875 	neg = 0.125
+4. It sounds like a gre                 ... pos = 2.25  	neg = 0.5  
+5. However, it can't ho                 ... pos = 0.375 	neg = 0.0  
+6. Although the acting                  ... pos = 0.375 	neg = 2.375
+7. In fact, the only sc                 ... pos = 0.25  	neg = 1.125
+8. In this film, seriou                 ... pos = 0.0   	neg = 0.0  
+9. The dialogue is warb                 ... pos = 0.375 	neg = 0.5  
+10. The plot, which has                 ... pos = 0.25  	neg = 1.0  
+11. In fact, the only th                ... pos = 0.875 	neg = 0.125
+12. However, Stallone, a                ... pos = 1.0   	neg = 0.0  
+13. However, it's not al                ... pos = 0.125 	neg = 0.875
+14. As said above, the a                ... pos = 0.25  	neg = 0.0  
+15. Theres also a very g                ... pos = 1.25  	neg = 0.0  
+16. In fact, the last 10                ... pos = 0.625 	neg = 0.0  
+17. If only the rest of                 ... pos = 0.75  	neg = 0.125
+18. Cop Land, then, turn                ... pos = 0.75  	neg = 0.375
+19. Hugely disappointing                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2603-1213 is Positive        ... pos = 10.875 	neg = 8.625
+Overall score of document
+Total Pos = 10.875
+Total Neg = 8.625
+---------------------------------------------------------------------------

@@ -1,0 +1,54 @@
+0. Imagine you are a li                 ... pos = 0.25  	neg = 0.75 
+1. These ghosts torment                 ... pos = 0.25  	neg = 0.25 
+2. You need help, and w                 ... pos = 0.0   	neg = 0.25 
+3. Why, Bruce Willis, o                 ... pos = 0.0   	neg = 0.0  
+4. Willis plays Malcolm                 ... pos = 0.125 	neg = 0.0  
+5. However, not everyon                 ... pos = 0.75  	neg = 0    
+6. One of his former pa                 ... pos = 0.375 	neg = 0.25 
+7. One year later, Crow                 ... pos = 0.375 	neg = 0.125
+8. However, his next as                 ... pos = 1.375 	neg = 1.375
+9. If Crowe can help li                 ... pos = 0.125 	neg = 1.5  
+10. M. Night Shyamalan's                ... pos = 0.0   	neg = 0.75 
+11. Crowe and his wife (                ... pos = 2.25  	neg = 0.0  
+12. His wife hugs him, l                ... pos = 0.625 	neg = 0.75 
+13. I'm paraphrasing, bu                ... pos = 0.625 	neg = 0.25 
+14. "   Whoa, why don't                 ... pos = 0.0   	neg = 0.0  
+15. Or how about a freez                ... pos = 0.0   	neg = 0.0  
+16. It'd be kind of like                ... pos = 0.25  	neg = 0.125
+17. The one saving grace                ... pos = 0.875 	neg = 0.5  
+18. After the shooting a                ... pos = 0.125 	neg = 0.125
+19. Out of courtesy to t                ... pos = 1.0   	neg = 0.5  
+20. Every trailer and co                ... pos = 1.375 	neg = 1.625
+21. All the build-up and                ... pos = 0.25  	neg = 0.25 
+22. I wanna see walking                 ... pos = 0.0   	neg = 0.0  
+23. "  Okay, maybe I'm o                ... pos = 0.0   	neg = 0.125
+24. Luckily, once we sta                ... pos = 0.875 	neg = 1.125
+25. This is not to say T                ... pos = 0.125 	neg = 0.125
+26. Instead, our glimpse                ... pos = 1.0   	neg = 0.25 
+27. It is simply evident                ... pos = 1.125 	neg = 0.25 
+28. Happily for us, he p                ... pos = 0.5   	neg = 0.25 
+29. When the scares do c                ... pos = 0.5   	neg = 0.0  
+30. Some of them catch y                ... pos = 0.5   	neg = 0.625
+31. It's nice to know th                ... pos = 0.625 	neg = 0.375
+32. This film will do qu                ... pos = 0.75  	neg = 0.0  
+33. Especially in a seas                ... pos = 0.5   	neg = 0.75 
+34. Bruce Willis once ag                ... pos = 0.0   	neg = 0.375
+35. When called for, thi                ... pos = 0.0   	neg = 0.0  
+36. He takes it a bit ov                ... pos = 0.375 	neg = 0.0  
+37. Toni Collette as Col                ... pos = 0.875 	neg = 0    
+38. Lynn truly loves her                ... pos = 2.0   	neg = 0.25 
+39. Piling on the pressu                ... pos = 0.5   	neg = 0.75 
+40. Taking on this role,                ... pos = 0.5   	neg = 0.0  
+41. However, the real su                ... pos = 0.125 	neg = 0.375
+42. This kid performs wi                ... pos = 0.864 	neg = 0.0  
+43. By movie's end, this                ... pos = 1.125 	neg = 0.0  
+44. To be sure, THE SIXT                ... pos = 0.625 	neg = 0.25 
+45. Along with the suspe                ... pos = 0.125 	neg = 0.125
+46. I won't give away a                 ... pos = 0.0   	neg = 0.375
+47. And when a movie lea                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-781 is Positive         ... pos = 24.989 	neg = 15.75
+Overall score of document
+Total Pos = 24.989
+Total Neg = 15.75
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. Stockholm film Revie                 ... pos = 1.25  	neg = 0.5  
+1. Hector reluctantly a                 ... pos = 0.625 	neg = 0.0  
+2. She persuades him th                 ... pos = 0.375 	neg = 0.125
+3. ) Chinese mask, whic                 ... pos = 0.0   	neg = 0.125
+4. They devise an intri                 ... pos = 0.0   	neg = 0.25 
+5. The questions are, i                 ... pos = 0.375 	neg = 0.625
+6. Entrapment is a curi                 ... pos = 0.875 	neg = 1.125
+7. It's intent seems to                 ... pos = 0.25  	neg = 0.25 
+8. Almost like a 007 mo                 ... pos = 0.0   	neg = 0.0  
+9. However, no amount o                 ... pos = 0.25  	neg = 0.625
+10. Sound economics mayb                ... pos = 0.0   	neg = 0.0  
+11. Sean Connery produce                ... pos = 0.0   	neg = 0.0  
+12. It shows.                           ... pos = 0.0   	neg = 0    
+13. It might also explai                ... pos = 0.0   	neg = 0.75 
+14. There are two heists                ... pos = 1.375 	neg = 0.0  
+15. Though it becomes ap                ... pos = 0.125 	neg = 0.375
+16. Moreover, Mac and Gi                ... pos = 0.25  	neg = 0.5  
+17. What is even more od                ... pos = 0.5   	neg = 0.25 
+18. This means that Gin,                ... pos = 0.875 	neg = 0.125
+19. While it is great to                ... pos = 0.625 	neg = 1.25 
+20. A smash and grab wou                ... pos = 0.125 	neg = 0.0  
+21. The bank heist isn't                ... pos = 0.625 	neg = 0.125
+22. Since Sean Connery i                ... pos = 0.5   	neg = 0.625
+23. In fact, you would f                ... pos = 0.0   	neg = 0.0  
+24. If anything, their r                ... pos = 1.0   	neg = 0.125
+25. Moreover, the Gin ch                ... pos = 0.875 	neg = 0.75 
+26. It is possible to ma                ... pos = 0.875 	neg = 0.875
+27. After all, Brian DeP                ... pos = 0.375 	neg = 0.0  
+28. Jon Amiel not so muc                ... pos = 1.125 	neg = 0.0  
+29. It doesn't.                         ... pos = 0.0   	neg = 0    
+30. Ving Rhames is sadly                ... pos = 0.25  	neg = 0.875
+31. Connery himself look                ... pos = 0.0   	neg = 0.375
+32. It's not that Entrap                ... pos = 1.25  	neg = 1.75 
+33. For a thriller, that                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3431-355 is Positive         ... pos = 14.875 	neg = 12.375
+Overall score of document
+Total Pos = 14.875
+Total Neg = 12.375
+---------------------------------------------------------------------------

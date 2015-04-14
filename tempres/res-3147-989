@@ -1,0 +1,24 @@
+0. Starring:        Hug                 ... pos = 1.5   	neg = 0.375
+1. That's especially am                 ... pos = 0.375 	neg = 0.125
+2. Too many movies late                 ... pos = 0.0   	neg = 0.875
+3. They are like connec                 ... pos = 0.25  	neg = 0.0  
+4. You simply have to p                 ... pos = 0.75  	neg = 0.0  
+5. With Mickey Blue Eye                 ... pos = 1.25  	neg = 0.0  
+6. Hugh Grant plays a s                 ... pos = 0.125 	neg = 0.0  
+7. He is an auctioneer                  ... pos = 0.875 	neg = 0.375
+8. He proposes marriage                 ... pos = 0.625 	neg = 0.25 
+9. It's vignettes like                  ... pos = 0.0   	neg = 0.625
+10. He discovers that hi                ... pos = 0.0   	neg = 0.125
+11. It is the merging of                ... pos = 0.75  	neg = 0.125
+12. This is not award wi                ... pos = 2.75  	neg = 0.25 
+13. Although it is rated                ... pos = 0.125 	neg = 0.125
+14. There's nothing so b                ... pos = 0.0   	neg = 1.125
+15. Rather than taking t                ... pos = 0.5   	neg = 0.375
+16. I really want to see                ... pos = 0.125 	neg = 0.125
+17. For what it is, I gi                ... pos = 1.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3147-989 is Positive         ... pos = 11.75 	neg = 5.0  
+Overall score of document
+Total Pos = 11.75
+Total Neg = 5.0
+---------------------------------------------------------------------------

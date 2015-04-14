@@ -1,0 +1,55 @@
+0. STARRING:   Bruce Wi                 ... pos = 0.5   	neg = 0.125
+1. Roger Corman, known                  ... pos = 0.375 	neg = 0.0  
+2. "  This summer has a                 ... pos = 0.375 	neg = 1.0  
+3. The story is straigh                 ... pos = 0.5   	neg = 0.125
+4. Several small meteor                 ... pos = 0.375 	neg = 0.375
+5. NASA discovers that                  ... pos = 0.25  	neg = 0.125
+6. The rock's size mean                 ... pos = 0.125 	neg = 0.375
+7. Realising that no am                 ... pos = 1.125 	neg = 0.25 
+8. Their mission: drill                 ... pos = 0.625 	neg = 0.0  
+9. The resulting explos                 ... pos = 0.0   	neg = 0.25 
+10. Bruce Willis (Die Ha                ... pos = 0.125 	neg = 0.875
+11. Also along for the r                ... pos = 0.25  	neg = 0    
+12. (Ben Affleck), Rockh                ... pos = 0.125 	neg = 0.0  
+13. Although the team do                ... pos = 0.625 	neg = 0.0  
+14. Since this is a Holl                ... pos = 0.5   	neg = 0.125
+15. This should be a com                ... pos = 0.875 	neg = 0.75 
+16. This is the sort of                 ... pos = 0.625 	neg = 1.25 
+17. So naturally the dri                ... pos = 0.625 	neg = 1.0  
+18. This film turns "sus                ... pos = 0.0   	neg = 0    
+19. After a while, these                ... pos = 0.0   	neg = 0.125
+20. Like "Deep Impact,"                 ... pos = 0.0   	neg = 0.0  
+21. Tea Leoni does not g                ... pos = 0.0   	neg = 0.0  
+22. "  Leoni hates her f                ... pos = 1.25  	neg = 0.75 
+23. "  Leoni and father                 ... pos = 0.0   	neg = 0.0  
+24. " How sweet.                        ... pos = 0.0   	neg = 0    
+25. It might be remotely                ... pos = 0.0   	neg = 0.625
+26. "Armageddon" won't g                ... pos = 0.75  	neg = 0.0  
+27. What sets it apart f                ... pos = 0.875 	neg = 0.5  
+28. The acting is the ke                ... pos = 0.0   	neg = 0.125
+29. Tyler and Affleck ar                ... pos = 0.75  	neg = 0.375
+30. Thornton is also exc                ... pos = 1.0   	neg = 0.125
+31. Surprisingly, humor                 ... pos = 0.125 	neg = 0.125
+32. His observations abo                ... pos = 0.375 	neg = 0.0  
+33. Other moments to loo                ... pos = 1.25  	neg = 0.875
+34. Although Aerosmith i                ... pos = 0.25  	neg = 0.125
+35. No doubt this is bec                ... pos = 0.0   	neg = 0.375
+36. If you like Aerosmit                ... pos = 0.0   	neg = 0.0  
+37. If you don't... well                ... pos = 0.0   	neg = 0.625
+38. I hope this film doe                ... pos = 0.375 	neg = 0.0  
+39. Not because it's a g                ... pos = 0.125 	neg = 0.125
+40. I've never seen a mo                ... pos = 0.0   	neg = 0.0  
+41. Some scenes vibrate                 ... pos = 0.625 	neg = 0.75 
+42. The visual style of                 ... pos = 0.25  	neg = 0.125
+43. My recommendation?                  ... pos = 0     	neg = 0.0  
+44. Bring along some Dra                ... pos = 0.375 	neg = 0.0  
+45. This review was orig                ... pos = 0.125 	neg = 0.125
+46. This review may be f                ... pos = 0.625 	neg = 0.5  
+47. It may not reproduce                ... pos = 0.375 	neg = 0    
+48. If you have comments                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6217-216 is Positive         ... pos = 17.5  	neg = 13.0 
+Overall score of document
+Total Pos = 17.5
+Total Neg = 13.0
+---------------------------------------------------------------------------

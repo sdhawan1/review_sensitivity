@@ -1,0 +1,32 @@
+0. WILD WILD WEST *˝ (                 ... pos = 0.375 	neg = 0.375
+1. By the time Jim West                 ... pos = 0.625 	neg = 1.375
+2. Is the old west real                 ... pos = 0.0   	neg = 0.125
+3. (If your answer is n                 ... pos = 0.375 	neg = 0.625
+4. ). 1869.                             ... pos = 0     	neg = 0    
+5. Jim West is a quick-                 ... pos = 0.75  	neg = 1.25 
+6. How will Loveless ac                 ... pos = 0.125 	neg = 0.25 
+7. Well, by hulking aro                 ... pos = 0.0   	neg = 0.0  
+8. Bosomy dance hall gi                 ... pos = 0.0   	neg = 0.375
+9. (Gordon first discov                 ... pos = 0.125 	neg = 0.125
+10. ) Racial politics ob                ... pos = 0.375 	neg = 0.0  
+11. (West automatically                 ... pos = 0.375 	neg = 0.0  
+12. Super.                              ... pos = 0     	neg = 0.0  
+13. ) At any rate, I kep                ... pos = 0.0   	neg = 0.375
+14. (Her single comic mo                ... pos = 0.0   	neg = 0.125
+15. ). Jim West is the r                ... pos = 0.625 	neg = 0.25 
+16. Smith's a better rea                ... pos = 0.5   	neg = 0.25 
+17. In Wild Wild West he                ... pos = 1.5   	neg = 1.5  
+18. Smith is ill equippe                ... pos = 0.0   	neg = 1.375
+19. What attracted Sonne                ... pos = 0.0   	neg = 0.0  
+20. This isn't the first                ... pos = 0.375 	neg = 0.0  
+21. ), but it's the firs                ... pos = 0.125 	neg = 0.75 
+22. Wild Wild West is po                ... pos = 0.5   	neg = 2.5  
+23. (To wit, its ridicul                ... pos = 0.375 	neg = 1.875
+24. ). Wild Wild West's                 ... pos = 2.25  	neg = 0.875
+25. When, towards what s                ... pos = 0.0   	neg = 2.125
+---------------------------------------------------------------------------
+./temp/tmp-2843-1545 is Negative        ... pos = 9.375 	neg = 16.5 
+Overall score of document
+Total Pos = 9.375
+Total Neg = 16.5
+---------------------------------------------------------------------------

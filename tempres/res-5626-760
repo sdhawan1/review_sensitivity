@@ -1,0 +1,47 @@
+0. By Nathaniel R. Atch                 ... pos = 0.625 	neg = 0.0  
+1. If their films refle                 ... pos = 0.5   	neg = 0.125
+2. That's okay--chances                 ... pos = 0.0   	neg = 0.0  
+3. I'll continue to wat                 ... pos = 0.5   	neg = 0    
+4. The Big Lebowski fit                 ... pos = 0.375 	neg = 0.0  
+5. At the same time, th                 ... pos = 0.5   	neg = 0.625
+6. I find this to be a                  ... pos = 0.5   	neg = 0.0  
+7. It's occasionally ni                 ... pos = 0.25  	neg = 0.25 
+8. Wait, now that I thi                 ... pos = 0.0   	neg = 0.0  
+9. Jeff Bridges stars a                 ... pos = 0.0   	neg = 0.0  
+10. The Dude is an unemp                ... pos = 0.0   	neg = 0.625
+11. He does bowl, though                ... pos = 1.25  	neg = 0.125
+12. He bowls with his fr                ... pos = 0.125 	neg = 0.0  
+13. The first scene of t                ... pos = 0.125 	neg = 0.125
+14. The Dude quickly exp                ... pos = 0.25  	neg = 1.0  
+15. Irate (or, as irate                 ... pos = 0.25  	neg = 0.0  
+16. The Dude demands tha                ... pos = 0.0   	neg = 0.625
+17. And....         Wow,                ... pos = 0     	neg = 0.375
+18. The story unravels s                ... pos = 0.25  	neg = 0.0  
+19. "  It's all about th                ... pos = 0.0   	neg = 0.5  
+20. It's entertaining an                ... pos = 1.25  	neg = 0.0  
+21. The Dude, for instan                ... pos = 1.125 	neg = 0.5  
+22. He always has a dumb                ... pos = 0.125 	neg = 0.0  
+23. I don't think he utt                ... pos = 0.0   	neg = 0.75 
+24. John Goodman, in jus                ... pos = 0.0   	neg = 0.0  
+25. Miraculously, I'm no                ... pos = 0.125 	neg = 0.25 
+26. He utilizes the f-wo                ... pos = 1.0   	neg = 0.125
+27. Julianne Moore, who                 ... pos = 0.75  	neg = 0.375
+28. We get the feeling s                ... pos = 0.625 	neg = 0.125
+29. And there is the usu                ... pos = 1.0   	neg = 0.625
+30. John Turturro is dis                ... pos = 0.375 	neg = 0.25 
+31. ) bowling freak name                ... pos = 0.0   	neg = 0    
+32. David Thewlis has a                 ... pos = 0.125 	neg = 0.5  
+33. Steve Buscemi gets c                ... pos = 0.0   	neg = 0.0  
+34. And Sam Elliott show                ... pos = 1.625 	neg = 0.625
+35. Coen films work beca                ... pos = 0.0   	neg = 0.625
+36. I never doubted that                ... pos = 0.0   	neg = 0.25 
+37. I didn't care much f                ... pos = 1.125 	neg = 0.25 
+38. The Big Lebowski is                 ... pos = 0.125 	neg = 0.125
+39. And, like I said, it                ... pos = 0.0   	neg = 0.0  
+40. What makes a pointle                ... pos = 1.625 	neg = 1.375
+---------------------------------------------------------------------------
+./temp/tmp-5626-760 is Positive         ... pos = 16.5  	neg = 11.125
+Overall score of document
+Total Pos = 16.5
+Total Neg = 11.125
+---------------------------------------------------------------------------

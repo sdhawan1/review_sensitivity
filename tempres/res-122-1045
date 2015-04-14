@@ -1,0 +1,50 @@
+0. Towards the end of D                 ... pos = 0.875 	neg = 0.0  
+1. "  She doesn't get m                 ... pos = 0.25  	neg = 0.125
+2. Most of the great qu                 ... pos = 1.0   	neg = 1.5  
+3. " or "Why can't we a                 ... pos = 0.0   	neg = 0.0  
+4. " or "Why can't the                  ... pos = 0.0   	neg = 0.0  
+5. ". Dogma has an unan                 ... pos = 0.75  	neg = 1.375
+6. ". Dogma is a bad mo                 ... pos = 0.0   	neg = 1.0  
+7. It seems to be delib                 ... pos = 0.75  	neg = 0.5  
+8. And it's not just th                 ... pos = 0.125 	neg = 0.25 
+9. More than any other                  ... pos = 0.25  	neg = 0.25 
+10. (Like Fight Club bef                ... pos = 0.0   	neg = 0.125
+11. )  There's almost as                ... pos = 0.0   	neg = 0.0  
+12. (Not that there isn'                ... pos = 0.0   	neg = 0.625
+13. )  The story, such a                ... pos = 0.5   	neg = 0.125
+14. To top off the awful                ... pos = 0.625 	neg = 1.5  
+15. (Jar-Jar Binks appea                ... pos = 0.0   	neg = 0.0  
+16. ). And yet, just as                 ... pos = 2.75  	neg = 1.25 
+17. Matt Damon and Ben A                ... pos = 2.0   	neg = 0.0  
+18. Their performances h                ... pos = 2.625 	neg = 0.625
+19. They've got an energ                ... pos = 1.25  	neg = 0.375
+20. (One of the things a                ... pos = 0.125 	neg = 0.5  
+21. )  Damon and Affleck                ... pos = 1.375 	neg = 0.25 
+22. The third and fourth                ... pos = 1.625 	neg = 0.0  
+23. Both, however, are s                ... pos = 0.375 	neg = 0.125
+24. Carlin has the small                ... pos = 0.0   	neg = 0.0  
+25. Rock has the showier                ... pos = 0.0   	neg = 0.0  
+26. They're both parts t                ... pos = 0.125 	neg = 0.125
+27. But Carlin and Rock                 ... pos = 1.375 	neg = 0.0  
+28. Rock, especially, is                ... pos = 0.5   	neg = 0.125
+29. It's a side of him w                ... pos = 0.0   	neg = 0.0  
+30. And the fifth perfor                ... pos = 0.0   	neg = 0.0  
+31. Alan Rickman gives w                ... pos = 0.0   	neg = 0.875
+32. From his first appea                ... pos = 1.25  	neg = 0.125
+33. The script wisely gi                ... pos = 0.375 	neg = 0.75 
+34. And when the time co                ... pos = 1.625 	neg = 0.875
+35. Dogma will almost ce                ... pos = 0.75  	neg = 0.0  
+36. Catholics will be un                ... pos = 0.25  	neg = 0.125
+37. Protestants (like my                ... pos = 0.75  	neg = 0.0  
+38. (Jewish and Buddhist                ... pos = 0.125 	neg = 0.0  
+39. )  But communicants                 ... pos = 1.0   	neg = 0.5  
+40. In the end, to mix a                ... pos = 0.0   	neg = 0.0  
+41. (Yes, I know it's a                 ... pos = 0.0   	neg = 1.125
+42. ). Movie Reviews: ht                ... pos = 0.0   	neg = 0.25 
+43. "     -- Alan Jackso                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-122-1045 is Positive         ... pos = 25.375 	neg = 15.375
+Overall score of document
+Total Pos = 25.375
+Total Neg = 15.375
+---------------------------------------------------------------------------

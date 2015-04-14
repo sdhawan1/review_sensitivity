@@ -1,0 +1,33 @@
+0. Austin Powers: The S                 ... pos = 2.25  	neg = 0.5  
+1. If only.                             ... pos = 0     	neg = 0.0  
+2. In fact, The Spy Who                 ... pos = 0.625 	neg = 0.5  
+3. Take the scene where                 ... pos = 0.375 	neg = 0.0  
+4. After being pushed o                 ... pos = 0.25  	neg = 1.625
+5. But suddenly, we hea                 ... pos = 0.0   	neg = 0.5  
+6. A similar scene play                 ... pos = 0.875 	neg = 0.25 
+7. Did the filmmakers r                 ... pos = 0.125 	neg = 0.0  
+8. Apparently I overest                 ... pos = 0.25  	neg = 0.25 
+9. Do I hear the sound                  ... pos = 0.0   	neg = 0.0  
+10. Having said that, th                ... pos = 0.75  	neg = 0.0  
+11. The basic plot was d                ... pos = 0.375 	neg = 0.25 
+12. Evil (Mike Myers, in                ... pos = 0.625 	neg = 0.75 
+13. ) whilst he is cryog                ... pos = 0.0   	neg = 0.125
+14. When Austin gets win                ... pos = 0.75  	neg = 0.375
+15. This sounds stupid,                 ... pos = 0.0   	neg = 0.125
+16. Then there's Mini-Me                ... pos = 0.0   	neg = 0.0  
+17. Evil, exactly 1/8 in                ... pos = 0.125 	neg = 0.75 
+18. Troyer's persona alo                ... pos = 0.625 	neg = 0.0  
+19. Just try to ignore t                ... pos = 0.0   	neg = 0.5  
+20. Evil's height rise t                ... pos = 0.375 	neg = 0.0  
+21. No matter.                          ... pos = 0.0   	neg = 0.25 
+22. However, there are o                ... pos = 1.125 	neg = 0.875
+23. If there is in fact                 ... pos = 0.0   	neg = 0.75 
+24. Evil and Mini-Me.                   ... pos = 0     	neg = 0.75 
+25. Unconventional, yes,                ... pos = 0.0   	neg = 0.25 
+26. *Find all of Jason's                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1376-1560 is Positive        ... pos = 10.375 	neg = 9.375
+Overall score of document
+Total Pos = 10.375
+Total Neg = 9.375
+---------------------------------------------------------------------------

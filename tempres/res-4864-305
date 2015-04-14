@@ -1,0 +1,37 @@
+0. Christian Critic's M                 ... pos = 0.5   	neg = 0.5  
+1. Didn't we see this d                 ... pos = 0.0   	neg = 0.0  
+2. Director Chris Colum                 ... pos = 0.375 	neg = 0.0  
+3. Based on an Isaac As                 ... pos = 0.0   	neg = 0.0  
+4. This appliance is an                 ... pos = 0.0   	neg = 0.375
+5. He will spend the ne                 ... pos = 0.375 	neg = 0.125
+6. Encouraged by the fa                 ... pos = 0.625 	neg = 0    
+7. Whenever he finds hi                 ... pos = 0.25  	neg = 0.75 
+8. Over time, he develo                 ... pos = 0.625 	neg = 0.0  
+9. He also sees his ori                 ... pos = 0.0   	neg = 0.0  
+10. His next step on the                ... pos = 0.625 	neg = 0.25 
+11. The 200 years pass q                ... pos = 1.25  	neg = 0.375
+12. What begins as a lig                ... pos = 2.875 	neg = 0.125
+13. Mr. Williams has som                ... pos = 0.375 	neg = 0.0  
+14. But unlike Dorothy's                ... pos = 0.375 	neg = 0.125
+15. From the very beginn                ... pos = 1.375 	neg = 0.0  
+16. Most of the growth o                ... pos = 2.25  	neg = 0.125
+17. Stretched over the l                ... pos = 0.125 	neg = 0.0  
+18. Embeth Davidtz (MANS                ... pos = 0.875 	neg = 0.25 
+19. Knowing that she can                ... pos = 1.375 	neg = 0.0  
+20. Oliver Platt (LAKE P                ... pos = 1.0   	neg = 0.0  
+21. And Sam Neill as And                ... pos = 1.25  	neg = 0.0  
+22. Chris Columbus tries                ... pos = 0.0   	neg = 0.5  
+23. " by turning the que                ... pos = 0.0   	neg = 0.0  
+24. "  Of course, he isn                ... pos = 0.5   	neg = 0.0  
+25. Were the question po                ... pos = 0.125 	neg = 0.25 
+26. "  Job 33:4 [KJV]. D                ... pos = 0.0   	neg = 0.0  
+27. Regardless of how mu                ... pos = 0.125 	neg = 0.25 
+28. Andrew's quest for h                ... pos = 0.375 	neg = 0.625
+29. We may someday reach                ... pos = 0.375 	neg = 0.125
+30. God, after all, is t                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4864-305 is Positive         ... pos = 18.0  	neg = 4.875
+Overall score of document
+Total Pos = 18.0
+Total Neg = 4.875
+---------------------------------------------------------------------------

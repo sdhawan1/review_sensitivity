@@ -1,0 +1,38 @@
+0. Director:  John Las                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution:  D                 ... pos = 0.125 	neg = 0.125
+2. Here we are now, jus                 ... pos = 0.25  	neg = 0.0  
+3. What I find so aston                 ... pos = 0.75  	neg = 0.125
+4. I mean, come on -- w                 ... pos = 0.5   	neg = 0.125
+5. As was the case with                 ... pos = 0.125 	neg = 0.375
+6. In fact, this movie                  ... pos = 0.625 	neg = 0.875
+7. But it's not really                  ... pos = 0.0   	neg = 0.0  
+8. A Bug's Life is a re                 ... pos = 1.0   	neg = 0.25 
+9. In fact, it's one of                 ... pos = 1.0   	neg = 0.0  
+10. I haven't had such a                ... pos = 0.75  	neg = 0.0  
+11. It tells the story o                ... pos = 0.0   	neg = 0.0  
+12. The ants spend all s                ... pos = 0.375 	neg = 0.0  
+13. Just before the gras                ... pos = 0.0   	neg = 0.125
+14. Flick, feeling respo                ... pos = 1.25  	neg = 1.25 
+15. He heads to the city                ... pos = 1.375 	neg = 0.125
+16. Flick doesn't know t                ... pos = 0.125 	neg = 0.125
+17. The most obvious ele                ... pos = 0.0   	neg = 0.125
+18. Created by Pixar, th                ... pos = 0.0   	neg = 0.0  
+19. The bugs seem to inh                ... pos = 0.375 	neg = 0.25 
+20. This is a lush, colo                ... pos = 0.125 	neg = 0.125
+21. ) and make them acti                ... pos = 0.625 	neg = 0.125
+22. The film is also mer                ... pos = 0.5   	neg = 1.0  
+23. But the makers of A                 ... pos = 1.125 	neg = 0.0  
+24. Flick, with solid vo                ... pos = 0.0   	neg = 0.125
+25. But the real treat c                ... pos = 2.0   	neg = 0.125
+26. All of these bugs ha                ... pos = 0.125 	neg = 0.0  
+27. In my review of Antz                ... pos = 0.5   	neg = 0.375
+28. In concept, A Bug's                 ... pos = 0.0   	neg = 0.25 
+29. With such strong wor                ... pos = 1.0   	neg = 0.75 
+30. It really is too bad                ... pos = 1.125 	neg = 1.375
+31. After a slew of endl                ... pos = 1.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-760 is Positive         ... pos = 16.75 	neg = 9.125
+Overall score of document
+Total Pos = 16.75
+Total Neg = 9.125
+---------------------------------------------------------------------------

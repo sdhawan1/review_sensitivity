@@ -1,0 +1,31 @@
+0. Starring Jack Nichol                 ... pos = 1.125 	neg = 0.125
+1. For a movie that rec                 ... pos = 1.25  	neg = 0.875
+2. As Good As It Gets w                 ... pos = 1.0   	neg = 0.375
+3. Nicholson plays an o                 ... pos = 0.25  	neg = 0.75 
+4. He falls in love wit                 ... pos = 0.75  	neg = 0.75 
+5. Throw in to the mix                  ... pos = 2.0   	neg = 0.0  
+6. Certainly not worthy                 ... pos = 1.375 	neg = 0    
+7. But then again, what                 ... pos = 0.0   	neg = 0.0  
+8. Adding to the intric                 ... pos = 1.125 	neg = 0.875
+9. So by some miracle o                 ... pos = 1.5   	neg = 0.625
+10. It sounds stranger t                ... pos = 0.0   	neg = 0.125
+11. If it were anyone el                ... pos = 1.375 	neg = 0.125
+12. But since it is Jack                ... pos = 0.875 	neg = 1.0  
+13. Nicholson injected e                ... pos = 0.25  	neg = 0.0  
+14. As for Helen Hunt, I                ... pos = 0.0   	neg = 0.25 
+15. Her acting abilities                ... pos = 2.0   	neg = 1.75 
+16. Next to Nicholson, G                ... pos = 0.0   	neg = 1.125
+17. Cuba Gooding Jr. sho                ... pos = 0.25  	neg = 0.125
+18. Cuba stole every sce                ... pos = 0.5   	neg = 0.375
+19. Aside From the good                 ... pos = 1.5   	neg = 0.5  
+20. The love story isn't                ... pos = 0.625 	neg = 0    
+21. I never cared if Nic                ... pos = 0.75  	neg = 0.0  
+22. On top of that, Nich                ... pos = 0.125 	neg = 0.25 
+23. At the first of the                 ... pos = 0.25  	neg = 1.875
+24. As Good As It Gets r                ... pos = 1.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-2115-488 is Positive         ... pos = 19.875 	neg = 12.625
+Overall score of document
+Total Pos = 19.875
+Total Neg = 12.625
+---------------------------------------------------------------------------

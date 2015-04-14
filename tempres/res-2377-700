@@ -1,0 +1,28 @@
+0. Release Date: March                  ... pos = 0.75  	neg = 0.5  
+1. Reality is suspended                 ... pos = 0.375 	neg = 0.125
+2. Although this movie                  ... pos = 0.875 	neg = 0.375
+3. CRUEL INTENTIONS doe                 ... pos = 0.5   	neg = 0.25 
+4. The plot is a bet: s                 ... pos = 0.25  	neg = 0.125
+5. Upon news that their                 ... pos = 0.75  	neg = 0.25 
+6. Then we learn that t                 ... pos = 1.375 	neg = 0.125
+7. So Kathryn bets Seba                 ... pos = 1.5   	neg = 0.125
+8. There follows 95 min                 ... pos = 0.625 	neg = 0.0  
+9. The movie plays heav                 ... pos = 0.25  	neg = 0.75 
+10. Kudos to a director                 ... pos = 0.125 	neg = 0.375
+11. Instead, the directi                ... pos = 0.0   	neg = 0.625
+12. The acting corps *is                ... pos = 0.25  	neg = 0.0  
+13. Sarah Michelle Gella                ... pos = 1.75  	neg = 0.625
+14. Phillippe does the j                ... pos = 0.0   	neg = 0.25 
+15. But he's stoic throu                ... pos = 0.0   	neg = 0.25 
+16. Witherspoon evokes t                ... pos = 1.375 	neg = 0.625
+17. No one has a chance                 ... pos = 0.5   	neg = 0.25 
+18. About the only thing                ... pos = 0.5   	neg = 0.25 
+19. Although it's almost                ... pos = 0.375 	neg = 0.875
+20. This allows the audi                ... pos = 1.0   	neg = 0.0  
+21. But by and large CRU                ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-2377-700 is Positive         ... pos = 13.125 	neg = 7.75 
+Overall score of document
+Total Pos = 13.125
+Total Neg = 7.75
+---------------------------------------------------------------------------

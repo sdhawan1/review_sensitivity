@@ -1,0 +1,38 @@
+0. Rating: ***1/2 (out                  ... pos = 1.875 	neg = 0.625
+1. The film is a modern                 ... pos = 0.875 	neg = 0.125
+2. While it's certainly                 ... pos = 0.375 	neg = 0.25 
+3. Sebastian (Ryan Phil                 ... pos = 0.625 	neg = 0.0  
+4. One day Sebastian re                 ... pos = 0.375 	neg = 0.125
+5. Katherine bets him t                 ... pos = 0.0   	neg = 0.0  
+6. If she wins, she get                 ... pos = 0.125 	neg = 0.0  
+7. If he wins, he gets                  ... pos = 0.125 	neg = 0.0  
+8. Thus  begins the sle                 ... pos = 0.0   	neg = 0.125
+9. Kathryn tries to get                 ... pos = 0.375 	neg = 0.75 
+10. She promises Cecile'                ... pos = 0.125 	neg = 1.0  
+11. What she really does                ... pos = 0.0   	neg = 0.125
+12. Meanwhile,  Sebastia                ... pos = 0.125 	neg = 0.875
+13. As played by Reese W                ... pos = 0.25  	neg = 0.5  
+14. What I particularly                 ... pos = 0.125 	neg = 1.0  
+15. Director Roger Kumbl                ... pos = 0.0   	neg = 0.75 
+16. Many films similar t                ... pos = 0.375 	neg = 0.25 
+17. The material here is                ... pos = 0.625 	neg = 1.125
+18. Ryan Phillippe is a                 ... pos = 0.125 	neg = 0.125
+19. We must be able to b                ... pos = 0.875 	neg = 0.125
+20. Phillippe is able to                ... pos = 0.625 	neg = 0.75 
+21. Even better is  Rees                ... pos = 0.0   	neg = 0.125
+22. She balances innocen                ... pos = 1.0   	neg = 0    
+23. Another actress coul                ... pos = 0.0   	neg = 0.625
+24. She makes it beleiva                ... pos = 1.75  	neg = 0.5  
+25. And Sarah  Michelle                 ... pos = 1.125 	neg = 1.25 
+26. The technical credit                ... pos = 1.125 	neg = 0.0  
+27. Special kudos to the                ... pos = 0.5   	neg = 0.75 
+28. The films moves  alo                ... pos = 0.375 	neg = 0.0  
+29. I'm not sure I like                 ... pos = 0.875 	neg = 0.0  
+30. I won't deny that th                ... pos = 0.0   	neg = 0.125
+31. Larry McGillicuddy -                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2377-1154 is Positive        ... pos = 14.75 	neg = 12.0 
+Overall score of document
+Total Pos = 14.75
+Total Neg = 12.0
+---------------------------------------------------------------------------

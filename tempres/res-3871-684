@@ -1,0 +1,45 @@
+0. Cast: Ryan Phillippe                 ... pos = 0.75  	neg = 0.125
+1. Also, the end of inn                 ... pos = 0.125 	neg = 0.0  
+2. It was our last danc                 ... pos = 0.625 	neg = 1.25 
+3. I was a child of thi                 ... pos = 0.25  	neg = 0.125
+4. Recently, Hollywood                  ... pos = 0.0   	neg = 0.0  
+5. Films like Boogie Ni                 ... pos = 0.375 	neg = 0.625
+6. Some people are not                  ... pos = 0.625 	neg = 0.25 
+7. In the annals of the                 ... pos = 0.0   	neg = 0.0  
+8. Steve Rubell's non-s                 ... pos = 0.125 	neg = 0.0  
+9. This was a legend th                 ... pos = 1.875 	neg = 1.375
+10. Why then, is this te                ... pos = 0.0   	neg = 0.125
+11. You would think that                ... pos = 0.25  	neg = 0.5  
+12. But alas, this movie                ... pos = 0.5   	neg = 0.25 
+13. The reason..the char                ... pos = 0.875 	neg = 0.0  
+14. I didn't care what h                ... pos = 0.875 	neg = 0.0  
+15. The director tried t                ... pos = 0.25  	neg = 1.375
+16. Also, the music, the                ... pos = 0.125 	neg = 0.125
+17. The lemming-like inf                ... pos = 0.25  	neg = 0.625
+18. But 54 fails miserab                ... pos = 0.125 	neg = 0.125
+19. The Wedding Singer,                 ... pos = 0.125 	neg = 0.0  
+20. It is hard to judge                 ... pos = 0.0   	neg = 1.5  
+21. Ryan Phillippe, (I K                ... pos = 1.0   	neg = 0.625
+22. He seems more concer                ... pos = 0.0   	neg = 0.25 
+23. Salma Hayek is radia                ... pos = 0.375 	neg = 0.375
+24. The biggest waste in                ... pos = 0.125 	neg = 0.125
+25. She has about 15 min                ... pos = 0.0   	neg = 0.125
+26. One, to draw hormona                ... pos = 0.625 	neg = 0.125
+27. Short of those, I fa                ... pos = 0.875 	neg = 0.125
+28. Also, an underplayed                ... pos = 1.625 	neg = 0.375
+29. The true star, and s                ... pos = 0.625 	neg = 0.125
+30. He played his part p                ... pos = 0.25  	neg = 0.125
+31. It made me wish he w                ... pos = 0.5   	neg = 0.5  
+32. His portrayal of Rub                ... pos = 1.25  	neg = 1.625
+33. His presence onscree                ... pos = 0.0   	neg = 0.625
+34. Boogie Nights set th                ... pos = 1.75  	neg = 0.875
+35. That is this movie's                ... pos = 0.875 	neg = 0.125
+36. A pointed analogy oc                ... pos = 0.0   	neg = 1.0  
+37. Indeed, the party is                ... pos = 1.0   	neg = 0.125
+38. ($$). . -----== Post                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3871-684 is Positive         ... pos = 19.0  	neg = 15.625
+Overall score of document
+Total Pos = 19.0
+Total Neg = 15.625
+---------------------------------------------------------------------------

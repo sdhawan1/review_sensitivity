@@ -1,0 +1,55 @@
+0. Did you ever hear th                 ... pos = 0.0   	neg = 0.0  
+1. You did, huh?                        ... pos = 0     	neg = 0.0  
+2. Well I promise you n                 ... pos = 0.0   	neg = 0.0  
+3. Okay I'm lying.                      ... pos = 0.0   	neg = 0.125
+4. That may be what I w                 ... pos = 1.75  	neg = 1.375
+5. In fact, the biggest                 ... pos = 0.25  	neg = 0.0  
+6. Don't get me wrong,                  ... pos = 0.75  	neg = 0.875
+7. For example, how man                 ... pos = 0.875 	neg = 0.5  
+8. Strangely, the lack                  ... pos = 0.25  	neg = 0.125
+9. Because the film is                  ... pos = 0.625 	neg = 0.25 
+10. Father Brian Finn (E                ... pos = 0.375 	neg = 0.125
+11. As children their be                ... pos = 0.5   	neg = 0.125
+12. Now, twelve years si                ... pos = 0.0   	neg = 0.0  
+13. Jacob, whose congreg                ... pos = 0.0   	neg = 0.625
+14. The two decide to ge                ... pos = 1.25  	neg = 0.0  
+15. As Anna falls furthe                ... pos = 1.875 	neg = 0.25 
+16. He is afraid that hi                ... pos = 0.125 	neg = 0.125
+17. I must admit, I was                 ... pos = 0.875 	neg = 0.125
+18. Not only is the man                 ... pos = 0.0   	neg = 0.375
+19. Does this strike any                ... pos = 0.625 	neg = 0.25 
+20. Okay, I'm done being                ... pos = 0.75  	neg = 0.125
+21. "Keeping the Faith"                 ... pos = 0.25  	neg = 0.125
+22. It's a wholesome yet                ... pos = 1.75  	neg = 0.0  
+23. When was the last ti                ... pos = 0.625 	neg = 0.125
+24. Okay, my sermon is n                ... pos = 0.0   	neg = 0.25 
+25. I'm sorry about gett                ... pos = 0.5   	neg = 0.625
+26. Speaking of getting                 ... pos = 1.25  	neg = 0.0  
+27. Edward Norton may be                ... pos = 0.5   	neg = 0.625
+28. In fact, one of the                 ... pos = 1.625 	neg = 0.5  
+29. Brian Finn could hav                ... pos = 1.625 	neg = 0.25 
+30. Ben Stiller's charac                ... pos = 1.0   	neg = 0.125
+31. Ben Stiller, previou                ... pos = 0.125 	neg = 1.0  
+32. In this movie he fin                ... pos = 1.375 	neg = 0.0  
+33. The last bit of cast                ... pos = 0.5   	neg = 0.125
+34. I have never found J                ... pos = 0.75  	neg = 0.25 
+35. Besides the somewhat                ... pos = 1.25  	neg = 0.25 
+36. I've always said an                 ... pos = 1.375 	neg = 0.25 
+37. Not only is there ve                ... pos = 0.5   	neg = 1.375
+38. Watch for Milos Form                ... pos = 0.5   	neg = 0.0  
+39. Anne Bancroft ("The                 ... pos = 0.5   	neg = 1.125
+40. "Keeping the Faith"                 ... pos = 0.0   	neg = 0.875
+41. I recommend it to fa                ... pos = 0.375 	neg = 0.0  
+42. Comments?                           ... pos = 0     	neg = 0.0  
+43. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+44. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+45. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+46. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+47. * - One of the worst                ... pos = 0.0   	neg = 0.375
+48. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1484-535 is Positive         ... pos = 28.625 	neg = 15.25
+Overall score of document
+Total Pos = 28.625
+Total Neg = 15.25
+---------------------------------------------------------------------------

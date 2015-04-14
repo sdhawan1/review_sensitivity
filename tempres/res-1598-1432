@@ -1,0 +1,39 @@
+0. I'm surprised at the                 ... pos = 0.5   	neg = 0.0  
+1. While purposefully a                 ... pos = 0.5   	neg = 0.125
+2. Or perhaps it's just                 ... pos = 0.75  	neg = 0.125
+3. Undeniably, MISSION                  ... pos = 0.375 	neg = 0.5  
+4. De Palma's  track re                 ... pos = 0.25  	neg = 1.0  
+5. At the other end of                  ... pos = 0.25  	neg = 0.625
+6. It's these comparati                 ... pos = 0.0   	neg = 0.125
+7. The most obvious hom                 ... pos = 3.375 	neg = 0.375
+8. Conceptwise, it's an                 ... pos = 0.0   	neg = 0.125
+9. Science Fiction has                  ... pos = 0.75  	neg = 1.0  
+10. There's very little                 ... pos = 1.375 	neg = 0.5  
+11. That leaves us with                 ... pos = 0.625 	neg = 0.125
+12. It's also reminded u                ... pos = 0.625 	neg = 0.375
+13. On the negative side                ... pos = 2.875 	neg = 1.625
+14. I don't necessarily                 ... pos = 1.125 	neg = 0.375
+15. Also   and in spit                ... pos = 0.125 	neg = 0.625
+16. For once he presents                ... pos = 1.125 	neg = 0.125
+17. And this time, when                 ... pos = 0.125 	neg = 0.0  
+18. For my  money, the p                ... pos = 0.25  	neg = 0.125
+19. It looks  fabulous o                ... pos = 1.5   	neg = 0.375
+20. Granted, there are s                ... pos = 1.0   	neg = 1.875
+21. It comes back to wha                ... pos = 0.25  	neg = 0.0  
+22. My guess is that the                ... pos = 1.375 	neg = 0.625
+23. Another 2001?                       ... pos = 0     	neg = 0.125
+24. Not likely; there wi                ... pos = 0.125 	neg = 0.25 
+25. CLOSE ENCOUNTERS?                   ... pos = 0.0   	neg = 0    
+26. No, that was  pointe                ... pos = 0.125 	neg = 0.375
+27. APOLLO 13?                          ... pos = 0.0   	neg = 0    
+28. No, that was fact, a                ... pos = 0.0   	neg = 0.5  
+29. MISSION TO MARS is                ... pos = 0.0   	neg = 0.375
+30. In the meantime, and                ... pos = 1.0   	neg = 0.875
+31. Or to put it another                ... pos = 0.625 	neg = 0.25 
+32. Postscript: It's rea                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-1432 is Positive        ... pos = 21.125 	neg = 13.5 
+Overall score of document
+Total Pos = 21.125
+Total Neg = 13.5
+---------------------------------------------------------------------------

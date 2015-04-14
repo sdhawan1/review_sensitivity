@@ -1,0 +1,34 @@
+0. USA.                                 ... pos = 0     	neg = 0.0  
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director - Peter Wei                 ... pos = 0.125 	neg = 0.75 
+3. Production Company -                 ... pos = 0.125 	neg = 0    
+4. Jim Carrey (Truman B                 ... pos = 0.0   	neg = 0    
+5. Unaware of it the en                 ... pos = 0.75  	neg = 0.5  
+6. But a series of  mis                 ... pos = 0.375 	neg = 1.5  
+7. He holds a secret lo                 ... pos = 1.625 	neg = 0.5  
+8. The Truman Show' w                 ... pos = 0.375 	neg = 0.125
+9. Niccol  made an impr                 ... pos = 0.25  	neg = 0.0  
+10. It is possible in                 ... pos = 0.75  	neg = 0.5  
+11. However Niccol's tre                ... pos = 1.25  	neg = 0.25 
+12. The central premise                 ... pos = 0.0   	neg = 0.5  
+13. One is not spoiling                 ... pos = 0.5   	neg = 0.125
+14. Half the fun  in the                ... pos = 2.875 	neg = 1.375
+15. The film  even start                ... pos = 0.875 	neg = 0.25 
+16. " and the film pulls                ... pos = 0.0   	neg = 0.0  
+17. Most of the  shots i                ... pos = 0.125 	neg = 0.0  
+18. Even the  opening cr                ... pos = 0.75  	neg = 0.0  
+19. Peter Weir becomes t                ... pos = 0.125 	neg = 0.0  
+20. All of Carrey's prev                ... pos = 0.375 	neg = 0.125
+21. Weir is the  first d                ... pos = 0.125 	neg = 0.25 
+22. One can't help but                  ... pos = 1.375 	neg = 1.5  
+23. The conceptual audac                ... pos = 0.375 	neg = 0.25 
+24. Niccol  indeed has t                ... pos = 1.5   	neg = 0.0  
+25. what if a man found                 ... pos = 0.0   	neg = 0.375
+26. -  and to work the p                ... pos = 0.0   	neg = 0.0  
+27. In both  cases Nicco                ... pos = 0.25  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5847-108 is Positive         ... pos = 14.875 	neg = 9.75 
+Overall score of document
+Total Pos = 14.875
+Total Neg = 9.75
+---------------------------------------------------------------------------

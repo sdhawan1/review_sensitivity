@@ -1,0 +1,19 @@
+0. I would even say tha                 ... pos = 0.375 	neg = 0.125
+1. Tommy Lee Jones star                 ... pos = 0.0   	neg = 0.0  
+2. Marshal Sam Gerard,                  ... pos = 1.125 	neg = 0.875
+3. Here, he is back in                  ... pos = 0.0   	neg = 0.25 
+4. He is framed (?                      ... pos = 0.0   	neg = 0.125
+5. ) for the homicide o                 ... pos = 0.625 	neg = 0.125
+6. Marshals is a very w                 ... pos = 0.5   	neg = 0.125
+7. Director Stuart Bair                 ... pos = 0.25  	neg = 0.0  
+8. There is a literally                 ... pos = 0.5   	neg = 0.625
+9. U.S.                                 ... pos = 0.0   	neg = 0    
+10. Marshals is brainy f                ... pos = 1.0   	neg = 0.125
+11. And seeing Jones in                 ... pos = 0.0   	neg = 0.125
+12. 1999 (c) Quick Flick                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5482-170 is Positive         ... pos = 4.375 	neg = 2.5  
+Overall score of document
+Total Pos = 4.375
+Total Neg = 2.5
+---------------------------------------------------------------------------

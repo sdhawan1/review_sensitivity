@@ -1,0 +1,57 @@
+0. The police negotiato                 ... pos = 0.5   	neg = 0.125
+1. Lives are often at s                 ... pos = 1.25  	neg = 0.125
+2. The negotiator must                  ... pos = 1.875 	neg = 0.5  
+3. Most of all, the neg                 ... pos = 0.875 	neg = 0.5  
+4. It takes a pretty sm                 ... pos = 0.0   	neg = 0.125
+5. But what if the host                 ... pos = 0.0   	neg = 0.125
+6. What if he's also ab                 ... pos = 0.125 	neg = 0.0  
+7. In fact, what if he                  ... pos = 0.5   	neg = 0.0  
+8. It is this circumsta                 ... pos = 0.0   	neg = 0.125
+9. In this film, police                 ... pos = 0.75  	neg = 1.125
+10. When his partner tur                ... pos = 0.0   	neg = 0.5  
+11. Faced with the scorn                ... pos = 0.125 	neg = 0.75 
+12. I don't quite rememb                ... pos = 0.25  	neg = 0.0  
+13. Luckily, the film so                ... pos = 0.625 	neg = 0.625
+14. After being offered                 ... pos = 2.0   	neg = 0.0  
+15. Walsh), taking him a                ... pos = 0.0   	neg = 0.125
+16. Although Roman's act                ... pos = 0.5   	neg = 0.25 
+17. Jackson, while a sup                ... pos = 0.875 	neg = 0.25 
+18. The actor has become                ... pos = 0.375 	neg = 0.125
+19. The script also clea                ... pos = 1.125 	neg = 0.625
+20. How can we believe h                ... pos = 0.125 	neg = 0.75 
+21. Unfortunately, this                 ... pos = 1.875 	neg = 1.0  
+22. Almost every time he                ... pos = 0.5   	neg = 0.0  
+23. When Spacey appears,                ... pos = 0.0   	neg = 0.0  
+24. His is an interestin                ... pos = 0.875 	neg = 0.125
+25. Made out to be some                 ... pos = 0.125 	neg = 1.0  
+26. "I can talk a man ou                ... pos = 0.0   	neg = 0.625
+27. When he gets the cal                ... pos = 0.125 	neg = 0.125
+28. Soon, his character                 ... pos = 1.75  	neg = 0.375
+29. This complex set of                 ... pos = 0.375 	neg = 0    
+30. As the second protag                ... pos = 0.25  	neg = 0.0  
+31. Gray really lucked o                ... pos = 0.0   	neg = 0.25 
+32. David Morse as Comma                ... pos = 0.5   	neg = 0.0  
+33. The only problem is                 ... pos = 0.375 	neg = 0.375
+34. in L.A.                             ... pos = 0.0   	neg = 0    
+35. CONFIDENTIAL, and Sp                ... pos = 0.125 	neg = 0.25 
+36. With the level of ac                ... pos = 0.125 	neg = 0.125
+37. Also in the supporti                ... pos = 0.75  	neg = 0.125
+38. His character is ini                ... pos = 1.125 	neg = 1.0  
+39. Fortunately, this do                ... pos = 0.75  	neg = 0.25 
+40. J.T.                                ... pos = 0.0   	neg = 0.0  
+41. Walsh, as the suspic                ... pos = 0.75  	neg = 0    
+42. Sadly, the talented                 ... pos = 0.0   	neg = 0.75 
+43. Walsh appeared in do                ... pos = 0.75  	neg = 0.25 
+44. For one of his best                 ... pos = 0.5   	neg = 0.0  
+45. When Jack Nicholson                 ... pos = 2.0   	neg = 0.125
+46. THE NEGOTIATOR is ac                ... pos = 2.5   	neg = 0.25 
+47. In the end, THE NEGO                ... pos = 0.125 	neg = 0.0  
+48. We're served with th                ... pos = 1.5   	neg = 0.0  
+49. As an audience, we'r                ... pos = 0.375 	neg = 0.375
+50. Both provide some pr                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6278-781 is Positive         ... pos = 30.75 	neg = 14.25
+Overall score of document
+Total Pos = 30.75
+Total Neg = 14.25
+---------------------------------------------------------------------------

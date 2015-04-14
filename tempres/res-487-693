@@ -1,0 +1,37 @@
+0. Starring-Matthew Per                 ... pos = 0.25  	neg = 0.25 
+1. For Jimmy `The Tulip                 ... pos = 0.0   	neg = 0.875
+2. After supplying the                  ... pos = 0.0   	neg = 0.0  
+3. His new neighbor, th                 ... pos = 0.625 	neg = 0.5  
+4. And so begins `The W                 ... pos = 1.625 	neg = 0.0  
+5. For Matthew Perry, t                 ... pos = 0.0   	neg = 0.75 
+6. Contrary to most, I                  ... pos = 1.375 	neg = 0.875
+7. Hopefully, `The Whol                 ... pos = 0.5   	neg = 0.0  
+8. After all, the movie                 ... pos = 0.0   	neg = 0.0  
+9. Box Office himself,                  ... pos = 0.0   	neg = 0.5  
+10. Tack on a talented s                ... pos = 2.75  	neg = 0.375
+11. The plot will sound                 ... pos = 0.75  	neg = 0.0  
+12. Once Tudeski moves i                ... pos = 0.375 	neg = 0.125
+13. His miserly Canadian                ... pos = 0.875 	neg = 0.5  
+14. But this is only the                ... pos = 0.25  	neg = 1.375
+15. The plot is so convo                ... pos = 0.0   	neg = 0.5  
+16. If the layout of `Th                ... pos = 0.625 	neg = 0.125
+17. Fortunately, the fil                ... pos = 0.5   	neg = 0    
+18. Lynn, who has done g                ... pos = 0.75  	neg = 0.0  
+19. Bilko'), keeps the p                ... pos = 0.0   	neg = 1.0  
+20. Although `The Whole                 ... pos = 0.5   	neg = 0.0  
+21. This agreeable flavo                ... pos = 2.0   	neg = 0.25 
+22. Meanwhile, Henstridg                ... pos = 1.375 	neg = 0.25 
+23. The only general exc                ... pos = 1.5   	neg = 0.625
+24. The most interesting                ... pos = 0.75  	neg = 0.0  
+25. In a way similar to                 ... pos = 0.375 	neg = 0.5  
+26. The script straddles                ... pos = 0.0   	neg = 0.5  
+27. The film itself is a                ... pos = 0.875 	neg = 0.5  
+28. `The Whole Nine Yard                ... pos = 0.375 	neg = 0.25 
+29. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+30. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-487-693 is Positive          ... pos = 19.0  	neg = 10.625
+Overall score of document
+Total Pos = 19.0
+Total Neg = 10.625
+---------------------------------------------------------------------------

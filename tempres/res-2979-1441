@@ -1,0 +1,63 @@
+0. I'm not sure how man                 ... pos = 0.25  	neg = 0.125
+1. Actually, I'm not su                 ... pos = 0.875 	neg = 0.375
+2. Mostly, what we see                  ... pos = 0.75  	neg = 0.5  
+3. But we'll probably n                 ... pos = 0.25  	neg = 0.125
+4. So, on Friday, "X-Fi                 ... pos = 0.0   	neg = 0.0  
+5. It should be more su                 ... pos = 0.625 	neg = 0.125
+6. While it may not mak                 ... pos = 0.125 	neg = 0.25 
+7. I had hoped "X-Files                 ... pos = 0.5   	neg = 0.125
+8. Considering the seri                 ... pos = 0.125 	neg = 0.25 
+9. It would have been a                 ... pos = 0.0   	neg = 0.125
+10. The series would hav                ... pos = 0.0   	neg = 0.0  
+11. Yes, this would have                ... pos = 0.25  	neg = 0.25 
+12. I don't think that m                ... pos = 0.5   	neg = 0.0  
+13. At $5 a pop, you hav                ... pos = 0.0   	neg = 0.0  
+14. Plus repeats, becaus                ... pos = 0.625 	neg = 0.0  
+15. The strength of the                 ... pos = 0.375 	neg = 0.0  
+16. Yes, it'd make less                 ... pos = 0.125 	neg = 0.25 
+17. The "X-Files" movie,                ... pos = 0.625 	neg = 0.25 
+18. Whether the movie wi                ... pos = 0.125 	neg = 0.25 
+19. Certainly, the eleme                ... pos = 0.25  	neg = 0.0  
+20. A recurring characte                ... pos = 0.875 	neg = 0.0  
+21. He, however, was not                ... pos = 0.125 	neg = 0.125
+22. In any case, the cen                ... pos = 0.375 	neg = 0.25 
+23. The uninitiated have                ... pos = 0.25  	neg = 0.0  
+24. Yes, things are reve                ... pos = 0.875 	neg = 0.25 
+25. The main datum is th                ... pos = 0.0   	neg = 0.25 
+26. Besides this, Scully                ... pos = 0.0   	neg = 0.125
+27. At the end, Cancer M                ... pos = 0.0   	neg = 0.125
+28. General audiences ma                ... pos = 0.0   	neg = 0.0  
+29. I suppose, in the sp                ... pos = 0.25  	neg = 0.625
+30. Yes, the speculation                ... pos = 0.125 	neg = 1.125
+31. One thing that surpr                ... pos = 0.125 	neg = 0.25 
+32. While apocalypse and                ... pos = 0.75  	neg = 0.25 
+33. Yet that is what the                ... pos = 0.25  	neg = 0.5  
+34. I think it's an inte                ... pos = 1.0   	neg = 0.0  
+35. The movie, being a s                ... pos = 0.25  	neg = 0.0  
+36. There are clearly bi                ... pos = 0.5   	neg = 0.125
+37. Actually, this reduc                ... pos = 0.0   	neg = 0.0  
+38. Prior to this, the a                ... pos = 0.125 	neg = 0.0  
+39. Now, we see them a b                ... pos = 0.0   	neg = 0.75 
+40. There are also Lovec                ... pos = 0.375 	neg = 0.0  
+41. "X-Files" has had Lo                ... pos = 0.0   	neg = 0.0  
+42. This is similar: und                ... pos = 0.25  	neg = 0.125
+43. Perhaps it's more fi                ... pos = 0.875 	neg = 0.375
+44. Oh, one somewhat cut                ... pos = 0.5   	neg = 0.0  
+45. This is actually unr                ... pos = 0.0   	neg = 0.375
+46. As a tease, a bone w                ... pos = 0.0   	neg = 0.25 
+47. It's unclear if this                ... pos = 0.125 	neg = 0.125
+48. The Scully-Mulder in                ... pos = 0.875 	neg = 0.25 
+49. There's a personal-c                ... pos = 0.25  	neg = 0    
+50. It, of course, is re                ... pos = 0.25  	neg = 0.125
+51. All in all, I liked                 ... pos = 0.125 	neg = 0.0  
+52. I thought it could h                ... pos = 0.625 	neg = 0.25 
+53. It's nice to see sce                ... pos = 0.0   	neg = 0.0  
+54. "The court determine                ... pos = 0.5   	neg = 0.25 
+55. ". --  "The court de                ... pos = 0.5   	neg = 0.25 
+56. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2979-1441 is Positive        ... pos = 17.5  	neg = 10.125
+Overall score of document
+Total Pos = 17.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

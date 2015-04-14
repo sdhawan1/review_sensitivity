@@ -1,0 +1,55 @@
+0. In English class the                 ... pos = 0.25  	neg = 0.0  
+1. Nature, and Man vs.                  ... pos = 0.0   	neg = 0.0  
+2. Himself.                             ... pos = 0     	neg = 0    
+3. Well to really say w                 ... pos = 0.0   	neg = 0.0  
+4. JANE is, we have to                  ... pos = 0.375 	neg = 0.25 
+5. .                                    ... pos = 0     	neg = 0    
+6. .                                    ... pos = 0     	neg = 0    
+7. Woman vs. Man.                       ... pos = 0.0   	neg = 0.0  
+8. Jordan O'Neil (Demi                  ... pos = 0.0   	neg = 0.0  
+9. Unfortunately this w                 ... pos = 0.625 	neg = 1.75 
+10. It seems the Navy Li                ... pos = 0.75  	neg = 0.125
+11. But when Senator Lil                ... pos = 0.25  	neg = 0.375
+12. Pushing for woman's                 ... pos = 0.375 	neg = 0.125
+13. The ultimate goal?                  ... pos = 0.0   	neg = 0    
+14. If O'Neil can make i                ... pos = 0.0   	neg = 0.125
+15. Naturally, O'Neil go                ... pos = 0.125 	neg = 0.0  
+16. It's a chance to pro                ... pos = 0.5   	neg = 0    
+17. It seems a win-win s                ... pos = 0.0   	neg = 0.125
+18. O'Neil will get expe                ... pos = 0.25  	neg = 0.0  
+19. Sounds perfect right                ... pos = 0.0   	neg = 0.0  
+20. Well, aside from O'N                ... pos = 0.125 	neg = 0.25 
+21. .                                   ... pos = 0     	neg = 0    
+22. .                                   ... pos = 0     	neg = 0    
+23. including the Senato                ... pos = 0.0   	neg = 0    
+24. The building block o                ... pos = 0.0   	neg = 0.0  
+25. JANE is really just                 ... pos = 0.375 	neg = 0.125
+26. Will her boyfriend s                ... pos = 0.125 	neg = 0.0  
+27. Quite simply, can O'                ... pos = 0.0   	neg = 0.0  
+28. This movie is very w                ... pos = 0.5   	neg = 0.5  
+29. It's not a complaint                ... pos = 0.0   	neg = 0.25 
+30. .                                   ... pos = 0     	neg = 0    
+31. .                                   ... pos = 0     	neg = 0    
+32. it's your typical "a                ... pos = 1.125 	neg = 0.0  
+33. .                                   ... pos = 0     	neg = 0    
+34. .                                   ... pos = 0     	neg = 0    
+35. but if you're lookin                ... pos = 0.125 	neg = 0.625
+36. Demi Moore, one of t                ... pos = 0.125 	neg = 0.0  
+37. Her body is still he                ... pos = 0.0   	neg = 0.75 
+38. Anne Bancroft and Vi                ... pos = 0.875 	neg = 0.0  
+39. In fact, the only li                ... pos = 1.0   	neg = 0.125
+40. She's an outsider an                ... pos = 0.0   	neg = 0.0  
+41. One thing that stops                ... pos = 0.5   	neg = 0.125
+42. By the time G.I.                    ... pos = 0.0   	neg = 0.0  
+43. JANE wraps up, you'r                ... pos = 0.75  	neg = 0.0  
+44. It's not an action f                ... pos = 0.0   	neg = 0.0  
+45. JANE has plenty of f                ... pos = 0.375 	neg = 0.0  
+46. It can be hard to fo                ... pos = 0.5   	neg = 1.75 
+47. At times confusing,                 ... pos = 2.875 	neg = 2.375
+48. Here's a movie that                 ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2960-195 is Positive         ... pos = 13.25 	neg = 9.75 
+Overall score of document
+Total Pos = 13.25
+Total Neg = 9.75
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. Here's how the story                 ... pos = 0.25  	neg = 0.0  
+1. In exchange for a te                 ... pos = 0.375 	neg = 0.0  
+2. Joe Black, a tour of                 ... pos = 0.375 	neg = 0    
+3. The child-like -- an                 ... pos = 2.125 	neg = 1.25 
+4. A pretty silly idea                  ... pos = 0.0   	neg = 0.25 
+5. To the contrary, the                 ... pos = 0.5   	neg = 0.0  
+6. For once, Pitt is ab                 ... pos = 1.75  	neg = 0.375
+7. He and Forlani make                  ... pos = 0.125 	neg = 0.0  
+8. More central to the                  ... pos = 0.5   	neg = 0.125
+9. As cliche as his cha                 ... pos = 1.75  	neg = 0.125
+10. At three hours, the                 ... pos = 0.25  	neg = 0.375
+11. If _Meet Joe Black_                 ... pos = 0.25  	neg = 0.25 
+12. With its complicated                ... pos = 0.625 	neg = 0.375
+13. It is definitely not                ... pos = 0.25  	neg = 0.125
+14. " Ideally, the film                 ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4689-66 is Positive          ... pos = 10.125 	neg = 3.375
+Overall score of document
+Total Pos = 10.125
+Total Neg = 3.375
+---------------------------------------------------------------------------

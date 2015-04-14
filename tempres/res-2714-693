@@ -1,0 +1,41 @@
+0. More MOVIE VIEWS by                  ... pos = 0.739 	neg = 1.125
+1. It manages to be cre                 ... pos = 0.875 	neg = 0.125
+2. Is there a minimum a                 ... pos = 0.0   	neg = 0.25 
+3. If not, an early sug                 ... pos = 0.0   	neg = 0.375
+4. Osment, from Bogus a                 ... pos = 0.625 	neg = 0.875
+5. His tears of sadness                 ... pos = 0.375 	neg = 0.0  
+6. The mediocrity of a                  ... pos = 0.625 	neg = 0.5  
+7. Bruce Willis, in a w                 ... pos = 0.25  	neg = 0.0  
+8. Crowe has been prais                 ... pos = 0.125 	neg = 0.125
+9. On the celebration n                 ... pos = 0.75  	neg = 0.0  
+10. It's a former patien                ... pos = 0.125 	neg = 0.75 
+11. Despite attempts to                 ... pos = 0.875 	neg = 0.0  
+12. Skip to `Next Fall',                ... pos = 0.0   	neg = 0.125
+13. His new patient is e                ... pos = 0.5   	neg = 0.875
+14. His mother (Toni Col                ... pos = 0.375 	neg = 0.5  
+15. After a few sessions                ... pos = 0.25  	neg = 0    
+16. And so Cole works up                ... pos = 0.375 	neg = 0.625
+17. `Walking around like                ... pos = 0.0   	neg = 0.0  
+18. '. The Sixth Sense i                ... pos = 0.0   	neg = 0.125
+19. Director M. Night Sh                ... pos = 1.25  	neg = 0.375
+20. The emotional maturi                ... pos = 1.25  	neg = 0.125
+21. There are frightenin                ... pos = 2.5   	neg = 0.125
+22. The actor displays i                ... pos = 1.5   	neg = 0    
+23. The scenes between W                ... pos = 0.0   	neg = 0.0  
+24. The lines are perfec                ... pos = 2.25  	neg = 0.125
+25. Actually, it seems a                ... pos = 1.375 	neg = 0.125
+26. The relationship bet                ... pos = 0.5   	neg = 0.75 
+27. The directions The S                ... pos = 1.75  	neg = 0.0  
+28. The Sixth Sense is p                ... pos = 0.375 	neg = 0.125
+29. It's an amazing, unp                ... pos = 0.375 	neg = 0    
+30. The performances are                ... pos = 0.5   	neg = 1.125
+31. The final twist of t                ... pos = 0.75  	neg = 0.125
+32. On closer inspection                ... pos = 1.0   	neg = 0.0  
+33. This is a movie that                ... pos = 0.0   	neg = 0.125
+34. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-693 is Positive         ... pos = 22.239 	neg = 9.5  
+Overall score of document
+Total Pos = 22.239
+Total Neg = 9.5
+---------------------------------------------------------------------------

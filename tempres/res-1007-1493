@@ -1,0 +1,43 @@
+0. Writer: Patrick Smit                 ... pos = 0.5   	neg = 0.5  
+1. Hitchcock is commonl                 ... pos = 5.0   	neg = 0.625
+2. And his fims were hi                 ... pos = 0.5   	neg = 0.5  
+3. Why directors  are s                 ... pos = 1.125 	neg = 0.75 
+4. The plot - a million                 ... pos = 0.125 	neg = 0.125
+5. But that, refreshing                 ... pos = 0.875 	neg = 0.125
+6. Why refreshing?                      ... pos = 0.0   	neg = 0.0  
+7. Like an adaptation o                 ... pos = 0.25  	neg = 0.375
+8. Or at least you'd pr                 ... pos = 0.0   	neg = 0.125
+9. Over the summer, jus                 ... pos = 1.25  	neg = 0.875
+10. Well, "A Perfect Mur                ... pos = 1.875 	neg = 1.0  
+11. On paper, it looks p                ... pos = 1.444 	neg = 0.875
+12. Not only does the hu                ... pos = 0.0   	neg = 0.25 
+13. Some not bad ideas,                 ... pos = 0.0   	neg = 1.125
+14. Alas, it isn't reall                ... pos = 0.0   	neg = 0.0  
+15. While there is  a lo                ... pos = 1.5   	neg = 1.625
+16. Sure, Michael Dougla                ... pos = 0.625 	neg = 0.125
+17. And he's our protago                ... pos = 0.0   	neg = 0.125
+18. But instead of being                ... pos = 1.125 	neg = 0.625
+19. At first, the first                 ... pos = 1.25  	neg = 1.625
+20. He  loses his edge a                ... pos = 1.125 	neg = 0.5  
+21. It's afraid to go al                ... pos = 0.25  	neg = 0.0  
+22. It only hurts more t                ... pos = 1.625 	neg = 1.875
+23. I'd be willing to lo                ... pos = 1.0   	neg = 1.375
+24. Throughout, the scri                ... pos = 2.625 	neg = 1.375
+25. This ends up taking                 ... pos = 0.125 	neg = 0.375
+26. Throughout, Davis di                ... pos = 0.25  	neg = 0.125
+27. In the  original, Hi                ... pos = 0.0   	neg = 0.0  
+28. But Davis isn't sure                ... pos = 1.125 	neg = 0.0  
+29. A great thriller wou                ... pos = 0.0   	neg = 0.75 
+30. I'm not much of a fa                ... pos = 0.125 	neg = 0.5  
+31. He even mucks up the                ... pos = 0.625 	neg = 0.25 
+32. Not that I'm wishing                ... pos = 0.125 	neg = 0.75 
+33. Instead, it's a film                ... pos = 0.875 	neg = 0.25 
+34. Here's to hoping som                ... pos = 0.375 	neg = 0.125
+35. Or, rather, how abou                ... pos = 1.0   	neg = 0.0  
+36. Homepage at: http://                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1007-1493 is Positive        ... pos = 28.694 	neg = 19.625
+Overall score of document
+Total Pos = 28.694
+Total Neg = 19.625
+---------------------------------------------------------------------------

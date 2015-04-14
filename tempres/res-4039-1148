@@ -1,0 +1,13 @@
+0. Deserves Recognition                 ... pos = 1.25  	neg = 0.5  
+1. Capsule Review: A qu                 ... pos = 0.0   	neg = 0.375
+2. In this 3 hour  adve                 ... pos = 0.5   	neg = 1.0  
+3. (Judging by the  cos                 ... pos = 0.5   	neg = 0.125
+4. ) When he's not poin                 ... pos = 0.75  	neg = 0.25 
+5. Mark this one "Retur                 ... pos = 0.0   	neg = 0    
+6. Copyright 1998 by Th                 ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4039-1148 is Positive        ... pos = 3.25  	neg = 2.5  
+Overall score of document
+Total Pos = 3.25
+Total Neg = 2.5
+---------------------------------------------------------------------------

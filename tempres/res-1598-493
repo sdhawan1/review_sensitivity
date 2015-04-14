@@ -1,0 +1,82 @@
+0. A review by John Car                 ... pos = 0.0   	neg = 0.125
+1. MISSION TO MARS, sta                 ... pos = 0     	neg = 0.125
+2. Directed by Brian De                 ... pos = 0.0   	neg = 0    
+3. 2000.                                ... pos = 0     	neg = 0    
+4. Back in 1968, 2001:                  ... pos = 0.0   	neg = 0.0  
+5. Stanley Kubrick's ma                 ... pos = 0.5   	neg = 0.875
+6. It all made sense.                   ... pos = 0.0   	neg = 0.0  
+7. While sitting throug                 ... pos = 0.125 	neg = 0.25 
+8. While the film does                  ... pos = 0.5   	neg = 0.125
+9. Brian De Palma reall                 ... pos = 0.0   	neg = 0.0  
+10. Really.                             ... pos = 0     	neg = 0.0  
+11. Mission to Mars coul                ... pos = 0.0   	neg = 0.25 
+12. First and foremost,                 ... pos = 1.625 	neg = 0.0  
+13. On the other hand, i                ... pos = 0.875 	neg = 0.25 
+14. Or finally, it could                ... pos = 0.0   	neg = 0.125
+15. Instead, De Palma tr                ... pos = 0.125 	neg = 1.0  
+16. Mission to Mars seem                ... pos = 1.0   	neg = 0.25 
+17. Separate, the plots                 ... pos = 0.0   	neg = 0.0  
+18. Put together, they a                ... pos = 0.625 	neg = 0.0  
+19. The overview of Miss                ... pos = 0.25  	neg = 0.625
+20. They land, but while                ... pos = 0.0   	neg = 0.0  
+21. The entire first cre                ... pos = 0.125 	neg = 0.125
+22. Did I just ruin a pa                ... pos = 0.0   	neg = 0.0  
+23. No.                                 ... pos = 0     	neg = 0.25 
+24. De Palma accomplishe                ... pos = 0.125 	neg = 0.0  
+25. In fact, I already h                ... pos = 0.25  	neg = 0.25 
+26. De Palma does not sh                ... pos = 0.0   	neg = 0.0  
+27. All we see is a birt                ... pos = 0.25  	neg = 0.375
+28. The plot(s) are absu                ... pos = 0.375 	neg = 0.25 
+29. In fact, the cast ma                ... pos = 0.125 	neg = 0.25 
+30. Gary Sinise and Don                 ... pos = 1.0   	neg = 0.125
+31. De Palma just seems                 ... pos = 0.5   	neg = 0.375
+32. To continue this poi                ... pos = 0.375 	neg = 1.25 
+33. The rushing of this                 ... pos = 0.375 	neg = 0.875
+34. Therefore, a rescue                 ... pos = 0.0   	neg = 0.125
+35. For some odd reason,                ... pos = 0.75  	neg = 0.625
+36. Doubts arise on the                 ... pos = 0.0   	neg = 0.0  
+37. I will not spoil wha                ... pos = 0.125 	neg = 0.0  
+38. The film still drags                ... pos = 0.0   	neg = 0.25 
+39. Finally, they get to                ... pos = 0.0   	neg = 0.125
+40. When the second crew                ... pos = 0.0   	neg = 0.5  
+41. Was it an accident?                 ... pos = 0.0   	neg = 0.125
+42. The way the rest of                 ... pos = 0.0   	neg = 0.125
+43. The film finally hin                ... pos = 0.0   	neg = 0.0  
+44. It may seem absurd,                 ... pos = 0.25  	neg = 0.125
+45. This ending segment                 ... pos = 0.375 	neg = 0.375
+46. De Palma takes a dif                ... pos = 0.625 	neg = 0.375
+47. Kubrick put 2001 all                ... pos = 0.0   	neg = 0.0  
+48. De Palma attempts to                ... pos = 0.25  	neg = 0.125
+49. At this point, Missi                ... pos = 0.0   	neg = 1.0  
+50. Thoughts are brought                ... pos = 0.75  	neg = 0.625
+51. If you want to see t                ... pos = 0.0   	neg = 0.125
+52. Goddard, McConnell a                ... pos = 0.0   	neg = 0.125
+53. '  This segment is a                ... pos = 0.75  	neg = 0.125
+54. The effects prior to                ... pos = 0.75  	neg = 0.625
+55. In all actuality, Ma                ... pos = 0.0   	neg = 0.25 
+56. While it may take a                 ... pos = 0.875 	neg = 0.375
+57. However, the 'Face o                ... pos = 1.125 	neg = 0.0  
+58. This phase of the fi                ... pos = 1.625 	neg = 0.125
+59. The pay-off?                        ... pos = 0     	neg = 0    
+60. Horrible.                           ... pos = 0     	neg = 0.625
+61. Once again, De Palma                ... pos = 0.625 	neg = 0.375
+62. It may have payed of                ... pos = 0.0   	neg = 1.25 
+63. Instead, he feels he                ... pos = 0.125 	neg = 0.25 
+64. It may work on some                 ... pos = 1.75  	neg = 1.0  
+65. Mission to Mars trie                ... pos = 0.0   	neg = 0.75 
+66. However, my one true                ... pos = 0.625 	neg = 0.125
+67. Fortunately, De Palm                ... pos = 0.5   	neg = 0.0  
+68. However, after heari                ... pos = 2.25  	neg = 1.375
+69. When all is said and                ... pos = 0.0   	neg = 0.75 
+70. Instead of focusing                 ... pos = 0.875 	neg = 1.375
+71. Stabley Kubrick was                 ... pos = 0.125 	neg = 1.0  
+72. Mission to Mars's ca                ... pos = 0.0   	neg = 0.125
+73. The Mission to Mars                 ... pos = 0.375 	neg = 1.153
+74. Here's crossing my f                ... pos = 0.125 	neg = 0.0  
+75. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-493 is Positive         ... pos = 24.875 	neg = 24.528
+Overall score of document
+Total Pos = 24.875
+Total Neg = 24.528
+---------------------------------------------------------------------------

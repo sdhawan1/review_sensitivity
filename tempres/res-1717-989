@@ -1,0 +1,31 @@
+0. In the days before t                 ... pos = 0.375 	neg = 0.0  
+1. Families kept their                  ... pos = 0.875 	neg = 0.0  
+2. At first, you might                  ... pos = 0.125 	neg = 0.625
+3. But, things aren't a                 ... pos = 0.125 	neg = 0.0  
+4. I've seen this film                  ... pos = 0.0   	neg = 0.0  
+5. The first screening                  ... pos = 0.125 	neg = 0.5  
+6. The movie literally                  ... pos = 0.0   	neg = 0.0  
+7. I wanted to see it a                 ... pos = 0.625 	neg = 0.0  
+8. Eight months later,                  ... pos = 0.125 	neg = 0.25 
+9. Many critics are sim                 ... pos = 0.25  	neg = 0.25 
+10. I don't agree.                      ... pos = 0     	neg = 0.0  
+11. The writing is very                 ... pos = 1.5   	neg = 0.125
+12. I'm still thinking a                ... pos = 0.125 	neg = 0.0  
+13. It has certainly mad                ... pos = 0.5   	neg = 0.375
+14. The story centers on                ... pos = 0.0   	neg = 0.25 
+15. Now, in his college                 ... pos = 0.375 	neg = 0.0  
+16. His relationship wit                ... pos = 0.25  	neg = 0.125
+17. One day Oliver and C                ... pos = 0.0   	neg = 0.25 
+18. Farrady begins to qu                ... pos = 0.5   	neg = 0.0  
+19. He feels that Oliver                ... pos = 0.0   	neg = 0.25 
+20. He calls upon his wi                ... pos = 0.125 	neg = 0.0  
+21. Is it paranoia or ar                ... pos = 0.375 	neg = 0.125
+22. Although you will pr                ... pos = 0.25  	neg = 0.0  
+23. That makes it worth                 ... pos = 0.0   	neg = 0    
+24. I give it a very str                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1717-989 is Positive         ... pos = 7.875 	neg = 3.125
+Overall score of document
+Total Pos = 7.875
+Total Neg = 3.125
+---------------------------------------------------------------------------

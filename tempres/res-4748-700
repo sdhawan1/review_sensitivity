@@ -1,0 +1,32 @@
+0. Release Date: Decemb                 ... pos = 0.5   	neg = 0.125
+1. The following year,                  ... pos = 0.75  	neg = 0.0  
+2. At best, that's all                  ... pos = 0.5   	neg = 0.125
+3. In 1998, however, th                 ... pos = 1.0   	neg = 0.125
+4. There have been a nu                 ... pos = 0.375 	neg = 0.125
+5. DreamWorks' THE PRIN                 ... pos = 0.75  	neg = 0.125
+6. The other two conten                 ... pos = 0.25  	neg = 0.0  
+7. Although CAMELOT was                 ... pos = 0.625 	neg = 0.25 
+8. Unfortunately, it wa                 ... pos = 0.375 	neg = 1.0  
+9. In making THE PRINCE                 ... pos = 1.0   	neg = 0.375
+10. The animation is fla                ... pos = 0.125 	neg = 0.25 
+11. The animators have n                ... pos = 0.625 	neg = 0.375
+12. The key to success,                 ... pos = 0.375 	neg = 0.25 
+13. Namely, some of the                 ... pos = 1.5   	neg = 0.125
+14. DreamWorks is the fi                ... pos = 0.25  	neg = 0.375
+15. The story is also we                ... pos = 0.875 	neg = 0.25 
+16. For the most part, t                ... pos = 0.0   	neg = 0.0  
+17. The writers took a f                ... pos = 0.0   	neg = 0.125
+18. In fact, the Shakesp                ... pos = 0.0   	neg = 0.0  
+19. Moses, a Hebrew, is                 ... pos = 0.0   	neg = 0.25 
+20. Moses grows up but l                ... pos = 0.0   	neg = 0.125
+21. By this time, Ramese                ... pos = 0.125 	neg = 0.75 
+22. The cast of voices i                ... pos = 0.125 	neg = 0.125
+23. The script does not                 ... pos = 0.5   	neg = 0.875
+24. It's decidedly for a                ... pos = 0.5   	neg = 0.125
+25. But for those who ma                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4748-700 is Positive         ... pos = 11.25 	neg = 6.375
+Overall score of document
+Total Pos = 11.25
+Total Neg = 6.375
+---------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+0. Seen on 26 September                 ... pos = 0.875 	neg = 0.125
+1. " This is a very per                 ... pos = 0.5   	neg = 0.125
+2. Howard Brackett (Kev                 ... pos = 0.0   	neg = 0.125
+3. He lives in a small                  ... pos = 0.0   	neg = 0.0  
+4. One of the alumni, a                 ... pos = 0.75  	neg = 0.125
+5. So, the whole town i                 ... pos = 0.25  	neg = 0.125
+6. He does, and cites H                 ... pos = 0.125 	neg = 0    
+7. "  Howard does his b                 ... pos = 0.5   	neg = 0.125
+8. But there is also th                 ... pos = 1.125 	neg = 1.0  
+9. Without giving too m                 ... pos = 1.625 	neg = 0.25 
+10. From Debbie Reynolds                ... pos = 0.5   	neg = 0.875
+11. Just about *everyone                ... pos = 0.0   	neg = 0.125
+12. What ensues is an ex                ... pos = 1.0   	neg = 0.125
+13. A very memorable sce                ... pos = 0.75  	neg = 0.0  
+14. ". It all leads to a                ... pos = 0.625 	neg = 0.125
+15. It even has the feel                ... pos = 0.5   	neg = 0.0  
+16. Perhaps the most imp                ... pos = 1.0   	neg = 0.125
+17. This officially mark                ... pos = 0.25  	neg = 0.0  
+18. In a year when Ellen                ... pos = 0.375 	neg = 0.0  
+19. I read recently that                ... pos = 0.5   	neg = 0.0  
+20. Paul Rudnick, author                ... pos = 0.375 	neg = 0.125
+21. It might not be amon                ... pos = 1.25  	neg = 0.875
+22. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1120-92 is Positive          ... pos = 12.875 	neg = 4.5  
+Overall score of document
+Total Pos = 12.875
+Total Neg = 4.5
+---------------------------------------------------------------------------

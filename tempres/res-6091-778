@@ -1,0 +1,46 @@
+0. Directed by Milos Fo                 ... pos = 0.625 	neg = 0.0  
+1. `Man on the Moon' is                 ... pos = 0.625 	neg = 0.125
+2. Played with amazing                  ... pos = 1.125 	neg = 0.125
+3. In a series of hoaxe                 ... pos = 1.0   	neg = 0.25 
+4. The director, Milos                  ... pos = 0.375 	neg = 0.625
+5. We learn that Kaufma                 ... pos = 2.25  	neg = 0.0  
+6. Forman shows us act                  ... pos = 0.125 	neg = 0.0  
+7. What Forman does not                 ... pos = 0.0   	neg = 1.375
+8. There are a few scen                 ... pos = 0.5   	neg = 0.0  
+9. The conclusion of  t                 ... pos = 0.0   	neg = 0.125
+10. Both just focus on h                ... pos = 0.25  	neg = 1.0  
+11. This difference betw                ... pos = 1.375 	neg = 0.75 
+12. Another problem with                ... pos = 0.125 	neg = 0.75 
+13. Prior to this film,                 ... pos = 0.875 	neg = 0.25 
+14. This feel was mainly                ... pos = 0.125 	neg = 0.125
+15. When the film displa                ... pos = 0.125 	neg = 1.25 
+16. I do not know how Fo                ... pos = 0.25  	neg = 0.5  
+17. Maybe because Kaufma                ... pos = 0.0   	neg = 0.5  
+18. But the film ruins s                ... pos = 0.5   	neg = 0.125
+19. Still `Man on the Mo                ... pos = 0.375 	neg = 0.125
+20. His mannerisms and v                ... pos = 0.25  	neg = 0.125
+21. This is by far Carre                ... pos = 0.375 	neg = 0.25 
+22. He is now the master                ... pos = 0.875 	neg = 0.75 
+23. Another snub by the                 ... pos = 0.625 	neg = 1.0  
+24. He should not only b                ... pos = 0.875 	neg = 0.125
+25. Jim Carrey is also h                ... pos = 0.375 	neg = 0.125
+26. Playing Bob Zmuda an                ... pos = 0.75  	neg = 0.0  
+27. Courtney Love was un                ... pos = 0.625 	neg = 1.375
+28. It was simply too br                ... pos = 0.0   	neg = 1.0  
+29. It seemed like the m                ... pos = 0.0   	neg = 0.875
+30. Also deserving credi                ... pos = 1.625 	neg = 0.5  
+31. To see them as they                 ... pos = 1.25  	neg = 0.125
+32. `Man on the Moon' is                ... pos = 0.125 	neg = 0.125
+33. It is funny and extr                ... pos = 1.125 	neg = 0.125
+34. It may be a great ed                ... pos = 0.375 	neg = 0.125
+35. They see that this c                ... pos = 0.0   	neg = 0.125
+36. The world has yet to                ... pos = 0.25  	neg = 0.0  
+37. For older generation                ... pos = 0.625 	neg = 0.25 
+38. Kaufman's life outsi                ... pos = 0.625 	neg = 0.125
+39. He was one of the gr                ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-6091-778 is Positive         ... pos = 21.375 	neg = 16.125
+Overall score of document
+Total Pos = 21.375
+Total Neg = 16.125
+---------------------------------------------------------------------------

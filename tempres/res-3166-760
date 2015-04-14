@@ -1,0 +1,40 @@
+0. Director: Bob Spiers                 ... pos = 0.125 	neg = 0.25 
+1. Going into this film                 ... pos = 0.125 	neg = 0.125
+2. They just seemed lik                 ... pos = 0.0   	neg = 0.375
+3. I was anxious to see                 ... pos = 0.125 	neg = 0.625
+4. Aside from this, tho                 ... pos = 0.25  	neg = 0.25 
+5. And now that it's ov                 ... pos = 0.25  	neg = 0.125
+6. But I can't.                         ... pos = 0     	neg = 0.0  
+7. I'm i...in...fected                  ... pos = 0.0   	neg = 0.0  
+8. No, but seriously, S                 ... pos = 0.125 	neg = 2.0  
+9. Sure, it's really go                 ... pos = 0.875 	neg = 1.125
+10. And Bob Hoskins is i                ... pos = 0.0   	neg = 0.125
+11. In theory, that's al                ... pos = 0.0   	neg = 0.125
+12. Naturally, the story                ... pos = 0.125 	neg = 0.375
+13. It centers around th                ... pos = 0.375 	neg = 0.0  
+14. Along the way, there                ... pos = 0.375 	neg = 1.25 
+15. Spice World, first a                ... pos = 0.75  	neg = 0.125
+16. It jumps around from                ... pos = 0.0   	neg = 0.0  
+17. Scenes are rapidly t                ... pos = 0.375 	neg = 0.625
+18. You'll find yourself                ... pos = 0.0   	neg = 0.0  
+19. What is probably the                ... pos = 0.375 	neg = 1.0  
+20. Everything in this f                ... pos = 0.0   	neg = 0.125
+21. Take, for instance,                 ... pos = 0.5   	neg = 0.125
+22. I read somewhere tha                ... pos = 0.0   	neg = 1.0  
+23. Knowing that the Spi                ... pos = 0.25  	neg = 0.125
+24. The most inherently                 ... pos = 0.375 	neg = 0.125
+25. Having seen the film                ... pos = 0.0   	neg = 0.0  
+26. The only ones that s                ... pos = 0.5   	neg = 0.375
+27. I can see the rest o                ... pos = 0.25  	neg = 0.125
+28. Aside from the film                 ... pos = 0.375 	neg = 0.875
+29. Some of the sequence                ... pos = 1.25  	neg = 0.375
+30. Every time Richard E                ... pos = 0.0   	neg = 0.0  
+31. I also liked the nig                ... pos = 0.375 	neg = 0.625
+32. And the film is so f                ... pos = 0.25  	neg = 0.75 
+33. Spice World may be a                ... pos = 0.375 	neg = 1.375
+---------------------------------------------------------------------------
+./temp/tmp-3166-760 is Negative         ... pos = 8.75  	neg = 14.5 
+Overall score of document
+Total Pos = 8.75
+Total Neg = 14.5
+---------------------------------------------------------------------------

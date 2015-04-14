@@ -1,0 +1,38 @@
+0. Director Barry Levin                 ... pos = 0.125 	neg = 0.75 
+1. The film doesn't fee                 ... pos = 0.375 	neg = 0.375
+2. Levinson's  filmmaki                 ... pos = 0.125 	neg = 0.0  
+3. He seemed to be in a                 ... pos = 0.0   	neg = 1.625
+4. But his artistic tal                 ... pos = 0.0   	neg = 0.25 
+5. With his fellow-trav                 ... pos = 1.0   	neg = 0.125
+6. WAG THE DOG reveals                  ... pos = 0.125 	neg = 1.25 
+7. When the President i                 ... pos = 0.375 	neg = 0.375
+8. Their idea is to div                 ... pos = 0.0   	neg = 0.125
+9. Most of this movie's                 ... pos = 0.0   	neg = 0.0  
+10. De Niro knows that t                ... pos = 0.0   	neg = 0.0  
+11. His cool, low-key st                ... pos = 0.0   	neg = 0.0  
+12. Hoffman's performanc                ... pos = 0.625 	neg = 0.125
+13. Stanley Motss is a n                ... pos = 1.0   	neg = 0.25 
+14. "  Hoffman gives us                 ... pos = 0.75  	neg = 0.0  
+15. Motss is no artist,                 ... pos = 1.0   	neg = 0.375
+16. I wish we could have                ... pos = 0.0   	neg = 0.5  
+17. (My guess is the lat                ... pos = 0.0   	neg = 0.125
+18. )  This is the most                 ... pos = 0.0   	neg = 0.125
+19. They may both be sou                ... pos = 0.625 	neg = 0.625
+20. The problem is the m                ... pos = 0.0   	neg = 0.375
+21. It assumes unthinkin                ... pos = 0.0   	neg = 0.75 
+22. WAG THE DOG would ha                ... pos = 0.625 	neg = 0.75 
+23. It's uncharacteristi                ... pos = 0.375 	neg = 0.125
+24. The movie's cynicism                ... pos = 1.875 	neg = 0.75 
+25. It could have worked                ... pos = 0.0   	neg = 0.125
+26. The Coen brothers co                ... pos = 0.0   	neg = 0.0  
+27. Heche's character is                ... pos = 1.0   	neg = 0.125
+28. Ames's purpose in th                ... pos = 0.625 	neg = 0.125
+29. Willie Nelson and Ja                ... pos = 0.25  	neg = 1.125
+30. And William H. Macy                 ... pos = 0.125 	neg = 0.0  
+31. WAG THE DOG is too g                ... pos = 0.375 	neg = 1.375
+---------------------------------------------------------------------------
+./temp/tmp-4231-739 is Negative         ... pos = 11.375 	neg = 12.625
+Overall score of document
+Total Pos = 11.375
+Total Neg = 12.625
+---------------------------------------------------------------------------

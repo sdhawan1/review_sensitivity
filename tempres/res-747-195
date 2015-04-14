@@ -1,0 +1,35 @@
+0. How many of us would                 ... pos = 0.0   	neg = 0    
+1. For those of us who                  ... pos = 0.25  	neg = 0.25 
+2. That's probably not                  ... pos = 0.5   	neg = 0.375
+3. As you watch THE FUL                 ... pos = 0.25  	neg = 0.0  
+4. Would you be willing                 ... pos = 0.25  	neg = 0.25 
+5. In case you haven't                  ... pos = 0.0   	neg = 0.125
+6. It's actually quite                  ... pos = 1.625 	neg = 0.0  
+7. It is the story of s                 ... pos = 0.25  	neg = 0.5  
+8. What to do?                          ... pos = 0     	neg = 0.0  
+9. It hits our main cha                 ... pos = 1.5   	neg = 0.0  
+10. It seems that simple                ... pos = 0.0   	neg = 0.75 
+11. Eventually, Gaz is a                ... pos = 0.25  	neg = 0.125
+12. These include the ov                ... pos = 1.5   	neg = 0.0  
+13. When the sextet is c                ... pos = 0.125 	neg = 0.125
+14. We watch the bumblin                ... pos = 0.25  	neg = 0.125
+15. As if there anti-app                ... pos = 0.25  	neg = 0.0  
+16. .                                   ... pos = 0     	neg = 0    
+17. .                                   ... pos = 0     	neg = 0    
+18. and I mean *all*.                   ... pos = 0     	neg = 0.0  
+19. The movie actually e                ... pos = 1.125 	neg = 0.625
+20. It's sure to leave n                ... pos = 0.375 	neg = 0.25 
+21. With the subject mat                ... pos = 0.25  	neg = 0.625
+22. The amount of light,                ... pos = 2.0   	neg = 0    
+23. There's a lot more t                ... pos = 0.0   	neg = 0.625
+24. Each character is co                ... pos = 0.875 	neg = 0.125
+25. THE FULL MONTY is ne                ... pos = 0.875 	neg = 0.375
+26. It's one of those mo                ... pos = 0.375 	neg = 0.125
+27. Either way you see i                ... pos = 0.0   	neg = 0.375
+28. And, pun heavily int                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-747-195 is Positive          ... pos = 12.875 	neg = 5.875
+Overall score of document
+Total Pos = 12.875
+Total Neg = 5.875
+---------------------------------------------------------------------------

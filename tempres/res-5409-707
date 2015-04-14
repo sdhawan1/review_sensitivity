@@ -1,0 +1,41 @@
+0. Neo (Keanu Reeves) i                 ... pos = 0.0   	neg = 0.125
+1. He is talented, but                  ... pos = 0.5   	neg = 0.125
+2. He is contacted by T                 ... pos = 0.5   	neg = 1.125
+3. It seems that Morphe                 ... pos = 0.125 	neg = 0.125
+4. At the same time he                  ... pos = 0.25  	neg = 0.25 
+5. It is no surprise th                 ... pos = 1.625 	neg = 0.625
+6. At the core of the s                 ... pos = 0.625 	neg = 0.125
+7. This is a very profo                 ... pos = 2.0   	neg = 1.0  
+8. What the human mind                  ... pos = 1.0   	neg = 0.125
+9. However, it is well                  ... pos = 1.25  	neg = 0.5  
+10. It would have been n                ... pos = 1.0   	neg = 0.25 
+11. The narrative of the                ... pos = 0.0   	neg = 0.125
+12. From the opening sce                ... pos = 0.125 	neg = 0.375
+13. This is very effecti                ... pos = 1.875 	neg = 0.125
+14. The film mostly atte                ... pos = 0.875 	neg = 0.25 
+15. The situation in whi                ... pos = 0.25  	neg = 0.125
+16. There are often inco                ... pos = 1.75  	neg = 0.25 
+17. There is also the se                ... pos = 0.125 	neg = 1.0  
+18. However, these weakn                ... pos = 0.375 	neg = 0.0  
+19. The film is not mean                ... pos = 2.125 	neg = 1.0  
+20. The acting performan                ... pos = 0.75  	neg = 0.375
+21. Considerable effort                 ... pos = 2.875 	neg = 0.25 
+22. Although Reeves is c                ... pos = 0.625 	neg = 0.25 
+23. When Morpheus uses t                ... pos = 0.375 	neg = 0.0  
+24. " in such a dry, mor                ... pos = 0.125 	neg = 1.375
+25. To his credit, he pe                ... pos = 0.875 	neg = 0.0  
+26. The film cannot clai                ... pos = 0.125 	neg = 0.125
+27. It borrows generousl                ... pos = 1.0   	neg = 0.0  
+28. " It uses stock anta                ... pos = 0.875 	neg = 0.0  
+29. However, the success                ... pos = 0.25  	neg = 0.125
+30. It shows remarkable                 ... pos = 0.5   	neg = 0.25 
+31. Recommended.                        ... pos = 0.0   	neg = 0    
+32. It is definitely not                ... pos = 1.25  	neg = 0.25 
+33. It has an appealing                 ... pos = 0.125 	neg = 0.25 
+34. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-707 is Positive         ... pos = 26.125 	neg = 10.875
+Overall score of document
+Total Pos = 26.125
+Total Neg = 10.875
+---------------------------------------------------------------------------

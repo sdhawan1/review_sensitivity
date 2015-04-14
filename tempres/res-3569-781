@@ -1,0 +1,51 @@
+0. When I saw the trail                 ... pos = 0.0   	neg = 0.0  
+1. While I was therefor                 ... pos = 1.375 	neg = 1.528
+2. I'm happy to say tha                 ... pos = 0.625 	neg = 0.125
+3. In fact, watching th                 ... pos = 0.125 	neg = 0.125
+4. The film opens up in                 ... pos = 0.0   	neg = 0.0  
+5. Ted Stroehmann (Ben                  ... pos = 0.75  	neg = 0.125
+6. It seems Warren's si                 ... pos = 1.5   	neg = 0.625
+7. Mary takes an immedi                 ... pos = 0.25  	neg = 0    
+8. Ted was just flatter                 ... pos = 0.5   	neg = 0.125
+9. Unfortunately, prom                  ... pos = 0.375 	neg = 1.875
+10. Fast forward to the                 ... pos = 0.875 	neg = 0.0  
+11. With the help of his                ... pos = 1.0   	neg = 0.5  
+12. However, when Pat fi                ... pos = 1.0   	neg = 0.5  
+13. THERE'S SOMETHING AB                ... pos = 0.0   	neg = 0.625
+14. Not exactly intellig                ... pos = 1.5   	neg = 1.25 
+15. With their current f                ... pos = 0.5   	neg = 0.0  
+16. The film succeeds in                ... pos = 1.0   	neg = 1.375
+17. I have not seen many                ... pos = 0.25  	neg = 0.0  
+18. One minute you'll be                ... pos = 0.0   	neg = 0.875
+19. One of the great thi                ... pos = 0.125 	neg = 0.125
+20. He is perfectly cast                ... pos = 0.5   	neg = 0.5  
+21. Ted's a nice fellow                 ... pos = 0.375 	neg = 0.625
+22. It's comical, but al                ... pos = 0.5   	neg = 0.125
+23. Actually, I've liked                ... pos = 0.125 	neg = 0.0  
+24. The film was like a                 ... pos = 0.125 	neg = 0.125
+25. In it, Stiller playe                ... pos = 0.125 	neg = 0.375
+26. It was parody at its                ... pos = 0.5   	neg = 0.125
+27. Like "The Critic" (w                ... pos = 0.0   	neg = 0.0  
+28. Cameron Diaz is abso                ... pos = 2.25  	neg = 1.0  
+29. However, Diaz pulls                 ... pos = 0.875 	neg = 0.75 
+30. Heck, I even found h                ... pos = 0.5   	neg = 0.5  
+31. My girlfriend remark                ... pos = 0.5   	neg = 0.0  
+32. He and Ralph Macchio                ... pos = 0.375 	neg = 0.0  
+33. Maybe they live in D                ... pos = 0.0   	neg = 0.0  
+34. Anyway, here's anoth                ... pos = 0.625 	neg = 0.375
+35. The supporting perfo                ... pos = 1.375 	neg = 0    
+36. Chris Elliott has a                 ... pos = 0.375 	neg = 0.25 
+37. Lin Shae, who plays                 ... pos = 1.25  	neg = 0.625
+38. Lee Evans, as Mary's                ... pos = 0.75  	neg = 0.0  
+39. The Farrelly brother                ... pos = 1.125 	neg = 0.25 
+40. The only problem I s                ... pos = 0.0   	neg = 0.125
+41. They appear out of n                ... pos = 0.0   	neg = 0.25 
+42. It's a device which                 ... pos = 0.0   	neg = 0.125
+43. After that it got a                 ... pos = 0.0   	neg = 0.625
+44. Fortunately, filled                 ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3569-781 is Positive         ... pos = 25.0  	neg = 16.528
+Overall score of document
+Total Pos = 25.0
+Total Neg = 16.528
+---------------------------------------------------------------------------

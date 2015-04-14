@@ -1,0 +1,43 @@
+0. Let's get one thing                  ... pos = 0.0   	neg = 0.0  
+1. .                                    ... pos = 0     	neg = 0    
+2. .                                    ... pos = 0     	neg = 0    
+3. BOOGIE NIGHTS is *no                 ... pos = 0.0   	neg = 0.125
+4. In fact, it does qui                 ... pos = 0.25  	neg = 0.0  
+5. We begin in 1977 wit                 ... pos = 0.0   	neg = 0.25 
+6. With not a lot going                 ... pos = 0.0   	neg = 0.0  
+7. ), Eddie is quickly                  ... pos = 1.125 	neg = 0.125
+8. It seems Jack sees r                 ... pos = 0.0   	neg = 0.125
+9. Eddie is easily sedu                 ... pos = 0.375 	neg = 0.125
+10. Amber and Eddie's li                ... pos = 0.125 	neg = 0.0  
+11. Eddie's home-life wa                ... pos = 0     	neg = 0.125
+12. His mother was dista                ... pos = 0.0   	neg = 0.75 
+13. Amber, on the other                 ... pos = 0.375 	neg = 0.0  
+14. The two, whether con                ... pos = 0.125 	neg = 0.0  
+15. Taking up residence                 ... pos = 1.25  	neg = 0.375
+16. The first half of th                ... pos = 1.25  	neg = 0.0  
+17. He has indeed made a                ... pos = 0.0   	neg = 0.125
+18. Under the name Dirk                 ... pos = 0.0   	neg = 0.5  
+19. When the 1980's arri                ... pos = 2.25  	neg = 0.625
+20. Many people have com                ... pos = 0.0   	neg = 0.5  
+21. I didn't find it as                 ... pos = 0.375 	neg = 0.375
+22. I'm a sucker for cha                ... pos = 1.5   	neg = 0.125
+23. The acting, by absol                ... pos = 0.0   	neg = 0.125
+24. Who would have thoug                ... pos = 0.5   	neg = 0.125
+25. I've said it before                 ... pos = 0.75  	neg = 0.0  
+26. Burt Reynolds is ter                ... pos = 0.25  	neg = 0.375
+27. Writer/director Paul                ... pos = 0.125 	neg = 0.903
+28. As we watch the char                ... pos = 2.125 	neg = 0.0  
+29. BOOGIE NIGHTS is a p                ... pos = 1.0   	neg = 0.125
+30. We laugh, and then w                ... pos = 0.0   	neg = 0.125
+31. We are smiling one m                ... pos = 0.5   	neg = 0.625
+32. One thing that chara                ... pos = 1.75  	neg = 0.25 
+33. Lavish and exquisite                ... pos = 0.375 	neg = 0.25 
+34. .                                   ... pos = 0     	neg = 0    
+35. .                                   ... pos = 0     	neg = 0    
+36. and don't let the su                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4409-195 is Positive         ... pos = 16.375 	neg = 7.153
+Overall score of document
+Total Pos = 16.375
+Total Neg = 7.153
+---------------------------------------------------------------------------

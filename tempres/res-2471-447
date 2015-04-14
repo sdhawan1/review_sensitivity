@@ -1,0 +1,45 @@
+0. Starring: Tom Hanks,                 ... pos = 0.375 	neg = 0.0  
+1. They are unaware of                  ... pos = 0.375 	neg = 0.125
+2. One man kisses the c                 ... pos = 0.0   	neg = 0.0  
+3. As the flap falls, t                 ... pos = 0.0   	neg = 0.25 
+4. They are trapped lik                 ... pos = 0.25  	neg = 0.5  
+5. Amid the chaos of th                 ... pos = 0.125 	neg = 0.5  
+6. A soldier, clearly m                 ... pos = 0.25  	neg = 0.375
+7. We are not invited t                 ... pos = 0.25  	neg = 0.125
+8. He bends over, picks                 ... pos = 0.0   	neg = 0.375
+9. ". Saving Private Ry                 ... pos = 0.5   	neg = 0.125
+10. The direction is out                ... pos = 0.375 	neg = 0.25 
+11. The cinematography,                 ... pos = 0.0   	neg = 0.125
+12. But be forewarned, t                ... pos = 0.25  	neg = 0.25 
+13. The articles you rea                ... pos = 0.75  	neg = 0.125
+14. The question is, "do                ... pos = 0.125 	neg = 0.125
+15. " The answer from my                ... pos = 0.0   	neg = 0.125
+16. Braveheart was a tru                ... pos = 0.875 	neg = 0.625
+17. Ryan is ten times wo                ... pos = 0.5   	neg = 0.75 
+18. Expect disembowelmen                ... pos = 0.0   	neg = 0.0  
+19. Many in the theater                 ... pos = 0.125 	neg = 0    
+20. And it is a shame, t                ... pos = 0.0   	neg = 1.25 
+21. But such graphic dis                ... pos = 0.625 	neg = 0.0  
+22. Saving Private Ryan                 ... pos = 0.25  	neg = 0.0  
+23. Captain Miller (Hank                ... pos = 1.125 	neg = 0.75 
+24. The government goes                 ... pos = 0.5   	neg = 0.25 
+25. Miller's crew is not                ... pos = 0.375 	neg = 0.125
+26. They resent having t                ... pos = 0.25  	neg = 0.0  
+27. This film manages to                ... pos = 0.0   	neg = 0.125
+28. The pacing and drama                ... pos = 0.625 	neg = 0.125
+29. Spielberg, though no                ... pos = 0.375 	neg = 0.0  
+30. Bay should pay close                ... pos = 0.0   	neg = 0.0  
+31. If you want to jump                 ... pos = 0.0   	neg = 0.125
+32. In the end, the extr                ... pos = 0.0   	neg = 0.125
+33. Schindler's List tau                ... pos = 1.0   	neg = 0.0  
+34. It opened eyes, spar                ... pos = 0.5   	neg = 0    
+35. Though the battle sc                ... pos = 0.375 	neg = 0.125
+36. Overall, this is jus                ... pos = 0.5   	neg = 0.75 
+37. " But Braveheart-dos                ... pos = 0.875 	neg = 0.125
+38. Masterful work marre                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-447 is Positive         ... pos = 13.375 	neg = 8.625
+Overall score of document
+Total Pos = 13.375
+Total Neg = 8.625
+---------------------------------------------------------------------------

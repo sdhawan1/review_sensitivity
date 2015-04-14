@@ -1,0 +1,18 @@
+0. What the hell happen                 ... pos = 0.0   	neg = 0.5  
+1. This was not what I                  ... pos = 0.0   	neg = 0.5  
+2. This version is abou                 ... pos = 1.0   	neg = 0.125
+3. The only resemblence                 ... pos = 0.875 	neg = 0.125
+4. The con is played by                 ... pos = 0.5   	neg = 0.125
+5. In the `60s, a boy i                 ... pos = 0.375 	neg = 0.125
+6. There he meets her n                 ... pos = 0.875 	neg = 0.0  
+7. They go in and out o                 ... pos = 0.625 	neg = 0.125
+8. This film is under P                 ... pos = 0.0   	neg = 0.375
+9. De Niro, on the othe                 ... pos = 0.0   	neg = 0.25 
+10. A `90s, speeded up v                ... pos = 0.0   	neg = 0.0  
+11. 1999 (c) Quick Flick                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5472-170 is Positive         ... pos = 4.25  	neg = 2.25 
+Overall score of document
+Total Pos = 4.25
+Total Neg = 2.25
+---------------------------------------------------------------------------

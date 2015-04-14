@@ -1,0 +1,26 @@
+0. What can you say abo                 ... pos = 0.625 	neg = 0.0  
+1. THE FIFTH ELEMENT ha                 ... pos = 0.125 	neg = 0.0  
+2. There is a lot here                  ... pos = 0.0   	neg = 0.25 
+3. The film spends a lo                 ... pos = 0.0   	neg = 0.5  
+4. And you do.                          ... pos = 0     	neg = 0.0  
+5. The whole thing work                 ... pos = 0.0   	neg = 0.0  
+6. There are references                 ... pos = 0.25  	neg = 0.125
+7. The main plot line i                 ... pos = 0.75  	neg = 0.375
+8. I was reminded of St                 ... pos = 0.0   	neg = 0.25 
+9. Gary Oldman turns in                 ... pos = 0.875 	neg = 0.75 
+10. Shadow).                            ... pos = 0.0   	neg = 0    
+11. And everyone else in                ... pos = 0.0   	neg = 0.25 
+12. There is a particula                ... pos = 1.625 	neg = 0.25 
+13. I don't know who the                ... pos = 0.0   	neg = 0.125
+14. The special effects,                ... pos = 0.75  	neg = 0.25 
+15. Some people might di                ... pos = 0.0   	neg = 0.875
+16. Distribution of this                ... pos = 0.0   	neg = 0.0  
+17. Microsoft may licens                ... pos = 0.0   	neg = 0.0  
+18. -- | kreme@cerebus.k                ... pos = 0.0   	neg = 0.5  
+19. -- Cornfed Pigg                     ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5547-523 is Positive         ... pos = 5.0   	neg = 4.5  
+Overall score of document
+Total Pos = 5.0
+Total Neg = 4.5
+---------------------------------------------------------------------------

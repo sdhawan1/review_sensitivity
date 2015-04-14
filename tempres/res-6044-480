@@ -1,0 +1,29 @@
+0. Rated R: violence, s                 ... pos = 0.125 	neg = 0.375
+1. Starring: Anne Heche                 ... pos = 0.0   	neg = 0.0  
+2. When the word first                  ... pos = 0.25  	neg = 0.75 
+3. The movie opened in                  ... pos = 0.0   	neg = 0.0  
+4. A huge flop to a lot                 ... pos = 0.625 	neg = 0.625
+5. It's a  scene-for-sc                 ... pos = 1.0   	neg = 0.625
+6. The story we all kno                 ... pos = 2.0   	neg = 0.25 
+7. Norman invites the g                 ... pos = 0.0   	neg = 0.0  
+8. Norman's mother howe                 ... pos = 0.25  	neg = 0.125
+9. Now her sister and h                 ... pos = 0.375 	neg = 0.625
+10. "Psycho" has alot go                ... pos = 0.0   	neg = 0.0  
+11. I have always loved                 ... pos = 1.125 	neg = 0.0  
+12. Viggo Mortenson play                ... pos = 0.0   	neg = 0.25 
+13. William H. Macy I wi                ... pos = 2.0   	neg = 0.375
+14. The other  performan                ... pos = 0.75  	neg = 0.5  
+15. Gus Van Sant's direc                ... pos = 1.75  	neg = 0.625
+16. The biggest flaw in                 ... pos = 0.625 	neg = 0.625
+17. I do agree with  peo                ... pos = 0.75  	neg = 1.75 
+18. The original stands                 ... pos = 1.5   	neg = 0.5  
+19. In now way did I eve                ... pos = 1.0   	neg = 0.75 
+20. For all you despiser                ... pos = 1.5   	neg = 0.125
+21. With some terrific p                ... pos = 1.5   	neg = 0.125
+22. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6044-480 is Positive         ... pos = 17.125 	neg = 9.0  
+Overall score of document
+Total Pos = 17.125
+Total Neg = 9.0
+---------------------------------------------------------------------------

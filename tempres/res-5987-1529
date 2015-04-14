@@ -1,0 +1,18 @@
+0. From the writer of B                 ... pos = 0.0   	neg = 0.0  
+1. That's right double                  ... pos = 1.625 	neg = 0.125
+2. King Louis is an evi                 ... pos = 0.25  	neg = 0.875
+3. Guarded by the faith                 ... pos = 0.375 	neg = 0.375
+4. Seeing the injustice                 ... pos = 0.125 	neg = 0.0  
+5. To do this they must                 ... pos = 0.375 	neg = 0.125
+6. If there plan goes c                 ... pos = 0.375 	neg = 0.375
+7. Its amazing to me ho                 ... pos = 0.125 	neg = 0.125
+8. The cinematography (                 ... pos = 0.75  	neg = 0.0  
+9. All four of the musk                 ... pos = 0.5   	neg = 0.5  
+10. The movie is really                 ... pos = 0.0   	neg = 0.25 
+11. Bottom Line:  Too lo                ... pos = 0.125 	neg = 1.375
+---------------------------------------------------------------------------
+./temp/tmp-5987-1529 is Positive        ... pos = 4.625 	neg = 4.125
+Overall score of document
+Total Pos = 4.625
+Total Neg = 4.125
+---------------------------------------------------------------------------

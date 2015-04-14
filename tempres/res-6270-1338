@@ -1,0 +1,29 @@
+0. I joked with my frie                 ... pos = 0.125 	neg = 0.875
+1. When I came to the r                 ... pos = 1.25  	neg = 0.5  
+2. This movie is fun.                   ... pos = 0.125 	neg = 0.125
+3. I liked it a heck of                 ... pos = 0.125 	neg = 0.0  
+4. Reeves plays a lawer                 ... pos = 0.375 	neg = 0.0  
+5. This sets up several                 ... pos = 0.25  	neg = 0.0  
+6. A building's rooftop                 ... pos = 0.0   	neg = 0.125
+7. A fun scene as Pacin                 ... pos = 0.125 	neg = 0.375
+8. Reeves is also marri                 ... pos = 0.0   	neg = 0.125
+9. While he works cases                 ... pos = 0.0   	neg = 0.0  
+10. She is also slowly d                ... pos = 0.0   	neg = 0.125
+11. Pacino and Theron ar                ... pos = 0.25  	neg = 0    
+12. Pacino has a egotist                ... pos = 0.25  	neg = 0.25 
+13. Theron, one of the m                ... pos = 0.5   	neg = 0.25 
+14. Yet she makes it her                ... pos = 0.25  	neg = 0    
+15. Poor Reeves, acting                 ... pos = 0.0   	neg = 0.125
+16. He has this southern                ... pos = 0.75  	neg = 0.625
+17. All that said, this                 ... pos = 0.0   	neg = 0.125
+18. Both funny and sexy                 ... pos = 0.0   	neg = 0.0  
+19. He goes so over-the-                ... pos = 0.375 	neg = 0.125
+20. Yet it is Theron who                ... pos = 0.25  	neg = 0.125
+21. She is great looking                ... pos = 0.5   	neg = 0.125
+22. Her last effort Trai                ... pos = 0.0   	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-6270-1338 is Positive        ... pos = 5.5   	neg = 5.25 
+Overall score of document
+Total Pos = 5.5
+Total Neg = 5.25
+---------------------------------------------------------------------------

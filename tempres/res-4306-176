@@ -1,0 +1,56 @@
+0. Starring Liam Neeson                 ... pos = 1.875 	neg = 0.75 
+1. This umpteenth versi                 ... pos = 2.25  	neg = 0.75 
+2. It is rather a well-                 ... pos = 1.125 	neg = 0.125
+3. It is full of acts o                 ... pos = 0.375 	neg = 0.375
+4. So why does it ultim                 ... pos = 0.0   	neg = 0.0  
+5. For all the artistry                 ... pos = 0.5   	neg = 0.125
+6. Passion?                             ... pos = 0.5   	neg = 0    
+7. Spice?                               ... pos = 0     	neg = 0.0  
+8. A little of the old                  ... pos = 0.0   	neg = 0.25 
+9. It's hard to say.                    ... pos = 0.0   	neg = 0.75 
+10. This version flirts                 ... pos = 0.375 	neg = 0.125
+11. Just in case you mis                ... pos = 0.0   	neg = 0.25 
+12. Liam Neeson stars as                ... pos = 0.125 	neg = 0.875
+13. After an encounter w                ... pos = 1.5   	neg = 0.5  
+14. The fruits of succes                ... pos = 0.625 	neg = 0.125
+15. Javert knows Valjean                ... pos = 0.0   	neg = 0.0  
+16. Meanwhile, Valjean b                ... pos = 0.625 	neg = 0.125
+17. Valjean, now a kindl                ... pos = 0.75  	neg = 0.125
+18. Soon Javert's unrele                ... pos = 0.125 	neg = 0.75 
+19. Another decade passe                ... pos = 0.625 	neg = 0.25 
+20. Cosette's love affai                ... pos = 1.0   	neg = 0.375
+21. Literary purists wil                ... pos = 2.25  	neg = 0.375
+22. But let's face it, a                ... pos = 0.0   	neg = 0.625
+23. Anybody recall the h                ... pos = 0.0   	neg = 0.0  
+24. Critics have called                 ... pos = 0.25  	neg = 0.125
+25. Sure, the book is a                 ... pos = 0.5   	neg = 0.25 
+26. As depicted here, Ja                ... pos = 1.25  	neg = 0.5  
+27. This central conflic                ... pos = 0.75  	neg = 0.25 
+28. Yet Bille August's f                ... pos = 0.25  	neg = 0.0  
+29. Why so?                             ... pos = 0     	neg = 0.0  
+30. You can't blame Liam                ... pos = 2.5   	neg = 0.875
+31. Oskar Schindler, Rob                ... pos = 0.0   	neg = 0.75 
+32. I still say Neeson w                ... pos = 0.0   	neg = 0.0  
+33. No, if I have to pin                ... pos = 0.375 	neg = 1.125
+34. I can't blame it sol                ... pos = 0.25  	neg = 0.875
+35. Valjean is simply ki                ... pos = 0.625 	neg = 0.25 
+36. Javert should person                ... pos = 0.625 	neg = 0    
+37. This leads us to a s                ... pos = 0.0   	neg = 0.0  
+38. Fresh from his showy                ... pos = 1.0   	neg = 0.125
+39. Where madness and fi                ... pos = 1.875 	neg = 0.375
+40. This wrong decision                 ... pos = 0.0   	neg = 1.0  
+41. Hugo knew better tha                ... pos = 0.0   	neg = 0.25 
+42. But I'll still recom                ... pos = 0.25  	neg = 0.5  
+43. Besides, I'm a big L                ... pos = 0.0   	neg = 0.125
+44. My only other compla                ... pos = 0.125 	neg = 0.125
+45. I suppose this solut                ... pos = 0.25  	neg = 0.125
+46. The brave choice, of                ... pos = 0.0   	neg = 0.125
+47. But in Hollywood, th                ... pos = 0.125 	neg = 0.0  
+48. Oh, I forgot- that m                ... pos = 0.0   	neg = 0.0  
+49. VISIT THE FILM GEEK                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4306-176 is Positive         ... pos = 25.625 	neg = 15.375
+Overall score of document
+Total Pos = 25.625
+Total Neg = 15.375
+---------------------------------------------------------------------------

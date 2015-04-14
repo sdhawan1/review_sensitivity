@@ -1,0 +1,35 @@
+0. Sleepy Hollow: lost                  ... pos = 0.0   	neg = 0.25 
+1. Which is to say the                  ... pos = 0.125 	neg = 0.75 
+2. That's all past tens                 ... pos = 0.75  	neg = 0.0  
+3. Of course, too, we a                 ... pos = 0.25  	neg = 0.5  
+4. The Legend of Sleepy                 ... pos = 0.375 	neg = 0.25 
+5. Who'd have thought t                 ... pos = 0.0   	neg = 0.25 
+6. But there is, or the                 ... pos = 0     	neg = 0.25 
+7. 1799 does belong to                  ... pos = 0.0   	neg = 0.0  
+8. And we all know the                  ... pos = 0.0   	neg = 0.25 
+9. It's Scooby Doo stuf                 ... pos = 1.0   	neg = 0.25 
+10. So, Burton and scree                ... pos = 0.25  	neg = 0.0  
+11. Altering the job tit                ... pos = 1.25  	neg = 0.0  
+12. It's more than just                 ... pos = 0.75  	neg = 0.0  
+13. Sleepy Hollow is his                ... pos = 1.25  	neg = 0.125
+14. The bad thing is, hi                ... pos = 1.25  	neg = 1.875
+15. It's hard to measure                ... pos = 0.0   	neg = 1.125
+16. There are a few carr                ... pos = 0.25  	neg = 0.125
+17. And, when he can sta                ... pos = 0.5   	neg = 0.375
+18. When he's unconsciou                ... pos = 1.125 	neg = 0.0  
+19. So perhaps his feint                ... pos = 0.5   	neg = 0.125
+20. Another carryover is                ... pos = 0.75  	neg = 0.25 
+21. And then of course t                ... pos = 0.75  	neg = 2.125
+22. He does keep it all                 ... pos = 0.125 	neg = 0.0  
+23. Well, he almost does                ... pos = 0.0   	neg = 0.0  
+24. The one time he does                ... pos = 0.0   	neg = 2.0  
+25. Which typically allo                ... pos = 0.5   	neg = 0.875
+26. Sleepy Hollow takes                 ... pos = 1.0   	neg = 1.125
+27. In it's defense, tho                ... pos = 0.0   	neg = 0.125
+28. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6111-965 is Negative         ... pos = 12.75 	neg = 13.0 
+Overall score of document
+Total Pos = 12.75
+Total Neg = 13.0
+---------------------------------------------------------------------------

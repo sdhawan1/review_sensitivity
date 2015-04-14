@@ -1,0 +1,45 @@
+0. "How do you get to C                 ... pos = 0.0   	neg = 0.0  
+1. Practice, practice,                  ... pos = 0.75  	neg = 0    
+2. ". Starring Meryl St                 ... pos = 0.0   	neg = 0.0  
+3. Rated PG.                            ... pos = 0.125 	neg = 0    
+4. There are two parts                  ... pos = 0.5   	neg = 0.0  
+5. One is a charming, w                 ... pos = 0.75  	neg = 0.125
+6. The other is a deriv                 ... pos = 0.0   	neg = 0.5  
+7. Priority is given to                 ... pos = 0.0   	neg = 0.375
+8. Meryl Streep does he                 ... pos = 0.5   	neg = 0.875
+9. This is a good effor                 ... pos = 0.75  	neg = 0.125
+10. They say it's a true                ... pos = 0.5   	neg = 0.0  
+11. Though she is met wi                ... pos = 0.5   	neg = 0.125
+12. She is treated with                 ... pos = 0.375 	neg = 0.125
+13. Determined as anythi                ... pos = 1.0   	neg = 0.125
+14. Meanwhile her husban                ... pos = 0.625 	neg = 0.0  
+15. Unfortunately it fal                ... pos = 0.5   	neg = 1.25 
+16. After that fling com                ... pos = 0.25  	neg = 0.0  
+17. Her life is torn apa                ... pos = 0.0   	neg = 0.25 
+18. Her position is put                 ... pos = 0.0   	neg = 0.375
+19. She decides to give                 ... pos = 0.0   	neg = 0.0  
+20. With the help of her                ... pos = 0.125 	neg = 0.0  
+21. Hell, she even bring                ... pos = 0.625 	neg = 0.5  
+22. Music of the Heart m                ... pos = 0.25  	neg = 0.0  
+23. There's the idealist                ... pos = 0.75  	neg = 1.5  
+24. It is a retread of a                ... pos = 0.125 	neg = 0.125
+25. It's even less compe                ... pos = 0.125 	neg = 0.0  
+26. I did like the perso                ... pos = 0.0   	neg = 0.375
+27. The result of the pe                ... pos = 0.0   	neg = 0.375
+28. Roberta Gaspari is a                ... pos = 0.875 	neg = 1.0  
+29. The film's focus is                 ... pos = 0.0   	neg = 0.875
+30. The film was directe                ... pos = 0.625 	neg = 0.125
+31. I suppose he molds t                ... pos = 0.5   	neg = 1.375
+32. I appreciate the eff                ... pos = 0.25  	neg = 1.375
+33. The film insists on                 ... pos = 0.5   	neg = 0.375
+34. When I pan a film th                ... pos = 0.5   	neg = 0.625
+35. " Well I don't care.                ... pos = 0.0   	neg = 0.0  
+36. Not every true story                ... pos = 0.5   	neg = 0.125
+37. This particular stor                ... pos = 0.5   	neg = 0.375
+38. Enough already.. .                  ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2109-563 is Negative         ... pos = 13.375 	neg = 13.375
+Overall score of document
+Total Pos = 13.375
+Total Neg = 13.375
+---------------------------------------------------------------------------

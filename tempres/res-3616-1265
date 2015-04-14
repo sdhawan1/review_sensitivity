@@ -1,0 +1,32 @@
+0. Another driver, a ve                 ... pos = 1.125 	neg = 0.125
+1. The latest collabora                 ... pos = 0.25  	neg = 0.0  
+2. "  Like cabby Travis                 ... pos = 1.375 	neg = 0.0  
+3. Like Travis, Frank i                 ... pos = 0.125 	neg = 0.125
+4. Frank suffers from b                 ... pos = 0.0   	neg = 0.0  
+5. He hasn't saved anyo                 ... pos = 0.0   	neg = 0.625
+6. He has become convin                 ... pos = 0.125 	neg = 0.375
+7. "  Some of the grief                 ... pos = 0.25  	neg = 0.0  
+8. After Frank restarts                 ... pos = 0.875 	neg = 0.25 
+9. In Mary, a recoverin                 ... pos = 0.0   	neg = 0.0  
+10. Frank is partnered w                ... pos = 1.75  	neg = 0.625
+11. Wandering through it                ... pos = 0.375 	neg = 0.5  
+12. Every night Frank be                ... pos = 0.375 	neg = 0.0  
+13. His eventual redempt                ... pos = 0.875 	neg = 0.125
+14. Of the many resurrec                ... pos = 0.5   	neg = 0.125
+15. When Scorsese closed                ... pos = 0.0   	neg = 0.125
+16. "  Since then he's s                ... pos = 0.625 	neg = 0.0  
+17. Now Scorsese returns                ... pos = 0.375 	neg = 0.0  
+18. With dizzying cinema                ... pos = 0.125 	neg = 0.0  
+19. Frank Pierce is Cage                ... pos = 0.0   	neg = 0.25 
+20. "Bringing Out the De                ... pos = 0.5   	neg = 0.125
+21. Their romantic scene                ... pos = 1.114 	neg = 0    
+22. The entire cast give                ... pos = 0.5   	neg = 0.0  
+23. It's especially nice                ... pos = 0.375 	neg = 0.75 
+24. Bottom Line:  Scorse                ... pos = 0.0   	neg = 0.0  
+25. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3616-1265 is Positive        ... pos = 11.614 	neg = 4.125
+Overall score of document
+Total Pos = 11.614
+Total Neg = 4.125
+---------------------------------------------------------------------------

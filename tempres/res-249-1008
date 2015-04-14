@@ -1,0 +1,79 @@
+0. ** (out of 4) Lots o                 ... pos = 0     	neg = 1.125
+1. Lots of clichés.                    ... pos = 0     	neg = 0.25 
+2. Lots of fun.                         ... pos = 0.125 	neg = 0.25 
+3. Two out of three ain                 ... pos = 0.75  	neg = 0.0  
+4. In school, it'll ear                 ... pos = 0.125 	neg = 0.0  
+5. Hoping to draw Zorro                 ... pos = 0.0   	neg = 1.153
+6. His plot works.                      ... pos = 0.0   	neg = 0.0  
+7. Zorro arrives to fre                 ... pos = 0.0   	neg = 0    
+8. But Rafael's trap is                 ... pos = 1.25  	neg = 0.125
+9. Setting the overblow                 ... pos = 0.25  	neg = 0.625
+10. Later that evening,                 ... pos = 0.875 	neg = 0.375
+11. His wife has been wo                ... pos = 0.5   	neg = 0.125
+12. He admits he's getti                ... pos = 0.0   	neg = 0.25 
+13. Before they can cele                ... pos = 0.0   	neg = 0.0  
+14. A wound from the day                ... pos = 0.0   	neg = 0    
+15. Rafael's man kills D                ... pos = 0.75  	neg = 0.0  
+16. Twenty years later,                 ... pos = 0.25  	neg = 0.0  
+17. One is killed by the                ... pos = 1.125 	neg = 0.375
+18. Alejandro is falling                ... pos = 0.0   	neg = 0.375
+19. He's about to charge                ... pos = 0     	neg = 0.25 
+20. Diego, who has escap                ... pos = 0.0   	neg = 0.0  
+21. He sees an opportuni                ... pos = 0.0   	neg = 0.0  
+22. Coincidentally, the                 ... pos = 0.0   	neg = 0.5  
+23. Even more coincident                ... pos = 0.75  	neg = 0.0  
+24. Two heroes.                         ... pos = 0.0   	neg = 0.25 
+25. Two villains.                       ... pos = 0.0   	neg = 0.375
+26. Two noble opportunit                ... pos = 0.0   	neg = 0.25 
+27. I bet you can guess                 ... pos = 0.0   	neg = 0.0  
+28. Clearly, this film i                ... pos = 0.25  	neg = 0.25 
+29. Love, villainy, and                 ... pos = 2.694 	neg = 0    
+30. But melodrama is har                ... pos = 0     	neg = 1.5  
+31. TITANIC did it fairl                ... pos = 0.5   	neg = 0.625
+32. Needless to say, THE                ... pos = 0.0   	neg = 0.375
+33. In this film, the me                ... pos = 0.0   	neg = 1.25 
+34. In addition, the mov                ... pos = 0.125 	neg = 0.125
+35. (Think of Yosemite S                ... pos = 0.25  	neg = 0.0  
+36. ) Campbell knows tha                ... pos = 0.0   	neg = 0.0  
+37. Instead, he just goe                ... pos = 0.625 	neg = 0.0  
+38. That's not to say th                ... pos = 0.25  	neg = 0.125
+39. Perhaps if I had kno                ... pos = 0.5   	neg = 0.0  
+40. Some of these skits                 ... pos = 0.0   	neg = 0.0  
+41. Anytime there was a                 ... pos = 0.0   	neg = 0.25 
+42. Anytime a horse was                 ... pos = 1.25  	neg = 1.0  
+43. Any time Banderas wa                ... pos = 0.0   	neg = 0.25 
+44. Add this all up and                 ... pos = 0.0   	neg = 0.125
+45. But you don't have 1                ... pos = 0     	neg = 0.0  
+46. What's left is enoug                ... pos = 0.625 	neg = 0.125
+47. Ordinarily I wouldn'                ... pos = 0.75  	neg = 0.125
+48. As stated above, Die                ... pos = 0.0   	neg = 0.0  
+49. It is an unimportant                ... pos = 0.5   	neg = 0.25 
+50. It made Hopkins look                ... pos = 0.0   	neg = 0.625
+51. All it accomplished                 ... pos = 0.0   	neg = 1.0  
+52. The other instance t                ... pos = 0.25  	neg = 0.25 
+53. The plot tells us th                ... pos = 0.25  	neg = 0.5  
+54. This might not have                 ... pos = 0.625 	neg = 0.625
+55. The screenplay has p                ... pos = 0.0   	neg = 0.5  
+56. One problem is the p                ... pos = 0.0   	neg = 0.375
+57. One moment the movie                ... pos = 0.5   	neg = 0.25 
+58. There's no reason it                ... pos = 0.0   	neg = 0.875
+59. Another script probl                ... pos = 0.875 	neg = 0.375
+60. Zorro is supposed to                ... pos = 0.5   	neg = 0.25 
+61. Instead, both Zorros                ... pos = 0.875 	neg = 0.0  
+62. This is particularly                ... pos = 0.0   	neg = 0.125
+63. Hundreds of doomed p                ... pos = 0.375 	neg = 0.5  
+64. And finally the soun                ... pos = 0.0   	neg = 0.125
+65. There was some excel                ... pos = 1.0   	neg = 0.125
+66. The syncopated sound                ... pos = 0.0   	neg = 0.625
+67. And then, as the cre                ... pos = 0.0   	neg = 0.375
+68. It was a weak choice                ... pos = 0.125 	neg = 1.0  
+69. For me, the clichés                ... pos = 0.0   	neg = 0.625
+70. But if you shop arou                ... pos = 0.25  	neg = 0.0  
+71. More power to them,                 ... pos = 0.0   	neg = 0.0  
+72. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-249-1008 is Negative         ... pos = 20.694 	neg = 22.153
+Overall score of document
+Total Pos = 20.694
+Total Neg = 22.153
+---------------------------------------------------------------------------

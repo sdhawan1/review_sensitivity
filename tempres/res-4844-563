@@ -1,0 +1,34 @@
+0. Starring Jackie Chan                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Tom Dey.                 ... pos = 0.0   	neg = 0    
+2. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+3. Now that Jackie Chan                 ... pos = 0.625 	neg = 0.125
+4. His first two big Am                 ... pos = 0.125 	neg = 0.125
+5. The first, Rush Hour                 ... pos = 0.625 	neg = 0.0  
+6. The film turned out                  ... pos = 0.0   	neg = 0.125
+7. Now, Tinseltown is h                 ... pos = 1.125 	neg = 0.375
+8. The film is somewhat                 ... pos = 0.25  	neg = 0.125
+9. After Princess Pei P                 ... pos = 0.125 	neg = 1.125
+10. Wang is separated fr                ... pos = 0.0   	neg = 1.125
+11. Wang finds himself i                ... pos = 0.75  	neg = 0.0  
+12. This fails to take h                ... pos = 0.625 	neg = 1.5  
+13. The four Chinesemen                 ... pos = 0.375 	neg = 0.125
+14. Chon Wang is pure an                ... pos = 0.625 	neg = 0.125
+15. There's a veritable                 ... pos = 0.75  	neg = 0.125
+16. I balked when some c                ... pos = 0.125 	neg = 0.125
+17. One of Jackie Chan's                ... pos = 0.375 	neg = 1.0  
+18. His best films are t                ... pos = 0.625 	neg = 0.25 
+19. One of Shanghai Noon                ... pos = 1.125 	neg = 0.875
+20. The movie redeems it                ... pos = 0.375 	neg = 0.0  
+21. These are two of the                ... pos = 0.625 	neg = 0.25 
+22. And then there is th                ... pos = 0.125 	neg = 0.125
+23. With Jackie Chan mov                ... pos = 0.0   	neg = 0.125
+24. In the end, it's the                ... pos = 0.375 	neg = 0.0  
+25. He's so good at port                ... pos = 1.125 	neg = 0.125
+26. It's a shame that Ho                ... pos = 0.0   	neg = 1.625
+27. Owen Wilson, meanwhi                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4844-563 is Positive         ... pos = 11.0  	neg = 9.875
+Overall score of document
+Total Pos = 11.0
+Total Neg = 9.875
+---------------------------------------------------------------------------

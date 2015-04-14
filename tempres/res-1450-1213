@@ -1,0 +1,36 @@
+0. L.A CONFIDENTIAL (WA                 ... pos = 1.625 	neg = 0.125
+1. The film opens with                  ... pos = 0.125 	neg = 0.0  
+2. Most of them are set                 ... pos = 0.375 	neg = 0.25 
+3. ) While on duty, Vin                 ... pos = 0.5   	neg = 0.0  
+4. Finally, Spacey meet                 ... pos = 0.5   	neg = 0.625
+5. All these characters                 ... pos = 1.375 	neg = 0.0  
+6. The film gets going                  ... pos = 0.125 	neg = 0.5  
+7. The film has capture                 ... pos = 0.5   	neg = 0.375
+8. The costumes, cars a                 ... pos = 1.0   	neg = 0.125
+9. In fact, it's hard t                 ... pos = 0.125 	neg = 1.25 
+10. It's also very hard                 ... pos = 0.5   	neg = 0.875
+11. Kevin Spacey is exce                ... pos = 2.375 	neg = 0.125
+12. Crowe is scary as vi                ... pos = 1.0   	neg = 1.125
+13. Bud also falls for g                ... pos = 0.0   	neg = 0.625
+14. Crowe manages to pul                ... pos = 0.75  	neg = 0.875
+15. He shows he has feel                ... pos = 0.125 	neg = 0    
+16. Guy Pearce is also e                ... pos = 3.0   	neg = 1.125
+17. DeVito is his usual                 ... pos = 0.25  	neg = 0.25 
+18. His performance is g                ... pos = 1.875 	neg = 0.5  
+19. Basinger is also goo                ... pos = 0.875 	neg = 0.5  
+20. She's greatly improv                ... pos = 0.5   	neg = 0.0  
+21. Director Curtis Hans                ... pos = 0.75  	neg = 0.375
+22. Every time one of th                ... pos = 1.0   	neg = 0.5  
+23. The gunfights are al                ... pos = 0.5   	neg = 0.0  
+24. There are no faults                 ... pos = 0.25  	neg = 0.25 
+25. The 'twist in the ta                ... pos = 0.75  	neg = 0.25 
+26. It is generally good                ... pos = 1.375 	neg = 0.25 
+27. Overall, L.A Confide                ... pos = 3.625 	neg = 0.125
+28. One of the best film                ... pos = 0.375 	neg = 0.375
+29. OVERALL RATING=OUT O                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1450-1213 is Positive        ... pos = 26.375 	neg = 11.375
+Overall score of document
+Total Pos = 26.375
+Total Neg = 11.375
+---------------------------------------------------------------------------

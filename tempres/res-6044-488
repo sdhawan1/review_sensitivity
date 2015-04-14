@@ -1,0 +1,39 @@
+0. Starring Vince Vaugh                 ... pos = 0.75  	neg = 0.375
+1. After seeing the new                 ... pos = 0.375 	neg = 0.375
+2. The only reason that                 ... pos = 0.25  	neg = 0.25 
+3. So how does this vir                 ... pos = 1.0   	neg = 0.0  
+4. Not bad.                             ... pos = 0.0   	neg = 0.875
+5. But compared to curr                 ... pos = 0.375 	neg = 0.625
+6. Let's face it, the o                 ... pos = 0.0   	neg = 1.25 
+7. I have my doubts tha                 ... pos = 0.375 	neg = 0.0  
+8. The original Psycho                  ... pos = 1.125 	neg = 0.75 
+9. This is not to say t                 ... pos = 1.0   	neg = 2.25 
+10. For the uninformed o                ... pos = 0.25  	neg = 0.375
+11. Marion Crane (Anne H                ... pos = 0.5   	neg = 0.375
+12. After a long day of                 ... pos = 0.0   	neg = 0.375
+13. Marion checks in and                ... pos = 0.0   	neg = 0.25 
+14. Marion's sister (Jul                ... pos = 0.0   	neg = 0.0  
+15. In terms of the perf                ... pos = 0.75  	neg = 0.0  
+16. A real credit to the                ... pos = 0.125 	neg = 0.0  
+17. Of course the main f                ... pos = 0.875 	neg = 0.125
+18. Vince Vaughn does a                 ... pos = 1.25  	neg = 0.0  
+19. It's not good enough                ... pos = 1.875 	neg = 0.125
+20. Other standouts in t                ... pos = 0.25  	neg = 0.0  
+21. The biggest treat of                ... pos = 0.0   	neg = 0.125
+22. His character shows                 ... pos = 0.875 	neg = 0.0  
+23. In terms of the look                ... pos = 0.75  	neg = 0.375
+24. Of course it would b                ... pos = 0.75  	neg = 0.875
+25. My only complaint wa                ... pos = 0.125 	neg = 0.5  
+26. Is the remake as goo                ... pos = 0.75  	neg = 0.125
+27. Not really, but it d                ... pos = 0.25  	neg = 0.5  
+28. This new Psycho is g                ... pos = 1.125 	neg = 0.5  
+29. I found myself remem                ... pos = 0.625 	neg = 0.125
+30. If you hate Black &                 ... pos = 0.5   	neg = 0.375
+31. If you are not conce                ... pos = 0.25  	neg = 0.0  
+32. While this new Psych                ... pos = 2.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-6044-488 is Positive         ... pos = 19.25 	neg = 12.5 
+Overall score of document
+Total Pos = 19.25
+Total Neg = 12.5
+---------------------------------------------------------------------------

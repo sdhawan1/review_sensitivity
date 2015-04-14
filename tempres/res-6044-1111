@@ -1,0 +1,37 @@
+0. On the Buckmaster sc                 ... pos = 0.25  	neg = 0.375
+1. Hitchock had more th                 ... pos = 0.75  	neg = 0.5  
+2. Van Sant, on the oth                 ... pos = 0.375 	neg = 0.125
+3. No doubt David Finch                 ... pos = 0.625 	neg = 0.75 
+4. The reason, of cours                 ... pos = 0.0   	neg = 0.5  
+5. Could you imagine wh                 ... pos = 0.125 	neg = 0.625
+6. It wouldn't work, an                 ... pos = 0.125 	neg = 0.375
+7. The 90's have been t                 ... pos = 0.625 	neg = 0.375
+8. Psycho is not sex-cr                 ... pos = 1.125 	neg = 1.25 
+9. Therefore one might                  ... pos = 0.875 	neg = 1.5  
+10. The film is old fash                ... pos = 0.0   	neg = 0.75 
+11. The recent A Perfect                ... pos = 1.625 	neg = 0.125
+12. Now that the thrill                 ... pos = 0.125 	neg = 1.0  
+13. Van Sant hasn't rema                ... pos = 0.875 	neg = 0.75 
+14. Working girl Marion                 ... pos = 0.0   	neg = 0.125
+15. Naturally, she decid                ... pos = 0.5   	neg = 0.0  
+16. When night falls and                ... pos = 0.0   	neg = 0.875
+17. Norman Bates (Vince                 ... pos = 0.0   	neg = 0.125
+18. Marion unpacks and t                ... pos = 2.0   	neg = 0.5  
+19. It is then a big dis                ... pos = 0.0   	neg = 1.125
+20. Though he acts the p                ... pos = 0.0   	neg = 1.25 
+21. Instead of portrayin                ... pos = 1.875 	neg = 0.75 
+22. Those who haven't se                ... pos = 0.0   	neg = 0.375
+23. A smarter choice wou                ... pos = 0.0   	neg = 0.125
+24. Grease did that in 1                ... pos = 0.75  	neg = 0.375
+25. It makes no sense to                ... pos = 0.875 	neg = 0.25 
+26. Van Sant's Psycho ma                ... pos = 0.75  	neg = 0.875
+27. But lets face it, a                 ... pos = 1.125 	neg = 0.5  
+28. If you haven't seen                 ... pos = 0.0   	neg = 0    
+29. It's also probably a                ... pos = 0.75  	neg = 0.625
+30. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6044-1111 is Negative        ... pos = 16.375 	neg = 16.875
+Overall score of document
+Total Pos = 16.375
+Total Neg = 16.875
+---------------------------------------------------------------------------

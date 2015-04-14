@@ -1,0 +1,52 @@
+0. Milos Forman (Amadeu                 ... pos = 0.0   	neg = 0.125
+1. When I heard he was                  ... pos = 0.0   	neg = 0.125
+2. While Man On The Moo                 ... pos = 0.5   	neg = 0.0  
+3. The story follows th                 ... pos = 0.0   	neg = 0.0  
+4. We see him singing t                 ... pos = 1.875 	neg = 0.0  
+5. Latka of course was                  ... pos = 1.375 	neg = 0.125
+6. In fact, that was Ka                 ... pos = 1.75  	neg = 0.25 
+7. Of course not everyb                 ... pos = 0.125 	neg = 0.0  
+8. Some people hated hi                 ... pos = 0.625 	neg = 0.875
+9. That's what made Kau                 ... pos = 0.0   	neg = 0.0  
+10. He does go overboard                ... pos = 0.75  	neg = 0.0  
+11. This is indeed a ver                ... pos = 0.625 	neg = 0.125
+12. Jim Carrey is absolu                ... pos = 0.0   	neg = 0.125
+13. Every facial express                ... pos = 0.0   	neg = 0.125
+14. Carrey obviously did                ... pos = 0     	neg = 0.0  
+15. He undoubtedly deser                ... pos = 1.375 	neg = 0.125
+16. It's unfortunate to                 ... pos = 0.0   	neg = 0.375
+17. Sure it's interestin                ... pos = 0.25  	neg = 0.125
+18. It's hard to get a f                ... pos = 0.0   	neg = 1.0  
+19. It's quite frankly b                ... pos = 0.125 	neg = 0.0  
+20. There really was no                 ... pos = 0.0   	neg = 0.625
+21. If Andy himself saw                 ... pos = 0.0   	neg = 0.125
+22. It's more like an od                ... pos = 0.375 	neg = 0.25 
+23. Nothing is explained                ... pos = 0.625 	neg = 0.5  
+24. Even as a child we s                ... pos = 0.0   	neg = 0.0  
+25. Everything's a myste                ... pos = 0.125 	neg = 0.0  
+26. There's far too many                ... pos = 0.5   	neg = 1.0  
+27. There's just no reas                ... pos = 0.125 	neg = 0.25 
+28. As I said earlier, J                ... pos = 0.0   	neg = 0.125
+29. He really showed us                 ... pos = 0.0   	neg = 0.125
+30. That's not his fault                ... pos = 0.25  	neg = 0.25 
+31. The rest of the cast                ... pos = 0.625 	neg = 0.25 
+32. Even director Milos                 ... pos = 0.125 	neg = 0.125
+33. Speaking of Forman I                ... pos = 0.0   	neg = 0.25 
+34. It seems so simple f                ... pos = 0.0   	neg = 0.375
+35. Another honorable me                ... pos = 0.0   	neg = 0.25 
+36. R.E.M fans will espe                ... pos = 0.75  	neg = 0.25 
+37. You will never hear                 ... pos = 0.125 	neg = 0.0  
+38. Good stuff.                         ... pos = 0.75  	neg = 0.25 
+39. R.E.M's score is als                ... pos = 0.0   	neg = 0.125
+40. It's possibly the be                ... pos = 0.5   	neg = 0.0  
+41. It fits perfectly.                  ... pos = 0.625 	neg = 0    
+42. Man On The Moon isn'                ... pos = 0.0   	neg = 0.125
+43. It needed more than                 ... pos = 0.875 	neg = 0.25 
+44. Maybe next time a bi                ... pos = 0.0   	neg = 0.0  
+45. Grade: B- to a C+. .                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6091-789 is Positive         ... pos = 15.75 	neg = 9.0  
+Overall score of document
+Total Pos = 15.75
+Total Neg = 9.0
+---------------------------------------------------------------------------

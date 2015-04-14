@@ -1,0 +1,12 @@
+0. Copyright 1998 Natha                 ... pos = 0.625 	neg = 0.25 
+1. Directed by Mike New                 ... pos = 0.625 	neg = 0.125
+2. The characters are w                 ... pos = 1.625 	neg = 0.0  
+3. But it could have be                 ... pos = 0.0   	neg = 0.375
+4. It also doesn't have                 ... pos = 0.0   	neg = 0.125
+5. Nonetheless, Pushing                 ... pos = 0.125 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1788-760 is Positive         ... pos = 3.0   	neg = 1.375
+Overall score of document
+Total Pos = 3.0
+Total Neg = 1.375
+---------------------------------------------------------------------------

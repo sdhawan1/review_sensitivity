@@ -1,0 +1,41 @@
+0. With the huge early                  ... pos = 0.375 	neg = 0.75 
+1. Roberts teamed up ag                 ... pos = 0.5   	neg = 0.75 
+2. Despite coming so so                 ... pos = 1.625 	neg = 0.625
+3. You know the look.                   ... pos = 0     	neg = 0.375
+4. Grant has used it to                 ... pos = 0.625 	neg = 0.0  
+5. It's this `I'm in ov                 ... pos = 0.625 	neg = 0.0  
+6. I don't know, someda                 ... pos = 0.125 	neg = 0.0  
+7. But for now, his inn                 ... pos = 0.625 	neg = 0.375
+8. Grant plays Michael                  ... pos = 0.0   	neg = 0.0  
+9. Michael is hopelessl                 ... pos = 1.25  	neg = 0.25 
+10. Gina backs out immed                ... pos = 0.0   	neg = 0.0  
+11. As it turns out, Fra                ... pos = 0.125 	neg = 0.125
+12. Gina wants to avoid                 ... pos = 0.125 	neg = 0.0  
+13. While I won't deny t                ... pos = 1.0   	neg = 0.125
+14. However, casting rem                ... pos = 0.125 	neg = 0.0  
+15. Grant, although disp                ... pos = 1.375 	neg = 0.125
+16. When he's forced to                 ... pos = 1.375 	neg = 0.5  
+17. Seeing Grant attempt                ... pos = 0.0   	neg = 0.0  
+18. `And replace the T's                ... pos = 0.875 	neg = 0.625
+19. James Caan makes for                ... pos = 0.75  	neg = 0.125
+20. The only tiny loose                 ... pos = 1.0   	neg = 0.5  
+21. Although admittedly                 ... pos = 1.0   	neg = 0.375
+22. The supporting cast                 ... pos = 0.375 	neg = 0.125
+23. Burt Young is dignif                ... pos = 2.0   	neg = 0.25 
+24. Joe Viterelli (hilar                ... pos = 0.625 	neg = 0.0  
+25. But again, his chara                ... pos = 1.625 	neg = 0.375
+26. The remainder of the                ... pos = 0.0   	neg = 0.125
+27. Director Kelly Makin                ... pos = 0.25  	neg = 0.0  
+28. There are lots of do                ... pos = 1.5   	neg = 0.25 
+29. Still, this is prett                ... pos = 0.0   	neg = 0.5  
+30. The script is fast a                ... pos = 2.125 	neg = 0.375
+31. It's not like we hav                ... pos = 0.0   	neg = 0.125
+32. How does this stack                 ... pos = 0.0   	neg = 0.125
+33. Well, basically the                 ... pos = 0.5   	neg = 0.125
+34. And Grant and Caan n                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3147-693 is Positive         ... pos = 22.75 	neg = 8.0  
+Overall score of document
+Total Pos = 22.75
+Total Neg = 8.0
+---------------------------------------------------------------------------

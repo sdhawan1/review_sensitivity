@@ -1,0 +1,78 @@
+0. Russell Crowe appear                 ... pos = 1.0   	neg = 0.125
+1. His anchor role in t                 ... pos = 0.5   	neg = 0.0  
+2. What's so good about                 ... pos = 0.75  	neg = 0.0  
+3. Perhaps that he's ra                 ... pos = 0.5   	neg = 0.125
+4. He's the opposite of                 ... pos = 0.0   	neg = 0.0  
+5. And as anyone from L                 ... pos = 0.375 	neg = 0.125
+6. In his mid-thirties,                 ... pos = 1.875 	neg = 0.0  
+7. Maximus is tough, mu                 ... pos = 0.0   	neg = 0.125
+8. The film starts by c                 ... pos = 0.0   	neg = 0.0  
+9. In the scenes of pre                 ... pos = 0.375 	neg = 0.0  
+10. Ancient Rome  surely                ... pos = 0.75  	neg = 0.0  
+11. There are the archer                ... pos = 0.625 	neg = 0.125
+12. Finally, there's the                ... pos = 0.25  	neg = 0.0  
+13. It does not make the                ... pos = 0.625 	neg = 0.0  
+14. And it's all the mor                ... pos = 0.875 	neg = 0.25 
+15. Even when you have f                ... pos = 0.375 	neg = 0.25 
+16. So Maximus is victor                ... pos = 0.625 	neg = 0.25 
+17. It's not long before                ... pos = 0.25  	neg = 0.375
+18. Of course the compli                ... pos = 0.625 	neg = 0.125
+19. Maximus would not be                ... pos = 0.125 	neg = 0.125
+20. Rome would once agai                ... pos = 0.0   	neg = 0.25 
+21. More intrigue surfac                ... pos = 0.0   	neg = 0.0  
+22. We  first see them u                ... pos = 0.75  	neg = 0.125
+23. Joaquin Phoenix play                ... pos = 0.25  	neg = 0.125
+24. His sister Lucilla i                ... pos = 1.375 	neg = 0.375
+25. She had also apparen                ... pos = 0.375 	neg = 0.375
+26. It's clear that GLAD                ... pos = 0.375 	neg = 0.5  
+27. Commodus makes sure                 ... pos = 0.847 	neg = 0.0  
+28. Refusing to pledge l                ... pos = 0.5   	neg = 1.125
+29. Experienced fighter                 ... pos = 0.875 	neg = 0.125
+30. The main motivator f                ... pos = 0.25  	neg = 0.125
+31. The ambitious and ru                ... pos = 0.75  	neg = 0.0  
+32. By this  time, of co                ... pos = 0.25  	neg = 0.0  
+33. This predictability                 ... pos = 0.25  	neg = 0.125
+34. As the childish, hat                ... pos = 0.0   	neg = 0.917
+35. He is  despicable, y                ... pos = 0.0   	neg = 0.75 
+36. Phoenix delivers the                ... pos = 0.375 	neg = 0.0  
+37. Connie Nielson as Lu                ... pos = 0.875 	neg = 0.25 
+38. Where her loyalties                 ... pos = 0.625 	neg = 0.25 
+39. In one memorable sce                ... pos = 0.375 	neg = 0.5  
+40. Nielson also plays a                ... pos = 0.5   	neg = 0.0  
+41. Her son Lucius is ap                ... pos = 0.0   	neg = 0.25 
+42. She is extremely cau                ... pos = 1.375 	neg = 0.125
+43. Fortunately, Scott a                ... pos = 0.75  	neg = 0.625
+44. Commodus' incestuous                ... pos = 1.0   	neg = 0    
+45. Oliver Reed does a n                ... pos = 0.0   	neg = 0.0  
+46. Reed died not long a                ... pos = 0.0   	neg = 0.375
+47. His character is  de                ... pos = 1.0   	neg = 0.25 
+48. Reed is  perfect for                ... pos = 0.0   	neg = 0.125
+49. Another strong suppo                ... pos = 0.875 	neg = 0.25 
+50. He  looks a little t                ... pos = 0.25  	neg = 1.25 
+51. Djimon Hounsou is ni                ... pos = 0.875 	neg = 0.25 
+52. Hounsou shades his p                ... pos = 0.125 	neg = 0.125
+53. Special effects are                 ... pos = 0.25  	neg = 0.25 
+54. We view them mainly                 ... pos = 0.75  	neg = 0.125
+55. Recent speculation a                ... pos = 0.5   	neg = 0.375
+56. Wonderful details co                ... pos = 1.375 	neg = 0.5  
+57. The only reservation                ... pos = 0.125 	neg = 0.125
+58. It's better  they're                ... pos = 0.0   	neg = 0.0  
+59. Other special effect                ... pos = 0.625 	neg = 0.25 
+60. The  initial image s                ... pos = 1.0   	neg = 0.0  
+61. We even notice some                 ... pos = 0.625 	neg = 0.0  
+62. Although the gods ar                ... pos = 0.25  	neg = 0.0  
+63. '  And he meditates                 ... pos = 0.0   	neg = 0    
+64. It's easy to see how                ... pos = 1.375 	neg = 0.375
+65. Music by Lisa Gerrar                ... pos = 0.0   	neg = 0.125
+66. Gerrard's voice  sou                ... pos = 0.0   	neg = 0.0  
+67. The  CD would be a g                ... pos = 0.75  	neg = 0.125
+68. The film is rated R                 ... pos = 0.125 	neg = 0.125
+69. I counted only one v                ... pos = 0.125 	neg = 0.0  
+70. GLADIATOR would be f                ... pos = 0.0   	neg = 0.125
+71. The violent scenes a                ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2439-71 is Positive          ... pos = 34.972 	neg = 14.417
+Overall score of document
+Total Pos = 34.972
+Total Neg = 14.417
+---------------------------------------------------------------------------

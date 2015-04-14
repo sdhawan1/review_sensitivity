@@ -1,0 +1,39 @@
+0. Starring Matthew McC                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Jonathan                 ... pos = 0.0   	neg = 0    
+2. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+3. Jonathan Mostow is a                 ... pos = 0.0   	neg = 0.375
+4. He knows what genre                  ... pos = 0.375 	neg = 0.75 
+5. His first two Hollyw                 ... pos = 1.75  	neg = 1.0  
+6. The dialogue is mini                 ... pos = 0.125 	neg = 1.0  
+7. I doubt anyone is go                 ... pos = 0.625 	neg = 0.375
+8. The film has one of                  ... pos = 0.75  	neg = 0.25 
+9. Matthew McConaughey,                 ... pos = 0.375 	neg = 0.5  
+10. Literally moments la                ... pos = 0.0   	neg = 0.375
+11. He and a varied grou                ... pos = 1.0   	neg = 0.0  
+12. This involves preten                ... pos = 0.0   	neg = 0.625
+13. As the film's market                ... pos = 0.125 	neg = 0.0  
+14. They retrieve the En                ... pos = 0.5   	neg = 0.125
+15. McConaughey and Co.                 ... pos = 0.25  	neg = 0.0  
+16. Only one of them kno                ... pos = 0.25  	neg = 0.125
+17. As if that wasn't en                ... pos = 0.25  	neg = 0.375
+18. There have been othe                ... pos = 0.0   	neg = 0.125
+19. Not since Titanic ha                ... pos = 1.125 	neg = 0.125
+20. The film doesn't bot                ... pos = 1.625 	neg = 0.125
+21. Mostow effectively u                ... pos = 0.375 	neg = 0.0  
+22. I'm a firm believer                 ... pos = 0.5   	neg = 0.375
+23. As Alfred Hitchcock                 ... pos = 0.0   	neg = 0.25 
+24. When the aforementio                ... pos = 0.0   	neg = 0.25 
+25. Before we know it, w                ... pos = 0.25  	neg = 0.0  
+26. We know it will happ                ... pos = 0.5   	neg = 0.0  
+27. McConaughey, it seem                ... pos = 0.0   	neg = 0.125
+28. Much like Keanu Reev                ... pos = 0.375 	neg = 0.25 
+29. There is no complexi                ... pos = 0.75  	neg = 0.375
+30. He doesn't have to e                ... pos = 1.0   	neg = 0.0  
+31. U-571 is frightening                ... pos = 0.5   	neg = 0.875
+32. Like he did in Break                ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2114-563 is Positive         ... pos = 13.75 	neg = 9.0  
+Overall score of document
+Total Pos = 13.75
+Total Neg = 9.0
+---------------------------------------------------------------------------

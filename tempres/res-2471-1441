@@ -1,0 +1,73 @@
+0. Each person sees a m                 ... pos = 0.25  	neg = 0.0  
+1. It comes from bringi                 ... pos = 0.875 	neg = 0.5  
+2. I went to "Saving Pr                 ... pos = 1.125 	neg = 0.125
+3. This is a Big Pictur                 ... pos = 0.125 	neg = 0.125
+4. Ambrose described D-                 ... pos = 0.0   	neg = 0.0  
+5. That's a bit of the                  ... pos = 0.0   	neg = 0.125
+6. "Saving Private Ryan                 ... pos = 0.25  	neg = 0.0  
+7. The war from there i                 ... pos = 0.0   	neg = 0.75 
+8. Reports about the fi                 ... pos = 0.375 	neg = 0.5  
+9. They disfigure.                      ... pos = 0     	neg = 0    
+10. This is in contrast                 ... pos = 0.625 	neg = 0.25 
+11. An early gasp from t                ... pos = 0.0   	neg = 0.125
+12. One interesting thin                ... pos = 0.0   	neg = 0.625
+13. In films of this sca                ... pos = 0.0   	neg = 0.0  
+14. "The Longest Day" ha                ... pos = 0.0   	neg = 0.0  
+15. Ambrose's books ment                ... pos = 0.125 	neg = 0.0  
+16. "A Bridge Too Far" s                ... pos = 0.0   	neg = 0.25 
+17. Concerning a differe                ... pos = 1.0   	neg = 0.0  
+18. Big, important thing                ... pos = 1.125 	neg = 0.0  
+19. "Ryan", on the other                ... pos = 0.125 	neg = 0.0  
+20. It's only well after                ... pos = 0.0   	neg = 0.125
+21. Prior to this, but a                ... pos = 0.125 	neg = 0.375
+22. Later, Tom Hanks men                ... pos = 0.125 	neg = 0.125
+23. Then they go home.                  ... pos = 0.0   	neg = 0.0  
+24. From the infantry's                 ... pos = 0.625 	neg = 0.0  
+25. They're concerned wi                ... pos = 0.0   	neg = 0.0  
+26. And, as the title an                ... pos = 0.375 	neg = 0.125
+27. Well, that's the fra                ... pos = 0.5   	neg = 0.0  
+28. Ryan, whose three br                ... pos = 0.0   	neg = 0.125
+29. He gets to go home,                 ... pos = 0.0   	neg = 0.0  
+30. Ryan, though, is som                ... pos = 0.0   	neg = 0.25 
+31. While searching for                 ... pos = 1.125 	neg = 0.0  
+32. The German soldiers                 ... pos = 0.25  	neg = 0.0  
+33. Only two have speaki                ... pos = 0.125 	neg = 0.375
+34. The ambiguities do n                ... pos = 0.375 	neg = 0.0  
+35. Further, the America                ... pos = 0.375 	neg = 0.0  
+36. In the beginning, GI                ... pos = 0.25  	neg = 0.0  
+37. At the end of the fi                ... pos = 0.5   	neg = 0.5  
+38. In the first half, a                ... pos = 0.125 	neg = 0.0  
+39. The roles become rev                ... pos = 0.0   	neg = 0.0  
+40. Generally, we don't                 ... pos = 0.0   	neg = 0.0  
+41. The emphasis is clea                ... pos = 0.25  	neg = 0.125
+42. And the actions of A                ... pos = 0.5   	neg = 0.75 
+43. The high points are                 ... pos = 1.75  	neg = 1.0  
+44. And I suppose Spielb                ... pos = 0.875 	neg = 0.125
+45. It should be noted t                ... pos = 0.5   	neg = 0.25 
+46. For Americans, Vietn                ... pos = 0.5   	neg = 1.125
+47. World War 2, though,                ... pos = 0.0   	neg = 0.125
+48. In a real sense, thi                ... pos = 0.25  	neg = 1.25 
+49. Nazis became great f                ... pos = 0.25  	neg = 0.125
+50. This sort of moral c                ... pos = 1.375 	neg = 1.625
+51. Is it possible to ma                ... pos = 0.625 	neg = 0.125
+52. There's been perhaps                ... pos = 0.25  	neg = 0.25 
+53. The dilemmas in "Cou                ... pos = 0.75  	neg = 0.0  
+54. But then, what would                ... pos = 0.0   	neg = 0.0  
+55. The world is differe                ... pos = 1.125 	neg = 0.375
+56. Does Spielberg succe                ... pos = 0.625 	neg = 0.625
+57. I'd argue, yes, from                ... pos = 0.0   	neg = 0.0  
+58. At the end, in what                 ... pos = 0.0   	neg = 0.375
+59. The rah-rah had been                ... pos = 0.0   	neg = 0.125
+60. There are of course                 ... pos = 0.25  	neg = 0.0  
+61. From a pure wince pe                ... pos = 0.375 	neg = 2.625
+62. He asks his wife if                 ... pos = 0.875 	neg = 0.0  
+63. I suppose he represe                ... pos = 0.0   	neg = 0.0  
+64. It was a truly bad s                ... pos = 0.625 	neg = 1.25 
+65. While thematically i                ... pos = 0.125 	neg = 0.625
+66. But, while clumsy, t                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-2471-1441 is Positive        ... pos = 22.75 	neg = 18.875
+Overall score of document
+Total Pos = 22.75
+Total Neg = 18.875
+---------------------------------------------------------------------------

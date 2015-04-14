@@ -1,0 +1,22 @@
+0. Man, this was one wi                 ... pos = 0.0   	neg = 0.125
+1. Similar to Conspirac                 ... pos = 0.375 	neg = 0.125
+2. The first hour is yo                 ... pos = 0.5   	neg = 0.125
+3. The last half hour?                  ... pos = 0.0   	neg = 0.0  
+4. This was when the ma                 ... pos = 0.0   	neg = 0.125
+5. From then on - forge                 ... pos = 0.625 	neg = 0.0  
+6. What really dissappo                 ... pos = 0.5   	neg = 1.375
+7. Instead of using cle                 ... pos = 1.0   	neg = 1.25 
+8. The one thing that w                 ... pos = 0.0   	neg = 0.25 
+9. There are skeletons                  ... pos = 0.25  	neg = 0.75 
+10. Then finally after b                ... pos = 0.625 	neg = 0.0  
+11. The acting isn't too                ... pos = 0.125 	neg = 1.25 
+12. There was some very                 ... pos = 0.875 	neg = 0.25 
+13. This movie could hav                ... pos = 0.125 	neg = 0.125
+14. It had a good experi                ... pos = 1.5   	neg = 0.0  
+15. There was just nothi                ... pos = 0.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-6159-1140 is Positive        ... pos = 6.875 	neg = 6.125
+Overall score of document
+Total Pos = 6.875
+Total Neg = 6.125
+---------------------------------------------------------------------------

@@ -1,0 +1,63 @@
+0. Imagine that you're                  ... pos = 0.0   	neg = 0.5  
+1. Your faithful and lo                 ... pos = 0.875 	neg = 0.0  
+2. Imagine, now, that y                 ... pos = 0.0   	neg = 0.5  
+3. A friendly trucker i                 ... pos = 1.0   	neg = 0.125
+4. Your wife takes a ri                 ... pos = 0.625 	neg = 0.0  
+5. Finally, imagine tha                 ... pos = 0.0   	neg = 0.5  
+6. This is the horrifyi                 ... pos = 0.25  	neg = 0.25 
+7. Taylor takes a close                 ... pos = 0.0   	neg = 0.375
+8. He reconnects the ca                 ... pos = 0.0   	neg = 0.125
+9. He drives to the din                 ... pos = 0.0   	neg = 0.25 
+10. Amy is nowhere to be                ... pos = 0.0   	neg = 0.875
+11. The chef at the coun                ... pos = 0.0   	neg = 0.25 
+12. Taylor is baffled an                ... pos = 0.0   	neg = 0.125
+13. He leaves a message                 ... pos = 0.0   	neg = 0.625
+14. His course is altere                ... pos = 0.125 	neg = 0.125
+15. Taylor follows behin                ... pos = 0.0   	neg = 0.0  
+16. He signals for the m                ... pos = 0.0   	neg = 0.0  
+17. Taylor pulls in fron                ... pos = 0.0   	neg = 0.0  
+18. When confronted, the                ... pos = 0.0   	neg = 0.0  
+19. Walsh) disputes that                ... pos = 0.0   	neg = 0.0  
+20. What's going on?                    ... pos = 0     	neg = 0.0  
+21. That's the question                 ... pos = 0.0   	neg = 0.0  
+22. Russell is good at g                ... pos = 1.375 	neg = 0.125
+23. He plays a common, r                ... pos = 0.5   	neg = 0.0  
+24. That type of dramati                ... pos = 1.375 	neg = 0.25 
+25. Perhaps what makes R                ... pos = 0.75  	neg = 0.125
+26. Director Jonathan Mo                ... pos = 0.0   	neg = 0.0  
+27. The film shows us a                 ... pos = 0.75  	neg = 0.25 
+28. Breakdown is so well                ... pos = 0.0   	neg = 0.125
+29. The terror isn't Tex                ... pos = 0.0   	neg = 1.0  
+30. What happens in Brea                ... pos = 0.0   	neg = 0.0  
+31. That's what evokes h                ... pos = 0.625 	neg = 0.0  
+32. There's nothing scar                ... pos = 0.0   	neg = 0.5  
+33. Breakdown's physical                ... pos = 0.125 	neg = 0.75 
+34. Breakdown's break-ne                ... pos = 1.125 	neg = 0.125
+35. However, Breakdown d                ... pos = 0.375 	neg = 0.0  
+36. Breakdown is put tog                ... pos = 1.0   	neg = 0.25 
+37. Kurt Russell is a go                ... pos = 0.75  	neg = 0.125
+38. Russell has a down-t                ... pos = 0.0   	neg = 0.0  
+39. Although he's rich a                ... pos = 0.0   	neg = 0.875
+40. That is why he works                ... pos = 0.0   	neg = 0.125
+41. Since this story can                ... pos = 0.0   	neg = 0.125
+42. Kathleen Quinlan pla                ... pos = 0.25  	neg = 0.0  
+43. She's cute, smart, a                ... pos = 0.625 	neg = 0    
+44. She too, is someone                 ... pos = 0.0   	neg = 1.0  
+45. The villains in this                ... pos = 0.375 	neg = 0.375
+46. J.T.                                ... pos = 0.0   	neg = 0.0  
+47. Walsh, who has had d                ... pos = 0.0   	neg = 0.625
+48. He's convincing as a                ... pos = 0.625 	neg = 0    
+49. Those three elements                ... pos = 0.25  	neg = 0.625
+50. His crew of criminal                ... pos = 0.25  	neg = 1.625
+51. Breakdown is a wonde                ... pos = 1.125 	neg = 0.125
+52. It's easily one of t                ... pos = 1.0   	neg = 0.0  
+53. I hope, at least for                ... pos = 0.375 	neg = 0.0  
+54. I wish him good luck                ... pos = 0.0   	neg = 0.5  
+55. After seeing this ma                ... pos = 0.875 	neg = 0.25 
+56. Grade: A+, ***** out                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5064-883 is Positive         ... pos = 17.375 	neg = 14.5 
+Overall score of document
+Total Pos = 17.375
+Total Neg = 14.5
+---------------------------------------------------------------------------

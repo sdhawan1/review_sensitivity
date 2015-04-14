@@ -1,0 +1,28 @@
+0. Release Date: Decemb                 ... pos = 3.5   	neg = 0.5  
+1. It was his first tru                 ... pos = 2.125 	neg = 0.25 
+2. His next role, that                  ... pos = 0.375 	neg = 1.625
+3. And so, after a six-                 ... pos = 0.875 	neg = 0.0  
+4. Williams is the titl                 ... pos = 2.125 	neg = 1.125
+5. We're introduced to                  ... pos = 0.0   	neg = 0.0  
+6. It's at the institut                 ... pos = 0.125 	neg = 0.125
+7. He removes himself f                 ... pos = 0.25  	neg = 0.125
+8. His attempts to inje                 ... pos = 0.75  	neg = 0.0  
+9. The characters are w                 ... pos = 1.125 	neg = 0    
+10. Although the script                 ... pos = 0.875 	neg = 0.75 
+11. At medical school, P                ... pos = 1.25  	neg = 0.0  
+12. The two instantly be                ... pos = 0.75  	neg = 0.0  
+13. Monica Potter plays                 ... pos = 0.5   	neg = 0.375
+14. For some reason he's                ... pos = 0.75  	neg = 0.0  
+15. The script -- based                 ... pos = 0.0   	neg = 0.0  
+16. The rest of the cast                ... pos = 0.0   	neg = 0.5  
+17. Director Tom Shadyac                ... pos = 0.0   	neg = 0.0  
+18. PATCH ADAMS' lack of                ... pos = 0.25  	neg = 0.5  
+19. Nevertheless, it's a                ... pos = 0.5   	neg = 0.5  
+20. It succeeds at every                ... pos = 0.25  	neg = 0.625
+21. By and large there m                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4411-700 is Positive         ... pos = 16.75 	neg = 7.25 
+Overall score of document
+Total Pos = 16.75
+Total Neg = 7.25
+---------------------------------------------------------------------------

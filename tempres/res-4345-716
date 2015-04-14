@@ -1,0 +1,36 @@
+0. A CIVIL ACTION turne                 ... pos = 0.875 	neg = 0.625
+1. Based on the preview                 ... pos = 0.25  	neg = 0.25 
+2. Instead, the charact                 ... pos = 1.75  	neg = 0.25 
+3. John Travolta is the                 ... pos = 1.375 	neg = 1.375
+4. There has to be a cl                 ... pos = 0.5   	neg = 0.25 
+5. As we learn from Jan                 ... pos = 0.125 	neg = 0.0  
+6. All a settlement rea                 ... pos = 0.625 	neg = 1.0  
+7. The trouble is, Jan'                 ... pos = 0.5   	neg = 2.0  
+8. They believe that th                 ... pos = 0.125 	neg = 0.125
+9. At first, Jan is rel                 ... pos = 0.625 	neg = 0.125
+10. The problem is that                 ... pos = 0.75  	neg = 0.125
+11. To get an admission                 ... pos = 0.875 	neg = 0.375
+12. Writer/director Stev                ... pos = 1.375 	neg = 0.25 
+13. Robert Duvall turns                 ... pos = 1.25  	neg = 0    
+14. He's certainly cynic                ... pos = 0.5   	neg = 0.0  
+15. He's just a world-we                ... pos = 0.75  	neg = 0.5  
+16. His best scene occur                ... pos = 0.5   	neg = 0.0  
+17. For example, he expl                ... pos = 0.375 	neg = 0.75 
+18. '" Then we see Fache                ... pos = 0.0   	neg = 0.5  
+19. ". The trial, to put                ... pos = 0.0   	neg = 0.375
+20. The judge (John Lith                ... pos = 0.5   	neg = 0.625
+21. They even go so far                 ... pos = 0.0   	neg = 0.0  
+22. Zaillian clearly wan                ... pos = 1.375 	neg = 1.0  
+23. His sudden conversio                ... pos = 0.625 	neg = 0.75 
+24. It seems to result f                ... pos = 0.375 	neg = 0.625
+25. But didn't he ever g                ... pos = 0.0   	neg = 0.0  
+26. What's different abo                ... pos = 0.625 	neg = 0.0  
+27. A CIVIL ACTION finds                ... pos = 2.5   	neg = 0.0  
+28. It probably isn't on                ... pos = 0.5   	neg = 0.0  
+29. Film Reviews Page: h                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4345-716 is Positive         ... pos = 19.625 	neg = 11.875
+Overall score of document
+Total Pos = 19.625
+Total Neg = 11.875
+---------------------------------------------------------------------------

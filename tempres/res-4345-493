@@ -1,0 +1,54 @@
+0. Big courtroom thrill                 ... pos = 0.5   	neg = 0.0  
+1. O.J.                                 ... pos = 0.0   	neg = 0.0  
+2. Simpson, Tom Capano,                 ... pos = 0.0   	neg = 0.0  
+3. All these names are                  ... pos = 0.25  	neg = 0.0  
+4. And, of course, cour                 ... pos = 0.625 	neg = 0.0  
+5. Whether it be John G                 ... pos = 0.5   	neg = 0.125
+6. So when I rented A C                 ... pos = 1.5   	neg = 0.25 
+7. However, what I saw                  ... pos = 2.0   	neg = 0.375
+8. John Travolta always                 ... pos = 0.0   	neg = 0.125
+9. No one expected him                  ... pos = 0.5   	neg = 0.25 
+10. But, whenever he get                ... pos = 0.0   	neg = 0.125
+11. A Civil Action is no                ... pos = 0.625 	neg = 0.375
+12. Travolta proves that                ... pos = 0.625 	neg = 0.0  
+13. His performance is n                ... pos = 0.25  	neg = 0.125
+14. If he delivered the                 ... pos = 0.0   	neg = 0.125
+15. Luckily, he has a st                ... pos = 1.375 	neg = 0    
+16. William H. Macy is p                ... pos = 0.0   	neg = 0.125
+17. He continues to deli                ... pos = 0.125 	neg = 0.125
+18. In A Civil Action, h                ... pos = 0.375 	neg = 0.125
+19. He is not a lovable                 ... pos = 2.5   	neg = 0.125
+20. He is not one of the                ... pos = 0.0   	neg = 0.125
+21. But, he delivers one                ... pos = 0.875 	neg = 0.125
+22. Robert Duvall is als                ... pos = 0.0   	neg = 0.125
+23. He gets many leading                ... pos = 0.0   	neg = 0.125
+24. Duvall has a support                ... pos = 0.375 	neg = 0    
+25. Duvall is magical in                ... pos = 0.0   	neg = 0.125
+26. He is the wise teach                ... pos = 0.0   	neg = 0.125
+27. In many non-comedic                 ... pos = 0.25  	neg = 0.5  
+28. Unfortunately, they                 ... pos = 0.875 	neg = 1.125
+29. However, this usuall                ... pos = 1.25  	neg = 0.125
+30. This is not the case                ... pos = 0.125 	neg = 0.125
+31. They have comedy com                ... pos = 0.0   	neg = 0.0  
+32. Whether it be Duvall                ... pos = 0.375 	neg = 0.125
+33. Granted, it's not ro                ... pos = 0.375 	neg = 0.0  
+34. The plot is terrific                ... pos = 0.0   	neg = 0.125
+35. The setup is nice wi                ... pos = 0.375 	neg = 0.125
+36. Then the case that w                ... pos = 0.125 	neg = 0.375
+37. They find out the go                ... pos = 1.0   	neg = 0.0  
+38. However, budgets soo                ... pos = 0.125 	neg = 0.0  
+39. I will not spoil the                ... pos = 0.625 	neg = 0.0  
+40. The courtroom debate                ... pos = 0.625 	neg = 0.375
+41. It left me somewhat                 ... pos = 0.375 	neg = 0.125
+42. All in all, John Tra                ... pos = 0.25  	neg = 0.125
+43. His supporting cast,                ... pos = 0.5   	neg = 0.25 
+44. The film is smart, w                ... pos = 0.75  	neg = 0.125
+45. Not only does it gau                ... pos = 0.125 	neg = 0.0  
+46. A Civil Action provi                ... pos = 0.625 	neg = 0.0  
+47. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4345-493 is Positive         ... pos = 21.875 	neg = 6.75 
+Overall score of document
+Total Pos = 21.875
+Total Neg = 6.75
+---------------------------------------------------------------------------

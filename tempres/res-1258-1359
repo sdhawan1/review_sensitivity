@@ -1,0 +1,44 @@
+0. Well, on the good ne                 ... pos = 1.0   	neg = 0.0  
+1. While Jurassic Park                  ... pos = 0.0   	neg = 0.0  
+2. They have produced m                 ... pos = 0.125 	neg = 0.25 
+3. One corollary  to th                 ... pos = 0.0   	neg = 0.0  
+4. The body count in Lo                 ... pos = 0.625 	neg = 0.25 
+5. You can judge for yo                 ... pos = 0.75  	neg = 1.0  
+6. But the big disappoi                 ... pos = 0     	neg = 1.125
+7. He, better than most                 ... pos = 0.375 	neg = 0.0  
+8. How could he let thi                 ... pos = 0.0   	neg = 0.0  
+9. The story opens with                 ... pos = 1.5   	neg = 0.375
+10. Cut to Jeff Goldblum                ... pos = 0.0   	neg = 0.0  
+11. It goes against all                 ... pos = 0.375 	neg = 0.125
+12. She's having none of                ... pos = 0.0   	neg = 0.125
+13. Spielberg lets her c                ... pos = 0.875 	neg = 1.0  
+14. As soon as we meet h                ... pos = 0.0   	neg = 0.625
+15. Even modern-day bird                ... pos = 0.5   	neg = 0.125
+16. Later, she comes acr                ... pos = 0.25  	neg = 0.0  
+17. What a surprise that                ... pos = 0.0   	neg = 0.125
+18. The ensuing FX are v                ... pos = 1.5   	neg = 0.375
+19. Would it have been s                ... pos = 0.5   	neg = 0.875
+20. Okay, you need the b                ... pos = 0.0   	neg = 0.25 
+21. How tough would that                ... pos = 0.0   	neg = 0.125
+22. Later, corporate mer                ... pos = 0.0   	neg = 0.0  
+23. Their Hatari!-inspir                ... pos = 0.5   	neg = 0    
+24. Our heroes sneak int                ... pos = 0.5   	neg = 0.25 
+25. A melee follows, des                ... pos = 0.0   	neg = 0.875
+26. Not a good lesson fo                ... pos = 0.75  	neg = 0.125
+27. Way too many scenes                 ... pos = 0.125 	neg = 0.625
+28. Spielberg tops his o                ... pos = 0.0   	neg = 0.375
+29. " Late in the film,                 ... pos = 0.0   	neg = 0.0  
+30. This lets us see som                ... pos = 0.0   	neg = 0.0  
+31. Spielberg punctuates                ... pos = 0.5   	neg = 0.0  
+32. There's lotsa good s                ... pos = 0.75  	neg = 0.25 
+33. Pete Posthelwaite, a                ... pos = 0.0   	neg = 0.0  
+34. And the action scene                ... pos = 1.5   	neg = 0.0  
+35. I doubt that Spielbe                ... pos = 0.0   	neg = 0.5  
+36. I remember adolescen                ... pos = 0.25  	neg = 0.125
+37. The super-child Stev                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1258-1359 is Positive        ... pos = 13.25 	neg = 10.0 
+Overall score of document
+Total Pos = 13.25
+Total Neg = 10.0
+---------------------------------------------------------------------------

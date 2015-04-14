@@ -1,0 +1,30 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Mitchell                  ... pos = 0.0   	neg = 0    
+2. Photographed by Davi                 ... pos = 0.0   	neg = 0.0  
+3. It's easy to make a                  ... pos = 1.625 	neg = 1.25 
+4. Recently, though, so                 ... pos = 0.75  	neg = 0.375
+5. The studios must hav                 ... pos = 0.375 	neg = 1.5  
+6. The commercials for                  ... pos = 0.0   	neg = 1.125
+7. It's actually a much                 ... pos = 1.375 	neg = 0.75 
+8. In the  television s                 ... pos = 0.375 	neg = 0.25 
+9. Here, his voice is s                 ... pos = 0.5   	neg = 0.125
+10. His name is Oz, a Ch                ... pos = 0.0   	neg = 0.125
+11. In next door  moves                 ... pos = 0.0   	neg = 0.875
+12. Sophie discovers tha                ... pos = 0.125 	neg = 0.0  
+13. Oz travels to Chicag                ... pos = 0.25  	neg = 1.125
+14. Our hero's life gets                ... pos = 1.375 	neg = 0.625
+15. The story is violent                ... pos = 1.625 	neg = 0.125
+16. Perry, as I've alrea                ... pos = 0.25  	neg = 0.25 
+17. By simply adding a g                ... pos = 0.125 	neg = 0.0  
+18. And Amanda Peet, as                 ... pos = 1.375 	neg = 0.75 
+19. It was also a wise d                ... pos = 0.0   	neg = 0.125
+20. American light  come                ... pos = 1.75  	neg = 0.125
+21. He was in the same                  ... pos = 0.0   	neg = 0.25 
+22. "The Whole Nine Yard                ... pos = 0.0   	neg = 0.125
+23. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-487-1540 is Positive         ... pos = 12.125 	neg = 9.875
+Overall score of document
+Total Pos = 12.125
+Total Neg = 9.875
+---------------------------------------------------------------------------

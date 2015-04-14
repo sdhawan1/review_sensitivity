@@ -1,0 +1,38 @@
+0. Starring Jennifer Ja                 ... pos = 0.75  	neg = 1.0  
+1. The film opens with                  ... pos = 0.625 	neg = 0.0  
+2. However, during the                  ... pos = 0.125 	neg = 0.125
+3. Geller, along with P                 ... pos = 0.625 	neg = 0.0  
+4. They both eventually                 ... pos = 0.75  	neg = 0.0  
+5. eXistenZ has the pot                 ... pos = 0.625 	neg = 0.125
+6. However, this being                  ... pos = 0.375 	neg = 0.125
+7. There's little tensi                 ... pos = 0.0   	neg = 0.25 
+8. It's a shame, as the                 ... pos = 0.375 	neg = 0.75 
+9. But the plot is stat                 ... pos = 0.125 	neg = 0.25 
+10. The cast don't help                 ... pos = 0.125 	neg = 0    
+11. Jennifer Jason Leigh                ... pos = 0.125 	neg = 0.125
+12. She mutters most of                 ... pos = 0.0   	neg = 0.25 
+13. She does look attrac                ... pos = 1.0   	neg = 0.375
+14. Jude Law is nothing                 ... pos = 0.375 	neg = 1.75 
+15. Having two lead acto                ... pos = 0.125 	neg = 0.125
+16. The supporting cast                 ... pos = 0.5   	neg = 0.75 
+17. ' Fortunately, they                 ... pos = 0.75  	neg = 0.0  
+18. But generally, the c                ... pos = 0.125 	neg = 0.25 
+19. Cronenberg himself h                ... pos = 0.0   	neg = 0.25 
+20. Even with all these                 ... pos = 0.875 	neg = 0.25 
+21. The game pods and or                ... pos = 0.5   	neg = 0.75 
+22. Even the game eXiste                ... pos = 0.375 	neg = 0.25 
+23. Cronenbergs directio                ... pos = 0.375 	neg = 0.125
+24. Again, in eXistenZ o                ... pos = 0.0   	neg = 0.25 
+25. Other than that, the                ... pos = 0.75  	neg = 0.0  
+26. eXistenZ is terribly                ... pos = 0     	neg = 0.375
+27. Cronenberg had a pot                ... pos = 0.25  	neg = 0.25 
+28. The material despera                ... pos = 0     	neg = 0.125
+29. ' and is not suited                 ... pos = 1.625 	neg = 0.125
+30. There's very little                 ... pos = 0.5   	neg = 0.5  
+31. eXistenZ could well                 ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-664-1213 is Positive         ... pos = 12.75 	neg = 9.75 
+Overall score of document
+Total Pos = 12.75
+Total Neg = 9.75
+---------------------------------------------------------------------------

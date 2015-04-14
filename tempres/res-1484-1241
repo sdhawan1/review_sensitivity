@@ -1,0 +1,33 @@
+0. Cast: Ben Stiller, E                 ... pos = 0.25  	neg = 0.875
+1. Brian believes Anna                  ... pos = 1.25  	neg = 0.375
+2. Jacob is happy with                  ... pos = 0.875 	neg = 0.125
+3. Can Brian forgive Ja                 ... pos = 0.25  	neg = 0.125
+4. Can Anna forgive Jac                 ... pos = 0.25  	neg = 0.0  
+5. Will Jacob's congreg                 ... pos = 1.375 	neg = 0    
+6. Every once and a whi                 ... pos = 1.125 	neg = 0.125
+7. Keeping the Faith wa                 ... pos = 0.75  	neg = 0.375
+8. Although I'm not per                 ... pos = 0.25  	neg = 0.125
+9. I won't bore anyone                  ... pos = 0.0   	neg = 0.25 
+10. The performances are                ... pos = 0.25  	neg = 0    
+11. Edward Norton has qu                ... pos = 1.625 	neg = 0.875
+12. The scene where Anna                ... pos = 1.375 	neg = 0.875
+13. Ben Stiller is alway                ... pos = 2.5   	neg = 0.25 
+14. The always gorgeous                 ... pos = 2.125 	neg = 0.75 
+15. All three actors sha                ... pos = 0.931 	neg = 0.125
+16. The supporting cast                 ... pos = 0.0   	neg = 0.125
+17. Eli Wallach plays th                ... pos = 2.25  	neg = 0.25 
+18. Perhaps the biggest                 ... pos = 0.375 	neg = 0.0  
+19. Despite the romantic                ... pos = 0.625 	neg = 0.5  
+20. None of the emotions                ... pos = 1.25  	neg = 1.25 
+21. Although it may date                ... pos = 0.625 	neg = 0.5  
+22. There are several in                ... pos = 0.5   	neg = 0.0  
+23. I found Keeping the                 ... pos = 1.375 	neg = 0.125
+24. Who knows, depending                ... pos = 0.625 	neg = 0.375
+25. For now though, I fi                ... pos = 1.625 	neg = 0.625
+26. [PG-13]. Reviewed by                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1484-1241 is Positive        ... pos = 24.431 	neg = 9.0  
+Overall score of document
+Total Pos = 24.431
+Total Neg = 9.0
+---------------------------------------------------------------------------

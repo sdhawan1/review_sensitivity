@@ -1,0 +1,46 @@
+0. Directed by: Norman                  ... pos = 1.0   	neg = 0.625
+1. Denzel Washington pr                 ... pos = 0.0   	neg = 0.75 
+2. While the film itsel                 ... pos = 0.75  	neg = 0.375
+3. Washington has, in f                 ... pos = 0.125 	neg = 0.125
+4. Shot in two differen                 ... pos = 0.75  	neg = 0    
+5. Portions of the film                 ... pos = 0.625 	neg = 0.0  
+6. The time frame then                  ... pos = 0.5   	neg = 0.0  
+7. While the group sear                 ... pos = 0.375 	neg = 0.25 
+8. The majority of the                  ... pos = 0.0   	neg = 0.625
+9. During these scenes,                 ... pos = 0.0   	neg = 0.125
+10. However, not all of                 ... pos = 0.125 	neg = 0.125
+11. The scenes in which                 ... pos = 0.25  	neg = 0.0  
+12. The biggest fault pe                ... pos = 0.5   	neg = 0.125
+13. For nearly half of t                ... pos = 0.625 	neg = 0.375
+14. During these scenes,                ... pos = 0.0   	neg = 0.5  
+15. The problem here is                 ... pos = 0.875 	neg = 0.375
+16. He's evil, pure and                 ... pos = 0.375 	neg = 0.75 
+17. We're given nothing                 ... pos = 0.0   	neg = 0.25 
+18. In a movie like "Sta                ... pos = 1.0   	neg = 0.125
+19. As for the performan                ... pos = 1.125 	neg = 0.25 
+20. I truly believe that                ... pos = 0.75  	neg = 0.0  
+21. Liev Schrieber (Scre                ... pos = 0.75  	neg = 0.375
+22. Clancy Brown (Highla                ... pos = 0.5   	neg = 0.0  
+23. The only weak link h                ... pos = 0.0   	neg = 0.625
+24. I'm not entirely sur                ... pos = 1.625 	neg = 0.625
+25. I lean towards the l                ... pos = 0.0   	neg = 0.25 
+26. "The Hurricane" is b                ... pos = 0.0   	neg = 0.375
+27. It can, however, be                 ... pos = 0.625 	neg = 0.125
+28. The film runs 125 mi                ... pos = 1.0   	neg = 0.25 
+29. "The Hurricane" is a                ... pos = 0.875 	neg = 0.75 
+30. However, countless m                ... pos = 1.25  	neg = 0.0  
+31. I'd recommend waitin                ... pos = 0.0   	neg = 0.0  
+32. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+33. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+34. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+35. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+36. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+37. See it if you've got                ... pos = 0.0   	neg = 0.25 
+38. * - One of the worst                ... pos = 0.0   	neg = 0.375
+39. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-864-535 is Positive          ... pos = 17.625 	neg = 10.875
+Overall score of document
+Total Pos = 17.625
+Total Neg = 10.875
+---------------------------------------------------------------------------

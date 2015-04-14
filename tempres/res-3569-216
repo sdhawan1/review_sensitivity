@@ -1,0 +1,60 @@
+0. STARRING:   Cameron                  ... pos = 3.5   	neg = 0.125
+1. She places other peo                 ... pos = 0.25  	neg = 0.0  
+2. Men can't resist Mar                 ... pos = 0.25  	neg = 0.5  
+3. Ted Stroehmann (Ben                  ... pos = 0.5   	neg = 0.125
+4. After learning that                  ... pos = 0.25  	neg = 0.0  
+5. If it turns out that                 ... pos = 0.25  	neg = 0.125
+6. Unfortunately, Healy                 ... pos = 0.625 	neg = 1.125
+7. The two men suddenly                 ... pos = 0.75  	neg = 0.25 
+8. That's the intriguin                 ... pos = 0.75  	neg = 0.125
+9. "  They've come a lo                 ... pos = 0.0   	neg = 0.375
+10. "Mary" is far more m                ... pos = 0.375 	neg = 0.5  
+11. Instead, "Mary" give                ... pos = 1.625 	neg = 0.0  
+12. That's not to say th                ... pos = 0.125 	neg = 0.125
+13. There are lots of la                ... pos = 1.0   	neg = 1.25 
+14. Unlike "Dumb and Dum                ... pos = 1.0   	neg = 0.5  
+15. The result is a film                ... pos = 0.25  	neg = 0.125
+16. Matt Dillon's perfor                ... pos = 0.375 	neg = 0.125
+17. After eavesdropping                 ... pos = 0.75  	neg = 0.0  
+18. "  Her mystery man m                ... pos = 1.375 	neg = 0.125
+19. This gives Dillon's                 ... pos = 0.875 	neg = 0.0  
+20. In another attempt t                ... pos = 0.5   	neg = 0.125
+21. "  Mary is of course                ... pos = 0.25  	neg = 0.625
+22. He then explains how                ... pos = 0.375 	neg = 0.0  
+23. "  The scene is bril                ... pos = 1.0   	neg = 0.75 
+24. Stiller, as the high                ... pos = 0.125 	neg = 0.125
+25. He never tries to be                ... pos = 1.0   	neg = 0.875
+26. Perhaps this is why                 ... pos = 0.0   	neg = 0.125
+27. Other less important                ... pos = 2.125 	neg = 0.5  
+28. "There's Something A                ... pos = 0.75  	neg = 0.0  
+29. The directors seem u                ... pos = 0.625 	neg = 0.625
+30. The opening scene, f                ... pos = 0.75  	neg = 0.0  
+31. (Sarcasm: Boy, *that                ... pos = 0.25  	neg = 0.0  
+32. )  Another scene, wh                ... pos = 0.625 	neg = 0.5  
+33. The packed audience                 ... pos = 0.5   	neg = 0.0  
+34. (Sarcasm: Wow, that'                ... pos = 0     	neg = 0.375
+35. )  And I guess I'm t                ... pos = 0.0   	neg = 0.0  
+36. (That's three Ben St                ... pos = 0.125 	neg = 0.25 
+37. I think the director                ... pos = 0.125 	neg = 0.125
+38. )         The mostly                ... pos = 1.0   	neg = 0.0  
+39. After seeing this ha                ... pos = 0.125 	neg = 0.0  
+40. I was not wrong.                    ... pos = 0.0   	neg = 0.875
+41. (And please don't ac                ... pos = 0.0   	neg = 0.0  
+42. )         Overall, t                ... pos = 0.0   	neg = 0.125
+43. Cleverly written, wi                ... pos = 2.125 	neg = 0.25 
+44. "  With this role, C                ... pos = 0.375 	neg = 0    
+45. Oh, be sure to stay                 ... pos = 0.25  	neg = 0.125
+46. Seeing the cast and                 ... pos = 1.5   	neg = 0.125
+47. This review was writ                ... pos = 0.0   	neg = 0.125
+48. This review may be f                ... pos = 0.625 	neg = 0.5  
+49. It may not be reprod                ... pos = 0.375 	neg = 0.125
+50. If you have comments                ... pos = 0.0   	neg = 0.0  
+51. -----   "Average Joe                ... pos = 0.0   	neg = 0.0  
+52. }        .     "When                ... pos = 0.0   	neg = 1.0  
+53. " - Joel/Woemcats. .                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3569-216 is Positive         ... pos = 30.375 	neg = 13.75
+Overall score of document
+Total Pos = 30.375
+Total Neg = 13.75
+---------------------------------------------------------------------------

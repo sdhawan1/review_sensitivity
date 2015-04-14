@@ -1,0 +1,66 @@
+0. If you think about i                 ... pos = 0.25  	neg = 0.375
+1. "Saving Private Ryan                 ... pos = 0.625 	neg = 0.5  
+2. It yawns occasionall                 ... pos = 0.0   	neg = 0.0  
+3. It doesn't like to b                 ... pos = 1.125 	neg = 0.375
+4. It's not the least b                 ... pos = 0.25  	neg = 0.375
+5. "The Avengers," on t                 ... pos = 0.0   	neg = 0.375
+6. It nips playfully at                 ... pos = 0.125 	neg = 0.0  
+7. It desperately wants                 ... pos = 0.75  	neg = 0.125
+8. It begs you to play                  ... pos = 0.125 	neg = 0.875
+9. Never before has a m                 ... pos = 0.75  	neg = 1.0  
+10. During a summer domi                ... pos = 2.0   	neg = 1.375
+11. Ralph Fiennes stars                 ... pos = 0.0   	neg = 0.0  
+12. He's a mild- mannere                ... pos = 0.625 	neg = 0.25 
+13. He does a fine job o                ... pos = 0.0   	neg = 1.125
+14. Uma Thurman is Dr. E                ... pos = 2.375 	neg = 0.25 
+15. She's sexy, tough, a                ... pos = 0.125 	neg = 0.0  
+16. The Ministry orders                 ... pos = 0.375 	neg = 0.625
+17. Sean Connery is Sir                 ... pos = 0.0   	neg = 0.875
+18. He's just as brillia                ... pos = 1.125 	neg = 0.25 
+19. He will not rest unt                ... pos = 0.125 	neg = 0.25 
+20. Thus do we have our                 ... pos = 0.0   	neg = 0.0  
+21. What else can be sai                ... pos = 0     	neg = 0.125
+22. The film, like the t                ... pos = 0.375 	neg = 0.125
+23. (One of the action s                ... pos = 0.0   	neg = 0.0  
+24. )  The dialogue alte                ... pos = 1.5   	neg = 1.0  
+25. An actual scene from                ... pos = 0.375 	neg = 0.0  
+26. "  If you groaned an                ... pos = 0.0   	neg = 0.875
+27. If you thought it wa                ... pos = 1.375 	neg = 0.125
+28. But if you groaned a                ... pos = 0.75  	neg = 1.0  
+29. Why?                                ... pos = 0     	neg = 0.0  
+30. After all the negati                ... pos = 0.0   	neg = 0.0  
+31. Simple: it's a lot o                ... pos = 0.125 	neg = 0    
+32. Fiennes, Thurman and                ... pos = 1.625 	neg = 0.125
+33. Connery imparticular                ... pos = 0.75  	neg = 0.5  
+34. He's the most memora                ... pos = 1.0   	neg = 0.0  
+35. There are some nice                 ... pos = 0.375 	neg = 0.625
+36. I found this to be q                ... pos = 0.125 	neg = 0.5  
+37. Some other shots are                ... pos = 0.5   	neg = 0.0  
+38. Sure, there are some                ... pos = 1.25  	neg = 1.25 
+39. "  In addition, the                 ... pos = 0.75  	neg = 0.75 
+40. But none of that mat                ... pos = 0.0   	neg = 0.25 
+41. Director Jeremiah Ch                ... pos = 0.5   	neg = 0.0  
+42. The hairstyles, clot                ... pos = 0.25  	neg = 0.0  
+43. These items were so                 ... pos = 0.75  	neg = 0.25 
+44. The interplay betwee                ... pos = 0.875 	neg = 0.125
+45. The sexual tension b                ... pos = 0.875 	neg = 0.25 
+46. (Steed at one point                 ... pos = 0.5   	neg = 0.0  
+47. She reluctantly make                ... pos = 0.25  	neg = 0    
+48. You may call me *Mrs                ... pos = 0.0   	neg = 0.0  
+49. ")         I've no d                ... pos = 0.375 	neg = 1.125
+50. But when a film is t                ... pos = 0.375 	neg = 0.5  
+51. The lynch mob starts                ... pos = 0.0   	neg = 0.125
+52. Tea, anyone?                        ... pos = 0.0   	neg = 0    
+53. This review was writ                ... pos = 0.0   	neg = 0.125
+54. Copyright (c) 1998 b                ... pos = 0.0   	neg = 0.0  
+55. This review may be f                ... pos = 0.625 	neg = 0.5  
+56. It may not be reprod                ... pos = 0.375 	neg = 0.125
+57. If you have comments                ... pos = 0.0   	neg = 0.0  
+58. -----   "Average Joe                ... pos = 0.0   	neg = 0.0  
+59. }        . .                        ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-861-216 is Positive          ... pos = 27.375 	neg = 19.375
+Overall score of document
+Total Pos = 27.375
+Total Neg = 19.375
+---------------------------------------------------------------------------

@@ -1,0 +1,61 @@
+0. Many things have bee                 ... pos = 0.75  	neg = 0.25 
+1. This movie  has crea                 ... pos = 0.125 	neg = 0.0  
+2. It has been cursed b                 ... pos = 0.125 	neg = 0.5  
+3. It truly is provocat                 ... pos = 1.25  	neg = 0.125
+4. This is one of the k                 ... pos = 0.5   	neg = 0.25 
+5. It is witty, accurat                 ... pos = 1.375 	neg = 0.125
+6. Starting with an apo                 ... pos = 1.625 	neg = 0.75 
+7. Loki (Matt Damon) is                 ... pos = 0.0   	neg = 0.75 
+8. Bartleby (Ben Afflec                 ... pos = 0.5   	neg = 0.875
+9. Cardinal Glick (Geor                 ... pos = 0.5   	neg = 0.25 
+10. In an attempt to get                ... pos = 0.125 	neg = 0.125
+11. This creates a looph                ... pos = 0.375 	neg = 0.0  
+12. The problem is, if t                ... pos = 0.25  	neg = 0.625
+13. With God having been                ... pos = 1.5   	neg = 0.375
+14. Of course there are                 ... pos = 0.25  	neg = 1.125
+15. "Dogma" is never bec                ... pos = 0.0   	neg = 0.125
+16. It is savagely funny                ... pos = 0.375 	neg = 0.25 
+17. Look what he accompl                ... pos = 0.0   	neg = 0.375
+18. And no one's even as                ... pos = 0.0   	neg = 0.0  
+19. All you have to do i                ... pos = 0.5   	neg = 0.125
+20. But funny.                          ... pos = 0     	neg = 0.0  
+21. He's got a great sen                ... pos = 0.0   	neg = 0.0  
+22. Or when the Muse is                 ... pos = 0.125 	neg = 0.125
+23. Me -- a muse, for Go                ... pos = 0.0   	neg = 0.0  
+24. I sit down in front                 ... pos = 0.0   	neg = 0.375
+25. Nothing.                            ... pos = 0     	neg = 0.25 
+26. Blank page.                         ... pos = 0     	neg = 0.0  
+27. I can't even write a                ... pos = 0.0   	neg = 0.0  
+28. Bethany: What about                 ... pos = 0.125 	neg = 0.0  
+29. You inspired them.                  ... pos = 0.125 	neg = 0    
+30. Serendipity: That's                 ... pos = 0.0   	neg = 0.25 
+31. I can give out a zil                ... pos = 0.0   	neg = 0.125
+32. Her [God's] quirky s                ... pos = 0.0   	neg = 0.0  
+33. Between the humor an                ... pos = 1.0   	neg = 0.125
+34. Smith is elegantly s                ... pos = 0.625 	neg = 0.125
+35. He plays with religi                ... pos = 0.5   	neg = 0.125
+36. Sometimes it feels l                ... pos = 0.375 	neg = 0.25 
+37. There is no pompous                 ... pos = 0.25  	neg = 0.25 
+38. And although that's                 ... pos = 0.625 	neg = 0.25 
+39. There is a lot of sy                ... pos = 0.25  	neg = 0.375
+40. The purpose of this                 ... pos = 0.75  	neg = 0.5  
+41. When it comes to the                ... pos = 0.0   	neg = 0.125
+42. A solid cinematograp                ... pos = 0.375 	neg = 0.0  
+43. The two friends, Dam                ... pos = 1.25  	neg = 0.0  
+44. Alan Rickman and Chr                ... pos = 1.25  	neg = 0.0  
+45. So, basically this s                ... pos = 0.0   	neg = 0.125
+46. But it's not just it                ... pos = 1.0   	neg = 0.0  
+47. There are some silly                ... pos = 0.25  	neg = 1.125
+48. But, forgetting thes                ... pos = 1.125 	neg = 0.125
+49. Some serious questio                ... pos = 0.625 	neg = 0.0  
+50. By virtue of their d                ... pos = 0.875 	neg = 0.5  
+51. But what those objec                ... pos = 1.25  	neg = 0.125
+52. It is a hilarious, i                ... pos = 1.25  	neg = 0.875
+53. The angry reactions                 ... pos = 0.5   	neg = 0.125
+54. And remember my word                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-657 is Positive          ... pos = 24.875 	neg = 13.25
+Overall score of document
+Total Pos = 24.875
+Total Neg = 13.25
+---------------------------------------------------------------------------

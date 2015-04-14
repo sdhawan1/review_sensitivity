@@ -1,0 +1,36 @@
+0. I have little agains                 ... pos = 0.125 	neg = 0.25 
+1. If there's a will, t                 ... pos = 1.0   	neg = 0.875
+2. This is the reason t                 ... pos = 0.5   	neg = 0.25 
+3. But I do have a big                  ... pos = 0.25  	neg = 1.125
+4. You see, the point o                 ... pos = 0.375 	neg = 0.25 
+5. But what if the sour                 ... pos = 0.75  	neg = 0.125
+6. That is the only cin                 ... pos = 0.0   	neg = 0.5  
+7. I've only seen a cou                 ... pos = 0.5   	neg = 0.25 
+8. It has a concept tha                 ... pos = 1.0   	neg = 0.75 
+9. Obviously, all 3 opt                 ... pos = 0.0   	neg = 0.25 
+10. The three main chara                ... pos = 1.125 	neg = 0.0  
+11. Of the three, only D                ... pos = 0.875 	neg = 0.0  
+12. Ribisi's dumbass 20                 ... pos = 0.625 	neg = 0.625
+13. When the squad's sup                ... pos = 2.125 	neg = 2.875
+14. All kinds of good st                ... pos = 0.75  	neg = 0    
+15. The only times that                 ... pos = 0.5   	neg = 0.125
+16. Although Ribisi is a                ... pos = 1.875 	neg = 0.625
+17. Epps' straight man i                ... pos = 0.375 	neg = 1.0  
+18. But the rest of the                 ... pos = 0.0   	neg = 0.625
+19. A drug-op action plo                ... pos = 0.625 	neg = 1.25 
+20. Claire Danes' charac                ... pos = 0.875 	neg = 0.75 
+21. She could have been                 ... pos = 0.0   	neg = 0.125
+22. Epps and Ribisi fare                ... pos = 1.5   	neg = 0.5  
+23. The Mod Squad is a m                ... pos = 0.125 	neg = 0.125
+24. It's full of bad dia                ... pos = 0.0   	neg = 1.125
+25. Nothing is remotely                 ... pos = 0.25  	neg = 0.375
+26. Claire Danes is no l                ... pos = 0.0   	neg = 1.125
+27. There are, however,                 ... pos = 0.875 	neg = 0.125
+28. Do not be fooled.                   ... pos = 0.0   	neg = 0.125
+29. Some may call this e                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5846-563 is Positive         ... pos = 17.0  	neg = 16.125
+Overall score of document
+Total Pos = 17.0
+Total Neg = 16.125
+---------------------------------------------------------------------------

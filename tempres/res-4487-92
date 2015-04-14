@@ -1,0 +1,30 @@
+0. Seen on 5 July 1996                  ... pos = 0.0   	neg = 0.0  
+1. Also seen repeatedly                 ... pos = 0.0   	neg = 0.0  
+2. After months of watc                 ... pos = 0.0   	neg = 0.375
+3. Gigantic space ships                 ... pos = 0.375 	neg = 0.0  
+4. While watching one p                 ... pos = 0.375 	neg = 0.625
+5. " . Like movies befo                 ... pos = 0.5   	neg = 0.375
+6. Did you go to Toweri                 ... pos = 0.0   	neg = 0.375
+7. Did you sit through                  ... pos = 0.0   	neg = 0.0  
+8. I didn't think so.                   ... pos = 0     	neg = 0.0  
+9. Consequently, you di                 ... pos = 0.0   	neg = 0.125
+10. I was hoping for the                ... pos = 0.0   	neg = 0.375
+11. It is clear now why                 ... pos = 0.0   	neg = 0.25 
+12. The entire story is                 ... pos = 0.0   	neg = 0.375
+13. The biggest let down                ... pos = 0.0   	neg = 0.25 
+14. It is also disappoin                ... pos = 0.25  	neg = 0.375
+15. Their entire dialogu                ... pos = 0.25  	neg = 0.875
+16. Like I said, the bui                ... pos = 0.875 	neg = 0.125
+17. The best scenes afte                ... pos = 0.625 	neg = 0.0  
+18. But it all ends in m                ... pos = 0.0   	neg = 0.5  
+19. Oy gevalt.                          ... pos = 0     	neg = 0    
+20. The cast is good but                ... pos = 0.875 	neg = 0.125
+21. The comic talents of                ... pos = 0.375 	neg = 0.75 
+22. In anachronistic ret                ... pos = 0.25  	neg = 0.0  
+23. Copyright (c) 1997,                 ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4487-92 is Negative          ... pos = 5.75  	neg = 5.875
+Overall score of document
+Total Pos = 5.75
+Total Neg = 5.875
+---------------------------------------------------------------------------

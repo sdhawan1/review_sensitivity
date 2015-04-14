@@ -1,0 +1,25 @@
+0. Review:  The Man in                  ... pos = 1.0   	neg = 0.875
+1. Theres just one prob                 ... pos = 0.0   	neg = 0.25 
+2. Or at least, it does                 ... pos = 0.0   	neg = 0.125
+3. You cant say that ne                 ... pos = 0.5   	neg = 0.0  
+4. The international ca                 ... pos = 0.875 	neg = 0.375
+5. Surely, the films gr                 ... pos = 1.125 	neg = 1.25 
+6. King Louis (Leonardo                 ... pos = 0.5   	neg = 0.125
+7. He gives rotten food                 ... pos = 0.125 	neg = 0.875
+8. Three of the four ma                 ... pos = 0.875 	neg = 1.25 
+9. Their plan: to dig u                 ... pos = 0.0   	neg = 0.5  
+10. The only remaining l                ... pos = 0.125 	neg = 0.0  
+11. Amused yet?                         ... pos = 1.125 	neg = 0    
+12. It gets worse.                      ... pos = 0.0   	neg = 0.625
+13. Without giving too m                ... pos = 1.875 	neg = 1.0  
+14. The Man in the Iron                 ... pos = 1.5   	neg = 0.375
+15. But really, what we                 ... pos = 0.0   	neg = 0.75 
+16. And, of course, the                 ... pos = 0.375 	neg = 0.0  
+17. On the up side, some                ... pos = 1.0   	neg = 0.0  
+18. And, may the truth b                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5987-1111 is Positive        ... pos = 11.625 	neg = 8.5  
+Overall score of document
+Total Pos = 11.625
+Total Neg = 8.5
+---------------------------------------------------------------------------

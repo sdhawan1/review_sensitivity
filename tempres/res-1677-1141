@@ -1,0 +1,23 @@
+0. Commentary about The                 ... pos = 0.125 	neg = 0.0  
+1. Egoyan's career traj                 ... pos = 0.625 	neg = 0.125
+2. This makes questions                 ... pos = 0.875 	neg = 0.0  
+3. The general consensu                 ... pos = 1.0   	neg = 0.625
+4. I disagree.                          ... pos = 0.125 	neg = 0.0  
+5. Interestingly, the s                 ... pos = 0.0   	neg = 0.125
+6. Next of Kin in parti                 ... pos = 0.125 	neg = 0.0  
+7. The simpler associat                 ... pos = 1.0   	neg = 0.0  
+8. At the same time the                 ... pos = 1.5   	neg = 0.125
+9. This has come about,                 ... pos = 0.375 	neg = 0.0  
+10. On this basis, the f                ... pos = 0.375 	neg = 0.0  
+11. If one accepts that                 ... pos = 1.625 	neg = 0.75 
+12. Thematically, the fi                ... pos = 0.625 	neg = 0    
+13. Specifically, in the                ... pos = 0.5   	neg = 0    
+14. Egoyan's critique is                ... pos = 0.625 	neg = 0.125
+15. It would have been v                ... pos = 0.875 	neg = 0.375
+16. Impatiently awaiting                ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1677-1141 is Positive        ... pos = 10.625 	neg = 2.25 
+Overall score of document
+Total Pos = 10.625
+Total Neg = 2.25
+---------------------------------------------------------------------------

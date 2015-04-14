@@ -1,0 +1,48 @@
+0. Directed by: Stephen                 ... pos = 0.0   	neg = 0.0  
+1. DeVincentis. Thinkin                 ... pos = 0.0   	neg = 1.5  
+2. Rob Gordon, wonderfu                 ... pos = 0.0   	neg = 0.5  
+3. Rob ranks his favori                 ... pos = 0.0   	neg = 0.0  
+4. Rob then proceeds to                 ... pos = 0.0   	neg = 0.0  
+5. I've always felt tha                 ... pos = 0.0   	neg = 0.25 
+6. I was pleased to fin                 ... pos = 0.625 	neg = 0.25 
+7. Rob Gordon runs a re                 ... pos = 0.75  	neg = 0.625
+8. Rob has just been du                 ... pos = 0.5   	neg = 0.125
+9. He now spends his ti                 ... pos = 0.0   	neg = 2.125
+10. The thing really dri                ... pos = 0.25  	neg = 0.125
+11. His sister, Liz (Joa                ... pos = 0.125 	neg = 0.375
+12. Rob decides to revis                ... pos = 0.125 	neg = 1.125
+13. There's something ab                ... pos = 0.625 	neg = 0.125
+14. It may be Cusack's p                ... pos = 0.0   	neg = 0.75 
+15. However, I'm sure it                ... pos = 2.0   	neg = 0.0  
+16. Certainly one of the                ... pos = 1.875 	neg = 0.125
+17. Stephen Frears ("Mar                ... pos = 0.5   	neg = 0.125
+18. Speaking of music, J                ... pos = 0.125 	neg = 0.875
+19. If you're going into                ... pos = 0.0   	neg = 0.75 
+20. While there are one                 ... pos = 1.125 	neg = 0.125
+21. The characters are a                ... pos = 2.0   	neg = 0.5  
+22. I'm not sure why Bla                ... pos = 0.25  	neg = 0.125
+23. As for the rest of t                ... pos = 0.375 	neg = 0.75 
+24. Catherine Zeta-Jones                ... pos = 0.0   	neg = 0.5  
+25. "High Fidelity" is c                ... pos = 0.375 	neg = 0.125
+26. The romantic element                ... pos = 1.125 	neg = 0.0  
+27. The movie also runs                 ... pos = 0.25  	neg = 0.875
+28. If you're a fan of J                ... pos = 0.25  	neg = 0.0  
+29. If you're one of tho                ... pos = 0.25  	neg = 0.5  
+30. I'm not sure if the                 ... pos = 0.5   	neg = 0.25 
+31. One last thing I wan                ... pos = 0.375 	neg = 0.25 
+32. I'd recommend "High                 ... pos = 0.0   	neg = 0.0  
+33. Comments?                           ... pos = 0     	neg = 0.0  
+34. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+35. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+36. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+37. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+38. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+39. See it if you have n                ... pos = 0.0   	neg = 0.25 
+40. * - One of the worst                ... pos = 0.0   	neg = 0.375
+41. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2963-535 is Negative         ... pos = 15.75 	neg = 15.75
+Overall score of document
+Total Pos = 15.75
+Total Neg = 15.75
+---------------------------------------------------------------------------

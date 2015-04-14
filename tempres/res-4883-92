@@ -1,0 +1,35 @@
+0. Well, what everyone                  ... pos = 0.5   	neg = 0.125
+1. The villains are mor                 ... pos = 0.25  	neg = 0.625
+2. Even the sets and th                 ... pos = 0.25  	neg = 0.0  
+3. But, there is no sto                 ... pos = 0     	neg = 0.375
+4. Everything you need                  ... pos = 1.0   	neg = 0.75 
+5. Freeze and Poison Iv                 ... pos = 0     	neg = 0.375
+6. As in the other thre                 ... pos = 0.375 	neg = 0.625
+7. Mr.                                  ... pos = 0     	neg = 0.0  
+8. Freeze (Arnold Schwa                 ... pos = 0.0   	neg = 1.5  
+9. Meanwhile, he is ste                 ... pos = 0.0   	neg = 0.125
+10. Across town, dowdy D                ... pos = 0.625 	neg = 0.625
+11. Both Thurman and Sch                ... pos = 0.625 	neg = 0.0  
+12. The characters are w                ... pos = 1.25  	neg = 1.125
+13. Meanwhile, at statel                ... pos = 0.5   	neg = 0.75 
+14. Bruce Wayne/Batman (                ... pos = 0.0   	neg = 0.875
+15. Faithful Butler Alfr                ... pos = 0.375 	neg = 0.125
+16. All of this is basic                ... pos = 0.0   	neg = 0.125
+17. Nothing.                            ... pos = 0     	neg = 0.25 
+18. George Clooney is th                ... pos = 0.25  	neg = 0.375
+19. Less brooding, but j                ... pos = 0.125 	neg = 0.875
+20. The movies are quick                ... pos = 0.25  	neg = 0.25 
+21. (Viveca Fox plays "M                ... pos = 0.0   	neg = 0.0  
+22. Haven"--har har.                    ... pos = 0     	neg = 0    
+23. ) Again, the sets ar                ... pos = 1.875 	neg = 0.25 
+24. But, after spending                 ... pos = 0.0   	neg = 0.125
+25. This latest installm                ... pos = 0.0   	neg = 1.25 
+26. Robin's teen tantrum                ... pos = 0.0   	neg = 0.625
+27. Perhaps in the next                 ... pos = 0.375 	neg = 0.125
+28. Copyright © 1997 Se                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4883-92 is Negative          ... pos = 9.0   	neg = 12.25
+Overall score of document
+Total Pos = 9.0
+Total Neg = 12.25
+---------------------------------------------------------------------------

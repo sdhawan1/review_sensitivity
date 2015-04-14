@@ -1,0 +1,23 @@
+0. In Being John Malkov                 ... pos = 1.125 	neg = 0.125
+1. We start to realise                  ... pos = 0.75  	neg = 0.0  
+2. Now that's pretty we                 ... pos = 0.0   	neg = 0.125
+3. He has an equally pe                 ... pos = 0.625 	neg = 0.0  
+4. That's also pretty w                 ... pos = 0.0   	neg = 0.125
+5. But the Alice in Won                 ... pos = 0.125 	neg = 0.0  
+6. Now that's really we                 ... pos = 0.0   	neg = 0.0  
+7. Being in need of cas                 ... pos = 0.625 	neg = 0.125
+8. Craig is keen to poi                 ... pos = 0.375 	neg = 0.75 
+9. When a truly bizarre                 ... pos = 2.25  	neg = 0.625
+10. In a wonderfully sel                ... pos = 1.125 	neg = 0.625
+11. The other performanc                ... pos = 0.125 	neg = 0.125
+12. Director Spike Jonze                ... pos = 0.5   	neg = 0.875
+13. Like the travellers                 ... pos = 0.875 	neg = 0.0  
+14. It all could so easi                ... pos = 0.625 	neg = 1.5  
+15. If David Cronenberg                 ... pos = 2.375 	neg = 0.0  
+16. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-312 is Positive          ... pos = 12.5  	neg = 5.0  
+Overall score of document
+Total Pos = 12.5
+Total Neg = 5.0
+---------------------------------------------------------------------------

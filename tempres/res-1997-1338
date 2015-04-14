@@ -1,0 +1,19 @@
+0. How many times has a                 ... pos = 1.0   	neg = 0.0  
+1. Don't worry, I wont                  ... pos = 0.75  	neg = 0.375
+2. Picking to make a fi                 ... pos = 0.75  	neg = 0.375
+3. This is the kind of                  ... pos = 0.0   	neg = 0.5  
+4. This film is fun in                  ... pos = 0.125 	neg = 0.125
+5. We see graphic telli                 ... pos = 0.5   	neg = 0.625
+6. This film is like St                 ... pos = 1.125 	neg = 0.125
+7. The film is also dir                 ... pos = 0.75  	neg = 0.125
+8. His idea of a film i                 ... pos = 0.375 	neg = 0.875
+9. Starship Troopers wa                 ... pos = 0.0   	neg = 0.375
+10. That is not the fact                ... pos = 0.0   	neg = 0.125
+11. This is one of the y                ... pos = 0.5   	neg = 0.5  
+12. Adults: Just don't s                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1997-1338 is Positive        ... pos = 5.875 	neg = 4.5  
+Overall score of document
+Total Pos = 5.875
+Total Neg = 4.5
+---------------------------------------------------------------------------

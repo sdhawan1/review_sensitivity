@@ -1,0 +1,30 @@
+0. NOTTING HILL *** (ou                 ... pos = 0.125 	neg = 0.125
+1. The movie was desper                 ... pos = 0.75  	neg = 0.25 
+2. And it apparently wo                 ... pos = 0.0   	neg = 0.125
+3. Perhaps the presence                 ... pos = 0.375 	neg = 0.125
+4. Allow me to spread s                 ... pos = 1.0   	neg = 0.0  
+5. Grant stars as Willi                 ... pos = 0.375 	neg = 0.0  
+6. Into his shop one da                 ... pos = 0.375 	neg = 0.375
+7. A common thief, some                 ... pos = 0.75  	neg = 0.125
+8. ), kiss.                             ... pos = 0     	neg = 0.0  
+9. Days later, William                  ... pos = 1.75  	neg = 0.0  
+10. (Aside: Notting Hill                ... pos = 0.5   	neg = 0.625
+11. ) Only Anna's celebr                ... pos = 0.0   	neg = 0.125
+12. Richard Curtis has t                ... pos = 0.625 	neg = 0.125
+13. As with Groundhog Da                ... pos = 0.125 	neg = 0.0  
+14. Curtis (who previous                ... pos = 0.5   	neg = 0.25 
+15. By now, dear reader,                ... pos = 0.25  	neg = 0.0  
+16. Yes, he's a crowd pl                ... pos = 1.875 	neg = 1.0  
+17. In the movie's best                 ... pos = 0.75  	neg = 0.375
+18. The scene ends only                 ... pos = 0.0   	neg = 0.0  
+19. If anything, fantast                ... pos = 0.875 	neg = 0.125
+20. Roberts and Grant, e                ... pos = 1.25  	neg = 0.375
+21. (Worth noting in Rob                ... pos = 1.5   	neg = 0.125
+22. ) Notting Hill is no                ... pos = 0.75  	neg = 0.125
+23. If only (and this is                ... pos = 0.125 	neg = 1.75 
+---------------------------------------------------------------------------
+./temp/tmp-4594-1545 is Positive        ... pos = 14.625 	neg = 6.125
+Overall score of document
+Total Pos = 14.625
+Total Neg = 6.125
+---------------------------------------------------------------------------

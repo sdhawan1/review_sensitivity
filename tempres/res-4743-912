@@ -1,0 +1,44 @@
+0. Within the first ten                 ... pos = 1.25  	neg = 0.375
+1. He is offered the ch                 ... pos = 0.625 	neg = 0.125
+2. In an unrelated move                 ... pos = 0.75  	neg = 0.375
+3. As Chapel suits up t                 ... pos = 0.0   	neg = 0.125
+4. .                                    ... pos = 0     	neg = 0    
+5. .                                    ... pos = 0     	neg = 0    
+6. [think about it for                  ... pos = 0.0   	neg = 0.0  
+7. It's so damned obvio                 ... pos = 0.0   	neg = 0.0  
+8. ]. It doesn't matter                 ... pos = 0.0   	neg = 0    
+9. Neither does it matt                 ... pos = 0.125 	neg = 0.25 
+10. For Love of the Game                ... pos = 0.625 	neg = 0.25 
+11. For Love of the Game                ... pos = 1.75  	neg = 0.625
+12. Or maybe a way to ba                ... pos = 0.0   	neg = 0.0  
+13. As the Tigers take t                ... pos = 0.5   	neg = 0.0  
+14. His random meeting w                ... pos = 0.0   	neg = 0.0  
+15. Its ups and downs.                  ... pos = 0.125 	neg = 0    
+16. The player friends t                ... pos = 0.125 	neg = 0.0  
+17. The players who were                ... pos = 0.75  	neg = 0.0  
+18. A couple of personal                ... pos = 0.875 	neg = 0.0  
+19. When these lapses dr                ... pos = 0.25  	neg = 0.0  
+20. It's a character dri                ... pos = 1.875 	neg = 0.25 
+21. Jane and Gus and Cha                ... pos = 1.375 	neg = 0.0  
+22. Writer Dana Stevens                 ... pos = 0.5   	neg = 0.0  
+23. Even if you guess th                ... pos = 0.75  	neg = 0.125
+24. The audience I sat w                ... pos = 0.625 	neg = 0.0  
+25. It's a small story.                 ... pos = 0.0   	neg = 0    
+26. An adult popcorn mov                ... pos = 0.375 	neg = 0.125
+27. The sound mix is so                 ... pos = 0.0   	neg = 1.0  
+28. It was overkill for                 ... pos = 0.0   	neg = 0.625
+29. On average, a first                 ... pos = 0.25  	neg = 0.0  
+30. Were Cranky able to                 ... pos = 1.75  	neg = 0.875
+31. I walked in recallin                ... pos = 0.5   	neg = 0.0  
+32. The rest of the crow                ... pos = 0.0   	neg = 0.25 
+33. That's apples and or                ... pos = 0.0   	neg = 0.0  
+34. Even with that negat                ... pos = 0.125 	neg = 0.125
+35. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+36. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+37. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4743-912 is Positive         ... pos = 16.125 	neg = 5.625
+Overall score of document
+Total Pos = 16.125
+Total Neg = 5.625
+---------------------------------------------------------------------------

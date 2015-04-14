@@ -1,0 +1,49 @@
+0. In this often-advert                 ... pos = 0.0   	neg = 0.75 
+1. Evil, pretends to sn                 ... pos = 0     	neg = 1.0  
+2. "  Oddly enough, it'                 ... pos = 0.5   	neg = 0.0  
+3. Worse, all kinds of                  ... pos = 0.75  	neg = 0.625
+4. There's also no doub                 ... pos = 0.125 	neg = 0.25 
+5. A theater  full of k                 ... pos = 0.0   	neg = 0.25 
+6. Clearly, what we dem                 ... pos = 0.625 	neg = 0.375
+7. I have to hand it to                 ... pos = 0.0   	neg = 0.0  
+8. Meyers' alter-ego "F                 ... pos = 0.0   	neg = 0.625
+9. And the part that ma                 ... pos = 0.0   	neg = 0.75 
+10. The premise:  not mu                ... pos = 0.125 	neg = 0    
+11. Austin Powers (Meyer                ... pos = 0.0   	neg = 0.125
+12. Evil is out to thwar                ... pos = 0.125 	neg = 0.875
+13. Evil has a tiny clon                ... pos = 0.0   	neg = 0.875
+14. A minor  drawback to                ... pos = 1.375 	neg = 0.125
+15. Rob Lowe, however, d                ... pos = 0.125 	neg = 0    
+16. You guessed it:  Pow                ... pos = 0.0   	neg = 0.625
+17. There he runs into F                ... pos = 0.5   	neg = 0.0  
+18. The trouble is, even                ... pos = 0.625 	neg = 1.25 
+19. What complicates the                ... pos = 0.125 	neg = 0.25 
+20. Beat Dr.                            ... pos = 0     	neg = 0.0  
+21. Evil?                               ... pos = 0     	neg = 0.75 
+22. Most importantly, wi                ... pos = 0.125 	neg = 0.0  
+23. As the title charact                ... pos = 0.875 	neg = 0.25 
+24. He has a knack of ma                ... pos = 0.0   	neg = 0.25 
+25. The way he holds his                ... pos = 0.625 	neg = 0    
+26. Evil gets him triple                ... pos = 0     	neg = 0.875
+27. Something I found an                ... pos = 0.819 	neg = 1.25 
+28. Heather Graham perfo                ... pos = 0.5   	neg = 0.0  
+29. Part of the mediocri                ... pos = 0.0   	neg = 0.625
+30. (A  pointless motif                 ... pos = 0.0   	neg = 0.5  
+31. ). Early on we see a                ... pos = 0.0   	neg = 0.0  
+32. One of the film's  f                ... pos = 0.0   	neg = 0.75 
+33. It helps that Scott                 ... pos = 0.0   	neg = 0.125
+34. What makes "Austin P                ... pos = 0.375 	neg = 0.0  
+35. It's that we are abl                ... pos = 0.5   	neg = 0.25 
+36. Sure, movies always                 ... pos = 0.5   	neg = 0.0  
+37. And when the film tr                ... pos = 0.875 	neg = 0.5  
+38. The bottom line is a                ... pos = 0.25  	neg = 0.125
+39. If I believe that a                 ... pos = 0.125 	neg = 0.125
+40. But I can't.                        ... pos = 0     	neg = 0.0  
+41. Not that it matters,                ... pos = 0.0   	neg = 0.0  
+42. ". . .                              ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1376-71 is Negative          ... pos = 10.569 	neg = 15.125
+Overall score of document
+Total Pos = 10.569
+Total Neg = 15.125
+---------------------------------------------------------------------------

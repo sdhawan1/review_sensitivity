@@ -1,0 +1,62 @@
+0. Here is a film that                  ... pos = 0.625 	neg = 0.875
+1. Director/writer  Jam                 ... pos = 0.75  	neg = 0.0  
+2. He could have and sh                 ... pos = 0.25  	neg = 0.0  
+3. Despite this lapse,                  ... pos = 0.0   	neg = 0.375
+4. Sylvester Stallone i                 ... pos = 0.25  	neg = 0.125
+5. After all, he wrote                  ... pos = 1.25  	neg = 0.125
+6. It was also the last                 ... pos = 0.625 	neg = 0.125
+7. Maybe urban  dramas                  ... pos = 1.0   	neg = 0.0  
+8. After failing to imp                 ... pos = 0.625 	neg = 0.125
+9. As the lonesome lose                 ... pos = 0.0   	neg = 1.125
+10. He is the  sheriff o                ... pos = 0.75  	neg = 0.125
+11. He keeps a peaceful                 ... pos = 0.25  	neg = 0.25 
+12. He watches the citys                ... pos = 0.0   	neg = 0.0  
+13. However, he wasn't a                ... pos = 0.75  	neg = 0    
+14. He lost his hearing                 ... pos = 0.625 	neg = 1.375
+15. This kept him from b                ... pos = 1.5   	neg = 0.5  
+16. Ray Liotta could hav                ... pos = 0.25  	neg = 1.375
+17. I can  finally say,                 ... pos = 0.0   	neg = 0.0  
+18. In fact, he puts in                 ... pos = 0.125 	neg = 0    
+19. As an ambiguously mo                ... pos = 0.375 	neg = 0.25 
+20. He has some question                ... pos = 0.0   	neg = 0.0  
+21. But, on the  good si                ... pos = 0.75  	neg = 0.0  
+22. Perhaps to show HIS                 ... pos = 0.25  	neg = 0.0  
+23. In one chase scene,                 ... pos = 0.75  	neg = 0.0  
+24. With his usual  inte                ... pos = 0.375 	neg = 0.125
+25. He's the one to watc                ... pos = 0.125 	neg = 0    
+26. Harvey Keitel is the                ... pos = 0.0   	neg = 1.25 
+27. Robert De Niro is th                ... pos = 1.25  	neg = 0.375
+28. Michael Rapaport is                 ... pos = 0     	neg = 0.375
+29. Noah  Emmerich and J                ... pos = 0.25  	neg = 0    
+30. All  are terrific.                  ... pos = 0.5   	neg = 0    
+31. Keitel is unforgivin                ... pos = 0.0   	neg = 0.125
+32. He is the one who cr                ... pos = 0.875 	neg = 0.125
+33. His nephew,  Michael                ... pos = 0.0   	neg = 0.625
+34. He had saved six  bl                ... pos = 0.25  	neg = 0.0  
+35. His uncle, Keitel's                 ... pos = 0.0   	neg = 0.0  
+36. A  bogus funeral is                 ... pos = 0.25  	neg = 1.0  
+37. Everyone around know                ... pos = 0.0   	neg = 0.125
+38. Yes, even De Niro ha                ... pos = 0.375 	neg = 0.25 
+39. This meets  with the                ... pos = 0.125 	neg = 0.875
+40. The deal is, Freddy                 ... pos = 0.0   	neg = 0.5  
+41. Garofalo and Emmeric                ... pos = 0.5   	neg = 0.875
+42. Its Freddy's turn to                ... pos = 0.0   	neg = 0    
+43. The question is, wil                ... pos = 0.125 	neg = 0.125
+44. Stallone and De Niro                ... pos = 1.125 	neg = 0.0  
+45. And we are finally s                ... pos = 0.625 	neg = 0.0  
+46. De Niro has returned                ... pos = 0.0   	neg = 1.0  
+47. Keitel and Liotta ho                ... pos = 0.875 	neg = 0    
+48. The only lagging par                ... pos = 0.0   	neg = 0.0  
+49. This was a great scr                ... pos = 0.25  	neg = 0.25 
+50. We hardly got to kno                ... pos = 0.25  	neg = 0.125
+51. Watch for the deafen                ... pos = 0.125 	neg = 0.0  
+52. It is the second gre                ... pos = 0.0   	neg = 0.125
+53. Still, when the  onl                ... pos = 0.0   	neg = 0.5  
+54. Come Oscar time, I a                ... pos = 0.625 	neg = 0.625
+55. Its not one of the i                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2603-593 is Positive         ... pos = 20.625 	neg = 16.125
+Overall score of document
+Total Pos = 20.625
+Total Neg = 16.125
+---------------------------------------------------------------------------

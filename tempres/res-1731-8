@@ -1,0 +1,58 @@
+0. http://hometown.aol.                 ... pos = 0.375 	neg = 0.125
+1. The "mob" genre was                  ... pos = 0.0   	neg = 0.125
+2. Virtually every genr                 ... pos = 0.5   	neg = 0.25 
+3. Don't worry, the Mys                 ... pos = 0.5   	neg = 0.0  
+4. Mystery Men, the dir                 ... pos = 0.5   	neg = 0.0  
+5. The premise is great                 ... pos = 0.375 	neg = 1.375
+6. Welcome to Champion                  ... pos = 0.25  	neg = 0.75 
+7. Lance Harbor wears g                 ... pos = 0.0   	neg = 0.0  
+8. I wonder who Captain                 ... pos = 0.0   	neg = 0.125
+9. This clever gag come                 ... pos = 0.625 	neg = 1.25 
+10. Meanwhile, at the ci                ... pos = 0.25  	neg = 0.375
+11. " (He tried to destr                ... pos = 0.0   	neg = 0.5  
+12. )  Frankenstein take                ... pos = 0.0   	neg = 0.0  
+13. Hearing of Captain A                ... pos = 0.0   	neg = 0.25 
+14. Furious (Ben Stiller                ... pos = 0.75  	neg = 0.25 
+15. The Bowler (Janeane                 ... pos = 0.25  	neg = 0.625
+16. With the "ticking ti                ... pos = 0.0   	neg = 0.0  
+17. Furious, the shoveli                ... pos = 1.5   	neg = 1.25 
+18. Doing so will requir                ... pos = 0.375 	neg = 0.875
+19. The film starts off                 ... pos = 1.625 	neg = 0.875
+20. From here, Mystery M                ... pos = 0.75  	neg = 0.125
+21. Mystery Men, one of                 ... pos = 3.875 	neg = 0.75 
+22. Most laughs come fro                ... pos = 0.625 	neg = 1.375
+23. Janeane Garofalo, on                ... pos = 1.375 	neg = 0.125
+24. I can always count o                ... pos = 1.0   	neg = 0.125
+25. Garofalo, who also u                ... pos = 1.125 	neg = 0.0  
+26. William H. Macy, who                ... pos = 0.75  	neg = 0.625
+27. I shovel well," ever                ... pos = 0.0   	neg = 0.0  
+28. Geoffrey Rush, one o                ... pos = 1.125 	neg = 0.125
+29. Rush isn't given eno                ... pos = 0.0   	neg = 1.153
+30. The talented Ben Sti                ... pos = 0.25  	neg = 1.0  
+31. Stiller's character                 ... pos = 1.0   	neg = 0.375
+32. Mr.                                 ... pos = 0     	neg = 0.0  
+33. Furious takes himsel                ... pos = 0.875 	neg = 0.875
+34. I mean what is he go                ... pos = 0.0   	neg = 0.125
+35. Yell at you?                        ... pos = 0     	neg = 0.0  
+36. Mr.                                 ... pos = 0     	neg = 0.0  
+37. Furious isn't the le                ... pos = 1.375 	neg = 1.125
+38. Kel Mitchell, a Nick                ... pos = 0.125 	neg = 0.5  
+39. Seeing him perform o                ... pos = 1.0   	neg = 0.75 
+40. Last but not least i                ... pos = 0.125 	neg = 0.75 
+41. The relationship bet                ... pos = 1.875 	neg = 0.125
+42. At one point, Blue R                ... pos = 0.0   	neg = 0.0  
+43. Mystery Men doesn't                 ... pos = 1.625 	neg = 0.0  
+44. Luckily, the film is                ... pos = 1.125 	neg = 0.125
+45. The outstanding visu                ... pos = 2.625 	neg = 0.125
+46. Mystery Men had pote                ... pos = 0.75  	neg = 0.125
+47. Kinka Usher's direct                ... pos = 0.125 	neg = 0.125
+48. The cast is what pow                ... pos = 0.375 	neg = 0.125
+49. Hopefully, Mystery M                ... pos = 0.625 	neg = 0.125
+50. Heck- It would be a                 ... pos = 0.0   	neg = 0.125
+51. The Bottom Line- It                 ... pos = 1.125 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-1731-8 is Positive           ... pos = 33.5  	neg = 20.653
+Overall score of document
+Total Pos = 33.5
+Total Neg = 20.653
+---------------------------------------------------------------------------

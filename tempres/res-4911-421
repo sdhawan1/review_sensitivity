@@ -1,0 +1,22 @@
+0. starring Drew Barrym                 ... pos = 0.0   	neg = 0.0  
+1. to THE WEDDING SINGE                 ... pos = 0.125 	neg = 0.125
+2. That is probably the                 ... pos = 0.0   	neg = 0.375
+3. Barrymore turns in a                 ... pos = 1.375 	neg = 0.0  
+4. It's too bad that Ab                 ... pos = 0.5   	neg = 1.625
+5. She must go back to                  ... pos = 0.375 	neg = 0.25 
+6. But her brother, Rob                 ... pos = 0.0   	neg = 1.0  
+7. She wore huge braces                 ... pos = 0.0   	neg = 0.625
+8. "  But she still dec                 ... pos = 0.0   	neg = 0.0  
+9. But instead of hangi                 ... pos = 0.0   	neg = 0.625
+10. When her boss(John C                ... pos = 0.25  	neg = 0.0  
+11. NEVER BEEN KISSED ha                ... pos = 1.0   	neg = 1.25 
+12. As I wrote earlier,                 ... pos = 0.125 	neg = 0.5  
+13. But even a charming                 ... pos = 0.5   	neg = 0.25 
+14. But if you end up se                ... pos = 0.0   	neg = 0.125
+15. a review by Akiva Go                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4911-421 is Negative         ... pos = 4.375 	neg = 6.875
+Overall score of document
+Total Pos = 4.375
+Total Neg = 6.875
+---------------------------------------------------------------------------

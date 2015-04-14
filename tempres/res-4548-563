@@ -1,0 +1,47 @@
+0. Starring Kevin Bacon                 ... pos = 0.125 	neg = 0.0  
+1. Rated R.. And so the                 ... pos = 0.5   	neg = 0.125
+2. The audience is hung                 ... pos = 0.125 	neg = 0.25 
+3. David Koepp, screenw                 ... pos = 1.375 	neg = 1.25 
+4. There have already b                 ... pos = 1.125 	neg = 1.0  
+5. Kevin Bacon's "cente                 ... pos = 1.0   	neg = 0.375
+6. This is probably a s                 ... pos = 0.25  	neg = 0.375
+7. Bacon plays Tom Witz                 ... pos = 0.75  	neg = 0.0  
+8. He notices that his                  ... pos = 1.375 	neg = 0.75 
+9. Now, Tom is introduc                 ... pos = 0.375 	neg = 0.125
+10. Not surprisingly it                 ... pos = 0.125 	neg = 0    
+11. Another wonderful sc                ... pos = 0.75  	neg = 0.25 
+12. He starts seeing vis                ... pos = 0.0   	neg = 0    
+13. Scary visions.                      ... pos = 0.0   	neg = 0.75 
+14. Violent visions.                    ... pos = 0.25  	neg = 0    
+15. They pop up at the o                ... pos = 1.0   	neg = 0.0  
+16. Then they disappear.                ... pos = 0.0   	neg = 0.0  
+17. At first Tom is scar                ... pos = 0.5   	neg = 0.5  
+18. Who is his son talki                ... pos = 0.0   	neg = 0.125
+19. What's happening to                 ... pos = 0.75  	neg = 0.0  
+20. What's that song he                 ... pos = 0.0   	neg = 0    
+21. How can he make all                 ... pos = 0.0   	neg = 0.0  
+22. Scream's got nothing                ... pos = 0     	neg = 0.25 
+23. In terms of jolts, S                ... pos = 0.0   	neg = 0.125
+24. In that sense, this                 ... pos = 0.625 	neg = 1.125
+25. Another thing Stir o                ... pos = 0.875 	neg = 0.25 
+26. Not only is it full                 ... pos = 0.875 	neg = 0.125
+27. Tom's new-age sister                ... pos = 1.125 	neg = 0.875
+28. The film manages to                 ... pos = 0.875 	neg = 0.125
+29. The action is ominou                ... pos = 0.25  	neg = 0.125
+30. Plot comparisons to                 ... pos = 0.25  	neg = 0.125
+31. Stir of Echoes can n                ... pos = 2.5   	neg = 0.625
+32. The most prevalent p                ... pos = 0.0   	neg = 0.125
+33. Another: both films                 ... pos = 1.0   	neg = 0.625
+34. The two movies are s                ... pos = 1.625 	neg = 0.0  
+35. Of course to those (                ... pos = 0.125 	neg = 0.0  
+36. Standing on its own,                ... pos = 1.25  	neg = 0.25 
+37. If you did see Sixth                ... pos = 0.875 	neg = 0.125
+38. It isn't a fun exper                ... pos = 0.25  	neg = 0.125
+39. It also isn't partic                ... pos = 0.25  	neg = 0.125
+40. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4548-563 is Positive         ... pos = 23.125 	neg = 11.0 
+Overall score of document
+Total Pos = 23.125
+Total Neg = 11.0
+---------------------------------------------------------------------------

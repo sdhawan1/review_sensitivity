@@ -1,0 +1,24 @@
+0. When you're already                  ... pos = 0.75  	neg = 0.0  
+1. Kevin Smith, whose t                 ... pos = 0.0   	neg = 0.25 
+2. Most critics have, a                 ... pos = 0.0   	neg = 0.125
+3. This is a hilarious                  ... pos = 0.875 	neg = 0.125
+4. One cringes at even                  ... pos = 0.875 	neg = 0.625
+5. But it's a small pri                 ... pos = 0.0   	neg = 0.0  
+6. Cardinal Glick (Geor                 ... pos = 0.125 	neg = 0.125
+7. He's replacing the d                 ... pos = 0.125 	neg = 0.125
+8. On the day of the re                 ... pos = 0.25  	neg = 0.0  
+9. Two fallen angels (B                 ... pos = 0.125 	neg = 0.25 
+10. The downside?                       ... pos = 0.125 	neg = 0    
+11. This will prove God                 ... pos = 0.25  	neg = 0.125
+12. Space and good sense                ... pos = 1.375 	neg = 0.0  
+13. The actors have fun:                ... pos = 0.25  	neg = 0.375
+14. At two hours plus, t                ... pos = 0.375 	neg = 0.0  
+15. But "Dogma" is far f                ... pos = 0.0   	neg = 0.125
+16. It's very devout, an                ... pos = 0.5   	neg = 0.125
+17. "I have issues with                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-773 is Positive          ... pos = 6.125 	neg = 2.375
+Overall score of document
+Total Pos = 6.125
+Total Neg = 2.375
+---------------------------------------------------------------------------

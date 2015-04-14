@@ -1,0 +1,69 @@
+0. ***1/2 (out of 4) Th                 ... pos = 0.75  	neg = 0.125
+1. All of them are well                 ... pos = 0.25  	neg = 0    
+2. Best of all, and mos                 ... pos = 1.5   	neg = 0.125
+3. On the surface they                  ... pos = 0.75  	neg = 0.25 
+4. But look closer and                  ... pos = 0.5   	neg = 0.75 
+5. Their stage is a gen                 ... pos = 0.0   	neg = 0.25 
+6. Lester Burnham (Kevi                 ... pos = 0.125 	neg = 0    
+7. He says his wife is                  ... pos = 0.375 	neg = 0.75 
+8. He hates his dead-en                 ... pos = 1.25  	neg = 0.5  
+9. Spacey is excellent                  ... pos = 1.0   	neg = 0.875
+10. Two events quickly t                ... pos = 0.0   	neg = 0.0  
+11. At a high school bas                ... pos = 0.125 	neg = 0.25 
+12. Another night, he go                ... pos = 0.125 	neg = 0.125
+13. A young waiter spots                ... pos = 0.125 	neg = 0.0  
+14. Why not, he figures,                ... pos = 0.0   	neg = 0.125
+15. The boss finds the k                ... pos = 0.0   	neg = 0.0  
+16. Lester says "I think                ... pos = 0.5   	neg = 0.0  
+17. ". Lester becomes en                ... pos = 0.125 	neg = 0.125
+18. He completely regres                ... pos = 0.0   	neg = 0.0  
+19. He even starts worki                ... pos = 0.125 	neg = 0.25 
+20. Each of the other ch                ... pos = 1.0   	neg = 0.125
+21. Lester's wife Caroly                ... pos = 1.75  	neg = 0.125
+22. She comes across as                 ... pos = 0.875 	neg = 0.125
+23. Looking at the event                ... pos = 0.875 	neg = 0.0  
+24. From her perspective                ... pos = 0.0   	neg = 0.875
+25. The cheerleader is A                ... pos = 0.5   	neg = 0.5  
+26. (Her age gives Leste                ... pos = 1.0   	neg = 0.0  
+27. ) Angela is technica                ... pos = 0.625 	neg = 0.375
+28. Angela likes to outd                ... pos = 0.125 	neg = 0.375
+29. Anything outside her                ... pos = 0.0   	neg = 0.75 
+30. " In modern parlance                ... pos = 0.0   	neg = 0.5  
+31. Jane claims to hate                 ... pos = 0.25  	neg = 0    
+32. She think's dad is a                ... pos = 0.0   	neg = 0.25 
+33. Two things in Jane's                ... pos = 0.625 	neg = 0.125
+34. But Jane is at that                 ... pos = 0.5   	neg = 0.375
+35. While the other char                ... pos = 1.25  	neg = 0.25 
+36. He is smart, observa                ... pos = 0.5   	neg = 0.125
+37. Ricky is the Jane's                 ... pos = 0.25  	neg = 0.125
+38. When he's not sellin                ... pos = 0.5   	neg = 0.0  
+39. He finds it in death                ... pos = 0.0   	neg = 0.0  
+40. Chris Cooper plays R                ... pos = 0.0   	neg = 0.0  
+41. He loves his son, an                ... pos = 0.625 	neg = 0.0  
+42. Obviously, dealing d                ... pos = 0.5   	neg = 0.5  
+43. " Cooper is almost b                ... pos = 0.0   	neg = 0.125
+44. Still, he handles th                ... pos = 1.125 	neg = 0.0  
+45. The plot is not one                 ... pos = 0.875 	neg = 0.125
+46. Starting with Lester                ... pos = 1.0   	neg = 0.0  
+47. In exchange, they di                ... pos = 0.75  	neg = 0.25 
+48. Lester finds his inn                ... pos = 0.0   	neg = 0.0  
+49. Carolyn accepts that                ... pos = 0.875 	neg = 0.125
+50. Jane and Ricky bring                ... pos = 0.375 	neg = 0.0  
+51. Scored by Thomas New                ... pos = 0.5   	neg = 0.0  
+52. AMERICAN BEAUTY is o                ... pos = 1.75  	neg = 0.125
+53. Movies that shun plo                ... pos = 1.125 	neg = 0.25 
+54. Sometimes minor char                ... pos = 1.25  	neg = 0.0  
+55. Sometimes a plot is                 ... pos = 1.0   	neg = 0.125
+56. Very rarely is it do                ... pos = 0.875 	neg = 0.125
+57. Although it comes cl                ... pos = 0.75  	neg = 0.375
+58. Sometimes the good-l                ... pos = 0.0   	neg = 0.375
+59. A few plot point set                ... pos = 0.0   	neg = 0.5  
+60. But because the film                ... pos = 0.375 	neg = 0.75 
+61. Come December, look                 ... pos = 0.875 	neg = 0.375
+62. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-1008 is Positive        ... pos = 32.875 	neg = 13.625
+Overall score of document
+Total Pos = 32.875
+Total Neg = 13.625
+---------------------------------------------------------------------------

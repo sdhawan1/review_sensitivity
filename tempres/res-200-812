@@ -1,0 +1,32 @@
+0. Craig (Cusack) is an                 ... pos = 0.875 	neg = 0.5  
+1. Their house is a men                 ... pos = 0.0   	neg = 0.125
+2. Craig is a  good pup                 ... pos = 0.75  	neg = 0.5  
+3. He finally caves in                  ... pos = 0.125 	neg = 0.375
+4. He reports to the 7                  ... pos = 0.0   	neg = 0.625
+5. In a few days, he ma                 ... pos = 0.625 	neg = 0.5  
+6. Things get increasin                 ... pos = 1.0   	neg = 0.375
+7. And then  there's Le                 ... pos = 0.875 	neg = 0.0  
+8. The first half hour                  ... pos = 0.75  	neg = 0.125
+9. Not  laugh out loud                  ... pos = 0.375 	neg = 0.125
+10. They range from Crai                ... pos = 0.75  	neg = 0.625
+11. But the final hour                  ... pos = 0.0   	neg = 0.875
+12. Oddly, the film slow                ... pos = 0.5   	neg = 0.0  
+13. It stops being a wac                ... pos = 0.5   	neg = 1.125
+14. Even that might have                ... pos = 0.0   	neg = 0.5  
+15. But it errs there.                  ... pos = 0.0   	neg = 0.0  
+16. Craig briefly discus                ... pos = 0.375 	neg = 0.125
+17. Maxine ponders the i                ... pos = 1.125 	neg = 0.25 
+18. Issues of gender ide                ... pos = 0.5   	neg = 0    
+19. But the most interes                ... pos = 0.625 	neg = 0.375
+20. I know many critics                 ... pos = 0.375 	neg = 0.0  
+21. But I cannot underst                ... pos = 0.375 	neg = 0.0  
+22. This is a moderately                ... pos = 0.25  	neg = 0.375
+23. It's a film with a s                ... pos = 0.5   	neg = 0.0  
+24. It's a film with goo                ... pos = 1.5   	neg = 0.125
+25. It's worth watching,                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-812 is Positive          ... pos = 12.75 	neg = 7.625
+Overall score of document
+Total Pos = 12.75
+Total Neg = 7.625
+---------------------------------------------------------------------------

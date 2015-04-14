@@ -1,0 +1,46 @@
+0. The television ads f                 ... pos = 0.25  	neg = 0.0  
+1. "  Thankfully, that                  ... pos = 0.875 	neg = 0.25 
+2. "The Thin Red Line,"                 ... pos = 0.125 	neg = 0.0  
+3. Malick's previous wo                 ... pos = 0.0   	neg = 0    
+4. Several Hollywood st                 ... pos = 0.0   	neg = 0.0  
+5. The movie is about t                 ... pos = 0.0   	neg = 0.125
+6. It's an ensemble pie                 ... pos = 1.5   	neg = 0    
+7. There's no clear pro                 ... pos = 0.0   	neg = 0.375
+8. Malick explores the                  ... pos = 1.0   	neg = 0.0  
+9. There is brilliance                  ... pos = 1.625 	neg = 0.125
+10. This lack of cohesio                ... pos = 0.625 	neg = 0.5  
+11. The desire to repres                ... pos = 1.375 	neg = 0    
+12. The viewer has troub                ... pos = 1.75  	neg = 0.875
+13. The desire to pose p                ... pos = 0.875 	neg = 0    
+14. The voice-overs sugg                ... pos = 2.75  	neg = 0.0  
+15. So, we are left with                ... pos = 0.25  	neg = 0.0  
+16. "Red Line" begins wi                ... pos = 0.0   	neg = 0.0  
+17. Witt (Jim Caviezel)                 ... pos = 0.5   	neg = 0.0  
+18. Later, pulled back i                ... pos = 0.0   	neg = 0.5  
+19. The war in these Pac                ... pos = 0.125 	neg = 0.125
+20. The scenery the sold                ... pos = 1.5   	neg = 0.125
+21. Many of the most dra                ... pos = 0.5   	neg = 0.0  
+22. The camera gives us                 ... pos = 0.0   	neg = 0.0  
+23. Explosions burst nea                ... pos = 0.5   	neg = 0.0  
+24. Machine-gun fire cra                ... pos = 0.0   	neg = 0    
+25. Malick draws us into                ... pos = 0.375 	neg = 0.0  
+26. Their leaders, too,                 ... pos = 0.25  	neg = 0.25 
+27. Halfway up the hill,                ... pos = 0     	neg = 0.0  
+28. Staros (Elias Koteas                ... pos = 0.5   	neg = 0.125
+29. Staros' refusal draw                ... pos = 0.0   	neg = 0.0  
+30. Tall (Nick Nolte), c                ... pos = 0.0   	neg = 0.0  
+31. Tall is an aging Wes                ... pos = 0.125 	neg = 0.25 
+32. This is his first wa                ... pos = 0.125 	neg = 0.25 
+33. The two men play off                ... pos = 1.0   	neg = 1.75 
+34. Gaff (John Cusack) h                ... pos = 0.0   	neg = 0.0  
+35. The conflict between                ... pos = 0.0   	neg = 0.125
+36. Welsh (Sean Penn) an                ... pos = 0.0   	neg = 0    
+37. Penn gives the most                 ... pos = 0.5   	neg = 0.125
+38. Other performances a                ... pos = 0.5   	neg = 0.5  
+39. Š 1999 Christian L.                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-534-1265 is Positive         ... pos = 19.5  	neg = 6.375
+Overall score of document
+Total Pos = 19.5
+Total Neg = 6.375
+---------------------------------------------------------------------------

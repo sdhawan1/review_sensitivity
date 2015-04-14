@@ -1,0 +1,46 @@
+0. Mission: Impossible                  ... pos = 0.875 	neg = 0.0  
+1. It gave me high  hop                 ... pos = 0.875 	neg = 0.0  
+2. The occasional,  "Th                 ... pos = 0     	neg = 0.125
+3. " escaped my lips, b                 ... pos = 0.0   	neg = 0.0  
+4. This is the problem                  ... pos = 0     	neg = 0.375
+5. The characters are v                 ... pos = 1.5   	neg = 0.125
+6. They're like those c                 ... pos = 0.375 	neg = 0.0  
+7. Our hero, Ethan Hunt                 ... pos = 0.625 	neg = 0.625
+8. He must get thief Ny                 ... pos = 0.5   	neg = 0.25 
+9. Within fifteen minut                 ... pos = 0.375 	neg = 0.125
+10. He woos Nyah  (no pu                ... pos = 0.75  	neg = 0.25 
+11. " The team, which  a                ... pos = 1.25  	neg = 0.75 
+12. Ambrose wants to buy                ... pos = 0.375 	neg = 0.125
+13. Then he would cause                 ... pos = 0.0   	neg = 0.375
+14. The commercials for                 ... pos = 0.0   	neg = 0.375
+15. All of  these scenes                ... pos = 0.25  	neg = 0.125
+16. Also  popping up for                ... pos = 0.125 	neg = 0.625
+17. While the above plot                ... pos = 0.0   	neg = 0.125
+18. Like too many action                ... pos = 1.5   	neg = 0.625
+19. Often, this loses th                ... pos = 0.0   	neg = 0.0  
+20. A couple of  times i                ... pos = 0.5   	neg = 0.0  
+21. All I was thinking a                ... pos = 0.0   	neg = 0.75 
+22. It is!                              ... pos = 0.0   	neg = 0    
+23. " Other things I con                ... pos = 0.875 	neg = 1.625
+24. Another problem  wit                ... pos = 0.375 	neg = 1.0  
+25. I  watched a couple                 ... pos = 0.0   	neg = 0.5  
+26. This is basically a                 ... pos = 0.0   	neg = 0.25 
+27. The masks are overdo                ... pos = 0.25  	neg = 0.375
+28. Also missing is the                 ... pos = 0.0   	neg = 0.125
+29. The team  uses a var                ... pos = 0.75  	neg = 0.0  
+30. Both of which got in                ... pos = 0.25  	neg = 0.0  
+31. Did the team  lose t                ... pos = 0.0   	neg = 0.0  
+32. To be honest, Missio                ... pos = 0.875 	neg = 1.0  
+33. There are  some effe                ... pos = 0.875 	neg = 0.625
+34. However, by the time                ... pos = 0.125 	neg = 0.875
+35. It's really disappoi                ... pos = 0.0   	neg = 0.875
+36. Tom Cruise proved he                ... pos = 0.0   	neg = 0.0  
+37. Likewise, Thandie Ne                ... pos = 0.5   	neg = 0.0  
+38. So buy the biggest p                ... pos = 0.625 	neg = 0.0  
+39. They'll  be your onl                ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-3599-329 is Positive         ... pos = 15.375 	neg = 14.0 
+Overall score of document
+Total Pos = 15.375
+Total Neg = 14.0
+---------------------------------------------------------------------------

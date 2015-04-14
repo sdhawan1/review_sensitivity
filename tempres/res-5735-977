@@ -1,0 +1,46 @@
+0. After having heard s                 ... pos = 0.125 	neg = 0.125
+1. What made "Return to                 ... pos = 0     	neg = 0.0  
+2. Was it the tunes fro                 ... pos = 0.5   	neg = 0.125
+3. Was it the glamorous                 ... pos = 0.5   	neg = 0.125
+4. The charisma of the                  ... pos = 0.125 	neg = 0    
+5. Even now I can't say                 ... pos = 0.0   	neg = 0.0  
+6. I don't think any of                 ... pos = 0.125 	neg = 0.125
+7. Which leaves me the                  ... pos = 1.75  	neg = 0.125
+8. It was traditional,                  ... pos = 0.0   	neg = 0.125
+9. We knew it couldn't                  ... pos = 0.75  	neg = 0.375
+10. It was a romance tol                ... pos = 3.25  	neg = 0.125
+11. The film owes a lot                 ... pos = 0.75  	neg = 0    
+12. From the very first                 ... pos = 0.625 	neg = 0.0  
+13. ), we can tell we're                ... pos = 0.0   	neg = 0.0  
+14. The scenes between t                ... pos = 1.75  	neg = 0.0  
+15. Real people don't ac                ... pos = 0.0   	neg = 0    
+16. We know all this, an                ... pos = 0.375 	neg = 0.125
+17. The premise itself s                ... pos = 1.25  	neg = 0.125
+18. Everything is ordina                ... pos = 0.0   	neg = 0.125
+19. >From the festive li                ... pos = 0.25  	neg = 0.25 
+20. From the eloquent, n                ... pos = 0.875 	neg = 0.0  
+21. From the animal star                ... pos = 0.75  	neg = 0.375
+22. "Return to Me" has d                ... pos = 1.625 	neg = 0.875
+23. We care for them, la                ... pos = 0.375 	neg = 0.25 
+24. Whatever Hunt did, s                ... pos = 0.0   	neg = 0.0  
+25. Disappointingly, Dav                ... pos = 0.25  	neg = 0.125
+26. Duchovny here does a                ... pos = 0.75  	neg = 0.625
+27. Instead we have a no                ... pos = 1.375 	neg = 0.25 
+28. " Duchovny, who is e                ... pos = 1.0   	neg = 0.25 
+29. Minnie Driver is eng                ... pos = 1.125 	neg = 0.375
+30. Though an unlikely p                ... pos = 0.875 	neg = 0.0  
+31. While "Return to Me"                ... pos = 0.75  	neg = 0.375
+32. The entire climax of                ... pos = 0.25  	neg = 0.25 
+33. We already know that                ... pos = 1.125 	neg = 0.125
+34. As a result Bob and                 ... pos = 0.625 	neg = 0.625
+35. The main subject is                 ... pos = 2.625 	neg = 1.5  
+36. However, in the spir                ... pos = 0.375 	neg = 0.375
+37. I loved knowing that                ... pos = 1.875 	neg = 0.125
+38. It shows.                           ... pos = 0.0   	neg = 0    
+39. The bottom line: "Re                ... pos = 1.5   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5735-977 is Positive         ... pos = 30.25 	neg = 9.25 
+Overall score of document
+Total Pos = 30.25
+Total Neg = 9.25
+---------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+0. In Lake Placid stayi                 ... pos = 0.375 	neg = 0.125
+1. All you have to do i                 ... pos = 1.125 	neg = 0.375
+2. Viewers sometimes be                 ... pos = 0.25  	neg = 1.5  
+3. Just as distressing,                 ... pos = 0.75  	neg = 1.0  
+4. This is Lake Placid,                 ... pos = 0.0   	neg = 0.75 
+5. What's a grizzly doi                 ... pos = 0.0   	neg = 0.0  
+6. It doesn't matter.                   ... pos = 0.0   	neg = 0    
+7. There's crocodiles t                 ... pos = 0     	neg = 0.25 
+8. The lake isn't even                  ... pos = 0.0   	neg = 0.0  
+9. It all starts with t                 ... pos = 0.375 	neg = 0.25 
+10. Yes this ecologist d                ... pos = 0.0   	neg = 0.375
+11. Yes, a tooth is reco                ... pos = 0.25  	neg = 0.25 
+12. The sheriff is alrea                ... pos = 0.125 	neg = 0.125
+13. Not a bad opening se                ... pos = 0.875 	neg = 1.625
+14. However, this group                 ... pos = 2.875 	neg = 0.25 
+15. In addition to these                ... pos = 0.875 	neg = 0.625
+16. Typically, she'd be                 ... pos = 0.375 	neg = 0.25 
+17. Brendan Gleeson's sh                ... pos = 0.0   	neg = 0.25 
+18. Which isn't their on                ... pos = 0.25  	neg = 0.375
+19. It's a mystical thin                ... pos = 0.0   	neg = 0.0  
+20. Soon enough everyone                ... pos = 0.0   	neg = 0.375
+21. Which is to say we'r                ... pos = 0.0   	neg = 0.125
+22. Which is to say we n                ... pos = 1.125 	neg = 0.125
+23. Who would deliver th                ... pos = 0.0   	neg = 0.125
+24. On the plus side, th                ... pos = 0.0   	neg = 0.125
+25. Think Anaconda, but                 ... pos = 0.5   	neg = 0.0  
+26. In Anaconda people d                ... pos = 0.125 	neg = 0.625
+27. Lake Placid doesn't                 ... pos = 0.0   	neg = 0.0  
+28. We root for the croc                ... pos = 0.625 	neg = 0.75 
+29. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2493-965 is Positive         ... pos = 10.875 	neg = 10.625
+Overall score of document
+Total Pos = 10.875
+Total Neg = 10.625
+---------------------------------------------------------------------------

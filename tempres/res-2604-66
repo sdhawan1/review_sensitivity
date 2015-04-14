@@ -1,0 +1,37 @@
+0. It's a classic film                  ... pos = 0.75  	neg = 0.0  
+1. The movies have long                 ... pos = 0.75  	neg = 1.0  
+2. Films like the Die H                 ... pos = 1.875 	neg = 1.875
+3. The outline of Edwar                 ... pos = 0.25  	neg = 0.5  
+4. Denzel Washington's                  ... pos = 0.375 	neg = 0.25 
+5. He gets the wheels t                 ... pos = 0.5   	neg = 0.0  
+6. After civilians are                  ... pos = 1.125 	neg = 1.5  
+7. Working both with an                 ... pos = 0.375 	neg = 0.5  
+8. Packed with white-kn                 ... pos = 1.114 	neg = 0.125
+9. Washington's acting                  ... pos = 0.125 	neg = 0.125
+10. Tony Shalhoub is jus                ... pos = 0.75  	neg = 0.25 
+11. The most jarring asp                ... pos = 1.25  	neg = 0.375
+12. Some are shown in ex                ... pos = 0.875 	neg = 0.0  
+13. Images like these ar                ... pos = 1.0   	neg = 0.125
+14. To add to the tensio                ... pos = 0.0   	neg = 0.75 
+15. Lowbrow as the film'                ... pos = 0.625 	neg = 0.25 
+16. Of late, a great con                ... pos = 0.0   	neg = 0.375
+17. But The Siege smartl                ... pos = 0.75  	neg = 0.5  
+18. These issues are in                 ... pos = 1.375 	neg = 0.125
+19. For all its merits,                 ... pos = 0.75  	neg = 0.125
+20. The film would have                 ... pos = 0.0   	neg = 0.0  
+21. As it stands, the fi                ... pos = 0.875 	neg = 0.375
+22. The film also suffer                ... pos = 0.0   	neg = 0.0  
+23. Bening is unconvinci                ... pos = 0.0   	neg = 0.625
+24. Bruce Willis' one-di                ... pos = 0.0   	neg = 0.375
+25. Does the film trivia                ... pos = 0.0   	neg = 0.125
+26. Yes and no.                         ... pos = 0     	neg = 0.25 
+27. On the one hand, it                 ... pos = 1.125 	neg = 0.25 
+28. Conversely, to not a                ... pos = 0.0   	neg = 0.125
+29. It should be underst                ... pos = 1.25  	neg = 0.25 
+30. That being said, it                 ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2604-66 is Positive          ... pos = 18.739 	neg = 11.25
+Overall score of document
+Total Pos = 18.739
+Total Neg = 11.25
+---------------------------------------------------------------------------

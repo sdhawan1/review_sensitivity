@@ -1,0 +1,40 @@
+0. "Mission to Mars" op                 ... pos = 0.125 	neg = 0.0  
+1. Then we jump ahead t                 ... pos = 0.0   	neg = 0.25 
+2. They're out surveyin                 ... pos = 0.0   	neg = 0.75 
+3. As the dust clears,                  ... pos = 0.0   	neg = 0.125
+4. Only Luke survives t                 ... pos = 0.0   	neg = 0.125
+5. At mission control o                 ... pos = 0.125 	neg = 0.0  
+6. A year later, their                  ... pos = 0.0   	neg = 0.125
+7. Things don't go quit                 ... pos = 0.125 	neg = 0.0  
+8. Although it sounds l                 ... pos = 0.25  	neg = 0.125
+9. "  (For most of the                  ... pos = 0.125 	neg = 0.125
+10. )  "Mars"' closest k                ... pos = 0.25  	neg = 0.375
+11. Certainly "Mars" is                 ... pos = 2.125 	neg = 0.375
+12. "  While "Contact" d                ... pos = 0.75  	neg = 0.0  
+13. "Contact" built a lo                ... pos = 0.0   	neg = 0.125
+14. As a character on "S                ... pos = 1.0   	neg = 0.0  
+15. "  "Mars" has a much                ... pos = 0.625 	neg = 0    
+16. Produced by a collab                ... pos = 1.25  	neg = 0.0  
+17. "  Jim misses his de                ... pos = 0.0   	neg = 0.0  
+18. Woody and Terri love                ... pos = 0.625 	neg = 0    
+19. Phil is  .                          ... pos = 0     	neg = 0.125
+20. .                                   ... pos = 0     	neg = 0    
+21. .                                   ... pos = 0     	neg = 0    
+22. uh .                                ... pos = 0     	neg = 0    
+23. .                                   ... pos = 0     	neg = 0    
+24. .                                   ... pos = 0     	neg = 0    
+25. wow, they must have                 ... pos = 0.375 	neg = 0.375
+26. The premise, of cour                ... pos = 0     	neg = 0.125
+27. NASA would never und                ... pos = 0.0   	neg = 0.125
+28. It would be too expe                ... pos = 0.375 	neg = 0.5  
+29. (The rescue team arr                ... pos = 0.0   	neg = 0.0  
+30. )  Scientifically-mi                ... pos = 0.25  	neg = 0.125
+31. (And in the movies i                ... pos = 1.0   	neg = 0.125
+32. Bottom line:  Semi-i                ... pos = 0.125 	neg = 0.625
+33. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-1265 is Positive        ... pos = 9.5   	neg = 4.625
+Overall score of document
+Total Pos = 9.5
+Total Neg = 4.625
+---------------------------------------------------------------------------

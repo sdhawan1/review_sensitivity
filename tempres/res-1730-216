@@ -1,0 +1,32 @@
+0. Thomas Crown is a ma                 ... pos = 0.375 	neg = 0.125
+1. Although possessing                  ... pos = 1.125 	neg = 1.375
+2. Even though his hous                 ... pos = 0.0   	neg = 0.125
+3. ), he finds himself                  ... pos = 0.0   	neg = 0.0  
+4. He does have one hob                 ... pos = 0.0   	neg = 0.0  
+5. More for a lack of s                 ... pos = 0.5   	neg = 0.125
+6. Crown's ploy is even                 ... pos = 0.5   	neg = 0.875
+7. You know, I think I                  ... pos = 0.125 	neg = 1.0  
+8. The Thomas Crown Aff                 ... pos = 0.75  	neg = 0.125
+9. This version lacks a                 ... pos = 0.0   	neg = 0.125
+10. Speeches are deliver                ... pos = 2.0   	neg = 1.25 
+11. There's a lot of ten                ... pos = 0.25  	neg = 0.125
+12. But the one thing th                ... pos = 0.0   	neg = 1.0  
+13. As portrayed by Rene                ... pos = 1.75  	neg = 0.125
+14. She just expects her                ... pos = 0.5   	neg = 0.5  
+15. Russo is a poor choi                ... pos = 0.75  	neg = 0.375
+16. It's not so much tha                ... pos = 0.375 	neg = 1.0  
+17. Imagine Kathy Bates                 ... pos = 0.375 	neg = 0.5  
+18. Pierce Brosnan, on t                ... pos = 0.0   	neg = 0.0  
+19. With his rugged good                ... pos = 1.375 	neg = 1.125
+20. Unfortunately, that'                ... pos = 0.25  	neg = 0.875
+21. The film invites us                 ... pos = 0.0   	neg = 0.0  
+22. The execution of "Th                ... pos = 1.25  	neg = 0.5  
+23. E-Mail: jbarlow@eart                ... pos = 1.625 	neg = 0.5  
+24. I found it satisfyin                ... pos = 0.5   	neg = 0.0  
+25. "   --Renard A. Dell                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1730-216 is Positive         ... pos = 14.375 	neg = 11.75
+Overall score of document
+Total Pos = 14.375
+Total Neg = 11.75
+---------------------------------------------------------------------------

@@ -1,0 +1,52 @@
+0. Writing a screenplay                 ... pos = 0.0   	neg = 0.875
+1. Harder than pouring                  ... pos = 0.0   	neg = 0.0  
+2. Harder than building                 ... pos = 0.25  	neg = 0    
+3. And incidentally, a                  ... pos = 0.0   	neg = 0.0  
+4. Thrillers are all va                 ... pos = 0.25  	neg = 0.25 
+5. You have a smart, re                 ... pos = 0.25  	neg = 1.0  
+6. You have a noble and                 ... pos = 0.875 	neg = 1.625
+7. The trick of thrille                 ... pos = 0.0   	neg = 0.375
+8. This simple formula                  ... pos = 1.0   	neg = 1.375
+9. Point is, it's not e                 ... pos = 0.0   	neg = 0.375
+10. You've got to throw                 ... pos = 1.25  	neg = 0.0  
+11. Something to surpris                ... pos = 0.625 	neg = 0.0  
+12. This is a hard thing                ... pos = 0.0   	neg = 1.0  
+13. Without that somethi                ... pos = 0.375 	neg = 0.375
+14. That's why The Jacka                ... pos = 0.125 	neg = 1.375
+15. Richard Gere is the                 ... pos = 0.75  	neg = 0.125
+16. The Jackal is trying                ... pos = 0     	neg = 0.625
+17. Gere is trying to st                ... pos = 0     	neg = 0.625
+18. Will Gere be able to                ... pos = 0.25  	neg = 0.375
+19. (I'll give you three                ... pos = 0.125 	neg = 0.0  
+20. ) There are no surpr                ... pos = 0.25  	neg = 0.5  
+21. ". The script for th                ... pos = 0.0   	neg = 0.25 
+22. It's ripped off, str                ... pos = 0.25  	neg = 0.875
+23. Throughout the movie                ... pos = 0.25  	neg = 0.0  
+24. No surprise.                        ... pos = 0.0   	neg = 0.25 
+25. The fun of a movie l                ... pos = 0.875 	neg = 1.0  
+26. Instead, we get two                 ... pos = 0.125 	neg = 0.875
+27. And we never get mor                ... pos = 0.125 	neg = 0.5  
+28. It's like Gere's cha                ... pos = 1.0   	neg = 0.375
+29. And just like in Mil                ... pos = 2.5   	neg = 1.5  
+30. What's more, in the                 ... pos = 0.0   	neg = 0.75 
+31. As for the performan                ... pos = 0.0   	neg = 0.125
+32. His disguises are go                ... pos = 1.75  	neg = 0.25 
+33. Richard Gere is made                ... pos = 0.0   	neg = 0.625
+34. Sidney Poitier is pr                ... pos = 0.125 	neg = 2.875
+35. Writing a good plot                 ... pos = 1.5   	neg = 1.0  
+36. It wasn't done here.                ... pos = 0.0   	neg = 0.0  
+37. It is our job as con                ... pos = 0.75  	neg = 1.5  
+38. Do not go see this m                ... pos = 0.0   	neg = 0.0  
+39. You'll only encourag                ... pos = 0.0   	neg = 0.0  
+40. Instead, stay home a                ... pos = 0.25  	neg = 0.125
+41. Anything other than                 ... pos = 0.0   	neg = 0.5  
+42. The Hollywood Stock                 ... pos = 0.0   	neg = 0.125
+43. No jury in the world                ... pos = 0.0   	neg = 0.25 
+44. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+45. ".                                  ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4087-1045 is Negative        ... pos = 15.875 	neg = 24.625
+Overall score of document
+Total Pos = 15.875
+Total Neg = 24.625
+---------------------------------------------------------------------------

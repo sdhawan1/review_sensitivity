@@ -1,0 +1,54 @@
+0. JACKIE BROWN entered                 ... pos = 0.0   	neg = 0.25 
+1. Even though advance                  ... pos = 0.25  	neg = 0.125
+2. This is, after all,                  ... pos = 0.75  	neg = 0.125
+3. To say he has been i                 ... pos = 0.0   	neg = 0.375
+4. He was also called i                 ... pos = 0.0   	neg = 0.125
+5. (I'm willing to wage                 ... pos = 0.5   	neg = 0.25 
+6. )  Tarantino contrib                 ... pos = 0.0   	neg = 0.625
+7. Nearly four years si                 ... pos = 0.25  	neg = 0.0  
+8. The film opens up wi                 ... pos = 0.75  	neg = 0.0  
+9. Jackie is a flight a                 ... pos = 0.0   	neg = 0.125
+10. This makes Jackie a                 ... pos = 0.0   	neg = 0.375
+11. However, while bring                ... pos = 0.958 	neg = 0.125
+12. Jackie didn't know t                ... pos = 0.0   	neg = 1.125
+13. Of course, Dargus an                ... pos = 0.25  	neg = 0.0  
+14. Ordell uses honest b                ... pos = 0.5   	neg = 0.25 
+15. Sure enough, Ordell                 ... pos = 1.0   	neg = 0.5  
+16. Instead of closing t                ... pos = 0.0   	neg = 0.0  
+17. Since Ordell wants t                ... pos = 0.75  	neg = 0.125
+18. With a gun in his fa                ... pos = 0.0   	neg = 0.0  
+19. By itself, this prem                ... pos = 0.0   	neg = 0.625
+20. However, we are also                ... pos = 0.375 	neg = 0.0  
+21. Jackie claims to be                 ... pos = 0.125 	neg = 0.125
+22. The film throws us o                ... pos = 0.75  	neg = 1.0  
+23. Instead, it's actual                ... pos = 0.25  	neg = 0.125
+24. At least this film h                ... pos = 0.0   	neg = 0.25 
+25. Most of the performa                ... pos = 0.25  	neg = 0.0  
+26. Pam Grier, of whom I                ... pos = 2.375 	neg = 0.0  
+27. Samuel L. Jackson ha                ... pos = 0.125 	neg = 0.125
+28. Robert Forster is th                ... pos = 1.125 	neg = 0.75 
+29. He's just so down-to                ... pos = 0.0   	neg = 0.0  
+30. In supporting roles                 ... pos = 0.75  	neg = 0.0  
+31. Unfortunately, De Ni                ... pos = 0.25  	neg = 1.375
+32. In this film, he's n                ... pos = 0.125 	neg = 0.625
+33. "  Fonda, on the oth                ... pos = 1.0   	neg = 0.5  
+34. As is characteristic                ... pos = 0.75  	neg = 0.25 
+35. It grabs our attenti                ... pos = 0.75  	neg = 0.125
+36. Don't count Tarantin                ... pos = 0.125 	neg = 0.0  
+37. There's a scene wher                ... pos = 0.75  	neg = 0.25 
+38. We look at the scree                ... pos = 1.375 	neg = 0.375
+39. Although Tarantino i                ... pos = 0.5   	neg = 0.875
+40. There are shots wher                ... pos = 1.125 	neg = 0.25 
+41. This is a tribute to                ... pos = 0.625 	neg = 0.125
+42. However, there is at                ... pos = 0.125 	neg = 0.375
+43. We get the idea of t                ... pos = 0.75  	neg = 0.375
+44. Overall, viewing JAC                ... pos = 0.0   	neg = 0.125
+45. Some flap has alread                ... pos = 0.25  	neg = 0.75 
+46. In fact, one might e                ... pos = 0.5   	neg = 0.625
+47. Go see the film and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-781 is Positive         ... pos = 21.083 	neg = 14.5 
+Overall score of document
+Total Pos = 21.083
+Total Neg = 14.5
+---------------------------------------------------------------------------

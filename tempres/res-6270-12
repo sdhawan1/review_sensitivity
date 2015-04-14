@@ -1,0 +1,22 @@
+0. The idea at the cent                 ... pos = 0.75  	neg = 2.0  
+1. He appears in many g                 ... pos = 0.125 	neg = 0.0  
+2. Al Pacino plays this                 ... pos = 1.5   	neg = 0.375
+3. The main idea -- tha                 ... pos = 0.0   	neg = 0.0  
+4. But the film, is som                 ... pos = 0.0   	neg = 0.125
+5. Part of what makes i                 ... pos = 2.75  	neg = 0.875
+6. This is a marvelous                  ... pos = 1.5   	neg = 0.125
+7. It is also entertain                 ... pos = 0.125 	neg = 0.125
+8. There is no way you                  ... pos = 0.0   	neg = 0.125
+9. The final shot is mo                 ... pos = 0.0   	neg = 0.125
+10. The central themes a                ... pos = 0.875 	neg = 0.125
+11. Its nice to know tha                ... pos = 0.625 	neg = 0.0  
+12. - Max Solovitch Sche                ... pos = 0.75  	neg = 0.625
+13. You will receive e-m                ... pos = 0.25  	neg = 0.125
+14. "We all go a little                 ... pos = 0.0   	neg = 0.25 
+15. " - Anthony Perkins                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6270-12 is Positive          ... pos = 9.25  	neg = 5.0  
+Overall score of document
+Total Pos = 9.25
+Total Neg = 5.0
+---------------------------------------------------------------------------

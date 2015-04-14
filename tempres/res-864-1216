@@ -1,0 +1,30 @@
+0. Cast: Denzel Washing                 ... pos = 0.0   	neg = 0.25 
+1. Ending up spending m                 ... pos = 0.125 	neg = 0.875
+2. This movie is the st                 ... pos = 0.0   	neg = 0.125
+3. The movie is based o                 ... pos = 1.375 	neg = 0.25 
+4. There is some great                  ... pos = 0.5   	neg = 0.125
+5. He manages to portra                 ... pos = 1.375 	neg = 0.25 
+6. Aside from Denzel Wa                 ... pos = 2.5   	neg = 0.75 
+7. The casting for the                  ... pos = 0.125 	neg = 0.375
+8. The whole cast gives                 ... pos = 1.125 	neg = 0.25 
+9. Now, this movie is q                 ... pos = 0.375 	neg = 1.25 
+10. Regardless of length                ... pos = 0.0   	neg = 0.875
+11. The pace was perfect                ... pos = 0.25  	neg = 0.75 
+12. I like the portrayal                ... pos = 0.125 	neg = 0.125
+13. The racial atmospher                ... pos = 1.625 	neg = 0.125
+14. This is nothing new                 ... pos = 1.875 	neg = 0.5  
+15. I also like how the                 ... pos = 0.375 	neg = 0.125
+16. Time doesn't stand s                ... pos = 0.75  	neg = 0.125
+17. This attention to de                ... pos = 0.375 	neg = 0.125
+18. All in all, The Hurr                ... pos = 0.0   	neg = 1.25 
+19. I highly recommend i                ... pos = 1.75  	neg = 0.0  
+20. The movie also point                ... pos = 1.125 	neg = 0.0  
+21. Its definitely one o                ... pos = 1.75  	neg = 0.0  
+22. Good Luck at the Osc                ... pos = 0.75  	neg = 0.125
+23. February 13, 2000 Fo                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-864-1216 is Positive         ... pos = 18.375 	neg = 8.75 
+Overall score of document
+Total Pos = 18.375
+Total Neg = 8.75
+---------------------------------------------------------------------------

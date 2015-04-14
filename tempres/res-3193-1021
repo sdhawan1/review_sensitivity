@@ -1,0 +1,25 @@
+0. Only so rarely do I                  ... pos = 0.375 	neg = 0.0  
+1. Scream, directed by                  ... pos = 1.75  	neg = 0.25 
+2. Anyway, the movie st                 ... pos = 0.0   	neg = 0.0  
+3. A mysterious man cal                 ... pos = 0.5   	neg = 0.0  
+4. "Who was the killer                  ... pos = 0.5   	neg = 0.5  
+5. She then proceeds to                 ... pos = 0.0   	neg = 0.75 
+6. The thing that has d                 ... pos = 0.0   	neg = 0.125
+7. She sub-sequently di                 ... pos = 0.0   	neg = 0.125
+8. The story shifts to                  ... pos = 0.0   	neg = 0.0  
+9. Everyone is freaked                  ... pos = 0.5   	neg = 0.25 
+10. The next victim is S                ... pos = 0.0   	neg = 0.125
+11. Sidney manages to su                ... pos = 0.125 	neg = 0.125
+12. The movie spirals be                ... pos = 0.625 	neg = 0.375
+13. The bright spot of t                ... pos = 0.0   	neg = 0.125
+14. Someone in the theat                ... pos = 0.0   	neg = 0.0  
+15. "  He played the lov                ... pos = 0.625 	neg = 0.0  
+16. I loved this movie b                ... pos = 0.625 	neg = 0.5  
+17. The gore is plentifu                ... pos = 0.125 	neg = 0.125
+18. I would recommend go                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3193-1021 is Positive        ... pos = 6.0   	neg = 3.375
+Overall score of document
+Total Pos = 6.0
+Total Neg = 3.375
+---------------------------------------------------------------------------

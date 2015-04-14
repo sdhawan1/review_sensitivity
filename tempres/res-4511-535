@@ -1,0 +1,55 @@
+0. In "Scream", directo                 ... pos = 1.375 	neg = 0.75 
+1. In "Scream 2",  the                  ... pos = 1.0   	neg = 0.125
+2. With "Scream 3", Wes                 ... pos = 0.625 	neg = 0.125
+3. The problem is, Will                 ... pos = 0.0   	neg = 1.0  
+4. Williamson is sorely                 ... pos = 0     	neg = 0.375
+5. While all the old ch                 ... pos = 1.625 	neg = 0.75 
+6. The truth of the mat                 ... pos = 0.5   	neg = 0.625
+7. The  Scream films ha                 ... pos = 0.0   	neg = 0.375
+8. The ghost masked kil                 ... pos = 0.125 	neg = 1.375
+9. However, Sidney has                  ... pos = 0.625 	neg = 0.5  
+10. Meanwhile, Stab 3,                  ... pos = 0.25  	neg = 0.5  
+11. The film's  cast is                 ... pos = 0.75  	neg = 0.5  
+12. Dewey and Gale team                 ... pos = 0.0   	neg = 0.375
+13. Tossed into the mix                 ... pos = 0.375 	neg = 0.0  
+14. One of the trademark                ... pos = 1.375 	neg = 0.75 
+15. I personally believe                ... pos = 0.125 	neg = 1.0  
+16. This makes for an in                ... pos = 0.125 	neg = 0.5  
+17. In "Scream  2" we ma                ... pos = 0.125 	neg = 0.125
+18. In "Scream 3", an ea                ... pos = 0.25  	neg = 0    
+19. One of the other maj                ... pos = 0.0   	neg = 0.25 
+20. We all might  chuckl                ... pos = 0.5   	neg = 1.25 
+21. The reason is  obvio                ... pos = 0.0   	neg = 0.125
+22. With the departure o                ... pos = 0.0   	neg = 0.125
+23. We are no longer gra                ... pos = 1.75  	neg = 0.5  
+24. Despite all this, "S                ... pos = 0.0   	neg = 0.0  
+25. Randy does make a br                ... pos = 0.0   	neg = 0.25 
+26. Also, watch for a ca                ... pos = 0.875 	neg = 0.625
+27. It's also nice to se                ... pos = 0.75  	neg = 0.0  
+28. However, Sidney has                 ... pos = 1.0   	neg = 0.0  
+29. She's no longer  the                ... pos = 1.375 	neg = 0.375
+30. She now hides  away                 ... pos = 0.0   	neg = 0.5  
+31. I suppose I could go                ... pos = 0.125 	neg = 0.125
+32. Nearly every teenage                ... pos = 0.0   	neg = 0.125
+33. Perhaps they'll see                 ... pos = 0.0   	neg = 0.0  
+34. One more thing  I si                ... pos = 0.625 	neg = 1.125
+35. Parker is a delightf                ... pos = 1.0   	neg = 1.0  
+36. "Scream 3" runs  far                ... pos = 0.0   	neg = 0.625
+37. I don't think you'll                ... pos = 0.25  	neg = 0.75 
+38. I'd  recommend it to                ... pos = 0.375 	neg = 1.125
+39. I  give it a generou                ... pos = 0.0   	neg = 0.0  
+40. Comments?                           ... pos = 0     	neg = 0.0  
+41. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+42. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+43. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+44. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+45. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+46. See it if you've got                ... pos = 0.0   	neg = 0.25 
+47. * - One of the worst                ... pos = 0.0   	neg = 0.375
+48. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4511-535 is Negative         ... pos = 19.25 	neg = 20.625
+Overall score of document
+Total Pos = 19.25
+Total Neg = 20.625
+---------------------------------------------------------------------------

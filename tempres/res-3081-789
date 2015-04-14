@@ -1,0 +1,36 @@
+0. So far this year, we                 ... pos = 0.25  	neg = 0.0  
+1. Mummy fell flat, due                 ... pos = 0.375 	neg = 1.25 
+2. Deep Blue Sea itself                 ... pos = 0.125 	neg = 0.25 
+3. In this film we are                  ... pos = 0.25  	neg = 0.0  
+4. The process is a bit                 ... pos = 0.0   	neg = 0.125
+5. The scientists use t                 ... pos = 0.0   	neg = 0.375
+6. The sharks are sudde                 ... pos = 0.25  	neg = 0.125
+7. The film quickly bec                 ... pos = 0.125 	neg = 0.125
+8. This may sound like                  ... pos = 0.25  	neg = 0.0  
+9. Many of the key acti                 ... pos = 0.75  	neg = 0.0  
+10. Why you may ask?                    ... pos = 0.0   	neg = 0.0  
+11. because it all seems                ... pos = 0.0   	neg = 0.375
+12. The deep sea station                ... pos = 1.5   	neg = 1.0  
+13. Everything just feel                ... pos = 0.375 	neg = 0.25 
+14. It's not surprising                 ... pos = 0.125 	neg = 0.125
+15. In every blockbuster                ... pos = 0.0   	neg = 0.25 
+16. They roam around and                ... pos = 0.25  	neg = 0.0  
+17. It's then they start                ... pos = 0.125 	neg = 0.0  
+18. Once again that's wh                ... pos = 0.0   	neg = 0.0  
+19. Thankfully only Samu                ... pos = 0.0   	neg = 0.625
+20. He too tries to step                ... pos = 0.375 	neg = 0.875
+21. Cheap relief at that                ... pos = 0.375 	neg = 0.625
+22. On the brighter side                ... pos = 0.25  	neg = 0.125
+23. Even if the characte                ... pos = 1.0   	neg = 1.25 
+24. Oddly enough the sha                ... pos = 1.25  	neg = 0.125
+25. The only problem I h                ... pos = 0.375 	neg = 0.875
+26. Other than that, the                ... pos = 0.0   	neg = 0.125
+27. When it's all over,                 ... pos = 0.375 	neg = 0.25 
+28. So far this year, mo                ... pos = 1.25  	neg = 0.125
+29. It's the closest thi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3081-789 is Positive         ... pos = 10.125 	neg = 9.25 
+Overall score of document
+Total Pos = 10.125
+Total Neg = 9.25
+---------------------------------------------------------------------------

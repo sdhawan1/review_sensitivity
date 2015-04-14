@@ -1,0 +1,31 @@
+0. Release Date: Novemb                 ... pos = 0.875 	neg = 0.0  
+1. Successfully, a roma                 ... pos = 1.625 	neg = 0.0  
+2. It will also have a                  ... pos = 1.125 	neg = 0.125
+3. The script will be s                 ... pos = 1.375 	neg = 0.125
+4. This definition is j                 ... pos = 1.375 	neg = 0.375
+5. Director Brest made                  ... pos = 0.5   	neg = 0.25 
+6. He makes a fine retu                 ... pos = 0.625 	neg = 0.0  
+7. The script he's give                 ... pos = 0.75  	neg = 0.0  
+8. There are moments wh                 ... pos = 0.75  	neg = 0.0  
+9. Brest takes advantag                 ... pos = 1.0   	neg = 0.0  
+10. The audience definit                ... pos = 1.125 	neg = 0.0  
+11. The cast does their                 ... pos = 1.5   	neg = 0.0  
+12. Anthony Hopkins has                 ... pos = 1.375 	neg = 0.0  
+13. Pitt plays Death, in                ... pos = 0.0   	neg = 0.0  
+14. And so Death visits                 ... pos = 0.75  	neg = 0.125
+15. And so Death's vacat                ... pos = 1.125 	neg = 0.25 
+16. So when Bill's time                 ... pos = 1.625 	neg = 0.125
+17. The acting corps doe                ... pos = 0.0   	neg = 0.0  
+18. Hopkins is the highl                ... pos = 0.25  	neg = 0.375
+19. He lends a sense of                 ... pos = 2.5   	neg = 0.125
+20. But the grounding fa                ... pos = 2.5   	neg = 0.25 
+21. She lends a passive                 ... pos = 2.25  	neg = 0.125
+22. The other supports a                ... pos = 0.625 	neg = 0.875
+23. All in all this beco                ... pos = 1.0   	neg = 0.0  
+24. Compared to other fi                ... pos = 1.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4689-700 is Positive         ... pos = 28.0  	neg = 3.25 
+Overall score of document
+Total Pos = 28.0
+Total Neg = 3.25
+---------------------------------------------------------------------------

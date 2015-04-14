@@ -1,0 +1,20 @@
+0. Bob the Happy Bastar                 ... pos = 0.625 	neg = 0.875
+1. It's a rough adaptat                 ... pos = 0.0   	neg = 0.375
+2. But who cares, the m                 ... pos = 0.375 	neg = 0.0  
+3. Fraser plays a soldi                 ... pos = 0.0   	neg = 0.0  
+4. Basically, it's a li                 ... pos = 0.25  	neg = 1.0  
+5. His plan- wake back                  ... pos = 0.0   	neg = 0.0  
+6. Of course, Fraser re                 ... pos = 0.0   	neg = 0.0  
+7. Yup, Ihmoetep (Arnol                 ... pos = 0.375 	neg = 0.5  
+8. Fire flies from the                  ... pos = 0.25  	neg = 0.0  
+9. OK, so it's not real                 ... pos = 0.5   	neg = 0.125
+10. The special effects                 ... pos = 0.75  	neg = 1.125
+11. The action is pretty                ... pos = 0.75  	neg = 0.25 
+12. No, it's no Phantom                 ... pos = 0.125 	neg = 0.5  
+13. If this doesn't give                ... pos = 0.875 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1787-1292 is Negative        ... pos = 4.875 	neg = 5.0  
+Overall score of document
+Total Pos = 4.875
+Total Neg = 5.0
+---------------------------------------------------------------------------

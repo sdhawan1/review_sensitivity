@@ -1,0 +1,55 @@
+0. As antiquated as the                 ... pos = 0.625 	neg = 0.75 
+1. Or, roles can be swi                 ... pos = 0.5   	neg = 0.25 
+2. As is the case with                  ... pos = 0.5   	neg = 0.125
+3. Douglas plays a busi                 ... pos = 0.0   	neg = 0.0  
+4. His business is abou                 ... pos = 0.0   	neg = 0.75 
+5. His wife, Emily (Pal                 ... pos = 0.75  	neg = 0.125
+6. They plan to let Ste                 ... pos = 0.0   	neg = 0.0  
+7. But, Steven is no du                 ... pos = 0.0   	neg = 0.375
+8. Though, how he knows                 ... pos = 0.375 	neg = 0.125
+9. Standard stuff.                      ... pos = 0     	neg = 0.25 
+10. But, the movie has s                ... pos = 0.0   	neg = 0.0  
+11. Like Douglas, who ha                ... pos = 0.0   	neg = 0.0  
+12. And, Mortensen - a s                ... pos = 0.375 	neg = 0.0  
+13. Every detail of the                 ... pos = 0.375 	neg = 0.25 
+14. I liked someof the p                ... pos = 0.125 	neg = 0.625
+15. Then, once they've m                ... pos = 0.25  	neg = 0.0  
+16. And I liked the way                 ... pos = 0.5   	neg = 0.125
+17. He's able to verball                ... pos = 0.125 	neg = 0.0  
+18. I like dialogue wher                ... pos = 0.0   	neg = 0.625
+19. MURDER has that kind                ... pos = 0.0   	neg = 0    
+20. I just wish the film                ... pos = 0.0   	neg = 0.5  
+21. I kept waiting for i                ... pos = 0.0   	neg = 0.0  
+22. For instance, why do                ... pos = 1.25  	neg = 0.0  
+23. As if she's concerne                ... pos = 0.0   	neg = 0.0  
+24. I'm wondering why sh                ... pos = 1.25  	neg = 0.0  
+25. Does she love her hu                ... pos = 0.625 	neg = 0    
+26. People don't usually                ... pos = 0.0   	neg = 0.0  
+27. And if she does love                ... pos = 0.75  	neg = 0.25 
+28. Or, _has_ she tried?                ... pos = 0     	neg = 0.5  
+29. Does she care about                 ... pos = 0.0   	neg = 0.0  
+30. Steven doesn't seem                 ... pos = 0.125 	neg = 0.875
+31. He's rich.                          ... pos = 0.0   	neg = 0    
+32. He likes being rich,                ... pos = 1.125 	neg = 0.0  
+33. Maybe he makes her f                ... pos = 0.125 	neg = 0.125
+34. How did it _get_ tha                ... pos = 0.0   	neg = 0.0  
+35. Also, there's no tan                ... pos = 0.875 	neg = 0.375
+36. The same goes for Do                ... pos = 0.875 	neg = 0.0  
+37. He has multiple reas                ... pos = 0.625 	neg = 0.0  
+38. But, why is he marri                ... pos = 0.0   	neg = 0.125
+39. It's an inconsequent                ... pos = 1.125 	neg = 0.25 
+40. Of course, that woul                ... pos = 0.0   	neg = 0.0  
+41. But hey, attention s                ... pos = 0.0   	neg = 0.0  
+42. And why, oh why, do                 ... pos = 0.25  	neg = 0.0  
+43. I saw a movie once c                ... pos = 0.125 	neg = 0.0  
+44. It starred Diane Lan                ... pos = 0.0   	neg = 0.0  
+45. The storyline wasn't                ... pos = 0.25  	neg = 0.25 
+46. Instead, it chose a                 ... pos = 1.0   	neg = 0.125
+47. A PERFECT MURDER des                ... pos = 0.75  	neg = 0.0  
+48. -R-. .                              ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1007-1278 is Positive        ... pos = 15.625 	neg = 7.75 
+Overall score of document
+Total Pos = 15.625
+Total Neg = 7.75
+---------------------------------------------------------------------------

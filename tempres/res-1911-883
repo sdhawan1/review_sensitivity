@@ -1,0 +1,21 @@
+0. Lengthy and lousy ar                 ... pos = 0.375 	neg = 0.75 
+1. Great acting, music                  ... pos = 0.875 	neg = 1.125
+2. Ralph Fiennes (Stran                 ... pos = 0.75  	neg = 0.625
+3. The story revolves a                 ... pos = 0.0   	neg = 0.5  
+4. Anyway, he is taken                  ... pos = 0.0   	neg = 0.125
+5. She was never really                 ... pos = 0.5   	neg = 0.25 
+6. Count Almasy begins                  ... pos = 0.125 	neg = 0.125
+7. His love (Kirstin Sc                 ... pos = 0.625 	neg = 0.875
+8. He returned to find                  ... pos = 0.0   	neg = 0.125
+9. So he flew her dead                  ... pos = 0.0   	neg = 0.75 
+10. Don't get the wrong                 ... pos = 1.5   	neg = 1.125
+11. Maybe if it were an                 ... pos = 0.375 	neg = 0.625
+12. The only redeeming q                ... pos = 1.375 	neg = 0.0  
+13. Other than these, Th                ... pos = 0.75  	neg = 1.125
+14. Grade: D, ** out of                 ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1911-883 is Negative         ... pos = 7.25  	neg = 8.125
+Overall score of document
+Total Pos = 7.25
+Total Neg = 8.125
+---------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+0. Note: Some may consi                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. The teaser trailers                  ... pos = 0.875 	neg = 0.75 
+3. It was then to both                  ... pos = 2.875 	neg = 0.25 
+4. The heroine of MY BE                 ... pos = 2.875 	neg = 0.125
+5. Both Julianne and Mi                 ... pos = 0.375 	neg = 0.125
+6. However, she finds h                 ... pos = 2.5   	neg = 0.125
+7. The setup for MY BES                 ... pos = 1.0   	neg = 0.75 
+8. Hogan, whose first f                 ... pos = 1.375 	neg = 0.0  
+9. The film is innundat                 ... pos = 1.0   	neg = 0.25 
+10. For example, there's                ... pos = 0.5   	neg = 0.0  
+11. MY BEST FRIEND'S WED                ... pos = 3.375 	neg = 0.25 
+12. MY BEST FRIEND'S WED                ... pos = 1.25  	neg = 0.0  
+13. In a typical romanti                ... pos = 1.0   	neg = 1.5  
+14. The George character                ... pos = 3.625 	neg = 0.125
+15. Throughout the film,                ... pos = 0.625 	neg = 0.625
+16. There is a lot of sm                ... pos = 3.625 	neg = 0.125
+17. MY BEST FRIEND'S WED                ... pos = 1.25  	neg = 0.0  
+18. This isn't the sort                 ... pos = 3.25  	neg = 0.0  
+19. Even better than Ms.                ... pos = 0.5   	neg = 0.125
+20. With a smile which l                ... pos = 1.375 	neg = 0.0  
+21. She even sings - I w                ... pos = 0.75  	neg = 0.0  
+22. Rupert Everett is gi                ... pos = 2.5   	neg = 0.125
+23. His George is a bit                 ... pos = 2.75  	neg = 0.375
+24. Dermot Mulroney is a                ... pos = 3.864 	neg = 1.125
+25. When Julia Roberts'                 ... pos = 2.75  	neg = 0.75 
+26. While that didn't qu                ... pos = 1.125 	neg = 0.0  
+27. MY BEST FRIEND'S WED                ... pos = 0.375 	neg = 0.0  
+28. Hogan's reputation a                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2826-717 is Positive         ... pos = 48.614 	neg = 7.75 
+Overall score of document
+Total Pos = 48.614
+Total Neg = 7.75
+---------------------------------------------------------------------------

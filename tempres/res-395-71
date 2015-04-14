@@ -1,0 +1,53 @@
+0. Visit Online Film Cr                 ... pos = 0.0   	neg = 0.125
+1. Is this  true?                       ... pos = 0.5   	neg = 0.125
+2. A:  "Better" is rela                 ... pos = 0.0   	neg = 0.125
+3. The first edition di                 ... pos = 1.0   	neg = 0.125
+4. "2" takes risks like                 ... pos = 1.25  	neg = 0.0  
+5. The sequel has more                  ... pos = 1.25  	neg = 0.125
+6. On the whole,  it's                  ... pos = 0.625 	neg = 0.125
+7. Q:  What was your fa                 ... pos = 0.0   	neg = 0.125
+8. A:  The animation ne                 ... pos = 0.0   	neg = 0.125
+9. I think the pioneers                 ... pos = 0.25  	neg = 0.125
+10. Sometimes it's like                 ... pos = 0.0   	neg = 0.125
+11. I also like all the                 ... pos = 0.0   	neg = 0.0  
+12. My wife was particul                ... pos = 0.25  	neg = 0.375
+13. So hype is not new.                 ... pos = 0.375 	neg = 0.125
+14. My  11 year-old daug                ... pos = 0.25  	neg = 0    
+15. And both my children                ... pos = 0.125 	neg = 0    
+16. (When Mr.                           ... pos = 0     	neg = 0.0  
+17. Potato Head - voiced                ... pos = 0.0   	neg = 0.25 
+18. "). Q:  So what's th                ... pos = 0     	neg = 0.0  
+19. A:  While he's rescu                ... pos = 0.5   	neg = 0.0  
+20. This slimy character                ... pos = 1.75  	neg = 0.5  
+21. To sum  up, the main                ... pos = 1.0   	neg = 0.5  
+22. The complications in                ... pos = 1.875 	neg = 0.125
+23. His reunion with Jes                ... pos = 1.125 	neg = 0.125
+24. At one point Woody c                ... pos = 1.0   	neg = 0.125
+25. Q:  How about the no                ... pos = 0.0   	neg = 0.0  
+26. A:  The script is be                ... pos = 0.0   	neg = 0.125
+27. The  dialogue is sna                ... pos = 1.625 	neg = 0.125
+28. It's a  very kid-fri                ... pos = 1.0   	neg = 0.0  
+29. There are probably f                ... pos = 0.25  	neg = 0.5  
+30. The music is still s                ... pos = 0.5   	neg = 0.125
+31. ) suggest the origin                ... pos = 0.375 	neg = 0.0  
+32. Camera - or  compute                ... pos = 1.75  	neg = 0.0  
+33. Q:  Tom Hanks or Tim                ... pos = 0.0   	neg = 0.0  
+34. A:  Again, relative.                ... pos = 0.0   	neg = 0    
+35. Whoever you like.                   ... pos = 0     	neg = 0.0  
+36. They are both so wel                ... pos = 0.25  	neg = 0.0  
+37. Hanks'  Woody seems                 ... pos = 1.875 	neg = 0.125
+38. Tim  Allen is expert                ... pos = 0.875 	neg = 0.375
+39. Q:  Here's an import                ... pos = 0.875 	neg = 0    
+40. Will you buy the vid                ... pos = 0.125 	neg = 0.0  
+41. A:  A sure thing.                   ... pos = 0.25  	neg = 0.0  
+42. It will be a great o                ... pos = 0.25  	neg = 0.125
+43. It's as good as any                 ... pos = 0.75  	neg = 0.375
+44. "  John Lasseter and                ... pos = 1.0   	neg = 0.25 
+45. Recommended for all                 ... pos = 1.25  	neg = 0.625
+46. ". . .                              ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-395-71 is Positive           ... pos = 26.125 	neg = 6.125
+Overall score of document
+Total Pos = 26.125
+Total Neg = 6.125
+---------------------------------------------------------------------------

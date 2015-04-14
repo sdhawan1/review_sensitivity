@@ -1,0 +1,19 @@
+0. Well director Mike N                 ... pos = 0.875 	neg = 0.625
+1. His latest film, a p                 ... pos = 0.625 	neg = 0.125
+2. Jack Stanton(John Tr                 ... pos = 0.25  	neg = 0.125
+3. His campaign is bein                 ... pos = 1.5   	neg = 0.25 
+4. Other members of the                 ... pos = 1.0   	neg = 0.0  
+5. The road to the Whit                 ... pos = 0.375 	neg = 0.25 
+6. This is a fun movie,                 ... pos = 0.75  	neg = 0.125
+7. Its filled with sple                 ... pos = 2.0   	neg = 0.0  
+8. Unfortunately the mo                 ... pos = 0.0   	neg = 0.875
+9. The point of view is                 ... pos = 2.625 	neg = 0.75 
+10. The second flaw was                 ... pos = 0.0   	neg = 0.625
+11. Apart from these com                ... pos = 1.5   	neg = 1.0  
+12. Not to mention the m                ... pos = 1.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1279-1529 is Positive        ... pos = 13.0  	neg = 4.75 
+Overall score of document
+Total Pos = 13.0
+Total Neg = 4.75
+---------------------------------------------------------------------------

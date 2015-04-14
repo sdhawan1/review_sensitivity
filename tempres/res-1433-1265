@@ -1,0 +1,37 @@
+0. On first hearing, it                 ... pos = 0.125 	neg = 0.0  
+1. "Shakespeare in Love                 ... pos = 0.625 	neg = 0    
+2. "  Wouldn't most peo                 ... pos = 1.125 	neg = 0    
+3. "  A script loaded w                 ... pos = 0.0   	neg = 0.0  
+4. Will that put bums o                 ... pos = 0.125 	neg = 0.0  
+5. "Shakespeare" only r                 ... pos = 0.0   	neg = 0.0  
+6. I've seen similar cr                 ... pos = 0.5   	neg = 0.0  
+7. Despite the differen                 ... pos = 1.0   	neg = 0.5  
+8. John Madden's "Shake                 ... pos = 0.625 	neg = 0.0  
+9. We find William Shak                 ... pos = 0.5   	neg = 0.0  
+10. "  Theater owner Phi                ... pos = 0.125 	neg = 0.75 
+11. Meanwhile, Viola De                 ... pos = 0.0   	neg = 0.375
+12. "  (In Elizabethan E                ... pos = 0.0   	neg = 0.375
+13. )  Will is blown awa                ... pos = 0.125 	neg = 0.125
+14. A passionate romance                ... pos = 0.375 	neg = 0    
+15. The structure of "Sh                ... pos = 0.875 	neg = 0.125
+16. So, as the romance d                ... pos = 0.75  	neg = 0.0  
+17. Like Juliet, Viola h                ... pos = 0.875 	neg = 0.125
+18. Like Romeo, Will cra                ... pos = 0.75  	neg = 0.0  
+19. There are references                ... pos = 0.75  	neg = 0.25 
+20. "Shakespeare in Love                ... pos = 0.125 	neg = 0.5  
+21. Shakespeare's rival                 ... pos = 0.25  	neg = 0.5  
+22. Ben Affleck is hilar                ... pos = 0.375 	neg = 0.5  
+23. (I get the sense tha                ... pos = 0.0   	neg = 0.125
+24. ")  Another standout                ... pos = 0.0   	neg = 0.25 
+25. Dench, who recently                 ... pos = 0.875 	neg = 0.125
+26. "Shakespeare" is the                ... pos = 0.75  	neg = 0.125
+27. Tom Stoppard, one of                ... pos = 1.125 	neg = 0.125
+28. "  The other author,                ... pos = 0.375 	neg = 0.0  
+29. "Shakespeare" is a g                ... pos = 1.125 	neg = 0.125
+30. Š 1999 Christian L.                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1433-1265 is Positive        ... pos = 14.25 	neg = 5.0  
+Overall score of document
+Total Pos = 14.25
+Total Neg = 5.0
+---------------------------------------------------------------------------

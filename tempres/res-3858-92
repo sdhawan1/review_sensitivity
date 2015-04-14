@@ -1,0 +1,29 @@
+0. Seen on 17 October 1                 ... pos = 0.0   	neg = 0.0  
+1. There is something c                 ... pos = 0.25  	neg = 0.75 
+2. You want to find out                 ... pos = 0.75  	neg = 0.25 
+3. Along the way, thoug                 ... pos = 0.375 	neg = 0.0  
+4. Unless you're a seri                 ... pos = 0.5   	neg = 0.75 
+5. The movie is very ca                 ... pos = 1.0   	neg = 0.625
+6. Alex Cross (Morgan F                 ... pos = 0.25  	neg = 0.25 
+7. Kate McTiernan (Ashl                 ... pos = 1.5   	neg = 0.25 
+8. This, according to t                 ... pos = 0.5   	neg = 0.0  
+9. But she manages to g                 ... pos = 0.0   	neg = 0.0  
+10. This is where the mo                ... pos = 0.875 	neg = 0.125
+11. In New York City, if                ... pos = 1.0   	neg = 0.5  
+12. Why wouldn't an expe                ... pos = 0.0   	neg = 0.0  
+13. Because making sense                ... pos = 0.0   	neg = 0.125
+14. One aspect that I re                ... pos = 0.375 	neg = 1.375
+15. It's not like other                 ... pos = 0.0   	neg = 0.0  
+16. Her run through the                 ... pos = 0.375 	neg = 0.375
+17. What is disturbing t                ... pos = 0.125 	neg = 0.375
+18. There is probably a                 ... pos = 1.0   	neg = 0.125
+19. It's offensive in th                ... pos = 0.25  	neg = 0.75 
+20. Along the way, a few                ... pos = 0.375 	neg = 0.375
+21. Also starring were C                ... pos = 0.0   	neg = 0.125
+22. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3858-92 is Positive          ... pos = 9.5   	neg = 7.25 
+Overall score of document
+Total Pos = 9.5
+Total Neg = 7.25
+---------------------------------------------------------------------------

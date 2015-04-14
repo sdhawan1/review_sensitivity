@@ -1,0 +1,69 @@
+0. David Dunn (Bruce Wi                 ... pos = 0.375 	neg = 0.125
+1. He flirts with and i                 ... pos = 0.0   	neg = 0.25 
+2. Just before arriving                 ... pos = 0.25  	neg = 0.25 
+3. A mysterious, handic                 ... pos = 1.0   	neg = 0.25 
+4. The bemused David be                 ... pos = 0.125 	neg = 0.0  
+5. ". Helmer Shyamalan                  ... pos = 0.625 	neg = 0.5  
+6. " (That film was the                 ... pos = 0.125 	neg = 0.125
+7. ") The director/writ                 ... pos = 0.625 	neg = 0.625
+8. But, please, don't e                 ... pos = 0.125 	neg = 0.0  
+9. " Shyamalan's follow                 ... pos = 1.0   	neg = 0.0  
+10. David has survived t                ... pos = 0.125 	neg = 0.625
+11. There is a part of D                ... pos = 0.375 	neg = 0.25 
+12. His only ray of hope                ... pos = 0.375 	neg = 0.625
+13. One day soon after t                ... pos = 0.125 	neg = 0.125
+14. " There is nothing e                ... pos = 0.0   	neg = 0.375
+15. Dunn tracks down the                ... pos = 0.875 	neg = 0.0  
+16. Elijah has suffered                 ... pos = 0.125 	neg = 0.25 
+17. He has lived a caref                ... pos = 0.875 	neg = 0.125
+18. Elijah became, as a                 ... pos = 0.25  	neg = 0.0  
+19. He built a business                 ... pos = 0.125 	neg = 0.0  
+20. Elijah's thinking is                ... pos = 0.375 	neg = 0.25 
+21. Is David the man he                 ... pos = 0.0   	neg = 0.125
+22. Other heinous disast                ... pos = 0.222 	neg = 0.25 
+23. Of the three life-sn                ... pos = 0.0   	neg = 0.125
+24. Elijah makes David t                ... pos = 0.0   	neg = 0.0  
+25. As Dunn digs into hi                ... pos = 0.0   	neg = 0.125
+26. His is, truly, unbre                ... pos = 0.625 	neg = 0.125
+27. The question now bec                ... pos = 0.0   	neg = 0.125
+28. The fragile Elijah,                 ... pos = 0.5   	neg = 0.0  
+29. This newfound "sight                ... pos = 1.5   	neg = 0.125
+30. Is he Elijah's comic                ... pos = 0.5   	neg = 0.125
+31. I won't talk anymore                ... pos = 0.0   	neg = 0.0  
+32. This is a mystery st                ... pos = 0.25  	neg = 0.25 
+33. The good news is, th                ... pos = 1.375 	neg = 0.25 
+34. Prepare yourself for                ... pos = 0.0   	neg = 1.75 
+35. The two-sides-of-the                ... pos = 0.0   	neg = 0    
+36. David is the bewilde                ... pos = 1.5   	neg = 0.125
+37. But, yes, there is m                ... pos = 0.0   	neg = 0.125
+38. The comic book art a                ... pos = 0.0   	neg = 0.125
+39. I think an understan                ... pos = 0.125 	neg = 0.25 
+40. Technically, "Unbrea                ... pos = 0.0   	neg = 0.125
+41. Photography by Eduar                ... pos = 0.25  	neg = 0.5  
+42. Production designer                 ... pos = 1.0   	neg = 0.0  
+43. The starkly contrast                ... pos = 0.5   	neg = 0.5  
+44. (See Laura's review                 ... pos = 0.375 	neg = 0.0  
+45. ) The film carries a                ... pos = 0.5   	neg = 0.375
+46. Screenwriter Shyamal                ... pos = 0.0   	neg = 0.125
+47. His script is intell                ... pos = 0.25  	neg = 0.125
+48. He is having fun wit                ... pos = 1.375 	neg = 0.75 
+49. He is an honest writ                ... pos = 0.375 	neg = 0.75 
+50. I would like to see                 ... pos = 0.25  	neg = 0.0  
+51. Unfortunately for th                ... pos = 0.125 	neg = 1.0  
+52. As such, the thespia                ... pos = 1.875 	neg = 0.0  
+53. Willis is conflicted                ... pos = 1.375 	neg = 1.25 
+54. Samuel L. Jackson al                ... pos = 0.0   	neg = 0.125
+55. Clark does fine as t                ... pos = 0.0   	neg = 0.75 
+56. He and Willis play w                ... pos = 0.25  	neg = 0.375
+57. Robin Wright Penn, a                ... pos = 0.625 	neg = 0.0  
+58. "Unbreakable" should                ... pos = 0.0   	neg = 0.0  
+59. It will draw an afte                ... pos = 0.125 	neg = 0.75 
+60. Enjoy the show.                     ... pos = 0.375 	neg = 0.0  
+61. I give it a B.                      ... pos = 0.0   	neg = 0.0  
+62. For more Reeling rev                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3905-1594 is Positive        ... pos = 24.097 	neg = 16.25
+Overall score of document
+Total Pos = 24.097
+Total Neg = 16.25
+---------------------------------------------------------------------------

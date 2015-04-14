@@ -1,0 +1,29 @@
+0. The Fifth Element (P                 ... pos = 0.0   	neg = 0.0  
+1. Written by Luc Besso                 ... pos = 0.0   	neg = 0    
+2. Starring Bruce Willi                 ... pos = 0.0   	neg = 0.0  
+3. After the hype for T                 ... pos = 0.25  	neg = 0.0  
+4. That story may have                  ... pos = 0.125 	neg = 0.125
+5. What it did deliver,                 ... pos = 0.375 	neg = 0.125
+6. This actually worked                 ... pos = 0.5   	neg = 0.0  
+7. First, the art direc                 ... pos = 1.125 	neg = 0.125
+8. The cartoonish, Terr                 ... pos = 0.25  	neg = 1.25 
+9. Another review that                  ... pos = 0.125 	neg = 0.25 
+10. Second, this sense o                ... pos = 1.5   	neg = 1.125
+11. First and foremost w                ... pos = 1.125 	neg = 1.0  
+12. " As a result, she s                ... pos = 1.0   	neg = 0.0  
+13. Also notable were Ch                ... pos = 1.25  	neg = 0.125
+14. " Bruce Willis, the                 ... pos = 1.25  	neg = 1.75 
+15. Another benefit to t                ... pos = 0.5   	neg = 0.625
+16. When watching the mo                ... pos = 1.0   	neg = 0.0  
+17. With The Fifth Eleme                ... pos = 1.375 	neg = 1.5  
+18. Unfortunately, the s                ... pos = 0.0   	neg = 0.875
+19. The bare-bones plot                 ... pos = 0.375 	neg = 1.25 
+20. There were a few hin                ... pos = 0.125 	neg = 0.25 
+21. Similarly, the "mora                ... pos = 0.5   	neg = 0.25 
+22. The Fifth Element  i                ... pos = 2.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5547-716 is Positive         ... pos = 15.0  	neg = 11.25
+Overall score of document
+Total Pos = 15.0
+Total Neg = 11.25
+---------------------------------------------------------------------------

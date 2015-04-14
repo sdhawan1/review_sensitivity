@@ -1,0 +1,37 @@
+0. rated R Warner Bros.                 ... pos = 0.25  	neg = 0.125
+1. Sure, film students                  ... pos = 0.375 	neg = 0.25 
+2. Why?                                 ... pos = 0     	neg = 0.0  
+3. Maybe because Kubric                 ... pos = 0.125 	neg = 0.125
+4. Stanley Kubrick was                  ... pos = 0.875 	neg = 1.125
+5. With films like "200                 ... pos = 0.0   	neg = 0.125
+6. Kubrick's 17th and f                 ... pos = 0.5   	neg = 0.25 
+7. In "Eyes Wide Shut",                 ... pos = 0.375 	neg = 0.125
+8. The film opens as Bi                 ... pos = 0.875 	neg = 0.0  
+9. At the party, both A                 ... pos = 0.5   	neg = 0.0  
+10. That night, after th                ... pos = 0.0   	neg = 0.5  
+11. After she describes                 ... pos = 0.375 	neg = 0.125
+12. These involve a hook                ... pos = 0.0   	neg = 0.0  
+13. Bill ends up getting                ... pos = 0.75  	neg = 0.25 
+14. The succession of ev                ... pos = 0.375 	neg = 0.0  
+15. There is a scene, wh                ... pos = 0.75  	neg = 0.25 
+16. "Eyes Wide Shut" gar                ... pos = 0.625 	neg = 0.625
+17. But everything seems                ... pos = 0     	neg = 0.75 
+18. Cruise and Kidman fi                ... pos = 1.125 	neg = 0.0  
+19. The film is excellen                ... pos = 2.125 	neg = 0.25 
+20. Kubrick magically pu                ... pos = 0.75  	neg = 0.0  
+21. "Eyes Wide Shut" is                 ... pos = 0.25  	neg = 0.125
+22. The years that have                 ... pos = 0.75  	neg = 0.25 
+23. The film is quite lo                ... pos = 0.25  	neg = 0.5  
+24. Those expecting a To                ... pos = 0.375 	neg = 0.125
+25. Those looking for ch                ... pos = 0.625 	neg = 0.125
+26. Stanley Kubrick's le                ... pos = 0.125 	neg = 0.0  
+27. Although he may have                ... pos = 0.0   	neg = 0.125
+28. He gave us something                ... pos = 0.0   	neg = 0.0  
+29. There is always more                ... pos = 0.375 	neg = 0.5  
+30. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1684-421 is Positive         ... pos = 13.5  	neg = 6.75 
+Overall score of document
+Total Pos = 13.5
+Total Neg = 6.75
+---------------------------------------------------------------------------

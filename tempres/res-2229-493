@@ -1,0 +1,58 @@
+0. Big Daddy is a very                  ... pos = 1.0   	neg = 0.125
+1. I was flipping back                  ... pos = 0.0   	neg = 0.625
+2. Despite its flaws, i                 ... pos = 1.5   	neg = 0.125
+3. However, its flaws d                 ... pos = 0.125 	neg = 0    
+4. Adam Sandler is maki                 ... pos = 0.0   	neg = 0.125
+5. He should no longer                  ... pos = 0.125 	neg = 0.125
+6. For those of us accu                 ... pos = 0.0   	neg = 1.25 
+7. However, The Wedding                 ... pos = 0.375 	neg = 0.875
+8. Sandler does an admi                 ... pos = 0.75  	neg = 0.0  
+9. He works one day a w                 ... pos = 0.0   	neg = 0.0  
+10. However, things star                ... pos = 0.125 	neg = 0.0  
+11. His girlfriend Vanes                ... pos = 0.125 	neg = 0.0  
+12. His roommate (Jon St                ... pos = 0.0   	neg = 0.125
+13. Sonny hates his room                ... pos = 0.5   	neg = 0.375
+14. Things get started a                ... pos = 0.0   	neg = 0.125
+15. This is where the ma                ... pos = 0.0   	neg = 0.125
+16. First, Stewart just                 ... pos = 0.125 	neg = 0.25 
+17. After Assuring Sonny                ... pos = 0.0   	neg = 0.375
+18. He is in the first t                ... pos = 0.125 	neg = 0.125
+19. And he basically ser                ... pos = 0.0   	neg = 0.25 
+20. I have no problem wi                ... pos = 0.0   	neg = 0.625
+21. But, he is used only                ... pos = 0.0   	neg = 0.375
+22. The other flaw is wh                ... pos = 0.0   	neg = 0.875
+23. They all of a sudden                ... pos = 0.25  	neg = 0.875
+24. These things are bot                ... pos = 0.75  	neg = 0.375
+25. After Stewart leaves                ... pos = 0.0   	neg = 0.0  
+26. The relationship bet                ... pos = 0.5   	neg = 0    
+27. For once in a Sandle                ... pos = 0.0   	neg = 0.125
+28. Sonny wants to raise                ... pos = 0.5   	neg = 0.125
+29. "  But, it is great                 ... pos = 0.375 	neg = 0.125
+30. But do not worry San                ... pos = 0.75  	neg = 0.25 
+31. Cole and Dylan Sprou                ... pos = 0.625 	neg = 0.625
+32. They are the perfect                ... pos = 0.25  	neg = 0.0  
+33. Joey Lauren Adams is                ... pos = 0.0   	neg = 0.25 
+34. Rob Schneider is gre                ... pos = 0.0   	neg = 0.125
+35. He shows that Sandle                ... pos = 0.0   	neg = 0.25 
+36. Schneider not only t                ... pos = 0.0   	neg = 0.875
+37. Now, I was ready to                 ... pos = 0.25  	neg = 0.125
+38. I could not even fat                ... pos = 0.0   	neg = 1.0  
+39. Despite the trip-ups                ... pos = 0.125 	neg = 0.0  
+40. Then, things went so                ... pos = 0.0   	neg = 0.125
+41. Jon Stewart comes ba                ... pos = 0.0   	neg = 0.0  
+42. After all the bondin                ... pos = 0.125 	neg = 0.125
+43. Now, you would expec                ... pos = 0.0   	neg = 0.0  
+44. No, he keeps the chi                ... pos = 0.0   	neg = 0.25 
+45. Then they all of a s                ... pos = 1.625 	neg = 0.625
+46. Well, this ending is                ... pos = 0.625 	neg = 0.75 
+47. How could they do th                ... pos = 0     	neg = 0.0  
+48. They ruined a perfec                ... pos = 1.25  	neg = 0.5  
+49. But, despite all of                 ... pos = 0.0   	neg = 0.0  
+50. It is funny and if y                ... pos = 0.0   	neg = 0.25 
+51. Two And A Half Stars                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2229-493 is Negative         ... pos = 13.0  	neg = 14.625
+Overall score of document
+Total Pos = 13.0
+Total Neg = 14.625
+---------------------------------------------------------------------------

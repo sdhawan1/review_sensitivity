@@ -1,0 +1,52 @@
+0. Starring Samuel L. J                 ... pos = 0.5   	neg = 0.0  
+1. Directed by William                  ... pos = 0.0   	neg = 0    
+2. Rated R.. I'm not th                 ... pos = 0.5   	neg = 0.125
+3. The movie itself is                  ... pos = 0.5   	neg = 0.875
+4. I've heard that the                  ... pos = 0.875 	neg = 0.25 
+5. As it stands, I woul                 ... pos = 1.125 	neg = 0.125
+6. The movie begins in                  ... pos = 0.25  	neg = 0.5  
+7. Hodges is shot.                      ... pos = 0.0   	neg = 0.125
+8. A desperate Childers                 ... pos = 0.0   	neg = 0.875
+9. He then drages Hodge                 ... pos = 0.0   	neg = 0.0  
+10. This scene is there                 ... pos = 1.125 	neg = 0.25 
+11. Years pass.                         ... pos = 0.0   	neg = 0.0  
+12. Hayes Hodges is now                 ... pos = 0.0   	neg = 0.25 
+13. One day, he is sent                 ... pos = 0.375 	neg = 0.125
+14. In essense, this is                 ... pos = 0.0   	neg = 0.125
+15. But things get more                 ... pos = 0.0   	neg = 0.0  
+16. It seems there are s                ... pos = 0.25  	neg = 0.25 
+17. Childers' marines st                ... pos = 0.0   	neg = 0.0  
+18. Panicking, Childers                 ... pos = 0.0   	neg = 0.5  
+19. " 73 Yemenese civili                ... pos = 0.25  	neg = 0.5  
+20. Back at home, the he                ... pos = 0.625 	neg = 0.0  
+21. The National Securit                ... pos = 0.375 	neg = 0.25 
+22. He destroys the tape                ... pos = 0.0   	neg = 0.0  
+23. Childers is court ma                ... pos = 0.0   	neg = 0.125
+24. He asks his old frie                ... pos = 0.25  	neg = 0    
+25. At first, Hayes is r                ... pos = 0.875 	neg = 0.25 
+26. ") but finally gives                ... pos = 0.125 	neg = 0.0  
+27. Meanwhile, Major Mar                ... pos = 0.0   	neg = 0.0  
+28. Rules of Engagement                 ... pos = 0.0   	neg = 0.125
+29. It was directed by W                ... pos = 0.5   	neg = 0.125
+30. He uses camera trick                ... pos = 0.625 	neg = 0.125
+31. Friedkin really has                 ... pos = 0.0   	neg = 0.0  
+32. Jackson is excellent                ... pos = 1.25  	neg = 0.375
+33. Even in his characte                ... pos = 0.25  	neg = 0.0  
+34. Jones has opportunit                ... pos = 0.0   	neg = 0.0  
+35. Despite being typeca                ... pos = 0.625 	neg = 0    
+36. I also liked what Gu                ... pos = 0.125 	neg = 0.75 
+37. He's a villain in th                ... pos = 0.125 	neg = 0.875
+38. It should be said th                ... pos = 0.0   	neg = 0.375
+39. It doesn't know what                ... pos = 0.25  	neg = 0.0  
+40. It takes a point of                 ... pos = 0.0   	neg = 0.25 
+41. And then it begins t                ... pos = 0.125 	neg = 0.0  
+42. It goes back and for                ... pos = 1.5   	neg = 0.0  
+43. The courtroom scenes                ... pos = 0.0   	neg = 0.0  
+44. When push comes to s                ... pos = 0.25  	neg = 1.0  
+45. It's not brain food,                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1213-563 is Positive         ... pos = 13.75 	neg = 9.875
+Overall score of document
+Total Pos = 13.75
+Total Neg = 9.875
+---------------------------------------------------------------------------

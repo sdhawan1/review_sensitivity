@@ -1,0 +1,38 @@
+0. Cast: Oprah Winfrey,                 ... pos = 0.125 	neg = 0.0  
+1. " argument, I will s                 ... pos = 0.375 	neg = 0.0  
+2. The point of going t                 ... pos = 0.0   	neg = 0.125
+3. You as a moviegoer a                 ... pos = 0.625 	neg = 0.25 
+4. Well, about 55 minut                 ... pos = 0.375 	neg = 1.0  
+5. Something tells me t                 ... pos = 0.0   	neg = 0.125
+6. In those first 55 mi                 ... pos = 0.625 	neg = 0.625
+7. She is also haunted                  ... pos = 0.25  	neg = 0.125
+8. Soon, an old friend                  ... pos = 1.25  	neg = 0.5  
+9. Beloved opens with c                 ... pos = 1.0   	neg = 0.625
+10. The dog crashes into                ... pos = 0.0   	neg = 1.375
+11. Sethe scoops up the                 ... pos = 0.25  	neg = 0.375
+12. Over the next 55 min                ... pos = 1.875 	neg = 0.125
+13. Now I've been making                ... pos = 0.125 	neg = 0.25 
+14. The reason for that                 ... pos = 0.75  	neg = 1.125
+15. I asked myself, "Do                 ... pos = 0.125 	neg = 0.5  
+16. "  I don't get paid                 ... pos = 0.0   	neg = 0.0  
+17. I'm doing it because                ... pos = 0.375 	neg = 0.0  
+18. Beloved was not brin                ... pos = 0.125 	neg = 0.125
+19. I'd rather be watchi                ... pos = 1.625 	neg = 0.125
+20. Hell, I could even g                ... pos = 0.375 	neg = 0.5  
+21. ANYTHING at all woul                ... pos = 0.125 	neg = 0.25 
+22. Yes I understand it                 ... pos = 1.5   	neg = 0.25 
+23. I'd had enough.                     ... pos = 0     	neg = 0.0  
+24. And who knows, maybe                ... pos = 0.375 	neg = 0.375
+25. Like I said though,                 ... pos = 0.25  	neg = 0.25 
+26. Beloved is available                ... pos = 0.5   	neg = 0.125
+27. It contains the film                ... pos = 0.125 	neg = 0.0  
+28. The quality of the D                ... pos = 0.5   	neg = 0.125
+29. Enjoy.                              ... pos = 0.375 	neg = 0    
+30. [R]. The Jacksonvill                ... pos = 0.0   	neg = 0.0  
+31. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3335-515 is Positive         ... pos = 14.25 	neg = 9.625
+Overall score of document
+Total Pos = 14.25
+Total Neg = 9.625
+---------------------------------------------------------------------------

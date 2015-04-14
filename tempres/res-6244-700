@@ -1,0 +1,28 @@
+0. Release Date: June 1                 ... pos = 1.125 	neg = 0.0  
+1. STAR WARS, RAIDERS O                 ... pos = 0.0   	neg = 0.0  
+2. This new conglomerat                 ... pos = 0.875 	neg = 0.875
+3. Although marketed ea                 ... pos = 0.25  	neg = 0.0  
+4. Instead, it comes ou                 ... pos = 0.125 	neg = 0.875
+5. Director Ivan Reitma                 ... pos = 0.125 	neg = 0.25 
+6. Frank Martin (David                  ... pos = 0.375 	neg = 0.625
+7. However, Robin, a ma                 ... pos = 0.875 	neg = 0.25 
+8. While on the way, th                 ... pos = 0.75  	neg = 0.5  
+9. Ford, who's by far t                 ... pos = 0.25  	neg = 0.125
+10. His performance in t                ... pos = 0.5   	neg = 0.0  
+11. His character - a pi                ... pos = 1.125 	neg = 1.125
+12. Heche, on the other                 ... pos = 0.125 	neg = 0.375
+13. Her character is too                ... pos = 2.375 	neg = 0.375
+14. In fact, the only pa                ... pos = 1.375 	neg = 0.0  
+15. Schwimmer is adaquat                ... pos = 0.125 	neg = 0.5  
+16. All told, the promis                ... pos = 0.0   	neg = 0.125
+17. The romance here sho                ... pos = 0.875 	neg = 0.0  
+18. It takes quite a bit                ... pos = 0.125 	neg = 0.0  
+19. Ford, although he ha                ... pos = 0.75  	neg = 0.25 
+20. This summer, there a                ... pos = 0.25  	neg = 0.0  
+21. FINAL AWARD FOR "SIX                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6244-700 is Positive         ... pos = 12.875 	neg = 6.25 
+Overall score of document
+Total Pos = 12.875
+Total Neg = 6.25
+---------------------------------------------------------------------------

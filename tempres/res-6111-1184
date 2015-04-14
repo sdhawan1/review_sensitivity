@@ -1,0 +1,25 @@
+0. STARRING:  Johnny De                 ... pos = 0.25  	neg = 0.625
+1. Yet, his bleak Gothi                 ... pos = 2.25  	neg = 0.125
+2. )  Underlined with s                 ... pos = 1.0   	neg = 0.125
+3. was just plain dread                 ... pos = 0.0   	neg = 0.875
+4. )  These same artist                 ... pos = 1.0   	neg = 0.125
+5. The film's plot bear                 ... pos = 0.0   	neg = 0.5  
+6. Ichabod Crane is now                 ... pos = 0.0   	neg = 0.125
+7. This allows the writ                 ... pos = 1.0   	neg = 0.625
+8. Thrown in for good m                 ... pos = 0.875 	neg = 0.5  
+9. In fact, Sleepy Holl                 ... pos = 1.5   	neg = 0.375
+10. ). This is not to sa                ... pos = 0.0   	neg = 0.25 
+11. On the contrary, it'                ... pos = 0.0   	neg = 0.0  
+12. Pastoral vistas of u                ... pos = 1.25  	neg = 0.375
+13. They're like an Edwa                ... pos = 0.0   	neg = 0.0  
+14. Even the few dayligh                ... pos = 1.125 	neg = 0.0  
+15. Depp's Ichabod Crane                ... pos = 1.75  	neg = 0.5  
+16. )  Ricci, on the oth                ... pos = 0.125 	neg = 0.5  
+17. Thanks to the demand                ... pos = 1.375 	neg = 0.375
+18. Worse, the villain i                ... pos = 0.625 	neg = 2.875
+---------------------------------------------------------------------------
+./temp/tmp-6111-1184 is Positive        ... pos = 14.125 	neg = 8.875
+Overall score of document
+Total Pos = 14.125
+Total Neg = 8.875
+---------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+0. Directed by Roland E                 ... pos = 0.125 	neg = 0.0  
+1. I had been meaning t                 ... pos = 0.0   	neg = 0.5  
+2. I thought it would b                 ... pos = 0.125 	neg = 0.125
+3. Unfortunately, the s                 ... pos = 0.0   	neg = 1.125
+4. Oh well, I guess I s                 ... pos = 0.0   	neg = 0.0  
+5. In ID4 (as I will re                 ... pos = 0.375 	neg = 0.125
+6. That's about it real                 ... pos = 0.0   	neg = 0.0  
+7. I could go through t                 ... pos = 0.125 	neg = 0.75 
+8. This is after all, a                 ... pos = 0.875 	neg = 0.375
+9. I have no problem wi                 ... pos = 0.0   	neg = 0.25 
+10. Although I do prefer                ... pos = 1.75  	neg = 0.125
+11. The problem with ID4                ... pos = 0.0   	neg = 0.75 
+12. I thought it would b                ... pos = 0.0   	neg = 0.375
+13. It wasn't.                          ... pos = 0.0   	neg = 0    
+14. To be brutally hones                ... pos = 0.625 	neg = 0.25 
+15. It was a *real* stru                ... pos = 1.0   	neg = 0.875
+16. The fact that I lost                ... pos = 0.625 	neg = 0.125
+17. The main problem wit                ... pos = 1.875 	neg = 0.75 
+18. I'm sorry but I  cou                ... pos = 0.375 	neg = 1.0  
+19. I don't wish to impl                ... pos = 0.5   	neg = 0.625
+20. I am saying however                 ... pos = 0.25  	neg = 0.375
+21. The one scene I enjo                ... pos = 0.375 	neg = 0.125
+22. I don't mind admitti                ... pos = 0.625 	neg = 0.0  
+23. Boy, was I embarrass                ... pos = 0.25  	neg = 0.375
+24. A classic horror fil                ... pos = 1.125 	neg = 0.0  
+25. The acting in the fi                ... pos = 0.0   	neg = 0.375
+26. The actors  let the                 ... pos = 0.0   	neg = 0.375
+27. This was hardly the                 ... pos = 1.25  	neg = 0.25 
+28. Bill Pullman, who is                ... pos = 0.0   	neg = 0.875
+29. The script called fo                ... pos = 0.0   	neg = 0.5  
+30. Such a waste of his                 ... pos = 0.0   	neg = 0.125
+31. Will Smith gave a wo                ... pos = 1.989 	neg = 0.125
+32. The sooner Will Smit                ... pos = 0.875 	neg = 0.125
+33. Judd Hirsch was the                 ... pos = 0.375 	neg = 0.125
+34. His funny and touchi                ... pos = 0.75  	neg = 0.125
+35. The other really goo                ... pos = 1.25  	neg = 0.25 
+36. His very appearance                 ... pos = 0.5   	neg = 0.125
+37. I am barely familiar                ... pos = 0.75  	neg = 0.25 
+38. Although I didn't en                ... pos = 0.875 	neg = 0.0  
+39. Review written on Su                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4487-656 is Positive         ... pos = 20.239 	neg = 12.625
+Overall score of document
+Total Pos = 20.239
+Total Neg = 12.625
+---------------------------------------------------------------------------

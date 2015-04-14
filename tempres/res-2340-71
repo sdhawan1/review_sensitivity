@@ -1,0 +1,53 @@
+0. Visit Online Film Cr                 ... pos = 0.25  	neg = 0.0  
+1. Set around  the time                 ... pos = 0.0   	neg = 0.125
+2. The opening shots es                 ... pos = 0.125 	neg = 0.0  
+3. The camera settles i                 ... pos = 0.375 	neg = 0.125
+4. Some students are cy                 ... pos = 0.25  	neg = 0.0  
+5. We have rock 'n'  ro                 ... pos = 0     	neg = 0.0  
+6. ". Seventeen year-ol                 ... pos = 1.375 	neg = 0.0  
+7. When Homer makes up                  ... pos = 0.125 	neg = 0.5  
+8. Their first attempt                  ... pos = 0.125 	neg = 0.125
+9. What follows is the                  ... pos = 0.0   	neg = 0.125
+10. John Hickam (Chris C                ... pos = 0.125 	neg = 0.0  
+11. So the foursome walk                ... pos = 0.0   	neg = 0.25 
+12. A good deal of humor                ... pos = 0.75  	neg = 0.125
+13. The homemade rockets                ... pos = 0.625 	neg = 0.0  
+14. Of course the boys m                ... pos = 0.125 	neg = 0.0  
+15. Will they succeed ev                ... pos = 0.625 	neg = 0.0  
+16. In other words, will                ... pos = 0.125 	neg = 0.5  
+17. Director Joe Johnsto                ... pos = 0.0   	neg = 0.0  
+18. Their story moves  l                ... pos = 0.0   	neg = 0.375
+19. Perhaps we believe i                ... pos = 0.875 	neg = 0.0  
+20. Homer H.  Hickam Jr.                ... pos = 0.5   	neg = 0.0  
+21. Tinged by nostalgia,                ... pos = 0.0   	neg = 0.625
+22. We watch the boys gr                ... pos = 1.375 	neg = 0.0  
+23. Yes, it's a cliché                 ... pos = 0.75  	neg = 1.0  
+24. A result of solid ca                ... pos = 0.75  	neg = 0.125
+25. Laura  Dern is the b                ... pos = 0.0   	neg = 0.125
+26. Though her accent  s                ... pos = 0.5   	neg = 0.125
+27. "  Chris Cooper is a                ... pos = 0.875 	neg = 0.875
+28. Our distance toward                 ... pos = 0.0   	neg = 0    
+29. We  dislike him when                ... pos = 1.5   	neg = 0.375
+30. Cooper plays well an                ... pos = 0.0   	neg = 0.0  
+31. But Jake Gyllenhaal                 ... pos = 0.0   	neg = 0.125
+32. This young man has n                ... pos = 0.0   	neg = 0.75 
+33. His looks and manner                ... pos = 0.25  	neg = 0.375
+34. He also carries  sce                ... pos = 0.0   	neg = 0.0  
+35. The photography is m                ... pos = 0.125 	neg = 0.375
+36. There is a shot that                ... pos = 0.125 	neg = 1.125
+37. Other scenes are edi                ... pos = 0.5   	neg = 0.0  
+38. Long shots of rocket                ... pos = 1.25  	neg = 0.375
+39. The score is punctua                ... pos = 0.25  	neg = 0.125
+40. Important scenes are                ... pos = 1.5   	neg = 0.125
+41. Why is 'October Sky'                ... pos = 0     	neg = 0.125
+42. Their different  nat                ... pos = 0.75  	neg = 0.0  
+43. The main point of  c                ... pos = 0.0   	neg = 0.125
+44. 'Blast from the  Pas                ... pos = 0.375 	neg = 0.0  
+45. 'October Sky' is a s                ... pos = 0.125 	neg = 0.125
+46. Although the last se                ... pos = 1.375 	neg = 1.625
+---------------------------------------------------------------------------
+./temp/tmp-2340-71 is Positive          ... pos = 18.75 	neg = 10.875
+Overall score of document
+Total Pos = 18.75
+Total Neg = 10.875
+---------------------------------------------------------------------------

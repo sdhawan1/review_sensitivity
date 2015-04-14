@@ -1,0 +1,45 @@
+0. Director: Frank Cora                 ... pos = 0.25  	neg = 0.0  
+1. Even though I try ve                 ... pos = 0.75  	neg = 0.75 
+2. But I don't care.                    ... pos = 0     	neg = 0.0  
+3. Not even a little.                   ... pos = 0.0   	neg = 0.25 
+4. My reasons for this                  ... pos = 0.25  	neg = 0.125
+5. 2) Drew Barrymore is                 ... pos = 0.0   	neg = 0.125
+6. 3) The movie is so f                 ... pos = 0     	neg = 0.125
+7. There are parts that                 ... pos = 0.25  	neg = 0.875
+8. I haven't laughed th                 ... pos = 0.0   	neg = 0.75 
+9. Sandler plays Robby                  ... pos = 0.625 	neg = 0.0  
+10. In the opening scene                ... pos = 2.25  	neg = 0.375
+11. A week later, at his                ... pos = 0.0   	neg = 0.125
+12. With his life in com                ... pos = 0.0   	neg = 0.0  
+13. She is engaged to Gl                ... pos = 0.0   	neg = 0.25 
+14. Julia and Robby beco                ... pos = 0.875 	neg = 0.0  
+15. Soon (and predictabl                ... pos = 0.625 	neg = 0.25 
+16. Oh sure, it's trite.                ... pos = 0.25  	neg = 0.375
+17. And if anyone making                ... pos = 0.625 	neg = 0.125
+18. What makes the story                ... pos = 0.5   	neg = 0.75 
+19. Barrymore is simply                 ... pos = 0.5   	neg = 0.5  
+20. Not only is she plea                ... pos = 2.375 	neg = 0.75 
+21. And the Jerk, played                ... pos = 0.25  	neg = 1.0  
+22. Naturally, the true                 ... pos = 0.625 	neg = 0.125
+23. I think the guy is f                ... pos = 0.25  	neg = 0.125
+24. He can say something                ... pos = 0.0   	neg = 0.0  
+25. His comedic performa                ... pos = 1.625 	neg = 0.0  
+26. Whereas his roles in                ... pos = 1.375 	neg = 0.0  
+27. As far as I'm concer                ... pos = 0.125 	neg = 0.25 
+28. And the movie is jus                ... pos = 0     	neg = 0.125
+29. Perhaps the best mom                ... pos = 1.25  	neg = 0.875
+30. This is the part tha                ... pos = 0.0   	neg = 0.125
+31. And while the film,                 ... pos = 2.0   	neg = 0.0  
+32. My formal complaints                ... pos = 1.375 	neg = 0.0  
+33. The film is predicab                ... pos = 0.0   	neg = 0.125
+34. The characters are e                ... pos = 2.375 	neg = 0.25 
+35. In addition to this,                ... pos = 0.25  	neg = 0.5  
+36. In that order, I con                ... pos = 0.0   	neg = 0.625
+37. I just want everyone                ... pos = 0     	neg = 0.125
+38. A lot.. .                           ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4133-760 is Positive         ... pos = 21.625 	neg = 10.75
+Overall score of document
+Total Pos = 21.625
+Total Neg = 10.75
+---------------------------------------------------------------------------

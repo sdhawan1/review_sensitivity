@@ -1,0 +1,20 @@
+0. You can't really do                  ... pos = 0.0   	neg = 0.0  
+1. Oh, people have trie                 ... pos = 0.0   	neg = 0.5  
+2. so Robert Duvall do                 ... pos = 0.0   	neg = 0.125
+3. It's close, though.                  ... pos = 0.0   	neg = 0    
+4. Duvall is The Revere                 ... pos = 0.125 	neg = 0.125
+5. Jessie retaliates by                 ... pos = 0.375 	neg = 0.125
+6. Upset at this turn o                 ... pos = 0.0   	neg = 0.0  
+7. Justly wanted for mu                 ... pos = 0.125 	neg = 0.0  
+8. Along the way he mee                 ... pos = 0.375 	neg = 0.125
+9. While there is a fai                 ... pos = 0.0   	neg = 0.375
+10. He's good at it, too                ... pos = 0.75  	neg = 0.25 
+11. But the flaw(if you                 ... pos = 0.0   	neg = 0.125
+12. It barely works as a                ... pos = 0.875 	neg = 0.0  
+13. This is great perfor                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5199-907 is Positive         ... pos = 2.625 	neg = 1.875
+Overall score of document
+Total Pos = 2.625
+Total Neg = 1.875
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. Starring:        Kev                 ... pos = 0.75  	neg = 0.125
+1. Last year there was                  ... pos = 0.0   	neg = 0.125
+2. So, there is no ques                 ... pos = 0.375 	neg = 0.5  
+3. Both have similar st                 ... pos = 0.375 	neg = 0.0  
+4. In Stir of Echoes th                 ... pos = 0.0   	neg = 0.125
+5. He is the only one o                 ... pos = 0.625 	neg = 0.5  
+6. Her post-hypnotic su                 ... pos = 0.25  	neg = 0.0  
+7. But he can't seem to                 ... pos = 0.125 	neg = 0.125
+8. And, his wife, Maggi                 ... pos = 1.125 	neg = 0    
+9. Even at a cemetery,                  ... pos = 0.875 	neg = 0.0  
+10. When Jake reminds hi                ... pos = 0.5   	neg = 0.0  
+11. She does.                           ... pos = 0.0   	neg = 0    
+12. The major problem he                ... pos = 0.75  	neg = 0.5  
+13. Oh, yes, there is a                 ... pos = 0.0   	neg = 0.125
+14. Who is the ghost?                   ... pos = 0.0   	neg = 0.125
+15. Why is she there?                   ... pos = 0     	neg = 0.125
+16. Well, it doesn't tak                ... pos = 0.0   	neg = 1.25 
+17. But who did it?                     ... pos = 0.0   	neg = 0.0  
+18. There are some scary                ... pos = 0.375 	neg = 0.875
+19. As for the acting, K                ... pos = 0.0   	neg = 0.5  
+20. But now we have anot                ... pos = 0.0   	neg = 0.25 
+21. It's not a movie for                ... pos = 0.25  	neg = 0.0  
+22. As for me, I might w                ... pos = 0.125 	neg = 0.5  
+23. I give it a C.. .                   ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4548-989 is Positive         ... pos = 6.5   	neg = 5.75 
+Overall score of document
+Total Pos = 6.5
+Total Neg = 5.75
+---------------------------------------------------------------------------

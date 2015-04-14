@@ -1,0 +1,27 @@
+0. Release Date: June 5                 ... pos = 1.875 	neg = 0.375
+1. Innovative and deter                 ... pos = 2.375 	neg = 0.125
+2. It's only a base, th                 ... pos = 0.75  	neg = 0.0  
+3. The movie almost set                 ... pos = 0.0   	neg = 0.0  
+4. The opening credits                  ... pos = 0.0   	neg = 0.0  
+5. In this way, Directo                 ... pos = 1.125 	neg = 0.125
+6. The movie continues                  ... pos = 0.875 	neg = 0.125
+7. He's the only princi                 ... pos = 0.0   	neg = 0.0  
+8. All of his friends a                 ... pos = 0.625 	neg = 0.0  
+9. Although the show ha                 ... pos = 0.0   	neg = 0.875
+10. The first half of th                ... pos = 1.125 	neg = 0.375
+11. But as the story pro                ... pos = 0.5   	neg = 0.0  
+12. The downside to this                ... pos = 0.5   	neg = 0.625
+13. Great narrative hook                ... pos = 0.875 	neg = 0.25 
+14. Into the movie's sec                ... pos = 0.875 	neg = 0.875
+15. Masterfully done by                 ... pos = 0.625 	neg = 0.125
+16. Dynamic enough, thou                ... pos = 1.5   	neg = 1.0  
+17. The characters and s                ... pos = 1.25  	neg = 0.5  
+18. All in all a perfect                ... pos = 0.5   	neg = 0    
+19. With the sudden fail                ... pos = 0.0   	neg = 0.5  
+20. FINAL AWARD FOR "THE                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5847-700 is Positive         ... pos = 16.625 	neg = 5.875
+Overall score of document
+Total Pos = 16.625
+Total Neg = 5.875
+---------------------------------------------------------------------------

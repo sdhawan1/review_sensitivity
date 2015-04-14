@@ -1,0 +1,46 @@
+0. "Here's a painting b                 ... pos = 0.375 	neg = 0    
+1. It's entitled 'Die P                 ... pos = 0.0   	neg = 0.0  
+2. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+3. Hollywood actors wit                 ... pos = 1.125 	neg = 0.875
+4. This has led to the                  ... pos = 0.625 	neg = 0.125
+5. Thus his performance                 ... pos = 0.0   	neg = 0.125
+6. As many have pointed                 ... pos = 0.0   	neg = 0.125
+7. A shame his personal                 ... pos = 0.375 	neg = 0.75 
+8. Mickey Blue Eyes is                  ... pos = 0.75  	neg = 0.25 
+9. It is not the outrig                 ... pos = 0.125 	neg = 0.125
+10. was and it takes its                ... pos = 0.75  	neg = 0.125
+11. Grant plays Michael                 ... pos = 1.375 	neg = 0.125
+12. He finds an elaborat                ... pos = 0.375 	neg = 0.125
+13. It backfires, but wh                ... pos = 0.0   	neg = 0.0  
+14. Why?                                ... pos = 0     	neg = 0.0  
+15. Mike finds out that                 ... pos = 0.0   	neg = 0.125
+16. Most of her relative                ... pos = 1.125 	neg = 0.0  
+17. Gina insists that sh                ... pos = 0.125 	neg = 0.0  
+18. They do you one favo                ... pos = 0.125 	neg = 0.0  
+19. Eventually Gina give                ... pos = 0.25  	neg = 0.0  
+20. He does, of course.                 ... pos = 0.0   	neg = 0.0  
+21. The mob scratches hi                ... pos = 0.0   	neg = 0.375
+22. They (Gina's father,                ... pos = 0.125 	neg = 0.625
+23. This gets Michael in                ... pos = 0.25  	neg = 0.625
+24. Scripted by Adam Sch                ... pos = 0.75  	neg = 0.375
+25. The jabs at the mafi                ... pos = 0.25  	neg = 0.125
+26. but they are twice a                ... pos = 0.875 	neg = 0.0  
+27. A few, indeed, garne                ... pos = 0.125 	neg = 0.375
+28. The highlight of thi                ... pos = 1.625 	neg = 0.125
+29. Everything he tries                 ... pos = 0.375 	neg = 0.125
+30. Hugh Grant is equall                ... pos = 0.25  	neg = 0.375
+31. The only weak link i                ... pos = 0.875 	neg = 1.375
+32. Why would Hugh Grant                ... pos = 0.0   	neg = 0.125
+33. It's a shame that th                ... pos = 0.0   	neg = 0.875
+34. Funny as those may b                ... pos = 0.375 	neg = 0.875
+35. That worked so well                 ... pos = 0.0   	neg = 0.0  
+36. The ending of the mo                ... pos = 0.625 	neg = 1.0  
+37. Affectionate, hilari                ... pos = 2.25  	neg = 0.125
+38. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+39. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3147-563 is Positive         ... pos = 16.375 	neg = 10.375
+Overall score of document
+Total Pos = 16.375
+Total Neg = 10.375
+---------------------------------------------------------------------------

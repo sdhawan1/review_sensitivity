@@ -1,0 +1,32 @@
+0. GO (Columbia - 1999)                 ... pos = 0.0   	neg = 0.0  
+1. Freeman,       Katie                 ... pos = 0.125 	neg = 0.125
+2. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+3. --------------------                 ... pos = 1.25  	neg = 0.125
+4. It's    the sort of                  ... pos = 1.0   	neg = 0.125
+5. So frenetic is GO, s                 ... pos = 1.0   	neg = 0.875
+6. Wearing its sardonic                 ... pos = 1.25  	neg = 0.75 
+7. We meet Ronna (Sarah                 ... pos = 0.0   	neg = 0.375
+8. There's her co-worke                 ... pos = 0.125 	neg = 0.5  
+9. And there's Adam (Sc                 ... pos = 0.375 	neg = 0.0  
+10. The entire film, in                 ... pos = 2.375 	neg = 0.125
+11. While each of the vi                ... pos = 3.5   	neg = 0.75 
+12. Despite possessing e                ... pos = 2.375 	neg = 0.75 
+13. While there's nothin                ... pos = 3.5   	neg = 0.5  
+14. As good as Liman is                 ... pos = 2.375 	neg = 0.25 
+15. The film's    urgent                ... pos = 0.375 	neg = 0.125
+16. While it's Liman's p                ... pos = 0.125 	neg = 0.125
+17. I don't think that h                ... pos = 0.875 	neg = 0.125
+18. In his North America                ... pos = 0.875 	neg = 0.25 
+19. Katie Holmes, playin                ... pos = 1.5   	neg = 0.0  
+20. For all of its propu                ... pos = 0.0   	neg = 0.25 
+21. While this certainly                ... pos = 0.375 	neg = 0.25 
+22. Although PULP FICTIO                ... pos = 1.25  	neg = 0.125
+23. Ultimately, GO is no                ... pos = 1.0   	neg = 0.875
+24. -- Alex Fung (aw220@                ... pos = 0.375 	neg = 0.125
+25. "                                   ... pos = 0.375 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5367-717 is Positive         ... pos = 26.375 	neg = 7.625
+Overall score of document
+Total Pos = 26.375
+Total Neg = 7.625
+---------------------------------------------------------------------------

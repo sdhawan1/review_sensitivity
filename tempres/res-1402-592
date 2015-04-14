@@ -1,0 +1,21 @@
+0. ---A copy of this re                 ... pos = 1.25  	neg = 0.75 
+1. This, despite an oft                 ... pos = 1.25  	neg = 0.5  
+2. The movie requires a                 ... pos = 3.25  	neg = 1.278
+3. As the duo chat away                 ... pos = 0.0   	neg = 0.25 
+4. Unfortunately, as th                 ... pos = 0.875 	neg = 2.125
+5. Essentially, the mov                 ... pos = 1.25  	neg = 1.5  
+6. Interestingly, the f                 ... pos = 0.0   	neg = 0.25 
+7. Similar to one of th                 ... pos = 0.625 	neg = 0.375
+8. Unfortunately, Frequ                 ... pos = 0.0   	neg = 1.125
+9. It would be well wor                 ... pos = 2.25  	neg = 0.5  
+10. All the main charact                ... pos = 1.125 	neg = 0.0  
+11. With the exception o                ... pos = 0.0   	neg = 0.5  
+12. Baseball, the Americ                ... pos = 0.375 	neg = 0.25 
+13. Similarly, Frequency                ... pos = 0.125 	neg = 0.125
+14. Sure, there are a fe                ... pos = 0.5   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-1402-592 is Positive         ... pos = 12.875 	neg = 10.028
+Overall score of document
+Total Pos = 12.875
+Total Neg = 10.028
+---------------------------------------------------------------------------

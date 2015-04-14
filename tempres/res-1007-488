@@ -1,0 +1,33 @@
+0. Starring Michael Dou                 ... pos = 0.5   	neg = 0.0  
+1. (Gwyneth Paltrow).                   ... pos = 0     	neg = 0    
+2. Things are not going                 ... pos = 0.625 	neg = 0.0  
+3. This may have someth                 ... pos = 0.375 	neg = 0.125
+4. So Hubby decides to                  ... pos = 0.25  	neg = 0.625
+5. If that doesn't inte                 ... pos = 0.125 	neg = 0.0  
+6. Douglas's character                  ... pos = 0.875 	neg = 0    
+7. Except one little th                 ... pos = 0.0   	neg = 1.0  
+8. Now her husband must                 ... pos = 0.625 	neg = 0.0  
+9. A Perfect Murder is                  ... pos = 0.75  	neg = 0.25 
+10. This latest version                 ... pos = 0.5   	neg = 0.125
+11. I was amazed at the                 ... pos = 0.125 	neg = 0.25 
+12. The dialogue is also                ... pos = 0.125 	neg = 0.25 
+13. It's one thing to ha                ... pos = 0.75  	neg = 0.125
+14. Casting Michael Doug                ... pos = 0.375 	neg = 0.125
+15. He gives his usual s                ... pos = 0.375 	neg = 0.375
+16. That's not to say th                ... pos = 0.0   	neg = 0    
+17. Quite the opposite,                 ... pos = 0.375 	neg = 0.0  
+18. In both cases though                ... pos = 0.375 	neg = 0.25 
+19. Also worthy of menti                ... pos = 0.5   	neg = 0.5  
+20. To say it was stylis                ... pos = 0.5   	neg = 0.25 
+21. This is one good loo                ... pos = 0.75  	neg = 0.125
+22. The obvious attentio                ... pos = 0.0   	neg = 0.125
+23. A Perfect Murder is                 ... pos = 0.0   	neg = 0.125
+24. Not because you have                ... pos = 0.0   	neg = 0.125
+25. This is a tribute to                ... pos = 0.0   	neg = 0.125
+26. It also makes A Perf                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1007-488 is Positive         ... pos = 10.125 	neg = 4.875
+Overall score of document
+Total Pos = 10.125
+Total Neg = 4.875
+---------------------------------------------------------------------------

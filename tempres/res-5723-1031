@@ -1,0 +1,25 @@
+0. OFFICE SPACE Reviewe                 ... pos = 0.875 	neg = 0.125
+1. Aggravated by perfor                 ... pos = 0.0   	neg = 0.625
+2. But when the doctor                  ... pos = 0.875 	neg = 0.375
+3. Irritation and hatre                 ... pos = 0.625 	neg = 0.5  
+4. When the  boss ("The                 ... pos = 0.5   	neg = 0.625
+5. You go, boy.                         ... pos = 0.25  	neg = 0.0  
+6. Needless to say, muc                 ... pos = 0.625 	neg = 0.75 
+7. " "Office Space" pai                 ... pos = 0.875 	neg = 0.875
+8. (Incidents of mass                   ... pos = 0.125 	neg = 0.0  
+9. ) OK, so maybe pokin                 ... pos = 0.875 	neg = 0.25 
+10. Though Judge's cleve                ... pos = 2.375 	neg = 0.125
+11. Livingston, whose so                ... pos = 2.25  	neg = 0.125
+12. Cole has a lot of fu                ... pos = 1.625 	neg = 1.5  
+13. Friday's-like eatery                ... pos = 0.0   	neg = 0    
+14. Their romance is lar                ... pos = 0.0   	neg = 0.75 
+15. Also giving their al                ... pos = 1.125 	neg = 0.0  
+16. These subordinates,                 ... pos = 1.375 	neg = 0.25 
+17. Watching "Office Spa                ... pos = 0.875 	neg = 0.0  
+18. If they  follow suit                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5723-1031 is Positive        ... pos = 15.375 	neg = 7.0  
+Overall score of document
+Total Pos = 15.375
+Total Neg = 7.0
+---------------------------------------------------------------------------

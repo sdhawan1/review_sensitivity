@@ -1,0 +1,29 @@
+0. Writer-director Fran                 ... pos = 1.625 	neg = 0.0  
+1. With The Shawshank R                 ... pos = 0.75  	neg = 0.0  
+2. With The Green Mile,                 ... pos = 1.75  	neg = 0.625
+3. Tom Hanks stars as a                 ... pos = 0.5   	neg = 0.0  
+4. The prison regime, w                 ... pos = 0.75  	neg = 0.125
+5. Then the relationshi                 ... pos = 0.375 	neg = 0.25 
+6. Apart from Kubrick's                 ... pos = 0.375 	neg = 0.75 
+7. But with The Green M                 ... pos = 0.0   	neg = 0.0  
+8. First, we're asked t                 ... pos = 1.125 	neg = 0.0  
+9. Fine.                                ... pos = 0.0   	neg = 0    
+10. I'll go along with t                ... pos = 0.0   	neg = 0.0  
+11. That's what I'm here                ... pos = 0     	neg = 0.0  
+12. Then, disbelief nice                ... pos = 2.25  	neg = 0.375
+13. Give me a break.                    ... pos = 0.0   	neg = 0.0  
+14. In fantasy films, th                ... pos = 1.125 	neg = 0.125
+15. Introducing unexpect                ... pos = 0.125 	neg = 0.125
+16. Imagine an episode o                ... pos = 0.0   	neg = 0.625
+17. Doesn't work, does i                ... pos = 0.0   	neg = 0    
+18. Even if the mystical                ... pos = 1.875 	neg = 1.25 
+19. Although beautifully                ... pos = 0.375 	neg = 0.125
+20. It also suffers from                ... pos = 0.25  	neg = 0.375
+21. After a bum-numbing                 ... pos = 0.125 	neg = 0.25 
+22. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2549-312 is Positive         ... pos = 14.375 	neg = 5.0  
+Overall score of document
+Total Pos = 14.375
+Total Neg = 5.0
+---------------------------------------------------------------------------

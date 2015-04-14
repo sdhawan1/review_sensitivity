@@ -1,0 +1,36 @@
+0. Ingredients: Blood,                  ... pos = 0.0   	neg = 0.375
+1. In the original SPEC                 ... pos = 0.25  	neg = 0.125
+2. They do the experime                 ... pos = 0     	neg = 0.0  
+3. Out pops Sil (the be                 ... pos = 1.0   	neg = 1.0  
+4. A government assassi                 ... pos = 0.0   	neg = 0.0  
+5. But mostly we get to                 ... pos = 0.0   	neg = 0.75 
+6. In SPECIES II, astro                 ... pos = 0.125 	neg = 0.75 
+7. The only astronaut u                 ... pos = 0.125 	neg = 0.25 
+8. When the team return                 ... pos = 0.75  	neg = 1.0  
+9. Patrick picks up a l                 ... pos = 0.0   	neg = 0.125
+10. Meanwhile, Natasha H                ... pos = 0.5   	neg = 0.0  
+11. Dr. Laura Baker (Mar                ... pos = 0.0   	neg = 0.125
+12. When Patrick the ali                ... pos = 0.375 	neg = 1.0  
+13. They hope to use Eve                ... pos = 0.875 	neg = 0.125
+14. Opinion: There's not                ... pos = 0.125 	neg = 0.0  
+15. We must stop him fro                ... pos = 0.375 	neg = 0.0  
+16. "  Except make sure                 ... pos = 0.25  	neg = 0.25 
+17. Natasha Henstridge a                ... pos = 2.625 	neg = 0.125
+18. Similarly, Mykelti W                ... pos = 0.875 	neg = 0.0  
+19. Kudos to those two.                 ... pos = 0.0   	neg = 0    
+20. The other cast membe                ... pos = 0.5   	neg = 0.875
+21. For example, after a                ... pos = 0.0   	neg = 0.5  
+22. This is awful.                      ... pos = 0     	neg = 1.0  
+23. " Or how about Press                ... pos = 0.25  	neg = 0.0  
+24. He says something li                ... pos = 0.0   	neg = 0.125
+25. ". Or the scene wher                ... pos = 0.125 	neg = 0.125
+26. The doctor nonchalan                ... pos = 0.5   	neg = 0.0  
+27. But SPECIES II stick                ... pos = 0.0   	neg = 0.0  
+28. Basically SPECIES II                ... pos = 0.5   	neg = 0.25 
+29. It's all blood, bodi                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3814-416 is Positive         ... pos = 10.125 	neg = 9.25 
+Overall score of document
+Total Pos = 10.125
+Total Neg = 9.25
+---------------------------------------------------------------------------

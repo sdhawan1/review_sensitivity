@@ -1,0 +1,40 @@
+0. I suppose the main b                 ... pos = 0.875 	neg = 0.125
+1. It was something lik                 ... pos = 0.125 	neg = 0.25 
+2. The main drawback of                 ... pos = 0.375 	neg = 0.125
+3. Thumbs down: not a d                 ... pos = 0.25  	neg = 0.25 
+4. Basically, the movie                 ... pos = 0.0   	neg = 0.0  
+5. It's his last ride,                  ... pos = 0.5   	neg = 0.125
+6. Zorro 1.0 perhaps le                 ... pos = 1.0   	neg = 1.0  
+7. Flash forward about                  ... pos = 0.0   	neg = 0.0  
+8. A couple of kids who                 ... pos = 0.0   	neg = 0.0  
+9. During a botched rob                 ... pos = 0.875 	neg = 1.0  
+10. Antonio Bandaras get                ... pos = 0.0   	neg = 0.0  
+11. Meanwhile, a remarka                ... pos = 0.125 	neg = 1.25 
+12. Zorro 1.0 and Antoni                ... pos = 0.125 	neg = 0.0  
+13. They go off to train                ... pos = 0.0   	neg = 0.75 
+14. At this point, the n                ... pos = 0.875 	neg = 1.0  
+15. Included are wacky e                ... pos = 0.25  	neg = 0.375
+16. Remarkably quickly,                 ... pos = 0.5   	neg = 1.25 
+17. Instead of this happ                ... pos = 0.125 	neg = 0.375
+18. Hijinks!                            ... pos = 0     	neg = 0    
+19. Well, no, not much h                ... pos = 0.125 	neg = 0.5  
+20. If they were doing Z                ... pos = 0.625 	neg = 0.75 
+21. Oh, daughter is forw                ... pos = 0.0   	neg = 0.125
+22. Interesting how movi                ... pos = 0.75  	neg = 0.25 
+23. But I digress.                      ... pos = 0     	neg = 0.0  
+24. More things happen:                 ... pos = 1.5   	neg = 0.25 
+25. Yet more clevage, bu                ... pos = 0.25  	neg = 0.0  
+26. Mistreated workers a                ... pos = 1.0   	neg = 1.375
+27. If they didn't have                 ... pos = 0.25  	neg = 1.0  
+28. Head scratching mome                ... pos = 0.0   	neg = 0.375
+29. I'm aware that Sir L                ... pos = 0.5   	neg = 0.25 
+30. He's also not Zeus,                 ... pos = 0.0   	neg = 0.75 
+31. I have perhaps have                 ... pos = 0.125 	neg = 0.25 
+32. The sword fights the                ... pos = 0.75  	neg = 0.375
+33. Ai-ee-ee-ee-ee.. .                  ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-249-1441 is Negative         ... pos = 11.875 	neg = 14.125
+Overall score of document
+Total Pos = 11.875
+Total Neg = 14.125
+---------------------------------------------------------------------------

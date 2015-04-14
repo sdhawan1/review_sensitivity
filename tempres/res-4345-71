@@ -1,0 +1,57 @@
+0. A Film Review by Mar                 ... pos = 0.0   	neg = 0.0  
+1. There's the connecti                 ... pos = 0.25  	neg = 0.25 
+2. "   I grew up in New                 ... pos = 0.75  	neg = 0.75 
+3. The man is  just coo                 ... pos = 0.0   	neg = 0.5  
+4. The trouble is, he g                 ... pos = 0.25  	neg = 1.0  
+5. '   Travolta's Jan S                 ... pos = 0.0   	neg = 0.125
+6. Among  these players                 ... pos = 0.0   	neg = 0.125
+7. Gordon has the job o                 ... pos = 0.0   	neg = 0.125
+8. In a scene in  which                 ... pos = 1.375 	neg = 0.0  
+9. His style is not phy                 ... pos = 0.125 	neg = 0.5  
+10. Shalhoub and Ivanek,                ... pos = 0.5   	neg = 0.0  
+11. What's  weak here is                ... pos = 0.25  	neg = 0.625
+12. The town is Woburn (                ... pos = 1.375 	neg = 0.5  
+13. The  most visible pa                ... pos = 0.125 	neg = 0.125
+14. She  embarrasses Sch                ... pos = 0.125 	neg = 0.25 
+15. But on  his drive ba                ... pos = 0.0   	neg = 0.125
+16. He investigates, cat                ... pos = 0.0   	neg = 0.25 
+17. After he eyes operat                ... pos = 0.5   	neg = 0.125
+18. His firm commences t                ... pos = 0.0   	neg = 0.0  
+19. I've said already th                ... pos = 0.375 	neg = 0.125
+20. This guy is such a p                ... pos = 0.875 	neg = 0.125
+21. While Jan Schlichtma                ... pos = 0.125 	neg = 0.0  
+22. Facher, the legal ea                ... pos = 1.0   	neg = 0.125
+23. He may look like an                 ... pos = 1.25  	neg = 0.5  
+24. In a sequence of mas                ... pos = 0.875 	neg = 0.0  
+25. It's a relief that D                ... pos = 0.5   	neg = 0.25 
+26. Robert Duvall is one                ... pos = 0.875 	neg = 0.125
+27. The story develops i                ... pos = 0.375 	neg = 0.0  
+28. The  glimpses we cat                ... pos = 0.25  	neg = 0.0  
+29. She sits in the back                ... pos = 0.0   	neg = 0.375
+30. In a rare scene that                ... pos = 0.5   	neg = 0.25 
+31. And he would meet hi                ... pos = 0.125 	neg = 0    
+32. I suppose the film i                ... pos = 1.875 	neg = 0.5  
+33. Still, we could stan                ... pos = 0.0   	neg = 0.125
+34. Perhaps Kathleen  Qu                ... pos = 0.0   	neg = 0.0  
+35. Her role is merely f                ... pos = 1.125 	neg = 1.5  
+36. The sets are appropr                ... pos = 0.625 	neg = 0.0  
+37. Some nice business t                ... pos = 0.25  	neg = 0.0  
+38. It's almost a runnin                ... pos = 0.0   	neg = 0.375
+39. There are also some                 ... pos = 0.25  	neg = 0.5  
+40. Tall corridors lined                ... pos = 0.0   	neg = 0.0  
+41. (But maybe I  rememb                ... pos = 0.75  	neg = 0.25 
+42. ). Jonathan Harr's n                ... pos = 0.125 	neg = 0.0  
+43. So the film has a so                ... pos = 0.0   	neg = 0.0  
+44. The  film born of th                ... pos = 1.0   	neg = 0.125
+45. I  should add that t                ... pos = 0.0   	neg = 0.625
+46. It's a decision that                ... pos = 1.875 	neg = 1.0  
+47. Unfortunately, 'A Ci                ... pos = 0.125 	neg = 0.875
+48. For the most part we                ... pos = 0.0   	neg = 0.0  
+49. But the film contain                ... pos = 0.0   	neg = 0.0  
+50. If only it were not                 ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4345-71 is Positive          ... pos = 20.875 	neg = 13.25
+Overall score of document
+Total Pos = 20.875
+Total Neg = 13.25
+---------------------------------------------------------------------------

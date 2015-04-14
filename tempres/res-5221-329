@@ -1,0 +1,44 @@
+0. The Messenger: The S                 ... pos = 0.0   	neg = 0.125
+1. Why?                                 ... pos = 0     	neg = 0.0  
+2. That was the questio                 ... pos = 0.0   	neg = 0.25 
+3. Why is this story su                 ... pos = 0.125 	neg = 0.125
+4. During and after I v                 ... pos = 0.625 	neg = 0.125
+5. The movie was neithe                 ... pos = 1.25  	neg = 0.375
+6. I think it's unfair                  ... pos = 0.375 	neg = 0.25 
+7. While this movie is                  ... pos = 0.125 	neg = 1.0  
+8. Joan (Jovovich) is a                 ... pos = 0.5   	neg = 0.25 
+9. At a young age she b                 ... pos = 0.125 	neg = 0.125
+10. Only later is his me                ... pos = 0.0   	neg = 0.125
+11. Convinced God wants                 ... pos = 0.25  	neg = 0.0  
+12. She tells him he wil                ... pos = 0.25  	neg = 0    
+13. So Charles gives her                ... pos = 0.0   	neg = 0.0  
+14. Soon after this batt                ... pos = 0.0   	neg = 0.125
+15. She's later captured                ... pos = 0.0   	neg = 0.0  
+16. Then a new character                ... pos = 1.25  	neg = 0.25 
+17. Dustin Hoffman is Jo                ... pos = 0.375 	neg = 0.375
+18. If you paid any atte                ... pos = 0.0   	neg = 0.0  
+19. I'm never a fan of r                ... pos = 0.25  	neg = 0.125
+20. The violence is outr                ... pos = 0.0   	neg = 0.125
+21. The film succeeds br                ... pos = 0.5   	neg = 0.0  
+22. The whole movie is a                ... pos = 0.25  	neg = 1.5  
+23. It is however one th                ... pos = 1.0   	neg = 0.5  
+24. Modern war movies ar                ... pos = 0.25  	neg = 0.75 
+25. The time seemed to f                ... pos = 0.0   	neg = 0.125
+26. Several times I thou                ... pos = 0.875 	neg = 1.125
+27. I was wrong.                        ... pos = 0     	neg = 0.875
+28. Laughably bad acting                ... pos = 0.0   	neg = 1.0  
+29. Milla Jovovich canno                ... pos = 1.25  	neg = 0.125
+30. John Malkovich (Is h                ... pos = 1.0   	neg = 0.25 
+31. ) is surprisingly ho                ... pos = 0.125 	neg = 2.25 
+32. While the text at th                ... pos = 0.125 	neg = 0.375
+33. Save yourself!                      ... pos = 0     	neg = 0.0  
+34. Jump off a building!                ... pos = 0.0   	neg = 0.625
+35. Run your nails down                 ... pos = 0.0   	neg = 0.0  
+36. Hit yourself over th                ... pos = 0.0   	neg = 0.0  
+37. Do anything to get a                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5221-329 is Negative         ... pos = 10.875 	neg = 13.25
+Overall score of document
+Total Pos = 10.875
+Total Neg = 13.25
+---------------------------------------------------------------------------

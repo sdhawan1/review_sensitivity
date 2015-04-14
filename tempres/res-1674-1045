@@ -1,0 +1,48 @@
+0. by Curtis Edmonds --                 ... pos = 0.5   	neg = 0.625
+1. This is the time whe                 ... pos = 0.75  	neg = 0.125
+2. Like any good group                  ... pos = 1.625 	neg = 1.0  
+3. Want to see the Whit                 ... pos = 0.0   	neg = 0.125
+4. Want to see a great                  ... pos = 0.375 	neg = 0.125
+5. Want to see a giant                  ... pos = 0.0   	neg = 0.125
+6. You want it, the CGI                 ... pos = 0.0   	neg = 0.125
+7. (Although God knows                  ... pos = 0.375 	neg = 0.75 
+8. ). But it's one thin                 ... pos = 1.125 	neg = 0.125
+9. Snappy computer grap                 ... pos = 2.25  	neg = 0.0  
+10. Somewhere right in t                ... pos = 0.0   	neg = 0.75 
+11. The graphics quality                ... pos = 0.625 	neg = 0.25 
+12. Deep Impact takes th                ... pos = 0.125 	neg = 0.625
+13. While other movies h                ... pos = 0.25  	neg = 0.25 
+14. While it's possible                 ... pos = 0.25  	neg = 1.25 
+15. The problem with Dee                ... pos = 1.125 	neg = 0.25 
+16. The moments and the                 ... pos = 0.625 	neg = 0.5  
+17. The problem is that                 ... pos = 0.25  	neg = 1.0  
+18. (Any other similarit                ... pos = 1.125 	neg = 0.625
+19. )  And by picking a                 ... pos = 0.5   	neg = 0.125
+20. It doesn't really he                ... pos = 0.0   	neg = 0.125
+21. (It certainly doesn'                ... pos = 0.25  	neg = 0.125
+22. )  Most notably, you                ... pos = 0.5   	neg = 1.0  
+23. Throw in Bruce Weitz                ... pos = 0.5   	neg = 0.125
+24. The two leads are, t                ... pos = 1.125 	neg = 0    
+25. Unfortunately -- and                ... pos = 0.25  	neg = 1.625
+26. Freeman is the Presi                ... pos = 0.0   	neg = 0.25 
+27. He is the oracle, th                ... pos = 0.375 	neg = 0.125
+28. Which is fine, and h                ... pos = 0.0   	neg = 0.125
+29. On the other hand, D                ... pos = 0.25  	neg = 0.25 
+30. Yes!                                ... pos = 0     	neg = 0    
+31. Supercool, lollygagg                ... pos = 0.875 	neg = 0.25 
+32. I suppose parts like                ... pos = 0.25  	neg = 0.5  
+33. The one thing I took                ... pos = 0.0   	neg = 0.125
+34. Whenever the camera                 ... pos = 0.0   	neg = 0.625
+35. (Never mind that rea                ... pos = 0.125 	neg = 0.0  
+36. )  Despite the movie                ... pos = 0.0   	neg = 1.0  
+37. There's a lot missin                ... pos = 1.25  	neg = 0.5  
+38. The Hollywood Stock                 ... pos = 0.0   	neg = 0.125
+39. No jury in the world                ... pos = 0.0   	neg = 0.25 
+40. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+41. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1674-1045 is Positive        ... pos = 17.625 	neg = 15.875
+Overall score of document
+Total Pos = 17.625
+Total Neg = 15.875
+---------------------------------------------------------------------------

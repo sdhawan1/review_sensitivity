@@ -1,0 +1,40 @@
+0. Starring Patrick Ste                 ... pos = 0.0   	neg = 0.0  
+1. Enterprise are back                  ... pos = 0.25  	neg = 0.0  
+2. Gone are Kirk, Spock                 ... pos = 1.375 	neg = 0.0  
+3. As usual, a crisis i                 ... pos = 0.375 	neg = 0.25 
+4. This time out The Un                 ... pos = 0.5   	neg = 1.125
+5. It turns out that th                 ... pos = 0.75  	neg = 0.375
+6. Of course Picard fee                 ... pos = 0.5   	neg = 1.625
+7. Insurrection is a li                 ... pos = 0.0   	neg = 0.125
+8. The film focuses on                  ... pos = 0.625 	neg = 0.0  
+9. In this respect it g                 ... pos = 0.75  	neg = 0.0  
+10. It doesn't do a bad                 ... pos = 0.125 	neg = 1.125
+11. Many of the jokes ar                ... pos = 0.375 	neg = 0.5  
+12. The other criticism                 ... pos = 0.0   	neg = 0.125
+13. There are only a few                ... pos = 0.25  	neg = 0.125
+14. The explanation is t                ... pos = 0.625 	neg = 0.875
+15. So the basic story l                ... pos = 0.5   	neg = 1.0  
+16. But in reality we ha                ... pos = 0.375 	neg = 0.25 
+17. The other little hic                ... pos = 0.0   	neg = 0.375
+18. Worf was on Star Tre                ... pos = 0.0   	neg = 0.25 
+19. No problem so far.                  ... pos = 0.0   	neg = 0.5  
+20. Worf is now a charac                ... pos = 0.875 	neg = 0.125
+21. In the last Star Tre                ... pos = 1.0   	neg = 0.125
+22. What little explanat                ... pos = 0.0   	neg = 0.625
+23. My minor problems wi                ... pos = 1.5   	neg = 1.125
+24. While many of the jo                ... pos = 1.0   	neg = 0.125
+25. The special effects                 ... pos = 0.625 	neg = 0.25 
+26. The action is plenti                ... pos = 0.0   	neg = 0.125
+27. This is a very good-                ... pos = 0.5   	neg = 0.125
+28. It should come as no                ... pos = 0.125 	neg = 0.125
+29. It is very obvious t                ... pos = 0.875 	neg = 0.25 
+30. They interact with e                ... pos = 0.25  	neg = 0.0  
+31. Most Star Trek fans                 ... pos = 0.125 	neg = 0.125
+32. If you've always hat                ... pos = 0.125 	neg = 1.25 
+33. Star trek: Insurrect                ... pos = 2.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-3258-488 is Positive         ... pos = 16.375 	neg = 13.625
+Overall score of document
+Total Pos = 16.375
+Total Neg = 13.625
+---------------------------------------------------------------------------

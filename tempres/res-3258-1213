@@ -1,0 +1,41 @@
+0. Starring Patrick Ste                 ... pos = 0.0   	neg = 0.0  
+1. Directed By Jonathan                 ... pos = 0.0   	neg = 0.0  
+2. The new Star Trek mo                 ... pos = 0.875 	neg = 0.125
+3. (The ninth to be exa                 ... pos = 0     	neg = 0.125
+4. ) It must therefore                  ... pos = 0.875 	neg = 1.25 
+5. (Remember number fiv                 ... pos = 0.125 	neg = 0.0  
+6. Ouch!                                ... pos = 0     	neg = 0    
+7. ) Thankfully, while                  ... pos = 1.125 	neg = 0.125
+8. The rather silly plo                 ... pos = 0.75  	neg = 0.875
+9. The film manages to                  ... pos = 0.0   	neg = 0.375
+10. Although it could be                ... pos = 1.375 	neg = 0.5  
+11. The plot is alright,                ... pos = 0.0   	neg = 0.375
+12. The lines, though, a                ... pos = 0.25  	neg = 0.375
+13. There's the usual ph                ... pos = 0.625 	neg = 0.625
+14. There's not as much                 ... pos = 1.75  	neg = 0.0  
+15. They're played with                 ... pos = 0.375 	neg = 0.25 
+16. (The planet enables                 ... pos = 0.375 	neg = 0.0  
+17. ) There are some gra                ... pos = 1.25  	neg = 0.0  
+18. But there's some sta                ... pos = 0.625 	neg = 0.125
+19. The increasing popul                ... pos = 0.625 	neg = 0.125
+20. Sadly, the film is m                ... pos = 0.125 	neg = 0.875
+21. ) The alien race in                 ... pos = 0.875 	neg = 1.0  
+22. Therefore, the Enter                ... pos = 0.75  	neg = 0.875
+23. Still, the bad guys                 ... pos = 0.875 	neg = 1.25 
+24. The special effects                 ... pos = 0.25  	neg = 0.375
+25. ) The effects are do                ... pos = 0.75  	neg = 0.625
+26. Still, they are gene                ... pos = 0.75  	neg = 0.0  
+27. Talking about action                ... pos = 0.0   	neg = 0.5  
+28. Star Trek: Insurrect                ... pos = 0.75  	neg = 0.125
+29. I'm not a Star Trek                 ... pos = 0.375 	neg = 0.0  
+30. It's nothing special                ... pos = 1.125 	neg = 0.875
+31. Worth watching.                     ... pos = 0.0   	neg = 0.0  
+32. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+33. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+34. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3258-1213 is Positive        ... pos = 17.625 	neg = 11.75
+Overall score of document
+Total Pos = 17.625
+Total Neg = 11.75
+---------------------------------------------------------------------------

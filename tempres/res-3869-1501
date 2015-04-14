@@ -1,0 +1,28 @@
+0. David Fincher's late                 ... pos = 0.125 	neg = 0.25 
+1. adrenaline rush.                     ... pos = 0.0   	neg = 0.0  
+2. It's a film that sta                 ... pos = 0.25  	neg = 0.0  
+3. A film that goes str                 ... pos = 0.125 	neg = 0.0  
+4. And did I mention ho                 ... pos = 0.25  	neg = 0.125
+5. Based on Chuck Palah                 ... pos = 2.5   	neg = 0.0  
+6. Hype for this film h                 ... pos = 0.0   	neg = 0.625
+7. The book has become                  ... pos = 0.75  	neg = 0.0  
+8. Having read the nove                 ... pos = 0.75  	neg = 0.125
+9. The brilliant wordpl                 ... pos = 0.875 	neg = 0.375
+10. David Fincher's care                ... pos = 0.375 	neg = 0.375
+11. Fincher has also got                ... pos = 0.375 	neg = 0.0  
+12. Edward Norton gives                 ... pos = 0.625 	neg = 0.25 
+13. Not only that, but B                ... pos = 0.5   	neg = 0.125
+14. And Helena Bonham Ca                ... pos = 2.125 	neg = 1.25 
+15. `Fight Club' starts                 ... pos = 0.0   	neg = 0.0  
+16. However, that's only                ... pos = 0.125 	neg = 0.0  
+17. Later on, Tyler take                ... pos = 0.125 	neg = 0.0  
+18. Their antics get mor                ... pos = 0.125 	neg = 0.5  
+19. Unlike many other fi                ... pos = 1.125 	neg = 0.125
+20. `Fight Club' doesn't                ... pos = 0.125 	neg = 0.0  
+21. To tell you any more                ... pos = 0.375 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-3869-1501 is Positive        ... pos = 11.625 	neg = 5.0  
+Overall score of document
+Total Pos = 11.625
+Total Neg = 5.0
+---------------------------------------------------------------------------

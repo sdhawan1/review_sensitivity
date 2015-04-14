@@ -1,0 +1,41 @@
+0. Shakespeare in Love                  ... pos = 1.25  	neg = 0.125
+1. It is both humorous                  ... pos = 2.0   	neg = 0.125
+2. That is, however, no                 ... pos = 0.875 	neg = 0.25 
+3. Shakespeare in Love                  ... pos = 1.75  	neg = 2.125
+4. The finest sign of t                 ... pos = 0.375 	neg = 0.75 
+5. Philip Henslowe  (Ge                 ... pos = 0.0   	neg = 0.0  
+6. It is at the peak of                 ... pos = 1.125 	neg = 0.25 
+7. However, to directly                 ... pos = 0.125 	neg = 0.25 
+8. "  Through a long se                 ... pos = 0.0   	neg = 1.125
+9. So, Mr. Henslowe emp                 ... pos = 0.0   	neg = 0.0  
+10. However, the young w                ... pos = 0.75  	neg = 0.625
+11. He has the title in                 ... pos = 0.25  	neg = 0.25 
+12. Then, as only Hollyw                ... pos = 1.0   	neg = 0.625
+13. There are many other                ... pos = 0.5   	neg = 0.625
+14. The first realizatio                ... pos = 0.625 	neg = 0.375
+15. Ironically, that cou                ... pos = 0.5   	neg = 0.625
+16. The great scenes  th                ... pos = 1.0   	neg = 0.0  
+17. One of the most brea                ... pos = 2.25  	neg = 0.0  
+18. So it is that I am o                ... pos = 0.375 	neg = 0.875
+19. The acting in this e                ... pos = 0.625 	neg = 0.125
+20. Joseph Fiennes may j                ... pos = 0.0   	neg = 0.5  
+21. He is tragically  un                ... pos = 0.625 	neg = 1.125
+22. Gwyneth Paltrow is l                ... pos = 0.0   	neg = 0.5  
+23. However, the support                ... pos = 0.5   	neg = 0.0  
+24. Geoffrey Rush is not                ... pos = 0.25  	neg = 0.5  
+25. They both seem to ha                ... pos = 0.125 	neg = 0.5  
+26. You will  also find                 ... pos = 2.5   	neg = 0.25 
+27. And Rupert Everett w                ... pos = 0.5   	neg = 0.125
+28. But not  even they c                ... pos = 0.0   	neg = 1.0  
+29. When all is said and                ... pos = 0.75  	neg = 0.5  
+30. However, as the film                ... pos = 0.875 	neg = 0.125
+31. And this  certainly                 ... pos = 0.25  	neg = 0.0  
+32. Perhaps this may be                 ... pos = 1.25  	neg = 0.125
+33. Simply put, it is fa                ... pos = 0.625 	neg = 0.75 
+34. See this review and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1433-592 is Positive         ... pos = 23.625 	neg = 15.125
+Overall score of document
+Total Pos = 23.625
+Total Neg = 15.125
+---------------------------------------------------------------------------

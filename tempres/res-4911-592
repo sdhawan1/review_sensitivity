@@ -1,0 +1,51 @@
+0. Teenagers have a lot                 ... pos = 0.0   	neg = 0.0  
+1. Every year countless                 ... pos = 0.375 	neg = 0.25 
+2. The formula is very                  ... pos = 0.5   	neg = 0.5  
+3. You add a high schoo                 ... pos = 0.625 	neg = 0.875
+4. The response is enor                 ... pos = 0.625 	neg = 0.25 
+5. That is just what Ne                 ... pos = 0.0   	neg = 0.375
+6. Josie Geller (Drew B                 ... pos = 0.625 	neg = 0.125
+7. She has her own pers                 ... pos = 0.0   	neg = 0.5  
+8. But she is very much                 ... pos = 0.625 	neg = 0.125
+9. There is nothing she                 ... pos = 0.375 	neg = 0.5  
+10. So when an assignmen                ... pos = 0.0   	neg = 0.75 
+11. Constantly smotherin                ... pos = 0.25  	neg = 0.25 
+12. The two of  them are                ... pos = 1.125 	neg = 0.125
+13. However, since this                 ... pos = 1.75  	neg = 0.75 
+14. Obviously, the field                ... pos = 0.0   	neg = 0.0  
+15. Specifically,  she i                ... pos = 0.375 	neg = 0.375
+16. " I don92t think tha                ... pos = 0.0   	neg = 0.375
+17. The movie develops i                ... pos = 0.25  	neg = 0.5  
+18. Interwoven flashback                ... pos = 0.75  	neg = 0.25 
+19. Fortunately for this                ... pos = 1.75  	neg = 0.0  
+20. They include the pre                ... pos = 0.625 	neg = 0.125
+21. Also, her younger br                ... pos = 1.125 	neg = 0.5  
+22. The humor found in t                ... pos = 0.0   	neg = 0.125
+23. Typical for  teenage                ... pos = 0.125 	neg = 0.875
+24. One scene in particu                ... pos = 0.5   	neg = 0.125
+25. Most of the other jo                ... pos = 0.75  	neg = 0.375
+26. But those still don9                ... pos = 0.0   	neg = 0.125
+27. Following this trend                ... pos = 0.0   	neg = 0.0  
+28. It is even worse tha                ... pos = 0.0   	neg = 0.875
+29. In this case, Drew B                ... pos = 0.125 	neg = 0.875
+30. She is required to p                ... pos = 1.375 	neg = 0.125
+31. And although some sc                ... pos = 0.5   	neg = 0.625
+32. At one point she is                 ... pos = 0.625 	neg = 0.625
+33. But she never seems                 ... pos = 1.125 	neg = 0.375
+34. Following Barrymore                 ... pos = 0.0   	neg = 0.792
+35. She seems to be limi                ... pos = 1.625 	neg = 1.25 
+36. It is these "qualiti                ... pos = 0.5   	neg = 0.125
+37. Luckily there is one                ... pos = 0.5   	neg = 0.125
+38. David Arquette (Scre                ... pos = 1.25  	neg = 1.5  
+39. And as a central cha                ... pos = 0.875 	neg = 0.25 
+40. In a dazzling cherry                ... pos = 0.5   	neg = 0.0  
+41. Never Been Kissed is                ... pos = 0.375 	neg = 1.028
+42. The predictable plot                ... pos = 0.0   	neg = 1.25 
+43. The acting is just a                ... pos = 0.5   	neg = 1.25 
+44. Unfortunately, the b                ... pos = 0.375 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-4911-592 is Positive         ... pos = 23.375 	neg = 21.32
+Overall score of document
+Total Pos = 23.375
+Total Neg = 21.32
+---------------------------------------------------------------------------

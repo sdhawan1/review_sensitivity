@@ -1,0 +1,22 @@
+0. President Clinton no                 ... pos = 0.125 	neg = 0    
+1. It is only two weeks                 ... pos = 0.25  	neg = 0.25 
+2. So we assume.                        ... pos = 0     	neg = 0.0  
+3. A very close friend                  ... pos = 0.625 	neg = 0.25 
+4. And you thought the                  ... pos = 0.0   	neg = 0.125
+5. A political satire t                 ... pos = 0.75  	neg = 0.125
+6. Based on the novel b                 ... pos = 0.0   	neg = 0.25 
+7. John Travolta is so                  ... pos = 0.0   	neg = 0.125
+8. Stanton is a dead ri                 ... pos = 0.0   	neg = 0.125
+9. Emma Thompson is no                  ... pos = 0     	neg = 0.375
+10. Her Susan is a warm,                ... pos = 0.5   	neg = 0.125
+11. The rest of Stanton'                ... pos = 1.0   	neg = 0.0  
+12. ).  Colors is a bril                ... pos = 2.5   	neg = 0.875
+13. Its not only satire,                ... pos = 1.625 	neg = 0.0  
+14. It doesn't just make                ... pos = 0.0   	neg = 0.375
+15. It makes him look hu                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1279-170 is Positive         ... pos = 7.375 	neg = 3.375
+Overall score of document
+Total Pos = 7.375
+Total Neg = 3.375
+---------------------------------------------------------------------------

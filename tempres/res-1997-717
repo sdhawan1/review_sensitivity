@@ -1,0 +1,64 @@
+0. STARSHIP TROOPERS (T                 ... pos = 0.125 	neg = 0.25 
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.625 	neg = 0.125
+3. (For all I know, thi                 ... pos = 0.25  	neg = 0.125
+4. Consequently, I pati                 ... pos = 0.625 	neg = 1.375
+5. This aural experienc                 ... pos = 1.5   	neg = 0.125
+6. The film's final act                 ... pos = 0.0   	neg = 0.375
+7. While the bug battle                 ... pos = 2.0   	neg = 0.5  
+8. It's the first half                  ... pos = 0.125 	neg = 0.125
+9. Although both are sc                 ... pos = 1.375 	neg = 1.125
+10. Yet STARSHIP TROOPER                ... pos = 0.25  	neg = 0.5  
+11. The film has a subte                ... pos = 0.0   	neg = 0.125
+12. In this totalitarian                ... pos = 0.25  	neg = 0.125
+13. STARSHIP TROOPERS' g                ... pos = 2.0   	neg = 0.0  
+14. " or the sheer excit                ... pos = 0.0   	neg = 0.125
+15. STARSHIP TROOPERS po                ... pos = 1.25  	neg = 0.0  
+16. Indeed, what can one                ... pos = 0.0   	neg = 0.0  
+17. " is greeted by a ch                ... pos = 0.375 	neg = 0.125
+18. (I'm not even going                 ... pos = 0.0   	neg = 0.0  
+19. ).    That this unde                ... pos = 0.5   	neg = 0.375
+20. It's simply    that                 ... pos = 0.375 	neg = 0.875
+21. While shots    of li                ... pos = 1.0   	neg = 1.25 
+22. The film opens with                 ... pos = 1.375 	neg = 0.0  
+23. Much has been made o                ... pos = 0.875 	neg = 0.875
+24. The action gives way                ... pos = 0.25  	neg = 0.0  
+25. (Buenos    Aires act                ... pos = 0.0   	neg = 0.25 
+26. )  Yes, our    heroe                ... pos = 0.375 	neg = 0.625
+27. It's so remarkably c                ... pos = 1.0   	neg = 1.375
+28. STARSHIP    TROOPERS                ... pos = 0.75  	neg = 0.25 
+29. (New    troopers int                ... pos = 0.5   	neg = 0.25 
+30. )  I shun television                ... pos = 2.25  	neg = 0.5  
+31. (I later    learned                 ... pos = 0.25  	neg = 0.0  
+32. )  There's an exchan                ... pos = 0.125 	neg = 0.25 
+33. "  Johnny sadly reto                ... pos = 0.0   	neg = 0.625
+34. "  In the audience,                 ... pos = 1.5   	neg = 0.25 
+35. It's exasperating                   ... pos = 0.0   	neg = 0.0  
+36. Barely stifle.                      ... pos = 0     	neg = 0.0  
+37. After an interlude w                ... pos = 0.75  	neg = 0.875
+38. The    insectoid mar                ... pos = 0.5   	neg = 0.75 
+39. Nevertheless, the si                ... pos = 1.125 	neg = 0.25 
+40. After the first atta                ... pos = 1.0   	neg = 0.25 
+41. That this bug is dee                ... pos = 0.25  	neg = 1.125
+42. (The bug also    app                ... pos = 0.75  	neg = 0.125
+43. ).    While I haven'                ... pos = 0.5   	neg = 0.125
+44. (I    admittedly hav                ... pos = 0.125 	neg = 0.0  
+45. )    STARSHIP TROOPE                ... pos = 1.25  	neg = 0.25 
+46. Hey, I'd buy that fo                ... pos = 0.0   	neg = 0    
+47. Barring these satiri                ... pos = 0.0   	neg = 0.25 
+48. This is the kind of                 ... pos = 1.0   	neg = 0.25 
+49. Among the cast, Mich                ... pos = 1.5   	neg = 0.875
+50. None of the rest of                 ... pos = 0.125 	neg = 0.125
+51. Standing outside tha                ... pos = 0.75  	neg = 0.25 
+52. There    was, howeve                ... pos = 0.125 	neg = 0.625
+53. It sucks!                           ... pos = 0.0   	neg = 0    
+54. "  Although    I wou                ... pos = 0.5   	neg = 0.375
+55. -- Alex Fung (aw220@                ... pos = 0.25  	neg = 0    
+56. You're too weird.                   ... pos = 0     	neg = 0.25 
+57. "         - David Kr                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1997-717 is Positive         ... pos = 32.375 	neg = 19.75
+Overall score of document
+Total Pos = 32.375
+Total Neg = 19.75
+---------------------------------------------------------------------------

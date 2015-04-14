@@ -1,0 +1,39 @@
+0. Starring Elijah Wood                 ... pos = 0.5   	neg = 0.5  
+1. I figured it may be                  ... pos = 0.125 	neg = 0.125
+2. My theory was that i                 ... pos = 0.625 	neg = 0.5  
+3. Not only was the mov                 ... pos = 0.125 	neg = 0.25 
+4. Add to that Robert R                 ... pos = 0.75  	neg = 0.25 
+5. When you throw in a                  ... pos = 0.25  	neg = 0.0  
+6. Elijah Wood plays th                 ... pos = 0.0   	neg = 0.0  
+7. In the course of loo                 ... pos = 0.375 	neg = 0.0  
+8. Their teachers have                  ... pos = 0.25  	neg = 0.125
+9. It then falls to the                 ... pos = 0.125 	neg = 0.25 
+10. OK, it sounds a litt                ... pos = 0.0   	neg = 1.375
+11. There is never any r                ... pos = 0.0   	neg = 0.125
+12. Of course, you have                 ... pos = 0.0   	neg = 0.0  
+13. After gettting passe                ... pos = 0.25  	neg = 0.0  
+14. In terms of casting,                ... pos = 0.25  	neg = 0.125
+15. To make up for the r                ... pos = 0.625 	neg = 0.125
+16. They include Robert                 ... pos = 0.25  	neg = 0.25 
+17. (I'm betting every g                ... pos = 0.0   	neg = 0.0  
+18. ) If Salma weren't e                ... pos = 0.0   	neg = 0.5  
+19. Among the young cast                ... pos = 0.75  	neg = 0.5  
+20. Singer Usher also ma                ... pos = 0.0   	neg = 0.0  
+21. Adding some heat to                 ... pos = 0.75  	neg = 0.0  
+22. I enjoyed the perfor                ... pos = 0.375 	neg = 0.0  
+23. Of course, this is a                ... pos = 0.375 	neg = 0.375
+24. As horror movie cast                ... pos = 0.625 	neg = 0.125
+25. Unlike the early sla                ... pos = 0.125 	neg = 0.0  
+26. This film wasn't sho                ... pos = 0.0   	neg = 0.25 
+27. The Faculty lives up                ... pos = 0.0   	neg = 0.125
+28. So it's no coinciden                ... pos = 0.0   	neg = 0.375
+29. Maybe it even raises                ... pos = 0.375 	neg = 0.0  
+30. Considering that thi                ... pos = 1.25  	neg = 0.625
+31. It's a great movie.                 ... pos = 0.0   	neg = 0.0  
+32. Although, parents sh                ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-1561-488 is Positive         ... pos = 9.125 	neg = 7.875
+Overall score of document
+Total Pos = 9.125
+Total Neg = 7.875
+---------------------------------------------------------------------------

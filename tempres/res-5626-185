@@ -1,0 +1,31 @@
+0. The Coen brothers ma                 ... pos = 0.0   	neg = 0.0  
+1. The first kind are                   ... pos = 0.375 	neg = 0.0  
+2. The second kind are                  ... pos = 1.125 	neg = 0.125
+3. Their latest effort,                 ... pos = 0.125 	neg = 0.375
+4. Jeff Bridges stars a                 ... pos = 0.0   	neg = 0.0  
+5. He's a pretty simple                 ... pos = 0.375 	neg = 0.75 
+6. He bowls with opinio                 ... pos = 0.25  	neg = 0.0  
+7. But the Dude's simpl                 ... pos = 0.25  	neg = 0.125
+8. It turns out that th                 ... pos = 0.75  	neg = 1.5  
+9. THE BIG LEBOWSKI is                  ... pos = 0.25  	neg = 0.25 
+10. It's cluttered with                 ... pos = 0.875 	neg = 0.25 
+11. By trying so hard, i                ... pos = 0.125 	neg = 1.875
+12. There is a lot wrong                ... pos = 0.125 	neg = 1.125
+13. The humour is irreve                ... pos = 0.25  	neg = 0.5  
+14. Some people in our P                ... pos = 0.875 	neg = 0.125
+15. Fortunately, THE BIG                ... pos = 1.0   	neg = 0.25 
+16. Bridges wins a  lot                 ... pos = 1.5   	neg = 2.5  
+17. The other characters                ... pos = 2.0   	neg = 0.25 
+18. The movie lacks  any                ... pos = 1.5   	neg = 2.125
+19. The dialogue is refr                ... pos = 0.875 	neg = 1.375
+20. The Coen brothers ha                ... pos = 0.75  	neg = 0.625
+21. For many people (mys                ... pos = 0.0   	neg = 0.5  
+22. But it  seems that t                ... pos = 0.875 	neg = 0.75 
+23. It is an  extravagan                ... pos = 0.0   	neg = 1.0  
+24. Considered as a self                ... pos = 0.125 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-5626-185 is Negative         ... pos = 14.375 	neg = 17.5 
+Overall score of document
+Total Pos = 14.375
+Total Neg = 17.5
+---------------------------------------------------------------------------

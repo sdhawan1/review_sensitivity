@@ -1,0 +1,30 @@
+0. Written by:  Jonatha                 ... pos = 0.25  	neg = 0.625
+1. In LETHAL WEAPON 4 p                 ... pos = 0.0   	neg = 0.5  
+2. He also convinces Mu                 ... pos = 0.25  	neg = 0.625
+3. To make matters wors                 ... pos = 0.5   	neg = 1.0  
+4. When together, the t                 ... pos = 1.0   	neg = 0.0  
+5. Meanwhile Murtaugh i                 ... pos = 0.375 	neg = 1.5  
+6. Murtaugh also must s                 ... pos = 0.375 	neg = 0.125
+7. On the other side of                 ... pos = 0.0   	neg = 0.375
+8. The operation involv                 ... pos = 0.0   	neg = 0.75 
+9. Murtaugh and Riggs g                 ... pos = 0.75  	neg = 0.25 
+10. Opinion: Sure, the c                ... pos = 1.5   	neg = 0.25 
+11. Riggs and Murtaugh e                ... pos = 0.25  	neg = 0.0  
+12. Murtaugh's family ev                ... pos = 0.0   	neg = 0.0  
+13. I may be mistaken, b                ... pos = 0.0   	neg = 1.125
+14. For those unfamiliar                ... pos = 0.5   	neg = 0.0  
+15. Roger Murtaugh is an                ... pos = 0.875 	neg = 0.25 
+16. The running gag is t                ... pos = 1.0   	neg = 0.25 
+17. To recap: In LW1 (19                ... pos = 0.0   	neg = 0.375
+18. In LW2 (1989) they p                ... pos = 0.0   	neg = 0.875
+19. In LW3 policewoman L                ... pos = 0.75  	neg = 1.75 
+20. Characters Riggs, Mu                ... pos = 1.5   	neg = 0.125
+21. LETHAL WEAPON 4 diff                ... pos = 0.0   	neg = 0.125
+22. In my opinion, the f                ... pos = 0.375 	neg = 0.125
+23. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2402-416 is Negative         ... pos = 10.25 	neg = 11.125
+Overall score of document
+Total Pos = 10.25
+Total Neg = 11.125
+---------------------------------------------------------------------------

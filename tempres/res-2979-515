@@ -1,0 +1,44 @@
+0. Cast: David Duchovny                 ... pos = 0.125 	neg = 0.125
+1. I'm a big fan of the                 ... pos = 0.125 	neg = 0.125
+2. And I did like the f                 ... pos = 0.0   	neg = 0.0  
+3. It has all of the el                 ... pos = 0.0   	neg = 0.0  
+4. But overall, it's TO                 ... pos = 0.125 	neg = 0.25 
+5. In other words it wo                 ... pos = 0.0   	neg = 0.25 
+6. I would think that w                 ... pos = 0.0   	neg = 0.25 
+7. Apparently not.                      ... pos = 0.0   	neg = 0.125
+8. The story being told                 ... pos = 0.25  	neg = 0.25 
+9. But aside from the s                 ... pos = 0.5   	neg = 1.125
+10. It's hardly even a s                ... pos = 0.0   	neg = 0.0  
+11. And as far as the sp                ... pos = 0.0   	neg = 0.0  
+12. When the film begins                ... pos = 0.0   	neg = 0.125
+13. The powers that be t                ... pos = 0.0   	neg = 0.125
+14. Scully plans on quit                ... pos = 0.0   	neg = 0.0  
+15. Mulder then asks Scu                ... pos = 0.125 	neg = 0.0  
+16. After everything we'                ... pos = 0.0   	neg = 0    
+17. "  (seen that).                     ... pos = 0.0   	neg = 0    
+18. Shadowy characters s                ... pos = 0.875 	neg = 0.0  
+19. Those shadowy charac                ... pos = 1.125 	neg = 0.0  
+20. The other shadowy ch                ... pos = 1.0   	neg = 0.25 
+21. Mulder will attempt                 ... pos = 0.125 	neg = 0.125
+22. In the end, Mulder a                ... pos = 0.0   	neg = 1.125
+23. Yep, I've seen that                 ... pos = 0.0   	neg = 0.25 
+24. Then there are new e                ... pos = 0.625 	neg = 0.0  
+25. For example, usually                ... pos = 0.0   	neg = 0.875
+26. Here, they buy some                 ... pos = 0.375 	neg = 0.0  
+27. Ok.  Then, it's reve                ... pos = 0.0   	neg = 0.25 
+28. ) have double-crosse                ... pos = 0     	neg = 0.0  
+29. For some reason, the                ... pos = 0.0   	neg = 0.875
+30. Seems to me that wou                ... pos = 0.0   	neg = 0.125
+31. Obviously not.                      ... pos = 0.0   	neg = 0.0  
+32. Please don't get me                 ... pos = 0.125 	neg = 0.75 
+33. It also managed to e                ... pos = 0.25  	neg = 0.0  
+34. So I guess it did wh                ... pos = 0.0   	neg = 0.125
+35. I just wish The X Fi                ... pos = 0.5   	neg = 0.5  
+36. [PG-13]. The Jackson                ... pos = 0.0   	neg = 0.0  
+37. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2979-515 is Negative         ... pos = 6.5   	neg = 8.375
+Overall score of document
+Total Pos = 6.5
+Total Neg = 8.375
+---------------------------------------------------------------------------

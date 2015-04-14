@@ -1,0 +1,31 @@
+0. Their little, smart,                 ... pos = 0.0   	neg = 1.0  
+1. They have many of th                 ... pos = 0.5   	neg = 0.0  
+2. They're...Ugly!                      ... pos = 0     	neg = 0    
+3. I watched this movie                 ... pos = 0.5   	neg = 0.0  
+4. Instead, I got vomit                 ... pos = 0.0   	neg = 0.0  
+5. Not only that, they                  ... pos = 0.0   	neg = 0.0  
+6. Someone save me from                 ... pos = 0.0   	neg = 0.0  
+7. The film begins with                 ... pos = 0.0   	neg = 0.0  
+8. The colony is run by                 ... pos = 0.125 	neg = 0.125
+9. The first 10 minutes                 ... pos = 0.875 	neg = 3.0  
+10. Oh brother.                         ... pos = 0.0   	neg = 0.0  
+11. If I wanted to liste                ... pos = 0.375 	neg = 0.0  
+12. Z learns of a place                 ... pos = 0.0   	neg = 0.0  
+13. Z wants to go, but n                ... pos = 0.75  	neg = 0.125
+14. One day, Z and Bala                 ... pos = 0.375 	neg = 0.0  
+15. This is a perfect se                ... pos = 0.0   	neg = 0.5  
+16. You know what I mean                ... pos = 0     	neg = 0.0  
+17. We just saw it with                 ... pos = 0.25  	neg = 0.0  
+18. Except, this time, i                ... pos = 0.0   	neg = 0.0  
+19. I was very disappoin                ... pos = 0.5   	neg = 0.125
+20. I heard some good wo                ... pos = 0.875 	neg = 0.75 
+21. DreamWorks' turn int                ... pos = 0.5   	neg = 0.25 
+22. The DVD of Antz is v                ... pos = 0.5   	neg = 0.125
+23. The picture is lush                 ... pos = 1.125 	neg = 0.125
+24. Special features are                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-1561 is Positive          ... pos = 7.5   	neg = 6.125
+Overall score of document
+Total Pos = 7.5
+Total Neg = 6.125
+---------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Lowell Ca                 ... pos = 0.375 	neg = 0.0  
+2. Photographed by Step                 ... pos = 0.0   	neg = 0.0  
+3. "Mission to Mars" is                 ... pos = 0.25  	neg = 0.5  
+4. This is one of the m                 ... pos = 0.5   	neg = 2.0  
+5. The tone is set earl                 ... pos = 0.0   	neg = 0.375
+6. An example: "Hey, ma                 ... pos = 0.375 	neg = 0.25 
+7. Jeez, if only your                   ... pos = 0.0   	neg = 0.0  
+8. "  Give me a break.                  ... pos = 0.0   	neg = 0.0  
+9. The speaker is Luke                  ... pos = 0.0   	neg = 0.25 
+10. His team's goal is t                ... pos = 0.375 	neg = 0.125
+11. When drilling for wa                ... pos = 0.125 	neg = 0.0  
+12. News of the deaths r                ... pos = 0.0   	neg = 0.125
+13. Soon afterward radio                ... pos = 0.0   	neg = 0.125
+14. A new quartet, playe                ... pos = 0.625 	neg = 0.0  
+15. The three of them wh                ... pos = 0.375 	neg = 0.0  
+16. Everybody gathers ro                ... pos = 0.75  	neg = 0.75 
+17. This illogical busin                ... pos = 0.25  	neg = 1.125
+18. Want to know why onl                ... pos = 0.0   	neg = 0.25 
+19. Because halfway thro                ... pos = 0.0   	neg = 0.125
+20. Robbins is unable to                ... pos = 0.125 	neg = 0.875
+21. They've taken the dr                ... pos = 0.625 	neg = 0.5  
+22. For no particular re                ... pos = 0.0   	neg = 0.25 
+23. At first we don't ev                ... pos = 0.5   	neg = 0.625
+24. The characters drift                ... pos = 1.375 	neg = 0.0  
+25. Odd for most movies,                ... pos = 0.625 	neg = 0    
+26. "Mission to Mars" wa                ... pos = 0.0   	neg = 0.125
+27. Watching it, I was r                ... pos = 0.875 	neg = 1.0  
+28. I hope De Palma isn'                ... pos = 0.375 	neg = 0.0  
+29. But surely even Tara                ... pos = 2.25  	neg = 0.25 
+30. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1598-1540 is Positive        ... pos = 11.0  	neg = 9.75 
+Overall score of document
+Total Pos = 11.0
+Total Neg = 9.75
+---------------------------------------------------------------------------

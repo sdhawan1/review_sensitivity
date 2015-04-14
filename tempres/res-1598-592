@@ -1,0 +1,30 @@
+0. ---A copy of this re                 ... pos = 0.875 	neg = 0.375
+1. It is a movie to be                  ... pos = 0.0   	neg = 0.375
+2. It's not a new idea                  ... pos = 0.625 	neg = 0.0  
+3. Neither is a rescue                  ... pos = 0.25  	neg = 0.5  
+4. Actually, very littl                 ... pos = 0.5   	neg = 0.5  
+5. It is the combinatio                 ... pos = 1.875 	neg = 0.375
+6. First, credit the fi                 ... pos = 0.5   	neg = 0.375
+7. The only scene in th                 ... pos = 0.0   	neg = 0.375
+8. The next setting: Ma                 ... pos = 0.125 	neg = 0.375
+9. Within moments of th                 ... pos = 0.125 	neg = 1.375
+10. But the leader, Luc                 ... pos = 0.375 	neg = 1.125
+11. Soon a rescue missio                ... pos = 0.0   	neg = 0.125
+12. So what happened on                 ... pos = 0.125 	neg = 0.0  
+13. Well, I don't like t                ... pos = 0.375 	neg = 0.25 
+14. .                                   ... pos = 0     	neg = 0    
+15. .We've been looking                 ... pos = 0     	neg = 0.875
+16. '. There are plenty                 ... pos = 0.875 	neg = 1.125
+17. However, those momen                ... pos = 0.875 	neg = 0.125
+18. The movie wouldn 't                 ... pos = 1.25  	neg = 0.125
+19. Perhaps you will see                ... pos = 0.125 	neg = 0    
+20. Perhaps you will sni                ... pos = 0.25  	neg = 1.125
+21. Perhaps you will dis                ... pos = 0.625 	neg = 0.125
+22. Fine.                               ... pos = 0.0   	neg = 0    
+23. But I challenge you                 ... pos = 0.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-1598-592 is Negative         ... pos = 9.875 	neg = 10.25
+Overall score of document
+Total Pos = 9.875
+Total Neg = 10.25
+---------------------------------------------------------------------------

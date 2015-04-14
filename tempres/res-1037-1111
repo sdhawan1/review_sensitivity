@@ -1,0 +1,27 @@
+0. On the Buckmaster sc                 ... pos = 0.25  	neg = 0.875
+1. Happiness, by indepe                 ... pos = 0.125 	neg = 0.25 
+2. The film grounds its                 ... pos = 1.125 	neg = 0.75 
+3. Yes, the title is in                 ... pos = 1.375 	neg = 1.0  
+4. One scene, in which                  ... pos = 2.0   	neg = 0.625
+5. Controversial, off-p                 ... pos = 1.125 	neg = 0.0  
+6. I propose that Happi                 ... pos = 1.125 	neg = 1.5  
+7. The film regularly c                 ... pos = 1.625 	neg = 0.375
+8. Perhaps most tragic                  ... pos = 0.125 	neg = 0.375
+9. Trish (Cynthia Steve                 ... pos = 1.625 	neg = 0.125
+10. Successful author He                ... pos = 2.375 	neg = 0.0  
+11. That's without menti                ... pos = 0.5   	neg = 0.0  
+12. Each of them pursue                 ... pos = 1.125 	neg = 0.125
+13. Make no mistake abou                ... pos = 0.0   	neg = 1.75 
+14. Interestingly enough                ... pos = 0.5   	neg = 0.125
+15. The result is a dial                ... pos = 1.25  	neg = 0.5  
+16. It's a neat trick th                ... pos = 1.625 	neg = 0.625
+17. Exceptional performa                ... pos = 3.0   	neg = 0.0  
+18. During all of Solond                ... pos = 0.375 	neg = 0.0  
+19. Don't underestimate                 ... pos = 0.875 	neg = 0.5  
+20. See it, if not just                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1037-1111 is Positive        ... pos = 22.25 	neg = 9.5  
+Overall score of document
+Total Pos = 22.25
+Total Neg = 9.5
+---------------------------------------------------------------------------

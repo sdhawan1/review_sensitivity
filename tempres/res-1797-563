@@ -1,0 +1,42 @@
+0. Starring Kirsten Dun                 ... pos = 0.0   	neg = 0.375
+1. Cook, Leslie Hayman                  ... pos = 0.0   	neg = 0.0  
+2. Directed by Sofia Co                 ... pos = 0.0   	neg = 0    
+3. Rated R.. The Lisbon                 ... pos = 0.25  	neg = 0.125
+4. They toyed with them                 ... pos = 0.0   	neg = 0.125
+5. Was this all a cruel                 ... pos = 0.0   	neg = 0.25 
+6. Or was it a subconsc                 ... pos = 0.375 	neg = 1.125
+7. Such is the difficul                 ... pos = 1.125 	neg = 0.125
+8. There were five of t                 ... pos = 0.75  	neg = 0.125
+9. Cook), Therese (Lesl                 ... pos = 0     	neg = 0.0  
+10. Cecilia, the younges                ... pos = 0.125 	neg = 0.125
+11. She tried to kill he                ... pos = 0.0   	neg = 0.5  
+12. Why she did what she                ... pos = 0.25  	neg = 0.125
+13. The mother (Kathleen                ... pos = 0.5   	neg = 0.25 
+14. The dad (James Woods                ... pos = 0.125 	neg = 0.125
+15. In any event, the re                ... pos = 0.25  	neg = 0.0  
+16. Meanwhile, the boys                 ... pos = 0.0   	neg = 0.0  
+17. They begin a collect                ... pos = 0.0   	neg = 0.0  
+18. When, on prom night,                ... pos = 0.0   	neg = 1.0  
+19. After hearing a chur                ... pos = 0.0   	neg = 0.0  
+20. The sisters' only co                ... pos = 0.875 	neg = 0.125
+21. The Virgin Suicides                 ... pos = 0.75  	neg = 0.0  
+22. " This is the '70's,                ... pos = 0.125 	neg = 0.625
+23. It's understandable,                ... pos = 0.625 	neg = 1.5  
+24. This film has been a                ... pos = 0.25  	neg = 0.125
+25. These are misguided                 ... pos = 0.25  	neg = 0.25 
+26. The story is told fr                ... pos = 0.0   	neg = 0.25 
+27. We see much of the e                ... pos = 0.125 	neg = 0.0  
+28. Watching the film is                ... pos = 0.375 	neg = 0.375
+29. We're told very litt                ... pos = 1.75  	neg = 0.5  
+30. The film's ending, s                ... pos = 0.125 	neg = 0.375
+31. Sofia Coppola, never                ... pos = 0.5   	neg = 0.0  
+32. She has a surprising                ... pos = 2.375 	neg = 0.875
+33. Her sparing use of c                ... pos = 0.875 	neg = 1.125
+34. The Virgin Suicides                 ... pos = 0.75  	neg = 0.25 
+35. It's rich, poignant,                ... pos = 0.625 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1797-563 is Positive         ... pos = 14.125 	neg = 10.75
+Overall score of document
+Total Pos = 14.125
+Total Neg = 10.75
+---------------------------------------------------------------------------

@@ -1,0 +1,33 @@
+0. In FORCES OF NATURE,                 ... pos = 0.5   	neg = 0.5  
+1. The main problem wit                 ... pos = 0.5   	neg = 0.375
+2. Ben Affleck plays Be                 ... pos = 0.25  	neg = 0.0  
+3. The plane-shy Ben is                 ... pos = 0.125 	neg = 0.75 
+4. Everyone Ben meets o                 ... pos = 0.5   	neg = 0.25 
+5. They all tell him th                 ... pos = 0.5   	neg = 0.25 
+6. That is, until he me                 ... pos = 0.0   	neg = 0.875
+7. That is, until the p                 ... pos = 0.0   	neg = 0.75 
+8. In the aftermath of                  ... pos = 0.125 	neg = 0.125
+9. That is, until Vic g                 ... pos = 0.0   	neg = 0.125
+10. After that, Ben and                 ... pos = 0.375 	neg = 0.75 
+11. They even hitch a ri                ... pos = 0.625 	neg = 0.0  
+12. Ben and Sarah really                ... pos = 0.875 	neg = 0.625
+13. That is, until he fi                ... pos = 0.625 	neg = 0.125
+14. Meanwhile, back at h                ... pos = 0.0   	neg = 0.25 
+15. And then a hurricane                ... pos = 0.0   	neg = 0.0  
+16. FORCES OF NATURE wan                ... pos = 0.75  	neg = 0.125
+17. ), but director Bron                ... pos = 0.0   	neg = 0.25 
+18. The lame idea of FOR                ... pos = 0.0   	neg = 0.125
+19. FORCES OF NATURE is                 ... pos = 0.125 	neg = 1.0  
+20. But then again, it's                ... pos = 0.875 	neg = 0.0  
+21. I would have given i                ... pos = 0.875 	neg = 0.0  
+22. Also, condolences to                ... pos = 0.25  	neg = 0.0  
+23. A publicist says tha                ... pos = 0.5   	neg = 0.25 
+24. Also, somebody give                 ... pos = 0.375 	neg = 0.0  
+25. He's shown promise i                ... pos = 0.0   	neg = 0.375
+26. Review by Akiva Gott                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-635-421 is Positive          ... pos = 8.875 	neg = 8.0  
+Overall score of document
+Total Pos = 8.875
+Total Neg = 8.0
+---------------------------------------------------------------------------

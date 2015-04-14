@@ -1,0 +1,37 @@
+0. Director:  Tony Sco                 ... pos = 0.125 	neg = 0.0  
+1. US Distribution:  T                 ... pos = 0.5   	neg = 0.25 
+2. The last few, includ                 ... pos = 0.25  	neg = 0.5  
+3. And though Bruckheim                 ... pos = 0.125 	neg = 0.25 
+4. Directed by Tony Sco                 ... pos = 2.25  	neg = 0.25 
+5. By the end, you don'                 ... pos = 0.0   	neg = 0.0  
+6. In fact, Enemy of th                 ... pos = 2.0   	neg = 0.125
+7. Lawyer Robert Dean (                 ... pos = 0.5   	neg = 0.0  
+8. However, one day, as                 ... pos = 0.375 	neg = 0.125
+9. Just before getting                  ... pos = 0.25  	neg = 0.0  
+10. Dean, unaware that h                ... pos = 0.25  	neg = 0.25 
+11. It's your typical wr                ... pos = 0.875 	neg = 0.0  
+12. For a lot of the fil                ... pos = 0.0   	neg = 0.25 
+13. Everyone thinks he's                ... pos = 0.375 	neg = 0.5  
+14. It turns out that th                ... pos = 1.75  	neg = 0.125
+15. I've always thought                 ... pos = 1.125 	neg = 0.125
+16. There are a lot of t                ... pos = 1.125 	neg = 0.875
+17. The overhead shots o                ... pos = 0.625 	neg = 0.125
+18. The acting is terrif                ... pos = 1.375 	neg = 0.25 
+19. He's likable and fun                ... pos = 0.125 	neg = 0.0  
+20. " with ease.                        ... pos = 0.125 	neg = 0    
+21. Also great is Gene H                ... pos = 0.0   	neg = 0.125
+22. King, as the wife, i                ... pos = 1.875 	neg = 0.375
+23. Jon Voight, as the e                ... pos = 0.625 	neg = 1.75 
+24. There are a lot of g                ... pos = 1.0   	neg = 0.0  
+25. Enemy of the State i                ... pos = 0.25  	neg = 0.125
+26. It's not a perfect a                ... pos = 0.125 	neg = 1.0  
+27. In addition, the fin                ... pos = 0.0   	neg = 0.0  
+28. But these are minor                 ... pos = 1.25  	neg = 0.0  
+29. I was entertained by                ... pos = 0.625 	neg = 0.25 
+30. It's nice to know th                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5048-760 is Positive         ... pos = 20.25 	neg = 7.625
+Overall score of document
+Total Pos = 20.25
+Total Neg = 7.625
+---------------------------------------------------------------------------

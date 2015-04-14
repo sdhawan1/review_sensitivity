@@ -1,0 +1,47 @@
+0. **1/2 (out of 4) The                 ... pos = 1.25  	neg = 1.125
+1. I really hate that r                 ... pos = 0.625 	neg = 0.0  
+2. People look for flaw                 ... pos = 0.5   	neg = 0.375
+3. STAR TREK: INSURRECT                 ... pos = 0.5   	neg = 0.125
+4. This time, the film                  ... pos = 0.875 	neg = 0.25 
+5. Commander Data is pa                 ... pos = 0.5   	neg = 0.75 
+6. Without warning, Dat                 ... pos = 0.125 	neg = 0.875
+7. Concerned (but stran                 ... pos = 0.625 	neg = 0.125
+8. Picard heads out in                  ... pos = 0.0   	neg = 0.0  
+9. Sure enough, there w                 ... pos = 1.0   	neg = 0.125
+10. It turns out that a                 ... pos = 0.125 	neg = 0.5  
+11. Since his base progr                ... pos = 0.25  	neg = 1.0  
+12. Why would Data's bas                ... pos = 0.0   	neg = 0.25 
+13. Turns out the Ba'ku,                ... pos = 0.0   	neg = 0.75 
+14. The way to steal the                ... pos = 0.125 	neg = 0.0  
+15. Ordinarily, this wou                ... pos = 0.0   	neg = 0.125
+16. But since the Son'a,                ... pos = 0.75  	neg = 0.125
+17. (For the uninitiated                ... pos = 0.25  	neg = 0.125
+18. It says that the Fed                ... pos = 0.75  	neg = 0.0  
+19. The crew of the Ente                ... pos = 0.125 	neg = 0.0  
+20. They think this uniq                ... pos = 0.375 	neg = 0.875
+21. Thus the film's titl                ... pos = 0.0   	neg = 0    
+22. Although this film i                ... pos = 0.0   	neg = 1.028
+23. Is it okay to move 6                ... pos = 0.0   	neg = 1.375
+24. The Federation says                 ... pos = 0.0   	neg = 0.0  
+25. More influentially,                 ... pos = 0.0   	neg = 0.0  
+26. Ebert failed to take                ... pos = 0.375 	neg = 0.125
+27. One, these billions                 ... pos = 0.5   	neg = 0.375
+28. Two, extracting the                 ... pos = 0.0   	neg = 0.25 
+29. Three, there is no g                ... pos = 0.0   	neg = 0.75 
+30. I'd like to propose                 ... pos = 0.5   	neg = 0.0  
+31. Would it be okay to                 ... pos = 0.0   	neg = 0.375
+32. Everyone on the plan                ... pos = 0.0   	neg = 0.625
+33. Seems like a big was                ... pos = 1.5   	neg = 0.25 
+34. Seems like the sane,                ... pos = 1.375 	neg = 0.25 
+35. At least, that's wha                ... pos = 0.0   	neg = 0.0  
+36. Aside from the moral                ... pos = 0.0   	neg = 0.375
+37. It wasn't my favorit                ... pos = 0.0   	neg = 0.375
+38. It will probably fad                ... pos = 0.875 	neg = 0.0  
+39. It's just too bad th                ... pos = 0.125 	neg = 1.5  
+40. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3258-1008 is Negative        ... pos = 14.0  	neg = 15.153
+Overall score of document
+Total Pos = 14.0
+Total Neg = 15.153
+---------------------------------------------------------------------------

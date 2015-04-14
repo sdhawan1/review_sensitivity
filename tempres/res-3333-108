@@ -1,0 +1,36 @@
+0. UK/USA.                              ... pos = 0     	neg = 0    
+1. 1998.                                ... pos = 0     	neg = 0    
+2. Director/Screenplay                  ... pos = 0.0   	neg = 0.25 
+3. Production Company -                 ... pos = 0.0   	neg = 0    
+4. Gwyneth Paltrow (Hel                 ... pos = 0.0   	neg = 0.25 
+5. Depending whether or                 ... pos = 0.0   	neg = 0.0  
+6. If she catches the t                 ... pos = 0.25  	neg = 0.25 
+7. But in an alternate                  ... pos = 0.0   	neg = 0.0  
+8. I was preparing to s                 ... pos = 2.5   	neg = 0.125
+9. At least I would  ha                 ... pos = 0.375 	neg = 0.125
+10. 1'.                                 ... pos = 0     	neg = 0    
+11. `Too Many Ways' was                 ... pos = 0.625 	neg = 0.125
+12. Both conduct two dif                ... pos = 2.125 	neg = 0.125
+13. It is hard not to be                ... pos = 1.0   	neg = 1.5  
+14. Of course both  film                ... pos = 1.125 	neg = 0.0  
+15. `Too Many  Ways' is                 ... pos = 0.25  	neg = 0.25 
+16. Of the two `Sliding                 ... pos = 0.75  	neg = 0.125
+17. But of the two `Slid                ... pos = 0.375 	neg = 0.375
+18. It tries a  little t                ... pos = 1.25  	neg = 2.125
+19. Howitt writes some                  ... pos = 1.125 	neg = 0.0  
+20. The depth they are g                ... pos = 0.75  	neg = 1.0  
+21. Lynch's character is                ... pos = 0.875 	neg = 0.5  
+22. It's just that one f                ... pos = 0.0   	neg = 0.75 
+23. Howitt  asks us to b                ... pos = 1.375 	neg = 0.0  
+24. One could maybe have                ... pos = 1.5   	neg = 0.75 
+25. It even makes the di                ... pos = 1.5   	neg = 0.375
+26. Underneath it all th                ... pos = 2.75  	neg = 1.875
+27. Sadly the film buys                 ... pos = 0.75  	neg = 0.75 
+28. What is says is that                ... pos = 2.125 	neg = 0.375
+29. Personally I don't b                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3333-108 is Positive         ... pos = 23.375 	neg = 12.0 
+Overall score of document
+Total Pos = 23.375
+Total Neg = 12.0
+---------------------------------------------------------------------------

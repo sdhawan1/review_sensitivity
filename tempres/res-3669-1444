@@ -1,0 +1,56 @@
+0. Directed by Steven S                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Stephe                 ... pos = 0.0   	neg = 0.0  
+2. Starring Michael Dou                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 147 mi                 ... pos = 0     	neg = 0.0  
+4. Rated AA for controv                 ... pos = 0.75  	neg = 0.0  
+5. Reviewed on January                  ... pos = 0.0   	neg = 0.0  
+6. "Traffic" accomplish                 ... pos = 0.625 	neg = 0    
+7. A movie about one of                 ... pos = 2.0   	neg = 0.0  
+8. In a world where eve                 ... pos = 1.25  	neg = 0.25 
+9. Directed by Steven S                 ... pos = 0.375 	neg = 0.125
+10. These are tangential                ... pos = 0.25  	neg = 0.125
+11. In one story arc, Mi                ... pos = 0.375 	neg = 0.125
+12. But unbeknownst  to                 ... pos = 0.0   	neg = 0.125
+13. Meanwhile, Douglas'                 ... pos = 0.0   	neg = 0.125
+14. This is revealed to                 ... pos = 0.0   	neg = 0.25 
+15. Helena  is soon embr                ... pos = 0.0   	neg = 0.375
+16. The only help Helena                ... pos = 0.75  	neg = 0.125
+17. Finally, there is th                ... pos = 0.0   	neg = 0.125
+18. Javier becomes caugh                ... pos = 0.625 	neg = 0.25 
+19. Soderbergh's directi                ... pos = 0.0   	neg = 0.0  
+20. He employs a rigid,                 ... pos = 0.25  	neg = 0.0  
+21. Events  unfold at a                 ... pos = 2.625 	neg = 0.375
+22. He also  distinguish                ... pos = 1.125 	neg = 0.0  
+23. The  Washington and                 ... pos = 0.875 	neg = 0.375
+24. The Mexico scenes, o                ... pos = 0.0   	neg = 0.5  
+25. And the California l                ... pos = 0.375 	neg = 0.0  
+26. Each of the storylin                ... pos = 0.0   	neg = 0    
+27. Douglas is on  the m                ... pos = 0.0   	neg = 0.5  
+28. His desperation, as                 ... pos = 0.625 	neg = 0.125
+29. Del Toro, meanwhile,                ... pos = 1.125 	neg = 0.5  
+30. Zeta Jones is less s                ... pos = 1.625 	neg = 0.125
+31. To an extent, this i                ... pos = 0.0   	neg = 0.375
+32. Unlike the other two                ... pos = 1.125 	neg = 0.0  
+33. Indeed, Cheadle brin                ... pos = 0.0   	neg = 0.875
+34. There is a lot  happ                ... pos = 0.75  	neg = 0.125
+35. The same cannot be s                ... pos = 1.125 	neg = 0.5  
+36. Here we see how easy                ... pos = 1.0   	neg = 0.75 
+37. The story of the Wak                ... pos = 1.0   	neg = 1.25 
+38. But "Traffic"  depic                ... pos = 1.25  	neg = 0.125
+39. What happens to Caro                ... pos = 0     	neg = 0.75 
+40. The explanation offe                ... pos = 0.0   	neg = 0.125
+41. "Traffic" reaches no                ... pos = 0.0   	neg = 0.375
+42. Some aspects of the                 ... pos = 1.0   	neg = 0.625
+43. Others offer a spark                ... pos = 0.875 	neg = 0.875
+44. In the end, it is no                ... pos = 0.25  	neg = 1.0  
+45. What "Traffic" does                 ... pos = 1.0   	neg = 0.25 
+46. Politicians and acti                ... pos = 0.25  	neg = 0.5  
+47. Copyright Š 2001 Sh                ... pos = 0.0   	neg = 0.0  
+48. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+49. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3669-1444 is Positive        ... pos = 25.75 	neg = 13.0 
+Overall score of document
+Total Pos = 25.75
+Total Neg = 13.0
+---------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+0. John Carroll Editor/                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Harold R                 ... pos = 0.0   	neg = 0    
+2. 1999.                                ... pos = 0     	neg = 0    
+3. After the buddy come                 ... pos = 0.5   	neg = 0.25 
+4. Directed by Harold R                 ... pos = 0.625 	neg = 0.375
+5. Robert DeNiro and Bi                 ... pos = 0.875 	neg = 1.0  
+6. I was skeptical, but                 ... pos = 0.25  	neg = 0.25 
+7. The rest of the cast                 ... pos = 0.5   	neg = 0.125
+8. Analyze This is a ve                 ... pos = 1.0   	neg = 0.125
+9. And at other moments                 ... pos = 0.625 	neg = 0.125
+10. It starts off very d                ... pos = 0.5   	neg = 0.75 
+11. However, a hilarious                ... pos = 0.5   	neg = 0.0  
+12. The interaction betw                ... pos = 1.75  	neg = 0.0  
+13. Even better, he gets                ... pos = 0.625 	neg = 0.0  
+14. Lisa Kudrow never se                ... pos = 0.0   	neg = 0.125
+15. No matter where she                 ... pos = 0.125 	neg = 0.25 
+16. "  Kudrow tries to s                ... pos = 1.0   	neg = 0.5  
+17. However, her charact                ... pos = 1.0   	neg = 0.625
+18. She plays the fiance                ... pos = 0.5   	neg = 0.125
+19. The only times when                 ... pos = 0.5   	neg = 0.125
+20. Director Harold Rami                ... pos = 0.875 	neg = 0.875
+21. Ken Lonergan and Pet                ... pos = 1.125 	neg = 0.25 
+22. Kudrow never gets an                ... pos = 0.625 	neg = 0.625
+23. Also, whenever Vitti                ... pos = 0.25  	neg = 0.0  
+24. One exception is Joe                ... pos = 0.0   	neg = 0.25 
+25. Jelly is sorely lack                ... pos = 0.125 	neg = 0.125
+26. 1999 was a great yea                ... pos = 0.0   	neg = 0.125
+27. While Analyze This i                ... pos = 1.0   	neg = 0.875
+28. Final Verdict: B The                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5639-493 is Positive         ... pos = 15.0  	neg = 7.875
+Overall score of document
+Total Pos = 15.0
+Total Neg = 7.875
+---------------------------------------------------------------------------

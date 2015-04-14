@@ -1,0 +1,23 @@
+0. "In the game we are                  ... pos = 0.25  	neg = 0.0  
+1. It's all organized.                  ... pos = 0.0   	neg = 0    
+2. ". It's true for me                  ... pos = 0.625 	neg = 0.125
+3. One thing I'll have                  ... pos = 1.625 	neg = 0.625
+4. In it, we find somet                 ... pos = 0.75  	neg = 0.125
+5. The distinct, anti-                  ... pos = 1.875 	neg = 0.0  
+6. I'm not trying to do                 ... pos = 0.375 	neg = 0.875
+7. It's because of this                 ... pos = 0.125 	neg = 0.125
+8. ". That aside, "Life                 ... pos = 0.75  	neg = 0.0  
+9. The bittersweet memo                 ... pos = 0.75  	neg = 0.25 
+10. Roberto Benigni's ch                ... pos = 2.875 	neg = 0.875
+11. Benigni's performanc                ... pos = 0.25  	neg = 0.25 
+12. He did everything he                ... pos = 0.0   	neg = 0.0  
+13. How cruel is destiny                ... pos = 0.25  	neg = 0.25 
+14. Because we've gotten                ... pos = 1.75  	neg = 0.25 
+15. It's equally marvelo                ... pos = 3.0   	neg = 0.875
+16. Suffice to say that                 ... pos = 0.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5730-977 is Positive         ... pos = 15.75 	neg = 5.0  
+Overall score of document
+Total Pos = 15.75
+Total Neg = 5.0
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. by Curtis Edmonds --                 ... pos = 0.5   	neg = 0.25 
+1. The film itself with                 ... pos = 0.125 	neg = 0.0  
+2. And I think it's a f                 ... pos = 0.125 	neg = 0.0  
+3. But if we're going t                 ... pos = 0.0   	neg = 0.25 
+4. I think that's a fai                 ... pos = 0.0   	neg = 0.0  
+5. All of the Bond heri                 ... pos = 1.625 	neg = 0.0  
+6. By that standard, To                 ... pos = 0.0   	neg = 0.375
+7. Tomorrow Never Dies                  ... pos = 0.875 	neg = 0.0  
+8. (Given the relative                  ... pos = 0.625 	neg = 0.25 
+9. Mission: Impossible                  ... pos = 1.0   	neg = 0.625
+10. )   However, the vil                ... pos = 0.625 	neg = 0.25 
+11. His ultimate weapon                 ... pos = 0.75  	neg = 0.375
+12. And he's trying to s                ... pos = 0.0   	neg = 0.5  
+13. And...                              ... pos = 0     	neg = 0    
+14. I'm sorry, the plot                 ... pos = 0.0   	neg = 1.625
+15. It really is.                       ... pos = 0.0   	neg = 0.125
+16. There's just so much                ... pos = 0.125 	neg = 0.375
+17. It just ambles along                ... pos = 0.0   	neg = 0.0  
+18. (I won't tell you wh                ... pos = 0.125 	neg = 0.0  
+19. ). Tomorrow Never Di                ... pos = 0.0   	neg = 0.375
+20. And there's nothing                 ... pos = 0.125 	neg = 1.0  
+21. It's just that if yo                ... pos = 0.875 	neg = 0.625
+22. To its credit, Tomor                ... pos = 1.125 	neg = 0.25 
+23. (Or "sidechick"?                    ... pos = 0     	neg = 0.0  
+24. )  Unfortunately, sh                ... pos = 0.0   	neg = 2.125
+25. All that aside, thou                ... pos = 0.25  	neg = 0.125
+26. Brosnan's 007 has ma                ... pos = 0.25  	neg = 0.0  
+27. The chase scenes are                ... pos = 0.25  	neg = 0.0  
+28. The plot is nonsense                ... pos = 0     	neg = 0.125
+29. The Bond support tea                ... pos = 0.0   	neg = 0.0  
+30. So, to answer my que                ... pos = 0.0   	neg = 0.125
+31. Let's put it this wa                ... pos = 0.0   	neg = 0.125
+32. The Hollywood Stock                 ... pos = 0.0   	neg = 0.375
+33. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5255-1045 is Negative        ... pos = 9.375 	neg = 10.25
+Overall score of document
+Total Pos = 9.375
+Total Neg = 10.25
+---------------------------------------------------------------------------

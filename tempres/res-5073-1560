@@ -1,0 +1,47 @@
+0. What in the hell is                  ... pos = 0.0   	neg = 1.375
+1. Don't they realize t                 ... pos = 0.125 	neg = 0.0  
+2. Obviously not, becau                 ... pos = 0.0   	neg = 0.25 
+3. I mean, just look at                 ... pos = 0.0   	neg = 0.375
+4. This year, we had th                 ... pos = 0.0   	neg = 0.0  
+5. What started out as                  ... pos = 1.25  	neg = 0.0  
+6. Then they ditched Bu                 ... pos = 0.0   	neg = 0.5  
+7. Now, they have a bet                 ... pos = 0.25  	neg = 0.875
+8. Look at the kinds of                 ... pos = 0.0   	neg = 0.375
+9. Chill out.                           ... pos = 0.125 	neg = 0.0  
+10. " C'mon!                            ... pos = 0     	neg = 0    
+11. And how can we forge                ... pos = 0.25  	neg = 0.0  
+12. They took what is ve                ... pos = 1.375 	neg = 0.125
+13. And then you have th                ... pos = 0.0   	neg = 0.0  
+14. Okay, don't worry.                  ... pos = 0.25  	neg = 0.125
+15. I'm done ranting and                ... pos = 0.75  	neg = 0.25 
+16. "Twister", like I sa                ... pos = 0.0   	neg = 0.875
+17. It has absolutly no                 ... pos = 0.875 	neg = 1.25 
+18. This is an empty fil                ... pos = 0.0   	neg = 0.125
+19. And what's sad is th                ... pos = 0.0   	neg = 1.0  
+20. Some of my favorite                 ... pos = 0.25  	neg = 0.0  
+21. Just look at the fil                ... pos = 0.0   	neg = 0.375
+22. They have horrible a                ... pos = 0.625 	neg = 1.375
+23. Those are four star                 ... pos = 0.25  	neg = 0    
+24. This is a travesty t                ... pos = 0.0   	neg = 0.375
+25. Face it: this is not                ... pos = 0.125 	neg = 0.125
+26. Even "Independence D                ... pos = 0.375 	neg = 1.0  
+27. This has nothing.                   ... pos = 0.0   	neg = 0.25 
+28. And what's even more                ... pos = 0.0   	neg = 0.875
+29. They FX are fantasti                ... pos = 1.875 	neg = 1.0  
+30. With a cast like tha                ... pos = 0.0   	neg = 0.0  
+31. Well, Jan De Bont (f                ... pos = 0.375 	neg = 0.625
+32. I'm not even going t                ... pos = 0.0   	neg = 0.0  
+33. It's that predictibl                ... pos = 0     	neg = 0    
+34. If you are looking f                ... pos = 1.0   	neg = 0.375
+35. In fact, if you want                ... pos = 1.5   	neg = 1.375
+36. That is where you wi                ... pos = 0.75  	neg = 0.125
+37. ) "Mortal Kombat".                  ... pos = 0     	neg = 0    
+38. Any of these movies                 ... pos = 0.25  	neg = 0.0  
+39. Skip it.                            ... pos = 0.0   	neg = 0.0  
+40. Check out Jason Wall                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5073-1560 is Negative        ... pos = 12.875 	neg = 15.375
+Overall score of document
+Total Pos = 12.875
+Total Neg = 15.375
+---------------------------------------------------------------------------

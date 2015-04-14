@@ -1,0 +1,41 @@
+0. A copy of this revie                 ... pos = 0.125 	neg = 0.125
+1. With both the heredi                 ... pos = 0.5   	neg = 1.25 
+2. There are certain li                 ... pos = 0.375 	neg = 0.0  
+3. Over the  summer Uni                 ... pos = 0.75  	neg = 0.125
+4. James Cameron knows                  ... pos = 0.0   	neg = 0.0  
+5. His Terminator films                 ... pos = 0.875 	neg = 0.5  
+6. Unfortunately, direc                 ... pos = 0.0   	neg = 1.25 
+7. After a brief openin                 ... pos = 0.625 	neg = 0.0  
+8. In three days, 1000                  ... pos = 0.0   	neg = 0.5  
+9. The end of  days wil                 ... pos = 0.125 	neg = 0.0  
+10. The offspring will t                ... pos = 0.375 	neg = 0.125
+11. The details  on how                 ... pos = 0.625 	neg = 0.0  
+12. Arnie plays a securi                ... pos = 0.0   	neg = 0.0  
+13. He takes a bullet fo                ... pos = 0.25  	neg = 0.875
+14. The  man with the gu                ... pos = 0.0   	neg = 0.125
+15. Arnie catches up wit                ... pos = 0.0   	neg = 0.125
+16. Seem strange yet?                   ... pos = 0.75  	neg = 0    
+17. It gets more bizarre                ... pos = 0.0   	neg = 0.25 
+18. The guy doesn't have                ... pos = 0.0   	neg = 0.0  
+19. The movie continues                 ... pos = 0.25  	neg = 0.125
+20. The  only interestin                ... pos = 0.25  	neg = 0.25 
+21. "  . Somewhere in th                ... pos = 0.25  	neg = 0.625
+22. There is a basic fla                ... pos = 0.5   	neg = 0.125
+23. Most directors are f                ... pos = 0.875 	neg = 0.25 
+24. On  occasion, except                ... pos = 0.25  	neg = 0.0  
+25. Recently (SPOILER OF                ... pos = 0.375 	neg = 0.125
+26. Not long ago, the Ca                ... pos = 0.625 	neg = 0.5  
+27. End of Days takes it                ... pos = 0.875 	neg = 0.0  
+28. It remains a mystery                ... pos = 0.0   	neg = 0.0  
+29. The movie does have                 ... pos = 0.0   	neg = 0.25 
+30. Satan is a far too a                ... pos = 1.375 	neg = 0.75 
+31. At one point many vi                ... pos = 0.0   	neg = 0.0  
+32. As in  many action w                ... pos = 0.375 	neg = 0.25 
+33. The writers  must ha                ... pos = 2.75  	neg = 1.25 
+34. " Perhaps the movie'                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-6107-592 is Positive         ... pos = 14.125 	neg = 10.0 
+Overall score of document
+Total Pos = 14.125
+Total Neg = 10.0
+---------------------------------------------------------------------------

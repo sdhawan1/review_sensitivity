@@ -1,0 +1,37 @@
+0. There are movies tha                 ... pos = 1.375 	neg = 0.0  
+1. ), and there are mov                 ... pos = 1.125 	neg = 0.25 
+2. When the two actuall                 ... pos = 0.375 	neg = 0.125
+3. DARK CITY is a visua                 ... pos = 1.0   	neg = 1.125
+4. Imagine waking up on                 ... pos = 0.0   	neg = 0.5  
+5. Like a Dr. Jekyll &                  ... pos = 0.125 	neg = 0.875
+6. Although John can no                 ... pos = 0.5   	neg = 0.125
+7. For one, there is th                 ... pos = 0.75  	neg = 0.625
+8. Secondly, there is J                 ... pos = 0.375 	neg = 0.125
+9. Thirdly, there is th                 ... pos = 1.25  	neg = 0.25 
+10. Last but not least,                 ... pos = 0.0   	neg = 0.0  
+11. Note: even though th                ... pos = 0.0   	neg = 0.0  
+12. As things very tedio                ... pos = 0.5   	neg = 0.125
+13. They then proceed to                ... pos = 0.0   	neg = 0.0  
+14. By joint concentrati                ... pos = 2.375 	neg = 0.25 
+15. John becomes the exc                ... pos = 0.5   	neg = 0.125
+16. He also has the abil                ... pos = 1.75  	neg = 0.375
+17. With everyone seemin                ... pos = 0.5   	neg = 0.0  
+18. Discovering this fac                ... pos = 0.125 	neg = 0.25 
+19. For a very long whil                ... pos = 0.625 	neg = 0.5  
+20. We follow John aroun                ... pos = 0.125 	neg = 0.375
+21. However, this is tru                ... pos = 0.75  	neg = 0.25 
+22. It sounds highly int                ... pos = 1.0   	neg = 0.5  
+23. Had director / co-wr                ... pos = 1.125 	neg = 0.5  
+24. Sadly, without chara                ... pos = 1.0   	neg = 1.625
+25. Hurt's not looking u                ... pos = 0.125 	neg = 0.375
+26. Sewell and Connelly                 ... pos = 1.25  	neg = 0.125
+27. In the drab settings                ... pos = 0.875 	neg = 1.375
+28. Proyas, whose THE CR                ... pos = 0.875 	neg = 1.25 
+29. Any attempts at "rea                ... pos = 0     	neg = 0.5  
+30. With so much potenti                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-541-195 is Positive          ... pos = 21.0  	neg = 12.5 
+Overall score of document
+Total Pos = 21.0
+Total Neg = 12.5
+---------------------------------------------------------------------------

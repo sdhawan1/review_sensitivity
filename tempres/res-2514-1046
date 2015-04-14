@@ -1,0 +1,43 @@
+0. Towards the end of "                 ... pos = 0.0   	neg = 0.0  
+1. "Why?                                ... pos = 0     	neg = 0    
+2. " he asks them, whic                 ... pos = 0.125 	neg = 0.125
+3. To which they answer                 ... pos = 0     	neg = 0    
+4. ". Unlike so many ot                 ... pos = 0.875 	neg = 1.375
+5. Instead of being one                 ... pos = 0.75  	neg = 0.625
+6. In the abstract, "8M                 ... pos = 0.0   	neg = 0.125
+7. Welles is a highly-p                 ... pos = 0.0   	neg = 0.375
+8. He's a family man; t                 ... pos = 0.0   	neg = 1.25 
+9. When he takes the ca                 ... pos = 0.0   	neg = 0.125
+10. The case doesn't eve                ... pos = 0.125 	neg = 0.0  
+11. The widower presents                ... pos = 0.0   	neg = 0.25 
+12. Welles isn't convinc                ... pos = 0.375 	neg = 0.0  
+13. But she's paying, an                ... pos = 0.0   	neg = 0.75 
+14. The first half-hour                 ... pos = 0.25  	neg = 0.125
+15. Welles fixates on th                ... pos = 0.5   	neg = 0.0  
+16. He eventually identi                ... pos = 0.0   	neg = 0.125
+17. The scenes between W                ... pos = 0.625 	neg = 0.0  
+18. She has been saving                 ... pos = 0.875 	neg = 0.25 
+19. Welles eventually fi                ... pos = 0.0   	neg = 0.0  
+20. He hooks up with a p                ... pos = 0.0   	neg = 0.5  
+21. The film observes wi                ... pos = 1.0   	neg = 1.125
+22. But in one of the st                ... pos = 0.375 	neg = 0.0  
+23. More fakery.                        ... pos = 0.0   	neg = 0.0  
+24. Another dead end.                   ... pos = 0     	neg = 0.125
+25. Welles keeps digging                ... pos = 0.0   	neg = 0.0  
+26. He finds a low-rent                 ... pos = 0.0   	neg = 0.125
+27. Welles theorizes tha                ... pos = 0.0   	neg = 0.125
+28. What happens next I                 ... pos = 0.75  	neg = 1.0  
+29. Instead, we are push                ... pos = 1.5   	neg = 0.75 
+30. Not "sick", not insa                ... pos = 0.0   	neg = 1.0  
+31. Welles, confronted w                ... pos = 0.0   	neg = 0.0  
+32. There is a scene whe                ... pos = 0.5   	neg = 0.875
+33. Many critics hated "                ... pos = 0.0   	neg = 1.25 
+34. I think to criticize                ... pos = 0.0   	neg = 1.0  
+35. If there are in fact                ... pos = 0.875 	neg = 1.125
+36. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2514-1046 is Negative        ... pos = 9.5   	neg = 14.5 
+Overall score of document
+Total Pos = 9.5
+Total Neg = 14.5
+---------------------------------------------------------------------------

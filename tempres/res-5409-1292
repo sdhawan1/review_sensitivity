@@ -1,0 +1,20 @@
+0. Bob the Happy Bastar                 ... pos = 0.625 	neg = 0.625
+1. How about a fully di                 ... pos = 0.125 	neg = 0.375
+2. That's what computer                 ... pos = 0.125 	neg = 0.125
+3. Before you groan at                  ... pos = 0.25  	neg = 0.625
+4. There's actually a s                 ... pos = 0.0   	neg = 0.0  
+5. It seems that a grou                 ... pos = 1.25  	neg = 0.75 
+6. Neo (Reeves) is pret                 ... pos = 0.25  	neg = 0.625
+7. Could this amateur b                 ... pos = 0.0   	neg = 0.25 
+8. Credit the Wachowski                 ... pos = 0.875 	neg = 0.125
+9. There's plenty of ef                 ... pos = 0.0   	neg = 0.25 
+10. Reeves is surprising                ... pos = 1.125 	neg = 0.125
+11. I wish the villains                 ... pos = 0.0   	neg = 0.75 
+12. Now the Wachowskis a                ... pos = 0.625 	neg = 0.0  
+13. Bring it on.. .                     ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-1292 is Positive        ... pos = 5.25  	neg = 4.625
+Overall score of document
+Total Pos = 5.25
+Total Neg = 4.625
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. Release Date: May 8,                 ... pos = 0.75  	neg = 0.125
+1. The case might be mu                 ... pos = 0.5   	neg = 1.75 
+2. >From the release of                 ... pos = 0.875 	neg = 0.25 
+3. DEEP IMPACT, by far                  ... pos = 0.5   	neg = 0.125
+4. Usually, for disaste                 ... pos = 0.0   	neg = 0.5  
+5. Here, however, story                 ... pos = 0.375 	neg = 0.25 
+6. This lack of plot se                 ... pos = 1.0   	neg = 0.375
+7. DEEP IMPACT is reall                 ... pos = 0.0   	neg = 0.125
+8. The first is of Leo                  ... pos = 1.25  	neg = 0.625
+9. The movie, for all i                 ... pos = 0.0   	neg = 0.0  
+10. Because there are th                ... pos = 0.75  	neg = 0.0  
+11. Directed by Mimi Led                ... pos = 0.0   	neg = 0.0  
+12. Here, however, her p                ... pos = 1.625 	neg = 0.125
+13. For all its worth as                ... pos = 0.625 	neg = 0.125
+14. FINAL AWARD FOR "DEE                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1674-700 is Positive         ... pos = 9.25  	neg = 4.375
+Overall score of document
+Total Pos = 9.25
+Total Neg = 4.375
+---------------------------------------------------------------------------

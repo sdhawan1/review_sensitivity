@@ -1,0 +1,32 @@
+0. Any Given Sunday: al                 ... pos = 0.0   	neg = 0.5  
+1. But then there's the                 ... pos = 0.0   	neg = 0.5  
+2. Meaning lots of styl                 ... pos = 1.25  	neg = 0.5  
+3. It's the same kind o                 ... pos = 0.375 	neg = 0.125
+4. It lasts just as lon                 ... pos = 0.375 	neg = 0.5  
+5. It's a common trick,                 ... pos = 0.125 	neg = 0.25 
+6. The rest have to do                  ... pos = 0.25  	neg = 0.0  
+7. Which results in thi                 ... pos = 1.625 	neg = 0.625
+8. Once things get star                 ... pos = 0.25  	neg = 0.75 
+9. As Coach D'Amato (Pa                 ... pos = 0.25  	neg = 0.125
+10. As he sees it, TV is                ... pos = 0.375 	neg = 1.0  
+11. As any good hero mus                ... pos = 2.25  	neg = 0.625
+12. Yet he's got a seaso                ... pos = 0.375 	neg = 0.0  
+13. And if that wasn't e                ... pos = 0.0   	neg = 0.25 
+14. And yes, his dilemma                ... pos = 3.0   	neg = 0.5  
+15. Specifically, the li                ... pos = 0.875 	neg = 0.25 
+16. Powers (Matthew Modi                ... pos = 0.625 	neg = 0.0  
+17. Stone just slips thi                ... pos = 1.25  	neg = 0.125
+18. This is Stone, after                ... pos = 0.125 	neg = 0.125
+19. And not just for Man                ... pos = 0.5   	neg = 0.0  
+20. Everybody's slowly (                ... pos = 0.0   	neg = 0.0  
+21. ) turning into someo                ... pos = 0.375 	neg = 0.5  
+22. But so be it.                       ... pos = 0.0   	neg = 0.125
+23. At least Any Given S                ... pos = 0.625 	neg = 0.25 
+24. And yes, it is a ser                ... pos = 0.0   	neg = 0.875
+25. Otherwise all the mu                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2429-965 is Positive         ... pos = 15.0  	neg = 8.5  
+Overall score of document
+Total Pos = 15.0
+Total Neg = 8.5
+---------------------------------------------------------------------------

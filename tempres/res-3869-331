@@ -1,0 +1,32 @@
+0. Directed by David Fi                 ... pos = 0.0   	neg = 0    
+1. Starring Edward Nort                 ... pos = 0.0   	neg = 0.0  
+2. Just by looking at t                 ... pos = 0.0   	neg = 0.25 
+3. And it was.                          ... pos = 0.0   	neg = 0.125
+4. The movie is all abo                 ... pos = 0.0   	neg = 0.25 
+5. Joe (Edward Norton)                  ... pos = 1.0   	neg = 0.125
+6. Thirty years old, li                 ... pos = 0.625 	neg = 0.125
+7. Picture perfect for                  ... pos = 0.0   	neg = 0.0  
+8. But he has insomnia                  ... pos = 0.0   	neg = 0.875
+9. Just like a Coupland                 ... pos = 0.0   	neg = 0.0  
+10. So this Joe is out t                ... pos = 0.0   	neg = 0.875
+11. He found it by visit                ... pos = 0.625 	neg = 0.25 
+12. Here Joe finds all t                ... pos = 0.0   	neg = 0.125
+13. But after a while, a                ... pos = 0.5   	neg = 0.0  
+14. This drives Joe craz                ... pos = 0.0   	neg = 0.375
+15. While in his insomni                ... pos = 0.0   	neg = 0.75 
+16. The two talked, and                 ... pos = 0.0   	neg = 0.0  
+17. Both in search for a                ... pos = 0.0   	neg = 0.125
+18. Even though the firs                ... pos = 0.625 	neg = 0.0  
+19. And then everything                 ... pos = 0.0   	neg = 0.0  
+20. ". The ending is ama                ... pos = 0.0   	neg = 0.125
+21. You can choose whate                ... pos = 0.125 	neg = 0.0  
+22. All and all, I think                ... pos = 0.375 	neg = 0.125
+23. It's kinda like an a                ... pos = 0.375 	neg = 0.125
+24. And a lot of fightin                ... pos = 0.0   	neg = 0.0  
+25. Indra Moeljadi is lo                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3869-331 is Negative         ... pos = 4.25  	neg = 4.75 
+Overall score of document
+Total Pos = 4.25
+Total Neg = 4.75
+---------------------------------------------------------------------------

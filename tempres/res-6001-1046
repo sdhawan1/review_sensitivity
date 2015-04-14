@@ -1,0 +1,37 @@
+0. CAPSULE: Miles bette                 ... pos = 0.25  	neg = 0.25 
+1. Entertainment by pro                 ... pos = 0.0   	neg = 0    
+2. Advance posters for                  ... pos = 0.125 	neg = 0.125
+3. I was all set to exp                 ... pos = 0.0   	neg = 0.125
+4. They got it halfway                  ... pos = 0.0   	neg = 0.0  
+5. M:I is a thriller, a                 ... pos = 0.0   	neg = 1.375
+6. The TV show, for tho                 ... pos = 0.0   	neg = 0.25 
+7. It was another of TV                 ... pos = 0.5   	neg = 0.25 
+8. The M:I movie seems                  ... pos = 0.125 	neg = 0.625
+9. In fact, in one scen                 ... pos = 0.0   	neg = 0.125
+10. In the '60s, Mr. Phe                ... pos = 0.0   	neg = 0.5  
+11. In the '90s, the aud                ... pos = 0.0   	neg = 0.125
+12. ". Suffice to say th                ... pos = 0.0   	neg = 0.0  
+13. How has it been re-w                ... pos = 0.0   	neg = 0.125
+14. The usual Hollywood                 ... pos = 0.25  	neg = 0.25 
+15. There isn't a moment                ... pos = 0.75  	neg = 0.25 
+16. What about Tom Cruis                ... pos = 0.0   	neg = 0.0  
+17. Tom Cruise is an exc                ... pos = 1.375 	neg = 0.25 
+18. The original IMF peo                ... pos = 0.0   	neg = 0.125
+19. The movie turns quic                ... pos = 0.5   	neg = 0.625
+20. A-ha.                               ... pos = 0     	neg = 0    
+21. I mentioned guffawin                ... pos = 0.0   	neg = 0.0  
+22. See if you can follo                ... pos = 1.25  	neg = 0.0  
+23. Early in the movie,                 ... pos = 0.875 	neg = 0.0  
+24. What's wrong with *t                ... pos = 0.0   	neg = 0.75 
+25. Or what about the CI                ... pos = 0.0   	neg = 0.0  
+26. Why?                                ... pos = 0     	neg = 0.0  
+27. Because if there WAS                ... pos = 0.0   	neg = 0.5  
+28. I'm not even going t                ... pos = 0.375 	neg = 0.375
+29. So what have we got                 ... pos = 0     	neg = 0.0  
+30. A loud, overly compl                ... pos = 0.375 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-6001-1046 is Negative        ... pos = 6.75  	neg = 8.125
+Overall score of document
+Total Pos = 6.75
+Total Neg = 8.125
+---------------------------------------------------------------------------

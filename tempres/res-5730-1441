@@ -1,0 +1,48 @@
+0. The afternoon before                 ... pos = 0.0   	neg = 0.125
+1. I only caught a glim                 ... pos = 0.5   	neg = 0.125
+2. The movie has achiev                 ... pos = 1.375 	neg = 0.0  
+3. Among of the example                 ... pos = 1.25  	neg = 0.5  
+4. I went into the film                 ... pos = 0.0   	neg = 0.0  
+5. This, of course, col                 ... pos = 0.125 	neg = 0.375
+6. I'm not sure how imp                 ... pos = 1.125 	neg = 0.25 
+7. To summarize the bas                 ... pos = 0.75  	neg = 0.125
+8. Benigni plays a wait                 ... pos = 0.0   	neg = 0.0  
+9. There are complicati                 ... pos = 0.25  	neg = 0.0  
+10. Over the first hour                 ... pos = 0.694 	neg = 0.0  
+11. Some years later, we                ... pos = 0.625 	neg = 0.25 
+12. This idyll is shatte                ... pos = 0.0   	neg = 0.25 
+13. To keep his son aliv                ... pos = 1.0   	neg = 0.125
+14. Elaborations are imp                ... pos = 0.5   	neg = 0.5  
+15. The charade continue                ... pos = 0.0   	neg = 0.125
+16. I actually found thi                ... pos = 0.0   	neg = 0.125
+17. It makes a statement                ... pos = 0.625 	neg = 0.25 
+18. Yes, Benigni is stil                ... pos = 1.263 	neg = 0.25 
+19. There is little evid                ... pos = 0.875 	neg = 0.625
+20. There is then no dou                ... pos = 0.75  	neg = 0.375
+21. It's in this nonexis                ... pos = 0.25  	neg = 0.875
+22. Yes, there are unrea                ... pos = 0.375 	neg = 1.125
+23. The guards have a to                ... pos = 0.125 	neg = 0.625
+24. Security is interest                ... pos = 1.25  	neg = 0.625
+25. But more importantly                ... pos = 0.25  	neg = 0.125
+26. In some sense, the H                ... pos = 0.0   	neg = 0.0  
+27. In this movie, the H                ... pos = 0.0   	neg = 0.375
+28. Interestingly, the o                ... pos = 0.25  	neg = 0.375
+29. Perhaps the decision                ... pos = 0.875 	neg = 1.0  
+30. It's in this sequenc                ... pos = 0.0   	neg = 0.625
+31. We see a hint that t                ... pos = 0.444 	neg = 0.125
+32. The film only works                 ... pos = 0.625 	neg = 0.0  
+33. One critic noted tha                ... pos = 1.625 	neg = 0.5  
+34. But Benigni doesn't                 ... pos = 0.0   	neg = 0.125
+35. Another route may ha                ... pos = 0.125 	neg = 0.5  
+36. Of course things wer                ... pos = 0.5   	neg = 0.125
+37. But this is another                 ... pos = 0.5   	neg = 0.25 
+38. [1] http://www.npr.o                ... pos = 0.375 	neg = 0.0  
+39. I think it's in the                 ... pos = 0.25  	neg = 0.0  
+40. I'm curious about th                ... pos = 0.0   	neg = 1.0  
+41. [4] http://www.fhi-b                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5730-1441 is Positive        ... pos = 19.526 	neg = 12.75
+Overall score of document
+Total Pos = 19.526
+Total Neg = 12.75
+---------------------------------------------------------------------------

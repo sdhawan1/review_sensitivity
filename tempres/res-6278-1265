@@ -1,0 +1,27 @@
+0. Police hostage negot                 ... pos = 0.25  	neg = 0.25 
+1. One night Danny's pa                 ... pos = 0.625 	neg = 0.25 
+2. Nate is soon murdere                 ... pos = 0.0   	neg = 0.875
+3. Faced with certain c                 ... pos = 0.875 	neg = 0.5  
+4. Danny knows that Nie                 ... pos = 0.75  	neg = 0.125
+5. Since he can't trust                 ... pos = 0.75  	neg = 0.125
+6. "The Negotiator" is                  ... pos = 0.375 	neg = 0.125
+7. Jackson and Spacey c                 ... pos = 0.375 	neg = 0.125
+8. Their scenes togethe                 ... pos = 0.625 	neg = 0    
+9. Danny stalks around                  ... pos = 0.0   	neg = 0.0  
+10. Chris approaches the                ... pos = 0.25  	neg = 0.0  
+11. The conflict of nego                ... pos = 0.625 	neg = 0.125
+12. The cast is filled o                ... pos = 0.875 	neg = 0.125
+13. As the major suspect                ... pos = 0.375 	neg = 0.125
+14. Paul Giamatti offers                ... pos = 0.625 	neg = 0.25 
+15. Regina Taylor (from                 ... pos = 0.0   	neg = 0.0  
+16. The down side?                      ... pos = 0.0   	neg = 0.0  
+17. Even though Danny is                ... pos = 0.875 	neg = 0.625
+18. This undercuts a lot                ... pos = 0.25  	neg = 0.5  
+19. "The Negotiator" won                ... pos = 0.875 	neg = 0.125
+20. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6278-1265 is Positive        ... pos = 9.375 	neg = 4.25 
+Overall score of document
+Total Pos = 9.375
+Total Neg = 4.25
+---------------------------------------------------------------------------

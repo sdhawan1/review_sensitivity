@@ -1,0 +1,31 @@
+0. COP LAND (Miramax -                  ... pos = 0.125 	neg = 0.375
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 2.0   	neg = 0.0  
+3. He has not, however,                 ... pos = 0.875 	neg = 0.0  
+4. OR MY MOM WILL SHOOT                 ... pos = 0.25  	neg = 1.0  
+5. Mr. Stallone makes h                 ... pos = 1.375 	neg = 0.25 
+6. Gone are the larger-                 ... pos = 2.0   	neg = 0.125
+7. Supporting Mr. Stall                 ... pos = 0.75  	neg = 0.375
+8. James Mangold's firs                 ... pos = 1.0   	neg = 0.125
+9. I have, however, rea                 ... pos = 2.0   	neg = 0.125
+10. The same can be said                ... pos = 3.875 	neg = 1.625
+11. Unfortunately, it is                ... pos = 0.5   	neg = 2.25 
+12. Mr. Mangold has writ                ... pos = 0.5   	neg = 0.5  
+13. There is too much go                ... pos = 2.125 	neg = 1.25 
+14. As it stands, the st                ... pos = 0.625 	neg = 0.875
+15. COP LAND has its str                ... pos = 1.625 	neg = 0.375
+16. Prolific composer Ho                ... pos = 1.625 	neg = 0.5  
+17. While it is somewhat                ... pos = 0.375 	neg = 0.875
+18. However, COP LAND is                ... pos = 0.25  	neg = 0.375
+19. It is of course poss                ... pos = 3.0   	neg = 1.375
+20. As for Mr. Stallone,                ... pos = 0.0   	neg = 0.875
+21. His 38-pound weight-                ... pos = 3.125 	neg = 1.0  
+22. Mr. Stallone is not                 ... pos = 0.75  	neg = 0.75 
+23. -- Alex Fung (aw220@                ... pos = 0.0   	neg = 0.0  
+24. " - Aaron Eckhart, I                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2603-717 is Positive         ... pos = 28.75 	neg = 15.125
+Overall score of document
+Total Pos = 28.75
+Total Neg = 15.125
+---------------------------------------------------------------------------

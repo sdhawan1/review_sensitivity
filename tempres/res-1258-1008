@@ -1,0 +1,49 @@
+0. ***1/2 (out of 4)                    ... pos = 0.0   	neg = 0.5  
+1. Spielberg has been t                 ... pos = 1.0   	neg = 0.125
+2. He is a master at wh                 ... pos = 0.0   	neg = 0.125
+3. It's not that he mak                 ... pos = 0.25  	neg = 0.375
+4. One doesn't notice t                 ... pos = 0.875 	neg = 0.0  
+5. For the six of you o                 ... pos = 0.0   	neg = 0.0  
+6. The dinosaurs were b                 ... pos = 0.5   	neg = 0.125
+7. At the park's premie                 ... pos = 0.0   	neg = 0.625
+8. At the beginning of                  ... pos = 0.0   	neg = 0.25 
+9. Now, naturalists are                 ... pos = 1.25  	neg = 0.0  
+10. Ian Malcolm, a mathe                ... pos = 0.0   	neg = 0.125
+11. But really, what doe                ... pos = 1.0   	neg = 0.25 
+12. Spielberg said somet                ... pos = 0.0   	neg = 0.0  
+13. This time we learned                ... pos = 0.0   	neg = 0    
+14. " That's a very apt                 ... pos = 0.875 	neg = 0    
+15. In Jurassic Park, th                ... pos = 0.0   	neg = 0.25 
+16. The first time we se                ... pos = 1.0   	neg = 0.0  
+17. They didn't really h                ... pos = 0.125 	neg = 0.0  
+18. This allows for more                ... pos = 0.125 	neg = 0.625
+19. There are new dinosa                ... pos = 0.625 	neg = 0.0  
+20. The little "compys"                 ... pos = 0.0   	neg = 0.5  
+21. But because of their                ... pos = 0.5   	neg = 0.0  
+22. There are two T. Rex                ... pos = 0.25  	neg = 0.25 
+23. And of course the ve                ... pos = 0.25  	neg = 0.0  
+24. There is also an exc                ... pos = 1.0   	neg = 0.125
+25. The sequence lasts s                ... pos = 0.0   	neg = 0.0  
+26. Another sequence sho                ... pos = 0.0   	neg = 0.125
+27. In perhaps the most                 ... pos = 0.0   	neg = 0.0  
+28. For the six of you o                ... pos = 1.125 	neg = 0.375
+29. The big game hunter                 ... pos = 0.875 	neg = 0.0  
+30. ) was hard not to li                ... pos = 0.0   	neg = 0.875
+31. Goldblum played the                 ... pos = 1.375 	neg = 0.25 
+32. His daughter was lik                ... pos = 0.25  	neg = 0.125
+33. " That she was a dif                ... pos = 0.875 	neg = 1.125
+34. A few little jokes a                ... pos = 0.25  	neg = 0.5  
+35. Japanese businessmen                ... pos = 0.5   	neg = 0.25 
+36. A pedestrian who get                ... pos = 0.0   	neg = 0.125
+37. In another quick sho                ... pos = 1.0   	neg = 0.25 
+38. A friend of mine sai                ... pos = 0.5   	neg = 0.875
+39. Keep that in mind, a                ... pos = 0.625 	neg = 0.0  
+40. It's hard to imagine                ... pos = 0.0   	neg = 1.25 
+41. So since you're not                 ... pos = 1.75  	neg = 0.125
+42. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1258-1008 is Positive        ... pos = 18.75 	neg = 10.5 
+Overall score of document
+Total Pos = 18.75
+Total Neg = 10.5
+---------------------------------------------------------------------------

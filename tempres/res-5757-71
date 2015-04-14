@@ -1,0 +1,41 @@
+0. My wife said it best                 ... pos = 0.375 	neg = 0.5  
+1. What's charming abou                 ... pos = 0.75  	neg = 0.0  
+2. When we first look u                 ... pos = 0.625 	neg = 0.5  
+3. Their  wings and hal                 ... pos = 0.0   	neg = 0.5  
+4. It is in  the librar                 ... pos = 0.625 	neg = 0.125
+5. I found the angels'                  ... pos = 0.875 	neg = 0.625
+6. As the camera moves                  ... pos = 0.875 	neg = 0.125
+7. "  It is gritty yet                  ... pos = 1.125 	neg = 0.125
+8. John Seale's cinemat                 ... pos = 0.875 	neg = 0.0  
+9. The major roles are                  ... pos = 0.25  	neg = 0    
+10. Cage, his hair metic                ... pos = 0.625 	neg = 0.0  
+11. Unlike most of his f                ... pos = 0.625 	neg = 0.375
+12. (Isn't it a breach o                ... pos = 0.25  	neg = 0.625
+13. )  On her part, Meg                 ... pos = 0.25  	neg = 0.125
+14. Where another  might                ... pos = 0.625 	neg = 1.25 
+15. Her performance is m                ... pos = 1.25  	neg = 0.25 
+16. The minor roles in t                ... pos = 0.875 	neg = 0.0  
+17. Dennis Franz does a                 ... pos = 0.25  	neg = 0    
+18. It's not far-fetched                ... pos = 0.875 	neg = 0.0  
+19. One of the hard-to-b                ... pos = 0.25  	neg = 0.375
+20. But  Nathaniel's gus                ... pos = 0.625 	neg = 0.625
+21. In his role as  Cass                ... pos = 0.0   	neg = 0.0  
+22. ) is underused.                     ... pos = 0     	neg = 0.125
+23. Further, some of his                ... pos = 0.375 	neg = 0.125
+24. Just as Braugher doe                ... pos = 1.625 	neg = 0.0  
+25. Are we to believe th                ... pos = 0.375 	neg = 0.25 
+26. Would he  really act                ... pos = 1.0   	neg = 0.25 
+27. And possibly the mos                ... pos = 0.0   	neg = 0.25 
+28. It is stated in the                 ... pos = 0.625 	neg = 0.25 
+29. What  we wind up wit                ... pos = 0.0   	neg = 0.25 
+30. Let me end by commen                ... pos = 0.0   	neg = 0.25 
+31. Director Silberling'                ... pos = 2.625 	neg = 0.75 
+32. I also liked that th                ... pos = 0.125 	neg = 0.0  
+33. I only wish the endi                ... pos = 0.375 	neg = 0.375
+34. And I'm an  easier c                ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5757-71 is Positive          ... pos = 20.25 	neg = 9.0  
+Overall score of document
+Total Pos = 20.25
+Total Neg = 9.0
+---------------------------------------------------------------------------

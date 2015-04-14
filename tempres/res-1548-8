@@ -1,0 +1,40 @@
+0. TARZAN by DeWyNGaLe                  ... pos = 0.5   	neg = 0.375
+1. Disney used to deliv                 ... pos = 1.5   	neg = 0.375
+2. Tony Goldwyn is the                  ... pos = 0.5   	neg = 0.125
+3. The film starts off                  ... pos = 0.125 	neg = 0.75 
+4. In the jungle, his p                 ... pos = 0.375 	neg = 0.125
+5. When Kala, voiced by                 ... pos = 0.25  	neg = 0.125
+6. Kerchak, voiced by L                 ... pos = 0.625 	neg = 0.75 
+7. While Tarzan grows u                 ... pos = 0.375 	neg = 0.0  
+8. Still after many yea                 ... pos = 0.125 	neg = 0    
+9. Now grown up, Tarzan                 ... pos = 0.125 	neg = 0.0  
+10. One day while roamin                ... pos = 0.25  	neg = 0.375
+11. The three have set u                ... pos = 1.0   	neg = 0.25 
+12. He immediately bonds                ... pos = 0.875 	neg = 0.0  
+13. Jane teaches Tarzan                 ... pos = 0.125 	neg = 0.0  
+14. Of course Tarzan's e                ... pos = 0.625 	neg = 0.5  
+15. Tarzan is a new step                ... pos = 0.75  	neg = 0.125
+16. Sequences in which T                ... pos = 0.375 	neg = 0.125
+17. Even though the envi                ... pos = 0.0   	neg = 0.375
+18. This is most likely                 ... pos = 0.125 	neg = 0.5  
+19. One key feature of T                ... pos = 1.25  	neg = 0.25 
+20. This transition was                 ... pos = 0.375 	neg = 0.125
+21. Phil Collins, who wr                ... pos = 0.125 	neg = 0.0  
+22. The lyrics and beat                 ... pos = 1.0   	neg = 0.375
+23. Tarzan is missing th                ... pos = 0.25  	neg = 0.125
+24. Aladdin and The Lion                ... pos = 0.5   	neg = 0.25 
+25. Although Tarzan is g                ... pos = 1.875 	neg = 0.125
+26. The Lion King was mo                ... pos = 3.625 	neg = 0.375
+27. The only characters                 ... pos = 2.0   	neg = 0.0  
+28. After viewing Tarzan                ... pos = 0.75  	neg = 0.75 
+29. Tarzan looks great,                 ... pos = 0.125 	neg = 0.375
+30. The voices are good                 ... pos = 1.375 	neg = 0.0  
+31. Tarzan isn't for chi                ... pos = 0.875 	neg = 0.0  
+32. If directors Kevin L                ... pos = 1.125 	neg = 0.125
+33. The Bottom Line- Dis                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1548-8 is Positive           ... pos = 24.75 	neg = 7.75 
+Overall score of document
+Total Pos = 24.75
+Total Neg = 7.75
+---------------------------------------------------------------------------

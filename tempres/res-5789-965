@@ -1,0 +1,37 @@
+0. Part of the appeal o                 ... pos = 0.375 	neg = 0.25 
+1. Simple stuff.                        ... pos = 0.0   	neg = 0.25 
+2. Language is similarl                 ... pos = 0.0   	neg = 0.25 
+3. We're native to the                  ... pos = 0.0   	neg = 0.0  
+4. The trick for the mo                 ... pos = 0.5   	neg = 0.375
+5. And there's so many                  ... pos = 0.0   	neg = 0.0  
+6. Simple confusion is                  ... pos = 0.0   	neg = 0.125
+7. What, how'd we get h                 ... pos = 0     	neg = 0.0  
+8. At the other end of                  ... pos = 0.5   	neg = 0.5  
+9. Meaning that charact                 ... pos = 1.75  	neg = 0.625
+10. And this doesn't hap                ... pos = 0.0   	neg = 0.0  
+11. But back to the begi                ... pos = 0.0   	neg = 0.0  
+12. Double Jeopardy open                ... pos = 0.375 	neg = 1.25 
+13. As the trailer gives                ... pos = 1.0   	neg = 0.5  
+14. But still, it's unfo                ... pos = 0.75  	neg = 1.25 
+15. Once it does, howeve                ... pos = 0.625 	neg = 0.0  
+16. And of course they b                ... pos = 0.625 	neg = 0.375
+17. The problem with Dou                ... pos = 0.5   	neg = 0.625
+18. When Double Jeopardy                ... pos = 0.0   	neg = 0.25 
+19. Or having her make a                ... pos = 0.0   	neg = 0.0  
+20. And of course these                 ... pos = 0.25  	neg = 0.0  
+21. Which does a lot to                 ... pos = 0.0   	neg = 0    
+22. But so be it.                       ... pos = 0.0   	neg = 0.125
+23. In a movie with this                ... pos = 1.0   	neg = 1.375
+24. David Weisberg and D                ... pos = 0.375 	neg = 0.125
+25. The thing is, though                ... pos = 0.0   	neg = 0.875
+26. Or rather, it does w                ... pos = 1.375 	neg = 0.0  
+27. On the upside, there                ... pos = 0.375 	neg = 0.25 
+28. Maybe it's an in-jok                ... pos = 0.0   	neg = 0.0  
+29. Or, maybe the whole                 ... pos = 0.125 	neg = 0.25 
+30. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5789-965 is Positive         ... pos = 10.5  	neg = 9.625
+Overall score of document
+Total Pos = 10.5
+Total Neg = 9.625
+---------------------------------------------------------------------------

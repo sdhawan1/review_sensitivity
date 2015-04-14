@@ -1,0 +1,29 @@
+0. With "The Messenger"                 ... pos = 0.0   	neg = 0.0  
+1. That one was confuse                 ... pos = 0.125 	neg = 1.125
+2. This one is truly aw                 ... pos = 0.625 	neg = 1.0  
+3. Begin with little 8-                 ... pos = 0.5   	neg = 0.25 
+4. "  Throw in "Koyaani                 ... pos = 0.5   	neg = 1.528
+5. Then things really g                 ... pos = 0.0   	neg = 0.875
+6. Enter Milla Jovovich                 ... pos = 0.0   	neg = 0.0  
+7. She's learned to rid                 ... pos = 0.0   	neg = 0.5  
+8. Half of France, incl                 ... pos = 0.0   	neg = 0.125
+9. If the Dauphin seems                 ... pos = 0.0   	neg = 0.25 
+10. She's so wild-eyed a                ... pos = 0.375 	neg = 0.0  
+11. She finds the Dauphi                ... pos = 0.5   	neg = 0.0  
+12. The generals take to                ... pos = 0.125 	neg = 0.375
+13. She's impervious to                 ... pos = 0.25  	neg = 0    
+14. " one of her officer                ... pos = 0.125 	neg = 0    
+15. "Me?                                ... pos = 0     	neg = 0    
+16. I'm fine.                           ... pos = 0.0   	neg = 0    
+17. Why do you ask?                     ... pos = 0     	neg = 0.0  
+18. "  "There's an arrow                ... pos = 0.0   	neg = 0.0  
+19. "  "Oh.                             ... pos = 0     	neg = 0    
+20. "      If only we we                ... pos = 0.0   	neg = 0.125
+21. By the time she's be                ... pos = 0.75  	neg = 0.75 
+22. *Zozobra is an annua                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5221-773 is Negative         ... pos = 4.125 	neg = 7.028
+Overall score of document
+Total Pos = 4.125
+Total Neg = 7.028
+---------------------------------------------------------------------------

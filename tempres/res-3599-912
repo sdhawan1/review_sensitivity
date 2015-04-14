@@ -1,0 +1,56 @@
+0. "Good morning Mr. Hu                 ... pos = 0.0   	neg = 0.0  
+1. The picture you see                  ... pos = 0.0   	neg = 0.125
+2. Dr. Nekhorvich was k                 ... pos = 0.0   	neg = 0.125
+3. We don't know what b                 ... pos = 0.0   	neg = 0.0  
+4. IM agent Sean Ambros                 ... pos = 0.0   	neg = 0.375
+5. We're not sure where                 ... pos = 0.375 	neg = 0.25 
+6. We're sure you'll fi                 ... pos = 0.25  	neg = 0.0  
+7. Oh, you can only use                 ... pos = 0.375 	neg = 0.0  
+8. We know we're not su                 ... pos = 0.0   	neg = 0.0  
+9. If you or any member                 ... pos = 0.0   	neg = 0.125
+10. Have a nice day.                    ... pos = 0.0   	neg = 0.0  
+11. ". With all the bagg                ... pos = 0.0   	neg = 0.125
+12. Woo, whose visual se                ... pos = 0.625 	neg = 0.0  
+13. That's a good thing                 ... pos = 0.75  	neg = 0.75 
+14. Like its big screen                 ... pos = 1.625 	neg = 1.125
+15. We don't compare to                 ... pos = 0.5   	neg = 0.0  
+16. Fans of the series c                ... pos = 0.625 	neg = 0.0  
+17. Then again, it's sum                ... pos = 0.0   	neg = 0.25 
+18. M:I2 delivers that i                ... pos = 0.25  	neg = 0.875
+19. It's almost as if th                ... pos = 0.0   	neg = 1.5  
+20. That means a motorcy                ... pos = 0.25  	neg = 0.5  
+21. Absolutely giddy.                   ... pos = 0.0   	neg = 0.0  
+22. Myself included.                    ... pos = 0.0   	neg = 0    
+23. I told you.                         ... pos = 0.0   	neg = 0.0  
+24. If you're a novice t                ... pos = 0.625 	neg = 1.25 
+25. In this case, it's t                ... pos = 0.0   	neg = 0.625
+26. The "good" IM team -                ... pos = 0.375 	neg = 1.5  
+27. The notion of one IM                ... pos = 0.75  	neg = 0.25 
+28. The problem is that                 ... pos = 0.0   	neg = 0.75 
+29. The bad guys also ha                ... pos = 0.0   	neg = 1.0  
+30. No, it's not.                       ... pos = 0.0   	neg = 0.25 
+31. It's scriptwriters i                ... pos = 0.0   	neg = 0.5  
+32. It's scriptwriters i                ... pos = 0.0   	neg = 0.5  
+33. But, just as in the                 ... pos = 0.125 	neg = 0.25 
+34. That being the case,                ... pos = 0.0   	neg = 0.125
+35. He makes a great Joh                ... pos = 0.0   	neg = 0.0  
+36. The action sequences                ... pos = 0.25  	neg = 0.75 
+37. Bullets fly.                        ... pos = 0.0   	neg = 0.0  
+38. Explosions, um, expl                ... pos = 0     	neg = 0.0  
+39. Cruise does unbeliev                ... pos = 0.875 	neg = 0.0  
+40. So the hell with his                ... pos = 0.25  	neg = 0.5  
+41. Buy the extra big po                ... pos = 0.25  	neg = 0.0  
+42. This sequel is less                 ... pos = 1.0   	neg = 0.125
+43. On average, a first                 ... pos = 0.25  	neg = 0.0  
+44. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+45. It's a summertime, p                ... pos = 0.0   	neg = 0.0  
+46. All sweetener and no                ... pos = 0.0   	neg = 0.25 
+47. Cranky CriticŽ is a                ... pos = 0.0   	neg = 0.125
+48. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+49. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3599-912 is Negative         ... pos = 10.75 	neg = 15.0 
+Overall score of document
+Total Pos = 10.75
+Total Neg = 15.0
+---------------------------------------------------------------------------

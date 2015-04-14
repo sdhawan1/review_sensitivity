@@ -1,0 +1,37 @@
+0. Christian Critic's M                 ... pos = 2.0   	neg = 1.375
+1. The movie tells mult                 ... pos = 0.375 	neg = 0.0  
+2. Would that the stori                 ... pos = 0.0   	neg = 0.125
+3. Earl Partridge (Jaso                 ... pos = 0.0   	neg = 0.125
+4. Bedridden, in much p                 ... pos = 0.125 	neg = 0.375
+5. His much younger wif                 ... pos = 0.25  	neg = 0.125
+6. Having married for m                 ... pos = 0.625 	neg = 0.25 
+7. Earl regrets having                  ... pos = 0.875 	neg = 0.625
+8. Meanwhile, Jimmy Gat                 ... pos = 0.0   	neg = 0.125
+9. Not as physically in                 ... pos = 0.75  	neg = 0.5  
+10. The current whiz-qui                ... pos = 0.0   	neg = 0.375
+11. On the other hand, q                ... pos = 0.0   	neg = 0.375
+12. "  His pathetic life                ... pos = 0.25  	neg = 1.375
+13. Jimmy has his own fa                ... pos = 0.5   	neg = 0.0  
+14. Grabbing at one last                ... pos = 1.25  	neg = 1.875
+15. This dysfunctional g                ... pos = 0.0   	neg = 0.25 
+16. And then it gets wor                ... pos = 0.0   	neg = 0.625
+17. Yes, frogs.                         ... pos = 0     	neg = 0.0  
+18. Assuming it to be an                ... pos = 1.125 	neg = 0.875
+19. Oh, they may step gi                ... pos = 1.0   	neg = 0.0  
+20. There is simply too                 ... pos = 0.25  	neg = 1.25 
+21. Mr. Anderson further                ... pos = 1.75  	neg = 1.125
+22. One of the recurring                ... pos = 0.0   	neg = 0.25 
+23. "  This is an absolu                ... pos = 0.0   	neg = 0.125
+24. God is in the forgiv                ... pos = 0.25  	neg = 0.125
+25. In fact, as we humbl                ... pos = 0.875 	neg = 0.0  
+26. "I, even I, am he th                ... pos = 0.25  	neg = 0.125
+27. "  Isaiah 43:25 [KJV                ... pos = 0.375 	neg = 0.75 
+28. Don't let him.                      ... pos = 0     	neg = 0.0  
+29. Next time your spiri                ... pos = 0.125 	neg = 0.0  
+30. He hates that.. .                   ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4191-305 is Negative         ... pos = 13.0  	neg = 13.5 
+Overall score of document
+Total Pos = 13.0
+Total Neg = 13.5
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. Starring Leonardo Di                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Danny Bo                 ... pos = 0.0   	neg = 0    
+2. Rated R.. After a we                 ... pos = 0.625 	neg = 0.75 
+3. He has chosen The Be                 ... pos = 0.625 	neg = 1.0  
+4. Leonardo Dicaprio's                  ... pos = 0.25  	neg = 0.125
+5. Someone should expla                 ... pos = 0.875 	neg = 0.0  
+6. He jumps abruptly ou                 ... pos = 0.0   	neg = 0.25 
+7. Richard is in Bangko                 ... pos = 0.25  	neg = 0.375
+8. He is exploring, exp                 ... pos = 0.625 	neg = 0.375
+9. Sitting in his ratty                 ... pos = 1.125 	neg = 0.5  
+10. Daffy also gives Ric                ... pos = 0.0   	neg = 0.0  
+11. He recruits a French                ... pos = 0.375 	neg = 0.625
+12. After no small amoun                ... pos = 0.5   	neg = 0.375
+13. They run off to the                 ... pos = 0.0   	neg = 1.375
+14. They rarely get off                 ... pos = 0.75  	neg = 0.625
+15. The settlers, led by                ... pos = 1.125 	neg = 0.5  
+16. There are, of course                ... pos = 0.25  	neg = 0.125
+17. These are handled qu                ... pos = 0.25  	neg = 0.0  
+18. Boyle keeps the susp                ... pos = 0.0   	neg = 0.25 
+19. Indeed the visceral                 ... pos = 0.75  	neg = 0.5  
+20. Filmed in Thailand,                 ... pos = 0.125 	neg = 0.125
+21. What it could have u                ... pos = 0.0   	neg = 1.125
+22. About halfway throug                ... pos = 0.5   	neg = 0.0  
+23. The protagonist seem                ... pos = 0.125 	neg = 0.375
+24. Its final message --                ... pos = 0.5   	neg = 0.25 
+25. What fun times?                     ... pos = 0.625 	neg = 0    
+26. Almost being eaten a                ... pos = 0.375 	neg = 0.0  
+27. Getting shot at?                    ... pos = 0.0   	neg = 0.0  
+28. Having to leave a sh                ... pos = 0.125 	neg = 0.0  
+29. I have a feeling Boy                ... pos = 0.125 	neg = 0.875
+30. Still, a lot of peop                ... pos = 1.25  	neg = 0.0  
+31. Leo fans will be del                ... pos = 0.875 	neg = 0.25 
+32. But The Beach overre                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2272-563 is Positive         ... pos = 13.125 	neg = 11.125
+Overall score of document
+Total Pos = 13.125
+Total Neg = 11.125
+---------------------------------------------------------------------------

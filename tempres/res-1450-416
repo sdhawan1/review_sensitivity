@@ -1,0 +1,31 @@
+0. Starring:  Kevin Spa                 ... pos = 2.125 	neg = 0.5  
+1. Australian actor Guy                 ... pos = 1.5   	neg = 1.0  
+2. Scrawny Exley is pol                 ... pos = 1.0   	neg = 1.25 
+3. Kevin Spacey plays a                 ... pos = 0.875 	neg = 0.25 
+4. ' On the take, Vince                 ... pos = 0.25  	neg = 0.0  
+5. The movie's first bi                 ... pos = 1.0   	neg = 0.25 
+6. In the meantime, mob                 ... pos = 0.75  	neg = 1.25 
+7. The murder is solved                 ... pos = 0.25  	neg = 0.125
+8. Over time and for se                 ... pos = 1.0   	neg = 0.125
+9. The main mob boss Mi                 ... pos = 0.0   	neg = 0.125
+10. So who could be resp                ... pos = 0.875 	neg = 0.75 
+11. The answer changes b                ... pos = 0.0   	neg = 0.0  
+12. Other subplots invol                ... pos = 1.375 	neg = 0.375
+13. L.A.                                ... pos = 0.0   	neg = 0    
+14. Confidential is the                 ... pos = 0.125 	neg = 0.125
+15. Opinion: Be careful                 ... pos = 0.625 	neg = 0.125
+16. If you miss just one                ... pos = 0.25  	neg = 0.75 
+17. The story is good an                ... pos = 2.375 	neg = 0.375
+18. In addition characte                ... pos = 2.25  	neg = 0.0  
+19. In other words this                 ... pos = 0.0   	neg = 0.125
+20. In terms of action,                 ... pos = 1.0   	neg = 0.0  
+21. But there's a defini                ... pos = 1.125 	neg = 0.25 
+22. A subplot about hero                ... pos = 0.0   	neg = 0.625
+23. All of the actors an                ... pos = 1.625 	neg = 0.0  
+24. Russell Crow shines                 ... pos = 0.125 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-1450-416 is Positive         ... pos = 20.5  	neg = 9.125
+Overall score of document
+Total Pos = 20.5
+Total Neg = 9.125
+---------------------------------------------------------------------------

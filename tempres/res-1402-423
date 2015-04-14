@@ -1,0 +1,37 @@
+0. Time-travel can be a                 ... pos = 0.25  	neg = 0.25 
+1. After all, it does n                 ... pos = 1.375 	neg = 0.0  
+2. But then you have a                  ... pos = 0.25  	neg = 0.0  
+3. Consider the premise                 ... pos = 0.125 	neg = 0.0  
+4. You have a sullen co                 ... pos = 0.25  	neg = 0.25 
+5. He plays with it  an                 ... pos = 0.0   	neg = 0.0  
+6. Here is the catch: J                 ... pos = 0.125 	neg = 0.125
+7. So it is John in 199                 ... pos = 0.125 	neg = 0.25 
+8. How can this be?                     ... pos = 0     	neg = 0.125
+9. Can it be the strang                 ... pos = 1.125 	neg = 0.75 
+10. Or, to be more radic                ... pos = 0.125 	neg = 0.375
+11. Nevertheless, we are                ... pos = 0.625 	neg = 0.0  
+12. Can John prevent his                ... pos = 0.25  	neg = 0.0  
+13. And wouldn't that ru                ... pos = 0     	neg = 0.375
+14. I am willing to susp                ... pos = 0.125 	neg = 1.25 
+15. Though the story is                 ... pos = 0.375 	neg = 0.25 
+16. Would that not be ch                ... pos = 0.125 	neg = 0.375
+17. And how can John onl                ... pos = 0.125 	neg = 0.0  
+18. Why should that matt                ... pos = 0.0   	neg = 0.0  
+19. And if everything ca                ... pos = 0.0   	neg = 0.25 
+20. Just a matter of  lo                ... pos = 0.0   	neg = 0.0  
+21. Stephen Hawking woul                ... pos = 0.0   	neg = 0.0  
+22. All paradoxes aside,                ... pos = 0.125 	neg = 0.375
+23. Simply put, there is                ... pos = 0.125 	neg = 0.375
+24. And frankly all the                 ... pos = 0.375 	neg = 1.0  
+25. Added to that is the                ... pos = 0.125 	neg = 0.375
+26. A little nod to "It'                ... pos = 1.0   	neg = 0.625
+27. If nothing else, it                 ... pos = 2.625 	neg = 0.375
+28. " He is often like a                ... pos = 0.0   	neg = 0.25 
+29. ") "Frequency" is to                ... pos = 0.0   	neg = 0.75 
+30. For more reviews, ch                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1402-423 is Positive         ... pos = 9.75  	neg = 8.75 
+Overall score of document
+Total Pos = 9.75
+Total Neg = 8.75
+---------------------------------------------------------------------------

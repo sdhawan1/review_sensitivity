@@ -1,0 +1,30 @@
+0. A CIVIL ACTION Cast:                 ... pos = 1.0   	neg = 0.125
+1. Zaillian adapted Sch                 ... pos = 1.375 	neg = 0.25 
+2. The film should have                 ... pos = 1.875 	neg = 1.25 
+3. But as Robert Duvall                 ... pos = 0.5   	neg = 0.25 
+4. Perhaps this cynical                 ... pos = 0.25  	neg = 0.25 
+5. He also has somethin                 ... pos = 1.125 	neg = 0.0  
+6. Schlichtmann's case                  ... pos = 0.25  	neg = 0.0  
+7. They say this is due                 ... pos = 0.375 	neg = 0.625
+8. Schlichtmann is at f                 ... pos = 0.5   	neg = 0.25 
+9. With the help of his                 ... pos = 1.625 	neg = 0.125
+10. He faces veteran att                ... pos = 0.375 	neg = 0.875
+11. A Civil Action is ye                ... pos = 0.5   	neg = 0.375
+12. Travolta has channel                ... pos = 0.0   	neg = 0.625
+13. He is a pleasing act                ... pos = 2.375 	neg = 0.25 
+14. Robert Duvall is exp                ... pos = 0.0   	neg = 0.5  
+15. With such a talented                ... pos = 1.375 	neg = 0.0  
+16. As his financial wor                ... pos = 2.375 	neg = 0.0  
+17. Like so many others,                ... pos = 1.5   	neg = 0.25 
+18. Though it is often i                ... pos = 0.875 	neg = 2.0  
+19. If you don't mind a                 ... pos = 1.0   	neg = 0.125
+20. There is material fo                ... pos = 1.25  	neg = 0.375
+21. Instead of examining                ... pos = 0.0   	neg = 0.0  
+22. Instead of looking i                ... pos = 2.5   	neg = 0.0  
+23. One might say that A                ... pos = 0.625 	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-4345-1111 is Positive        ... pos = 23.625 	neg = 10.0 
+Overall score of document
+Total Pos = 23.625
+Total Neg = 10.0
+---------------------------------------------------------------------------

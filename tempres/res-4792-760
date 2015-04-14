@@ -1,0 +1,32 @@
+0. Director: Iain Softl                 ... pos = 0.25  	neg = 0.875
+1. It's a tale of lost                  ... pos = 0.625 	neg = 0.25 
+2. The characters are q                 ... pos = 1.25  	neg = 0.0  
+3. It's a subtle, touch                 ... pos = 1.625 	neg = 0.0  
+4. Helena Bonham-Carter                 ... pos = 0.0   	neg = 0.0  
+5. Kate's life is clear                 ... pos = 0.75  	neg = 0.375
+6. She's in love with M                 ... pos = 0.625 	neg = 0.0  
+7. Maude insists that t                 ... pos = 0.0   	neg = 0.0  
+8. It's not long before                 ... pos = 0.0   	neg = 0.375
+9. The two become frien                 ... pos = 1.0   	neg = 0.0  
+10. This will leave Mert                ... pos = 0.125 	neg = 0.0  
+11. Carter gives a deep,                ... pos = 0.25  	neg = 0.125
+12. Here we have a woman                ... pos = 1.125 	neg = 1.0  
+13. The trick is that Ka                ... pos = 1.875 	neg = 0.5  
+14. Kate is not a hatefu                ... pos = 0.0   	neg = 0.917
+15. Her love for Merton                 ... pos = 0.75  	neg = 0.125
+16. Carter's work here i                ... pos = 2.875 	neg = 1.0  
+17. Linus Roache is very                ... pos = 1.875 	neg = 0.25 
+18. His intentions and t                ... pos = 0.5   	neg = 0.875
+19. Allison Elliott give                ... pos = 0.625 	neg = 1.0  
+20. The relationships be                ... pos = 0.5   	neg = 0.0  
+21. What they go through                ... pos = 0.0   	neg = 0.375
+22. Softley's direction,                ... pos = 1.375 	neg = 0.0  
+23. Softley also does so                ... pos = 0.5   	neg = 0.0  
+24. Moments like this ar                ... pos = 0.875 	neg = 0.0  
+25. The Wings of the Dov                ... pos = 0.375 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-4792-760 is Positive         ... pos = 19.75 	neg = 8.667
+Overall score of document
+Total Pos = 19.75
+Total Neg = 8.667
+---------------------------------------------------------------------------

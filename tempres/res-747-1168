@@ -1,0 +1,27 @@
+0. Trailing the success                 ... pos = 0.5   	neg = 0.125
+1. The film opens with                  ... pos = 0.75  	neg = 0.0  
+2. Sheffield has become                 ... pos = 0.375 	neg = 0.125
+3. Gaz (Carlyle) spends                 ... pos = 0.0   	neg = 0.375
+4. He and his = `plump'                 ... pos = 0.125 	neg = 0.125
+5. What seemingly was j                 ... pos = 0.5   	neg = 0.875
+6. Suddenly finding = h                 ... pos = 0.625 	neg = 0.625
+7. On top of his lack o                 ... pos = 0.5   	neg = 0.875
+8. There we have it; =                  ... pos = 0.0   	neg = 0.25 
+9. Gaz = manages to get                 ... pos = 0.25  	neg = 0.0  
+10. In Gaz's own words w                ... pos = 0.625 	neg = 0.125
+11. THE FULL MONTY is ve                ... pos = 1.0   	neg = 0.125
+12. It is a small film w                ... pos = 0.0   	neg = 0.125
+13. It also is a very =                 ... pos = 1.125 	neg = 0.125
+14. Never for once, was                 ... pos = 0.5   	neg = 0.875
+15. = While the hilarity                ... pos = 1.25  	neg = 0.0  
+16. ) from Hollywood.=20                ... pos = 1.125 	neg = 0.125
+17. = However, the actin                ... pos = 0.625 	neg = 0.125
+18. = Carlyle's work her                ... pos = 2.125 	neg = 0.125
+19. = Kudos to the peopl                ... pos = 3.375 	neg = 0.25 
+20. While TITANIC = mana                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-747-1168 is Positive         ... pos = 16.125 	neg = 5.375
+Overall score of document
+Total Pos = 16.125
+Total Neg = 5.375
+---------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+0. The Nineties have be                 ... pos = 0.25  	neg = 0.5  
+1. Many efforts  ("Star                 ... pos = 0.625 	neg = 0.375
+2. I'd be tempted to sa                 ... pos = 0.125 	neg = 1.125
+3. There's a salvaged f                 ... pos = 0.375 	neg = 0.25 
+4. There isn't an openi                 ... pos = 0.75  	neg = 0.375
+5. The film begins by i                 ... pos = 0.875 	neg = 0.0  
+6. This action sequence                 ... pos = 1.375 	neg = 1.0  
+7. This sheer volume me                 ... pos = 0.25  	neg = 0.5  
+8. The mission is re-wr                 ... pos = 0.875 	neg = 0.125
+9. Earth's natural reso                 ... pos = 0.375 	neg = 0.0  
+10. This is an attempt t                ... pos = 0.625 	neg = 0.25 
+11. At any rate, Dr. Smi                ... pos = 0.75  	neg = 0.75 
+12. This forces the crew                ... pos = 1.25  	neg = 0.125
+13. Most know that the R                ... pos = 0.5   	neg = 0.5  
+14. Very little is done                 ... pos = 1.25  	neg = 1.0  
+15. Director Steven ("Pr                ... pos = 0.5   	neg = 0.875
+16. Bruch Broughton's sc                ... pos = 0.0   	neg = 0.125
+17. Akiva Goldsman's scr                ... pos = 0.875 	neg = 0.0  
+18. The saddest loss due                ... pos = 0.5   	neg = 0.125
+19. Microphone for Will                 ... pos = 1.875 	neg = 0.625
+20. The rest of the scri                ... pos = 0.875 	neg = 0.625
+21. This sort of thing i                ... pos = 1.875 	neg = 1.125
+22. Oddly, the crew does                ... pos = 0.875 	neg = 0.5  
+23. The fact that their                 ... pos = 1.125 	neg = 0.75 
+24. The older Robinson                  ... pos = 0.75  	neg = 0.0  
+25. The family members'                 ... pos = 0.5   	neg = 0.375
+26. Heather Graham strug                ... pos = 0.75  	neg = 0.0  
+27. June Lockhart has an                ... pos = 0.0   	neg = 0.5  
+28. It's sad to see such                ... pos = 0.0   	neg = 1.5  
+29. Not recommended.. .                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4624-580 is Positive         ... pos = 20.75 	neg = 14.0 
+Overall score of document
+Total Pos = 20.75
+Total Neg = 14.0
+---------------------------------------------------------------------------

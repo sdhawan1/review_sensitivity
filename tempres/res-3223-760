@@ -1,0 +1,41 @@
+0. Director:  Robert Is                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution: Mir                 ... pos = 0.125 	neg = 1.0  
+2. His best friend -- t                 ... pos = 0.5   	neg = 0.5  
+3. The Coolest Guy has                  ... pos = 0.875 	neg = 0.125
+4. Nontheless, he convi                 ... pos = 0.875 	neg = 0.5  
+5. We are then treated                  ... pos = 0.25  	neg = 0.5  
+6. If you're looking fo                 ... pos = 0.0   	neg = 0.0  
+7. The problem with the                 ... pos = 0.0   	neg = 0.5  
+8. Nowadays, just about                 ... pos = 1.25  	neg = 0.125
+9. This is the case wit                 ... pos = 1.0   	neg = 0.5  
+10. The result is a plea                ... pos = 1.0   	neg = 0.625
+11. The Coolest Guy to w                ... pos = 1.0   	neg = 0.75 
+12. Laney Boggs is the s                ... pos = 0.0   	neg = 0.75 
+13. Laney is not actuall                ... pos = 0.75  	neg = 1.25 
+14. She's mostly just a                 ... pos = 0.125 	neg = 0.0  
+15. The plot and story i                ... pos = 0.75  	neg = 0.125
+16. What sets She's All                 ... pos = 0.125 	neg = 0.125
+17. The film is excessiv                ... pos = 1.375 	neg = 0.375
+18. It's not unrealistic                ... pos = 0.0   	neg = 0.75 
+19. The film takes place                ... pos = 0.25  	neg = 0.125
+20. All these wealthy ch                ... pos = 1.25  	neg = 0.125
+21. But Iscove, writer L                ... pos = 0.125 	neg = 0.0  
+22. One of the best scen                ... pos = 0.625 	neg = 0.5  
+23. "  Laney looks at he                ... pos = 0.125 	neg = 0.375
+24. She continues:  "So,                ... pos = 0.0   	neg = 0.0  
+25. "  This scene isn't                 ... pos = 0.125 	neg = 0.125
+26. The subplot involvin                ... pos = 0.625 	neg = 0.125
+27. Then there are the c                ... pos = 0.875 	neg = 0.25 
+28. only to miss every s                ... pos = 0.0   	neg = 0.0  
+29. The acting is dead-o                ... pos = 0.875 	neg = 0.125
+30. Walker makes a good                 ... pos = 1.25  	neg = 0.375
+31. No one expects depth                ... pos = 0.0   	neg = 0.5  
+32. In fact, I'd say tha                ... pos = 0.75  	neg = 0.25 
+33. Based on recent entr                ... pos = 0.25  	neg = 0.25 
+34. But She's All That p                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-3223-760 is Positive         ... pos = 17.125 	neg = 12.125
+Overall score of document
+Total Pos = 17.125
+Total Neg = 12.125
+---------------------------------------------------------------------------

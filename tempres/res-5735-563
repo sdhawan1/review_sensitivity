@@ -1,0 +1,45 @@
+0. Starring David Ducho                 ... pos = 0.75  	neg = 0.0  
+1. Directed by Bonnie H                 ... pos = 0.75  	neg = 0.0  
+2. Rated PG.                            ... pos = 0.125 	neg = 0    
+3. A new meaning is giv                 ... pos = 1.625 	neg = 0.25 
+4. It stars David "Agen                 ... pos = 0.625 	neg = 0.125
+5. This is an exuberant                 ... pos = 1.0   	neg = 0.375
+6. The wife of architec                 ... pos = 0.0   	neg = 0.0  
+7. We don't see it happ                 ... pos = 0.75  	neg = 0.0  
+8. She was an organ don                 ... pos = 0.0   	neg = 0.125
+9. Her heart was health                 ... pos = 0.625 	neg = 0.25 
+10. The transplant goes                 ... pos = 1.125 	neg = 0.25 
+11. Things aren't so hun                ... pos = 0.125 	neg = 0.0  
+12. He hasn't stopped gr                ... pos = 0.0   	neg = 0.0  
+13. He doesn't go out.                  ... pos = 0.0   	neg = 0.0  
+14. His veterinarian fri                ... pos = 0.25  	neg = 0.875
+15. The one time Bob doe                ... pos = 0.125 	neg = 0.5  
+16. Even his dog hasn't                 ... pos = 0.0   	neg = 1.25 
+17. Bob and Grace meet,                 ... pos = 0.0   	neg = 0.0  
+18. They both have the f                ... pos = 0.0   	neg = 0.0  
+19. They fall in love.                  ... pos = 0.625 	neg = 0    
+20. Neither have any ide                ... pos = 0.25  	neg = 0.25 
+21. For once, it's a rel                ... pos = 0.625 	neg = 0.0  
+22. Instead it's two peo                ... pos = 0.75  	neg = 0.5  
+23. It's genuine: we rea                ... pos = 0.375 	neg = 0.0  
+24. The idea at the movi                ... pos = 0.625 	neg = 0.375
+25. The chances that the                ... pos = 1.375 	neg = 0.125
+26. But it doesn't matte                ... pos = 0.0   	neg = 0.0  
+27. First- time director                ... pos = 0.75  	neg = 0.0  
+28. The heart-transplant                ... pos = 0.5   	neg = 0.125
+29. After the first 20 m                ... pos = 1.75  	neg = 0.25 
+30. The result is a swee                ... pos = 1.25  	neg = 0.125
+31. The surprise here is                ... pos = 0.0   	neg = 0.125
+32. Until now, the X-Fil                ... pos = 0.375 	neg = 0.375
+33. In Return to Me, we                 ... pos = 0.0   	neg = 0.0  
+34. I wouldn't star him                 ... pos = 1.0   	neg = 0.125
+35. Here's the ultimate                 ... pos = 0.125 	neg = 0.0  
+36. The biggest problem                 ... pos = 2.25  	neg = 0.875
+37. Granted, a man proba                ... pos = 0.75  	neg = 0.0  
+38. But the emotions her                ... pos = 1.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5735-563 is Positive         ... pos = 22.625 	neg = 7.25 
+Overall score of document
+Total Pos = 22.625
+Total Neg = 7.25
+---------------------------------------------------------------------------

@@ -1,0 +1,68 @@
+0. There is no town cal                 ... pos = 0.25  	neg = 0.375
+1. But as my son and  I                 ... pos = 0.0   	neg = 0.125
+2. The uptown area of a                 ... pos = 0.0   	neg = 0.0  
+3. Red bricks pave the                  ... pos = 0.125 	neg = 0.0  
+4. Gary Ross's version                  ... pos = 0.0   	neg = 0.125
+5. There  are too many                  ... pos = 0.25  	neg = 0.5  
+6. Why would a TV repai                 ... pos = 0.0   	neg = 0.125
+7. Why would he send th                 ... pos = 0.0   	neg = 0.0  
+8. How do the two survi                 ... pos = 0.0   	neg = 0.0  
+9. Once you have suspen                 ... pos = 2.0   	neg = 0.5  
+10. Tobey Maguire plays                 ... pos = 0.0   	neg = 0.0  
+11. Quickly we see even                 ... pos = 0.875 	neg = 0.0  
+12. "  It is when David                 ... pos = 1.125 	neg = 0.75 
+13. When the repairman r                ... pos = 1.875 	neg = 0.5  
+14. I was concerned that                ... pos = 0.0   	neg = 0.875
+15. But the film is out                 ... pos = 0.0   	neg = 0.75 
+16. What works best is t                ... pos = 0.0   	neg = 0.125
+17. First, it's  one of                 ... pos = 0.5   	neg = 0.125
+18. A book burning scene                ... pos = 0.375 	neg = 0.125
+19. More importantly, th                ... pos = 2.0   	neg = 0.0  
+20. As a teacher, I only                ... pos = 1.75  	neg = 0.0  
+21. The  metaphorical bl                ... pos = 0.0   	neg = 0.0  
+22. In Big and Dave, Gar                ... pos = 0.0   	neg = 0.0  
+23. Here he expands  upo                ... pos = 0.125 	neg = 0.0  
+24. And  the tricks Ross                ... pos = 1.75  	neg = 0.25 
+25. A red rose is the fi                ... pos = 0.625 	neg = 0.375
+26. Her brother Bud conn                ... pos = 0.5   	neg = 0    
+27. Herein lies one of t                ... pos = 0.75  	neg = 0.0  
+28. It's as if we are wa                ... pos = 0.5   	neg = 0.625
+29. It's Bud, too, who l                ... pos = 1.0   	neg = 0.5  
+30. Ross is very clever                 ... pos = 1.375 	neg = 0.125
+31. This is not heavy-ha                ... pos = 1.125 	neg = 1.5  
+32. Timeless and enterta                ... pos = 1.0   	neg = 0.25 
+33. In one of the most c                ... pos = 0.5   	neg = 0.0  
+34. Looking like Pat Nix                ... pos = 0.0   	neg = 0.125
+35. We chuckle when we s                ... pos = 0.375 	neg = 0.375
+36. And when Mr. Johnson                ... pos = 0.75  	neg = 0.75 
+37. Daniels also excels                 ... pos = 0.25  	neg = 0.0  
+38. Good at looking baff                ... pos = 1.75  	neg = 0.0  
+39. Viewers will be fond                ... pos = 1.375 	neg = 0.125
+40. Johnson likes to  pa                ... pos = 0.75  	neg = 0.25 
+41. Tobey Maguire and Re                ... pos = 0.0   	neg = 0.0  
+42. As brother and siste                ... pos = 0.875 	neg = 1.0  
+43. Witherspoon brings t                ... pos = 0.0   	neg = 0.125
+44. She puts on just the                ... pos = 0.0   	neg = 0.0  
+45. On the other  hand,                 ... pos = 0.625 	neg = 0.125
+46. At times puzzled or                 ... pos = 1.0   	neg = 0.125
+47. It's here that the s                ... pos = 0.0   	neg = 0.25 
+48. Both actors are beyo                ... pos = 0.875 	neg = 0.125
+49. In his last role, J.                ... pos = 0.875 	neg = 0.125
+50. Walsh adds  good com                ... pos = 3.125 	neg = 0.0  
+51. His short hair combe                ... pos = 0.75  	neg = 0.0  
+52. The script fails him                ... pos = 1.125 	neg = 1.0  
+53. ". I know why the pr                ... pos = 0.0   	neg = 0.0  
+54. The other parts of t                ... pos = 1.25  	neg = 0.0  
+55. Leaving the theater,                ... pos = 0.625 	neg = 0.0  
+56. I had taken my son t                ... pos = 0.625 	neg = 0.0  
+57. I had forgotten abou                ... pos = 0.0   	neg = 0.0  
+58. These happened in ot                ... pos = 0.0   	neg = 0    
+59. As we stood before t                ... pos = 0.0   	neg = 0.0  
+60. It occurred to me th                ... pos = 1.125 	neg = 0.125
+61. Sure, a lot is left                 ... pos = 0.625 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-1978-71 is Positive          ... pos = 39.125 	neg = 14.25
+Overall score of document
+Total Pos = 39.125
+Total Neg = 14.25
+---------------------------------------------------------------------------

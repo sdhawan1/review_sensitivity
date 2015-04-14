@@ -1,0 +1,39 @@
+0. Chances are, you've                  ... pos = 0.75  	neg = 0.125
+1. It happens all the t                 ... pos = 0.0   	neg = 0.875
+2. There's always the q                 ... pos = 0.0   	neg = 0.125
+3. "  And there really                  ... pos = 0.75  	neg = 0.0  
+4. Sometimes your heart                 ... pos = 0.0   	neg = 0.0  
+5. Out of Sight is oste                 ... pos = 0.0   	neg = 0.5  
+6. The plan is for bank                 ... pos = 1.125 	neg = 0.75 
+7. And if the movie had                 ... pos = 0.75  	neg = 0.75 
+8. Instead, one tiny li                 ... pos = 0.25  	neg = 1.25 
+9. Deputy United States                 ... pos = 1.375 	neg = 0.375
+10. They're in a tight s                ... pos = 0.875 	neg = 0.875
+11. It sounds like it's                 ... pos = 0.25  	neg = 0.25 
+12. And it's wholly beli                ... pos = 1.125 	neg = 0.0  
+13. Example:  There's a                 ... pos = 0.25  	neg = 0.375
+14. Lopez's job is to wa                ... pos = 0.125 	neg = 0.125
+15. The door opens, thei                ... pos = 0.5   	neg = 0.0  
+16. Sounds stupid, right                ... pos = 0.0   	neg = 0.125
+17. But you have to see                 ... pos = 2.125 	neg = 0.5  
+18. It's a scene where t                ... pos = 1.0   	neg = 0.0  
+19. If the Clooney-Lopez                ... pos = 0.125 	neg = 0.375
+20. Clooney is always fu                ... pos = 1.0   	neg = 0.125
+21. Lopez is wonderful,                 ... pos = 0.75  	neg = 0.375
+22. The chemistry betwee                ... pos = 1.375 	neg = 0.125
+23. The strength of the                 ... pos = 2.5   	neg = 0.25 
+24. You see the craftsma                ... pos = 0.125 	neg = 0.0  
+25. After his breakthrou                ... pos = 0.125 	neg = 0.0  
+26. Don Cheadle, effecti                ... pos = 1.125 	neg = 0.25 
+27. But even the smaller                ... pos = 0.75  	neg = 0.375
+28. Out of Sight is a tr                ... pos = 0.0   	neg = 0.125
+29. Intelligent, well ac                ... pos = 0.625 	neg = 0.0  
+30. Stephen Soderburgh h                ... pos = 1.0   	neg = 0.625
+31. Movie Reviews: http:                ... pos = 0.25  	neg = 0.25 
+32. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4998-1045 is Positive        ... pos = 21.0  	neg = 9.875
+Overall score of document
+Total Pos = 21.0
+Total Neg = 9.875
+---------------------------------------------------------------------------

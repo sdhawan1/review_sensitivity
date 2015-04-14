@@ -1,0 +1,44 @@
+0. Directed by: Tim Bur                 ... pos = 0.625 	neg = 0.5  
+1. If one goes to a Tim                 ... pos = 0.375 	neg = 0.0  
+2. Going into his lates                 ... pos = 0.125 	neg = 0.5  
+3. Ichabod Crane (Johnn                 ... pos = 0.375 	neg = 0.125
+4. Unlike his fellow of                 ... pos = 0.375 	neg = 0.125
+5. Crane's superior (Ch                 ... pos = 0.0   	neg = 1.0  
+6. Crane is greeted the                 ... pos = 1.375 	neg = 1.625
+7. At first, Crane scof                 ... pos = 0.75  	neg = 0.625
+8. During his investiga                 ... pos = 0.125 	neg = 0.375
+9. To start off with al                 ... pos = 1.125 	neg = 0.875
+10. I must also make it                 ... pos = 2.0   	neg = 0.75 
+11. Beheadings abound in                ... pos = 0.125 	neg = 2.0  
+12. Those of you with we                ... pos = 0.0   	neg = 0.5  
+13. If there were only o                ... pos = 1.125 	neg = 0.25 
+14. The set for the town                ... pos = 0.0   	neg = 0.125
+15. Constantly covered i                ... pos = 0.5   	neg = 0.75 
+16. One scene which is p                ... pos = 0.5   	neg = 0.125
+17. To go along with thi                ... pos = 0.875 	neg = 0.125
+18. Not since Burton's "                ... pos = 1.25  	neg = 0    
+19. Low and haunting at                 ... pos = 0.5   	neg = 0.25 
+20. The acting is unifor                ... pos = 0.75  	neg = 0.125
+21. Depp makes Ichabod a                ... pos = 0.875 	neg = 0.0  
+22. Hilariously inept th                ... pos = 1.375 	neg = 1.375
+23. Ricci gives a fairly                ... pos = 0.875 	neg = 0.25 
+24. Ricci is at her best                ... pos = 2.0   	neg = 0.75 
+25. As the quiet, love-s                ... pos = 0.125 	neg = 0.0  
+26. As for the horseman                 ... pos = 0.75  	neg = 0.125
+27. "Sleepy Hollow" won'                ... pos = 1.125 	neg = 0.625
+28. The movie earns its                 ... pos = 0.375 	neg = 0.25 
+29. Overall I give it a                 ... pos = 0.0   	neg = 0.0  
+30. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+31. See it now.                         ... pos = 0.0   	neg = 0    
+32. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+33. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+34. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+35. See it only if you'v                ... pos = 0.0   	neg = 0.25 
+36. * - One of the worst                ... pos = 0.0   	neg = 0.375
+37. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6111-535 is Positive         ... pos = 21.625 	neg = 15.875
+Overall score of document
+Total Pos = 21.625
+Total Neg = 15.875
+---------------------------------------------------------------------------

@@ -1,0 +1,51 @@
+0. Directed by: Kinka U                 ... pos = 1.125 	neg = 0.75 
+1. Superheroes have had                 ... pos = 0.25  	neg = 0.0  
+2. While other popular                  ... pos = 0.25  	neg = 0.25 
+3. The Superman series,                 ... pos = 0.5   	neg = 0.0  
+4. Within this year of                  ... pos = 0.125 	neg = 0.0  
+5. Unfortunately it has                 ... pos = 0.5   	neg = 1.5  
+6. Mr.                                  ... pos = 0     	neg = 0.0  
+7. Furious (Stiller) le                 ... pos = 0.25  	neg = 0.0  
+8. The problem is that                  ... pos = 0.0   	neg = 0.625
+9. Mr.                                  ... pos = 0     	neg = 0.0  
+10. Furious just gets ma                ... pos = 0.25  	neg = 0.0  
+11. They are unnoticed a                ... pos = 0.5   	neg = 0    
+12. It's only when the C                ... pos = 0     	neg = 0.0  
+13. gets kidnapped by th                ... pos = 0.0   	neg = 0.75 
+14. To save him, they en                ... pos = 1.75  	neg = 0.375
+15. "), and finally Invi                ... pos = 0.25  	neg = 1.75 
+16. With the added bonus                ... pos = 0.75  	neg = 0.0  
+17. Mystery Men tries to                ... pos = 0.0   	neg = 0.5  
+18. The film looks at th                ... pos = 0.0   	neg = 0.625
+19. A discussion about w                ... pos = 0.0   	neg = 0.125
+20. When Mr.                            ... pos = 0     	neg = 0.0  
+21. Furious mentions tha                ... pos = 0.375 	neg = 0.75 
+22. " Dr. Heller's gadge                ... pos = 1.0   	neg = 0.75 
+23. With a combination o                ... pos = 0.0   	neg = 0.0  
+24. Each provides many c                ... pos = 0.5   	neg = 0.0  
+25. A lot of the humour                 ... pos = 0.0   	neg = 0.375
+26. A good example would                ... pos = 1.0   	neg = 0.375
+27. The film contains to                ... pos = 0.125 	neg = 0.25 
+28. Furious says "I'm go                ... pos = 0.25  	neg = 0.0  
+29. It's a bit like a De                ... pos = 0.0   	neg = 0.0  
+30. The large cast hinde                ... pos = 1.0   	neg = 0.875
+31. Tom Waits is given n                ... pos = 0.0   	neg = 0.375
+32. He just sits around                 ... pos = 0.0   	neg = 0.375
+33. "  Claire Forlani is                ... pos = 0.875 	neg = 0.125
+34. Furious.                            ... pos = 0.25  	neg = 0    
+35. I would have liked t                ... pos = 0.125 	neg = 0.0  
+36. Geoffrey Rush is hil                ... pos = 0.25  	neg = 0.375
+37. He naturally plans t                ... pos = 0.25  	neg = 0.0  
+38. He truly captures th                ... pos = 1.5   	neg = 1.375
+39. To writer Neil Cuthb                ... pos = 1.0   	neg = 0.125
+40. When the superheroes                ... pos = 0.75  	neg = 0.125
+41. This is a good way t                ... pos = 1.0   	neg = 1.125
+42. I have a feeling tha                ... pos = 0.125 	neg = 0.0  
+43. Hopefully there will                ... pos = 0.625 	neg = 0.375
+44. check out more revie                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1731-814 is Positive         ... pos = 17.5  	neg = 15.0 
+Overall score of document
+Total Pos = 17.5
+Total Neg = 15.0
+---------------------------------------------------------------------------

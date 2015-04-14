@@ -1,0 +1,45 @@
+0. *** (out of 4) DIE H                 ... pos = 0.75  	neg = 0.875
+1. True, it is formulai                 ... pos = 1.375 	neg = 0.625
+2. The same can be said                 ... pos = 0.0   	neg = 0.125
+3. For the first fiftee                 ... pos = 0.125 	neg = 0.875
+4. Danny Roman (Samuel                  ... pos = 0.5   	neg = 1.125
+5. A police negotiator,                 ... pos = 0.0   	neg = 0.375
+6. The badly-written pr                 ... pos = 0.5   	neg = 0.0  
+7. His new wife wants h                 ... pos = 1.0   	neg = 0.125
+8. His plot device, I m                 ... pos = 0.875 	neg = 0.75 
+9. Before they can meet                 ... pos = 1.0   	neg = 0.125
+10. Roman marches into t                ... pos = 0.5   	neg = 0.25 
+11. One thing leads to a                ... pos = 0.0   	neg = 0.125
+12. He clears the floor                 ... pos = 0.5   	neg = 1.278
+13. It is here that the                 ... pos = 0.0   	neg = 0.125
+14. Jackson starts to sh                ... pos = 0.125 	neg = 0.25 
+15. Roman knows exactly                 ... pos = 0.25  	neg = 0.0  
+16. He plays it up, taki                ... pos = 0.0   	neg = 0.875
+17. The first thing Roma                ... pos = 0.125 	neg = 0.5  
+18. The two haven't met,                ... pos = 0.375 	neg = 0.0  
+19. Spacey is a very goo                ... pos = 1.25  	neg = 0.375
+20. When the locals botc                ... pos = 0.25  	neg = 0.875
+21. Sabian is finally gi                ... pos = 0.0   	neg = 0.125
+22. Roman, relieved, is                 ... pos = 0.375 	neg = 0.125
+23. Sabian is not Roman'                ... pos = 0.0   	neg = 0.25 
+24. Slowly, with the cal                ... pos = 0.75  	neg = 0.0  
+25. Don't forget that th                ... pos = 0.5   	neg = 1.125
+26. But that is not all                 ... pos = 0.0   	neg = 0.25 
+27. Once it got going, t                ... pos = 0.0   	neg = 0.0  
+28. Part of the reason i                ... pos = 0.0   	neg = 0.125
+29. It's not much of an                 ... pos = 0.125 	neg = 0.0  
+30. Another part is the                 ... pos = 0.0   	neg = 0.25 
+31. The script is full o                ... pos = 0.125 	neg = 0.375
+32. In addition, the sec                ... pos = 1.125 	neg = 0    
+33. Yet another part is                 ... pos = 0.25  	neg = 0.5  
+34. Gray deserves a lot                 ... pos = 1.125 	neg = 0.25 
+35. The only filmmaker w                ... pos = 0.125 	neg = 0.5  
+36. As I said, this film                ... pos = 0.75  	neg = 1.0  
+37. It surprised me to l                ... pos = 0.625 	neg = 0.0  
+38. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6278-1008 is Positive        ... pos = 15.375 	neg = 14.528
+Overall score of document
+Total Pos = 15.375
+Total Neg = 14.528
+---------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+0. Seen on Halloween 19                 ... pos = 1.25  	neg = 0.0  
+1. Oprah Winfrey has to                 ... pos = 0.0   	neg = 0.0  
+2. It fails where the o                 ... pos = 0.125 	neg = 0.125
+3. To understand the ho                 ... pos = 0.75  	neg = 0.125
+4. In *Beloved*, the ho                 ... pos = 0.875 	neg = 0    
+5. Much more time is sp                 ... pos = 0.75  	neg = 0.25 
+6. The storyline jumps                  ... pos = 0.0   	neg = 0.0  
+7. A deadly ghost is pr                 ... pos = 0.0   	neg = 0.625
+8. Then, the story jump                 ... pos = 0.0   	neg = 0.25 
+9. He is a fellow forme                 ... pos = 0.0   	neg = 0.125
+10. Why they almost imme                ... pos = 0.25  	neg = 1.125
+11. Out of the bogswamp                 ... pos = 0.625 	neg = 0.125
+12. She cannot talk and                 ... pos = 0.5   	neg = 0.125
+13. But sibling rivalrie                ... pos = 0.125 	neg = 0.0  
+14. Meanwhile, there are                ... pos = 0.25  	neg = 0.25 
+15. Lots and lots of the                ... pos = 0     	neg = 0.5  
+16. Maybe too many?                     ... pos = 0.0   	neg = 0.25 
+17. The most interesting                ... pos = 0.5   	neg = 0.875
+18. She is befriended by                ... pos = 0.0   	neg = 0.125
+19. Jonathan Demme's dir                ... pos = 0.0   	neg = 0.125
+20. It took three writer                ... pos = 0.0   	neg = 0.0  
+21. But Demme does some                 ... pos = 0.375 	neg = 0.0  
+22. Clouds zip by in fas                ... pos = 0.25  	neg = 0.0  
+23. There are some wonde                ... pos = 1.375 	neg = 0.125
+24. Demme bathes here in                ... pos = 0.0   	neg = 0.0  
+25. Meanwhile, Beloved (                ... pos = 0.875 	neg = 0.125
+26. Please don't ask why                ... pos = 0     	neg = 0.0  
+27. Maybe Oprah knows.                  ... pos = 0.0   	neg = 0.0  
+28. Unlike *Schindler's                 ... pos = 1.0   	neg = 0.625
+29. Too much is expected                ... pos = 0.375 	neg = 0.875
+30. A movie featuring ch                ... pos = 1.75  	neg = 0.125
+31. Instead, it's a them                ... pos = 0.0   	neg = 0.25 
+32. Who are the Thirty W                ... pos = 0.25  	neg = 0.0  
+33. Why include them and                ... pos = 0.0   	neg = 0.0  
+34. What would have been                ... pos = 0.0   	neg = 0.25 
+35. The story unwisely c                ... pos = 1.375 	neg = 0.625
+36. Oh, and the movie's                 ... pos = 0     	neg = 0.625
+37. But the music was ni                ... pos = 0.0   	neg = 0.125
+38. Oprah Winfrey is one                ... pos = 0.5   	neg = 0.125
+39. " I mean no disrespe                ... pos = 0.5   	neg = 0.25 
+40. There are so many ot                ... pos = 0.25  	neg = 0.0  
+41. And there might be a                ... pos = 0.25  	neg = 0.625
+42. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3335-92 is Positive          ... pos = 15.125 	neg = 9.875
+Overall score of document
+Total Pos = 15.125
+Total Neg = 9.875
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. ALIEN RESURRECTION (                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.875 	neg = 1.0  
+3. While David Fincher'                 ... pos = 1.25  	neg = 1.5  
+4. About twenty minutes                 ... pos = 1.25  	neg = 0.5  
+5. Despite all of the h                 ... pos = 1.25  	neg = 2.5  
+6. (Let's ignore, for t                 ... pos = 0.0   	neg = 0.5  
+7. There are some inter                 ... pos = 1.375 	neg = 0.0  
+8. For a $70    million                 ... pos = 0.75  	neg = 0.125
+9. However, the film fa                 ... pos = 0.75  	neg = 0.625
+10. More critically    p                ... pos = 0.75  	neg = 0.875
+11. Or even less so: whe                ... pos = 0.5   	neg = 0.0  
+12. Danny Boyle (of SHAL                ... pos = 0.5   	neg = 0.125
+13. Under his wing, the                 ... pos = 0.875 	neg = 2.375
+14. Chief among them is                 ... pos = 0.875 	neg = 0.125
+15. For    the most part                ... pos = 0.375 	neg = 1.5  
+16. The characterization                ... pos = 3.625 	neg = 1.375
+17. For a    film whose                 ... pos = 0.5   	neg = 0.25 
+18. Even worse, our belo                ... pos = 1.5   	neg = 0.75 
+19. It's an    innovativ                ... pos = 3.5   	neg = 0.125
+20. ALIEN RESURRECTION a                ... pos = 0.5   	neg = 0.75 
+21. It's a given from th                ... pos = 1.375 	neg = 1.5  
+22. The identity and mot                ... pos = 0.75  	neg = 0.0  
+23. ) is far less enigma                ... pos = 1.25  	neg = 0.375
+24. This sequence, stron                ... pos = 1.0   	neg = 1.125
+25. The one impressive s                ... pos = 1.875 	neg = 0.875
+26. It's a smart section                ... pos = 0.875 	neg = 1.375
+27. At one point in the                 ... pos = 0.875 	neg = 0.375
+28. The susceptible Ripl                ... pos = 0.375 	neg = 0.625
+29. With ALIEN    RESURR                ... pos = 0.0   	neg = 0.0  
+30. -- Alex Fung (aw220@                ... pos = 0.0   	neg = 0.125
+31. I want to know what                 ... pos = 0.0   	neg = 0.25 
+32. " - Charles Odell. .                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2335-717 is Positive         ... pos = 29.5  	neg = 21.875
+Overall score of document
+Total Pos = 29.5
+Total Neg = 21.875
+---------------------------------------------------------------------------

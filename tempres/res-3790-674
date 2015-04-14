@@ -1,0 +1,66 @@
+0. Starring: George Clo                 ... pos = 0.375 	neg = 0.0  
+1. The ads portray the                  ... pos = 0.25  	neg = 0.0  
+2. Tarantino's films, h                 ... pos = 0.125 	neg = 0.0  
+3. Three Kings never fi                 ... pos = 0.5   	neg = 0.125
+4. At the end, the sing                 ... pos = 0.125 	neg = 0.125
+5. Was it a drama, come                 ... pos = 0.5   	neg = 0.25 
+6. My only answer was t                 ... pos = 0.0   	neg = 0.25 
+7. Now that just about                  ... pos = 0.25  	neg = 0.375
+8. This film is basical                 ... pos = 0.0   	neg = 0.375
+9. While searching Iraq                 ... pos = 0.0   	neg = 0.125
+10. Meanwhile Special Fo                ... pos = 0.0   	neg = 0.125
+11. He is  told by his s                ... pos = 0.0   	neg = 0.25 
+12. " While cavorting wi                ... pos = 0.875 	neg = 1.125
+13. Also along for the r                ... pos = 0.875 	neg = 0.875
+14. Vig's character is a                ... pos = 1.5   	neg = 0.25 
+15. Gates hires a buddy                 ... pos = 0.0   	neg = 0.625
+16. Once the players on                 ... pos = 0.125 	neg = 0.375
+17. This would not be po                ... pos = 1.375 	neg = 0.25 
+18. Everyone is so distr                ... pos = 0.375 	neg = 1.375
+19. Russell seems to be                 ... pos = 0.0   	neg = 1.0  
+20. Any notions of patri                ... pos = 0.375 	neg = 0.0  
+21. On the way to the bu                ... pos = 0.625 	neg = 0.0  
+22. However, the operati                ... pos = 1.25  	neg = 0.5  
+23. George Bush is name-                ... pos = 0.5   	neg = 0.125
+24. I half expected some                ... pos = 0.375 	neg = 0.25 
+25. Bush is portrayed as                ... pos = 0.0   	neg = 0.5  
+26. They are only intere                ... pos = 0.375 	neg = 0.25 
+27. The steely reserve b                ... pos = 0.0   	neg = 0.0  
+28. Once here they have                 ... pos = 0.0   	neg = 0.25 
+29. It isn't because of                 ... pos = 0.125 	neg = 0.125
+30. It's up to them to g                ... pos = 0.75  	neg = 0.125
+31. After that, it's a r                ... pos = 0.125 	neg = 0.0  
+32. Politics show up in                 ... pos = 0.125 	neg = 0.125
+33. He is subjected to s                ... pos = 0.0   	neg = 0.875
+34. The interrogator als                ... pos = 0.125 	neg = 0.375
+35. This is just short o                ... pos = 0.5   	neg = 0.125
+36. " Luckily after bein                ... pos = 0.75  	neg = 0.125
+37. My main problem with                ... pos = 0.375 	neg = 0.875
+38. Go figure.                          ... pos = 0     	neg = 0.0  
+39. Wahlberg, however, g                ... pos = 1.375 	neg = 0.125
+40. Three Kings is filme                ... pos = 0.125 	neg = 0.125
+41. At times the contras                ... pos = 0.875 	neg = 0.5  
+42. Russell also generou                ... pos = 0.375 	neg = 0.125
+43. Some of the bloodlet                ... pos = 0.0   	neg = 0.25 
+44. By the time the real                ... pos = 1.375 	neg = 0.875
+45. The final images of                 ... pos = 0.25  	neg = 0.0  
+46. Overall the film was                ... pos = 0.0   	neg = 0.25 
+47. Perhaps Russell want                ... pos = 0.0   	neg = 0.0  
+48. The characters reall                ... pos = 0.875 	neg = 0.0  
+49. Afterwards they may                 ... pos = 0.125 	neg = 1.75 
+50. " They are portrayed                ... pos = 0.25  	neg = 0.0  
+51. Only $$$$ matters, n                ... pos = 0.0   	neg = 0.25 
+52. Unlike films like M.                ... pos = 0.125 	neg = 0.0  
+53. and Saving Private R                ... pos = 1.625 	neg = 0.0  
+54. I really cared if Ha                ... pos = 1.25  	neg = 0.0  
+55. John Miller survived                ... pos = 0.0   	neg = 0    
+56. I didn't care about                 ... pos = 0.125 	neg = 0.0  
+57. Again, perhaps that                 ... pos = 0.0   	neg = 0.125
+58. It plays more like a                ... pos = 0.0   	neg = 0.375
+59. Of the $7.50 I paid                 ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3790-674 is Positive         ... pos = 22.375 	neg = 17.625
+Overall score of document
+Total Pos = 22.375
+Total Neg = 17.625
+---------------------------------------------------------------------------

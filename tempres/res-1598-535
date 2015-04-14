@@ -1,0 +1,42 @@
+0. Directed by: Brian D                 ... pos = 0.625 	neg = 1.0  
+1. This isn't surprisin                 ... pos = 0.125 	neg = 0.875
+2. While he may have ex                 ... pos = 0.75  	neg = 0.0  
+3. "Mission to Mars" is                 ... pos = 0.0   	neg = 0.375
+4. While it may have an                 ... pos = 0.75  	neg = 2.125
+5. The year is 2020, an                 ... pos = 0.0   	neg = 0.375
+6. The mission will con                 ... pos = 0.25  	neg = 0.0  
+7. While things appear                  ... pos = 0.125 	neg = 0.25 
+8. A rescue attempt is                  ... pos = 0.375 	neg = 0.25 
+9. Going with McConnell                 ... pos = 0.25  	neg = 0.0  
+10. This group's mission                ... pos = 0.0   	neg = 0.875
+11. With a great cast li                ... pos = 0.0   	neg = 0.75 
+12. Perhaps the biggest                 ... pos = 0.875 	neg = 0.625
+13. Robbins and O'Connel                ... pos = 1.375 	neg = 0.125
+14. Gary Sinise, normall                ... pos = 0.0   	neg = 0.75 
+15. Only Don Cheadle ("O                ... pos = 0.0   	neg = 0.0  
+16. I think "Mission to                 ... pos = 0.875 	neg = 2.0  
+17. Another thing I noti                ... pos = 1.0   	neg = 0.375
+18. The movie is filled                 ... pos = 0.375 	neg = 1.125
+19. I was actually, at t                ... pos = 1.25  	neg = 0.125
+20. On the rare occasion                ... pos = 0.625 	neg = 0.5  
+21. To go along with thi                ... pos = 0.5   	neg = 2.125
+22. I will admit that "M                ... pos = 0.125 	neg = 0.0  
+23. The one remarkable t                ... pos = 0.25  	neg = 0.125
+24. However, after the e                ... pos = 0.75  	neg = 1.125
+25. I found it surprisin                ... pos = 1.0   	neg = 1.0  
+26. Actually, I'd sugges                ... pos = 0.875 	neg = 0.0  
+27. "Mission to Mars" ru                ... pos = 0.125 	neg = 0.375
+28. I give the film two                 ... pos = 0.0   	neg = 0.0  
+29. Comments?                           ... pos = 0     	neg = 0.0  
+30. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+31. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+32. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+33. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+34. * - One of the worst                ... pos = 0.0   	neg = 0.375
+35. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-535 is Negative         ... pos = 14.625 	neg = 19.25
+Overall score of document
+Total Pos = 14.625
+Total Neg = 19.25
+---------------------------------------------------------------------------

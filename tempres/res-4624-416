@@ -1,0 +1,42 @@
+0. Ingredients: Scienti                 ... pos = 0.625 	neg = 0.875
+1. The trouble is, it t                 ... pos = 0.0   	neg = 0.75 
+2. Professor John Robin                 ... pos = 1.125 	neg = 0.0  
+3. A hypergate is impor                 ... pos = 0.875 	neg = 0.125
+4. Robinson plans to ta                 ... pos = 0.375 	neg = 0.0  
+5. Unfortunately, when                  ... pos = 0.625 	neg = 1.75 
+6. In space the Robinso                 ... pos = 0.5   	neg = 0.0  
+7. There are a few inte                 ... pos = 0.25  	neg = 0.625
+8. Look for June Lockha                 ... pos = 0.0   	neg = 0.375
+9. If the robot's voice                 ... pos = 0.0   	neg = 0.0  
+10. Opinion: LOST IN SPA                ... pos = 2.5   	neg = 1.625
+11. The original TV seri                ... pos = 0.0   	neg = 0.125
+12. LOST IN SPACE (1998)                ... pos = 1.25  	neg = 0.375
+13. The main idea is to                 ... pos = 0.5   	neg = 0.375
+14. (Speaking of family,                ... pos = 0.0   	neg = 0.0  
+15. ). Does LOST IN SPAC                ... pos = 0.125 	neg = 0.0  
+16. I like the way the c                ... pos = 1.0   	neg = 0.625
+17. FRIENDS star Matt Le                ... pos = 1.0   	neg = 0.0  
+18. He plays Major Don W                ... pos = 0.0   	neg = 0.0  
+19. West is a military m                ... pos = 1.125 	neg = 0.25 
+20. Lacey Chabert as the                ... pos = 0.125 	neg = 0.125
+21. Unfortunately, the m                ... pos = 1.5   	neg = 1.5  
+22. Similarly, Judy star                ... pos = 0.875 	neg = 1.0  
+23. On the good side, th                ... pos = 1.5   	neg = 1.25 
+24. LOST IN SPACE starts                ... pos = 0.0   	neg = 0.625
+25. But the pace alterna                ... pos = 0.0   	neg = 0.0  
+26. Even the music can't                ... pos = 0.0   	neg = 0.25 
+27. As a result, LOST IN                ... pos = 0.625 	neg = 0.0  
+28. The film rushes forw                ... pos = 0.75  	neg = 0.0  
+29. Several plot threads                ... pos = 0.375 	neg = 0.0  
+30. For example, early o                ... pos = 1.0   	neg = 0.375
+31. Likewise, Dr. Smith                 ... pos = 0.75  	neg = 1.0  
+32. LOST IN SPACE is a s                ... pos = 0.125 	neg = 1.0  
+33. It falls in the Summ                ... pos = 0.0   	neg = 0.25 
+34. However, the film ca                ... pos = 0.5   	neg = 0.125
+35. Call me an optimist,                ... pos = 1.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4624-416 is Positive         ... pos = 21.375 	neg = 15.375
+Overall score of document
+Total Pos = 21.375
+Total Neg = 15.375
+---------------------------------------------------------------------------

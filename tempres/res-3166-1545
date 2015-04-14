@@ -1,0 +1,25 @@
+0. {Visit my updated we                 ... pos = 0.5   	neg = 0.125
+1. All's fun and badly                  ... pos = 0.125 	neg = 0.375
+2. What kind of person                  ... pos = 0.0   	neg = 0.0  
+3. The young, teenaged                  ... pos = 0.5   	neg = 0.375
+4. Let's boil it down:                  ... pos = 0.125 	neg = 0.0  
+5. If you don't like th                 ... pos = 0.125 	neg = 0.0  
+6. If there are such pe                 ... pos = 0.25  	neg = 0.0  
+7. The Spices, alternat                 ... pos = 0.5   	neg = 1.375
+8. It is because of thi                 ... pos = 2.25  	neg = 2.625
+9. Meanwhile, two Holly                 ... pos = 0.25  	neg = 0.0  
+10. The film unfolds ove                ... pos = 0.375 	neg = 0.0  
+11. Director Bob Spiers,                ... pos = 1.5   	neg = 0.125
+12. But when things turn                ... pos = 0.5   	neg = 0.375
+13. And the girls are at                ... pos = 0.375 	neg = 0.0  
+14. I felt after this fi                ... pos = 0.125 	neg = 0.25 
+15. Spice World ultimate                ... pos = 0.0   	neg = 0.0  
+16. The Spice Girls' ima                ... pos = 0.125 	neg = 0.5  
+17. While the filmmakers                ... pos = 0.375 	neg = 0.125
+18. There is nothing bit                ... pos = 0.5   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-3166-1545 is Positive        ... pos = 8.5   	neg = 7.25 
+Overall score of document
+Total Pos = 8.5
+Total Neg = 7.25
+---------------------------------------------------------------------------

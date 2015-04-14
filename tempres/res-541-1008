@@ -1,0 +1,44 @@
+0. ***1/2 (out of 4) Th                 ... pos = 0.375 	neg = 0.125
+1. You either love it o                 ... pos = 0.875 	neg = 0.0  
+2. Count me as a "love                  ... pos = 0.0   	neg = 0.0  
+3. " . As good as THE C                 ... pos = 1.125 	neg = 0.125
+4. Where the former two                 ... pos = 0.25  	neg = 0.125
+5. It has a similar loo                 ... pos = 1.375 	neg = 0.5  
+6. Not clever or comple                 ... pos = 0.75  	neg = 0.125
+7. A man (Rufus Sewell)                 ... pos = 0.375 	neg = 0.125
+8. Surprised, the attac                 ... pos = 0.125 	neg = 0.625
+9. The dazed man gets o                 ... pos = 0.0   	neg = 0.0  
+10. A mysterious caller                 ... pos = 0.75  	neg = 0.0  
+11. Ghoulish figures in                 ... pos = 0.25  	neg = 0.375
+12. An odd blast of will                ... pos = 1.75  	neg = 0.375
+13. The amnesiac learns                 ... pos = 0.375 	neg = 0.25 
+14. Now if only he could                ... pos = 0.125 	neg = 0.0  
+15. DARK CITY is good on                ... pos = 0.875 	neg = 0.125
+16. First, the look of t                ... pos = 1.125 	neg = 0.5  
+17. Give credit to produ                ... pos = 0.5   	neg = 0.375
+18. There are visual ele                ... pos = 0.25  	neg = 0.0  
+19. It is all pulled tog                ... pos = 0.5   	neg = 1.25 
+20. Proyas' use of model                ... pos = 0.75  	neg = 0.0  
+21. The look is like a c                ... pos = 0.0   	neg = 0.5  
+22. Second, the editing                 ... pos = 0.75  	neg = 0.125
+23. The pacing is on tra                ... pos = 0.5   	neg = 0.25 
+24. Also, the stylized e                ... pos = 0.0   	neg = 0.375
+25. Third, the special e                ... pos = 0.25  	neg = 0.25 
+26. They look good, but                 ... pos = 1.0   	neg = 0.625
+27. One example stands o                ... pos = 0.0   	neg = 0.0  
+28. A simple ripple effe                ... pos = 0.0   	neg = 0.125
+29. A more showy effect                 ... pos = 0.5   	neg = 0.25 
+30. Restraint was shown                 ... pos = 0.125 	neg = 0.75 
+31. Finally, like GATTAC                ... pos = 0.125 	neg = 0.375
+32. Unlike GATTACA, the                 ... pos = 0.75  	neg = 0.25 
+33. John Murdoch's recov                ... pos = 0.0   	neg = 0.125
+34. His struggle with am                ... pos = 0.0   	neg = 0.125
+35. When we finally see                 ... pos = 1.25  	neg = 0.125
+36. A few minor flaws ke                ... pos = 0.125 	neg = 0.375
+37. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-541-1008 is Positive         ... pos = 17.875 	neg = 9.625
+Overall score of document
+Total Pos = 17.875
+Total Neg = 9.625
+---------------------------------------------------------------------------

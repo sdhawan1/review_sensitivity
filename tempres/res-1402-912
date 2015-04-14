@@ -1,0 +1,48 @@
+0. Have you ever had on                 ... pos = 0.5   	neg = 0.125
+1. .                                    ... pos = 0     	neg = 0    
+2. and stayed there?                    ... pos = 0     	neg = 0.0  
+3. That you called all                  ... pos = 0.5   	neg = 0.0  
+4. " and when they aske                 ... pos = 0.0   	neg = 0.125
+5. This is a story (scr                 ... pos = 0.875 	neg = 1.25 
+6. Not me.                              ... pos = 0.0   	neg = 0.0  
+7. You get the bare bon                 ... pos = 0.375 	neg = 0.0  
+8. Through flat out she                 ... pos = 0.0   	neg = 0.25 
+9. The M.O.                             ... pos = 0     	neg = 0.0  
+10. of the killer makes                 ... pos = 0.75  	neg = 1.75 
+11. In 1969, Firefighter                ... pos = 0.5   	neg = 0.125
+12. At night, Frank like                ... pos = 0.0   	neg = 0.0  
+13. There's a lot to tal                ... pos = 0.875 	neg = 0.125
+14. That night, Frank re                ... pos = 0.0   	neg = 0.0  
+15. That night, he stumb                ... pos = 0.0   	neg = 0.75 
+16. In 24 hours, Frank S                ... pos = 0.25  	neg = 0.125
+17. .                                   ... pos = 0     	neg = 0    
+18. .                                   ... pos = 0     	neg = 0    
+19. unless John can conv                ... pos = 0.25  	neg = 0.125
+20. They are talking acr                ... pos = 0.25  	neg = 0.0  
+21. If John can save his                ... pos = 0.25  	neg = 0.125
+22. He doesn't realize t                ... pos = 0.125 	neg = 0.0  
+23. Which is all I'll te                ... pos = 0.125 	neg = 0.125
+24. Except that Andre Br                ... pos = 0.625 	neg = 0.0  
+25. And all the while Cr                ... pos = 0.0   	neg = 0.375
+26. Not a note was taken                ... pos = 0.0   	neg = 0.125
+27. Frequency is the kin                ... pos = 0.0   	neg = 1.0  
+28. It's the kind of fli                ... pos = 0.75  	neg = 0.25 
+29. Wells started the ge                ... pos = 1.25  	neg = 1.375
+30. We did have out cont                ... pos = 0.125 	neg = 0.625
+31. And while the little                ... pos = 0.5   	neg = 0.375
+32. Frequency is an abso                ... pos = 0.0   	neg = 0.125
+33. A flat out perfect,                 ... pos = 0.5   	neg = 0.0  
+34. On average, a first                 ... pos = 0.25  	neg = 0.0  
+35. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+36. Not because it's con                ... pos = 0.0   	neg = 0.5  
+37. See it twice, 'cuz y                ... pos = 0.0   	neg = 0.125
+38. You will.                           ... pos = 0.125 	neg = 0    
+39. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+40. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+41. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1402-912 is Negative         ... pos = 10.125 	neg = 10.125
+Overall score of document
+Total Pos = 10.125
+Total Neg = 10.125
+---------------------------------------------------------------------------

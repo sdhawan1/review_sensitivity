@@ -1,0 +1,43 @@
+0. American Psycho is t                 ... pos = 2.625 	neg = 0.5  
+1. And yet I can't, in                  ... pos = 1.0   	neg = 0.25 
+2. Though in hindsight                  ... pos = 1.0   	neg = 0.25 
+3. I'm a liberal guy, b                 ... pos = 0.0   	neg = 1.25 
+4. It's true that Ameri                 ... pos = 1.25  	neg = 0.75 
+5. Patrick Bateman (Chr                 ... pos = 0.375 	neg = 0.125
+6. He's a sleek, effici                 ... pos = 1.5   	neg = 0.125
+7. This is what the liv                 ... pos = 0.125 	neg = 0.125
+8. When Bateman himself                 ... pos = 0.25  	neg = 0.25 
+9. He also likes to hir                 ... pos = 0.25  	neg = 0.5  
+10. One of Bateman's mur                ... pos = 0.0   	neg = 0.375
+11. When he kills one of                ... pos = 0.0   	neg = 1.125
+12. Though the detective                ... pos = 0.625 	neg = 0.5  
+13. American Psycho has                 ... pos = 0.0   	neg = 0.375
+14. Originally, Leonardo                ... pos = 1.0   	neg = 0.25 
+15. Then, as the film cr                ... pos = 0.5   	neg = 0.0  
+16. The film got an NC-1                ... pos = 0.0   	neg = 0.0  
+17. Director Mary Harron                ... pos = 0.125 	neg = 0.0  
+18. The MPAA didn't seem                ... pos = 0.125 	neg = 1.0  
+19. Still, it was presen                ... pos = 1.5   	neg = 0.25 
+20. It's all in the atti                ... pos = 0.0   	neg = 0    
+21. I agree that this wa                ... pos = 0.125 	neg = 0.75 
+22. Movies aren't suppos                ... pos = 0.0   	neg = 0.0  
+23. Still, there's a lot                ... pos = 0.125 	neg = 0.125
+24. *MAJOR SPOILER AHEAD                ... pos = 1.375 	neg = 0.125
+25. Consider, for exampl                ... pos = 0.75  	neg = 0.5  
+26. No one even peeks ou                ... pos = 0.0   	neg = 0.375
+27. Harron does not emph                ... pos = 0.375 	neg = 0.875
+28. This makes the movie                ... pos = 1.25  	neg = 0.125
+29. Christian Bale is a                 ... pos = 1.25  	neg = 0.75 
+30. It would have been m                ... pos = 0.125 	neg = 0.125
+31. Chloe Sevigny, an Os                ... pos = 0.125 	neg = 0.5  
+32. Look: this movie did                ... pos = 0.125 	neg = 0.0  
+33. I'm not scarred for                 ... pos = 0.0   	neg = 0.0  
+34. But I can tell you t                ... pos = 0.75  	neg = 0.0  
+35. If that floats your                 ... pos = 0.0   	neg = 0.0  
+36. But if you bring a f                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3687-563 is Positive         ... pos = 18.75 	neg = 12.625
+Overall score of document
+Total Pos = 18.75
+Total Neg = 12.625
+---------------------------------------------------------------------------

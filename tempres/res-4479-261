@@ -1,0 +1,53 @@
+0. For more reviews and                 ... pos = 1.125 	neg = 0.125
+1. That is the  questio                 ... pos = 0.0   	neg = 0.125
+2. A young robot-child                  ... pos = 0.0   	neg = 0.125
+3. The family attempts                  ... pos = 1.375 	neg = 0.0  
+4. Left alone  and in t                 ... pos = 0.125 	neg = 0.0  
+5. CRITIQUE: In one of                  ... pos = 1.375 	neg = 0.0  
+6. It's funny because w                 ... pos = 1.0   	neg = 0.25 
+7. But Spielberg's  gro                 ... pos = 0.0   	neg = 0.25 
+8. He tackles big issue                 ... pos = 0.125 	neg = 0.0  
+9. What is love?                        ... pos = 0.625 	neg = 0.125
+10. What is  emotion?                   ... pos = 0.625 	neg = 0.125
+11. Why does it suck to                 ... pos = 0.125 	neg = 0.125
+12. Emotions and queries                ... pos = 0.625 	neg = 0.125
+13. And even though this                ... pos = 0.625 	neg = 0.25 
+14. The truth behind thi                ... pos = 0.5   	neg = 0.125
+15. The cruelty of some                 ... pos = 0.0   	neg = 0.0  
+16. The love and kindnes                ... pos = 1.25  	neg = 0    
+17. The world has become                ... pos = 1.25  	neg = 0.0  
+18. But doesn't that  ne                ... pos = 0.5   	neg = 0.125
+19. Living, feeling, lov                ... pos = 0.5   	neg = 0.0  
+20. I don't know.                       ... pos = 0     	neg = 0.0  
+21. I'm philosophizing o                ... pos = 1.875 	neg = 0.125
+22. That fear of being a                ... pos = 0.625 	neg = 0    
+23. That fear of not hav                ... pos = 1.0   	neg = 0.0  
+24. That fear of not mat                ... pos = 0.375 	neg = 0.0  
+25. The journey of  the                 ... pos = 0.25  	neg = 0.125
+26. Will we be happy in                 ... pos = 0.75  	neg = 0.125
+27. Will we be loved?                   ... pos = 0.625 	neg = 0.125
+28. Will  our own love b                ... pos = 0.75  	neg = 0.125
+29. Questions that resid                ... pos = 0.125 	neg = 0.0  
+30. And will his  journe                ... pos = 0.625 	neg = 0.0  
+31. A sad note?                         ... pos = 0.0   	neg = 0.75 
+32. Well, being that thi                ... pos = 1.0   	neg = 0.125
+33. I will say this much                ... pos = 0.375 	neg = 0.0  
+34. I would definitely h                ... pos = 0.25  	neg = 0.0  
+35. Also, I felt like th                ... pos = 0.0   	neg = 0.5  
+36. Emotionally, this fi                ... pos = 0.125 	neg = 0.875
+37. It's to note that  t                ... pos = 1.0   	neg = 0.25 
+38. ) displayed here by                 ... pos = 0.125 	neg = 0.25 
+39. A superb, loving, re                ... pos = 1.75  	neg = 0    
+40. Add Jude Law to that                ... pos = 0.0   	neg = 0.5  
+41. ), and you've got a                 ... pos = 0.25  	neg = 0.0  
+42. Yes, I thought the f                ... pos = 1.125 	neg = 1.75 
+43. In the end, the film                ... pos = 0.75  	neg = 0.375
+44. And once you do sit                 ... pos = 2.125 	neg = 0.5  
+45. Where's JoBlo coming                ... pos = 0.0   	neg = 0    
+46. Bicentennial Man (6/                ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4479-261 is Positive         ... pos = 28.5  	neg = 8.5  
+Overall score of document
+Total Pos = 28.5
+Total Neg = 8.5
+---------------------------------------------------------------------------

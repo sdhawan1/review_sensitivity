@@ -1,0 +1,28 @@
+0. Susan Granger's revi                 ... pos = 0     	neg = 0.0  
+1. : ARTIFICIAL INTELLI                 ... pos = 0.5   	neg = 0.125
+2. So was Stanley Kubri                 ... pos = 0.0   	neg = 0.125
+3. But  this unconventi                 ... pos = 0.125 	neg = 0.0  
+4. Some will be beguile                 ... pos = 0.125 	neg = 0.25 
+5. Others may be frustr                 ... pos = 0.0   	neg = 0.125
+6. Told as a sci-fi fai                 ... pos = 0.0   	neg = 0.875
+7. David is programmed                  ... pos = 0.625 	neg = 0.125
+8. Like Pinocchio, he y                 ... pos = 0.625 	neg = 0.125
+9. But how?                             ... pos = 0     	neg = 0.0  
+10. When he's abandoned                 ... pos = 0.375 	neg = 0.625
+11. Steeped  in romantic                ... pos = 0.625 	neg = 0.125
+12. This fragmentation                  ... pos = 0.0   	neg = 0.25 
+13. In the darkly distur                ... pos = 0.25  	neg = 0.0  
+14. Then the eerie, sent                ... pos = 1.0   	neg = 0.0  
+15. " and "Close  Encoun                ... pos = 0.25  	neg = 0.0  
+16. There's a  lack of c                ... pos = 0.0   	neg = 0.25 
+17. Hayley Joel Osment                  ... pos = 1.125 	neg = 0.5  
+18. The rich visuals - s                ... pos = 0.25  	neg = 0.25 
+19. On the Granger  Movi                ... pos = 0.0   	neg = 0.0  
+20. : Artificial Intelli                ... pos = 0.5   	neg = 0.125
+21. Love it or hate it,                 ... pos = 3.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4479-667 is Positive         ... pos = 9.625 	neg = 3.875
+Overall score of document
+Total Pos = 9.625
+Total Neg = 3.875
+---------------------------------------------------------------------------

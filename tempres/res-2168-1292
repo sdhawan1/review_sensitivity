@@ -1,0 +1,21 @@
+0. Bob the Happy Bastar                 ... pos = 0.75  	neg = 0.25 
+1. They always try for                  ... pos = 0.0   	neg = 0.0  
+2. That was the problem                 ... pos = 0.25  	neg = 0.75 
+3. But, at last, someon                 ... pos = 0.625 	neg = 0.0  
+4. Rush Hour features J                 ... pos = 0.625 	neg = 0.0  
+5. Of course, the FBI i                 ... pos = 0.0   	neg = 0.25 
+6. What makes Rush Hour                 ... pos = 0.625 	neg = 0.625
+7. Tucker mouths off to                 ... pos = 0.0   	neg = 0.625
+8. "), and Chan deliver                 ... pos = 0.375 	neg = 0.0  
+9. The story's pretty m                 ... pos = 0.75  	neg = 0.375
+10. At least it's entert                ... pos = 0.625 	neg = 0.125
+11. A particular fight s                ... pos = 0.875 	neg = 1.0  
+12. And the finale's a r                ... pos = 0.625 	neg = 0.75 
+13. Rush Hour is just th                ... pos = 0.0   	neg = 0.125
+14. Just make sure you d                ... pos = 0.875 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-2168-1292 is Positive        ... pos = 7.0   	neg = 5.375
+Overall score of document
+Total Pos = 7.0
+Total Neg = 5.375
+---------------------------------------------------------------------------

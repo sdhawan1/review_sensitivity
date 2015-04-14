@@ -1,0 +1,58 @@
+0. give me a buzz on th                 ... pos = 0.375 	neg = 0.0  
+1. With no small measur                 ... pos = 0.375 	neg = 0.625
+2. "Fathers' Day" was r                 ... pos = 0.0   	neg = 0.125
+3. Therefore, it was fi                 ... pos = 0.125 	neg = 0.125
+4. A romantic love stor                 ... pos = 1.5   	neg = 0.125
+5. BUT, don't call this                 ... pos = 0.375 	neg = 0.0  
+6. It's not really '99s                 ... pos = 0.0   	neg = 0.0  
+7. This piece of work i                 ... pos = 0.125 	neg = 0.875
+8. I wouldn't want to g                 ... pos = 0.25  	neg = 0.125
+9. The funny moments ar                 ... pos = 0.25  	neg = 0.0  
+10. However, don't take                 ... pos = 0.75  	neg = 0.125
+11. And good ol' Paul wo                ... pos = 1.0   	neg = 0.125
+12. While Newman is not                 ... pos = 0.5   	neg = 0.125
+13. The actors must have                ... pos = 1.239 	neg = 0.625
+14. Call it good acting,                ... pos = 1.375 	neg = 0.375
+15. This relationship is                ... pos = 0.0   	neg = 0.125
+16. Luis Mandoki doesn't                ... pos = 0.125 	neg = 1.375
+17. So, it's difficult t                ... pos = 1.75  	neg = 0.375
+18. The plot revolves ar                ... pos = 0.0   	neg = 0.0  
+19. Divorced mother Ther                ... pos = 0.375 	neg = 0.375
+20. While jogging on the                ... pos = 0.0   	neg = 0.0  
+21. She reads the enclos                ... pos = 0.0   	neg = 0.0  
+22. Her editor (Robbie C                ... pos = 0.0   	neg = 0.0  
+23. Theresa is already i                ... pos = 1.125 	neg = 1.5  
+24. She discovers that t                ... pos = 0.0   	neg = 0    
+25. Throwing good sense                 ... pos = 0.75  	neg = 0.0  
+26. Garret Blake (Costne                ... pos = 0.125 	neg = 0.125
+27. He has not dealt wit                ... pos = 0.125 	neg = 0.25 
+28. He feuds with them,                 ... pos = 0.125 	neg = 0.25 
+29. Also, Garret lives w                ... pos = 0.75  	neg = 0.0  
+30. Theresa meets Garret                ... pos = 0.0   	neg = 0.375
+31. Perhaps all this hap                ... pos = 0.125 	neg = 0.75 
+32. They fall in love, b                ... pos = 0.625 	neg = 0.0  
+33. That's the premise o                ... pos = 0.0   	neg = 0.0  
+34. To give away much mo                ... pos = 0.25  	neg = 0.375
+35. While not a monument                ... pos = 1.625 	neg = 0.125
+36. Wright Penn is beaut                ... pos = 2.25  	neg = 0.375
+37. Costner and Newman m                ... pos = 0.25  	neg = 0.375
+38. Wright Penn and Cost                ... pos = 0.875 	neg = 0.0  
+39. This film pulls no p                ... pos = 0.0   	neg = 0.25 
+40. It has few surprises                ... pos = 0.0   	neg = 0    
+41. This is about dealin                ... pos = 0.125 	neg = 0.125
+42. While it's formulaic                ... pos = 0.5   	neg = 1.0  
+43. Costner usually gets                ... pos = 0.0   	neg = 0.25 
+44. Plus, this picture d                ... pos = 0.0   	neg = 0.0  
+45. It's wonderful to se                ... pos = 1.5   	neg = 0.0  
+46. As a three-part pack                ... pos = 0.375 	neg = 0.0  
+47. So, bring along a co                ... pos = 1.625 	neg = 0.0  
+48. Just be careful who                 ... pos = 0.5   	neg = 0.125
+49. First dates beware,                 ... pos = 0.5   	neg = 0.0  
+50. USELESS TRIVIA--Unre                ... pos = 0     	neg = 0.625
+51. If (and it's a big i                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3516-1158 is Positive        ... pos = 24.989 	neg = 12.625
+Overall score of document
+Total Pos = 24.989
+Total Neg = 12.625
+---------------------------------------------------------------------------

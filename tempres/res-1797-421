@@ -1,0 +1,36 @@
+0. A Review by Akiva Go                 ... pos = 0.5   	neg = 0.0  
+1. Sofia Coppola is his                 ... pos = 0.0   	neg = 0.375
+2. Cage married Patrici                 ... pos = 0.0   	neg = 0.0  
+3. The Schwartzmans had                 ... pos = 0.0   	neg = 0.125
+4. If Sofia is trying h                 ... pos = 0.625 	neg = 1.5  
+5. After her performanc                 ... pos = 0.625 	neg = 0.0  
+6. Her unique visual fl                 ... pos = 1.125 	neg = 0    
+7. `The Virgin Suicides                 ... pos = 0.625 	neg = 0.25 
+8. The five Lisbon sist                 ... pos = 0.125 	neg = 0.0  
+9. The mysterious girls                 ... pos = 1.875 	neg = 0.0  
+10. Things become more m                ... pos = 0.5   	neg = 0.0  
+11. `You've never been a                ... pos = 0.0   	neg = 0.125
+12. When she gets better                ... pos = 0.125 	neg = 0.0  
+13. For the first time,                 ... pos = 0.5   	neg = 0.125
+14. But the party turns                 ... pos = 0.125 	neg = 0.0  
+15. An even thicker clou                ... pos = 1.0   	neg = 0.5  
+16. Against all odds, he                ... pos = 0.5   	neg = 0.125
+17. He is the first and                 ... pos = 0.375 	neg = 0.125
+18. But the events that                 ... pos = 0.125 	neg = 0.0  
+19. This builds up to a                 ... pos = 0.125 	neg = 0.125
+20. Sofia Coppola has su                ... pos = 1.375 	neg = 0.0  
+21. Like all dreams, not                ... pos = 0.5   	neg = 0.25 
+22. Coppola's film is a                 ... pos = 0.5   	neg = 0.125
+23. There's so much subt                ... pos = 1.625 	neg = 0.0  
+24. It's an overused tac                ... pos = 0.0   	neg = 0.0  
+25. Coppola's pictures s                ... pos = 0.0   	neg = 0.25 
+26. James Woods and Kath                ... pos = 1.25  	neg = 0.125
+27. We never learn very                 ... pos = 0.625 	neg = 0.25 
+28. Sofia Coppola's abso                ... pos = 1.0   	neg = 0.0  
+29. With its delicate ba                ... pos = 2.181 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1797-421 is Positive         ... pos = 17.931 	neg = 4.5  
+Overall score of document
+Total Pos = 17.931
+Total Neg = 4.5
+---------------------------------------------------------------------------

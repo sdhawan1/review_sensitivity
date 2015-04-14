@@ -1,0 +1,80 @@
+0. Naturally, there are                 ... pos = 0.375 	neg = 0.0  
+1. ARMAGEDDON is the se                 ... pos = 0.0   	neg = 0.375
+2. The first film, DEEP                 ... pos = 0.625 	neg = 1.125
+3. We start out when NA                 ... pos = 0.125 	neg = 0.0  
+4. Briefing the preside                 ... pos = 0.375 	neg = 0.125
+5. To divert the oncomi                 ... pos = 0.125 	neg = 0.5  
+6. Scientists calculate                 ... pos = 0.0   	neg = 0.0  
+7. Stamper's oil drille                 ... pos = 0.5   	neg = 0.125
+8. Not much discipline,                 ... pos = 0.125 	neg = 1.375
+9. There are the scenes                 ... pos = 0.25  	neg = 0.0  
+10. It's all pretty amus                ... pos = 0.0   	neg = 0.375
+11. They don't disappoin                ... pos = 0.625 	neg = 0.0  
+12. When they finally bl                ... pos = 0.5   	neg = 1.0  
+13. We haven't even gott                ... pos = 0.0   	neg = 0.0  
+14. "  The problem is, i                ... pos = 0.5   	neg = 0.375
+15. The group reminded m                ... pos = 1.0   	neg = 0.0  
+16. A few of the cast me                ... pos = 0.0   	neg = 0.375
+17. Willis has played th                ... pos = 0.125 	neg = 0.625
+18. The hardest part in                 ... pos = 0.25  	neg = 1.5  
+19. A little different,                 ... pos = 1.25  	neg = 0.625
+20. Frost (Ben Affleck),                ... pos = 0.5   	neg = 0.0  
+21. This gives Willis a                 ... pos = 0.0   	neg = 0.0  
+22. I'm sure the scenes                 ... pos = 0.375 	neg = 0.125
+23. He's a handsome guy,                ... pos = 1.5   	neg = 0.625
+24. Guys will probably t                ... pos = 0.125 	neg = 0.0  
+25. Combined with his ac                ... pos = 1.25  	neg = 0.0  
+26. If he were to disapp                ... pos = 0.0   	neg = 0.5  
+27. Whereas Affleck may                 ... pos = 0.5   	neg = 0.125
+28. She's nice on the ey                ... pos = 0.5   	neg = 1.0  
+29. There's also a coupl                ... pos = 0.125 	neg = 0.25 
+30. Perhaps the best per                ... pos = 0.375 	neg = 0.25 
+31. The scriptwriters al                ... pos = 2.875 	neg = 0.875
+32. The special effects                 ... pos = 0.0   	neg = 0.25 
+33. When the drilling cr                ... pos = 0.875 	neg = 0.75 
+34. Just getting it to l                ... pos = 0.0   	neg = 0.75 
+35. Scenes where much sm                ... pos = 1.0   	neg = 0.375
+36. Anything involving t                ... pos = 0.125 	neg = 0.125
+37. It's too dark, vague                ... pos = 0.625 	neg = 0.75 
+38. When the biggest men                ... pos = 0.125 	neg = 1.25 
+39. While I wouldn't say                ... pos = 0.75  	neg = 0.625
+40. Unfortunately, the a                ... pos = 1.0   	neg = 1.25 
+41. "Drilling is an art                 ... pos = 0.875 	neg = 0.125
+42. Apparently, like art                ... pos = 0.25  	neg = 0.25 
+43. Half the time I didn                ... pos = 0.25  	neg = 0.25 
+44. When the action in y                ... pos = 0.0   	neg = 1.75 
+45. Many parts of ARMAGE                ... pos = 0.0   	neg = 1.0  
+46. Graduated filters ar                ... pos = 0.625 	neg = 0.125
+47. You see it in just a                ... pos = 0.0   	neg = 0.0  
+48. There are also a lot                ... pos = 0.75  	neg = 0.25 
+49. It looks a lot like                 ... pos = 0.375 	neg = 0.375
+50. Not surprisingly, Mi                ... pos = 0.125 	neg = 0.0  
+51. My suggestion:  Lear                ... pos = 0.375 	neg = 0    
+52. When your summer act                ... pos = 0.0   	neg = 1.25 
+53. Action movies are us                ... pos = 0.25  	neg = 1.375
+54. Our heroes have to d                ... pos = 0.0   	neg = 0.25 
+55. I don't think the ph                ... pos = 0.0   	neg = 0.0  
+56. How convenient is it                ... pos = 0.0   	neg = 0.75 
+57. Why were they secret                ... pos = 0.0   	neg = 0.125
+58. When the main charac                ... pos = 0.875 	neg = 0.0  
+59. Just whom, may I ask                ... pos = 0.25  	neg = 0.0  
+60. Okay, the 16 days to                ... pos = 0.0   	neg = 0.125
+61. I have to give them                 ... pos = 0.375 	neg = 0.0  
+62. When asked why they                 ... pos = 0.0   	neg = 1.125
+63. Take that, balanced                 ... pos = 0.0   	neg = 0.0  
+64. Although the film is                ... pos = 0.25  	neg = 0.25 
+65. One of the mission c                ... pos = 0.0   	neg = 0.125
+66. The radio technician                ... pos = 0.0   	neg = 0.25 
+67. One of the astronaut                ... pos = 0.0   	neg = 0.125
+68. The villains in two                 ... pos = 0.0   	neg = 1.25 
+69. You've got to watch                 ... pos = 0.125 	neg = 0.0  
+70. They happen a lot mo                ... pos = 0.0   	neg = 0.0  
+71. Oh, one more:  The t                ... pos = 1.125 	neg = 0.125
+72. Harry S. and Truman.                ... pos = 0.0   	neg = 0.125
+73. Neat, huh?. .                       ... pos = 0     	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-6217-781 is Negative         ... pos = 26.25 	neg = 30.125
+Overall score of document
+Total Pos = 26.25
+Total Neg = 30.125
+---------------------------------------------------------------------------

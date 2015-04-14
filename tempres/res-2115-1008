@@ -1,0 +1,33 @@
+0. **1/2 (out of 4) Oth                 ... pos = 1.625 	neg = 0.0  
+1. They are not wrong,                  ... pos = 1.375 	neg = 1.125
+2. The dialogue written                 ... pos = 0.375 	neg = 0.125
+3. Nicholson is great a                 ... pos = 0.0   	neg = 0.125
+4. Hunt is very good as                 ... pos = 1.375 	neg = 0.125
+5. Greg Kinnear is alri                 ... pos = 0.125 	neg = 0.75 
+6. When Simon is hospit                 ... pos = 0.0   	neg = 0.875
+7. The story shows Melv                 ... pos = 0.625 	neg = 0.875
+8. Melvin shows real pr                 ... pos = 1.25  	neg = 0.25 
+9. The first sign of tr                 ... pos = 1.5   	neg = 0.625
+10. She storms out of th                ... pos = 0.0   	neg = 0.5  
+11. Simon SEEMS to pose                 ... pos = 0.375 	neg = 0.625
+12. Carol and Simon real                ... pos = 0.875 	neg = 0.0  
+13. If that scene is as                 ... pos = 1.375 	neg = 0.125
+14. But because the genr                ... pos = 0.25  	neg = 0.125
+15. What happens next is                ... pos = 0.625 	neg = 0.375
+16. Since the movie didn                ... pos = 0.375 	neg = 0.5  
+17. It was a real disapp                ... pos = 0.75  	neg = 0.875
+18. Perhaps another way                 ... pos = 0.5   	neg = 1.0  
+19. Melvin has spent the                ... pos = 1.375 	neg = 0.0  
+20. But because the writ                ... pos = 0.0   	neg = 0.25 
+21. She is not acting as                ... pos = 1.0   	neg = 0.25 
+22. AS GOOD AS IT GETS r                ... pos = 0.75  	neg = 0.0  
+23. Both are heartwarmin                ... pos = 2.25  	neg = 0.5  
+24. This movie was a nic                ... pos = 0.375 	neg = 0.375
+25. Ordinarily I would r                ... pos = 0.125 	neg = 0.5  
+26. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2115-1008 is Positive        ... pos = 19.25 	neg = 10.875
+Overall score of document
+Total Pos = 19.25
+Total Neg = 10.875
+---------------------------------------------------------------------------

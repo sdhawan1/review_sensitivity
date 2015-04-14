@@ -1,0 +1,41 @@
+0. "Road Trip" is this                  ... pos = 0.0   	neg = 0.125
+1. "  Its hero, Josh Po                 ... pos = 0.875 	neg = 0.375
+2. Tiffany hasn't retur                 ... pos = 0.0   	neg = 0.375
+3. He records a video-t                 ... pos = 0.25  	neg = 0.0  
+4. Later, after hearing                 ... pos = 1.0   	neg = 0.375
+5. Of course, the wrong                 ... pos = 0     	neg = 1.0  
+6. Desperate to retriev                 ... pos = 0.0   	neg = 1.5  
+7. Meanwhile, Barry (To                 ... pos = 0.0   	neg = 0.5  
+8. He's obsessed with t                 ... pos = 0.0   	neg = 1.0  
+9. When Beth comes arou                 ... pos = 0.0   	neg = 0.75 
+10. "  Thinking that he                 ... pos = 0.0   	neg = 0.0  
+11. A fourth storyline:                 ... pos = 0.125 	neg = 0.5  
+12. A fifth:  a creepy g                ... pos = 0.0   	neg = 0.375
+13. I remember seeing an                ... pos = 0.125 	neg = 0.0  
+14. "  He said when they                ... pos = 0.0   	neg = 0.375
+15. So they put together                ... pos = 0.375 	neg = 0.625
+16. So they put together                ... pos = 0.375 	neg = 0.25 
+17. .                                   ... pos = 0     	neg = 0    
+18. .                                   ... pos = 0     	neg = 0    
+19. A similar process pr                ... pos = 0.375 	neg = 0.25 
+20. Their screenplay see                ... pos = 0.0   	neg = 0.125
+21. The material in "Roa                ... pos = 1.125 	neg = 0.125
+22. Josh and his posse m                ... pos = 0.0   	neg = 0.375
+23. The good news:  all                 ... pos = 1.125 	neg = 0.0  
+24. I laughed throughout                ... pos = 0.0   	neg = 0.25 
+25. If you enjoy the "So                ... pos = 1.125 	neg = 0.0  
+26. ". Given Tom Green's                ... pos = 1.0   	neg = 0.75 
+27. However, despite the                ... pos = 0.125 	neg = 0.25 
+28. In addition to the s                ... pos = 0.0   	neg = 0.0  
+29. The boyish and bony                 ... pos = 2.125 	neg = 0.375
+30. The actor who plays                 ... pos = 0.0   	neg = 0.25 
+31. Josh is a bland rend                ... pos = 0.125 	neg = 0.875
+32. "  He has surprising                ... pos = 1.125 	neg = 0.5  
+33. Bottom line:  Lots o                ... pos = 0.875 	neg = 0.0  
+34. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4791-1265 is Negative        ... pos = 12.25 	neg = 12.25
+Overall score of document
+Total Pos = 12.25
+Total Neg = 12.25
+---------------------------------------------------------------------------

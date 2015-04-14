@@ -1,0 +1,19 @@
+0. Director: Spike Lee                  ... pos = 0.375 	neg = 0.0  
+1. US Distribution: Tou                 ... pos = 1.625 	neg = 0.375
+2. It actually centers                  ... pos = 0.375 	neg = 0.125
+3. John Leguizamo and M                 ... pos = 0.5   	neg = 0.125
+4. The film emphasizes                  ... pos = 0.125 	neg = 0.125
+5. Summer of Sam is an                  ... pos = 0.75  	neg = 0.125
+6. It reminded me very                  ... pos = 0.625 	neg = 0.25 
+7. The picture is very                  ... pos = 0.75  	neg = 1.75 
+8. The focus is distrac                 ... pos = 0.0   	neg = 0.25 
+9. And there are numero                 ... pos = 0.25  	neg = 0.625
+10. Problematic as it is                ... pos = 0.5   	neg = 0.25 
+11. The performances are                ... pos = 2.125 	neg = 0    
+12. I liked parts of the                ... pos = 2.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1257-760 is Positive         ... pos = 10.0  	neg = 4.125
+Overall score of document
+Total Pos = 10.0
+Total Neg = 4.125
+---------------------------------------------------------------------------

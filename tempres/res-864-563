@@ -1,0 +1,62 @@
+0. Starring Denzel Wash                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. Some movie                 ... pos = 0.125 	neg = 0.125
+2. Thus sometimes, film                 ... pos = 0.625 	neg = 0.25 
+3. Last year it was The                 ... pos = 0.125 	neg = 0.0  
+4. This year's "winner"                 ... pos = 1.25  	neg = 1.5  
+5. Acclaimed director N                 ... pos = 0.5   	neg = 0.0  
+6. And that's supposed                  ... pos = 0.5   	neg = 0.125
+7. It's about Rubin "Hu                 ... pos = 0.5   	neg = 0.125
+8. ) detective (Dan Hed                 ... pos = 0.0   	neg = 0.0  
+9. ) when Rubin was onl                 ... pos = 0     	neg = 0.125
+10. He is to serve three                ... pos = 0.0   	neg = 0.375
+11. Most of the film tak                ... pos = 0.0   	neg = 0.125
+12. To the rescue -- Les                ... pos = 0.0   	neg = 0.0  
+13. Lesra is an African                 ... pos = 0.25  	neg = 0.125
+14. Lesra and his buddie                ... pos = 0.625 	neg = 0.0  
+15. Immediately thereaft                ... pos = 0.875 	neg = 0.0  
+16. " Hmmm.                             ... pos = 0     	neg = 0    
+17. After a few visits t                ... pos = 0.25  	neg = 0.0  
+18. They meticulously go                ... pos = 0.0   	neg = 0.625
+19. ) and in the course                 ... pos = 0.25  	neg = 0.375
+20. Of course, we're alr                ... pos = 0.125 	neg = 0.0  
+21. A movie like this is                ... pos = 0.125 	neg = 0.125
+22. All too obviously, w                ... pos = 0.0   	neg = 0.25 
+23. That would be ok exc                ... pos = 0.25  	neg = 0.375
+24. It's almost cruel.                  ... pos = 0.0   	neg = 0    
+25. The melodrama isn't                 ... pos = 1.375 	neg = 0.375
+26. Witness the villain                 ... pos = 0.0   	neg = 0.375
+27. The Hurricane is you                ... pos = 0.0   	neg = 0.125
+28. It's formula strippe                ... pos = 0.0   	neg = 0.25 
+29. You have your wrongl                ... pos = 0.0   	neg = 0.0  
+30. You have your melodr                ... pos = 0.0   	neg = 0.0  
+31. But there's nothing                 ... pos = 0     	neg = 0.25 
+32. You'd expect some so                ... pos = 0.0   	neg = 0.0  
+33. But that's not neces                ... pos = 0.125 	neg = 0.375
+34. Thus the whole middl                ... pos = 0.0   	neg = 0.375
+35. Brooding to himself.                ... pos = 0     	neg = 0.25 
+36. Brooding to other in                ... pos = 0.0   	neg = 0.25 
+37. Brooding to Lesra.                  ... pos = 0     	neg = 0.25 
+38. Brooding to Lesra's                 ... pos = 0.125 	neg = 0.25 
+39. Brooding in letters.                ... pos = 0.0   	neg = 0.25 
+40. I don't think I'll e                ... pos = 0.0   	neg = 0.625
+41. It wasn't long befor                ... pos = 0.0   	neg = 0.375
+42. I wanted something t                ... pos = 0     	neg = 0.0  
+43. As for Washington's                 ... pos = 0.25  	neg = 0.125
+44. How is that possible                ... pos = 0     	neg = 0.125
+45. Well, he does what J                ... pos = 0.5   	neg = 0.0  
+46. Unfortunately what J                ... pos = 0.0   	neg = 1.5  
+47. What a waste of a gr                ... pos = 0.0   	neg = 0.0  
+48. Speaking of wastes,                 ... pos = 0.0   	neg = 0.5  
+49. He's an extremely ta                ... pos = 1.875 	neg = 0.125
+50. To call his characte                ... pos = 0.875 	neg = 0.125
+51. All three of them co                ... pos = 1.0   	neg = 1.0  
+52. If they're to play a                ... pos = 0.75  	neg = 0.0  
+53. Look: if you're goin                ... pos = 0.0   	neg = 0.5  
+54. Courtroom dramas can                ... pos = 0.125 	neg = 0.875
+55. Not only is it trite                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-864-563 is Negative          ... pos = 13.375 	neg = 14.375
+Overall score of document
+Total Pos = 13.375
+Total Neg = 14.375
+---------------------------------------------------------------------------

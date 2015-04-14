@@ -1,0 +1,80 @@
+0. In her 1988 novel Be                 ... pos = 0.125 	neg = 0.0  
+1. "   Although Jonatha                 ... pos = 0.75  	neg = 0.0  
+2. The film stands as a                 ... pos = 0.125 	neg = 0    
+3. The  product is part                 ... pos = 0.0   	neg = 0.125
+4. The person at the ce                 ... pos = 0.125 	neg = 0.125
+5. We meet her and what                 ... pos = 0.0   	neg = 0.0  
+6. Her children include                 ... pos = 0.5   	neg = 0.25 
+7. Until the time of he                 ... pos = 0.0   	neg = 0.125
+8. Now,  in the 1870's,                 ... pos = 0.25  	neg = 1.875
+9. Almost as unsettling                 ... pos = 0.5   	neg = 0.0  
+10. Demme directs them                  ... pos = 0.0   	neg = 0    
+11. It's a relief that t                ... pos = 0.75  	neg = 0.0  
+12. The kitchen has been                ... pos = 0.625 	neg = 0.25 
+13. Despite resentment f                ... pos = 0.375 	neg = 0.0  
+14. His presence is like                ... pos = 0.375 	neg = 0.125
+15. Perhaps Paul's roman                ... pos = 0.875 	neg = 0.125
+16. It's been ten years                 ... pos = 0.25  	neg = 0.125
+17. As one of the produc                ... pos = 0.625 	neg = 0.25 
+18. One of the results i                ... pos = 0.875 	neg = 0.125
+19. First, Winfrey herse                ... pos = 1.375 	neg = 0.25 
+20. Her role in The Colo                ... pos = 0.625 	neg = 0.0  
+21. Winfrey endows Sethe                ... pos = 0.375 	neg = 0.0  
+22. In a scene outside t                ... pos = 0.5   	neg = 0.125
+23. Instantly  her expre                ... pos = 0.75  	neg = 0.5  
+24. "  The face of a les                ... pos = 0.375 	neg = 0.0  
+25. As the title charact                ... pos = 0.875 	neg = 0.0  
+26. >From the time she t                ... pos = 1.0   	neg = 0.0  
+27. Beetles engulf her a                ... pos = 0.0   	neg = 0.375
+28. Later she turns up i                ... pos = 0.0   	neg = 0.0  
+29. What is not clear is                ... pos = 0.0   	neg = 0.375
+30. The young woman - sh                ... pos = 0.125 	neg = 0.25 
+31. In her  portrayal of                ... pos = 0.875 	neg = 0.5  
+32. After seeing Danny G                ... pos = 0.0   	neg = 1.25 
+33. He brings a veteran                 ... pos = 0.25  	neg = 0.0  
+34. At times gentle, swa                ... pos = 1.375 	neg = 0.125
+35. Because Paul is so                  ... pos = 1.375 	neg = 0.125
+36. Is Beloved carrying                 ... pos = 0.25  	neg = 0.625
+37. Among the  most rive                ... pos = 0.375 	neg = 0.0  
+38. It's here that we se                ... pos = 0.125 	neg = 0.0  
+39. Baby Suggs is one of                ... pos = 1.125 	neg = 0.125
+40. She is  the mother o                ... pos = 0.0   	neg = 0.125
+41. Halle has worked ext                ... pos = 0.25  	neg = 0.0  
+42. Morrison is masterfu                ... pos = 1.25  	neg = 0.25 
+43. Even  though he is o                ... pos = 0.5   	neg = 0.25 
+44. In the film, Beah Ri                ... pos = 0.125 	neg = 0    
+45. Grandma Baby, Sethe'                ... pos = 0.375 	neg = 0.0  
+46. She is called "holy"                ... pos = 0.0   	neg = 0.125
+47. "Love your flesh" an                ... pos = 0.25  	neg = 0.0  
+48. As Denver, Kimberly                 ... pos = 0.625 	neg = 0    
+49. Hateful toward  Paul                ... pos = 0.25  	neg = 0.917
+50. In a namesake role -                ... pos = 0.75  	neg = 0.125
+51. And  as Stamp Paid -                ... pos = 1.0   	neg = 0.25 
+52. These slices of past                ... pos = 0.25  	neg = 0.75 
+53. Even though some of                 ... pos = 0.75  	neg = 1.0  
+54. The soundtrack is al                ... pos = 1.125 	neg = 0.125
+55. The film's astonishi                ... pos = 0.125 	neg = 0    
+56. Editing down the las                ... pos = 0.0   	neg = 0.0  
+57. No matter how riveti                ... pos = 0.375 	neg = 0.625
+58. Why the filmmakers s                ... pos = 0.0   	neg = 0.0  
+59. The city locations g                ... pos = 0.625 	neg = 0.125
+60. Names like  "Shillit                ... pos = 0.0   	neg = 0.0  
+61. We are treated to vi                ... pos = 0.25  	neg = 0.125
+62. A hog  capital befor                ... pos = 0.25  	neg = 0.125
+63. Very appropriate, co                ... pos = 0.875 	neg = 0.0  
+64. The model  for Sethe                ... pos = 0.0   	neg = 0.125
+65. The real-life Stamp                 ... pos = 0.0   	neg = 0.125
+66. The Bodwins are give                ... pos = 0.25  	neg = 0.25 
+67. Morrison also preser                ... pos = 0.375 	neg = 0.0  
+68. The Garners' owner w                ... pos = 0.125 	neg = 0.125
+69. Considering how impo                ... pos = 1.875 	neg = 0.375
+70. Whereas so many film                ... pos = 0.375 	neg = 0.625
+71. For  those intereste                ... pos = 0.0   	neg = 0.125
+72. How infinitely more                 ... pos = 0.0   	neg = 0.125
+73. Beloved is also impo                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3335-71 is Positive          ... pos = 32.875 	neg = 15.042
+Overall score of document
+Total Pos = 32.875
+Total Neg = 15.042
+---------------------------------------------------------------------------

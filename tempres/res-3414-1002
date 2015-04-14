@@ -1,0 +1,44 @@
+0. VARSITY BLUES (1999)                 ... pos = 0.0   	neg = 0.0  
+1. Copyright 1999 Justi                 ... pos = 0     	neg = 0.0  
+2. This review also app                 ... pos = 0.25  	neg = 0.0  
+3. Directed by Brian Ro                 ... pos = 0.0   	neg = 0.0  
+4. Starring James Van D                 ... pos = 0.0   	neg = 0.0  
+5. Rated R (contains vi                 ... pos = 0.125 	neg = 0.75 
+6. Synopsis:  Back-up q                 ... pos = 0.5   	neg = 0.0  
+7. Evil football coach                  ... pos = 0.0   	neg = 1.875
+8. In the meantime, Mox                 ... pos = 0.375 	neg = 0.25 
+9. Comments:  Since I u                 ... pos = 0.375 	neg = 0.25 
+10. (Pun intended.                      ... pos = 0.0   	neg = 0.0  
+11. Thank you!                          ... pos = 0.0   	neg = 0    
+12. )  VARSITY BLUES was                ... pos = 0.0   	neg = 0.125
+13. Several extended sce                ... pos = 0.0   	neg = 1.153
+14. The teenagers all ha                ... pos = 0.0   	neg = 0.125
+15. The adults all have                 ... pos = 1.125 	neg = 0.25 
+16. Yes, this movie repr                ... pos = 0.0   	neg = 0.0  
+17. This is a land where                ... pos = 0.125 	neg = 1.25 
+18. All you, as the main                ... pos = 1.0   	neg = 0.25 
+19. Well, at least this                 ... pos = 0.25  	neg = 0.375
+20. "  . VARSITY BLUES s                ... pos = 0.0   	neg = 0.0  
+21. He plays the hick Mo                ... pos = 0.5   	neg = 0.75 
+22. ("You dawn't own mah                ... pos = 0.0   	neg = 0    
+23. "  Who would want to                ... pos = 0.0   	neg = 0.125
+24. )  Jon Voight, the s                ... pos = 0.0   	neg = 1.625
+25. But is he really evi                ... pos = 0.0   	neg = 1.0  
+26. After all, everybody                ... pos = 0.0   	neg = 0.25 
+27. Maybe the pressures                 ... pos = 0.0   	neg = 1.5  
+28. The film's screenpla                ... pos = 0.0   	neg = 0.0  
+29. At times, Iliff's st                ... pos = 1.0   	neg = 0.875
+30. The movie's pacing i                ... pos = 0.25  	neg = 0.125
+31. I suppose I'm being                 ... pos = 0.25  	neg = 1.0  
+32. Maybe I'm just a lit                ... pos = 0.0   	neg = 0.875
+33. Something about a re                ... pos = 0.0   	neg = 0.0  
+34. I found the film oft                ... pos = 0.0   	neg = 0.25 
+35. Three guys in front                 ... pos = 0.0   	neg = 0.0  
+36. I wished I had thoug                ... pos = 0.125 	neg = 0.0  
+37. Alcohol, lots of it,                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3414-1002 is Negative        ... pos = 6.25  	neg = 15.278
+Overall score of document
+Total Pos = 6.25
+Total Neg = 15.278
+---------------------------------------------------------------------------

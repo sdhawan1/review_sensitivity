@@ -1,0 +1,25 @@
+0. Jackie Chan  has bee                 ... pos = 0.0   	neg = 0.375
+1. Not much.                            ... pos = 0.125 	neg = 0    
+2. Sure it has some fun                 ... pos = 0.875 	neg = 0.0  
+3. Jackie Chan plays De                 ... pos = 0.125 	neg = 0.125
+4. The missing kid  is                  ... pos = 0.0   	neg = 0.125
+5. The problem is the F                 ... pos = 0.0   	neg = 0.75 
+6. That babysitter is t                 ... pos = 0.375 	neg = 0.5  
+7. Carter is a loner an                 ... pos = 0.0   	neg = 0.125
+8. He definitely doesn'                 ... pos = 0.5   	neg = 0.0  
+9. Rush Hour's gimmick                  ... pos = 0.0   	neg = 0.25 
+10. It's just a buddy mo                ... pos = 0.125 	neg = 0.0  
+11. Chris Tucker and Jac                ... pos = 0.0   	neg = 1.125
+12. When you add the pre                ... pos = 0.375 	neg = 0.903
+13. By now Chan is a mas                ... pos = 0.375 	neg = 0.25 
+14. Chris Tucker gives t                ... pos = 0.375 	neg = 0.0  
+15. Tucker, who was unbe                ... pos = 0.875 	neg = 0.75 
+16. Unless you're a huge                ... pos = 0.375 	neg = 0.25 
+17. As a comedy it fails                ... pos = 0.0   	neg = 0.5  
+18. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2168-1529 is Negative        ... pos = 4.5   	neg = 6.028
+Overall score of document
+Total Pos = 4.5
+Total Neg = 6.028
+---------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+0. TriStar / 2:09 / 199                 ... pos = 0.25  	neg = 1.375
+1. " Sure, "Starship Tr                 ... pos = 1.25  	neg = 0.875
+2. Everyone needs a hig                 ... pos = 1.0   	neg = 0.0  
+3. For its first hour,                  ... pos = 0.125 	neg = 0.0  
+4. Jane.                                ... pos = 0     	neg = 0    
+5. " In the distant yea                 ... pos = 0.5   	neg = 0.125
+6. But there's temptati                 ... pos = 0.75  	neg = 0.125
+7. Personal rivalry and                 ... pos = 1.25  	neg = 0.5  
+8. Our weakening, loves                 ... pos = 1.125 	neg = 0.25 
+9. But the enemy is far                 ... pos = 1.625 	neg = 0.875
+10. The exposition -- pl                ... pos = 0.5   	neg = 0.25 
+11. Once we get past the                ... pos = 0.875 	neg = 0.5  
+12. Its last half is all                ... pos = 1.5   	neg = 0.125
+13. The creature design                 ... pos = 1.25  	neg = 0.5  
+14. It's nice to see int                ... pos = 0.125 	neg = 0.25 
+15. " These monsters are                ... pos = 0.875 	neg = 0.0  
+16. They attack in packs                ... pos = 0.0   	neg = 0.75 
+17. It matters not that                 ... pos = 1.125 	neg = 0.125
+18. The occasional drama                ... pos = 3.75  	neg = 0.125
+19. These bland Ken-and-                ... pos = 1.5   	neg = 0.75 
+20. The acting is decent                ... pos = 0.125 	neg = 0.25 
+21. Van Dien, for exampl                ... pos = 0.625 	neg = 0.125
+22. In smaller parts are                ... pos = 0.625 	neg = 0.125
+23. "Starship Troopers"                 ... pos = 0.875 	neg = 0.5  
+24. " But the overall fa                ... pos = 0.0   	neg = 0.0  
+25. Its own possible inf                ... pos = 0.25  	neg = 0.5  
+26. We will know then wh                ... pos = 0.125 	neg = 0.0  
+27. Š 1997 Jamie Peck                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-1031 is Positive        ... pos = 22.0  	neg = 9.0  
+Overall score of document
+Total Pos = 22.0
+Total Neg = 9.0
+---------------------------------------------------------------------------

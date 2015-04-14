@@ -1,0 +1,15 @@
+0. Deserves Recognition                 ... pos = 0.875 	neg = 0.75 
+1. Capsule Review:                      ... pos = 0.625 	neg = 0.125
+2. ) look at the thin l                 ... pos = 0.5   	neg = 0.375
+3. Allen,  even more ne                 ... pos = 0.75  	neg = 0.25 
+4. (The all-too-brief v                 ... pos = 0.625 	neg = 0.0  
+5. )     As usual, Wood                 ... pos = 2.25  	neg = 1.125
+6. Harry  may shock som                 ... pos = 0.75  	neg = 0.25 
+7. As long as he  can s                 ... pos = 0.125 	neg = 0.375
+8. Copyright 1998 by Th                 ... pos = 0.25  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3783-1148 is Positive        ... pos = 6.75  	neg = 3.5  
+Overall score of document
+Total Pos = 6.75
+Total Neg = 3.5
+---------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+0. Visit Online Film Cr                 ... pos = 0.75  	neg = 0.0  
+1. It's appeared in the                 ... pos = 0.75  	neg = 0.0  
+2. "American Beauty," f                 ... pos = 1.625 	neg = 0.0  
+3. The film opens with                  ... pos = 0.0   	neg = 0.125
+4. Lester  Burnham (Kev                 ... pos = 0.125 	neg = 0.125
+5. And  he will be dead                 ... pos = 0.125 	neg = 0.125
+6. Why the artifice, th                 ... pos = 1.375 	neg = 0.0  
+7. It's part of the app                 ... pos = 0.75  	neg = 0.625
+8. This guy Lester is y                 ... pos = 0.0   	neg = 0.5  
+9. A schmuck that  slav                 ... pos = 0.375 	neg = 0.125
+10. His marriage is love                ... pos = 1.125 	neg = 0.375
+11. Daughter Jane is par                ... pos = 0.375 	neg = 0.125
+12. When Mom and Dad  ac                ... pos = 0.25  	neg = 0.0  
+13. It is as though Ange                ... pos = 0.75  	neg = 0.125
+14. But Lester's life is                ... pos = 0.375 	neg = 1.0  
+15. Wife Carolyn becomes                ... pos = 1.375 	neg = 0.25 
+16. Ricky's father is a                 ... pos = 0.0   	neg = 0.125
+17. ". What goes down la                ... pos = 0.0   	neg = 0.0  
+18. He writes an absurd                 ... pos = 0.5   	neg = 0.0  
+19. After Angela comment                ... pos = 0.875 	neg = 0.25 
+20. He also begins to sp                ... pos = 1.125 	neg = 0.125
+21. We never expect  Les                ... pos = 1.5   	neg = 0.625
+22. The ensemble cast do                ... pos = 1.125 	neg = 0    
+23. Kevin Spacey fills i                ... pos = 0.25  	neg = 0.875
+24. For a long time Lest                ... pos = 0.0   	neg = 0.5  
+25. When he finally  bre                ... pos = 2.25  	neg = 0.25 
+26. For his sketching of                ... pos = 0.875 	neg = 0.0  
+27. Annette Bening shows                ... pos = 0.0   	neg = 0.125
+28. At one point she sho                ... pos = 0.125 	neg = 0.875
+29. After the open house                ... pos = 0.0   	neg = 0.375
+30. She is a creature at                ... pos = 0.5   	neg = 0.875
+31. "  Carolyn's love fo                ... pos = 0.875 	neg = 0.125
+32. Thora Birch is wonde                ... pos = 1.125 	neg = 0.125
+33. With a talent for us                ... pos = 1.375 	neg = 0.125
+34. This actress also sh                ... pos = 0.625 	neg = 0.125
+35. Chris Cooper, one of                ... pos = 1.75  	neg = 0.0  
+36. Although we need to                 ... pos = 0.25  	neg = 0.5  
+37. Late in the film Fit                ... pos = 1.0   	neg = 0.5  
+38. First-time film dire                ... pos = 0.0   	neg = 0.0  
+39. One criticism is tha                ... pos = 0.5   	neg = 0.5  
+40. Composition and fram                ... pos = 2.125 	neg = 0.25 
+41. But the shots are ne                ... pos = 0.875 	neg = 0.0  
+42. Further, imagery inv                ... pos = 1.0   	neg = 0.0  
+43. Several scenes benef                ... pos = 0.5   	neg = 0.0  
+44. What the film ultima                ... pos = 0.5   	neg = 0.125
+45. Angela Hayes is as b                ... pos = 1.75  	neg = 0.25 
+46. Ricky often mentions                ... pos = 0.5   	neg = 0.0  
+47. In one sequence that                ... pos = 1.875 	neg = 0.375
+48. The beauty these cha                ... pos = 2.75  	neg = 0.25 
+49. "American Beauty" ha                ... pos = 0.0   	neg = 0.0  
+50. The film is rated R                 ... pos = 0.75  	neg = 0.25 
+51. I would hesitate tak                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-71 is Positive          ... pos = 39.5  	neg = 12.0 
+Overall score of document
+Total Pos = 39.5
+Total Neg = 12.0
+---------------------------------------------------------------------------

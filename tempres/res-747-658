@@ -1,0 +1,36 @@
+0. "The Full Monty" (**                 ... pos = 0.0   	neg = 0.375
+1. It's not that I'm ug                 ... pos = 0.0   	neg = 0.375
+2. A British comedy abo                 ... pos = 0.375 	neg = 0.125
+3. The critics have giv                 ... pos = 1.0   	neg = 0.375
+4. That being said, I w                 ... pos = 0.375 	neg = 0.625
+5. It was reviewed as a                 ... pos = 0.375 	neg = 0.875
+6. So many places and s                 ... pos = 0.25  	neg = 0.125
+7. That's not to say th                 ... pos = 0.0   	neg = 0.0  
+8. There are some of th                 ... pos = 0.5   	neg = 0.0  
+9. A scene involving el                 ... pos = 0.75  	neg = 0.25 
+10. But the movie is lac                ... pos = 0.125 	neg = 1.375
+11. Rather, they seem co                ... pos = 0.625 	neg = 0.125
+12. One man is suicidal                 ... pos = 0.0   	neg = 1.125
+13. Robert Carlisle, the                ... pos = 0.0   	neg = 0.125
+14. That's a noble thoug                ... pos = 0.375 	neg = 0.0  
+15. I guess if I were a                 ... pos = 0.0   	neg = 0.875
+16. There is a scene whe                ... pos = 0.0   	neg = 0.375
+17. The man fails misera                ... pos = 0.25  	neg = 0.125
+18. "Sorry," he says.                   ... pos = 0.0   	neg = 0    
+19. "This is no place fo                ... pos = 0.0   	neg = 0.25 
+20. "  Carlisle was affe                ... pos = 0.375 	neg = 0.125
+21. I have a tough time                 ... pos = 0.0   	neg = 0.0  
+22. Another plot line in                ... pos = 0.125 	neg = 0.5  
+23. To lose weight, he h                ... pos = 0.125 	neg = 0.0  
+24. There's a strange me                ... pos = 0.375 	neg = 0.375
+25. The Full Monty is an                ... pos = 1.0   	neg = 0.125
+26. Would it be a better                ... pos = 0.0   	neg = 0.875
+27. No, but I wish it we                ... pos = 0.0   	neg = 0.75 
+28. The Full Monty Direc                ... pos = 0.0   	neg = 0.0  
+29. Starring Robert Carl                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-747-658 is Negative          ... pos = 7.0   	neg = 10.25
+Overall score of document
+Total Pos = 7.0
+Total Neg = 10.25
+---------------------------------------------------------------------------

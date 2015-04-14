@@ -1,0 +1,49 @@
+0. The year was 1990, t                 ... pos = 0.0   	neg = 0.375
+1. Byrne had the plum r                 ... pos = 0.0   	neg = 0.0  
+2. Byrne spent the whol                 ... pos = 0.0   	neg = 0.125
+3. He didn't have the B                 ... pos = 0.5   	neg = 0.0  
+4. Miller's Crossing di                 ... pos = 0.0   	neg = 0.0  
+5. (Personally, I like                  ... pos = 0.0   	neg = 0.0  
+6. ). The year was 1993                 ... pos = 0.5   	neg = 0.375
+7. Arquette played Alab                 ... pos = 0.0   	neg = 0.0  
+8. True Romance was the                 ... pos = 1.375 	neg = 0.25 
+9. True Romance is no P                 ... pos = 0.5   	neg = 0.875
+10. Hold on to these mem                ... pos = 0.25  	neg = 0.0  
+11. You'll need them if                 ... pos = 0.0   	neg = 0.125
+12. Arquette plays Frank                ... pos = 0.75  	neg = 0.0  
+13. Frankie is a twenty-                ... pos = 0.375 	neg = 0.25 
+14. She lives in the typ                ... pos = 0.25  	neg = 0.0  
+15. Arquette's mother (w                ... pos = 0.375 	neg = 0.125
+16. That evening, Arquet                ... pos = 0.125 	neg = 0.125
+17. Suddenly a dove flie                ... pos = 0.75  	neg = 0.0  
+18. And then, to the tun                ... pos = 0.25  	neg = 0.5  
+19. The shots of Arquett                ... pos = 1.125 	neg = 0.125
+20. (I count seven, but                 ... pos = 0.0   	neg = 0.125
+21. ). There are four su                ... pos = 0.5   	neg = 0.0  
+22. (She's wearing platf                ... pos = 0.25  	neg = 0.125
+23. )  After the second                 ... pos = 0.0   	neg = 0.0  
+24. Byrne's character, a                ... pos = 0.875 	neg = 0.125
+25. Or, if you like, he'                ... pos = 0.0   	neg = 0.0  
+26. His role is to inves                ... pos = 0.0   	neg = 0.625
+27. (One imagines him tr                ... pos = 0.625 	neg = 0.0  
+28. ). Anyway, Byrne rea                ... pos = 0.75  	neg = 0.0  
+29. He investigates brie                ... pos = 0.0   	neg = 0.0  
+30. However, after seein                ... pos = 0.25  	neg = 0.0  
+31. Things get even sill                ... pos = 0.0   	neg = 0.375
+32. And it gets even sil                ... pos = 0.0   	neg = 0.375
+33. The problem with Sti                ... pos = 0.375 	neg = 0.375
+34. There's a scene, lat                ... pos = 1.125 	neg = 0.125
+35. One almost expects A                ... pos = 0.0   	neg = 0.375
+36. "  But there's no le                ... pos = 0.125 	neg = 1.0  
+37. Stigmata is not a ba                ... pos = 0.0   	neg = 2.375
+38. But it's not good, e                ... pos = 0.75  	neg = 0.0  
+39. Stigmata is a trashy                ... pos = 0.5   	neg = 1.375
+40. It has a little, tin                ... pos = 0.5   	neg = 0.25 
+41. Movie Reviews: http:                ... pos = 0.0   	neg = 0.25 
+42. "     -- Governor Ge                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4863-1045 is Positive        ... pos = 13.75 	neg = 11.125
+Overall score of document
+Total Pos = 13.75
+Total Neg = 11.125
+---------------------------------------------------------------------------

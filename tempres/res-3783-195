@@ -1,0 +1,37 @@
+0. Ok, Woody, we get it                 ... pos = 0.0   	neg = 0.0  
+1. As sad as that is to                 ... pos = 0.25  	neg = 1.0  
+2. Perhaps a more blata                 ... pos = 0.0   	neg = 0.5  
+3. A year after the won                 ... pos = 2.75  	neg = 0.25 
+4. It's the story of Ha                 ... pos = 0.25  	neg = 0.125
+5. Those who knew him m                 ... pos = 0.875 	neg = 0.125
+6. Those most upset inc                 ... pos = 0.0   	neg = 0.25 
+7. The situation isn't                  ... pos = 0.0   	neg = 0.125
+8. But now Harry has be                 ... pos = 1.125 	neg = 0.875
+9. When it comes down t                 ... pos = 0.125 	neg = 0.5  
+10. Luckily, Allen does                 ... pos = 1.0   	neg = 0.375
+11. Even with the same s                ... pos = 0.875 	neg = 1.0  
+12. What makes this film                ... pos = 0.5   	neg = 0.375
+13. We flip back and for                ... pos = 0.875 	neg = 0.0  
+14. One minute we're wat                ... pos = 0.25  	neg = 0.125
+15. This, along with jus                ... pos = 1.5   	neg = 0.125
+16. If you're not an ext                ... pos = 0.25  	neg = 0.375
+17. If you're familiar w                ... pos = 0.875 	neg = 0.125
+18. The script is heavil                ... pos = 0.375 	neg = 0.875
+19. This would be more u                ... pos = 0.0   	neg = 1.625
+20. Such explicit dialog                ... pos = 0.875 	neg = 0.5  
+21. Just be aware.                      ... pos = 0.5   	neg = 0.125
+22. DECONSTRUCTING HARRY                ... pos = 0.0   	neg = 0.5  
+23. It's nothing new by                 ... pos = 0.375 	neg = 0.25 
+24. Allen really seems c                ... pos = 0.25  	neg = 0.625
+25. The large cast of hi                ... pos = 1.375 	neg = 0.25 
+26. Allen has never been                ... pos = 0.375 	neg = 0.125
+27. The only thing that                 ... pos = 0.875 	neg = 0.125
+28. In other words, a do                ... pos = 0.5   	neg = 0.25 
+29. DECONSTRUCTING HARRY                ... pos = 1.0   	neg = 0.5  
+30. Of course, well-pres                ... pos = 0.125 	neg = 2.028
+---------------------------------------------------------------------------
+./temp/tmp-3783-195 is Positive         ... pos = 18.125 	neg = 14.028
+Overall score of document
+Total Pos = 18.125
+Total Neg = 14.028
+---------------------------------------------------------------------------

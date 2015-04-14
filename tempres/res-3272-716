@@ -1,0 +1,29 @@
+0. As we near the end o                 ... pos = 1.25  	neg = 0.625
+1. Andrew Niccol, who h                 ... pos = 0.875 	neg = 0.125
+2. Vincent (Ethan Hawke                 ... pos = 0.375 	neg = 0.125
+3. Vincent, and others                  ... pos = 0.25  	neg = 0.0  
+4. " Discrimination aga                 ... pos = 0.125 	neg = 0.125
+5. The only way that he                 ... pos = 1.0   	neg = 0.25 
+6. An underground figur                 ... pos = 0.0   	neg = 0.125
+7. Jerome will supply V                 ... pos = 0.875 	neg = 0.0  
+8. Thematically, the mo                 ... pos = 0.583 	neg = 1.875
+9. However, there's als                 ... pos = 0.25  	neg = 0.125
+10. Vincent is surprised                ... pos = 0.75  	neg = 0.625
+11. Niccol also does a g                ... pos = 0.875 	neg = 0.0  
+12. The futuristic set d                ... pos = 0.5   	neg = 0.5  
+13. The technology is al                ... pos = 0.5   	neg = 0.25 
+14. GATTACA also manages                ... pos = 0.5   	neg = 0.125
+15. It keeps the science                ... pos = 1.125 	neg = 0.5  
+16. GATTACA does unfold                 ... pos = 1.25  	neg = 0.0  
+17. There's a long narra                ... pos = 0.125 	neg = 0.375
+18. A murder mystery is                 ... pos = 0.5   	neg = 0.5  
+19. There's also a sibli                ... pos = 0.75  	neg = 1.0  
+20. The triumphs of GATT                ... pos = 3.75  	neg = 0.375
+21. It would have been b                ... pos = 0.375 	neg = 0.25 
+22. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3272-716 is Positive         ... pos = 16.583 	neg = 7.875
+Overall score of document
+Total Pos = 16.583
+Total Neg = 7.875
+---------------------------------------------------------------------------

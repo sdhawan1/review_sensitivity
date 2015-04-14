@@ -1,0 +1,49 @@
+0. http://members.aol.c                 ... pos = 0.0   	neg = 0.125
+1. She is best known fo                 ... pos = 1.0   	neg = 0.375
+2. In Notting Hill, Rob                 ... pos = 0.75  	neg = 0.0  
+3. In a way, Roberts is                 ... pos = 0.25  	neg = 0.125
+4. William Thatcher, a                  ... pos = 0.0   	neg = 0.375
+5. He is faced with the                 ... pos = 0.25  	neg = 0.125
+6. William's entire lif                 ... pos = 0.375 	neg = 0.625
+7. Little do the both o                 ... pos = 0.125 	neg = 0.25 
+8. The two continue to                  ... pos = 1.0   	neg = 0.125
+9. >From here, we go in                 ... pos = 0.25  	neg = 0.0  
+10. The two are split up                ... pos = 0.625 	neg = 0.0  
+11. The exact same formu                ... pos = 0.375 	neg = 0.375
+12. Julia Roberts is ter                ... pos = 0.25  	neg = 0.25 
+13. Her character is als                ... pos = 1.0   	neg = 0.125
+14. She was a very inter                ... pos = 0.75  	neg = 0.375
+15. We got to learn that                ... pos = 0.0   	neg = 0.25 
+16. Anna is played by Ju                ... pos = 1.5   	neg = 0.125
+17. Hugh Grant has been                 ... pos = 1.0   	neg = 0.25 
+18. Notting Hill just di                ... pos = 0     	neg = 0.25 
+19. Look for Hugh Grant                 ... pos = 0.5   	neg = 0.5  
+20. There are two main p                ... pos = 0.25  	neg = 0.25 
+21. One of those problem                ... pos = 0.875 	neg = 0.5  
+22. The character is ver                ... pos = 1.375 	neg = 0.625
+23. Others in the theate                ... pos = 0.0   	neg = 0.625
+24. The second main prob                ... pos = 1.0   	neg = 0.25 
+25. We get to see a char                ... pos = 0.875 	neg = 0.5  
+26. I don't like it when                ... pos = 2.5   	neg = 0.625
+27. Roberts and Grant we                ... pos = 0.75  	neg = 0.0  
+28. The supporting perfo                ... pos = 0.375 	neg = 0.0  
+29. Gina McKee, who play                ... pos = 1.0   	neg = 0.0  
+30. Others who gave grea                ... pos = 0.0   	neg = 0.125
+31. All of these charact                ... pos = 0.375 	neg = 0.125
+32. Julia Roberts and Hu                ... pos = 1.125 	neg = 0.0  
+33. Their characters are                ... pos = 2.125 	neg = 0.0  
+34. In many romantic com                ... pos = 2.75  	neg = 0.0  
+35. Although their relat                ... pos = 1.75  	neg = 0.125
+36. Notting Hill has a g                ... pos = 0.0   	neg = 0.0  
+37. It shows that your l                ... pos = 0.125 	neg = 0.125
+38. William's life was c                ... pos = 0.125 	neg = 0.5  
+39. His family was also                 ... pos = 0.125 	neg = 0.375
+40. I think that the mor                ... pos = 1.0   	neg = 0.25 
+41. The Bottom Line- A r                ... pos = 0.5   	neg = 0.0  
+42. A huge brain..                      ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4594-864 is Positive         ... pos = 29.0  	neg = 9.75 
+Overall score of document
+Total Pos = 29.0
+Total Neg = 9.75
+---------------------------------------------------------------------------

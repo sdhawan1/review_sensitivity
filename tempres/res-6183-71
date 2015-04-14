@@ -1,0 +1,69 @@
+0. Visit Online Film Cr                 ... pos = 0.375 	neg = 0.125
+1. ". This is Al Pacino                 ... pos = 0.75  	neg = 0.125
+2. "  What he's talking                 ... pos = 0.75  	neg = 0.125
+3. What  we see is a we                 ... pos = 0.25  	neg = 0.375
+4. The content here doe                 ... pos = 0.125 	neg = 0.125
+5. There  are no serial                 ... pos = 0.25  	neg = 0.25 
+6. There are not even a                 ... pos = 0.25  	neg = 0.0  
+7. But in a similar way                 ... pos = 1.375 	neg = 0.0  
+8. Mann has chosen much                 ... pos = 1.25  	neg = 0.125
+9. Lowell Bergman is a                  ... pos = 0.375 	neg = 0.125
+10. The film's opening s                ... pos = 0.875 	neg = 0.0  
+11. Will the sheik  trus                ... pos = 1.0   	neg = 0.0  
+12. Yes.                                ... pos = 0     	neg = 0.0  
+13. We watch as the inte                ... pos = 0.25  	neg = 0.125
+14. Wallace's first ques                ... pos = 0.125 	neg = 0.125
+15. No beating  around t                ... pos = 0.5   	neg = 0.375
+16. Enter Dr. Jeffrey Wi                ... pos = 0.0   	neg = 0.0  
+17. It seems Wigand has                 ... pos = 0.5   	neg = 0.25 
+18. That he doesn't tell                ... pos = 0.875 	neg = 0.0  
+19. Wigand's wife seems                 ... pos = 0.0   	neg = 0.625
+20. So how does Wigand m                ... pos = 0.0   	neg = 0.0  
+21. As a corporate execu                ... pos = 0.5   	neg = 0.125
+22. Although this  piece                ... pos = 0.625 	neg = 0.25 
+23. Simply said, Wigand                 ... pos = 0.5   	neg = 0.0  
+24. Worse, tobacco  comp                ... pos = 0.875 	neg = 0.625
+25. Wigand's big problem                ... pos = 0.125 	neg = 0.5  
+26. Because of this, he                 ... pos = 0.0   	neg = 0.125
+27. Circumstances happen                ... pos = 0.0   	neg = 0.0  
+28. It seems he is being                ... pos = 0.75  	neg = 0.25 
+29. Bergman gets Wigand                 ... pos = 0.75  	neg = 0.125
+30. The complications su                ... pos = 0.25  	neg = 0.25 
+31. >From the start we s                ... pos = 0.5   	neg = 0.625
+32. Mann has a knack  ak                ... pos = 1.25  	neg = 0.0  
+33. Again, considering t                ... pos = 0.25  	neg = 0.625
+34. The result is a stor                ... pos = 0.0   	neg = 0.125
+35. There's  the story o                ... pos = 0.875 	neg = 0.0  
+36. Will he defy a Kentu                ... pos = 0.125 	neg = 0    
+37. What's equally rivet                ... pos = 0.25  	neg = 0.25 
+38. As Jeffrey Wigand, R                ... pos = 0.75  	neg = 0.125
+39. He carries about him                ... pos = 1.125 	neg = 0.375
+40. Apparently Crow gain                ... pos = 1.25  	neg = 1.125
+41. For  Crowe, look for                ... pos = 0.75  	neg = 0.375
+42. As Mike Wallace, Chr                ... pos = 0.0   	neg = 0.125
+43. His is an American a                ... pos = 0.0   	neg = 0.125
+44. Smart and compassion                ... pos = 0.25  	neg = 0.125
+45. In every scene he's                 ... pos = 0.0   	neg = 0.0  
+46. Viewers should make                 ... pos = 0.25  	neg = 0.375
+47. It opens and  closes                ... pos = 0.5   	neg = 0.125
+48. The best part of his                ... pos = 0.25  	neg = 0    
+49. He takes it personal                ... pos = 0.125 	neg = 0.25 
+50. Surprisingly, he's n                ... pos = 0.375 	neg = 0.0  
+51. In role after role,                 ... pos = 1.875 	neg = 0.0  
+52. One weakness lies in                ... pos = 0.0   	neg = 0.0  
+53. We see a muscular ma                ... pos = 0.125 	neg = 0.0  
+54. And there are the bo                ... pos = 0.25  	neg = 0.125
+55. Okay, we know  it's                 ... pos = 1.5   	neg = 0.125
+56. Further, what is thi                ... pos = 0.375 	neg = 0.75 
+57. "The Insider" will p                ... pos = 0.875 	neg = 0.0  
+58. The reason?                         ... pos = 0     	neg = 0.0  
+59. It's a thinking-pers                ... pos = 0.75  	neg = 0.75 
+60. It's also a darn goo                ... pos = 0.875 	neg = 0.0  
+61. Its acting is solid,                ... pos = 0.0   	neg = 0.125
+62. I'd recommend it for                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-6183-71 is Positive          ... pos = 29.75 	neg = 12.375
+Overall score of document
+Total Pos = 29.75
+Total Neg = 12.375
+---------------------------------------------------------------------------

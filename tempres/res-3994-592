@@ -1,0 +1,35 @@
+0. ---A copy of this re                 ... pos = 0.5   	neg = 0.125
+1. " Gary Shandling's c                 ... pos = 2.625 	neg = 0.25 
+2. A sleazy  banker has                 ... pos = 0.0   	neg = 0.0  
+3. Find this  funny?                    ... pos = 0.0   	neg = 0.0  
+4. So do I.                             ... pos = 0     	neg = 0.0  
+5. Some planet, "way th                 ... pos = 0.0   	neg = 1.25 
+6. (Now there's a new o                 ... pos = 0.375 	neg = 0    
+7. ) Agent 1449-6 (Gary                 ... pos = 0.125 	neg = 0.125
+8. (Another new one!                    ... pos = 0.375 	neg = 0.125
+9. ) Blending in won't                  ... pos = 0.125 	neg = 0.25 
+10. Yes, one of the keys                ... pos = 0.5   	neg = 0.125
+11. Anderson ultimately                 ... pos = 1.625 	neg = 0.625
+12. A. meeting.                         ... pos = 0.0   	neg = 0    
+13. There  is little sho                ... pos = 0.625 	neg = 1.125
+14. ". Because Anderson                 ... pos = 1.25  	neg = 0.25 
+15. This allows the film                ... pos = 0.5   	neg = 0.0  
+16. " (care of  American                ... pos = 0.0   	neg = 0.75 
+17. But the oftentimes o                ... pos = 1.0   	neg = 0.75 
+18. Like most alien-come                ... pos = 0.375 	neg = 1.125
+19. (EDITOR'S NOTE:  you                ... pos = 0.0   	neg = 0.0  
+20. ") Here the bad guy                 ... pos = 0.125 	neg = 2.0  
+21. When dealing with a                 ... pos = 0.5   	neg = 0.125
+22. Fine, aliens who tra                ... pos = 0.125 	neg = 0.125
+23. But some concepts ar                ... pos = 0.25  	neg = 0.0  
+24. Isn't  it odd that H                ... pos = 0.5   	neg = 0.25 
+25. What about the fact                 ... pos = 1.125 	neg = 0.0  
+26. And if Anderson took                ... pos = 0.0   	neg = 0.125
+27. So, to recap, Gandhi                ... pos = 0.25  	neg = 0.0  
+28. Don't let your hopes                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3994-592 is Positive         ... pos = 12.875 	neg = 9.625
+Overall score of document
+Total Pos = 12.875
+Total Neg = 9.625
+---------------------------------------------------------------------------

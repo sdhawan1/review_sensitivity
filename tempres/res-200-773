@@ -1,0 +1,19 @@
+0. Most of "Being John                  ... pos = 0.0   	neg = 0.125
+1. The premise itself i                 ... pos = 0.375 	neg = 0.25 
+2. There he discovers a                 ... pos = 0.625 	neg = 0.0  
+3. Catherine Keener ("L                 ... pos = 0.75  	neg = 0.125
+4. Cameron Diaz, transf                 ... pos = 1.5   	neg = 0.125
+5. Orson Bean is the ow                 ... pos = 0.125 	neg = 1.0  
+6. And Malkovich is Mal                 ... pos = 0.0   	neg = 0.125
+7. Music video vet Spik                 ... pos = 0.75  	neg = 0.0  
+8. The acting suits the                 ... pos = 1.375 	neg = 0.25 
+9. And John Malkovich's                 ... pos = 0.25  	neg = 0.125
+10. The less you know ab                ... pos = 0.25  	neg = 0.0  
+11. Inspiration flags a                 ... pos = 0.0   	neg = 0.25 
+12. The movie raises a d                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-773 is Positive          ... pos = 7.25  	neg = 2.375
+Overall score of document
+Total Pos = 7.25
+Total Neg = 2.375
+---------------------------------------------------------------------------

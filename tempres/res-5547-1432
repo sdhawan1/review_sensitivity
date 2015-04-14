@@ -1,0 +1,29 @@
+0. McDonald's must be m                 ... pos = 1.0   	neg = 0.125
+1. Not only are they sh                 ... pos = 1.25  	neg = 0.5  
+2. Fortunately, I like                  ... pos = 0.625 	neg = 0.375
+3. In THE FIFTH ELEMENT                 ... pos = 0.625 	neg = 0.125
+4. Whether it's the cos                 ... pos = 0.25  	neg = 0.75 
+5. THE FIFTH ELEMENT st                 ... pos = 0.5   	neg = 0.5  
+6. Similarly, the rest                  ... pos = 0.125 	neg = 0.0  
+7. In fact it is so bas                 ... pos = 0.0   	neg = 0.75 
+8. It works, because hi                 ... pos = 1.125 	neg = 0.25 
+9. The cast he has asse                 ... pos = 0.125 	neg = 0.0  
+10. Bruce Willis reprise                ... pos = 0.0   	neg = 0.0  
+11. He has a chance meet                ... pos = 0.5   	neg = 0.0  
+12. Curiously, none of t                ... pos = 1.375 	neg = 0.0  
+13. ) even though they a                ... pos = 0.25  	neg = 0.0  
+14. The four characters                 ... pos = 1.75  	neg = 0.375
+15. Everyone is playing                 ... pos = 0.875 	neg = 0.125
+16. After two films abou                ... pos = 0.0   	neg = 0.5  
+17. If it's as surprisin                ... pos = 0.125 	neg = 0.125
+18. There are several re                ... pos = 1.0   	neg = 0.25 
+19. Could it be that stu                ... pos = 0.375 	neg = 0.25 
+20. The only drawback no                ... pos = 1.25  	neg = 0.125
+21. So just forget every                ... pos = 0.25  	neg = 0.0  
+22. And tell all your fr                ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5547-1432 is Positive        ... pos = 13.5  	neg = 5.125
+Overall score of document
+Total Pos = 13.5
+Total Neg = 5.125
+---------------------------------------------------------------------------

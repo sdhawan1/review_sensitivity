@@ -1,0 +1,14 @@
+0. No sooner do I lamen                 ... pos = 0.125 	neg = 0.25 
+1. (You can find the ti                 ... pos = 0.0   	neg = 0.0  
+2. Just when I least ex                 ... pos = 0.5   	neg = 0.25 
+3. "  It's been a  long                 ... pos = 0.0   	neg = 0.5  
+4. "  Woo came to Holly                 ... pos = 0.0   	neg = 0.0  
+5. All of these movies                  ... pos = 0.625 	neg = 0.0  
+6. I did not expect thi                 ... pos = 0.125 	neg = 0.125
+7. But I was wrong . .                  ... pos = 0     	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-3599-1265 is Negative        ... pos = 1.375 	neg = 2.0  
+Overall score of document
+Total Pos = 1.375
+Total Neg = 2.0
+---------------------------------------------------------------------------

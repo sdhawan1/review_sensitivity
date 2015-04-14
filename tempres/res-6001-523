@@ -1,0 +1,26 @@
+0. Mission Impossible i                 ... pos = 0.875 	neg = 1.125
+1. MISSION IMPOSSIBLE i                 ... pos = 0.0   	neg = 0.125
+2. What this movie does                 ... pos = 1.0   	neg = 1.625
+3. There are no stupid                  ... pos = 0.5   	neg = 0.75 
+4. The movie shows you                  ... pos = 0.125 	neg = 0.5  
+5. There is a wonderful                 ... pos = 0.75  	neg = 0.125
+6. Tom Cruise is talkin                 ... pos = 2.0   	neg = 0.75 
+7. The entire time he's                 ... pos = 0.875 	neg = 0.125
+8. The juxtaposition of                 ... pos = 1.25  	neg = 0.125
+9. However, I could hea                 ... pos = 0.625 	neg = 0.125
+10. Tom Cruise fits into                ... pos = 0.625 	neg = 0.0  
+11. He has a certain pre                ... pos = 0.75  	neg = 0.0  
+12. There is, as there a                ... pos = 1.25  	neg = 0.625
+13. One sequence in part                ... pos = 0.25  	neg = 0.125
+14. Hollywodd seems to h                ... pos = 1.25  	neg = 1.875
+15. Still, those "mistak                ... pos = 0.25  	neg = 0.0  
+16. The audience expects                ... pos = 0     	neg = 0.25 
+17. Distribution of this                ... pos = 0.0   	neg = 0.0  
+18. Microsoft may licens                ... pos = 0.0   	neg = 0.0  
+19. -- kreme@cerebus.kre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6001-523 is Positive         ... pos = 12.375 	neg = 8.25 
+Overall score of document
+Total Pos = 12.375
+Total Neg = 8.25
+---------------------------------------------------------------------------

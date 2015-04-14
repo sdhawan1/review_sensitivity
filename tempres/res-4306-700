@@ -1,0 +1,29 @@
+0. Release Date: May 1,                 ... pos = 3.125 	neg = 0.125
+1. In the morning I wil                 ... pos = 0.5   	neg = 0.125
+2. " And indeed he is,                  ... pos = 2.5   	neg = 0.125
+3. Undoubtedly not as g                 ... pos = 1.75  	neg = 0.375
+4. Valjean is our hero,                 ... pos = 1.25  	neg = 0.25 
+5. The benevolence disp                 ... pos = 2.25  	neg = 0.125
+6. Opposing him is the                  ... pos = 0.75  	neg = 0.125
+7. The few scenes when                  ... pos = 0.75  	neg = 0.0  
+8. Also of credibility                  ... pos = 0.625 	neg = 0.5  
+9. Her daughter Cosette                 ... pos = 1.0   	neg = 0.875
+10. The cast is very sol                ... pos = 0.5   	neg = 0.125
+11. The movie follows Va                ... pos = 0.125 	neg = 0.75 
+12. Breaking parole, how                ... pos = 0.125 	neg = 0.0  
+13. His life, quite the                 ... pos = 1.125 	neg = 0.25 
+14. Javert suspects the                 ... pos = 0.375 	neg = 0.25 
+15. It is then that Valj                ... pos = 0.0   	neg = 0.25 
+16. Unfortunately, Javer                ... pos = 0.0   	neg = 0.875
+17. In a time of the yea                ... pos = 1.125 	neg = 0.25 
+18. Its 140-minute runni                ... pos = 1.0   	neg = 0.75 
+19. At the midway point,                ... pos = 1.625 	neg = 1.125
+20. While the first half                ... pos = 1.25  	neg = 0.375
+21. Nevertheless, a very                ... pos = 0.75  	neg = 0.0  
+22. FINAL AWARD FOR "LES                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4306-700 is Positive         ... pos = 23.75 	neg = 7.625
+Overall score of document
+Total Pos = 23.75
+Total Neg = 7.625
+---------------------------------------------------------------------------

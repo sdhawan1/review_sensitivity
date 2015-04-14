@@ -1,0 +1,32 @@
+0. Starring James Van D                 ... pos = 0.0   	neg = 0.125
+1. I'll have to admit t                 ... pos = 0.0   	neg = 0.0  
+2. Having said that, I                  ... pos = 0.375 	neg = 0.25 
+3. So I wasn't real sur                 ... pos = 0.75  	neg = 0.0  
+4. The part that did su                 ... pos = 0.375 	neg = 0.125
+5. The fact that it inc                 ... pos = 0.0   	neg = 0.375
+6. But the supporting c                 ... pos = 1.75  	neg = 0.125
+7. The basic premise go                 ... pos = 0.0   	neg = 0.0  
+8. The movie is set in                  ... pos = 0.125 	neg = 0.125
+9. The town is crazy ov                 ... pos = 0.125 	neg = 0.75 
+10. to ever put a whistl                ... pos = 0.0   	neg = 0.0  
+11. Van Der Beek plays a                ... pos = 0.0   	neg = 0.75 
+12. Like all good formul                ... pos = 1.0   	neg = 0.375
+13. Coach and new starti                ... pos = 0.375 	neg = 0.125
+14. Thrown in for good m                ... pos = 0.75  	neg = 2.5  
+15. As I already alluded                ... pos = 0.75  	neg = 0.0  
+16. Voight is perfectly                 ... pos = 0.75  	neg = 0.125
+17. Van Der Beek, aside                 ... pos = 0.5   	neg = 0.75 
+18. Van Der Beek really                 ... pos = 0.0   	neg = 0.0  
+19. It is a credit as mu                ... pos = 0.875 	neg = 0.125
+20. If Van Der Beek's pe                ... pos = 1.125 	neg = 0.25 
+21. Let's face it Kevin                 ... pos = 0.25  	neg = 0.0  
+22. As long as Van Der B                ... pos = 0.0   	neg = 0.375
+23. The supporting cast                 ... pos = 1.125 	neg = 0.25 
+24. The interaction betw                ... pos = 0.375 	neg = 0.25 
+25. Add to that the perf                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3414-488 is Positive         ... pos = 11.75 	neg = 7.875
+Overall score of document
+Total Pos = 11.75
+Total Neg = 7.875
+---------------------------------------------------------------------------

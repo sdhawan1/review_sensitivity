@@ -1,0 +1,67 @@
+0. For the uninitiated:                 ... pos = 0.5   	neg = 0    
+1. Mutants,  according                  ... pos = 2.0   	neg = 0.125
+2. Professor Charles Xa                 ... pos = 0.0   	neg = 0.875
+3. Xavier's philosophic                 ... pos = 0.125 	neg = 0.125
+4. The X-Men were intro                 ... pos = 0.375 	neg = 0.125
+5. The new team prosper                 ... pos = 0.5   	neg = 0.0  
+6. Over the last twenty                 ... pos = 0.625 	neg = 0.875
+7. In adapting the comi                 ... pos = 1.25  	neg = 0.0  
+8. Wolverine (Hugh Jack                 ... pos = 0.5   	neg = 1.375
+9. Rogue (Anna  Paquin)                 ... pos = 0.0   	neg = 0.0  
+10. Cyclops (James  Mars                ... pos = 0.5   	neg = 0.0  
+11. Storm (Halle Berry)                 ... pos = 0.0   	neg = 0.5  
+12. Jean Grey (Famke Jan                ... pos = 0.25  	neg = 0.125
+13. The X-Men's arch-ene                ... pos = 0.0   	neg = 0.25 
+14. His Brotherhood is a                ... pos = 0.125 	neg = 0.5  
+15. Sabretooth (Tyler  M                ... pos = 0.0   	neg = 0.125
+16. Mystique (Rebecca Ro                ... pos = 0.0   	neg = 0.0  
+17. Here's the plot:  Se                ... pos = 0.0   	neg = 0.125
+18. This brings to a hea                ... pos = 0.0   	neg = 0.625
+19. In a seedy bar in th                ... pos = 0.0   	neg = 0.0  
+20. They hang together l                ... pos = 0.5   	neg = 0.875
+21. However, Cyclops  an                ... pos = 0.125 	neg = 0.5  
+22. But Magneto isn't do                ... pos = 0.25  	neg = 0.0  
+23. .                                   ... pos = 0     	neg = 0    
+24. .                                   ... pos = 0     	neg = 0    
+25. Although many cranky                ... pos = 1.25  	neg = 0.75 
+26. Consider how bloated                ... pos = 0.125 	neg = 0.75 
+27. It's easy to see why                ... pos = 0.75  	neg = 0.0  
+28. There just isn't eno                ... pos = 1.125 	neg = 0.0  
+29. The solution that di                ... pos = 1.0   	neg = 0.25 
+30. Not only does that t                ... pos = 0.25  	neg = 0.25 
+31. The script does miss                ... pos = 0.0   	neg = 0.0  
+32. Magneto has this big                ... pos = 0.25  	neg = 1.625
+33. The last scene confu                ... pos = 0.125 	neg = 0.0  
+34. Some of the humor wo                ... pos = 0.375 	neg = 0.0  
+35. Despite its flaws, "                ... pos = 0.875 	neg = 0.125
+36. Hayter's  script inc                ... pos = 0.5   	neg = 0.0  
+37. As in the comics, mu                ... pos = 0.875 	neg = 0.0  
+38. Another common Marve                ... pos = 0.875 	neg = 1.0  
+39. This is particularly                ... pos = 1.0   	neg = 0.25 
+40. "X-Men" is visually                 ... pos = 0.375 	neg = 0.125
+41. The special effects                 ... pos = 0.375 	neg = 0.5  
+42. Some of the sets wer                ... pos = 0.875 	neg = 0.625
+43. I wish the black  le                ... pos = 0.0   	neg = 0.5  
+44. The cast is lead by                 ... pos = 0.875 	neg = 0.125
+45. I wish that the scri                ... pos = 0.0   	neg = 0.875
+46. The bulk of the acti                ... pos = 0.0   	neg = 0.0  
+47. Jackman's Wolverine                 ... pos = 1.125 	neg = 0.25 
+48. Oscar-winner Paquin                 ... pos = 0.0   	neg = 0.875
+49. Any movie version of                ... pos = 0.375 	neg = 0.625
+50. Singer aims for a mi                ... pos = 0.0   	neg = 0.0  
+51. If you stand  outsid                ... pos = 0.625 	neg = 0.125
+52. I found it more fun                 ... pos = 0.75  	neg = 0.125
+53. And what about  all                 ... pos = 0.0   	neg = 0.0  
+54. As I watched, I  tri                ... pos = 0.0   	neg = 1.0  
+55. I concluded that I m                ... pos = 0.0   	neg = 1.25 
+56. "X-Men" may prove a                 ... pos = 0.0   	neg = 0.75 
+57. I had a great time,                 ... pos = 0.0   	neg = 0.0  
+58. I hope the effort pr                ... pos = 1.0   	neg = 0.0  
+59. (The cast of "X-Men"                ... pos = 0.5   	neg = 0.0  
+60. )  . Read my reviews                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4459-1265 is Positive        ... pos = 23.875 	neg = 19.875
+Overall score of document
+Total Pos = 23.875
+Total Neg = 19.875
+---------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+0. Written by: Wes Ande                 ... pos = 0.75  	neg = 0.0  
+1. He is a 15-year-old                  ... pos = 0.375 	neg = 0.125
+2. Manipulative, Max cl                 ... pos = 1.25  	neg = 0.25 
+3. Soon Max becomes rom                 ... pos = 0.25  	neg = 0.25 
+4. The depressed teen h                 ... pos = 0.5   	neg = 0.25 
+5. Opinion: I was hopin                 ... pos = 0.75  	neg = 0.375
+6. No problem.                          ... pos = 0     	neg = 0.5  
+7. RUSHMORE starts out                  ... pos = 0.875 	neg = 0.0  
+8. The acting is solid,                 ... pos = 1.125 	neg = 0.125
+9. But aside from some                  ... pos = 0.375 	neg = 0.0  
+10. When the novelty wea                ... pos = 1.125 	neg = 0.75 
+11. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1299-416 is Positive         ... pos = 7.375 	neg = 2.75 
+Overall score of document
+Total Pos = 7.375
+Total Neg = 2.75
+---------------------------------------------------------------------------

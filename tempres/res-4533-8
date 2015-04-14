@@ -1,0 +1,33 @@
+0. http://members.aol.c                 ... pos = 0.75  	neg = 0.125
+1. The film's trailers                  ... pos = 0.875 	neg = 0.875
+2. Unlike the 1963 adap                 ... pos = 0.875 	neg = 0.125
+3. The first adaption n                 ... pos = 0.875 	neg = 1.0  
+4. Nell Vance (Lili Tay                 ... pos = 1.0   	neg = 2.0  
+5. "  After one night a                 ... pos = 0.25  	neg = 0.25 
+6. As the film prepares                 ... pos = 0.25  	neg = 0.0  
+7. The $10 million sets                 ... pos = 0.875 	neg = 0.25 
+8. The screenplay, writ                 ... pos = 1.375 	neg = 0.375
+9. Sure we see plenty o                 ... pos = 0.375 	neg = 0.875
+10. The screenplay is pa                ... pos = 1.5   	neg = 1.0  
+11. I felt like I was wa                ... pos = 0.5   	neg = 0.125
+12. " There is an abunda                ... pos = 0.0   	neg = 0.75 
+13. Even I could make a                 ... pos = 0.25  	neg = 0.0  
+14. Nell is the only dev                ... pos = 1.125 	neg = 0.5  
+15. Nell decides to go t                ... pos = 0.25  	neg = 0.25 
+16. Lili Taylor pulls of                ... pos = 0.0   	neg = 1.25 
+17. Catherine Zeta-Jones                ... pos = 2.375 	neg = 0.75 
+18. Marrow and Owen Wils                ... pos = 0.25  	neg = 0.0  
+19. Liam Neeson, who has                ... pos = 0.125 	neg = 0.125
+20. In The Haunting, Nee                ... pos = 0.0   	neg = 0.375
+21. Marrow doesn't take                 ... pos = 1.0   	neg = 0.0  
+22. Neeson is used as th                ... pos = 0.625 	neg = 0.75 
+23. Although The Hauntin                ... pos = 2.625 	neg = 0.125
+24. The Haunting is susp                ... pos = 0.75  	neg = 0.375
+25. The Haunting gets th                ... pos = 0.375 	neg = 0.125
+26. The Bottom Line- Alt                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4533-8 is Positive           ... pos = 19.25 	neg = 12.625
+Overall score of document
+Total Pos = 19.25
+Total Neg = 12.625
+---------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+0. An early winner in 1                 ... pos = 0.25  	neg = 0.125
+1. Now, any film with M                 ... pos = 0.5   	neg = 0.25 
+2. It's ironic that Mel                 ... pos = 1.375 	neg = 0.125
+3. He stars as Porter (                 ... pos = 0.0   	neg = 0.0  
+4. Well, if you can cal                 ... pos = 0.0   	neg = 0.125
+5. Regardless, Porter i                 ... pos = 0.5   	neg = 1.875
+6. Don't forget, the tr                 ... pos = 0.25  	neg = 0.875
+7. And root for him we                  ... pos = 0.0   	neg = 0.0  
+8. Porter's voice-over                  ... pos = 0.0   	neg = 0.25 
+9. It's accompanied by                  ... pos = 0.125 	neg = 0.0  
+10. One of the great asp                ... pos = 0.5   	neg = 0.875
+11. They never say when                 ... pos = 0.0   	neg = 1.0  
+12. Anyway, fresh from b                ... pos = 0.625 	neg = 0.125
+13. Naturally, the doubl                ... pos = 0.125 	neg = 0.0  
+14. He gave it to "The O                ... pos = 0.0   	neg = 0    
+15. If he DID just hand                 ... pos = 0.5   	neg = 0.75 
+16. Director Brian Helge                ... pos = 0.5   	neg = 0.125
+17. There's a limited am                ... pos = 0.875 	neg = 0.0  
+18. One of the refugees                 ... pos = 0.0   	neg = 0.125
+19. She is gorgeous (exc                ... pos = 1.375 	neg = 1.0  
+20. Helgeland, who made                 ... pos = 0.0   	neg = 0.0  
+21. Confidential" in 199                ... pos = 0.0   	neg = 0.0  
+22. This is not a beauti                ... pos = 0.75  	neg = 0.875
+23. There is nothing gla                ... pos = 0.5   	neg = 0.75 
+24. Not since "Pulp Fict                ... pos = 0.75  	neg = 0.375
+25. Some other highlight                ... pos = 2.0   	neg = 0.0  
+26. Of course, the ancho                ... pos = 0.0   	neg = 0.125
+27. You gotta love the s                ... pos = 0.375 	neg = 0.625
+28. This film boasts a d                ... pos = 1.125 	neg = 0.0  
+29. Still, we're suppose                ... pos = 0.25  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-709-1158 is Positive         ... pos = 13.25 	neg = 11.25
+Overall score of document
+Total Pos = 13.25
+Total Neg = 11.25
+---------------------------------------------------------------------------

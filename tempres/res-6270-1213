@@ -1,0 +1,41 @@
+0. Running Time: 145 mi                 ... pos = 0.125 	neg = 0.0  
+1. That's because, of c                 ... pos = 0.75  	neg = 0.5  
+2. Sadly, although Paci                 ... pos = 0.75  	neg = 1.625
+3. Reeves plays hotshot                 ... pos = 0.0   	neg = 0.0  
+4. After successfully d                 ... pos = 0.5   	neg = 0.375
+5. Lomax accepts, unawa                 ... pos = 0.0   	neg = 0.5  
+6. Kevin's wife Mary An                 ... pos = 0.0   	neg = 1.25 
+7. It's then up to Kevi                 ... pos = 0.0   	neg = 1.25 
+8. The entire film is d                 ... pos = 0.5   	neg = 1.25 
+9. The acting, apart fr                 ... pos = 0.75  	neg = 0.25 
+10. Reeves is rubbish, w                ... pos = 0.0   	neg = 0.25 
+11. Sometimes, he even s                ... pos = 0.0   	neg = 0.5  
+12. And his face can't s                ... pos = 0.75  	neg = 0.0  
+13. Finally, all his lin                ... pos = 0.375 	neg = 0.0  
+14. Theron is marginally                ... pos = 0.125 	neg = 0.5  
+15. In fact, she is pret                ... pos = 0.125 	neg = 0.875
+16. It's up to Pacino, t                ... pos = 0.0   	neg = 0.0  
+17. He seems to be havin                ... pos = 1.125 	neg = 0.25 
+18. Sadly, as soon as he                ... pos = 0.0   	neg = 1.375
+19. Also, the supporting                ... pos = 0.75  	neg = 0.0  
+20. Even the god worship                ... pos = 1.75  	neg = 0.125
+21. Another problem with                ... pos = 0.125 	neg = 0.625
+22. The title, The Devil                ... pos = 0.5   	neg = 0.375
+23. But the bulk of the                 ... pos = 0.0   	neg = 0.625
+24. The problem, though,                ... pos = 0.625 	neg = 1.125
+25. The film should of m                ... pos = 0.125 	neg = 0.25 
+26. Apart from Pacino's                 ... pos = 0.125 	neg = 0.125
+27. And it is, amazingly                ... pos = 0.125 	neg = 0.375
+28. Usually, effects mak                ... pos = 0.0   	neg = 0.625
+29. They are subtle, act                ... pos = 0.875 	neg = 0.0  
+30. Sadly, there is some                ... pos = 0.75  	neg = 0.75 
+31. The Devils Advocate,                ... pos = 1.5   	neg = 1.25 
+32. As a vehicle for Pac                ... pos = 0.0   	neg = 0.0  
+33. As an entertaining h                ... pos = 1.75  	neg = 0.25 
+34. The Devils Advocate,                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6270-1213 is Negative        ... pos = 14.875 	neg = 17.75
+Overall score of document
+Total Pos = 14.875
+Total Neg = 17.75
+---------------------------------------------------------------------------

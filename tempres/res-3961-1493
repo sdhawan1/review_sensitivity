@@ -1,0 +1,34 @@
+0. Director: Shekhar Ka                 ... pos = 2.25  	neg = 0.5  
+1. It's bold, lavish, m                 ... pos = 1.5   	neg = 0.0  
+2. At the center of thi                 ... pos = 0.875 	neg = 0.125
+3. Cate Blanchett's per                 ... pos = 1.5   	neg = 0.75 
+4. I think it's such a                  ... pos = 0.75  	neg = 0.125
+5. She doesn't allow he                 ... pos = 2.875 	neg = 0.125
+6. She does it all with                 ... pos = 0.0   	neg = 0.875
+7. She's sympathetic ye                 ... pos = 0.25  	neg = 0    
+8. She's definitely a f                 ... pos = 0.5   	neg = 0.25 
+9. And she acts like th                 ... pos = 0.375 	neg = 0.75 
+10. Maybe the best scene                ... pos = 0.625 	neg = 1.625
+11. She's also the ancho                ... pos = 0.875 	neg = 0    
+12. The problem I think                 ... pos = 1.5   	neg = 0.5  
+13. I said it was fun to                ... pos = 0.625 	neg = 0.125
+14. Deceptions, beheadin                ... pos = 1.125 	neg = 0.25 
+15. For a lot of the fil                ... pos = 0.875 	neg = 0.375
+16. This biopic on Eliza                ... pos = 0.75  	neg = 0.25 
+17. Elizabeth claims the                ... pos = 1.0   	neg = 0.25 
+18. Equipped with many a                ... pos = 1.625 	neg = 2.125
+19. All this plays aroun                ... pos = 1.625 	neg = 1.125
+20. All the while, she h                ... pos = 0.25  	neg = 0.125
+21. That said, "Elizabet                ... pos = 0.0   	neg = 0.875
+22. The plot moves witho                ... pos = 0.625 	neg = 0.75 
+23. ), and b) is histori                ... pos = 0.5   	neg = 0.25 
+24. But despite this, "E                ... pos = 0.25  	neg = 0.125
+25. Confidential," if so                ... pos = 0.875 	neg = 0.25 
+26. And at the center is                ... pos = 1.625 	neg = 1.0  
+27. Homepage at: http://                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3961-1493 is Positive        ... pos = 25.625 	neg = 13.5 
+Overall score of document
+Total Pos = 25.625
+Total Neg = 13.5
+---------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+0. James Bond 007: The                  ... pos = 2.5   	neg = 1.875
+1. Bond.                                ... pos = 0.0   	neg = 0    
+2. James Bond.                          ... pos = 0.0   	neg = 0    
+3. In "The World is Not                 ... pos = 1.0   	neg = 0.75 
+4. Michael Apted takes                  ... pos = 0.125 	neg = 0.25 
+5. In this chapter of t                 ... pos = 0.625 	neg = 0.5  
+6. The challenge of pro                 ... pos = 0.25  	neg = 1.125
+7. Along the mission, B                 ... pos = 0.625 	neg = 1.25 
+8. Once again, Pierce B                 ... pos = 0.375 	neg = 0.0  
+9. Brosnan is fluently                  ... pos = 1.25  	neg = 0.375
+10. The majority of the                 ... pos = 0.25  	neg = 1.125
+11. The talent above Bro                ... pos = 0.5   	neg = 0.25 
+12. Sophie Marceau is su                ... pos = 2.875 	neg = 0.75 
+13. Her performance is t                ... pos = 0.75  	neg = 0.125
+14. On the other hand, w                ... pos = 0.0   	neg = 0.0  
+15. Where to begin?                     ... pos = 0     	neg = 0.0  
+16. Richards shows much                 ... pos = 1.125 	neg = 0.25 
+17. Where did she go wro                ... pos = 0     	neg = 0.75 
+18. To make it 100% clea                ... pos = 0.25  	neg = 0.0  
+19. The lines the screen                ... pos = 0.0   	neg = 0.875
+20. Christmas Jones.                    ... pos = 0     	neg = 0.0  
+21. And don't make any j                ... pos = 0.0   	neg = 0.25 
+22. "- but did she reall                ... pos = 0.375 	neg = 0.0  
+23. Girls in James Bond                 ... pos = 1.125 	neg = 0.125
+24. When she's on screen                ... pos = 0.0   	neg = 1.25 
+25. Although bad she may                ... pos = 1.625 	neg = 1.25 
+26. "The World is Not En                ... pos = 0.125 	neg = 0.375
+27. I've seen the majori                ... pos = 0.25  	neg = 0.125
+28. This nineteenth inst                ... pos = 0.75  	neg = 0.625
+29. Although similar to                 ... pos = 1.0   	neg = 0.125
+30. Judi Dench's charact                ... pos = 1.0   	neg = 0.375
+31. 007 can't be the onl                ... pos = 0.0   	neg = 0.125
+32. The major flaw with                 ... pos = 0.0   	neg = 0.125
+33. Although filled with                ... pos = 0.0   	neg = 0.25 
+34. Hints are given here                ... pos = 0.25  	neg = 0.375
+35. "The World is Not En                ... pos = 2.5   	neg = 0.25 
+36. As to why the writer                ... pos = 2.625 	neg = 0.125
+37. Although not a fact                 ... pos = 1.25  	neg = 1.25 
+38. ". The Bottom Line:                 ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3999-8 is Positive           ... pos = 25.875 	neg = 17.5 
+Overall score of document
+Total Pos = 25.875
+Total Neg = 17.5
+---------------------------------------------------------------------------

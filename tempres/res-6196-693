@@ -1,0 +1,36 @@
+0. All those who were o                 ... pos = 0.5   	neg = 0.25 
+1. And while this uproa                 ... pos = 1.0   	neg = 1.0  
+2. American Pie is the                  ... pos = 0.0   	neg = 0.125
+3. I must question the                  ... pos = 0.625 	neg = 0.0  
+4. The producers are ai                 ... pos = 0.25  	neg = 0.25 
+5. Some have even been                  ... pos = 0.125 	neg = 0.125
+6. American Pie was thr                 ... pos = 0.375 	neg = 0.875
+7. It is sick, perverse                 ... pos = 0.75  	neg = 0.25 
+8. American Pie is abou                 ... pos = 0.375 	neg = 0.375
+9. Jim (Jason Biggs), K                 ... pos = 1.25  	neg = 0.5  
+10. Jim inquires what it                ... pos = 0.625 	neg = 0.0  
+11. Of course, this prom                ... pos = 1.0   	neg = 0.0  
+12. There are many momen                ... pos = 0.625 	neg = 0.25 
+13. American Pie is a ha                ... pos = 0.0   	neg = 0.125
+14. I loved the young ca                ... pos = 0.5   	neg = 0.0  
+15. Consider the subject                ... pos = 0.625 	neg = 0.0  
+16. Biggs is more than e                ... pos = 1.25  	neg = 0.25 
+17. But in a teen-domina                ... pos = 1.25  	neg = 0.125
+18. Scenes in which the                 ... pos = 1.375 	neg = 0.125
+19. After Levy discovers                ... pos = 0.375 	neg = 0.125
+20. But I never used bak                ... pos = 0.0   	neg = 0.0  
+21. ' It is performances                ... pos = 1.25  	neg = 0.125
+22. There are some less-                ... pos = 0.25  	neg = 0.0  
+23. A bathroom incident                 ... pos = 0.0   	neg = 0.125
+24. If Weitz is planning                ... pos = 1.125 	neg = 1.0  
+25. Secondly, the charac                ... pos = 1.375 	neg = 0.125
+26. But at one point, in                ... pos = 1.875 	neg = 0.0  
+27. ' And so we realize                 ... pos = 0.25  	neg = 0.5  
+28. In it's own way.                    ... pos = 0.0   	neg = 0    
+29. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6196-693 is Positive         ... pos = 19.0  	neg = 6.625
+Overall score of document
+Total Pos = 19.0
+Total Neg = 6.625
+---------------------------------------------------------------------------

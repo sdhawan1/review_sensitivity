@@ -1,0 +1,72 @@
+0. *** (out of 4) Pleas                 ... pos = 0.5   	neg = 0.25 
+1. It's a parable witho                 ... pos = 0.125 	neg = 0    
+2. A metaphor without a                 ... pos = 0.0   	neg = 0    
+3. It's enjoyable and s                 ... pos = 0.625 	neg = 0.0  
+4. David (Tobey Maguire                 ... pos = 0.0   	neg = 0.625
+5. His greasy black hai                 ... pos = 0.125 	neg = 0.125
+6. He has clearly grown                 ... pos = 0.625 	neg = 0.125
+7. His sister Jennifer                  ... pos = 0.875 	neg = 0.0  
+8. Their fight results                  ... pos = 0.125 	neg = 0.0  
+9. Coincidentally, a my                 ... pos = 0.5   	neg = 0.0  
+10. The repairman is so                 ... pos = 0.25  	neg = 0.125
+11. David clicks the rem                ... pos = 0.0   	neg = 0    
+12. They are now trapped                ... pos = 0.875 	neg = 0.375
+13. David and Jennifer a                ... pos = 0.25  	neg = 0.0  
+14. David knows this uni                ... pos = 0.125 	neg = 0.25 
+15. Living in utopia and                ... pos = 0.0   	neg = 0.25 
+16. In contrast, Jennife                ... pos = 0.375 	neg = 0.125
+17. She accepts that the                ... pos = 0.125 	neg = 0.0  
+18. When she finally mak                ... pos = 0.125 	neg = 0.0  
+19. " When she gets bore                ... pos = 0.25  	neg = 0.625
+20. Her boyfriend had ne                ... pos = 0.0   	neg = 0.5  
+21. So when he experienc                ... pos = 1.125 	neg = 0.0  
+22. The next day he tell                ... pos = 0.125 	neg = 0.375
+23. The universe as the                 ... pos = 0.0   	neg = 0.0  
+24. Mr. Johnson (Jeff Da                ... pos = 0.125 	neg = 0.75 
+25. Firemen learn about                 ... pos = 0.0   	neg = 0.0  
+26. Students learn about                ... pos = 0.0   	neg = 0.0  
+27. Boys learn about gir                ... pos = 0.0   	neg = 0.0  
+28. With each revelation                ... pos = 0.375 	neg = 0    
+29. It seems as though m                ... pos = 1.0   	neg = 0.75 
+30. But after about half                ... pos = 0.0   	neg = 0.0  
+31. Some residents just                 ... pos = 0.375 	neg = 0.125
+32. They cling to their                 ... pos = 0.625 	neg = 0.0  
+33. Some people without                 ... pos = 0.125 	neg = 0.0  
+34. The movie hits its c                ... pos = 0.125 	neg = 0.0  
+35. Although I enjoyed t                ... pos = 0.5   	neg = 0.5  
+36. The only apparent le                ... pos = 0.375 	neg = 0.25 
+37. Lots of other lesson                ... pos = 0.0   	neg = 1.25 
+38. For example, it seem                ... pos = 0.5   	neg = 0.125
+39. If true, it would le                ... pos = 0.5   	neg = 0.625
+40. Later, an angry mob                 ... pos = 0.375 	neg = 0.0  
+41. The film now says th                ... pos = 0.625 	neg = 0.125
+42. It leads to a differ                ... pos = 0.625 	neg = 0.0  
+43. Still later in the f                ... pos = 0.125 	neg = 0    
+44. The film once again                 ... pos = 0.0   	neg = 0.25 
+45. (NOTE: Gary Ross res                ... pos = 0.0   	neg = 0.0  
+46. Nevertheless, that's                ... pos = 0.5   	neg = 0.0  
+47. ). I was also disapp                ... pos = 0.125 	neg = 0.125
+48. For example, when th                ... pos = 0.25  	neg = 0.125
+49. The film doesn't let                ... pos = 0.0   	neg = 0.0  
+50. It ignores the deep-                ... pos = 0.375 	neg = 0.0  
+51. Why weren't there an                ... pos = 0     	neg = 0.0  
+52. What if the last one                ... pos = 0.0   	neg = 0.125
+53. Would the new colorf                ... pos = 0.375 	neg = 0.0  
+54. Finally, Ross let th                ... pos = 0.0   	neg = 0.0  
+55. Conventional storyte                ... pos = 0.375 	neg = 0.0  
+56. Utopia is too boring                ... pos = 1.0   	neg = 1.125
+57. Yet by the end of th                ... pos = 0.25  	neg = 0.125
+58. A little turmoil in                 ... pos = 0.5   	neg = 0.25 
+59. (Even more unconvent                ... pos = 0.0   	neg = 0.25 
+60. ). Both before and d                ... pos = 0.5   	neg = 0.25 
+61. But it turns out my                 ... pos = 0.0   	neg = 0.375
+62. I saw that Ross was                 ... pos = 0.5   	neg = 0.75 
+63. Still, I did enjoy i                ... pos = 0.375 	neg = 0.125
+64. That still lets me r                ... pos = 0.0   	neg = 0.0  
+65. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1978-1008 is Positive        ... pos = 18.625 	neg = 12.125
+Overall score of document
+Total Pos = 18.625
+Total Neg = 12.125
+---------------------------------------------------------------------------

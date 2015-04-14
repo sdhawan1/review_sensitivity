@@ -1,0 +1,31 @@
+0. STARRING:  Brad Pitt                 ... pos = 0.125 	neg = 0.25 
+1. While Fincher's film                 ... pos = 1.625 	neg = 0.125
+2. Jack (Norton, acting                 ... pos = 0.875 	neg = 1.0  
+3. On the offhand advic                 ... pos = 0.0   	neg = 0.375
+4. Here he meets Bob (M                 ... pos = 0.625 	neg = 0.0  
+5. Strangely, the relea                 ... pos = 1.375 	neg = 0.0  
+6. Later, he meets Tyle                 ... pos = 0.25  	neg = 0.0  
+7. One night, after his                 ... pos = 0.0   	neg = 0.0  
+8. ), he is goaded by T                 ... pos = 0.875 	neg = 0.125
+9. It is pure, raw exis                 ... pos = 0.875 	neg = 0.75 
+10. He moves into Tyler'                ... pos = 0.875 	neg = 0.0  
+11. "  Armed with charis                ... pos = 1.0   	neg = 0.0  
+12. Resentment creeps in                ... pos = 0.5   	neg = 1.5  
+13. Funded by a frivolou                ... pos = 0.125 	neg = 0.0  
+14. Their initially juve                ... pos = 0.75  	neg = 0.125
+15. It is after this poi                ... pos = 0.375 	neg = 0.375
+16. It is so contrived--                ... pos = 0.75  	neg = 0.125
+17. It's a major (though                ... pos = 0.0   	neg = 0.375
+18. Fight Club is going                 ... pos = 0.0   	neg = 0.25 
+19. In the early going,                 ... pos = 2.625 	neg = 0.375
+20. I'll be mightily sur                ... pos = 0.875 	neg = 0.25 
+21. They needn't bother,                ... pos = 0.125 	neg = 0.625
+22. Tyler Durden, for al                ... pos = 0.625 	neg = 0.375
+23. In this context, the                ... pos = 1.375 	neg = 0.5  
+24. Hopefully, though, t                ... pos = 0.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3869-1184 is Positive        ... pos = 17.125 	neg = 7.875
+Overall score of document
+Total Pos = 17.125
+Total Neg = 7.875
+---------------------------------------------------------------------------

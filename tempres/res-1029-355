@@ -1,0 +1,38 @@
+0. A review from the  S                 ... pos = 0.25  	neg = 0.875
+1. He invents things, t                 ... pos = 0.0   	neg = 0.625
+2. The  problem for the                 ... pos = 0.125 	neg = 0.5  
+3. When the grasshopper                 ... pos = 0.0   	neg = 0.25 
+4. The colony is led by                 ... pos = 0.375 	neg = 0.125
+5. While Atta and her s                 ... pos = 0.625 	neg = 0.125
+6. The colony are glad                  ... pos = 1.375 	neg = 0.125
+7. On his journey, Flik                 ... pos = 0.375 	neg = 0.625
+8. The troupe think tha                 ... pos = 0.0   	neg = 0.125
+9. John Lasseter and An                 ... pos = 2.625 	neg = 0.0  
+10. This time, the relea                ... pos = 0.875 	neg = 0    
+11. And while both movie                ... pos = 1.0   	neg = 0.0  
+12. A Bug's Life is a fa                ... pos = 0.25  	neg = 0.5  
+13. The animation  is br                ... pos = 0.75  	neg = 0.5  
+14. Most of the characte                ... pos = 3.25  	neg = 0.0  
+15. Much of the humour i                ... pos = 0.75  	neg = 1.5  
+16. Funnily enough, it i                ... pos = 0.375 	neg = 0.25 
+17. Like Toy Story, a  n                ... pos = 1.25  	neg = 0.0  
+18. However,  the series                ... pos = 0.5   	neg = 0.0  
+19. Moreover,  their per                ... pos = 0.625 	neg = 0.125
+20. Therefore Hyde Pierc                ... pos = 0.125 	neg = 0.625
+21. The problem is, they                ... pos = 0.25  	neg = 0.375
+22. Louis-Dreyfus is par                ... pos = 0     	neg = 0.25 
+23. This is due, in no s                ... pos = 0.375 	neg = 0.125
+24. It is rather  bland,                ... pos = 2.25  	neg = 1.5  
+25. Don't get me wrong -                ... pos = 0.25  	neg = 1.25 
+26. But the animation is                ... pos = 0.375 	neg = 0.125
+27. There were scenes in                ... pos = 0.0   	neg = 1.0  
+28. But maybe that is  n                ... pos = 0     	neg = 1.0  
+29. It is also a rather                 ... pos = 1.125 	neg = 0.125
+30. However, before you,                ... pos = 0.75  	neg = 0.125
+31. It is the wittiest p                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1029-355 is Positive         ... pos = 21.375 	neg = 12.875
+Overall score of document
+Total Pos = 21.375
+Total Neg = 12.875
+---------------------------------------------------------------------------

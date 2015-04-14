@@ -1,0 +1,26 @@
+0. Back in the '70s, wh                 ... pos = 0.375 	neg = 0.25 
+1. That was then, this                  ... pos = 0.0   	neg = 0.25 
+2. Still, a lot of this                 ... pos = 0.5   	neg = 0.375
+3. Two Marine colonels,                 ... pos = 0.0   	neg = 0.125
+4. Hodges sustained the                 ... pos = 0.0   	neg = 0.625
+5. Then comes Yemen.                    ... pos = 0.0   	neg = 0.0  
+6. A protest outside th                 ... pos = 0.0   	neg = 0.375
+7. )  Childers evacuate                 ... pos = 0.125 	neg = 0.625
+8. 83 are killed, inclu                 ... pos = 0.25  	neg = 0.0  
+9. No weapons are found                 ... pos = 0.25  	neg = 0.25 
+10. Childers finds himse                ... pos = 0.0   	neg = 0    
+11. Of course he turns t                ... pos = 1.0   	neg = 0.375
+12. ")      What "Rules"                ... pos = 2.25  	neg = 1.0  
+13. The courtroom stuff                 ... pos = 2.125 	neg = 1.167
+14. But the story is gen                ... pos = 1.25  	neg = 0.375
+15. It is revealed that                 ... pos = 1.625 	neg = 1.0  
+16. Pearce tries on a Br                ... pos = 0.0   	neg = 0.5  
+17. Bruce Greenwood's vi                ... pos = 0.444 	neg = 0.5  
+18. Whether a man is hai                ... pos = 0.5   	neg = 0.5  
+19. And sometimes not so                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1213-773 is Positive         ... pos = 10.694 	neg = 8.292
+Overall score of document
+Total Pos = 10.694
+Total Neg = 8.292
+---------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+0. Starring Tim Allen,                  ... pos = 0.0   	neg = 0.0  
+1. Directed by Dean Par                 ... pos = 0.0   	neg = 0    
+2. Rated PG.                            ... pos = 0.125 	neg = 0    
+3. You'd think it would                 ... pos = 0.25  	neg = 0.75 
+4. That's a bit more di                 ... pos = 0.0   	neg = 0    
+5. The farfetched sci-f                 ... pos = 0.75  	neg = 0.125
+6. If you're not nice t                 ... pos = 0.0   	neg = 0.0  
+7. Galaxy Quest is to S                 ... pos = 1.25  	neg = 0.375
+8. "The show's been can                 ... pos = 0.0   	neg = 0.25 
+9. " That is the curren                 ... pos = 0.125 	neg = 0.125
+10. It also lives on in                 ... pos = 0.25  	neg = 0.125
+11. Jason Nesmith (Tim A                ... pos = 0.25  	neg = 0.125
+12. The attitudes of the                ... pos = 0.125 	neg = 0.0  
+13. Dane, who played a S                ... pos = 0.125 	neg = 1.5  
+14. One day, Nesmith is                 ... pos = 0.5   	neg = 0.125
+15. They are actually al                ... pos = 0.25  	neg = 0.0  
+16. They have mistaken t                ... pos = 0.125 	neg = 0.0  
+17. The next day, the Th                ... pos = 0.0   	neg = 0.75 
+18. Nesmith thinks it is                ... pos = 0.75  	neg = 1.25 
+19. Next thing the cast                 ... pos = 0.5   	neg = 0.25 
+20. Of course, they all                 ... pos = 0.25  	neg = 0.5  
+21. But after some persu                ... pos = 0.25  	neg = 0.875
+22. I was quite surprise                ... pos = 0.125 	neg = 1.0  
+23. Taking shots at both                ... pos = 0.0   	neg = 0.625
+24. Nothing is safe -- n                ... pos = 1.875 	neg = 0.5  
+25. The highlight of the                ... pos = 0.125 	neg = 0.125
+26. Tech Sergeant Chen w                ... pos = 0.875 	neg = 0.25 
+27. While Scotty, who wa                ... pos = 0.125 	neg = 0.25 
+28. ", Chen's cry for he                ... pos = 0.25  	neg = 0.125
+29. " It's a hoot, but i                ... pos = 0.875 	neg = 0.0  
+30. Galaxy Quest succeed                ... pos = 2.375 	neg = 0.125
+31. By Grabthar's hammer                ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5750-563 is Positive         ... pos = 12.5  	neg = 10.75
+Overall score of document
+Total Pos = 12.5
+Total Neg = 10.75
+---------------------------------------------------------------------------

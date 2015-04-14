@@ -1,0 +1,47 @@
+0. Starring Edward Nort                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. Pre-releas                 ... pos = 0.125 	neg = 0.125
+2. Take two recent film                 ... pos = 0.25  	neg = 0.0  
+3. Both were hyped trem                 ... pos = 0.0   	neg = 0.375
+4. Well, all I can say                  ... pos = 0.0   	neg = 0.125
+5. Blair Witch, contrar                 ... pos = 0.0   	neg = 0.25 
+6. It is exceedingly di                 ... pos = 0.625 	neg = 0.25 
+7. I'll wind up describ                 ... pos = 0.25  	neg = 0.625
+8. Consider yourself wa                 ... pos = 0.125 	neg = 0.5  
+9. Ś For those of y'al                 ... pos = 0.0   	neg = 0.0  
+10. We meet Jack (Edward                ... pos = 0.0   	neg = 0.125
+11. Jack is a troubled s                ... pos = 0.375 	neg = 0.125
+12. He is hampered by hi                ... pos = 0.0   	neg = 1.375
+13. Everything changes i                ... pos = 0.0   	neg = 0.0  
+14. On a plane he meets                 ... pos = 0.0   	neg = 0.0  
+15. When he returns to h                ... pos = 0.0   	neg = 0.0  
+16. How no one seems to                 ... pos = 0.0   	neg = 0.375
+17. For some reason, he                 ... pos = 0.375 	neg = 0.0  
+18. In the parking lot o                ... pos = 0.125 	neg = 0.75 
+19. This leads to a figh                ... pos = 0.0   	neg = 0    
+20. Before Jack knows it                ... pos = 0.0   	neg = 0.0  
+21. opressed by society)                ... pos = 0.375 	neg = 0.25 
+22. Jack and Tyler make                 ... pos = 0.5   	neg = 0.0  
+23. Before long, the fig                ... pos = 0.0   	neg = 0.5  
+24. Jack wants out, but                 ... pos = 0.125 	neg = 0.375
+25. My main problem with                ... pos = 1.375 	neg = 0.625
+26. It's alleged message                ... pos = 0.0   	neg = 0.625
+27. In fact, what this f                ... pos = 0.75  	neg = 0.125
+28. Is the movie glorify                ... pos = 0.0   	neg = 0.125
+29. Just because the fil                ... pos = 0.0   	neg = 1.0  
+30. But to be worthwhile                ... pos = 0.625 	neg = 0.25 
+31. It's a diverting one                ... pos = 0.75  	neg = 0.0  
+32. Plot elements make n                ... pos = 0.0   	neg = 0.125
+33. There is a similarit                ... pos = 0.375 	neg = 0.625
+34. One thing I can whol                ... pos = 1.25  	neg = 0.125
+35. Edward Norton once a                ... pos = 0.5   	neg = 0.0  
+36. Brad Pitt, at last,                 ... pos = 0.125 	neg = 0.0  
+37. I've never liked the                ... pos = 1.25  	neg = 0.5  
+38. Here, he is effectiv                ... pos = 1.125 	neg = 1.5  
+39. This is an engrossin                ... pos = 0.625 	neg = 0.125
+40. But you can show me                 ... pos = 0.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-3869-563 is Negative         ... pos = 12.0  	neg = 12.75
+Overall score of document
+Total Pos = 12.0
+Total Neg = 12.75
+---------------------------------------------------------------------------

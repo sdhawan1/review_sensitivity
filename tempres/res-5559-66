@@ -1,0 +1,28 @@
+0. _Soldier_ is hands d                 ... pos = 0.0   	neg = 1.375
+1. I could liken it to                  ... pos = 0.125 	neg = 0.5  
+2. If there is a movie                  ... pos = 0.375 	neg = 0.75 
+3. The story, such that                 ... pos = 0.875 	neg = 0.5  
+4. ) After years of des                 ... pos = 0.125 	neg = 0.0  
+5. Who the enemies in t                 ... pos = 0.625 	neg = 1.0  
+6. After ten minutes of                 ... pos = 0.0   	neg = 0.625
+7. There's a new wrinkl                 ... pos = 0.375 	neg = 0.0  
+8. Todd and his brethre                 ... pos = 0.75  	neg = 0.0  
+9. After losing a sanct                 ... pos = 0.5   	neg = 0.25 
+10. If you predict that                 ... pos = 0.375 	neg = 0.875
+11. The renegade society                ... pos = 0.0   	neg = 0.25 
+12. It's surprising that                ... pos = 0.125 	neg = 0.125
+13. Unlike that mind-twi                ... pos = 0.875 	neg = 0.0  
+14. Add into the mix the                ... pos = 0.25  	neg = 1.75 
+15. And the special effe                ... pos = 0.0   	neg = 0    
+16. Remember the flying                 ... pos = 0.125 	neg = 0.0  
+17. Gary Busey is in thi                ... pos = 0.0   	neg = 0.125
+18. 'Nuff said.                         ... pos = 0     	neg = 0.0  
+19. _Soldier_ is proof t                ... pos = 0.0   	neg = 1.0  
+20. That this sad film m                ... pos = 0.375 	neg = 0.875
+21. Now if you'll excuse                ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-5559-66 is Negative          ... pos = 5.875 	neg = 10.75
+Overall score of document
+Total Pos = 5.875
+Total Neg = 10.75
+---------------------------------------------------------------------------

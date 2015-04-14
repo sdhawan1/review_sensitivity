@@ -1,0 +1,24 @@
+0. Release Date: March                  ... pos = 0.25  	neg = 0.75 
+1. It lies in that conf                 ... pos = 0.5   	neg = 0.75 
+2. However, this tiny s                 ... pos = 0.25  	neg = 0.375
+3. And so the wave of t                 ... pos = 0.0   	neg = 0.75 
+4. The plot is similarl                 ... pos = 0.75  	neg = 0.5  
+5. The fast-paced feeli                 ... pos = 0.0   	neg = 1.375
+6. The three writers in                 ... pos = 0.375 	neg = 0.875
+7. Of course, with a li                 ... pos = 0.375 	neg = 0.375
+8. In quick succession,                 ... pos = 1.0   	neg = 0.0  
+9. Protagonists Julie (                 ... pos = 0.375 	neg = 0.0  
+10. The man says: help u                ... pos = 0.25  	neg = 0.375
+11. All does not go as p                ... pos = 0.125 	neg = 0.75 
+12. It takes some time f                ... pos = 0.25  	neg = 0.0  
+13. Most of the script i                ... pos = 1.125 	neg = 1.125
+14. But when all is said                ... pos = 0.0   	neg = 0.125
+15. So instead director                 ... pos = 1.0   	neg = 0.5  
+16. Unfortunately the ac                ... pos = 0.375 	neg = 1.375
+17. It is possible to ha                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5846-700 is Negative         ... pos = 7.125 	neg = 10.125
+Overall score of document
+Total Pos = 7.125
+Total Neg = 10.125
+---------------------------------------------------------------------------

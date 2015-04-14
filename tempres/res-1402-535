@@ -1,0 +1,49 @@
+0. If there is one thin                 ... pos = 0.625 	neg = 0.875
+1. According to most Ho                 ... pos = 0.75  	neg = 0.125
+2. Either the past can                  ... pos = 0.5   	neg = 0.875
+3. "Frequency", the new                 ... pos = 1.875 	neg = 0.75 
+4. For example, we get                  ... pos = 0.875 	neg = 0.0  
+5. However, "Frequency"                 ... pos = 0.125 	neg = 0.25 
+6. You'll have to decid                 ... pos = 0.75  	neg = 0.125
+7. John Sullivan (James                 ... pos = 0.0   	neg = 1.25 
+8. One evening, while d                 ... pos = 0.25  	neg = 0.25 
+9. John turns it on and                 ... pos = 0.0   	neg = 0.625
+10. While the two are, a                ... pos = 0.75  	neg = 0.0  
+11. John finds that he m                ... pos = 0.375 	neg = 0.625
+12. While John does mana                ... pos = 0.0   	neg = 0.0  
+13. For all you fanatica                ... pos = 1.125 	neg = 0.5  
+14. The ham radio being                 ... pos = 0.5   	neg = 0.125
+15. The time paradox, wh                ... pos = 0.125 	neg = 0.25 
+16. A time paradox would                ... pos = 0.125 	neg = 0.375
+17. In other words, this                ... pos = 0.125 	neg = 0.125
+18. This is why I person                ... pos = 0.75  	neg = 0.125
+19. Besides, you'll be h                ... pos = 0.25  	neg = 0.875
+20. The nice thing about                ... pos = 1.0   	neg = 0.5  
+21. Afterall, last year'                ... pos = 0.0   	neg = 0.375
+22. This isn't to say th                ... pos = 0.75  	neg = 0.25 
+23. James Caviezel ("The                ... pos = 1.5   	neg = 0.0  
+24. Dennis Quaid ("Drago                ... pos = 0.625 	neg = 0.25 
+25. Of course, the actor                ... pos = 1.5   	neg = 0.25 
+26. Great lines like "I                 ... pos = 0.25  	neg = 0.125
+27. In addition to the n                ... pos = 0.0   	neg = 0.0  
+28. Gregory Hoblit's dir                ... pos = 0.125 	neg = 1.0  
+29. The soundtrack nicel                ... pos = 1.75  	neg = 0.25 
+30. "Frequency" is one o                ... pos = 1.0   	neg = 0.625
+31. While there may be v                ... pos = 0.0   	neg = 0.25 
+32. It's about a man abl                ... pos = 0.125 	neg = 0.0  
+33. "Frequency" is a goo                ... pos = 1.5   	neg = 0.875
+34. The film runs 117 mi                ... pos = 0.0   	neg = 0.625
+35. I'd recommend it to                 ... pos = 0.0   	neg = 0.0  
+36. Comments?                           ... pos = 0     	neg = 0.0  
+37. Feel free to e-mail                 ... pos = 0.5   	neg = 0.25 
+38. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+39. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+40. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+41. * - One of the worst                ... pos = 0.0   	neg = 0.375
+42. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1402-535 is Positive         ... pos = 20.875 	neg = 15.5 
+Overall score of document
+Total Pos = 20.875
+Total Neg = 15.5
+---------------------------------------------------------------------------

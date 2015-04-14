@@ -1,0 +1,27 @@
+0. rated R starring Jen                 ... pos = 1.0   	neg = 0.25 
+1. But even if EXISTENZ                 ... pos = 0.875 	neg = 0.375
+2. To give away too muc                 ... pos = 0.25  	neg = 0.375
+3. Jennifer Jason Leigh                 ... pos = 0.125 	neg = 0.0  
+4. I didn't think so),                  ... pos = 0.5   	neg = 0.125
+5. A group of people ha                 ... pos = 0.875 	neg = 0.125
+6. The meeting turns in                 ... pos = 0.0   	neg = 0.125
+7. The game of eXistenZ                 ... pos = 0.75  	neg = 0.125
+8. In eXistenZ, you are                 ... pos = 1.5   	neg = 0.0  
+9. THE MATRIX made a si                 ... pos = 1.0   	neg = 0.0  
+10. EXISTENZ ends up pla                ... pos = 0.25  	neg = 1.25 
+11. While EXISTENZ is no                ... pos = 0.625 	neg = 0.25 
+12. 1999 is turning out                 ... pos = 0.0   	neg = 0.25 
+13. I am definitely not                 ... pos = 0.875 	neg = 0.625
+14. EXISTENZ not only ma                ... pos = 0.125 	neg = 0.125
+15. ) CRASH.                            ... pos = 0     	neg = 0.0  
+16. The Canadian filmmak                ... pos = 1.25  	neg = 0.125
+17. EXISTENZ is one of h                ... pos = 0.875 	neg = 0.125
+18. Also, Ian Holm and S                ... pos = 1.125 	neg = 0.0  
+19. EXISTENZ is not a pe                ... pos = 0.625 	neg = 0.25 
+20. a review by Akiva Go                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-664-421 is Positive          ... pos = 12.75 	neg = 4.625
+Overall score of document
+Total Pos = 12.75
+Total Neg = 4.625
+---------------------------------------------------------------------------

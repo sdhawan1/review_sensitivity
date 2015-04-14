@@ -1,0 +1,36 @@
+0. After watching this                  ... pos = 0.5   	neg = 0.25 
+1. Looking back on this                 ... pos = 0.0   	neg = 0.125
+2. Ronin are samurai wh                 ... pos = 0.25  	neg = 0.25 
+3. Modern Ronin appear                  ... pos = 0.375 	neg = 0.625
+4. Therefore, they choo                 ... pos = 0.0   	neg = 0.0  
+5. Five such men are hi                 ... pos = 0.25  	neg = 0.0  
+6. They are hired to st                 ... pos = 0.25  	neg = 0.0  
+7. The plan hardly goes                 ... pos = 0.0   	neg = 0.625
+8. One of them grabs th                 ... pos = 0.125 	neg = 0.0  
+9. The remaining men, l                 ... pos = 0.0   	neg = 0.0  
+10. Let me say right now                ... pos = 0.75  	neg = 0.0  
+11. It sounds like so ma                ... pos = 0.125 	neg = 0.0  
+12. However, there is so                ... pos = 1.0   	neg = 0.125
+13. More enthralling.                   ... pos = 0.0   	neg = 0.0  
+14. I'm sure part of the                ... pos = 1.5   	neg = 0.125
+15. There is nothing eve                ... pos = 1.75  	neg = 0.375
+16. It makes these men m                ... pos = 0.5   	neg = 0    
+17. A lot of things are                 ... pos = 0.5   	neg = 0.625
+18. Also worth noting, S                ... pos = 0.875 	neg = 0.5  
+19. So, a few pointless                 ... pos = 0.5   	neg = 0.625
+20. For some great actio                ... pos = 1.25  	neg = 0.0  
+21. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+22. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+23. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+24. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+25. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+26. See it if you've got                ... pos = 0.0   	neg = 0.25 
+27. * - One of the worst                ... pos = 0.0   	neg = 0.375
+28. See it only if you e                ... pos = 0.375 	neg = 0.0  
+29. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5519-535 is Positive         ... pos = 11.75 	neg = 6.0  
+Overall score of document
+Total Pos = 11.75
+Total Neg = 6.0
+---------------------------------------------------------------------------

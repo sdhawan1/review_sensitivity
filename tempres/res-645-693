@@ -1,0 +1,28 @@
+0. `The Talented Mr. Ri                 ... pos = 0.0   	neg = 0.125
+1. In his follow-up to                  ... pos = 1.125 	neg = 0.625
+2. If he were still ali                 ... pos = 1.5   	neg = 0.375
+3. The film is based on                 ... pos = 2.25  	neg = 0.25 
+4. In Minghella's versi                 ... pos = 0.0   	neg = 0.0  
+5. Although I haven't r                 ... pos = 0.75  	neg = 0.875
+6. This approach opens                  ... pos = 3.5   	neg = 0.625
+7. Ripley, a curious dr                 ... pos = 0.0   	neg = 0.5  
+8. Once he arrives at h                 ... pos = 0.625 	neg = 0.125
+9. It is safe to say To                 ... pos = 0.5   	neg = 0.25 
+10. And that brings us t                ... pos = 0.125 	neg = 0.625
+11. '. `The Talented Mr.                ... pos = 1.0   	neg = 1.0  
+12. Minghella's film is,                ... pos = 1.375 	neg = 0.125
+13. Taking a page from H                ... pos = 2.5   	neg = 0.25 
+14. Jude Law (`eXistenZ'                ... pos = 0.875 	neg = 0.0  
+15. In support, both Phi                ... pos = 1.375 	neg = 0.125
+16. Philip Baker Hall ha                ... pos = 0.625 	neg = 0.375
+17. The question of Tom'                ... pos = 0.375 	neg = 0.875
+18. There is much indica                ... pos = 2.625 	neg = 0.625
+19. I may argue that the                ... pos = 0.0   	neg = 0.125
+20. `The Talented Mr. Ri                ... pos = 1.5   	neg = 0.25 
+21. It's the definition                 ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-645-693 is Positive          ... pos = 23.375 	neg = 8.375
+Overall score of document
+Total Pos = 23.375
+Total Neg = 8.375
+---------------------------------------------------------------------------

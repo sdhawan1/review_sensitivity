@@ -1,0 +1,27 @@
+0. Starring Antonio Ban                 ... pos = 0.375 	neg = 0.125
+1. While Armageddon and                 ... pos = 0.75  	neg = 0.375
+2. I've never been a bi                 ... pos = 0.875 	neg = 0.25 
+3. Maybe in retrospect                  ... pos = 0.0   	neg = 0.0  
+4. There is no doubt th                 ... pos = 1.25  	neg = 0.5  
+5. It takes real talent                 ... pos = 0.375 	neg = 0.125
+6. Hopkins plays Zorro,                 ... pos = 0.25  	neg = 0.25 
+7. Now, many years late                 ... pos = 0.0   	neg = 0.125
+8. And may I be the fir                 ... pos = 0.125 	neg = 0.125
+9. Catherine Zeta Jones                 ... pos = 2.375 	neg = 0.625
+10. But I digress.                      ... pos = 0     	neg = 0.0  
+11. Hopkins meets up wit                ... pos = 0.0   	neg = 0.0  
+12. Since Zorro is now i                ... pos = 0.875 	neg = 0.125
+13. Going into much more                ... pos = 0.25  	neg = 0.0  
+14. I can't say enough a                ... pos = 0.125 	neg = 0.125
+15. He was charismatic a                ... pos = 1.875 	neg = 0.125
+16. As usual, Hopkins ga                ... pos = 0.125 	neg = 0.625
+17. I can't say enough g                ... pos = 0.75  	neg = 0.0  
+18. It was funny; well a                ... pos = 0.125 	neg = 0.25 
+19. Do yourself a favor.                ... pos = 0.0   	neg = 0.0  
+20. Go see this movie..                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-249-488 is Positive          ... pos = 10.5  	neg = 3.75 
+Overall score of document
+Total Pos = 10.5
+Total Neg = 3.75
+---------------------------------------------------------------------------

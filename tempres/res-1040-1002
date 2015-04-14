@@ -1,0 +1,64 @@
+0. JOHN CARPENTER'S VAM                 ... pos = 0.0   	neg = 0.0  
+1. Copyright 1998 Justi                 ... pos = 0     	neg = 0.0  
+2. All of my film revie                 ... pos = 0.25  	neg = 0.0  
+3. Based on the novel V                 ... pos = 0.0   	neg = 0.0  
+4. Directed by John Car                 ... pos = 0.0   	neg = 0.0  
+5. Starring James Woods                 ... pos = 0.0   	neg = 0.0  
+6. Rated R (contains vi                 ... pos = 0.125 	neg = 0.5  
+7. Synopsis:  Swearing,                 ... pos = 0.25  	neg = 0.25 
+8. Comments:  As I writ                 ... pos = 0.0   	neg = 0.25 
+9. Hollywood released a                 ... pos = 0.625 	neg = 0.625
+10. The season brought u                ... pos = 0.5   	neg = 0.5  
+11. A latecomer, the seq                ... pos = 0.5   	neg = 0.0  
+12. Having seen all thes                ... pos = 1.125 	neg = 0.25 
+13. This does not necess                ... pos = 0.5   	neg = 1.153
+14. John Carpenter has d                ... pos = 0.875 	neg = 0.375
+15. His chief accomplish                ... pos = 0.125 	neg = 0.5  
+16. He's also done a num                ... pos = 1.125 	neg = 0.0  
+17. Carpenter, unfortuna                ... pos = 0.0   	neg = 1.125
+18. He directed Kurt Rus                ... pos = 0.0   	neg = 2.25 
+19. Carpenter somewhat n                ... pos = 0.0   	neg = 0.25 
+20. JOHN CARPENTER'S VAM                ... pos = 0.0   	neg = 0.125
+21. Vampires, throughout                ... pos = 0.75  	neg = 0.125
+22. From Bela Lugosi's c                ... pos = 2.375 	neg = 0.0  
+23. Subtle changes in th                ... pos = 1.25  	neg = 0.0  
+24. This year, for examp                ... pos = 1.125 	neg = 0.0  
+25. JOHN CARPENTER'S VAM                ... pos = 0.0   	neg = 0.375
+26. The results end up a                ... pos = 0.0   	neg = 0.0  
+27. JOHN CARPENTER'S VAM                ... pos = 0.0   	neg = 0.0  
+28. Within a beautiful N                ... pos = 1.125 	neg = 0.0  
+29. Apparently, Crow's c                ... pos = 0.625 	neg = 0.125
+30. The vampires are thu                ... pos = 0.375 	neg = 0.0  
+31. The scene is effecti                ... pos = 1.0   	neg = 0.875
+32. After this beginning                ... pos = 0.125 	neg = 0.125
+33. Whether you like JOH                ... pos = 0.125 	neg = 0.0  
+34. James Woods does a w                ... pos = 0.125 	neg = 0.0  
+35. He brings a manic en                ... pos = 1.5   	neg = 0.625
+36. Thomas Ian Griffith                 ... pos = 1.5   	neg = 0.0  
+37. He informs the vampi                ... pos = 0.75  	neg = 0.125
+38. If you do not like t                ... pos = 0.125 	neg = 0.0  
+39. As a side note, the                 ... pos = 1.375 	neg = 0.875
+40. JOHN CARPENTER'S VAM                ... pos = 1.0   	neg = 0.125
+41. BRIDE OF CHUCKY, URB                ... pos = 0.0   	neg = 0.0  
+42. JOHN CARPENTER'S VAM                ... pos = 0.5   	neg = 0.0  
+43. This doesn't necessa                ... pos = 1.25  	neg = 0.125
+44. People do stupid thi                ... pos = 0.0   	neg = 0.125
+45. One of the reasons,                 ... pos = 0.875 	neg = 0.125
+46. Jack Crow and Tony M                ... pos = 0.25  	neg = 0.5  
+47. They kidnap a prosti                ... pos = 0.0   	neg = 0.875
+48. Although she is turn                ... pos = 0.0   	neg = 0.25 
+49. The storyline's only                ... pos = 1.0   	neg = 0.5  
+50. Crow's treatment of                 ... pos = 0.25  	neg = 0.25 
+51. In one scene, for in                ... pos = 0.125 	neg = 0.625
+52. Despite these faults                ... pos = 0.75  	neg = 0.125
+53. Not much more may be                ... pos = 0.625 	neg = 0.125
+54. Ultimately, sitting                 ... pos = 0.125 	neg = 0.125
+55. JOHN CARPENTER'S VAM                ... pos = 0.125 	neg = 0.5  
+56. This one's worth cat                ... pos = 0.0   	neg = 0.0  
+57. You could probably s                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1040-1002 is Positive        ... pos = 27.125 	neg = 15.778
+Overall score of document
+Total Pos = 27.125
+Total Neg = 15.778
+---------------------------------------------------------------------------

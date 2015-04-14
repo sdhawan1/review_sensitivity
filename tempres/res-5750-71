@@ -1,0 +1,75 @@
+0. It's a nice traditio                 ... pos = 0.0   	neg = 0.0  
+1. Last  year it was th                 ... pos = 0.25  	neg = 0.125
+2. "  This year we  too                 ... pos = 0.0   	neg = 0    
+3. ". If you have heard                 ... pos = 0.875 	neg = 0.0  
+4. Even after  all of t                 ... pos = 0.125 	neg = 0.75 
+5. The film takes off o                 ... pos = 0.0   	neg = 0.625
+6. "  The cast  of the                  ... pos = 1.25  	neg = 0.0  
+7. Tim Allen plays the                  ... pos = 0.875 	neg = 0.0  
+8. Allen's name is  Jas                 ... pos = 0.0   	neg = 0.125
+9. Eighteen years after                 ... pos = 0.0   	neg = 0.125
+10. It seems like the en                ... pos = 0.5   	neg = 0.125
+11. These players includ                ... pos = 0.0   	neg = 0.0  
+12. Her main role in the                ... pos = 0.0   	neg = 0.25 
+13. A pretty face.                      ... pos = 0.0   	neg = 0.125
+14. Tony  Shalhoub plays                ... pos = 0     	neg = 0.0  
+15. Sgt.                                ... pos = 0     	neg = 0    
+16. Chen.                               ... pos = 0     	neg = 0.0  
+17. Daryll Mitchell play                ... pos = 0.0   	neg = 0.25 
+18. Alan Rickman plays                  ... pos = 0.0   	neg = 0.0  
+19. Lazarus, and Sam Roc                ... pos = 0.0   	neg = 0.0  
+20. Well, all of these s                ... pos = 0.125 	neg = 0.125
+21. And they are all fai                ... pos = 0.375 	neg = 0.0  
+22. That is, until Nesmi                ... pos = 0.125 	neg = 0.25 
+23. They believe these f                ... pos = 1.25  	neg = 0.75 
+24. "  Ergo, the aliens                 ... pos = 0.0   	neg = 0.0  
+25. With innocent and gl                ... pos = 0.625 	neg = 0.0  
+26. Besides serving as a                ... pos = 0.625 	neg = 0.0  
+27. The aliens, of cours                ... pos = 0.375 	neg = 0.125
+28. "  So the washed-up                 ... pos = 2.375 	neg = 0.75 
+29. It turns out, by the                ... pos = 0.0   	neg = 0.0  
+30. The bad guys here ar                ... pos = 1.375 	neg = 0.875
+31. The main conflict  t                ... pos = 0.25  	neg = 0.0  
+32. Exactly what this de                ... pos = 0.125 	neg = 0.5  
+33. show.                               ... pos = 0     	neg = 0.0  
+34. Naturally, Jason Nes                ... pos = 0.125 	neg = 0.0  
+35. What is fascinating                 ... pos = 0.25  	neg = 0.25 
+36. Will the actors stop                ... pos = 0.125 	neg = 0.625
+37. Will the rabid fans                 ... pos = 0.125 	neg = 0.5  
+38. The film is well dir                ... pos = 0.0   	neg = 0.125
+39. Its pace is quick, l                ... pos = 0.375 	neg = 0.25 
+40. Parisot capitalizes                 ... pos = 0.375 	neg = 0.0  
+41. Tim Allen's nonchala                ... pos = 1.0   	neg = 0.125
+42. Though he is a hopel                ... pos = 0.375 	neg = 1.0  
+43. It's Allen's best pe                ... pos = 0.625 	neg = 0.0  
+44. ". Weaver does a nic                ... pos = 0.375 	neg = 0.0  
+45. In one scene she sna                ... pos = 0.875 	neg = 0.25 
+46. Weaver  is best in t                ... pos = 0.875 	neg = 0.125
+47. Tony Shalhoub proves                ... pos = 0.625 	neg = 0.625
+48. His Tech Sgt.                       ... pos = 0.0   	neg = 0    
+49. Chen is an air-heade                ... pos = 0.0   	neg = 0.125
+50. The change he underg                ... pos = 0.0   	neg = 0.125
+51. One small criticism                 ... pos = 2.125 	neg = 0.125
+52. Here a parody succum                ... pos = 1.0   	neg = 0.625
+53. Finally, Alan Rickma                ... pos = 0.0   	neg = 0    
+54. He's a  classically                 ... pos = 0.875 	neg = 0.125
+55. His Dr. Lazarus is a                ... pos = 0.0   	neg = 0.5  
+56. A favorite of my dau                ... pos = 0.75  	neg = 0.125
+57. His humming, hesitat                ... pos = 0.625 	neg = 0.875
+58. Stan Winston's shop                 ... pos = 0.0   	neg = 0.25 
+59. The bad  alien costu                ... pos = 0.5   	neg = 1.0  
+60. Watch for Allen in a                ... pos = 0.125 	neg = 0.0  
+61. After watching the d                ... pos = 0.625 	neg = 0.125
+62. Both films are a del                ... pos = 1.25  	neg = 0.0  
+63. Kirk lashes out at                  ... pos = 0.375 	neg = 0.625
+64. Ultimately, "Quest"                 ... pos = 0.75  	neg = 0.125
+65. For any fans of spac                ... pos = 0.0   	neg = 0.125
+66. Its  constant refere                ... pos = 0.25  	neg = 0.0  
+67. And it's just plain                 ... pos = 0.5   	neg = 0.625
+68. See it before going                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5750-71 is Positive          ... pos = 27.375 	neg = 15.25
+Overall score of document
+Total Pos = 27.375
+Total Neg = 15.25
+---------------------------------------------------------------------------

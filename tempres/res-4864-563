@@ -1,0 +1,51 @@
+0. Starring Robin Willi                 ... pos = 0.375 	neg = 0.0  
+1. Directed by Chris Co                 ... pos = 0.0   	neg = 0.0  
+2. Rated PG.                            ... pos = 0.125 	neg = 0    
+3. Chris Columbus is ma                 ... pos = 0.0   	neg = 0.125
+4. His films are notori                 ... pos = 0.875 	neg = 0.875
+5. Stepmom, in particul                 ... pos = 0.75  	neg = 0.875
+6. Many have labeled Co                 ... pos = 1.0   	neg = 0.875
+7. Somehow, the emotion                 ... pos = 1.239 	neg = 0.125
+8. Robin Williams, who                  ... pos = 1.75  	neg = 0.25 
+9. The head of the fami                 ... pos = 1.0   	neg = 0.0  
+10. He takes Andrew to h                ... pos = 0.125 	neg = 0    
+11. " They go away and S                ... pos = 0.875 	neg = 0.0  
+12. Andrew himself has g                ... pos = 0.625 	neg = 0.0  
+13. Their relationship d                ... pos = 0.375 	neg = 0.0  
+14. Sir gets PO-ed at An                ... pos = 0.875 	neg = 0.0  
+15. " So Andrew goes off                ... pos = 0.0   	neg = 0.875
+16. After Sir's death, A                ... pos = 0.0   	neg = 0.0  
+17. What he finds is a r                ... pos = 0.0   	neg = 0.125
+18. But can he actually                 ... pos = 0.5   	neg = 0.0  
+19. Bicentennial Man was                ... pos = 1.0   	neg = 0.375
+20. The result is hardly                ... pos = 1.375 	neg = 0.125
+21. Granted, it occasion                ... pos = 0.375 	neg = 0.625
+22. I'm still not sold o                ... pos = 0.25  	neg = 0.0  
+23. I liked Robin Willia                ... pos = 0.5   	neg = 0.0  
+24. His performance is q                ... pos = 0.625 	neg = 0.125
+25. I also enjoyed Olive                ... pos = 1.0   	neg = 0.125
+26. This isn't an actors                ... pos = 0.375 	neg = 0.25 
+27. The animatronics and                ... pos = 0.25  	neg = 0.0  
+28. This is, after all,                 ... pos = 0.5   	neg = 0.125
+29. There is, of course,                ... pos = 0.0   	neg = 0.125
+30. I dread that family                 ... pos = 0.125 	neg = 0.0  
+31. But in Bicentennial                 ... pos = 0.25  	neg = 0.125
+32. Most importantly, th                ... pos = 0.0   	neg = 0.375
+33. It actually means so                ... pos = 0.0   	neg = 0.0  
+34. It's well-written an                ... pos = 0     	neg = 0    
+35. It doesn't always fo                ... pos = 0.0   	neg = 0.25 
+36. As some critics have                ... pos = 0.0   	neg = 0.25 
+37. True, there are simi                ... pos = 1.625 	neg = 0.5  
+38. There was more than                 ... pos = 0.0   	neg = 0.125
+39. A couple of final qu                ... pos = 0.0   	neg = 0.0  
+40. The whole movie, I w                ... pos = 0.0   	neg = 0.5  
+41. The Oscar-winning co                ... pos = 0.5   	neg = 0.125
+42. Also, at 2 hours 11                 ... pos = 0.5   	neg = 0.75 
+43. Bicentennial Man is                 ... pos = 0.5   	neg = 0.625
+44. This isn't a perfect                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4864-563 is Positive         ... pos = 20.864 	neg = 9.625
+Overall score of document
+Total Pos = 20.864
+Total Neg = 9.625
+---------------------------------------------------------------------------

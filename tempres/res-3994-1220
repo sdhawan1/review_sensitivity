@@ -1,0 +1,30 @@
+0. filmcritic.com prese                 ... pos = 0.0   	neg = 0.0  
+1. You can find the rev                 ... pos = 0.125 	neg = 0.75 
+2. Garry Shandling is a                 ... pos = 0.0   	neg = 0.125
+3. Just check out any e                 ... pos = 0.0   	neg = 0.0  
+4. "  He has a wonderfu                 ... pos = 0.875 	neg = 0.625
+5. I just want to know                  ... pos = 0.25  	neg = 0.625
+6. Simple story line:                   ... pos = 0.625 	neg = 0.0  
+7. Comedic premise:  Al                 ... pos = 0.625 	neg = 0.0  
+8. Comedy rolls on:  Al                 ... pos = 0.25  	neg = 0.0  
+9. Comedy continues:  A                 ... pos = 0.0   	neg = 0.0  
+10. Comedy continues eve                ... pos = 0.625 	neg = 0.25 
+11. Cue drama.                          ... pos = 0.0   	neg = 0.0  
+12. That's about it.                    ... pos = 0.0   	neg = 0.0  
+13. Let's examine the fa                ... pos = 0.0   	neg = 0.0  
+14. You have Mike Nichol                ... pos = 0.0   	neg = 0.125
+15. A great supporting c                ... pos = 0.5   	neg = 0.25 
+16. Garry Shandling has                 ... pos = 0.625 	neg = 0.25 
+17. All of which means,                 ... pos = 0.0   	neg = 0    
+18. Some funny moments c                ... pos = 0.125 	neg = 0.375
+19. The romantic situati                ... pos = 0.25  	neg = 1.0  
+20. This would have made                ... pos = 0.0   	neg = 0.0  
+21. (Though even I must                 ... pos = 1.5   	neg = 0.0  
+22. )  And kudos to the                 ... pos = 0.0   	neg = 0.5  
+23. Director: Mike Nicho                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3994-1220 is Positive        ... pos = 6.375 	neg = 4.875
+Overall score of document
+Total Pos = 6.375
+Total Neg = 4.875
+---------------------------------------------------------------------------

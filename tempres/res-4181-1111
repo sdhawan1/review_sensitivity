@@ -1,0 +1,36 @@
+0. REVIEW: I Still Know                 ... pos = 1.875 	neg = 0.0  
+1. In Urban Legend (whi                 ... pos = 0.5   	neg = 0.125
+2. Upon the release I K                 ... pos = 1.125 	neg = 0.5  
+3. The dire mistake tha                 ... pos = 1.75  	neg = 1.5  
+4. Well, the man with t                 ... pos = 0.0   	neg = 0.125
+5. And he, um, isn't ha                 ... pos = 0.625 	neg = 0    
+6. Surprise surprise, M                 ... pos = 1.25  	neg = 0.25 
+7. The only man of thes                 ... pos = 1.125 	neg = 0.25 
+8. Even though his scri                 ... pos = 0.625 	neg = 0.25 
+9. Its sequel has no su                 ... pos = 0.0   	neg = 0.375
+10. It is now two years                 ... pos = 1.0   	neg = 0.25 
+11. When Julie's best fr                ... pos = 1.0   	neg = 0.0  
+12. Little do they know,                ... pos = 0.125 	neg = 1.0  
+13. There is nothing in                 ... pos = 0.0   	neg = 0.5  
+14. The thought of a kil                ... pos = 1.625 	neg = 0.375
+15. Visions of sun and s                ... pos = 0.875 	neg = 0.625
+16. At least something t                ... pos = 0.625 	neg = 0.625
+17. Jennifer Love Hewitt                ... pos = 1.625 	neg = 0.5  
+18. She carries the film                ... pos = 0.125 	neg = 0.375
+19. Brandy doesn't contr                ... pos = 0.625 	neg = 0.625
+20. Those even vaguely f                ... pos = 1.875 	neg = 0.875
+21. Every one of these e                ... pos = 0.25  	neg = 0.125
+22. It definitely could                 ... pos = 0.5   	neg = 0.125
+23. One of the reasons w                ... pos = 1.125 	neg = 0.125
+24. Calloway's screenpla                ... pos = 0.625 	neg = 1.25 
+25. I Still Know What Yo                ... pos = 0.0   	neg = 1.25 
+26. It is designed for a                ... pos = 0.5   	neg = 0.5  
+27. Get inget out.                    ... pos = 0     	neg = 0.0  
+28. There are better kil                ... pos = 0.375 	neg = 0.0  
+29. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4181-1111 is Positive        ... pos = 22.0  	neg = 12.5 
+Overall score of document
+Total Pos = 22.0
+Total Neg = 12.5
+---------------------------------------------------------------------------

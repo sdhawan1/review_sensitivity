@@ -1,0 +1,31 @@
+0. If nothing else, STA                 ... pos = 0.0   	neg = 1.5  
+1. It more or less play                 ... pos = 0.125 	neg = 0.875
+2. While maybe not the                  ... pos = 1.0   	neg = 0.125
+3. Screenwriter Michael                 ... pos = 0.75  	neg = 0.125
+4. As the film begins,                  ... pos = 0.25  	neg = 0.125
+5. Suddenly Data turns                  ... pos = 0.375 	neg = 0.0  
+6. Picard and the rest                  ... pos = 0.5   	neg = 0.0  
+7. Soon the situation b                 ... pos = 0.375 	neg = 0.125
+8. A rogue Starfleet Ad                 ... pos = 0.625 	neg = 0.0  
+9. When these plans are                 ... pos = 1.75  	neg = 0.625
+10. The impatient aliens                ... pos = 0.0   	neg = 0.0  
+11. From this point on,                 ... pos = 0.125 	neg = 0.25 
+12. In this case, Picard                ... pos = 0.125 	neg = 0.75 
+13. The biggest success                 ... pos = 0.625 	neg = 0.125
+14. At this point in the                ... pos = 0.75  	neg = 0.125
+15. As he spends more ti                ... pos = 1.5   	neg = 0.75 
+16. The use of technolog                ... pos = 0.25  	neg = 0.125
+17. If anything, the fil                ... pos = 1.0   	neg = 0.875
+18. Aside from that, the                ... pos = 0.625 	neg = 0.625
+19. The giggly romance b                ... pos = 0.75  	neg = 0.875
+20. There is some slight                ... pos = 2.375 	neg = 0.75 
+21. STAR TREK: INSURRECT                ... pos = 1.75  	neg = 0.625
+22. Nevertheless, its en                ... pos = 2.0   	neg = 0.375
+23. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+24. Film Reviews archive                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3258-716 is Positive         ... pos = 17.625 	neg = 9.75 
+Overall score of document
+Total Pos = 17.625
+Total Neg = 9.75
+---------------------------------------------------------------------------

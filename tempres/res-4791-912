@@ -1,0 +1,35 @@
+0. Road Trip Rated  [R]                 ... pos = 0.875 	neg = 0.75 
+1. Then college came an                 ... pos = 0.5   	neg = 0.5  
+2. One day, Tiffany sto                 ... pos = 0.0   	neg = 0.75 
+3. Crushed, Josh falls                  ... pos = 0.75  	neg = 1.375
+4. Beth's idea, for tha                 ... pos = 0.0   	neg = 0.0  
+5. It wasn't Josh's ide                 ... pos = 0.0   	neg = 0.0  
+6. Sure, it's one boner                 ... pos = 0.25  	neg = 0.875
+7. .                                    ... pos = 0     	neg = 0    
+8. .                                    ... pos = 0     	neg = 0    
+9. Yep, another teenfli                 ... pos = 0     	neg = 0.125
+10. Not as politically i                ... pos = 0.0   	neg = 0.75 
+11. Not as flat out belo                ... pos = 0.375 	neg = 0.25 
+12. I have, God knows ov                ... pos = 0.125 	neg = 0.125
+13. Road Trip didn't cra                ... pos = 0.0   	neg = 0.125
+14. The story is narrate                ... pos = 0.0   	neg = 0.125
+15. While leading a camp                ... pos = 0.0   	neg = 0.875
+16. Quite honestly, ther                ... pos = 0.0   	neg = 0.25 
+17. What I will say is t                ... pos = 1.75  	neg = 0.625
+18. It's the one perform                ... pos = 0.0   	neg = 0.0  
+19. Well, that and Rache                ... pos = 0.125 	neg = 0.0  
+20. Someone stuff me in                 ... pos = 0.0   	neg = 0.25 
+21. .                                   ... pos = 0     	neg = 0    
+22. .                                   ... pos = 0     	neg = 0    
+23. On average, a first                 ... pos = 0.25  	neg = 0.0  
+24. Were Cranky able to                 ... pos = 0.375 	neg = 0.125
+25. If I was still tokin                ... pos = 0.0   	neg = 0.25 
+26. Cranky CriticŽ is a                ... pos = 0.0   	neg = 0.125
+27. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+28. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4791-912 is Negative         ... pos = 5.625 	neg = 8.25 
+Overall score of document
+Total Pos = 5.625
+Total Neg = 8.25
+---------------------------------------------------------------------------

@@ -1,0 +1,80 @@
+0. ***1/2 (of 4) Direct                 ... pos = 0.25  	neg = 0.25 
+1. While the  horror fi                 ... pos = 0.5   	neg = 0.125
+2. Sure, there was a Da                 ... pos = 0.625 	neg = 0.625
+3. National Lampoon's                   ... pos = 0.0   	neg = 0.0  
+4. Can't Hardly Wait ca                 ... pos = 1.125 	neg = 0.25 
+5. The problem with Can                 ... pos = 0.0   	neg = 1.875
+6. It remembered those                  ... pos = 1.25  	neg = 0.0  
+7. There were some fine                 ... pos = 0.625 	neg = 0.375
+8. And considering it's                 ... pos = 0.125 	neg = 0.75 
+9. Well, She's  All Tha                 ... pos = 0.5   	neg = 0.125
+10. The  sold out theate                ... pos = 1.125 	neg = 0.25 
+11. Freddie Prinze Jr. i                ... pos = 0.0   	neg = 0.25 
+12. He is senior class p                ... pos = 1.125 	neg = 0.25 
+13. Early in the film, e                ... pos = 0.0   	neg = 0.25 
+14. His girlfriend dumps                ... pos = 0.0   	neg = 0.0  
+15. In an attempt to  pr                ... pos = 0.125 	neg = 0.75 
+16. The girl Walker pick                ... pos = 0.125 	neg = 0.375
+17. One would think Lane                ... pos = 1.125 	neg = 0.0  
+18. One  thing I enjoyed                ... pos = 0.5   	neg = 0.25 
+19. She is rightfully su                ... pos = 0.25  	neg = 0.125
+20. This may not have be                ... pos = 0.0   	neg = 0.125
+21. She takes him to an                 ... pos = 0.0   	neg = 0.0  
+22. He goes up on stage,                ... pos = 0.75  	neg = 0.375
+23. Zach gets a  real ru                ... pos = 0.0   	neg = 0.0  
+24. He's never experienc                ... pos = 0.0   	neg = 0.5  
+25. Outside of the theat                ... pos = 1.25  	neg = 0.0  
+26. This is a key scene,                ... pos = 0.75  	neg = 0.375
+27. That being said, the                ... pos = 1.0   	neg = 0.25 
+28. At it's heart, She's                ... pos = 0.5   	neg = 0.125
+29. On a broader scale,                 ... pos = 0.625 	neg = 0.0  
+30. Zach is afraid to  d                ... pos = 0.0   	neg = 0.125
+31. Laney hides her true                ... pos = 0.625 	neg = 0.0  
+32. John Hughes  usually                ... pos = 0.875 	neg = 0.125
+33. She's All That takes                ... pos = 0.625 	neg = 0    
+34. It says  someone mus                ... pos = 0.75  	neg = 1.0  
+35. The social structure                ... pos = 0.0   	neg = 0.875
+36. Both Zach and Laney                 ... pos = 0.375 	neg = 0.0  
+37. They also learn that                ... pos = 0.0   	neg = 0.0  
+38. Laney has a line  la                ... pos = 0.125 	neg = 0.25 
+39. Freddie Prinze Jr.'s                ... pos = 0.5   	neg = 0.5  
+40. At  the beginning of                ... pos = 0.875 	neg = 0.125
+41. To Prinze's credit,                 ... pos = 0.375 	neg = 1.0  
+42. This is because Prin                ... pos = 0.0   	neg = 0.25 
+43. Instead,  he relies                 ... pos = 0.375 	neg = 0.0  
+44. It's a gamble that p                ... pos = 0.5   	neg = 0.75 
+45. As Laney, Rachael Le                ... pos = 0.0   	neg = 0.125
+46. Like Janeane Garofal                ... pos = 0.875 	neg = 0.625
+47. She  has one particu                ... pos = 1.125 	neg = 0.0  
+48. There is more to  an                ... pos = 0.75  	neg = 0.625
+49. Together, they  have                ... pos = 2.0   	neg = 0.125
+50. If She's All That ha                ... pos = 1.25  	neg = 0.375
+51. I very much enjoyed                 ... pos = 1.375 	neg = 0.375
+52. Instead of just play                ... pos = 1.125 	neg = 0.875
+53. Look at Jordanna Bre                ... pos = 1.375 	neg = 0.375
+54. Then there is Matthe                ... pos = 0.0   	neg = 0.125
+55. His performance is f                ... pos = 0.625 	neg = 0.125
+56. I think this subplot                ... pos = 1.375 	neg = 0.0  
+57. However, other minor                ... pos = 2.0   	neg = 0.0  
+58. I admired how  the f                ... pos = 1.25  	neg = 0.0  
+59. Kevin Pollak, as  La                ... pos = 0.0   	neg = 0.125
+60. The fact that he nev                ... pos = 0.5   	neg = 0.75 
+61. Paul Walker's perfor                ... pos = 1.125 	neg = 0.5  
+62. Keiran Culkin is amu                ... pos = 0.5   	neg = 0.25 
+63. Elden Henson, as Lan                ... pos = 0.625 	neg = 0.0  
+64. Lee Fleming's script                ... pos = 0.5   	neg = 0.125
+65. He doesn't rely on t                ... pos = 0.25  	neg = 0.0  
+66. A key confrontation                 ... pos = 0.0   	neg = 0.75 
+67. This allows the inci                ... pos = 0.0   	neg = 0.25 
+68. Iscove does a fine j                ... pos = 0.0   	neg = 0    
+69. The  film is never b                ... pos = 1.625 	neg = 0.25 
+70. She's All That isn't                ... pos = 0.5   	neg = 0.0  
+71. It's another retelli                ... pos = 0.0   	neg = 0.125
+72. But it's execution                  ... pos = 0.0   	neg = 0.0  
+73. Larry McGillicuddy -                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3223-1154 is Positive        ... pos = 41.0  	neg = 20.5 
+Overall score of document
+Total Pos = 41.0
+Total Neg = 20.5
+---------------------------------------------------------------------------

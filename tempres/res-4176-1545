@@ -1,0 +1,26 @@
+0. (Film, DVD, and book                 ... pos = 0.0   	neg = 0.0  
+1. Essays.                              ... pos = 0.0   	neg = 0    
+2. Contests.                            ... pos = 0     	neg = 0.0  
+3. http://filmfreakcent                 ... pos = 0.125 	neg = 0    
+4. ). starring Jim Carr                 ... pos = 0.0   	neg = 0.5  
+5. While watching Me, M                 ... pos = 0.0   	neg = 0.75 
+6. " as he attacks the                  ... pos = 0.0   	neg = 0.0  
+7. The film's dense (in                 ... pos = 0.75  	neg = 0.25 
+8. Charlie (Carrey), a                  ... pos = 0.375 	neg = 0.0  
+9. The police force put                 ... pos = 0.125 	neg = 0.0  
+10. We expect that their                ... pos = 0.75  	neg = 0.0  
+11. Despite the odds, he                ... pos = 1.125 	neg = 0    
+12. But Me, Myself & Ire                ... pos = 0.5   	neg = 1.0  
+13. Chris Cooper, an act                ... pos = 0.0   	neg = 0.5  
+14. Even prior to Cooper                ... pos = 0.0   	neg = 0.0  
+15. Carrey's patented fe                ... pos = 0.0   	neg = 0.25 
+16. Contributing to this                ... pos = 0.625 	neg = 0.125
+17. (And yet the Farrell                ... pos = 0.25  	neg = 0.5  
+18. ). Everything about                 ... pos = 0.625 	neg = 1.25 
+19. Stay through to the                 ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4176-1545 is Negative        ... pos = 5.375 	neg = 5.5  
+Overall score of document
+Total Pos = 5.375
+Total Neg = 5.5
+---------------------------------------------------------------------------

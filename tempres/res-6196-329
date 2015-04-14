@@ -1,0 +1,18 @@
+0. First of all, let me                 ... pos = 0.25  	neg = 0.0  
+1. Should I go see a te                 ... pos = 0.25  	neg = 0.0  
+2. Should I see a weste                 ... pos = 0.0   	neg = 0.0  
+3. American Pie is like                 ... pos = 0.75  	neg = 0.625
+4. Jim, (Biggs) Finch,                  ... pos = 0.375 	neg = 0.0  
+5. Jim goes after a for                 ... pos = 0.0   	neg = 0.0  
+6. Finch has Jessica (N                 ... pos = 0.25  	neg = 0.125
+7. Oz tries to score on                 ... pos = 0.5   	neg = 0.625
+8. But what American Pi                 ... pos = 0.375 	neg = 0.25 
+9. Whereas, There's Som                 ... pos = 0.625 	neg = 0.625
+10. Yes, this change com                ... pos = 0.25  	neg = 0.875
+11. American Pie's messa                ... pos = 0.5   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-6196-329 is Positive         ... pos = 4.125 	neg = 3.875
+Overall score of document
+Total Pos = 4.125
+Total Neg = 3.875
+---------------------------------------------------------------------------

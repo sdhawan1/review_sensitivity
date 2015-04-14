@@ -1,0 +1,24 @@
+0. In comic books, when                 ... pos = 0.0   	neg = 0.875
+1. Caging the beast is                  ... pos = 0.0   	neg = 0.5  
+2. Of course, however,                  ... pos = 0.25  	neg = 0.875
+3. And we're not wholly                 ... pos = 2.75  	neg = 0.375
+4. Perhaps most vital t                 ... pos = 1.375 	neg = 0.625
+5. In Instinct, that do                 ... pos = 0.75  	neg = 0.125
+6. It can't be easy, th                 ... pos = 0.25  	neg = 0.125
+7. Not only does Calder                 ... pos = 0.375 	neg = 1.375
+8. If this were a crime                 ... pos = 0.875 	neg = 0.25 
+9. As far as set-up goe                 ... pos = 0.125 	neg = 0.625
+10. Which of course make                ... pos = 0.0   	neg = 0.5  
+11. And yes, Calder's mi                ... pos = 0.125 	neg = 1.0  
+12. It is, however--and                 ... pos = 1.125 	neg = 0.375
+13. In addition, Instinc                ... pos = 0.875 	neg = 0.375
+14. And the high points,                ... pos = 0.75  	neg = 0.375
+15. Yes, Hannibal Lecter                ... pos = 1.5   	neg = 0.375
+16. And if the Bambi sce                ... pos = 0.375 	neg = 0.5  
+17. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4332-965 is Positive         ... pos = 11.5  	neg = 9.25 
+Overall score of document
+Total Pos = 11.5
+Total Neg = 9.25
+---------------------------------------------------------------------------

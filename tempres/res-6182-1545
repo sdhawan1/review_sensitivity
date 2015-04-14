@@ -1,0 +1,41 @@
+0. HILARY AND JACKIE **                 ... pos = 1.0   	neg = 0.0  
+1. from Film Freak Cent                 ... pos = 0.0   	neg = 0.25 
+2. This month alone, Su                 ... pos = 0.125 	neg = 0.0  
+3. Last fall, Meryl Str                 ... pos = 0.5   	neg = 0.0  
+4. Hilary and Jackie al                 ... pos = 0.0   	neg = 0    
+5. But the film is very                 ... pos = 1.5   	neg = 0.125
+6. Death, you see, is a                 ... pos = 0.0   	neg = 0.125
+7. Hilary and Jackie ac                 ... pos = 0.375 	neg = 0.75 
+8. Hilary and Jackie Du                 ... pos = 0.25  	neg = 0.0  
+9. Both are encouraged                  ... pos = 0.75  	neg = 0.125
+10. Jackie becomes obses                ... pos = 0.375 	neg = 0.0  
+11. Eventually, she actu                ... pos = 0.25  	neg = 0.125
+12. Fame and fortune see                ... pos = 0.875 	neg = 0.0  
+13. Hilary, as the filmm                ... pos = 1.0   	neg = 0.125
+14. Jackie, on the other                ... pos = 0.625 	neg = 0.25 
+15. The story is divided                ... pos = 0.0   	neg = 0.125
+16. In scene after scene                ... pos = 0.0   	neg = 0.0  
+17. Griffiths, who playe                ... pos = 0.75  	neg = 0.0  
+18. The movie wisely avo                ... pos = 0.5   	neg = 0.5  
+19. The "Jackie" half es                ... pos = 0.75  	neg = 0.0  
+20. (For example: In "Hi                ... pos = 0.25  	neg = 0.375
+21. ) Jackie resents Hil                ... pos = 0.25  	neg = 0.625
+22. (Indeed, she tries t                ... pos = 0.0   	neg = 0.75 
+23. It is as resilient a                ... pos = 0.25  	neg = 0.125
+24. ) That resentment do                ... pos = 0.625 	neg = 0.375
+25. When Jackie makes a                 ... pos = 0.875 	neg = 0.875
+26. Watson's performance                ... pos = 0.375 	neg = 0.875
+27. (That Jacqueline Du                 ... pos = 0.5   	neg = 0.25 
+28. ) Boyce's script is                 ... pos = 0.0   	neg = 0.125
+29. Though more unified                 ... pos = 0.25  	neg = 0.625
+30. Tucker's fluid camer                ... pos = 0.5   	neg = 0.0  
+31. (Tucker has little f                ... pos = 0.875 	neg = 0.375
+32. ") Understand that I                ... pos = 0.875 	neg = 0.0  
+33. The real disease tha                ... pos = 0.75  	neg = 0.375
+34. The competitive spir                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6182-1545 is Positive        ... pos = 16.125 	neg = 8.25 
+Overall score of document
+Total Pos = 16.125
+Total Neg = 8.25
+---------------------------------------------------------------------------

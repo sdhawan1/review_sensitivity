@@ -1,0 +1,20 @@
+0. The comet-disaster f                 ... pos = 0.0   	neg = 0.875
+1. Directed by Tony Sco                 ... pos = 0.0   	neg = 0.0  
+2. And you thought that                 ... pos = 0.0   	neg = 1.0  
+3. Jeez.                                ... pos = 0     	neg = 0    
+4. After a great openin                 ... pos = 0.625 	neg = 0.0  
+5. They hire the world'                 ... pos = 0.375 	neg = 0.375
+6. That's like sending                  ... pos = 0.0   	neg = 0.0  
+7. The action in Armage                 ... pos = 0.25  	neg = 1.25 
+8. I was not alone.                     ... pos = 0.0   	neg = 0.125
+9. Plus, to see a wonde                 ... pos = 0.75  	neg = 0.375
+10. The film is just a r                ... pos = 0.0   	neg = 0.75 
+11. The only real reason                ... pos = 0.0   	neg = 0.125
+12. Producer Jerry Bruck                ... pos = 0     	neg = 0.125
+13. 1999 (c) Quick Flick                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6217-170 is Negative         ... pos = 2.0   	neg = 5.0  
+Overall score of document
+Total Pos = 2.0
+Total Neg = 5.0
+---------------------------------------------------------------------------

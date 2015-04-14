@@ -1,0 +1,33 @@
+0. ** (out of 4) ROAD T                 ... pos = 0.0   	neg = 1.0  
+1. It will never be a G                 ... pos = 1.0   	neg = 0.625
+2. In a bracketing stor                 ... pos = 0.5   	neg = 0.125
+3. He tells his audienc                 ... pos = 0.75  	neg = 1.0  
+4. One lonely night Jos                 ... pos = 0.375 	neg = 0.5  
+5. There is a mix-up, a                 ... pos = 0.0   	neg = 0.25 
+6. With the tape on its                 ... pos = 0.0   	neg = 0.5  
+7. Josh gets three of h                 ... pos = 0.125 	neg = 0.375
+8. E.L. (Seann William                  ... pos = 0.125 	neg = 0.5  
+9. Ruben (Paulo Costanz                 ... pos = 0.125 	neg = 0.75 
+10. Kyle (DJ Qualls) is                 ... pos = 0.375 	neg = 0.625
+11. The situation is per                ... pos = 0.0   	neg = 0.125
+12. For one thing, the j                ... pos = 0.0   	neg = 0.375
+13. Instead of exhaustin                ... pos = 0.25  	neg = 0.75 
+14. During the pauses be                ... pos = 0.25  	neg = 0.25 
+15. My audience seemed t                ... pos = 0.0   	neg = 0.875
+16. Once we were so eage                ... pos = 0.5   	neg = 0.125
+17. Another part of the                 ... pos = 0.0   	neg = 1.0  
+18. Either Phillips (who                ... pos = 0.0   	neg = 0.0  
+19. In any case, many of                ... pos = 0.0   	neg = 0.25 
+20. E.L. agrees to the t                ... pos = 0.375 	neg = 0.0  
+21. " He sounds more lik                ... pos = 0.375 	neg = 0.0  
+22. There are a few reas                ... pos = 0.25  	neg = 0.0  
+23. The camaraderie of t                ... pos = 1.795 	neg = 0.125
+24. Green's comic interl                ... pos = 0.0   	neg = 0.125
+25. Some of the jokes we                ... pos = 0.125 	neg = 0.375
+26. "I'm just up here at                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4791-1008 is Negative        ... pos = 7.295 	neg = 10.875
+Overall score of document
+Total Pos = 7.295
+Total Neg = 10.875
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. Starring: Harrison F                 ... pos = 2.625 	neg = 0.5  
+1. Harrison Ford plays                  ... pos = 1.0   	neg = 0.0  
+2. When a business emer                 ... pos = 0.125 	neg = 0.75 
+3. To make matters wors                 ... pos = 0.25  	neg = 0.625
+4. On the bright side,                  ... pos = 0.875 	neg = 0.0  
+5. Can a 56-year-old is                 ... pos = 0.875 	neg = 0.0  
+6. Opinion: Usually in                  ... pos = 0.75  	neg = 0.0  
+7. But SIX DAYS, SEVEN                  ... pos = 1.375 	neg = 0.125
+8. Imagine the kind of                  ... pos = 0.375 	neg = 1.625
+9. It's all there in SI                 ... pos = 0.0   	neg = 0.0  
+10. The movie even throw                ... pos = 0.0   	neg = 0.0  
+11. While not meant to b                ... pos = 0.375 	neg = 0.625
+12. So the only importan                ... pos = 1.125 	neg = 0.125
+13. He's country; she's                 ... pos = 0.0   	neg = 0    
+14. He's island; she's m                ... pos = 0     	neg = 0.0  
+15. He's laid back; she'                ... pos = 0.0   	neg = 0.0  
+16. He's 56; she's 28.                  ... pos = 0     	neg = 0    
+17. Do opposites attract                ... pos = 0.0   	neg = 0.0  
+18. In the movies they d                ... pos = 0.0   	neg = 0.0  
+19. Ford and Heche deliv                ... pos = 0.25  	neg = 0    
+20. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6244-416 is Positive         ... pos = 10.0  	neg = 4.5  
+Overall score of document
+Total Pos = 10.0
+Total Neg = 4.5
+---------------------------------------------------------------------------

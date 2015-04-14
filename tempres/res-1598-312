@@ -1,0 +1,46 @@
+0. "OK. Astronauts go t                 ... pos = 0     	neg = 0.125
+1. Encounter strange al                 ... pos = 0.375 	neg = 0    
+2. Fate of crew unknown                 ... pos = 0.0   	neg = 0.125
+3. Rescue mission sent                  ... pos = 0.0   	neg = 0.125
+4. Meet aliens.                         ... pos = 0.0   	neg = 0    
+5. ". It probably wasn'                 ... pos = 0.0   	neg = 1.25 
+6. However Mission To M                 ... pos = 0.5   	neg = 2.125
+7. But the saddest part                 ... pos = 0.125 	neg = 0.125
+8. I've grown up watchi                 ... pos = 0.5   	neg = 0.75 
+9. He has also made a n                 ... pos = 1.375 	neg = 1.75 
+10. And now Mission To M                ... pos = 0.0   	neg = 0.125
+11. The film is crammed                 ... pos = 0.5   	neg = 0.625
+12. Perhaps the funniest                ... pos = 1.125 	neg = 0.125
+13. Even if you buy this                ... pos = 0.25  	neg = 0.625
+14. Off- hand, I don't k                ... pos = 0.25  	neg = 0.0  
+15. I'll just check.                    ... pos = 0     	neg = 0.0  
+16. Temperatures vary fr                ... pos = 0.0   	neg = 0.125
+17. That took about thre                ... pos = 0.0   	neg = 0.0  
+18. Looking stuff up in                 ... pos = 0.0   	neg = 0.25 
+19. It's obviously a los                ... pos = 0.0   	neg = 0.0  
+20. Does scientific accu                ... pos = 0.5   	neg = 0.0  
+21. It depends.                         ... pos = 0.0   	neg = 0.0  
+22. When the spacecraft                 ... pos = 0.25  	neg = 0.25 
+23. Scientifically inacc                ... pos = 0.125 	neg = 0.0  
+24. Often, however, gett                ... pos = 1.0   	neg = 0.875
+25. There are no real ex                ... pos = 0.25  	neg = 0.75 
+26. A message is coded i                ... pos = 0.0   	neg = 0.125
+27. (The coding method u                ... pos = 0.125 	neg = 0.375
+28. ) On seeing a few tu                ... pos = 0.0   	neg = 0.125
+29. OK, so the writers d                ... pos = 0.375 	neg = 1.375
+30. If you can fight thr                ... pos = 0.375 	neg = 0.625
+31. The opening sequence                ... pos = 1.0   	neg = 0.5  
+32. A knowing reference                 ... pos = 0.125 	neg = 0.25 
+33. The score by the onc                ... pos = 0.0   	neg = 1.75 
+34. The only thing in th                ... pos = 0.25  	neg = 0.125
+35. In fact, his photogr                ... pos = 0.75  	neg = 0.125
+36. Despite the wonderfu                ... pos = 0.75  	neg = 0.25 
+37. Neither can I see Ti                ... pos = 0.375 	neg = 0.375
+38. The biggest, but pre                ... pos = 0.875 	neg = 0.25 
+39. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-312 is Negative         ... pos = 13.125 	neg = 16.375
+Overall score of document
+Total Pos = 13.125
+Total Neg = 16.375
+---------------------------------------------------------------------------

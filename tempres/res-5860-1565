@@ -1,0 +1,61 @@
+0. Girl, Interrupted (1                 ... pos = 0.875 	neg = 0.5  
+1. Well, I  have good n                 ... pos = 0.75  	neg = 0.875
+2. The Story (WARNING:                  ... pos = 0.75  	neg = 0.625
+3. There, she meets a v                 ... pos = 2.125 	neg = 0.25 
+4. Amongst the staffers                 ... pos = 1.25  	neg = 0.0  
+5. The Upshot: The good                 ... pos = 0.75  	neg = 0.25 
+6. Though she played Li                 ... pos = 0.5   	neg = 1.125
+7. Jolie especially sur                 ... pos = 3.0   	neg = 0.125
+8. Looking much younger                 ... pos = 1.25  	neg = 0.125
+9. Jolie seemed to rise                 ... pos = 2.0   	neg = 0.25 
+10. I didn't recognize h                ... pos = 1.5   	neg = 0.125
+11. Would that I could s                ... pos = 0.5   	neg = 0.0  
+12. She wasn't bad, exac                ... pos = 0.0   	neg = 1.0  
+13. "Well, DUH, Rose!                   ... pos = 0     	neg = 0    
+14. ", I hear ya saying;                ... pos = 0     	neg = 0.0  
+15. "  Uh, no, not exact                ... pos = 0.125 	neg = 0.25 
+16. It may have been the                ... pos = 1.875 	neg = 0.25 
+17. What I  mean by that                ... pos = 0.0   	neg = 0.25 
+18. That, my friends,  i                ... pos = 0.875 	neg = 0.125
+19. The other patient ch                ... pos = 2.0   	neg = 0.625
+20. DuVall was effective                ... pos = 0.75  	neg = 0.75 
+21. Everyone else was ei                ... pos = 0.0   	neg = 0.125
+22. "Cuckoo's Nest", it                 ... pos = 0.0   	neg = 0    
+23. But my main beef is                 ... pos = 0.0   	neg = 0.125
+24. It may have been bas                ... pos = 0.125 	neg = 0.125
+25. I can't for the life                ... pos = 0.125 	neg = 0.0  
+26. And though I could e                ... pos = 1.375 	neg = 1.25 
+27. The institution itse                ... pos = 0.75  	neg = 0.625
+28. Mind you, I wouldn't                ... pos = 0.5   	neg = 0.75 
+29. And without that, it                ... pos = 0.5   	neg = 0.125
+30. And that's just bori                ... pos = 0.125 	neg = 0.0  
+31. Nothing in the movie                ... pos = 0.375 	neg = 0.25 
+32. The scene straight o                ... pos = 0.0   	neg = 0.125
+33. And most of the time                ... pos = 0.0   	neg = 0.125
+34. Definitely Not A Goo                ... pos = 1.0   	neg = 0.0  
+35. The "Black Factor" [                ... pos = 0.25  	neg = 0    
+36. Chile, what we gwint                ... pos = 0     	neg = 0.0  
+37. [/end sarcasm]. It's                ... pos = 0.0   	neg = 0.0  
+38. But that's another r                ... pos = 0.375 	neg = 0.25 
+39. In "The Hurricane",                 ... pos = 0.875 	neg = 0.875
+40. Here in  "Girl", Who                ... pos = 0.875 	neg = 0.25 
+41. And the "funny" thin                ... pos = 1.0   	neg = 0.125
+42. Should there be a pr                ... pos = 0.25  	neg = 0.375
+43. My sentiment.                       ... pos = 0.125 	neg = 0    
+44. ) to not only the ch                ... pos = 0.875 	neg = 0.0  
+45. Should we be tired o                ... pos = 0.0   	neg = 0.125
+46. Should I take it as                 ... pos = 0.0   	neg = 0.375
+47. Probably not, but ye                ... pos = 0.25  	neg = 0.0  
+48. Maybe that's my Blac                ... pos = 0.0   	neg = 0.0  
+49. Bammer's Bottom Line                ... pos = 0.0   	neg = 0.0  
+50. I was never emotiona                ... pos = 1.0   	neg = 0.5  
+51. And would somebody p                ... pos = 0.0   	neg = 0.0  
+52. "Girl, Interrupted":                ... pos = 0.125 	neg = 0.25 
+53. That, or  somebody s                ... pos = 0.0   	neg = 0.0  
+54. **yawn**. .                         ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5860-1565 is Positive        ... pos = 31.75 	neg = 14.25
+Overall score of document
+Total Pos = 31.75
+Total Neg = 14.25
+---------------------------------------------------------------------------

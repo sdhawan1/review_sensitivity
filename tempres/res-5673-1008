@@ -1,0 +1,67 @@
+0. *** (out of 4)"Movie                 ... pos = 0.375 	neg = 0.0  
+1. " -- Roger Ebert . E                 ... pos = 0.125 	neg = 0.125
+2. Taken together, thes                 ... pos = 0.75  	neg = 0.0  
+3. These films rely on,                 ... pos = 0.625 	neg = 0.0  
+4. Innovations in costu                 ... pos = 0.25  	neg = 0.25 
+5. In SPAWN, the costum                 ... pos = 0.0   	neg = 0.0  
+6. In DARK CITY, it was                 ... pos = 0.125 	neg = 0.125
+7. In BLADE, it is edit                 ... pos = 0.0   	neg = 0.375
+8. BLADE is a vampire m                 ... pos = 0.0   	neg = 0.125
+9. Vampires have been a                 ... pos = 0.375 	neg = 0.625
+10. Whistler (Kris Krist                ... pos = 0.25  	neg = 0.0  
+11. "Crosses don't do sq                ... pos = 0.0   	neg = 0.0  
+12. Silver works.                       ... pos = 0.0   	neg = 0    
+13. Sunlight, UV rays, v                ... pos = 0.0   	neg = 0.0  
+14. " . One of the movie                ... pos = 0.875 	neg = 0.125
+15. When she gets pulled                ... pos = 0.625 	neg = 0.125
+16. She sees a similarit                ... pos = 0.375 	neg = 0.625
+17. She may even have a                 ... pos = 0.0   	neg = 0.0  
+18. These two characters                ... pos = 2.125 	neg = 0.0  
+19. Where these two are                 ... pos = 0.25  	neg = 0.125
+20. He makes his living                 ... pos = 0.0   	neg = 0.0  
+21. Blade has superhuman                ... pos = 0.125 	neg = 0    
+22. A vampire halfbreed                 ... pos = 0.5   	neg = 0.125
+23. He is adorned with l                ... pos = 0.375 	neg = 0.125
+24. Blade is tracking do                ... pos = 0.0   	neg = 0.125
+25. He knows that someth                ... pos = 0.0   	neg = 0.25 
+26. He is determined to                 ... pos = 0.125 	neg = 0.125
+27. Frost, meanwhile, is                ... pos = 0.0   	neg = 0.125
+28. " Frost plans to cap                ... pos = 0.0   	neg = 0.0  
+29. The plot sounds corn                ... pos = 0.0   	neg = 0.5  
+30. The entire productio                ... pos = 0.0   	neg = 0.375
+31. Because the movie we                ... pos = 1.0   	neg = 0.125
+32. This film is very bl                ... pos = 0.5   	neg = 0.125
+33. In fact, there was a                ... pos = 0.0   	neg = 0.5  
+34. But whereas the bloo                ... pos = 0.5   	neg = 0.125
+35. In that one, the blo                ... pos = 0.375 	neg = 0.125
+36. In this movie, the b                ... pos = 0.625 	neg = 0.25 
+37. Not even in Kubrick'                ... pos = 0.5   	neg = 0.375
+38. Because the blood is                ... pos = 0.125 	neg = 0.25 
+39. The fight scenes bet                ... pos = 0.5   	neg = 0.0  
+40. When Blade's silver                 ... pos = 0.0   	neg = 0.375
+41. You have to watch cl                ... pos = 0.125 	neg = 0.0  
+42. And with the audienc                ... pos = 0.0   	neg = 1.375
+43. Too often, the direc                ... pos = 0.0   	neg = 1.125
+44. Norrington choreogra                ... pos = 0.0   	neg = 0.0  
+45. Snipes makes a good                 ... pos = 1.25  	neg = 0.0  
+46. He seems to be aware                ... pos = 1.625 	neg = 0.25 
+47. Ebert also credits h                ... pos = 0.25  	neg = 0.0  
+48. Either way, Snipes c                ... pos = 0.625 	neg = 0.625
+49. I would also add tha                ... pos = 0.375 	neg = 0.125
+50. As a producer, he wo                ... pos = 0.0   	neg = 0.125
+51. The music served its                ... pos = 0.0   	neg = 0.0  
+52. It was symphonic eno                ... pos = 0.125 	neg = 0.25 
+53. There are a few scen                ... pos = 0.25  	neg = 0.0  
+54. The music always sou                ... pos = 0.75  	neg = 0.125
+55. Blade is well-made a                ... pos = 0.375 	neg = 0.125
+56. But I acknowledge th                ... pos = 0.375 	neg = 0.0  
+57. Even though it is R-                ... pos = 0.0   	neg = 0.375
+58. If there are such th                ... pos = 0.375 	neg = 0.125
+59. But if you are inter                ... pos = 0.625 	neg = 0.0  
+60. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5673-1008 is Positive        ... pos = 19.5  	neg = 11.25
+Overall score of document
+Total Pos = 19.5
+Total Neg = 11.25
+---------------------------------------------------------------------------

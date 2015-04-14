@@ -1,0 +1,38 @@
+0. Director:  Tony Kay                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution:  N                 ... pos = 2.0   	neg = 0.375
+2. I've heard about thi                 ... pos = 0.125 	neg = 0.0  
+3. As it is, I found Am                 ... pos = 2.25  	neg = 0.625
+4. It's hard to believe                 ... pos = 0.875 	neg = 1.0  
+5. Norton is one of tho                 ... pos = 1.75  	neg = 0.25 
+6. He plays a young man                 ... pos = 0.0   	neg = 0.0  
+7. The film opens with                  ... pos = 0.25  	neg = 0.0  
+8. We find out that thi                 ... pos = 0.0   	neg = 0.125
+9. In the present-time                  ... pos = 0.0   	neg = 0.125
+10. Much of the film is                 ... pos = 0.25  	neg = 0.125
+11. When Derek is releas                ... pos = 0.75  	neg = 1.125
+12. What makes this all                 ... pos = 1.75  	neg = 0.25 
+13. It's hard to make a                 ... pos = 0.625 	neg = 0.75 
+14. Because American His                ... pos = 0.875 	neg = 0.375
+15. I partially disagree                ... pos = 0.625 	neg = 0.875
+16. The reasons for why                 ... pos = 1.25  	neg = 0.125
+17. It's clear that he's                ... pos = 0.5   	neg = 0.0  
+18. Of course, it helps                 ... pos = 0.125 	neg = 0.0  
+19. It's astonishing how                ... pos = 0.25  	neg = 0.375
+20. In addition to getti                ... pos = 0.25  	neg = 0.875
+21. Even when he's at hi                ... pos = 0.25  	neg = 0.0  
+22. What adds depth to t                ... pos = 1.25  	neg = 0.125
+23. The other performanc                ... pos = 0.5   	neg = 0    
+24. Visually, the film i                ... pos = 1.0   	neg = 0.125
+25. Kaye indulges in a l                ... pos = 0.75  	neg = 0.375
+26. But, like a lot of m                ... pos = 0.25  	neg = 0.0  
+27. Although the climact                ... pos = 1.875 	neg = 0.375
+28. For a movie so smart                ... pos = 0.5   	neg = 0.125
+29. It makes me wonder w                ... pos = 0.125 	neg = 0.0  
+30. Perhaps this last sc                ... pos = 0.0   	neg = 0.375
+31. It's hard to imagine                ... pos = 2.25  	neg = 1.75 
+---------------------------------------------------------------------------
+./temp/tmp-499-760 is Positive          ... pos = 23.25 	neg = 10.625
+Overall score of document
+Total Pos = 23.25
+Total Neg = 10.625
+---------------------------------------------------------------------------

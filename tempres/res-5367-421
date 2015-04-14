@@ -1,0 +1,60 @@
+0. rated R starring Des                 ... pos = 0.125 	neg = 0.0  
+1. Freeman, Katie Holme                 ... pos = 0.375 	neg = 0.125
+2. No, it wasn't becaus                 ... pos = 0.125 	neg = 0.625
+3. It all started a cou                 ... pos = 0.125 	neg = 0.625
+4. In the article, Glei                 ... pos = 0.0   	neg = 0.0  
+5. So needless to say,                  ... pos = 0.0   	neg = 0.0  
+6. Then I read on and f                 ... pos = 1.125 	neg = 0.125
+7. Then, a few weeks la                 ... pos = 0.0   	neg = 0.0  
+8. Wow, I thought, this                 ... pos = 0.0   	neg = 0.625
+9. Yes, a rush.                         ... pos = 0.0   	neg = 0.0  
+10. I mean, they showed                 ... pos = 0.75  	neg = 0.0  
+11. " I guess you could                 ... pos = 0.125 	neg = 0.5  
+12. Just a few weeks ago                ... pos = 0.375 	neg = 0.375
+13. This British import,                ... pos = 0.5   	neg = 0.25 
+14. So, like any diehard                ... pos = 0.125 	neg = 0.125
+15. Not derivative?                     ... pos = 0.0   	neg = 0.0  
+16. My ass!                             ... pos = 0     	neg = 0    
+17. So, in conclusion to                ... pos = 0.0   	neg = 0.25 
+18. I didn't let anyone                 ... pos = 0.0   	neg = 0.75 
+19. The film had already                ... pos = 0.5   	neg = 1.0  
+20. But, no, the clerk w                ... pos = 0.625 	neg = 0.25 
+21. Hello?!                             ... pos = 0     	neg = 0.0  
+22. Mr.                                 ... pos = 0     	neg = 0.0  
+23. Clerk, do you know h                ... pos = 0.125 	neg = 0.125
+24. I could hear the GO                 ... pos = 0.0   	neg = 0.0  
+25. They knew about my o                ... pos = 0.375 	neg = 0.125
+26. So, the next thing I                ... pos = 0.0   	neg = 0.25 
+27. I felt like Truman B                ... pos = 0.0   	neg = 0.25 
+28. Yes, the rain was fo                ... pos = 0     	neg = 0.125
+29. I went back home, af                ... pos = 0.0   	neg = 0.0  
+30. My dad then offered                 ... pos = 0.0   	neg = 0.0  
+31. Obviously, I would g                ... pos = 0     	neg = 0.0  
+32. So we get to the the                ... pos = 0.0   	neg = 0.125
+33. Luckily(haha), we bo                ... pos = 0.5   	neg = 0.0  
+34. So then, I went back                ... pos = 0.0   	neg = 0.0  
+35. If you actually thin                ... pos = 0.375 	neg = 0.0  
+36. Why don't you just g                ... pos = 0.0   	neg = 0.0  
+37. If you want the plot                ... pos = 0     	neg = 0.25 
+38. Well, I'll tell you                 ... pos = 0.125 	neg = 0    
+39. GO's plot is PULP FI                ... pos = 0.5   	neg = 0.5  
+40. There is sex, murder                ... pos = 0.0   	neg = 0.375
+41. Needless to say, I w                ... pos = 0.0   	neg = 0.125
+42. The film is a trip,                 ... pos = 0.5   	neg = 0.125
+43. I doubt a more enter                ... pos = 0.25  	neg = 0.0  
+44. Doug Liman mixes ele                ... pos = 0.875 	neg = 0.375
+45. So, it's derivative.                ... pos = 0     	neg = 0.0  
+46. And the script by Jo                ... pos = 1.0   	neg = 0.125
+47. And there isn't anyt                ... pos = 0.375 	neg = 0.125
+48. I was a little let d                ... pos = 0.625 	neg = 0.75 
+49. If nothing else, the                ... pos = 0.25  	neg = 0.375
+50. How's that for depth                ... pos = 0.0   	neg = 0    
+51. So, in conclusion, s                ... pos = 0.0   	neg = 0.0  
+52. It's just not worth                 ... pos = 0.0   	neg = 0.25 
+53. a review by Akiva Go                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5367-421 is Positive         ... pos = 10.875 	neg = 10.125
+Overall score of document
+Total Pos = 10.875
+Total Neg = 10.125
+---------------------------------------------------------------------------

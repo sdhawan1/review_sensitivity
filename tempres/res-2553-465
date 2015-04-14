@@ -1,0 +1,22 @@
+0. FORREST GUMP is a hi                 ... pos = 0.75  	neg = 0.375
+1. Tom Hanks turns in a                 ... pos = 0.125 	neg = 0.0  
+2. Gump spends his life                 ... pos = 1.875 	neg = 0.0  
+3. This takes him very                  ... pos = 1.25  	neg = 0.0  
+4. Through remarkable s                 ... pos = 0.25  	neg = 0.25 
+5. The movie is as ligh                 ... pos = 0.5   	neg = 0.125
+6. It does not try to d                 ... pos = 0.0   	neg = 0.0  
+7. Instead, it merely a                 ... pos = 0.375 	neg = 0.75 
+8. This is not a great                  ... pos = 0.0   	neg = 0.25 
+9. Tom Hanks's performa                 ... pos = 0.5   	neg = 0.125
+10. He's gone a little f                ... pos = 0.5   	neg = 0.25 
+11. Perhaps Hanks's some                ... pos = 0.375 	neg = 0.5  
+12. The strongest thing                 ... pos = 2.5   	neg = 0.125
+13. Gary Sinise puts in                 ... pos = 0.0   	neg = 0.0  
+14. But he doesn't subme                ... pos = 0.0   	neg = 0.0  
+15. The use of special e                ... pos = 0.375 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-2553-465 is Positive         ... pos = 9.375 	neg = 3.25 
+Overall score of document
+Total Pos = 9.375
+Total Neg = 3.25
+---------------------------------------------------------------------------

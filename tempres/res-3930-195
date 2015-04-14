@@ -1,0 +1,40 @@
+0. Did anybody notice t                 ... pos = 0.625 	neg = 0.0  
+1. This fact made me fe                 ... pos = 0.0   	neg = 0.0  
+2. You see, I have yet                  ... pos = 0.25  	neg = 0.375
+3. I figured there must                 ... pos = 0.375 	neg = 0.875
+4. I saw it twice, TWIC                 ... pos = 0.5   	neg = 0.25 
+5. When I noticed that                  ... pos = 0.375 	neg = 0.125
+6. Was something wrong                  ... pos = 0     	neg = 0.875
+7. What did I miss that                 ... pos = 0.125 	neg = 0.0  
+8. But did anybody noti                 ... pos = 0.625 	neg = 0.0  
+9. "Conspiracy Theory"                  ... pos = 0.0   	neg = 0.125
+10. " while I was watchi                ... pos = 0.0   	neg = 0.125
+11. Mel Gibson blew me a                ... pos = 0.0   	neg = 0.0  
+12. Do I have a sub-conc                ... pos = 0.0   	neg = 0.125
+13. It happened last yea                ... pos = 0.0   	neg = 0    
+14. I loved it and put i                ... pos = 0.5   	neg = 0.0  
+15. Nobody seemed to agr                ... pos = 0     	neg = 0.125
+16. What am I seeing in                 ... pos = 0.0   	neg = 0.25 
+17. But then again, did                 ... pos = 0.625 	neg = 0.0  
+18. Julia Roberts is get                ... pos = 0.375 	neg = 0.25 
+19. It was stale, it was                ... pos = 0.0   	neg = 0.25 
+20. But people are appla                ... pos = 0.25  	neg = 0.0  
+21. Shame shame!                        ... pos = 0     	neg = 0.75 
+22. Oh well.                            ... pos = 0.0   	neg = 0.0  
+23. I am standing my gro                ... pos = 0.0   	neg = 0.125
+24. I thought it was fan                ... pos = 0.375 	neg = 0.125
+25. I can understand som                ... pos = 0.5   	neg = 0.0  
+26. .                                   ... pos = 0     	neg = 0    
+27. .                                   ... pos = 0     	neg = 0    
+28. maybe even three sta                ... pos = 0.0   	neg = 0.0  
+29. But less than three?                ... pos = 0.125 	neg = 0.0  
+30. Come on!!                           ... pos = 0     	neg = 0.0  
+31. "Conspiracy Theory"                 ... pos = 0.625 	neg = 0.0  
+32. Just be warned that                 ... pos = 0     	neg = 0.75 
+33. But by the way, did                 ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3930-195 is Positive         ... pos = 6.875 	neg = 5.5  
+Overall score of document
+Total Pos = 6.875
+Total Neg = 5.5
+---------------------------------------------------------------------------

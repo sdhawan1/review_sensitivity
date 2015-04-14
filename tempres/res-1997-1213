@@ -1,0 +1,40 @@
+0. Starring Casper Van                  ... pos = 0.375 	neg = 0.125
+1. Starting off with th                 ... pos = 2.375 	neg = 2.903
+2. So, he is obviously                  ... pos = 0.0   	neg = 0.125
+3. Whether it is actual                 ... pos = 0.75  	neg = 0.25 
+4. The films opens well                 ... pos = 0.875 	neg = 0.0  
+5. ), and showing us an                 ... pos = 0.0   	neg = 0.25 
+6. The film then cuts t                 ... pos = 0.0   	neg = 0.375
+7. The first problem is                 ... pos = 0.25  	neg = 0.5  
+8. We are introduced to                 ... pos = 1.625 	neg = 0.125
+9. Anyway, Casper Van D                 ... pos = 0.125 	neg = 0.0  
+10. Dina Meyer plays Ric                ... pos = 0.25  	neg = 0.5  
+11. The audience has to                 ... pos = 0.0   	neg = 0.0  
+12. War is declared, and                ... pos = 0.0   	neg = 0.125
+13. The plot is forgotte                ... pos = 0.0   	neg = 0.75 
+14. The action scenes ar                ... pos = 1.5   	neg = 0.25 
+15. However, after the 3                ... pos = 0.125 	neg = 0.0  
+16. The main problems is                ... pos = 0.0   	neg = 0.5  
+17. There are about five                ... pos = 0.5   	neg = 0.625
+18. However, the deaths                 ... pos = 0.75  	neg = 0.875
+19. The film isn't as vi                ... pos = 0.25  	neg = 0.125
+20. This seems odd, as t                ... pos = 0.75  	neg = 0.375
+21. ". The cast (mainly                 ... pos = 0.25  	neg = 0.0  
+22. If I had to choose a                ... pos = 0.625 	neg = 0.25 
+23. The special effects,                ... pos = 0.875 	neg = 0.5  
+24. Sadly, though, the m                ... pos = 0.75  	neg = 1.125
+25. Why they didn't use                 ... pos = 0.125 	neg = 0.125
+26. Paul Verhoeven direc                ... pos = 0.0   	neg = 0.0  
+27. The action is well d                ... pos = 0.375 	neg = 0.375
+28. The screenplay, base                ... pos = 1.0   	neg = 1.125
+29. Starship Troopers, t                ... pos = 0.25  	neg = 0.0  
+30. Perhaps if the first                ... pos = 0.625 	neg = 0.25 
+31. If you can get past                 ... pos = 0.625 	neg = 0.125
+32. Just don't expect a                 ... pos = 1.25  	neg = 0.0  
+33. Just about recommend                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-1213 is Positive        ... pos = 17.25 	neg = 12.653
+Overall score of document
+Total Pos = 17.25
+Total Neg = 12.653
+---------------------------------------------------------------------------

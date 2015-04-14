@@ -1,0 +1,47 @@
+0. Starring Jim Carrey,                 ... pos = 0.0   	neg = 0.25 
+1. Sometimes you just                   ... pos = 0.375 	neg = 0.0  
+2. I saw THE TRUMAN SHO                 ... pos = 0.0   	neg = 0.625
+3. Surprised, they may                  ... pos = 0.25  	neg = 0.125
+4. But by the attentive                 ... pos = 2.125 	neg = 1.625
+5. Time alone will make                 ... pos = 0.0   	neg = 0.0  
+6. But by the end of th                 ... pos = 0.0   	neg = 0.125
+7. We were concerned fo                 ... pos = 0.125 	neg = 0.125
+8. That we felt as we d                 ... pos = 0.25  	neg = 0.125
+9. THE TRUMAN SHOW is a                 ... pos = 0.5   	neg = 0.375
+10. Unless you're under                 ... pos = 0.125 	neg = 0.0  
+11. Carrey stars as Trum                ... pos = 0.75  	neg = 0.375
+12. Truman would seem to                ... pos = 0.875 	neg = 0.0  
+13. There is tragedy in                 ... pos = 1.125 	neg = 1.5  
+14. But then one day as                 ... pos = 0.5   	neg = 0.25 
+15. This curious event m                ... pos = 0.5   	neg = 0.625
+16. What makes the first                ... pos = 1.75  	neg = 0.125
+17. The  soundstage, we'                ... pos = 0.125 	neg = 0.125
+18. " Truman's movements                ... pos = 0.25  	neg = 0.0  
+19. Weir cuts the film s                ... pos = 0.375 	neg = 0.0  
+20. The second act offer                ... pos = 0.75  	neg = 0    
+21. His best friend Marl                ... pos = 0.5   	neg = 0    
+22. His wife seems to ex                ... pos = 0.625 	neg = 0.25 
+23. He  sees the same pe                ... pos = 0.0   	neg = 0    
+24. One  wonders why he                 ... pos = 1.625 	neg = 0.0  
+25. " Nevertheless, Trum                ... pos = 0.5   	neg = 0.0  
+26. This convincing real                ... pos = 1.25  	neg = 0.25 
+27. By underplaying Trum                ... pos = 0.625 	neg = 0    
+28. There is a particula                ... pos = 1.375 	neg = 0.125
+29. " But that line was                 ... pos = 0.0   	neg = 0.0  
+30. The abject cruelty t                ... pos = 0.0   	neg = 0.125
+31. THE TRUMAN SHOW deri                ... pos = 0.75  	neg = 0.0  
+32. Ultimately, however,                ... pos = 0.5   	neg = 0.0  
+33. What does God really                ... pos = 0.0   	neg = 0.0  
+34. Does He resent our a                ... pos = 0.25  	neg = 0    
+35. Who exactly is watch                ... pos = 0.125 	neg = 0.125
+36. If you enjoy  the pi                ... pos = 0.875 	neg = 0.0  
+37. As for Carrey - well                ... pos = 0.0   	neg = 0.25 
+38. Carrey is no Jimmy S                ... pos = 0.375 	neg = 0.5  
+39. He just tries to fee                ... pos = 0.0   	neg = 0.125
+40. visit the FILM GEEK                 ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5847-176 is Positive         ... pos = 20.375 	neg = 8.125
+Overall score of document
+Total Pos = 20.375
+Total Neg = 8.125
+---------------------------------------------------------------------------

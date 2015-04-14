@@ -1,0 +1,36 @@
+0. See this review as i                 ... pos = 0.5   	neg = 0.125
+1. He finds it in Bangk                 ... pos = 1.125 	neg = 1.125
+2. But as Richard finds                 ... pos = 0.5   	neg = 0.25 
+3. DiCaprio's first sta                 ... pos = 0.25  	neg = 0.25 
+4. While I give Leo cre                 ... pos = 0.375 	neg = 0.5  
+5. It may do good for y                 ... pos = 1.875 	neg = 0.25 
+6. Maybe if you've been                 ... pos = 0.25  	neg = 0.25 
+7. But a pre-emptive st                 ... pos = 0.0   	neg = 0.0  
+8. This just wasn't the                 ... pos = 0.0   	neg = 0.0  
+9. Also, I'm sorry to s                 ... pos = 0.875 	neg = 0.625
+10. Many times I found m                ... pos = 1.0   	neg = 0.125
+11. So when he yells, it                ... pos = 0.0   	neg = 0.75 
+12. Since Richard is suc                ... pos = 0.875 	neg = 0.75 
+13. However, Étienne is                ... pos = 1.625 	neg = 0.125
+14. While for an hour an                ... pos = 0.5   	neg = 1.875
+15. We see Richard's men                ... pos = 0.75  	neg = 0.0  
+16. Now being the educat                ... pos = 1.625 	neg = 0.625
+17. While the changes in                ... pos = 1.375 	neg = 0.0  
+18. The Beach is availab                ... pos = 0.375 	neg = 0.125
+19. The disc contains th                ... pos = 0.125 	neg = 0.125
+20. The plentiful amount                ... pos = 0.5   	neg = 0.0  
+21. And, as with almost                 ... pos = 0.875 	neg = 0.0  
+22. Danny Boyle's commen                ... pos = 0.625 	neg = 0.125
+23. He's a bright man wi                ... pos = 1.125 	neg = 0.0  
+24. The deleted scenes,                 ... pos = 0.125 	neg = 0.0  
+25. None of them are gla                ... pos = 0.625 	neg = 1.25 
+26. The original ending,                ... pos = 0.625 	neg = 0.125
+27. As often the case wi                ... pos = 1.125 	neg = 0.125
+28. This is definitely w                ... pos = 0.25  	neg = 0.125
+29. The film just misses                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2272-515 is Positive         ... pos = 20.25 	neg = 9.75 
+Overall score of document
+Total Pos = 20.25
+Total Neg = 9.75
+---------------------------------------------------------------------------

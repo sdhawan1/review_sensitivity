@@ -1,0 +1,32 @@
+0. Fight Club Rating (o                 ... pos = 1.125 	neg = 1.375
+1. In spite of critical                 ... pos = 0.25  	neg = 0.25 
+2. With The Game, he pr                 ... pos = 0.0   	neg = 0.0  
+3. Which brings us to F                 ... pos = 0.5   	neg = 0.0  
+4. By now, anyone who f                 ... pos = 0.125 	neg = 0.25 
+5. With most publicists                 ... pos = 0.875 	neg = 0.625
+6. Well, take all that                  ... pos = 0.0   	neg = 0.0  
+7. With as many twists                  ... pos = 1.625 	neg = 0.125
+8. Yes, there are numer                 ... pos = 0.5   	neg = 0.0  
+9. Whilst the participa                 ... pos = 1.625 	neg = 0.375
+10. Unlike most Hollywoo                ... pos = 0.375 	neg = 0.5  
+11. Edward Norton stars                 ... pos = 0.0   	neg = 0.25 
+12. Never given a name (                ... pos = 0.375 	neg = 0.0  
+13. And tears free he do                ... pos = 0.5   	neg = 0.0  
+14. With his anecdotes o                ... pos = 0.375 	neg = 0.375
+15. After getting into a                ... pos = 1.25  	neg = 0.25 
+16. What better way to r                ... pos = 0.625 	neg = 0.0  
+17. Soon, Fight Club evo                ... pos = 0.25  	neg = 0.25 
+18. What is Tyler really                ... pos = 0     	neg = 0.125
+19. Is there more to the                ... pos = 0.125 	neg = 0.125
+20. There's so much more                ... pos = 1.625 	neg = 0.0  
+21. ), but doing so woul                ... pos = 0.0   	neg = 0.0  
+22. That said, I do thin                ... pos = 1.375 	neg = 0.25 
+23. In addition to the n                ... pos = 0.375 	neg = 0.375
+24. I could have done wi                ... pos = 0.875 	neg = 0.125
+25. *Find all of Jason's                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3869-1560 is Positive        ... pos = 15.625 	neg = 5.625
+Overall score of document
+Total Pos = 15.625
+Total Neg = 5.625
+---------------------------------------------------------------------------

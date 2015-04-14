@@ -1,0 +1,37 @@
+0. ---A copy of this re                 ... pos = 1.125 	neg = 0.25 
+1. On the other hand, m                 ... pos = 0.0   	neg = 0.125
+2. But those infamous t                 ... pos = 1.75  	neg = 1.25 
+3. Plot?                                ... pos = 0     	neg = 0.0  
+4. What plot?                           ... pos = 0     	neg = 0.0  
+5. Yep folks, Disney se                 ... pos = 0.625 	neg = 0.25 
+6. `Dinosaur' starts of                 ... pos = 0.75  	neg = 1.875
+7. Now, this works quit                 ... pos = 1.25  	neg = 0.0  
+8. But here we have a w                 ... pos = 0.0   	neg = 0.375
+9. Montana?                             ... pos = 0.0   	neg = 0    
+10. Earth?                              ... pos = 0.0   	neg = 0    
+11. ) and a target audie                ... pos = 0.0   	neg = 0.0  
+12. Imagine sending in t                ... pos = 0.0   	neg = 0.5  
+13. But hey, even when D                ... pos = 1.0   	neg = 0.5  
+14. Not here.                           ... pos = 0.0   	neg = 0.0  
+15. Nope, folks  the M                ... pos = 0.0   	neg = 0.125
+16. Big mistake!                        ... pos = 0     	neg = 0.0  
+17. This leaves the audi                ... pos = 0.0   	neg = 0.25 
+18. So at least there is                ... pos = 0.0   	neg = 0.125
+19. Not exactly (do I fe                ... pos = 0.125 	neg = 0.0  
+20. Actually, the 3.2 mi                ... pos = 0.875 	neg = 0.5  
+21. Steven Spielberg's `                ... pos = 0.0   	neg = 0.375
+22. The prehistoric crea                ... pos = 1.375 	neg = 2.375
+23. One early scene with                ... pos = 0.625 	neg = 0.375
+24. As for the seemingly                ... pos = 0.5   	neg = 0.875
+25. Further confusing th                ... pos = 1.25  	neg = 0.5  
+26. On one hand, the fil                ... pos = 0.375 	neg = 0.0  
+27. On the other hand, (                ... pos = 0.75  	neg = 0.375
+28. There is little doub                ... pos = 0.125 	neg = 0.375
+29. Actually, they alrea                ... pos = 0.125 	neg = 0.5  
+30. For the mean time, t                ... pos = 0.25  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-4807-592 is Positive         ... pos = 12.875 	neg = 12.375
+Overall score of document
+Total Pos = 12.875
+Total Neg = 12.375
+---------------------------------------------------------------------------

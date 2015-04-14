@@ -1,0 +1,35 @@
+0. Truman Burbank (Jim                  ... pos = 0.125 	neg = 0.125
+1. People around the wo                 ... pos = 0.0   	neg = 0.0  
+2. Although Truman is a                 ... pos = 0.125 	neg = 0.375
+3. Thousands of strateg                 ... pos = 0.25  	neg = 0.0  
+4. This massive conspir                 ... pos = 0.0   	neg = 0.25 
+5. Adopted by a corpora                 ... pos = 0.5   	neg = 0.0  
+6. There's no script fo                 ... pos = 0.0   	neg = 0.25 
+7. Others just play "ex                 ... pos = 0.0   	neg = 0.25 
+8. The deception is mos                 ... pos = 1.75  	neg = 0.125
+9. From childhood, his                  ... pos = 0.375 	neg = 0.25 
+10. As a teenager, he wa                ... pos = 0.0   	neg = 0.875
+11. " The producers whis                ... pos = 0.0   	neg = 0.0  
+12. But that incident an                ... pos = 0.125 	neg = 0.0  
+13. In a 24-hour product                ... pos = 0.0   	neg = 0.75 
+14. We see a few overt m                ... pos = 0.375 	neg = 0.625
+15. His new awareness an                ... pos = 2.125 	neg = 0.0  
+16. This is the perfect                 ... pos = 0.0   	neg = 0.125
+17. His comedy genius ha                ... pos = 1.375 	neg = 0.125
+18. We know it, but he i                ... pos = 0.25  	neg = 0.375
+19. The Cable Guy showed                ... pos = 0.375 	neg = 0.125
+20. Carrey is still perm                ... pos = 0.875 	neg = 0.375
+21. I doubt that any wer                ... pos = 0.0   	neg = 0.125
+22. Delivering this tran                ... pos = 0.5   	neg = 0.125
+23. The material speaks                 ... pos = 0.375 	neg = 0.875
+24. Ed Harris is stuck w                ... pos = 0.0   	neg = 0.125
+25. Dennis Hopper bailed                ... pos = 0.0   	neg = 0.5  
+26. The Uber-director an                ... pos = 0.0   	neg = 0.125
+27. Their artificiality                 ... pos = 0.875 	neg = 0.5  
+28. Waytogo, Jim!. .                    ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5847-1359 is Positive        ... pos = 10.375 	neg = 7.375
+Overall score of document
+Total Pos = 10.375
+Total Neg = 7.375
+---------------------------------------------------------------------------

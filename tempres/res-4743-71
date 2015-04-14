@@ -1,0 +1,48 @@
+0. Visit Online Film Cr                 ... pos = 1.25  	neg = 0.375
+1. I wonder, what scene                 ... pos = 0.0   	neg = 0.25 
+2. I'm  curious, is all                 ... pos = 0.625 	neg = 1.0  
+3. Costner here plays B                 ... pos = 0.5   	neg = 0.0  
+4. Over the opening  cr                 ... pos = 0.375 	neg = 0.0  
+5. (Sound  familiar?                    ... pos = 0.0   	neg = 0    
+6. Think "The Natural.                  ... pos = 0.0   	neg = 0.0  
+7. ")  We know Billy lo                 ... pos = 1.625 	neg = 0.25 
+8. On the day of the la                 ... pos = 0.375 	neg = 0.875
+9. So all throughout th                 ... pos = 0.0   	neg = 0.903
+10. Will he be able to c                ... pos = 0.25  	neg = 0.125
+11. Will he and Jane fin                ... pos = 0.5   	neg = 0    
+12. The format of the ga                ... pos = 0.0   	neg = 0.0  
+13. The pace of  the ext                ... pos = 0.25  	neg = 0.625
+14. In a way the film sa                ... pos = 0.0   	neg = 0.375
+15. It's appropriate tha                ... pos = 0.75  	neg = 0.75 
+16. What the film does n                ... pos = 0.25  	neg = 0.125
+17. Everything this guy                 ... pos = 0.625 	neg = 1.0  
+18. Sensitive, handsome:                ... pos = 0.0   	neg = 0.5  
+19. This somewhat trite                 ... pos = 0.875 	neg = 1.25 
+20. And Costner is good                 ... pos = 0.75  	neg = 0.125
+21. Well into his fortie                ... pos = 1.25  	neg = 0.25 
+22. As Jane, Kelly Prest                ... pos = 0.0   	neg = 0.25 
+23. It's too long for on                ... pos = 0.125 	neg = 0.625
+24. Further, many of the                ... pos = 0.375 	neg = 0.125
+25. What happens is the                 ... pos = 0.375 	neg = 0.5  
+26. Jane, for instance,                 ... pos = 0.5   	neg = 0.0  
+27. This ambivalence  gr                ... pos = 0.375 	neg = 0.0  
+28. This delay may indee                ... pos = 1.25  	neg = 0.25 
+29. John C. Reilly is go                ... pos = 1.0   	neg = 0.125
+30. He has a relationshi                ... pos = 0.375 	neg = 0.0  
+31. Reilly's friendly Gu                ... pos = 1.375 	neg = 0.0  
+32. He could have  condi                ... pos = 0.25  	neg = 0.0  
+33. Another strong suppo                ... pos = 0.875 	neg = 0.25 
+34. Jane is a single mom                ... pos = 0.375 	neg = 1.0  
+35. Malone does a remark                ... pos = 0.75  	neg = 0.0  
+36. What a gap!                         ... pos = 0.0   	neg = 0    
+37. The movie does take                 ... pos = 0.0   	neg = 0.0  
+38. There's a  neat moti                ... pos = 0.125 	neg = 0.75 
+39. Not as good as the a                ... pos = 2.375 	neg = 0.125
+40. The result is a plea                ... pos = 1.125 	neg = 0.125
+41. What Costner should                 ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4743-71 is Positive          ... pos = 22.625 	neg = 13.028
+Overall score of document
+Total Pos = 22.625
+Total Neg = 13.028
+---------------------------------------------------------------------------

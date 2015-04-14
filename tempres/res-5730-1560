@@ -1,0 +1,32 @@
+0. I remember hearing a                 ... pos = 0.25  	neg = 0.0  
+1. 'Holocaust comedy re                 ... pos = 0.0   	neg = 0.0  
+2. Intrigued by this st                 ... pos = 2.125 	neg = 1.125
+3. Even though the movi                 ... pos = 0.875 	neg = 0.5  
+4. Only now do I see th                 ... pos = 0.0   	neg = 0.625
+5. After finally viewin                 ... pos = 0.75  	neg = 0.25 
+6. Rather, it focuses o                 ... pos = 0.875 	neg = 0.75 
+7. Roberto Benigni (who                 ... pos = 2.319 	neg = 0.125
+8. Through the course o                 ... pos = 0.125 	neg = 0.125
+9. Employing the magic                  ... pos = 1.375 	neg = 0.0  
+10. Life treats them wel                ... pos = 1.5   	neg = 0.375
+11. Granted, it contains                ... pos = 1.25  	neg = 0.0  
+12. Somehow, it achieves                ... pos = 1.25  	neg = 0.0  
+13. So, we've establishe                ... pos = 0.75  	neg = 0.25 
+14. But, there is anothe                ... pos = 0.0   	neg = 0.25 
+15. The film, despite cr                ... pos = 0.75  	neg = 0.125
+16. Some have called the                ... pos = 2.125 	neg = 0.125
+17. The film's ending ha                ... pos = 1.125 	neg = 0.25 
+18. Essentially, Life is                ... pos = 2.125 	neg = 0.25 
+19. However, I am not de                ... pos = 0.375 	neg = 0.125
+20. Believe me, it's fan                ... pos = 0.5   	neg = 0.0  
+21. I'm just saying that                ... pos = 0.875 	neg = 0.0  
+22. But perhaps I'm read                ... pos = 0.0   	neg = 0.125
+23. Maybe the film's bri                ... pos = 1.25  	neg = 0.0  
+24. In fact, maybe Rober                ... pos = 0.125 	neg = 0.125
+25. *Homepage at http://                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5730-1560 is Positive        ... pos = 23.569 	neg = 5.5  
+Overall score of document
+Total Pos = 23.569
+Total Neg = 5.5
+---------------------------------------------------------------------------

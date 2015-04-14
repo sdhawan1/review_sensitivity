@@ -1,0 +1,31 @@
+0. SIX DAYS, SEVEN NIGH                 ... pos = 0.625 	neg = 0.25 
+1. Robin, on a tropical                 ... pos = 0.25  	neg = 0.0  
+2. The plane crashes du                 ... pos = 0.125 	neg = 1.125
+3. A series of unpleasa                 ... pos = 0.75  	neg = 0.875
+4. Meanwhile, back at t                 ... pos = 0.0   	neg = 0.125
+5. That subplot obvious                 ... pos = 0.875 	neg = 0.5  
+6. And since the film s                 ... pos = 0.0   	neg = 0.125
+7. Director Ivan Reitma                 ... pos = 0.25  	neg = 0.0  
+8. At a slim 101 minute                 ... pos = 0.625 	neg = 0.5  
+9. Michael Browning's                   ... pos = 0.5   	neg = 0.125
+10. "), and though it  e                ... pos = 0.5   	neg = 0.125
+11. Even the movie's mor                ... pos = 0.25  	neg = 0.0  
+12. Heche has been under                ... pos = 0.625 	neg = 0.125
+13. (So she's a lesbian.                ... pos = 0.0   	neg = 0.0  
+14. So what.                            ... pos = 0     	neg = 0.0  
+15. Deal  with it.                      ... pos = 0.0   	neg = 0    
+16. ) Of course it doesn                ... pos = 0.25  	neg = 0.75 
+17. In fact, her chemist                ... pos = 0.625 	neg = 0.375
+18. At one point, when t                ... pos = 1.125 	neg = 0.125
+19. After several wrong                 ... pos = 0.0   	neg = 0.75 
+20. _Fifty_?                            ... pos = 0     	neg = 0    
+21. "), he whispers his                 ... pos = 0.0   	neg = 0    
+22. "You still  look goo                ... pos = 0.75  	neg = 0.375
+23. "I still _am_ good,"                ... pos = 1.0   	neg = 0    
+24. She's  good too, and                ... pos = 1.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-6244-1031 is Positive        ... pos = 10.5  	neg = 6.5  
+Overall score of document
+Total Pos = 10.5
+Total Neg = 6.5
+---------------------------------------------------------------------------

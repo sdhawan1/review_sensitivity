@@ -1,0 +1,38 @@
+0. ---A copy of this re                 ... pos = 0.125 	neg = 0.125
+1. The two best films o                 ... pos = 1.5   	neg = 0.0  
+2. First The Big Tease,                 ... pos = 0.25  	neg = 0.375
+3. Now The Whole Nine Y                 ... pos = 0.25  	neg = 0.0  
+4. "Oz" Oseransky (Matt                 ... pos = 0.0   	neg = 0.125
+5. This  isn't helped b                 ... pos = 0.0   	neg = 0.5  
+6. Now Oz  lives in mis                 ... pos = 0.125 	neg = 0.0  
+7. Jimmy "The Tulip" Tu                 ... pos = 0.875 	neg = 0.5  
+8. But Jimmy refused wi                 ... pos = 1.25  	neg = 0.0  
+9. Janni Gogolak (Kevin                 ... pos = 0.0   	neg = 0.125
+10. He lives in Chicago                 ... pos = 0.0   	neg = 0.0  
+11. Everyone from oz's s                ... pos = 0.0   	neg = 0.625
+12. Who are the double a                ... pos = 0.25  	neg = 0.0  
+13. Who will live?                      ... pos = 0.125 	neg = 0    
+14. Who will die?                       ... pos = 0.125 	neg = 0.0  
+15. And which one turns                 ... pos = 0.0   	neg = 0.375
+16. The Whole Nine Yards                ... pos = 0.5   	neg = 0.125
+17. Of all the dark come                ... pos = 0.0   	neg = 0.125
+18. Responsible for this                ... pos = 1.25  	neg = 0.125
+19. Perry's innocent fac                ... pos = 1.125 	neg = 0.375
+20. But the real treats                 ... pos = 0.25  	neg = 0.0  
+21. Duncan, for those of                ... pos = 1.5   	neg = 0.75 
+22. Peet is an exception                ... pos = 1.0   	neg = 0.375
+23. Another key factor i                ... pos = 0.625 	neg = 0.875
+24. For every bit as  ul                ... pos = 0.125 	neg = 0.25 
+25. This goes to show th                ... pos = 1.125 	neg = 0.25 
+26. There are actually m                ... pos = 0.25  	neg = 0.0  
+27. Critics will likely                 ... pos = 1.5   	neg = 0.0  
+28. I beg to differ.                    ... pos = 0.25  	neg = 0.0  
+29. The Whole Nine  Yard                ... pos = 0.75  	neg = 0.0  
+30. " scenes with its up                ... pos = 0.125 	neg = 0.0  
+31. The end result is so                ... pos = 0.125 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-487-592 is Positive          ... pos = 15.375 	neg = 6.5  
+Overall score of document
+Total Pos = 15.375
+Total Neg = 6.5
+---------------------------------------------------------------------------

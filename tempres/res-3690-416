@@ -1,0 +1,14 @@
+0. Starring: Franka Pot                 ... pos = 0.125 	neg = 0.125
+1. This sends Lola on a                 ... pos = 0.25  	neg = 0.0  
+2. Opinion: Remember th                 ... pos = 0.625 	neg = 0.75 
+3. Same deal here, only                 ... pos = 0.0   	neg = 0.625
+4. We cheer for Lola th                 ... pos = 0.75  	neg = 0.0  
+5. Lola's got 20 minute                 ... pos = 0.875 	neg = 0.5  
+6. It makes for a fun a                 ... pos = 0.125 	neg = 0.0  
+7. Copyright Š 1999 by                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3690-416 is Positive         ... pos = 2.75  	neg = 2.125
+Overall score of document
+Total Pos = 2.75
+Total Neg = 2.125
+---------------------------------------------------------------------------

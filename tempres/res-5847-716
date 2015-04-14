@@ -1,0 +1,33 @@
+0. Those who have grown                 ... pos = 0.5   	neg = 0.875
+1. He lives inside the                  ... pos = 0.25  	neg = 0.125
+2. "The Truman Show," c                 ... pos = 0.25  	neg = 0.25 
+3. Christof and his act                 ... pos = 1.125 	neg = 0.0  
+4. Truman's a nice guy                  ... pos = 0.375 	neg = 0.25 
+5. He lives a pleasant,                 ... pos = 0.625 	neg = 0.125
+6. He's nearing thirty                  ... pos = 0.5   	neg = 0.625
+7. (In fact, she was tr                 ... pos = 0.0   	neg = 0.75 
+8. ). "The Truman Show"                 ... pos = 0.25  	neg = 0.25 
+9. The show has remarka                 ... pos = 0.875 	neg = 1.0  
+10. But now that he's st                ... pos = 0.25  	neg = 0.375
+11. He starts taking a f                ... pos = 0.0   	neg = 0.0  
+12. His attempts to leav                ... pos = 0.375 	neg = 0.0  
+13. " He's beginning to                 ... pos = 0.0   	neg = 0.125
+14. Most of Andrew Nicco                ... pos = 0.75  	neg = 0.25 
+15. Carrey turns in an e                ... pos = 2.875 	neg = 0.0  
+16. There is perhaps one                ... pos = 1.739 	neg = 0.625
+17. But what really make                ... pos = 0.25  	neg = 0.125
+18. At one level, it's a                ... pos = 1.625 	neg = 1.125
+19. It can also be read                 ... pos = 0.25  	neg = 0.5  
+20. " Equally interestin                ... pos = 0.875 	neg = 0.125
+21. There are times when                ... pos = 1.25  	neg = 0.25 
+22. Niccol's screenplay                 ... pos = 0.5   	neg = 0.0  
+23. He allows Christof t                ... pos = 0.75  	neg = 0.375
+24. Simply put, THE TRUM                ... pos = 1.25  	neg = 0.0  
+25. Some of the buzz sur                ... pos = 0.0   	neg = 0.0  
+26. I don't know if I'd                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5847-716 is Positive         ... pos = 17.489 	neg = 8.125
+Overall score of document
+Total Pos = 17.489
+Total Neg = 8.125
+---------------------------------------------------------------------------

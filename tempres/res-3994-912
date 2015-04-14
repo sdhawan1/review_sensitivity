@@ -1,0 +1,45 @@
+0. CrankyCriticŽ movie                 ... pos = 0.25  	neg = 0.0  
+1. Rated  [R], 105 minu                 ... pos = 0.625 	neg = 0.125
+2. Thus the ad campaign                 ... pos = 0.0   	neg = 0.0  
+3. Nope.                                ... pos = 0     	neg = 0    
+4. The advanced society                 ... pos = 0.125 	neg = 0.0  
+5. It's said so right a                 ... pos = 0.0   	neg = 0.0  
+6. Why making one baby                  ... pos = 0.5   	neg = 0.625
+7. And just forty or fi                 ... pos = 0.75  	neg = 0.375
+8. Now, in the first Ye                 ... pos = 0.75  	neg = 0.25 
+9. Without women, this                  ... pos = 1.75  	neg = 0.0  
+10. Thus, H1449-6 (herea                ... pos = 0.0   	neg = 0.125
+11. This being accomplis                ... pos = 0.5   	neg = 0.125
+12. .                                   ... pos = 0     	neg = 0    
+13. except that they've                 ... pos = 0.0   	neg = 0.0  
+14. Harold's assignment                 ... pos = 0.0   	neg = 1.0  
+15. One chick happens to                ... pos = 0.0   	neg = 0.75 
+16. Harold, whose mind i                ... pos = 0.25  	neg = 0.375
+17. From there on in, Wh                ... pos = 0.625 	neg = 0.0  
+18. Just as director Mik                ... pos = 0.25  	neg = 1.0  
+19. OK, we'll forgive th                ... pos = 0.5   	neg = 0.0  
+20. is a Garry Shandling                ... pos = 0.5   	neg = 1.0  
+21. Any fan knows that S                ... pos = 1.125 	neg = 0.75 
+22. Any fan will not be                 ... pos = 0.125 	neg = 0.125
+23. With a very small do                ... pos = 1.375 	neg = 0.125
+24. John Goodman plays t                ... pos = 0.0   	neg = 0.0  
+25. Teevee faces Nora Du                ... pos = 0.125 	neg = 0    
+26. Ben Kingsley plays G                ... pos = 1.25  	neg = 0.5  
+27. All are positive rei                ... pos = 0.25  	neg = 0.0  
+28. On average, a first                 ... pos = 0.25  	neg = 0.0  
+29. Were Cranky able to                 ... pos = 0.375 	neg = 0.125
+30. If you're not a Shan                ... pos = 0.0   	neg = 0.125
+31. For those of us that                ... pos = 0.0   	neg = 0.125
+32. .                                   ... pos = 0     	neg = 0    
+33. .                                   ... pos = 0     	neg = 0    
+34. 'cuz it's funny.                    ... pos = 0     	neg = 0.0  
+35. That's why.                         ... pos = 0     	neg = 0.0  
+36. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+37. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+38. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3994-912 is Positive         ... pos = 12.5  	neg = 7.75 
+Overall score of document
+Total Pos = 12.5
+Total Neg = 7.75
+---------------------------------------------------------------------------

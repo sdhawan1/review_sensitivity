@@ -1,0 +1,53 @@
+0. *** (out of 4) If yo                 ... pos = 0.125 	neg = 0.125
+1. ANTZ is the first an                 ... pos = 0.25  	neg = 0.125
+2. As such, it has more                 ... pos = 0.125 	neg = 0.0  
+3. It is hipper and fun                 ... pos = 0.375 	neg = 0.125
+4. Woody Allen provides                 ... pos = 0.5   	neg = 0.0  
+5. Z doesn't fit in wit                 ... pos = 0.25  	neg = 0.25 
+6. Not an easy task whe                 ... pos = 0.25  	neg = 0    
+7. Z is sulking in the                  ... pos = 0.125 	neg = 0.125
+8. Bala asks Z to dance                 ... pos = 0.125 	neg = 0.0  
+9. While the entire bar                 ... pos = 0.5   	neg = 0.0  
+10. But it's not long be                ... pos = 0.0   	neg = 0.375
+11. The dance was enough                ... pos = 0.75  	neg = 0.125
+12. As a soldier, he wil                ... pos = 0.125 	neg = 0.0  
+13. The switch goes well                ... pos = 0.25  	neg = 0.0  
+14. Luckily for Z, his c                ... pos = 1.0   	neg = 0.25 
+15. The lone survivor, Z                ... pos = 0.625 	neg = 0.25 
+16. After being exposed                 ... pos = 0.375 	neg = 0.0  
+17. Since he can't retur                ... pos = 0.75  	neg = 0.0  
+18. Even if they're not,                ... pos = 1.375 	neg = 0.5  
+19. But General Mandible                ... pos = 1.0   	neg = 0.0  
+20. Both are far enough                 ... pos = 0.875 	neg = 0.0  
+21. The animation is all                ... pos = 0.0   	neg = 0.125
+22. We've seen that befo                ... pos = 0.0   	neg = 0    
+23. What we haven't seen                ... pos = 0.0   	neg = 0.125
+24. The CG ants look as                 ... pos = 0.0   	neg = 0.5  
+25. The ant colony in th                ... pos = 0.375 	neg = 0.625
+26. It's a more subtle,                 ... pos = 0.625 	neg = 0.0  
+27. The writing, too, ha                ... pos = 0.125 	neg = 0.25 
+28. When I say the writi                ... pos = 0.0   	neg = 0.125
+29. If you squint your e                ... pos = 1.0   	neg = 1.125
+30. Both have your basic                ... pos = 0.5   	neg = 0.0  
+31. Both have a fairly s                ... pos = 1.25  	neg = 0.5  
+32. When I say the writi                ... pos = 0.875 	neg = 0.125
+33. (Credit also those w                ... pos = 0.375 	neg = 0    
+34. ). Allen is allowed                 ... pos = 0.0   	neg = 0.25 
+35. He rambles on about                 ... pos = 0.625 	neg = 0.0  
+36. He's allowed to stum                ... pos = 0.0   	neg = 0.5  
+37. Instead of a bland,                 ... pos = 0.5   	neg = 0.75 
+38. Allen's lines are in                ... pos = 0.0   	neg = 0.625
+39. But the Antz puns, t                ... pos = 0.0   	neg = 0.25 
+40. They are funny not s                ... pos = 0.375 	neg = 0.375
+41. Allen has a surprisi                ... pos = 0.125 	neg = 0.0  
+42. ANTZ is not an earth                ... pos = 0.125 	neg = 0.25 
+43. The animation, writi                ... pos = 0.25  	neg = 0.0  
+44. There wasn't a scene                ... pos = 0.0   	neg = 0.375
+45. And hey, if you're a                ... pos = 1.0   	neg = 0.25 
+46. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-1008 is Positive          ... pos = 17.875 	neg = 9.375
+Overall score of document
+Total Pos = 17.875
+Total Neg = 9.375
+---------------------------------------------------------------------------

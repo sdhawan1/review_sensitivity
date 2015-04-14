@@ -1,0 +1,50 @@
+0. Writers: Wes Anderso                 ... pos = 0.375 	neg = 1.25 
+1. At the very least, y                 ... pos = 1.875 	neg = 0.778
+2. In fact, a film call                 ... pos = 2.25  	neg = 0.125
+3. With a short haircut                 ... pos = 1.0   	neg = 1.75 
+4. But there  was somet                 ... pos = 1.75  	neg = 0.875
+5. They bring the same                  ... pos = 1.375 	neg = 0.0  
+6. It's  witty, laugh-o                 ... pos = 1.625 	neg = 0.0  
+7. The reason it's the                  ... pos = 2.625 	neg = 0.5  
+8. For example, in the                  ... pos = 0.875 	neg = 1.125
+9. Like many of us (rea                 ... pos = 2.125 	neg = 0.375
+10. Max is currently enr                ... pos = 0.5   	neg = 0.25 
+11. "  Always wearing hi                ... pos = 1.25  	neg = 0.375
+12. Yet he  never lets a                ... pos = 1.75  	neg = 0.5  
+13. And, of course, as t                ... pos = 0.0   	neg = 0.0  
+14. But  that only means                ... pos = 0.5   	neg = 1.25 
+15. The first becomes hi                ... pos = 0.125 	neg = 0    
+16. Always needing somet                ... pos = 0.5   	neg = 0.0  
+17. ),  but soon makes g                ... pos = 0.375 	neg = 0.0  
+18. But these  grand ges                ... pos = 0.0   	neg = 0.875
+19. He's expelled  from                 ... pos = 0.0   	neg = 0.0  
+20. Max's best friend an                ... pos = 1.0   	neg = 0.0  
+21. Herman and Rosemary                 ... pos = 0.625 	neg = 0.0  
+22. And Max and Herman g                ... pos = 0.0   	neg = 0.0  
+23. All this is done wit                ... pos = 0.75  	neg = 0.375
+24. There are plenty of                 ... pos = 0.75  	neg = 0.125
+25. " "Yeah I was in the                ... pos = 0.125 	neg = 0.125
+26. ") to the sublime (a                ... pos = 2.375 	neg = 0.0  
+27. " This is a film of                 ... pos = 1.0   	neg = 1.125
+28. The script is absolu                ... pos = 1.75  	neg = 0.625
+29. And he could have be                ... pos = 1.625 	neg = 0.625
+30. Along with Eamonn Ow                ... pos = 1.875 	neg = 0.75 
+31. Thankfully, his obje                ... pos = 2.25  	neg = 0.375
+32. And there's many oth                ... pos = 0.25  	neg = 0.0  
+33. But if there's any t                ... pos = 2.5   	neg = 0.125
+34. Herman, the opposite                ... pos = 1.625 	neg = 0.125
+35. In one wonderfully c                ... pos = 0.5   	neg = 0.125
+36. " What's so  great a                ... pos = 0.25  	neg = 0.125
+37. Instead  of the usua                ... pos = 0.625 	neg = 0.0  
+38. His performance is,                 ... pos = 2.0   	neg = 1.375
+39. Ditto the film.                     ... pos = 0.0   	neg = 0.0  
+40. It's hilarious, and                 ... pos = 3.25  	neg = 0.25 
+41. Someday, when the hy                ... pos = 1.125 	neg = 0.625
+42. Hopefully.                          ... pos = 0.5   	neg = 0    
+43. Homepage at: http://                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1299-1493 is Positive        ... pos = 47.625 	neg = 16.903
+Overall score of document
+Total Pos = 47.625
+Total Neg = 16.903
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. "I am not your Eliza                 ... pos = 0.0   	neg = 0.25 
+1. ". Watching ELIZABET                 ... pos = 1.0   	neg = 0.125
+2. It retrofits the rei                 ... pos = 0.375 	neg = 0.0  
+3. The poverty and the                  ... pos = 0.75  	neg = 0.375
+4. This is the story of                 ... pos = 0.5   	neg = 0.375
+5. It's  not exactly a                  ... pos = 0.5   	neg = 0.875
+6. It is, however, craf                 ... pos = 1.125 	neg = 0.125
+7. When we meet her, sh                 ... pos = 0.0   	neg = 0.75 
+8. By the end, she has                  ... pos = 0.125 	neg = 0.0  
+9. The path she  takes                  ... pos = 0.0   	neg = 0.125
+10. She has to tiptoe th                ... pos = 1.625 	neg = 0.625
+11. Elizabeth is unique                 ... pos = 0.375 	neg = 0.5  
+12. She is not a histori                ... pos = 0.5   	neg = 0.125
+13. It's not that Elizab                ... pos = 1.0   	neg = 0.5  
+14. It is too easy to id                ... pos = 0.25  	neg = 0.375
+15. A  woman who embodie                ... pos = 0.364 	neg = 0.125
+16. A woman who  retroac                ... pos = 0.0   	neg = 0.0  
+17. She has no  interior                ... pos = 0.5   	neg = 0.25 
+18. She is perfect,  tra                ... pos = 0.0   	neg = 0.75 
+19. Blanchett's performa                ... pos = 1.375 	neg = 0.75 
+20. They brood, they str                ... pos = 0.0   	neg = 0.75 
+21. (Australians do it w                ... pos = 0.875 	neg = 0.375
+22. )   But the  perform                ... pos = 1.875 	neg = 0.25 
+23. Coverage of a scene                 ... pos = 0.0   	neg = 0.25 
+24. It  betokens a nervo                ... pos = 1.375 	neg = 0.125
+25. It may seem rather u                ... pos = 2.0   	neg = 0.75 
+26. We want to see the b                ... pos = 0.125 	neg = 0.25 
+27. We don't want  to se                ... pos = 0.0   	neg = 0.375
+28. We want story, not                  ... pos = 0.0   	neg = 0.125
+29. But still: the sense                ... pos = 0.0   	neg = 0.625
+30. Consider a love scen                ... pos = 0.75  	neg = 0.75 
+31. Maybe Elizabeth's be                ... pos = 0.0   	neg = 0.375
+32. That's a minor quibb                ... pos = 0.5   	neg = 0.125
+33. It is a brutal depic                ... pos = 0.25  	neg = 0.125
+34. While he  elswhere o                ... pos = 0.0   	neg = 0.75 
+35. The  scene's inclusi                ... pos = 0.25  	neg = 0.25 
+36. But real  people die                ... pos = 0.5   	neg = 1.0  
+37. ELIZABETH not only i                ... pos = 0.375 	neg = 0.0  
+38. The argument in favo                ... pos = 0.25  	neg = 0.625
+39. By refusing to deal                 ... pos = 0.25  	neg = 0.625
+40. And it is, at times,                ... pos = 1.0   	neg = 0.25 
+41. If it were a book, a                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3961-185 is Positive         ... pos = 20.739 	neg = 16.125
+Overall score of document
+Total Pos = 20.739
+Total Neg = 16.125
+---------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+0. Deep Blue Sea is a b                 ... pos = 0.125 	neg = 1.625
+1. (As is usual in Holl                 ... pos = 1.5   	neg = 0.5  
+2. ) . Director Renny H                 ... pos = 1.125 	neg = 1.5  
+3. In Deep Blue Sea, Ha                 ... pos = 1.625 	neg = 0.125
+4. The dialogue piles c                 ... pos = 0.125 	neg = 0.625
+5. Samuel L. Jackson pl                 ... pos = 0.25  	neg = 0.0  
+6. Most of the time he                  ... pos = 0.125 	neg = 0.75 
+7. The rest of the cast                 ... pos = 0.0   	neg = 0.625
+8. The most memorable p                 ... pos = 1.5   	neg = 0.5  
+9. Given the lines she                  ... pos = 1.125 	neg = 0.75 
+10. If Deep Blue Sea wer                ... pos = 0.0   	neg = 2.875
+11. The defence that it'                ... pos = 0.375 	neg = 0.5  
+12. In an apparent attem                ... pos = 0.375 	neg = 0.125
+13. But such winking at                 ... pos = 0.0   	neg = 0.0  
+14. The one interesting                 ... pos = 0.0   	neg = 0.125
+15. After a few characte                ... pos = 0.875 	neg = 0.375
+16. The sharks themselve                ... pos = 1.5   	neg = 1.0  
+17. Deep Blue Sea tries                 ... pos = 0.5   	neg = 1.75 
+18. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3081-312 is Negative         ... pos = 12.125 	neg = 13.75
+Overall score of document
+Total Pos = 12.125
+Total Neg = 13.75
+---------------------------------------------------------------------------

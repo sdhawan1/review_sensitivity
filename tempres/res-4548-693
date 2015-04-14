@@ -1,0 +1,41 @@
+0. The release of Stir                  ... pos = 1.0   	neg = 0.25 
+1. Audiences have been                  ... pos = 0.875 	neg = 0.25 
+2. Perhaps they're in t                 ... pos = 0.0   	neg = 0.125
+3. If this is the case,                 ... pos = 1.25  	neg = 0.625
+4. Even if The Sixth Se                 ... pos = 0.0   	neg = 0.125
+5. Kevin Bacon (after b                 ... pos = 0.25  	neg = 0.25 
+6. One night, during a                  ... pos = 0.0   	neg = 0.125
+7. Tom (who is drunk at                 ... pos = 0.125 	neg = 0.125
+8. The method in which                  ... pos = 0.375 	neg = 0.125
+9. After the hypnotism,                 ... pos = 0.375 	neg = 0    
+10. These all seem to be                ... pos = 0.375 	neg = 0.125
+11. Tom thinks he is los                ... pos = 0.5   	neg = 0.375
+12. Tom realizes that he                ... pos = 1.0   	neg = 0.125
+13. What this is, he doe                ... pos = 0.125 	neg = 0.125
+14. As a ghost story, St                ... pos = 0.25  	neg = 0.125
+15. Keopp has balanced t                ... pos = 0.5   	neg = 0.0  
+16. The mood is establis                ... pos = 0.125 	neg = 0.125
+17. Everything involving                ... pos = 2.25  	neg = 0.125
+18. Adapting from Richar                ... pos = 0.25  	neg = 0.125
+19. In the lead role, Ba                ... pos = 0.625 	neg = 0    
+20. His character is eas                ... pos = 1.625 	neg = 0.125
+21. In supporting roles,                ... pos = 0.875 	neg = 0.125
+22. Stir of Echoes marks                ... pos = 2.125 	neg = 0.125
+23. While first I must c                ... pos = 1.25  	neg = 0.0  
+24. I mentioned earlier                 ... pos = 0.0   	neg = 0.125
+25. The second half, I'm                ... pos = 0.75  	neg = 0.0  
+26. Keopp begins to lean                ... pos = 0.875 	neg = 0.125
+27. Still, you've got to                ... pos = 0.0   	neg = 0.0  
+28. Where the director s                ... pos = 0.0   	neg = 0.125
+29. His screenplay is al                ... pos = 0.75  	neg = 0.125
+30. Not only is this an                 ... pos = 0.25  	neg = 0.25 
+31. The use of the color                ... pos = 0.5   	neg = 0.375
+32. As we are taken alon                ... pos = 1.0   	neg = 0.25 
+33. The film has a brain                ... pos = 0.75  	neg = 0.0  
+34. 1999 SUMMER MOVIE RO                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4548-693 is Positive         ... pos = 21.0  	neg = 5.0  
+Overall score of document
+Total Pos = 21.0
+Total Neg = 5.0
+---------------------------------------------------------------------------

@@ -1,0 +1,20 @@
+0. Director: Bryan Sing                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution: Tri                 ... pos = 3.625 	neg = 3.125
+2. "   Or, perhaps, "l                 ... pos = 0.0   	neg = 0.625
+3. "  Apt Pupil, thoug                 ... pos = 1.625 	neg = 1.125
+4.   I wonder if this                  ... pos = 1.625 	neg = 2.125
+5.   . The teenager's                  ... pos = 0.625 	neg = 1.0  
+6. He wants to know all                 ... pos = 0.125 	neg = 0.0  
+7. "  Why should Dussa                 ... pos = 1.125 	neg = 1.25 
+8. It's an original pre                 ... pos = 2.625 	neg = 2.0  
+9. It's just too bad th                 ... pos = 1.625 	neg = 2.417
+10. "  Later, though, i                ... pos = 2.125 	neg = 0.625
+11. But Todd, played amb                ... pos = 1.375 	neg = 1.5  
+12. That's a crucial fla                ... pos = 3.75  	neg = 1.5  
+13.   It's a disappoint                ... pos = 0.875 	neg = 3.0  
+---------------------------------------------------------------------------
+./temp/tmp-6008-760 is Positive         ... pos = 21.125 	neg = 20.292
+Overall score of document
+Total Pos = 21.125
+Total Neg = 20.292
+---------------------------------------------------------------------------

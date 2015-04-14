@@ -1,0 +1,35 @@
+0. Turning a funny joke                 ... pos = 0.0   	neg = 0.25 
+1. Recent Saturday Nigh                 ... pos = 0.375 	neg = 0.5  
+2. Most people have hea                 ... pos = 1.125 	neg = 1.0  
+3. How long could the j                 ... pos = 0.0   	neg = 0.625
+4. Surprisingly, it sus                 ... pos = 0.625 	neg = 0.75 
+5. Brian, the priest (N                 ... pos = 1.0   	neg = 0.125
+6. Both of them had cru                 ... pos = 0.0   	neg = 0.0  
+7. Her flame rekindles                  ... pos = 0.0   	neg = 0.0  
+8. Jake, whose been on                  ... pos = 0.0   	neg = 1.25 
+9. Brian feels passiona                 ... pos = 0.5   	neg = 0.0  
+10. Anna is a workaholic                ... pos = 1.5   	neg = 0.25 
+11. She wants to continu                ... pos = 0.5   	neg = 0.0  
+12. Anna falls in love w                ... pos = 0.75  	neg = 0.25 
+13. That's it.                          ... pos = 0.0   	neg = 0    
+14. The story is pretty                 ... pos = 0.0   	neg = 0.375
+15. There is very little                ... pos = 0.625 	neg = 0.375
+16. The movie tries hard                ... pos = 0.0   	neg = 1.625
+17. This is truly, as No                ... pos = 0.625 	neg = 0.125
+18. " But would grandma                 ... pos = 0.0   	neg = 0.0  
+19. At 127 minutes Faith                ... pos = 0.5   	neg = 0.75 
+20. A half hour could ha                ... pos = 0.875 	neg = 0.75 
+21. It wouldn't seem nea                ... pos = 0.875 	neg = 0.0  
+22. That said, the movie                ... pos = 0.25  	neg = 0.0  
+23. Edward Norton proves                ... pos = 1.625 	neg = 1.75 
+24. Also worth mentionin                ... pos = 0.25  	neg = 0.125
+25. There are also some                 ... pos = 0.625 	neg = 0.0  
+26. Much of the humor is                ... pos = 1.0   	neg = 0.375
+27. A good date movie th                ... pos = 2.0   	neg = 0.0  
+28. Even though it is pr                ... pos = 0.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-1484-329 is Positive         ... pos = 15.75 	neg = 11.875
+Overall score of document
+Total Pos = 15.75
+Total Neg = 11.875
+---------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+0. Bowfinger is a good                  ... pos = 1.25  	neg = 1.0  
+1. The screenplay, writ                 ... pos = 0.0   	neg = 1.0  
+2. Anyone who knows of,                 ... pos = 0.875 	neg = 0.0  
+3. The central premise                  ... pos = 0.125 	neg = 0.125
+4. Bobby Bowfinger (Mar                 ... pos = 1.375 	neg = 0.0  
+5. A new script, an ali                 ... pos = 0.5   	neg = 0.0  
+6. After confronting a                  ... pos = 0.0   	neg = 0.125
+7. But first, Bowfinger                 ... pos = 0.875 	neg = 0.0  
+8. Kit turns the offer                  ... pos = 0.0   	neg = 0.0  
+9. After emptying out h                 ... pos = 0.0   	neg = 1.0  
+10. The actors confront                 ... pos = 0.0   	neg = 0.5  
+11. The unknowing star,                 ... pos = 0.75  	neg = 0.375
+12. When the conditions                 ... pos = 0.5   	neg = 0.125
+13. These include attemp                ... pos = 0.75  	neg = 0.0  
+14. Bowfinger takes it's                ... pos = 0.0   	neg = 0.0  
+15. Certain scenes are s                ... pos = 1.25  	neg = 0.25 
+16. No, hilarious.                      ... pos = 0.25  	neg = 0.25 
+17. Standouts include th                ... pos = 0.625 	neg = 0.75 
+18. And just try not to                 ... pos = 0.75  	neg = 0.25 
+19. While the entire 97-                ... pos = 0.0   	neg = 0.0  
+20. Masterful comedy dir                ... pos = 1.0   	neg = 1.75 
+21. However, the real on                ... pos = 0.125 	neg = 0.125
+22. This is the actor's                 ... pos = 0.5   	neg = 0.125
+23. Murphy excels at eve                ... pos = 1.819 	neg = 0.0  
+24. These three talented                ... pos = 0.75  	neg = 0.125
+25. Steve Martin generat                ... pos = 0.0   	neg = 0.0  
+26. This is a summer-tim                ... pos = 0.125 	neg = 0.125
+27. But it's still just                 ... pos = 0.125 	neg = 0.0  
+28. The supporting cast,                ... pos = 0.375 	neg = 0    
+29. The only presence th                ... pos = 0.75  	neg = 0.125
+30. Graham, attempting t                ... pos = 2.875 	neg = 0.0  
+31. I wouldn't be caught                ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2751-693 is Positive         ... pos = 18.819 	neg = 8.375
+Overall score of document
+Total Pos = 18.819
+Total Neg = 8.375
+---------------------------------------------------------------------------

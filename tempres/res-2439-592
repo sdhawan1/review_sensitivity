@@ -1,0 +1,34 @@
+0. ---Please note that                  ... pos = 0.25  	neg = 0.0  
+1. A copy will also run                 ... pos = 0.25  	neg = 0.0  
+2. Mac VerStandig will                  ... pos = 0.125 	neg = 0.0  
+3. ---. When at its bes                 ... pos = 0.375 	neg = 0.125
+4. Every moment is exhi                 ... pos = 1.0   	neg = 0.25 
+5. However, when at its                 ... pos = 1.125 	neg = 1.75 
+6. Fortunately, the goo                 ... pos = 1.375 	neg = 1.375
+7. The first person ons                 ... pos = 1.375 	neg = 0.125
+8. When we meet him he                  ... pos = 0.0   	neg = 0.125
+9. Like most great war                  ... pos = 0.0   	neg = 0.375
+10. His motivation in ba                ... pos = 0.0   	neg = 0.125
+11. Although, given the                 ... pos = 0.875 	neg = 0.25 
+12. Maximus' skill, brav                ... pos = 1.375 	neg = 0.125
+13. Yet one of the inher                ... pos = 0.875 	neg = 0.25 
+14. Gladiator isn't an e                ... pos = 0.0   	neg = 0    
+15. Soon Maximus is no l                ... pos = 1.5   	neg = 1.875
+16. Above all else, cred                ... pos = 0.375 	neg = 0.0  
+17. And then give John M                ... pos = 0.625 	neg = 0.0  
+18. The two brilliant be                ... pos = 1.375 	neg = 0.625
+19. Thousands of extras                 ... pos = 1.0   	neg = 0.625
+20. As for the scenery a                ... pos = 0.875 	neg = 1.125
+21. Yet surely Scott and                ... pos = 1.125 	neg = 0.125
+22. What does this tell                 ... pos = 0.125 	neg = 0.0  
+23. Perhaps those nine f                ... pos = 1.25  	neg = 0.0  
+24. Unfortunately, the l                ... pos = 2.0   	neg = 1.375
+25. Gladiator's good guy                ... pos = 1.125 	neg = 0.0  
+26. Many of the more lov                ... pos = 0.875 	neg = 0.0  
+27. These issues raise e                ... pos = 2.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2439-592 is Positive         ... pos = 23.5  	neg = 10.75
+Overall score of document
+Total Pos = 23.5
+Total Neg = 10.75
+---------------------------------------------------------------------------

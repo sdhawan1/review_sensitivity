@@ -1,0 +1,37 @@
+0. Tommy Lee Jones may                  ... pos = 0.0   	neg = 0.0  
+1. While he performs ad                 ... pos = 0.5   	neg = 0.125
+2. The volcano starts a                 ... pos = 0.5   	neg = 0.125
+3. Easy for Bruce the S                 ... pos = 0.75  	neg = 0.75 
+4. A scientist appears                  ... pos = 0.125 	neg = 0.0  
+5. Self-appointed gay-s                 ... pos = 0.75  	neg = 1.125
+6. Actually, Tommy, as                  ... pos = 0.125 	neg = 0.5  
+7. This sort of drama w                 ... pos = 0.0   	neg = 0.125
+8. So..when the caldera                 ... pos = 0.125 	neg = 0.0  
+9. They overturn one bu                 ... pos = 0.0   	neg = 0.0  
+10. You no doubt saw the                ... pos = 0.0   	neg = 0.25 
+11. To harden the lava a                ... pos = 0.0   	neg = 0.375
+12. A totally prepostero                ... pos = 0.625 	neg = 0.625
+13. It get stupider.                    ... pos = 0.0   	neg = 0.75 
+14. Now the volcano conv                ... pos = 0.125 	neg = 0.0  
+15. With 30-min notice,                 ... pos = 1.0   	neg = 0.625
+16. This building was sh                ... pos = 0.375 	neg = 0.125
+17. Well, this sends the                ... pos = 0.0   	neg = 0.0  
+18. It's Miller time.                   ... pos = 0.0   	neg = 0    
+19. This volcano just ca                ... pos = 0.0   	neg = 0.0  
+20. There are a couple i                ... pos = 0.25  	neg = 0.625
+21. " scenes.                           ... pos = 0.0   	neg = 0    
+22. The lava stream was                 ... pos = 0.875 	neg = 0.25 
+23. Also one-dimensional                ... pos = 0.0   	neg = 0.125
+24. One stupid example o                ... pos = 0.0   	neg = 0.125
+25. He goes back in the                 ... pos = 0.0   	neg = 0.0  
+26. He jumps INTO the la                ... pos = 0.0   	neg = 0.125
+27. Personally, knowing                 ... pos = 0.0   	neg = 0.0  
+28. Call me harsh for th                ... pos = 0.5   	neg = 0.0  
+29. P.S.                                ... pos = 0.0   	neg = 0    
+30. If you never think a                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-135-1359 is Positive         ... pos = 7.25  	neg = 6.75 
+Overall score of document
+Total Pos = 7.25
+Total Neg = 6.75
+---------------------------------------------------------------------------

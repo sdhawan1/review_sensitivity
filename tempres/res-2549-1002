@@ -1,0 +1,48 @@
+0. All of my film revie                 ... pos = 0.25  	neg = 0.125
+1. E-mail me at justinf                 ... pos = 0.125 	neg = 0.0  
+2. Starring Tom Hanks,                  ... pos = 0.0   	neg = 0.0  
+3. Rated R (contains sc                 ... pos = 0.75  	neg = 0.75 
+4. Comments:  Stephen K                 ... pos = 0.125 	neg = 0.125
+5. In other words, the                  ... pos = 0.0   	neg = 0.125
+6. While some considere                 ... pos = 0.25  	neg = 0.0  
+7. Charles Dickens, for                 ... pos = 0.0   	neg = 0.0  
+8. Several  contemporar                 ... pos = 0.75  	neg = 0    
+9. King's voice, in oth                 ... pos = 0.125 	neg = 0.125
+10. Whether or not you f                ... pos = 0.875 	neg = 0.875
+11. While a number of tu                ... pos = 0.875 	neg = 0.375
+12. THE SHINING, the und                ... pos = 1.75  	neg = 0.125
+13. The film which seems                ... pos = 0.0   	neg = 0.25 
+14. Because of this, die                ... pos = 0.875 	neg = 0.25 
+15. THE GREEN MILE, like                ... pos = 0.125 	neg = 0.125
+16. Was it well worth th                ... pos = 0.0   	neg = 0.125
+17. Yes.                                ... pos = 0     	neg = 0.0  
+18. Is it perfect?                      ... pos = 0.0   	neg = 0.125
+19. No.                                 ... pos = 0     	neg = 0.25 
+20. In fact, THE  SHAWSH                ... pos = 0.0   	neg = 0.375
+21. THE GREEN MILE deals                ... pos = 0.625 	neg = 0.625
+22. The main character,                 ... pos = 1.0   	neg = 0.125
+23. He is the warden at                 ... pos = 0.875 	neg = 0.125
+24. His  staff includes                 ... pos = 0.125 	neg = 0.0  
+25. The audience is pres                ... pos = 0.5   	neg = 0.125
+26. The dark subject mat                ... pos = 0.75  	neg = 0.25 
+27. Coffey  has been sen                ... pos = 1.0   	neg = 0.25 
+28. Coffey seems respons                ... pos = 0.875 	neg = 0.125
+29. While this all may s                ... pos = 0.5   	neg = 0.0  
+30. A mouse, christened                 ... pos = 0.0   	neg = 0.0  
+31. These moments are ne                ... pos = 0.375 	neg = 0.0  
+32. Add in trailers and                 ... pos = 0.125 	neg = 0.5  
+33. This is perhaps THE                 ... pos = 0.0   	neg = 0.625
+34. While a lengthy  run                ... pos = 1.25  	neg = 0.25 
+35. Several scenes seem                 ... pos = 0.5   	neg = 0.25 
+36. The acting in THE GR                ... pos = 1.875 	neg = 0.25 
+37. Tom  Hanks is good a                ... pos = 0.5   	neg = 0.125
+38. Michael Duncan seems                ... pos = 0.125 	neg = 0.375
+39. THE GREEN MILE was r                ... pos = 0.0   	neg = 0.125
+40. While it  doesn't se                ... pos = 2.125 	neg = 1.0  
+41. After the atrocious                 ... pos = 1.25  	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-2549-1002 is Positive        ... pos = 21.25 	neg = 10.25
+Overall score of document
+Total Pos = 21.25
+Total Neg = 10.25
+---------------------------------------------------------------------------

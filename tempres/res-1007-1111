@@ -1,0 +1,33 @@
+0. REVIEW: A Perfect Mu                 ... pos = 0.875 	neg = 0.0  
+1. He plays Steven Tayl                 ... pos = 0.25  	neg = 0.0  
+2. He's the kind of guy                 ... pos = 0.375 	neg = 0.75 
+3. Allegations have spa                 ... pos = 0.0   	neg = 0.0  
+4. "Hitchcock's work sh                 ... pos = 0.75  	neg = 1.0  
+5. Smartly, Davis attem                 ... pos = 0.5   	neg = 0.0  
+6. There are a small gr                 ... pos = 1.25  	neg = 0.375
+7. Australian Craig Mon                 ... pos = 0.875 	neg = 0.0  
+8. Sadly, Davis is not                  ... pos = 0.0   	neg = 0.75 
+9. His direction is inc                 ... pos = 0.125 	neg = 0.875
+10. Emily Hayes (Gwyneth                ... pos = 0.375 	neg = 0.125
+11. Her husband, Steven,                ... pos = 0.625 	neg = 0.5  
+12. He hires David to do                ... pos = 0.75  	neg = 0.625
+13. Surprise surprise, t                ... pos = 0.125 	neg = 0.125
+14. What is even more in                ... pos = 0.125 	neg = 0.5  
+15. Take Fatal Attractio                ... pos = 1.0   	neg = 0.375
+16. But it was The Game                 ... pos = 1.375 	neg = 0.875
+17. The only reason why                 ... pos = 1.0   	neg = 1.0  
+18. That's a pity, since                ... pos = 1.125 	neg = 0.0  
+19. The first half of A                 ... pos = 1.375 	neg = 0.125
+20. The real problems li                ... pos = 0.0   	neg = 0.375
+21. Thus the film takes                 ... pos = 0.875 	neg = 1.0  
+22. In no time, everythi                ... pos = 0.0   	neg = 0.75 
+23. For a film that real                ... pos = 0.0   	neg = 1.25 
+24. It's the confused an                ... pos = 0.625 	neg = 0.75 
+25. Although Davis is de                ... pos = 0.625 	neg = 0.125
+26. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1007-1111 is Positive        ... pos = 15.25 	neg = 12.25
+Overall score of document
+Total Pos = 15.25
+Total Neg = 12.25
+---------------------------------------------------------------------------

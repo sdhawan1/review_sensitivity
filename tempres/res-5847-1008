@@ -1,0 +1,68 @@
+0. *** (out of 4) Truma                 ... pos = 0.875 	neg = 0.125
+1. President Truman was                 ... pos = 0.75  	neg = 0.25 
+2. "Truman" also recall                 ... pos = 0.875 	neg = 0.0  
+3. And Burbank, Califor                 ... pos = 0.125 	neg = 0.0  
+4. If Hollywood is the                  ... pos = 0.0   	neg = 0.375
+5. Combine all these na                 ... pos = 0.25  	neg = 0.0  
+6. Truman leads the per                 ... pos = 0.0   	neg = 0    
+7. His town, his car, a                 ... pos = 0.25  	neg = 0.0  
+8. His idea of reality                  ... pos = 0.875 	neg = 0.25 
+9. The radio explains t                 ... pos = 0.25  	neg = 0.0  
+10. .                                   ... pos = 0     	neg = 0    
+11. .                                   ... pos = 0     	neg = 0    
+12. but then why would a                ... pos = 0.5   	neg = 0.125
+13. The next day during                 ... pos = 0.125 	neg = 0.5  
+14. He is so distracted                 ... pos = 0.0   	neg = 0.125
+15. When the radio comes                ... pos = 0.0   	neg = 0.0  
+16. His suspicion arouse                ... pos = 0.375 	neg = 0.375
+17. The world appears to                ... pos = 0.0   	neg = 0.625
+18. The elevator doors o                ... pos = 0.0   	neg = 0.0  
+19. A grip sees Truman h                ... pos = 0.0   	neg = 0.375
+20. Two security guards                 ... pos = 0.0   	neg = 0.0  
+21. Truman is really sus                ... pos = 0.0   	neg = 0.125
+22. It gets even worse t                ... pos = 0.0   	neg = 0.625
+23. "It's best not to th                ... pos = 0.375 	neg = 0.5  
+24. Truman becomes deter                ... pos = 0.0   	neg = 0.375
+25. At every turn he is                 ... pos = 0.0   	neg = 0.375
+26. His last hope is to                 ... pos = 0.75  	neg = 0.125
+27. You know by now that                ... pos = 0.0   	neg = 0.125
+28. His actions are "rea                ... pos = 0.25  	neg = 0.125
+29. Truman is determined                ... pos = 0.0   	neg = 0.25 
+30. Meanwhile, Christof,                ... pos = 1.0   	neg = 0    
+31. It's sort of like WE                ... pos = 0.0   	neg = 0.125
+32. We root for the CAPT                ... pos = 0.0   	neg = 0    
+33. Our protagonist is c                ... pos = 0.0   	neg = 0.25 
+34. The story, written b                ... pos = 0.5   	neg = 0.25 
+35. Although these quest                ... pos = 0.125 	neg = 0.0  
+36. It certainly didn't                 ... pos = 0.25  	neg = 0.0  
+37. I was particularly d                ... pos = 0.375 	neg = 0.375
+38. Carrey's performance                ... pos = 0.375 	neg = 0.25 
+39. Earlier in the movie                ... pos = 1.125 	neg = 0.25 
+40. The two seemed exclu                ... pos = 0.0   	neg = 0.25 
+41. Perhaps it's not fai                ... pos = 0.0   	neg = 0.75 
+42. But on its own terms                ... pos = 0.0   	neg = 0.125
+43. Sight, sound and pac                ... pos = 0.625 	neg = 0.0  
+44. Much of the first pa                ... pos = 0.25  	neg = 0.125
+45. The scenes are all a                ... pos = 0.25  	neg = 0.125
+46. One hidden camera is                ... pos = 0.0   	neg = 0.25 
+47. The music is well-ch                ... pos = 0.0   	neg = 0.125
+48. The film opens with                 ... pos = 0.75  	neg = 0.125
+49. When the movie ends,                ... pos = 0.625 	neg = 0.0  
+50. Philip Glass' epic m                ... pos = 0.125 	neg = 0    
+51. (Glass has a small c                ... pos = 0.0   	neg = 0.5  
+52. ) . And the pacing o                ... pos = 0.25  	neg = 0.125
+53. There was no unneces                ... pos = 0.625 	neg = 0.75 
+54. One of the first sce                ... pos = 1.625 	neg = 1.375
+55. There's also no poin                ... pos = 0.0   	neg = 0.0  
+56. It's a quick, straig                ... pos = 0.0   	neg = 0.0  
+57. In terms of overall                 ... pos = 0.5   	neg = 0.0  
+58. Both films are well                 ... pos = 0.75  	neg = 0.0  
+59. But neither film rea                ... pos = 0.75  	neg = 0.5  
+60. Nevertheless, I look                ... pos = 0.125 	neg = 0.5  
+61. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5847-1008 is Positive        ... pos = 17.625 	neg = 12.875
+Overall score of document
+Total Pos = 17.625
+Total Neg = 12.875
+---------------------------------------------------------------------------

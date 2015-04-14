@@ -1,0 +1,31 @@
+0. Directed by Clint Ea                 ... pos = 0.0   	neg = 0    
+1. Cast: Clint Eastwood                 ... pos = 0.125 	neg = 0.0  
+2. 1999 - 127 minutes R                 ... pos = 0.125 	neg = 0.125
+3. Reviewed March 21, 1                 ... pos = 0.0   	neg = 0    
+4. As with 1995's "The                  ... pos = 1.375 	neg = 0.75 
+5. " Although unread by                 ... pos = 0.625 	neg = 0.375
+6. ". Eastwood stars as                 ... pos = 0.25  	neg = 0.125
+7. When a well-liked yo                 ... pos = 0.25  	neg = 0.25 
+8. Looking  through the                 ... pos = 0.625 	neg = 0.25 
+9. One of the witnesses                 ... pos = 0.25  	neg = 0.25 
+10. While investigating                 ... pos = 0.0   	neg = 0.25 
+11. Convinced  Frank rea                ... pos = 0.5   	neg = 0.25 
+12. As with the superior                ... pos = 3.25  	neg = 0.875
+13. The treasure of watc                ... pos = 1.5   	neg = 0.75 
+14. On the one  hand, th                ... pos = 1.75  	neg = 0.0  
+15. One of  the unexpect                ... pos = 1.375 	neg = 0.0  
+16. All performances, in                ... pos = 3.5   	neg = 0.375
+17. At the center of eve                ... pos = 1.25  	neg = 0.625
+18. Portrayed as  irresi                ... pos = 0.5   	neg = 0.125
+19. Unlike Robert Redfor                ... pos = 0.75  	neg = 0.5  
+20. Another irksome matt                ... pos = 0.0   	neg = 0.75 
+21. So  many similar mov                ... pos = 0.75  	neg = 0.25 
+22. Even if  intelligent                ... pos = 0.5   	neg = 1.375
+23. Despite its commonpl                ... pos = 2.875 	neg = 0.875
+24. Clint Eastwood is a                 ... pos = 2.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5485-687 is Positive         ... pos = 24.25 	neg = 9.375
+Overall score of document
+Total Pos = 24.25
+Total Neg = 9.375
+---------------------------------------------------------------------------

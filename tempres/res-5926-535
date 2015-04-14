@@ -1,0 +1,36 @@
+0. CAST Trey Parker, Ma                 ... pos = 0.125 	neg = 0.5  
+1. The first half is re                 ... pos = 1.5   	neg = 0.375
+2. The second half, on                  ... pos = 0.0   	neg = 1.0  
+3. It spends the entire                 ... pos = 0.0   	neg = 0.5  
+4. I must say though, I                 ... pos = 0.375 	neg = 0.625
+5. The plot revolves ar                 ... pos = 0.25  	neg = 0.0  
+6. They come out of the                 ... pos = 0.125 	neg = 0.875
+7. The parents (led by                  ... pos = 0.25  	neg = 0.5  
+8. Meanwhile, Kenny, wh                 ... pos = 0.375 	neg = 1.0  
+9. The two of them are                  ... pos = 0.375 	neg = 0.125
+10. Kenny hears of these                ... pos = 0.0   	neg = 1.0  
+11. I think the main pro                ... pos = 0.25  	neg = 0.375
+12. In thirty minutes, t                ... pos = 0.0   	neg = 0.25 
+13. Here, rather than si                ... pos = 0.625 	neg = 0.5  
+14. This of course makes                ... pos = 0.25  	neg = 0.0  
+15. The theatre I was in                ... pos = 0.125 	neg = 0.25 
+16. I've heard people sa                ... pos = 0.375 	neg = 0.375
+17. For the life of me,                 ... pos = 0.0   	neg = 0.125
+18. The only part that I                ... pos = 1.0   	neg = 0.625
+19. I believe the line w                ... pos = 0.375 	neg = 0.625
+20. " I'd also better wa                ... pos = 0.0   	neg = 0.5  
+21. Unless you can reall                ... pos = 0.0   	neg = 0.25 
+22. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+23. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+24. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+25. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+26. See it if you've got                ... pos = 0.0   	neg = 0.25 
+27. * - One of the worst                ... pos = 0.0   	neg = 0.375
+28. See it only if you e                ... pos = 0.375 	neg = 0.0  
+29. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5926-535 is Negative         ... pos = 7.625 	neg = 12.125
+Overall score of document
+Total Pos = 7.625
+Total Neg = 12.125
+---------------------------------------------------------------------------

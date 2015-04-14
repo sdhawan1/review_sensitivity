@@ -1,0 +1,50 @@
+0. ** (out of 4) INSTIN                 ... pos = 0.75  	neg = 1.25 
+1. INSTINCT is "suggest                 ... pos = 0.0   	neg = 0.125
+2. Using the Socratic m                 ... pos = 1.375 	neg = 0.0  
+3. Most of the book is                  ... pos = 0.0   	neg = 0.125
+4. It's pretty unfilmab                 ... pos = 0     	neg = 0.375
+5. Naturally, INSTINCT                  ... pos = 0.125 	neg = 0.0  
+6. The "teacher" is now                 ... pos = 0.0   	neg = 0.25 
+7. During that time he                  ... pos = 0.0   	neg = 0.0  
+8. He has not spoken si                 ... pos = 0.0   	neg = 0    
+9. The "student" is now                 ... pos = 0.0   	neg = 0.125
+10. Theo hears about Eth                ... pos = 0.25  	neg = 0.125
+11. He pulls every strin                ... pos = 0.0   	neg = 0.0  
+12. (The "Socratic metho                ... pos = 0.0   	neg = 0.125
+13. ) . Screenwriter Ger                ... pos = 1.0   	neg = 0.0  
+14. His ingenious gamble                ... pos = 0.875 	neg = 0.0  
+15. And yet the scene is                ... pos = 0.25  	neg = 0.5  
+16. Replace "psychiatris                ... pos = 0.0   	neg = 0.75 
+17. This pattern of smal                ... pos = 0.25  	neg = 1.0  
+18. Theo gives an emotio                ... pos = 0.375 	neg = 0.0  
+19. Gooding gives a top-                ... pos = 1.0   	neg = 0.0  
+20. But the specific wor                ... pos = 0.0   	neg = 0.75 
+21. Much of the movie ta                ... pos = 0.5   	neg = 0.125
+22. But the system is su                ... pos = 0.625 	neg = 0.625
+23. The whole prison see                ... pos = 0.125 	neg = 0.75 
+24. But the characters a                ... pos = 1.125 	neg = 0.0  
+25. They aren't well dev                ... pos = 0.25  	neg = 0    
+26. Their few actions ar                ... pos = 0.625 	neg = 0.0  
+27. It's hard to go wron                ... pos = 0.0   	neg = 1.5  
+28. But when Anthony Hop                ... pos = 0.0   	neg = 0.125
+29. It's too easy and ob                ... pos = 1.125 	neg = 0.375
+30. One final point is w                ... pos = 0.75  	neg = 0.125
+31. Danny Elfman compose                ... pos = 0.0   	neg = 0    
+32. Usually, when Elfman                ... pos = 0.0   	neg = 0.125
+33. For the BATMAN movie                ... pos = 0.0   	neg = 0.0  
+34. For A SIMPLE PLAN he                ... pos = 0.25  	neg = 0.0  
+35. But in INSTINCT, the                ... pos = 0.0   	neg = 0.625
+36. It seemed like a was                ... pos = 0.0   	neg = 0.25 
+37. In all fairness, I f                ... pos = 0.0   	neg = 0.125
+38. All the sparkling go                ... pos = 1.25  	neg = 0.125
+39. But that's not enoug                ... pos = 0.0   	neg = 0.0  
+40. Turteltaub's last mo                ... pos = 0.125 	neg = 0.25 
+41. ) But INSTINCT is so                ... pos = 0.0   	neg = 0.125
+42. I couldn't tell if y                ... pos = 0.0   	neg = 0.625
+43. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4332-1008 is Positive        ... pos = 13.0  	neg = 11.375
+Overall score of document
+Total Pos = 13.0
+Total Neg = 11.375
+---------------------------------------------------------------------------

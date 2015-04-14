@@ -1,0 +1,29 @@
+0. Once the technique -                 ... pos = 0.625 	neg = 0.5  
+1. Thatšs unfortunate,                 ... pos = 0.0   	neg = 0.25 
+2. Then again, what mor                 ... pos = 0.0   	neg = 0.125
+3. Lola (Franka Potente                 ... pos = 0.75  	neg = 0.125
+4. He owes this sum ­                  ... pos = 0.75  	neg = 0.125
+5. Lola insists (scream                 ... pos = 0.0   	neg = 0.0  
+6. What follows is a se                 ... pos = 0.75  	neg = 0.125
+7. I enjoyed the filmma                 ... pos = 0.625 	neg = 0.0  
+8. It works, invigorate                 ... pos = 0.0   	neg = 0.0  
+9. Why?                                 ... pos = 0     	neg = 0.0  
+10. The film is a mere 8                ... pos = 0.125 	neg = 0.625
+11. But, somehow, it doe                ... pos = 0.0   	neg = 0.0  
+12. One too many "and, t                ... pos = 1.25  	neg = 0.75 
+13. I found myself not c                ... pos = 1.125 	neg = 0.0  
+14. Flip- flopping time                 ... pos = 1.625 	neg = 0.125
+15. My favorite sequence                ... pos = 1.875 	neg = 0.5  
+16. There is also a rath                ... pos = 1.0   	neg = 0.5  
+17. More often than not,                ... pos = 0.0   	neg = 0.0  
+18. Not necessarily a ba                ... pos = 0.125 	neg = 2.125
+19. The film explores al                ... pos = 0.375 	neg = 0.375
+20. Had RUN LOLA RUN bee                ... pos = 0.875 	neg = 0.375
+21. Best line:  comes wh                ... pos = 1.0   	neg = 0.625
+22. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3690-1278 is Positive        ... pos = 12.875 	neg = 7.25 
+Overall score of document
+Total Pos = 12.875
+Total Neg = 7.25
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. Starring:  Pierce Br                 ... pos = 0.125 	neg = 0.0  
+1. Super-agent James Bo                 ... pos = 0.125 	neg = 0.25 
+2. This time Bond teams                 ... pos = 0.0   	neg = 0.0  
+3. The film contains fi                 ... pos = 0.0   	neg = 0.0  
+4. Opinion: It does not                 ... pos = 0.625 	neg = 0.125
+5. It neither stands ou                 ... pos = 0.0   	neg = 0.25 
+6. In old Bond movies B                 ... pos = 0.0   	neg = 0.0  
+7. TOMORROW NEVER DIES                  ... pos = 1.25  	neg = 0.0  
+8. Like Leiter's charac                 ... pos = 1.125 	neg = 0.625
+9. Stars: Michelle Yeoh                 ... pos = 0.0   	neg = 0.125
+10. I dont believe in ho                ... pos = 0.125 	neg = 0.0  
+11. But at an airport I                 ... pos = 0.0   	neg = 0.0  
+12. "Leo Tigers prefer e                ... pos = 0.875 	neg = 0.0  
+13. LTs are unbelievably                ... pos = 0.625 	neg = 0.5  
+14. The LT is also class                ... pos = 2.5   	neg = 0.125
+15. This person loves fa                ... pos = 1.5   	neg = 0    
+16. She delights in sibl                ... pos = 1.625 	neg = 0.0  
+17. Sometimes annoyance                 ... pos = 0.0   	neg = 0.125
+18. In love life, the LT                ... pos = 1.0   	neg = 0.125
+19. " . In real life, Mi                ... pos = 0.0   	neg = 0.125
+20. Like Jackie Chan, sh                ... pos = 0.0   	neg = 0.625
+21. She was born in Mala                ... pos = 0.0   	neg = 0.25 
+22. She was taught Malay                ... pos = 0.5   	neg = 0.125
+23. As an athlete Michel                ... pos = 0.0   	neg = 0    
+24. She enjoyed squash,                 ... pos = 0.375 	neg = 0.0  
+25. She studied ballet a                ... pos = 0.375 	neg = 0.0  
+26. In 1983 she won the                 ... pos = 0.25  	neg = 0.0  
+27. Notoriety from the c                ... pos = 0.625 	neg = 0.0  
+28. Michelle has survive                ... pos = 0.625 	neg = 1.0  
+29. Her comeback from re                ... pos = 0.0   	neg = 0    
+30. It is not clear what                ... pos = 0.5   	neg = 0.375
+31. Of her character Wai                ... pos = 1.125 	neg = 0.25 
+32. " My own opinion is                 ... pos = 1.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5255-416 is Positive         ... pos = 16.875 	neg = 5.25 
+Overall score of document
+Total Pos = 16.875
+Total Neg = 5.25
+---------------------------------------------------------------------------

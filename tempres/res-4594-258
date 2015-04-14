@@ -1,0 +1,22 @@
+0. Hugh Grant gets chas                 ... pos = 0.0   	neg = 1.25 
+1. The diffident dip of                 ... pos = 0.75  	neg = 0.25 
+2. Roberts is the rich                  ... pos = 0.375 	neg = 0.375
+3. She wanders into his                 ... pos = 0.125 	neg = 1.875
+4. A few days later she                 ... pos = 0.5   	neg = 0.0  
+5. There are several th                 ... pos = 1.875 	neg = 0.0  
+6. The script by Richar                 ... pos = 0.625 	neg = 0.0  
+7. They've loaded it wi                 ... pos = 1.875 	neg = 0.125
+8. They've given us the                 ... pos = 1.375 	neg = 0.125
+9. And they've given us                 ... pos = 0.75  	neg = 0.0  
+10. It is Roberts who is                ... pos = 0.25  	neg = 0.25 
+11. Grant is the adoring                ... pos = 0.75  	neg = 0.75 
+12. We might, however, w                ... pos = 1.0   	neg = 1.125
+13. We don't expect an a                ... pos = 1.625 	neg = 1.0  
+14. But why quibble?                    ... pos = 0.0   	neg = 0.0  
+15. Summer's here, and t                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4594-258 is Positive         ... pos = 12.25 	neg = 7.25 
+Overall score of document
+Total Pos = 12.25
+Total Neg = 7.25
+---------------------------------------------------------------------------

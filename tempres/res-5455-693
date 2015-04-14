@@ -1,0 +1,43 @@
+0. Starring-Ben Affleck                 ... pos = 0.375 	neg = 0.125
+1. We witnessed it just                 ... pos = 0.125 	neg = 0.0  
+2. It's a similar case                  ... pos = 1.75  	neg = 1.0  
+3. The villain, a shagg                 ... pos = 0.125 	neg = 0.375
+4. In a moment of quest                 ... pos = 0.5   	neg = 0.25 
+5. ' Now, what exactly                  ... pos = 0.375 	neg = 0    
+6. The term is fairly v                 ... pos = 0.375 	neg = 0.125
+7. Originally, I though                 ... pos = 1.75  	neg = 0.25 
+8. Granted, there are b                 ... pos = 0.625 	neg = 0.875
+9. After a striking ope                 ... pos = 0.0   	neg = 0.0  
+10. In for auto theft, R                ... pos = 1.5   	neg = 0.125
+11. But in the aftermath                ... pos = 0.25  	neg = 0.125
+12. This leaves Rudy in                 ... pos = 0.125 	neg = 0.0  
+13. Ignoring those optio                ... pos = 0.0   	neg = 0.5  
+14. Having never seen a                 ... pos = 0.75  	neg = 0.25 
+15. The situation, howev                ... pos = 0.125 	neg = 0.125
+16. Gabriel and his elit                ... pos = 0.625 	neg = 0.125
+17. To do this, they req                ... pos = 0.125 	neg = 0.0  
+18. Unfortunately, Gabri                ... pos = 0.0   	neg = 1.375
+19. Kruger proceeds to c                ... pos = 0.375 	neg = 0.25 
+20. It may read like a m                ... pos = 0.5   	neg = 0.125
+21. Imagine my disappoin                ... pos = 0.125 	neg = 1.5  
+22. It's a thriller of p                ... pos = 0.25  	neg = 1.25 
+23. The fact that `Reind                ... pos = 0.5   	neg = 0.125
+24. The proverbial nail                 ... pos = 0.125 	neg = 0.5  
+25. It worked marvelousl                ... pos = 0.125 	neg = 0.375
+26. No one will be able                 ... pos = 0.875 	neg = 0.75 
+27. Kruger does have the                ... pos = 0.0   	neg = 0.125
+28. His script for `Rein                ... pos = 1.0   	neg = 0.25 
+29. He just underestimat                ... pos = 0.0   	neg = 0.25 
+30. Tis a shame, becau                ... pos = 1.75  	neg = 2.028
+31. Affleck has trouble                 ... pos = 0.125 	neg = 0.875
+32. While not totally de                ... pos = 0.25  	neg = 0.125
+33. It's a mediocre myst                ... pos = 0.25  	neg = 0.778
+34. Let the `Games' begi                ... pos = 0.0   	neg = 0.0  
+35. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+36. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5455-693 is Positive         ... pos = 15.75 	neg = 14.931
+Overall score of document
+Total Pos = 15.75
+Total Neg = 14.931
+---------------------------------------------------------------------------

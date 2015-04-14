@@ -1,0 +1,62 @@
+0. It is hard to imagin                 ... pos = 0.125 	neg = 1.5  
+1. They were shot on fi                 ... pos = 0.0   	neg = 0.125
+2. Marquees and posters                 ... pos = 0.0   	neg = 0.0  
+3. You actually bought                  ... pos = 0.0   	neg = 0.0  
+4. The problem was, you                 ... pos = 0.0   	neg = 1.0  
+5. In the early 80's, t                 ... pos = 0.75  	neg = 0.0  
+6. Most movies were sho                 ... pos = 0.0   	neg = 0.125
+7. While losing the "ar                 ... pos = 0.125 	neg = 0.125
+8. After all, the only                  ... pos = 0.0   	neg = 0.75 
+9. Today, the adult ind                 ... pos = 0.875 	neg = 0.125
+10. BOOGIE NIGHTS starts                ... pos = 0.25  	neg = 0.0  
+11. "Exotic" film direct                ... pos = 0.625 	neg = 0.0  
+12. Eddie has dropped ou                ... pos = 0.0   	neg = 0.25 
+13. To Eddie, Jack's off                ... pos = 0.125 	neg = 0.375
+14. We meet a lot of col                ... pos = 0.875 	neg = 0    
+15. First there is Amber                ... pos = 0.125 	neg = 0.25 
+16. There's also a high                 ... pos = 0.0   	neg = 0.625
+17. We also meet Buck (D                ... pos = 0.0   	neg = 0.125
+18. He wears country-wes                ... pos = 0.25  	neg = 0.0  
+19. "  Another one of th                ... pos = 0.375 	neg = 0.5  
+20. "  Behind the camera                ... pos = 0.125 	neg = 0.5  
+21. Scotty (Phillip Seym                ... pos = 0.25  	neg = 0.25 
+22. Finally, sitting beh                ... pos = 0.0   	neg = 0.125
+23. With such a cast of                 ... pos = 1.375 	neg = 0.75 
+24. Take for example, a                 ... pos = 0.0   	neg = 0.25 
+25. He goes to find out                 ... pos = 0.0   	neg = 0.375
+26. Little Bill demands                 ... pos = 0.0   	neg = 0.5  
+27. "  Another great one                ... pos = 0.25  	neg = 0.25 
+28. Just so one doesn't                 ... pos = 0.5   	neg = 0.0  
+29. "  They count to thr                ... pos = 0.0   	neg = 0.0  
+30. Then Eddie says, "Yo                ... pos = 0.0   	neg = 0.0  
+31. ". Some of the scene                ... pos = 0.125 	neg = 0.25 
+32. To his credit, the s                ... pos = 2.125 	neg = 0.0  
+33. The result is a surp                ... pos = 0.625 	neg = 0.875
+34. Anderson does a good                ... pos = 0.75  	neg = 0.0  
+35. We witness each char                ... pos = 1.875 	neg = 0.0  
+36. Not one character is                ... pos = 1.875 	neg = 0.25 
+37. We even get to see t                ... pos = 0.125 	neg = 0.0  
+38. In a great scene, Ho                ... pos = 0.25  	neg = 0.125
+39. "  Of all the journe                ... pos = 0.625 	neg = 0.125
+40. Wahlberg, perhaps st                ... pos = 0.0   	neg = 0.0  
+41. I look forward to wh                ... pos = 0.125 	neg = 0.375
+42. The real joy of this                ... pos = 0.625 	neg = 0.125
+43. There has been much                 ... pos = 0.875 	neg = 0.125
+44. Over the last number                ... pos = 1.625 	neg = 0.125
+45. Although he has been                ... pos = 1.0   	neg = 0.25 
+46. Reynolds is sincere,                ... pos = 1.125 	neg = 0.875
+47. It definitely pays o                ... pos = 0.25  	neg = 0.625
+48. There are only a few                ... pos = 0.25  	neg = 0.25 
+49. One of the major plo                ... pos = 0.625 	neg = 0.75 
+50. This is one thing th                ... pos = 0.5   	neg = 1.125
+51. Males have a much be                ... pos = 0.625 	neg = 0.375
+52. The good thing is, i                ... pos = 1.0   	neg = 0.125
+53. Make no mistake; the                ... pos = 1.125 	neg = 0.375
+54. Although there is a                 ... pos = 0.125 	neg = 0.5  
+55. It would be a shame                 ... pos = 0.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-4409-781 is Positive         ... pos = 25.25 	neg = 17.375
+Overall score of document
+Total Pos = 25.25
+Total Neg = 17.375
+---------------------------------------------------------------------------

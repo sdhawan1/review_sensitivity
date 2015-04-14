@@ -1,0 +1,43 @@
+0. CrankyCriticŽ movie                 ... pos = 0.625 	neg = 0.0  
+1. Nicolas Cage has so                  ... pos = 0.0   	neg = 0.875
+2. After five years as                  ... pos = 0.125 	neg = 0.75 
+3. His gig has turned i                 ... pos = 0.0   	neg = 0.0  
+4. He can't remember th                 ... pos = 0.125 	neg = 0.0  
+5. His sleep isn't rest                 ... pos = 0.375 	neg = 0.0  
+6. Pierce is a man who                  ... pos = 0.0   	neg = 0.875
+7. .                                    ... pos = 0     	neg = 0    
+8. .                                    ... pos = 0     	neg = 0    
+9. The only distraction                 ... pos = 0.375 	neg = 0.25 
+10. Mary has got some dr                ... pos = 0.875 	neg = 0.25 
+11. drug dealer) Cliff C                ... pos = 0.0   	neg = 0.125
+12. Over the course of t                ... pos = 1.25  	neg = 0.0  
+13. Larry's (John Goodma                ... pos = 1.125 	neg = 0.5  
+14. Marcus (Ving Rhames,                ... pos = 0.625 	neg = 1.153
+15. His stern warning ab                ... pos = 1.0   	neg = 0.0  
+16. Which, of course, is                ... pos = 0     	neg = 0.375
+17. Partner number three                ... pos = 0.0   	neg = 0.125
+18. If he's got to beat                 ... pos = 0.125 	neg = 0.125
+19. If you want to make                 ... pos = 1.75  	neg = 0.625
+20. The supporting chara                ... pos = 1.5   	neg = 0.0  
+21. Nicolas Cage's recur                ... pos = 1.125 	neg = 0.625
+22. His character's ups                 ... pos = 0.625 	neg = 0.5  
+23. Yet, that is exactly                ... pos = 0.5   	neg = 0.25 
+24. ") by a captain who                 ... pos = 0.0   	neg = 0.625
+25. Director Martin Scor                ... pos = 0.0   	neg = 0.0  
+26. There are lovely slo                ... pos = 1.125 	neg = 0.0  
+27. Problem is, beautifu                ... pos = 2.0   	neg = 0.875
+28. At a relatively shor                ... pos = 0.0   	neg = 0.0  
+29. On average, a first                 ... pos = 0.25  	neg = 0.0  
+30. Were Cranky able to                 ... pos = 0.125 	neg = 0.375
+31. Cranky guesses that                 ... pos = 0.125 	neg = 0.375
+32. In a serious story,                 ... pos = 0.0   	neg = 0.375
+33. It does.                            ... pos = 0.0   	neg = 0    
+34. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+35. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+36. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3616-912 is Positive         ... pos = 16.0  	neg = 10.153
+Overall score of document
+Total Pos = 16.0
+Total Neg = 10.153
+---------------------------------------------------------------------------

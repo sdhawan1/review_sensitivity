@@ -1,0 +1,45 @@
+0. _The Fifth Element_                  ... pos = 0.0   	neg = 0.0  
+1. Starring Bruce Willi                 ... pos = 0.0   	neg = 0.0  
+2. Reviewed by Michael                  ... pos = 0.0   	neg = 0.0  
+3. Three Stars.                         ... pos = 0.0   	neg = 0.0  
+4. _The Fifth Element_                  ... pos = 0.125 	neg = 0.25 
+5. It is a perfect exam                 ... pos = 0.25  	neg = 0.375
+6. TFE tells the story                  ... pos = 0.375 	neg = 1.25 
+7. A perfect being, the                 ... pos = 0.25  	neg = 0.875
+8. After a brief and un                 ... pos = 0.25  	neg = 1.0  
+9. Although we are not                  ... pos = 0.75  	neg = 0.25 
+10. An alien ship presum                ... pos = 0.0   	neg = 0.125
+11. Only Lilu (Jovovich)                ... pos = 0.25  	neg = 0.0  
+12. Reconstituted at Fed                ... pos = 0.0   	neg = 0.0  
+13. Together the two ret                ... pos = 0.375 	neg = 0.0  
+14. The most basic quest                ... pos = 0.0   	neg = 0.125
+15. "  With so many awes                ... pos = 1.5   	neg = 0.0  
+16. Underneath the beaut                ... pos = 3.25  	neg = 1.875
+17. Compare TFE to any s                ... pos = 1.75  	neg = 0.875
+18. It cannot be argued                 ... pos = 0.0   	neg = 0.25 
+19. "  Through numerous                 ... pos = 0.375 	neg = 0.25 
+20. For example, Dallas                 ... pos = 0.0   	neg = 0.0  
+21. The sequence of shot                ... pos = 0.5   	neg = 0.125
+22. Leia Organa from Sta                ... pos = 0.25  	neg = 0.25 
+23. The veteran sci-fi f                ... pos = 0.75  	neg = 0.0  
+24. As a movie, TFE is a                ... pos = 0.0   	neg = 0.125
+25. The directing is fla                ... pos = 0.25  	neg = 0.125
+26. But there is entirel                ... pos = 1.625 	neg = 1.0  
+27. An entire character,                ... pos = 1.25  	neg = 0.125
+28. Besson did not learn                ... pos = 1.5   	neg = 0.625
+29. Besson also forgot t                ... pos = 0.5   	neg = 0.125
+30. On the other hand, t                ... pos = 1.375 	neg = 0.0  
+31. The editing is wonde                ... pos = 1.625 	neg = 0.25 
+32. Willis doeshis usual                ... pos = 0.375 	neg = 0.125
+33. Gary Oldman as the b                ... pos = 0.0   	neg = 0.375
+34. Ultimately, TFE must                ... pos = 0.625 	neg = 0.125
+35. Next time, I hope Be                ... pos = 1.625 	neg = 0.125
+36. Until then, TFE will                ... pos = 0.875 	neg = 0.0  
+37. I give it *** out of                ... pos = 0.0   	neg = 0.0  
+38. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5547-116 is Positive         ... pos = 22.625 	neg = 11.0 
+Overall score of document
+Total Pos = 22.625
+Total Neg = 11.0
+---------------------------------------------------------------------------

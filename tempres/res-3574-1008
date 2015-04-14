@@ -1,0 +1,39 @@
+0. **1/2 (out of 4) In                  ... pos = 0.625 	neg = 0.125
+1. After just a few day                 ... pos = 0.25  	neg = 0.0  
+2. If you're not a fan                  ... pos = 0.0   	neg = 0.5  
+3. The plot is as dumb                  ... pos = 0.875 	neg = 0.375
+4. For example, Bobby g                 ... pos = 0.375 	neg = 0.0  
+5. The coach (Henry Win                 ... pos = 0.0   	neg = 0.625
+6. Bobby won the coach'                 ... pos = 0.75  	neg = 0.0  
+7. Bobby gets razzed as                 ... pos = 1.5   	neg = 0.5  
+8. But Coach Klein tell                 ... pos = 0.0   	neg = 0.125
+9. He needs to fight ba                 ... pos = 0.125 	neg = 0.125
+10. So the next time a p                ... pos = 0.0   	neg = 1.0  
+11. Klein is so impresse                ... pos = 0.125 	neg = 0.125
+12. Dumb as this all sou                ... pos = 0.125 	neg = 0.25 
+13. It follows all the c                ... pos = 0.125 	neg = 0.0  
+14. Then he's allowed to                ... pos = 0.0   	neg = 0.0  
+15. The specifics are si                ... pos = 0.375 	neg = 0.375
+16. Coraci, screenwriter                ... pos = 0.0   	neg = 0.0  
+17. It would be easy to                 ... pos = 0.875 	neg = 1.0  
+18. " Instead, the movie                ... pos = 1.5   	neg = 0.125
+19. Once you start winki                ... pos = 0.0   	neg = 1.375
+20. What's also funny is                ... pos = 0.5   	neg = 0.25 
+21. He would have some s                ... pos = 0.25  	neg = 0.0  
+22. So the idea that tac                ... pos = 0.0   	neg = 0.375
+23. It's even funnier fr                ... pos = 0.375 	neg = 0.25 
+24. THE WATERBOY wasn't                 ... pos = 0.0   	neg = 0.0  
+25. The Southern dunce c                ... pos = 1.0   	neg = 0.375
+26. It almost seems as i                ... pos = 0.125 	neg = 0.125
+27. Sandler's character                 ... pos = 1.125 	neg = 0.25 
+28. Regardless, Sandler                 ... pos = 0.0   	neg = 0.0  
+29. Dumb as his movies m                ... pos = 0.0   	neg = 0.375
+30. It's a sure bet that                ... pos = 0.375 	neg = 0.25 
+31. No matter what Ebert                ... pos = 0.0   	neg = 0.25 
+32. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3574-1008 is Positive        ... pos = 11.375 	neg = 9.125
+Overall score of document
+Total Pos = 11.375
+Total Neg = 9.125
+---------------------------------------------------------------------------

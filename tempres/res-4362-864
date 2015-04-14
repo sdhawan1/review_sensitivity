@@ -1,0 +1,44 @@
+0. http://members.aol.c                 ... pos = 0.0   	neg = 0.125
+1. The student strives                  ... pos = 0.5   	neg = 0.125
+2. They are a part of e                 ... pos = 0.5   	neg = 0.5  
+3. Well, at Carver High                 ... pos = 0.0   	neg = 0.125
+4. At Carver High Schoo                 ... pos = 0.0   	neg = 0.125
+5. Tracy Flick is runni                 ... pos = 0.0   	neg = 0.125
+6. Mr. McAllister (Matt                 ... pos = 0.75  	neg = 0.0  
+7. He finds injured foo                 ... pos = 0.0   	neg = 0.875
+8. Deciding to run as w                 ... pos = 0.0   	neg = 0.625
+9. Tracy is absolutely                  ... pos = 0.875 	neg = 0.125
+10. The election is only                ... pos = 0.125 	neg = 0.125
+11. The second main plot                ... pos = 0.25  	neg = 0.5  
+12. He has so many diffe                ... pos = 1.25  	neg = 0.0  
+13. This plot is much li                ... pos = 0.125 	neg = 0.125
+14. It is pretty ugly, u                ... pos = 0.0   	neg = 0.75 
+15. Matthew Broderick ha                ... pos = 0.75  	neg = 0.125
+16. Hopefully, he will s                ... pos = 0.625 	neg = 0.0  
+17. It would do his care                ... pos = 1.375 	neg = 0.625
+18. Reese Witherspoon br                ... pos = 0.375 	neg = 0.125
+19. She is absolutely pe                ... pos = 0.875 	neg = 0.125
+20. This is the third fi                ... pos = 0.5   	neg = 0.125
+21. In 1998's Pleasantvi                ... pos = 1.5   	neg = 0.125
+22. Now I believe that R                ... pos = 0.25  	neg = 0.125
+23. Her characters are a                ... pos = 2.625 	neg = 0.125
+24. When Reese Witherspo                ... pos = 1.125 	neg = 0.0  
+25. Chris Klein's charac                ... pos = 2.25  	neg = 1.75 
+26. "  I wish that we co                ... pos = 1.75  	neg = 0.125
+27. Election reminded me                ... pos = 0.125 	neg = 0.0  
+28. Tracy and Max Fische                ... pos = 1.0   	neg = 0.875
+29. Tracy is a very lika                ... pos = 1.5   	neg = 0.5  
+30. At times she can dis                ... pos = 1.5   	neg = 0.125
+31. Teen comedies have b                ... pos = 0.0   	neg = 0.125
+32. Rather than using th                ... pos = 0.625 	neg = 0.25 
+33. The type of humor in                ... pos = 1.25  	neg = 0.25 
+34. The comedy isn't as                 ... pos = 0.0   	neg = 0.125
+35. Election is truly a                 ... pos = 0.625 	neg = 0.125
+36. This factor may not                 ... pos = 0.75  	neg = 0.625
+37. The Bottom Line- I e                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4362-864 is Positive         ... pos = 26.625 	neg = 10.625
+Overall score of document
+Total Pos = 26.625
+Total Neg = 10.625
+---------------------------------------------------------------------------

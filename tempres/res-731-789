@@ -1,0 +1,31 @@
+0. As you should know,                  ... pos = 0.375 	neg = 0.125
+1. With a total of 4 de                 ... pos = 0.0   	neg = 0.0  
+2. With that said, you                  ... pos = 0.25  	neg = 0.25 
+3. The film is based on                 ... pos = 0.125 	neg = 0.25 
+4. After tarveling for                  ... pos = 0.25  	neg = 0.75 
+5. So, they start picki                 ... pos = 0.25  	neg = 0.125
+6. So far it sounds int                 ... pos = 0.0   	neg = 0.0  
+7. Not when all of this                 ... pos = 0.0   	neg = 0.0  
+8. After that, they bas                 ... pos = 0.0   	neg = 0.0  
+9. That alone shows how                 ... pos = 0.375 	neg = 0.375
+10. Obviously that's not                ... pos = 0.0   	neg = 0.0  
+11. Even if you are goin                ... pos = 0.875 	neg = 0.125
+12. Since all the action                ... pos = 0.75  	neg = 1.25 
+13. Can't the camera men                ... pos = 0.0   	neg = 0.375
+14. I'd like to actually                ... pos = 0.125 	neg = 0.125
+15. The film moves on an                ... pos = 0.125 	neg = 0.0  
+16. With corny dialogue,                ... pos = 2.25  	neg = 1.75 
+17. That's the only thin                ... pos = 0.0   	neg = 0.0  
+18. When I heard that Jo                ... pos = 0.0   	neg = 0.0  
+19. Well now I know.                    ... pos = 0.0   	neg = 0.0  
+20. Crichton's greed for                ... pos = 0.0   	neg = 0.0  
+21. What's there to argu                ... pos = 0.0   	neg = 0.0  
+22. The film couldn't be                ... pos = 0.125 	neg = 0.375
+23. Seeing films like Th                ... pos = 0.125 	neg = 0.125
+24. Please do me a favor                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-731-789 is Negative          ... pos = 6.125 	neg = 6.125
+Overall score of document
+Total Pos = 6.125
+Total Neg = 6.125
+---------------------------------------------------------------------------

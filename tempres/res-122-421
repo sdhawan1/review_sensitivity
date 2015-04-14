@@ -1,0 +1,24 @@
+0. *DOGMA* (rated R, 12                 ... pos = 1.5   	neg = 0.0  
+1. It states that the f                 ... pos = 0.25  	neg = 0.25 
+2. The disclaimer, whic                 ... pos = 0.0   	neg = 1.125
+3. "Dogma" is more abou                 ... pos = 0.0   	neg = 0.375
+4. The convoluted plot                  ... pos = 0.0   	neg = 0.125
+5. Along with Smith reg                 ... pos = 1.0   	neg = 0.0  
+6. Along for the wild r                 ... pos = 1.125 	neg = 0.25 
+7. Once you get over ju                 ... pos = 0.125 	neg = 0.25 
+8. Linda Fiorentino doe                 ... pos = 0.75  	neg = 0.25 
+9. Kevin Smith wrote "D                 ... pos = 0.0   	neg = 0.0  
+10. Smith, who mixes toi                ... pos = 0.625 	neg = 0.0  
+11. When compared with t                ... pos = 1.25  	neg = 0.25 
+12. It takes a couple vi                ... pos = 0.25  	neg = 0.125
+13. On the surface, ther                ... pos = 1.0   	neg = 0.25 
+14. In the end, "Dogma"                 ... pos = 0.625 	neg = 0.125
+15. After watching this                 ... pos = 0.875 	neg = 0.625
+16. I wanted to see a Ke                ... pos = 0.0   	neg = 0.0  
+17. (now in theatres). .                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-421 is Positive          ... pos = 9.375 	neg = 4.0  
+Overall score of document
+Total Pos = 9.375
+Total Neg = 4.0
+---------------------------------------------------------------------------

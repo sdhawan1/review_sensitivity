@@ -1,0 +1,25 @@
+0. Batfans, I have some                 ... pos = 0.75  	neg = 0.875
+1. The good news is tha                 ... pos = 1.5   	neg = 0.25 
+2. The bad news is that                 ... pos = 0.125 	neg = 1.0  
+3. In this latest outin                 ... pos = 0.25  	neg = 0.125
+4. In addition, he gain                 ... pos = 0.5   	neg = 0.0  
+5. In an attempt to fre                 ... pos = 0.0   	neg = 0.375
+6. Cinematographer Step                 ... pos = 0.125 	neg = 0.0  
+7. Costume designer Ing                 ... pos = 0.75  	neg = 0.0  
+8. The biggest change h                 ... pos = 0.125 	neg = 0.125
+9. Val Kilmer, replacin                 ... pos = 0.5   	neg = 0.25 
+10. For the first time i                ... pos = 0.25  	neg = 0.5  
+11. To Kilmer's credit t                ... pos = 0.875 	neg = 0.375
+12. O'Donnell also holds                ... pos = 0.875 	neg = 0.0  
+13. Finally, Nicole Kidm                ... pos = 0.75  	neg = 0.125
+14. Unlike the original                 ... pos = 0.5   	neg = 0.75 
+15. Tommy Lee Jones is a                ... pos = 1.75  	neg = 0.375
+16. It seems more like a                ... pos = 0.25  	neg = 0.625
+17. BATMAN FOREVER deliv                ... pos = 0.25  	neg = 0.25 
+18. The cinematic condim                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2752-155 is Positive         ... pos = 10.125 	neg = 6.375
+Overall score of document
+Total Pos = 10.125
+Total Neg = 6.375
+---------------------------------------------------------------------------

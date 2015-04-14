@@ -1,0 +1,46 @@
+0. Retelling the classi                 ... pos = 0.875 	neg = 0.125
+1. Earlier this May, Le                 ... pos = 0.375 	neg = 0.0  
+2. And now, director Lu                 ... pos = 0.0   	neg = 0.125
+3. Starring Milla Jovov                 ... pos = 0.625 	neg = 1.75 
+4. Besson (who's previo                 ... pos = 0.875 	neg = 0.375
+5. At first, when repor                 ... pos = 0.75  	neg = 0.5  
+6. After seeing the rou                 ... pos = 1.375 	neg = 0.0  
+7. With the hopeful pro                 ... pos = 0.25  	neg = 0.0  
+8. A timeless epic it i                 ... pos = 0.125 	neg = 0.125
+9. Besson is hesitant t                 ... pos = 1.625 	neg = 0.25 
+10. On the shoulders of                 ... pos = 0.375 	neg = 1.5  
+11. There is no human ex                ... pos = 1.125 	neg = 0.375
+12. Jovovich merely ramb                ... pos = 0.125 	neg = 0.5  
+13. Jovivich's unsatisfy                ... pos = 0.625 	neg = 0.0  
+14. She is just another                 ... pos = 0.25  	neg = 0.25 
+15. Jovovich does have a                ... pos = 0.0   	neg = 0.375
+16. Quite frankly, I don                ... pos = 0.125 	neg = 0.125
+17. The script is chock-                ... pos = 0.0   	neg = 0.625
+18. Faye Dunaway plays C                ... pos = 0.875 	neg = 0.0  
+19. All three actors jug                ... pos = 0.0   	neg = 1.0  
+20. The battle scenes ar                ... pos = 1.375 	neg = 0.0  
+21. There's a particular                ... pos = 0.875 	neg = 0.75 
+22. Even his fellow troo                ... pos = 0.25  	neg = 0.125
+23. `The Messenger' is a                ... pos = 0.75  	neg = 0.125
+24. Almost too 90's, it                 ... pos = 0.0   	neg = 0.375
+25. There's gratuitous u                ... pos = 0.0   	neg = 0.0  
+26. ' sprinkled througho                ... pos = 0.0   	neg = 0.0  
+27. I was half-expecting                ... pos = 0.125 	neg = 0.125
+28. There's also the fam                ... pos = 0.0   	neg = 0.25 
+29. It seems terribly mi                ... pos = 0.0   	neg = 0.625
+30. The musical score by                ... pos = 0.5   	neg = 0.125
+31. If it was visual exc                ... pos = 0.75  	neg = 0.375
+32. But the only time th                ... pos = 0.125 	neg = 0.875
+33. During these moments                ... pos = 1.0   	neg = 0.625
+34. It's just too delaye                ... pos = 0.0   	neg = 1.625
+35. `The Messenger: The                 ... pos = 0.0   	neg = 0.875
+36. Anyone searching for                ... pos = 0.125 	neg = 1.5  
+37. Despite my original                 ... pos = 0.375 	neg = 0.625
+38. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+39. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5221-693 is Negative         ... pos = 16.625 	neg = 17.0 
+Overall score of document
+Total Pos = 16.625
+Total Neg = 17.0
+---------------------------------------------------------------------------

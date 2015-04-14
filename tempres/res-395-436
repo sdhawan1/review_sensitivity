@@ -1,0 +1,27 @@
+0. I suppose an argumen                 ... pos = 0.0   	neg = 0.375
+1. Beloved by kids and                  ... pos = 1.75  	neg = 1.5  
+2. As someone who doesn                 ... pos = 1.0   	neg = 2.625
+3. Fortunately, Disney                  ... pos = 0.625 	neg = 0.125
+4. Lucky thing, too --                  ... pos = 1.75  	neg = 0.375
+5. (From        a busin                 ... pos = 1.875 	neg = 0.0  
+6. ).        Visually,                  ... pos = 0.5   	neg = 1.375
+7. Fortunately, that ee                 ... pos = 2.5   	neg = 0.125
+8. Sheriff Woody (voice                 ... pos = 0.125 	neg = 1.125
+9. This accident cataly                 ... pos = 0.0   	neg = 0.5  
+10. That this film manag                ... pos = 1.625 	neg = 0.5  
+11. Operating on this le                ... pos = 0.625 	neg = 0.0  
+12. (The        worst I                 ... pos = 0.0   	neg = 0.625
+13. ).        Sometimes                 ... pos = 0.0   	neg = 1.5  
+14. There's        somew                ... pos = 1.125 	neg = 0.0  
+15. While that leads to                 ... pos = 0.875 	neg = 0.125
+16. (Just don't ask                     ... pos = 0.0   	neg = 0.25 
+17. ).        Where else                ... pos = 0.875 	neg = 0.0  
+18. Forget the self-cong                ... pos = 1.25  	neg = 0.125
+19. Here, as in the roug                ... pos = 1.5   	neg = 0.0  
+20. --------------------                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-395-436 is Positive          ... pos = 18.125 	neg = 11.25
+Overall score of document
+Total Pos = 18.125
+Total Neg = 11.25
+---------------------------------------------------------------------------

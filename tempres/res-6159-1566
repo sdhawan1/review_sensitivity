@@ -1,0 +1,73 @@
+0. Event Horizon (1997)                 ... pos = 0.125 	neg = 0.5  
+1. "  Kathleen Quinlan                  ... pos = 0.0   	neg = 0.25 
+2. " Now, all these res                 ... pos = 1.0   	neg = 0.0  
+3. The only way the fil                 ... pos = 0.125 	neg = 0.75 
+4. Last year, a film ca                 ... pos = 0.625 	neg = 1.0  
+5. That film was "Screa                 ... pos = 0.0   	neg = 0.125
+6. "  By word of mouth,                 ... pos = 0.5   	neg = 0.0  
+7. Hopefully, that word                 ... pos = 1.25  	neg = 0.0  
+8. Whatever occurs at t                 ... pos = 0.5   	neg = 0.125
+9. The film is so scary                 ... pos = 0.125 	neg = 1.0  
+10. And don't worry, the                ... pos = 0.5   	neg = 0.0  
+11. Event Horizon begins                ... pos = 0.0   	neg = 0.0  
+12. We learn that a ship                ... pos = 0.0   	neg = 0.25 
+13. The Event Horizon wa                ... pos = 0.0   	neg = 1.125
+14. Now that she has rea                ... pos = 0.0   	neg = 0.25 
+15. This crew consists o                ... pos = 0.125 	neg = 0.0  
+16. In fact, this film o                ... pos = 0.0   	neg = 0.0  
+17. This crew sets off i                ... pos = 0.0   	neg = 0.625
+18. When they arrive, ab                ... pos = 0.0   	neg = 0.0  
+19. What happened to the                ... pos = 0.0   	neg = 0.0  
+20. All these questions                 ... pos = 0.25  	neg = 0.0  
+21. Blood is found on th                ... pos = 0.0   	neg = 0.25 
+22. The ship's log isn't                ... pos = 0.25  	neg = 0.125
+23. However, soon, the c                ... pos = 0.5   	neg = 0.125
+24. This "heart", as exp                ... pos = 0.0   	neg = 0.375
+25. It folds space and a                ... pos = 0.0   	neg = 0.875
+26. Justin, however, tri                ... pos = 0.75  	neg = 0.5  
+27. Dr. Weir isn't able                 ... pos = 0.5   	neg = 0.0  
+28. Explaining any more                 ... pos = 0.375 	neg = 0.25 
+29. And one of the best                 ... pos = 1.0   	neg = 0.125
+30. Unfortunately, the o                ... pos = 1.125 	neg = 1.0  
+31. Well, the ending of                 ... pos = 0.0   	neg = 0.25 
+32. On the plus side, wh                ... pos = 0.5   	neg = 0.125
+33. The hero-outruns-the                ... pos = 0.5   	neg = 0.125
+34. Basically, Event Hor                ... pos = 0.0   	neg = 0.125
+35. Nothing is as it see                ... pos = 0.25  	neg = 0.625
+36. What is real?                       ... pos = 0.0   	neg = 0.125
+37. And what is just par                ... pos = 0.0   	neg = 0.125
+38. Is the ship alive?                  ... pos = 0.125 	neg = 0.125
+39. Or is the mind playi                ... pos = 0.875 	neg = 0.125
+40. The outcome is more                 ... pos = 0.5   	neg = 0.5  
+41. This is one of those                ... pos = 0.875 	neg = 0.125
+42. The filmmaking is pr                ... pos = 0.0   	neg = 0.125
+43. Director Paul Anders                ... pos = 0.125 	neg = 0.0  
+44. He uses great sets w                ... pos = 0.0   	neg = 0.0  
+45. Sounds seem to come                 ... pos = 0.25  	neg = 0.25 
+46. Composer Michael Kam                ... pos = 1.5   	neg = 0.125
+47. Cinematographer Adri                ... pos = 0.5   	neg = 0.75 
+48. The special effects                 ... pos = 0.75  	neg = 0.25 
+49. All of the effects a                ... pos = 0.5   	neg = 0.25 
+50. The effects are done                ... pos = 0.5   	neg = 0.5  
+51. The acting is well d                ... pos = 0.0   	neg = 0.125
+52. Fishburne gives a te                ... pos = 0.25  	neg = 0.0  
+53. Still, he has a grea                ... pos = 0.625 	neg = 0.0  
+54. Sam Neill steals the                ... pos = 0.5   	neg = 0.0  
+55. His performance is t                ... pos = 0.625 	neg = 0.125
+56. Kathleen Quinlan giv                ... pos = 1.0   	neg = 0.0  
+57. Joely Richardson is                 ... pos = 1.375 	neg = 0.125
+58. Noseworthy is usuall                ... pos = 0.75  	neg = 0.125
+59. The rest of the cast                ... pos = 0.625 	neg = 0.0  
+60. It's mainly Fishburn                ... pos = 0.0   	neg = 0    
+61. Event Horizon is rat                ... pos = 0.125 	neg = 0.5  
+62. This film is definit                ... pos = 0.5   	neg = 0.125
+63. Even the most proud                 ... pos = 0.875 	neg = 0.0  
+64. All of the technical                ... pos = 1.25  	neg = 0.375
+65. Not many films give                 ... pos = 0.0   	neg = 0.25 
+66. I will say it again,                ... pos = 0.75  	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-6159-1566 is Positive        ... pos = 26.625 	neg = 17.5 
+Overall score of document
+Total Pos = 26.625
+Total Neg = 17.5
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. Starring Tobey Magui                 ... pos = 0.0   	neg = 0.0  
+1. Directed By Gary Ros                 ... pos = 0.125 	neg = 0.0  
+2. Gary Ross delivers a                 ... pos = 0.75  	neg = 0.0  
+3. 'Pleasantville' is a                 ... pos = 0.0   	neg = 0.25 
+4. David (Maguire) is t                 ... pos = 0.0   	neg = 0.125
+5. Through a series of                  ... pos = 1.125 	neg = 0.0  
+6. Their actions in the                 ... pos = 0.5   	neg = 0.0  
+7. Gary Ross is no stra                 ... pos = 0.75  	neg = 0.375
+8. And Pleasantville is                 ... pos = 0.0   	neg = 0.375
+9. Although it stumbles                 ... pos = 0.625 	neg = 0.625
+10. With a concept this                 ... pos = 0.0   	neg = 0.0  
+11. In fact, I was sitti                ... pos = 0.5   	neg = 0.125
+12. The cast contribute                 ... pos = 0.125 	neg = 0    
+13. Although Maguire is                 ... pos = 0.75  	neg = 0.25 
+14. He occasionally puts                ... pos = 0.125 	neg = 0.5  
+15. Witherspoon is good                 ... pos = 1.25  	neg = 0.125
+16. She's certainly Gen-                ... pos = 0.25  	neg = 0.0  
+17. Her absolute horror                 ... pos = 0.375 	neg = 0.125
+18. Jeff Daniels deliver                ... pos = 0.125 	neg = 0.125
+19. He tries a little to                ... pos = 0.625 	neg = 1.875
+20. But it takes Joan Al                ... pos = 0.25  	neg = 0.0  
+21. Joan Allen gives a p                ... pos = 0.25  	neg = 0.125
+22. Although she's sadly                ... pos = 0.0   	neg = 2.625
+23. Macy gives another g                ... pos = 0.75  	neg = 0.75 
+24. His three words, 'Wh                ... pos = 0.0   	neg = 0    
+25. ' will make the stro                ... pos = 0.875 	neg = 0.0  
+26. J.T Walsh also makes                ... pos = 0.625 	neg = 0.0  
+27. The special effects                 ... pos = 0.25  	neg = 0.25 
+28. The colour mixes in                 ... pos = 0.625 	neg = 0.125
+29. There's a lovely sce                ... pos = 0.25  	neg = 0.125
+30. The music is also gr                ... pos = 0.5   	neg = 0.375
+31. Halfway through the                 ... pos = 0.875 	neg = 0.0  
+32. Some of the scenes a                ... pos = 0.375 	neg = 0.0  
+33. Then it veers again,                ... pos = 0.5   	neg = 0.75 
+34. And the films conclu                ... pos = 1.375 	neg = 0.25 
+35. In the end, however,                ... pos = 0.75  	neg = 0.125
+36. But with a little bi                ... pos = 0.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1978-1213 is Positive        ... pos = 16.875 	neg = 10.75
+Overall score of document
+Total Pos = 16.875
+Total Neg = 10.75
+---------------------------------------------------------------------------

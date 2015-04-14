@@ -1,0 +1,52 @@
+0. Visit Online Film Cr                 ... pos = 0.75  	neg = 0.0  
+1. As a viewer, it  is                  ... pos = 1.25  	neg = 0.125
+2. We know she flourish                 ... pos = 0.0   	neg = 0.25 
+3. And it is always fas                 ... pos = 0.5   	neg = 0.25 
+4. We are quickly intro                 ... pos = 0.25  	neg = 0.0  
+5. Three Protestants ar                 ... pos = 0.5   	neg = 0.0  
+6. A bishop of  the Rom                 ... pos = 0.75  	neg = 0.625
+7. Princess Elizabeth a                 ... pos = 0.125 	neg = 0.0  
+8. But she soon suffers                 ... pos = 0.0   	neg = 0.875
+9. Imprisoned and then                  ... pos = 0.375 	neg = 0.625
+10. Various  factions fo                ... pos = 0.625 	neg = 0.0  
+11. There are  other pla                ... pos = 0.875 	neg = 0.0  
+12. After Elizabeth asce                ... pos = 0.875 	neg = 0.0  
+13. The realm's coffers                 ... pos = 0.25  	neg = 0.625
+14. France and Spain are                ... pos = 0.75  	neg = 0.0  
+15. Does she have it in                 ... pos = 0.0   	neg = 0.0  
+16. She is the daughter                 ... pos = 0.0   	neg = 0.125
+17. Already the recipien                ... pos = 1.0   	neg = 0.75 
+18. Blanchett's  Elizabe                ... pos = 1.875 	neg = 0.125
+19. In a very demanding                 ... pos = 0.875 	neg = 0.25 
+20. Look  for Blanchett'                ... pos = 0.0   	neg = 0.0  
+21. Geoffrey Rush is jus                ... pos = 0.5   	neg = 0.125
+22. As Francis Walsingha                ... pos = 0.125 	neg = 1.375
+23. There's a slight  re                ... pos = 0.5   	neg = 0.5  
+24. '  Javert is nearly                 ... pos = 0.5   	neg = 0.25 
+25. Much is implied by                  ... pos = 0.125 	neg = 0.625
+26. We see him only  onc                ... pos = 0.0   	neg = 0.0  
+27. Still, Rush assists                 ... pos = 1.625 	neg = 0.0  
+28. As Sir Robert Dudley                ... pos = 0.5   	neg = 0    
+29. His  part demands hi                ... pos = 0.75  	neg = 0.125
+30. Fiennes plays the ra                ... pos = 0.5   	neg = 0.375
+31. He  is good here, bu                ... pos = 1.0   	neg = 0.125
+32. 'Sumptuous' is an ap                ... pos = 0.375 	neg = 0.125
+33. They  function in ta                ... pos = 0.0   	neg = 0    
+34. The few  peasants we                ... pos = 0.5   	neg = 0.375
+35. More noticeably, the                ... pos = 0.625 	neg = 0.0  
+36. The  retinues of Que                ... pos = 0.875 	neg = 0.375
+37. My only criticism is                ... pos = 0.0   	neg = 1.0  
+38. But the look of the                 ... pos = 0.25  	neg = 0.5  
+39. Like the momentum of                ... pos = 2.375 	neg = 0.5  
+40. Shekhar Kapur has ac                ... pos = 0.625 	neg = 0.0  
+41. The scenes are well                 ... pos = 0.625 	neg = 0.625
+42. And at  the end, as                 ... pos = 0.0   	neg = 0.0  
+43. As the undisputed ru                ... pos = 0.625 	neg = 0.625
+44. For an instant we ar                ... pos = 0.25  	neg = 0.25 
+45. Then we cut  away to                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3961-71 is Positive          ... pos = 24.875 	neg = 12.5 
+Overall score of document
+Total Pos = 24.875
+Total Neg = 12.5
+---------------------------------------------------------------------------

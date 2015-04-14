@@ -1,0 +1,15 @@
+0. SHAKESPEARE IN LOVE                  ... pos = 0.625 	neg = 0.125
+1. In this case, it's "                 ... pos = 0.25  	neg = 0.125
+2. " Joseph Fiennes and                 ... pos = 0.5   	neg = 0.0  
+3. Screenwriters Marc N                 ... pos = 0.375 	neg = 0.375
+4. "Cute," "clever," "f                 ... pos = 0.375 	neg = 0.0  
+5. Words I would not  u                 ... pos = 0.375 	neg = 0.0  
+6. " Yes, it's a lot of                 ... pos = 1.375 	neg = 0.375
+7. Still, I was never b                 ... pos = 1.375 	neg = 0.75 
+8. Film Reviews Page: h                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1433-716 is Positive         ... pos = 5.25  	neg = 1.75 
+Overall score of document
+Total Pos = 5.25
+Total Neg = 1.75
+---------------------------------------------------------------------------

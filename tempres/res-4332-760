@@ -1,0 +1,44 @@
+0. Director: Jon Turtle                 ... pos = 0.375 	neg = 0.25 
+1. While watching Insti                 ... pos = 0.375 	neg = 0.375
+2. Even beside the Tarz                 ... pos = 1.375 	neg = 0.0  
+3. It's painfully ideal                 ... pos = 0.0   	neg = 0.125
+4. I didn't hate it --                  ... pos = 1.0   	neg = 0.125
+5. But I can recognize                  ... pos = 0.625 	neg = 0.125
+6. I can also recognize                 ... pos = 1.125 	neg = 0.25 
+7. Things start off in                  ... pos = 1.0   	neg = 0.625
+8. Caulder soon finds h                 ... pos = 0.5   	neg = 0.0  
+9. The subject is Ethan                 ... pos = 0.0   	neg = 0.25 
+10. Powell has been char                ... pos = 0.125 	neg = 0.5  
+11. Through a series of                 ... pos = 0.5   	neg = 0.5  
+12. Even though it reall                ... pos = 0.75  	neg = 0.25 
+13. As I said, Hopkins i                ... pos = 0.625 	neg = 0.375
+14. The character himsel                ... pos = 1.375 	neg = 0.0  
+15. Gooding Jr. does str                ... pos = 1.0   	neg = 0.0  
+16. The screenplay, writ                ... pos = 0.25  	neg = 0.625
+17. Nonetheless, these t                ... pos = 1.875 	neg = 0.0  
+18. Unfortunately, filmm                ... pos = 0.375 	neg = 2.375
+19. Turtletaub and Di Pe                ... pos = 1.75  	neg = 1.125
+20. First, we have the p                ... pos = 0.125 	neg = 0.0  
+21. The prison warden is                ... pos = 0.375 	neg = 1.5  
+22. There's also the pri                ... pos = 0.0   	neg = 0    
+23. The prison guard is                 ... pos = 0.625 	neg = 0.625
+24. Then there's the dau                ... pos = 1.125 	neg = 0.5  
+25. If some of this stuf                ... pos = 0.0   	neg = 0.375
+26. The evil doctor in P                ... pos = 0.125 	neg = 1.625
+27. The offensive carica                ... pos = 0.375 	neg = 0.125
+28. Ashton's evil prison                ... pos = 0.0   	neg = 0.75 
+29. Hopkins' performance                ... pos = 0.625 	neg = 0.0  
+30. And then there's the                ... pos = 0.125 	neg = 0.375
+31. Perhaps what irritat                ... pos = 0.375 	neg = 0.125
+32. The message Powell b                ... pos = 0.75  	neg = 0.375
+33. I can sympathize wit                ... pos = 0.375 	neg = 0.0  
+34. This is the kind of                 ... pos = 1.5   	neg = 1.25 
+35. What does any of thi                ... pos = 0.0   	neg = 0.0  
+36. If all the subplots                 ... pos = 0.25  	neg = 0.125
+37. If the central idea                 ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4332-760 is Positive         ... pos = 22.75 	neg = 15.75
+Overall score of document
+Total Pos = 22.75
+Total Neg = 15.75
+---------------------------------------------------------------------------

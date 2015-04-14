@@ -1,0 +1,36 @@
+0. Final Destination (2                 ... pos = 0.875 	neg = 1.875
+1. How about a classic                  ... pos = 0.75  	neg = 0.0  
+2. That's the kind of b                 ... pos = 0.375 	neg = 0.0  
+3. The unique and horri                 ... pos = 0.75  	neg = 0.125
+4. "  "Final Destinatio                 ... pos = 0.25  	neg = 0.0  
+5. series "The X-Files,                 ... pos = 0.875 	neg = 0.125
+6. It's rare a film of                  ... pos = 0.375 	neg = 0.625
+7. Unlike "Halloween"'s                 ... pos = 0.25  	neg = 0.5  
+8. The intriguing premi                 ... pos = 0.25  	neg = 0.25 
+9. After boarding the p                 ... pos = 0.375 	neg = 0.0  
+10. Once waking up, Alex                ... pos = 0.75  	neg = 0.75 
+11. Shortly after their                 ... pos = 0.0   	neg = 0.875
+12. Now, Alex, and fello                ... pos = 0.75  	neg = 0.75 
+13. The number of surviv                ... pos = 0.125 	neg = 0.75 
+14. "Final Destination"                 ... pos = 1.125 	neg = 0.25 
+15. John Denver's "Rocky                ... pos = 0.625 	neg = 1.0  
+16. Although it's usuall                ... pos = 0.375 	neg = 0.5  
+17. Like the characters                 ... pos = 1.125 	neg = 0.125
+18. The slightest noise                 ... pos = 0.125 	neg = 0.5  
+19. The cast is surprisi                ... pos = 0.75  	neg = 0.125
+20. "  The characters ha                ... pos = 1.875 	neg = 0.0  
+21. Devon Sawa and Ali L                ... pos = 1.875 	neg = 0.0  
+22. Kerr Smith and Krist                ... pos = 0.625 	neg = 0    
+23. "Final Destination"                 ... pos = 0.5   	neg = 0.125
+24. Any age should be ab                ... pos = 1.5   	neg = 0.25 
+25. For the blood loving                ... pos = 1.25  	neg = 0.25 
+26. "Final Destination"                 ... pos = 1.125 	neg = 0.25 
+27. Hands down to the fi                ... pos = 0.5   	neg = 0.0  
+28. By scare, I don't me                ... pos = 0.25  	neg = 0.125
+29. The Bottom Line: Mak                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5575-8 is Positive           ... pos = 20.375 	neg = 10.125
+Overall score of document
+Total Pos = 20.375
+Total Neg = 10.125
+---------------------------------------------------------------------------

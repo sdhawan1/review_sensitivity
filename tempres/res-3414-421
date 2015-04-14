@@ -1,0 +1,15 @@
+0. There's not much to                  ... pos = 0.125 	neg = 0.125
+1. "Dawson's Creek" hea                 ... pos = 0.25  	neg = 0.0  
+2. When the star quarte                 ... pos = 0.875 	neg = 0.5  
+3. But Mox would rather                 ... pos = 0.875 	neg = 0.0  
+4. Mox decides that if                  ... pos = 0.125 	neg = 0.5  
+5. Sounds like high asp                 ... pos = 0.0   	neg = 0.5  
+6. That Van Der Beek an                 ... pos = 0.125 	neg = 0.5  
+7. "Varsity Blues" is w                 ... pos = 0.0   	neg = 0.375
+8. a video capsule revi                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3414-421 is Negative         ... pos = 2.375 	neg = 2.625
+Overall score of document
+Total Pos = 2.375
+Total Neg = 2.625
+---------------------------------------------------------------------------

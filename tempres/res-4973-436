@@ -1,0 +1,58 @@
+0. Filmmaking itself is                 ... pos = 0.0   	neg = 0.125
+1. Directors, actors,                   ... pos = 0.0   	neg = 0.0  
+2. You use diversionary                 ... pos = 0.75  	neg = 0.75 
+3. When the movie is co                 ... pos = 0.0   	neg = 0.125
+4. The        object of                 ... pos = 0.0   	neg = 0.125
+5. On a        slightly                 ... pos = 0.5   	neg = 0.625
+6. And the filmmakers f                 ... pos = 0.125 	neg = 0.0  
+7. David Fincher is har                 ... pos = 0.125 	neg = 0.125
+8. Granted, his debut f                 ... pos = 0.375 	neg = 0.0  
+9. (Fincher says                        ... pos = 0.125 	neg = 0.875
+10. ) But who would have                ... pos = 0.5   	neg = 1.125
+11. As I write, it's har                ... pos = 0.5   	neg = 1.0  
+12. In fact, I hardly kn                ... pos = 0.25  	neg = 0.125
+13. Even if you guess th                ... pos = 0.0   	neg = 0.5  
+14. Michael Douglas, the                ... pos = 1.375 	neg = 0.625
+15. (You may recognize a                ... pos = 0.0   	neg = 0.25 
+16. ) He perches atop a                 ... pos = 1.125 	neg = 0.0  
+17. He's devoted to the                 ... pos = 0.625 	neg = 0.125
+18. He regards his ex-wi                ... pos = 1.25  	neg = 0.0  
+19. He lives in        t                ... pos = 0.0   	neg = 0.375
+20. He's visited by his                 ... pos = 0.5   	neg = 0.0  
+21. "They make your life                ... pos = 0.0   	neg = 0.0  
+22. Resistant        to                 ... pos = 0.5   	neg = 0.25 
+23. Soon, Nicholas                      ... pos = 0.819 	neg = 0.125
+24. Nicholas finds a key                ... pos = 0.875 	neg = 0.0  
+25. And so the game is a                ... pos = 0.0   	neg = 0.125
+26. The movie seems to t                ... pos = 0.25  	neg = 0.125
+27. The general mood is                 ... pos = 1.0   	neg = 0.125
+28. Nicholas bonds with                 ... pos = 0.375 	neg = 0.0  
+29. Lost credit cards, S                ... pos = 0.5   	neg = 0.0  
+30. Justly        parano                ... pos = 0.375 	neg = 0.75 
+31. The screenplay, by t                ... pos = 0.25  	neg = 0.125
+32. It relies on                        ... pos = 0.375 	neg = 0.0  
+33. What's more interest                ... pos = 0.0   	neg = 1.125
+34. With the exception o                ... pos = 0.125 	neg = 1.125
+35. Some skillful                       ... pos = 1.625 	neg = 0.375
+36. Douglas is fine, exu                ... pos = 0.0   	neg = 0.125
+37. Penn is only on-scre                ... pos = 1.0   	neg = 0.125
+38. From a technical sta                ... pos = 0.875 	neg = 0.125
+39. Fincher remains one                 ... pos = 0.0   	neg = 0.0  
+40. " Van Orton's repeat                ... pos = 1.25  	neg = 0.375
+41. Fincher retains                     ... pos = 0.75  	neg = 0    
+42. Cinematographer Harr                ... pos = 0.75  	neg = 0.0  
+43. Jim Haygood's film                  ... pos = 0.875 	neg = 0.125
+44. Compared to what's p                ... pos = 0.625 	neg = 0.0  
+45. For all that, THE GA                ... pos = 0.375 	neg = 0.125
+46. You        can take                 ... pos = 0.0   	neg = 0.25 
+47. For        too long                 ... pos = 0.75  	neg = 0.625
+48. Meandering        fr                ... pos = 1.25  	neg = 0.5  
+49. The end        resul                ... pos = 0.375 	neg = 0.125
+50. Normally, I'm not a                 ... pos = 0.875 	neg = 0.5  
+51. But THE GAME is a li                ... pos = 0.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4973-436 is Positive         ... pos = 25.569 	neg = 14.5 
+Overall score of document
+Total Pos = 25.569
+Total Neg = 14.5
+---------------------------------------------------------------------------

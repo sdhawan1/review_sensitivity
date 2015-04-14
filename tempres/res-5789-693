@@ -1,0 +1,41 @@
+0. In Double Jeopardy,                  ... pos = 0.25  	neg = 0.25 
+1. Think of the plot as                 ... pos = 0.0   	neg = 0.0  
+2. The finished product                 ... pos = 0.125 	neg = 0.5  
+3. `Alex, I'll take Hom                 ... pos = 0.0   	neg = 0.375
+4. One night, her husba                 ... pos = 0.625 	neg = 0.0  
+5. Libby awakens in the                 ... pos = 0.75  	neg = 0.375
+6. She follows a trail                  ... pos = 1.125 	neg = 1.375
+7. Nick is presumed dea                 ... pos = 0.125 	neg = 0.75 
+8. Now, please don't th                 ... pos = 0.625 	neg = 0.0  
+9. If you haven't seen                  ... pos = 0.375 	neg = 0.0  
+10. But seriously, the i                ... pos = 1.25  	neg = 0.25 
+11. During the most vita                ... pos = 0.75  	neg = 0.125
+12. I imagine the writer                ... pos = 1.125 	neg = 0.875
+13. Most, unfortunately,                ... pos = 0.125 	neg = 1.25 
+14. One is Tommy Lee Jon                ... pos = 0.0   	neg = 0.375
+15. Jones is always wond                ... pos = 1.0   	neg = 0.125
+16. Judd, as a likable h                ... pos = 0.625 	neg = 0.125
+17. While emotionally un                ... pos = 0.25  	neg = 0.625
+18. The actors, and thei                ... pos = 1.125 	neg = 0.25 
+19. And now, back to the                ... pos = 0.0   	neg = 0.0  
+20. While behind bars, L                ... pos = 0.0   	neg = 0.375
+21. This law, called `do                ... pos = 0.125 	neg = 0.25 
+22. Yes, you heard right                ... pos = 0.0   	neg = 0.0  
+23. The movie degenerate                ... pos = 0.0   	neg = 0.0  
+24. The final scenes, wh                ... pos = 1.5   	neg = 0.625
+25. Ironically, it is th                ... pos = 0.0   	neg = 0.625
+26. At least Double Jeop                ... pos = 0.0   	neg = 0.375
+27. Unfortunately, Jones                ... pos = 0.875 	neg = 1.125
+28. But he and Ashley Ju                ... pos = 0.875 	neg = 0.0  
+29. Judd, in particular,                ... pos = 0.5   	neg = 0.625
+30. Hmmm... perhaps this                ... pos = 0.75  	neg = 0.0  
+31. It is disappointing,                ... pos = 0.25  	neg = 0.375
+32. It's nicely shot and                ... pos = 0.5   	neg = 1.5  
+33. Tis a shame that D                ... pos = 0.625 	neg = 1.125
+34. Contact Jamey at:  m                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5789-693 is Positive         ... pos = 16.25 	neg = 14.625
+Overall score of document
+Total Pos = 16.25
+Total Neg = 14.625
+---------------------------------------------------------------------------

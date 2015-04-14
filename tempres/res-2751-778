@@ -1,0 +1,30 @@
+0. Starring Steve Marti                 ... pos = 0.0   	neg = 0.0  
+1. The last Steve Marti                 ... pos = 1.125 	neg = 0.125
+2. As a millionaire lea                 ... pos = 0.875 	neg = 0.5  
+3. In his most recent m                 ... pos = 0.625 	neg = 0.125
+4. He wants to direct a                 ... pos = 2.25  	neg = 0.0  
+5. Playing the title ro                 ... pos = 1.25  	neg = 0.25 
+6. This con man is very                 ... pos = 0.625 	neg = 0.875
+7. Maybe the message is                 ... pos = 0.25  	neg = 1.25 
+8. Bowfinger is a very                  ... pos = 1.0   	neg = 0.125
+9. Martin, who also wro                 ... pos = 1.375 	neg = 0.375
+10. The story follows ag                ... pos = 0.75  	neg = 0.375
+11. In order to attract                 ... pos = 0.125 	neg = 0.0  
+12. The only problem is                 ... pos = 0.0   	neg = 0.5  
+13. But this won't stop                 ... pos = 0.5   	neg = 0.0  
+14. He is so determined                 ... pos = 0.0   	neg = 0.125
+15. He has his actors ap                ... pos = 0.875 	neg = 0.0  
+16. Will Bowfinger be ab                ... pos = 0.25  	neg = 0.125
+17. Or will Kit Ramsey d                ... pos = 0.25  	neg = 0.125
+18. Bowfinger is a very                 ... pos = 1.5   	neg = 0.125
+19. The only area where                 ... pos = 0.0   	neg = 0.75 
+20. This is the kind of                 ... pos = 1.0   	neg = 0.75 
+21. Besides the very rep                ... pos = 1.125 	neg = 0.125
+22. If you take a movie                 ... pos = 0.625 	neg = 0.0  
+23. If you accept the in                ... pos = 0.5   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2751-778 is Positive         ... pos = 16.875 	neg = 7.5  
+Overall score of document
+Total Pos = 16.875
+Total Neg = 7.5
+---------------------------------------------------------------------------

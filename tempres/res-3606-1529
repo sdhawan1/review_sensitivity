@@ -1,0 +1,23 @@
+0. Martin Scorsese is k                 ... pos = 0.375 	neg = 0.25 
+1. He is known for caus                 ... pos = 0.25  	neg = 0.375
+2. But what he isn't kn                 ... pos = 0.125 	neg = 0.125
+3. KUNDUN gives us a in                 ... pos = 0.0   	neg = 0.5  
+4. >From the beginning                  ... pos = 1.0   	neg = 0.75 
+5. When he comes of age                 ... pos = 0.0   	neg = 0.25 
+6. He's greeted with an                 ... pos = 0.375 	neg = 0.0  
+7. There are several to                 ... pos = 1.375 	neg = 0.125
+8. One particular scene                 ... pos = 0.25  	neg = 0.25 
+9. His family is seated                 ... pos = 0.25  	neg = 0.375
+10. Unfortunately, there                ... pos = 0.0   	neg = 1.0  
+11. The acting is admira                ... pos = 1.125 	neg = 0.125
+12. The script is to unq                ... pos = 0.375 	neg = 0.125
+13. In addition the film                ... pos = 0.125 	neg = 0.125
+14. On a better note, th                ... pos = 0.0   	neg = 0.125
+15. I would suggest you                 ... pos = 0.5   	neg = 0.375
+16. -----== Posted via D                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3606-1529 is Positive        ... pos = 6.125 	neg = 4.875
+Overall score of document
+Total Pos = 6.125
+Total Neg = 4.875
+---------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+0. Starring Jim Carrey,                 ... pos = 0.0   	neg = 0.0  
+1. Review by Laurence M                 ... pos = 0.0   	neg = 0.0  
+2. When I first saw the                 ... pos = 0.125 	neg = 0.625
+3. Then, I started hear                 ... pos = 0.375 	neg = 0.125
+4. So I began to expect                 ... pos = 0.875 	neg = 0.25 
+5. So which is The Trum                 ... pos = 0.0   	neg = 0.125
+6. Well, neither.                       ... pos = 0.0   	neg = 0.25 
+7. Instead, the film is                 ... pos = 0.125 	neg = 0.25 
+8. Certainly, it is Car                 ... pos = 0.75  	neg = 0.375
+9. Carrey plays Truman                  ... pos = 0.5   	neg = 0.25 
+10. Everything and every                ... pos = 0.5   	neg = 0.5  
+11. There are thousands                 ... pos = 0.375 	neg = 0.125
+12. ) Truman, of course,                ... pos = 0.0   	neg = 0.5  
+13. He accepts his life                 ... pos = 0.0   	neg = 0.125
+14. Truman lives a comfo                ... pos = 0.0   	neg = 0.0  
+15. He works as an insur                ... pos = 1.25  	neg = 0    
+16. )  However, he longs                ... pos = 1.0   	neg = 0.0  
+17. His high school crus                ... pos = 0.0   	neg = 0.125
+18. In reality, she was                 ... pos = 0.375 	neg = 1.75 
+19. Truman is urged on i                ... pos = 1.125 	neg = 0.125
+20. One day, a spotlight                ... pos = 0.0   	neg = 0.25 
+21. He sees a missing wa                ... pos = 0.25  	neg = 0.0  
+22. Extras appear to blo                ... pos = 0.25  	neg = 0.375
+23. Truman also has pers                ... pos = 0.0   	neg = 0.25 
+24. When he was a young                 ... pos = 0.25  	neg = 0.75 
+25. Obviously, it was an                ... pos = 0.0   	neg = 0.25 
+26. Yet Truman thinks it                ... pos = 0.5   	neg = 0.125
+27. This is not an easy                 ... pos = 0.25  	neg = 0.25 
+28. Additionally, sublim                ... pos = 0.625 	neg = 0.125
+29. I began to feel disc                ... pos = 0.375 	neg = 0.0  
+30. Not discontentment w                ... pos = 0.25  	neg = 0.375
+31. Truman is the number                ... pos = 0.25  	neg = 0.25 
+32. Even his material po                ... pos = 0.25  	neg = 0.25 
+33. The filmmakers went                 ... pos = 0.5   	neg = 0.25 
+34. In my opinion, The T                ... pos = 0.625 	neg = 0.125
+35. All of this, with on                ... pos = 0.25  	neg = 0    
+36. Think not?                          ... pos = 0.0   	neg = 0.0  
+37. Then think about The                ... pos = 0.125 	neg = 0.0  
+38. For over six years,                 ... pos = 0.375 	neg = 0.0  
+39. For most viewers, it                ... pos = 1.25  	neg = 0.125
+40. To take it further,                 ... pos = 0.75  	neg = 0.25 
+41. Yet also all the mor                ... pos = 0.25  	neg = 0.125
+42. And that is the mess                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5847-648 is Positive         ... pos = 15.0  	neg = 9.75 
+Overall score of document
+Total Pos = 15.0
+Total Neg = 9.75
+---------------------------------------------------------------------------

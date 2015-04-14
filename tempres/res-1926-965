@@ -1,0 +1,41 @@
+0. Most movies willingl                 ... pos = 1.75  	neg = 0.0  
+1. Not so with director                 ... pos = 1.875 	neg = 1.125
+2. First there's Lester                 ... pos = 1.125 	neg = 1.75 
+3. But this isn' t To D                 ... pos = 0     	neg = 0.0  
+4. Next there's Carolyn                 ... pos = 0.125 	neg = 0.0  
+5. She who says part of                 ... pos = 0.125 	neg = 0.125
+6. " So we know what po                 ... pos = 0.0   	neg = 0.0  
+7. After her there's th                 ... pos = 0.0   	neg = 0.125
+8. In addition there's                  ... pos = 1.75  	neg = 0.0  
+9. The key word here is                 ... pos = 0.5   	neg = 0.125
+10. Yes, voice-overs.                   ... pos = 0     	neg = 0.0  
+11. For an audience well                ... pos = 1.125 	neg = 0.125
+12. As if that wasn't en                ... pos = 0.125 	neg = 0.375
+13. Unlike those two, ho                ... pos = 0.75  	neg = 0.25 
+14. This both provides a                ... pos = 1.5   	neg = 1.375
+15. That there will be n                ... pos = 0.125 	neg = 0.375
+16. But then, surprise s                ... pos = 0.375 	neg = 0.75 
+17. Not that kind of end                ... pos = 0.0   	neg = 0.375
+18. More the kind of end                ... pos = 1.5   	neg = 0.375
+19. And, as this is a mo                ... pos = 0.0   	neg = 0.25 
+20. But then there's tha                ... pos = 2.0   	neg = 0.0  
+21. Which calls for a re                ... pos = 0.125 	neg = 0.125
+22. In not so many words                ... pos = 0.875 	neg = 0.125
+23. And it is, both beca                ... pos = 0.25  	neg = 0.25 
+24. It's the old the-mor                ... pos = 0.5   	neg = 0.5  
+25. And his awakening is                ... pos = 2.75  	neg = 1.375
+26. That is, everything                 ... pos = 1.25  	neg = 0.875
+27. But then, in the fin                ... pos = 0.625 	neg = 0.0  
+28. And it's all done wi                ... pos = 0.125 	neg = 0.375
+29. In those final minut                ... pos = 0.0   	neg = 0.625
+30. Meaning that not onl                ... pos = 1.75  	neg = 1.625
+31. It's perhaps the str                ... pos = 0.5   	neg = 0.0  
+32. Five stars.                         ... pos = 0     	neg = 0.0  
+33. Out of five.                        ... pos = 0     	neg = 0.0  
+34. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-965 is Positive         ... pos = 23.5  	neg = 13.375
+Overall score of document
+Total Pos = 23.5
+Total Neg = 13.375
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. by Curtis Edmonds --                 ... pos = 0.25  	neg = 0.0  
+1. Seth, who has never                  ... pos = 0.125 	neg = 0.0  
+2. Maggie tries to expl                 ... pos = 0.5   	neg = 0.5  
+3. Seth knows the real                  ... pos = 0.75  	neg = 0.25 
+4. Well, it could be th                 ... pos = 0.625 	neg = 0.125
+5. This movie is too bi                 ... pos = 0.0   	neg = 0.625
+6. In a Hollywood that                  ... pos = 2.5   	neg = 0.125
+7. It is, superficially                 ... pos = 1.125 	neg = 0.25 
+8. One of the many thin                 ... pos = 0.0   	neg = 0.125
+9. The movie is chock-f                 ... pos = 0.0   	neg = 0.5  
+10. ), watching the worl                ... pos = 0.625 	neg = 0.0  
+11. But instead of intro                ... pos = 0.5   	neg = 0.0  
+12. A mother takes care                 ... pos = 0.125 	neg = 0.0  
+13. It's a touching and                 ... pos = 0.25  	neg = 0.0  
+14. We feel Seth's pain,                ... pos = 0.875 	neg = 0.125
+15. And if Cage is wonde                ... pos = 1.375 	neg = 0.125
+16. Their early scenes a                ... pos = 0.625 	neg = 0.0  
+17. The scenes where Set                ... pos = 2.375 	neg = 1.0  
+18. " in Con Air.                       ... pos = 0.0   	neg = 0.0  
+19. As an angel, Cage is                ... pos = 1.125 	neg = 0.125
+20. And as he falls to e                ... pos = 1.5   	neg = 0.375
+21. Ryan has a much less                ... pos = 1.0   	neg = 0.125
+22. Her opening scene is                ... pos = 0.5   	neg = 0.125
+23. Unfortunately, she's                ... pos = 0.125 	neg = 0.875
+24. Nonetheless, she's g                ... pos = 1.375 	neg = 0.125
+25. Ryan's main task is                 ... pos = 0.375 	neg = 0.125
+26. I haven't told you e                ... pos = 0.0   	neg = 0.0  
+27. I haven't even menti                ... pos = 0.5   	neg = 0.0  
+28. I haven't mentioned                 ... pos = 0.0   	neg = 0.0  
+29. This is a stellar mo                ... pos = 1.25  	neg = 0.125
+30. The Hollywood Stock                 ... pos = 0.0   	neg = 0.125
+31. No jury in the world                ... pos = 0.0   	neg = 0.25 
+32. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+33. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5757-1045 is Positive        ... pos = 20.375 	neg = 6.125
+Overall score of document
+Total Pos = 20.375
+Total Neg = 6.125
+---------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+0. Good God almighty, w                 ... pos = 0.75  	neg = 0.0  
+1. Let me ask you somet                 ... pos = 0.0   	neg = 0.0  
+2. Are you feeling a li                 ... pos = 0.25  	neg = 1.125
+3. Do you need somethin                 ... pos = 0.0   	neg = 0.125
+4. Never fear, because                  ... pos = 1.125 	neg = 0.125
+5. It's funny, tragic,                  ... pos = 0.25  	neg = 0.125
+6. If nothing else, "Am                 ... pos = 0.625 	neg = 0.25 
+7. Oh, and by the way,                  ... pos = 0.0   	neg = 0.625
+8. Lester Burnham (Kevi                 ... pos = 0.125 	neg = 0.125
+9. He works at a dead-e                 ... pos = 0.0   	neg = 0.75 
+10. The film opens with                 ... pos = 0.0   	neg = 0.875
+11. He would seem to hav                ... pos = 0.125 	neg = 0.125
+12. Wishing his life wer                ... pos = 0.0   	neg = 0.375
+13. His wait is ended wh                ... pos = 0.125 	neg = 0.5  
+14. During the routine,                 ... pos = 1.0   	neg = 0.0  
+15. He quits his job (bu                ... pos = 0.125 	neg = 0.0  
+16. Lester's newfound fr                ... pos = 1.125 	neg = 0.0  
+17. The above plot summa                ... pos = 4.625 	neg = 0.0  
+18. That's not an exagge                ... pos = 0.0   	neg = 0.0  
+19. Folks, if there was                 ... pos = 0.0   	neg = 0.25 
+20. Spacey is a complete                ... pos = 0.625 	neg = 0.125
+21. At times, it seems l                ... pos = 0.5   	neg = 0.25 
+22. When his lines are c                ... pos = 0.75  	neg = 0.0  
+23. When they're dramati                ... pos = 0.5   	neg = 0.0  
+24. When poignant, it's                 ... pos = 0.5   	neg = 0.0  
+25. I could go on raving                ... pos = 0.625 	neg = 0.0  
+26. While Spacey deliver                ... pos = 1.625 	neg = 0.25 
+27. That burden may actu                ... pos = 0.5   	neg = 0.0  
+28. He initially appears                ... pos = 1.75  	neg = 0.125
+29. As it turns out, Ric                ... pos = 1.125 	neg = 0.375
+30. A particularly revea                ... pos = 0.625 	neg = 0.0  
+31. " The quote feels li                ... pos = 0.625 	neg = 0.25 
+32. Bentley is a revelat                ... pos = 0.0   	neg = 0.125
+33. It's not easy to pla                ... pos = 1.25  	neg = 0.875
+34. Every other actor in                ... pos = 0.0   	neg = 0.0  
+35. Bening starts off as                ... pos = 0.0   	neg = 1.625
+36. Suvari likewise seem                ... pos = 0.0   	neg = 1.375
+37. Suvari really shows                 ... pos = 0.375 	neg = 0.125
+38. Chris Cooper, playin                ... pos = 0.625 	neg = 0.125
+39. It's a fine performa                ... pos = 2.5   	neg = 0.25 
+40. A great strength of                 ... pos = 1.5   	neg = 0.125
+41. The characters here                 ... pos = 1.875 	neg = 0.0  
+42. I was often reminded                ... pos = 0.125 	neg = 1.125
+43. Of course, it is eve                ... pos = 0.0   	neg = 0.875
+44. There are similar ch                ... pos = 1.875 	neg = 0.0  
+45. Just remember, whate                ... pos = 1.125 	neg = 0.0  
+46. What makes this film                ... pos = 0.375 	neg = 0.25 
+47. Having only worked i                ... pos = 0.0   	neg = 0.125
+48. The film doesn't fee                ... pos = 1.25  	neg = 0.0  
+49. The screenplay, by A                ... pos = 1.625 	neg = 0.0  
+50. Mendes utilizes the                 ... pos = 0.25  	neg = 0.0  
+51. It's nice to see a m                ... pos = 0.375 	neg = 0.75 
+52. Ultimately, this fil                ... pos = 0.0   	neg = 0.5  
+53. Sometimes they are t                ... pos = 0.25  	neg = 0.75 
+54. An overriding illust                ... pos = 0.0   	neg = 0.25 
+55. Not only does this h                ... pos = 1.0   	neg = 0.125
+56. No matter how much L                ... pos = 0.125 	neg = 1.125
+57. In this, the film wo                ... pos = 0.125 	neg = 0.125
+58. For you see, though                 ... pos = 0.125 	neg = 0    
+59. At the time of his d                ... pos = 0.0   	neg = 1.125
+60. "American Beauty" is                ... pos = 0.625 	neg = 0.125
+61. It takes a microscop                ... pos = 0.25  	neg = 0.5  
+62. Several films have t                ... pos = 1.125 	neg = 0.625
+63. " This is a stunning                ... pos = 0.5   	neg = 0.125
+64. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-1477 is Positive        ... pos = 39.25 	neg = 19.875
+Overall score of document
+Total Pos = 39.25
+Total Neg = 19.875
+---------------------------------------------------------------------------

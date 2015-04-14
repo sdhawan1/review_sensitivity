@@ -1,0 +1,18 @@
+0. Sean Connery, in his                 ... pos = 0.875 	neg = 0.875
+1. " The film is Jon Am                 ... pos = 0.0   	neg = 0.125
+2. " The comment is, "C                 ... pos = 0     	neg = 0.125
+3. I never thought I'd                  ... pos = 0.0   	neg = 0.0  
+4. ". I'm a little tire                 ... pos = 0.5   	neg = 0.25 
+5. After a Rembrandt is                 ... pos = 0.0   	neg = 0.125
+6. Slowly, she starts t                 ... pos = 0.25  	neg = 0.0  
+7. Catherine Zeta-Jones                 ... pos = 1.25  	neg = 0.125
+8. Sean Connery is also                 ... pos = 0.625 	neg = 0.125
+9. But the film's plot                  ... pos = 0.75  	neg = 0.625
+10. Director Jon Amiel w                ... pos = 0.375 	neg = 0.125
+11. a (short) review by                 ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3431-421 is Positive         ... pos = 4.75  	neg = 2.625
+Overall score of document
+Total Pos = 4.75
+Total Neg = 2.625
+---------------------------------------------------------------------------

@@ -1,0 +1,37 @@
+0. Seen on 10 September                 ... pos = 0.0   	neg = 0.25 
+1. While *The Full Mont                 ... pos = 0.25  	neg = 0.125
+2. "Sheffield, a city o                 ... pos = 0.0   	neg = 0.0  
+3. " cries a propaganda                 ... pos = 0.0   	neg = 0.0  
+4. This is a stark cont                 ... pos = 0.5   	neg = 0.125
+5. The streets are not                  ... pos = 0.25  	neg = 0.375
+6. The ghosts in this c                 ... pos = 0.5   	neg = 0.0  
+7. The few jobs that ar                 ... pos = 0.875 	neg = 0.0  
+8. Robert Carlyle plays                 ... pos = 0.125 	neg = 0.0  
+9. Along with his frien                 ... pos = 0.125 	neg = 0.0  
+10. A brief bit of eaves                ... pos = 0.875 	neg = 0.0  
+11. Then he would have m                ... pos = 0.0   	neg = 0.0  
+12. What ensues is not u                ... pos = 1.125 	neg = 0.125
+13. First there is the s                ... pos = 0.25  	neg = 0.625
+14. Luckily, Guy is extr                ... pos = 1.125 	neg = 0.25 
+15. As is often the case                ... pos = 0.0   	neg = 0.25 
+16. Gerald lives a middl                ... pos = 0.375 	neg = 0.25 
+17. Lomper lives in a Vi                ... pos = 0.0   	neg = 0.0  
+18. Dave has sexual trou                ... pos = 0.0   	neg = 0.125
+19. Many of these men ha                ... pos = 0.0   	neg = 0.25 
+20. Men often define the                ... pos = 0.25  	neg = 0    
+21. " This is clear in T                ... pos = 0.0   	neg = 0.125
+22. What makes it a winn                ... pos = 0.625 	neg = 0.75 
+23. That is certainly no                ... pos = 0.5   	neg = 1.0  
+24. It's hard to find a                 ... pos = 0.0   	neg = 0.75 
+25. Some scenes to watch                ... pos = 0.0   	neg = 0.0  
+26. " The soundtrack is                 ... pos = 0.125 	neg = 0.375
+27. As with many British                ... pos = 0.0   	neg = 0.5  
+28. Luckily, the Full Mo                ... pos = 0.5   	neg = 0.25 
+29. --------------------                ... pos = 0.375 	neg = 0.0  
+30. Other movie reviews                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-747-92 is Positive           ... pos = 8.75  	neg = 6.625
+Overall score of document
+Total Pos = 8.75
+Total Neg = 6.625
+---------------------------------------------------------------------------

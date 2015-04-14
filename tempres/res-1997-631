@@ -1,0 +1,71 @@
+0. Starring: Computer G                 ... pos = 1.0   	neg = 1.125
+1. Okay, how about with                 ... pos = 0.0   	neg = 1.0  
+2. In fact, it might ev                 ... pos = 0.25  	neg = 1.5  
+3. This is bad beyond b                 ... pos = 0.125 	neg = 1.0  
+4. I would *not* sugges                 ... pos = 0.375 	neg = 0.0  
+5. There's a good chanc                 ... pos = 1.25  	neg = 0    
+6. If you see it for fr                 ... pos = 0.0   	neg = 0.125
+7. Go right ahead.                      ... pos = 0.0   	neg = 0.0  
+8. The movie starts off                 ... pos = 0.0   	neg = 1.5  
+9. Here we meet the gro                 ... pos = 3.25  	neg = 1.5  
+10. Before long they all                ... pos = 0.0   	neg = 1.25 
+11. They train.                         ... pos = 0.0   	neg = 0    
+12. They strut around nu                ... pos = 0     	neg = 0.75 
+13. After an hour of mak                ... pos = 0.0   	neg = 0.0  
+14. The big bugs look ni                ... pos = 0.0   	neg = 0.5  
+15. "  Unfortunately, th                ... pos = 1.125 	neg = 0.875
+16. Cue more agony.                     ... pos = 0.0   	neg = 0.0  
+17. Then some characters                ... pos = 0.875 	neg = 0.25 
+18. Then some more die.                 ... pos = 0.0   	neg = 0.0  
+19. ***Who cares???                     ... pos = 0     	neg = 0.0  
+20. ***  Cue more agony.                ... pos = 0.0   	neg = 0.0  
+21. The movie ends, the                 ... pos = 0.0   	neg = 0.0  
+22. Unfortunately, after                ... pos = 0.25  	neg = 1.5  
+23. You remember how BAT                ... pos = 0.125 	neg = 1.0  
+24. Well, BATMAN & ROBIN                ... pos = 0.0   	neg = 0.625
+25. STARSHIP TROOPERS do                ... pos = 0.125 	neg = 0.0  
+26. It does not succeed                 ... pos = 0.125 	neg = 0    
+27. It does not succeed                 ... pos = 0.125 	neg = 0.0  
+28. It does not succeed                 ... pos = 0.125 	neg = 0.0  
+29. It does not succeed                 ... pos = 0.125 	neg = 0    
+30. It does not succeed                 ... pos = 0.125 	neg = 0.0  
+31. It succeeds as being                ... pos = 0.375 	neg = 0.625
+32. Terrible.                           ... pos = 0     	neg = 0.625
+33. Gut-wrenchingly bad.                ... pos = 0     	neg = 0.875
+34. I wanted to run away                ... pos = 0.0   	neg = 0.125
+35. But I paid my money                 ... pos = 0.0   	neg = 0.0  
+36. So I stayed.                        ... pos = 0     	neg = 0.0  
+37. It never got better.                ... pos = 0.0   	neg = 0.0  
+38. Frequently, it did t                ... pos = 0.0   	neg = 0.0  
+39. The movie as written                ... pos = 0.0   	neg = 0.0  
+40. The whole thing feel                ... pos = 0.375 	neg = 0.875
+41. It's written for lit                ... pos = 0.25  	neg = 0.25 
+42. Of course, I recomme                ... pos = 0.0   	neg = 0.0  
+43. Don't go anywhere ne                ... pos = 0.0   	neg = 0.0  
+44. Verhoeven's got a st                ... pos = 0.125 	neg = 0.0  
+45. His last movie was S                ... pos = 0.0   	neg = 0.125
+46. He seems to be tryin                ... pos = 0.0   	neg = 1.625
+47. SHOWGIRLS was a fail                ... pos = 0.875 	neg = 0.375
+48. Is it really *all* b                ... pos = 0.0   	neg = 1.0  
+49. Well, no.                           ... pos = 0.0   	neg = 0.25 
+50. TROOPERS has about f                ... pos = 0.375 	neg = 0.125
+51. " commercials that p                ... pos = 0.625 	neg = 0.0  
+52. So that adds up to a                ... pos = 0.625 	neg = 0.875
+53. I'm totally confused                ... pos = 0.375 	neg = 0.0  
+54. But I do admit it.                  ... pos = 0.0   	neg = 0.0  
+55. So, if you're willin                ... pos = 0.75  	neg = 0.0  
+56. I don't know how any                ... pos = 0.625 	neg = 0.0  
+57. Feel free to give it                ... pos = 0.0   	neg = 0.0  
+58. Of course, in the in                ... pos = 0.0   	neg = 0.0  
+59. But guess what?                     ... pos = 0     	neg = 0.0  
+60. ALIEN RESURRECTION c                ... pos = 0.75  	neg = 0.375
+61. Though opinion on ST                ... pos = 0.125 	neg = 0.25 
+62. This is possibly the                ... pos = 0.5   	neg = 0.125
+63. If you really want t                ... pos = 0.125 	neg = 0.125
+64. Please, avoid this..                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-631 is Negative         ... pos = 16.25 	neg = 23.125
+Overall score of document
+Total Pos = 16.25
+Total Neg = 23.125
+---------------------------------------------------------------------------

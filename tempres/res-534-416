@@ -1,0 +1,18 @@
+0. Written by: Terrence                 ... pos = 1.375 	neg = 0.5  
+1. The movie jumps disj                 ... pos = 0.5   	neg = 0.75 
+2. Two of its main them                 ... pos = 0.75  	neg = 0.625
+3. Opinion: Watching TH                 ... pos = 0.25  	neg = 0.375
+4. The cinematography i                 ... pos = 0.875 	neg = 0.75 
+5. However, don't expec                 ... pos = 0.75  	neg = 0.125
+6. The whole idea is to                 ... pos = 0.125 	neg = 0.125
+7. The good die with th                 ... pos = 0.75  	neg = 0.875
+8. Men enter and leave                  ... pos = 0.25  	neg = 0.5  
+9. Savagery exists side                 ... pos = 0.5   	neg = 0    
+10. Each person must mak                ... pos = 0.375 	neg = 0.0  
+11. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-534-416 is Positive          ... pos = 6.5   	neg = 4.75 
+Overall score of document
+Total Pos = 6.5
+Total Neg = 4.75
+---------------------------------------------------------------------------

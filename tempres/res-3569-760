@@ -1,0 +1,14 @@
+0. Directors:  Peter &                 ... pos = 0.875 	neg = 0.0  
+1. US Distribution:  2                 ... pos = 2.5   	neg = 4.25 
+2. See, I don't mind la                 ... pos = 1.625 	neg = 3.0  
+3. Ben Stiller, althoug                 ... pos = 1.75  	neg = 1.25 
+4. Flash ahead thirteen                 ... pos = 4.375 	neg = 2.5  
+5. I can, however, ment                 ... pos = 0.875 	neg = 1.875
+6. In the acting arena,                 ... pos = 6.0   	neg = 1.5  
+7. Now that they're on                  ... pos = 1.25  	neg = 2.625
+---------------------------------------------------------------------------
+./temp/tmp-3569-760 is Positive         ... pos = 19.25 	neg = 17.0 
+Overall score of document
+Total Pos = 19.25
+Total Neg = 17.0
+---------------------------------------------------------------------------

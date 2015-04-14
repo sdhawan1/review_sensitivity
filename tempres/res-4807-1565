@@ -1,0 +1,50 @@
+0. DINOSAUR (2000)  Rat                 ... pos = 0.5   	neg = 0.0  
+1. Sweeney, Ossie Davis                 ... pos = 1.0   	neg = 0.25 
+2. When it finally came                 ... pos = 0.125 	neg = 0.0  
+3. I mention this  beca                 ... pos = 0.875 	neg = 0.0  
+4. The Story (WARNING:                  ... pos = 0.5   	neg = 0.75 
+5. ) bachelor and Comic                 ... pos = 0.375 	neg = 0.0  
+6. Sweeney) is brought                  ... pos = 0.0   	neg = 0.125
+7. Aladar and the  lemu                 ... pos = 0.5   	neg = 0.625
+8. The Upshot: Actually                 ... pos = 1.75  	neg = 0.0  
+9. Instead, they blew t                 ... pos = 0.0   	neg = 0.25 
+10. Sweeney, Ossie Davis                ... pos = 0.0   	neg = 0.0  
+11. I was never convince                ... pos = 0.125 	neg = 0.5  
+12. The filmmakers seeme                ... pos = 0.875 	neg = 0.125
+13. Last I checked, Pika                ... pos = 0.0   	neg = 0.125
+14. That they'll get the                ... pos = 0.0   	neg = 0.25 
+15. Will the movie keep                 ... pos = 0.375 	neg = 0.0  
+16. Well,  that's anothe                ... pos = 0.0   	neg = 0.125
+17. Will it reel in the                 ... pos = 0.125 	neg = 0.0  
+18. Well, it's a  certai                ... pos = 0.0   	neg = 0    
+19. Why?                                ... pos = 0     	neg = 0.0  
+20. That one's easy: it                 ... pos = 0.625 	neg = 0.0  
+21. It certainly didn't                 ... pos = 0.25  	neg = 0.375
+22. I reckon it's not A                 ... pos = 0.5   	neg = 1.125
+23. And if I see and hea                ... pos = 0.0   	neg = 0.875
+24. [And at risk of bein                ... pos = 0.25  	neg = 0.125
+25. " - let me just say                 ... pos = 0.0   	neg = 0.0  
+26. Maybe It's  Just Me;                ... pos = 0.75  	neg = 0.625
+27. Yeah.                               ... pos = 0     	neg = 0.0  
+28. It's  probably Just                 ... pos = 0.0   	neg = 0.0  
+29. ]. DINOSAUR certainl                ... pos = 0.25  	neg = 0.0  
+30. On the technical fro                ... pos = 0.625 	neg = 0.875
+31. [And, speaking of le                ... pos = 0.125 	neg = 0.125
+32. I mean, *talking* le                ... pos = 1.0   	neg = 0.875
+33. I think not!                        ... pos = 0     	neg = 0.0  
+34. ]  Story-wise,  I ch                ... pos = 0.25  	neg = 0.0  
+35. And if you've seen t                ... pos = 0.375 	neg = 0.5  
+36. But a few Moments he                ... pos = 0.0   	neg = 0.0  
+37. The  animation-lover                ... pos = 0.0   	neg = 0.125
+38. I don't doubt for a                 ... pos = 0.625 	neg = 0.125
+39. Still, box office  c                ... pos = 0.0   	neg = 0.25 
+40. Bammer's Bottom Line                ... pos = 1.25  	neg = 0.625
+41. Fun- and story-wise,                ... pos = 0.0   	neg = 0.0  
+42. One thing in its fav                ... pos = 0.0   	neg = 0.375
+43. DINOSAUR (rating: fl                ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-4807-1565 is Positive        ... pos = 14.0  	neg = 10.625
+Overall score of document
+Total Pos = 14.0
+Total Neg = 10.625
+---------------------------------------------------------------------------

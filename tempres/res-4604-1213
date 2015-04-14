@@ -1,0 +1,20 @@
+0. Here we have another                 ... pos = 0.0   	neg = 1.0  
+1. And to be honest, it                 ... pos = 1.125 	neg = 0.375
+2. This is not because                  ... pos = 0.25  	neg = 1.0  
+3. The story is nearly                  ... pos = 0.125 	neg = 0.125
+4. Cage plays Cameron P                 ... pos = 0.0   	neg = 0.0  
+5. So, he gets on a pla                 ... pos = 0.0   	neg = 0.0  
+6. However, this plane                  ... pos = 0.125 	neg = 1.25 
+7. Didn't see that comi                 ... pos = 0.0   	neg = 0.0  
+8. So, Cage is now figh                 ... pos = 0.0   	neg = 0.125
+9. On the ground, a 'fe                 ... pos = 0.5   	neg = 0.875
+10. The thing is, we've                 ... pos = 0.0   	neg = 0.125
+11. If you're looking fo                ... pos = 0.125 	neg = 1.875
+12. However, I can't rea                ... pos = 0.125 	neg = 0.0  
+13. It's just another du                ... pos = 0     	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4604-1213 is Negative        ... pos = 2.375 	neg = 7.125
+Overall score of document
+Total Pos = 2.375
+Total Neg = 7.125
+---------------------------------------------------------------------------

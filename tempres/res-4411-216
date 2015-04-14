@@ -1,0 +1,36 @@
+0. It's a shame when a                  ... pos = 0.0   	neg = 0.75 
+1. "Patch Adams" seems                  ... pos = 0.625 	neg = 0.875
+2. As a comedy, there a                 ... pos = 1.125 	neg = 0.125
+3. It's been said that                  ... pos = 1.125 	neg = 0.375
+4. A fun-loving and mis                 ... pos = 1.0   	neg = 0.125
+5. As a medical student                 ... pos = 0.5   	neg = 0.375
+6. Does that plot summa                 ... pos = 0.125 	neg = 0.25 
+7. Of course it does: i                 ... pos = 0.625 	neg = 0.25 
+8. "  Although the same                 ... pos = 1.625 	neg = 0.625
+9. The main reason: a c                 ... pos = 0.0   	neg = 0.125
+10. This film is shamele                ... pos = 0.0   	neg = 1.125
+11. Let's take inventory                ... pos = 2.625 	neg = 0.25 
+12. All this I might be                 ... pos = 0.375 	neg = 1.375
+13. I won't reveal the s                ... pos = 0.5   	neg = 0.5  
+14. I was so moritifed a                ... pos = 0.25  	neg = 0.125
+15. If the dramatic elem                ... pos = 1.25  	neg = 0.25 
+16. The film is most suc                ... pos = 1.0   	neg = 0.625
+17. I can't deny that th                ... pos = 2.375 	neg = 0.5  
+18. The gags are fast, f                ... pos = 0.625 	neg = 0.0  
+19. The stumbling blocks                ... pos = 1.125 	neg = 0.125
+20. Unquestionably the s                ... pos = 1.0   	neg = 0.75 
+21. Basking in stereotyp                ... pos = 1.25  	neg = 0.0  
+22. I don't know a singl                ... pos = 0.25  	neg = 0.25 
+23. "Patch Adams" has fl                ... pos = 0.625 	neg = 0.25 
+24. It's a shame, howeve                ... pos = 1.875 	neg = 0.75 
+25. A good drama can mak                ... pos = 1.25  	neg = 0.5  
+26. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+27. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+28. Thanks.                             ... pos = 0.125 	neg = 0    
+29. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4411-216 is Positive         ... pos = 23.875 	neg = 11.375
+Overall score of document
+Total Pos = 23.875
+Total Neg = 11.375
+---------------------------------------------------------------------------

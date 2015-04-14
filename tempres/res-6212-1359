@@ -1,0 +1,24 @@
+0. Jim Croce died entir                 ... pos = 0.75  	neg = 0.375
+1. How dumb a terrorist                 ... pos = 0.25  	neg = 0.375
+2. Most people don't mi                 ... pos = 0.125 	neg = 1.125
+3. The movie poster let                 ... pos = 0.25  	neg = 0.0  
+4. And who could make a                 ... pos = 0.0   	neg = 0.0  
+5. Harrison might even                  ... pos = 0.125 	neg = 1.375
+6. Simple enough: peren                 ... pos = 0.625 	neg = 0.375
+7. On the ground, Glenn                 ... pos = 0.75  	neg = 0.375
+8. William Macy didn't                  ... pos = 0.0   	neg = 0.0  
+9. Here he plays a gene                 ... pos = 0.125 	neg = 0.0  
+10. Poor Jurgen Prochnow                ... pos = 0.0   	neg = 0.125
+11. Special effects?                    ... pos = 0.0   	neg = 0.25 
+12. - the (2nd) best rea                ... pos = 0.75  	neg = 1.5  
+13. The movie has the ob                ... pos = 0.0   	neg = 0.25 
+14. You also have to swa                ... pos = 0.125 	neg = 0.25 
+15. Here, a Secret Servi                ... pos = 0.0   	neg = 0.25 
+16. Small quibbles, thou                ... pos = 0.25  	neg = 0.5  
+17. Die Hard I is still                 ... pos = 0.444 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-6212-1359 is Negative        ... pos = 4.569 	neg = 8.25 
+Overall score of document
+Total Pos = 4.569
+Total Neg = 8.25
+---------------------------------------------------------------------------

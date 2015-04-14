@@ -1,0 +1,45 @@
+0. A Film Review by Mar                 ... pos = 0.0   	neg = 0.0  
+1. At one bed  and brea                 ... pos = 0.0   	neg = 0.125
+2. What I'm suggesting                  ... pos = 1.875 	neg = 0.625
+3. I can think of a doz                 ... pos = 0.75  	neg = 0.0  
+4. One might go into 'W                 ... pos = 0.875 	neg = 0.625
+5. It's been done, hasn                 ... pos = 0.0   	neg = 0.125
+6. The thing is, "Wakin                 ... pos = 0.0   	neg = 0.125
+7. Jackie O'Shea (Ian B                 ... pos = 0.125 	neg = 0.0  
+8. In one of the  funni                 ... pos = 1.25  	neg = 0.125
+9. This gag  is only on                 ... pos = 0.0   	neg = 0.125
+10. Whether the pair is                 ... pos = 0.5   	neg = 0.25 
+11. Bannen perfects  his                ... pos = 0.0   	neg = 0.25 
+12. Kelly is cast well                  ... pos = 0.375 	neg = 0.25 
+13. The early episodes o                ... pos = 0.75  	neg = 0.0  
+14. From  the newspaper                 ... pos = 0.0   	neg = 0.0  
+15. In a few delicious a                ... pos = 0.375 	neg = 0.625
+16. Annie bakes a meat p                ... pos = 0.0   	neg = 0.0  
+17. All this for  nothin                ... pos = 0.75  	neg = 0.375
+18. If we were face to f                ... pos = 0.125 	neg = 0.25 
+19. Here's the genesis o                ... pos = 0.125 	neg = 0.125
+20. So we see the nude d                ... pos = 0.375 	neg = 0.25 
+21. The comedy becomes                  ... pos = 1.25  	neg = 0.0  
+22. Will it work when th                ... pos = 0.125 	neg = 0.0  
+23. It's not only in sce                ... pos = 0.125 	neg = 0.0  
+24. It's also when he's                 ... pos = 0.0   	neg = 0.375
+25. There's a boy who ha                ... pos = 0.5   	neg = 0.0  
+26. A pub owner/applianc                ... pos = 0.625 	neg = 0.0  
+27. And in  the subplot                 ... pos = 1.25  	neg = 1.375
+28. The characters and t                ... pos = 1.375 	neg = 0.0  
+29. Sketching in seconda                ... pos = 2.0   	neg = 0.125
+30. Music accompanies ma                ... pos = 0.25  	neg = 0    
+31. Flutes and whistles                 ... pos = 0.0   	neg = 0.0  
+32. A scene in which a l                ... pos = 0.625 	neg = 0.0  
+33. To tell the truth, I                ... pos = 0.625 	neg = 0.0  
+34. A slight problem wit                ... pos = 0.0   	neg = 0.25 
+35. Foreshadowing freque                ... pos = 1.375 	neg = 0.375
+36. But  one bit of dark                ... pos = 0.625 	neg = 0.25 
+37. If you are fond of t                ... pos = 1.5   	neg = 0    
+38. '  It's  being hyped                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4568-71 is Positive          ... pos = 21.625 	neg = 7.0  
+Overall score of document
+Total Pos = 21.625
+Total Neg = 7.0
+---------------------------------------------------------------------------

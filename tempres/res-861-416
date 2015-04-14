@@ -1,0 +1,28 @@
+0. Synopsis:  The plot                  ... pos = 0.625 	neg = 0.125
+1. British agent John S                 ... pos = 0.0   	neg = 1.0  
+2. Sir August de Wynter                 ... pos = 0.0   	neg = 0.125
+3. Sir August has a wea                 ... pos = 0.125 	neg = 0.0  
+4. Sir August also has                  ... pos = 0.0   	neg = 0.0  
+5. An island fortress s                 ... pos = 0.0   	neg = 0.0  
+6. Will Steed and Peel                  ... pos = 0.125 	neg = 0.5  
+7. Background:  The ori                 ... pos = 0.0   	neg = 0.125
+8. MacNee was John Stee                 ... pos = 0.5   	neg = 0.75 
+9. Together they drove                  ... pos = 1.0   	neg = 0.0  
+10. The 1998 version of                 ... pos = 1.5   	neg = 0.0  
+11. Opinion: If you're a                ... pos = 0.5   	neg = 1.25 
+12. The dialogue seems v                ... pos = 0.5   	neg = 0.125
+13. Actually the problem                ... pos = 0.25  	neg = 0.375
+14. Right in the beginni                ... pos = 0.0   	neg = 0.0  
+15. They find that de Wy                ... pos = 0.25  	neg = 0.0  
+16. So we know de Wynter                ... pos = 0.0   	neg = 1.0  
+17. Instead of busting t                ... pos = 0.0   	neg = 0.0  
+18. "Why didn't you tell                ... pos = 0.0   	neg = 0.0  
+19. " says Steed to his                 ... pos = 0.0   	neg = 0.0  
+20. To which Jones repli                ... pos = 0.0   	neg = 0.0  
+21. ". Copyright Š 1998                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-861-416 is Negative          ... pos = 5.375 	neg = 5.5  
+Overall score of document
+Total Pos = 5.375
+Total Neg = 5.5
+---------------------------------------------------------------------------

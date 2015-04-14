@@ -1,0 +1,50 @@
+0. "It's not important                  ... pos = 0.875 	neg = 0.0  
+1. What's important is                  ... pos = 2.0   	neg = 0.125
+2. This line, and the w                 ... pos = 0.25  	neg = 0.25 
+3. The problem is, that                 ... pos = 0.75  	neg = 0.5  
+4. The ending goes on f                 ... pos = 0.0   	neg = 0.875
+5. However, when the fi                 ... pos = 0.5   	neg = 0.625
+6. Oz is a dentist who                  ... pos = 0.125 	neg = 0.25 
+7. His secretary, Jill                  ... pos = 0.5   	neg = 0.625
+8. To add to his miseri                 ... pos = 0.625 	neg = 0.25 
+9. It turns out that th                 ... pos = 1.5   	neg = 0.125
+10. Sophie wants Oz to g                ... pos = 0.125 	neg = 0.0  
+11. Oz is of course aver                ... pos = 0.125 	neg = 0.125
+12. Once he arrives in C                ... pos = 0.0   	neg = 0.375
+13. The situation grows                 ... pos = 0.0   	neg = 0.75 
+14. "The Whole Nine Yard                ... pos = 0.125 	neg = 0.25 
+15. When a cast acts in                 ... pos = 0.0   	neg = 0.125
+16. Bruce Willis's comic                ... pos = 0.5   	neg = 0.25 
+17. I believe that Matth                ... pos = 1.375 	neg = 0.375
+18. Despite the consider                ... pos = 0.75  	neg = 0.5  
+19. "The Whole Nine Yard                ... pos = 0.375 	neg = 0.375
+20. The film is filled w                ... pos = 0.0   	neg = 0.125
+21. Every character invo                ... pos = 2.25  	neg = 0.25 
+22. Unlike "Gun Shy" fro                ... pos = 0.375 	neg = 0.625
+23. Though difficult to                 ... pos = 0.125 	neg = 0.0  
+24. The cast members wor                ... pos = 0.875 	neg = 0.0  
+25. The two of them have                ... pos = 0.75  	neg = 0.0  
+26. Peet is so overcome                 ... pos = 1.0   	neg = 0.25 
+27. The only cast member                ... pos = 0.5   	neg = 1.125
+28. The problem is, I ca                ... pos = 1.125 	neg = 1.0  
+29. The other major flaw                ... pos = 0.0   	neg = 0.125
+30. The movie could have                ... pos = 0.0   	neg = 0.5  
+31. One more thing I mus                ... pos = 0.625 	neg = 0.25 
+32. Nearly every guy in                 ... pos = 0.75  	neg = 0.25 
+33. "The Whole Nine Yard                ... pos = 0.0   	neg = 1.375
+34. I'd recommend it to                 ... pos = 0.0   	neg = 0.0  
+35. If you dislike these                ... pos = 0.375 	neg = 0.0  
+36. I give the movie thr                ... pos = 0.0   	neg = 0.0  
+37. Comments?                           ... pos = 0     	neg = 0.0  
+38. Feel free to e-mail                 ... pos = 1.0   	neg = 0.25 
+39. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+40. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+41. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+42. * - One of the worst                ... pos = 0.0   	neg = 0.375
+43. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-487-535 is Positive          ... pos = 20.625 	neg = 14.625
+Overall score of document
+Total Pos = 20.625
+Total Neg = 14.625
+---------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+0. The title begs the q                 ... pos = 0.0   	neg = 0.0  
+1. "Zorro" would have b                 ... pos = 1.375 	neg = 0.125
+2. "The Sword of Zorro"                 ... pos = 1.25  	neg = 0.25 
+3. "The Horse of Zorro"                 ... pos = 0.25  	neg = 0.75 
+4. For those more inter                 ... pos = 0.0   	neg = 0.0  
+5. But, no, it's the ma                 ... pos = 0.875 	neg = 0.25 
+6. The mask allows Zorr                 ... pos = 0.0   	neg = 0.0  
+7. But like everything                  ... pos = 0.0   	neg = 0.0  
+8. All the main charact                 ... pos = 1.625 	neg = 0.25 
+9. It's the masks that                  ... pos = 0.125 	neg = 0.25 
+10. Hopkins appears firs                ... pos = 0.125 	neg = 0.0  
+11. To its credit, The M                ... pos = 0.375 	neg = 0.375
+12. There's just a great                ... pos = 0.375 	neg = 0.375
+13. However, no mask is                 ... pos = 0.125 	neg = 0.375
+14. Hopkins is unmasked,                ... pos = 0.5   	neg = 0.25 
+15. The action restarts                 ... pos = 0.375 	neg = 0.0  
+16. Wilson has to wear a                ... pos = 0.75  	neg = 0.25 
+17. Wilson is much bette                ... pos = 0.125 	neg = 0.125
+18. It's a quality perfo                ... pos = 0.0   	neg = 0.0  
+19. The titular mask, th                ... pos = 0.375 	neg = 0.0  
+20. We first see Bandera                ... pos = 0.125 	neg = 0.375
+21. We see a training se                ... pos = 0.125 	neg = 0.625
+22. But the bandit's mas                ... pos = 0.0   	neg = 0.0  
+23. He has to impersonat                ... pos = 0.375 	neg = 0.0  
+24. (We are spared a lot                ... pos = 0.625 	neg = 0.125
+25. ). While all this is                ... pos = 0.75  	neg = 0.25 
+26. All of the masks eve                ... pos = 0.5   	neg = 0.25 
+27. Not that the action                 ... pos = 0.375 	neg = 0.125
+28. The Mask of Zorro su                ... pos = 1.625 	neg = 0.0  
+29. It's clearly a sword                ... pos = 0.25  	neg = 0.25 
+30. Movie Reviews: http:                ... pos = 0.0   	neg = 0.125
+31. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-249-1045 is Positive         ... pos = 13.375 	neg = 5.75 
+Overall score of document
+Total Pos = 13.375
+Total Neg = 5.75
+---------------------------------------------------------------------------

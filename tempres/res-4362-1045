@@ -1,0 +1,52 @@
+0. by Curtis Edmonds --                 ... pos = 0.375 	neg = 1.0  
+1. And when you do, you                 ... pos = 0.0   	neg = 0.0  
+2. I know this is true,                 ... pos = 1.375 	neg = 0.375
+3. ". Superficially, El                 ... pos = 0.125 	neg = 0.125
+4. I say "superficially                 ... pos = 0.0   	neg = 0.875
+5. The biggest ovation                  ... pos = 1.25  	neg = 0.375
+6. Much of the comedy i                 ... pos = 0.5   	neg = 0.5  
+7. Do not make this mis                 ... pos = 0.0   	neg = 0.625
+8. It would be a little                 ... pos = 0.75  	neg = 0.5  
+9. Election's top candi                 ... pos = 0.25  	neg = 0.125
+10. There's a scene earl                ... pos = 0.375 	neg = 0.0  
+11. Both Jason Schwartzm                ... pos = 1.875 	neg = 0.0  
+12. Tracy is bright, che                ... pos = 1.625 	neg = 0.25 
+13. Where Max is seeking                ... pos = 0.25  	neg = 0.125
+14. Tracy's activity is                 ... pos = 0.0   	neg = 0.125
+15. Bit by bit, we see h                ... pos = 0.0   	neg = 0.0  
+16. Every piece of gum s                ... pos = 0.0   	neg = 0.125
+17. Of course, with peop                ... pos = 0.0   	neg = 0.375
+18. Very early on, a you                ... pos = 0.5   	neg = 0.0  
+19. "ONE PIECE PER PERSO                ... pos = 0.0   	neg = 0    
+20. " she yells, as thou                ... pos = 0.0   	neg = 0.0  
+21. Anything that breaks                ... pos = 2.125 	neg = 0.0  
+22. What makes this poli                ... pos = 0.0   	neg = 0    
+23. Well, keep in mind t                ... pos = 0.125 	neg = 0.0  
+24. I'm not making any i                ... pos = 0.0   	neg = 0.125
+25. Really.                             ... pos = 0     	neg = 0.0  
+26. I'm not.                            ... pos = 0.0   	neg = 0    
+27. Anyway, one of the m                ... pos = 0.875 	neg = 0.375
+28. Here, she's given al                ... pos = 0.25  	neg = 0.0  
+29. But that still isn't                ... pos = 0.0   	neg = 0.0  
+30. No, Election is abou                ... pos = 0.375 	neg = 1.125
+31. Mostly, we control t                ... pos = 0.0   	neg = 0.125
+32. Some of us let that                 ... pos = 0.0   	neg = 0.625
+33. It is the spark of t                ... pos = 1.875 	neg = 0.125
+34. That spark is person                ... pos = 0.75  	neg = 2.5  
+35. At first, it seemed                 ... pos = 0.125 	neg = 1.75 
+36. But the spark of tra                ... pos = 0.5   	neg = 0.25 
+37. Broderick sees Withe                ... pos = 0.875 	neg = 0.0  
+38. McAllister fears Tra                ... pos = 1.75  	neg = 1.0  
+39. Whatever the reason,                ... pos = 0.0   	neg = 0.125
+40. He decides to enlist                ... pos = 0.5   	neg = 0.125
+41. And from there, the                 ... pos = 0.5   	neg = 0.0  
+42. These are the high p                ... pos = 0.5   	neg = 0.0  
+43. But such a review le                ... pos = 0.75  	neg = 0.75 
+44. If Election were a p                ... pos = 0.0   	neg = 0.875
+45. Election is not a pe                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4362-1045 is Positive        ... pos = 21.125 	neg = 15.5 
+Overall score of document
+Total Pos = 21.125
+Total Neg = 15.5
+---------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+0. Many geniuses have b                 ... pos = 0.5   	neg = 0.25 
+1. Milos Forman's "Man                  ... pos = 0.0   	neg = 0.0  
+2. Several of the revie                 ... pos = 0.0   	neg = 0.0  
+3. These reviewers miss                 ... pos = 0.0   	neg = 0.25 
+4. As the movie begins,                 ... pos = 0.0   	neg = 0.0  
+5. Even as a child, he                  ... pos = 0.0   	neg = 0.0  
+6. Grown up, Andy (Jim                  ... pos = 0.0   	neg = 0.125
+7. "  Reluctantly, Andy                 ... pos = 0.625 	neg = 0.125
+8. George goes to see T                 ... pos = 0.0   	neg = 0.125
+9. Backstage, George di                 ... pos = 0.0   	neg = 0.375
+10. The secret soon beco                ... pos = 0.0   	neg = 0.0  
+11. However, there's a j                ... pos = 0.25  	neg = 0.25 
+12. "Man on the Moon" fo                ... pos = 0.5   	neg = 0.75 
+13. The movie feels epis                ... pos = 0.5   	neg = 0.125
+14. What makes the movie                ... pos = 0.5   	neg = 0.125
+15. I've never been impr                ... pos = 0.125 	neg = 0.125
+16. "  However, in "Man                 ... pos = 0.75  	neg = 0.0  
+17. Carrey's Andy is a m                ... pos = 0.25  	neg = 0.25 
+18. He laments to his lo                ... pos = 1.25  	neg = 0.75 
+19. "  She responds, "Th                ... pos = 0.0   	neg = 0.375
+20. "  Carrey's expressi                ... pos = 0.375 	neg = 0.0  
+21. ". The movie's best                 ... pos = 0.0   	neg = 0.375
+22. Pale, bald, and conf                ... pos = 0.25  	neg = 0.25 
+23. The wound heals itse                ... pos = 0.0   	neg = 0.0  
+24. After Andy takes his                ... pos = 0.0   	neg = 0.0  
+25. Even as his eyes reg                ... pos = 0.875 	neg = 0.25 
+26. Rather than attempti                ... pos = 1.0   	neg = 0.125
+27. Did he know what it                 ... pos = 0.0   	neg = 0.125
+28. Why attracted him to                ... pos = 0.25  	neg = 0.0  
+29. Did he want his audi                ... pos = 0.125 	neg = 0.125
+30. Did he hate them?                   ... pos = 0.125 	neg = 0.0  
+31. Was his life a joke                 ... pos = 0.0   	neg = 0.375
+32. Wrestler Jerry "the                 ... pos = 0.0   	neg = 0.0  
+33. Other players in the                ... pos = 0.0   	neg = 0.0  
+34. The real George Shap                ... pos = 0.0   	neg = 0.5  
+35. Director Forman and                 ... pos = 0.75  	neg = 0.0  
+36. They previously coll                ... pos = 0.0   	neg = 0.0  
+37. In addition, one of                 ... pos = 0.5   	neg = 0.5  
+38. "  Somehow this stra                ... pos = 0.375 	neg = 0.375
+39. Bottom line:  A thou                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6091-1265 is Positive        ... pos = 10.625 	neg = 7.0  
+Overall score of document
+Total Pos = 10.625
+Total Neg = 7.0
+---------------------------------------------------------------------------

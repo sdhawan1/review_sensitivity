@@ -1,0 +1,39 @@
+0. Miramax "disinvited"                 ... pos = 0.0   	neg = 0.0  
+1. They ostensibly fear                 ... pos = 0.375 	neg = 0.125
+2. You see, 'net critic                 ... pos = 0.75  	neg = 0.125
+3. No, the mini major                 ... pos = 0.125 	neg = 1.125
+4. Something smells rot                 ... pos = 0.875 	neg = 1.5  
+5. (Once considered a d                 ... pos = 0.875 	neg = 0.125
+6. ) Of course, a new G                 ... pos = 0.5   	neg = 0.5  
+7. The backseat?                        ... pos = 0     	neg = 0.5  
+8. The next car?                        ... pos = 0     	neg = 0.0  
+9. Thrilling prospects,                 ... pos = 0.625 	neg = 0.25 
+10. What's missing from                 ... pos = 0.0   	neg = 0.875
+11. Our other surviving                 ... pos = 0.0   	neg = 0.0  
+12. Sidney (Campbell) is                ... pos = 0.125 	neg = 0.25 
+13. Murder reunites them                ... pos = 0.0   	neg = 0.25 
+14. The appeal of Ghostf                ... pos = 0.444 	neg = 0.25 
+15. Scream was the first                ... pos = 0.25  	neg = 0.25 
+16. Ironic self-reflecti                ... pos = 0.75  	neg = 0.0  
+17. With Scream 3, the n                ... pos = 1.0   	neg = 0.625
+18. Conceptually.                       ... pos = 0.125 	neg = 0    
+19. The execution of Gho                ... pos = 0.875 	neg = 0.5  
+20. The movie gets in th                ... pos = 0.25  	neg = 0.125
+21. " in reference to th                ... pos = 0.25  	neg = 0.0  
+22. With the departure o                ... pos = 0.0   	neg = 0.875
+23. Craven's direction o                ... pos = 0.75  	neg = 0.125
+24. How else to explain                 ... pos = 0.375 	neg = 0.625
+25. It pains me to write                ... pos = 0.375 	neg = 1.875
+26. The visuals are much                ... pos = 0.5   	neg = 0.125
+27. (Aside: in the wake                 ... pos = 0.625 	neg = 0.125
+28. ) Finally, Marco Bel                ... pos = 0.0   	neg = 0.375
+29. It's mostly silent.                 ... pos = 0.125 	neg = 0    
+30. Sting notes are a wh                ... pos = 0.5   	neg = 0.75 
+31. I look at Scream 3 a                ... pos = 0.875 	neg = 0.5  
+32. The film unintention                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4511-1545 is Positive        ... pos = 12.944 	neg = 12.875
+Overall score of document
+Total Pos = 12.944
+Total Neg = 12.875
+---------------------------------------------------------------------------

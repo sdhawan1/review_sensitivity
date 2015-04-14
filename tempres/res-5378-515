@@ -1,0 +1,35 @@
+0. By this time, everyo                 ... pos = 1.5   	neg = 0.125
+1. The question though                  ... pos = 0.25  	neg = 0.0  
+2. In the case of You'v                 ... pos = 0.0   	neg = 0.75 
+3. You've Got Mail rete                 ... pos = 0.75  	neg = 0.0  
+4. In this modern retel                 ... pos = 1.0   	neg = 0.125
+5. The two square off i                 ... pos = 1.125 	neg = 0.875
+6. As far as the film g                 ... pos = 0.5   	neg = 0.25 
+7. The original seemed                  ... pos = 1.125 	neg = 0.125
+8. Instead, everything                  ... pos = 0.625 	neg = 0.125
+9. I enjoyed Tom Hanks                  ... pos = 1.5   	neg = 0.875
+10. You'll wish there wa                ... pos = 0.5   	neg = 0.5  
+11. He's the "wrong guy"                ... pos = 0.875 	neg = 0.5  
+12. He's a little odd, b                ... pos = 0.5   	neg = 1.125
+13. And independent film                ... pos = 0.25  	neg = 0.125
+14. A quick note about t                ... pos = 0.0   	neg = 0.0  
+15. It sounds exactly li                ... pos = 0.125 	neg = 0.0  
+16. It was a minor annoy                ... pos = 0.0   	neg = 0.5  
+17. You've Got Mail is a                ... pos = 0.375 	neg = 0.125
+18. It contains the film                ... pos = 0.0   	neg = 0    
+19. Special features on                 ... pos = 2.0   	neg = 0.5  
+20. The DVD also contain                ... pos = 0.375 	neg = 0.25 
+21. The audio commentary                ... pos = 0.5   	neg = 0.625
+22. Producer Donner does                ... pos = 0.5   	neg = 0.75 
+23. Add all that to the                 ... pos = 0.0   	neg = 0.778
+24. The HBO documentary                 ... pos = 0.0   	neg = 0.5  
+25. Although, the docume                ... pos = 0.0   	neg = 0.0  
+26. Had it been kept in                 ... pos = 0.0   	neg = 0.125
+27. [PG]. The Jacksonvil                ... pos = 0.0   	neg = 0.0  
+28. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5378-515 is Positive         ... pos = 14.625 	neg = 10.028
+Overall score of document
+Total Pos = 14.625
+Total Neg = 10.028
+---------------------------------------------------------------------------

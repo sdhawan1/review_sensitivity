@@ -1,0 +1,48 @@
+0. Why do so many child                 ... pos = 0.0   	neg = 0.0  
+1. Too many of those wh                 ... pos = 0.375 	neg = 0.25 
+2. "The Iron Giant," wh                 ... pos = 0.5   	neg = 0.125
+3. "The Iron Giant" hol                 ... pos = 1.0   	neg = 0.25 
+4. Hogarth Hughes (voic                 ... pos = 0.375 	neg = 0.125
+5. After staying up lat                 ... pos = 0.0   	neg = 1.375
+6. He comes across a gi                 ... pos = 0.0   	neg = 0.0  
+7. After saving the rob                 ... pos = 0.0   	neg = 0.0  
+8. Because of damage he                 ... pos = 0.0   	neg = 0.25 
+9. Realizing he can't j                 ... pos = 0.0   	neg = 0.25 
+10. It soon becomes appa                ... pos = 0.75  	neg = 0.125
+11. He suspects Hogarth                 ... pos = 0.375 	neg = 0.0  
+12. Meanwhile, the Giant                ... pos = 0.625 	neg = 0.25 
+13. "The Iron Giant" is                 ... pos = 0.125 	neg = 0.25 
+14. The story is simple,                ... pos = 1.0   	neg = 0.125
+15. It's very similar to                ... pos = 2.625 	neg = 0.125
+16. " The film holds man                ... pos = 1.375 	neg = 0.125
+17. The film delivers se                ... pos = 1.375 	neg = 0.125
+18. Hogarth teaches the                 ... pos = 0.625 	neg = 0.0  
+19. The final sequence i                ... pos = 0.875 	neg = 0.25 
+20. The animation, while                ... pos = 0.0   	neg = 0.125
+21. ), is good enough to                ... pos = 1.0   	neg = 0.125
+22. The Giant is compute                ... pos = 1.125 	neg = 0.125
+23. The characters' face                ... pos = 2.25  	neg = 0.0  
+24. Fine voice work is t                ... pos = 0.25  	neg = 0.25 
+25. Harry Connick Jr. do                ... pos = 0.375 	neg = 0.125
+26. Unlike several carto                ... pos = 2.625 	neg = 0.875
+27. Dean, for example, c                ... pos = 2.75  	neg = 1.625
+28. Even the heavy, Agen                ... pos = 0.75  	neg = 1.375
+29. A lesser animated fe                ... pos = 1.75  	neg = 0.875
+30. The film isn't only                 ... pos = 0.0   	neg = 0.0  
+31. It's also very funny                ... pos = 1.0   	neg = 0.125
+32. The scenes in which                 ... pos = 0.625 	neg = 0.0  
+33. A sequence where Hog                ... pos = 1.875 	neg = 0.75 
+34. The film even takes                 ... pos = 0.0   	neg = 0.5  
+35. "The Iron Giant" has                ... pos = 0.125 	neg = 0.125
+36. Instead of seeing pe                ... pos = 0.625 	neg = 0.25 
+37. When you get right d                ... pos = 0.25  	neg = 0.375
+38. The story is so stra                ... pos = 1.875 	neg = 0.125
+39. Though I enjoy the c                ... pos = 0.75  	neg = 0.125
+40. It's akin to one of                 ... pos = 1.875 	neg = 0.0  
+41. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1126-1477 is Positive        ... pos = 33.875 	neg = 11.875
+Overall score of document
+Total Pos = 33.875
+Total Neg = 11.875
+---------------------------------------------------------------------------

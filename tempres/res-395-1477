@@ -1,0 +1,61 @@
+0. Year: 1999.                          ... pos = 0     	neg = 0    
+1. Starring the voices                  ... pos = 0.0   	neg = 0.0  
+2. Story by John Lasset                 ... pos = 0.0   	neg = 0    
+3. Screenplay by Andrew                 ... pos = 0.0   	neg = 0.0  
+4. Directed by John Las                 ... pos = 0.0   	neg = 0    
+5. Rated G.. Most seque                 ... pos = 0.125 	neg = 0.0  
+6. Far too many of them                 ... pos = 0.5   	neg = 0.5  
+7. Is it any wonder tha                 ... pos = 0.0   	neg = 0.25 
+8. Thankfully, "Toy Sto                 ... pos = 0.75  	neg = 0.125
+9. I can't remember the                 ... pos = 0.875 	neg = 0.0  
+10. It's yet another sig                ... pos = 0.625 	neg = 0.25 
+11. Woody and Buzz are b                ... pos = 0.375 	neg = 0.0  
+12. Woody (voiced by Tom                ... pos = 0.25  	neg = 0.125
+13. In his absence, he h                ... pos = 0.0   	neg = 0.0  
+14. Unfortunately, Woody                ... pos = 0.0   	neg = 1.75 
+15. Off to save him are                 ... pos = 0.25  	neg = 0.625
+16. Potato Head (Don Ric                ... pos = 0.125 	neg = 0.625
+17. While in captivity,                 ... pos = 0.0   	neg = 0.125
+18. " He meets the show'                ... pos = 1.0   	neg = 0.0  
+19. They have all been a                ... pos = 0.375 	neg = 0.375
+20. This means Woody now                ... pos = 0.0   	neg = 0    
+21. With his friends com                ... pos = 0.25  	neg = 0.125
+22. As in the original f                ... pos = 0.75  	neg = 0.0  
+23. Reportedly, the film                ... pos = 1.125 	neg = 0.25 
+24. The film is well wor                ... pos = 0.0   	neg = 0.125
+25. The colors are brigh                ... pos = 1.125 	neg = 0.375
+26. " The animation is c                ... pos = 1.125 	neg = 0.125
+27. There are so many im                ... pos = 1.5   	neg = 0.125
+28. Pixar's rendition of                ... pos = 0.75  	neg = 0.75 
+29. The voice work is al                ... pos = 2.0   	neg = 0.125
+30. Tom Hanks and Tim Al                ... pos = 0.25  	neg = 0.125
+31. It was Woody and Buz                ... pos = 0.0   	neg = 0.125
+32. All the cast members                ... pos = 1.0   	neg = 0.125
+33. Several new voices h                ... pos = 0.375 	neg = 0.125
+34. "Toy Story 2" is str                ... pos = 0.75  	neg = 0.25 
+35. Woody faces difficul                ... pos = 0.75  	neg = 0.25 
+36. The new characters a                ... pos = 2.625 	neg = 0.125
+37. It may be computer-a                ... pos = 0.75  	neg = 0.125
+38. The script, despite                 ... pos = 1.625 	neg = 0.125
+39. The reason "Toy Stor                ... pos = 1.0   	neg = 0.25 
+40. Not this one.                       ... pos = 0.0   	neg = 0    
+41. We get character cha                ... pos = 2.75  	neg = 0.0  
+42. "Toy Story 2" is als                ... pos = 0.25  	neg = 0.125
+43. There is always anot                ... pos = 0.5   	neg = 0.25 
+44. The humor is sharp a                ... pos = 1.375 	neg = 0.125
+45. There are funny asid                ... pos = 1.375 	neg = 0.0  
+46. " (Geri himself make                ... pos = 0.0   	neg = 0.0  
+47. ) The action is fast                ... pos = 0.25  	neg = 0.125
+48. "Toy Story 2" never                 ... pos = 0.625 	neg = 0.125
+49. The more you pay att                ... pos = 0.0   	neg = 0.125
+50. It's rare to see a f                ... pos = 0.25  	neg = 0.0  
+51. It's created purely                 ... pos = 1.125 	neg = 1.0  
+52. It's a fair bet that                ... pos = 0.25  	neg = 0.0  
+53. " It's the rare sequ                ... pos = 0.25  	neg = 0.0  
+54. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-395-1477 is Positive         ... pos = 32.0  	neg = 10.25
+Overall score of document
+Total Pos = 32.0
+Total Neg = 10.25
+---------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+0. Rating: **1/2 (out o                 ... pos = 0.125 	neg = 3.375
+1. Any film capable of                  ... pos = 0.875 	neg = 0.0  
+2. While watching "The                  ... pos = 1.375 	neg = 0.25 
+3. Unfortunately, this                  ... pos = 0.75  	neg = 1.375
+4. The latter flaw defi                 ... pos = 1.375 	neg = 0.875
+5. But is it really fai                 ... pos = 0.0   	neg = 0.375
+6. Maybe not.                           ... pos = 0.0   	neg = 0.0  
+7. "The Matrix" provide                 ... pos = 0.625 	neg = 0.0  
+8. They freak him out w                 ... pos = 0.375 	neg = 0.875
+9. Reeves' dazed, fazed                 ... pos = 0.375 	neg = 0.0  
+10. Before long, Morpheu                ... pos = 0.625 	neg = 0.5  
+11. Wanna learn jujitsu?                ... pos = 0.0   	neg = 0    
+12. Done.                               ... pos = 0.0   	neg = 0    
+13. Wanna be able to vau                ... pos = 0.25  	neg = 0.125
+14. _Voila_.                            ... pos = 0     	neg = 0    
+15. These sequences make                ... pos = 1.0   	neg = 0.75 
+16. Then comes the empty                ... pos = 0.625 	neg = 1.0  
+17. Not only are most of                ... pos = 1.0   	neg = 0.125
+18. Brothers Andy and La                ... pos = 0.125 	neg = 0.75 
+19. "The Matrix" isn't s                ... pos = 0.375 	neg = 0.625
+20. Even if their second                ... pos = 0.625 	neg = 0.0  
+21. This includes furthe                ... pos = 0.75  	neg = 0.25 
+22. When it sticks to in                ... pos = 1.25  	neg = 0.125
+23. In other words, the                 ... pos = 2.0   	neg = 0.875
+24. Š 1999 Jamie Peck E                ... pos = 0.0   	neg = 0.125
+25. " -Roger Ebert on "C                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-1031 is Positive        ... pos = 14.5  	neg = 12.375
+Overall score of document
+Total Pos = 14.5
+Total Neg = 12.375
+---------------------------------------------------------------------------

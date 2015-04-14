@@ -1,0 +1,45 @@
+0. PLEASANTVILLE Cast:                  ... pos = 0.0   	neg = 0.0  
+1. Walsh, Don Knotts, M                 ... pos = 1.125 	neg = 0.0  
+2. Their vibrantly colo                 ... pos = 0.75  	neg = 0.125
+3. Like the film, this                  ... pos = 0.0   	neg = 0.125
+4. When there are so ma                 ... pos = 0.875 	neg = 0.125
+5. Would the world be a                 ... pos = 0.875 	neg = 1.25 
+6. Welcome to Pleasantv                 ... pos = 1.125 	neg = 0.125
+7. Two teenagers - Davi                 ... pos = 1.0   	neg = 0.0  
+8. "We're, like, stuck                  ... pos = 0.0   	neg = 0.5  
+9. Naturally, the film                  ... pos = 0.125 	neg = 0.25 
+10. The word "fire" mean                ... pos = 0.5   	neg = 0.375
+11. The local basketball                ... pos = 0.25  	neg = 0.75 
+12. Like in Dark City (a                ... pos = 1.25  	neg = 0.25 
+13. At one moment, Jenni                ... pos = 0.125 	neg = 0.125
+14. Before the jokes bec                ... pos = 0.125 	neg = 0.5  
+15. As Toby and Jennifer                ... pos = 0.375 	neg = 0.0  
+16. Most adults are unwi                ... pos = 2.875 	neg = 0.75 
+17. Pleasantville mayor                 ... pos = 0.0   	neg = 0.125
+18. Although Pleasantvil                ... pos = 1.75  	neg = 0.0  
+19. That is quite a lot                 ... pos = 0.0   	neg = 0.125
+20. As color contrasts w                ... pos = 0.0   	neg = 0    
+21. It may be the screen                ... pos = 0.875 	neg = 0.375
+22. It's hard not to be                 ... pos = 1.125 	neg = 0.875
+23. This burning tree is                ... pos = 0.0   	neg = 0.125
+24. Tobey Maguire and Re                ... pos = 0.0   	neg = 0.0  
+25. Witherspoon's Jennif                ... pos = 0.875 	neg = 0.375
+26. Witherspoon makes th                ... pos = 1.5   	neg = 0.5  
+27. Jeff Daniels has a s                ... pos = 1.875 	neg = 0.125
+28. Mr. Johnson's love f                ... pos = 0.875 	neg = 0.25 
+29. William H. Macy (who                ... pos = 0.375 	neg = 0.0  
+30. Macy's character (Da                ... pos = 0.875 	neg = 0.25 
+31. They are happy livin                ... pos = 1.375 	neg = 0.0  
+32. Pleasantville is a t                ... pos = 1.125 	neg = 0.125
+33. It has deep meaning                 ... pos = 0.125 	neg = 0.125
+34. "You can't stop some                ... pos = 0.0   	neg = 0.125
+35. I was touched and in                ... pos = 0.25  	neg = 0.125
+36. Although Ross occasi                ... pos = 0.875 	neg = 0.75 
+37. Imaginative, moving                 ... pos = 1.375 	neg = 0.5  
+38. It would be silly fo                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1978-1111 is Positive        ... pos = 26.75 	neg = 10.375
+Overall score of document
+Total Pos = 26.75
+Total Neg = 10.375
+---------------------------------------------------------------------------

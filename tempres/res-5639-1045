@@ -1,0 +1,45 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.25 
+1. Someone who makes yo                 ... pos = 0.375 	neg = 0.0  
+2. What do you get when                 ... pos = 0.0   	neg = 0.0  
+3. Well, instead of a c                 ... pos = 1.25  	neg = 0.0  
+4. It's a cross between                 ... pos = 0.0   	neg = 0.0  
+5. -- and a cross betwe                 ... pos = 0.0   	neg = 0.5  
+6. (Which makes it a do                 ... pos = 0.0   	neg = 0.0  
+7. ). Analyze This is o                 ... pos = 0.875 	neg = 0.25 
+8. Crystal is the same                  ... pos = 0.875 	neg = 0.125
+9. DeNiro, on the other                 ... pos = 0.875 	neg = 0.0  
+10. (To be charitable, t                ... pos = 0.375 	neg = 0.625
+11. )  The script even d                ... pos = 0.0   	neg = 0.125
+12. The good part of the                ... pos = 1.5   	neg = 0.125
+13. It's sharp, funny di                ... pos = 0.0   	neg = 0.0  
+14. It's great to see ho                ... pos = 0.0   	neg = 0.0  
+15. At one point, Crysta                ... pos = 0.25  	neg = 0.0  
+16. DeNiro considers thi                ... pos = 0.125 	neg = 0.125
+17. ". And the whole mov                ... pos = 0     	neg = 0.125
+18. Crystal tries to use                ... pos = 0.0   	neg = 0.0  
+19. Analyze This forces                 ... pos = 0.0   	neg = 0.0  
+20. Can we make comedies                ... pos = 0.0   	neg = 0.0  
+21. Have we lost our com                ... pos = 0.0   	neg = 0.0  
+22. If Analyze This is t                ... pos = 1.125 	neg = 0.375
+23. Think about it.                     ... pos = 0.0   	neg = 0.0  
+24. We're making three k                ... pos = 0.25  	neg = 0.125
+25. That's it.                          ... pos = 0.0   	neg = 0    
+26. Robin Williams and J                ... pos = 1.25  	neg = 0.875
+27. The funniest actor w                ... pos = 1.0   	neg = 0.125
+28. Think about it.                     ... pos = 0.0   	neg = 0.0  
+29. Because real comedie                ... pos = 0.5   	neg = 0.875
+30. Analyze This fails b                ... pos = 0.875 	neg = 0.125
+31. There's nothing to l                ... pos = 0.375 	neg = 0.25 
+32. Half the movie is Cr                ... pos = 0.25  	neg = 0.375
+33. It's almost as if Cr                ... pos = 0.25  	neg = 0.5  
+34. Although the movie e                ... pos = 1.375 	neg = 0.25 
+35. There's nothing real                ... pos = 0     	neg = 1.0  
+36. It's a decent enough                ... pos = 0.0   	neg = 0.25 
+37. It's got a few laugh                ... pos = 0.0   	neg = 0.125
+38. The problem is that                 ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5639-1045 is Positive        ... pos = 13.75 	neg = 8.125
+Overall score of document
+Total Pos = 13.75
+Total Neg = 8.125
+---------------------------------------------------------------------------

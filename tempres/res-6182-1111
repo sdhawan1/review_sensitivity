@@ -1,0 +1,29 @@
+0. HILARY AND JACKIE Ca                 ... pos = 1.5   	neg = 0.125
+1. Emily Watson and Aus                 ... pos = 0.625 	neg = 0.0  
+2. It would be easy to                  ... pos = 1.5   	neg = 0.375
+3. The script is solidl                 ... pos = 0.125 	neg = 0.375
+4. Jacqueline "Jackie"                  ... pos = 0.0   	neg = 0.125
+5. As young girls, Jack                 ... pos = 0.25  	neg = 0.875
+6. As adults, they have                 ... pos = 2.375 	neg = 0.125
+7. Jackie finds out the                 ... pos = 1.625 	neg = 0.75 
+8. Jackie is a complica                 ... pos = 1.125 	neg = 1.0  
+9. Feeling lonely, Jack                 ... pos = 0.25  	neg = 0.25 
+10. "She just needs to f                ... pos = 0.75  	neg = 0.125
+11. Jackie's plights thr                ... pos = 1.625 	neg = 0.125
+12. Rachel Griffiths als                ... pos = 1.5   	neg = 0.375
+13. For the first thirty                ... pos = 0.625 	neg = 0.125
+14. The performances fro                ... pos = 0.625 	neg = 0.375
+15. After the film's len                ... pos = 0.0   	neg = 0.125
+16. This enables the sto                ... pos = 0.375 	neg = 0.125
+17. Hilary's story, alth                ... pos = 0.375 	neg = 0.5  
+18. Sometimes the narrat                ... pos = 0.625 	neg = 1.5  
+19. Still, Hilary and Ja                ... pos = 0.0   	neg = 0.125
+20. The classical music                 ... pos = 0.875 	neg = 0.25 
+21. But more than that,                 ... pos = 1.25  	neg = 0.25 
+22. Emily Watson and Rac                ... pos = 1.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-6182-1111 is Positive        ... pos = 19.125 	neg = 8.625
+Overall score of document
+Total Pos = 19.125
+Total Neg = 8.625
+---------------------------------------------------------------------------

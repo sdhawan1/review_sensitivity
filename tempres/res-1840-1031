@@ -1,0 +1,23 @@
+0. BULWORTH Reviewed by                 ... pos = 0.625 	neg = 0.25 
+1. Before hitting the w                 ... pos = 0.0   	neg = 0.25 
+2. But the knowledge th                 ... pos = 0.125 	neg = 0.125
+3. Bulworth finally  ha                 ... pos = 0.25  	neg = 0.0  
+4. Although the hitman                  ... pos = 0.625 	neg = 1.0  
+5. Come to think of it,                 ... pos = 0.5   	neg = 0.625
+6. In particular,  the                  ... pos = 1.625 	neg = 0.125
+7. The  ending -- espec                 ... pos = 1.625 	neg = 1.0  
+8. But because Beatty i                 ... pos = 0.25  	neg = 1.25 
+9. He gives an electrif                 ... pos = 2.125 	neg = 0.125
+10. Gorgeous Halle Berry                ... pos = 3.0   	neg = 0.5  
+11. So while "Bulworth"                 ... pos = 0.625 	neg = 1.25 
+12. Among the fun to be                 ... pos = 0.875 	neg = 0.625
+13. I'm sorta partial  t                ... pos = 0.375 	neg = 0.0  
+14. There, Beatty critic                ... pos = 0.0   	neg = 0.25 
+15. " Were "Bulworth" a                 ... pos = 0.625 	neg = 0.875
+16. But thankfully, it i                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1840-1031 is Positive        ... pos = 13.25 	neg = 8.25 
+Overall score of document
+Total Pos = 13.25
+Total Neg = 8.25
+---------------------------------------------------------------------------

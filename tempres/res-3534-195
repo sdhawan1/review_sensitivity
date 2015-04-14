@@ -1,0 +1,38 @@
+0. CONTACT is the 1997                  ... pos = 0.5   	neg = 0.25 
+1. Four of those times                  ... pos = 1.125 	neg = 0.125
+2. The same can't be sa                 ... pos = 1.125 	neg = 0.625
+3. CONTACT's wonderfull                 ... pos = 0.375 	neg = 0.0  
+4. Her interest in the                  ... pos = 1.375 	neg = 0.125
+5. While everyone else                  ... pos = 1.0   	neg = 0.125
+6. Ellie's strong scien                 ... pos = 1.125 	neg = 0.125
+7. In Puerto Rico, she                  ... pos = 0.0   	neg = 0.25 
+8. Despite the vast dif                 ... pos = 0.75  	neg = 0.625
+9. It's a weak and hurr                 ... pos = 0.0   	neg = 0.75 
+10. Meanwhile, Dr. David                ... pos = 0.0   	neg = 0.125
+11. This leaves the pass                ... pos = 1.25  	neg = 0.25 
+12. It is in this NM cit                ... pos = 1.125 	neg = 0.125
+13. When the signal is c                ... pos = 0.375 	neg = 0.625
+14. Eventually, it is co                ... pos = 0.125 	neg = 0.375
+15. The media swarms, fa                ... pos = 1.375 	neg = 0.625
+16. As if that weren't e                ... pos = 0.0   	neg = 0.0  
+17. CONTACT is based on                 ... pos = 0.0   	neg = 0.125
+18. The impressive thing                ... pos = 0.625 	neg = 0.125
+19. Arguments for both s                ... pos = 0.5   	neg = 0    
+20. When Palmer joins a                 ... pos = 1.5   	neg = 0.125
+21. The question is, can                ... pos = 1.75  	neg = 0.25 
+22. Even when the film w                ... pos = 0.75  	neg = 0.5  
+23. Don't get me wrong.                 ... pos = 0     	neg = 0.75 
+24. As much as it sounds                ... pos = 0.25  	neg = 0.0  
+25. It's a *highly* enjo                ... pos = 0.625 	neg = 0.0  
+26. Despite its seemingl                ... pos = 0.75  	neg = 0.25 
+27. The special effects                 ... pos = 1.0   	neg = 0.25 
+28. ) highly depreciated                ... pos = 0.625 	neg = 0.0  
+29. Even so, some of the                ... pos = 1.5   	neg = 0.25 
+30. The storytelling is                 ... pos = 1.75  	neg = 0.25 
+31. This is Zemeckis' be                ... pos = 0.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3534-195 is Positive         ... pos = 23.625 	neg = 8.375
+Overall score of document
+Total Pos = 23.625
+Total Neg = 8.375
+---------------------------------------------------------------------------

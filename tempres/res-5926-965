@@ -1,0 +1,24 @@
+0. Heavy Metal shocked                  ... pos = 0.875 	neg = 0.25 
+1. Or, to look at it an                 ... pos = 0.0   	neg = 0.625
+2. But, in spite of the                 ... pos = 0.125 	neg = 0.25 
+3. Next, enter Japanima                 ... pos = 0.875 	neg = 0.125
+4. The trailer for Happ                 ... pos = 0.25  	neg = 0.125
+5. And what are The Sim                 ... pos = 0.25  	neg = 0.0  
+6. In light of all this                 ... pos = 0.625 	neg = 0.75 
+7. In spite of itself,                  ... pos = 0.0   	neg = 0    
+8. It actually has quit                 ... pos = 0.125 	neg = 0.25 
+9. The story is simple:                 ... pos = 1.875 	neg = 1.125
+10. All of which serves                 ... pos = 1.75  	neg = 0.5  
+11. And of course it's a                ... pos = 1.0   	neg = 0.75 
+12. Granted, at some lev                ... pos = 1.125 	neg = 1.5  
+13. Meaning it anticipat                ... pos = 0.625 	neg = 0.625
+14. Of course the oft-ci                ... pos = 0.0   	neg = 1.0  
+15. ' The thing is, thou                ... pos = 1.0   	neg = 0.125
+16. If you can't appreci                ... pos = 0.0   	neg = 0.5  
+17. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5926-965 is Positive         ... pos = 10.5  	neg = 8.5  
+Overall score of document
+Total Pos = 10.5
+Total Neg = 8.5
+---------------------------------------------------------------------------

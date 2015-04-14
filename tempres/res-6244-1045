@@ -1,0 +1,38 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 1.0  
+1. Movie critics like o                 ... pos = 0.0   	neg = 0.0  
+2. Critics -- even inex                 ... pos = 0.125 	neg = 0.0  
+3. Movies that aren't o                 ... pos = 1.0   	neg = 0.0  
+4. Six Days, Seven Nigh                 ... pos = 0.0   	neg = 0.125
+5. It thumbs its nose a                 ... pos = 0.0   	neg = 0.0  
+6. Six Days, Seven Nigh                 ... pos = 0.5   	neg = 1.625
+7. That's just the part                 ... pos = 0.375 	neg = 1.25 
+8. The plot is so thin                  ... pos = 0.0   	neg = 0.125
+9. It would be fair to                  ... pos = 0.0   	neg = 1.375
+10. But it would not be                 ... pos = 0.0   	neg = 1.0  
+11. Although the critici                ... pos = 0.0   	neg = 0.125
+12. This is a fairly goo                ... pos = 1.125 	neg = 0.25 
+13. The best thing about                ... pos = 0.625 	neg = 1.0  
+14. Ford displays a dry,                ... pos = 0.25  	neg = 0.0  
+15. I've always felt tha                ... pos = 2.0   	neg = 0.125
+16. It's nice to get to                 ... pos = 0.375 	neg = 0.375
+17. Anne Heche has equal                ... pos = 1.0   	neg = 0.0  
+18. The only thing I did                ... pos = 1.375 	neg = 0.75 
+19. Heche was convincing                ... pos = 0.125 	neg = 0.125
+20. She knows what to do                ... pos = 1.25  	neg = 0.75 
+21. Heche manages to be                 ... pos = 0.75  	neg = 0.25 
+22. Much has been made a                ... pos = 0.375 	neg = 0.125
+23. What I liked most ab                ... pos = 0.125 	neg = 0.25 
+24. The dialogue between                ... pos = 0.25  	neg = 0.625
+25. Critics are people w                ... pos = 0.75  	neg = 0.5  
+26. However, there's jus                ... pos = 0.375 	neg = 0.125
+27. Relax, kick back, an                ... pos = 0.0   	neg = 0.0  
+28. Movie Reviews: http:                ... pos = 0     	neg = 0.125
+29. No jury in the world                ... pos = 0.0   	neg = 0.25 
+30. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+31. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6244-1045 is Positive        ... pos = 12.75 	neg = 12.25
+Overall score of document
+Total Pos = 12.75
+Total Neg = 12.25
+---------------------------------------------------------------------------

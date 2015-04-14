@@ -1,0 +1,35 @@
+0. Cast: George Clooney                 ... pos = 0.375 	neg = 0.125
+1. The best thing about                 ... pos = 1.5   	neg = 0.125
+2. Just when we thought                 ... pos = 2.0   	neg = 0.0  
+3. And just when it app                 ... pos = 0.5   	neg = 0.25 
+4. The screenplay, adap                 ... pos = 0.75  	neg = 0.5  
+5. In a failed getaway,                 ... pos = 1.25  	neg = 0.125
+6. Foxy Federal Marshal                 ... pos = 1.125 	neg = 0.0  
+7. Foley ponders over w                 ... pos = 1.375 	neg = 0.25 
+8. Both fall in love, a                 ... pos = 1.125 	neg = 0    
+9. Meanwhile, Foley and                 ... pos = 0.0   	neg = 1.25 
+10. The casting of Georg                ... pos = 0.625 	neg = 0.125
+11. He oozes charisma an                ... pos = 1.75  	neg = 0.375
+12. Out of Sight is one                 ... pos = 1.125 	neg = 1.125
+13. It's good to see tha                ... pos = 0.875 	neg = 0.0  
+14. Jennifer Lopez is al                ... pos = 0.875 	neg = 0.75 
+15. She plays her part b                ... pos = 2.0   	neg = 1.375
+16. Together, Clooney an                ... pos = 1.125 	neg = 0.375
+17. Somehow, even amongs                ... pos = 0.75  	neg = 0.375
+18. Even though Jackie B                ... pos = 2.0   	neg = 0.625
+19. Jackie Brown has pro                ... pos = 0.875 	neg = 0.125
+20. If you take into acc                ... pos = 0.0   	neg = 0.5  
+21. The absence of inter                ... pos = 0.625 	neg = 1.0  
+22. The screenplay is in                ... pos = 0.625 	neg = 0.125
+23. "  Scott Frank seems                ... pos = 0.625 	neg = 1.25 
+24. The punchy romance i                ... pos = 1.375 	neg = 1.25 
+25. For all its faults,                 ... pos = 0.875 	neg = 0.125
+26. There are also a cou                ... pos = 1.0   	neg = 0.875
+27. Now it's just a matt                ... pos = 0.0   	neg = 0.0  
+28. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4998-1111 is Positive        ... pos = 27.375 	neg = 13.0 
+Overall score of document
+Total Pos = 27.375
+Total Neg = 13.0
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. Washington Irving's                  ... pos = 0.0   	neg = 0.125
+1. Burton excels in bew                 ... pos = 2.125 	neg = 1.0  
+2. The story is set in                  ... pos = 0.375 	neg = 0.125
+3. A series of ghostly                  ... pos = 0.25  	neg = 0.5  
+4. Crane (played by Joh                 ... pos = 0.375 	neg = 2.375
+5. The film is absolute                 ... pos = 1.25  	neg = 2.0  
+6. The film is written                  ... pos = 1.125 	neg = 0.875
+7. Johnny Depp is a fin                 ... pos = 0.5   	neg = 0.5  
+8. But what worked in S                 ... pos = 0.25  	neg = 0.125
+9. Perhaps Burton's tal                 ... pos = 0.75  	neg = 0.125
+10. Here it just seems a                ... pos = 0.0   	neg = 0.25 
+11. The murderous Headle                ... pos = 0.0   	neg = 1.625
+12. Park played Darth Ma                ... pos = 0.125 	neg = 0.0  
+13. Christina Ricci is u                ... pos = 0.375 	neg = 0.75 
+14. Here she is complete                ... pos = 0.625 	neg = 1.25 
+15. The whole film seems                ... pos = 0.875 	neg = 0.25 
+16. (The Hammer connecti                ... pos = 0.875 	neg = 0.125
+17. ) Such films can be                 ... pos = 1.875 	neg = 1.125
+18. In this regard, Tim                 ... pos = 0.75  	neg = 0.25 
+19. All in all, Sleepy H                ... pos = 0.0   	neg = 0.875
+20. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6111-312 is Negative         ... pos = 13.5  	neg = 14.25
+Overall score of document
+Total Pos = 13.5
+Total Neg = 14.25
+---------------------------------------------------------------------------

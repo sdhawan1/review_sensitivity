@@ -1,0 +1,37 @@
+0. `Anna and the King',                 ... pos = 2.875 	neg = 0.375
+1. There is impeccable                  ... pos = 1.0   	neg = 0.125
+2. You may be squirming                 ... pos = 1.125 	neg = 0.125
+3. One is Jodie Foster,                 ... pos = 0.5   	neg = 0.5  
+4. The lad is the son o                 ... pos = 0.625 	neg = 0.125
+5. Anna conducts hersel                 ... pos = 1.375 	neg = 0.75 
+6. She is bold, to be s                 ... pos = 0.375 	neg = 0.875
+7. Anna winds up the en                 ... pos = 0.375 	neg = 0.125
+8. I had no doubt Foste                 ... pos = 0.875 	neg = 0.25 
+9. I was happy, though,                 ... pos = 0.875 	neg = 0.125
+10. Despite the fact his                ... pos = 1.5   	neg = 0.125
+11. He, like his enthusi                ... pos = 1.375 	neg = 0.0  
+12. `Anna and the King'                 ... pos = 0.625 	neg = 0.5  
+13. There is light humor                ... pos = 0.875 	neg = 0.375
+14. How could you not cr                ... pos = 0.75  	neg = 0.5  
+15. For a steady 90 minu                ... pos = 0.375 	neg = 0.125
+16. The performances cli                ... pos = 1.25  	neg = 0.125
+17. And then, there's a                 ... pos = 0.0   	neg = 0.25 
+18. Tennant stretches th                ... pos = 1.25  	neg = 0.75 
+19. If the running lengt                ... pos = 0.0   	neg = 0.25 
+20. In it's present stat                ... pos = 1.75  	neg = 0.25 
+21. But despite it's len                ... pos = 1.0   	neg = 0.25 
+22. It's also too violen                ... pos = 1.5   	neg = 0.5  
+23. But, if there is one                ... pos = 1.5   	neg = 0.125
+24. Expect an Oscar-nomi                ... pos = 0.0   	neg = 0.25 
+25. Both Foster and Yun-                ... pos = 0.0   	neg = 0.375
+26. Bai Ling (`Red Corne                ... pos = 1.375 	neg = 0.125
+27. Ultimately, `Anna an                ... pos = 0.375 	neg = 1.5  
+28. But it's still a nic                ... pos = 1.25  	neg = 0.375
+29. Just try to concentr                ... pos = 0.75  	neg = 0.25 
+30. Cast Your Votes for                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1867-693 is Positive         ... pos = 27.5  	neg = 10.375
+Overall score of document
+Total Pos = 27.5
+Total Neg = 10.375
+---------------------------------------------------------------------------

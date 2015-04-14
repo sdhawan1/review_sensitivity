@@ -1,0 +1,61 @@
+0. STAR TREK: INSURRECT                 ... pos = 0.0   	neg = 0.0  
+1. Copyright 1998 Justi                 ... pos = 0     	neg = 0.0  
+2. All of my film revie                 ... pos = 0.25  	neg = 0.0  
+3. Directed by Jonathan                 ... pos = 0.0   	neg = 0    
+4. Starring Patrick Ste                 ... pos = 0.0   	neg = 0.0  
+5. Rated PG (contains v                 ... pos = 0.125 	neg = 0.25 
+6. Synopsis:  Captain P                 ... pos = 0.25  	neg = 0.75 
+7. The Enterprise crew,                 ... pos = 0.875 	neg = 0.0  
+8. Comments:  "Star Tre                 ... pos = 1.0   	neg = 0.125
+9. Even though it still                 ... pos = 0.5   	neg = 0.5  
+10. STAR TREK: INSURRECT                ... pos = 0.0   	neg = 0.125
+11. STAR TREK: INSURRECT                ... pos = 0.0   	neg = 0.625
+12. "  After STAR TREK V                ... pos = 0.125 	neg = 1.75 
+13. I don't wish to spen                ... pos = 0.0   	neg = 0.375
+14. Most people reading                 ... pos = 0.5   	neg = 0.25 
+15. Let me, thus, make m                ... pos = 1.875 	neg = 0.5  
+16. Okay.                               ... pos = 0     	neg = 0.125
+17. Let's move to the mo                ... pos = 0     	neg = 0.0  
+18. STAR TREK: INSURRECT                ... pos = 0.75  	neg = 0.0  
+19. This combination wor                ... pos = 0.0   	neg = 1.25 
+20. Much of this film ap                ... pos = 0.75  	neg = 0    
+21. Audiences unfamiliar                ... pos = 0.875 	neg = 0.0  
+22. STAR TREK: INSURRECT                ... pos = 0.5   	neg = 0.0  
+23. Forget the actors an                ... pos = 2.0   	neg = 0.25 
+24. This tranquility, ho                ... pos = 0.75  	neg = 0.125
+25. It seems that this w                ... pos = 1.25  	neg = 0.25 
+26. The Enterprise crew,                ... pos = 0.0   	neg = 0.0  
+27. Sound pretty heavy?                 ... pos = 0.0   	neg = 0.125
+28. It is, though this p                ... pos = 0.375 	neg = 0.25 
+29. When going after Dat                ... pos = 0.875 	neg = 0.25 
+30. In a much more funny                ... pos = 0.125 	neg = 0.5  
+31. The acting in STAR T                ... pos = 0.75  	neg = 0.25 
+32. Since they've been p                ... pos = 1.25  	neg = 0.125
+33. The terrific actor P                ... pos = 0.5   	neg = 0.0  
+34. Brent Spiner, anothe                ... pos = 0.25  	neg = 0.125
+35. The supporting cast                 ... pos = 1.375 	neg = 0.125
+36. Despite many other c                ... pos = 0.875 	neg = 0.875
+37. Ru'afro reminds me,                 ... pos = 0.0   	neg = 0.125
+38. Like the Baron, Ru'a                ... pos = 0.0   	neg = 0.25 
+39. In one particularly                 ... pos = 0.75  	neg = 0.0  
+40. Ru'afro is no Khan f                ... pos = 0.75  	neg = 0.875
+41. (Okay, I promise, no                ... pos = 0.0   	neg = 0.5  
+42. )  Donna Murphy must                ... pos = 1.0   	neg = 0.375
+43. Murphy is not a youn                ... pos = 1.25  	neg = 0.375
+44. This is the type of                 ... pos = 1.0   	neg = 0.25 
+45. In fact, the chemist                ... pos = 0.5   	neg = 0.0  
+46. A particular plot po                ... pos = 1.25  	neg = 0.0  
+47. For as good as the a                ... pos = 0.875 	neg = 0.75 
+48. They proved adequate                ... pos = 0.125 	neg = 0.25 
+49. The space battles in                ... pos = 0.0   	neg = 1.0  
+50. The new Enterprise i                ... pos = 0.5   	neg = 0.375
+51. Despite STAR TREK: I                ... pos = 0.375 	neg = 0.5  
+52. It maintains Roddenb                ... pos = 1.5   	neg = 0.75 
+53. I'd recommend INSURR                ... pos = 0.125 	neg = 0.0  
+54. Rated PG, I can't se                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3258-1002 is Positive        ... pos = 29.125 	neg = 16.25
+Overall score of document
+Total Pos = 29.125
+Total Neg = 16.25
+---------------------------------------------------------------------------

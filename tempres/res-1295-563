@@ -1,0 +1,42 @@
+0. "What happened durin                 ... pos = 0.0   	neg = 0.0  
+1. ". Starring Charlize                 ... pos = 0     	neg = 0.0  
+2. Rated R.. In many wa                 ... pos = 0.625 	neg = 0.125
+3. It is utterly compel                 ... pos = 0.125 	neg = 0.125
+4. So it is only in ret                 ... pos = 1.0   	neg = 0.25 
+5. As the story unspool                 ... pos = 0.5   	neg = 0.25 
+6. Jillian Armicaust's                  ... pos = 0.5   	neg = 0.125
+7. On his latest missio                 ... pos = 0.0   	neg = 0.125
+8. As Spencer and his p                 ... pos = 0.25  	neg = 0.625
+9. Houston (we have a p                 ... pos = 0.0   	neg = 0.25 
+10. When communication i                ... pos = 0.25  	neg = 0.125
+11. Spencer seems fine b                ... pos = 0.0   	neg = 0.125
+12. Soon Charlize is pre                ... pos = 0.0   	neg = 0.125
+13. It is then that she                 ... pos = 1.0   	neg = 0.125
+14. Nothing apparent, bu                ... pos = 0.25  	neg = 1.125
+15. At first she pays no                ... pos = 1.25  	neg = 1.0  
+16. But then she realize                ... pos = 1.125 	neg = 1.625
+17. As I ran the scenes                 ... pos = 0.375 	neg = 0.0  
+18. He suggests things a                ... pos = 1.625 	neg = 0.0  
+19. He gives clues but h                ... pos = 0.0   	neg = 0.0  
+20. Not only is this fru                ... pos = 0.25  	neg = 0.125
+21. Charlize Theron (The                ... pos = 1.125 	neg = 0.25 
+22. In a role that could                ... pos = 1.375 	neg = 0.125
+23. Johnny Depp fares ju                ... pos = 0.0   	neg = 0.0  
+24. Towards the climax w                ... pos = 1.75  	neg = 1.125
+25. We never get to know                ... pos = 0.125 	neg = 1.0  
+26. How are we supposed                 ... pos = 0.375 	neg = 1.5  
+27. That's a fundamental                ... pos = 0.625 	neg = 0.125
+28. Despite its many det                ... pos = 0.875 	neg = 0.375
+29. It's the kind of fil                ... pos = 1.25  	neg = 0.75 
+30. This particular film                ... pos = 0.625 	neg = 0.5  
+31. I'm not sure if I ca                ... pos = 0.25  	neg = 0.375
+32. I didn't like this m                ... pos = 0.0   	neg = 0.0  
+33. It's certainly not b                ... pos = 0.25  	neg = 0.75 
+34. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+35. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1295-563 is Positive         ... pos = 17.75 	neg = 13.125
+Overall score of document
+Total Pos = 17.75
+Total Neg = 13.125
+---------------------------------------------------------------------------

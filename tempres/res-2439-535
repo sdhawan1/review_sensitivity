@@ -1,0 +1,53 @@
+0. Ridley Scott's ("Bla                 ... pos = 0.5   	neg = 0.75 
+1. This is the kind of                  ... pos = 0.375 	neg = 0.125
+2. Now, thanks to compu                 ... pos = 1.0   	neg = 0.0  
+3. Speaking of glory, w                 ... pos = 0.75  	neg = 0.125
+4. Not only does Scott'                 ... pos = 1.125 	neg = 0.375
+5. "Gladiator" is the s                 ... pos = 0.125 	neg = 0.125
+6. This is the sort of                  ... pos = 0.0   	neg = 0.25 
+7. Maximus (Russell Cro                 ... pos = 1.375 	neg = 0.125
+8. After defeating the                  ... pos = 0.375 	neg = 0.0  
+9. However, Caesar Marc                 ... pos = 0.25  	neg = 0.125
+10. He wants Maximus to                 ... pos = 0.125 	neg = 0.125
+11. Commodus, infuriated                ... pos = 0.0   	neg = 1.0  
+12. Maximus escapes his                 ... pos = 0.0   	neg = 0.0  
+13. After wandering blin                ... pos = 0.125 	neg = 0.125
+14. Now Maximus has retu                ... pos = 0.0   	neg = 0.25 
+15. While the previews m                ... pos = 0.375 	neg = 0.875
+16. There are, in fact,                 ... pos = 0.25  	neg = 0.0  
+17. The rest of the film                ... pos = 0.5   	neg = 0.125
+18. This doesn't mean th                ... pos = 0.0   	neg = 0.125
+19. Two and a half hours                ... pos = 0.125 	neg = 0.0  
+20. While the political                 ... pos = 0.75  	neg = 0.125
+21. The battles which ta                ... pos = 0.5   	neg = 0.0  
+22. The two go at it, wi                ... pos = 0.0   	neg = 0.25 
+23. Acting obviously isn                ... pos = 0.125 	neg = 0.125
+24. The real surprise wa                ... pos = 0.0   	neg = 0.125
+25. Joquin Phoenix ("8MM                ... pos = 1.25  	neg = 2.0  
+26. Connie Nielsen ("Mis                ... pos = 1.625 	neg = 0.0  
+27. Oliver Reed ("The Bi                ... pos = 0.0   	neg = 0.0  
+28. I found it interesti                ... pos = 1.125 	neg = 0.125
+29. Watch for Djimon Hou                ... pos = 0.125 	neg = 0.0  
+30. There are two more t                ... pos = 0.375 	neg = 0.0  
+31. First is the score,                 ... pos = 0.75  	neg = 0.125
+32. Composer Hans Zimmer                ... pos = 1.25  	neg = 0.0  
+33. The music played dur                ... pos = 0.625 	neg = 0.375
+34. The other great mome                ... pos = 0.375 	neg = 0.25 
+35. During this battle,                 ... pos = 0.25  	neg = 0.0  
+36. I'd recommend everyo                ... pos = 0.5   	neg = 0.0  
+37. I'm certain it's goi                ... pos = 0.125 	neg = 0.0  
+38. The film runs 154 mi                ... pos = 0.125 	neg = 0.375
+39. I give "Gladiator" a                ... pos = 0.0   	neg = 0.0  
+40. Comments?                           ... pos = 0     	neg = 0.0  
+41. Feel free to e-mail                 ... pos = 0.5   	neg = 0.25 
+42. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+43. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+44. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.25 
+45. * - One of the worst                ... pos = 0.0   	neg = 0.375
+46. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2439-535 is Positive         ... pos = 18.125 	neg = 10.5 
+Overall score of document
+Total Pos = 18.125
+Total Neg = 10.5
+---------------------------------------------------------------------------

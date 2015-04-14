@@ -1,0 +1,54 @@
+0. Gone in 60 Seconds i                 ... pos = 0.125 	neg = 0.75 
+1. It starts  off as a                  ... pos = 0.364 	neg = 0.75 
+2. As  the movie progre                 ... pos = 1.25  	neg = 1.0  
+3. Throughout the film,                 ... pos = 1.25  	neg = 0.0  
+4. No character goes be                 ... pos = 2.125 	neg = 0.25 
+5. Director Dominic Sen                 ... pos = 0.125 	neg = 0.125
+6. Instead of  trying t                 ... pos = 0.0   	neg = 0.625
+7. ) he takes the best                  ... pos = 1.375 	neg = 0.125
+8. Memphis Raines (Nico                 ... pos = 0.0   	neg = 0.25 
+9. Kip screws up his  f                 ... pos = 0.125 	neg = 0.125
+10. His boss, an  evil g                ... pos = 0.125 	neg = 1.125
+11. If all the cars don'                ... pos = 0.125 	neg = 0.0  
+12. So Memphis and a bun                ... pos = 0.375 	neg = 0.0  
+13. Some of his  friends                ... pos = 0.125 	neg = 0.0  
+14. Kip and his younger                 ... pos = 0.125 	neg = 0.0  
+15. Detective Roland Cas                ... pos = 0.0   	neg = 0.25 
+16. Not putting him in j                ... pos = 0.125 	neg = 0.125
+17. Castlebeck and his y                ... pos = 0.0   	neg = 0.0  
+18. One constant element                ... pos = 0.125 	neg = 0.125
+19. Memphis and Otto are                ... pos = 0.875 	neg = 0.5  
+20. Unlike some of Kip's                ... pos = 1.125 	neg = 0.0  
+21. The older guys certa                ... pos = 0.375 	neg = 0.125
+22. Memphis comes up wit                ... pos = 1.25  	neg = 0.0  
+23. However, one  hilari                ... pos = 0.5   	neg = 1.0  
+24. If this doesn't soun                ... pos = 0.0   	neg = 0.0  
+25. This movie will plea                ... pos = 0.375 	neg = 0.25 
+26. I certainly was, and                ... pos = 0.25  	neg = 0.625
+27. They were  hooting a                ... pos = 0.5   	neg = 0.125
+28. I admire that  Angel                ... pos = 0.75  	neg = 0.25 
+29. Sway just  likes han                ... pos = 0.0   	neg = 0.0  
+30. While  the sexual as                ... pos = 1.25  	neg = 0.25 
+31. Nicolas Cage's nasal                ... pos = 0.0   	neg = 0.125
+32. The action scenes ar                ... pos = 0.5   	neg = 0.0  
+33. The mood gets well s                ... pos = 0.125 	neg = 0.125
+34. The only constant so                ... pos = 1.875 	neg = 0.375
+35. There is one skill e                ... pos = 0.25  	neg = 0.125
+36. During one amazing c                ... pos = 0.125 	neg = 0.0  
+37. The fast pace never                 ... pos = 0.125 	neg = 0.125
+38. The cast assembled i                ... pos = 1.125 	neg = 0.0  
+39. There really don't n                ... pos = 0.875 	neg = 0.375
+40. Frances  Fisher show                ... pos = 0.125 	neg = 1.5  
+41. Regardless, this is                 ... pos = 0.125 	neg = 0.125
+42. Some Mission: Imposs                ... pos = 0.375 	neg = 0.625
+43. Gone in 60 Seconds c                ... pos = 0.875 	neg = 0.125
+44. It may  encourage pe                ... pos = 0.375 	neg = 0.125
+45. Coming out of the sc                ... pos = 0.25  	neg = 0.75 
+46. There are more than                 ... pos = 0.25  	neg = 0.375
+47. If this doesn't give                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1854-329 is Positive         ... pos = 22.614 	neg = 13.75
+Overall score of document
+Total Pos = 22.614
+Total Neg = 13.75
+---------------------------------------------------------------------------

@@ -1,0 +1,41 @@
+0. A Review by Jeremiah                 ... pos = 0.0   	neg = 0.125
+1. The minute I saw the                 ... pos = 0.0   	neg = 0.0  
+2. Besides the fact tha                 ... pos = 0.25  	neg = 0.0  
+3. I got sucker punched                 ... pos = 0.75  	neg = 0.375
+4. "  (Oops)      I pac                 ... pos = 0.125 	neg = 0.0  
+5. ) The film began....                 ... pos = 0.0   	neg = 0    
+6. The film concerns an                 ... pos = 0.0   	neg = 0.25 
+7. He loves poetry and                  ... pos = 1.0   	neg = 0.125
+8. (I'd put in his name                 ... pos = 0.0   	neg = 0.0  
+9. ) They continually i                 ... pos = 0.0   	neg = 0.5  
+10. Brackett has been en                ... pos = 0.25  	neg = 0.25 
+11. The wedding, however                ... pos = 0.625 	neg = 0.125
+12. Kline spends most of                ... pos = 0.5   	neg = 0.5  
+13. The whole town begin                ... pos = 0.375 	neg = 0.125
+14. His closest friends                 ... pos = 0.125 	neg = 0.25 
+15. There are some genui                ... pos = 1.0   	neg = 0.0  
+16. Kline is hounded by                 ... pos = 0.5   	neg = 0.125
+17. The movie moves alon                ... pos = 0.0   	neg = 0.0  
+18. Kline stands at the                 ... pos = 0.0   	neg = 0.125
+19. If you want to be su                ... pos = 0.125 	neg = 0.375
+20. ...instead of saying                ... pos = 0.125 	neg = 0.0  
+21. "  This is where the                ... pos = 0.0   	neg = 0.375
+22. Most of the humor in                ... pos = 0.75  	neg = 0.125
+23. It reminded me of th                ... pos = 0.0   	neg = 0.0  
+24. It was funny, it was                ... pos = 0.0   	neg = 0.25 
+25. However, after the w                ... pos = 0.125 	neg = 0.25 
+26. They should have att                ... pos = 0.0   	neg = 0.0  
+27. He reconciles with h                ... pos = 0.125 	neg = 0.0  
+28. There are several sc                ... pos = 0.75  	neg = 1.5  
+29. Finally, even though                ... pos = 0.25  	neg = 0.25 
+30. The preist cannot be                ... pos = 0.25  	neg = 0.125
+31. "  It got a chuckle                 ... pos = 0.0   	neg = 0.125
+32. By the time the wedd                ... pos = 0.0   	neg = 0.125
+33. (much like this revi                ... pos = 0.375 	neg = 0.0  
+34. See it in economy ti                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1120-674 is Positive         ... pos = 8.375 	neg = 6.375
+Overall score of document
+Total Pos = 8.375
+Total Neg = 6.375
+---------------------------------------------------------------------------

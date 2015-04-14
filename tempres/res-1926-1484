@@ -1,0 +1,56 @@
+0. I have lived in subu                 ... pos = 0.0   	neg = 0.0  
+1. Most of the time I j                 ... pos = 0.375 	neg = 0.0  
+2. Things are actually                  ... pos = 0.25  	neg = 0.0  
+3. AMERICAN BEAUTY chan                 ... pos = 1.125 	neg = 0    
+4. Sam Mendes' astonish                 ... pos = 1.75  	neg = 0.125
+5. And it very well cou                 ... pos = 0.875 	neg = 0.125
+6. Lester Burnham (Spac                 ... pos = 0.125 	neg = 0.125
+7. He is tired of the p                 ... pos = 0.0   	neg = 0.125
+8. He is not the man of                 ... pos = 0.375 	neg = 0.25 
+9. He has, through the                  ... pos = 0.25  	neg = 0.25 
+10. Lester probably has                 ... pos = 1.625 	neg = 0.0  
+11. Like Bulworth, Leste                ... pos = 0.25  	neg = 0.125
+12. The fact that she's                 ... pos = 0.0   	neg = 0.0  
+13. The point is Lester'                ... pos = 1.0   	neg = 0.25 
+14. So, to the dismay of                ... pos = 0.125 	neg = 0.0  
+15. He works out.                       ... pos = 0.0   	neg = 0.0  
+16. He quits his job.                   ... pos = 0.0   	neg = 0    
+17. He smokes pot.                      ... pos = 0.0   	neg = 0.125
+18. And he dreams, at ni                ... pos = 0.375 	neg = 0.0  
+19. But AMERICAN BEAUTY                 ... pos = 0.5   	neg = 0.125
+20. It's about the relat                ... pos = 0.0   	neg = 0.0  
+21. And those people var                ... pos = 0.125 	neg = 0.0  
+22. And all of these are                ... pos = 1.625 	neg = 0    
+23. Col. Fitts (Cooper)                 ... pos = 0.5   	neg = 0.0  
+24. Others include the K                ... pos = 0.625 	neg = 0.0  
+25. AMERICAN BEAUTY work                ... pos = 0.5   	neg = 0.0  
+26. This is one hysteric                ... pos = 0.375 	neg = 0.125
+27. But these laughs hur                ... pos = 0.25  	neg = 0.0  
+28. Lester Burnham is th                ... pos = 0.875 	neg = 1.0  
+29. Some may object to h                ... pos = 0.625 	neg = 0.625
+30. It takes a mad proph                ... pos = 0.0   	neg = 0.0  
+31. Of course, to tell y                ... pos = 2.125 	neg = 0.25 
+32. It would be an overb                ... pos = 0.625 	neg = 0.75 
+33. Certainly, despite t                ... pos = 1.5   	neg = 0.0  
+34. But in the end, it r                ... pos = 0.0   	neg = 0.0  
+35. The script decides t                ... pos = 0.0   	neg = 0.0  
+36. All of the character                ... pos = 1.25  	neg = 0.0  
+37. And are not sure how                ... pos = 0.5   	neg = 0    
+38. It takes a gutsy per                ... pos = 0.125 	neg = 0.0  
+39. This is the role he                 ... pos = 1.125 	neg = 0.25 
+40. And he pulls it off                 ... pos = 2.25  	neg = 1.125
+41. Annette Bening is se                ... pos = 0.875 	neg = 0.125
+42. The movie thematical                ... pos = 0.375 	neg = 1.0  
+43. No matter.                          ... pos = 0.0   	neg = 0.25 
+44. For what its worth,                 ... pos = 1.0   	neg = 0.125
+45. It reexamines beauty                ... pos = 0.625 	neg = 0    
+46. It is, truly, a beau                ... pos = 2.125 	neg = 0.25 
+47. The last act of this                ... pos = 0.625 	neg = 0.25 
+48. Mendes shows a clear                ... pos = 0.25  	neg = 0.125
+49. A glorious achieveme                ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1926-1484 is Positive        ... pos = 30.125 	neg = 7.875
+Overall score of document
+Total Pos = 30.125
+Total Neg = 7.875
+---------------------------------------------------------------------------

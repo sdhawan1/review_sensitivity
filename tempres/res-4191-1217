@@ -1,0 +1,51 @@
+0. review by Scott Hunt                 ... pos = 0.0   	neg = 0.0  
+1. Visit me at Movie Hu                 ... pos = 0.75  	neg = 0.75 
+2. At nearly three and                  ... pos = 0.25  	neg = 0.0  
+3. It not only demands                  ... pos = 0.75  	neg = 0.25 
+4. It is delirious, dep                 ... pos = 0.875 	neg = 0.375
+5. It's also a movie th                 ... pos = 0.5   	neg = 0.0  
+6. Director Paul Thomas                 ... pos = 0.75  	neg = 0.0  
+7. The character's make                 ... pos = 0.0   	neg = 0.375
+8. There is Frank Macke                 ... pos = 0.625 	neg = 0.375
+9. There is Earl Partri                 ... pos = 0.75  	neg = 0.125
+10. There is game show h                ... pos = 0.0   	neg = 0.25 
+11. And there is police                 ... pos = 0.0   	neg = 0.5  
+12. Given equal weight a                ... pos = 0.875 	neg = 0.0  
+13. a materialistic, adu                ... pos = 1.625 	neg = 0.0  
+14. Hovering over all th                ... pos = 0.875 	neg = 0.125
+15. It is not a pleasant                ... pos = 0.625 	neg = 0.125
+16. There is not one bad                ... pos = 0.0   	neg = 1.0  
+17. It is affecting and                 ... pos = 0.875 	neg = 0.125
+18. There is a moment wh                ... pos = 0.0   	neg = 0.375
+19. Then he tops himself                ... pos = 0.125 	neg = 0.0  
+20. Walters plays her ch                ... pos = 1.25  	neg = 0.125
+21. Robards convincingly                ... pos = 0.875 	neg = 0    
+22. Director Anderson ha                ... pos = 0.0   	neg = 0.125
+23. The problem is that                 ... pos = 0.0   	neg = 1.0  
+24. Julianne Moore's cha                ... pos = 1.0   	neg = 0.625
+25. After a few hours, i                ... pos = 0.125 	neg = 0.0  
+26. Quite a few scenes,                 ... pos = 0.75  	neg = 1.125
+27. And just what is the                ... pos = 0.0   	neg = 0.125
+28. Alienation?                         ... pos = 0     	neg = 0.375
+29. Hopelessness?                       ... pos = 0.375 	neg = 0    
+30. Anderson challenges                 ... pos = 0.25  	neg = 0.0  
+31. The film starts by s                ... pos = 0.875 	neg = 0.25 
+32. It's a harbinger of                 ... pos = 0.0   	neg = 0.0  
+33. At times, different                 ... pos = 1.375 	neg = 0.0  
+34. Other times, stories                ... pos = 0.625 	neg = 0.875
+35. Anderson is audaciou                ... pos = 0.25  	neg = 0.125
+36. What's surprising is                ... pos = 0.125 	neg = 0.125
+37. If you have doubts a                ... pos = 0.0   	neg = 0.0  
+38. Despite all the Stur                ... pos = 0.0   	neg = 0.0  
+39. Despite Magnolia's n                ... pos = 0.625 	neg = 1.875
+40. This is truly advent                ... pos = 1.625 	neg = 0.125
+41. My rating: A Bulleye                ... pos = 0.0   	neg = 0    
+42. (4 out of 4 stars).                 ... pos = 0.5   	neg = 0.125
+43. Her lyrics often add                ... pos = 1.25  	neg = 0.25 
+44. When she sings "Save                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4191-1217 is Positive        ... pos = 23.375 	neg = 12.0 
+Overall score of document
+Total Pos = 23.375
+Total Neg = 12.0
+---------------------------------------------------------------------------

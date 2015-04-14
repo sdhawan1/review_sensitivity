@@ -1,0 +1,79 @@
+0. Starring: Dustin Hof                 ... pos = 0.0   	neg = 0.0  
+1. Sitting in the theat                 ... pos = 0.375 	neg = 0.875
+2. The previews showed                  ... pos = 0.875 	neg = 0.0  
+3. Why is Hollywood sud                 ... pos = 0.125 	neg = 0.125
+4. Because of the contr                 ... pos = 0.125 	neg = 0.0  
+5. However, of the two                  ... pos = 0.625 	neg = 0.25 
+6. In one, Travolta pla                 ... pos = 0.0   	neg = 0.625
+7. The other preview sh                 ... pos = 0.75  	neg = 0.0  
+8. Neither of these fil                 ... pos = 1.125 	neg = 1.0  
+9. To begin, what exact                 ... pos = 0.25  	neg = 0.625
+10. It may sound a littl                ... pos = 0.0   	neg = 0.875
+11. The opening scene ex                ... pos = 0.25  	neg = 0.625
+12. Because the dog is s                ... pos = 0.0   	neg = 0.75 
+13. If the tail was smar                ... pos = 0.125 	neg = 0.75 
+14. "  Throughout the fi                ... pos = 0.0   	neg = 0.625
+15. The government is th                ... pos = 0.0   	neg = 0.125
+16. WAG THE DOG contains                ... pos = 0.25  	neg = 1.25 
+17. What it does is it p                ... pos = 0.0   	neg = 0.125
+18. Many people have tho                ... pos = 0.125 	neg = 0.125
+19. WAG THE DOG takes th                ... pos = 0.5   	neg = 0.625
+20. WAG THE DOG begins v                ... pos = 0.625 	neg = 0.625
+21. Why do they need Bre                ... pos = 0     	neg = 0.125
+22. Because the Presiden                ... pos = 0.0   	neg = 0.25 
+23. The President is bei                ... pos = 0.25  	neg = 0.875
+24. This may or may not                 ... pos = 0.5   	neg = 0.125
+25. Brean figures that t                ... pos = 0.0   	neg = 0.625
+26. Start a war?                        ... pos = 0.0   	neg = 0.0  
+27. Well, not really.                   ... pos = 0.0   	neg = 0.0  
+28. Brean decides that h                ... pos = 0.375 	neg = 0.125
+29. Brean comes across S                ... pos = 0.375 	neg = 0.125
+30. At first, Motss is a                ... pos = 0.875 	neg = 1.0  
+31. However, after seein                ... pos = 0.5   	neg = 0.625
+32. "We can't tell anyon                ... pos = 0.0   	neg = 0    
+33. Most of the fun of W                ... pos = 0.375 	neg = 0.75 
+34. There's the short vi                ... pos = 0.0   	neg = 0.0  
+35. This was produced us                ... pos = 0.0   	neg = 0.5  
+36. There's also the hil                ... pos = 0.25  	neg = 0    
+37. In probably the funn                ... pos = 0.5   	neg = 0.25 
+38. However, the opposin                ... pos = 1.0   	neg = 0.125
+39. Brean and Ames both                 ... pos = 0.375 	neg = 0.125
+40. "We need a hero!                    ... pos = 0.0   	neg = 0.125
+41. " he exclaims.                      ... pos = 0.0   	neg = 0.5  
+42. That hero is Schumac                ... pos = 0.5   	neg = 0.125
+43. This sparks attentio                ... pos = 0.25  	neg = 0.125
+44. For a film such as W                ... pos = 1.0   	neg = 0.625
+45. And at the top of it                ... pos = 0.375 	neg = 0.125
+46. WAG THE DOG's is amo                ... pos = 0.75  	neg = 0.125
+47. Based on the novel "                ... pos = 1.125 	neg = 0.0  
+48. The screenplay is so                ... pos = 0.75  	neg = 0.125
+49. Some of it went over                ... pos = 0.0   	neg = 0.0  
+50. However, most of the                ... pos = 1.375 	neg = 0.125
+51. Heck, if you can't l                ... pos = 0.125 	neg = 0.0  
+52. The premise of WAG T                ... pos = 1.375 	neg = 0.75 
+53. It seems like a ridi                ... pos = 1.375 	neg = 1.875
+54. The film points fing                ... pos = 0.5   	neg = 0.5  
+55. Anything we see on T                ... pos = 1.0   	neg = 0.75 
+56. This is Dustin Hoffm                ... pos = 0.625 	neg = 0.75 
+57. Hoffman has so much                 ... pos = 0.75  	neg = 0.0  
+58. De Niro also gives a                ... pos = 1.375 	neg = 0.125
+59. De Niro and Hoffman                 ... pos = 0.0   	neg = 0.375
+60. Anne Heche is wonder                ... pos = 2.625 	neg = 0.875
+61. In smaller roles are                ... pos = 1.75  	neg = 0.5  
+62. All of these perform                ... pos = 1.125 	neg = 0.125
+63. WAG THE DOG is rated                ... pos = 0.25  	neg = 0.75 
+64. Director Barry Levin                ... pos = 0.0   	neg = 0.0  
+65. The direction is tig                ... pos = 0.0   	neg = 0.125
+66. The music by Mark Kn                ... pos = 0.5   	neg = 0.625
+67. It's really a catchy                ... pos = 0.375 	neg = 0.0  
+68. However, there are s                ... pos = 0.375 	neg = 0.0  
+69. The cinematography o                ... pos = 0.375 	neg = 0.5  
+70. I question whether o                ... pos = 0.375 	neg = 0.0  
+71. Overall, WAG THE DOG                ... pos = 0.75  	neg = 0.75 
+72. Reviewed by Respect                 ... pos = 0.75  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4231-1566 is Positive        ... pos = 34.0  	neg = 27.0 
+Overall score of document
+Total Pos = 34.0
+Total Neg = 27.0
+---------------------------------------------------------------------------

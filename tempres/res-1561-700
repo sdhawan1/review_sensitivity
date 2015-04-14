@@ -1,0 +1,23 @@
+0. Release Date: Decemb                 ... pos = 1.875 	neg = 1.125
+1. This may be the mode                 ... pos = 0.375 	neg = 0.375
+2. " THE FACULTY, the l                 ... pos = 0.375 	neg = 0.0  
+3. There's not a measur                 ... pos = 0.0   	neg = 0.25 
+4. Drawing elements fro                 ... pos = 0.375 	neg = 0.0  
+5. Making use of a cast                 ... pos = 1.5   	neg = 0.125
+6. " Parasitic aliens t                 ... pos = 1.0   	neg = 0.125
+7. The lack of gusto is                 ... pos = 0.0   	neg = 0.25 
+8. Even though the genr                 ... pos = 0.375 	neg = 0.25 
+9. This casts more than                 ... pos = 1.0   	neg = 0.0  
+10. Although he designs                 ... pos = 1.125 	neg = 0.0  
+11. On that level, the m                ... pos = 0.75  	neg = 0.0  
+12. Only the recognizeab                ... pos = 0.25  	neg = 0.125
+13. Perhaps Williamson h                ... pos = 0.75  	neg = 0.125
+14. " Needless to say th                ... pos = 0.125 	neg = 0.25 
+15. There is a moment or                ... pos = 0.739 	neg = 1.0  
+16. In sum, THE FACULTY                 ... pos = 0.0   	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-1561-700 is Positive         ... pos = 10.614 	neg = 5.125
+Overall score of document
+Total Pos = 10.614
+Total Neg = 5.125
+---------------------------------------------------------------------------

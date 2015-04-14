@@ -1,0 +1,30 @@
+0. Has there ever been                  ... pos = 0.875 	neg = 0.25 
+1. A picture show with                  ... pos = 0.25  	neg = 0.0  
+2. If the slightest wor                 ... pos = 0.5   	neg = 1.0  
+3. This is exactly the                  ... pos = 0.125 	neg = 0.125
+4. Mitchell Stephens (H                 ... pos = 0.375 	neg = 0.125
+5. He suggests that som                 ... pos = 0.625 	neg = 0.875
+6. He interviews variou                 ... pos = 0.125 	neg = 0.125
+7. But Mitchell soons f                 ... pos = 0.25  	neg = 0.0  
+8. He learns certain le                 ... pos = 0.125 	neg = 0.0  
+9. He also has to deal                  ... pos = 0.25  	neg = 0.0  
+10. But it's not just th                ... pos = 1.25  	neg = 0.25 
+11. It's the way the fil                ... pos = 0.0   	neg = 0.125
+12. For some scenes, Ego                ... pos = 0.5   	neg = 0.25 
+13. The film has robbed                 ... pos = 0.375 	neg = 0.0  
+14. Where was the Best P                ... pos = 0.375 	neg = 0.125
+15. Where were the Suppo                ... pos = 0.75  	neg = 0.125
+16. Who cares about Tita                ... pos = 0.0   	neg = 0.0  
+17. I cried much more of                ... pos = 0.125 	neg = 0.0  
+18. You need to see this                ... pos = 0.0   	neg = 0.125
+19. This instant!                       ... pos = 0     	neg = 0    
+20. Go!                                 ... pos = 0     	neg = 0    
+21. Go to Blockbuster an                ... pos = 0.0   	neg = 0.0  
+22. The Young-Uns: Brief                ... pos = 0.25  	neg = 0.625
+23. Good Age: 14 & Up. A                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1677-329 is Positive         ... pos = 7.875 	neg = 4.125
+Overall score of document
+Total Pos = 7.875
+Total Neg = 4.125
+---------------------------------------------------------------------------

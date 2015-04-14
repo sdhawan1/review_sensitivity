@@ -1,0 +1,45 @@
+0. Good Will Hunting, w                 ... pos = 1.125 	neg = 0.125
+1. Damon plays Will Hun                 ... pos = 0.375 	neg = 0.125
+2. He can solve problem                 ... pos = 0.0   	neg = 0.25 
+3. However, despite is                  ... pos = 1.5   	neg = 0.375
+4. One day he is caught                 ... pos = 0.125 	neg = 0.125
+5. However, math's prof                 ... pos = 0.125 	neg = 0.0  
+6. Damon agrees, his th                 ... pos = 2.25  	neg = 0.375
+7. Although the story i                 ... pos = 3.75  	neg = 1.125
+8. Unlike Titanic (1997                 ... pos = 3.375 	neg = 0.375
+9. Damon and Affleck ha                 ... pos = 1.75  	neg = 0.0  
+10. ' The gang speak exa                ... pos = 0.375 	neg = 0.75 
+11. But even Williams sp                ... pos = 0.75  	neg = 0.0  
+12. So, having proved th                ... pos = 1.125 	neg = 0.0  
+13. Damon is excellent a                ... pos = 1.25  	neg = 0.5  
+14. He can show unhappin                ... pos = 0.5   	neg = 0.25 
+15. Affleck, although wi                ... pos = 1.5   	neg = 0.125
+16. Robin Williams is al                ... pos = 0.75  	neg = 0.125
+17. This is his best dra                ... pos = 2.625 	neg = 0.25 
+18. Driver delivers a gr                ... pos = 0.875 	neg = 0.25 
+19. Sadly, she hardly fe                ... pos = 0.0   	neg = 0.75 
+20. None the less, she i                ... pos = 0.875 	neg = 0.125
+21. The director, Gus Va                ... pos = 1.25  	neg = 0.125
+22. He uses slow motion                 ... pos = 0.875 	neg = 0.0  
+23. The audience cries a                ... pos = 0.875 	neg = 0.0  
+24. He really lets the a                ... pos = 0.875 	neg = 0.0  
+25. The music, by Danny                 ... pos = 1.875 	neg = 0.125
+26. In fact, everything                 ... pos = 0.75  	neg = 0.125
+27. There is hardly a ma                ... pos = 0.0   	neg = 0.125
+28. Even it's length doe                ... pos = 0.125 	neg = 0.625
+29. And although there i                ... pos = 0.0   	neg = 0.25 
+30. Good Will Hunting is                ... pos = 1.0   	neg = 0.625
+31. Overall, Good Will H                ... pos = 2.125 	neg = 0.125
+32. Far superior to Tita                ... pos = 1.5   	neg = 0.0  
+33. Good Will Hunting is                ... pos = 1.625 	neg = 0.25 
+34. The film never outst                ... pos = 0.875 	neg = 0.0  
+35. forcing the audience                ... pos = 0.0   	neg = 0.0  
+36. ) It will take a ver                ... pos = 2.0   	neg = 0.875
+37. Far better than any                 ... pos = 2.5   	neg = 0.0  
+38. Like Boogie Nights (                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5197-1213 is Positive        ... pos = 44.125 	neg = 9.25 
+Overall score of document
+Total Pos = 44.125
+Total Neg = 9.25
+---------------------------------------------------------------------------

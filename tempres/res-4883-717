@@ -1,0 +1,48 @@
+0. (Warner Bros. - 1997                 ... pos = 0.75  	neg = 0.375
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. I had never thought                  ... pos = 0.0   	neg = 0.0  
+3. This is a disasterou                 ... pos = 0.875 	neg = 3.375
+4. BATMAN AND ROBIN fea                 ... pos = 0.347 	neg = 1.125
+5. Freeze (Arnold Schwa                 ... pos = 1.75  	neg = 0.875
+6. By Ivy's side is the                 ... pos = 0.0   	neg = 1.25 
+7. The villains' goals                  ... pos = 0.875 	neg = 0.875
+8. Meanwhile, on the ho                 ... pos = 0.0   	neg = 0.125
+9. Akiva Goldsman's scr                 ... pos = 0.489 	neg = 3.5  
+10. It makes Goldsman's                 ... pos = 0.25  	neg = 1.125
+11. I am still astonishe                ... pos = 0.0   	neg = 1.25 
+12. Joel Schumacher's di                ... pos = 0.0   	neg = 1.125
+13. There is a clear con                ... pos = 2.375 	neg = 1.25 
+14. Another action seque                ... pos = 0.0   	neg = 0.75 
+15. Mr. Schumacher's foc                ... pos = 0.875 	neg = 1.5  
+16. It is perhaps not th                ... pos = 0.0   	neg = 0.375
+17. Is BATMAN AND ROBIN                 ... pos = 0     	neg = 0.75 
+18. I think it is - it's                ... pos = 0.0   	neg = 1.0  
+19. (One of my favourite                ... pos = 0.5   	neg = 0.875
+20. " each time he laid                 ... pos = 0.0   	neg = 0.0  
+21. )  Is it supposed to                ... pos = 0.0   	neg = 1.125
+22. I somehow doubt it -                ... pos = 0.625 	neg = 0.5  
+23. Arnold Schwarzenegge                ... pos = 0.0   	neg = 0.903
+24. Freeze, and is bland                ... pos = 0.0   	neg = 2.0  
+25. Mr. Schwarzenegger's                ... pos = 0.625 	neg = 0.375
+26. By the end of the fi                ... pos = 0.0   	neg = 0.125
+27. The bulk of his perf                ... pos = 0.125 	neg = 0.25 
+28. " in the least inven                ... pos = 0.375 	neg = 0.0  
+29. George Clooney has b                ... pos = 1.25  	neg = 1.125
+30. His Batman is hardly                ... pos = 0.0   	neg = 0.125
+31. Chris O'Donnell is u                ... pos = 0.0   	neg = 0.75 
+32. The film's one savin                ... pos = 0.0   	neg = 0.0  
+33. Undoubtably Uma Thur                ... pos = 0.75  	neg = 0.375
+34. Her work in BATMAN A                ... pos = 0.375 	neg = 0.125
+35. Ms. Thurman's comic                 ... pos = 0.75  	neg = 0.125
+36. (I'm already startin                ... pos = 0.125 	neg = 0.0  
+37. )  Her amusing Poiso                ... pos = 1.125 	neg = 0.5  
+38. I figure that if one                ... pos = 0.875 	neg = 0.0  
+39. While BATMAN AND ROB                ... pos = 1.0   	neg = 1.25 
+40. It's been a long tim                ... pos = 0.125 	neg = 0.5  
+41. "At", of course, is                 ... pos = 0     	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4883-717 is Negative         ... pos = 17.211 	neg = 31.903
+Overall score of document
+Total Pos = 17.211
+Total Neg = 31.903
+---------------------------------------------------------------------------

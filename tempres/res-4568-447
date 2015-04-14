@@ -1,0 +1,26 @@
+0. In these days of ove                 ... pos = 0.125 	neg = 1.5  
+1. This is just a cute                  ... pos = 0.625 	neg = 0.5  
+2. Old friends Jackie (                 ... pos = 0.75  	neg = 0.5  
+3. Through process of e                 ... pos = 1.25  	neg = 0.125
+4. What results is thur                 ... pos = 0.0   	neg = 1.5  
+5. After all, old Ned w                 ... pos = 0.0   	neg = 0    
+6. Rather than divulge                  ... pos = 0.5   	neg = 0.875
+7. Bannen and Kelly are                 ... pos = 0.25  	neg = 0.0  
+8. One slightly stout,                  ... pos = 0.0   	neg = 0.0  
+9. Both getting on in y                 ... pos = 0.625 	neg = 0.0  
+10. Waking Ned Devine ma                ... pos = 0.375 	neg = 0.125
+11. Waking Ned Devine is                ... pos = 0.875 	neg = 0.875
+12. The performances by                 ... pos = 0.25  	neg = 0    
+13. There is one twist a                ... pos = 0.0   	neg = 0.375
+14. Writer/director Kirk                ... pos = 0.25  	neg = 0.125
+15. Scripts as creative                 ... pos = 0.375 	neg = 0.125
+16. Perhaps it makes us                 ... pos = 0.75  	neg = 0.0  
+17. Had I held off on my                ... pos = 0.875 	neg = 0.75 
+18. It is light, but tho                ... pos = 0.75  	neg = 0.125
+19. I can't think of any                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4568-447 is Positive         ... pos = 9.125 	neg = 7.5  
+Overall score of document
+Total Pos = 9.125
+Total Neg = 7.5
+---------------------------------------------------------------------------

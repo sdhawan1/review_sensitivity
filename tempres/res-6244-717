@@ -1,0 +1,35 @@
+0. SIX DAYS, SEVEN NIGH                 ... pos = 0.375 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.125 	neg = 1.5  
+3. It's an    uninspire                 ... pos = 1.25  	neg = 0.75 
+4. Establishing scenes                  ... pos = 0.75  	neg = 0.0  
+5. After happily accept                 ... pos = 0.875 	neg = 0.375
+6. Miracle of miracles,                 ... pos = 0.625 	neg = 0.5  
+7. Stranded with no mea                 ... pos = 1.0   	neg = 0.25 
+8. An unabashedly formu                 ... pos = 0.75  	neg = 0.625
+9. Our protagonists                     ... pos = 2.625 	neg = 1.0  
+10. And the less said ab                ... pos = 0.125 	neg = 0.375
+11. Credit the agreeable                ... pos = 0.625 	neg = 0.0  
+12. Mr. Ford and Ms. Hec                ... pos = 1.75  	neg = 0.0  
+13. Mr. Ford has a pleas                ... pos = 2.375 	neg = 0.75 
+14. The star power    pr                ... pos = 0.25  	neg = 0.0  
+15. "Aren't you one of t                ... pos = 0.0   	neg = 0.0  
+16. " Robin demands of Q                ... pos = 0.0   	neg = 0.0  
+17. "You know, one of th                ... pos = 0.0   	neg = 0.0  
+18. "  And while Quinn r                ... pos = 1.125 	neg = 0.0  
+19. SIX DAYS, SEVEN NIGH                ... pos = 0.0   	neg = 0.25 
+20. To unfairly drop a h                ... pos = 0.75  	neg = 0.125
+21. Michael Browning's s                ... pos = 1.0   	neg = 0.625
+22. To its detriment, it                ... pos = 0.0   	neg = 0.25 
+23. Director Ivan Reitma                ... pos = 0.375 	neg = 0.0  
+24. It's surprising that                ... pos = 0.375 	neg = 0.75 
+25. Ultimately, SIX DAYS                ... pos = 0.25  	neg = 0.0  
+26. Absent of    any fla                ... pos = 0.739 	neg = 0.5  
+27. "I want    my life t                ... pos = 0.0   	neg = 0.625
+28. If only    the film                 ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6244-717 is Positive         ... pos = 18.739 	neg = 9.5  
+Overall score of document
+Total Pos = 18.739
+Total Neg = 9.5
+---------------------------------------------------------------------------

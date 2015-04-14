@@ -1,0 +1,33 @@
+0. Witnessing a journey                 ... pos = 0.375 	neg = 0.5  
+1. Unfortunately,  othe                 ... pos = 0.5   	neg = 1.75 
+2. Starting at a send-o                 ... pos = 0.0   	neg = 0.125
+3. Quickly we  meet Luc                 ... pos = 0.375 	neg = 0.125
+4. Jumping ahead severa                 ... pos = 0.0   	neg = 0.0  
+5. Suddenly a catastrop                 ... pos = 0.0   	neg = 0.5  
+6. Later, NASA official                 ... pos = 0.0   	neg = 0.125
+7. Following yet anothe                 ... pos = 0.5   	neg = 0.25 
+8. Acting  as an anchor                 ... pos = 0.375 	neg = 0.25 
+9. What is supposed to                  ... pos = 0.0   	neg = 0.375
+10. Acting in the film i                ... pos = 0.0   	neg = 0.125
+11. As early as the  par                ... pos = 1.125 	neg = 0.0  
+12. Jim McConnell especi                ... pos = 1.0   	neg = 0.5  
+13. As  he plays this so                ... pos = 0.125 	neg = 0.25 
+14. Tim Robbins also see                ... pos = 0.0   	neg = 0.125
+15. At times he attempts                ... pos = 1.875 	neg = 0.0  
+16. One gets the feeling                ... pos = 1.625 	neg = 0.0  
+17. Of course it must ha                ... pos = 1.75  	neg = 0.125
+18. DePalma has his cine                ... pos = 0.5   	neg = 0.5  
+19. In  space it doesn't                ... pos = 0.375 	neg = 0.5  
+20. Ultimately,  though,                ... pos = 0.0   	neg = 0.25 
+21. Most effects in this                ... pos = 0.75  	neg = 0.25 
+22. From dust storms on                 ... pos = 0.5   	neg = 0.625
+23. What assaults the ey                ... pos = 0.125 	neg = 0.5  
+24. Oddly conceived and                 ... pos = 1.125 	neg = 0.0  
+25. The close leaves us                 ... pos = 0.375 	neg = 0.875
+26. MISSION TO MARS is d                ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1598-71 is Positive          ... pos = 13.5  	neg = 9.0  
+Overall score of document
+Total Pos = 13.5
+Total Neg = 9.0
+---------------------------------------------------------------------------

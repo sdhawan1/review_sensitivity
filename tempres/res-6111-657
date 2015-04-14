@@ -1,0 +1,50 @@
+0. WINNER OF 3 GOLDEN A                 ... pos = 1.75  	neg = 0.5  
+1. " Ichabod Crane, SLE                 ... pos = 0.875 	neg = 0.5  
+2. "Sleepy Hollow" begi                 ... pos = 0.375 	neg = 0    
+3. The year is 1799.                    ... pos = 0.0   	neg = 0.125
+4. The new millenium is                 ... pos = 0.875 	neg = 0.375
+5. The virtuous constab                 ... pos = 1.75  	neg = 0.0  
+6. Ichobod likes to thi                 ... pos = 0.0   	neg = 0.0  
+7. His scientific inven                 ... pos = 0.875 	neg = 0.25 
+8. He is therefore sent                 ... pos = 0.0   	neg = 0.125
+9. A row of bizarre mur                 ... pos = 0.0   	neg = 0.75 
+10. As Ichobod nobly acc                ... pos = 1.0   	neg = 0.0  
+11. The frightened villa                ... pos = 1.875 	neg = 0.625
+12. Determined to discov                ... pos = 0.0   	neg = 0.25 
+13. While heads continue                ... pos = 0.625 	neg = 0.0  
+14. His science and tech                ... pos = 0.125 	neg = 0.5  
+15. He is on the brink o                ... pos = 1.75  	neg = 0.375
+16. Ichobod continues to                ... pos = 0.875 	neg = 0.0  
+17. But it is director T                ... pos = 0.25  	neg = 0.125
+18. He has created a sta                ... pos = 1.125 	neg = 0.375
+19. This is simply the m                ... pos = 1.375 	neg = 0.125
+20. This being the case,                ... pos = 0.25  	neg = 1.0  
+21. Johnny Depp is fabul                ... pos = 1.0   	neg = 0.125
+22. A delightful and fre                ... pos = 1.125 	neg = 0.0  
+23. Christina Ricci is s                ... pos = 0.625 	neg = 1.5  
+24. Ichobod and Katrina                 ... pos = 0.875 	neg = 0.0  
+25. Their love story is                 ... pos = 0.875 	neg = 0.375
+26. And as the story pro                ... pos = 0.5   	neg = 0.0  
+27. He is a man blinded                 ... pos = 0.25  	neg = 0.5  
+28. Although he would li                ... pos = 0.5   	neg = 0.125
+29. As he enters this st                ... pos = 0.375 	neg = 0.0  
+30. This, his aristocrat                ... pos = 1.5   	neg = 0.625
+31. Caught between dream                ... pos = 0.75  	neg = 0.375
+32. Like Copolla's Dracu                ... pos = 0.25  	neg = 0.125
+33. Sleepy Hollow is a p                ... pos = 0.5   	neg = 0.75 
+34. There's no one that                 ... pos = 0.125 	neg = 0.25 
+35. His exceptional visu                ... pos = 0.875 	neg = 0.0  
+36. There's something un                ... pos = 1.125 	neg = 0.5  
+37. All his movies have                 ... pos = 1.25  	neg = 0.0  
+38. He creates a dark an                ... pos = 0.125 	neg = 0    
+39. Seeking balance, Bur                ... pos = 1.25  	neg = 0.375
+40. The only problem is                 ... pos = 1.75  	neg = 1.875
+41. But then again, this                ... pos = 0.0   	neg = 0.125
+42. Sleepy Hollow presen                ... pos = 1.5   	neg = 0.0  
+43. This film is a thril                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6111-657 is Positive         ... pos = 33.125 	neg = 13.75
+Overall score of document
+Total Pos = 33.125
+Total Neg = 13.75
+---------------------------------------------------------------------------

@@ -1,0 +1,52 @@
+0. http://www.geocities                 ... pos = 0.375 	neg = 0.0  
+1. Same old attitude.                   ... pos = 0.0   	neg = 0    
+2. Don't forget to reco                 ... pos = 0.375 	neg = 0.0  
+3. ). It rocks-actually                 ... pos = 0.375 	neg = 0.25 
+4. They seem like dange                 ... pos = 0.125 	neg = 0.75 
+5. (Nary a mention of t                 ... pos = 0.0   	neg = 0.25 
+6. ) They also just mig                 ... pos = 0.0   	neg = 0.625
+7. Bruce Willis stars a                 ... pos = 0.0   	neg = 0.125
+8. Why an oil driller?                  ... pos = 0.0   	neg = 0.125
+9. They require someone                 ... pos = 0.0   	neg = 0.0  
+10. (In one unintentiona                ... pos = 0.0   	neg = 0.125
+11. ) hilarious sequence                ... pos = 0.375 	neg = 1.125
+12. We trust NASA to bui                ... pos = 0.0   	neg = 0.0  
+13. ) Harry assembles th                ... pos = 0.0   	neg = 0.25 
+14. Once they reach spac                ... pos = 0.625 	neg = 0.375
+15. Whether or not they                 ... pos = 0.125 	neg = 0.0  
+16. Nor will you care.                  ... pos = 0.125 	neg = 0.0  
+17. I will say this: you                ... pos = 0.75  	neg = 0.625
+18. Willis has barely a                 ... pos = 0.5   	neg = 0.0  
+19. Their big scenes are                ... pos = 0.875 	neg = 0.0  
+20. Steve Buscemi's char                ... pos = 0.0   	neg = 0.0  
+21. "Rockhound", as he's                ... pos = 0.0   	neg = 0.75 
+22. So why did they brin                ... pos = 0.0   	neg = 0.0  
+23. Rather, why write hi                ... pos = 0.625 	neg = 0.5  
+24. I'm guessing he qual                ... pos = 0.0   	neg = 0.5  
+25. Liv Tyler is pretty                 ... pos = 0.0   	neg = 0.75 
+26. Director Michael Bay                ... pos = 0.0   	neg = 0.25 
+27. (The middle hour is                 ... pos = 0.0   	neg = 0.125
+28. ) Whenever someone d                ... pos = 0.0   	neg = 0.0  
+29. " I must admit that                 ... pos = 0.5   	neg = 0.5  
+30. ARMAGEDDON is not as                ... pos = 0.0   	neg = 0.75 
+31. It looks nicer, and                 ... pos = 0.0   	neg = 0.625
+32. It has a vivid sound                ... pos = 0.625 	neg = 0    
+33. But at almost two-an                ... pos = 0.25  	neg = 0.25 
+34. The love story has b                ... pos = 0.625 	neg = 0.125
+35. Bollocks!                           ... pos = 0     	neg = 0    
+36. The lovers in the fi                ... pos = 0.375 	neg = 1.25 
+37. Remember a little fi                ... pos = 0.125 	neg = 0.25 
+38. In this film, three                 ... pos = 0.125 	neg = 0.625
+39. They didn't much lik                ... pos = 0.875 	neg = 0.125
+40. One of Jaws' great s                ... pos = 0.0   	neg = 0.0  
+41. This is the sort of                 ... pos = 0.875 	neg = 0.5  
+42. Not once do we get t                ... pos = 1.125 	neg = 0.75 
+43. A male friend who lo                ... pos = 1.125 	neg = 0.625
+44. To this, I will resp                ... pos = 0.375 	neg = 0.25 
+45. And if I get no resp                ... pos = 0.875 	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-6217-1545 is Negative        ... pos = 13.125 	neg = 15.125
+Overall score of document
+Total Pos = 13.125
+Total Neg = 15.125
+---------------------------------------------------------------------------

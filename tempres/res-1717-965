@@ -1,0 +1,32 @@
+0. When someone's paran                 ... pos = 0.25  	neg = 0.375
+1. It's cliche.                         ... pos = 0     	neg = 0.0  
+2. Similarly, when the                  ... pos = 0.25  	neg = 0    
+3. In Arlington Road, M                 ... pos = 0.375 	neg = 0.625
+4. And no one believes                  ... pos = 0.125 	neg = 0.25 
+5. And this isn't the s                 ... pos = 0.0   	neg = 0.0  
+6. It does fade-in mome                 ... pos = 1.125 	neg = 0.125
+7. Soon enough Faraday                  ... pos = 0.0   	neg = 0.0  
+8. Which makes all the                  ... pos = 0.0   	neg = 0.375
+9. In writer Ehren Krug                 ... pos = 0.625 	neg = 0.625
+10. And all this develop                ... pos = 1.25  	neg = 0.125
+11. But it's not.                       ... pos = 0.0   	neg = 0.0  
+12. At it's most basic l                ... pos = 1.5   	neg = 0.75 
+13. But too, and in spit                ... pos = 0.0   	neg = 0.375
+14. Arlington Road isn't                ... pos = 0.625 	neg = 0.125
+15. Faraday's wife died                 ... pos = 0.0   	neg = 0.0  
+16. Constructing it this                ... pos = 0.5   	neg = 0.0  
+17. Meaning we wholly ex                ... pos = 2.375 	neg = 0.25 
+18. And quietly.                        ... pos = 0.0   	neg = 0    
+19. The thing is, in a m                ... pos = 0.0   	neg = 0.125
+20. Not just the inevita                ... pos = 0.25  	neg = 0.0  
+21. Which is rarely done                ... pos = 0.0   	neg = 0.125
+22. Even rarer is that,                 ... pos = 0.25  	neg = 0.25 
+23. Perhaps it was Mark                 ... pos = 0.375 	neg = 0.625
+24. Either way, Arlingto                ... pos = 0.875 	neg = 0.25 
+25. for more like this,                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1717-965 is Positive         ... pos = 10.75 	neg = 5.375
+Overall score of document
+Total Pos = 10.75
+Total Neg = 5.375
+---------------------------------------------------------------------------

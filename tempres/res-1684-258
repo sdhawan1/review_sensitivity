@@ -1,0 +1,39 @@
+0. Stanley Kubrick died                 ... pos = 0.75  	neg = 0.125
+1. Some have hailed "Ey                 ... pos = 0.75  	neg = 0.25 
+2. I have even heard it                 ... pos = 1.0   	neg = 0.5  
+3. Now, how can you not                 ... pos = 0.0   	neg = 0.125
+4. "Eyes Wide Shut" is                  ... pos = 0.75  	neg = 0.25 
+5. If that sounds like                  ... pos = 1.0   	neg = 0.875
+6. Genius has been defi                 ... pos = 1.0   	neg = 1.125
+7. Kubrick was known fo                 ... pos = 0.0   	neg = 0.125
+8. There are children i                 ... pos = 0.875 	neg = 0.25 
+9. Harvey Keitel and Je                 ... pos = 0.0   	neg = 0.125
+10. The little girl who                 ... pos = 1.0   	neg = 0.5  
+11. )      The story, ba                ... pos = 0.0   	neg = 0.125
+12. It follows Dr. Bill                 ... pos = 0.125 	neg = 0.125
+13. The fantasies are co                ... pos = 0.5   	neg = 0.375
+14. After a Christmas pa                ... pos = 1.25  	neg = 0.0  
+15. Bill is then called                 ... pos = 0.125 	neg = 0.125
+16. Over the course of a                ... pos = 1.25  	neg = 1.875
+17. "Eyes Wide Shut" is                 ... pos = 0.75  	neg = 0.375
+18. Kubrick constructs c                ... pos = 0.75  	neg = 0.5  
+19. He does a treatise o                ... pos = 0.625 	neg = 0.25 
+20. He ruminates about t                ... pos = 0.625 	neg = 1.0  
+21. Bill can be thoughtl                ... pos = 1.125 	neg = 0.125
+22. Bill has a maddening                ... pos = 0.0   	neg = 0.0  
+23. "  "What do I think?                ... pos = 0     	neg = 0.0  
+24. "); eliminate the re                ... pos = 0.125 	neg = 0.125
+25. Who knows what he mi                ... pos = 0.0   	neg = 0.75 
+26. Kubrick famously edi                ... pos = 0.0   	neg = 0.0  
+27. But for all his prof                ... pos = 1.375 	neg = 0.125
+28. Dialogue is banal ("                ... pos = 0.75  	neg = 0.625
+29. ")  There are some t                ... pos = 1.5   	neg = 0.375
+30. Having said all this                ... pos = 0.25  	neg = 0.0  
+31. Kubrick's screen leg                ... pos = 0.75  	neg = 1.125
+32. In the end, after th                ... pos = 0.125 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-1684-258 is Positive         ... pos = 19.125 	neg = 13.0 
+Overall score of document
+Total Pos = 19.125
+Total Neg = 13.0
+---------------------------------------------------------------------------

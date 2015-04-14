@@ -1,0 +1,28 @@
+0. Release Date: Januar                 ... pos = 1.0   	neg = 0.75 
+1. Even the most flawed                 ... pos = 0.625 	neg = 1.5  
+2. But when any real-wo                 ... pos = 0.0   	neg = 0.125
+3. Directed by GOOD BUR                 ... pos = 1.0   	neg = 0.125
+4. As with any Gen-X MT                 ... pos = 0.0   	neg = 0.375
+5. Those two items, wra                 ... pos = 0.625 	neg = 0.0  
+6. First, the football                  ... pos = 0.75  	neg = 0.375
+7. Second, the sex is j                 ... pos = 0.0   	neg = 1.25 
+8. Despite the appearan                 ... pos = 0.0   	neg = 0.375
+9. The acting is mostly                 ... pos = 0.375 	neg = 0.903
+10. Cultivating his usua                ... pos = 0.125 	neg = 0.375
+11. Kilmer is the drivin                ... pos = 0.875 	neg = 0.125
+12. Unfortunately, when                 ... pos = 0.25  	neg = 0.875
+13. Moxon leads the team                ... pos = 1.0   	neg = 0.0  
+14. Most regions of the                 ... pos = 0.25  	neg = 0.25 
+15. Similarly, the set d                ... pos = 0.5   	neg = 0.875
+16. These elements (as w                ... pos = 0.0   	neg = 0.875
+17. This focus is furthe                ... pos = 1.25  	neg = 0.25 
+18. Other stars are simi                ... pos = 0.25  	neg = 0.0  
+19. There's not much tha                ... pos = 0.25  	neg = 0.0  
+20. Everything herein ha                ... pos = 0.0   	neg = 0.75 
+21. This is certainly mi                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3414-700 is Negative         ... pos = 9.375 	neg = 10.278
+Overall score of document
+Total Pos = 9.375
+Total Neg = 10.278
+---------------------------------------------------------------------------

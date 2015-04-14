@@ -1,0 +1,43 @@
+0. In some respects, "W                 ... pos = 1.25  	neg = 0.0  
+1. It was a novel that                  ... pos = 0.5   	neg = 0.125
+2. Although I didn't ag                 ... pos = 0.5   	neg = 0.125
+3. Walking out of an op                 ... pos = 1.25  	neg = 0.125
+4. A brief collection o                 ... pos = 0.0   	neg = 0.0  
+5. Chris Nielsen (Robin                 ... pos = 1.0   	neg = 0.0  
+6. They eventaully have                 ... pos = 0.25  	neg = 0.0  
+7. Annie, who asked the                 ... pos = 0.25  	neg = 0.625
+8. Years pass, and the                  ... pos = 0.625 	neg = 0.0  
+9. Then one day, Chris                  ... pos = 0.0   	neg = 0.25 
+10. Chris's soul, after                 ... pos = 0.125 	neg = 0.0  
+11. He finds a place of                 ... pos = 0.875 	neg = 0.0  
+12. Heaven, it seems, is                ... pos = 0.25  	neg = 0.375
+13. Everyone's Heaven is                ... pos = 0.125 	neg = 0.25 
+14. Albert (Cuba Gooding                ... pos = 0.25  	neg = 0.125
+15. The only thing missi                ... pos = 0.25  	neg = 0.125
+16. But Annie, nearly co                ... pos = 0.0   	neg = 0.25 
+17. Chris assumes that h                ... pos = 1.125 	neg = 0.75 
+18. Despite the wonders                 ... pos = 0.875 	neg = 0.25 
+19. To say that Robin Wi                ... pos = 4.25  	neg = 0.625
+20. Best of all may be A                ... pos = 3.0   	neg = 0.125
+21. But Max von Sydow, w                ... pos = 1.0   	neg = 0.375
+22. The truth is, the ch                ... pos = 2.125 	neg = 0.25 
+23. "  The movie is far                 ... pos = 0.125 	neg = 0.125
+24. "  The biggest probl                ... pos = 0.375 	neg = 0.625
+25. In addition, the clo                ... pos = 1.0   	neg = 0.375
+26. It's even worse than                ... pos = 0.375 	neg = 0.75 
+27. But none of that rea                ... pos = 0.0   	neg = 0.0  
+28. "What Dreams May Com                ... pos = 1.75  	neg = 0.125
+29. There's an undeniabl                ... pos = 1.0   	neg = 0.0  
+30. Director Vincent War                ... pos = 0.375 	neg = 0.25 
+31. I highly recommend t                ... pos = 0.75  	neg = 0.0  
+32. Afterwards, go get a                ... pos = 0.0   	neg = 0.0  
+33. I promise, it'll kee                ... pos = 0.0   	neg = 0.0  
+34. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+35. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+36. Thanks.. .                          ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5518-216 is Positive         ... pos = 26.375 	neg = 7.125
+Overall score of document
+Total Pos = 26.375
+Total Neg = 7.125
+---------------------------------------------------------------------------

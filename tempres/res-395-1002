@@ -1,0 +1,38 @@
+0. All of my film revie                 ... pos = 0.25  	neg = 0.125
+1. E-mail me at justinf                 ... pos = 0.0   	neg = 0.0  
+2. Screenplay by Andrew                 ... pos = 0.0   	neg = 0.0  
+3. Directed by Colin Br                 ... pos = 0.0   	neg = 0.0  
+4. Featuring the voice                  ... pos = 0.0   	neg = 0.0  
+5. Rated G (suitable fo                 ... pos = 0.5   	neg = 0.375
+6. Synopsis: Space toy                  ... pos = 0.0   	neg = 0.0  
+7. Potato Head,  Slinky                 ... pos = 0.25  	neg = 0.625
+8. During their adventu                 ... pos = 0.875 	neg = 0.125
+9. Comments: I'm not su                 ... pos = 0.375 	neg = 0.0  
+10. I saw it at the new                 ... pos = 0.375 	neg = 0.0  
+11. It was not the first                ... pos = 0.625 	neg = 0.25 
+12. TOY STORY 2, easily                 ... pos = 1.875 	neg = 0.25 
+13. The trailer featured                ... pos = 0.125 	neg = 0.5  
+14. The movie at hand, h                ... pos = 1.875 	neg = 0.25 
+15. This is a sequel to                 ... pos = 0.125 	neg = 0.25 
+16. Releasing this gem d                ... pos = 1.5   	neg = 0.125
+17. The entire family ca                ... pos = 0.375 	neg = 0.0  
+18. The children at the                 ... pos = 0.25  	neg = 0.5  
+19. Adults seemed to app                ... pos = 0.0   	neg = 0.25 
+20. This included quips                 ... pos = 0.375 	neg = 0.375
+21. Science fiction fans                ... pos = 0.5   	neg = 0.0  
+22. In it, Rex plays a B                ... pos = 0.0   	neg = 0.0  
+23. The animation, produ                ... pos = 0.0   	neg = 0.125
+24. It is very rich and                 ... pos = 1.0   	neg = 0.125
+25. A huge pool of comic                ... pos = 0.0   	neg = 0.125
+26. These include multip                ... pos = 0.875 	neg = 0.0  
+27. The cast is solid  a                ... pos = 0.125 	neg = 0.125
+28. Some films, like com                ... pos = 0.0   	neg = 0.0  
+29. A movie like TOY STO                ... pos = 0.125 	neg = 0.125
+30. One gets a better se                ... pos = 0.0   	neg = 0.0  
+31. Definately check thi                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-395-1002 is Positive         ... pos = 12.375 	neg = 4.625
+Overall score of document
+Total Pos = 12.375
+Total Neg = 4.625
+---------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+0. Recently, over on th                 ... pos = 0.5   	neg = 0.25 
+1. To me, this means th                 ... pos = 0.5   	neg = 0.125
+2. in action movies, so                 ... pos = 0.75  	neg = 0.125
+3. Plots this summer ha                 ... pos = 0.75  	neg = 0.5  
+4. The previews for Mas                 ... pos = 0.125 	neg = 0.125
+5. What was delivered,                  ... pos = 0.625 	neg = 0.25 
+6. Yes, the action scen                 ... pos = 1.75  	neg = 0.25 
+7. You believed that th                 ... pos = 0.625 	neg = 0.125
+8. The chemistry betwee                 ... pos = 0.375 	neg = 0.375
+9. Sometimes you can te                 ... pos = 2.25  	neg = 1.375
+10. The story of Zorro i                ... pos = 0.5   	neg = 0.125
+11. But we are then delu                ... pos = 0.25  	neg = 0.0  
+12. The makers of this m                ... pos = 0.125 	neg = 0.75 
+13. The focus of Zorro i                ... pos = 0.0   	neg = 0.125
+14. But then it becomes                 ... pos = 0.875 	neg = 0.0  
+15. I believe that the o                ... pos = 1.5   	neg = 0.5  
+16. I applaud the effort                ... pos = 0.375 	neg = 0.625
+17. Take this one in at                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-249-684 is Positive          ... pos = 12.0  	neg = 5.625
+Overall score of document
+Total Pos = 12.0
+Total Neg = 5.625
+---------------------------------------------------------------------------

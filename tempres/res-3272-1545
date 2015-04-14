@@ -1,0 +1,24 @@
+0. starring Ethan Hawke                 ... pos = 1.25  	neg = 0.0  
+1. From its bizzare ope                 ... pos = 0.5   	neg = 0.0  
+2. But as with many dir                 ... pos = 0.75  	neg = 0.375
+3. Hawke stars as Vince                 ... pos = 0.375 	neg = 0.0  
+4. High hopes, indeed,                  ... pos = 1.5   	neg = 0.0  
+5. "In the future, disc                 ... pos = 0.5   	neg = 0.0  
+6. Enter Jerome (Law),                  ... pos = 0.0   	neg = 0.0  
+7. He'll assist Vincent                 ... pos = 0.25  	neg = 0.25 
+8. A few months later,                  ... pos = 0.25  	neg = 0.25 
+9. But when the Mission                 ... pos = 0.5   	neg = 0.125
+10. To his credit, Nicco                ... pos = 1.25  	neg = 0.0  
+11. But said story is al                ... pos = 0.875 	neg = 0.25 
+12. Yes, they're essenti                ... pos = 0.5   	neg = 0.0  
+13. It doesn't help that                ... pos = 1.125 	neg = 0.125
+14. The most effective p                ... pos = 1.0   	neg = 0.0  
+15. And, while no plot s                ... pos = 0.25  	neg = 0.625
+16. More often than not                 ... pos = 0.5   	neg = 0.5  
+17. Though I will have f                ... pos = 2.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3272-1545 is Positive        ... pos = 13.375 	neg = 2.875
+Overall score of document
+Total Pos = 13.375
+Total Neg = 2.875
+---------------------------------------------------------------------------

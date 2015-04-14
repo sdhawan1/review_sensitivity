@@ -1,0 +1,44 @@
+0. 2000  USA/Germany                  ... pos = 0.0   	neg = 0.0  
+1. After viewing a two                  ... pos = 0.125 	neg = 0.125
+2. That this heavy film                 ... pos = 0.375 	neg = 0.375
+3. It seems Steven Sode                 ... pos = 0.5   	neg = 0.125
+4. It's a challenging p                 ... pos = 0.0   	neg = 0.125
+5. However poignant, pe                 ... pos = 0.75  	neg = 0.25 
+6. Robert Wakefield (Mi                 ... pos = 0.5   	neg = 0.25 
+7. Javier Rodriguez Rod                 ... pos = 0.75  	neg = 0.375
+8. Helena Ayala's (Cath                 ... pos = 0.0   	neg = 0.125
+9. Two police officers                  ... pos = 0.25  	neg = 0.0  
+10. This covers about ha                ... pos = 0.625 	neg = 0.0  
+11. It's like a trapeze                 ... pos = 1.069 	neg = 0.0  
+12. There's a chance of                 ... pos = 1.0   	neg = 0.0  
+13. As anyone who saw hi                ... pos = 1.75  	neg = 0.125
+14. With it's length and                ... pos = 0.25  	neg = 0.5  
+15. The cinematography,                 ... pos = 0.125 	neg = 0.0  
+16. Each segment with a                 ... pos = 0.875 	neg = 0.125
+17. This helps to create                ... pos = 0.25  	neg = 0.0  
+18. It nearly becomes no                ... pos = 0.0   	neg = 0.0  
+19. What's so great abou                ... pos = 0.0   	neg = 0.125
+20. Besides the aforemen                ... pos = 0.0   	neg = 0.0  
+21. This is easily the y                ... pos = 0.25  	neg = 0.125
+22. Soderbergh discovers                ... pos = 0.0   	neg = 0.125
+23. Just one performance                ... pos = 0.25  	neg = 0.75 
+24. The womanizing role                 ... pos = 0.375 	neg = 0.25 
+25. With ensemble pictur                ... pos = 0.375 	neg = 0.125
+26. ' There's only one e                ... pos = 0.25  	neg = 0.0  
+27. This underused actor                ... pos = 0.125 	neg = 0.125
+28. His mostly Spanish-s                ... pos = 1.125 	neg = 0    
+29. Beyond him, Catherin                ... pos = 1.25  	neg = 0.0  
+30. Though better off a                 ... pos = 0.625 	neg = 0.625
+31. It feels like a docu                ... pos = 0.5   	neg = 0.125
+32. As if this only appl                ... pos = 0.0   	neg = 0.0  
+33. It will take decades                ... pos = 0.25  	neg = 0    
+34. `Traffic' is the per                ... pos = 0.125 	neg = 0.125
+35. And another cigarett                ... pos = 0     	neg = 0.25 
+36. And another joint is                ... pos = 0     	neg = 0.25 
+37. Read more reviews at                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3669-329 is Positive         ... pos = 14.694 	neg = 5.5  
+Overall score of document
+Total Pos = 14.694
+Total Neg = 5.5
+---------------------------------------------------------------------------

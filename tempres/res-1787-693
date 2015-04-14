@@ -1,0 +1,31 @@
+0. Starring-Brendan Fra                 ... pos = 0.625 	neg = 0.25 
+1. Well, the result wou                 ... pos = 0.0   	neg = 0.375
+2. Sort of.                             ... pos = 0     	neg = 0.0  
+3. For hidden behind al                 ... pos = 0.5   	neg = 0.0  
+4. As the opening scene                 ... pos = 1.375 	neg = 0.0  
+5. The movie begins in                  ... pos = 0.0   	neg = 0.125
+6. The grisly consequen                 ... pos = 0.25  	neg = 0.125
+7. He is buried with a                  ... pos = 0.25  	neg = 0.875
+8. Sure enough, in 1920                 ... pos = 0.375 	neg = 0.125
+9. One is led by Rick O                 ... pos = 0.0   	neg = 0.125
+10. Accompanying him is                 ... pos = 0.0   	neg = 0.125
+11. Then, of course, the                ... pos = 0.875 	neg = 0.0  
+12. Soon enough, flesh-e                ... pos = 0.25  	neg = 0.625
+13. The special effects                 ... pos = 1.25  	neg = 0.375
+14. Fraser looks surpris                ... pos = 1.875 	neg = 0.375
+15. Director Stephen Som                ... pos = 2.125 	neg = 0.5  
+16. The jokes fly fast a                ... pos = 0.625 	neg = 0.375
+17. I'm embarrassed to s                ... pos = 0.0   	neg = 0.25 
+18. Okay, several times.                ... pos = 0.5   	neg = 0.125
+19. Even so, the consist                ... pos = 0.5   	neg = 0.0  
+20. The Mummy is just st                ... pos = 0.125 	neg = 0.5  
+21. Fraser has battles w                ... pos = 1.0   	neg = 1.5  
+22. If you want a blockb                ... pos = 0.25  	neg = 0.25 
+23. The Mummy is silly,                 ... pos = 0.5   	neg = 0.875
+24. ....................                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1787-693 is Positive         ... pos = 13.25 	neg = 7.875
+Overall score of document
+Total Pos = 13.25
+Total Neg = 7.875
+---------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+0. Ater I came out of t                 ... pos = 0.25  	neg = 0.25 
+1. Not for directing th                 ... pos = 0.0   	neg = 0.0  
+2. In Dogma, Smith ques                 ... pos = 0.25  	neg = 0.125
+3. Bartleby (Ben Afflec                 ... pos = 0.875 	neg = 0.0  
+4. They found a heavenl                 ... pos = 0.5   	neg = 0.0  
+5. Bethany (Linda Fiore                 ... pos = 0.0   	neg = 0.125
+6. She is accompanied b                 ... pos = 0.375 	neg = 0.125
+7. They are also accomp                 ... pos = 0.25  	neg = 0.0  
+8. On the way to New Je                 ... pos = 0.375 	neg = 0.0  
+9. From these discussio                 ... pos = 0.625 	neg = 0.0  
+10. Which is, in some ki                ... pos = 0.125 	neg = 0.125
+11. And in between a who                ... pos = 0.0   	neg = 0.25 
+12. So they made it to N                ... pos = 0.375 	neg = 0.0  
+13. But how do you stop                 ... pos = 0.125 	neg = 0.25 
+14. Well, maybe God can                 ... pos = 0.0   	neg = 0.0  
+15. This movie is being                 ... pos = 0.625 	neg = 0.25 
+16. Smith did make some                 ... pos = 0.125 	neg = 0.375
+17. People who can look                 ... pos = 0.25  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-122-331 is Positive          ... pos = 5.125 	neg = 2.75 
+Overall score of document
+Total Pos = 5.125
+Total Neg = 2.75
+---------------------------------------------------------------------------

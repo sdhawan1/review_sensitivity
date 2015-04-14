@@ -1,0 +1,36 @@
+0. In some respects, Ru                 ... pos = 0.75  	neg = 0.625
+1. The hero is the rene                 ... pos = 0.5   	neg = 0.375
+2. The cop in question                  ... pos = 0.0   	neg = 0.875
+3. All Chinese people a                 ... pos = 0.25  	neg = 0    
+4. The duo must always                  ... pos = 0.375 	neg = 0.25 
+5. The hero has to say                  ... pos = 0.5   	neg = 0.0  
+6. However, that doesn'                 ... pos = 0.125 	neg = 0.875
+7. Rush Hour is Jackie                  ... pos = 0.125 	neg = 0.75 
+8. Proving once again t                 ... pos = 0.125 	neg = 0.125
+9. Still, some die-hard                 ... pos = 0.125 	neg = 0.375
+10. This film takes a fa                ... pos = 0.0   	neg = 0.0  
+11. Jackie Chan is Lee,                 ... pos = 0.0   	neg = 0.75 
+12. Or, at least, so he                 ... pos = 1.125 	neg = 0.375
+13. Despite the necessar                ... pos = 0.125 	neg = 0.125
+14. Jackie Chan continue                ... pos = 0.25  	neg = 0.75 
+15. Chris Tucker, famili                ... pos = 1.25  	neg = 1.125
+16. However, Jackie Chan                ... pos = 0.125 	neg = 0.25 
+17. Perfectly downplayin                ... pos = 1.75  	neg = 0.0  
+18. When he is in action                ... pos = 1.0   	neg = 0.25 
+19. Still being inventiv                ... pos = 1.0   	neg = 0.125
+20. Chris Tucker's chara                ... pos = 1.5   	neg = 0.25 
+21. Since he's not a phy                ... pos = 0.0   	neg = 0.0  
+22. While dialogue is no                ... pos = 0.5   	neg = 0.25 
+23. While not necessaril                ... pos = 2.375 	neg = 0.625
+24. Lee's `knowledge' of                ... pos = 0.0   	neg = 0    
+25. ') when contrasted a                ... pos = 0.125 	neg = 0.375
+26. While Rush Hour is n                ... pos = 0.125 	neg = 0.75 
+27. With its appropriate                ... pos = 0.125 	neg = 0.25 
+28. As well, it is a tru                ... pos = 0.5   	neg = 1.0  
+29. Rating: 8/10 --. .                  ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2168-1018 is Positive        ... pos = 14.75 	neg = 11.5 
+Overall score of document
+Total Pos = 14.75
+Total Neg = 11.5
+---------------------------------------------------------------------------

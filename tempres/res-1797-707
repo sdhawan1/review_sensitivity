@@ -1,0 +1,34 @@
+0. The challenges of ad                 ... pos = 0.0   	neg = 0.25 
+1. It is a universal th                 ... pos = 0.25  	neg = 0.125
+2. This film explores t                 ... pos = 0.25  	neg = 0.0  
+3. The film is set in a                 ... pos = 0.0   	neg = 0.25 
+4. A narrator (voice of                 ... pos = 0.0   	neg = 0.0  
+5. The narrator is reco                 ... pos = 0.125 	neg = 0.25 
+6. A foreboding tone of                 ... pos = 0.25  	neg = 0.125
+7. The girls are attrac                 ... pos = 2.75  	neg = 0.875
+8. Although their socia                 ... pos = 0.25  	neg = 0.125
+9. By setting the story                 ... pos = 0.125 	neg = 0.75 
+10. The film has a cogen                ... pos = 0.25  	neg = 0.0  
+11. From the film's titl                ... pos = 0.0   	neg = 0.375
+12. What differentiates                 ... pos = 0.375 	neg = 0.5  
+13. The perspective is f                ... pos = 0.0   	neg = 0.25 
+14. The narrator states                 ... pos = 0.5   	neg = 0.375
+15. The point being made                ... pos = 0.75  	neg = 0.5  
+16. It is not with morbi                ... pos = 0.75  	neg = 0.125
+17. All aspects of the f                ... pos = 0.25  	neg = 0.25 
+18. The story, based on                 ... pos = 0.5   	neg = 0.0  
+19. Director Sofia Coppo                ... pos = 0.25  	neg = 0.0  
+20. The film uses nostal                ... pos = 0.0   	neg = 0.375
+21. The acting is unifor                ... pos = 0.125 	neg = 0.125
+22. All the roles of the                ... pos = 1.125 	neg = 0.125
+23. Highly recommended.                 ... pos = 0.625 	neg = 0    
+24. This is a highly moo                ... pos = 1.0   	neg = 0.125
+25. It is a well crafted                ... pos = 0.25  	neg = 0.125
+26. Although it has some                ... pos = 0.625 	neg = 0.375
+27. It is a success beca                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1797-707 is Positive         ... pos = 12.0  	neg = 6.5  
+Overall score of document
+Total Pos = 12.0
+Total Neg = 6.5
+---------------------------------------------------------------------------

@@ -1,0 +1,67 @@
+0. give me a buzz on th                 ... pos = 0.375 	neg = 0.125
+1. He's got a lot to wo                 ... pos = 0.25  	neg = 0.5  
+2. Fortunately, a man w                 ... pos = 1.25  	neg = 0.0  
+3. Only his 6th directi                 ... pos = 0.625 	neg = 0.125
+4. Like Spielberg's 199                 ... pos = 0.25  	neg = 0.0  
+5. People can study "Sa                 ... pos = 0.625 	neg = 0.0  
+6. Now, don't assume th                 ... pos = 0.0   	neg = 0.0  
+7. They certainly shoul                 ... pos = 0.75  	neg = 0.125
+8. What happens to the                  ... pos = 0.125 	neg = 0.375
+9. This is blood and gu                 ... pos = 0.0   	neg = 0.125
+10. And gore may have ne                ... pos = 0.0   	neg = 0.125
+11. Even stupid slasher                 ... pos = 0.375 	neg = 0.125
+12. The now-famous first                ... pos = 0.375 	neg = 0.125
+13. The Allied Forces st                ... pos = 0.0   	neg = 0.75 
+14. Before many of the y                ... pos = 0.0   	neg = 0.625
+15. Using a great deal o                ... pos = 0.625 	neg = 0.0  
+16. As the bodies pile u                ... pos = 0.0   	neg = 0.0  
+17. Ultimately successfu                ... pos = 0.625 	neg = 1.125
+18. So, having said that                ... pos = 1.0   	neg = 0.125
+19. And who's more likab                ... pos = 0.125 	neg = 0.0  
+20. The two-time Oscar-w                ... pos = 0.0   	neg = 0.125
+21. Heck, I'd follow Tom                ... pos = 0.0   	neg = 0    
+22. Nominated for anothe                ... pos = 1.25  	neg = 0.125
+23. Their mission--and t                ... pos = 0.375 	neg = 0.25 
+24. They have orders to                 ... pos = 0.0   	neg = 0.0  
+25. On the surface, it's                ... pos = 0.5   	neg = 0.0  
+26. A poor movie would e                ... pos = 0.125 	neg = 0.625
+27. This film is better                 ... pos = 0.0   	neg = 0.125
+28. It dares to give us                 ... pos = 0.125 	neg = 0.0  
+29. You believe in their                ... pos = 0.25  	neg = 0.625
+30. A part of you dies w                ... pos = 0.0   	neg = 0.0  
+31. Well, not ALL of the                ... pos = 0.125 	neg = 0.125
+32. After all, this is w                ... pos = 0.0   	neg = 0.75 
+33. Young Ryan responds                 ... pos = 1.5   	neg = 0    
+34. The climactic battle                ... pos = 0.0   	neg = 1.0  
+35. The out-manned Ameri                ... pos = 0.0   	neg = 0.25 
+36. It's strange that on                ... pos = 1.25  	neg = 0.25 
+37. He is appropriately                 ... pos = 0.5   	neg = 0.625
+38. You feel the same wa                ... pos = 0.375 	neg = 0.625
+39. The chief "bellyache                ... pos = 0.0   	neg = 0.125
+40. Playing the wisecrac                ... pos = 1.0   	neg = 0.125
+41. Since he didn't, he                 ... pos = 0.0   	neg = 0.0  
+42. Tom Sizemore, who pl                ... pos = 0.5   	neg = 0.0  
+43. Horvath, could have                 ... pos = 0.25  	neg = 0.375
+44. Also, Jeremy Davies,                ... pos = 0.125 	neg = 0.125
+45. He's very good in hi                ... pos = 1.25  	neg = 0    
+46. In all, "Saving Priv                ... pos = 1.75  	neg = 0.125
+47. However, it didn't g                ... pos = 0.125 	neg = 0.25 
+48. All those bullets an                ... pos = 0.625 	neg = 1.0  
+49. So, if the Academy w                ... pos = 1.375 	neg = 0.5  
+50. Spielberg has now sh                ... pos = 0.0   	neg = 0    
+51. It will be interesti                ... pos = 0.125 	neg = 0.125
+52. If he does, he could                ... pos = 0.5   	neg = 0.0  
+53. This is only the sec                ... pos = 0.75  	neg = 0.25 
+54. When I walked out of                ... pos = 0.375 	neg = 0.0  
+55. I stand by that quot                ... pos = 1.375 	neg = 0.0  
+56. Both films are worth                ... pos = 2.0   	neg = 0.0  
+57. I believe he'll win                 ... pos = 0.25  	neg = 0.0  
+58. USELESS TRIVIA--If T                ... pos = 0.875 	neg = 0.625
+59. This film receives a                ... pos = 0.0   	neg = 0    
+60. It also ranks #74 on                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-1158 is Positive        ... pos = 27.0  	neg = 13.5 
+Overall score of document
+Total Pos = 27.0
+Total Neg = 13.5
+---------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+0. PAYBACK *˝ (out of                  ... pos = 0.5   	neg = 0.125
+1. Gibson plays Porter,                 ... pos = 0.625 	neg = 0.625
+2. As a morgue attendan                 ... pos = 0.0   	neg = 0.0  
+3. He makes it his miss                 ... pos = 0.0   	neg = 0.625
+4. (In a running gag, P                 ... pos = 0.0   	neg = 0.125
+5. ) In his travels (or                 ... pos = 0.0   	neg = 0.903
+6. Helgeland's film (wh                 ... pos = 0.0   	neg = 1.0  
+7. The novelty of seein                 ... pos = 0.25  	neg = 2.75 
+8. Payback should have                  ... pos = 0.0   	neg = 0.125
+9. (Mel: "I want my mon                 ... pos = 0     	neg = 0.125
+10. " Anonymous Villain:                ... pos = 0.0   	neg = 0    
+11. " Mel shoots gun.                   ... pos = 0     	neg = 0.0  
+12. Anonymous villain di                ... pos = 0.0   	neg = 0.375
+13. Mel meets up with hi                ... pos = 0.125 	neg = 0.0  
+14. Second verse, same a                ... pos = 0.125 	neg = 0.0  
+15. ) It's not Porter's                 ... pos = 1.125 	neg = 0.25 
+16. The movie lacks dang                ... pos = 0.0   	neg = 0.125
+17. The only thing Porte                ... pos = 0.0   	neg = 0.5  
+18. Payback has a gritty                ... pos = 0.0   	neg = 0.5  
+19. (Director of photogr                ... pos = 0.0   	neg = 0.5  
+20. ) . To analyze such                 ... pos = 0.75  	neg = 0.5  
+21. Perhaps only someone                ... pos = 0.75  	neg = 0.625
+22. The movie presents u                ... pos = 0.5   	neg = 0.25 
+23. ) and crosses them w                ... pos = 0.875 	neg = 1.0  
+24. ) but transcends nei                ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-709-1545 is Negative         ... pos = 5.625 	neg = 11.278
+Overall score of document
+Total Pos = 5.625
+Total Neg = 11.278
+---------------------------------------------------------------------------

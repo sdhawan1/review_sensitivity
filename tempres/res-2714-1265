@@ -1,0 +1,40 @@
+0. The Sixth Sense Writ                 ... pos = 0.5   	neg = 0.25 
+1. My snap judgment was                 ... pos = 0.125 	neg = 0.25 
+2. But all the buzz mot                 ... pos = 0.0   	neg = 0.0  
+3. It turned out to be                  ... pos = 0.5   	neg = 0.125
+4. Bruce Willis plays c                 ... pos = 0.0   	neg = 0.0  
+5. At the beginning of                  ... pos = 1.375 	neg = 0.875
+6. A year passes, and M                 ... pos = 0.0   	neg = 0.25 
+7. Cole Sear (Haley Joe                 ... pos = 0.0   	neg = 1.25 
+8. Weird things seem to                 ... pos = 0.5   	neg = 1.5  
+9. He steals religious                  ... pos = 0.5   	neg = 0    
+10. The trailer gave awa                ... pos = 0.125 	neg = 0.0  
+11. If it hadn't, the fi                ... pos = 0.125 	neg = 1.5  
+12. If you're lucky enou                ... pos = 0.75  	neg = 0.0  
+13. ". Anyway, since the                ... pos = 0.0   	neg = 0.0  
+14. Once Malcolm gains C                ... pos = 0.125 	neg = 0.625
+15. Dead people wander a                ... pos = 0.125 	neg = 1.25 
+16. Malcolm gradually be                ... pos = 0.75  	neg = 0.75 
+17. The box office succe                ... pos = 0.125 	neg = 0.25 
+18. I hate to burst anyb                ... pos = 0.5   	neg = 0.0  
+19. At its core, "The Si                ... pos = 0.375 	neg = 0.375
+20. Some scenes with the                ... pos = 0.25  	neg = 0.0  
+21. One that really got                 ... pos = 0.5   	neg = 0.625
+22. Osment gives the bes                ... pos = 0.375 	neg = 0    
+23. It's hard enough to                 ... pos = 0.75  	neg = 0.75 
+24. Although Willis gets                ... pos = 0.625 	neg = 0.75 
+25. If only Willis' work                ... pos = 0.125 	neg = 0.125
+26. Accustomed to delive                ... pos = 0.625 	neg = 0.125
+27. (This is a bad omen                 ... pos = 0.5   	neg = 1.0  
+28. Writer/Director M. N                ... pos = 1.125 	neg = 0.375
+29. He's also a skillful                ... pos = 0.75  	neg = 0    
+30. Only when the final                 ... pos = 0.625 	neg = 0.25 
+31. Look for a cameo by                 ... pos = 0.0   	neg = 1.5  
+32. Bottom line:  Osment                ... pos = 0.0   	neg = 0.0  
+33. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-1265 is Negative        ... pos = 12.75 	neg = 14.75
+Overall score of document
+Total Pos = 12.75
+Total Neg = 14.75
+---------------------------------------------------------------------------

@@ -1,0 +1,82 @@
+0. Gattaca (1997) Rated                 ... pos = 1.25  	neg = 0.375
+1. Hollywood has given                  ... pos = 3.5   	neg = 0.25 
+2. And for some reason,                 ... pos = 0.0   	neg = 0.375
+3. The closest, that I                  ... pos = 0.375 	neg = 0.125
+4. Now comes GATTACA, a                 ... pos = 0.0   	neg = 0.125
+5. The difference betwe                 ... pos = 0.5   	neg = 0.25 
+6. Most of the concepts                 ... pos = 0.5   	neg = 0.0  
+7. Using this premise,                  ... pos = 0.489 	neg = 0.125
+8. Unfortunately, due t                 ... pos = 0.75  	neg = 1.25 
+9. Since seeing the fil                 ... pos = 0.0   	neg = 0.125
+10. Lately, however, I h                ... pos = 0.125 	neg = 0.125
+11. Most people don't ev                ... pos = 0.125 	neg = 0.125
+12. Despite this fact, I                ... pos = 0.875 	neg = 0.0  
+13. Niccol's film deserv                ... pos = 1.0   	neg = 0.125
+14. GATTACA begins in th                ... pos = 0.125 	neg = 0    
+15. Procreating is now d                ... pos = 0.0   	neg = 0.25 
+16. Natural child birth                 ... pos = 0.125 	neg = 0.125
+17. We are introduced to                ... pos = 0.25  	neg = 0.0  
+18. One of the directors                ... pos = 0.0   	neg = 1.375
+19. The only problem is                 ... pos = 0.0   	neg = 0.5  
+20. Vincent was born the                ... pos = 0.75  	neg = 0.125
+21. However, after his b                ... pos = 1.375 	neg = 0.5  
+22. As a result, both pa                ... pos = 0.0   	neg = 0.0  
+23. Anton (Loren Dean) i                ... pos = 0.25  	neg = 0.125
+24. Vincent has a dream                 ... pos = 0.5   	neg = 0.0  
+25. Labeled an "in-valid                ... pos = 0.375 	neg = 0.125
+26. German introduces hi                ... pos = 0.375 	neg = 0.125
+27. Jerome Morrow (Jude                 ... pos = 1.125 	neg = 0.0  
+28. ) that he will need                 ... pos = 0.125 	neg = 0.125
+29. In exchange, Vincent                ... pos = 0.25  	neg = 0.0  
+30. After the murder, ho                ... pos = 1.125 	neg = 0.0  
+31. Irene Cassini (Uma T                ... pos = 1.25  	neg = 0.125
+32. GATTACA is one of th                ... pos = 0.5   	neg = 0.5  
+33. Only two other intel                ... pos = 0.375 	neg = 0.0  
+34. Unfortunately, whene                ... pos = 0.25  	neg = 0.875
+35. The second best thin                ... pos = 0.375 	neg = 0.125
+36. The orange glow of G                ... pos = 1.5   	neg = 0.0  
+37. The sets are very we                ... pos = 1.625 	neg = 0.25 
+38. As we look at the de                ... pos = 0.125 	neg = 0.625
+39. This brings the plot                ... pos = 0.0   	neg = 0.375
+40. The best thing, howe                ... pos = 0.5   	neg = 0.125
+41. The story is more th                ... pos = 0.0   	neg = 0.125
+42. At its heart, it dev                ... pos = 0.625 	neg = 0.25 
+43. Perhaps Niccol is wa                ... pos = 0.125 	neg = 0.125
+44. Would our society be                ... pos = 0.0   	neg = 0.375
+45. Maybe human nature i                ... pos = 0.0   	neg = 0.125
+46. If we get rid of fla                ... pos = 1.375 	neg = 0.0  
+47. Niccol's intelligent                ... pos = 1.375 	neg = 1.0  
+48. The power of the act                ... pos = 0.875 	neg = 0.375
+49. While flat may sound                ... pos = 0.0   	neg = 0.0  
+50. Ethan Hawke has deve                ... pos = 1.25  	neg = 0.0  
+51. His curiosity and mo                ... pos = 1.0   	neg = 0    
+52. Uma Thurman is... we                ... pos = 1.25  	neg = 0.125
+53. Her character is sli                ... pos = 0.875 	neg = 0.125
+54. However, Thurman giv                ... pos = 1.0   	neg = 0.0  
+55. Jude Law gives the m                ... pos = 1.5   	neg = 0    
+56. He provides several                 ... pos = 0.625 	neg = 0.125
+57. Loren Dean gives a n                ... pos = 0.875 	neg = 0    
+58. Dean is also respons                ... pos = 0.625 	neg = 0.125
+59. Alan Arkin portrays                 ... pos = 0.125 	neg = 0.25 
+60. Still, he does a goo                ... pos = 0.75  	neg = 0    
+61. Gore Vidal and Xande                ... pos = 1.625 	neg = 0.0  
+62. GATTACA is rated PG-                ... pos = 0.375 	neg = 0.5  
+63. Despite the somber a                ... pos = 0.125 	neg = 0.0  
+64. It turned me off sli                ... pos = 0.125 	neg = 0.625
+65. If this had been a t                ... pos = 0.5   	neg = 0.125
+66. However, with all th                ... pos = 0.75  	neg = 0.375
+67. Instead, it provides                ... pos = 0.375 	neg = 0.25 
+68. Whatever happened to                ... pos = 0.125 	neg = 0.0  
+69. Hopefully more write                ... pos = 1.25  	neg = 0.25 
+70. P.S.                                ... pos = 0.0   	neg = 0    
+71. Personal note to P.J                ... pos = 0.0   	neg = 0    
+72. Gladnick: How dare y                ... pos = 0.0   	neg = 0.875
+73. I can't even begin t                ... pos = 0.0   	neg = 0.0  
+74. That frightens me be                ... pos = 0.375 	neg = 0.0  
+75. Reviewed by Respect                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3272-1566 is Positive        ... pos = 43.364 	neg = 15.875
+Overall score of document
+Total Pos = 43.364
+Total Neg = 15.875
+---------------------------------------------------------------------------

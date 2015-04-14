@@ -1,0 +1,21 @@
+0. THE WATERBOY Reviewe                 ... pos = 0.25  	neg = 0.25 
+1. The  crude comic is                  ... pos = 2.125 	neg = 0.5  
+2. What's worse, the mo                 ... pos = 0.25  	neg = 1.375
+3. Bobby's not the kind                 ... pos = 0.875 	neg = 0.0  
+4. Thank goodness for s                 ... pos = 1.75  	neg = 0.0  
+5. Kathy Bates, a farce                 ... pos = 1.5   	neg = 0.75 
+6. Henry  Winkler also                  ... pos = 0.75  	neg = 0.0  
+7. Coach recruits Bobby                 ... pos = 0.0   	neg = 0.0  
+8. It is then when Bobb                 ... pos = 0.625 	neg = 0.375
+9. The plot mechanics a                 ... pos = 0.5   	neg = 0.0  
+10. What they insert int                ... pos = 0.375 	neg = 0.125
+11. It has to do with pi                ... pos = 0.0   	neg = 0.0  
+12. The one-joke "Waterb                ... pos = 1.0   	neg = 0.75 
+13. That "Happy Gilmore"                ... pos = 1.25  	neg = 1.25 
+14. Badminton, anyone?.                 ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3574-1031 is Positive        ... pos = 11.25 	neg = 5.375
+Overall score of document
+Total Pos = 11.25
+Total Neg = 5.375
+---------------------------------------------------------------------------

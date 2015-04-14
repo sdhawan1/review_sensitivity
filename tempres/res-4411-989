@@ -1,0 +1,29 @@
+0. There really is a Hu                 ... pos = 0.0   	neg = 0.125
+1. In order to raise fu                 ... pos = 0.375 	neg = 0.0  
+2. He was very insisten                 ... pos = 2.0   	neg = 0.25 
+3. He couldn't have had                 ... pos = 0.375 	neg = 0.0  
+4. The story is delight                 ... pos = 0.875 	neg = 0.125
+5. The first scenes, se                 ... pos = 0.375 	neg = 0.0  
+6. What might have been                 ... pos = 1.25  	neg = 0.875
+7. The following scenes                 ... pos = 0.25  	neg = 0.0  
+8. It is not all fun an                 ... pos = 0.375 	neg = 0.125
+9. Rules are not for hi                 ... pos = 0.25  	neg = 0    
+10. Everything seems too                ... pos = 0.0   	neg = 0.625
+11. While touring the ho                ... pos = 1.0   	neg = 0.125
+12. He truly cares about                ... pos = 0.625 	neg = 0.0  
+13. Impossible patients                 ... pos = 0.0   	neg = 0.0  
+14. Sometimes they get b                ... pos = 0.0   	neg = 0.0  
+15. Sometimes they don't                ... pos = 0.0   	neg = 0    
+16. In school he is attr                ... pos = 0.0   	neg = 0.375
+17. She dreams of being                 ... pos = 1.75  	neg = 0.25 
+18. This is definitely a                ... pos = 0.625 	neg = 0.125
+19. It s one of the be                ... pos = 1.0   	neg = 0    
+20. It makes you feel so                ... pos = 0.75  	neg = 0.0  
+21. It definitely should                ... pos = 2.25  	neg = 0.125
+22. I give it a strong A                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4411-989 is Positive         ... pos = 14.625 	neg = 3.125
+Overall score of document
+Total Pos = 14.625
+Total Neg = 3.125
+---------------------------------------------------------------------------

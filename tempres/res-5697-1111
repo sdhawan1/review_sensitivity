@@ -1,0 +1,26 @@
+0. There is nothing mor                 ... pos = 0.25  	neg = 1.0  
+1. Set in the mutable p                 ... pos = 0.125 	neg = 0.125
+2. Thus a storm brews,                  ... pos = 0.875 	neg = 0.625
+3. Ben Hood (Kevin Klin                 ... pos = 0.875 	neg = 0.375
+4. Meanwhile their 14-y                 ... pos = 0.375 	neg = 0.125
+5. Wendys older brother                 ... pos = 0.75  	neg = 0.5  
+6. When Ben and Elenas                  ... pos = 1.0   	neg = 0.0  
+7. Sometimes the shephe                 ... pos = 0.25  	neg = 0.125
+8. I'm going to try har                 ... pos = 0.375 	neg = 0.75 
+9. A chain of events oc                 ... pos = 2.125 	neg = 0.0  
+10. Whilst these charact                ... pos = 1.75  	neg = 0.75 
+11. This is due to the s                ... pos = 1.75  	neg = 0.125
+12. If only he had taken                ... pos = 1.5   	neg = 1.25 
+13. With the exceptions                 ... pos = 2.25  	neg = 0.5  
+14. Please dont get me w                ... pos = 1.875 	neg = 1.75 
+15. As to the amount of                 ... pos = 1.375 	neg = 0.125
+16. I would, however, go                ... pos = 1.25  	neg = 1.125
+17. Thankfully, The Ice                 ... pos = 0.5   	neg = 2.875
+18. No  this film is put                ... pos = 1.125 	neg = 0.5  
+19. Although the film en                ... pos = 1.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5697-1111 is Positive        ... pos = 21.5  	neg = 13.25
+Overall score of document
+Total Pos = 21.5
+Total Neg = 13.25
+---------------------------------------------------------------------------

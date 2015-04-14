@@ -1,0 +1,44 @@
+0. I read a review of t                 ... pos = 0.375 	neg = 0.625
+1. The whole conceit of                 ... pos = 0.5   	neg = 0.625
+2. Personification is t                 ... pos = 0.0   	neg = 0.125
+3. In this film  we do                  ... pos = 0.875 	neg = 0.75 
+4. Wonderful  animation                 ... pos = 0.75  	neg = 0.0  
+5. But these creatures                  ... pos = 0.0   	neg = 0.0  
+6. And Aladar's Modern-                 ... pos = 0.375 	neg = 0.0  
+7. So, we have to suspe                 ... pos = 0.75  	neg = 0.0  
+8. This adventure start                 ... pos = 0.75  	neg = 0.0  
+9. Dinosaurs of various                 ... pos = 0.125 	neg = 0.125
+10. We watch the egg cha                ... pos = 0.5   	neg = 0.0  
+11. On this island Alada                ... pos = 0.0   	neg = 0.375
+12. We witness the  typi                ... pos = 0.75  	neg = 1.0  
+13. It's not hard to tel                ... pos = 0.625 	neg = 0.75 
+14. Clearly, we have see                ... pos = 0.75  	neg = 0.0  
+15. Think THE LAND BEFOR                ... pos = 0.875 	neg = 0.0  
+16. Disney was firing on                ... pos = 1.125 	neg = 0.875
+17. The meteor shower is                ... pos = 0.0   	neg = 1.125
+18. Also eye-catching ar                ... pos = 0.5   	neg = 0.0  
+19. When they meet up wi                ... pos = 0.875 	neg = 0.375
+20. Perhaps the film wou                ... pos = 0.5   	neg = 0.125
+21. What's  going on her                ... pos = 0.625 	neg = 0.125
+22. Will the herd, and p                ... pos = 1.0   	neg = 1.25 
+23. Secondarily, will Al                ... pos = 0.75  	neg = 0.25 
+24. The sister, Neera, b                ... pos = 0.125 	neg = 0.125
+25. Music is also unrema                ... pos = 0.125 	neg = 0.125
+26. Most of it  seemed t                ... pos = 0.0   	neg = 0.125
+27. The actors do wonder                ... pos = 0.75  	neg = 0.0  
+28. Besides the main  ch                ... pos = 0.875 	neg = 0.0  
+29. Ossie Davis plays a                 ... pos = 0.875 	neg = 0.625
+30. Who is the most like                ... pos = 0.0   	neg = 0.125
+31. Children.                           ... pos = 0.0   	neg = 0    
+32. It is rated PG for                  ... pos = 0.75  	neg = 0.125
+33. Nowhere do we glimps                ... pos = 0.0   	neg = 0.75 
+34. Modern kids will not                ... pos = 0.5   	neg = 0.125
+35. This film has gotten                ... pos = 0.875 	neg = 0.0  
+36. But the movie as a w                ... pos = 1.0   	neg = 0.5  
+37. Disney's best bet wa                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4807-71 is Positive          ... pos = 19.625 	neg = 11.375
+Overall score of document
+Total Pos = 19.625
+Total Neg = 11.375
+---------------------------------------------------------------------------

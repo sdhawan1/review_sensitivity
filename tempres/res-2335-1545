@@ -1,0 +1,27 @@
+0. starring Sigourney W                 ... pos = 0.0   	neg = 0.0  
+1. Freeman written by J                 ... pos = 0.0   	neg = 0.0  
+2. In this fourth insta                 ... pos = 0.375 	neg = 0.125
+3. You can't keep a goo                 ... pos = 0.75  	neg = 0.0  
+4. Unfortunately.                       ... pos = 0     	neg = 0.875
+5. What was a wonderful                 ... pos = 0.75  	neg = 0.375
+6. The premise is this:                 ... pos = 0.0   	neg = 0.25 
+7. A band of ne'er-do-w                 ... pos = 0.0   	neg = 0.0  
+8. One of them, Call (R                 ... pos = 0.875 	neg = 0.25 
+9. What she is not awar                 ... pos = 1.75  	neg = 0.625
+10. Must I write that th                ... pos = 0.375 	neg = 0.0  
+11. Jeunet, famed French                ... pos = 0.125 	neg = 0.5  
+12. `Resurrection' is ar                ... pos = 0.25  	neg = 0.25 
+13. But I get the sense                 ... pos = 0.25  	neg = 0.5  
+14. For example, he cast                ... pos = 0.0   	neg = 0.0  
+15. They're unique ducks                ... pos = 0.875 	neg = 0.125
+16. And the alien logic                 ... pos = 0.625 	neg = 0.75 
+17. Turn off the sound a                ... pos = 0.25  	neg = 0.75 
+18. The effects are impr                ... pos = 0.375 	neg = 0.375
+19. But great art direct                ... pos = 0.875 	neg = 0.125
+20. -November 21, 1997.                 ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2335-1545 is Positive        ... pos = 8.5   	neg = 5.875
+Overall score of document
+Total Pos = 8.5
+Total Neg = 5.875
+---------------------------------------------------------------------------

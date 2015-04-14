@@ -1,0 +1,34 @@
+0. "Elizabeth once told                 ... pos = 0.0   	neg = 0.25 
+1. ". Starring John Tra                 ... pos = 0.375 	neg = 0.0  
+2. Rated R.. I despise                  ... pos = 0.5   	neg = 0.125
+3. Plot is a film's mos                 ... pos = 1.0   	neg = 0.25 
+4. The General's Daught                 ... pos = 0.375 	neg = 1.0  
+5. At the center of The                 ... pos = 0.5   	neg = 0.125
+6. The victim is Captai                 ... pos = 0.125 	neg = 0.125
+7. Thus, Officer Paul B                 ... pos = 1.5   	neg = 0.0  
+8. Sooner than later, B                 ... pos = 0.25  	neg = 0.5  
+9. Some evidence from t                 ... pos = 0.125 	neg = 0.375
+10. They then embark on                 ... pos = 0.5   	neg = 0.0  
+11. The General's Daught                ... pos = 0.375 	neg = 0.0  
+12. Actually, I'm not ev                ... pos = 0.5   	neg = 0.5  
+13. Alas that may be par                ... pos = 1.25  	neg = 0.625
+14. This is especially e                ... pos = 0.125 	neg = 0.25 
+15. I'm still not sure w                ... pos = 1.125 	neg = 0.125
+16. Writer Christopher B                ... pos = 2.0   	neg = 0.0  
+17. Brenner and Sunhill                 ... pos = 0.25  	neg = 0.25 
+18. We are never present                ... pos = 0.25  	neg = 0.0  
+19. Brenner is supposed                 ... pos = 2.5   	neg = 0.75 
+20. How are we expected                 ... pos = 0.25  	neg = 0.375
+21. But what angered me                 ... pos = 0.0   	neg = 0.375
+22. The movie knows what                ... pos = 0.5   	neg = 0.125
+23. It's like a bulldoze                ... pos = 0.0   	neg = 0.0  
+24. There is little in T                ... pos = 0.375 	neg = 0.625
+25. It's a movie that ne                ... pos = 0.0   	neg = 0.125
+26. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+27. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1224-563 is Positive         ... pos = 14.75 	neg = 6.875
+Overall score of document
+Total Pos = 14.75
+Total Neg = 6.875
+---------------------------------------------------------------------------

@@ -1,0 +1,55 @@
+0. Before entering "The                 ... pos = 1.25  	neg = 0.0  
+1. If it's a terrifying                 ... pos = 0.625 	neg = 0.375
+2. If it's a special ef                 ... pos = 0.0   	neg = 0.375
+3. It should also be no                 ... pos = 0.0   	neg = 0.25 
+4. If taken on its own                  ... pos = 1.5   	neg = 0.375
+5. Dr. David Marrow is                  ... pos = 0.5   	neg = 0.25 
+6. Taking a group of su                 ... pos = 1.625 	neg = 0.0  
+7. Hill House is a trem                 ... pos = 0.875 	neg = 0.625
+8. Dr.                                  ... pos = 0     	neg = 0    
+9. Marrow does not, how                 ... pos = 0.875 	neg = 0.25 
+10. They are supposedly                 ... pos = 0.25  	neg = 0.75 
+11. Upon reaching the ho                ... pos = 0.125 	neg = 0.0  
+12. Marrow, that the hou                ... pos = 0.125 	neg = 0.125
+13. The house seems to t                ... pos = 0.0   	neg = 0.125
+14. As the nights go by,                ... pos = 0.0   	neg = 0.0  
+15. I was rather disappo                ... pos = 0.5   	neg = 1.0  
+16. So many critics seem                ... pos = 0.75  	neg = 0.375
+17. If viewed on its own                ... pos = 1.375 	neg = 0.125
+18. The acting is quite                 ... pos = 1.875 	neg = 0.125
+19. The standout in my o                ... pos = 0.0   	neg = 0.25 
+20. The one person I was                ... pos = 0.125 	neg = 0.5  
+21. Owen Wilson does get                ... pos = 1.5   	neg = 0.5  
+22. The greatest part of                ... pos = 1.375 	neg = 0.125
+23. It is the house itse                ... pos = 0.5   	neg = 0.125
+24. Filled with long, da                ... pos = 0.5   	neg = 0.625
+25. ) statues, the house                ... pos = 1.25  	neg = 0.125
+26. The fireplace, and i                ... pos = 0.875 	neg = 0.125
+27. This brings us to th                ... pos = 0.25  	neg = 0.0  
+28. As I mentioned befor                ... pos = 1.625 	neg = 0.0  
+29. We know nothing abou                ... pos = 0     	neg = 0.25 
+30. Marrow, Theo, or Owe                ... pos = 0.625 	neg = 0.25 
+31. The dialagoue is, at                ... pos = 0.5   	neg = 0.375
+32. For example, Liam Ne                ... pos = 0.5   	neg = 0.125
+33. The stairs collapse,                ... pos = 0.625 	neg = 0.0  
+34. " My only other real                ... pos = 0.0   	neg = 0.875
+35. Eleanor confronts th                ... pos = 0.75  	neg = 1.375
+36. As I stated earlier,                ... pos = 0.625 	neg = 0.125
+37. It simply doesn't in                ... pos = 0.5   	neg = 0.0  
+38. However, I do reccom                ... pos = 0.125 	neg = 0.0  
+39. For this, some fine                 ... pos = 0.75  	neg = 0.25 
+40. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+41. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+42. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+43. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+44. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+45. See it if you've got                ... pos = 0.0   	neg = 0.25 
+46. * - One of the worst                ... pos = 0.0   	neg = 0.375
+47. See it only if you e                ... pos = 0.375 	neg = 0.0  
+48. E-mail with comments                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4533-535 is Positive         ... pos = 26.5  	neg = 12.875
+Overall score of document
+Total Pos = 26.5
+Total Neg = 12.875
+---------------------------------------------------------------------------

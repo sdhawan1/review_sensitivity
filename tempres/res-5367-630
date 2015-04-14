@@ -1,0 +1,40 @@
+0. Yes, another film in                 ... pos = 0.0   	neg = 0.125
+1. Is _Go_ good?                        ... pos = 0.75  	neg = 0.125
+2. Depends.                             ... pos = 0     	neg = 0.0  
+3. If you loved _Pulp F                 ... pos = 0.5   	neg = 0.0  
+4. Or come out disappoi                 ... pos = 0.0   	neg = 0.0  
+5. Or wonder how many p                 ... pos = 0.0   	neg = 0.375
+6. _Go_ details the eve                 ... pos = 0.0   	neg = 0.75 
+7. The word "go" is, to                 ... pos = 1.5   	neg = 0.125
+8. These three stories                  ... pos = 0.25  	neg = 0.0  
+9. Because the stories                  ... pos = 0.25  	neg = 1.5  
+10. More than once, you                 ... pos = 0.875 	neg = 0.0  
+11. For these moments, t                ... pos = 0.0   	neg = 0.125
+12. But to its credit, m                ... pos = 0.625 	neg = 0.0  
+13. Kudos goes to Willia                ... pos = 0.0   	neg = 0.625
+14. His role is so well                 ... pos = 0.5   	neg = 0.5  
+15. The same goes for th                ... pos = 0.0   	neg = 0.75 
+16. Katie Holmes and Sar                ... pos = 1.125 	neg = 0.0  
+17. Jason Flemyng has co                ... pos = 0.222 	neg = 1.5  
+18. But because of its s                ... pos = 0.25  	neg = 0.125
+19. Hear me out.                        ... pos = 0     	neg = 0.0  
+20. Sarah Polley's chara                ... pos = 1.125 	neg = 0.125
+21. Christmas Day.                      ... pos = 0.0   	neg = 0.0  
+22. And she works three                 ... pos = 0.0   	neg = 0.0  
+23. Excuse me?                          ... pos = 0     	neg = 0.0  
+24. And that's before th                ... pos = 0.0   	neg = 0.0  
+25. Suffice it to say, y                ... pos = 0.125 	neg = 0.0  
+26. And what to make of                 ... pos = 0.875 	neg = 0.0  
+27. She is kept at Flemy                ... pos = 0.0   	neg = 0.75 
+28. She is terrified of                 ... pos = 0.25  	neg = 0.125
+29. Later, she makes a s                ... pos = 0.0   	neg = 0.0  
+30. _Go_ doesn't exist t                ... pos = 0.0   	neg = 0.0  
+31. It exists as a throw                ... pos = 0.75  	neg = 0.0  
+32. It (thankfully) does                ... pos = 0.25  	neg = 0.25 
+33. So it's fun, and it'                ... pos = 0.5   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5367-630 is Positive         ... pos = 10.722 	neg = 8.375
+Overall score of document
+Total Pos = 10.722
+Total Neg = 8.375
+---------------------------------------------------------------------------

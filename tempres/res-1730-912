@@ -1,0 +1,53 @@
+0. CrankyCriticŽ movie                 ... pos = 0.625 	neg = 0.375
+1. As always, no compar                 ... pos = 0.0   	neg = 0.375
+2. You may remember Cra                 ... pos = 0.125 	neg = 0.125
+3. Well, The Thomas Cro                 ... pos = 2.5   	neg = 0.625
+4. You could do that se                 ... pos = 0.5   	neg = 0.5  
+5. So, while Cranky sat                 ... pos = 0.25  	neg = 1.25 
+6. Here now, the backgr                 ... pos = 0.5   	neg = 0.0  
+7. She's a poor girl fr                 ... pos = 0.0   	neg = 0.0  
+8. He's a poor boy from                 ... pos = 0.25  	neg = 0.0  
+9. She got wealthy.                     ... pos = 0.0   	neg = 0.0  
+10. He got grand stinkin                ... pos = 0.25  	neg = 0.0  
+11. Like Billions.                      ... pos = 0     	neg = 0.0  
+12. She likes to chase.                 ... pos = 0     	neg = 0.0  
+13. He likes the challen                ... pos = 0.0   	neg = 0.0  
+14. She's tempting.                     ... pos = 0.0   	neg = 0    
+15. He's a temptation.                  ... pos = 0.125 	neg = 0    
+16. He steals valuable a                ... pos = 0.5   	neg = 0    
+17. She gets it back for                ... pos = 0.0   	neg = 0.0  
+18. He has woman trouble                ... pos = 0.0   	neg = 0.0  
+19. She has no man.                     ... pos = 0.0   	neg = 0.0  
+20. A match made in Heav                ... pos = 0.125 	neg = 0.0  
+21. He's Thomas Crown (P                ... pos = 0.0   	neg = 0.0  
+22. An ex-boxer who has                 ... pos = 0.125 	neg = 0.875
+23. She's Catherine Bann                ... pos = 0.875 	neg = 0.0  
+24. It's a brilliantly c                ... pos = 0.375 	neg = 0.25 
+25. Director John McTier                ... pos = 0.0   	neg = 0.75 
+26. And we're just getti                ... pos = 0.0   	neg = 0.0  
+27. McTiernan, who direc                ... pos = 0.875 	neg = 1.125
+28. As Crown and Banning                ... pos = 1.0   	neg = 0.5  
+29. Crown's inability to                ... pos = 0.0   	neg = 0.375
+30. Also in the middle,                 ... pos = 0.5   	neg = 0.125
+31. It's something you m                ... pos = 0.0   	neg = 0.25 
+32. He knows he stole th                ... pos = 0.0   	neg = 0    
+33. She knows he stole t                ... pos = 0.0   	neg = 0.125
+34. When all is said and                ... pos = 0.125 	neg = 0.125
+35. Banning wants the pa                ... pos = 0.375 	neg = 0.0  
+36. When he offers to pr                ... pos = 0.75  	neg = 0.125
+37. The shame is that wh                ... pos = 0.875 	neg = 1.0  
+38. A scattering of appl                ... pos = 0.5   	neg = 0.375
+39. There are a couple o                ... pos = 1.0   	neg = 0.25 
+40. The leisurely pace a                ... pos = 0.125 	neg = 0.0  
+41. Watching two rich pe                ... pos = 0.875 	neg = 0.625
+42. There is more life a                ... pos = 0.5   	neg = 0.875
+43. Brosnan is doing a c                ... pos = 0.0   	neg = 0.125
+44. The disappointment i                ... pos = 0.125 	neg = 0.875
+45. On average, a first                 ... pos = 0.25  	neg = 0.0  
+46. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1730-912 is Positive         ... pos = 15.125 	neg = 12.125
+Overall score of document
+Total Pos = 15.125
+Total Neg = 12.125
+---------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+0. "The ball is round a                 ... pos = 0.0   	neg = 0.25 
+1. " A soccer ball is k                 ... pos = 0.625 	neg = 0.625
+2. Lola (Potente) has 2                 ... pos = 0.0   	neg = 0.0  
+3. If he does not deliv                 ... pos = 0.125 	neg = 0.125
+4. The movie plays out                  ... pos = 0.875 	neg = 0.0  
+5. One: Thinking of the                 ... pos = 0.25  	neg = 0.0  
+6. Two: Lola attemps to                 ... pos = 0.375 	neg = 0.0  
+7. Three: Lola tries he                 ... pos = 0.0   	neg = 0.625
+8. The best parts of th                 ... pos = 0.0   	neg = 0.0  
+9. For instance, after                  ... pos = 0.5   	neg = 0.25 
+10. Other flashes into t                ... pos = 0.875 	neg = 0.25 
+11. One and Two are foll                ... pos = 1.75  	neg = 0.0  
+12. The film also gets m                ... pos = 0.875 	neg = 0.0  
+13. It has plenty of coo                ... pos = 0.25  	neg = 0.125
+14. What chances does th                ... pos = 0.875 	neg = 0.0  
+15. Not much, but it's s                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3690-329 is Positive         ... pos = 7.875 	neg = 2.25 
+Overall score of document
+Total Pos = 7.875
+Total Neg = 2.25
+---------------------------------------------------------------------------

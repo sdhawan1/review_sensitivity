@@ -1,0 +1,30 @@
+0. Release Date: March                  ... pos = 0.25  	neg = 0.0  
+1. He does not age in a                 ... pos = 0.0   	neg = 0.0  
+2. On the screen, he's                  ... pos = 0.125 	neg = 0.875
+3. Cultivating a rough-                 ... pos = 0.0   	neg = 0.0  
+4. And this recycled de                 ... pos = 0.5   	neg = 0.125
+5. TRUE CRIME is a myst                 ... pos = 0.5   	neg = 0.25 
+6. This is familiar gro                 ... pos = 0.25  	neg = 0.375
+7. John Grisham films i                 ... pos = 0.25  	neg = 0.0  
+8. The mystery surround                 ... pos = 0.25  	neg = 0.25 
+9. Toss in the typical                  ... pos = 1.625 	neg = 0.125
+10. Specifically, Eastwo                ... pos = 0.375 	neg = 0.0  
+11. Beachum has been con                ... pos = 0.125 	neg = 0.875
+12. Everett is famous fo                ... pos = 0.875 	neg = 0.125
+13. Nevertheless, Everet                ... pos = 0.125 	neg = 0.0  
+14. In the end, however,                ... pos = 0.75  	neg = 0.0  
+15. The ancient entertai                ... pos = 2.125 	neg = 0.5  
+16. Although the movie i                ... pos = 0.5   	neg = 0.125
+17. Plot twists are nice                ... pos = 0.5   	neg = 0.0  
+18. The supports also he                ... pos = 0.125 	neg = 0.0  
+19. James Woods and Deni                ... pos = 1.5   	neg = 0.0  
+20. Isaiah Washington, a                ... pos = 1.375 	neg = 0.0  
+21. The only flaws to be                ... pos = 0.75  	neg = 0.125
+22. Neither of these hel                ... pos = 1.125 	neg = 0.5  
+23. Instead, it's just a                ... pos = 0.0   	neg = 0.903
+---------------------------------------------------------------------------
+./temp/tmp-5485-700 is Positive         ... pos = 14.0  	neg = 5.153
+Overall score of document
+Total Pos = 14.0
+Total Neg = 5.153
+---------------------------------------------------------------------------

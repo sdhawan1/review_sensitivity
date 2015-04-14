@@ -1,0 +1,31 @@
+0. Kelly's Heroes in Ir                 ... pos = 0.75  	neg = 2.125
+1. Three greedy but lik                 ... pos = 0.5   	neg = 0.625
+2. (Eagle-eyed readers                  ... pos = 1.25  	neg = 0.0  
+3. If you want to know                  ... pos = 0.375 	neg = 0.25 
+4. ) Clooney is a born                  ... pos = 1.375 	neg = 0.75 
+5. Mark Whalberg has sh                 ... pos = 1.25  	neg = 1.5  
+6. Spike Jonze (the dir                 ... pos = 1.25  	neg = 0.0  
+7. Guided by a map retr                 ... pos = 0.625 	neg = 0.625
+8. Despite its large bu                 ... pos = 0.375 	neg = 0.875
+9. Director David O. Ru                 ... pos = 0.375 	neg = 0.0  
+10. One shootout in part                ... pos = 0.75  	neg = 0.125
+11. And in a couple of s                ... pos = 0.125 	neg = 0.0  
+12. (It turns out that t                ... pos = 0.0   	neg = 0.125
+13. ). Apart from the fi                ... pos = 0.875 	neg = 0.125
+14. I know it's just an                 ... pos = 0.0   	neg = 0.0  
+15. The thieving incursi                ... pos = 0.5   	neg = 0.375
+16. In 1991, George Bush                ... pos = 0.875 	neg = 0.0  
+17. In Three Kings, the                 ... pos = 0.375 	neg = 0.0  
+18. The issue of western                ... pos = 1.375 	neg = 0.25 
+19. The mild- mannered i                ... pos = 0.375 	neg = 0.0  
+20. When given the usual                ... pos = 1.0   	neg = 0.5  
+21. Even the manner in w                ... pos = 0.375 	neg = 0.375
+22. The script (by Russe                ... pos = 1.0   	neg = 0.25 
+23. The film occasionall                ... pos = 1.25  	neg = 0.875
+24. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3790-312 is Positive         ... pos = 18.0  	neg = 9.75 
+Overall score of document
+Total Pos = 18.0
+Total Neg = 9.75
+---------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+0. "The Sixth Sense", t                 ... pos = 0.5   	neg = 0.0  
+1. While the subject ma                 ... pos = 0.25  	neg = 0.125
+2. Bruce Willis plays M                 ... pos = 0.5   	neg = 0.125
+3. One night, Malcolm i                 ... pos = 0.125 	neg = 0.25 
+4. His next mission is                  ... pos = 0.5   	neg = 1.5  
+5. The mother can't pin                 ... pos = 0.125 	neg = 1.0  
+6. However, it takes ha                 ... pos = 0.125 	neg = 0.75 
+7. Malcolm believes tha                 ... pos = 0.5   	neg = 1.875
+8. However, when "The S                 ... pos = 0.75  	neg = 1.25 
+9. Combine that with a                  ... pos = 0.0   	neg = 0.0  
+10. However, there are m                ... pos = 1.375 	neg = 0.125
+11. But what really save                ... pos = 1.0   	neg = 0.375
+12. Anyone who has seen                 ... pos = 1.25  	neg = 0.125
+13. M. Night Shyamalan (                ... pos = 0.0   	neg = 0.5  
+14. "The Sixth Sense", h                ... pos = 0.125 	neg = 0.125
+15. a review by Akiva Go                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2714-421 is Negative         ... pos = 7.125 	neg = 8.25 
+Overall score of document
+Total Pos = 7.125
+Total Neg = 8.25
+---------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+0. Cast: Dave Foley, Ke                 ... pos = 0.75  	neg = 0.125
+1. It's 180 degrees dif                 ... pos = 0.625 	neg = 0.0  
+2. Where Antz was more                  ... pos = 0.25  	neg = 0.25 
+3. It's Disney... what                  ... pos = 0.0   	neg = 0.0  
+4. A Bug's Life is abou                 ... pos = 0.375 	neg = 0.125
+5. Flik (voice of Dave                  ... pos = 0.0   	neg = 2.25 
+6. He stumbles across a                 ... pos = 0.625 	neg = 0.5  
+7. Flik leads these bug                 ... pos = 0.0   	neg = 0.5  
+8. I never thought I'd                  ... pos = 0.125 	neg = 0.0  
+9. The DVD release of A                 ... pos = 0.5   	neg = 0.75 
+10. Those of you who car                ... pos = 0.375 	neg = 0.0  
+11. Both sets of "bloope                ... pos = 0.25  	neg = 0.0  
+12. The computer animati                ... pos = 0.375 	neg = 0.125
+13. Yes granted the bugs                ... pos = 1.125 	neg = 0.125
+14. The colors are brigh                ... pos = 0.875 	neg = 0.125
+15. A visual delight, if                ... pos = 0.75  	neg = 0    
+16. Also included on the                ... pos = 0.0   	neg = 0.125
+17. Other than that ther                ... pos = 0.75  	neg = 0.5  
+18. The Signature Select                ... pos = 0.5   	neg = 0.0  
+19. Fans of special edit                ... pos = 1.0   	neg = 0.0  
+20. Kids should enjoy th                ... pos = 0.5   	neg = 0.0  
+21. To me, A Bug's Life                 ... pos = 0.125 	neg = 0.25 
+22. It's nice to look at                ... pos = 1.0   	neg = 0.5  
+23. A pleasant way to sp                ... pos = 0.625 	neg = 0.0  
+24. [G]. The Jacksonvill                ... pos = 0.0   	neg = 0.0  
+25. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1029-515 is Positive         ... pos = 11.75 	neg = 6.625
+Overall score of document
+Total Pos = 11.75
+Total Neg = 6.625
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. Usually a movie is a                 ... pos = 0.0   	neg = 0.125
+1. The new offering fro                 ... pos = 0.5   	neg = 0.125
+2. Originality has alwa                 ... pos = 0.5   	neg = 0.5  
+3. It begins oddly enou                 ... pos = 0.5   	neg = 0.125
+4. Two goons,  out to c                 ... pos = 0.0   	neg = 0.0  
+5. They attempt to coll                 ... pos = 0.0   	neg = 0.0  
+6. The next day Dude ex                 ... pos = 0.25  	neg = 0.0  
+7. ) He is advised to g                 ... pos = 0.0   	neg = 0.125
+8. He does this, and sh                 ... pos = 0.0   	neg = 0.0  
+9. This is a extremely                  ... pos = 0.625 	neg = 0.375
+10. The Coen brothers ha                ... pos = 0.5   	neg = 0.625
+11. Also several great s                ... pos = 0.375 	neg = 0    
+12. The Coen's script pl                ... pos = 1.625 	neg = 0.625
+13. I doubt this movie w                ... pos = 0.625 	neg = 0.75 
+14. If you like anything                ... pos = 1.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5626-1529 is Positive        ... pos = 6.875 	neg = 3.625
+Overall score of document
+Total Pos = 6.875
+Total Neg = 3.625
+---------------------------------------------------------------------------

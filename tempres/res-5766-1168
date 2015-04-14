@@ -1,0 +1,29 @@
+0. A veteran returns to                 ... pos = 0.375 	neg = 0.0  
+1. Even though Robert R                 ... pos = 1.25  	neg = 0.375
+2. Departing the indulg                 ... pos = 1.625 	neg = 0.0  
+3. The film opens into                  ... pos = 1.25  	neg = 0.0  
+4. Grace looks forward                  ... pos = 0.5   	neg = 0.375
+5. As both of them rode                 ... pos = 0.375 	neg = 0.0  
+6. The result; the deat                 ... pos = 0.125 	neg = 0.0  
+7. Pilgrim survived = t                 ... pos = 0.0   	neg = 0.5  
+8. Deeply shocked with                  ... pos = 0.75  	neg = 0.625
+9. Pilgrim's entire per                 ... pos = 0.125 	neg = 0.25 
+10. Wild and violent, =                 ... pos = 1.25  	neg = 0.625
+11. = The `Horse Whisper                ... pos = 1.0   	neg = 0.25 
+12. Annie hopes that by                 ... pos = 0.5   	neg = 0.0  
+13. Little does she know                ... pos = 0.125 	neg = 0.25 
+14. THE HORSE WHISPERER                 ... pos = 0.625 	neg = 0.0  
+15. While I will no tell                ... pos = 2.125 	neg = 0.375
+16. Redford and = Thomas                ... pos = 0.0   	neg = 0.0  
+17. Two other performanc                ... pos = 1.125 	neg = 0.0  
+18. Redford's ability as                ... pos = 0.625 	neg = 0.0  
+19. Even though most wil                ... pos = 1.0   	neg = 0.25 
+20. The wonderful cinema                ... pos = 2.875 	neg = 0.5  
+21. Smart move, = Mr. Re                ... pos = 0.0   	neg = 0.0  
+22. THE HORSE WHISPERER                 ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5766-1168 is Positive        ... pos = 18.25 	neg = 4.5  
+Overall score of document
+Total Pos = 18.25
+Total Neg = 4.5
+---------------------------------------------------------------------------

@@ -1,0 +1,52 @@
+0. ***1/2 (out of 4) It                 ... pos = 0.0   	neg = 0.125
+1. Zwick's films have o                 ... pos = 0.375 	neg = 0.0  
+2. LEGENDS OF THE FALL                  ... pos = 1.125 	neg = 1.375
+3. Yet both films were                  ... pos = 1.375 	neg = 0.125
+4. On the contrary, I l                 ... pos = 0.5   	neg = 0.125
+5. Zwick did manage to                  ... pos = 0.0   	neg = 0.0  
+6. Bill Clinton and Cha                 ... pos = 0.875 	neg = 0.875
+7. Bruce Willis gets to                 ... pos = 0.0   	neg = 0.0  
+8. But the overall shap                 ... pos = 0.0   	neg = 0.125
+9. The first act of the                 ... pos = 0.875 	neg = 0.0  
+10. A fake bomb has gone                ... pos = 0.125 	neg = 0.75 
+11. Hub learns that CIA                 ... pos = 0.5   	neg = 0.375
+12. Hub has Kraft remove                ... pos = 0.5   	neg = 0.0  
+13. Another bomb does go                ... pos = 0.0   	neg = 0.75 
+14. Hub and his FBI team                ... pos = 0.0   	neg = 0.0  
+15. Hub and his crew wor                ... pos = 1.125 	neg = 0.125
+16. Among those in power                ... pos = 0.0   	neg = 0.125
+17. For now it is only t                ... pos = 0.0   	neg = 0.125
+18. Hub does make progre                ... pos = 0.5   	neg = 0.0  
+19. Several suspected te                ... pos = 0.625 	neg = 0.0  
+20. But before he can cr                ... pos = 0.0   	neg = 0.0  
+21. The terrorists strik                ... pos = 0.0   	neg = 0.0  
+22. With no FBI to speak                ... pos = 0.0   	neg = 0.5  
+23. General Devereaux (W                ... pos = 0.0   	neg = 0.0  
+24. When he sets foot on                ... pos = 0.5   	neg = 0.0  
+25. He explains that the                ... pos = 0.25  	neg = 0.625
+26. He asks for the city                ... pos = 0.25  	neg = 0.0  
+27. Now the film becomes                ... pos = 0.625 	neg = 0.0  
+28. The insightfully wri                ... pos = 0.0   	neg = 0.25 
+29. Each faction has its                ... pos = 0.0   	neg = 0.0  
+30. The Army, represente                ... pos = 0.0   	neg = 0.125
+31. The CIA, represented                ... pos = 1.25  	neg = 0.125
+32. The FBI, led by Wash                ... pos = 0.25  	neg = 0.625
+33. Arab-American groups                ... pos = 0.25  	neg = 1.0  
+34. However, at differen                ... pos = 2.25  	neg = 0.125
+35. For example, the ter                ... pos = 0.25  	neg = 0.0  
+36. Clearly, that reinfo                ... pos = 0.875 	neg = 0.0  
+37. When the "detention                 ... pos = 0.0   	neg = 0.125
+38. When the film shows                 ... pos = 0.375 	neg = 0.125
+39. The subject matter i                ... pos = 0.375 	neg = 0.25 
+40. Nevertheless, I thin                ... pos = 0.375 	neg = 0.0  
+41. He certainly wasn't                 ... pos = 1.375 	neg = 0.375
+42. It is Zwick's examin                ... pos = 1.75  	neg = 0.625
+43. THE SIEGE was no exc                ... pos = 0.0   	neg = 0.375
+44. It was a stimulating                ... pos = 0.0   	neg = 0.25 
+45. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2604-1008 is Positive        ... pos = 19.5  	neg = 10.5 
+Overall score of document
+Total Pos = 19.5
+Total Neg = 10.5
+---------------------------------------------------------------------------

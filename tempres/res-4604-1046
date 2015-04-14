@@ -1,0 +1,45 @@
+0. CAPSULE: A roaring b                 ... pos = 0.125 	neg = 0.75 
+1. All that's missing i                 ... pos = 0.0   	neg = 0.125
+2. Somehow this movie w                 ... pos = 0.0   	neg = 0.0  
+3. CON AIR is totally r                 ... pos = 0.125 	neg = 0.875
+4. And yet there it is,                 ... pos = 0.375 	neg = 0.125
+5. Hong Kong ultraviole                 ... pos = 0.0   	neg = 0.0  
+6. Nicholas Cage stars                  ... pos = 0.0   	neg = 0.0  
+7. After coming home fr                 ... pos = 0.0   	neg = 1.125
+8. For this he's sent t                 ... pos = 0.25  	neg = 0.0  
+9. hello?                               ... pos = 0     	neg = 0.0  
+10. ), we bought it and                 ... pos = 0.0   	neg = 0.0  
+11. He spends his time i                ... pos = 0.5   	neg = 0.0  
+12. And now that he's be                ... pos = 0.375 	neg = 0.0  
+13. Something has to go                 ... pos = 0.0   	neg = 0.75 
+14. Bigtime.                            ... pos = 0     	neg = 0    
+15. The plane that Poe's                ... pos = 0.75  	neg = 0.375
+16. One of them, the cha                ... pos = 0.375 	neg = 0.0  
+17. On top of *that*, on                ... pos = 0.0   	neg = 0.25 
+18. Everything goes wron                ... pos = 0.0   	neg = 0.75 
+19. I will not spoil too                ... pos = 0.25  	neg = 1.375
+20. Ultimately, Poe is p                ... pos = 0.875 	neg = 0.125
+21. Poe, muscular and gr                ... pos = 0.5   	neg = 0.125
+22. The criminals themse                ... pos = 0.75  	neg = 1.375
+23. They supply the dead                ... pos = 0.5   	neg = 1.0  
+24. Also in the bubbling                ... pos = 0.5   	neg = 0.125
+25. He locks horns hard                 ... pos = 1.125 	neg = 1.125
+26. The movie doesn't st                ... pos = 0.0   	neg = 0.0  
+27. I've hardly seen ano                ... pos = 0.0   	neg = 0.125
+28. It also sustains it                 ... pos = 0.375 	neg = 0.0  
+29. The movie just doesn                ... pos = 0.0   	neg = 0.5  
+30. Not one single belie                ... pos = 2.0   	neg = 1.0  
+31. And that happens *in                ... pos = 0     	neg = 0.0  
+32. There is one stunt t                ... pos = 0.0   	neg = 0.875
+33. You'll see what I me                ... pos = 0.0   	neg = 0.0  
+34. All the actors do a                 ... pos = 0.5   	neg = 1.125
+35. Steve Buscemi also p                ... pos = 0.625 	neg = 0.5  
+36. I love him as an act                ... pos = 0.625 	neg = 0.25 
+37. CON AIR will no doub                ... pos = 0.375 	neg = 2.0  
+38. I suspect a sequel w                ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-4604-1046 is Negative        ... pos = 11.875 	neg = 17.75
+Overall score of document
+Total Pos = 11.875
+Total Neg = 17.75
+---------------------------------------------------------------------------

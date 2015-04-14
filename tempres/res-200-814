@@ -1,0 +1,57 @@
+0. Directed by: Spike J                 ... pos = 0.375 	neg = 0.0  
+1. Have you ever been t                 ... pos = 0.0   	neg = 0.125
+2. Me neither, thank Go                 ... pos = 0.0   	neg = 0.5  
+3. Most of us see such                  ... pos = 0.25  	neg = 0.375
+4. A day or two later,                  ... pos = 0.375 	neg = 0.125
+5. ' and you all share                  ... pos = 0.0   	neg = 0.0  
+6. However, underneath                  ... pos = 2.0   	neg = 0.125
+7. Secretly, many of us                 ... pos = 0.125 	neg = 0.125
+8. Our Western culture                  ... pos = 0.875 	neg = 0.125
+9. Sure, you can dismis                 ... pos = 0.375 	neg = 0.0  
+10. In fact, the size of                ... pos = 0.25  	neg = 0.0  
+11. Being John Malkovich                ... pos = 1.25  	neg = 0.125
+12. As the title suggest                ... pos = 1.625 	neg = 0.125
+13. By casting a star wh                ... pos = 0.875 	neg = 0.125
+14. As we watch Malkovic                ... pos = 0.75  	neg = 0.25 
+15. One cab driver compl                ... pos = 0.125 	neg = 0.0  
+16. You know, the one wh                ... pos = 0.0   	neg = 0.0  
+17. I loved that movie,                 ... pos = 0.5   	neg = 0.0  
+18. Malkovich.                          ... pos = 0     	neg = 0    
+19. ' When Malkovich men                ... pos = 0.0   	neg = 0.0  
+20. Such is the problem                 ... pos = 0.0   	neg = 0.625
+21. The portal into Malk                ... pos = 0.0   	neg = 0.375
+22. The portal is hidden                ... pos = 0.5   	neg = 0.125
+23. However, after fifte                ... pos = 0.5   	neg = 0.0  
+24. This discovery chang                ... pos = 0.375 	neg = 0.0  
+25. The three of them di                ... pos = 0.375 	neg = 0.625
+26. The three actors (Cu                ... pos = 1.25  	neg = 0.125
+27. Cusack's Craig goes                 ... pos = 0.25  	neg = 1.5  
+28. Diaz switches back a                ... pos = 0.5   	neg = 0.25 
+29. Keener's Maxine rema                ... pos = 0.125 	neg = 0.125
+30. Only Malkovich is fu                ... pos = 0.25  	neg = 0.125
+31. The story, written b                ... pos = 0.125 	neg = 0.125
+32. No one aspect of the                ... pos = 0.0   	neg = 0.375
+33. The office Craig wor                ... pos = 0.0   	neg = 0.125
+34. To reach it involves                ... pos = 0.125 	neg = 0.0  
+35. Craig's boss Dr. Lec                ... pos = 0.25  	neg = 0.25 
+36. Craig's street puppe                ... pos = 0.625 	neg = 0.75 
+37. Lotte's pet chimp ev                ... pos = 0.0   	neg = 0.125
+38. Many films have unex                ... pos = 1.5   	neg = 0.0  
+39. The film has only on                ... pos = 0.0   	neg = 0.375
+40. Once the novelty of                 ... pos = 0.25  	neg = 0.875
+41. Too much time is spe                ... pos = 0.125 	neg = 0.375
+42. By the time the film                ... pos = 0.125 	neg = 0.25 
+43. In the end, Being Jo                ... pos = 0.5   	neg = 0.0  
+44. Once the veneer of c                ... pos = 0.875 	neg = 0.5  
+45. Once Maxine gets too                ... pos = 0.25  	neg = 0.25 
+46. It reminds us that t                ... pos = 1.5   	neg = 0.0  
+47. While its story lags                ... pos = 0.25  	neg = 0.125
+48. Anyone tired of the                 ... pos = 0.0   	neg = 0.75 
+49. It is like none othe                ... pos = 0.375 	neg = 0.125
+50. The Bottom Line - ht                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-814 is Positive          ... pos = 20.75 	neg = 11.375
+Overall score of document
+Total Pos = 20.75
+Total Neg = 11.375
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. In The Big Hit Melvi                 ... pos = 0.25  	neg = 1.75 
+1. We as the audience h                 ... pos = 0.0   	neg = 0.0  
+2. At least he didn't h                 ... pos = 0.0   	neg = 0.375
+3. I would take his spo                 ... pos = 0.0   	neg = 0.0  
+4. This film should be                  ... pos = 0.125 	neg = 0.125
+5. "  To which the prob                 ... pos = 0.375 	neg = 0.125
+6. "  To those who were                 ... pos = 0.0   	neg = 0.125
+7. I will now attempt t                 ... pos = 0.375 	neg = 0.0  
+8. Smiley and his crew                  ... pos = 0.0   	neg = 1.0  
+9. They fail to collect                 ... pos = 0.0   	neg = 0.125
+10. Not much is left to                 ... pos = 0.125 	neg = 0.125
+11. This film thinks dri                ... pos = 0.0   	neg = 0.125
+12. It thinks that peopl                ... pos = 0.0   	neg = 0.0  
+13. This film is dreadfu                ... pos = 0.75  	neg = 1.0  
+14. I would rather liste                ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1640-1338 is Negative        ... pos = 2.5   	neg = 4.875
+Overall score of document
+Total Pos = 2.5
+Total Neg = 4.875
+---------------------------------------------------------------------------

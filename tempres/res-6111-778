@@ -1,0 +1,52 @@
+0. Directed by Tim Burt                 ... pos = 0.0   	neg = 1.375
+1. These actors are so                  ... pos = 0.375 	neg = 0.0  
+2. Their mannerisms cou                 ... pos = 0.0   	neg = 0.0  
+3. Without these actors                 ... pos = 0.0   	neg = 0.625
+4. Jeffrey Jones, one o                 ... pos = 2.375 	neg = 0.125
+5. He holds such odd ch                 ... pos = 1.5   	neg = 0.25 
+6. His disturbed look i                 ... pos = 0.5   	neg = 0.625
+7. Every time powerful                  ... pos = 1.0   	neg = 1.125
+8. Jones' glare shows t                 ... pos = 1.0   	neg = 0.25 
+9. Along with Jones, th                 ... pos = 0.0   	neg = 0.125
+10. Depp, in his third T                ... pos = 1.25  	neg = 0.375
+11. "Sleepy Hollow" is n                ... pos = 2.125 	neg = 1.625
+12. The townspeople thin                ... pos = 0.0   	neg = 0.875
+13. Crane refuses to bel                ... pos = 0.125 	neg = 0.0  
+14. Depp portrays the ma                ... pos = 1.875 	neg = 0.0  
+15. We know Crane is hau                ... pos = 1.25  	neg = 0.125
+16. We know Crane is dif                ... pos = 0.625 	neg = 0.125
+17. Due to this differen                ... pos = 0.75  	neg = 0.125
+18. A great distinction                 ... pos = 0.875 	neg = 0.25 
+19. Depp shows this fear                ... pos = 0.625 	neg = 0.25 
+20. However, Burton coul                ... pos = 0.625 	neg = 0.0  
+21. A number of times Cr                ... pos = 1.0   	neg = 0.0  
+22. If Crane is so frigh                ... pos = 0.875 	neg = 0.75 
+23. That miniscule porti                ... pos = 0.625 	neg = 0.375
+24. The action scenes "S                ... pos = 0.125 	neg = 0.125
+25. The powerful Headles                ... pos = 0.25  	neg = 0.75 
+26. No matter how hard y                ... pos = 0.0   	neg = 1.0  
+27. This invincibility m                ... pos = 0.125 	neg = 0.0  
+28. The film was suspens                ... pos = 0.0   	neg = 0.875
+29. Innumerable characte                ... pos = 0.875 	neg = 0.125
+30. Burton did an outsta                ... pos = 1.625 	neg = 0.0  
+31. The way he completed                ... pos = 0.625 	neg = 0.125
+32. The sounds alone of                 ... pos = 0.125 	neg = 0.625
+33. Danny Elfman's score                ... pos = 0.375 	neg = 0.0  
+34. The only major probl                ... pos = 0.25  	neg = 0.375
+35. The relationship was                ... pos = 0.0   	neg = 0.125
+36. The speed of the two                ... pos = 1.5   	neg = 0.25 
+37. There was no surpris                ... pos = 0.0   	neg = 0.125
+38. The performances by                 ... pos = 0.0   	neg = 0.125
+39. Ricci, who was perfe                ... pos = 0.0   	neg = 0.375
+40. It would not be surp                ... pos = 0.125 	neg = 0.25 
+41. "Sleepy Hollow" is a                ... pos = 0.0   	neg = 0.25 
+42. Although it containe                ... pos = 0.125 	neg = 0.0  
+43. The visuals I the fi                ... pos = 1.0   	neg = 0.125
+44. The woods were more                 ... pos = 0.25  	neg = 0.125
+45. Are recent films try                ... pos = 0.75  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-6111-778 is Positive         ... pos = 27.5  	neg = 15.625
+Overall score of document
+Total Pos = 27.5
+Total Neg = 15.625
+---------------------------------------------------------------------------

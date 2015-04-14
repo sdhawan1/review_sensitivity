@@ -1,0 +1,54 @@
+0. Visit Online Film Cr                 ... pos = 1.0   	neg = 0.25 
+1. Wait a minute, maybe                 ... pos = 0.25  	neg = 0.25 
+2. Some of the most  hi                 ... pos = 0.625 	neg = 1.125
+3. Steve Martin is, aft                 ... pos = 0.0   	neg = 0.125
+4. Wasn't that a Chicag                 ... pos = 0.0   	neg = 0.0  
+5. 's shelf, as he wait                 ... pos = 0.0   	neg = 0.0  
+6. 'Bowfinger' gives us                 ... pos = 0.625 	neg = 0.875
+7. One  minute Bowfinge                 ... pos = 0.625 	neg = 0.5  
+8. This Bowfinger guy i                 ... pos = 1.25  	neg = 0.25 
+9. Bowfinger is an extr                 ... pos = 0.625 	neg = 0.125
+10. In the opening  scen                ... pos = 0.0   	neg = 0.5  
+11. What excites  the ma                ... pos = 0.0   	neg = 0.75 
+12. It's a  story about                 ... pos = 0.0   	neg = 0.0  
+13. There's little chanc                ... pos = 0.625 	neg = 0.375
+14. When a  producer (Ro                ... pos = 0.125 	neg = 0.0  
+15. But how will he ever                ... pos = 0.25  	neg = 0.0  
+16. Ramsey is played by                 ... pos = 0.875 	neg = 0.125
+17. Murphy  plasters the                ... pos = 2.125 	neg = 0.0  
+18. What fits into his c                ... pos = 0.625 	neg = 0.25 
+19. Of course this  subt                ... pos = 0.25  	neg = 0.0  
+20. Terrified of aliens                 ... pos = 0.25  	neg = 0.0  
+21. The members of  this                ... pos = 0.0   	neg = 0.25 
+22. What Martin jabs at                 ... pos = 1.25  	neg = 0.625
+23. We wonder how much o                ... pos = 0.125 	neg = 0.0  
+24. By now Murphy's used                ... pos = 0.25  	neg = 0.0  
+25. His Jiff is a grinni                ... pos = 1.25  	neg = 0.625
+26. Why  the need for a                 ... pos = 0.0   	neg = 0.125
+27. Well, the celebrity                 ... pos = 0.0   	neg = 0.0  
+28. Because Jiff is so                  ... pos = 0.375 	neg = 0.375
+29. In a piece full of v                ... pos = 0.625 	neg = 0.0  
+30. Steve Martin is the                 ... pos = 0.125 	neg = 0.375
+31. In one scene we watc                ... pos = 0.125 	neg = 0.0  
+32. ) as both cars speed                ... pos = 0.0   	neg = 0.25 
+33. But there are too ma                ... pos = 1.25  	neg = 0.25 
+34. As an actor, Martin                 ... pos = 0.0   	neg = 0.125
+35. We sense Martin's lo                ... pos = 1.125 	neg = 0.375
+36. A sublplot that does                ... pos = 0.125 	neg = 0.75 
+37. Martin's idea of hav                ... pos = 0.0   	neg = 2.0  
+38. Christine Baranski a                ... pos = 0.125 	neg = 0    
+39. The audience guffawe                ... pos = 0.0   	neg = 0.0  
+40. I should also mentio                ... pos = 0.0   	neg = 0.0  
+41. This man is pudgy an                ... pos = 0.75  	neg = 0.125
+42. You will, I guarante                ... pos = 0.125 	neg = 0.0  
+43. Finally, Bowfinger's                ... pos = 0.25  	neg = 0.875
+44. ) in a scene in whic                ... pos = 0.25  	neg = 0.125
+45. I look forward to an                ... pos = 0.25  	neg = 0.375
+46. If it's different, i                ... pos = 1.375 	neg = 0.125
+47. It's smart,  it's si                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2751-71 is Positive          ... pos = 20.375 	neg = 13.375
+Overall score of document
+Total Pos = 20.375
+Total Neg = 13.375
+---------------------------------------------------------------------------

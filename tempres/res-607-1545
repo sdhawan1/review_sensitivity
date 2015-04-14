@@ -1,0 +1,40 @@
+0. THE CIDER HOUSE RULE                 ... pos = 0.625 	neg = 0.0  
+1. I haven't encountere                 ... pos = 0.875 	neg = 0.0  
+2. "Annie" it's not: at                 ... pos = 0.5   	neg = 0.0  
+3. After spending twent                 ... pos = 1.25  	neg = 0.125
+4. Larch is deeply offe                 ... pos = 1.875 	neg = 1.5  
+5. It suits Maguire tha                 ... pos = 3.125 	neg = 0.125
+6. Before leaving for w                 ... pos = 0.5   	neg = 0.25 
+7. For those who haven'                 ... pos = 1.375 	neg = 0.25 
+8. The story contains o                 ... pos = 0.375 	neg = 0.125
+9. The latter constitut                 ... pos = 0.5   	neg = 0.625
+10. Caine is winning as                 ... pos = 0.25  	neg = 0.125
+11. (The filmmakers have                ... pos = 0.0   	neg = 0.0  
+12. ) I appreciated Larc                ... pos = 0.0   	neg = 0.875
+13. The incandescent The                ... pos = 1.75  	neg = 0.625
+14. ) is aggravating.                   ... pos = 0     	neg = 0.375
+15. Both Maguire and Lin                ... pos = 1.25  	neg = 0.0  
+16. Lindo's initial smil                ... pos = 1.625 	neg = 0.0  
+17. Just when the film i                ... pos = 0.625 	neg = 1.25 
+18. Lindo has been bless                ... pos = 0.25  	neg = 0.25 
+19. Swede helmer Hallstr                ... pos = 0.5   	neg = 1.0  
+20. Just four pictures a                ... pos = 0.125 	neg = 0.0  
+21. Though not formulaic                ... pos = 0.375 	neg = 0.5  
+22. If only Hallström h                ... pos = 0.5   	neg = 0.75 
+23. The Cider House Rule                ... pos = 0.0   	neg = 0.25 
+24. Much is covered over                ... pos = 1.0   	neg = 0.625
+25. (It's a brilliant co                ... pos = 1.125 	neg = 0.0  
+26. ) Each of these issu                ... pos = 0.875 	neg = 0.125
+27. Where The Cider Hous                ... pos = 0.125 	neg = 0.125
+28. When the first closi                ... pos = 0.5   	neg = 0.0  
+29. First, elation-what                 ... pos = 0.125 	neg = 0    
+30. Then came relief-the                ... pos = 0.0   	neg = 0.375
+31. Then came a profound                ... pos = 1.0   	neg = 0.125
+32. Hallström has marri                ... pos = 0.806 	neg = 0.0  
+33. The outcome is a gra                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-607-1545 is Positive         ... pos = 24.306 	neg = 10.5 
+Overall score of document
+Total Pos = 24.306
+Total Neg = 10.5
+---------------------------------------------------------------------------

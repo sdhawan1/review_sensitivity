@@ -1,0 +1,46 @@
+0. The Talented Mr. Rip                 ... pos = 0.75  	neg = 0.375
+1. The cast of this mov                 ... pos = 0.25  	neg = 0.0  
+2. That film is "The Ta                 ... pos = 1.25  	neg = 0.125
+3. His last film being                  ... pos = 1.875 	neg = 0.0  
+4. Adapted from the Pat                 ... pos = 2.0   	neg = 0.5  
+5. From first frame to                  ... pos = 1.625 	neg = 0.125
+6. On the surface, "Rip                 ... pos = 1.5   	neg = 0.25 
+7. "  Thomas Ripley is                  ... pos = 2.0   	neg = 1.125
+8. The film, set in the                 ... pos = 0.375 	neg = 0.25 
+9. Ripley accepts the o                 ... pos = 0.0   	neg = 0.625
+10. Upon his arrival at                 ... pos = 0.125 	neg = 0.0  
+11. From here, it's appa                ... pos = 0.375 	neg = 0.0  
+12. "Ripley" has Tom pos                ... pos = 0.375 	neg = 0.5  
+13. Tom falls in love wi                ... pos = 0.625 	neg = 0.25 
+14. Where things get eve                ... pos = 0.125 	neg = 0.25 
+15. As the plot unfolds,                ... pos = 0.5   	neg = 0.125
+16. It will be Ripley's                 ... pos = 0.125 	neg = 0.25 
+17. "The Talented Mr. Ri                ... pos = 2.25  	neg = 0.25 
+18. These are two of man                ... pos = 1.5   	neg = 0.125
+19. What is it about cha                ... pos = 0.25  	neg = 0.125
+20. "Ripley" is the only                ... pos = 1.125 	neg = 0.5  
+21. Matt Damon first bro                ... pos = 1.0   	neg = 0.0  
+22. His performance here                ... pos = 0.75  	neg = 0.125
+23. His performance two                 ... pos = 1.0   	neg = 0.25 
+24. Damon would seem to                 ... pos = 1.0   	neg = 1.375
+25. Jude Law, a lesser k                ... pos = 1.75  	neg = 0.0  
+26. Dickie is a mostly r                ... pos = 2.0   	neg = 0.75 
+27. Gwyneth Paltrow is e                ... pos = 2.625 	neg = 0.875
+28. Paltrow's character                 ... pos = 2.25  	neg = 0.375
+29. As far as supporting                ... pos = 1.5   	neg = 0.0  
+30. Among them being Cat                ... pos = 0.25  	neg = 0.125
+31. " A second Oscar nom                ... pos = 1.875 	neg = 0.25 
+32. Blanchett's role sho                ... pos = 0.0   	neg = 0.5  
+33. On the other hand, P                ... pos = 2.0   	neg = 0.625
+34. Other supporting act                ... pos = 1.25  	neg = 0.0  
+35. "The Talented Mr. Ri                ... pos = 0.75  	neg = 0.125
+36. Every element of the                ... pos = 1.5   	neg = 0.125
+37. Anthony Minghella's                 ... pos = 2.125 	neg = 0.125
+38. And that's where the                ... pos = 2.5   	neg = 0.875
+39. The Bottom Line: Bri                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-645-8 is Positive            ... pos = 46.125 	neg = 12.25
+Overall score of document
+Total Pos = 46.125
+Total Neg = 12.25
+---------------------------------------------------------------------------

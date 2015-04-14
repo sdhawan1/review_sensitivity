@@ -1,0 +1,35 @@
+0. Possible Gap product                 ... pos = 0.0   	neg = 0.0  
+1. Khakis Virtual?                      ... pos = 0.5   	neg = 0    
+2. CyberKhaki?                          ... pos = 0     	neg = 0    
+3. In fact, there's a p                 ... pos = 0.0   	neg = 0.0  
+4. " in a crowded movie                 ... pos = 0.0   	neg = 0.125
+5. MST3K could not have                 ... pos = 0.0   	neg = 0.0  
+6. Actually, the movie                  ... pos = 0.25  	neg = 0.0  
+7. Perhaps the best way                 ... pos = 0.0   	neg = 0.125
+8. You have the hyperki                 ... pos = 0.75  	neg = 0.25 
+9. It's a fun, mindless                 ... pos = 0.625 	neg = 0.625
+10. What more can you as                ... pos = 0.0   	neg = 0.0  
+11. Beyond style and act                ... pos = 0.25  	neg = 0.0  
+12. Keanu's character ap                ... pos = 0.875 	neg = 0.625
+13. All the eye imagery                 ... pos = 0.625 	neg = 0.125
+14. I'm sure that we can                ... pos = 0.5   	neg = 0.25 
+15. But, you know, I thi                ... pos = 0.25  	neg = 1.375
+16. Anyway, sunglasses g                ... pos = 0.0   	neg = 1.25 
+17. That's what we're ai                ... pos = 0.0   	neg = 0    
+18. No need for anyone t                ... pos = 0.0   	neg = 0.375
+19. ". Yes, they do try                 ... pos = 0.875 	neg = 0.0  
+20. The primary one is t                ... pos = 0.125 	neg = 0.125
+21. When Fishburn descri                ... pos = 0.125 	neg = 0.375
+22. The notion of the wo                ... pos = 0.125 	neg = 0.375
+23. No one is really exp                ... pos = 0.875 	neg = 0.625
+24. A good ten or twenty                ... pos = 1.375 	neg = 0.375
+25. Oh, the link between                ... pos = 0.0   	neg = 0.0  
+26. There's also marriag                ... pos = 1.375 	neg = 0.0  
+27. The Matrix, as noted                ... pos = 0.625 	neg = 0.125
+28. [1] http://www.slash                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5409-1441 is Positive        ... pos = 10.125 	neg = 7.125
+Overall score of document
+Total Pos = 10.125
+Total Neg = 7.125
+---------------------------------------------------------------------------

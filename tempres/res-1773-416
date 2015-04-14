@@ -1,0 +1,19 @@
+0. Starring: Denzel Was                 ... pos = 0.625 	neg = 0.625
+1. When a person who is                 ... pos = 0.625 	neg = 0.375
+2. Similarly, if a pers                 ... pos = 0.75  	neg = 0.25 
+3. Unfortunately, the d                 ... pos = 1.625 	neg = 2.5  
+4. Hobbes teams up with                 ... pos = 0.0   	neg = 0.0  
+5. In the middle of the                 ... pos = 0.125 	neg = 0.125
+6. In the end Hobbes us                 ... pos = 0.0   	neg = 0.0  
+7. Opinion: Denzel make                 ... pos = 0.625 	neg = 0.125
+8. And John Goodman is                  ... pos = 0.75  	neg = 0.125
+9. The beginning starts                 ... pos = 0.125 	neg = 1.5  
+10. Then the movie chang                ... pos = 0.125 	neg = 0.375
+11. To make this movie b                ... pos = 0.0   	neg = 1.375
+12. I'd also make a guts                ... pos = 0.25  	neg = 1.375
+---------------------------------------------------------------------------
+./temp/tmp-1773-416 is Negative         ... pos = 5.625 	neg = 8.75 
+Overall score of document
+Total Pos = 5.625
+Total Neg = 8.75
+---------------------------------------------------------------------------

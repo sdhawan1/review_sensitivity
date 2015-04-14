@@ -1,0 +1,37 @@
+0. Directed by: M. Nigh                 ... pos = 0.625 	neg = 0.25 
+1. Imagine you could se                 ... pos = 0.0   	neg = 0.5  
+2. What would you do?                   ... pos = 0     	neg = 0.0  
+3. Would you go insane,                 ... pos = 0.0   	neg = 0.0  
+4. Could you ignore the                 ... pos = 0     	neg = 0.5  
+5. Most importantly, ho                 ... pos = 0.0   	neg = 0.125
+6. This is the problem                  ... pos = 0.0   	neg = 1.25 
+7. He sees the dead, an                 ... pos = 0.375 	neg = 0.125
+8. How could anyone liv                 ... pos = 0.0   	neg = 0.25 
+9. Luckily, he gets hel                 ... pos = 0.5   	neg = 0.0  
+10. Dr. Crowe is a noted                ... pos = 0.5   	neg = 1.0  
+11. The Sixth Sense coul                ... pos = 0.625 	neg = 0.125
+12. It could have been a                ... pos = 0.0   	neg = 0.5  
+13. Instead, relative ne                ... pos = 0.5   	neg = 0.0  
+14. The film places much                ... pos = 1.5   	neg = 0.0  
+15. Haley Joel Osment (t                ... pos = 0.5   	neg = 0.25 
+16. The walking dead do                 ... pos = 0.75  	neg = 0.0  
+17. Bruce Willis has bee                ... pos = 0.625 	neg = 0.625
+18. He has never been a                 ... pos = 0.375 	neg = 0.125
+19. You are able to forg                ... pos = 0.625 	neg = 0.125
+20. Olivia Williams (Rus                ... pos = 0.375 	neg = 0.5  
+21. Toni Collette (Murie                ... pos = 1.25  	neg = 0.75 
+22. The storyline flows                 ... pos = 0.0   	neg = 0.625
+23. Sixth Sense's ending                ... pos = 0.375 	neg = 0.125
+24. If only editor Andre                ... pos = 1.375 	neg = 0.25 
+25. Unfortunately, despi                ... pos = 0.125 	neg = 0.875
+26. Sixth Sense's Cole f                ... pos = 0.25  	neg = 0.625
+27. Whether trying to ig                ... pos = 0.0   	neg = 1.0  
+28. The path that Cole a                ... pos = 0.75  	neg = 0.875
+29. Despite its slow pac                ... pos = 0.0   	neg = 0.125
+30. check out more revie                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-814 is Positive         ... pos = 12.0  	neg = 11.5 
+Overall score of document
+Total Pos = 12.0
+Total Neg = 11.5
+---------------------------------------------------------------------------

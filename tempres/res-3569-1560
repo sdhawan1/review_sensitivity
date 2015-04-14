@@ -1,0 +1,46 @@
+0. "There's Something A                 ... pos = 1.75  	neg = 1.125
+1. From the moment the                  ... pos = 0.625 	neg = 0.375
+2. It is that good of a                 ... pos = 0.75  	neg = 0.125
+3. When Gene Siskel sai                 ... pos = 0.0   	neg = 0.625
+4. How could you possib                 ... pos = 0.0   	neg = 0.375
+5. But after seeing the                 ... pos = 0.375 	neg = 0.125
+6. Once in a (very grea                 ... pos = 2.125 	neg = 0.25 
+7. And you know, at tha                 ... pos = 0.5   	neg = 0.0  
+8. Now for the shocker;                 ... pos = 0.25  	neg = 0.25 
+9. The movie is so rude                 ... pos = 1.25  	neg = 2.25 
+10. Forget "Blazing Sadd                ... pos = 0.375 	neg = 0.125
+11. In fact, this may ev                ... pos = 1.25  	neg = 0.25 
+12. But as funny as it i                ... pos = 0.25  	neg = 0.375
+13. You see, the Farrell                ... pos = 0.875 	neg = 0.0  
+14. They don't just pres                ... pos = 0.25  	neg = 0.25 
+15. They also, very wise                ... pos = 2.625 	neg = 0.25 
+16. It's funny, though.                 ... pos = 0.0   	neg = 0.0  
+17. If you just look at                 ... pos = 0.0   	neg = 0.5  
+18. But believe me, it i                ... pos = 0.125 	neg = 0.125
+19. Ben Stiller plays Te                ... pos = 1.625 	neg = 0.75 
+20. After he sticks up f                ... pos = 1.0   	neg = 0.0  
+21. In one of the film's                ... pos = 0.5   	neg = 1.125
+22. Jump to the present.                ... pos = 0.0   	neg = 0.0  
+23. After years of self-                ... pos = 1.75  	neg = 0.5  
+24. Healy finds that Mar                ... pos = 0.0   	neg = 0.125
+25. Admittingly, the bas                ... pos = 0.25  	neg = 0.25 
+26. After all, with a no                ... pos = 0.125 	neg = 0.0  
+27. Somehow, the Farrell                ... pos = 0.0   	neg = 0.625
+28. The performances her                ... pos = 0.25  	neg = 0.0  
+29. As Ted, Stiller adds                ... pos = 2.625 	neg = 0.5  
+30. And Cameron Diaz is                 ... pos = 0.375 	neg = 0.25 
+31. No other actor has e                ... pos = 0.625 	neg = 0.0  
+32. I know he won't be n                ... pos = 0.375 	neg = 0.375
+33. As good as the actor                ... pos = 1.0   	neg = 0.0  
+34. I guarantee that on                 ... pos = 0.375 	neg = 0.0  
+35. And yes, that is a g                ... pos = 0.625 	neg = 0.25 
+36. But which is harder;                ... pos = 0.0   	neg = 0.875
+37. I'll let you decide                 ... pos = 0.0   	neg = 0.125
+38. There is just someth                ... pos = 0     	neg = 0.125
+39. *Find all of Jason's                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3569-1560 is Positive        ... pos = 24.875 	neg = 13.25
+Overall score of document
+Total Pos = 24.875
+Total Neg = 13.25
+---------------------------------------------------------------------------

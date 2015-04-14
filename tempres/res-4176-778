@@ -1,0 +1,41 @@
+0. Reviewed by Lars Lin                 ... pos = 0.25  	neg = 0.0  
+1. If so, Me, Myself, A                 ... pos = 0.0   	neg = 0.25 
+2. See Carrey punch him                 ... pos = 0.0   	neg = 0    
+3. See Carrey kick hims                 ... pos = 0.0   	neg = 0.0  
+4. See Carrey throw him                 ... pos = 0.25  	neg = 0.0  
+5. And that's only a sm                 ... pos = 0.5   	neg = 0.0  
+6. Enough gags for five                 ... pos = 0.125 	neg = 0.125
+7. Jim Carrey takes a b                 ... pos = 0.125 	neg = 0.0  
+8. He plays Charlie, a                  ... pos = 0.0   	neg = 0.125
+9. His beautiful wife f                 ... pos = 0.875 	neg = 0.375
+10. Instead of getting a                ... pos = 0.375 	neg = 0.375
+11. As a member of the R                ... pos = 0.0   	neg = 0.125
+12. Once again, Charlie                 ... pos = 0.0   	neg = 0.125
+13. Until one day, Hank                 ... pos = 0.0   	neg = 0.0  
+14. Hank is the other ha                ... pos = 0.0   	neg = 0.75 
+15. But when Hank finall                ... pos = 0.75  	neg = 0.375
+16. Soon the two persona                ... pos = 0.625 	neg = 0.875
+17. Me, Myself, and Iren                ... pos = 0.0   	neg = 0.75 
+18. Unfortunately, the s                ... pos = 0.625 	neg = 2.125
+19. Sure there are some                 ... pos = 1.375 	neg = 0.625
+20. The film just takes                 ... pos = 0.125 	neg = 0.875
+21. Carrey gives a wonde                ... pos = 0.75  	neg = 0.0  
+22. As Charlie, he is hy                ... pos = 0.375 	neg = 0.375
+23. As Hank, the charact                ... pos = 1.25  	neg = 0.25 
+24. He's got an exaggera                ... pos = 0.625 	neg = 0.0  
+25. But poor Hank is stu                ... pos = 0.125 	neg = 1.0  
+26. The rest of the cast                ... pos = 0.0   	neg = 0.0  
+27. Like There's Somethi                ... pos = 2.0   	neg = 0.5  
+28. Charlie's triplets a                ... pos = 1.25  	neg = 0.0  
+29. And there are others                ... pos = 0.375 	neg = 0.375
+30. Zelwegger is satisfy                ... pos = 1.0   	neg = 0.125
+31. She is never given a                ... pos = 0.0   	neg = 0.25 
+32. This is Carrey's sho                ... pos = 0.5   	neg = 0.625
+33. Hank!                               ... pos = 0     	neg = 0    
+34. Can you dig it?. .                  ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4176-778 is Positive         ... pos = 14.25 	neg = 11.375
+Overall score of document
+Total Pos = 14.25
+Total Neg = 11.375
+---------------------------------------------------------------------------

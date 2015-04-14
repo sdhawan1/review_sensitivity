@@ -1,0 +1,57 @@
+0. A sore subject with                  ... pos = 0.125 	neg = 0.125
+1. Steven Spielberg's S                 ... pos = 0.375 	neg = 0.0  
+2. But the film is note                 ... pos = 2.0   	neg = 0.125
+3. I was lucky to be ab                 ... pos = 1.0   	neg = 0.25 
+4. We sat  in the third                 ... pos = 0.0   	neg = 0.375
+5. Glancing  behind me                  ... pos = 0.0   	neg = 0.25 
+6. Only ALL QUIET ON TH                 ... pos = 0.875 	neg = 0.0  
+7. SAVING PRIVATE RYAN                  ... pos = 0.25  	neg = 0.0  
+8. The man walks  ahead                 ... pos = 0.0   	neg = 0.0  
+9. Soon we see the men                  ... pos = 0.0   	neg = 0.0  
+10. Some soldiers retch,                ... pos = 0.25  	neg = 0.0  
+11. From a monologue del                ... pos = 0.75  	neg = 0.75 
+12. One of the agents th                ... pos = 0.0   	neg = 0.125
+13. We witness the  firs                ... pos = 0.875 	neg = 0.0  
+14. After Captain John M                ... pos = 0.5   	neg = 0.125
+15. Matched with editing                ... pos = 0.0   	neg = 0.125
+16. The sets and costume                ... pos = 0.625 	neg = 0    
+17. Although there  are                 ... pos = 0.25  	neg = 0.75 
+18. Machine gun nests, b                ... pos = 0.25  	neg = 0.0  
+19. After Capt.                         ... pos = 0.0   	neg = 0    
+20. Miller picks his squ                ... pos = 0.5   	neg = 0.625
+21. Bombed houses, splin                ... pos = 0.0   	neg = 0.0  
+22. And the costumes are                ... pos = 0.375 	neg = 0    
+23. My father says perha                ... pos = 0.625 	neg = 0.375
+24. The canvas belts, th                ... pos = 0.25  	neg = 0.0  
+25. Do technical aspects                ... pos = 0.25  	neg = 0.0  
+26. They are certainly                  ... pos = 0.5   	neg = 0.125
+27. It is hard to identi                ... pos = 0.875 	neg = 1.875
+28. Tom Hanks tints John                ... pos = 0.0   	neg = 0.25 
+29. The motif of his  sh                ... pos = 0.75  	neg = 0.0  
+30. If politics are just                ... pos = 1.0   	neg = 0.0  
+31. I would also cite To                ... pos = 0.75  	neg = 0.125
+32. Perhaps the toughest                ... pos = 0.375 	neg = 0.125
+33. The long build-up  o                ... pos = 0.125 	neg = 0.375
+34. Ryan  is dispelled a                ... pos = 0.125 	neg = 0.125
+35. (I understand  there                ... pos = 0.625 	neg = 0.125
+36. )  . I'll offer one                 ... pos = 0.0   	neg = 0.0  
+37. The ending of the fi                ... pos = 0.25  	neg = 0    
+38. The frame tale to wh                ... pos = 0.75  	neg = 0.0  
+39. Anyhow,  Spielberg h                ... pos = 0.875 	neg = 0.25 
+40. "  RYAN links  mesme                ... pos = 0.125 	neg = 0    
+41. It even throws in so                ... pos = 0.375 	neg = 0.0  
+42. We are fortunate tha                ... pos = 2.0   	neg = 0.0  
+43. As a boy in the 1960                ... pos = 1.25  	neg = 0.0  
+44. It was like followin                ... pos = 0.0   	neg = 0.125
+45. SAVING PRIVATE RYAN                 ... pos = 0.5   	neg = 0.125
+46. The film reminded me                ... pos = 0.0   	neg = 0.0  
+47. We, their  daughters                ... pos = 0.375 	neg = 0    
+48. We must inherit or c                ... pos = 0.375 	neg = 0.0  
+49. Perhaps the hushed a                ... pos = 0.125 	neg = 0.125
+50. It's one type of mem                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2471-71 is Positive          ... pos = 22.625 	neg = 7.875
+Overall score of document
+Total Pos = 22.625
+Total Neg = 7.875
+---------------------------------------------------------------------------

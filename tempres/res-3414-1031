@@ -1,0 +1,21 @@
+0. VARSITY BLUES Review                 ... pos = 1.25  	neg = 0.25 
+1. That last group will                 ... pos = 0.5   	neg = 0.25 
+2. Think of Van Der Bee                 ... pos = 0.0   	neg = 0.0  
+3. Not exactly hot off                  ... pos = 1.375 	neg = 1.0  
+4. That's the main stor                 ... pos = 0.125 	neg = 0.625
+5. "  Mox's obese, good                 ... pos = 1.625 	neg = 0.0  
+6. Mox's sexy biology i                 ... pos = 0.0   	neg = 0.125
+7. Mox goes to a wild p                 ... pos = 0.0   	neg = 0.25 
+8. Mox is also lusted a                 ... pos = 1.25  	neg = 1.375
+9. Sure, pretty  Larter                 ... pos = 2.0   	neg = 1.0  
+10. As you can probably                 ... pos = 0.25  	neg = 0.125
+11. See, we know everyth                ... pos = 0.875 	neg = 0.875
+12. It's nicely shot and                ... pos = 0.75  	neg = 0.0  
+13. (The most challengin                ... pos = 0.0   	neg = 0.0  
+14. )  Perhaps there'd b                ... pos = 0.0   	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-3414-1031 is Positive        ... pos = 10.0  	neg = 7.125
+Overall score of document
+Total Pos = 10.0
+Total Neg = 7.125
+---------------------------------------------------------------------------

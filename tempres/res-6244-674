@@ -1,0 +1,38 @@
+0. Starring: Harrison F                 ... pos = 0.25  	neg = 0.0  
+1. The film probably ne                 ... pos = 0.5   	neg = 0.75 
+2. My first reaction wh                 ... pos = 0.25  	neg = 0.25 
+3. The plot is fairly t                 ... pos = 0.125 	neg = 0.125
+4. Some of their banter                 ... pos = 1.125 	neg = 0.75 
+5. Their lives intertwi                 ... pos = 0.25  	neg = 0.125
+6. They seem oh-so-happ                 ... pos = 1.25  	neg = 0.375
+7. However, because Fra                 ... pos = 0.25  	neg = 0.625
+8. She (and $700) convi                 ... pos = 0.625 	neg = 0.375
+9. Unfortunately, or fo                 ... pos = 0.75  	neg = 1.75 
+10. All hope seems lost,                ... pos = 0.375 	neg = 0.125
+11. With the landing gea                ... pos = 0.625 	neg = 0.25 
+12. Luckily the plan is                 ... pos = 1.0   	neg = 0.25 
+13. The final nudges to                 ... pos = 1.0   	neg = 0.0  
+14. This film could have                ... pos = 0.0   	neg = 0.125
+15. For some reason Ford                ... pos = 0.25  	neg = 0.0  
+16. They seemed fine ind                ... pos = 0.375 	neg = 0.125
+17. Ford at times remind                ... pos = 0.75  	neg = 0.0  
+18. Schwimmer plods thro                ... pos = 0.25  	neg = 0.125
+19. However, it seems li                ... pos = 0.25  	neg = 0.375
+20. My theory is that th                ... pos = 0.125 	neg = 0.125
+21. (at least so far)  A                ... pos = 0.125 	neg = 0.0  
+22. Reitman is primarily                ... pos = 0.875 	neg = 0.125
+23. I also got a little                 ... pos = 0.0   	neg = 0.375
+24. It almost seems like                ... pos = 0.375 	neg = 0.75 
+25. My final major beef                 ... pos = 0.25  	neg = 0.5  
+26. I almost felt like h                ... pos = 0.0   	neg = 0.0  
+27. Overall, the film wa                ... pos = 0.375 	neg = 0.125
+28. I'm not sure if Hech                ... pos = 0.75  	neg = 0.125
+29. I was disappointed b                ... pos = 0.25  	neg = 0.875
+30. There were some good                ... pos = 0.875 	neg = 0.875
+31. Of the $6.75 that I                 ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6244-674 is Positive         ... pos = 14.25 	neg = 10.5 
+Overall score of document
+Total Pos = 14.25
+Total Neg = 10.5
+---------------------------------------------------------------------------

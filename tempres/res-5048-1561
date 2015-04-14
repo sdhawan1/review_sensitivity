@@ -1,0 +1,29 @@
+0. On the heels of the                  ... pos = 1.0   	neg = 0.5  
+1. In 1995, Sandra Bull                 ... pos = 0.875 	neg = 0.125
+2. 1997, Mel Gibson was                 ... pos = 0.0   	neg = 0.125
+3. 1998, The X-Files hi                 ... pos = 0.0   	neg = 0.75 
+4. Now, Will Smith and                  ... pos = 0.5   	neg = 0.0  
+5. I wish Hollywood wou                 ... pos = 0.75  	neg = 0.5  
+6. Of course, the only                  ... pos = 0.0   	neg = 0.375
+7. But, oddly, both Ind                 ... pos = 0.5   	neg = 1.0  
+8. Now, in State, Smith                 ... pos = 0.25  	neg = 0.375
+9. When a computer hack                 ... pos = 0.25  	neg = 0.125
+10. He flees his apartme                ... pos = 1.0   	neg = 0.125
+11. All that for nothing                ... pos = 0.0   	neg = 0.25 
+12. Shame.                              ... pos = 0     	neg = 0.75 
+13. So on, Smith is now                 ... pos = 0.0   	neg = 0.125
+14. Hackman, looking lik                ... pos = 0.0   	neg = 0.0  
+15. And, it doesn't help                ... pos = 0.25  	neg = 0.125
+16. Incoherency does not                ... pos = 0.125 	neg = 0.0  
+17. Since Enemy of the S                ... pos = 0.875 	neg = 0.125
+18. I liked the film muc                ... pos = 0.5   	neg = 0.0  
+19. I also rewatched The                ... pos = 0.0   	neg = 0.0  
+20. Yes, I found The Net                ... pos = 0.5   	neg = 0.0  
+21. Sandra Bullock's cha                ... pos = 1.25  	neg = 0.125
+22. That never happened                 ... pos = 0.25  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5048-1561 is Positive        ... pos = 8.875 	neg = 5.5  
+Overall score of document
+Total Pos = 8.875
+Total Neg = 5.5
+---------------------------------------------------------------------------

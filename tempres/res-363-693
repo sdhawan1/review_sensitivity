@@ -1,0 +1,37 @@
+0. For More "MOVIE VIEW                 ... pos = 0.5   	neg = 0.25 
+1. But, despite it's ob                 ... pos = 0.5   	neg = 0.5  
+2. The stars do a great                 ... pos = 0.0   	neg = 0.125
+3. Richard Gere plays I                 ... pos = 0.125 	neg = 0.375
+4. Through an acquainta                 ... pos = 0.0   	neg = 0.875
+5. Graham, rushing to m                 ... pos = 0.0   	neg = 0.0  
+6. But the real Maggie                  ... pos = 0.5   	neg = 0.125
+7. His editor (and ex-w                 ... pos = 0.625 	neg = 0.125
+8. And so the big city                  ... pos = 0.75  	neg = 0.625
+9. Who knows, the two m                 ... pos = 0.0   	neg = 0.5  
+10. It was a wise move f                ... pos = 0.0   	neg = 0.125
+11. Lately, Marshall has                ... pos = 0.75  	neg = 0.25 
+12. This reunion with Ro                ... pos = 0.625 	neg = 0.375
+13. Both stars look pret                ... pos = 0.0   	neg = 0.875
+14. Runaway Bride is pre                ... pos = 0.125 	neg = 0.25 
+15. The supporting cast                 ... pos = 0.0   	neg = 0.375
+16. Elizondo stole many                 ... pos = 0.875 	neg = 0.125
+17. Joan Cusack, as Magg                ... pos = 0.5   	neg = 0.125
+18. The two lead charact                ... pos = 1.5   	neg = 0.125
+19. Minimal sparks fly b                ... pos = 2.375 	neg = 0.0  
+20. Star power is the gl                ... pos = 0.625 	neg = 0.125
+21. The script has all t                ... pos = 0.0   	neg = 0.25 
+22. The set-up has some                 ... pos = 0.625 	neg = 0.375
+23. But please, next tim                ... pos = 0.375 	neg = 1.375
+24. This is a light roma                ... pos = 1.625 	neg = 0.25 
+25. This is Julia Robert                ... pos = 0.625 	neg = 0.375
+26. Still, this remains                 ... pos = 0.0   	neg = 0.125
+27. The PG rating ensure                ... pos = 0.75  	neg = 0.125
+28. Someone searching fo                ... pos = 0.375 	neg = 0.75 
+29. This has been done a                ... pos = 0.625 	neg = 0.125
+30. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-363-693 is Positive          ... pos = 15.375 	neg = 10.0 
+Overall score of document
+Total Pos = 15.375
+Total Neg = 10.0
+---------------------------------------------------------------------------

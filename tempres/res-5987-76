@@ -1,0 +1,33 @@
+0. Director: Randall Wa                 ... pos = 0.75  	neg = 0.0  
+1. The story of the Man                 ... pos = 0.75  	neg = 0.125
+2. King of France is no                 ... pos = 0.125 	neg = 0.375
+3. But in our story Lou                 ... pos = 0.875 	neg = 0.5  
+4. D'Artagnan (Gabriel                  ... pos = 1.375 	neg = 0.125
+5. A carefully guarded                  ... pos = 0.0   	neg = 0.75 
+6. He does not know abo                 ... pos = 0.75  	neg = 0.125
+7. An iron mask covers                  ... pos = 1.0   	neg = 0.0  
+8. The four musketeers                  ... pos = 0.0   	neg = 0.0  
+9. Even if THE MAN IN T                 ... pos = 0.5   	neg = 0.375
+10. The "elderly gentlem                ... pos = 0.125 	neg = 0.125
+11. The women's job in t                ... pos = 0.0   	neg = 0.625
+12. Leonardo DiCaprio ma                ... pos = 1.0   	neg = 0.125
+13. He masters two very                 ... pos = 1.125 	neg = 0    
+14. His arrogant Louis r                ... pos = 0.875 	neg = 0.125
+15. One thing's for sure                ... pos = 0.0   	neg = 0.125
+16. It's either Louis or                ... pos = 0.375 	neg = 0.0  
+17. The strangest charac                ... pos = 1.25  	neg = 0.125
+18. The aging Porthos lo                ... pos = 0.375 	neg = 0.0  
+19. They don't take him                 ... pos = 0.25  	neg = 0.125
+20. Why Porthos has to b                ... pos = 0.0   	neg = 0.75 
+21. Maybe because Depard                ... pos = 0.0   	neg = 0.0  
+22. That doesn't mean th                ... pos = 0.0   	neg = 0.0  
+23. After seeing him cli                ... pos = 0.5   	neg = 0.125
+24. So what.                            ... pos = 0     	neg = 0.0  
+25. THE MAN IN THE IRON                 ... pos = 1.75  	neg = 0.375
+26. Homepage: Book and m                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5987-76 is Positive          ... pos = 13.75 	neg = 5.0  
+Overall score of document
+Total Pos = 13.75
+Total Neg = 5.0
+---------------------------------------------------------------------------

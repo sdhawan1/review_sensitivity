@@ -1,0 +1,52 @@
+0. Well, look here -- i                 ... pos = 0.0   	neg = 0.375
+1. In this day and age                  ... pos = 0.75  	neg = 0.75 
+2. " It's about damn ti                 ... pos = 0.5   	neg = 0.5  
+3. The movie's far from                 ... pos = 0.5   	neg = 0.5  
+4. You'll get more good                 ... pos = 1.125 	neg = 0.0  
+5. As you've probably h                 ... pos = 0.0   	neg = 0.125
+6. That caused a nation                 ... pos = 0.0   	neg = 0.125
+7. (If THAT'S not Slack                 ... pos = 0.0   	neg = 0.0  
+8. ) Of course, you hav                 ... pos = 0.125 	neg = 0.125
+9. the Pink masses who                  ... pos = 0.125 	neg = 0.0  
+10. So the makers of thi                ... pos = 1.875 	neg = 0.125
+11. He's a clean, straig                ... pos = 3.125 	neg = 0.125
+12. Right.                              ... pos = 0.0   	neg = 0    
+13. And I just happen to                ... pos = 0.0   	neg = 0.375
+14. Needless to say, the                ... pos = 0.125 	neg = 0.25 
+15. little to none -- bu                ... pos = 0.125 	neg = 1.375
+16. It's fun to watch as                ... pos = 0.5   	neg = 0.875
+17. There's one great sc                ... pos = 1.0   	neg = 0.75 
+18. It's a great visuali                ... pos = 0.75  	neg = 0.625
+19. ". It's a simple mes                ... pos = 0.0   	neg = 0.125
+20. We've got good guy L                ... pos = 0.75  	neg = 0.0  
+21. For bad guys we've g                ... pos = 0.125 	neg = 1.875
+22. (Falwell sued Flynt                 ... pos = 0.125 	neg = 0.125
+23. ) There's no excepti                ... pos = 0.375 	neg = 1.0  
+24. (Keating was the cen                ... pos = 0.125 	neg = 0.125
+25. ). So it's a simple                 ... pos = 0.0   	neg = 0.0  
+26. But, the movie's sti                ... pos = 0.125 	neg = 0.625
+27. He wanted Hustler to                ... pos = 1.25  	neg = 1.0  
+28. We get a lot of laug                ... pos = 1.375 	neg = 0.25 
+29. Courtney is everythi                ... pos = 0.0   	neg = 0.75 
+30. She also does a stri                ... pos = 0.0   	neg = 0.75 
+31. Whether she's posing                ... pos = 0.5   	neg = 0.5  
+32. You can't help but w                ... pos = 0.125 	neg = 0.0  
+33. You can tell Oliver                 ... pos = 0.5   	neg = 0.0  
+34. But fortunately, dir                ... pos = 0.625 	neg = 0.75 
+35. It even gets wimpy a                ... pos = 0.375 	neg = 0.375
+36. Hollywood (and Sony                 ... pos = 0.75  	neg = 0.625
+37. Bull.                               ... pos = 0     	neg = 0.0  
+38. If this movie was ma                ... pos = 0.5   	neg = 0.625
+39. The original poster                 ... pos = 0.25  	neg = 0.375
+40. That's the true face                ... pos = 0.625 	neg = 0.125
+41. But, nonetheless, we                ... pos = 0.5   	neg = 0.0  
+42. So even if it's not                 ... pos = 0.0   	neg = 0.125
+43. It's a movie with it                ... pos = 0.0   	neg = 0.0  
+44. It reveals a lot mor                ... pos = 0.375 	neg = 0.125
+45. They've got the MONE                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3663-1069 is Positive        ... pos = 20.0  	neg = 17.25
+Overall score of document
+Total Pos = 20.0
+Total Neg = 17.25
+---------------------------------------------------------------------------

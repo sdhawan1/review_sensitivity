@@ -1,0 +1,26 @@
+0. Starring: Will Smith                 ... pos = 1.125 	neg = 0.125
+1. The mobster threaten                 ... pos = 0.0   	neg = 0.625
+2. When a desperate acq                 ... pos = 0.375 	neg = 1.125
+3. In no time, Dean fin                 ... pos = 0.0   	neg = 0.25 
+4. Can Dean and his tec                 ... pos = 0.25  	neg = 0.0  
+5. Opinion:  Is there r                 ... pos = 0.0   	neg = 0.125
+6. Actually yes.                        ... pos = 0     	neg = 0.0  
+7. With offices worldwi                 ... pos = 0.25  	neg = 0.25 
+8. The NSA and the DIA                  ... pos = 0.375 	neg = 0.0  
+9. ENEMY OF THE STATE a                 ... pos = 0.875 	neg = 0.0  
+10. " Interesting propos                ... pos = 0.125 	neg = 0.125
+11. Dean's life is total                ... pos = 0.0   	neg = 0.125
+12. His credit records a                ... pos = 0.625 	neg = 0    
+13. His phones and those                ... pos = 0.375 	neg = 0.0  
+14. Insidiously, the NSA                ... pos = 0.25  	neg = 0.0  
+15. ENEMY OF THE STATE e                ... pos = 0.75  	neg = 0.0  
+16. And thanks to TOP GU                ... pos = 0.0   	neg = 0.5  
+17. The only really pred                ... pos = 0.0   	neg = 0.125
+18. ENEMY OF THE STATE i                ... pos = 0.625 	neg = 0.25 
+19. Copyright Š 1998 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5048-416 is Positive         ... pos = 6.0   	neg = 3.75 
+Overall score of document
+Total Pos = 6.0
+Total Neg = 3.75
+---------------------------------------------------------------------------

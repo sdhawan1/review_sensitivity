@@ -1,0 +1,46 @@
+0. Running Time: 155 mi                 ... pos = 0.625 	neg = 0.0  
+1. So, after The Lost W                 ... pos = 0.375 	neg = 0.0  
+2. Although nowhere nea                 ... pos = 2.25  	neg = 0.375
+3. The films starts spe                 ... pos = 0.0   	neg = 0.0  
+4. ' They demand that t                 ... pos = 0.25  	neg = 1.0  
+5. They are imprisoned,                 ... pos = 0.625 	neg = 0.0  
+6. ). After the great o                 ... pos = 0.5   	neg = 0.0  
+7. ) The two standout p                 ... pos = 0.25  	neg = 0    
+8. Hounsou is superb, b                 ... pos = 1.0   	neg = 0.125
+9. The audience has to                  ... pos = 0.75  	neg = 0.125
+10. Hopkins performance                 ... pos = 1.375 	neg = 0.125
+11. Both are excellent,                 ... pos = 1.25  	neg = 0.0  
+12. Of course, the other                ... pos = 1.0   	neg = 0.0  
+13. Sadly, Freeman is gi                ... pos = 0.125 	neg = 0.75 
+14. It's a shame, as Fre                ... pos = 0.875 	neg = 1.0  
+15. In fact, he hardly s                ... pos = 0.0   	neg = 0.5  
+16. The bad guys are goo                ... pos = 2.375 	neg = 1.375
+17. As usual, it turns o                ... pos = 2.375 	neg = 0.875
+18. Paquin is fun as the                ... pos = 0.125 	neg = 0.125
+19. The script, although                ... pos = 0.5   	neg = 0.125
+20. You can tell what th                ... pos = 1.125 	neg = 0.0  
+21. Advice we have heard                ... pos = 0.5   	neg = 0.125
+22. Sure, it may be in M                ... pos = 0.625 	neg = 0.25 
+23. The costumes, set de                ... pos = 0.625 	neg = 1.125
+24. It isn't as powerful                ... pos = 1.5   	neg = 0.0  
+25. It's a shame, as thi                ... pos = 0.625 	neg = 0.875
+26. The film has other f                ... pos = 0.0   	neg = 0    
+27. The length is horren                ... pos = 0     	neg = 0.75 
+28. This is a very long                 ... pos = 0.5   	neg = 0.5  
+29. In fact, halfway thr                ... pos = 0.0   	neg = 0.0  
+30. Thankfully, there wa                ... pos = 0.875 	neg = 0.25 
+31. It's like this throu                ... pos = 0     	neg = 0.0  
+32. There's a superb sce                ... pos = 1.125 	neg = 0.0  
+33. It never quite reach                ... pos = 1.25  	neg = 0.375
+34. Amistad, overall, is                ... pos = 0.5   	neg = 0.125
+35. It's a shame, becaus                ... pos = 0.0   	neg = 0.75 
+36. It's not bad, but it                ... pos = 0.125 	neg = 0.875
+37. However, despite it'                ... pos = 0.75  	neg = 0.5  
+38. Sadly, though, it's                 ... pos = 0.75  	neg = 0.875
+39. *BEWARE: The film co                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1489-1213 is Positive        ... pos = 27.5  	neg = 13.875
+Overall score of document
+Total Pos = 27.5
+Total Neg = 13.875
+---------------------------------------------------------------------------

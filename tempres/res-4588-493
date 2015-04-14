@@ -1,0 +1,56 @@
+0. EDtv is a comic look                 ... pos = 0.0   	neg = 0.5  
+1. Unfortunately, Ron H                 ... pos = 0.5   	neg = 1.0  
+2. When I first heard a                 ... pos = 0.125 	neg = 0.0  
+3. After the hilarious                  ... pos = 0.25  	neg = 0.0  
+4. Well, after I looked                 ... pos = 0.0   	neg = 0.125
+5. Granted, it was wond                 ... pos = 1.875 	neg = 0.25 
+6. Enter Ron Howard and                 ... pos = 0.0   	neg = 0    
+7. It is not exactly li                 ... pos = 0.125 	neg = 0.125
+8. The star is a man by                 ... pos = 0.0   	neg = 0.125
+9. Unlike The Truman Sh                 ... pos = 0.125 	neg = 0.125
+10. Now, this is SUPPOSE                ... pos = 0.0   	neg = 0.25 
+11. Unfortunately, it is                ... pos = 0.0   	neg = 1.375
+12. EDtv had great poten                ... pos = 0.0   	neg = 0.0  
+13. I went in with a cle                ... pos = 0.375 	neg = 0.75 
+14. I wanted to laugh, I                ... pos = 0     	neg = 0.0  
+15. I sat through all tw                ... pos = 0.125 	neg = 0.5  
+16. How could they screw                ... pos = 0.0   	neg = 0.0  
+17. "  But, they did.                   ... pos = 0     	neg = 0.0  
+18. Even when the wacky                 ... pos = 0.0   	neg = 0.875
+19. That is how bad EDtv                ... pos = 0     	neg = 1.125
+20. This film is star-pa                ... pos = 0.0   	neg = 0.125
+21. I have to give it th                ... pos = 0.0   	neg = 0.0  
+22. You would think that                ... pos = 0.125 	neg = 0.125
+23. If anything, it made                ... pos = 0.0   	neg = 0.625
+24. You wonder how such                 ... pos = 0.0   	neg = 0.625
+25. Jenna Elfman and Woo                ... pos = 0.0   	neg = 0.125
+26. This film is just pl                ... pos = 0.0   	neg = 1.0  
+27. Matt McConaughey pla                ... pos = 0.0   	neg = 0.0  
+28. The camera follows h                ... pos = 0.0   	neg = 0.0  
+29. It is pretty bad at                 ... pos = 0.125 	neg = 1.125
+30. Ed turns out to be s                ... pos = 0.0   	neg = 0.25 
+31. Then his brother, pl                ... pos = 0.75  	neg = 0.0  
+32. Well, they don't.                   ... pos = 0.0   	neg = 0    
+33. It plods along as Ed                ... pos = 0.0   	neg = 0.625
+34. It goes along slowly                ... pos = 1.0   	neg = 0.0  
+35. Still boring.                       ... pos = 0.0   	neg = 0.0  
+36. The only good jokes                 ... pos = 0.875 	neg = 1.0  
+37. It stops right there                ... pos = 0.0   	neg = 0.0  
+38. To top things off, R                ... pos = 0.0   	neg = 1.25 
+39. One thing you never                 ... pos = 0.0   	neg = 0.75 
+40. It is hard enough to                ... pos = 0.0   	neg = 1.5  
+41. Whether it be Ed and                ... pos = 0.75  	neg = 0.375
+42. I see EDtv as a fune                ... pos = 0.0   	neg = 0.0  
+43. They had a good idea                ... pos = 0.75  	neg = 0.0  
+44. Overall, EDtv is jus                ... pos = 0.0   	neg = 1.0  
+45. The idea was great,                 ... pos = 0.0   	neg = 0.875
+46. EDtv should be a les                ... pos = 0.0   	neg = 0.125
+47. But, EDtv does not,                 ... pos = 0.0   	neg = 0.875
+48. Maybe someone will d                ... pos = 0.125 	neg = 0.0  
+49. One Star our of Four                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4588-493 is Negative         ... pos = 8.125 	neg = 19.5 
+Overall score of document
+Total Pos = 8.125
+Total Neg = 19.5
+---------------------------------------------------------------------------

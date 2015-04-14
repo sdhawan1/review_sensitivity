@@ -1,0 +1,47 @@
+0. Starring-Garry Shand                 ... pos = 0.625 	neg = 0.25 
+1. ' changes its settin                 ... pos = 0.125 	neg = 0.0  
+2. In a futuristic audi                 ... pos = 0.0   	neg = 0.125
+3. These men seem to be                 ... pos = 0.75  	neg = 0.125
+4. Their latest target                  ... pos = 0.0   	neg = 0.125
+5. One chosen member of                 ... pos = 0.25  	neg = 0.125
+6. The lucky guy is H14                 ... pos = 1.0   	neg = 0.375
+7. An unexpected side e                 ... pos = 0.375 	neg = 0.0  
+8. And so marks the bas                 ... pos = 0.0   	neg = 0.0  
+9. `What Planet Are You                 ... pos = 0.25  	neg = 0.0  
+10. ' is a pet project t                ... pos = 0.25  	neg = 1.0  
+11. Although it boasts s                ... pos = 0.75  	neg = 0.0  
+12. ' leaves the chalky                 ... pos = 0.0   	neg = 0.125
+13. The film is mundane                 ... pos = 1.375 	neg = 0.125
+14. The cast certainly t                ... pos = 0.375 	neg = 0    
+15. Once on Earth, Harry                ... pos = 0.0   	neg = 0.0  
+16. Susan Hart (Annette                 ... pos = 0.0   	neg = 0.125
+17. Now, back on his dis                ... pos = 0.75  	neg = 0.25 
+18. These methods includ                ... pos = 0.5   	neg = 0.0  
+19. ' Once he finds hims                ... pos = 1.0   	neg = 0.125
+20. Watching side-splitt                ... pos = 0.625 	neg = 0.625
+21. It's unfortunate tha                ... pos = 0.125 	neg = 0.0  
+22. And multiple subplot                ... pos = 1.25  	neg = 0.25 
+23. Even when it does sh                ... pos = 1.875 	neg = 0.125
+24. ' is sweet and innoc                ... pos = 0.0   	neg = 0.875
+25. But at the same time                ... pos = 0.5   	neg = 0.625
+26. Numerous loose ends                 ... pos = 1.0   	neg = 0.625
+27. Luckily, the enjoyab                ... pos = 1.875 	neg = 0.125
+28. Kinnear reverses per                ... pos = 0.875 	neg = 0.125
+29. The only certified s                ... pos = 0.75  	neg = 0.875
+30. Believe it or not, S                ... pos = 0.625 	neg = 0.0  
+31. The lack of progress                ... pos = 3.125 	neg = 0.25 
+32. They amplify the oth                ... pos = 0.25  	neg = 0.0  
+33. ' to enjoyable roman                ... pos = 0.75  	neg = 0.0  
+34. In certain spots, it                ... pos = 0.125 	neg = 0.0  
+35. It would be the over                ... pos = 0.5   	neg = 0.375
+36. No, it's the fact th                ... pos = 0.5   	neg = 0.5  
+37. The only otherworldl                ... pos = 0.25  	neg = 0.875
+38. ' is that, with such                ... pos = 0.25  	neg = 0.125
+39. Your Comments Apprec                ... pos = 0     	neg = 0.0  
+40. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3994-693 is Positive         ... pos = 23.625 	neg = 9.25 
+Overall score of document
+Total Pos = 23.625
+Total Neg = 9.25
+---------------------------------------------------------------------------

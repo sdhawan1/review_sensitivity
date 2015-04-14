@@ -1,0 +1,23 @@
+0. 28th September 1999:                 ... pos = 1.5   	neg = 0.125
+1. She is a perfect stu                 ... pos = 0.625 	neg = 0.125
+2. And her teacher, Jim                 ... pos = 1.875 	neg = 0.25 
+3. The high-school elec                 ... pos = 0.5   	neg = 0.25 
+4. Mr. McAllister doesn                 ... pos = 0.0   	neg = 0.25 
+5. Soon, a third candid                 ... pos = 0.0   	neg = 0.25 
+6. Tracy is not best pl                 ... pos = 1.0   	neg = 0.125
+7. As the election camp                 ... pos = 1.75  	neg = 0.875
+8. Matthew Broderick is                 ... pos = 0.0   	neg = 0.25 
+9. But the film belongs                 ... pos = 0.875 	neg = 0.125
+10. Her performance as T                ... pos = 0.0   	neg = 0.125
+11. And when Miss Flick                 ... pos = 0.25  	neg = 0.75 
+12. Simply but effective                ... pos = 2.0   	neg = 0.125
+13. It's quite disheartn                ... pos = 0.0   	neg = 0.0  
+14. I can't imagine anyo                ... pos = 0.75  	neg = 0.5  
+15. It's a gem of a movi                ... pos = 0.25  	neg = 0.125
+16. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4362-312 is Positive         ... pos = 12.375 	neg = 4.25 
+Overall score of document
+Total Pos = 12.375
+Total Neg = 4.25
+---------------------------------------------------------------------------

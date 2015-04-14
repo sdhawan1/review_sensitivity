@@ -1,0 +1,61 @@
+0. An elderly man stepp                 ... pos = 0.0   	neg = 0.0  
+1. He finds one particu                 ... pos = 0.0   	neg = 0.25 
+2. Suddenly we're trans                 ... pos = 0.0   	neg = 0.125
+3. Landing crafts are b                 ... pos = 0.5   	neg = 0    
+4. Men are silently pra                 ... pos = 0.875 	neg = 0.0  
+5. A shaking hand is re                 ... pos = 0.125 	neg = 0.125
+6. "30 seconds...God be                 ... pos = 0     	neg = 0.125
+7. A soldier kissing a                  ... pos = 0.5   	neg = 0.0  
+8. The unprepared soldi                 ... pos = 0.75  	neg = 0.0  
+9. Now the camera, mast                 ... pos = 0.25  	neg = 0.125
+10. Chaotic flashes of l                ... pos = 1.5   	neg = 0.75 
+11. Some of these scenes                ... pos = 0.375 	neg = 0.0  
+12. A soldier picking up                ... pos = 0.0   	neg = 0.625
+13. A German bullet fire                ... pos = 0.125 	neg = 0.375
+14. Another soldier, a y                ... pos = 0.75  	neg = 0.25 
+15. Burning men thrown m                ... pos = 0.0   	neg = 0.0  
+16. Whether you live or                 ... pos = 0.0   	neg = 0.25 
+17. Severed heads, limbs                ... pos = 0.625 	neg = 0.125
+18. No one dies heroical                ... pos = 0.25  	neg = 0.375
+19. There are no John Wa                ... pos = 0.25  	neg = 0.25 
+20. These soldiers are o                ... pos = 1.625 	neg = 0    
+21. When ends with succe                ... pos = 0.75  	neg = 0.0  
+22. The sea water is red                ... pos = 0.25  	neg = 0.25 
+23. And while the majest                ... pos = 0.625 	neg = 0.75 
+24. This is the beginnin                ... pos = 1.125 	neg = 0.125
+25. Slowly the plot begi                ... pos = 0.0   	neg = 0.0  
+26. Capt.John Miller ( T                ... pos = 1.75  	neg = 0.625
+27. Ryan is a paratroope                ... pos = 0.0   	neg = 1.0  
+28. Miller's men openly                 ... pos = 0.125 	neg = 0.875
+29. As they move deeper                 ... pos = 0.75  	neg = 0.25 
+30. Should they save a l                ... pos = 0.0   	neg = 0.25 
+31. Should they execute                 ... pos = 0.125 	neg = 0.0  
+32. Actually the whole f                ... pos = 0.0   	neg = 0.125
+33. You can say that the                ... pos = 0.5   	neg = 0.125
+34. But it is extremely                 ... pos = 0.875 	neg = 0.5  
+35. The cast could not b                ... pos = 0.75  	neg = 0.25 
+36. Spielberg has master                ... pos = 0.5   	neg = 0.0  
+37. We get a peek into t                ... pos = 0.625 	neg = 0.0  
+38. This makes it extrem                ... pos = 1.25  	neg = 1.25 
+39. The visuals are brea                ... pos = 1.5   	neg = 0    
+40. Incredibly original                 ... pos = 0.25  	neg = 0.75 
+41. This creates a much                 ... pos = 0.625 	neg = 0.0  
+42. Tom Sanders' histori                ... pos = 0.125 	neg = 0.625
+43. Sanders has been ver                ... pos = 1.0   	neg = 0.125
+44. The dramatic score b                ... pos = 1.0   	neg = 1.125
+45. Williams' work in "A                ... pos = 0.5   	neg = 0.0  
+46. The sound is as noth                ... pos = 0.125 	neg = 0.5  
+47. The visual effects a                ... pos = 0.5   	neg = 0.25 
+48. But in comparison to                ... pos = 3.25  	neg = 0.25 
+49. When the film ended                 ... pos = 0.0   	neg = 0.375
+50. "Saving Private Ryan                ... pos = 0.875 	neg = 0.25 
+51. Its achievement lies                ... pos = 0.5   	neg = 0.0  
+52. It's a monument to t                ... pos = 0.0   	neg = 0.0  
+53. It's purpose is not                 ... pos = 0.5   	neg = 0.375
+54. "Saving Private Ryan                ... pos = 1.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2471-657 is Positive         ... pos = 30.25 	neg = 14.875
+Overall score of document
+Total Pos = 30.25
+Total Neg = 14.875
+---------------------------------------------------------------------------

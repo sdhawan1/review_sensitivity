@@ -1,0 +1,42 @@
+0. Starring: Ashley Jud                 ... pos = 0.375 	neg = 0.0  
+1. Rated R for violence                 ... pos = 0.125 	neg = 0.0  
+2. Underrated movies ar                 ... pos = 0.375 	neg = 0.0  
+3. 1998's 'Hope Floats'                 ... pos = 1.0   	neg = 0.25 
+4. We always get films                  ... pos = 0.0   	neg = 0.0  
+5. This year 'Double Je                 ... pos = 0.0   	neg = 0.125
+6. Critics are calling                  ... pos = 0.5   	neg = 1.125
+7. But as I viewed 'Dou                 ... pos = 1.5   	neg = 0.375
+8. The always wonderful                 ... pos = 2.625 	neg = 0.0  
+9. Her husband Nick Par                 ... pos = 0.0   	neg = 0.25 
+10. After a night of bli                ... pos = 0.0   	neg = 0.25 
+11. Of course being in s                ... pos = 0.25  	neg = 0.0  
+12. However she isn't im                ... pos = 1.375 	neg = 0.25 
+13. She pleads not-guilt                ... pos = 0.0   	neg = 0.75 
+14. While making a phone                ... pos = 0.75  	neg = 0.0  
+15. She realizes she mus                ... pos = 0.5   	neg = 0.625
+16. Which means she can                 ... pos = 0.0   	neg = 0.0  
+17. After she gets out s                ... pos = 0.0   	neg = 0.0  
+18. He is a man who has                 ... pos = 0.0   	neg = 1.0  
+19. While out for the da                ... pos = 0.25  	neg = 0.0  
+20. Whatever happens the                ... pos = 1.0   	neg = 0.125
+21. I found the writing                 ... pos = 0.0   	neg = 0.125
+22. Ashley Judd is such                 ... pos = 1.25  	neg = 0.25 
+23. Even if you know wha                ... pos = 0.0   	neg = 0.125
+24. This is one of those                ... pos = 0.25  	neg = 0.25 
+25. It could be one way                 ... pos = 0.0   	neg = 0.375
+26. The movie is highly                 ... pos = 1.25  	neg = 0.125
+27. It gets most of it's                ... pos = 1.0   	neg = 0.0  
+28. The characters are w                ... pos = 1.75  	neg = 0    
+29. Even though a lot of                ... pos = 0.5   	neg = 0.0  
+30. The director took hi                ... pos = 0.0   	neg = 0.0  
+31. I found it not to be                ... pos = 0.25  	neg = 0.125
+32. It moved at a fast p                ... pos = 0.25  	neg = 0.125
+33. It earns it's right                 ... pos = 0.0   	neg = 0.25 
+34. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+35. Brandon Herring Movi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5789-1102 is Positive        ... pos = 17.25 	neg = 6.875
+Overall score of document
+Total Pos = 17.25
+Total Neg = 6.875
+---------------------------------------------------------------------------

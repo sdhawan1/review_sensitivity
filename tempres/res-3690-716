@@ -1,0 +1,34 @@
+0. RUN LOLA RUN should                  ... pos = 0.0   	neg = 0.25 
+1. Here is a film that                  ... pos = 1.75  	neg = 0.375
+2. The premise is about                 ... pos = 0.0   	neg = 0.125
+3. Lola (Franka Potente                 ... pos = 0.25  	neg = 0.125
+4. Certain that he will                 ... pos = 0.25  	neg = 0.125
+5. Lola begs him to  wa                 ... pos = 0.0   	neg = 0.0  
+6. Since her  bicycle h                 ... pos = 0.0   	neg = 0.125
+7. All of this expositi                 ... pos = 0.125 	neg = 0.0  
+8. Following that, writ                 ... pos = 0.75  	neg = 0.0  
+9. Suffice it  to say t                 ... pos = 0.125 	neg = 0.0  
+10. I would estimate tha                ... pos = 0.75  	neg = 0.25 
+11. Tykwer has a particu                ... pos = 0.125 	neg = 0.375
+12. More often, it's  fo                ... pos = 1.125 	neg = 0.0  
+13. But his methods are                 ... pos = 1.375 	neg = 0.625
+14. The most interesting                ... pos = 0.375 	neg = 0.125
+15. In each, there are a                ... pos = 0.5   	neg = 0.25 
+16. For example, in both                ... pos = 0.125 	neg = 0.0  
+17. As a result, the tim                ... pos = 0.333 	neg = 0.0  
+18. Thus his reaction to                ... pos = 0.375 	neg = 0.625
+19. Tykwer also employs                 ... pos = 0.5   	neg = 0.125
+20. These are also somet                ... pos = 1.0   	neg = 0.0  
+21. I've grown somewhat                 ... pos = 1.0   	neg = 0.25 
+22. It is when Lola  and                ... pos = 0.875 	neg = 0.25 
+23. Two wrongs don't mak                ... pos = 0.875 	neg = 0.375
+24. This is not to say t                ... pos = 0.875 	neg = 0.25 
+25. It isn't the most in                ... pos = 0.5   	neg = 1.375
+26. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+27. http://members.aol.c                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3690-716 is Positive         ... pos = 13.958 	neg = 6.0  
+Overall score of document
+Total Pos = 13.958
+Total Neg = 6.0
+---------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+0. *** (out of 4) "What                 ... pos = 0.0   	neg = 0.0  
+1. ". That's what my fr                 ... pos = 0.25  	neg = 0.0  
+2. Roberts brings warmt                 ... pos = 1.125 	neg = 0.625
+3. ERIN   BROCKOVICH ta                 ... pos = 0.375 	neg = 0.0  
+4. You might say it's                   ... pos = 0.125 	neg = 1.0  
+5. What it has instead                  ... pos = 0.0   	neg = 0.125
+6. Erin Brockovich (Rob                 ... pos = 0.0   	neg = 0.125
+7. She's a single mothe                 ... pos = 0.375 	neg = 0.0  
+8. Unfortunately, nobod                 ... pos = 0.125 	neg = 0.875
+9. Her Toyota gets side                 ... pos = 0.125 	neg = 0.0  
+10. But Erin does so bad                ... pos = 0.25  	neg = 0.25 
+11. Desperate and angry,                ... pos = 0.375 	neg = 0.75 
+12. Roberts reuses her l                ... pos = 0.25  	neg = 0.125
+13. Erin's gaudy and rev                ... pos = 0.0   	neg = 0.375
+14. Being a poor, single                ... pos = 2.125 	neg = 0.5  
+15. Erin notices somethi                ... pos = 0.5   	neg = 0.0  
+16. Medical records have                ... pos = 0.125 	neg = 0.0  
+17. Instead of doing her                ... pos = 0.125 	neg = 0.0  
+18. She gets Masry's vag                ... pos = 0.5   	neg = 0.125
+19. After a few days' wo                ... pos = 0.25  	neg = 0.125
+20. Pacific Gas & Electr                ... pos = 0.0   	neg = 0.125
+21. Back at the office,                 ... pos = 0.0   	neg = 0.0  
+22. He can't remember gi                ... pos = 0.375 	neg = 0.0  
+23. But Erin shows him t                ... pos = 0.125 	neg = 0.0  
+24. Erin's got such a wi                ... pos = 0.125 	neg = 0.0  
+25. Albert Finney does a                ... pos = 0.125 	neg = 0.0  
+26. His character could                 ... pos = 1.5   	neg = 0.125
+27. He knows this is Rob                ... pos = 0.0   	neg = 0.125
+28. Julia Roberts single                ... pos = 0.0   	neg = 0.0  
+29. She has a great scre                ... pos = 1.0   	neg = 0.0  
+30. One moment she's tel                ... pos = 0.125 	neg = 0.0  
+31. (I mention the latte                ... pos = 0.0   	neg = 0.75 
+32. ). Some of Roberts'                 ... pos = 0.0   	neg = 0.125
+33. Some of the costumes                ... pos = 0.25  	neg = 0.25 
+34. But before long, Eri                ... pos = 0.375 	neg = 0.375
+35. Because it was worke                ... pos = 1.0   	neg = 0.25 
+36. The production desig                ... pos = 0.875 	neg = 0.125
+37. When you see a movie                ... pos = 0.625 	neg = 0.0  
+38. But ERIN BROCKOVICH                 ... pos = 1.125 	neg = 0.25 
+39. Masry's office looks                ... pos = 0.125 	neg = 0.5  
+40. Erin drives a dusty                 ... pos = 0.125 	neg = 1.375
+41. There is a subplot i                ... pos = 0.0   	neg = 0.125
+42. A minor romance deve                ... pos = 0.25  	neg = 0    
+43. It's not much, and i                ... pos = 0.125 	neg = 0.125
+44. The movie probably s                ... pos = 1.0   	neg = 0.5  
+45. If you're looking fo                ... pos = 0.625 	neg = 0.0  
+46. There are appropriat                ... pos = 0.25  	neg = 0.125
+47. The steady pace of i                ... pos = 0.75  	neg = 0.0  
+48. Also, the music has                 ... pos = 1.125 	neg = 0.375
+49. But really, ERIN BRO                ... pos = 0.0   	neg = 0.125
+50. The plot and the dia                ... pos = 0.625 	neg = 0.5  
+51. It may have a seriou                ... pos = 0.375 	neg = 0.125
+52. So it is to Julia Ro                ... pos = 0.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-2945-1008 is Positive        ... pos = 20.375 	neg = 11.75
+Overall score of document
+Total Pos = 20.375
+Total Neg = 11.75
+---------------------------------------------------------------------------

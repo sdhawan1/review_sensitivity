@@ -1,0 +1,17 @@
+0. The Happy Bastard's                  ... pos = 2.0   	neg = 0.0  
+1. One day she wanders                  ... pos = 0.0   	neg = 0.375
+2. Sure, there are poin                 ... pos = 1.75  	neg = 1.25 
+3. It's a fresh sort of                 ... pos = 2.375 	neg = 0.0  
+4. Roberts is terrific                  ... pos = 2.75  	neg = 0.75 
+5. In short, a sweet ro                 ... pos = 1.0   	neg = 0.0  
+6. One tee-shirt really                 ... pos = 0.0   	neg = 0.0  
+7. In an attempt to tur                 ... pos = 1.0   	neg = 0.0  
+8. "  On the back?                      ... pos = 0.0   	neg = 0.0  
+9. "Fancy a f**k?                       ... pos = 0.0   	neg = 0    
+10. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4594-1292 is Positive        ... pos = 10.875 	neg = 2.375
+Overall score of document
+Total Pos = 10.875
+Total Neg = 2.375
+---------------------------------------------------------------------------

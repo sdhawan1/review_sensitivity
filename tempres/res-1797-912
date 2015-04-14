@@ -1,0 +1,51 @@
+0. CrankyCriticŽ movie                 ... pos = 0.125 	neg = 0.125
+1. OK, that gets the Cr                 ... pos = 0.5   	neg = 0.25 
+2. Sofia's opening gamb                 ... pos = 0.375 	neg = 0.25 
+3. While you know how i                 ... pos = 0.5   	neg = 0.0  
+4. For those of us past                 ... pos = 0.75  	neg = 0.0  
+5. [not me of course...                 ... pos = 0     	neg = 0.0  
+6. I had to hit college                 ... pos = 1.25  	neg = 0.75 
+7. Mom (Kathleen Turner                 ... pos = 0.0   	neg = 0.125
+8. Dad (James Woods) is                 ... pos = 0.25  	neg = 0.125
+9. The young ladies --                  ... pos = 0.875 	neg = 0.25 
+10. Lux Lisbon (Dunst) i                ... pos = 0.0   	neg = 0.25 
+11. All you need is Dono                ... pos = 0.625 	neg = 0.25 
+12. Five boys, distant a                ... pos = 0.875 	neg = 0.0  
+13. By keeping most of t                ... pos = 0.625 	neg = 0.0  
+14. The sisters all atte                ... pos = 0.0   	neg = 0    
+15. They don't go to dan                ... pos = 0.0   	neg = 0.0  
+16. They don't date.                    ... pos = 0.125 	neg = 0    
+17. They don't go out, p                ... pos = 0.125 	neg = 0.0  
+18. They rarely do much                 ... pos = 0.125 	neg = 0.0  
+19. Being so unreachable                ... pos = 1.25  	neg = 0.0  
+20. The sole male to mak                ... pos = 0.0   	neg = 1.125
+21. As our narrator (voi                ... pos = 0.5   	neg = 0.75 
+22. This unexpected beha                ... pos = 0.375 	neg = 0.0  
+23. The age appropriate                 ... pos = 0.375 	neg = 0.0  
+24. While the parents ar                ... pos = 0.75  	neg = 0.125
+25. " Even as Lux leads                 ... pos = 0.625 	neg = 0.25 
+26. .                                   ... pos = 0     	neg = 0    
+27. .                                   ... pos = 0     	neg = 0    
+28. which means that I'm                ... pos = 0.375 	neg = 0.0  
+29. Cranky should point                 ... pos = 0.0   	neg = 0.5  
+30. Still, the cast and                 ... pos = 0.0   	neg = 0.375
+31. Dunst continues her                 ... pos = 0.0   	neg = 0.25 
+32. While it's easy to p                ... pos = 0.25  	neg = 0.875
+33. The Virgin Suicides                 ... pos = 0.375 	neg = 0.125
+34. I should point out t                ... pos = 0.0   	neg = 0.5  
+35. So we get an artsy-f                ... pos = 0.0   	neg = 0.0  
+36. Coppola makes no exc                ... pos = 0.0   	neg = 0.25 
+37. We know the girls ar                ... pos = 0.25  	neg = 0.0  
+38. The exact reasons wh                ... pos = 0.25  	neg = 0.0  
+39. Discussion is inevit                ... pos = 0.0   	neg = 0.125
+40. On average, a first                 ... pos = 0.25  	neg = 0.0  
+41. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+42. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+43. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+44. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1797-912 is Positive         ... pos = 13.125 	neg = 7.875
+Overall score of document
+Total Pos = 13.125
+Total Neg = 7.875
+---------------------------------------------------------------------------

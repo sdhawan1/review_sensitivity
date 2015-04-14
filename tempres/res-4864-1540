@@ -1,0 +1,39 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by Nicholas                  ... pos = 0.0   	neg = 0.0  
+2. Photographed by Phil                 ... pos = 0.0   	neg = 0.0  
+3. "Bicentennial Man" m                 ... pos = 0.375 	neg = 0.875
+4. Its premise is one t                 ... pos = 0.125 	neg = 0.25 
+5. Robin Williams stars                 ... pos = 0.625 	neg = 0.0  
+6. Remember the maid in                 ... pos = 0.125 	neg = 0.0  
+7. Just like  that.                     ... pos = 0     	neg = 0.0  
+8. Andrew is bought by                  ... pos = 2.0   	neg = 0.625
+9. The businessman is k                 ... pos = 0.125 	neg = 0.125
+10. He converses with th                ... pos = 0.125 	neg = 0.625
+11. The man allows Andre                ... pos = 0.0   	neg = 0.375
+12. Time moves on, the m                ... pos = 0.0   	neg = 0.0  
+13. Andrew, immortal of                 ... pos = 0.5   	neg = 0.0  
+14. He searches the glob                ... pos = 0.875 	neg = 0.0  
+15. This is a grand jour                ... pos = 0.375 	neg = 0.125
+16. So "Bicentennial Man                ... pos = 1.375 	neg = 0.25 
+17. With no strong struc                ... pos = 0.5   	neg = 0.75 
+18. Like "D.A.R.Y.L.                    ... pos = 0.0   	neg = 0.0  
+19. ",  "Bicentennial Ma                ... pos = 2.5   	neg = 0.125
+20. A  computer is a dev                ... pos = 0.375 	neg = 0.25 
+21. Of  all the movies a                ... pos = 0.375 	neg = 0.0  
+22. So what did I get ou                ... pos = 0     	neg = 0.0  
+23. Well, it features pl                ... pos = 0.375 	neg = 0.0  
+24. The joke doesn't wea                ... pos = 1.0   	neg = 0.25 
+25. I also loved the vis                ... pos = 0.5   	neg = 0.75 
+26. It takes a stunningl                ... pos = 1.75  	neg = 0.0  
+27. While the wretchedne                ... pos = 1.375 	neg = 0.75 
+28. I dreaded  a mawkish                ... pos = 1.875 	neg = 0.25 
+29. The brief, impersona                ... pos = 0.375 	neg = 0.0  
+30. Funny.                              ... pos = 0     	neg = 0.0  
+31. Andrew probably  exp                ... pos = 0.875 	neg = 0    
+32. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4864-1540 is Positive        ... pos = 18.75 	neg = 6.5  
+Overall score of document
+Total Pos = 18.75
+Total Neg = 6.5
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. In the sweltering su                 ... pos = 0.375 	neg = 0.5  
+1. Although the killer                  ... pos = 0.0   	neg = 1.125
+2. It is the year of Sa                 ... pos = 0.0   	neg = 0.125
+3. Philandering hairdre                 ... pos = 0.375 	neg = 0.875
+4. They live in a Bronx                 ... pos = 0.125 	neg = 1.75 
+5. Certain sequences, s                 ... pos = 1.5   	neg = 0.125
+6. Ritchie is an intere                 ... pos = 1.375 	neg = 0.5  
+7. The character is a l                 ... pos = 1.125 	neg = 0.375
+8. And this is a long f                 ... pos = 0.0   	neg = 0.5  
+9. The characters must                  ... pos = 1.625 	neg = 0.0  
+10. I suppose the film w                ... pos = 0.625 	neg = 0.5  
+11. It is possible that                 ... pos = 3.125 	neg = 1.0  
+12. With Summer of Sam's                ... pos = 0.75  	neg = 0.125
+13. Despite some good pe                ... pos = 0.75  	neg = 0.125
+14. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1257-312 is Positive         ... pos = 12.75 	neg = 7.625
+Overall score of document
+Total Pos = 12.75
+Total Neg = 7.625
+---------------------------------------------------------------------------

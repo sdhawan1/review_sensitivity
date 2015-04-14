@@ -1,0 +1,38 @@
+0. What is freedom?                     ... pos = 0.0   	neg = 0.125
+1. How does one determi                 ... pos = 0.0   	neg = 0.125
+2. In 1839, those  ques                 ... pos = 0.25  	neg = 0.125
+3. Yet, the  mistakes o                 ... pos = 0.25  	neg = 0.75 
+4. That is, in essence,                 ... pos = 0.375 	neg = 0.25 
+5. Through its various                  ... pos = 0.625 	neg = 0.125
+6. On their way there,                  ... pos = 0.0   	neg = 0.625
+7. However, the ship wa                 ... pos = 0.375 	neg = 0.25 
+8. In the court, variou                 ... pos = 0.25  	neg = 0.0  
+9. The United States go                 ... pos = 0.625 	neg = 0.0  
+10. The two  Spaniards w                ... pos = 0.0   	neg = 0.125
+11. The  American ship t                ... pos = 0.125 	neg = 0    
+12. In the midst of  thi                ... pos = 0.25  	neg = 0.25 
+13. They enlist the help                ... pos = 0.0   	neg = 0.5  
+14. Through various lega                ... pos = 0.125 	neg = 0.125
+15. The film itself is a                ... pos = 0.0   	neg = 0.125
+16. Spielberg favorite J                ... pos = 0.125 	neg = 0.0  
+17. At times, the film i                ... pos = 1.75  	neg = 0.125
+18. However, Spielberg i                ... pos = 0.625 	neg = 0.125
+19. The film is, in  ess                ... pos = 0.375 	neg = 0.125
+20. The  characterizatio                ... pos = 1.0   	neg = 0.625
+21. But Spielberg's fine                ... pos = 0.375 	neg = 0.125
+22. It is this emotional                ... pos = 0.375 	neg = 0.125
+23. McConaughey is super                ... pos = 2.25  	neg = 0.625
+24. The movie, however,                 ... pos = 0.125 	neg = 0.0  
+25. His emotional  inten                ... pos = 1.25  	neg = 0.125
+26. Spielberg manages to                ... pos = 1.375 	neg = 0.125
+27. The film is flawed,                 ... pos = 1.5   	neg = 0.125
+28. But that doesn't mat                ... pos = 0.0   	neg = 0.0  
+29. The story is a  grip                ... pos = 1.25  	neg = 0.125
+30. Kudos to Spielberg f                ... pos = 0.0   	neg = 0.0  
+31. A good job all aroun                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1489-1484 is Positive        ... pos = 16.375 	neg = 5.875
+Overall score of document
+Total Pos = 16.375
+Total Neg = 5.875
+---------------------------------------------------------------------------

@@ -1,0 +1,65 @@
+0. **1/2 (out of 4) I w                 ... pos = 0.0   	neg = 0.25 
+1. But if he had to mak                 ... pos = 0.0   	neg = 0.25 
+2. THE HAUNTING is the                  ... pos = 0.0   	neg = 0.25 
+3. " The 1963 version,                  ... pos = 0.125 	neg = 0.875
+4. A well-written scrip                 ... pos = 0.0   	neg = 0.5  
+5. This year's version                  ... pos = 0.75  	neg = 0.125
+6. It lacks the finesse                 ... pos = 0.125 	neg = 0.125
+7. Nevertheless, some o                 ... pos = 0.5   	neg = 0.0  
+8. After a melodramatic                 ... pos = 0.0   	neg = 0.75 
+9. Marrow (Liam Neeson)                 ... pos = 0.125 	neg = 0.875
+10. In fact, his insomni                ... pos = 0.625 	neg = 0.0  
+11. The doctor hopes to                 ... pos = 0.625 	neg = 0.0  
+12. Nell (Lili Taylor) i                ... pos = 0.125 	neg = 0.125
+13. Her mother has just                 ... pos = 0.0   	neg = 0.0  
+14. Theo (Catherine Zeta                ... pos = 1.0   	neg = 0.875
+15. Luke (Owen Wilson) i                ... pos = 1.125 	neg = 0.125
+16. Dr.                                 ... pos = 0     	neg = 0    
+17. Marrow sets things i                ... pos = 0.25  	neg = 0.0  
+18. To really give the h                ... pos = 0.0   	neg = 0.0  
+19. Like De Bont's other                ... pos = 0.75  	neg = 1.0  
+20. Both SPEED and TWIST                ... pos = 1.0   	neg = 0.5  
+21. But both had sub-par                ... pos = 0.0   	neg = 0.0  
+22. Likewise, THE HAUNTI                ... pos = 0.75  	neg = 0.875
+23. I already mentioned                 ... pos = 0.0   	neg = 0.0  
+24. The other bad writin                ... pos = 0.0   	neg = 1.125
+25. Dr.                                 ... pos = 0     	neg = 0    
+26. Marrow is "arguing"                 ... pos = 0.5   	neg = 0.125
+27. The "argument" is ac                ... pos = 0     	neg = 0.125
+28. It is written so obt                ... pos = 0.75  	neg = 0.125
+29. Also, Marrow's chara                ... pos = 0.875 	neg = 1.0  
+30. His study on fear is                ... pos = 0.375 	neg = 0.125
+31. No self-respecting,                 ... pos = 0.375 	neg = 0.5  
+32. Sure, those studies                 ... pos = 0.25  	neg = 0.25 
+33. Later, Marrow says t                ... pos = 1.125 	neg = 0    
+34. On the surface, that                ... pos = 0.75  	neg = 0.5  
+35. ) should know better                ... pos = 0     	neg = 0.0  
+36. But once the movie g                ... pos = 0.125 	neg = 0.875
+37. The house is a huge,                ... pos = 0.75  	neg = 0.25 
+38. Every wall, floor, a                ... pos = 0.0   	neg = 0.125
+39. Sculptures, engravin                ... pos = 0.125 	neg = 0.0  
+40. The detail of the fu                ... pos = 0.375 	neg = 0.25 
+41. Figures are dwarfed                 ... pos = 0.25  	neg = 0.125
+42. Great paintings look                ... pos = 0.0   	neg = 0.375
+43. The walk-in fireplac                ... pos = 0.0   	neg = 0.0  
+44. (The combination of                 ... pos = 0.25  	neg = 0.125
+45. ). Clearly the overa                ... pos = 1.375 	neg = 0.5  
+46. But the big question                ... pos = 0.0   	neg = 0.875
+47. I think the 1963 ver                ... pos = 0.0   	neg = 0.125
+48. For one thing, it ne                ... pos = 0.0   	neg = 0.125
+49. The unseen, unexplai                ... pos = 0.75  	neg = 0.375
+50. (THE BLAIR WITCH PRO                ... pos = 0.5   	neg = 0.25 
+51. ) You can't show a g                ... pos = 0.125 	neg = 0.125
+52. When you start expla                ... pos = 1.25  	neg = 0.5  
+53. Compared to the orig                ... pos = 0.375 	neg = 0.25 
+54. But that's not to sa                ... pos = 0.0   	neg = 0.75 
+55. There are scenes of                 ... pos = 0.75  	neg = 0.5  
+56. The horror wasn't 10                ... pos = 1.0   	neg = 0.625
+57. But when that was th                ... pos = 0.75  	neg = 0.375
+58. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4533-1008 is Positive        ... pos = 21.625 	neg = 18.875
+Overall score of document
+Total Pos = 21.625
+Total Neg = 18.875
+---------------------------------------------------------------------------

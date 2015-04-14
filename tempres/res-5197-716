@@ -1,0 +1,27 @@
+0. I must admit that I                  ... pos = 2.0   	neg = 0.625
+1. The only problem is                  ... pos = 0.375 	neg = 0.875
+2. Professor Lambeau (S                 ... pos = 0.25  	neg = 0.5  
+3. This sounds like the                 ... pos = 2.25  	neg = 0.625
+4. A conflict gradually                 ... pos = 1.125 	neg = 0.125
+5. Will finds that the                  ... pos = 0.625 	neg = 0.125
+6. He also has his shar                 ... pos = 0.125 	neg = 0.375
+7. What makes "Good Wil                 ... pos = 1.0   	neg = 0.125
+8. The script's sympath                 ... pos = 0.125 	neg = 1.125
+9. Lambeau, while he ma                 ... pos = 1.75  	neg = 0.375
+10. And Sean, for all hi                ... pos = 0.625 	neg = 0.125
+11. Will's reaction to t                ... pos = 1.375 	neg = 0.75 
+12. For a film with such                ... pos = 3.625 	neg = 0.125
+13. This film gives us r                ... pos = 0.375 	neg = 0.125
+14. "Good Will Hunting"                 ... pos = 0.625 	neg = 0.375
+15. And in the one scene                ... pos = 0.375 	neg = 0.875
+16. Will's relationship                 ... pos = 2.125 	neg = 0.25 
+17. Add all this to the                 ... pos = 1.5   	neg = 1.25 
+18. Well, for one thing,                ... pos = 0.5   	neg = 1.0  
+19. There are also a few                ... pos = 0.875 	neg = 0.75 
+20. Still, "Good Will Hu                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5197-716 is Positive         ... pos = 22.0  	neg = 10.625
+Overall score of document
+Total Pos = 22.0
+Total Neg = 10.625
+---------------------------------------------------------------------------

@@ -1,0 +1,47 @@
+0. What Planet Are You                  ... pos = 0.25  	neg = 0.0  
+1. Reviewed by Christia                 ... pos = 0.125 	neg = 0.75 
+2. However, they haven'                 ... pos = 0.75  	neg = 0.75 
+3. (If this works, they                 ... pos = 0.125 	neg = 0.25 
+4. The alien operative                  ... pos = 0.0   	neg = 0.0  
+5. His slimy co-worker                  ... pos = 0.0   	neg = 0.5  
+6. There they meet Susa                 ... pos = 0.25  	neg = 0.0  
+7. The aliens have an u                 ... pos = 0.125 	neg = 0.0  
+8. So, while Harold see                 ... pos = 0.5   	neg = 0.125
+9. Although skeptical a                 ... pos = 0.625 	neg = 0.0  
+10. On their first date,                ... pos = 0.25  	neg = 0.25 
+11. The next time he see                ... pos = 0.0   	neg = 0.0  
+12. After some deliberat                ... pos = 0.5   	neg = 0.625
+13. Even as he moves clo                ... pos = 0.25  	neg = 0.0  
+14. Will he be able to l                ... pos = 0.25  	neg = 0.25 
+15. >From "The Graduate"                ... pos = 0.0   	neg = 0.0  
+16. The laughs in "What                 ... pos = 0.25  	neg = 0.0  
+17. " come in clumps sep                ... pos = 0.0   	neg = 0.0  
+18. The script by Shandl                ... pos = 0.0   	neg = 0.125
+19. It benefits from the                ... pos = 0.375 	neg = 0.375
+20. Several of the funni                ... pos = 0.75  	neg = 0.125
+21. For example, Harold'                ... pos = 0.25  	neg = 0.0  
+22. The first time aroun                ... pos = 0.125 	neg = 0.625
+23. In the varied ensemb                ... pos = 0.0   	neg = 0.0  
+24. She plays her part o                ... pos = 0.0   	neg = 0.125
+25. As a result, Susan i                ... pos = 0.875 	neg = 0.125
+26. Although the men get                ... pos = 1.375 	neg = 0.0  
+27. Caroline Aaron is hi                ... pos = 1.125 	neg = 0.625
+28. Linda Fiorentino pla                ... pos = 0.375 	neg = 0.125
+29. Nobody can play a se                ... pos = 0.375 	neg = 0.0  
+30. Despite having starr                ... pos = 0.0   	neg = 0.0  
+31. He can deliver funny                ... pos = 1.5   	neg = 0.0  
+32. This flaw doesn't bo                ... pos = 0.0   	neg = 0.125
+33. Speaking of supporti                ... pos = 0.375 	neg = 0.0  
+34. .                                   ... pos = 0     	neg = 0    
+35. .                                   ... pos = 0     	neg = 0    
+36. Greg Kinnear and Ben                ... pos = 0.25  	neg = 0.0  
+37. They both try hard b                ... pos = 1.625 	neg = 0.75 
+38. I especially hope to                ... pos = 0.375 	neg = 0.0  
+39. He proved his talent                ... pos = 0.75  	neg = 0.125
+40. Bottom Line:  A hand                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3994-1265 is Positive        ... pos = 15.625 	neg = 6.75 
+Overall score of document
+Total Pos = 15.625
+Total Neg = 6.75
+---------------------------------------------------------------------------

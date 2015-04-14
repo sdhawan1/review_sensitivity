@@ -1,0 +1,43 @@
+0. MOVIE VIEWS by Jamey                 ... pos = 0.375 	neg = 0.0  
+1. Scream surprised aud                 ... pos = 1.375 	neg = 0.0  
+2. Unknown scribe Kevin                 ... pos = 0.0   	neg = 0.25 
+3. After the renowned p                 ... pos = 1.0   	neg = 0.0  
+4. But none captured th                 ... pos = 0.125 	neg = 0.0  
+5. So what's Williamson                 ... pos = 0.0   	neg = 0.0  
+6. It's actually fairly                 ... pos = 0.125 	neg = 0.0  
+7. He doesn't create cl                 ... pos = 1.375 	neg = 0    
+8. They've seen all the                 ... pos = 0.5   	neg = 0.125
+9. Scream is not some k                 ... pos = 0.5   	neg = 0.25 
+10. The story takes plac                ... pos = 0.25  	neg = 0.375
+11. Neve Campbell is Sid                ... pos = 0.25  	neg = 0.125
+12. Skeet Ulrich is her                 ... pos = 0.625 	neg = 0.125
+13. But he is no match f                ... pos = 0.25  	neg = 0.375
+14. Then there is Matthe                ... pos = 0.375 	neg = 1.0  
+15. When their little to                ... pos = 0.0   	neg = 0.5  
+16. The killer himself w                ... pos = 0.0   	neg = 0.875
+17. Williamson's clever                 ... pos = 0.875 	neg = 0.0  
+18. But before you go of                ... pos = 0.625 	neg = 0.625
+19. Reporter Gale Weathe                ... pos = 0.25  	neg = 0.125
+20. Then, of course, the                ... pos = 0.75  	neg = 0.25 
+21. The brisk comedic mo                ... pos = 0.875 	neg = 0.0  
+22. The best scenes both                ... pos = 0.375 	neg = 0.75 
+23. The first takes plac                ... pos = 0.5   	neg = 0.0  
+24. ', to the confusion                 ... pos = 0.0   	neg = 0    
+25. The second (and best                ... pos = 1.0   	neg = 0.0  
+26. In case you've forgo                ... pos = 0.0   	neg = 0.0  
+27. 2) You can never hav                ... pos = 0.0   	neg = 0.25 
+28. 3)You can never, eve                ... pos = 0.0   	neg = 0.125
+29. The final bloodbath                 ... pos = 0.0   	neg = 0.375
+30. It's too excessive,                 ... pos = 0.125 	neg = 0.5  
+31. Campbell shows off h                ... pos = 3.375 	neg = 1.5  
+32. For director Wes Cra                ... pos = 0.25  	neg = 0.125
+33. But, the real star i                ... pos = 0.875 	neg = 0.125
+34. Even as his characte                ... pos = 1.625 	neg = 0.625
+35. This translates into                ... pos = 0.125 	neg = 0    
+36. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3193-693 is Positive         ... pos = 18.75 	neg = 9.375
+Overall score of document
+Total Pos = 18.75
+Total Neg = 9.375
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. PULP FICTION is a fu                 ... pos = 0.125 	neg = 0.125
+1. Much has been made o                 ... pos = 0.25  	neg = 0.125
+2. )  Only a blue-nose                  ... pos = 0.0   	neg = 0.0  
+3. I am reminded of a p                 ... pos = 0.75  	neg = 0.125
+4. This takes the minor                 ... pos = 0.875 	neg = 0.0  
+5. The Rosencrantz and                  ... pos = 1.125 	neg = 0.0  
+6. They work their way                  ... pos = 0.0   	neg = 0.375
+7. Travolta's character                 ... pos = 2.125 	neg = 0.0  
+8. The point of the mov                 ... pos = 0.0   	neg = 0.125
+9. Some are miraculousl                 ... pos = 0.5   	neg = 0.0  
+10. Characters meet each                ... pos = 1.125 	neg = 0.0  
+11. In the face of these                ... pos = 1.625 	neg = 0.0  
+12. The real god in this                ... pos = 0.0   	neg = 0.125
+13. He shows up in a cut                ... pos = 1.5   	neg = 0.0  
+14. There are a number o                ... pos = 1.0   	neg = 0.0  
+15. The most amazing is                 ... pos = 1.375 	neg = 0.375
+16. Certainly his charac                ... pos = 1.125 	neg = 0.125
+17. Samuel L. Jackson es                ... pos = 1.375 	neg = 0.0  
+18. After the madness of                ... pos = 0.25  	neg = 0.0  
+19. As always I'm amazed                ... pos = 0.0   	neg = 0.0  
+20. He plays the same ch                ... pos = 0.875 	neg = 0.0  
+21. (Though I don't; I'm                ... pos = 0.5   	neg = 0.0  
+22. ).      Uma Thurman                 ... pos = 0.0   	neg = 0.25 
+23. Certainly she looks                 ... pos = 1.125 	neg = 0.5  
+24. She's not bad at it,                ... pos = 0.0   	neg = 0.875
+25. Maria de Medeiros ha                ... pos = 0.25  	neg = 0.0  
+26. She's quite appealin                ... pos = 0.875 	neg = 0.375
+27. Harvey Keitel plays                 ... pos = 0.875 	neg = 0.0  
+28. Here he talks more a                ... pos = 0.0   	neg = 0.0  
+29. )  Nice, but nothing                ... pos = 0.375 	neg = 0.25 
+30. Eric Stoltz is great                ... pos = 0.375 	neg = 0.25 
+31. Roseanne Arquette do                ... pos = 1.5   	neg = 0.375
+32. I really liked Chris                ... pos = 0.125 	neg = 0.0  
+33. It's nothing he hasn                ... pos = 0.5   	neg = 0.5  
+34. Amanda Plummer goes                 ... pos = 0.25  	neg = 0.25 
+35. I see her as getting                ... pos = 1.5   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-6084-465 is Positive         ... pos = 24.25 	neg = 5.75 
+Overall score of document
+Total Pos = 24.25
+Total Neg = 5.75
+---------------------------------------------------------------------------

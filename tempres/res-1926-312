@@ -1,0 +1,32 @@
+0. Kevin Spacey is one                  ... pos = 0.0   	neg = 0.25 
+1. Even in his smaller                  ... pos = 2.0   	neg = 0.5  
+2. He probably doesn't                  ... pos = 0.0   	neg = 0.0  
+3. Spacey plays Lester                  ... pos = 1.25  	neg = 2.0  
+4. Lester considers him                 ... pos = 0.125 	neg = 0.125
+5. Then he meets his da                 ... pos = 0.125 	neg = 0.25 
+6. But this is not just                 ... pos = 0.0   	neg = 0.125
+7. The film's main them                 ... pos = 1.625 	neg = 0.125
+8. Although Sam Mendes                  ... pos = 0.0   	neg = 0.125
+9. Given this backgroun                 ... pos = 1.0   	neg = 0.625
+10. Given that this is a                ... pos = 1.375 	neg = 0.375
+11. The idea of finding                 ... pos = 1.375 	neg = 0.125
+12. And in the use of co                ... pos = 1.0   	neg = 0.125
+13. There are moments of                ... pos = 1.75  	neg = 0.125
+14. Lester echoes Tyler                 ... pos = 1.25  	neg = 0.0  
+15. There are also simil                ... pos = 0.75  	neg = 0.125
+16. American Beauty, how                ... pos = 0.75  	neg = 0.625
+17. I've seen American B                ... pos = 1.125 	neg = 0.0  
+18. Both times the cinem                ... pos = 1.125 	neg = 0.25 
+19. Lets hope the Hollyw                ... pos = 1.625 	neg = 0.125
+20. And these films can                 ... pos = 0.0   	neg = 0.25 
+21. Although it contains                ... pos = 1.625 	neg = 0.125
+22. It works better in p                ... pos = 0.25  	neg = 0.375
+23. Although finely play                ... pos = 1.375 	neg = 0.25 
+24. Its structural flaws                ... pos = 1.25  	neg = 0.125
+25. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-312 is Positive         ... pos = 23.75 	neg = 7.125
+Overall score of document
+Total Pos = 23.75
+Total Neg = 7.125
+---------------------------------------------------------------------------

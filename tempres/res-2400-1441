@@ -1,0 +1,25 @@
+0. Looking it up on the                 ... pos = 0.375 	neg = 0.0  
+1. "  Except for "Army"                 ... pos = 0.125 	neg = 1.0  
+2. The strongest impres                 ... pos = 0.75  	neg = 0.0  
+3. Much clever goofines                 ... pos = 0.625 	neg = 0    
+4. I finally got around                 ... pos = 0.75  	neg = 0.0  
+5. "  Here we have a mo                 ... pos = 0.5   	neg = 0.125
+6. While good luck may                  ... pos = 1.75  	neg = 0.75 
+7. The basic plot is th                 ... pos = 0.125 	neg = 0.375
+8. They decide to keep                  ... pos = 0.0   	neg = 0.375
+9. They have to hide it                 ... pos = 0.125 	neg = 0.125
+10. We've seen this befo                ... pos = 0.5   	neg = 0.0  
+11. A recent, similar fi                ... pos = 1.0   	neg = 0.125
+12. Not a bad film, it i                ... pos = 0.583 	neg = 1.125
+13. While there's the fa                ... pos = 0.875 	neg = 1.375
+14. Skin-deep yuppies li                ... pos = 0.0   	neg = 0.5  
+15. I don't want to talk                ... pos = 0.625 	neg = 1.75 
+16. Instead, I'll reassu                ... pos = 0.125 	neg = 0.625
+17. They don't exist in                 ... pos = 0.0   	neg = 0.125
+18. It's a fine film.. .                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2400-1441 is Positive        ... pos = 8.833 	neg = 8.375
+Overall score of document
+Total Pos = 8.833
+Total Neg = 8.375
+---------------------------------------------------------------------------

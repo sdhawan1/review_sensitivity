@@ -1,0 +1,69 @@
+0. If there's something                 ... pos = 0.0   	neg = 0.25 
+1. "GoodFellas" is cons                 ... pos = 0.625 	neg = 0.25 
+2. "Raging Bull" got in                 ... pos = 0.0   	neg = 0.0  
+3. His 1997 film, "Kund                 ... pos = 0.0   	neg = 0.125
+4. In his latest film,                  ... pos = 0.875 	neg = 0.125
+5. Frankly, never havin                 ... pos = 1.0   	neg = 0.375
+6. Unfortunately, "Brin                 ... pos = 0.0   	neg = 0.875
+7. It's mediocre Marty,                 ... pos = 0.375 	neg = 0.778
+8. Nicolas Cage stars a                 ... pos = 0.375 	neg = 0.0  
+9. Frank hasn't been sl                 ... pos = 0.0   	neg = 0.125
+10. He hasn't saved anyo                ... pos = 0.375 	neg = 0.75 
+11. " The film opens has                ... pos = 0.25  	neg = 0.0  
+12. The old man seems to                ... pos = 0.0   	neg = 0.25 
+13. This sudden hopeful                 ... pos = 0.5   	neg = 0.5  
+14. The rest of the film                ... pos = 0.375 	neg = 0.0  
+15. Marcus (Ving Rhames)                ... pos = 0.875 	neg = 0.5  
+16. Frank, meanwhile, sp                ... pos = 0.0   	neg = 0.0  
+17. If the previous para                ... pos = 0.25  	neg = 0.0  
+18. That's not necessari                ... pos = 0.125 	neg = 0.25 
+19. This is clearly a ch                ... pos = 0.25  	neg = 0.125
+20. Scorsese provides pl                ... pos = 0.0   	neg = 0.0  
+21. We see New York City                ... pos = 0.625 	neg = 0.625
+22. It's a kind of acid                 ... pos = 0.0   	neg = 0.25 
+23. Like most of this di                ... pos = 0.75  	neg = 0.75 
+24. Nicolas Cage seems a                ... pos = 0.0   	neg = 0.625
+25. He seems to spend an                ... pos = 0.0   	neg = 1.5  
+26. Maybe he's been ruin                ... pos = 0.25  	neg = 1.375
+27. I really shouldn't k                ... pos = 0.0   	neg = 0.0  
+28. This is definitely h                ... pos = 0.625 	neg = 0.125
+29. " After all, to see                 ... pos = 1.0   	neg = 0.75 
+30. I don't know what so                ... pos = 0.25  	neg = 0.0  
+31. Granted, she has an                 ... pos = 1.875 	neg = 0.25 
+32. Arquette is certainl                ... pos = 0.375 	neg = 0.25 
+33. The real bright spot                ... pos = 0.25  	neg = 0.0  
+34. All three of Cage's                 ... pos = 0.25  	neg = 0    
+35. John Goodman is laco                ... pos = 1.125 	neg = 0.25 
+36. Ving Rhames is a hoo                ... pos = 1.0   	neg = 0.5  
+37. A particularly good                 ... pos = 1.0   	neg = 1.125
+38. Tom Sizemore is appr                ... pos = 0.25  	neg = 0.125
+39. The scene where he a                ... pos = 0.25  	neg = 0.75 
+40. Pop singer Marc Anth                ... pos = 0.125 	neg = 0.0  
+41. As is to be expected                ... pos = 0.25  	neg = 0.625
+42. I particularly liked                ... pos = 0.125 	neg = 0.0  
+43. Frank has had people                ... pos = 1.0   	neg = 0.375
+44. " There is plenty of                ... pos = 0.875 	neg = 0.25 
+45. There's just somethi                ... pos = 1.125 	neg = 0.75 
+46. I think it has to do                ... pos = 0.625 	neg = 0.125
+47. The film isn't plot-                ... pos = 0.875 	neg = 0.125
+48. After all, "Taxi Dri                ... pos = 1.5   	neg = 0.125
+49. Frank Pierce just is                ... pos = 0.5   	neg = 0.0  
+50. There isn't half the                ... pos = 1.0   	neg = 0.25 
+51. Another problem is t                ... pos = 0.125 	neg = 0.625
+52. Where are De Niro an                ... pos = 0.25  	neg = 0.125
+53. I wasn't terribly in                ... pos = 0.75  	neg = 0.0  
+54. Scorsese always has                 ... pos = 0.75  	neg = 0.0  
+55. " I loved seeing his                ... pos = 0.75  	neg = 0.0  
+56. Even though he does                 ... pos = 0.5   	neg = 0.25 
+57. The real problem is                 ... pos = 0.25  	neg = 0.625
+58. There is plenty of c                ... pos = 1.5   	neg = 0.375
+59. " Despite these prob                ... pos = 0.25  	neg = 0.375
+60. It may not be up to                 ... pos = 0.5   	neg = 0.25 
+61. It's mediocre Marty,                ... pos = 0.25  	neg = 0.778
+62. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3616-1477 is Positive        ... pos = 30.0  	neg = 20.556
+Overall score of document
+Total Pos = 30.0
+Total Neg = 20.556
+---------------------------------------------------------------------------

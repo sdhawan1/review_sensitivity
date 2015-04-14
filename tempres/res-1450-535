@@ -1,0 +1,20 @@
+0. When this wonderful                  ... pos = 0.75  	neg = 0.125
+1. The fact that it had                 ... pos = 0.5   	neg = 0.625
+2. When masterpieces li                 ... pos = 1.75  	neg = 0.875
+3. The labyrinth plot i                 ... pos = 0.0   	neg = 0.375
+4. Ed Exley, who is a g                 ... pos = 0.875 	neg = 0.75 
+5. The three very diffe                 ... pos = 1.875 	neg = 0.0  
+6. Soon however, they a                 ... pos = 0.625 	neg = 0.25 
+7. This film has it all                 ... pos = 0.0   	neg = 0    
+8. An incredible script                 ... pos = 1.125 	neg = 0.625
+9. The script is truly                  ... pos = 1.0   	neg = 1.125
+10. Easy to follow, desp                ... pos = 1.125 	neg = 0    
+11. The characters are a                ... pos = 1.875 	neg = 0.125
+12. The music, by Jerry                 ... pos = 0.0   	neg = 0.125
+13. Highlighting every s                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1450-535 is Positive         ... pos = 11.5  	neg = 5.125
+Overall score of document
+Total Pos = 11.5
+Total Neg = 5.125
+---------------------------------------------------------------------------

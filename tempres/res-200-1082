@@ -1,0 +1,32 @@
+0. [filmcritic.com pres                 ... pos = 0.0   	neg = 0.0  
+1. You can find the rev                 ... pos = 0.0   	neg = 0.0  
+2. The centerpiece of B                 ... pos = 1.0   	neg = 0.125
+3. "   As one character                 ... pos = 1.375 	neg = 0.0  
+4. That was my second c                 ... pos = 0.0   	neg = 0.125
+5. "  Which leads us ri                 ... pos = 0.0   	neg = 0    
+6. Why John Malkovich?                  ... pos = 0.0   	neg = 0.0  
+7. You've probably gues                 ... pos = 0.25  	neg = 0.125
+8. In short, the plot r                 ... pos = 2.625 	neg = 0.75 
+9. The premise isn't th                 ... pos = 0.5   	neg = 0.125
+10. The characters are o                ... pos = 1.625 	neg = 0    
+11. The casting is odd,                 ... pos = 1.25  	neg = 0.125
+12. The camera work is b                ... pos = 0.375 	neg = 0.125
+13. The settings are dis                ... pos = 0.25  	neg = 0    
+14. And the two major lo                ... pos = 0.25  	neg = 0.125
+15. Maybe BEING JOHN MAL                ... pos = 0.25  	neg = 0.125
+16. Maybe it was intende                ... pos = 0.75  	neg = 0.125
+17. More likely it flowe                ... pos = 0.625 	neg = 0.0  
+18. There's no denying t                ... pos = 0.75  	neg = 0.375
+19. Jonze, a unique visi                ... pos = 1.375 	neg = 0.125
+20. The originality of t                ... pos = 1.375 	neg = 0.0  
+21. The premise, the plo                ... pos = 0.0   	neg = 0.0  
+22. But don't think too                 ... pos = 0.0   	neg = 1.25 
+23. But you're still won                ... pos = 0.0   	neg = 0.0  
+24. I couldn't say.                     ... pos = 0.0   	neg = 0.0  
+25. 3 stars -- Christoph                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-1082 is Positive         ... pos = 14.625 	neg = 3.625
+Overall score of document
+Total Pos = 14.625
+Total Neg = 3.625
+---------------------------------------------------------------------------

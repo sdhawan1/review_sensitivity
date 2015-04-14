@@ -1,0 +1,34 @@
+0. PAYBACK Cast: Mel Gi                 ... pos = 0.625 	neg = 0.875
+1. With a mean spirit a                 ... pos = 0.125 	neg = 1.0  
+2. The film's dark and                  ... pos = 0.625 	neg = 0.125
+3. The scripting bears                  ... pos = 0.625 	neg = 0.125
+4. But also like Lock,                  ... pos = 0.625 	neg = 0.125
+5. Character and meanin                 ... pos = 1.375 	neg = 0    
+6. Surprisingly, the fi                 ... pos = 0.375 	neg = 0    
+7. The combination of H                 ... pos = 0.375 	neg = 0.125
+8. Gibson especially se                 ... pos = 1.0   	neg = 1.0  
+9. A really bad guy.                    ... pos = 0.0   	neg = 0.875
+10. In fact, in the firs                ... pos = 1.125 	neg = 0.625
+11. You see, after a mon                ... pos = 0.0   	neg = 0.125
+12. Much to their disgus                ... pos = 0.5   	neg = 0.375
+13. The tough Porter is                 ... pos = 0.25  	neg = 0.125
+14. I could complain abo                ... pos = 0.875 	neg = 0.375
+15. No doubt both Brian                 ... pos = 0.625 	neg = 0.25 
+16. In that way, Payback                ... pos = 0.125 	neg = 0.25 
+17. The film borrows bit                ... pos = 0.375 	neg = 0.125
+18. Although the old cig                ... pos = 0.5   	neg = 1.125
+19. There is something a                ... pos = 0.625 	neg = 0.5  
+20. Although flawed with                ... pos = 1.75  	neg = 0.5  
+21. In fact, I was often                ... pos = 0.875 	neg = 0.125
+22. By the time that Pay                ... pos = 1.125 	neg = 1.0  
+23. It is also obvious,                 ... pos = 0.75  	neg = 0.25 
+24. "I saw weird stuff i                ... pos = 0.0   	neg = 0.0  
+25. Weird, strange, sick                ... pos = 0.5   	neg = 1.0  
+26. And I want in.                      ... pos = 0.0   	neg = 0.125
+27. "  -Homer Simpson. .                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-709-1111 is Positive         ... pos = 15.75 	neg = 11.125
+Overall score of document
+Total Pos = 15.75
+Total Neg = 11.125
+---------------------------------------------------------------------------

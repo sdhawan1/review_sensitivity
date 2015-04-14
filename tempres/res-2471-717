@@ -1,0 +1,59 @@
+0. SAVING PRIVATE RYAN                  ... pos = 0.375 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.125 	neg = 0.25 
+3. It's been over fifty                 ... pos = 0.375 	neg = 0.375
+4. As their numbers dwi                 ... pos = 1.5   	neg = 0.875
+5. I'm overwhelmed with                 ... pos = 1.875 	neg = 0.25 
+6. Shamefully, we have                  ... pos = 0     	neg = 0.0  
+7. Steven Spielberg's f                 ... pos = 0.875 	neg = 0.0  
+8. A noble goal, to be                  ... pos = 1.75  	neg = 0.125
+9. At    its best, SAVI                 ... pos = 2.0   	neg = 0.125
+10. Narratively symmetri                ... pos = 2.25  	neg = 0.0  
+11. The opening battle s                ... pos = 0.5   	neg = 0.375
+12. History informs us t                ... pos = 0.75  	neg = 0.0  
+13. (Curiously enough,                  ... pos = 1.0   	neg = 0.125
+14. )    Impeccably stag                ... pos = 1.125 	neg = 0.125
+15. The film wisely deci                ... pos = 2.75  	neg = 0.875
+16. Smartly, Mr. Spielbe                ... pos = 3.0   	neg = 3.417
+17. When the Allied troo                ... pos = 1.25  	neg = 1.125
+18. The Omaha segment is                ... pos = 0.75  	neg = 1.125
+19. Assigned to locate a                ... pos = 0.0   	neg = 0.0  
+20. James Ryan in a    g                ... pos = 0.0   	neg = 0.0  
+21. John Miller (Mr. Han                ... pos = 0.0   	neg = 0.0  
+22. Horvath (Tom Sizemor                ... pos = 0.0   	neg = 0    
+23. Reiben (Edward Burns                ... pos = 0.0   	neg = 0.0  
+24. Upham (Jeremy    Dav                ... pos = 0.625 	neg = 0.125
+25. It's all well-intent                ... pos = 2.375 	neg = 1.375
+26. There's also the pro                ... pos = 2.75  	neg = 1.125
+27. The film's middle st                ... pos = 0.75  	neg = 0.0  
+28. SAVING PRIVATE RYAN'                ... pos = 0.25  	neg = 0.625
+29. I'm not convinced th                ... pos = 0.875 	neg = 0.25 
+30. Nonetheless, he's a                 ... pos = 2.875 	neg = 0.375
+31. It's a trait    most                ... pos = 0.25  	neg = 0.0  
+32. I    appreciated the                ... pos = 1.375 	neg = 0.625
+33. With nary a    word,                ... pos = 0.875 	neg = 0.625
+34. It's a much more sub                ... pos = 0.625 	neg = 0.0  
+35. For the most part, t                ... pos = 0.125 	neg = 0.0  
+36. Not only does SAVING                ... pos = 1.125 	neg = 0.125
+37. Ryan    (Matt Damon)                ... pos = 0.25  	neg = 0.375
+38. (When    Pvt.                       ... pos = 0     	neg = 0    
+39. Ryan's mother appear                ... pos = 0.0   	neg = 0.0  
+40. )  When Cpt.                        ... pos = 0     	neg = 0    
+41. Miller addresses Pvt                ... pos = 0.0   	neg = 0    
+42. Ryan, particularly a                ... pos = 1.25  	neg = 0.0  
+43. However, the audienc                ... pos = 0.125 	neg = 0.125
+44. Ryan, but of Cpl.                   ... pos = 0     	neg = 0.0  
+45. Upham, a nervous wre                ... pos = 0.25  	neg = 0.25 
+46. Like him, we're seei                ... pos = 1.625 	neg = 0.0  
+47. Though it was an int                ... pos = 0.625 	neg = 0.5  
+48. While SAVING PRIVATE                ... pos = 1.5   	neg = 0.125
+49. Its    recreation of                ... pos = 0.875 	neg = 0.125
+50. It's a price which o                ... pos = 0.25  	neg = 0.0  
+51. -- Alex Fung (aw220@                ... pos = 0.5   	neg = 1.25 
+52. "                                   ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2471-717 is Positive         ... pos = 44.375 	neg = 17.417
+Overall score of document
+Total Pos = 44.375
+Total Neg = 17.417
+---------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+0. `Both my wife and da                 ... pos = 0.375 	neg = 0.125
+1. Lester and his wife                  ... pos = 0.75  	neg = 0.125
+2. The only reason Lest                 ... pos = 0.0   	neg = 0.625
+3. Everything is downhi                 ... pos = 0     	neg = 0.125
+4. American Beauty isn'                 ... pos = 0.625 	neg = 0.125
+5. If you `look closer'                 ... pos = 1.0   	neg = 0.0  
+6. Some will enjoy the                  ... pos = 0.75  	neg = 0.0  
+7. Others will look bey                 ... pos = 0.75  	neg = 0.375
+8. Director Sam Mendes                  ... pos = 0.25  	neg = 0.0  
+9. He has introduced us                 ... pos = 1.0   	neg = 0.125
+10. Mendes paints a beau                ... pos = 2.056 	neg = 0.125
+11. I foolishly made the                ... pos = 0.5   	neg = 0.625
+12. In actuality, the fi                ... pos = 1.25  	neg = 0.0  
+13. Spacey's work here i                ... pos = 0.875 	neg = 0.125
+14. His performance as L                ... pos = 1.125 	neg = 0.125
+15. The actor has perfec                ... pos = 2.614 	neg = 0.0  
+16. Scenes at the Burnha                ... pos = 0.875 	neg = 0.25 
+17. ' approach.                         ... pos = 0.0   	neg = 0    
+18. It reeks of hopeless                ... pos = 0.5   	neg = 2.0  
+19. When he and Carolyn                 ... pos = 0.875 	neg = 0.125
+20. Despite the notable                 ... pos = 1.875 	neg = 0.5  
+21. He begins to lift we                ... pos = 0.5   	neg = 0.25 
+22. As Lester puts it so                ... pos = 0.75  	neg = 0.25 
+23. Truer words have nev                ... pos = 0.5   	neg = 0.125
+24. Annette Bening, so u                ... pos = 0.25  	neg = 0.0  
+25. Even as Lester loses                ... pos = 0.25  	neg = 0.0  
+26. Carolyn, unhappy wit                ... pos = 1.0   	neg = 0.625
+27. She finds her own es                ... pos = 0.375 	neg = 0.0  
+28. Jane, convinced she                 ... pos = 1.25  	neg = 0.25 
+29. His father (Chris Co                ... pos = 0.125 	neg = 0.0  
+30. All of the character                ... pos = 1.375 	neg = 0.0  
+31. Rarely has a film st                ... pos = 1.125 	neg = 0.0  
+32. The film - powered b                ... pos = 0.375 	neg = 0.0  
+33. As both a masterfull                ... pos = 0.375 	neg = 0.0  
+34. The way it explores                 ... pos = 1.375 	neg = 0.5  
+35. The poignant, touchi                ... pos = 1.375 	neg = 0.125
+36. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+37. movieviews@hotmail.c                ... pos = 0.25  	neg = 0.0  
+38. http://www.shocking.                ... pos = 0.375 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1926-693 is Positive         ... pos = 29.67 	neg = 7.625
+Overall score of document
+Total Pos = 29.67
+Total Neg = 7.625
+---------------------------------------------------------------------------

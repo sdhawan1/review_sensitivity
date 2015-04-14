@@ -1,0 +1,75 @@
+0. "Fight Club" is a ch                 ... pos = 0.5   	neg = 0.5  
+1. Certainly those not                  ... pos = 1.625 	neg = 1.125
+2. Both of these reacti                 ... pos = 0.625 	neg = 0.0  
+3. "Fight Club" is not                  ... pos = 1.5   	neg = 0.5  
+4. Though it may be sho                 ... pos = 1.75  	neg = 0.75 
+5. Director David Finch                 ... pos = 1.0   	neg = 0.0  
+6. The film centers on                  ... pos = 0.875 	neg = 0.375
+7. Desperate to cure hi                 ... pos = 0.125 	neg = 1.125
+8. " The Narrator goes                  ... pos = 0.5   	neg = 0.0  
+9. He signs up for all                  ... pos = 0.625 	neg = 0.0  
+10. It works right up un                ... pos = 0.0   	neg = 0.25 
+11. Since Jack can't cry                ... pos = 0.0   	neg = 0.875
+12. He comes upon anothe                ... pos = 0.5   	neg = 0.125
+13. Tyler's idea is that                ... pos = 1.0   	neg = 0.5  
+14. His solution?                       ... pos = 0.0   	neg = 0    
+15. For Jack to hit him,                ... pos = 0.0   	neg = 0.0  
+16. This ritual soon evo                ... pos = 0.5   	neg = 0.0  
+17. "Fight Club" is an e                ... pos = 0.25  	neg = 0.375
+18. Whatever one may thi                ... pos = 0.25  	neg = 0.125
+19. Director David Finch                ... pos = 0.0   	neg = 0.125
+20. His style represents                ... pos = 1.0   	neg = 0.0  
+21. The early scenes tak                ... pos = 0.125 	neg = 0.0  
+22. He includes a scene                 ... pos = 0.0   	neg = 0.125
+23. A breaking-of-the-fo                ... pos = 0.5   	neg = 0.5  
+24. Here's a hint: Look                 ... pos = 0.5   	neg = 0.375
+25. If you miss it, don'                ... pos = 0.5   	neg = 0.0  
+26. .                                   ... pos = 0     	neg = 0    
+27. .                                   ... pos = 0     	neg = 0    
+28. The performances in                 ... pos = 1.25  	neg = 0    
+29. Brad Pitt delivers h                ... pos = 1.25  	neg = 0.125
+30. Helena Bonham Carter                ... pos = 1.0   	neg = 0.0  
+31. Meat Loaf, a former                 ... pos = 0.25  	neg = 0.25 
+32. The actors are perfe                ... pos = 0.75  	neg = 0.0  
+33. It's difficult to im                ... pos = 0.5   	neg = 0.5  
+34. Fincher must be cred                ... pos = 0.875 	neg = 0.25 
+35. With David Fincher,                 ... pos = 0.0   	neg = 0.25 
+36. This is a daring fil                ... pos = 0.125 	neg = 0.25 
+37. "Fight Club" is no d                ... pos = 0.625 	neg = 0.375
+38. Those unwilling to l                ... pos = 0.25  	neg = 1.5  
+39. There's very little                 ... pos = 0.625 	neg = 0.5  
+40. "Fight Club" is not                 ... pos = 0.125 	neg = 0.125
+41. If one takes Tyler's                ... pos = 0.75  	neg = 1.125
+42. Certainly a bunch of                ... pos = 0.625 	neg = 0.75 
+43. "Fight Club" is cert                ... pos = 0.25  	neg = 0.125
+44. This is definitely n                ... pos = 0.25  	neg = 0.5  
+45. Its members can even                ... pos = 1.875 	neg = 0.625
+46. Is this presented as                ... pos = 0.0   	neg = 0.125
+47. I think not.                        ... pos = 0.0   	neg = 0.0  
+48. The screenplay, writ                ... pos = 1.375 	neg = 0.375
+49. In fact, the only fa                ... pos = 0.0   	neg = 0.625
+50. This is a possible c                ... pos = 0.125 	neg = 0.125
+51. "Fight Club's" twist                ... pos = 0.0   	neg = 0.5  
+52. The twist isn't real                ... pos = 0.0   	neg = 1.25 
+53. Don't get me wrong,                 ... pos = 0.0   	neg = 0.75 
+54. After all, "Fight Cl                ... pos = 0.0   	neg = 0.375
+55. An overly "plot-twis                ... pos = 0.0   	neg = 0.625
+56. ) finish doesn't cha                ... pos = 0.125 	neg = 0.125
+57. One thing is for sur                ... pos = 0.25  	neg = 0.125
+58. I know that a whole                 ... pos = 0.75  	neg = 0.25 
+59. Tyler's philosophy s                ... pos = 0.125 	neg = 1.0  
+60. (The final sequence                 ... pos = 0.5   	neg = 0    
+61. ) Tyler and Jack are                ... pos = 0.5   	neg = 0.0  
+62. The members of Proje                ... pos = 0.5   	neg = 0.125
+63. They are not intelli                ... pos = 0.75  	neg = 0    
+64. Tyler demonstrates h                ... pos = 0.625 	neg = 1.0  
+65. Such clear allegory                 ... pos = 0.583 	neg = 0.125
+66. Much like the initia                ... pos = 0.375 	neg = 0.375
+67. As a study of how a                 ... pos = 0.75  	neg = 0.0  
+68. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3869-1477 is Positive        ... pos = 32.958 	neg = 22.875
+Overall score of document
+Total Pos = 32.958
+Total Neg = 22.875
+---------------------------------------------------------------------------

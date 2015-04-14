@@ -1,0 +1,26 @@
+0. Washington Irving's                  ... pos = 1.5   	neg = 0.375
+1. Perhaps it was inten                 ... pos = 0.0   	neg = 0.25 
+2. Only a scant few ele                 ... pos = 0.25  	neg = 0.0  
+3. Character names are                  ... pos = 1.75  	neg = 0.125
+4. Whereas the original                 ... pos = 0.5   	neg = 0.25 
+5. Deeper themes of obj                 ... pos = 1.625 	neg = 0.25 
+6. In this rendition, I                 ... pos = 0.625 	neg = 0.125
+7. His rigorous insiste                 ... pos = 1.75  	neg = 0.625
+8. The people of the vi                 ... pos = 1.0   	neg = 0.625
+9. Ichabod sets up resi                 ... pos = 0.125 	neg = 0.0  
+10. To Ichabod, the worl                ... pos = 0.125 	neg = 0.125
+11. His patronizing atti                ... pos = 0.0   	neg = 0.125
+12. The world that Ichab                ... pos = 0.25  	neg = 0.125
+13. The most enjoyable p                ... pos = 1.625 	neg = 0    
+14. Unfortunately, the s                ... pos = 0.0   	neg = 1.75 
+15. Although the film is                ... pos = 0.375 	neg = 1.125
+16. Moderately recommend                ... pos = 0.0   	neg = 0.25 
+17. The success of the f                ... pos = 0.125 	neg = 0.125
+18. The narrative is clu                ... pos = 0.375 	neg = 1.125
+19. It is not a retellin                ... pos = 1.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6111-707 is Positive         ... pos = 13.5  	neg = 7.5  
+Overall score of document
+Total Pos = 13.5
+Total Neg = 7.5
+---------------------------------------------------------------------------

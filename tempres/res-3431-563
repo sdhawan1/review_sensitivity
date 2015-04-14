@@ -1,0 +1,34 @@
+0. Starring Sean Conner                 ... pos = 0     	neg = 0.0  
+1. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+2. There are some pairs                 ... pos = 1.375 	neg = 0.0  
+3. Can you recall how w                 ... pos = 0.5   	neg = 0.0  
+4. Remember how luminou                 ... pos = 0.75  	neg = 0.125
+5. If movie stars have                  ... pos = 1.875 	neg = 1.125
+6. Entrapment is a tric                 ... pos = 0.0   	neg = 2.75 
+7. She plans to accompl                 ... pos = 0.0   	neg = 0.125
+8. Evidently he trusts                  ... pos = 0.5   	neg = 0.25 
+9. Ving Rhames, one of                  ... pos = 0.125 	neg = 0.375
+10. The rest of the cast                ... pos = 0.125 	neg = 0.0  
+11. Despite their fairly                ... pos = 0.5   	neg = 0.125
+12. It is always a virtu                ... pos = 0.0   	neg = 1.125
+13. Although Entrapment                 ... pos = 0.875 	neg = 1.625
+14. To wit, essential pl                ... pos = 0.375 	neg = 0.125
+15. Sometimes it is but                 ... pos = 0.0   	neg = 0.375
+16. On the bright side,                 ... pos = 0.0   	neg = 0.5  
+17. So many James Bond-t                ... pos = 0.75  	neg = 0.125
+18. Of course movies abo                ... pos = 0.125 	neg = 0.75 
+19. The movie drops all                 ... pos = 0.375 	neg = 0.25 
+20. It's refreshing to s                ... pos = 0.625 	neg = 0.375
+21. There's a difference                ... pos = 0.5   	neg = 0    
+22. If the film were to                 ... pos = 0.5   	neg = 0.75 
+23. But here, they purpo                ... pos = 0.625 	neg = 0.0  
+24. When this method suc                ... pos = 0.375 	neg = 0    
+25. Entrapment is an eng                ... pos = 0.625 	neg = 1.5  
+26. It works because of                 ... pos = 0.0   	neg = 0.625
+27. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3431-563 is Negative         ... pos = 11.625 	neg = 13.0 
+Overall score of document
+Total Pos = 11.625
+Total Neg = 13.0
+---------------------------------------------------------------------------

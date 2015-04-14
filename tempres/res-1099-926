@@ -1,0 +1,46 @@
+0. Screenplay: John C.                  ... pos = 1.25  	neg = 0.0  
+1. It offered no  BLAIR                 ... pos = 0.875 	neg = 0.375
+2. NURSE  BETTY signals                 ... pos = 0.125 	neg = 1.875
+3. Alas BETTY has the                   ... pos = 0.75  	neg = 0.625
+4. It's also indie dire                 ... pos = 0.875 	neg = 1.875
+5. I went in expecting                  ... pos = 1.0   	neg = 0.125
+6. Are critics so despe                 ... pos = 0.625 	neg = 0.375
+7. For the first time L                 ... pos = 0.375 	neg = 0.25 
+8. BETTY tries to be hi                 ... pos = 0.5   	neg = 1.5  
+9. It's LaBute's half h                 ... pos = 1.125 	neg = 0.0  
+10. NURSE BETTY concerns                ... pos = 0.625 	neg = 0.875
+11. She happens  to have                ... pos = 0.375 	neg = 0.0  
+12. She's blocked out he                ... pos = 1.5   	neg = 0.0  
+13. Betty sets out on th                ... pos = 0.125 	neg = 0.625
+14. The LaBute who birth                ... pos = 0.875 	neg = 0.375
+15. The play demonstrate                ... pos = 0.375 	neg = 2.0  
+16. In the  play, Paul R                ... pos = 1.75  	neg = 1.625
+17. Another character,                  ... pos = 0.875 	neg = 0.125
+18. What was once so pow                ... pos = 0.375 	neg = 1.875
+19. Obviously, at this p                ... pos = 1.0   	neg = 0.25 
+20. He clearly has littl                ... pos = 1.75  	neg = 1.625
+21. Nearly every scene b                ... pos = 0.25  	neg = 0.0  
+22. They evince little c                ... pos = 0.75  	neg = 0.5  
+23. I think Rock is a gr                ... pos = 0.375 	neg = 0.75 
+24. Surprisingly (at lea                ... pos = 0.625 	neg = 0.375
+25. That wide-open face                 ... pos = 0.375 	neg = 0.375
+26. It's the best work s                ... pos = 0.375 	neg = 0    
+27. Freeman is effective                ... pos = 0.875 	neg = 0.25 
+28. The actor  plays the                ... pos = 2.875 	neg = 0.625
+29. That's  interesting                 ... pos = 0.0   	neg = 0.25 
+30. The film has good mo                ... pos = 4.5   	neg = 2.0  
+31. The film might have                 ... pos = 0.25  	neg = 0.75 
+32. BETTY's screenplay                  ... pos = 0.625 	neg = 0.875
+33. NURSE BETTY is a fil                ... pos = 0.75  	neg = 0.75 
+34. BETTY has an interes                ... pos = 0.625 	neg = 0.0  
+35. The current state of                ... pos = 0.625 	neg = 0.125
+36. This is a film about                ... pos = 0.625 	neg = 0.75 
+37. Instead of  explorin                ... pos = 0.0   	neg = 0.25 
+38. No progress  is made                ... pos = 0.625 	neg = 0.75 
+39. http://www.geocities                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1099-926 is Positive         ... pos = 32.25 	neg = 25.75
+Overall score of document
+Total Pos = 32.25
+Total Neg = 25.75
+---------------------------------------------------------------------------

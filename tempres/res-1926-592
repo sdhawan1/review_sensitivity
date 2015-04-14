@@ -1,0 +1,30 @@
+0. American Beauty is a                 ... pos = 2.5   	neg = 0.25 
+1. Kevin Spacey gives a                 ... pos = 1.0   	neg = 0.125
+2. Lester Burnham (Kevi                 ... pos = 0.25  	neg = 0    
+3. "Both my wife and da                 ... pos = 0.25  	neg = 0.0  
+4. His boss is about to                 ... pos = 0     	neg = 0.125
+5. His marriage to Caro                 ... pos = 0.375 	neg = 0.125
+6. His daughter,  Jane                  ... pos = 0.625 	neg = 0.25 
+7. ". Lester's answer i                 ... pos = 0.375 	neg = 0.125
+8. He  blackmails his b                 ... pos = 1.375 	neg = 0.125
+9. Before long, Jane ta                 ... pos = 1.625 	neg = 0.375
+10. As Jane and Ricky  d                ... pos = 0.25  	neg = 0.25 
+11. The role of Lester B                ... pos = 0.125 	neg = 0.125
+12. It exhibits  feeling                ... pos = 0.625 	neg = 0.0  
+13. Kevin Spacey does it                ... pos = 1.875 	neg = 0.125
+14. Annette Bening and t                ... pos = 0.0   	neg = 0.0  
+15. The title of the fil                ... pos = 0.25  	neg = 0.125
+16. Is "American Beauty"                ... pos = 0.375 	neg = 0.125
+17. Could it be Angela H                ... pos = 0.5   	neg = 0.125
+18. Most likely  it is a                ... pos = 0.625 	neg = 0.75 
+19. Two types of people                 ... pos = 0.125 	neg = 0.0  
+20. One will see it as a                ... pos = 0.5   	neg = 0.0  
+21. For them it is enter                ... pos = 0.75  	neg = 0.125
+22. The other group will                ... pos = 0.625 	neg = 0.0  
+23. For them the two-hou                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1926-592 is Positive         ... pos = 15.375 	neg = 3.375
+Overall score of document
+Total Pos = 15.375
+Total Neg = 3.375
+---------------------------------------------------------------------------

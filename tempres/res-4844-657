@@ -1,0 +1,69 @@
+0. MPAA: Rated PG-13 fo                 ... pos = 0.5   	neg = 0.125
+1. If this sentence mea                 ... pos = 1.125 	neg = 0.0  
+2. If not, you don't ha                 ... pos = 0.0   	neg = 0.0  
+3. Maybe I am wrong, bu                 ... pos = 0.75  	neg = 0.875
+4. On front, let me jus                 ... pos = 0.625 	neg = 0.125
+5. It is somewhat 'Wild                 ... pos = 0.0   	neg = 0.875
+6. Jackie Chan has neve                 ... pos = 0.0   	neg = 0.125
+7. And it may very be h                 ... pos = 0.625 	neg = 0.25 
+8. In the unknown regio                 ... pos = 0.0   	neg = 0.125
+9. Mystique and treasur                 ... pos = 0.5   	neg = 0.75 
+10. The Emperor's daught                ... pos = 1.125 	neg = 0.25 
+11. Seduced by the weste                ... pos = 0.375 	neg = 0.25 
+12. Demanding a gigantic                ... pos = 0.625 	neg = 0.0  
+13. It is now time for f                ... pos = 0.5   	neg = 0.125
+14. One of these worrier                ... pos = 0.0   	neg = 0.125
+15. On a train to Carson                ... pos = 0.0   	neg = 0.75 
+16. erous train robbers.                ... pos = 0.0   	neg = 0    
+17. He is an outlaw with                ... pos = 0.125 	neg = 0.875
+18. A romantic that  nev                ... pos = 0.75  	neg = 0.0  
+19. When Roy hears about                ... pos = 0.25  	neg = 0.125
+20. We follow them on th                ... pos = 0.5   	neg = 0.0  
+21. Forbidden exotic cit                ... pos = 1.125 	neg = 1.375
+22. Like its plot, the m                ... pos = 1.5   	neg = 0.0  
+23. The result is a good                ... pos = 1.875 	neg = 0.125
+24. Most of the time 'Sh                ... pos = 1.0   	neg = 0.375
+25. You won't find a bet                ... pos = 0.0   	neg = 0.0  
+26. China is a land of b                ... pos = 0.5   	neg = 0.125
+27. Ancient traditions t                ... pos = 0.0   	neg = 0.0  
+28. Here a man must not                 ... pos = 0.375 	neg = 0.0  
+29. He must follow order                ... pos = 0.0   	neg = 0    
+30. America is a land of                ... pos = 0.0   	neg = 0.125
+31. Unchanged since the                 ... pos = 0.0   	neg = 0    
+32. Yet untouched by man                ... pos = 0.25  	neg = 0.75 
+33. It is the sunrise of                ... pos = 0.375 	neg = 0.375
+34. Ben!                                ... pos = 0     	neg = 0    
+35. eath the ruffness, l                ... pos = 0.375 	neg = 0.0  
+36. Alfred Gough's and M                ... pos = 0.375 	neg = 0.0  
+37. We follow our brave                 ... pos = 0.0   	neg = 0.5  
+38. There are moments in                ... pos = 0.375 	neg = 0.0  
+39. But after making his                ... pos = 0.0   	neg = 0.125
+40. Of course in a film                 ... pos = 0.875 	neg = 0.0  
+41. That is why the scre                ... pos = 0.25  	neg = 0.125
+42. Instead they are all                ... pos = 0.375 	neg = 0.0  
+43. In other words, this                ... pos = 0.0   	neg = 0    
+44. too long, repeating                 ... pos = 0.0   	neg = 0.875
+45. In the end it is the                ... pos = 1.0   	neg = 0.125
+46. That element is the                 ... pos = 0.0   	neg = 0.125
+47. Together Chan and Wi                ... pos = 1.0   	neg = 0.0  
+48. Jackie Chan is super                ... pos = 0.875 	neg = 0.125
+49. I couldn't think of                 ... pos = 1.239 	neg = 0.125
+50. There is something a                ... pos = 0.5   	neg = 0.125
+51. He does not posses t                ... pos = 0.25  	neg = 0.625
+52. And yet he generates                ... pos = 1.375 	neg = 0.0  
+53. We'r not just amazed                ... pos = 0.0   	neg = 0.0  
+54. He makes us care abo                ... pos = 0.875 	neg = 0.0  
+55. Wilson has what it t                ... pos = 0.25  	neg = 0.25 
+56. What's very importan                ... pos = 1.75  	neg = 0.125
+57. esn't over act or ma                ... pos = 0.875 	neg = 0.0  
+58. A very decent cinema                ... pos = 1.125 	neg = 0.0  
+59. The editing may need                ... pos = 0.875 	neg = 1.0  
+60. Though Dey presents                 ... pos = 0.5   	neg = 0.75 
+61. It is a less artisti                ... pos = 0.125 	neg = 0.125
+62. A true, cheerful goo                ... pos = 3.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4844-657 is Positive         ... pos = 33.864 	neg = 14.125
+Overall score of document
+Total Pos = 33.864
+Total Neg = 14.125
+---------------------------------------------------------------------------

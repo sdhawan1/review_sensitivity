@@ -1,0 +1,50 @@
+0. In the beginning of                  ... pos = 0.25  	neg = 0.875
+1. Sheffield, we are to                 ... pos = 0.25  	neg = 0.125
+2. Massive factories em                 ... pos = 0.25  	neg = 0.0  
+3. Fast forward 25 year                 ... pos = 0.125 	neg = 0.125
+4. We meet Gary (Robert                 ... pos = 0.0   	neg = 0.125
+5. Gary has a son who i                 ... pos = 0.0   	neg = 0.125
+6. The ex lives in a co                 ... pos = 0.875 	neg = 0.125
+7. What Gary lacks in m                 ... pos = 0.875 	neg = 0.625
+8. Dave, on the other h                 ... pos = 0.0   	neg = 0.375
+9. He suspects his wife                 ... pos = 0.875 	neg = 0.625
+10. To top it all off, h                ... pos = 0.0   	neg = 1.0  
+11. While walking home f                ... pos = 0.625 	neg = 0.0  
+12. They first scoff at                 ... pos = 0.875 	neg = 0.25 
+13. Their first obstacle                ... pos = 0.75  	neg = 0.375
+14. Gerald, like Gary an                ... pos = 0.0   	neg = 0.25 
+15. "  Besides, he's on                 ... pos = 0.125 	neg = 0.0  
+16. Gerald also points o                ... pos = 0.375 	neg = 0.0  
+17. Dave is fat, Gary is                ... pos = 0.0   	neg = 0.625
+18. In retaliation, Dave                ... pos = 0.5   	neg = 0.75 
+19. He hadn't told his w                ... pos = 0.375 	neg = 0.125
+20. She's out there righ                ... pos = 0.0   	neg = 0.0  
+21. "  After making amen                ... pos = 0.375 	neg = 0.0  
+22. After all, he needs                 ... pos = 0.0   	neg = 0.375
+23. In general, the char                ... pos = 1.25  	neg = 0    
+24. For example, even th                ... pos = 0.75  	neg = 0.0  
+25. You can't help but l                ... pos = 1.125 	neg = 0.625
+26. Robert Carlyle bring                ... pos = 1.489 	neg = 0.0  
+27. The accents and term                ... pos = 0.375 	neg = 0.375
+28. If I were from Sheff                ... pos = 0.25  	neg = 0.25 
+29. Luckily, this wasn't                ... pos = 0.5   	neg = 0.625
+30. About 80 percent of                 ... pos = 0.25  	neg = 0.5  
+31. One might think that                ... pos = 1.375 	neg = 1.25 
+32. A funny little scene                ... pos = 0.0   	neg = 0.75 
+33. They get encouraged                 ... pos = 1.625 	neg = 0.375
+34. One problem I saw wa                ... pos = 0.875 	neg = 0.125
+35. Gary and Dave alread                ... pos = 0.875 	neg = 0.125
+36. One day they are str                ... pos = 0.5   	neg = 0.0  
+37. The relationship bet                ... pos = 0.25  	neg = 0.0  
+38. I suppose a case cou                ... pos = 0.25  	neg = 0.75 
+39. All in all, THE FULL                ... pos = 0.5   	neg = 0.125
+40. While laughing at th                ... pos = 1.375 	neg = 0.25 
+41. While part of this h                ... pos = 0.0   	neg = 0.0  
+42. We'd like to see nor                ... pos = 0.125 	neg = 0.0  
+43. Although I didn't re                ... pos = 0.0   	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-747-781 is Positive          ... pos = 21.239 	neg = 14.0 
+Overall score of document
+Total Pos = 21.239
+Total Neg = 14.0
+---------------------------------------------------------------------------

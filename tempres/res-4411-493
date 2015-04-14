@@ -1,0 +1,53 @@
+0. A very funny film, a                 ... pos = 0.625 	neg = 0.0  
+1. Then it goes to a dr                 ... pos = 0.0   	neg = 0.903
+2. Patch Adams has its                  ... pos = 0.0   	neg = 0.0  
+3. Then, it does not ha                 ... pos = 0.75  	neg = 0.0  
+4. This is not somethin                 ... pos = 0.125 	neg = 0.125
+5. Some movies flip-flo                 ... pos = 0.375 	neg = 0.0  
+6. It actually changes                  ... pos = 0.0   	neg = 0.0  
+7. The first half of th                 ... pos = 1.125 	neg = 1.028
+8. But, then things go                  ... pos = 0.0   	neg = 0.125
+9. As said before, Robi                 ... pos = 0.5   	neg = 0.125
+10. He is great, at leas                ... pos = 0.25  	neg = 0.125
+11. Then, when things "g                ... pos = 0.375 	neg = 0.0  
+12. This part of the fil                ... pos = 0.0   	neg = 0.125
+13. In Good Will Hunting                ... pos = 1.625 	neg = 0.125
+14. At least in a suppor                ... pos = 0.375 	neg = 0.0  
+15. In Patch Adams, he f                ... pos = 0.0   	neg = 0.0  
+16. This role should hav                ... pos = 0.5   	neg = 0.0  
+17. Monica Potter, who l                ... pos = 0.125 	neg = 0.375
+18. She does nothing out                ... pos = 1.875 	neg = 0.375
+19. She is there for som                ... pos = 0.125 	neg = 0.125
+20. Daniel London plays                 ... pos = 0.125 	neg = 0.125
+21. He really does nothi                ... pos = 0.0   	neg = 0.25 
+22. The rest of the cast                ... pos = 0.0   	neg = 0.125
+23. The main theme throu                ... pos = 0.375 	neg = 0.375
+24. " The humor that sta                ... pos = 0.375 	neg = 0.75 
+25. From Williams' plain                ... pos = 0.25  	neg = 0.125
+26. This comes in comple                ... pos = 0.0   	neg = 0.0  
+27. When the drama half                 ... pos = 0.125 	neg = 0.125
+28. Williams does have s                ... pos = 1.125 	neg = 0.0  
+29. But, he does not lea                ... pos = 0.0   	neg = 0.0  
+30. Monica Potter's part                ... pos = 0.625 	neg = 0.25 
+31. The sluggish pace is                ... pos = 0.0   	neg = 0.125
+32. If the humor in the                 ... pos = 0.125 	neg = 0.25 
+33. However, the sharp c                ... pos = 0.25  	neg = 0.875
+34. The only time that t                ... pos = 2.25  	neg = 0.25 
+35. Potter is basically                 ... pos = 0.25  	neg = 0.125
+36. She seems to bring o                ... pos = 0.375 	neg = 0.25 
+37. I had big doubts for                ... pos = 0.0   	neg = 0.0  
+38. Then came the ending                ... pos = 0.0   	neg = 0.0  
+39. The ending was great                ... pos = 0.0   	neg = 0.125
+40. You might perceive i                ... pos = 0.375 	neg = 0.875
+41. Monica's death (sorr                ... pos = 1.625 	neg = 0.75 
+42. Overall, Patch Adams                ... pos = 0.75  	neg = 0.125
+43. I would like to give                ... pos = 0.0   	neg = 0.125
+44. If you like comedy,                 ... pos = 0.125 	neg = 0.0  
+45. But, it is a decent                 ... pos = 0.0   	neg = 0.125
+46. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4411-493 is Positive         ... pos = 18.0  	neg = 9.681
+Overall score of document
+Total Pos = 18.0
+Total Neg = 9.681
+---------------------------------------------------------------------------

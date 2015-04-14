@@ -1,0 +1,20 @@
+0. Lost Highway, the mo                 ... pos = 0.25  	neg = 0.875
+1. Compared to this, it                 ... pos = 0.0   	neg = 0.0  
+2. Saxaphone player Fre                 ... pos = 0.0   	neg = 0.0  
+3. They are set on the                  ... pos = 0.25  	neg = 0.0  
+4. This continues until                 ... pos = 0.25  	neg = 0.25 
+5. Fred is put in jail,                 ... pos = 0.25  	neg = 0.625
+6. Mechanic Pete Dayton                 ... pos = 0.5   	neg = 0.75 
+7. ) He introduces him                  ... pos = 0.25  	neg = 0.375
+8. Sound like a soap op                 ... pos = 0.0   	neg = 0.0  
+9. Not really...the chi                 ... pos = 0.444 	neg = 0.375
+10. Also, the use of sil                ... pos = 0.75  	neg = 0.25 
+11. The video features a                ... pos = 0.0   	neg = 1.0  
+12. But until we find th                ... pos = 0.0   	neg = 0.125
+13. ADDITIONAL NOTE: I h                ... pos = 1.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5865-329 is Negative         ... pos = 4.069 	neg = 4.875
+Overall score of document
+Total Pos = 4.069
+Total Neg = 4.875
+---------------------------------------------------------------------------

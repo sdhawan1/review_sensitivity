@@ -1,0 +1,29 @@
+0. It has been my impre                 ... pos = 1.0   	neg = 0.375
+1. Steven Spielberg's S                 ... pos = 0.625 	neg = 1.0  
+2. Instead, Spielberg p                 ... pos = 0.0   	neg = 0.5  
+3. The opening sequence                 ... pos = 0.625 	neg = 0.125
+4. I haven't seen enoug                 ... pos = 1.125 	neg = 0.5  
+5. Hundreds of American                 ... pos = 0.25  	neg = 0.0  
+6. The death scenes are                 ... pos = 0.5   	neg = 0.125
+7. As Spielberg has sai                 ... pos = 0.625 	neg = 0.125
+8. Among the survivors                  ... pos = 0.5   	neg = 0.25 
+9. Many war films might                 ... pos = 0.625 	neg = 0.75 
+10. Is this a public rel                ... pos = 0.75  	neg = 1.25 
+11. And even if the comm                ... pos = 0.5   	neg = 0.0  
+12. The aspect of SAVING                ... pos = 1.75  	neg = 0.125
+13. Spielberg does not r                ... pos = 0.5   	neg = 0.25 
+14. The one character wh                ... pos = 0.875 	neg = 0.375
+15. He even refuses to d                ... pos = 0.0   	neg = 0.125
+16. The most accessible                 ... pos = 1.5   	neg = 0.375
+17. He finds himself sca                ... pos = 0.75  	neg = 0.75 
+18. Spielberg plays his                 ... pos = 2.0   	neg = 0.75 
+19. SAVING PRIVATE RYAN                 ... pos = 0.5   	neg = 0.25 
+20. Which, considering i                ... pos = 1.25  	neg = 0.5  
+21. I cannot, however, i                ... pos = 2.0   	neg = 1.0  
+22. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-716 is Positive         ... pos = 18.25 	neg = 9.5  
+Overall score of document
+Total Pos = 18.25
+Total Neg = 9.5
+---------------------------------------------------------------------------

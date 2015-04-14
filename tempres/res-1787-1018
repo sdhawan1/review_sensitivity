@@ -1,0 +1,29 @@
+0. Based on the Boris K                 ... pos = 1.5   	neg = 1.125
+1. Recap a few thousand                 ... pos = 0.125 	neg = 0.0  
+2. Problem is that the                  ... pos = 0.125 	neg = 0.375
+3. Walking in with rela                 ... pos = 0.75  	neg = 0.375
+4. The visuals and CGI                  ... pos = 0.625 	neg = 0.0  
+5. They pack a ton of d                 ... pos = 0.125 	neg = 0.0  
+6. The computer special                 ... pos = 1.375 	neg = 0.0  
+7. Unfortunately, the f                 ... pos = 0.125 	neg = 1.25 
+8. On one hand, it is a                 ... pos = 0.0   	neg = 0.125
+9. On the other, it's a                 ... pos = 0.625 	neg = 0.0  
+10. And on the side, it'                ... pos = 0.25  	neg = 0.0  
+11. Ideally, for it to b                ... pos = 1.875 	neg = 0.25 
+12. The problem with thi                ... pos = 1.75  	neg = 0.375
+13. If they were trying                 ... pos = 0.0   	neg = 1.75 
+14. And then there's the                ... pos = 0.25  	neg = 0.0  
+15. While really well do                ... pos = 0.25  	neg = 0.0  
+16. Replace the sword wi                ... pos = 0.5   	neg = 0.5  
+17. While entertaining a                ... pos = 0.125 	neg = 0.0  
+18. But at least it's a                 ... pos = 0.875 	neg = 0.375
+19. On the whole, the mo                ... pos = 0.625 	neg = 0.125
+20. But I must end my re                ... pos = 0.375 	neg = 0.0  
+21. While a lot of theat                ... pos = 1.375 	neg = 0.375
+22. When they were showi                ... pos = 0.0   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1787-1018 is Positive        ... pos = 13.625 	neg = 7.375
+Overall score of document
+Total Pos = 13.625
+Total Neg = 7.375
+---------------------------------------------------------------------------

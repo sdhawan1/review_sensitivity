@@ -1,0 +1,58 @@
+0. Writer: Terence Mali                 ... pos = 0.125 	neg = 1.25 
+1. So  many movies I se                 ... pos = 0.5   	neg = 1.0  
+2. For an example of th                 ... pos = 0.125 	neg = 0.25 
+3. But with "The Thin R                 ... pos = 0.25  	neg = 0.0  
+4. This film has either                 ... pos = 0.75  	neg = 0.375
+5. I suppose being admi                 ... pos = 0.875 	neg = 1.125
+6. It  has a wonderful                  ... pos = 1.125 	neg = 0.0  
+7. " And  there's a who                 ... pos = 3.375 	neg = 0.25 
+8. But what exactly is                  ... pos = 0.5   	neg = 1.5  
+9. "The Thin Red Line"                  ... pos = 1.375 	neg = 0.125
+10. As the story begins,                ... pos = 1.125 	neg = 0.25 
+11. One of the AWOL sold                ... pos = 0.0   	neg = 0    
+12. Witt  (Jim Caviezel)                ... pos = 0.125 	neg = 0.125
+13. Welsh (Sean Penn), a                ... pos = 0.5   	neg = 0.5  
+14. But this film isn't                 ... pos = 0.0   	neg = 0.125
+15. Malick's film, also                 ... pos = 0.875 	neg = 0.0  
+16. In fact, it'd be not                ... pos = 1.125 	neg = 1.625
+17. A correct statement,                ... pos = 0.375 	neg = 0.0  
+18. I believe in the  la                ... pos = 0.125 	neg = 0.0  
+19. The plot soon kicks                 ... pos = 0.0   	neg = 0.0  
+20. The  Lieutenenant, a                ... pos = 0.875 	neg = 1.25 
+21. Captain Staros (Elia                ... pos = 0.375 	neg = 1.0  
+22. Pvt.                                ... pos = 0     	neg = 0    
+23. Bell  (Ben Chaplin,                 ... pos = 0.375 	neg = 0.125
+24. Most of the others a                ... pos = 0.75  	neg = 1.25 
+25. In fact, the amount                 ... pos = 0.125 	neg = 1.25 
+26. The main part of the                ... pos = 0.875 	neg = 0.875
+27. I can only attribute                ... pos = 1.125 	neg = 0.125
+28. A  friend noticed no                ... pos = 3.25  	neg = 1.625
+29. In fact, this entire                ... pos = 0.25  	neg = 0.125
+30. Malick, as usual, br                ... pos = 3.0   	neg = 0.125
+31. But that's what I li                ... pos = 0.25  	neg = 0.0  
+32. " It's like every  s                ... pos = 2.25  	neg = 0.125
+33. But each narration o                ... pos = 1.75  	neg = 0.5  
+34. Yet at the same  tim                ... pos = 1.25  	neg = 1.125
+35. But again, where is                 ... pos = 0.0   	neg = 0.125
+36. Is he trying to mere                ... pos = 0.0   	neg = 0.75 
+37. If he is, he's not o                ... pos = 1.875 	neg = 1.0  
+38. Or is he trying to s                ... pos = 0.375 	neg = 0.625
+39. Well...that would be                ... pos = 0.375 	neg = 1.0  
+40. Or is he trying to s                ... pos = 0.0   	neg = 0.625
+41. Again, if this was w                ... pos = 0.125 	neg = 0.25 
+42. Or, as my best guess                ... pos = 0.375 	neg = 1.0  
+43. He doesn't seem to j                ... pos = 0.125 	neg = 0.0  
+44. The entire film is s                ... pos = 0.375 	neg = 0.25 
+45. Could this be the  l                ... pos = 1.0   	neg = 0.25 
+46. Malick?).                           ... pos = 0     	neg = 0    
+47. Or is Malick just pu                ... pos = 0.0   	neg = 1.0  
+48. Whatever this film m                ... pos = 0.375 	neg = 1.625
+49. But the point is tha                ... pos = 1.0   	neg = 1.0  
+50. Frustrating, yes, bu                ... pos = 0.75  	neg = 0.0  
+51. Home page at: http:/                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-534-1493 is Positive         ... pos = 36.5  	neg = 27.5 
+Overall score of document
+Total Pos = 36.5
+Total Neg = 27.5
+---------------------------------------------------------------------------

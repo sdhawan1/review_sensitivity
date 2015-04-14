@@ -1,0 +1,21 @@
+0. Ingredients:  Post-A                 ... pos = 0.875 	neg = 0.875
+1. The United States ha                 ... pos = 0.25  	neg = 0.25 
+2. Civilization is redu                 ... pos = 0.125 	neg = 0.125
+3. All that is left are                 ... pos = 0.625 	neg = 0.792
+4. Enter a traveling be                 ... pos = 0.0   	neg = 0.875
+5. One day Shakespeare                  ... pos = 0.0   	neg = 0    
+6. To get accepted into                 ... pos = 0.5   	neg = 0.125
+7. To everyone's surpri                 ... pos = 0.5   	neg = 0.75 
+8. Opinion: Costner see                 ... pos = 0.0   	neg = 0.25 
+9. This movie seems par                 ... pos = 0.375 	neg = 0.25 
+10. Eric Roth, the scree                ... pos = 0.5   	neg = 0.5  
+11. THE POSTMAN tries to                ... pos = 0.125 	neg = 0.375
+12. If you go for a lot                 ... pos = 0.125 	neg = 1.125
+13. However, If you're n                ... pos = 0.125 	neg = 0.625
+14. The way to approach                 ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4039-416 is Negative         ... pos = 4.75  	neg = 7.042
+Overall score of document
+Total Pos = 4.75
+Total Neg = 7.042
+---------------------------------------------------------------------------

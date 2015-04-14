@@ -1,0 +1,42 @@
+0. Summary     Mistaken                 ... pos = 0.0   	neg = 0.5  
+1. Two thugs invade his                 ... pos = 0.0   	neg = 0.625
+2. The only problem is                  ... pos = 0.0   	neg = 1.5  
+3. The thugs leave, but                 ... pos = 0.0   	neg = 0.0  
+4. The Dude wants repar                 ... pos = 0.125 	neg = 0.0  
+5. After conferring wit                 ... pos = 0.375 	neg = 0.625
+6. It does not go well,                 ... pos = 0.0   	neg = 0.125
+7. The Dude's dealings                  ... pos = 0.375 	neg = 0.25 
+8. It appears that Bunn                 ... pos = 0.0   	neg = 0.25 
+9. The Dude accepts and                 ... pos = 0.0   	neg = 0.5  
+10. Nothing worse could                 ... pos = 0.25  	neg = 1.125
+11. Could the scenario p                ... pos = 0.0   	neg = 0.625
+12. His love interest is                ... pos = 0.625 	neg = 0.5  
+13. She is quite a chara                ... pos = 1.25  	neg = 0.375
+14. The Dude must deal w                ... pos = 1.5   	neg = 0.75 
+15. Commentary     After                ... pos = 0.125 	neg = 0.875
+16. Two hours later I st                ... pos = 0.25  	neg = 0.0  
+17. To call this film "o                ... pos = 0.0   	neg = 0.125
+18. There are some truly                ... pos = 1.125 	neg = 0.5  
+19. The Big Lebowski fal                ... pos = 0.0   	neg = 0.25 
+20. The Coen's definitel                ... pos = 0.25  	neg = 0.0  
+21. If you were to walk                 ... pos = 0.125 	neg = 0.375
+22. The Big Lebowski's h                ... pos = 3.375 	neg = 0.25 
+23. All of these element                ... pos = 0.25  	neg = 0    
+24. Jeff Bridges does a                 ... pos = 1.5   	neg = 0.625
+25. This film is funny a                ... pos = 0.0   	neg = 0.125
+26. What I did not like                 ... pos = 0.375 	neg = 0.5  
+27. I enjoy offbeat film                ... pos = 0.375 	neg = 0.75 
+28. It tries too hard.                  ... pos = 0.0   	neg = 1.5  
+29. What was the point i                ... pos = 0.875 	neg = 0.25 
+30. What was with those                 ... pos = 0.75  	neg = 0.125
+31. I usually dislike dr                ... pos = 0.375 	neg = 0.0  
+32. The only normal char                ... pos = 0.875 	neg = 0.125
+33. It would have been n                ... pos = 0.25  	neg = 1.0  
+34. However, I will stil                ... pos = 0.875 	neg = 0.25 
+35. Directed by Joel Coe                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5626-1562 is Positive        ... pos = 16.375 	neg = 15.625
+Overall score of document
+Total Pos = 16.375
+Total Neg = 15.625
+---------------------------------------------------------------------------

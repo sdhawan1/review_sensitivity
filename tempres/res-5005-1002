@@ -1,0 +1,50 @@
+0. Written by Stephen P                 ... pos = 0.0   	neg = 0.0  
+1. Directed by John McN                 ... pos = 0.0   	neg = 0    
+2. Starring Kevin Bacon                 ... pos = 0.125 	neg = 0.0  
+3. Rated R (contains nu                 ... pos = 0.125 	neg = 0.5  
+4. Synopsis:  A wild te                 ... pos = 0.125 	neg = 0.75 
+5. Comments:  For this                  ... pos = 0.75  	neg = 0.0  
+6. This may become a tr                 ... pos = 0.375 	neg = 1.125
+7. Anyway, this week's                  ... pos = 0.0   	neg = 0.375
+8. The movie, in fact,                  ... pos = 0.75  	neg = 0.0  
+9. Let's be blunt for a                 ... pos = 0.0   	neg = 0.125
+10. Veteran film actors                 ... pos = 0.75  	neg = 0.0  
+11. WILD THINGS' produce                ... pos = 0.125 	neg = 0.375
+12. The movie posters pr                ... pos = 0.375 	neg = 0.125
+13. I suspect the target                ... pos = 0.375 	neg = 0.625
+14. If one's only reason                ... pos = 0.125 	neg = 0.5  
+15. A menage a trois doe                ... pos = 0.5   	neg = 0.75 
+16. The two also kiss a                 ... pos = 1.25  	neg = 0.125
+17. Neve Campbell, by th                ... pos = 0.0   	neg = 0.125
+18. Sorry, guys.                        ... pos = 0     	neg = 0.625
+19. WILD THINGS' adverti                ... pos = 0.125 	neg = 1.375
+20. The actors turn in h                ... pos = 0.625 	neg = 1.25 
+21. My friend and I chuc                ... pos = 0.25  	neg = 0.125
+22. Don't go see WILD TH                ... pos = 0.0   	neg = 0.375
+23. (It's an amusing exe                ... pos = 2.25  	neg = 0.75 
+24. )  . Part of the fil                ... pos = 0.125 	neg = 0    
+25. A number of fine, fi                ... pos = 1.0   	neg = 0.0  
+26. The attractive, youn                ... pos = 1.875 	neg = 0.125
+27. Neve Campbell, the s                ... pos = 0.125 	neg = 0.125
+28. The best supporting                 ... pos = 0.75  	neg = 0.0  
+29. Bill Murray, in part                ... pos = 0.0   	neg = 0.125
+30. Robert Wagner is hil                ... pos = 0.25  	neg = 0.25 
+31. He seems to be doing                ... pos = 0.0   	neg = 0.25 
+32. Despite its humorous                ... pos = 0.75  	neg = 0.875
+33. While the first two-                ... pos = 0.125 	neg = 0.0  
+34. Without revealing to                ... pos = 1.125 	neg = 0.5  
+35. It becomes a cycle w                ... pos = 0.75  	neg = 0.5  
+36. Also, though this fi                ... pos = 0.5   	neg = 0.25 
+37. This seems inexcusab                ... pos = 0.25  	neg = 0.5  
+38. The audience should                 ... pos = 0.75  	neg = 0.375
+39. WILD THINGS ends on                 ... pos = 0.375 	neg = 0.25 
+40. Important background                ... pos = 2.25  	neg = 0.0  
+41. So, don't get up and                ... pos = 0.0   	neg = 0.0  
+42. All in all, WILD THI                ... pos = 1.125 	neg = 0.75 
+43. It's certainly not f                ... pos = 0.5   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5005-1002 is Positive        ... pos = 21.625 	neg = 15.5 
+Overall score of document
+Total Pos = 21.625
+Total Neg = 15.5
+---------------------------------------------------------------------------

@@ -1,0 +1,21 @@
+0. American History X i                 ... pos = 0.375 	neg = 0.125
+1. I have never been a                  ... pos = 0.0   	neg = 0.125
+2. Yet X displays its h                 ... pos = 1.25  	neg = 0.0  
+3. Derek Vinyard (Edwar                 ... pos = 0.125 	neg = 0.75 
+4. With a tatooed Swats                 ... pos = 1.25  	neg = 0.125
+5. But, while in jail,                  ... pos = 0.125 	neg = 0.625
+6. Maybe this Derek isn                 ... pos = 0.0   	neg = 0.375
+7. And, I'm sure it hel                 ... pos = 0.25  	neg = 0.125
+8. The title of the fil                 ... pos = 0.0   	neg = 0.375
+9. He must report why i                 ... pos = 1.125 	neg = 1.0  
+10. The moral point of X                ... pos = 0.25  	neg = 1.0  
+11. Yet, Norton's acting                ... pos = 2.25  	neg = 0.0  
+12. His Derek is an evil                ... pos = 0.375 	neg = 1.625
+13. He makes his psychot                ... pos = 1.25  	neg = 0.375
+14. The rest of the cast                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-499-170 is Positive          ... pos = 9.625 	neg = 6.625
+Overall score of document
+Total Pos = 9.625
+Total Neg = 6.625
+---------------------------------------------------------------------------

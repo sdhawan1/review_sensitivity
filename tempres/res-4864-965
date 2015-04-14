@@ -1,0 +1,32 @@
+0. Stories tend to come                 ... pos = 2.0   	neg = 0.5  
+1. Granted, as both of                  ... pos = 0.875 	neg = 0.0  
+2. But they're not: the                 ... pos = 1.25  	neg = 0.375
+3. There is still some                  ... pos = 0.0   	neg = 0.375
+4. It's just that now t                 ... pos = 0.625 	neg = 0.0  
+5. Which is to say the                  ... pos = 1.375 	neg = 1.125
+6. Of course, then, too                 ... pos = 1.875 	neg = 0.5  
+7. It's a sympathy-iden                 ... pos = 2.5   	neg = 1.75 
+8. And it's an interest                 ... pos = 1.5   	neg = 0.125
+9. And the years pass,                  ... pos = 0.125 	neg = 0.625
+10. And of course the cu                ... pos = 0.0   	neg = 0.125
+11. Thing is, though, th                ... pos = 0.0   	neg = 0.5  
+12. He does, after all,                 ... pos = 0.25  	neg = 0.25 
+13. Too, he can project                 ... pos = 0.0   	neg = 0.25 
+14. Add to this his immo                ... pos = 0.75  	neg = 0.25 
+15. We've got to have es                ... pos = 0.375 	neg = 0.0  
+16. This is how heroes a                ... pos = 0.25  	neg = 0.375
+17. It's not the only wa                ... pos = 0.0   	neg = 0.0  
+18. There also has to be                ... pos = 0.5   	neg = 0.125
+19. And of course the lo                ... pos = 1.75  	neg = 0.375
+20. Does society ever re                ... pos = 0.0   	neg = 0    
+21. As Bicentennial Man                 ... pos = 1.375 	neg = 0.0  
+22. Which is to say that                ... pos = 0.875 	neg = 0.5  
+23. And Bicentennial Man                ... pos = 0.375 	neg = 0.125
+24. Granted, not much re                ... pos = 0.5   	neg = 0.125
+25. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4864-965 is Positive         ... pos = 19.125 	neg = 8.375
+Overall score of document
+Total Pos = 19.125
+Total Neg = 8.375
+---------------------------------------------------------------------------

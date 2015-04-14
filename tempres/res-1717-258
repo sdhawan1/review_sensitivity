@@ -1,0 +1,24 @@
+0. Whether or not "Arli                 ... pos = 1.75  	neg = 0.125
+1. On the plus side, it                 ... pos = 0.75  	neg = 0.25 
+2. On the minus side, i                 ... pos = 0.0   	neg = 1.25 
+3. The movie was ready                  ... pos = 1.5   	neg = 0.875
+4. It finally saw a win                 ... pos = 0.0   	neg = 0.0  
+5. Jeff Bridges plays M                 ... pos = 0.0   	neg = 0.125
+6. He doesn't seem to h                 ... pos = 0.75  	neg = 0.875
+7. Until, that is, he m                 ... pos = 0.0   	neg = 0.125
+8. Oliver and Cheryl La                 ... pos = 0.375 	neg = 0.0  
+9. But Michael, with pr                 ... pos = 0.25  	neg = 1.0  
+10. He can't convince an                ... pos = 0.0   	neg = 0.0  
+11. A premise of the mov                ... pos = 0.5   	neg = 0.375
+12. The core idea on whi                ... pos = 0.875 	neg = 0.75 
+13. It's the kind of mov                ... pos = 0.0   	neg = 0.0  
+14. It fails Alfred Hitc                ... pos = 0.875 	neg = 0.5  
+15. The ending toward wh                ... pos = 1.375 	neg = 0.25 
+16. If my plan for blowi                ... pos = 0.75  	neg = 0.0  
+17. Bridges and Robbins                 ... pos = 2.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1717-258 is Positive         ... pos = 12.5  	neg = 6.5  
+Overall score of document
+Total Pos = 12.5
+Total Neg = 6.5
+---------------------------------------------------------------------------

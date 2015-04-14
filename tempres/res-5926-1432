@@ -1,0 +1,27 @@
+0. South Park: Bigger,                  ... pos = 0.125 	neg = 0.0  
+1. See it with an audie                 ... pos = 0.0   	neg = 0.0  
+2. It's a rare  thing f                 ... pos = 0.5   	neg = 0.25 
+3. SOUTH PARK: BIGGER,                  ... pos = 0.5   	neg = 0.25 
+4. Whether it ever scre                 ... pos = 0.0   	neg = 1.375
+5. Its two most puerile                 ... pos = 1.625 	neg = 0.25 
+6. The mothers of the                   ... pos = 0.0   	neg = 0.25 
+7. Of course these are                  ... pos = 0.625 	neg = 0.625
+8. I won't get into any                 ... pos = 0.0   	neg = 3.0  
+9. Nuff said.                           ... pos = 0     	neg = 0.0  
+10. SOUTH PARK is a riot                ... pos = 1.125 	neg = 0.375
+11. The pretext for gett                ... pos = 0.0   	neg = 0.25 
+12. For the first half h                ... pos = 0.25  	neg = 0.375
+13. As is often  the cas                ... pos = 0.0   	neg = 0.125
+14. It  wouldn't have be                ... pos = 0.0   	neg = 0.125
+15. There  would have be                ... pos = 1.5   	neg = 1.375
+16. And then of course t                ... pos = 0.25  	neg = 0.0  
+17. As  tiresome as thes                ... pos = 0.875 	neg = 1.0  
+18. Surprisingly the son                ... pos = 1.125 	neg = 0.25 
+19. It's too bad they wo                ... pos = 0.375 	neg = 1.25 
+20. I  would have loved                 ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5926-1432 is Negative        ... pos = 10.0  	neg = 11.125
+Overall score of document
+Total Pos = 10.0
+Total Neg = 11.125
+---------------------------------------------------------------------------

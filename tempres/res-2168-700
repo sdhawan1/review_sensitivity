@@ -1,0 +1,28 @@
+0. Release Date: Septem                 ... pos = 0.625 	neg = 0.25 
+1. A poorly-written scr                 ... pos = 1.0   	neg = 1.0  
+2. In directing his lat                 ... pos = 0.0   	neg = 1.028
+3. In addition, RUSH HO                 ... pos = 0.25  	neg = 0.125
+4. The two lead names s                 ... pos = 0.375 	neg = 0.0  
+5. Jackie Chan, in his                  ... pos = 0.625 	neg = 0.0  
+6. The other martial ar                 ... pos = 0.875 	neg = 0.875
+7. Chan manages to make                 ... pos = 1.125 	neg = 0.25 
+8. Chris Tucker, on the                 ... pos = 0.25  	neg = 0.0  
+9. He works perfectly w                 ... pos = 0.5   	neg = 0.0  
+10. Almost essential to                 ... pos = 0.0   	neg = 0.875
+11. We're quickly introd                ... pos = 0.125 	neg = 0.125
+12. Cut forward to anoth                ... pos = 0.875 	neg = 0.25 
+13. The FBI is quick to                 ... pos = 0.25  	neg = 0.25 
+14. The FBI resists, but                ... pos = 0.125 	neg = 0.0  
+15. It's here that Carte                ... pos = 0.0   	neg = 0.0  
+16. Rattner does a fine                 ... pos = 0.375 	neg = 0.0  
+17. There are moments wh                ... pos = 0.625 	neg = 1.5  
+18. Also, some supportin                ... pos = 2.25  	neg = 0.5  
+19. However, none gives                 ... pos = 0.375 	neg = 0.0  
+20. Almost every member                 ... pos = 0.25  	neg = 0.125
+21. A recommendable visi                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2168-700 is Positive         ... pos = 10.875 	neg = 7.153
+Overall score of document
+Total Pos = 10.875
+Total Neg = 7.153
+---------------------------------------------------------------------------

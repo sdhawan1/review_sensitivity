@@ -1,0 +1,32 @@
+0. filmcritic.com prese                 ... pos = 0.0   	neg = 0.0  
+1. You can find the rev                 ... pos = 0.5   	neg = 0.25 
+2. Our news media is sa                 ... pos = 1.25  	neg = 0.5  
+3. There are a number o                 ... pos = 0.833 	neg = 0.125
+4. BOILER ROOM tries to                 ... pos = 0.125 	neg = 1.375
+5. BOILER ROOM is the s                 ... pos = 0.625 	neg = 0.125
+6. After concluding rat                 ... pos = 0.625 	neg = 0.0  
+7. After his disapprovi                 ... pos = 0.5   	neg = 0.5  
+8. Marlin.                              ... pos = 0     	neg = 0    
+9. As it turns out, the                 ... pos = 0.75  	neg = 1.125
+10. When Seth's father d                ... pos = 0.375 	neg = 0.25 
+11. Though he has only a                ... pos = 1.75  	neg = 0.25 
+12. In fact, Affleck's b                ... pos = 0.75  	neg = 0.125
+13. This is not the only                ... pos = 0.25  	neg = 0.125
+14. Later in the film, w                ... pos = 0.375 	neg = 0.125
+15. Always Be Closing.                  ... pos = 0.0   	neg = 0.125
+16. "  BOILER ROOM also                 ... pos = 0.25  	neg = 0.875
+17. Not only drawing its                ... pos = 0.5   	neg = 0.125
+18. As a movie, BOILER R                ... pos = 0.125 	neg = 0.375
+19. Vin Diesel in partic                ... pos = 1.0   	neg = 0.625
+20. Marlin.                             ... pos = 0     	neg = 0    
+21. Sadly though, Ben Yo                ... pos = 1.25  	neg = 0.875
+22. Even the film's most                ... pos = 1.375 	neg = 1.0  
+23. The most admirable o                ... pos = 1.0   	neg = 0.625
+24. I would urge the sam                ... pos = 0.0   	neg = 0.0  
+25. Director: Ben Younge                ... pos = 0.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-1960-1082 is Positive        ... pos = 14.583 	neg = 9.875
+Overall score of document
+Total Pos = 14.583
+Total Neg = 9.875
+---------------------------------------------------------------------------

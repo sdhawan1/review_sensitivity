@@ -1,0 +1,57 @@
+0. Directed by James Wo                 ... pos = 0.0   	neg = 0    
+1. Screenplay by Glen M                 ... pos = 0.0   	neg = 0.0  
+2. Starring Devon Sawa,                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 102 mi                 ... pos = 0     	neg = 0.0  
+4. Rated R (MFCB).                      ... pos = 0.125 	neg = 0.0  
+5. Reviewed on April 13                 ... pos = 0.0   	neg = 0.0  
+6. Since "Scream" reviv                 ... pos = 1.25  	neg = 0.5  
+7. Films like "I Know W                 ... pos = 0.625 	neg = 0.125
+8. Now comes the latest                 ... pos = 0.5   	neg = 0.25 
+9. But while the trappi                 ... pos = 0.125 	neg = 0.875
+10. While by no means a                 ... pos = 0.5   	neg = 1.25 
+11. As the film opens, a                ... pos = 0.0   	neg = 0.125
+12. One student, Alex Br                ... pos = 0.5   	neg = 0.25 
+13. Convinced he has  ex                ... pos = 0.125 	neg = 1.625
+14. He ends up fighting                 ... pos = 1.625 	neg = 0.75 
+15. Except for Clear, th                ... pos = 0.75  	neg = 0.375
+16. Alex is treated like                ... pos = 0.0   	neg = 0.125
+17. Some people (includi                ... pos = 1.25  	neg = 0.125
+18. But then, one by one                ... pos = 1.125 	neg = 0.0  
+19. He slowly comes to b                ... pos = 0.25  	neg = 0.25 
+20. Having cheated Death                ... pos = 0.0   	neg = 0.0  
+21. "Final Destination"                 ... pos = 0.5   	neg = 0.125
+22. The former might be,                ... pos = 1.5   	neg = 2.25 
+23. The script, by Glen                 ... pos = 1.25  	neg = 0.0  
+24. There's the stereoty                ... pos = 0.125 	neg = 0.625
+25. What if the things w                ... pos = 0.25  	neg = 0.0  
+26. asks Alex.                          ... pos = 0.125 	neg = 0    
+27. It is a question wit                ... pos = 0.0   	neg = 0.125
+28. But as much as "Fina                ... pos = 0.625 	neg = 1.0  
+29. The identities of th                ... pos = 0.0   	neg = 0.0  
+30. ) are not hard to gu                ... pos = 0.25  	neg = 1.0  
+31. We know people are g                ... pos = 0.75  	neg = 0.125
+32. It's not helped that                ... pos = 0.5   	neg = 0.125
+33. These touches added                 ... pos = 1.125 	neg = 0.125
+34. The script is also h                ... pos = 0.0   	neg = 0.125
+35. For example, after t                ... pos = 0.0   	neg = 0.125
+36. A similar stretch of                ... pos = 0.375 	neg = 0.0  
+37. Did the Grim Reaper                 ... pos = 0.0   	neg = 0.0  
+38. Also, we never learn                ... pos = 0.25  	neg = 0.375
+39. All this said, "Fina                ... pos = 0.5   	neg = 0.125
+40. The writers deserve                 ... pos = 1.125 	neg = 0.0  
+41. The cast of "Final D                ... pos = 0.125 	neg = 0.125
+42. Sawa spends a little                ... pos = 0.125 	neg = 0.625
+43. The direction, by co                ... pos = 0.25  	neg = 0.125
+44. Indeed, "Final Desti                ... pos = 1.625 	neg = 1.5  
+45. "Final Destination"                 ... pos = 0.75  	neg = 1.0  
+46. It doesn't just tell                ... pos = 0.0   	neg = 0.5  
+47. "Final Destination"                 ... pos = 0.25  	neg = 0.875
+48. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+49. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+50. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5575-1444 is Positive        ... pos = 21.625 	neg = 17.625
+Overall score of document
+Total Pos = 21.625
+Total Neg = 17.625
+---------------------------------------------------------------------------

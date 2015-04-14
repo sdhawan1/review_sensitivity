@@ -1,0 +1,24 @@
+0. Release Date: April                  ... pos = 1.375 	neg = 0.375
+1. Doug Liman (SWINGERS                 ... pos = 0.125 	neg = 0.375
+2. In his latest, he gi                 ... pos = 0.625 	neg = 0.5  
+3. But he fails to come                 ... pos = 0.0   	neg = 0.5  
+4. His movie is produce                 ... pos = 0.5   	neg = 0.625
+5. Consistent with this                 ... pos = 0.0   	neg = 0.0  
+6. The thread that lace                 ... pos = 0.375 	neg = 0.125
+7. In story A we have c                 ... pos = 0.625 	neg = 0.25 
+8. Neither of the three                 ... pos = 1.0   	neg = 0.375
+9. (In fact, the movie                  ... pos = 0.125 	neg = 0.125
+10. ) The early April re                ... pos = 0.5   	neg = 0.75 
+11. The characters are s                ... pos = 0.875 	neg = 0.0  
+12. In fact, even bigger                ... pos = 0.125 	neg = 0.0  
+13. Although that's almo                ... pos = 0.25  	neg = 0.375
+14. GO doesn't have this                ... pos = 0.0   	neg = 0.0  
+15. As far as teen movie                ... pos = 0.75  	neg = 0.25 
+16. (The following do no                ... pos = 0.25  	neg = 0.0  
+17. ) At times, the humo                ... pos = 1.25  	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-5367-700 is Positive         ... pos = 8.75  	neg = 5.875
+Overall score of document
+Total Pos = 8.75
+Total Neg = 5.875
+---------------------------------------------------------------------------

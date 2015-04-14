@@ -1,0 +1,33 @@
+0. Release Date: Februa                 ... pos = 1.25  	neg = 0.0  
+1. Now, instead of emph                 ... pos = 1.375 	neg = 0.0  
+2. This realist tendanc                 ... pos = 0.625 	neg = 0.125
+3. Most of today's main                 ... pos = 0.25  	neg = 0.625
+4. That's why pictures                  ... pos = 1.875 	neg = 0.0  
+5. The movie is based o                 ... pos = 0.5   	neg = 0.125
+6. It's a well-known fa                 ... pos = 0.25  	neg = 0.0  
+7. The mine, which is r                 ... pos = 0.125 	neg = 0.25 
+8. After watching the S                 ... pos = 0.0   	neg = 0.375
+9. " Drafting two of hi                 ... pos = 1.0   	neg = 0    
+10. With the help of the                ... pos = 0.75  	neg = 0.0  
+11. October Sky is a ski                ... pos = 1.0   	neg = 0.125
+12. Johnston -- whose ca                ... pos = 0.375 	neg = 0.0  
+13. He molds characters                 ... pos = 2.125 	neg = 0.125
+14. He does not push any                ... pos = 0.0   	neg = 0.0  
+15. His finesse brings o                ... pos = 0.375 	neg = 0.625
+16. The cast is well cho                ... pos = 0.75  	neg = 0.125
+17. Laura Dern (JURASSIC                ... pos = 1.375 	neg = 0.125
+18. Her role is instantl                ... pos = 0.125 	neg = 0.125
+19. Chris Cooper (THE HO                ... pos = 1.375 	neg = 0.625
+20. He's definitely a dr                ... pos = 1.5   	neg = 0.125
+21. The script is genera                ... pos = 1.75  	neg = 0.125
+22. There are moments wh                ... pos = 0.875 	neg = 0.0  
+23. It highlights the es                ... pos = 0.5   	neg = 0.125
+24. OCTOBER SKY should b                ... pos = 0.125 	neg = 0.125
+25. Although it doesn't                 ... pos = 0.75  	neg = 0.0  
+26. It's a welcome chang                ... pos = 0.75  	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2340-700 is Positive         ... pos = 21.75 	neg = 3.875
+Overall score of document
+Total Pos = 21.75
+Total Neg = 3.875
+---------------------------------------------------------------------------

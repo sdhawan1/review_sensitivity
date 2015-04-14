@@ -1,0 +1,29 @@
+0. BLADE is the single                  ... pos = 0.375 	neg = 0.125
+1. Not only is it adapt                 ... pos = 0.375 	neg = 0.125
+2. It works.                            ... pos = 0.0   	neg = 0    
+3. As someone else once                 ... pos = 0.0   	neg = 0.25 
+4. ". Wesley Snipes sta                 ... pos = 0.875 	neg = 0.25 
+5. Thanks to this, he h                 ... pos = 2.125 	neg = 0.0  
+6. The war is about to                  ... pos = 0.0   	neg = 1.625
+7. Blade outfits himsel                 ... pos = 0.75  	neg = 0.75 
+8. Into the middle of t                 ... pos = 2.0   	neg = 0.5  
+9. She's convinced ther                 ... pos = 0.625 	neg = 1.25 
+10. BLADE stands out for                ... pos = 0.0   	neg = 0.0  
+11. I mentioned the look                ... pos = 0.75  	neg = 0.0  
+12. Rather than cap off                 ... pos = 0.75  	neg = 2.0  
+13. The result is that i                ... pos = 0.75  	neg = 0.125
+14. There's also a good                 ... pos = 0.75  	neg = 0.625
+15. It all feels fresh.                 ... pos = 0.375 	neg = 0    
+16. Snipes plays Blade a                ... pos = 0.375 	neg = 0.0  
+17. When he grins and po                ... pos = 1.0   	neg = 0.0  
+18. Wright, as the docto                ... pos = 1.125 	neg = 0.75 
+19. There is one scene w                ... pos = 0.25  	neg = 0.5  
+20. There are other thin                ... pos = 1.25  	neg = 0.625
+21. There's also more th                ... pos = 0.0   	neg = 0.25 
+22. If it had just been                 ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5673-1046 is Positive        ... pos = 15.25 	neg = 10.0 
+Overall score of document
+Total Pos = 15.25
+Total Neg = 10.0
+---------------------------------------------------------------------------

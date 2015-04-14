@@ -1,0 +1,32 @@
+0. Rated PG-13: intense                 ... pos = 0.625 	neg = 0.0  
+1. Starring: Tom Cruise                 ... pos = 0.0   	neg = 0.0  
+2. In 1996, the world g                 ... pos = 0.0   	neg = 0.0  
+3. Although the film wa                 ... pos = 0.0   	neg = 1.125
+4. Sure it had action,                  ... pos = 0.625 	neg = 0.25 
+5. A sequel had been in                 ... pos = 0.25  	neg = 0.625
+6. Tom Cruise returns a                 ... pos = 0.0   	neg = 0.125
+7. Anyway this time his                 ... pos = 0.625 	neg = 0.0  
+8. Ethan Hunt, has to t                 ... pos = 0.75  	neg = 0.125
+9. Of course this is al                 ... pos = 0.0   	neg = 1.875
+10. With Tom Cruise retu                ... pos = 1.25  	neg = 0.0  
+11. He fits well into th                ... pos = 0.25  	neg = 0.25 
+12. Thandie Newton is a                 ... pos = 0.0   	neg = 0.25 
+13. Here she is all out                 ... pos = 0.0   	neg = 0.125
+14. She is a beautiful a                ... pos = 0.75  	neg = 0.125
+15. Dougray Scott who as                ... pos = 1.25  	neg = 2.75 
+16. The rest of the cast                ... pos = 0.5   	neg = 0.375
+17. John Woo is such a f                ... pos = 0.375 	neg = 0.25 
+18. I mean some of these                ... pos = 0.5   	neg = 0.125
+19. His 1997 film "Face/                ... pos = 0.0   	neg = 0.875
+20. The action in the mo                ... pos = 0.0   	neg = 0.25 
+21. So even though like                 ... pos = 0.25  	neg = 0.125
+22. Its a typical action                ... pos = 0.125 	neg = 0.875
+23. See it and have fun!                ... pos = 0.0   	neg = 0.0  
+24. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+25. For more reviews ple                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3599-480 is Negative         ... pos = 8.125 	neg = 10.5 
+Overall score of document
+Total Pos = 8.125
+Total Neg = 10.5
+---------------------------------------------------------------------------

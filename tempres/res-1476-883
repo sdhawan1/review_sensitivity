@@ -1,0 +1,24 @@
+0. The crew of the Ente                 ... pos = 0.125 	neg = 0.125
+1. The film stars the c                 ... pos = 0.0   	neg = 0.0  
+2. Captain Jean-Luc Pic                 ... pos = 0.0   	neg = 0.25 
+3. Some new faces are s                 ... pos = 0.625 	neg = 0.0  
+4. This 8th episode in                  ... pos = 0.0   	neg = 0.0  
+5. "  Zefrum Cochrane (                 ... pos = 0.75  	neg = 0.375
+6. Aliens are to pick t                 ... pos = 0.25  	neg = 0.0  
+7. This is a turning po                 ... pos = 0.0   	neg = 0.125
+8. The Borg, lead by th                 ... pos = 0.0   	neg = 0.75 
+9. In past films, the b                 ... pos = 0.0   	neg = 0.125
+10. Well not this time,                 ... pos = 0.0   	neg = 0.0  
+11. One by one, the crew                ... pos = 0.25  	neg = 0.0  
+12. The usual acting per                ... pos = 0.25  	neg = 0.375
+13. Needless to say, his                ... pos = 1.625 	neg = 0.125
+14. To my surprise, Jona                ... pos = 0.0   	neg = 0.0  
+15. He did a fine job, a                ... pos = 0.0   	neg = 0.0  
+16. Excellent special ef                ... pos = 2.25  	neg = 0.25 
+17. Grade: B+, **** out                 ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1476-883 is Positive         ... pos = 6.125 	neg = 2.5  
+Overall score of document
+Total Pos = 6.125
+Total Neg = 2.5
+---------------------------------------------------------------------------

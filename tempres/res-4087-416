@@ -1,0 +1,22 @@
+0. Starring: Bruce Will                 ... pos = 0.375 	neg = 0.375
+1. Instead of staking o                 ... pos = 0.0   	neg = 0.0  
+2. He flies to Quebec a                 ... pos = 0.0   	neg = 0.0  
+3. Of course, as a foun                 ... pos = 0.875 	neg = 0.0  
+4. He also sprays speci                 ... pos = 0.0   	neg = 0.125
+5. Finally, Jackal purc                 ... pos = 0.5   	neg = 0.0  
+6. Typical of the logic                 ... pos = 0.375 	neg = 0.0  
+7. The criminal could b                 ... pos = 0.0   	neg = 0.125
+8. Hmm.                                 ... pos = 0     	neg = 0    
+9. Why don't we try che                 ... pos = 0.0   	neg = 0.0  
+10. " So they send 30 ag                ... pos = 0.25  	neg = 0.0  
+11. Will the authorities                ... pos = 0.125 	neg = 0.0  
+12. Opinion: The writing                ... pos = 0.0   	neg = 0.0  
+13. Good movies are able                ... pos = 1.125 	neg = 0.0  
+14. Not-so-good movies c                ... pos = 0.25  	neg = 0.875
+15. In The Jackal' the                ... pos = 1.25  	neg = 1.0  
+---------------------------------------------------------------------------
+./temp/tmp-4087-416 is Positive         ... pos = 5.125 	neg = 2.5  
+Overall score of document
+Total Pos = 5.125
+Total Neg = 2.5
+---------------------------------------------------------------------------

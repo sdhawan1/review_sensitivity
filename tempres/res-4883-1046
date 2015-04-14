@@ -1,0 +1,27 @@
+0. CAPSULE: Big, not ne                 ... pos = 0.125 	neg = 0.875
+1. Or hoped.                            ... pos = 0.0   	neg = 0.0  
+2. But it's still a sho                 ... pos = 0.0   	neg = 0.25 
+3. BATMAN AND ROBIN is                  ... pos = 0.875 	neg = 1.25 
+4. It's sprawling, expe                 ... pos = 0.375 	neg = 0.75 
+5. It's also easily the                 ... pos = 0.25  	neg = 0.375
+6. George Clooney has b                 ... pos = 0.125 	neg = 0.125
+7. This was something I                 ... pos = 0.375 	neg = 0.375
+8. The whole movie is l                 ... pos = 1.125 	neg = 0.25 
+9. Freeze; and Uma Thur                 ... pos = 0.75  	neg = 0.5  
+10. There's an effort to                ... pos = 1.375 	neg = 0.5  
+11. Come to think of it,                ... pos = 0.0   	neg = 0.75 
+12. There's one chase do                ... pos = 0.0   	neg = 0.25 
+13. Freeze uses a gigant                ... pos = 0.0   	neg = 0.0  
+14. (The freeze-ray effe                ... pos = 0.75  	neg = 0.25 
+15. ). The bad news is t                ... pos = 0.0   	neg = 1.125
+16. We spend so much tim                ... pos = 1.125 	neg = 0.75 
+17. The movie just isn't                ... pos = 0.875 	neg = 1.25 
+18. A friend once asked,                ... pos = 0.125 	neg = 0.0  
+19. " Two things, I said                ... pos = 0.0   	neg = 0.0  
+20. This movie tries to                 ... pos = 0.0   	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-4883-1046 is Negative        ... pos = 8.25  	neg = 10.25
+Overall score of document
+Total Pos = 8.25
+Total Neg = 10.25
+---------------------------------------------------------------------------

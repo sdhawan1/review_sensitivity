@@ -1,0 +1,36 @@
+0. War is hell.                         ... pos = 0.0   	neg = 0.625
+1. A point that very fe                 ... pos = 0.75  	neg = 0.0  
+2. A seemingly pointles                 ... pos = 1.0   	neg = 1.125
+3. Anyone who doubts or                 ... pos = 0.25  	neg = 0.375
+4. If you can, and stil                 ... pos = 0.625 	neg = 0.0  
+5. Spielberg's vision o                 ... pos = 1.125 	neg = 0.0  
+6. The much-talked abou                 ... pos = 1.125 	neg = 0.0  
+7. They are graphic, tr                 ... pos = 1.5   	neg = 0.25 
+8. Being a a veteran of                 ... pos = 2.125 	neg = 1.0  
+9. We often wondered (a                 ... pos = 0.875 	neg = 0.75 
+10. It is brutally hones                ... pos = 2.0   	neg = 0.5  
+11. It pulls no punches,                ... pos = 0.0   	neg = 0.375
+12. The sounds are all a                ... pos = 1.5   	neg = 0.375
+13. The story involves a                ... pos = 0.125 	neg = 0.75 
+14. Granted, you know wh                ... pos = 0.5   	neg = 0.125
+15. You are stuck, on th                ... pos = 0.25  	neg = 0.125
+16. The performances, ar                ... pos = 0.5   	neg = 0.0  
+17. Hanks, is, well, he'                ... pos = 0.875 	neg = 0.5  
+18. The remainder of the                ... pos = 1.25  	neg = 0.0  
+19. Edward Burns, the ta                ... pos = 0.5   	neg = 0.75 
+20. Of course the hunk-o                ... pos = 0.625 	neg = 0.5  
+21. But the kudos in thi                ... pos = 0.5   	neg = 0.0  
+22. These three young st                ... pos = 1.125 	neg = 0.125
+23. Clocking in at just                 ... pos = 0.625 	neg = 0.875
+24. This movie is not fo                ... pos = 0.25  	neg = 0.625
+25. It will effective re                ... pos = 0.5   	neg = 0    
+26. Is it the best movie                ... pos = 0.75  	neg = 0.375
+27. But in a summer full                ... pos = 0.875 	neg = 0.25 
+28. I would suggest this                ... pos = 1.125 	neg = 0.125
+29. See more of my Reel                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2471-684 is Positive         ... pos = 23.25 	neg = 10.5 
+Overall score of document
+Total Pos = 23.25
+Total Neg = 10.5
+---------------------------------------------------------------------------

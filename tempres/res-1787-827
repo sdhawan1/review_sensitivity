@@ -1,0 +1,41 @@
+0. Directed and screenp                 ... pos = 0.0   	neg = 0.0  
+1. Running time: 120 mi                 ... pos = 0     	neg = 0.0  
+2. Rated PG-13 (for per                 ... pos = 0.625 	neg = 0.375
+3. The Mummy is the fir                 ... pos = 0.125 	neg = 0.125
+4. It follows the summe                 ... pos = 0.125 	neg = 0.5  
+5. Loosely based on the                 ... pos = 0.875 	neg = 0.0  
+6. Brendan Fraser plays                 ... pos = 1.0   	neg = 0.25 
+7. A kindly, if not acc                 ... pos = 0.625 	neg = 0.125
+8. She along with her b                 ... pos = 2.0   	neg = 0.25 
+9. Jonathan doesn't muc                 ... pos = 0.5   	neg = 0.125
+10. The three travel to                 ... pos = 0.0   	neg = 0    
+11. Not the gold book bu                ... pos = 0.125 	neg = 0.0  
+12. Rachel, being the fo                ... pos = 0.875 	neg = 0.125
+13. This causes an ancie                ... pos = 0.0   	neg = 0.875
+14. Imhotep (Arnold Vosl                ... pos = 0.625 	neg = 0.625
+15. The mummy Imhotep br                ... pos = 0.125 	neg = 0.5  
+16. So Rick, Rachel, and                ... pos = 1.625 	neg = 1.5  
+17. ILM turned actor Vos                ... pos = 0.0   	neg = 0.0  
+18. I can't wait until a                ... pos = 0.0   	neg = 0.0  
+19. They also create som                ... pos = 0.0   	neg = 0.0  
+20. The actors seem to h                ... pos = 0.25  	neg = 0.0  
+21. Fraser seems well pl                ... pos = 1.125 	neg = 0.125
+22. Vosloo probably dese                ... pos = 1.125 	neg = 0    
+23. He delivers his line                ... pos = 0.125 	neg = 0.125
+24. It's also cool since                ... pos = 0.0   	neg = 0.0  
+25. Weisz seems a bit ou                ... pos = 2.25  	neg = 0.25 
+26. The one thing I woul                ... pos = 0.75  	neg = 0.625
+27. I'm not saying I did                ... pos = 0.0   	neg = 0.125
+28. You can tell when ju                ... pos = 1.125 	neg = 0.125
+29. The movie is very fu                ... pos = 0.625 	neg = 0.125
+30. Much like an update                 ... pos = 0.875 	neg = 0.0  
+31. I would recommend Th                ... pos = 0.5   	neg = 0.0  
+32. Teens will lap it up                ... pos = 0.125 	neg = 0.25 
+33. The decaying Imhotep                ... pos = 0.0   	neg = 0.25 
+34. Go into the movie wi                ... pos = 1.375 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-1787-827 is Positive         ... pos = 19.5  	neg = 8.25 
+Overall score of document
+Total Pos = 19.5
+Total Neg = 8.25
+---------------------------------------------------------------------------

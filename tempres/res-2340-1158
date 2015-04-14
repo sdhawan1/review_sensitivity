@@ -1,0 +1,52 @@
+0. give me a buzz on th                 ... pos = 1.75  	neg = 0.25 
+1. As a result, recurri                 ... pos = 0.625 	neg = 0.75 
+2. With all the mega-mo                 ... pos = 0.75  	neg = 1.125
+3. So, here comes "Octo                 ... pos = 1.0   	neg = 0.0  
+4. It's a good movie, a                 ... pos = 0.75  	neg = 0.375
+5. I mean "good" in the                 ... pos = 1.75  	neg = 0.0  
+6. There's no real vill                 ... pos = 0.5   	neg = 0.375
+7. Sure, it has some sp                 ... pos = 0.25  	neg = 0.375
+8. Not once do you sit                  ... pos = 0.5   	neg = 0.375
+9. You're too busy engr                 ... pos = 0.375 	neg = 0.25 
+10. Based on the book, "                ... pos = 0.0   	neg = 0.0  
+11. It's the fall in 195                ... pos = 0.0   	neg = 0.0  
+12. Young nobody Homer H                ... pos = 0.0   	neg = 0.375
+13. He's captivated with                ... pos = 1.0   	neg = 0.0  
+14. He and his chums, Ro                ... pos = 0.25  	neg = 0.0  
+15. The four boys enthus                ... pos = 0.5   	neg = 1.0  
+16. Meanwhile, Homer's f                ... pos = 0.0   	neg = 0.0  
+17. Mining is his life a                ... pos = 0.0   	neg = 0.5  
+18. The obvious conflict                ... pos = 0.375 	neg = 0.5  
+19. Now, that's not to s                ... pos = 0.0   	neg = 0.5  
+20. He's a hard man, but                ... pos = 0.75  	neg = 0.75 
+21. He treats most peopl                ... pos = 0.375 	neg = 0.0  
+22. John is sternly agai                ... pos = 0.25  	neg = 0.25 
+23. ) and pushes him to                 ... pos = 0.0   	neg = 0.0  
+24. After being blamed f                ... pos = 0.5   	neg = 0.125
+25. Glumly, they accept                 ... pos = 0.25  	neg = 0.0  
+26. Homer never gives up                ... pos = 0.375 	neg = 0.0  
+27. After John saves the                ... pos = 0.0   	neg = 0.0  
+28. Homer realizes his o                ... pos = 0.125 	neg = 0.0  
+29. He doesn't like it,                 ... pos = 0.0   	neg = 0.0  
+30. Meanwhile, Miss Rile                ... pos = 0.375 	neg = 0.0  
+31. She wants them to en                ... pos = 0.625 	neg = 0.125
+32. Because this is base                ... pos = 0.5   	neg = 0.375
+33. In the middle, this                 ... pos = 0.0   	neg = 0.0  
+34. Near the end, as the                ... pos = 0.0   	neg = 0.75 
+35. While those scenes a                ... pos = 1.25  	neg = 0.25 
+36. Ironically, I softly                ... pos = 1.375 	neg = 0.875
+37. Still, it's not easy                ... pos = 0.625 	neg = 0.25 
+38. Director Joe Johnsto                ... pos = 0.0   	neg = 0.125
+39. Johnston uses the te                ... pos = 0.0   	neg = 0    
+40. One of the most impo                ... pos = 1.375 	neg = 0.125
+41. This film is not sap                ... pos = 0.125 	neg = 0.125
+42. Rockets and mines ar                ... pos = 0.25  	neg = 0.0  
+43. Love, forgiveness, a                ... pos = 1.5   	neg = 0    
+44. When "October Sky" i                ... pos = 0.25  	neg = 0    
+45. USELESS TRIVIA--Prod                ... pos = 1.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-2340-1158 is Positive        ... pos = 22.5  	neg = 11.5 
+Overall score of document
+Total Pos = 22.5
+Total Neg = 11.5
+---------------------------------------------------------------------------

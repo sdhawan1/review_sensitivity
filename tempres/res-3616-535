@@ -1,0 +1,47 @@
+0. Directed by: Martin                  ... pos = 0.375 	neg = 0.75 
+1. Don't get me wrong,                  ... pos = 2.5   	neg = 1.875
+2. While the previews t                 ... pos = 1.375 	neg = 0.875
+3. Frank Pierce is a pa                 ... pos = 0.375 	neg = 0.125
+4. While once good at t                 ... pos = 0.875 	neg = 0.0  
+5. Now, he hasn't saved                 ... pos = 0.25  	neg = 0.125
+6. His three partners,                  ... pos = 0.75  	neg = 0.0  
+7. The only person able                 ... pos = 0.625 	neg = 0.25 
+8. "Bringing out the De                 ... pos = 0.875 	neg = 0.0  
+9. The greatest example                 ... pos = 1.625 	neg = 0.125
+10. Each song completely                ... pos = 0.0   	neg = 0.125
+11. From UB40's "Red, Re                ... pos = 0.625 	neg = 0.0  
+12. If only the music ha                ... pos = 0.625 	neg = 0.375
+13. The supporting cast                 ... pos = 1.125 	neg = 0.125
+14. John Goodman, great                 ... pos = 1.375 	neg = 0.5  
+15. Ving Rhames, in one                 ... pos = 2.0   	neg = 0.125
+16. Last but not least,                 ... pos = 1.25  	neg = 0.0  
+17. If these three men h                ... pos = 0.625 	neg = 0.125
+18. Nicholas Cage plays                 ... pos = 0.0   	neg = 0.0  
+19. No, that is not a ty                ... pos = 0.75  	neg = 0.625
+20. Always a depressed,                 ... pos = 0.0   	neg = 0.875
+21. Patricia Arquette fa                ... pos = 0.25  	neg = 0.0  
+22. The scenes between t                ... pos = 0.25  	neg = 0    
+23. >From what I have sa                ... pos = 0.375 	neg = 0.625
+24. This is not the case                ... pos = 0.125 	neg = 0.5  
+25. The other major faul                ... pos = 0.0   	neg = 0.25 
+26. While they were on s                ... pos = 0.5   	neg = 0.625
+27. When absent, the fil                ... pos = 0.0   	neg = 0.0  
+28. "Bringing out the De                ... pos = 0.25  	neg = 0.75 
+29. I reccomend that if                 ... pos = 0.0   	neg = 0.5  
+30. I grant it three sta                ... pos = 0.0   	neg = 0.0  
+31. One last comment.                   ... pos = 0.0   	neg = 0.0  
+32. For those of you who                ... pos = 0.5   	neg = 0.25 
+33. * * * * * - One of t                ... pos = 0.875 	neg = 0.0  
+34. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+35. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+36. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+37. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+38. See it if you've got                ... pos = 0.0   	neg = 0.25 
+39. * - One of the worst                ... pos = 0.0   	neg = 0.375
+40. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3616-535 is Positive         ... pos = 21.5  	neg = 12.25
+Overall score of document
+Total Pos = 21.5
+Total Neg = 12.25
+---------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+0. THE WINGS OF THE DOV                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 1.0   	neg = 0.875
+3. Finely observed and                  ... pos = 0.875 	neg = 0.25 
+4. The screenplay by Ho                 ... pos = 1.375 	neg = 0.0  
+5. That the audience's                  ... pos = 1.125 	neg = 0.125
+6. At first, our sympat                 ... pos = 0.125 	neg = 0.0  
+7. The young Englishwom                 ... pos = 0.0   	neg = 1.125
+8. Kate's heart, howeve                 ... pos = 0.375 	neg = 0.625
+9. Enter Millie Theale                  ... pos = 0.25  	neg = 0.25 
+10. "  She and Kate meet                ... pos = 0.125 	neg = 0.0  
+11. When Kate finds that                ... pos = 0.875 	neg = 0.375
+12. THE WINGS OF THE DOV                ... pos = 1.25  	neg = 0.625
+13. What's interesting h                ... pos = 2.569 	neg = 1.75 
+14. The    machinations                 ... pos = 1.125 	neg = 1.5  
+15. Ms. Bonham Carter is                ... pos = 0.75  	neg = 0.125
+16. Despite her complex                 ... pos = 0.0   	neg = 1.528
+17. Even as we view her                 ... pos = 0.375 	neg = 0.625
+18. Mr. Roache is very g                ... pos = 2.125 	neg = 0.5  
+19. Caught between the d                ... pos = 2.75  	neg = 0.875
+20. Ms. Elliott is nothi                ... pos = 0.375 	neg = 0.5  
+21. To reconcile her dis                ... pos = 1.375 	neg = 1.0  
+22. The dizzying sense o                ... pos = 1.125 	neg = 0.125
+23. I've admired Ms. Ell                ... pos = 1.0   	neg = 0.125
+24. The supporting playe                ... pos = 0.625 	neg = 0.0  
+25. Mr. Jennings is very                ... pos = 2.125 	neg = 0.25 
+26. THE WINGS OF THE DOV                ... pos = 1.0   	neg = 0.125
+27. The delicacy of the                 ... pos = 3.25  	neg = 1.0  
+28. The film even has a                 ... pos = 0.25  	neg = 0.0  
+29. Within the context o                ... pos = 1.375 	neg = 0.25 
+30. This is a masterful                 ... pos = 0.75  	neg = 0.875
+31. Confidently helmed,                 ... pos = 1.0   	neg = 0.375
+32. There's a particular                ... pos = 0.0   	neg = 0.0  
+33. The shot of Kate in                 ... pos = 0.75  	neg = 0.375
+34. While the film could                ... pos = 0.875 	neg = 0.75 
+35. In fact, THE WINGS O                ... pos = 3.5   	neg = 1.0  
+36. This is a superb, mo                ... pos = 2.25  	neg = 0.125
+37. -- Alex Fung (aw220@                ... pos = 0.0   	neg = 0.25 
+38. '" - Tom DiCillo. .                 ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4792-717 is Positive         ... pos = 38.819 	neg = 18.528
+Overall score of document
+Total Pos = 38.819
+Total Neg = 18.528
+---------------------------------------------------------------------------

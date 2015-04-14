@@ -1,0 +1,52 @@
+0. The world is in chao                 ... pos = 0.0   	neg = 0.125
+1. Civilization is on t                 ... pos = 0.0   	neg = 0.125
+2. It is time for tea!                  ... pos = 0.0   	neg = 0.125
+3. Warner Brothers dela                 ... pos = 1.0   	neg = 0.0  
+4. In a year that has s                 ... pos = 1.375 	neg = 0.0  
+5. The film opens with                  ... pos = 0.125 	neg = 0.0  
+6. Steed is then reques                 ... pos = 0.0   	neg = 0.125
+7. It seems that a Sir                  ... pos = 0.125 	neg = 0.125
+8. With the aid of Mrs.                 ... pos = 0.75  	neg = 0.375
+9. Sir de Wynter's goal                 ... pos = 0.25  	neg = 0.75 
+10. Needless to say, it                 ... pos = 0.0   	neg = 0.125
+11. The above plot synop                ... pos = 0.125 	neg = 0.25 
+12. The entire enterpris                ... pos = 0.0   	neg = 1.125
+13. This is not to say t                ... pos = 0.25  	neg = 0.125
+14. An attack by mechani                ... pos = 0.5   	neg = 0.25 
+15. But the sequence has                ... pos = 0.625 	neg = 0.375
+16. We never know where                 ... pos = 0.125 	neg = 0.25 
+17. As the villain, Sir                 ... pos = 0.375 	neg = 0.75 
+18. His mincing and grim                ... pos = 0.0   	neg = 0.125
+19. It seems that Mr. Co                ... pos = 0.375 	neg = 0.375
+20. Not since Boris Karl                ... pos = 0.625 	neg = 0.125
+21. Ralph Fiennes perfor                ... pos = 0.0   	neg = 0.5  
+22. The performance coul                ... pos = 0.0   	neg = 0.625
+23. And Uma Thurman prov                ... pos = 0.625 	neg = 0.375
+24. Her delivery of the                 ... pos = 0.375 	neg = 0.625
+25. There is absolutely                 ... pos = 0.875 	neg = 0.375
+26. This brings us to th                ... pos = 0.0   	neg = 0.0  
+27. As De Wynter's hench                ... pos = 0.0   	neg = 0.625
+28. This presence (it in                ... pos = 0.0   	neg = 0.375
+29. The climatic battle                 ... pos = 1.25  	neg = 0.125
+30. The plot of the film                ... pos = 0.625 	neg = 0.875
+31. But, don't be confus                ... pos = 0.25  	neg = 0.625
+32. At 85 minutes, 'The                 ... pos = 0.0   	neg = 0.5  
+33. Situations are dropp                ... pos = 0.25  	neg = 0.375
+34. Admittedly, the art                 ... pos = 1.0   	neg = 0.25 
+35. But they are photogr                ... pos = 0.5   	neg = 0.0  
+36. Also, one marvelousl                ... pos = 0.625 	neg = 0.25 
+37. The scene is shot in                ... pos = 0.0   	neg = 0.5  
+38. Also, with the budge                ... pos = 0.0   	neg = 0.0  
+39. Not here, Mr. Steed                 ... pos = 0.0   	neg = 0.0  
+40. The little tag line                 ... pos = 0.125 	neg = 0.25 
+41. There is a lot going                ... pos = 0.0   	neg = 0.125
+42. But ten minutes with                ... pos = 1.5   	neg = 0.125
+43. On a scale on 5, "Th                ... pos = 0.0   	neg = 0.0  
+44. Not as bad as this y                ... pos = 0.0   	neg = 1.375
+45. Copyright 1998 R. L                 ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-861-187 is Positive          ... pos = 15.375 	neg = 14.875
+Overall score of document
+Total Pos = 15.375
+Total Neg = 14.875
+---------------------------------------------------------------------------

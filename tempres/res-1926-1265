@@ -1,0 +1,41 @@
+0. Midway through "Amer                 ... pos = 0.125 	neg = 0.125
+1. The plate is plain w                 ... pos = 1.25  	neg = 0.25 
+2. Jane turns the plate                 ... pos = 0.0   	neg = 0.0  
+3. Ricky explains, "It'                 ... pos = 0.5   	neg = 0.0  
+4. "  The plate is a po                 ... pos = 2.5   	neg = 0.125
+5. To the casual observ                 ... pos = 0.375 	neg = 0    
+6. Lester (Kevin Spacey                 ... pos = 0.0   	neg = 0    
+7. Carolyn (Annette Ben                 ... pos = 0.125 	neg = 0.0  
+8. Their daughter Jane                  ... pos = 0.0   	neg = 0.125
+9. However, under the f                 ... pos = 0.375 	neg = 0.125
+10. Lester's boss has hi                ... pos = 0.0   	neg = 0.0  
+11. Despite the fact tha                ... pos = 1.0   	neg = 0.125
+12. Just as life looks i                ... pos = 0.5   	neg = 0.5  
+13. Watching Angela perf                ... pos = 1.0   	neg = 0.0  
+14. Before long, he quit                ... pos = 0.0   	neg = 0.375
+15. Everytime Angela com                ... pos = 1.375 	neg = 0.125
+16. Meanwhile Carolyn be                ... pos = 0.375 	neg = 0.0  
+17. The Burnhams are con                ... pos = 0.875 	neg = 0    
+18. Ricky is an unusual                 ... pos = 0.625 	neg = 0.125
+19. His father is a ster                ... pos = 0.0   	neg = 0.375
+20. As dysfunctional as                 ... pos = 0.375 	neg = 0.875
+21. Ricky becomes as imp                ... pos = 1.75  	neg = 0    
+22. Although young, Rick                ... pos = 0.0   	neg = 0.0  
+23. Speaking of his most                ... pos = 1.25  	neg = 1.0  
+24. "  Thus, the title "                ... pos = 0.625 	neg = 0.125
+25. Lester's vision of A                ... pos = 1.125 	neg = 0.25 
+26. Beneath the satire,                 ... pos = 0.5   	neg = 0.125
+27. American Beauty mark                ... pos = 0.5   	neg = 0.0  
+28. Look for both to con                ... pos = 0.125 	neg = 0.375
+29. Ball's script is eas                ... pos = 1.375 	neg = 0.125
+30. The performances are                ... pos = 1.25  	neg = 0.0  
+31. Since Kevin Spacey a                ... pos = 1.125 	neg = 0.0  
+32. His character, Col.                 ... pos = 2.75  	neg = 0.125
+33. (Video recommendatio                ... pos = 0.125 	neg = 0.625
+34. ). Read my reviews a                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1926-1265 is Positive        ... pos = 23.875 	neg = 6.0  
+Overall score of document
+Total Pos = 23.875
+Total Neg = 6.0
+---------------------------------------------------------------------------

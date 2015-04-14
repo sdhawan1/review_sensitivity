@@ -1,0 +1,25 @@
+0. Tom Cruise emotional                 ... pos = 1.25  	neg = 0.25 
+1. Maguire is a guy who                 ... pos = 0.125 	neg = 0.375
+2. So he decides to mak                 ... pos = 0.25  	neg = 0.0  
+3. He gets fired from h                 ... pos = 0.0   	neg = 0.25 
+4. With the help of Dor                 ... pos = 0.25  	neg = 0.0  
+5. This is definitely a                 ... pos = 0.25  	neg = 0.25 
+6. Jerry Maguire is up                  ... pos = 1.125 	neg = 0.125
+7. His character contin                 ... pos = 1.75  	neg = 0.375
+8. Jerry Maguire featur                 ... pos = 0.375 	neg = 0.5  
+9. The Dallas Cowboy's                  ... pos = 0.625 	neg = 0.0  
+10. Beau Bridges (The Fa                ... pos = 1.875 	neg = 0.0  
+11. This film is definit                ... pos = 0.375 	neg = 0.25 
+12. Unlike The English P                ... pos = 1.5   	neg = 0.25 
+13. He added a child's p                ... pos = 0.125 	neg = 0.125
+14. It's hard not to say                ... pos = 0.25  	neg = 1.0  
+15. There hasn't been a                 ... pos = 0.875 	neg = 0.125
+16. This film is very wi                ... pos = 1.25  	neg = 0.125
+17. Tom Cruise's perform                ... pos = 0.375 	neg = 0.5  
+18. Grade: A, ***** out                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4375-883 is Positive         ... pos = 12.625 	neg = 4.5  
+Overall score of document
+Total Pos = 12.625
+Total Neg = 4.5
+---------------------------------------------------------------------------

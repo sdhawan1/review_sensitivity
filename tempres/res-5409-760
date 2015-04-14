@@ -1,0 +1,65 @@
+0. Copyright 1998 Natha                 ... pos = 0.375 	neg = 0.125
+1. It's also hard when                  ... pos = 0.875 	neg = 0.875
+2. The problem in this                  ... pos = 0.75  	neg = 0.5  
+3. Where do I begin?                    ... pos = 0     	neg = 0.0  
+4. Do I start by praisi                 ... pos = 0.625 	neg = 0.0  
+5. Should I first menti                 ... pos = 0.625 	neg = 0.0  
+6. Do I rave about the                  ... pos = 0.875 	neg = 0.0  
+7. A frequent complaint                 ... pos = 0.0   	neg = 0.125
+8. The Matrix is pretty                 ... pos = 0.25  	neg = 0.25 
+9. It's not a lopsided                  ... pos = 0.5   	neg = 0.125
+10. No, The Matrix is a                 ... pos = 0.375 	neg = 0.375
+11. True, it has the fee                ... pos = 0.75  	neg = 1.25 
+12. It's also the first                 ... pos = 0.125 	neg = 0.125
+13. Another problem with                ... pos = 0.0   	neg = 0.5  
+14. Part of the experien                ... pos = 0.5   	neg = 0    
+15. I can't accurately c                ... pos = 0.0   	neg = 0.0  
+16. So I'll begin with t                ... pos = 0.125 	neg = 0.125
+17. Towards the opening                 ... pos = 0.375 	neg = 0.125
+18. Trinity piques Neo's                ... pos = 0.0   	neg = 0.0  
+19. "What is the Matrix?                ... pos = 0.0   	neg = 0.125
+20. " he asks.                          ... pos = 0.125 	neg = 0    
+21. She says that the an                ... pos = 0.0   	neg = 0.0  
+22. Neo meets Morpheus,                 ... pos = 0.0   	neg = 0.0  
+23. All of this takes ab                ... pos = 0.0   	neg = 0.0  
+24. The film goes on for                ... pos = 0.125 	neg = 0.0  
+25. All I can say is tha                ... pos = 0.0   	neg = 0.125
+26. I can't even discuss                ... pos = 1.375 	neg = 0.0  
+27. One of the things I                 ... pos = 0.125 	neg = 0.125
+28. But the Wachowskis s                ... pos = 0.0   	neg = 0.5  
+29. The story has all th                ... pos = 0.125 	neg = 0    
+30. Neo, for instance, i                ... pos = 1.0   	neg = 0.125
+31. He has no personal h                ... pos = 0.0   	neg = 0.25 
+32. Reeves, though inapp                ... pos = 0.0   	neg = 0.875
+33. There's not a moment                ... pos = 1.125 	neg = 1.375
+34. The film is also sat                ... pos = 1.25  	neg = 0.125
+35. Fishburne and Moss m                ... pos = 2.5   	neg = 0.125
+36. Character actor Joe                 ... pos = 1.0   	neg = 0    
+37. Australian actor Hug                ... pos = 0.25  	neg = 0.0  
+38. All of these great c                ... pos = 1.125 	neg = 0.25 
+39. The originality come                ... pos = 0.25  	neg = 0.25 
+40. If you do, then you'                ... pos = 0.125 	neg = 0.25 
+41. The film works becau                ... pos = 0.375 	neg = 0.0  
+42. Honestly, though, yo                ... pos = 0.0   	neg = 0.125
+43. I've never seen cine                ... pos = 0.0   	neg = 0.25 
+44. The Wachowskis have                 ... pos = 0.0   	neg = 0.0  
+45. Their crowning achie                ... pos = 0.0   	neg = 0.125
+46. I'm going to go out                 ... pos = 0.0   	neg = 0.125
+47. When it was over, my                ... pos = 0.25  	neg = 0.375
+48. And I'm not exaggera                ... pos = 0.625 	neg = 0    
+49. If The Matrix doesn'                ... pos = 0.0   	neg = 0.125
+50. The film isn't perfe                ... pos = 1.375 	neg = 0.0  
+51. And some of the back                ... pos = 0.625 	neg = 0.5  
+52. I only mention these                ... pos = 0.0   	neg = 0.125
+53. It's not likely that                ... pos = 0.0   	neg = 0.0  
+54. So, here's a pop qui                ... pos = 0.875 	neg = 0.0  
+55. The Wachowskis have                 ... pos = 0.375 	neg = 0.0  
+56. Like all the great f                ... pos = 1.0   	neg = 0.0  
+57. You don't have to be                ... pos = 0.25  	neg = 0.125
+58. The Matrix is the ki                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5409-760 is Positive         ... pos = 23.625 	neg = 11.25
+Overall score of document
+Total Pos = 23.625
+Total Neg = 11.25
+---------------------------------------------------------------------------

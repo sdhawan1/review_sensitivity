@@ -1,0 +1,57 @@
+0. By Nathaniel R. Atch                 ... pos = 0.0   	neg = 0.125
+1. "  I never really kn                 ... pos = 0.0   	neg = 0.0  
+2. Now that I've seen U                 ... pos = 0.0   	neg = 0    
+3. Marshals, I think I                  ... pos = 0.375 	neg = 0.0  
+4. I can't fathom why t                 ... pos = 0.125 	neg = 0.5  
+5. This is a long film,                 ... pos = 0.0   	neg = 0.75 
+6. There are a lot of c                 ... pos = 1.125 	neg = 0.125
+7. On top of all this,                  ... pos = 0.0   	neg = 0.0  
+8. Marshals is basicall                 ... pos = 0.5   	neg = 1.0  
+9. ".         One of th                 ... pos = 0.875 	neg = 0.125
+10. He is a tow truck dr                ... pos = 0.25  	neg = 0.125
+11. Later, he is arreste                ... pos = 0.0   	neg = 0.125
+12. So, he gets stuck on                ... pos = 0.0   	neg = 0.0  
+13. Conveniently, U.S.                  ... pos = 0.0   	neg = 0.0  
+14. Marshal Sam Gerard (                ... pos = 1.375 	neg = 0.25 
+15. The plane crashes.                  ... pos = 0.0   	neg = 0.0  
+16. Sheridan escapes.                   ... pos = 0     	neg = 0.0  
+17. Gerard is allowed to                ... pos = 0.25  	neg = 0.125
+18. "  This is about thi                ... pos = 0.0   	neg = 0.125
+19. Sequences shortly af                ... pos = 0.0   	neg = 0.0  
+20. We learn of new char                ... pos = 1.25  	neg = 0    
+21. Robert Downey, Jr. p                ... pos = 0.0   	neg = 0.125
+22. This leads to an inv                ... pos = 0.0   	neg = 0.25 
+23. Oh, and let's not fo                ... pos = 0.25  	neg = 0.0  
+24. Marshals, for whom t                ... pos = 1.375 	neg = 0.375
+25. Sheridan has a girlf                ... pos = 0.0   	neg = 0.0  
+26. Marie is played by t                ... pos = 0.75  	neg = 0.125
+27. I'm not sure why the                ... pos = 1.875 	neg = 0.75 
+28. U.S.                                ... pos = 0.0   	neg = 0    
+29. Marshals didn't stri                ... pos = 0.0   	neg = 0.0  
+30. The story is silly a                ... pos = 0.0   	neg = 0.5  
+31. It's not even very p                ... pos = 1.0   	neg = 0.0  
+32. Not only that, but t                ... pos = 1.125 	neg = 0.125
+33. The action sequences                ... pos = 1.0   	neg = 0.0  
+34. I liked the scenes t                ... pos = 0.875 	neg = 0.125
+35. I also liked the act                ... pos = 0.125 	neg = 0.0  
+36. Jones is charismatic                ... pos = 0.5   	neg = 0.125
+37. Snipes makes a good                 ... pos = 2.375 	neg = 0.5  
+38. The other Marshals a                ... pos = 0.5   	neg = 2.25 
+39. Harrison Ford is bas                ... pos = 1.0   	neg = 0.125
+40. He played a nice, no                ... pos = 0.125 	neg = 0.0  
+41. We really wanted to                 ... pos = 0.125 	neg = 0.0  
+42. But Sheridan is a sp                ... pos = 0.0   	neg = 0.875
+43. And, by the end of t                ... pos = 0.625 	neg = 0.0  
+44. This isn't a terribl                ... pos = 0.625 	neg = 1.403
+45. As a strict action f                ... pos = 1.25  	neg = 0.0  
+46. But what about the s                ... pos = 0.0   	neg = 0.0  
+47. What about the invol                ... pos = 1.5   	neg = 0.0  
+48. That's what got lost                ... pos = 0.0   	neg = 0.0  
+49. U.S.                                ... pos = 0.0   	neg = 0    
+50. Marshals has too muc                ... pos = 0.5   	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5482-760 is Positive         ... pos = 23.625 	neg = 11.403
+Overall score of document
+Total Pos = 23.625
+Total Neg = 11.403
+---------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+0. Director:  Steven S                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution:  U                 ... pos = 0.125 	neg = 0.5  
+2. I really do like to                  ... pos = 0.375 	neg = 0.0  
+3. My problem is that I                 ... pos = 1.625 	neg = 0.375
+4. In addition to this,                 ... pos = 0.25  	neg = 0.0  
+5. The only reason I bo                 ... pos = 0.375 	neg = 1.25 
+6. However, I don't thi                 ... pos = 0.25  	neg = 0.125
+7. Needless to say, I h                 ... pos = 0.375 	neg = 0.125
+8. I can't say how fait                 ... pos = 0.375 	neg = 0.125
+9. I can say that it's                  ... pos = 0.25  	neg = 0.0  
+10. It's certainly a nic                ... pos = 0.375 	neg = 0.625
+11. Out of Sight proves                 ... pos = 0.0   	neg = 0.0  
+12. I had originally wri                ... pos = 0.125 	neg = 1.0  
+13. After seeing his lat                ... pos = 0.75  	neg = 0.0  
+14. Here, he plays Jack                 ... pos = 0.25  	neg = 0.0  
+15. He does it because i                ... pos = 0.125 	neg = 0.0  
+16. He goes to jail -- w                ... pos = 0.375 	neg = 0.25 
+17. We're then introduce                ... pos = 0.0   	neg = 0.125
+18. Fortunately, they ta                ... pos = 0.875 	neg = 0.0  
+19. The central conflict                ... pos = 0.375 	neg = 0.125
+20. We soon learn that t                ... pos = 0.0   	neg = 0.25 
+21. At first, I kind of                 ... pos = 0.125 	neg = 0.75 
+22. It's a fun gimmick,                 ... pos = 0.25  	neg = 0.75 
+23. I've only seen a few                ... pos = 1.125 	neg = 0.375
+24. He's an artist witho                ... pos = 1.0   	neg = 0.25 
+25. He uses tricks, yes                 ... pos = 1.125 	neg = 0.5  
+26. As I said, Clooney i                ... pos = 0.25  	neg = 0.125
+27. Lopez is, of course,                ... pos = 0.75  	neg = 0.375
+28. I can sense that she                ... pos = 0.5   	neg = 0.625
+29. The two actors have                 ... pos = 0.75  	neg = 0.25 
+30. The brilliance of th                ... pos = 1.125 	neg = 0.125
+31. The scene is a serie                ... pos = 1.375 	neg = 0.25 
+32. The supporting cast                 ... pos = 0.875 	neg = 0.125
+33. Dennis Farina, who p                ... pos = 0.75  	neg = 0.75 
+34. Steve Zahn, who play                ... pos = 0.5   	neg = 0.125
+35. All of the actors ar                ... pos = 0.25  	neg = 0.0  
+36. Out of Sight is cert                ... pos = 1.25  	neg = 0.125
+37. Overall, I can recom                ... pos = 0.0   	neg = 0.0  
+38. Not every film has t                ... pos = 0.375 	neg = 0.0  
+39. As for the book, thi                ... pos = 0.875 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-4998-760 is Positive         ... pos = 20.5  	neg = 11.125
+Overall score of document
+Total Pos = 20.5
+Total Neg = 11.125
+---------------------------------------------------------------------------

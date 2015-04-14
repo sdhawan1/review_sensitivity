@@ -1,0 +1,41 @@
+0. Starring Michael Mad                 ... pos = 0.875 	neg = 0.125
+1. The story is good, t                 ... pos = 1.875 	neg = 0.75 
+2. Oh I know, it must b                 ... pos = 0.375 	neg = 0.375
+3. While that may seem                  ... pos = 1.0   	neg = 0.5  
+4. So when the lovely N                 ... pos = 1.125 	neg = 1.375
+5. So we now have no fe                 ... pos = 0.0   	neg = 0.25 
+6. Now don't get me wro                 ... pos = 1.375 	neg = 1.25 
+7. They might have well                 ... pos = 0.25  	neg = 0.75 
+8. Species II has a sim                 ... pos = 0.0   	neg = 0.0  
+9. A manned mission to                  ... pos = 0.25  	neg = 0.125
+10. It infects the missi                ... pos = 0.25  	neg = 0.25 
+11. When dead bodies sta                ... pos = 0.125 	neg = 0.0  
+12. Meanwhile, back at a                ... pos = 0.0   	neg = 0.0  
+13. Dr. Laura Baker, (Ma                ... pos = 0.25  	neg = 0.0  
+14. This new clone is na                ... pos = 0.375 	neg = 0.25 
+15. Eve has been raised                 ... pos = 0.625 	neg = 0.375
+16. Having learned from                 ... pos = 1.0   	neg = 0.75 
+17. It doesn't take a re                ... pos = 0.125 	neg = 0.25 
+18. So when the two fina                ... pos = 0.5   	neg = 0.0  
+19. Seem like a simple p                ... pos = 0.375 	neg = 0.0  
+20. Well kids, it is.                   ... pos = 0.0   	neg = 0.125
+21. The producers of Spe                ... pos = 0.0   	neg = 0.0  
+22. Hey it's a nice touc                ... pos = 1.75  	neg = 0.0  
+23. It's just too bad th                ... pos = 0.125 	neg = 1.5  
+24. My guess is that whe                ... pos = 0.625 	neg = 1.5  
+25. Considering the writ                ... pos = 0.125 	neg = 0.875
+26. The acting is pretty                ... pos = 0.75  	neg = 0.25 
+27. I mean we aren't tal                ... pos = 0.0   	neg = 0.0  
+28. Natasha Henstridge c                ... pos = 0.0   	neg = 0.125
+29. Michael Madsen and M                ... pos = 0.75  	neg = 0.0  
+30. Nice additions to th                ... pos = 0.375 	neg = 0.375
+31. James Cromwell as a                 ... pos = 0.0   	neg = 0.25 
+32. Not a bad film, just                ... pos = 0.75  	neg = 1.0  
+33. Definitely not for t                ... pos = 0.25  	neg = 0.125
+34. Hey, it's a fun movi                ... pos = 0.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-3814-488 is Positive         ... pos = 16.5  	neg = 14.125
+Overall score of document
+Total Pos = 16.5
+Total Neg = 14.125
+---------------------------------------------------------------------------

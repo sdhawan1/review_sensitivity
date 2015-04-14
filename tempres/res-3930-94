@@ -1,0 +1,32 @@
+0. A black helicopter f                 ... pos = 0.75  	neg = 0.0  
+1. Need I explain why t                 ... pos = 0.25  	neg = 0.625
+2. Just watch "Conspira                 ... pos = 0.125 	neg = 0.0  
+3. "  .         The fir                 ... pos = 0.375 	neg = 0.125
+4. Jerry Fletcher (Mel                  ... pos = 0.625 	neg = 0.75 
+5. (I won't spoil them                  ... pos = 1.625 	neg = 1.125
+6. Now I smell the chil                 ... pos = 0.0   	neg = 0.0  
+7. Unfortunately, the w                 ... pos = 0     	neg = 1.0  
+8. All they can ever do                 ... pos = 0.0   	neg = 0.875
+9. As if they realize h                 ... pos = 0.125 	neg = 1.125
+10. In the end, the whol                ... pos = 0.25  	neg = 0.375
+11. Let's start with the                ... pos = 0.0   	neg = 0.0  
+12. A lawyer of the Just                ... pos = 1.0   	neg = 0.625
+13. Although at first sh                ... pos = 0.125 	neg = 1.0  
+14. The problem is, ther                ... pos = 0.0   	neg = 0.75 
+15. Roberts often looks                 ... pos = 0.625 	neg = 2.25 
+16. It's embarrassingly                 ... pos = 0.625 	neg = 0.5  
+17. Then the action sequ                ... pos = 0     	neg = 0.0  
+18. As a veteran directo                ... pos = 0.375 	neg = 0.375
+19. Some routine explosi                ... pos = 0     	neg = 0.0  
+20. The connecting non-a                ... pos = 0.875 	neg = 1.25 
+21. Again, he displays g                ... pos = 0.375 	neg = 0.125
+22. Although appropriate                ... pos = 2.125 	neg = 0.375
+23. I think he always wa                ... pos = 0.125 	neg = 0.0  
+24. As for why Roberts w                ... pos = 0.0   	neg = 1.375
+25. She doesn't even see                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3930-94 is Negative          ... pos = 10.5  	neg = 14.625
+Overall score of document
+Total Pos = 10.5
+Total Neg = 14.625
+---------------------------------------------------------------------------

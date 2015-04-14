@@ -1,0 +1,31 @@
+0. Cranky CriticŽ movi                 ... pos = 0.25  	neg = 0.375
+1. Rather than retread                  ... pos = 2.625 	neg = 0.125
+2. Richard Gere is Ike                  ... pos = 0.0   	neg = 0.375
+3. Target of the column                 ... pos = 0.125 	neg = 0.125
+4. Maggie Carpenter (Ju                 ... pos = 0.5   	neg = 0.5  
+5. Thus the film title.                 ... pos = 0.0   	neg = 0.0  
+6. Ike's ex-wife Ellie,                 ... pos = 1.25  	neg = 0.0  
+7. Ellie's new husband                  ... pos = 0.875 	neg = 0.125
+8. If Maggie runs, Ike                  ... pos = 0.0   	neg = 0.125
+9. But when he hits tow                 ... pos = 0.0   	neg = 0.0  
+10. She and best friend                 ... pos = 0.875 	neg = 1.125
+11. The friendlier Ike g                ... pos = 0.125 	neg = 0.0  
+12. Which is where the s                ... pos = 0.0   	neg = 0.125
+13. Face it folks,  you                 ... pos = 0.0   	neg = 0.125
+14. The part we all want                ... pos = 0.0   	neg = 0.75 
+15. Getting there is a f                ... pos = 0.125 	neg = 0.125
+16. That moment, when it                ... pos = 0.0   	neg = 0.125
+17. But this flick ain't                ... pos = 0.0   	neg = 0.0  
+18. heh heh heh.                        ... pos = 0     	neg = 0    
+19. On average, a first                 ... pos = 0.25  	neg = 0.0  
+20. Were Cranky able to                 ... pos = 0.125 	neg = 0.125
+21. It's a date flick, a                ... pos = 0.125 	neg = 0.125
+22. From that point, thi                ... pos = 0.375 	neg = 0.0  
+23. Cranky CriticŽ is a                ... pos = 0.0   	neg = 0.125
+24. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-363-912 is Positive          ... pos = 7.625 	neg = 4.5  
+Overall score of document
+Total Pos = 7.625
+Total Neg = 4.5
+---------------------------------------------------------------------------

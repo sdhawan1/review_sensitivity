@@ -1,0 +1,46 @@
+0. Starring Devon Sawa,                 ... pos = 0.0   	neg = 0.0  
+1. Directed by James Wo                 ... pos = 0.0   	neg = 0    
+2. Rated R.. Final Dest                 ... pos = 1.0   	neg = 0.625
+3. It was written and d                 ... pos = 0.375 	neg = 0.125
+4. By the time the acti                 ... pos = 0.125 	neg = 0.625
+5. I've read that the o                 ... pos = 0.875 	neg = 0.0  
+6. Perhaps that would h                 ... pos = 0.0   	neg = 0.125
+7. The movie starts off                 ... pos = 0.0   	neg = 0.625
+8. He's a slightly supe                 ... pos = 0.125 	neg = 1.0  
+9. Creepy omens, premon                 ... pos = 0.0   	neg = 0.0  
+10. This doomsday state                 ... pos = 0.25  	neg = 0.25 
+11. As he settles in his                ... pos = 0.125 	neg = 0.5  
+12. He panics, causing h                ... pos = 0.0   	neg = 1.0  
+13. Minutes later, as th                ... pos = 0.0   	neg = 1.0  
+14. The plane exploded a                ... pos = 0.0   	neg = 0.0  
+15. Understandably, this                ... pos = 0.5   	neg = 0.625
+16. Most consider Alex t                ... pos = 0.5   	neg = 0.625
+17. The FBI suspects him                ... pos = 0.375 	neg = 0.0  
+18. The teacher he presu                ... pos = 0.0   	neg = 0.0  
+19. But then things take                ... pos = 0.0   	neg = 0.0  
+20. The 7 people that li                ... pos = 0.0   	neg = 0.0  
+21. It seems that Alex's                ... pos = 0.25  	neg = 0.125
+22. But there is no Grim                ... pos = 0.125 	neg = 0.375
+23. There are some effec                ... pos = 0.75  	neg = 0.0  
+24. The plane sequence m                ... pos = 0.875 	neg = 1.75 
+25. Of course people wil                ... pos = 0.5   	neg = 0.25 
+26. Unfortunately, the m                ... pos = 0.0   	neg = 0.875
+27. Once we pass the hal                ... pos = 0.125 	neg = 0.25 
+28. The climax is absurd                ... pos = 0.0   	neg = 0.125
+29. There is not a touch                ... pos = 0.5   	neg = 0.25 
+30. And the movie doesn'                ... pos = 0.375 	neg = 0.0  
+31. It's always passed o                ... pos = 0.125 	neg = 0.75 
+32. The performances are                ... pos = 0.375 	neg = 0    
+33. Devon Sawa is merely                ... pos = 0.75  	neg = 0.472
+34. Only Amanda Detmer,                 ... pos = 0.875 	neg = 0.125
+35. Can these frightenin                ... pos = 0.125 	neg = 0.0  
+36. It's a plot brimming                ... pos = 1.125 	neg = 0.0  
+37. Final Destination re                ... pos = 0.625 	neg = 1.0  
+38. Someone's going to g                ... pos = 0     	neg = 0.0  
+39. I can feel it.. .                   ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5575-563 is Negative         ... pos = 11.75 	neg = 13.472
+Overall score of document
+Total Pos = 11.75
+Total Neg = 13.472
+---------------------------------------------------------------------------

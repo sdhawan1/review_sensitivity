@@ -1,0 +1,38 @@
+0. Seen with Byron for                  ... pos = 0.0   	neg = 0.0  
+1. A review of this mov                 ... pos = 0.625 	neg = 1.0  
+2. To quote Bart Simpso                 ... pos = 0.0   	neg = 1.5  
+3. "  Four years after                  ... pos = 0.0   	neg = 0.5  
+4. " Actually, it turns                 ... pos = 0.0   	neg = 0.75 
+5. Sort of the alpha ve                 ... pos = 0.0   	neg = 0.125
+6. The movie opens bris                 ... pos = 0.375 	neg = 0.5  
+7. A bad sign.                          ... pos = 0.0   	neg = 0.875
+8. The principal charac                 ... pos = 1.0   	neg = 0.125
+9. She is a paleontolog                 ... pos = 0.0   	neg = 0.125
+10. Along with two other                ... pos = 0.25  	neg = 0.125
+11. It turns out the bad                ... pos = 0.0   	neg = 1.25 
+12. When the corporate b                ... pos = 0.125 	neg = 0.875
+13. It's a labyrinth of                 ... pos = 0.0   	neg = 0    
+14. The environmentalist                ... pos = 0.0   	neg = 0.75 
+15. There are lots of ri                ... pos = 0.625 	neg = 2.875
+16. A slew of stereotype                ... pos = 0.0   	neg = 0.0  
+17. The bad guys invaria                ... pos = 0.375 	neg = 1.25 
+18. Time for a new dream                ... pos = 0.75  	neg = 0    
+19. There's the wide-eye                ... pos = 0.25  	neg = 0.75 
+20. " There's the mambo-                ... pos = 0.0   	neg = 0    
+21. "  There are the pan                ... pos = 0.25  	neg = 0.0  
+22. I guess they only ex                ... pos = 0.0   	neg = 0.0  
+23. It's insulting to ex                ... pos = 0.0   	neg = 0.375
+24. If you want to creat                ... pos = 0.5   	neg = 0.75 
+25. If grown men are plu                ... pos = 0.5   	neg = 0.0  
+26. The only worthwhile                 ... pos = 0.0   	neg = 0.25 
+27. Of course it steals                 ... pos = 0.5   	neg = 0.0  
+28. The Lost World repre                ... pos = 0.625 	neg = 0.375
+29. Luckily, with Wondee                ... pos = 0.625 	neg = 0.375
+30. Note: As in the case                ... pos = 0.0   	neg = 0.0  
+31. Copyright (c) 1997 S                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1258-92 is Negative          ... pos = 7.75  	neg = 15.625
+Overall score of document
+Total Pos = 7.75
+Total Neg = 15.625
+---------------------------------------------------------------------------

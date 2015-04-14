@@ -1,0 +1,56 @@
+0. Cast: Matt Damon, Ed                 ... pos = 0.0   	neg = 0.125
+1. directed by John Dah                 ... pos = 0.0   	neg = 0    
+2. Before Matt Damon be                 ... pos = 0.0   	neg = 0    
+3. " he was a young act                 ... pos = 0.0   	neg = 0.125
+4. It wasn't until "Cou                 ... pos = 1.25  	neg = 0.0  
+5. His performance in a                 ... pos = 1.0   	neg = 0.0  
+6. "  At the same time,                 ... pos = 0.25  	neg = 0.25 
+7. Going to "Rounders,"                 ... pos = 0.0   	neg = 0.0  
+8. And what we find is                  ... pos = 0.0   	neg = 0.375
+9. Matt Damon the star                  ... pos = 0.0   	neg = 0.625
+10. This is slightly dis                ... pos = 0.75  	neg = 0.125
+11. McDermott is conveni                ... pos = 0.0   	neg = 0.125
+12. He loses thirty gran                ... pos = 0.0   	neg = 0.0  
+13. This throws McDermot                ... pos = 0.0   	neg = 0.5  
+14. Around the same time                ... pos = 0.625 	neg = 0.375
+15. Worm hustles and che                ... pos = 1.0   	neg = 0.25 
+16. This singleminded mo                ... pos = 0.0   	neg = 0.0  
+17. First-time feature w                ... pos = 0.5   	neg = 0.0  
+18. But the inside world                ... pos = 0.125 	neg = 0.125
+19. Mike's relationship                 ... pos = 0.0   	neg = 0.125
+20. Jo's protests about                 ... pos = 0.0   	neg = 2.5  
+21. Once Jo leaves the a                ... pos = 0.0   	neg = 0    
+22. Its not the point of                ... pos = 0.75  	neg = 0.0  
+23. Martin Landau, playi                ... pos = 1.25  	neg = 0.125
+24. Wondering what path                 ... pos = 0.0   	neg = 0.0  
+25. Well, I'll just tell                ... pos = 0.0   	neg = 0.125
+26. By this point, Worm                 ... pos = 0.0   	neg = 0.5  
+27. They need to raise f                ... pos = 0.375 	neg = 0.0  
+28. Worm, of course, sab                ... pos = 0.25  	neg = 0.25 
+29. Rounders has the fee                ... pos = 0.0   	neg = 0    
+30. Director John Dahl (                ... pos = 1.25  	neg = 0.0  
+31. All in all, it's a p                ... pos = 0.0   	neg = 0.125
+32. Many movies that are                ... pos = 1.625 	neg = 0.0  
+33. With Malkovich, Nort                ... pos = 0.0   	neg = 0.125
+34. Malkovich (In the Li                ... pos = 1.625 	neg = 0.0  
+35. His role is small, b                ... pos = 0.125 	neg = 0.125
+36. Norton (Primal Fear)                ... pos = 1.125 	neg = 0.25 
+37. The treasure of Roun                ... pos = 0.25  	neg = 0.125
+38. Turturro plays Kinis                ... pos = 0.125 	neg = 0.0  
+39. Kinish has the skill                ... pos = 1.125 	neg = 0.375
+40. He earns his living                 ... pos = 0.0   	neg = 0    
+41. His winnings pay ali                ... pos = 0.0   	neg = 0.0  
+42. It is difficult to d                ... pos = 1.125 	neg = 0.25 
+43. He wins without chea                ... pos = 0.625 	neg = 0.0  
+44. In the process, thou                ... pos = 0.0   	neg = 0.25 
+45. His addiction fuels                 ... pos = 0.625 	neg = 0    
+46. Mike plays for the g                ... pos = 1.0   	neg = 0.5  
+47. It's a tightrope Mik                ... pos = 0.0   	neg = 0.0  
+48. Matt Damon walks the                ... pos = 0.25  	neg = 0.0  
+49. "  It will be intere                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5699-593 is Positive         ... pos = 19.375 	neg = 9.0  
+Overall score of document
+Total Pos = 19.375
+Total Neg = 9.0
+---------------------------------------------------------------------------

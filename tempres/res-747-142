@@ -1,0 +1,15 @@
+0. Seen within a few mi                 ... pos = 0.25  	neg = 0.125
+1. It's a measure of th                 ... pos = 0.375 	neg = 0.375
+2. And, given that  the                 ... pos = 0.375 	neg = 0.25 
+3. The plot of the film                 ... pos = 1.25  	neg = 0.125
+4. But  the effect is i                 ... pos = 1.75  	neg = 0.125
+5. Starting with an arc                 ... pos = 0.375 	neg = 0.0  
+6. Light-hearted  as it                 ... pos = 1.375 	neg = 0.75 
+7. It's good fun, and g                 ... pos = 2.25  	neg = 0.25 
+8. Despite being set am                 ... pos = 0.614 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-747-142 is Positive          ... pos = 8.614 	neg = 2.0  
+Overall score of document
+Total Pos = 8.614
+Total Neg = 2.0
+---------------------------------------------------------------------------

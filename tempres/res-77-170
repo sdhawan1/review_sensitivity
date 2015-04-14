@@ -1,0 +1,17 @@
+0. Its a stupid little                  ... pos = 0.875 	neg = 2.5  
+1. With the voices of W                 ... pos = 0.0   	neg = 0.125
+2. The main story is th                 ... pos = 0.0   	neg = 0.125
+3. He wants more to lif                 ... pos = 0.125 	neg = 0.0  
+4. When he finds out ab                 ... pos = 0.0   	neg = 0.0  
+5. About 15 minutes int                 ... pos = 0.0   	neg = 0.125
+6. Halfway through, I s                 ... pos = 0.0   	neg = 0.0  
+7. Antz is a mindless m                 ... pos = 0.0   	neg = 1.25 
+8. Allen is nonchalant,                 ... pos = 0.375 	neg = 0.75 
+9. This film is one for                 ... pos = 0.625 	neg = 0.375
+10. Hey, A Bug's Life ma                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-77-170 is Negative           ... pos = 2.75  	neg = 5.25 
+Overall score of document
+Total Pos = 2.75
+Total Neg = 5.25
+---------------------------------------------------------------------------

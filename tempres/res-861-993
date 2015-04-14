@@ -1,0 +1,58 @@
+0. Insufferably mannere                 ... pos = 0.25  	neg = 0.0  
+1. Despite the obvious                  ... pos = 0.5   	neg = 0.0  
+2. Bugger.                              ... pos = 0.0   	neg = 0    
+3. "One should never fe                 ... pos = 0.875 	neg = 0.125
+4. But he's  forgotten                  ... pos = 0.0   	neg = 0.125
+5. For those who came i                 ... pos = 0.875 	neg = 0.25 
+6. Never mind that the                  ... pos = 0.5   	neg = 0.75 
+7. Of course, you might                 ... pos = 0.0   	neg = 0.625
+8. For "The Avengers" (                 ... pos = 0.25  	neg = 1.5  
+9. It's not easy to say                 ... pos = 0.25  	neg = 1.625
+10. We meet Ralph Fienne                ... pos = 0.0   	neg = 0.0  
+11. Dangerous, because y                ... pos = 0.75  	neg = 0.0  
+12. He's on the job beca                ... pos = 0.0   	neg = 0.125
+13. Could it be the work                ... pos = 0.625 	neg = 0.125
+14. No, her mission is t                ... pos = 0.0   	neg = 0.375
+15. So after some single                ... pos = 0.25  	neg = 0.75 
+16. And then they're off                ... pos = 0     	neg = 0.625
+17. They go to talk to t                ... pos = 0.0   	neg = 0.125
+18. After he and Uma eng                ... pos = 1.0   	neg = 0.25 
+19. You might think that                ... pos = 0.25  	neg = 0.75 
+20. No, they are silent                 ... pos = 0.375 	neg = 0.625
+21. In fact, one minion                 ... pos = 0.5   	neg = 0.0  
+22. *thinks* No, just a                 ... pos = 0.0   	neg = 0.375
+23. There's a twin of Em                ... pos = 0.0   	neg = 0.0  
+24. No, they never  expl                ... pos = 0.0   	neg = 0.25 
+25. The baddies drop a m                ... pos = 0.0   	neg = 0.625
+26. Connery meets with h                ... pos = 0.75  	neg = 0.0  
+27. Connery explains thi                ... pos = 1.0   	neg = 0.25 
+28. Fiennes  and Thurman                ... pos = 0.25  	neg = 0.375
+29. However Uma strains                 ... pos = 0.875 	neg = 0.75 
+30. Dispirited by their                 ... pos = 0.5   	neg = 0.25 
+31. There's that twin ag                ... pos = 0.0   	neg = 0.0  
+32. What is that all abo                ... pos = 0.0   	neg = 0.125
+33. Connery, determined                 ... pos = 0.0   	neg = 0.0  
+34. Just what the leader                ... pos = 0.25  	neg = 0.125
+35. I guess after Conner                ... pos = 0.0   	neg = 0.625
+36. ("Sod this English w                ... pos = 0.0   	neg = 0.0  
+37. ")  Uma decides  tha                ... pos = 0.125 	neg = 1.625
+38. While captured she b                ... pos = 1.0   	neg = 0.0  
+39. But Ralph and her ge                ... pos = 0.375 	neg = 0.0  
+40. (That's hench-man.                  ... pos = 0     	neg = 0    
+41. One.                                ... pos = 0.0   	neg = 0    
+42. Count 'em, one.                     ... pos = 0.0   	neg = 0.0  
+43. Ohh, it's just so  h                ... pos = 0     	neg = 0.625
+44. ). "Still suspicious                ... pos = 0.0   	neg = 0    
+45. "  apostrophises Uma                ... pos = 0.625 	neg = 0    
+46. "Just wondering if y                ... pos = 0.0   	neg = 0.25 
+47. And the audience can                ... pos = 0.0   	neg = 0.0  
+48. "  Avoid this dull,                 ... pos = 0     	neg = 0.25 
+49. [0/bomb] and a  bad                 ... pos = 0.0   	neg = 1.125
+50. -- Paul-Michael Agap                ... pos = 0.0   	neg = 0.0  
+51. Biology, Imperial Co                ... pos = 0.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-861-993 is Negative          ... pos = 13.125 	neg = 17.25
+Overall score of document
+Total Pos = 13.125
+Total Neg = 17.25
+---------------------------------------------------------------------------

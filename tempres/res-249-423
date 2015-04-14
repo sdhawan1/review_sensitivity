@@ -1,0 +1,22 @@
+0. It is rare to see an                 ... pos = 0.625 	neg = 0.125
+1. A commonplace argume                 ... pos = 0.375 	neg = 0.125
+2. "The Mask of Zorro"                  ... pos = 0.875 	neg = 0.125
+3. During the opening s                 ... pos = 1.0   	neg = 0.125
+4. Some prisoners are a                 ... pos = 0.25  	neg = 0.375
+5. Before you know it,                  ... pos = 0.0   	neg = 0.0  
+6. Unfortunately, he is                 ... pos = 0.125 	neg = 1.0  
+7. Twenty years later,                  ... pos = 0.25  	neg = 0.25 
+8. Zorro teaches Muriet                 ... pos = 0.625 	neg = 0.0  
+9. Thus, Murieta become                 ... pos = 0.75  	neg = 0.125
+10. "The Mask of Zorro"                 ... pos = 0.0   	neg = 1.0  
+11. This exposition with                ... pos = 0.25  	neg = 0.5  
+12. As for Banderas and                 ... pos = 0.5   	neg = 0.0  
+13. The biggest weakness                ... pos = 0.0   	neg = 1.625
+14. Still, "The Mask of                 ... pos = 0.125 	neg = 0.25 
+15. For more reviews, ch                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-249-423 is Positive          ... pos = 5.75  	neg = 5.625
+Overall score of document
+Total Pos = 5.75
+Total Neg = 5.625
+---------------------------------------------------------------------------

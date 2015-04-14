@@ -1,0 +1,59 @@
+0. Directed by: Wolfgan                 ... pos = 0.0   	neg = 0.0  
+1. and headed for  the                  ... pos = 0.0   	neg = 0.0  
+2. Two weeks later, an                  ... pos = 0.0   	neg = 0.0  
+3. That's the tagline f                 ... pos = 0.0   	neg = 0.125
+4. All we really have a                 ... pos = 0.75  	neg = 0.0  
+5. This is generally al                 ... pos = 0.0   	neg = 0.125
+6. Oh sure, there's a l                 ... pos = 0.25  	neg = 0.625
+7. Yet  all the movie r                 ... pos = 0.25  	neg = 0.375
+8. When I first heard a                 ... pos = 0.125 	neg = 0.25 
+9. Wrong, Petersen and                  ... pos = 0.0   	neg = 0.75 
+10. I'll grant it, "The                 ... pos = 0.625 	neg = 0.0  
+11. It  tests your abili                ... pos = 0.0   	neg = 0.0  
+12. As for the suspensio                ... pos = 0.5   	neg = 0.25 
+13. This is despite the                 ... pos = 0.375 	neg = 0.5  
+14. Now I'll admit, I do                ... pos = 0.125 	neg = 0.0  
+15. In fact I despise  t                ... pos = 0.0   	neg = 0.25 
+16. However, I'm pretty                 ... pos = 0.875 	neg = 0.25 
+17. As for enduring the                 ... pos = 0.0   	neg = 0.0  
+18. I'm  sure when this                 ... pos = 2.0   	neg = 1.0  
+19. Of course  I could b                ... pos = 0     	neg = 0.875
+20. I can forgive a lot                 ... pos = 0.75  	neg = 1.0  
+21. George Clooney doesn                ... pos = 0.0   	neg = 0.0  
+22. He acts like a man d                ... pos = 0.0   	neg = 0.875
+23. As though his regula                ... pos = 0.0   	neg = 0.875
+24. I've never actually                 ... pos = 0.625 	neg = 0.125
+25. Mark Whalberg, who "                ... pos = 0.375 	neg = 1.5  
+26. The rest of the cast                ... pos = 0.0   	neg = 1.125
+27. We get the  always g                ... pos = 1.25  	neg = 1.125
+28. ); and the usually                  ... pos = 0.625 	neg = 0.0  
+29. The only other perso                ... pos = 0.0   	neg = 0.125
+30. So, you're probably                 ... pos = 0.75  	neg = 0.125
+31. Sure, the special ef                ... pos = 1.25  	neg = 0.25 
+32. Anything else?                      ... pos = 0     	neg = 0    
+33. I'm afraid  not.                    ... pos = 0.0   	neg = 0    
+34. Fear not, because th                ... pos = 0.75  	neg = 1.375
+35. The dialogue is so p                ... pos = 0.125 	neg = 1.0  
+36. We get lines like: "                ... pos = 0.125 	neg = 0.0  
+37. Like it owns Billy T                ... pos = 0.0   	neg = 0.0  
+38. Ouch, or  how about:                ... pos = 0.125 	neg = 0.0  
+39. " If this was a  par                ... pos = 0.0   	neg = 0.25 
+40. I'm not sure who sho                ... pos = 1.25  	neg = 0.375
+41. I think certain  sce                ... pos = 0.5   	neg = 0.25 
+42. If that was the inte                ... pos = 0.0   	neg = 1.0  
+43. I'd recommend "The P                ... pos = 1.375 	neg = 0.0  
+44. I give the movie  tw                ... pos = 0.0   	neg = 0.0  
+45. Oh, and did I mentio                ... pos = 0.0   	neg = 0.25 
+46. They're  ever so imp                ... pos = 0.125 	neg = 0.0  
+47. Comments?                           ... pos = 0     	neg = 0.0  
+48. Send to: johnbeachem                ... pos = 0.375 	neg = 0.125
+49. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+50. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+51. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+52. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-626-535 is Negative          ... pos = 16.625 	neg = 18.25
+Overall score of document
+Total Pos = 16.625
+Total Neg = 18.25
+---------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+0. Starring Jennifer Ja                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. It's odd h                 ... pos = 1.125 	neg = 0.0  
+2. Last year we had two                 ... pos = 0.125 	neg = 0.625
+3. In 1999, we are luck                 ... pos = 1.75  	neg = 0.0  
+4. The first of the gro                 ... pos = 0.875 	neg = 0.125
+5. In May, Roland Emmer                 ... pos = 1.0   	neg = 0.375
+6. But even without hav                 ... pos = 3.125 	neg = 0.375
+7. It is a movie that e                 ... pos = 0.625 	neg = 0.625
+8. That is not a critic                 ... pos = 0.0   	neg = 0.125
+9. Allegra Geller, a ho                 ... pos = 1.0   	neg = 0.125
+10. Shouting out the kit                ... pos = 0.625 	neg = 0.5  
+11. Fortunately, Geller                 ... pos = 0.875 	neg = 0.0  
+12. The game controllers                ... pos = 0.25  	neg = 0.0  
+13. And to make sure tha                ... pos = 0.25  	neg = 0.125
+14. Even though that doe                ... pos = 0.5   	neg = 0.125
+15. Canadian director Da                ... pos = 0.125 	neg = 0.75 
+16. Jennifer Jason Leigh                ... pos = 1.75  	neg = 0.0  
+17. Law's Ted is a video                ... pos = 0.0   	neg = 0.25 
+18. Ian Holm has a terri                ... pos = 0.25  	neg = 0.25 
+19. eXistenZ is curiousl                ... pos = 0.5   	neg = 0.125
+20. Despite the occasion                ... pos = 0.25  	neg = 0.625
+21. David Cronenberg did                ... pos = 1.75  	neg = 0.0  
+22. Cronenberg's deftnes                ... pos = 1.875 	neg = 0.0  
+23. And if he doesn't go                ... pos = 0.0   	neg = 0.375
+24. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-664-563 is Positive          ... pos = 18.625 	neg = 5.5  
+Overall score of document
+Total Pos = 18.625
+Total Neg = 5.5
+---------------------------------------------------------------------------

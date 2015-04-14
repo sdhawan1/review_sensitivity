@@ -1,0 +1,34 @@
+0. Were Alfred Hitchcoc                 ... pos = 0.375 	neg = 1.0  
+1. In fact, the new fil                 ... pos = 0.875 	neg = 1.125
+2. Must I recount the t                 ... pos = 0.375 	neg = 0.0  
+3. Phoenix, Arizona rec                 ... pos = 0.5   	neg = 0.625
+4. She stops at the Bat                 ... pos = 1.0   	neg = 0.125
+5. Later, Marion is mur                 ... pos = 0.125 	neg = 0.75 
+6. An investigation ens                 ... pos = 0.5   	neg = 0.0  
+7. Van Sant's version i                 ... pos = 0.625 	neg = 0.75 
+8. What struck me most                  ... pos = 0.0   	neg = 1.625
+9. (Perhaps that does d                 ... pos = 0.0   	neg = 0.0  
+10. ) Psycho's screenpla                ... pos = 1.25  	neg = 0.75 
+11. The current shower s                ... pos = 0.0   	neg = 0.125
+12. (Aside: for whatever                ... pos = 0.625 	neg = 0.125
+13. Another aside: Danny                ... pos = 0.125 	neg = 0.125
+14. ). How are the perfo                ... pos = 0.25  	neg = 0    
+15. Occasionally, the da                ... pos = 0.0   	neg = 0.375
+16. (If Van Sant went so                ... pos = 0.0   	neg = 0.25 
+17. ) The most successfu                ... pos = 0.75  	neg = 0.25 
+18. Heche, Mortensen, an                ... pos = 0.375 	neg = 0.125
+19. The movie is such a                 ... pos = 0.0   	neg = 0.25 
+20. With only a few puck                ... pos = 0.625 	neg = 0.75 
+21. An impish Van Sant c                ... pos = 0.25  	neg = 0.625
+22. Ultimately, what dis                ... pos = 0.0   	neg = 0.5  
+23. Why is Marion lollin                ... pos = 0.0   	neg = 0.25 
+24. Why the use of such                 ... pos = 0.0   	neg = 0.5  
+25. Is this same directo                ... pos = 1.125 	neg = 0.125
+26. I can't help but thi                ... pos = 0.0   	neg = 0.5  
+27. It's as if Van Sant                 ... pos = 2.125 	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-6044-1545 is Negative        ... pos = 11.875 	neg = 12.75
+Overall score of document
+Total Pos = 11.875
+Total Neg = 12.75
+---------------------------------------------------------------------------

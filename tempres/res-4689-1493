@@ -1,0 +1,38 @@
+0. Director: Martin Bre                 ... pos = 0.125 	neg = 1.25 
+1. And I'm not going to                 ... pos = 0.25  	neg = 0.125
+2. Yes, "Meet Joe Black                 ... pos = 0.125 	neg = 0.25 
+3. Yes, "Meet Joe Black                 ... pos = 0.5   	neg = 0.25 
+4. And yes, it's less l                 ... pos = 0.75  	neg = 0.125
+5. But all I can say is                 ... pos = 1.75  	neg = 0.625
+6. I like that this fil                 ... pos = 0.5   	neg = 0.5  
+7. Those who are compla                 ... pos = 1.0   	neg = 0.875
+8. All I can say is "Me                 ... pos = 0.25  	neg = 0.375
+9. It is, though, beati                 ... pos = 0.0   	neg = 0.5  
+10. The cinematography i                ... pos = 0.625 	neg = 0.25 
+11. This all gives it a                 ... pos = 0.625 	neg = 1.25 
+12. Combine this with a                 ... pos = 1.25  	neg = 0.375
+13. ". The story of deat                ... pos = 1.75  	neg = 0.875
+14. Death, dubbed Joe Bl                ... pos = 2.75  	neg = 1.25 
+15. By refusing to push                 ... pos = 1.375 	neg = 0.375
+16. Since, depending on                 ... pos = 0.125 	neg = 0.125
+17. Though the film is n                ... pos = 0.125 	neg = 0.625
+18. Though we're pretty                 ... pos = 1.125 	neg = 0.125
+19. This is pretty much                 ... pos = 0.125 	neg = 0.25 
+20. The daughter, played                ... pos = 1.5   	neg = 1.375
+21. Joe, played by Brad                 ... pos = 0.125 	neg = 0.25 
+22. Obsessed with making                ... pos = 1.375 	neg = 0.0  
+23. And throughout the f                ... pos = 1.0   	neg = 0.25 
+24. Maybe this is what t                ... pos = 2.0   	neg = 0.375
+25. But whatever the poi                ... pos = 0.0   	neg = 0.125
+26. He never seems to be                ... pos = 1.0   	neg = 0.625
+27. Forlaini is rather m                ... pos = 1.25  	neg = 0.125
+28. "  The two are alway                ... pos = 2.375 	neg = 1.125
+29. In fact, everything                 ... pos = 1.875 	neg = 0.625
+30. It's silly and predi                ... pos = 0.25  	neg = 0.375
+31. Homepage at: http://                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4689-1493 is Positive        ... pos = 27.875 	neg = 15.625
+Overall score of document
+Total Pos = 27.875
+Total Neg = 15.625
+---------------------------------------------------------------------------

@@ -1,0 +1,49 @@
+0. Rated R for violence                 ... pos = 0.125 	neg = 0.0  
+1. Starring: Patricia A                 ... pos = 0.0   	neg = 0.375
+2. Let me see this is w                 ... pos = 0.0   	neg = 0.125
+3. Let me rephrase the                  ... pos = 0     	neg = 0.25 
+4. Although 'Stigmata'                  ... pos = 0.0   	neg = 0.75 
+5. It only lacks one th                 ... pos = 0.0   	neg = 0.375
+6. The film was not sca                 ... pos = 1.25  	neg = 0.875
+7. It has a good plot a                 ... pos = 0.75  	neg = 1.0  
+8. The movie starts in                  ... pos = 0.25  	neg = 0.125
+9. The loved priest of                  ... pos = 0.875 	neg = 0.375
+10. Then we see a woman                 ... pos = 0.0   	neg = 0.375
+11. That woman is the mo                ... pos = 0.0   	neg = 0.125
+12. Frankie lives a norm                ... pos = 0.5   	neg = 0.0  
+13. One night she's taki                ... pos = 0.0   	neg = 1.0  
+14. She is rushed to the                ... pos = 0.25  	neg = 0.125
+15. When the priests ove                ... pos = 0.0   	neg = 0.0  
+16. When another attack                 ... pos = 0.125 	neg = 0.125
+17. Andrew talks to the                 ... pos = 0.25  	neg = 0.0  
+18. He explains to her t                ... pos = 0.5   	neg = 0.0  
+19. What is Stigmata you                ... pos = 0     	neg = 0.125
+20. Well it's when a per                ... pos = 0.375 	neg = 0.5  
+21. Why does Frankie hav                ... pos = 0.0   	neg = 0.0  
+22. Well I shouldn't tel                ... pos = 0.75  	neg = 0.0  
+23. The movie has what s                ... pos = 0.0   	neg = 0.5  
+24. What really got me w                ... pos = 1.0   	neg = 0.375
+25. Gabriel Byrne is the                ... pos = 0.0   	neg = 1.0  
+26. The visual style of                 ... pos = 0.75  	neg = 0.125
+27. Slow motion, close-u                ... pos = 0.0   	neg = 0.0  
+28. The movies direction                ... pos = 1.25  	neg = 0.5  
+29. Screenplay for the f                ... pos = 0.75  	neg = 0.125
+30. It has some holes th                ... pos = 0.25  	neg = 0.5  
+31. Sadly the movie isn'                ... pos = 0.0   	neg = 1.75 
+32. The movie is far fro                ... pos = 0.25  	neg = 1.125
+33. Another problem with                ... pos = 0.0   	neg = 0.75 
+34. In fact some of the                 ... pos = 0.875 	neg = 0.125
+35. The last thirty minu                ... pos = 0.25  	neg = 0.0  
+36. The final climatic s                ... pos = 0.0   	neg = 0.125
+37. If your in the mood                 ... pos = 0.75  	neg = 0.25 
+38. But if your like me                 ... pos = 0.0   	neg = 0.0  
+39. It has the style, th                ... pos = 0.125 	neg = 0.125
+40. Go see 'The Sixth Se                ... pos = 0.375 	neg = 0.125
+41. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+42. Brandon Herring Movi                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4863-1102 is Negative        ... pos = 12.75 	neg = 14.125
+Overall score of document
+Total Pos = 12.75
+Total Neg = 14.125
+---------------------------------------------------------------------------

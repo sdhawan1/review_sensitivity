@@ -1,0 +1,29 @@
+0. 54 Reviewed by Jamie                 ... pos = 0.5   	neg = 0.125
+1. Inside, anything wen                 ... pos = 0.25  	neg = 0.0  
+2. The film's fictional                 ... pos = 1.75  	neg = 0.375
+3. His wish comes true                  ... pos = 1.0   	neg = 1.25 
+4. Once inside, Shane b                 ... pos = 0.0   	neg = 0.25 
+5. He has such a good t                 ... pos = 0.75  	neg = 0.375
+6. He quickly becomes f                 ... pos = 0.125 	neg = 0.25 
+7. After rubbing elbows                 ... pos = 0.5   	neg = 0.0  
+8. But fame doesn't com                 ... pos = 0.25  	neg = 0.0  
+9. "54"'s major shortco                 ... pos = 1.0   	neg = 0.375
+10. Alleged last-minute                 ... pos = 0.5   	neg = 0.5  
+11. Nowhere is this more                ... pos = 0.75  	neg = 0.75 
+12. The romance  is prod                ... pos = 0.5   	neg = 0.125
+13. That "54" works desp                ... pos = 0.375 	neg = 0.375
+14. Sure, it's shallow,                 ... pos = 2.0   	neg = 0.0  
+15. The film boasts some                ... pos = 1.125 	neg = 0.375
+16. " . The solid, sexy                 ... pos = 0.0   	neg = 0.0  
+17. Newcomer Phillippe h                ... pos = 1.25  	neg = 1.375
+18. Meyer exhibits the c                ... pos = 1.625 	neg = 0.125
+19. " Sherry  Stringfiel                ... pos = 0.375 	neg = 0.0  
+20. As the droopy-eyed,                 ... pos = 0.75  	neg = 0.125
+21. When he's not playin                ... pos = 1.125 	neg = 0.625
+22. And while his perfor                ... pos = 1.056 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3871-1031 is Positive        ... pos = 17.556 	neg = 7.75 
+Overall score of document
+Total Pos = 17.556
+Total Neg = 7.75
+---------------------------------------------------------------------------

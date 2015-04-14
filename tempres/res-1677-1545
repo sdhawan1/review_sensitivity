@@ -1,0 +1,28 @@
+0. starring Ian Holm, S                 ... pos = 0.375 	neg = 0.0  
+1. I'm referring, speci                 ... pos = 0.375 	neg = 0    
+2. In The Sweet Hereaft                 ... pos = 0.375 	neg = 0.0  
+3. Said story, of a fat                 ... pos = 0.125 	neg = 0.5  
+4. When the film opens,                 ... pos = 2.5   	neg = 0.0  
+5. Throughout, we get t                 ... pos = 0.25  	neg = 0.0  
+6. But there is one liv                 ... pos = 0.125 	neg = 0.125
+7. We finally do see th                 ... pos = 0.0   	neg = 0.125
+8. A horrific long take                 ... pos = 0.5   	neg = 0.5  
+9. The fractured narrat                 ... pos = 0.625 	neg = 0.75 
+10. I have a problem not                ... pos = 0.0   	neg = 0.25 
+11. For the first hour o                ... pos = 0.375 	neg = 1.875
+12. But that's just the                 ... pos = 0.375 	neg = 0.25 
+13. Also, a subplot invo                ... pos = 0.0   	neg = 0.0  
+14. Perhaps it wouldn't                 ... pos = 0.625 	neg = 0.0  
+15. There are two charac                ... pos = 1.5   	neg = 0.125
+16. I was half-right.                   ... pos = 0     	neg = 0.125
+17. Nevertheless it's wo                ... pos = 0.125 	neg = 0    
+18. The delightful criti                ... pos = 1.5   	neg = 0.25 
+19. The Sweet Hereafter                 ... pos = 0.125 	neg = 0.125
+20. Egoyan is a fine, fi                ... pos = 0.625 	neg = 0.5  
+21. Though I harped on t                ... pos = 0.625 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1677-1545 is Positive        ... pos = 11.125 	neg = 5.625
+Overall score of document
+Total Pos = 11.125
+Total Neg = 5.625
+---------------------------------------------------------------------------

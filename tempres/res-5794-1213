@@ -1,0 +1,23 @@
+0. A sci fi/comedy star                 ... pos = 0.0   	neg = 0.0  
+1. The martians have la                 ... pos = 0.0   	neg = 0.0  
+2. Before entering the                  ... pos = 0.125 	neg = 0.5  
+3. Many people were say                 ... pos = 0.0   	neg = 0.625
+4. How wrong they were.                 ... pos = 0     	neg = 0.875
+5. I left this film fee                 ... pos = 0.75  	neg = 0.125
+6. The story is about M                 ... pos = 0.0   	neg = 0.125
+7. Using ray guns (hoor                 ... pos = 0.0   	neg = 0.0  
+8. ) they generally cau                 ... pos = 0.0   	neg = 0.5  
+9. Nicholson plays the                  ... pos = 0.375 	neg = 0.0  
+10. But, basically, its                 ... pos = 0.0   	neg = 0.25 
+11. The way people are k                ... pos = 0.5   	neg = 0.625
+12. But, most of all, th                ... pos = 0.125 	neg = 0.125
+13. The Martians are ful                ... pos = 1.875 	neg = 0.0  
+14. The film is a millio                ... pos = 0.5   	neg = 0.75 
+15. They are is a great                 ... pos = 0.25  	neg = 0.375
+16. This has to be the b                ... pos = 0.375 	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5794-1213 is Negative        ... pos = 4.875 	neg = 5.375
+Overall score of document
+Total Pos = 4.875
+Total Neg = 5.375
+---------------------------------------------------------------------------

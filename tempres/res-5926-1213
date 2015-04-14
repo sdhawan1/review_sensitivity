@@ -1,0 +1,37 @@
+0. South Park: Bigger,                  ... pos = 0.0   	neg = 0.0  
+1. Starring the voices                  ... pos = 1.375 	neg = 1.375
+2. However, this new mo                 ... pos = 1.375 	neg = 0.25 
+3. The film centres on                  ... pos = 0.0   	neg = 0.0  
+4. They go see the new                  ... pos = 0.5   	neg = 0.375
+5. ) The kids cotton on                 ... pos = 0.875 	neg = 0.0  
+6. The parents blame Ca                 ... pos = 0.625 	neg = 0.875
+7. They also demand tha                 ... pos = 0.25  	neg = 0.5  
+8. In another subplot,                  ... pos = 0.75  	neg = 0.5  
+9. The plot is obviousl                 ... pos = 0.75  	neg = 0.375
+10. The irony is, of cou                ... pos = 0.75  	neg = 0.25 
+11. But while the film a                ... pos = 0.25  	neg = 1.875
+12. The satire is also a                ... pos = 0.0   	neg = 0.375
+13. But satire isn't the                ... pos = 0.75  	neg = 0.125
+14. And South Park deliv                ... pos = 0.0   	neg = 0    
+15. While the television                ... pos = 0.125 	neg = 0.375
+16. There's swearing eve                ... pos = 0.625 	neg = 0.25 
+17. The film realises th                ... pos = 0.875 	neg = 0.375
+18. There's stabs at all                ... pos = 0.125 	neg = 0.0  
+19. Even Bill Gates gets                ... pos = 0.375 	neg = 0.0  
+20. A new addition to th                ... pos = 0.375 	neg = 0.375
+21. Written by Stone and                ... pos = 1.0   	neg = 0.0  
+22. Some of them are a l                ... pos = 0.5   	neg = 1.5  
+23. ) The voices are act                ... pos = 2.5   	neg = 0.0  
+24. The standard South P                ... pos = 0.0   	neg = 0.75 
+25. The animation being                 ... pos = 0.25  	neg = 0.0  
+26. And although South P                ... pos = 0.125 	neg = 0.5  
+27. It's never truly tas                ... pos = 0.625 	neg = 0.25 
+28. With the various spo                ... pos = 0.75  	neg = 0.875
+29. Far better than the                 ... pos = 0.25  	neg = 0.125
+30. It's not perfect, an                ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5926-1213 is Positive        ... pos = 17.5  	neg = 12.625
+Overall score of document
+Total Pos = 17.5
+Total Neg = 12.625
+---------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+0. rated R 116 minutes                  ... pos = 0.25  	neg = 0.375
+1. Who else could have                  ... pos = 0.75  	neg = 0.0  
+2. What type of person                  ... pos = 0.0   	neg = 0.125
+3. He has approached al                 ... pos = 0.0   	neg = 0.375
+4. Whatever material th                 ... pos = 0.0   	neg = 0.125
+5. Perhaps he is a litt                 ... pos = 0.75  	neg = 0.625
+6. This is the role Car                 ... pos = 0.5   	neg = 0.25 
+7. He is so good itâ^�                 ... pos = 0.75  	neg = 0.875
+8. The script, however,                 ... pos = 0.375 	neg = 0.125
+9. Charlie Baileygates                  ... pos = 1.0   	neg = 0.125
+10. His wife sleeps  wit                ... pos = 0.25  	neg = 0.0  
+11. He doesnâ^Ŕ^Ůt se                ... pos = 0.125 	neg = 0.125
+12. After a day of unusu                ... pos = 0.0   	neg = 0.25 
+13. Hank is the complete                ... pos = 0     	neg = 0.125
+14. Hank  likes to fight                ... pos = 0.125 	neg = 0.625
+15. Doctors determine th                ... pos = 0.0   	neg = 0.125
+16. Irene (Renee Zellweg                ... pos = 0.125 	neg = 0.125
+17. Charlie must escort                 ... pos = 0.875 	neg = 0    
+18. Before leaving, Char                ... pos = 0.0   	neg = 0.0  
+19. As both of his  pers                ... pos = 1.25  	neg = 0.0  
+20. The Farrelly brother                ... pos = 0.625 	neg = 0.5  
+21. In interviews they h                ... pos = 0.125 	neg = 0.625
+22. We do everything onl                ... pos = 0.375 	neg = 0.5  
+23. This type of shockin                ... pos = 0.375 	neg = 0.125
+24. As the film continue                ... pos = 0.0   	neg = 0.25 
+25. An early scene  invo                ... pos = 0.375 	neg = 0.375
+26. Charlieâ^Ŕ^Ůs thr                ... pos = 0.75  	neg = 0.0  
+27. The rest crosses  th                ... pos = 0.0   	neg = 0.375
+28. The Farrelly brother                ... pos = 0.0   	neg = 0.75 
+29. When they did the ha                ... pos = 0.0   	neg = 0.375
+30. With this  movie, we                ... pos = 0.0   	neg = 0.0  
+31. Therefore, it isnâ^                ... pos = 0.625 	neg = 0.0  
+32. The romance fails to                ... pos = 0.0   	neg = 0.375
+33. Perhaps the offscree                ... pos = 0.75  	neg = 0.875
+34. Irene doesnâ^Ŕ^Ůt                ... pos = 0.875 	neg = 0.0  
+35. She tries to be her                 ... pos = 1.5   	neg = 0.625
+36. Supporting performan                ... pos = 0.375 	neg = 0.25 
+37. Me, Myself & Irene i                ... pos = 0.0   	neg = 0.75 
+38. The romance moves al                ... pos = 0.125 	neg = 0.0  
+39. Even if the Farrelly                ... pos = 0.75  	neg = 0.125
+40. Stay for the credits                ... pos = 0.25  	neg = 0.0  
+41. This is certainly  a                ... pos = 1.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-4176-329 is Positive         ... pos = 16.125 	neg = 11.875
+Overall score of document
+Total Pos = 16.125
+Total Neg = 11.875
+---------------------------------------------------------------------------

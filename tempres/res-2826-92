@@ -1,0 +1,36 @@
+0. Seen at the UA Crite                 ... pos = 1.0   	neg = 0.25 
+1. I had resisted this                  ... pos = 0.25  	neg = 0.0  
+2. Did anyone even see                  ... pos = 0.0   	neg = 0.0  
+3. Case closed.... *My                  ... pos = 1.375 	neg = 0.75 
+4. * Let's face it, Der                 ... pos = 2.25  	neg = 0.0  
+5. Julianne (Julia Robe                 ... pos = 0.5   	neg = 0.0  
+6. But when she discove                 ... pos = 0.75  	neg = 0.875
+7. What ensues is impro                 ... pos = 0.0   	neg = 0.125
+8. Julie flies into Chi                 ... pos = 0.0   	neg = 0.125
+9. Kimmy, the bride, fa                 ... pos = 0.0   	neg = 0.25 
+10. She thwarts Julie's                 ... pos = 0.75  	neg = 0.5  
+11. This frustrates Juli                ... pos = 0.0   	neg = 0    
+12. So she has to call i                ... pos = 0.25  	neg = 0.0  
+13. He actually has more                ... pos = 0.0   	neg = 0.0  
+14. George shows up in C                ... pos = 0.0   	neg = 0.0  
+15. Her machinations fai                ... pos = 0.0   	neg = 1.0  
+16. What make the movie                 ... pos = 1.0   	neg = 0.375
+17. Even the opening cre                ... pos = 0.0   	neg = 0.0  
+18. Julia Robertsactuall                ... pos = 0.75  	neg = 0    
+19. She falls down with                 ... pos = 0.0   	neg = 0.25 
+20. Personally, watching                ... pos = 0.0   	neg = 1.125
+21. As for the romantice                ... pos = 0.375 	neg = 1.0  
+22. No Depeche Mode or S                ... pos = 0.0   	neg = 0.25 
+23. Dermot Mulroney turn                ... pos = 2.5   	neg = 0.5  
+24. He is a good friend,                ... pos = 1.375 	neg = 0.347
+25. The supporting cast                 ... pos = 1.625 	neg = 0.125
+26. Rather memorable are                ... pos = 1.625 	neg = 0.0  
+27. JD Department: I cou                ... pos = 1.0   	neg = 0.75 
+28. Copyright (c) 1997 S                ... pos = 0.375 	neg = 0.0  
+29. Other film reviews b                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2826-92 is Positive          ... pos = 18.375 	neg = 8.597
+Overall score of document
+Total Pos = 18.375
+Total Neg = 8.597
+---------------------------------------------------------------------------

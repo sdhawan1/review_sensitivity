@@ -1,0 +1,17 @@
+0. Let's not mince word                 ... pos = 0.125 	neg = 0.125
+1. After an awesome cre                 ... pos = 1.375 	neg = 0.0  
+2. Fox and a multitude                  ... pos = 0.875 	neg = 0.375
+3. (Only Pierce Brosnan                 ... pos = 0.625 	neg = 0.5  
+4. ) Not that this narr                 ... pos = 1.75  	neg = 1.25 
+5. But just when you're                 ... pos = 0.375 	neg = 0.0  
+6. Whenever the bubble-                 ... pos = 1.875 	neg = 0.0  
+7. (One of the best gag                 ... pos = 1.625 	neg = 0.375
+8. ) Not all of the jok                 ... pos = 0.375 	neg = 0.375
+9. By the time that Tom                 ... pos = 0.5   	neg = 0.0  
+10. Copyright 1997: The                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5794-1148 is Positive        ... pos = 9.5   	neg = 3.0  
+Overall score of document
+Total Pos = 9.5
+Total Neg = 3.0
+---------------------------------------------------------------------------

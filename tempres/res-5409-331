@@ -1,0 +1,27 @@
+0. "Have you ever had a                 ... pos = 0.875 	neg = 0.125
+1. " Morpheus (Laurence                 ... pos = 0.0   	neg = 0.0  
+2. The story of this mo                 ... pos = 0.125 	neg = 0.125
+3. After you seen this                  ... pos = 0.0   	neg = 0.625
+4. This is what the Wac                 ... pos = 0.0   	neg = 0.125
+5. So many special effe                 ... pos = 0.0   	neg = 0.125
+6. Well, a few things a                 ... pos = 0.25  	neg = 0.0  
+7. So this Neo is a hac                 ... pos = 0.5   	neg = 0.25 
+8. His main quest is fi                 ... pos = 0.0   	neg = 0.25 
+9. With the help of Tri                 ... pos = 0.0   	neg = 0    
+10. It turns out that Mo                ... pos = 0.375 	neg = 0.25 
+11. Just like a reincarn                ... pos = 0.0   	neg = 0.125
+12. Here, Neo will start                ... pos = 0.125 	neg = 0.125
+13. One thing leads to a                ... pos = 0.0   	neg = 0.625
+14. Neo and Trinity walk                ... pos = 1.125 	neg = 0.375
+15. This scene is awesom                ... pos = 2.125 	neg = 0.25 
+16. That's all I can say                ... pos = 0.0   	neg = 0.0  
+17. Oh, and what is The                 ... pos = 0.0   	neg = 0.125
+18. Go see and find out                 ... pos = 0.0   	neg = 0.0  
+19. It's worth it.                      ... pos = 0.0   	neg = 0    
+20. At least you can cho                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5409-331 is Positive         ... pos = 5.5   	neg = 3.5  
+Overall score of document
+Total Pos = 5.5
+Total Neg = 3.5
+---------------------------------------------------------------------------

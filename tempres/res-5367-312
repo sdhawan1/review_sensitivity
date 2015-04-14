@@ -1,0 +1,24 @@
+0. 7th September 1999:                  ... pos = 1.875 	neg = 0.0  
+1. Simon (Desmond Askew                 ... pos = 0.0   	neg = 0.125
+2. While he's away on a                 ... pos = 0.0   	neg = 0.0  
+3. In his absence, fell                 ... pos = 0.0   	neg = 0.125
+4. She tells the strang                 ... pos = 0.0   	neg = 0.125
+5. Meanwhile, Simon and                 ... pos = 0.25  	neg = 0.0  
+6. And aren't those str                 ... pos = 0.0   	neg = 0.25 
+7. In this film, nothin                 ... pos = 0.125 	neg = 0.5  
+8. The structural simil                 ... pos = 2.25  	neg = 1.0  
+9. But he went ahead an                 ... pos = 0.0   	neg = 0.0  
+10. Which is lucky for u                ... pos = 2.25  	neg = 0.25 
+11. A problem with the f                ... pos = 1.625 	neg = 1.125
+12. The film is far from                ... pos = 0.125 	neg = 0.125
+13. There are a few impl                ... pos = 1.0   	neg = 1.5  
+14. The police office th                ... pos = 0.625 	neg = 0.0  
+15. Go doesn't have the                 ... pos = 0.375 	neg = 0.625
+16. It is fast-paced, we                ... pos = 0.625 	neg = 0.5  
+17. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5367-312 is Positive         ... pos = 12.125 	neg = 6.25 
+Overall score of document
+Total Pos = 12.125
+Total Neg = 6.25
+---------------------------------------------------------------------------

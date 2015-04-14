@@ -1,0 +1,26 @@
+0. PLEASANTVILLE **1/2                  ... pos = 0.125 	neg = 0.0  
+1. FILM FREAK CENTRAL h                 ... pos = 1.0   	neg = 0.125
+2. This is a film that                  ... pos = 0.125 	neg = 0.375
+3. Maguire (The Ice Sto                 ... pos = 0.0   	neg = 0.5  
+4. One lonely Friday ni                 ... pos = 1.625 	neg = 0.625
+5. The siblings must li                 ... pos = 1.5   	neg = 0.0  
+6. David knows every ep                 ... pos = 2.5   	neg = 0.625
+7. Her impulsive action                 ... pos = 0.875 	neg = 0.625
+8. At first, Maguire sc                 ... pos = 0.875 	neg = 0.5  
+9. Ross's (co-screenwri                 ... pos = 0.25  	neg = 0.125
+10. The movie demonstrat                ... pos = 0.125 	neg = 0.375
+11. Those who discover p                ... pos = 0.5   	neg = 0.0  
+12. Walsh) outlaws "colo                ... pos = 0.0   	neg = 0.25 
+13. But the movie wants                 ... pos = 0.625 	neg = 0.125
+14. PLEASANTVILLE's most                ... pos = 1.375 	neg = 0.75 
+15. It's not George's fa                ... pos = 0.875 	neg = 0.25 
+16. Ross simultaneously                 ... pos = 0.375 	neg = 0.5  
+17. (The ending feels a                 ... pos = 0.25  	neg = 0.0  
+18. ). PLEASANTVILLE tou                ... pos = 0.125 	neg = 0.375
+19. I was never quite su                ... pos = 0.375 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-1978-1545 is Positive        ... pos = 13.5  	neg = 7.0  
+Overall score of document
+Total Pos = 13.5
+Total Neg = 7.0
+---------------------------------------------------------------------------

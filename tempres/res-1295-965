@@ -1,0 +1,49 @@
+0. The X-Files taught u                 ... pos = 0.5   	neg = 0.25 
+1. More They Live than                  ... pos = 0.0   	neg = 0    
+2. The trailer establis                 ... pos = 0.375 	neg = 0.25 
+3. And we are hungry fo                 ... pos = 0.375 	neg = 0.0  
+4. It's been two summer                 ... pos = 1.5   	neg = 0.125
+5. Which is to say it's                 ... pos = 0.0   	neg = 0.125
+6. The Astronaut's Wife                 ... pos = 0.0   	neg = 0.0  
+7. Or, to be more speci                 ... pos = 0.0   	neg = 0.5  
+8. And of course no one                 ... pos = 0.0   	neg = 0.25 
+9. His wife Jillian (Ch                 ... pos = 1.0   	neg = 0.25 
+10. And there's even the                ... pos = 0.0   	neg = 0.625
+11. But then there would                ... pos = 0.0   	neg = 0.375
+12. To writer/director R                ... pos = 0.75  	neg = 0.25 
+13. But Spencer's not th                ... pos = 0.0   	neg = 0.0  
+14. Jillian is.                         ... pos = 0     	neg = 0.125
+15. Along with their mar                ... pos = 0.5   	neg = 0.25 
+16. This is something of                ... pos = 0.125 	neg = 0.125
+17. Typically, it's the                 ... pos = 0.125 	neg = 0.125
+18. Which is to say it h                ... pos = 0.25  	neg = 0.125
+19. Specifically, those                 ... pos = 0.375 	neg = 0.0  
+20. Chereze Thiron even                 ... pos = 0.0   	neg = 0.0  
+21. And everyone who sha                ... pos = 0.125 	neg = 0.125
+22. It's all about isola                ... pos = 0.0   	neg = 0.0  
+23. The only difference                 ... pos = 0.25  	neg = 0.25 
+24. Not the 2001 kind of                ... pos = 0.125 	neg = 0.0  
+25. Again, it's how alie                ... pos = 0.0   	neg = 0.0  
+26. And don't think Star                ... pos = 0     	neg = 0.0  
+27. Think Species.                      ... pos = 0     	neg = 0.0  
+28. Jillian does.                       ... pos = 0.0   	neg = 0    
+29. But too, she has a l                ... pos = 0.5   	neg = 0.5  
+30. Very Jamie Lee Curti                ... pos = 0.875 	neg = 0.0  
+31. Which is a bit of a                 ... pos = 0.0   	neg = 0.125
+32. The stand-off as opp                ... pos = 0.0   	neg = 0    
+33. This is a drama, aft                ... pos = 0.375 	neg = 0.125
+34. It's about trust in                 ... pos = 0.375 	neg = 0.125
+35. What will convince J                ... pos = 0.125 	neg = 0.125
+36. And it's all fairly                 ... pos = 0.75  	neg = 0.0  
+37. And then, inside of                 ... pos = 0.0   	neg = 1.375
+38. And the thing is, th                ... pos = 0.125 	neg = 0.25 
+39. In all The Thing inc                ... pos = 0.5   	neg = 1.0  
+40. Instead of expanding                ... pos = 0.25  	neg = 0.0  
+41. Shoots for the distu                ... pos = 0.25  	neg = 0.125
+42. (c) 1999 Stephen Gra                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1295-965 is Positive         ... pos = 10.5  	neg = 7.875
+Overall score of document
+Total Pos = 10.5
+Total Neg = 7.875
+---------------------------------------------------------------------------

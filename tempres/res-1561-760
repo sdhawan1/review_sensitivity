@@ -1,0 +1,27 @@
+0. Director: Robert Rod                 ... pos = 0.0   	neg = 0.0  
+1. US Distribution: Mir                 ... pos = 0.125 	neg = 0.75 
+2. They start with the                  ... pos = 0.0   	neg = 0.0  
+3. So, naturally, it fa                 ... pos = 0.75  	neg = 1.125
+4. Along the way, there                 ... pos = 0.5   	neg = 0.0  
+5. I like writer Kevin                  ... pos = 0.75  	neg = 0.0  
+6. They certainly overp                 ... pos = 1.625 	neg = 1.875
+7. He's clearly a man w                 ... pos = 0.5   	neg = 0.0  
+8. The Faculty is suffi                 ... pos = 0.875 	neg = 0.375
+9. It rather reminded m                 ... pos = 0.875 	neg = 0.25 
+10. Some are calling The                ... pos = 0.25  	neg = 0.0  
+11. I don't even think i                ... pos = 0.0   	neg = 0.125
+12. All of the science (                ... pos = 1.125 	neg = 1.125
+13. The Faculty is stric                ... pos = 1.125 	neg = 0.5  
+14. And it's not a great                ... pos = 0.125 	neg = 0.75 
+15. Directed by Robert R                ... pos = 0.375 	neg = 1.125
+16. The giant digital sl                ... pos = 0.875 	neg = 0.125
+17. And funny it is; Wil                ... pos = 0.75  	neg = 0.375
+18. The movie is not pla                ... pos = 1.25  	neg = 0.25 
+19. The actors are appea                ... pos = 0.375 	neg = 0.125
+20. I think it might lif                ... pos = 1.25  	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-1561-760 is Positive         ... pos = 13.5  	neg = 10.0 
+Overall score of document
+Total Pos = 13.5
+Total Neg = 10.0
+---------------------------------------------------------------------------

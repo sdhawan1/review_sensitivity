@@ -1,0 +1,33 @@
+0. Cast: Dennis Quaid,                  ... pos = 0.875 	neg = 1.125
+1. Such was the case wi                 ... pos = 0.0   	neg = 0.125
+2. Every time I went to                 ... pos = 0.0   	neg = 0.125
+3. It looked awful.                     ... pos = 0.0   	neg = 0.875
+4. It looked cheesy, sa                 ... pos = 0.0   	neg = 1.5  
+5. It looked like a flo                 ... pos = 0.0   	neg = 0.0  
+6. Well, whoever put th                 ... pos = 1.125 	neg = 0.25 
+7. Frequency boasts a c                 ... pos = 0.0   	neg = 0.0  
+8. An occurrence of fre                 ... pos = 0.625 	neg = 0.125
+9. John is able to give                 ... pos = 0.375 	neg = 0.125
+10. Somehow, a serial ki                ... pos = 0.0   	neg = 0.5  
+11. This is director Gre                ... pos = 0.625 	neg = 0.375
+12. With all three, he's                ... pos = 0.625 	neg = 0.125
+13. Also, he apparently                 ... pos = 0.0   	neg = 0.125
+14. Frequency is no exce                ... pos = 0.5   	neg = 1.0  
+15. Hoblit is three for                 ... pos = 0.375 	neg = 0.125
+16. Now everyone can arg                ... pos = 0.0   	neg = 0.125
+17. But the fact of the                 ... pos = 0.125 	neg = 0.25 
+18. Who's to say how som                ... pos = 0.0   	neg = 0    
+19. Is it because we've                 ... pos = 0.0   	neg = 0.125
+20. Yes, if you sit down                ... pos = 0.125 	neg = 0.375
+21. Most films are like                 ... pos = 0.25  	neg = 0.0  
+22. Don't let that dissu                ... pos = 0.5   	neg = 0.0  
+23. When Frequency was o                ... pos = 0.0   	neg = 0.75 
+24. When you break it do                ... pos = 0.0   	neg = 0.625
+25. It's touching, it's                 ... pos = 0.75  	neg = 0.0  
+26. [PG-13]. Reviewed by                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1402-515 is Negative         ... pos = 6.875 	neg = 8.75 
+Overall score of document
+Total Pos = 6.875
+Total Neg = 8.75
+---------------------------------------------------------------------------

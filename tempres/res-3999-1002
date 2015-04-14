@@ -1,0 +1,58 @@
+0. All of my film revie                 ... pos = 0.25  	neg = 0.125
+1. E-mail me at justinf                 ... pos = 0.0   	neg = 0.0  
+2. Starring Pierce Bros                 ... pos = 0.0   	neg = 0.0  
+3. Rated PG-13 (contain                 ... pos = 0.125 	neg = 1.0  
+4. Synopsis:  British s                 ... pos = 0.0   	neg = 0.375
+5. ),  drives a nifty c                 ... pos = 0.0   	neg = 0.0  
+6. Comments:  This is B                 ... pos = 0.0   	neg = 0.125
+7. Nineteen James Bond                  ... pos = 0.0   	neg = 0    
+8. It's  incredible whe                 ... pos = 0.0   	neg = 0.0  
+9. After the sequel num                 ... pos = 0.0   	neg = 0.5  
+10. ALIEN 4, hence, beco                ... pos = 0.0   	neg = 0.0  
+11. The people behind th                ... pos = 0.375 	neg = 0.0  
+12. The movie titles mak                ... pos = 1.5   	neg = 0.25 
+13. THE  WORLD IS NOT EN                ... pos = 0.0   	neg = 0.375
+14. To further the cleve                ... pos = 0.625 	neg = 0.125
+15. I remember seeing a                 ... pos = 0.375 	neg = 0.125
+16. Has  there been a co                ... pos = 0.25  	neg = 0.25 
+17. THE WORLD IS NOT ENO                ... pos = 0.0   	neg = 0.375
+18. I'm not going  into                 ... pos = 0.125 	neg = 0.375
+19. Brosnan, however,  h                ... pos = 1.375 	neg = 0.125
+20. THE WORLD IS NOT ENO                ... pos = 2.0   	neg = 0.5  
+21. THE WORLD IS NOT ENO                ... pos = 0.125 	neg = 0.375
+22. Many of the same sup                ... pos = 1.25  	neg = 0.0  
+23. Bond scores with sev                ... pos = 0.0   	neg = 0    
+24. He drives around in                 ... pos = 0.0   	neg = 0.0  
+25. The world is in dang                ... pos = 0.0   	neg = 0.125
+26. Sometimes the routin                ... pos = 0.75  	neg = 0.125
+27. Unfortunately, anoth                ... pos = 1.5   	neg = 2.125
+28. I don't  know how ma                ... pos = 1.375 	neg = 1.5  
+29. Sometimes you just w                ... pos = 0.0   	neg = 1.0  
+30. They'd win that way.                ... pos = 0.125 	neg = 0    
+31. There are actually a                ... pos = 0.25  	neg = 0.875
+32. I won't spoil  the f                ... pos = 0.125 	neg = 1.0  
+33. The "bad guy from  t                ... pos = 0.125 	neg = 0.125
+34. Apparently, he has a                ... pos = 0.0   	neg = 0.125
+35. That makes him,  in                 ... pos = 0.875 	neg = 0.375
+36. Also, apparently, th                ... pos = 0.0   	neg = 0.375
+37. This makes  him a ba                ... pos = 0.0   	neg = 0.875
+38. It may not be realis                ... pos = 0.25  	neg = 0.125
+39. The most absurd aspe                ... pos = 0.0   	neg = 0.25 
+40. Denise Richards, pou                ... pos = 0.0   	neg = 1.875
+41. Folks, this is the                  ... pos = 0.0   	neg = 1.125
+42. My friend and I  lau                ... pos = 0.625 	neg = 0.0  
+43. She  was included, I                ... pos = 0.625 	neg = 0.125
+44. Oh, by the way, this                ... pos = 0.0   	neg = 0.125
+45. I don't know which i                ... pos = 0.0   	neg = 0.125
+46. I'll give you a  hin                ... pos = 0.0   	neg = 0.0  
+47. Ugh.                                ... pos = 0     	neg = 0    
+48. While THE WORLD IS N                ... pos = 0.125 	neg = 0.375
+49. The film's opening,                 ... pos = 0.75  	neg = 0.125
+50. The closing credits                 ... pos = 0.125 	neg = 0.125
+51. At least, unlike oth                ... pos = 0.625 	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-3999-1002 is Negative        ... pos = 16.625 	neg = 19.5 
+Overall score of document
+Total Pos = 16.625
+Total Neg = 19.5
+---------------------------------------------------------------------------

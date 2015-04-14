@@ -1,0 +1,20 @@
+0. The Sixth Sense is a                 ... pos = 1.25  	neg = 0.125
+1. Bruce Willis plays M                 ... pos = 0.375 	neg = 1.125
+2. Cole lives with his                  ... pos = 2.375 	neg = 1.875
+3. Dr. Crowe befriends                  ... pos = 0.125 	neg = 0.625
+4. Crowe is sympathetic                 ... pos = 0.25  	neg = 0.125
+5. Instead, he thinks C                 ... pos = 0.375 	neg = 2.5  
+6. We are drawn into Co                 ... pos = 0.625 	neg = 0.0  
+7. As Cole, Haley Joel                  ... pos = 2.375 	neg = 0.875
+8. "All the time" - it                  ... pos = 0.125 	neg = 0.875
+9. M. Night Shyamalan d                 ... pos = 1.625 	neg = 0.125
+10. As well as being as                 ... pos = 1.25  	neg = 0.875
+11. Even if you see the                 ... pos = 0.5   	neg = 0.375
+12. And that can't be ba                ... pos = 0     	neg = 1.0  
+13. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2714-312 is Positive         ... pos = 12.25 	neg = 10.5 
+Overall score of document
+Total Pos = 12.25
+Total Neg = 10.5
+---------------------------------------------------------------------------

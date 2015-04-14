@@ -1,0 +1,58 @@
+0. By Nathaniel R. Atch                 ... pos = 0.875 	neg = 0.25 
+1. I've read that he is                 ... pos = 0.0   	neg = 0.125
+2. I certainly don't ca                 ... pos = 0.25  	neg = 0.125
+3. I think the entire s                 ... pos = 0.0   	neg = 0.25 
+4. If someone is going                  ... pos = 0.0   	neg = 0.25 
+5. Why all this secrecy                 ... pos = 0.0   	neg = 0.0  
+6. Oh, I suppose that C                 ... pos = 0.0   	neg = 0.125
+7. Maybe this is just a                 ... pos = 0.25  	neg = 0.375
+8. In any event, this c                 ... pos = 0.375 	neg = 0.5  
+9. But I didn't.                        ... pos = 0     	neg = 0.0  
+10. This film is profoun                ... pos = 0.0   	neg = 0.625
+11. It's phony in almost                ... pos = 0.25  	neg = 0.0  
+12. I despised almost ev                ... pos = 0.0   	neg = 0.5  
+13. Is it an Intelligent                ... pos = 0.25  	neg = 0.125
+14. Is it supposed to be                ... pos = 0.25  	neg = 0.25 
+15. Is it intended as a                 ... pos = 0.875 	neg = 0.125
+16. I don't know, and be                ... pos = 0.75  	neg = 0.5  
+17. Some of these scenes                ... pos = 0.375 	neg = 0.5  
+18. This fact is not enh                ... pos = 1.097 	neg = 0.375
+19. The film is about Go                ... pos = 0.875 	neg = 0.125
+20. The story is told th                ... pos = 1.0   	neg = 0.25 
+21. Henry believes that                 ... pos = 1.125 	neg = 0.125
+22. A subplot, which bec                ... pos = 0.25  	neg = 0.375
+23. Much of the film is                 ... pos = 0.125 	neg = 0.125
+24. The relationship the                ... pos = 0.0   	neg = 0.125
+25. Every intimate discu                ... pos = 0.125 	neg = 0.75 
+26. This is clearly inte                ... pos = 0.625 	neg = 1.125
+27. This isn't to say th                ... pos = 0.125 	neg = 0.25 
+28. We see that he gets                 ... pos = 0.0   	neg = 0.375
+29. ); similar reserved                 ... pos = 1.25  	neg = 0.0  
+30. Perhaps, if the poin                ... pos = 1.5   	neg = 0.25 
+31. But if the point is                 ... pos = 0.0   	neg = 1.375
+32. I'm not a fan of Cli                ... pos = 0.0   	neg = 0.625
+33. Every single scene t                ... pos = 0.0   	neg = 0.5  
+34. I didn't believe a w                ... pos = 0.125 	neg = 0.0  
+35. When he gives his sp                ... pos = 0.25  	neg = 0.125
+36. Clinton himself does                ... pos = 0.0   	neg = 0.125
+37. When Travolta has sc                ... pos = 0.0   	neg = 0.0  
+38. When he's supposed t                ... pos = 0.0   	neg = 0.125
+39. And again, if Nichol                ... pos = 0.125 	neg = 1.0  
+40. But he's created a c                ... pos = 1.75  	neg = 0.0  
+41. It simply doesn't wo                ... pos = 0.0   	neg = 0.0  
+42. In addition, many of                ... pos = 0.25  	neg = 0.0  
+43. Billy Bob Thornton,                 ... pos = 2.0   	neg = 0.75 
+44. And the subplot invo                ... pos = 0.875 	neg = 1.25 
+45. Whatever minimal poi                ... pos = 2.5   	neg = 0.375
+46. None of these actors                ... pos = 0.5   	neg = 0.0  
+47. I've heard that to c                ... pos = 0.375 	neg = 0.875
+48. Wag the Dog, which w                ... pos = 1.625 	neg = 1.0  
+49. Primary Colors wants                ... pos = 1.125 	neg = 0.25 
+50. But it has so much e                ... pos = 0.625 	neg = 0.75 
+51. Films this inept and                ... pos = 0.0   	neg = 1.25 
+---------------------------------------------------------------------------
+./temp/tmp-1279-760 is Positive         ... pos = 24.722 	neg = 19.25
+Overall score of document
+Total Pos = 24.722
+Total Neg = 19.25
+---------------------------------------------------------------------------

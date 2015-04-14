@@ -1,0 +1,41 @@
+0. Starring Denzel Wash                 ... pos = 0.0   	neg = 0.0  
+1. Directed By Edward Z                 ... pos = 0.0   	neg = 0.0  
+2. With the look, and s                 ... pos = 0.375 	neg = 0.5  
+3. A well crafted film                  ... pos = 1.0   	neg = 0.375
+4. The story centres ar                 ... pos = 0.375 	neg = 0.125
+5. FBI agent Anthony Hu                 ... pos = 0.25  	neg = 0.625
+6. Helping him is Elise                 ... pos = 0.0   	neg = 0.125
+7. The attacks become s                 ... pos = 0.75  	neg = 0.125
+8. Hubbard soon wants t                 ... pos = 0.125 	neg = 0.0  
+9. Zwicks third collabo                 ... pos = 1.375 	neg = 0.125
+10. The cast and directo                ... pos = 0.625 	neg = 0.0  
+11. Washington is suitab                ... pos = 0.5   	neg = 0.125
+12. He can convey all em                ... pos = 1.75  	neg = 0.125
+13. Bening is as usual e                ... pos = 2.0   	neg = 0.125
+14. While many great act                ... pos = 0.125 	neg = 0.25 
+15. It's a shame that sh                ... pos = 0.125 	neg = 1.0  
+16. The weak link comes                 ... pos = 0.0   	neg = 1.125
+17. He gets an A+ for ef                ... pos = 0.0   	neg = 0.0  
+18. He's performance is                 ... pos = 1.875 	neg = 0.375
+19. He hasn't got much s                ... pos = 0.125 	neg = 1.25 
+20. Also, his hair seems                ... pos = 0.0   	neg = 0.125
+21. But one relatively u                ... pos = 1.625 	neg = 0.25 
+22. He leaves a big impr                ... pos = 0.75  	neg = 0.0  
+23. Sadly, he somewhat p                ... pos = 0.0   	neg = 0.625
+24. Zwick handles the su                ... pos = 0.5   	neg = 0.0  
+25. The initial encounte                ... pos = 0.875 	neg = 0.75 
+26. The way the film loo                ... pos = 0.5   	neg = 0.75 
+27. Also, it's good to s                ... pos = 2.0   	neg = 0.25 
+28. ) The music is suita                ... pos = 0.125 	neg = 0.375
+29. In the end, The Sieg                ... pos = 0.125 	neg = 0.125
+30. Although it may be a                ... pos = 0.5   	neg = 0.625
+31. Recommended.                        ... pos = 0.0   	neg = 0    
+32. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+33. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+34. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2604-1213 is Positive        ... pos = 18.375 	neg = 10.25
+Overall score of document
+Total Pos = 18.375
+Total Neg = 10.25
+---------------------------------------------------------------------------

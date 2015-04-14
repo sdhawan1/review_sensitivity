@@ -1,0 +1,48 @@
+0. If Snake Eyes were a                 ... pos = 0.5   	neg = 1.0  
+1. If it was a couch, y                 ... pos = 0.0   	neg = 0.5  
+2. If it were your chil                 ... pos = 0.0   	neg = 0.25 
+3. If it were a ship --                 ... pos = 0.625 	neg = 0.625
+4. (Personal side note:                 ... pos = 0.0   	neg = 0.0  
+5. For whatever reason,                 ... pos = 0.0   	neg = 0.0  
+6. This forced me to pa                 ... pos = 2.5   	neg = 0.5  
+7. ). Snake Eyes is sup                 ... pos = 1.5   	neg = 0.5  
+8. Snake Eyes is not a                  ... pos = 1.25  	neg = 0.375
+9. If I fall asleep on                  ... pos = 0.0   	neg = 0.25 
+10. Is it too late for t                ... pos = 0.125 	neg = 1.0  
+11. Will someone please                 ... pos = 0.625 	neg = 0.125
+12. And how, exactly doe                ... pos = 0.125 	neg = 0.0  
+13. The first and most g                ... pos = 0.625 	neg = 1.125
+14. If you've seen the t                ... pos = 0.875 	neg = 0.0  
+15. The trailer is a wor                ... pos = 0.25  	neg = 0.125
+16. It manages to convey                ... pos = 1.0   	neg = 0.0  
+17. The expert craftsman                ... pos = 2.0   	neg = 0.0  
+18. (Is a Best Trailer c                ... pos = 0.375 	neg = 0.125
+19. )  But all it does i                ... pos = 0.125 	neg = 0.75 
+20. The trailer sets up                 ... pos = 0.375 	neg = 0.125
+21. Unfortunately, there                ... pos = 0.25  	neg = 1.125
+22. The trailer gives aw                ... pos = 0.25  	neg = 0.25 
+23. The shooter is kille                ... pos = 0.0   	neg = 0.375
+24. The film's secret is                ... pos = 1.75  	neg = 0.375
+25. Without an interesti                ... pos = 1.5   	neg = 0.375
+26. As much as I hated t                ... pos = 0.875 	neg = 0.75 
+27. De Palma is maddenin                ... pos = 0.0   	neg = 0.375
+28. He can, on his day,                 ... pos = 0.125 	neg = 0.0  
+29. On off-days, he can                 ... pos = 0.375 	neg = 1.25 
+30. Snake Eyes falls int                ... pos = 1.0   	neg = 1.375
+31. The Steadicam openin                ... pos = 1.75  	neg = 0.125
+32. There is a split-scr                ... pos = 0.75  	neg = 0.625
+33. This is what's calle                ... pos = 0.375 	neg = 0.5  
+34. But the technical sk                ... pos = 0.25  	neg = 0.75 
+35. Placing plot holes t                ... pos = 0.75  	neg = 1.875
+36. Snake Eyes is a crim                ... pos = 0.5   	neg = 1.25 
+37. Cage, Sinise, and ye                ... pos = 0.75  	neg = 0.0  
+38. The audience deserve                ... pos = 0.875 	neg = 1.625
+39. However, we are left                ... pos = 0.875 	neg = 1.75 
+40. Movie Reviews: http:                ... pos = 0.25  	neg = 0.25 
+41. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3533-1045 is Positive        ... pos = 26.125 	neg = 22.375
+Overall score of document
+Total Pos = 26.125
+Total Neg = 22.375
+---------------------------------------------------------------------------

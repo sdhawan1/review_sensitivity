@@ -1,0 +1,32 @@
+0. `I want to know ever                 ... pos = 0     	neg = 0.125
+1. ' That's what Todd B                 ... pos = 0.0   	neg = 0.0  
+2. What Todd wants to k                 ... pos = 0.125 	neg = 0.125
+3. Not only does he wan                 ... pos = 0.25  	neg = 0.375
+4. Denker has no choice                 ... pos = 0.25  	neg = 0.375
+5. Todd has promised to                 ... pos = 0.75  	neg = 0.0  
+6. So Denker tells him                  ... pos = 0.0   	neg = 0.0  
+7. The stories seem to                  ... pos = 0.375 	neg = 0.625
+8. Slowly, at first, bu                 ... pos = 0.375 	neg = 0.0  
+9. It is not long befor                 ... pos = 0.0   	neg = 1.125
+10. The plot explores de                ... pos = 0.0   	neg = 0.0  
+11. There is always a ve                ... pos = 0.375 	neg = 0.125
+12. If there was only on                ... pos = 0.0   	neg = 0.25 
+13. McKellen plays the p                ... pos = 1.0   	neg = 0.0  
+14. The performance is r                ... pos = 1.125 	neg = 0.125
+15. Brad Renfo is quite                 ... pos = 0.75  	neg = 0.125
+16. The only other perfo                ... pos = 0.0   	neg = 0.25 
+17. David does the best                 ... pos = 0.375 	neg = 0.125
+18. Bryan Singer, known                 ... pos = 1.75  	neg = 0.0  
+19. His style matches pe                ... pos = 0.5   	neg = 0.0  
+20. The film is based on                ... pos = 0.125 	neg = 0.125
+21. Apt Pupil is very da                ... pos = 1.0   	neg = 0.875
+22. The most noticeable                 ... pos = 0.625 	neg = 0.125
+23. It ran about fifteen                ... pos = 0.0   	neg = 0.875
+24. Overall, the movie i                ... pos = 0.375 	neg = 0.125
+25. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6008-1529 is Positive        ... pos = 10.125 	neg = 5.875
+Overall score of document
+Total Pos = 10.125
+Total Neg = 5.875
+---------------------------------------------------------------------------

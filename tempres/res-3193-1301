@@ -1,0 +1,31 @@
+0. Director: Wes Craven                 ... pos = 0.0   	neg = 0    
+1. I was anxious to see                 ... pos = 0.125 	neg = 0.5  
+2. A friend of mine rec                 ... pos = 0.5   	neg = 0.25 
+3. He proved it for me                  ... pos = 0.375 	neg = 0.0  
+4. SCREAM treads on fam                 ... pos = 0.375 	neg = 0.625
+5. " It's very familar,                 ... pos = 1.0   	neg = 0    
+6. So why, you may ask                  ... pos = 0.5   	neg = 0.0  
+7. Because it treats it                 ... pos = 0.375 	neg = 0.625
+8. This raises another                  ... pos = 0.375 	neg = 0.125
+9. Simple: The characte                 ... pos = 0.875 	neg = 0    
+10. They're not your typ                ... pos = 0.75  	neg = 0.625
+11. They are horror fans                ... pos = 1.625 	neg = 1.0  
+12. You can tell this ju                ... pos = 0.25  	neg = 1.125
+13. She knows what to an                ... pos = 0.5   	neg = 0.125
+14. " And that gets her                 ... pos = 0     	neg = 0.0  
+15. That scene works bec                ... pos = 0.375 	neg = 0.0  
+16. The plot is typical                 ... pos = 2.0   	neg = 2.0  
+17. But as I said before                ... pos = 0.375 	neg = 0.0  
+18. That and the referen                ... pos = 0.625 	neg = 0.875
+19. " which is obviously                ... pos = 1.75  	neg = 0.375
+20. The cast is well cho                ... pos = 3.125 	neg = 1.125
+21. Also good (and funny                ... pos = 0.75  	neg = 0.125
+22. I took half a point                 ... pos = 0.125 	neg = 1.125
+23. I hate that show, I                 ... pos = 0.25  	neg = 0.0  
+24. They're untalented,                 ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3193-1301 is Positive        ... pos = 17.25 	neg = 10.75
+Overall score of document
+Total Pos = 17.25
+Total Neg = 10.75
+---------------------------------------------------------------------------

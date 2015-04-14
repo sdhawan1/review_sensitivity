@@ -1,0 +1,26 @@
+0. Release Date: Februa                 ... pos = 1.5   	neg = 1.125
+1. There's too much fic                 ... pos = 1.0   	neg = 0.625
+2. Instead, the latest                  ... pos = 0.875 	neg = 0.375
+3. The movie is dark to                 ... pos = 1.625 	neg = 0.25 
+4. Advance word from cr                 ... pos = 1.0   	neg = 0.125
+5. Given the horrific n                 ... pos = 0.75  	neg = 0.25 
+6. Much is assumed in 8                 ... pos = 0.125 	neg = 0.125
+7. What isn't assumed a                 ... pos = 0.625 	neg = 0.0  
+8. Nicolas Cage stars a                 ... pos = 0.5   	neg = 0.125
+9. Of particular concer                 ... pos = 0.5   	neg = 0.375
+10. Mrs. Christian asks                 ... pos = 0.25  	neg = 0.25 
+11. All of this is laid                 ... pos = 0.0   	neg = 0.25 
+12. Within moments, Tom                 ... pos = 0.125 	neg = 0.0  
+13. Max provides the mov                ... pos = 0.125 	neg = 0.0  
+14. The Andrew Kevin Wal                ... pos = 1.25  	neg = 0.0  
+15. It does not do well                 ... pos = 1.0   	neg = 0.25 
+16. The rest of the movi                ... pos = 0.0   	neg = 0.125
+17. Nicolas Cage sleepwa                ... pos = 0.0   	neg = 0.375
+18. And, despite sevente                ... pos = 0.125 	neg = 0.75 
+19. For most, this will                 ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2514-700 is Positive         ... pos = 11.5  	neg = 5.5  
+Overall score of document
+Total Pos = 11.5
+Total Neg = 5.5
+---------------------------------------------------------------------------

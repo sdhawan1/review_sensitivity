@@ -1,0 +1,20 @@
+0. Austin Powers: The S                 ... pos = 0.375 	neg = 0.625
+1. Evil (Mike Myers) an                 ... pos = 0.0   	neg = 0.75 
+2. Heather Graham plays                 ... pos = 0.5   	neg = 0.125
+3. Powers meets Shagwel                 ... pos = 0.0   	neg = 0.0  
+4. Evil.                                ... pos = 0     	neg = 0.75 
+5. Opinion: Blissful vu                 ... pos = 1.625 	neg = 0.875
+6. Highlights include t                 ... pos = 0.625 	neg = 0.25 
+7. One fat/ethnic line                  ... pos = 0.0   	neg = 0.625
+8. " . Many critics fee                 ... pos = 0.0   	neg = 0.75 
+9. Okay for adults, loo                 ... pos = 0.0   	neg = 2.5  
+10. THE SPY WHO SHAGGED                 ... pos = 0.0   	neg = 0.125
+11. It has some genuinel                ... pos = 0.625 	neg = 0.0  
+12. Myers is versatile a                ... pos = 3.125 	neg = 0.125
+13. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1376-416 is Negative         ... pos = 6.875 	neg = 7.625
+Overall score of document
+Total Pos = 6.875
+Total Neg = 7.625
+---------------------------------------------------------------------------

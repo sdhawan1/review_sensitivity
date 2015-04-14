@@ -1,0 +1,32 @@
+0. Starring Devon Sawa,                 ... pos = 0.0   	neg = 0.0  
+1. Directed by James Wo                 ... pos = 0.0   	neg = 0.0  
+2. The similarities are                 ... pos = 2.625 	neg = 0.5  
+3. It would have been p                 ... pos = 0.875 	neg = 0.875
+4. Another more importa                 ... pos = 1.625 	neg = 0.25 
+5. This is a great acco                 ... pos = 1.375 	neg = 0.25 
+6. What helps Final Des                 ... pos = 0.375 	neg = 0.125
+7. Unlike your average                  ... pos = 0.75  	neg = 0.875
+8. This being already h                 ... pos = 0.375 	neg = 0.0  
+9. According to the bri                 ... pos = 0.25  	neg = 0.125
+10. What is unique about                ... pos = 0.375 	neg = 0.25 
+11. The only way to defe                ... pos = 0.0   	neg = 0.25 
+12. This dilemma is what                ... pos = 0.0   	neg = 0.125
+13. Alex has been having                ... pos = 0.625 	neg = 0.375
+14. Alex begins to reali                ... pos = 0.625 	neg = 1.75 
+15. Shortly after, the p                ... pos = 0.125 	neg = 0.0  
+16. However, Death isn't                ... pos = 0.375 	neg = 0.0  
+17. It gradually kills o                ... pos = 0.625 	neg = 1.375
+18. The plot allows for                 ... pos = 0.0   	neg = 0.0  
+19. Some scenes build up                ... pos = 0.75  	neg = 0.125
+20. Creativity and origi                ... pos = 1.125 	neg = 0.125
+21. Sure, it has your tr                ... pos = 2.25  	neg = 0.5  
+22. Also director Wong h                ... pos = 0.0   	neg = 0.25 
+23. He knows its just an                ... pos = 1.0   	neg = 0.75 
+24. The myriad of inside                ... pos = 3.5   	neg = 0.625
+25. And from this, I had                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5575-778 is Positive         ... pos = 19.625 	neg = 9.5  
+Overall score of document
+Total Pos = 19.625
+Total Neg = 9.5
+---------------------------------------------------------------------------

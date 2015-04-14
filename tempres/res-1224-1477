@@ -1,0 +1,70 @@
+0. Year: 1999.                          ... pos = 0     	neg = 0    
+1. Starring John Travol                 ... pos = 0.375 	neg = 0.0  
+2. Screenplay by Christ                 ... pos = 0.0   	neg = 0.0  
+3. Directed by Simon We                 ... pos = 0.0   	neg = 0.0  
+4. Rated R.. Actors lov                 ... pos = 0.75  	neg = 0.25 
+5. They love to dress u                 ... pos = 0.625 	neg = 0.0  
+6. I mean, it made the                  ... pos = 0.5   	neg = 0.375
+7. This time, John Trav                 ... pos = 0.125 	neg = 1.25 
+8. " Travolta?                          ... pos = 0     	neg = 0    
+9. Well, he's no Harris                 ... pos = 1.0   	neg = 0.375
+10. Too bad the story is                ... pos = 0.0   	neg = 1.125
+11. Otherwise, we'd have                ... pos = 0.0   	neg = 0.25 
+12. Travolta plays Sgt.                 ... pos = 0     	neg = 0.0  
+13. Paul Brenner, an inv                ... pos = 0.375 	neg = 0.25 
+14. While on the mission                ... pos = 0.0   	neg = 0.125
+15. After Brenner finish                ... pos = 0.125 	neg = 0.375
+16. Brought in to help B                ... pos = 0.25  	neg = 0.125
+17. Further complicating                ... pos = 1.5   	neg = 0.25 
+18. Brenner and Sunhill                 ... pos = 0.0   	neg = 0.375
+19. The strongest part o                ... pos = 1.125 	neg = 0.125
+20. Travolta does his be                ... pos = 2.125 	neg = 0.0  
+21. While he's not nearl                ... pos = 0.75  	neg = 0.125
+22. He hits the right no                ... pos = 0.0   	neg = 0    
+23. His scenes with Jame                ... pos = 0.875 	neg = 0.0  
+24. Woods' character is                 ... pos = 0.875 	neg = 0.375
+25. James Cromwell now s                ... pos = 0.0   	neg = 0.25 
+26. After his role in "L                ... pos = 0.0   	neg = 0    
+27. Confidential," he's                 ... pos = 0.625 	neg = 0.778
+28. We're not sure if he                ... pos = 0.25  	neg = 0.75 
+29. Madeline Stowe, bein                ... pos = 0.375 	neg = 0.125
+30. These movies just ar                ... pos = 0.0   	neg = 0.0  
+31. She has little more                 ... pos = 0.5   	neg = 0.25 
+32. Won't the writers pl                ... pos = 0.0   	neg = 0.0  
+33. Veteran screenwriter                ... pos = 0.0   	neg = 0.125
+34. There are plenty of                 ... pos = 0.875 	neg = 0.0  
+35. " While Goldman may                 ... pos = 1.0   	neg = 0.375
+36. Now, one would think                ... pos = 0.25  	neg = 0.125
+37. What's wrong with it                ... pos = 0.0   	neg = 0.75 
+38. First off, the whole                ... pos = 1.25  	neg = 1.0  
+39. Bad guys are bad guy                ... pos = 2.0   	neg = 1.75 
+40. While we are at no t                ... pos = 0.375 	neg = 1.25 
+41. The film runs into a                ... pos = 0.375 	neg = 0.625
+42. The choice seemed ra                ... pos = 1.5   	neg = 0.625
+43. The film also gets i                ... pos = 0.625 	neg = 0.625
+44. We see the events of                ... pos = 0.0   	neg = 0.875
+45. I thought it was sta                ... pos = 0.0   	neg = 0.125
+46. In "The General's Da                ... pos = 0.0   	neg = 0.25 
+47. Not only that, but m                ... pos = 0.0   	neg = 0.0  
+48. Brenner is constantl                ... pos = 0.125 	neg = 0.375
+49. Director Simon West                 ... pos = 0.0   	neg = 0.625
+50. There are "meaningfu                ... pos = 0.375 	neg = 0.0  
+51. " Travolta walks int                ... pos = 0.25  	neg = 0.25 
+52. West's attempts to s                ... pos = 0.0   	neg = 0.0  
+53. Nobody ever has a we                ... pos = 0.0   	neg = 0.5  
+54. The director, along                 ... pos = 0.0   	neg = 0.25 
+55. A bit about a meddli                ... pos = 0.625 	neg = 0.0  
+56. The story of Brenner                ... pos = 1.5   	neg = 0.375
+57. "The General's Daugh                ... pos = 0.875 	neg = 1.75 
+58. Instead, we get mixe                ... pos = 0.875 	neg = 0.25 
+59. Jane," or any number                ... pos = 0.0   	neg = 0.0  
+60. It's too bad that th                ... pos = 0.75  	neg = 1.625
+61. With those things go                ... pos = 1.75  	neg = 0.0  
+62. With such a formulai                ... pos = 0.125 	neg = 1.153
+63. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1224-1477 is Positive        ... pos = 28.625 	neg = 23.556
+Overall score of document
+Total Pos = 28.625
+Total Neg = 23.556
+---------------------------------------------------------------------------

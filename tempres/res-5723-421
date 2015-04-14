@@ -1,0 +1,32 @@
+0. "What would you do i                 ... pos = 0.0   	neg = 0.0  
+1. " asks a character i                 ... pos = 1.0   	neg = 0.0  
+2. "Two chicks at the s                 ... pos = 0.0   	neg = 0.0  
+3. Right from the start                 ... pos = 1.125 	neg = 0.125
+4. But despite being at                 ... pos = 1.875 	neg = 0.125
+5. Based on Judge's ani                 ... pos = 0.125 	neg = 0.0  
+6. Peter's job is slowl                 ... pos = 0.0   	neg = 0.125
+7. His boss, played by                  ... pos = 0.5   	neg = 1.0  
+8. A nearby secretary a                 ... pos = 0.0   	neg = 0.0  
+9. The computer won't p                 ... pos = 0.0   	neg = 0    
+10. A nearby stuttering                 ... pos = 0.375 	neg = 0.125
+11. And Peter stays at h                ... pos = 0.0   	neg = 0.0  
+12. One Saturday, Peter                 ... pos = 0.0   	neg = 0.0  
+13. From that point on,                 ... pos = 0.0   	neg = 0.125
+14. He comes into work w                ... pos = 0.5   	neg = 0.625
+15. But instead of being                ... pos = 0.875 	neg = 0.875
+16. Wanting to get back                 ... pos = 0.375 	neg = 0.0  
+17. It is then that Pete                ... pos = 0.5   	neg = 1.125
+18. The whole "work is h                ... pos = 0.0   	neg = 0.125
+19. One of the reasons f                ... pos = 0.0   	neg = 0.25 
+20. The sign of a great                 ... pos = 0.75  	neg = 0.125
+21. RUSHMORE is a fine e                ... pos = 0.0   	neg = 0.125
+22. Judge, however, does                ... pos = 0.25  	neg = 0.0  
+23. The script is occasi                ... pos = 0.125 	neg = 0.125
+24. OFFICE SPACE is also                ... pos = 0.75  	neg = 0.375
+25. review by the Teenag                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5723-421 is Positive         ... pos = 9.125 	neg = 5.5  
+Overall score of document
+Total Pos = 9.125
+Total Neg = 5.5
+---------------------------------------------------------------------------

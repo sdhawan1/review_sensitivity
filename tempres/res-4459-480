@@ -1,0 +1,45 @@
+0. Rated PG-13: action,                 ... pos = 0.125 	neg = 0.375
+1. Starring: Hugh Jackm                 ... pos = 2.25  	neg = 1.125
+2. When I  first heard                  ... pos = 0.25  	neg = 0.25 
+3. I knew I was going t                 ... pos = 1.0   	neg = 0.375
+4. Then the first tease                 ... pos = 0.5   	neg = 0.0  
+5. It was  so dumb and                  ... pos = 0.125 	neg = 0.375
+6. Then a few weeks  la                 ... pos = 0.0   	neg = 0.25 
+7. Finally the day came                 ... pos = 1.0   	neg = 0.125
+8. The movie follows th                 ... pos = 1.25  	neg = 0.5  
+9. Professor Charles Xa                 ... pos = 0.875 	neg = 0.125
+10. Rogue and Wolverine                 ... pos = 0.375 	neg = 0.0  
+11. He takes her with hi                ... pos = 0.25  	neg = 0.875
+12. Then we finally get                 ... pos = 1.875 	neg = 1.0  
+13. Magneto a very power                ... pos = 1.625 	neg = 0.375
+14. Professor X  and his                ... pos = 0.375 	neg = 0.25 
+15. Hold on to something                ... pos = 0.25  	neg = 0.0  
+16. Don't worry I didn't                ... pos = 0.375 	neg = 0.0  
+17. The  film is very we                ... pos = 2.75  	neg = 0.25 
+18. I realized however w                ... pos = 0.375 	neg = 0.25 
+19. The sequel  (which i                ... pos = 0.125 	neg = 0.25 
+20. The  direction by Br                ... pos = 0.5   	neg = 0.25 
+21. The special effects                 ... pos = 0.25  	neg = 1.125
+22. The characters we ha                ... pos = 2.125 	neg = 0.25 
+23. Hugh Jackman brings                 ... pos = 3.625 	neg = 0.625
+24. Famke Jansen plays J                ... pos = 4.75  	neg = 1.25 
+25. James Marsden is goo                ... pos = 1.125 	neg = 0.25 
+26. Perhaps the best per                ... pos = 1.0   	neg = 0.25 
+27. Of the bad guys, Reb                ... pos = 1.375 	neg = 1.25 
+28. Of course its PG-13                 ... pos = 0.0   	neg = 0.0  
+29. Tyler Dane  plays Sa                ... pos = 0.875 	neg = 0.75 
+30. Of course the best o                ... pos = 2.375 	neg = 1.25 
+31. Even though the movi                ... pos = 0.0   	neg = 0.0  
+32. First of all  some o                ... pos = 2.0   	neg = 0.5  
+33. There are many scene                ... pos = 0.625 	neg = 0.0  
+34. The climax of the fi                ... pos = 0.5   	neg = 0.125
+35. Of course these flaw                ... pos = 0.0   	neg = 0.0  
+36. Even with these flaw                ... pos = 0.0   	neg = 0.0  
+37. Its worthy of a movi                ... pos = 1.0   	neg = 0.0  
+38. For the fans of X-Me                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4459-480 is Positive         ... pos = 38.5  	neg = 14.625
+Overall score of document
+Total Pos = 38.5
+Total Neg = 14.625
+---------------------------------------------------------------------------

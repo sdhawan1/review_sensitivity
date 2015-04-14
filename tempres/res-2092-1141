@@ -1,0 +1,46 @@
+0. It would be pointles                 ... pos = 0.25  	neg = 0.625
+1. And just in case I h                 ... pos = 1.625 	neg = 0.0  
+2. It is some thing I h                 ... pos = 0.75  	neg = 0.25 
+3. Nonetheless I am goi                 ... pos = 0.75  	neg = 0.125
+4. Lee is one fo the mo                 ... pos = 1.25  	neg = 0.125
+5. This is neither good                 ... pos = 1.0   	neg = 1.875
+6. His trajectory over                  ... pos = 0.0   	neg = 0.125
+7. I am still convinced                 ... pos = 2.0   	neg = 0.375
+8. With He Got Game, ho                 ... pos = 0.875 	neg = 0.0  
+9. It has been implied                  ... pos = 1.125 	neg = 0.25 
+10. This comparison seem                ... pos = 0.0   	neg = 0.125
+11. Lee's film transcend                ... pos = 0.0   	neg = 0    
+12. (These are well trea                ... pos = 0.25  	neg = 0    
+13. XXI, No.3) He Got Ga                ... pos = 0.25  	neg = 0.25 
+14. The film chronicles                 ... pos = 0.75  	neg = 0.0  
+15. The film is an essay                ... pos = 0.5   	neg = 0.375
+16. It is clearly not to                ... pos = 0.875 	neg = 0.25 
+17. Nor is it as mundane                ... pos = 0.25  	neg = 0.125
+18. Lee makes this clear                ... pos = 0.0   	neg = 0.0  
+19. His intentions are r                ... pos = 0.625 	neg = 0.25 
+20. Clearly this is not                 ... pos = 1.25  	neg = 0.5  
+21. For those still unco                ... pos = 0.125 	neg = 0.125
+22. These scenes reaffir                ... pos = 0.75  	neg = 0.0  
+23. The photography coll                ... pos = 0.5   	neg = 0.0  
+24. Two things are made                 ... pos = 0.75  	neg = 0.0  
+25. the first is that Le                ... pos = 0.625 	neg = 0.25 
+26. The style of the bas                ... pos = 0.25  	neg = 0.0  
+27. The players are a ma                ... pos = 0.5   	neg = 0.125
+28. In shooting the bask                ... pos = 0.25  	neg = 0.25 
+29. There is something a                ... pos = 0.0   	neg = 0.125
+30. Lee mixes styles to                 ... pos = 0.5   	neg = 0.25 
+31. The light on the Mil                ... pos = 2.875 	neg = 0.125
+32. The high-contrast lo                ... pos = 0.25  	neg = 0.625
+33. There is nothing tra                ... pos = 0.75  	neg = 0.75 
+34. It is a very apt mar                ... pos = 1.25  	neg = 0.375
+35. It is a very eleagan                ... pos = 0.5   	neg = 0.125
+36. In fact much more th                ... pos = 0.75  	neg = 0.125
+37. The scenes between J                ... pos = 0.125 	neg = 0.875
+38. This tragedy is wove                ... pos = 2.0   	neg = 0.25 
+39. -- -Omar Odeh http:/                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2092-1141 is Positive        ... pos = 27.125 	neg = 10.0 
+Overall score of document
+Total Pos = 27.125
+Total Neg = 10.0
+---------------------------------------------------------------------------

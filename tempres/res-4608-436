@@ -1,0 +1,88 @@
+0. "It disturbs me.                     ... pos = 0.0   	neg = 0.0  
+1. People with warped m                 ... pos = 0.375 	neg = 0.0  
+2. " - Ted Turner on CR                 ... pos = 0.625 	neg = 0.75 
+3. The cars on the high                 ... pos = 0.25  	neg = 0.0  
+4. Ballard is driving a                 ... pos = 0.0   	neg = 0.125
+5. The car belongs to B                 ... pos = 1.0   	neg = 0.0  
+6. In the car with Ball                 ... pos = 0.75  	neg = 0.375
+7. You could almost con                 ... pos = 0.125 	neg = 0    
+8. Ballard eases the Li                 ... pos = 0.625 	neg = 0.25 
+9. Vaughan's body juts                  ... pos = 0.5   	neg = 0.0  
+10. It's a spectacular c                ... pos = 0.125 	neg = 0.125
+11. Ballard pulls off th                ... pos = 0.5   	neg = 0.625
+12. Splitting up and inv                ... pos = 0.375 	neg = 0.0  
+13. Vaughan stalks the v                ... pos = 0.0   	neg = 0.0  
+14. The lovely, skeletal                ... pos = 0.5   	neg = 0.0  
+15. Ballard watches from                ... pos = 0.125 	neg = 0.0  
+16. Imagine the angels f                ... pos = 0.25  	neg = 0.5  
+17. Further imagine that                ... pos = 0.375 	neg = 0.625
+18. It's a movie about s                ... pos = 1.125 	neg = 0.125
+19. It would be easy for                ... pos = 0.75  	neg = 1.125
+20. These characters are                ... pos = 1.75  	neg = 0    
+21. CRASH is based on th                ... pos = 0.0   	neg = 0.125
+22. Ballard that used cl                ... pos = 0.5   	neg = 0.125
+23. Semen is smeared acr                ... pos = 1.0   	neg = 0.75 
+24. The film version is,                ... pos = 0.125 	neg = 0.125
+25. But it's an indicato                ... pos = 0.875 	neg = 0.125
+26. CRASH was a rumored                 ... pos = 0.125 	neg = 0.125
+27. Certainly it had tha                ... pos = 0.375 	neg = 1.375
+28. And of course it see                ... pos = 0.125 	neg = 0.125
+29. His first commercial                ... pos = 0.625 	neg = 0.5  
+30. He followed that up                 ... pos = 0.0   	neg = 0.75 
+31. His unnerving DEAD R                ... pos = 0.875 	neg = 0.375
+32. At least in a metaph                ... pos = 0.25  	neg = 0.125
+33. The film opens with                 ... pos = 0.125 	neg = 1.125
+34. But it's simply intr                ... pos = 0.5   	neg = 0.625
+35. Metal twists and win                ... pos = 0.0   	neg = 0.0  
+36. Still strapped into                 ... pos = 0.125 	neg = 0.125
+37. That sort of fortuit                ... pos = 0.0   	neg = 0.375
+38. (The boy-meets-girl                 ... pos = 0.375 	neg = 0.0  
+39. ) But after introduc                ... pos = 0.875 	neg = 0.0  
+40. The two don't make l                ... pos = 0.875 	neg = 0.125
+41. When they consummate                ... pos = 1.0   	neg = 0.0  
+42. Helen introduces Bal                ... pos = 0.375 	neg = 1.375
+43. Through Vaughan, Bal                ... pos = 0.25  	neg = 0.0  
+44. Of all the character                ... pos = 1.431 	neg = 0.375
+45. >From the metal pins                ... pos = 0.25  	neg = 0.125
+46. These are characters                ... pos = 1.25  	neg = 0.0  
+47. They feel that the T                ... pos = 0.875 	neg = 0.0  
+48. If that sounds both                 ... pos = 0.625 	neg = 0.75 
+49. Through all of this,                ... pos = 0.0   	neg = 0.0  
+50. I found myself wishi                ... pos = 0.25  	neg = 1.0  
+51. In close-up, the con                ... pos = 0.75  	neg = 0.0  
+52. She runs both hot an                ... pos = 0.875 	neg = 0.5  
+53. Creepier is Koteas,                 ... pos = 0.875 	neg = 1.125
+54. I'm a fan of his wor                ... pos = 1.875 	neg = 0.25 
+55. Perhaps Cronenberg h                ... pos = 0.0   	neg = 0.0  
+56. Spader seems complet                ... pos = 0.25  	neg = 0.75 
+57. Of all the cast, onl                ... pos = 0.0   	neg = 0.125
+58. Still, I think that                 ... pos = 0.25  	neg = 0.0  
+59. It remains to be see                ... pos = 0.125 	neg = 0.375
+60. " As might be expect                ... pos = 1.0   	neg = 1.0  
+61. And CRASH is a rigor                ... pos = 0.625 	neg = 0.25 
+62. It's a little obscur                ... pos = 0.0   	neg = 1.125
+63. But the experiment i                ... pos = 0.125 	neg = 0.125
+64. In fact, CRASH marks                ... pos = 0.5   	neg = 0.125
+65. After making what ma                ... pos = 2.875 	neg = 1.0  
+66. Even though CRASH is                ... pos = 0.25  	neg = 0.5  
+67. He's returned to his                ... pos = 0.25  	neg = 0.125
+68. More than anything h                ... pos = 1.0   	neg = 0.625
+69. Since his next proje                ... pos = 1.0   	neg = 0.25 
+70. The true meaning of                 ... pos = 0.5   	neg = 0.125
+71. It's shaped, no doub                ... pos = 0.125 	neg = 0.25 
+72. Is it "sexy?                        ... pos = 0.0   	neg = 0.125
+73. " Well, sometimes.                  ... pos = 0.0   	neg = 0    
+74. (Your mileage may va                ... pos = 0.0   	neg = 0    
+75. ) Whether it's a "ca                ... pos = 0.0   	neg = 0.125
+76. (Cronenberg now says                ... pos = 0.0   	neg = 0    
+77. ) It's certainly not                ... pos = 0.5   	neg = 1.0  
+78. The final lines of d                ... pos = 0.0   	neg = 0.0  
+79. (It may be worth see                ... pos = 0.0   	neg = 0.125
+80. ) But this is seriou                ... pos = 0.0   	neg = 0.25 
+81. If you're willing to                ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4608-436 is Positive         ... pos = 39.181 	neg = 25.625
+Overall score of document
+Total Pos = 39.181
+Total Neg = 25.625
+---------------------------------------------------------------------------

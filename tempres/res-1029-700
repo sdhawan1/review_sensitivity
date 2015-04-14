@@ -1,0 +1,25 @@
+0. Release Date: Novemb                 ... pos = 0.625 	neg = 0.25 
+1. With a eerie feeling                 ... pos = 1.625 	neg = 0.375
+2. Although there may h                 ... pos = 0.125 	neg = 0.5  
+3. The animation in A B                 ... pos = 1.25  	neg = 0.375
+4. The graphic end of t                 ... pos = 0.375 	neg = 0.0  
+5. Unlike ANTZ, which w                 ... pos = 0.125 	neg = 0.125
+6. Strictly speaking, b                 ... pos = 1.375 	neg = 0.25 
+7. The movie is a depar                 ... pos = 0.5   	neg = 0.25 
+8. Characters are drawn                 ... pos = 2.375 	neg = 1.0  
+9. It's the typical Dis                 ... pos = 0.375 	neg = 0.25 
+10. The story centers ar                ... pos = 0.0   	neg = 1.375
+11. Flik's colony gather                ... pos = 0.125 	neg = 0.0  
+12. The ants must gather                ... pos = 0.5   	neg = 0.0  
+13. Flik decides to make                ... pos = 0.375 	neg = 0.0  
+14. So Flik heads to the                ... pos = 0.75  	neg = 0.375
+15. The script is pepper                ... pos = 0.375 	neg = 0.125
+16. At an hour and forty                ... pos = 0.125 	neg = 0.0  
+17. Fortunately, the com                ... pos = 1.125 	neg = 0.0  
+18. For family entertain                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-700 is Positive         ... pos = 12.375 	neg = 5.25 
+Overall score of document
+Total Pos = 12.375
+Total Neg = 5.25
+---------------------------------------------------------------------------

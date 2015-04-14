@@ -1,0 +1,35 @@
+0. ---This review can b                 ... pos = 1.625 	neg = 0.25 
+1. The acting is good,                  ... pos = 0.75  	neg = 0.375
+2. Colonel Terry Childe                 ... pos = 0.375 	neg = 0.0  
+3. 28 years later, Chil                 ... pos = 0.0   	neg = 0.75 
+4. Before they both ret                 ... pos = 0.25  	neg = 0.25 
+5. While on a mission i                 ... pos = 0.125 	neg = 0.0  
+6. Following the rules                  ... pos = 0.0   	neg = 0.375
+7. Soon 89 Yemenis are                  ... pos = 0.25  	neg = 0.5  
+8. But for Childers, hi                 ... pos = 0.489 	neg = 0.75 
+9. Imagine his surprise                 ... pos = 0.25  	neg = 1.125
+10. Hodges owes his life                ... pos = 0.625 	neg = 0.0  
+11. But first he will ha                ... pos = 2.125 	neg = 0.125
+12. ) and stop drinking                 ... pos = 0.0   	neg = 0.0  
+13. The movie's opening                 ... pos = 0.0   	neg = 0.625
+14. But this is necessar                ... pos = 0.875 	neg = 0.25 
+15. And although the gor                ... pos = 1.25  	neg = 0.75 
+16. Islamic supporters w                ... pos = 0.125 	neg = 0.25 
+17. A critical scene has                ... pos = 0.375 	neg = 0.0  
+18. Even Islamic women a                ... pos = 0.75  	neg = 1.25 
+19. Tommy Lee Jones and                 ... pos = 0.75  	neg = 0.125
+20. Jones just had a sim                ... pos = 0.375 	neg = 0.25 
+21. Together, they make                 ... pos = 2.25  	neg = 0.25 
+22. Unfortunately, some                 ... pos = 0.75  	neg = 1.125
+23. A key witness is nev                ... pos = 0.75  	neg = 0.875
+24. Also, the film uses                 ... pos = 0.5   	neg = 0.875
+25. With the exception o                ... pos = 0.0   	neg = 0.25 
+26. Well, Hollywood's ol                ... pos = 0.375 	neg = 0.0  
+27. Concession stands no                ... pos = 0.989 	neg = 0.5  
+28. Still, Rules of Enga                ... pos = 1.875 	neg = 1.625
+---------------------------------------------------------------------------
+./temp/tmp-1213-592 is Positive         ... pos = 18.853 	neg = 13.5 
+Overall score of document
+Total Pos = 18.853
+Total Neg = 13.5
+---------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+0. You'll hear a lot of                 ... pos = 0.5   	neg = 0.0  
+1. There hasn't been a                  ... pos = 0.125 	neg = 0.75 
+2. Kenny, Cartman, Stan                 ... pos = 0.0   	neg = 0.75 
+3. ) this strikes a cho                 ... pos = 0.0   	neg = 0.0  
+4. Several (hard) pokes                 ... pos = 0.625 	neg = 1.625
+5. ) follow to ensure a                 ... pos = 0.0   	neg = 0.25 
+6. Is the film for kids                 ... pos = 0.0   	neg = 0.125
+7. Nah, it's full of pl                 ... pos = 0.375 	neg = 0.5  
+8. An unlucky Bill Gate                 ... pos = 0.125 	neg = 0    
+9. ) and other extreme                  ... pos = 0.125 	neg = 0.625
+10. As Kyle's mother (wh                ... pos = 0.25  	neg = 0.25 
+11. It all starts at hom                ... pos = 0.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5926-329 is Negative         ... pos = 2.75  	neg = 5.25 
+Overall score of document
+Total Pos = 2.75
+Total Neg = 5.25
+---------------------------------------------------------------------------

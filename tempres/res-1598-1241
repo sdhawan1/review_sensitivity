@@ -1,0 +1,37 @@
+0. *** Warning - The fo                 ... pos = 0.125 	neg = 0.125
+1. Gary Sinise stars as                 ... pos = 0.0   	neg = 0.75 
+2. Don Cheadle is then                  ... pos = 0.0   	neg = 0.125
+3. When a strange whirl                 ... pos = 0.375 	neg = 0.75 
+4. What they discover o                 ... pos = 0.5   	neg = 0.25 
+5. Before I ever saw th                 ... pos = 0.5   	neg = 0.125
+6. Every time I would s                 ... pos = 0.0   	neg = 0.25 
+7. Little did I know th                 ... pos = 0.0   	neg = 0.375
+8. Dr. Pepper saves the                 ... pos = 0.375 	neg = 0.0  
+9. These are but a coup                 ... pos = 0.25  	neg = 0.625
+10. Clichés are also th                ... pos = 0.25  	neg = 0.125
+11. Dialogue and charact                ... pos = 1.125 	neg = 0.625
+12. Films like 2001:A Sp                ... pos = 0.25  	neg = 0.625
+13. There is even a sequ                ... pos = 0.0   	neg = 0.25 
+14. This film also featu                ... pos = 3.125 	neg = 0.75 
+15. Scenes like these al                ... pos = 0.0   	neg = 0.625
+16. Ennio Morricone's mu                ... pos = 0.625 	neg = 0.625
+17. His music sounds lik                ... pos = 0.125 	neg = 0.0  
+18. At other times his m                ... pos = 0.5   	neg = 0.125
+19. One sequence involvi                ... pos = 0.125 	neg = 1.875
+20. Mission to Mars is p                ... pos = 1.0   	neg = 0.25 
+21. Events are set into                 ... pos = 1.25  	neg = 0.25 
+22. We are apparently su                ... pos = 1.25  	neg = 2.0  
+23. What makes it all wo                ... pos = 1.5   	neg = 1.931
+24. During the finale, w                ... pos = 0.5   	neg = 1.125
+25. A brief history less                ... pos = 0.625 	neg = 0.75 
+26. >From the press I've                ... pos = 0.125 	neg = 0.5  
+27. I'm sure the first w                ... pos = 0.625 	neg = 0.25 
+28. Let's just hope the                 ... pos = 0.5   	neg = 1.0  
+29. I'd venture to say i                ... pos = 0.125 	neg = 0.75 
+30. [PG]. Reviewed by Br                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-1241 is Negative        ... pos = 15.75 	neg = 17.806
+Overall score of document
+Total Pos = 15.75
+Total Neg = 17.806
+---------------------------------------------------------------------------

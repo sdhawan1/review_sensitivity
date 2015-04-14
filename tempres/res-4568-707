@@ -1,0 +1,23 @@
+0. Tullymore is a quiet                 ... pos = 0.125 	neg = 0.375
+1. When two old friends                 ... pos = 0.375 	neg = 1.125
+2. Then they discover t                 ... pos = 0.375 	neg = 0.125
+3. Since Ned has no fam                 ... pos = 0.75  	neg = 0.875
+4. It will not be easy                  ... pos = 0.5   	neg = 0.25 
+5. Like most of the cha                 ... pos = 1.375 	neg = 0.125
+6. It presents the Iris                 ... pos = 1.375 	neg = 0    
+7. The rough cliffs, lu                 ... pos = 0.875 	neg = 0.0  
+8. However, many of the                 ... pos = 1.375 	neg = 1.0  
+9. There is a similarit                 ... pos = 1.0   	neg = 0.125
+10. The need to neatly w                ... pos = 0.25  	neg = 0.125
+11. The film has a pleas                ... pos = 2.625 	neg = 0.125
+12. The storyline closes                ... pos = 0.125 	neg = 0.0  
+13. Moderately Recommend                ... pos = 0.0   	neg = 0.25 
+14. This film does not c                ... pos = 1.5   	neg = 0.125
+15. It does not strive t                ... pos = 0.75  	neg = 0.0  
+16. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4568-707 is Positive         ... pos = 13.375 	neg = 4.625
+Overall score of document
+Total Pos = 13.375
+Total Neg = 4.625
+---------------------------------------------------------------------------

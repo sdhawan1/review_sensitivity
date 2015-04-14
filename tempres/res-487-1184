@@ -1,0 +1,23 @@
+0. STARRING:  Bruce Wil                 ... pos = 0.0   	neg = 0.125
+1. With The Whole Nine                  ... pos = 0.5   	neg = 0.625
+2. Picture an Elmore Le                 ... pos = 0.25  	neg = 0.0  
+3. While the film begin                 ... pos = 1.5   	neg = 0.0  
+4. Perry stars as Nick                  ... pos = 0.0   	neg = 0.625
+5. After recognizing hi                 ... pos = 0.375 	neg = 1.0  
+6. Naturally, assorted                  ... pos = 0.25  	neg = 0.5  
+7. Oz learns that Tudes                 ... pos = 0.125 	neg = 0.25 
+8. As he becomes a pawn                 ... pos = 0.25  	neg = 0.0  
+9. At first, laughs don                 ... pos = 0.375 	neg = 0.0  
+10. Perry seems unsure w                ... pos = 1.25  	neg = 1.25 
+11. Worse, he looks emba                ... pos = 0.0   	neg = 1.75 
+12. Pollak, doing an eve                ... pos = 0.125 	neg = 1.0  
+13. By the second half,                 ... pos = 1.625 	neg = 0.5  
+14. Willis' friendship w                ... pos = 1.125 	neg = 0.25 
+15. Even the sight gags                 ... pos = 0.25  	neg = 0.0  
+16. In the end, everythi                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-487-1184 is Positive         ... pos = 9.0   	neg = 7.875
+Overall score of document
+Total Pos = 9.0
+Total Neg = 7.875
+---------------------------------------------------------------------------

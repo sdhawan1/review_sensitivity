@@ -1,0 +1,41 @@
+0. JACKIE BROWN (Mirama                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.5   	neg = 0.25 
+3. Oh, he's been busy -                 ... pos = 0.5   	neg = 0.875
+4. It's been the long                   ... pos = 2.625 	neg = 0.5  
+5. Things aren't going                  ... pos = 0.0   	neg = 0.0  
+6. She's 44    years ol                 ... pos = 0.875 	neg = 0.5  
+7. The loquacious Ordel                 ... pos = 1.25  	neg = 0.125
+8. Meanwhile, the    au                 ... pos = 0.25  	neg = 1.0  
+9. Only    through a se                 ... pos = 0.875 	neg = 0.125
+10. Although JACKIE BROW                ... pos = 0.125 	neg = 0.25 
+11. While    he's adhere                ... pos = 0.5   	neg = 0.125
+12. In terms of ambiance                ... pos = 0.5   	neg = 0.375
+13. The opening    seque                ... pos = 0.125 	neg = 0.125
+14. The timeframe for th                ... pos = 0.375 	neg = 0.25 
+15. Of course, nothing i                ... pos = 1.75  	neg = 0.5  
+16. Tenderness?                         ... pos = 0.625 	neg = 0    
+17. In a Quentin Taranti                ... pos = 0.0   	neg = 0    
+18. Sure, there've been                 ... pos = 4.875 	neg = 0.75 
+19. These staples of his                ... pos = 3.875 	neg = 0.375
+20. This effective demon                ... pos = 0.5   	neg = 0.0  
+21. This new aspect of M                ... pos = 2.625 	neg = 0.25 
+22. Mr. Forster's nuance                ... pos = 1.75  	neg = 0.125
+23. Much press has been                 ... pos = 0.25  	neg = 0.125
+24. As it turns out, Ms.                ... pos = 0.0   	neg = 0.375
+25. I do have to take ex                ... pos = 0.75  	neg = 0.375
+26. and Larry    Cohen's                ... pos = 0.125 	neg = 0.0  
+27. Forster.                            ... pos = 0     	neg = 0    
+28. )  Of course, it's t                ... pos = 1.375 	neg = 0.25 
+29. While JACKIE BROWN m                ... pos = 0.25  	neg = 0.25 
+30. And while the film's                ... pos = 3.125 	neg = 0.125
+31. With    an impressiv                ... pos = 0.125 	neg = 0.625
+32. -- Alex Fung (aw220@                ... pos = 0.0   	neg = 0.125
+33. I want to know what                 ... pos = 0.0   	neg = 0.25 
+34. " - Charles Odell. .                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6249-717 is Positive         ... pos = 30.625 	neg = 9.25 
+Overall score of document
+Total Pos = 30.625
+Total Neg = 9.25
+---------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+0. A PERFECT MURDER is                  ... pos = 0.0   	neg = 0.125
+1. In truth, it only us                 ... pos = 0.5   	neg = 0.0  
+2. Wealthy financier St                 ... pos = 0.125 	neg = 0.0  
+3. Rather than blackmai                 ... pos = 0.5   	neg = 0.5  
+4. With cold logic, Ste                 ... pos = 0.0   	neg = 1.25 
+5. The movie is no mast                 ... pos = 0.25  	neg = 1.25 
+6. The updating has mos                 ... pos = 1.125 	neg = 0.375
+7. DIAL M FOR MURDER sh                 ... pos = 1.0   	neg = 1.625
+8. Director Andrew Davi                 ... pos = 0.375 	neg = 0.125
+9. He's so taken with s                 ... pos = 0.5   	neg = 0.375
+10. Dariusz Wolski's hig                ... pos = 0.0   	neg = 0.375
+11. By contrast, Michael                ... pos = 1.25  	neg = 0.0  
+12. A PERFECT  MURDER mo                ... pos = 0.375 	neg = 0.25 
+13. The remake does smoo                ... pos = 0.0   	neg = 0.5  
+14. DIAL M FOR MURDER le                ... pos = 0.0   	neg = 0.625
+15. Patrick Smith Kelly'                ... pos = 0.0   	neg = 0.875
+16. Viggo Mortensen is p                ... pos = 0.375 	neg = 1.875
+17. Even the remake's di                ... pos = 0.375 	neg = 0.75 
+18. The updating, though                ... pos = 0.0   	neg = 0.25 
+19. Michael Douglas spin                ... pos = 0.375 	neg = 0.0  
+20. His power-tripping m                ... pos = 0.5   	neg = 1.125
+21. The night Emily is s                ... pos = 0.125 	neg = 0.25 
+22. He gives her a cold                 ... pos = 0.0   	neg = 0.25 
+23. "  The tightly contr                ... pos = 1.125 	neg = 1.125
+24. ". It's only appropr                ... pos = 1.0   	neg = 0.125
+25. That vulnerability,                 ... pos = 0.625 	neg = 0.0  
+26. Like some other tall                ... pos = 0.0   	neg = 0.125
+27. She looks callow and                ... pos = 0.875 	neg = 0.5  
+28. Had the movie been m                ... pos = 0.0   	neg = 0.125
+29. Roberts is now matur                ... pos = 0.125 	neg = 0.125
+30. There's every reason                ... pos = 0.5   	neg = 0.25 
+31. Paltrow's presence i                ... pos = 0.875 	neg = 0.5  
+32. The Taylors don't ha                ... pos = 1.0   	neg = 0.0  
+33. Steven knows about t                ... pos = 0.125 	neg = 0.5  
+34. Good for the plot, b                ... pos = 1.25  	neg = 0.0  
+35. Since Emily comes fr                ... pos = 0.75  	neg = 0.125
+36. You really don't bla                ... pos = 0.375 	neg = 0.5  
+37. It's the shallowness                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1007-739 is Negative         ... pos = 16.5  	neg = 17.0 
+Overall score of document
+Total Pos = 16.5
+Total Neg = 17.0
+---------------------------------------------------------------------------

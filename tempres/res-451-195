@@ -1,0 +1,39 @@
+0. It's obvious that an                 ... pos = 1.0   	neg = 0.0  
+1. In my own little way                 ... pos = 0.5   	neg = 0.375
+2. But it's becoming mo                 ... pos = 0.875 	neg = 0.375
+3. Still, even as Disne                 ... pos = 0.125 	neg = 0.0  
+4. Then ANASTASIA comes                 ... pos = 0.0   	neg = 0.0  
+5. Absolutely beautiful                 ... pos = 0.875 	neg = 0.125
+6. Michael Eisner, eat                  ... pos = 0.25  	neg = 0.0  
+7. Based very loosely o                 ... pos = 0.625 	neg = 0.25 
+8. An evil spirited mon                 ... pos = 1.0   	neg = 0.75 
+9. Narrowly escaping a                  ... pos = 0.5   	neg = 0.125
+10. It is during an atte                ... pos = 0.375 	neg = 0.125
+11. Ten years later, the                ... pos = 0.875 	neg = 0.25 
+12. How?                                ... pos = 0     	neg = 0    
+13. It seems the Dowager                ... pos = 0.0   	neg = 0.625
+14. With insider knowled                ... pos = 1.0   	neg = 0.625
+15. At about the same ti                ... pos = 0.25  	neg = 0.625
+16. It isn't long before                ... pos = 0.25  	neg = 1.0  
+17. After all, as Dimitr                ... pos = 0.25  	neg = 0.125
+18. With no memories of                 ... pos = 0.5   	neg = 1.0  
+19. During the long trek                ... pos = 0.625 	neg = 0.5  
+20. The interaction betw                ... pos = 0.875 	neg = 0.125
+21. Never have animated                 ... pos = 1.75  	neg = 0.5  
+22. Ryan, who comes off                 ... pos = 0.875 	neg = 0.75 
+23. This is perhaps the                 ... pos = 2.5   	neg = 0.125
+24. Even Rasputin, who p                ... pos = 0.875 	neg = 0.375
+25. The problem is he wa                ... pos = 0.0   	neg = 0.875
+26. It would have been m                ... pos = 1.0   	neg = 0.375
+27. But small quips asid                ... pos = 3.5   	neg = 0.125
+28. The train derailment                ... pos = 0.125 	neg = 0.125
+29. Even the songs far e                ... pos = 0.0   	neg = 0.0  
+30. It seems as though F                ... pos = 0.0   	neg = 0.125
+31. When the Dowager Emp                ... pos = 0.0   	neg = 0.0  
+32. In terms of ANASTASI                ... pos = 0.5   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-451-195 is Positive          ... pos = 21.875 	neg = 11.125
+Overall score of document
+Total Pos = 21.875
+Total Neg = 11.125
+---------------------------------------------------------------------------

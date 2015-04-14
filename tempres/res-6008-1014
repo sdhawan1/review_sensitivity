@@ -1,0 +1,32 @@
+0. APT PUPIL (M).                       ... pos = 0.375 	neg = 0.0  
+1. (Phoenix Picture/Col                 ... pos = 0.0   	neg = 0.0  
+2. There were high expe                 ... pos = 1.125 	neg = 0.125
+3. Apt Pupil is the thi                 ... pos = 1.875 	neg = 0.25 
+4. This is a superb and                 ... pos = 2.5   	neg = 0.25 
+5. The film deals not o                 ... pos = 0.125 	neg = 0.0  
+6. It's also a tale abo                 ... pos = 0.375 	neg = 0.75 
+7. Sixteen year old sch                 ... pos = 2.0   	neg = 0.125
+8. But after he discove                 ... pos = 0.0   	neg = 0.125
+9. A symbiotic relation                 ... pos = 0.375 	neg = 0.75 
+10. Todd's curiosity eve                ... pos = 0.75  	neg = 0.0  
+11. Events soon spiral o                ... pos = 0.5   	neg = 0.125
+12. McKellen's role is n                ... pos = 1.0   	neg = 0.125
+13. He delivers a superb                ... pos = 0.875 	neg = 0.0  
+14. At times he even man                ... pos = 1.0   	neg = 0.375
+15. In his best and bigg                ... pos = 2.875 	neg = 1.0  
+16. We witness his frigh                ... pos = 0.875 	neg = 0.0  
+17. As the final scene d                ... pos = 0.5   	neg = 0.375
+18. This is a creepy, te                ... pos = 0.25  	neg = 0.375
+19. The tension slowly b                ... pos = 0.5   	neg = 0.0  
+20. The supporting cast,                ... pos = 1.375 	neg = 0.0  
+21. Apt Pupil reaches ou                ... pos = 0.75  	neg = 0.25 
+22. A number of concerne                ... pos = 0.5   	neg = 0.0  
+23. Consequently, the fi                ... pos = 0.625 	neg = 0.375
+24. However, the outcry                 ... pos = 0.5   	neg = 0.0  
+25. But, as they say in                 ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-6008-1014 is Positive        ... pos = 22.375 	neg = 5.5  
+Overall score of document
+Total Pos = 22.375
+Total Neg = 5.5
+---------------------------------------------------------------------------

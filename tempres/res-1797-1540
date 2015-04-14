@@ -1,0 +1,41 @@
+0. Rated on a 4-star sc                 ... pos = 0.5   	neg = 0.0  
+1. Written by Sofia Cop                 ... pos = 0.0   	neg = 0.0  
+2. Photographed by Edwa                 ... pos = 0.0   	neg = 0.0  
+3. As I walked out of "                 ... pos = 0.125 	neg = 0.125
+4. "A bit strange, that                 ... pos = 0.375 	neg = 0    
+5. " he began.                          ... pos = 0.0   	neg = 0    
+6. "I didn't get it," I                 ... pos = 0.0   	neg = 0.0  
+7. "Don't think it went                 ... pos = 0.0   	neg = 0.0  
+8. Not sure what it was                 ... pos = 0.25  	neg = 0.125
+9. "     "No, me neithe                 ... pos = 0     	neg = 0.25 
+10. I've read the book..                ... pos = 0.625 	neg = 0.0  
+11. "     "Not exactly,                 ... pos = 0.125 	neg = 0.125
+12. ". And I really didn                ... pos = 0     	neg = 0.0  
+13. I was glad to see th                ... pos = 0.375 	neg = 0.625
+14. "The Virgin Suicides                ... pos = 0.125 	neg = 0.875
+15. The setting is subur                ... pos = 0.0   	neg = 0.125
+16. Cecilia Lisbon (Hann                ... pos = 0.5   	neg = 0.0  
+17. There  are four othe                ... pos = 1.0   	neg = 0.0  
+18. Cook) and 17-year  o                ... pos = 0.0   	neg = 0.0  
+19. The neighbourhood la                ... pos = 1.25  	neg = 0.0  
+20. The boys try to gaug                ... pos = 0.625 	neg = 0.0  
+21. And when the event                  ... pos = 0.0   	neg = 0.25 
+22. As a novel by Jeffre                ... pos = 0.125 	neg = 0.25 
+23. The Lisbon sisters w                ... pos = 0.125 	neg = 1.375
+24. At times, Sofia Copp                ... pos = 0.5   	neg = 0.75 
+25. The voice-over narra                ... pos = 0.75  	neg = 0.0  
+26. But the movie contra                ... pos = 0.25  	neg = 0.25 
+27. It spends more time                 ... pos = 0.125 	neg = 0.0  
+28. I can't quite give t                ... pos = 0.125 	neg = 0.0  
+29. Her  most famous pre                ... pos = 1.125 	neg = 0.125
+30. "The Virgin Suicides                ... pos = 0.625 	neg = 0.25 
+31. I just don't think i                ... pos = 0.125 	neg = 0.0  
+32. It wants to wonder                  ... pos = 0.375 	neg = 0.0  
+33. What's going on?                    ... pos = 0     	neg = 0.0  
+34. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1797-1540 is Positive        ... pos = 10.125 	neg = 5.5  
+Overall score of document
+Total Pos = 10.125
+Total Neg = 5.5
+---------------------------------------------------------------------------

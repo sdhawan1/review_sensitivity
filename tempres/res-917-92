@@ -1,0 +1,26 @@
+0. Seen on 3 July 1997                  ... pos = 0.0   	neg = 0.0  
+1. My initial fear: Onc                 ... pos = 0.125 	neg = 1.125
+2. Needless to say I wa                 ... pos = 1.0   	neg = 0.125
+3. The writing was quic                 ... pos = 0.0   	neg = 0.5  
+4. The likelihood of a                  ... pos = 0.5   	neg = 0.0  
+5. The only thing missi                 ... pos = 0.0   	neg = 0.375
+6. In *Men in Black*, E                 ... pos = 1.25  	neg = 0.125
+7. A special unit, the                  ... pos = 0.0   	neg = 0.0  
+8. " This involves chas                 ... pos = 0.25  	neg = 0.0  
+9. This has some emotio                 ... pos = 0.875 	neg = 0.625
+10. Kay (Tommy Lee Jones                ... pos = 0.0   	neg = 0.0  
+11. By the second day on                ... pos = 0.0   	neg = 0.25 
+12. They inadvertently g                ... pos = 0.0   	neg = 0.25 
+13. Just as Jay and Kay                 ... pos = 1.0   	neg = 0.5  
+14. Edgar's body is quic                ... pos = 0.5   	neg = 0.125
+15. He sort of "deterior                ... pos = 0.0   	neg = 0.875
+16. There is something j                ... pos = 0.25  	neg = 0.125
+17. The dialogue crackle                ... pos = 0.0   	neg = 0.5  
+18. The opening sequence                ... pos = 0.75  	neg = 0.375
+19. New York City is use                ... pos = 1.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-917-92 is Positive           ... pos = 7.625 	neg = 6.125
+Overall score of document
+Total Pos = 7.625
+Total Neg = 6.125
+---------------------------------------------------------------------------

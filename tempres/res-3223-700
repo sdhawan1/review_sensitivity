@@ -1,0 +1,24 @@
+0. Release Date: Januar                 ... pos = 1.25  	neg = 0.25 
+1. The change is a welc                 ... pos = 0.25  	neg = 0.375
+2. Now, formulas which                  ... pos = 0.75  	neg = 0.375
+3. SHE'S ALL THAT, the                  ... pos = 0.375 	neg = 0.125
+4. The strategy is to b                 ... pos = 0.375 	neg = 0.25 
+5. This works initially                 ... pos = 0.0   	neg = 0.25 
+6. The end, which barel                 ... pos = 0.0   	neg = 0.125
+7. The repetitive feeli                 ... pos = 0.875 	neg = 0.625
+8. Zack Siler (Freddy P                 ... pos = 0.75  	neg = 0.0  
+9. " The break-up is a                  ... pos = 0.625 	neg = 0.25 
+10. The guinea pig is La                ... pos = 0.0   	neg = 0.125
+11. The R. Lee Flemming                 ... pos = 1.125 	neg = 0.375
+12. Although Flemming go                ... pos = 0.125 	neg = 0.25 
+13. Neither of the three                ... pos = 0.25  	neg = 0.25 
+14. The supporting roles                ... pos = 0.5   	neg = 0.25 
+15. For the most part, t                ... pos = 0.25  	neg = 0.75 
+16. Teenagers are likely                ... pos = 0.25  	neg = 0.0  
+17. SHE'S ALL THAT works                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3223-700 is Positive         ... pos = 7.75  	neg = 4.625
+Overall score of document
+Total Pos = 7.75
+Total Neg = 4.625
+---------------------------------------------------------------------------

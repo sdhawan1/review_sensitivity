@@ -1,0 +1,32 @@
+0. In summary, this fil                 ... pos = 0.125 	neg = 0.25 
+1. I won't  divulge its                 ... pos = 0.875 	neg = 0.25 
+2. There's also a hint                  ... pos = 0.125 	neg = 0.125
+3. Kevin Bacon is a  se                 ... pos = 0.125 	neg = 0.5  
+4. Writer-director Davi                 ... pos = 1.625 	neg = 0.0  
+5. Bacon's visions are                  ... pos = 0.75  	neg = 0.0  
+6. Sometimes  they are                  ... pos = 1.125 	neg = 0.875
+7. It's all very intrig                 ... pos = 0.75  	neg = 0.25 
+8. Aware that there is                  ... pos = 1.0   	neg = 0.125
+9. By this point Koepp                  ... pos = 0.75  	neg = 0.125
+10. In what amounts to a                ... pos = 0.875 	neg = 0.5  
+11. And we have been ver                ... pos = 1.5   	neg = 0.875
+12. It's what is operati                ... pos = 0.0   	neg = 0.125
+13. Ask yourself why you                ... pos = 1.5   	neg = 0.625
+14. There is a sense of                 ... pos = 0.375 	neg = 0.125
+15. The crossover/connec                ... pos = 0.25  	neg = 0.375
+16. Significantly, the f                ... pos = 0.0   	neg = 0.125
+17. STIR OF ECHOES has d                ... pos = 0.125 	neg = 0.0  
+18. The more obvious mat                ... pos = 0.125 	neg = 0.125
+19. Here too we have a b                ... pos = 0.75  	neg = 1.125
+20. The last scene of th                ... pos = 0.125 	neg = 0.125
+21. The echoes continue                 ... pos = 0.0   	neg = 0    
+22. In-joke: the family'                ... pos = 0.0   	neg = 0.0  
+23. I read 'A Stir of  E                ... pos = 0.5   	neg = 0.375
+24. I even owned the exa                ... pos = 0.0   	neg = 0.0  
+25. I'm sitting in a dar                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4548-1432 is Positive        ... pos = 13.375 	neg = 7.125
+Overall score of document
+Total Pos = 13.375
+Total Neg = 7.125
+---------------------------------------------------------------------------

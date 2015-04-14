@@ -1,0 +1,44 @@
+0. "The Apostle" is one                 ... pos = 1.125 	neg = 0.5  
+1. It doesn't make its                  ... pos = 0.375 	neg = 0.0  
+2. Many people do belie                 ... pos = 2.0   	neg = 0.0  
+3. The movie, which was                 ... pos = 1.0   	neg = 0.125
+4. Duvall's Euliss Dewe                 ... pos = 0.0   	neg = 0.0  
+5. He has out-and-out s                 ... pos = 0.0   	neg = 0.5  
+6. One of the early sce                 ... pos = 0.0   	neg = 0.0  
+7. His wife, you see, h                 ... pos = 0.0   	neg = 0.75 
+8. Then the phone rings                 ... pos = 0.625 	neg = 0.5  
+9. And she hangs up wit                 ... pos = 0.125 	neg = 0.0  
+10. There's some symmetr                ... pos = 0.0   	neg = 0.0  
+11. Sonny pokes his head                ... pos = 0.625 	neg = 0.0  
+12. The man agrees.                     ... pos = 0.375 	neg = 0    
+13. In any other movie t                ... pos = 0.5   	neg = 1.0  
+14. But the way it's see                ... pos = 0.125 	neg = 0.25 
+15. Sonny is a charismat                ... pos = 0.5   	neg = 1.0  
+16. He's fond of wild me                ... pos = 0.625 	neg = 0.25 
+17. We're going to plug                 ... pos = 0.25  	neg = 0.0  
+18. "  But his marriage                 ... pos = 1.0   	neg = 0.125
+19. We get a hint of wha                ... pos = 0.0   	neg = 0.5  
+20. Sonny flees, heads t                ... pos = 0.25  	neg = 0.125
+21. In one of the best s                ... pos = 0.375 	neg = 0.0  
+22. One of that man's fr                ... pos = 0.125 	neg = 0.125
+23. The congregation is                 ... pos = 1.375 	neg = 1.375
+24. He's redeeming himse                ... pos = 3.125 	neg = 0.125
+25. Then other things st                ... pos = 0.625 	neg = 0.0  
+26. E.F. has a showdown                 ... pos = 0.625 	neg = 0.875
+27. E.F.'s family back a                ... pos = 0.0   	neg = 0.0  
+28. And then there is th                ... pos = 0.125 	neg = 0.125
+29. The film is shot in                 ... pos = 0.0   	neg = 0.125
+30. No one reaches for a                ... pos = 0.125 	neg = 0.375
+31. The actors are all u                ... pos = 0.5   	neg = 0.0  
+32. Because of this, we                 ... pos = 0.364 	neg = 0.5  
+33. The whole film feels                ... pos = 0.125 	neg = 0.125
+34. Duvall's movie works                ... pos = 0.0   	neg = 0.25 
+35. It's spiritual witho                ... pos = 1.625 	neg = 0.625
+36. It only seems approp                ... pos = 0.0   	neg = 0.375
+37. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5199-1046 is Positive        ... pos = 18.614 	neg = 10.625
+Overall score of document
+Total Pos = 18.614
+Total Neg = 10.625
+---------------------------------------------------------------------------

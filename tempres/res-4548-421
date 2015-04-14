@@ -1,0 +1,38 @@
+0. rated R Artisan Ente                 ... pos = 0.25  	neg = 1.375
+1. However, David Koepp                 ... pos = 0.125 	neg = 0.125
+2. "Stir Of Echoes" fai                 ... pos = 0.0   	neg = 0.125
+3. Well, David Koepp ha                 ... pos = 0.0   	neg = 0.125
+4. But "Stir Of Echoes"                 ... pos = 1.0   	neg = 0.125
+5. Tom Witzky (Kevin Ba                 ... pos = 0.125 	neg = 0.125
+6. He has a fine relati                 ... pos = 0.125 	neg = 0    
+7. But one night, his s                 ... pos = 0.0   	neg = 0.0  
+8. The hypnosis sends h                 ... pos = 0.125 	neg = 0.125
+9. Tom starts to see th                 ... pos = 0.125 	neg = 1.125
+10. His son calmly assur                ... pos = 0.875 	neg = 0.75 
+11. What are these thing                ... pos = 0.25  	neg = 0    
+12. Dead people, of cour                ... pos = 0.0   	neg = 0.0  
+13. Little boys in movie                ... pos = 0.0   	neg = 0.25 
+14. Uh-huh.                             ... pos = 0     	neg = 0    
+15. Coincidentally, it t                ... pos = 0.25  	neg = 0.0  
+16. Tom and Jake's "miss                ... pos = 0.0   	neg = 0.375
+17. At the start, the se                ... pos = 0.0   	neg = 0.875
+18. And self destruct it                ... pos = 0.0   	neg = 0.0  
+19. "Stir Of Echoes" tur                ... pos = 0.375 	neg = 0.0  
+20. Kevin Bacon's Tom be                ... pos = 0.0   	neg = 0.0  
+21. "Stir Of Echoes" may                ... pos = 0.0   	neg = 0.375
+22. Kevin Bacon is gritt                ... pos = 0.125 	neg = 0.125
+23. I hate to bash child                ... pos = 0.125 	neg = 0.5  
+24. I know it's unfair t                ... pos = 1.25  	neg = 0.875
+25. "Stir Of Echoes" is                 ... pos = 0.125 	neg = 1.25 
+26. He directs this low                 ... pos = 0.0   	neg = 0.125
+27. While "Sixth Sense"                 ... pos = 0.625 	neg = 0.25 
+28. Instead of being sca                ... pos = 0.875 	neg = 0.75 
+29. Towards the end, the                ... pos = 0.25  	neg = 1.0  
+30. I'm giving "Stir Of                 ... pos = 0.375 	neg = 0.375
+31. How sad.. . .                       ... pos = 0     	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-4548-421 is Negative         ... pos = 7.375 	neg = 11.875
+Overall score of document
+Total Pos = 7.375
+Total Neg = 11.875
+---------------------------------------------------------------------------

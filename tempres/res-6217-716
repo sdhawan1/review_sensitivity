@@ -1,0 +1,37 @@
+0. After GODZILLA disap                 ... pos = 0.75  	neg = 0.125
+1. Expectations have ac                 ... pos = 0.25  	neg = 0.5  
+2. It certainly seems t                 ... pos = 1.125 	neg = 0.875
+3. Unfortunately, that'                 ... pos = 0.0   	neg = 0.875
+4. Don't misunderstand:                 ... pos = 0.125 	neg = 0.0  
+5. But aside from the f                 ... pos = 0.125 	neg = 0.375
+6. Since its plot (Our                  ... pos = 1.25  	neg = 1.625
+7. I won't waste time p                 ... pos = 0.0   	neg = 1.0  
+8. I will point out, ho                 ... pos = 0.25  	neg = 0.25 
+9. The screenplay repor                 ... pos = 0.625 	neg = 0.0  
+10. There are a few char                ... pos = 2.0   	neg = 0.5  
+11. Steve Buscemi's char                ... pos = 1.125 	neg = 0.75 
+12. There's also some ho                ... pos = 0.0   	neg = 0.0  
+13. (Note to whoever was                ... pos = 2.125 	neg = 0.5  
+14. " doesn't come off t                ... pos = 0.0   	neg = 0.875
+15. ). Characters in the                ... pos = 1.25  	neg = 0.25 
+16. Aside from Harry Sta                ... pos = 1.375 	neg = 0.875
+17. Their tough-guy anti                ... pos = 0.25  	neg = 2.0  
+18. For a movie that bar                ... pos = 0.0   	neg = 0.75 
+19. There's also a roman                ... pos = 0.0   	neg = 0    
+20. (Ben Affleck) and Ha                ... pos = 0.125 	neg = 0.125
+21. Director Michael Bay                ... pos = 0.125 	neg = 0.125
+22. While it certainly s                ... pos = 1.0   	neg = 0.5  
+23. I'm still not sure e                ... pos = 0.375 	neg = 2.0  
+24. There's nothing visu                ... pos = 1.0   	neg = 1.875
+25. ARMAGEDDON turns up                 ... pos = 0.0   	neg = 1.5  
+26. It's good entertainm                ... pos = 0.75  	neg = 0.125
+27. Still, I'd be surpri                ... pos = 0.375 	neg = 0.125
+28. Except, of course, t                ... pos = 0.0   	neg = 0.25 
+29. And that was cool.                  ... pos = 0     	neg = 0.125
+30. Send comments to ktp                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6217-716 is Negative         ... pos = 16.375 	neg = 18.875
+Overall score of document
+Total Pos = 16.375
+Total Neg = 18.875
+---------------------------------------------------------------------------

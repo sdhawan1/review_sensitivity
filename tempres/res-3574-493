@@ -1,0 +1,53 @@
+0. Jim Carrey was regar                 ... pos = 0.625 	neg = 0.125
+1. Then, things started                 ... pos = 0.0   	neg = 0.0  
+2. He started doing ser                 ... pos = 0.0   	neg = 0.0  
+3. Who was the torch pa                 ... pos = 0.0   	neg = 0.125
+4. Adam Sandler.                        ... pos = 0     	neg = 0.0  
+5. But, people thought                  ... pos = 0.875 	neg = 0.875
+6. But, diehard Sandler                 ... pos = 0.625 	neg = 0.25 
+7. Adam Sandler is a go                 ... pos = 0.0   	neg = 0.25 
+8. He made us roll in t                 ... pos = 1.375 	neg = 0.625
+9. In The Waterboy, he'                 ... pos = 0.0   	neg = 0.25 
+10. His character, Bobby                ... pos = 0.875 	neg = 0.125
+11. He is a loser.                      ... pos = 0.0   	neg = 0.5  
+12. He watches wrestling                ... pos = 0.125 	neg = 0.0  
+13. This character is pu                ... pos = 1.25  	neg = 0.125
+14. Unfortunately, Sandl                ... pos = 0.75  	neg = 1.0  
+15. In the beginning, he                ... pos = 0.5   	neg = 0    
+16. But, a half-hour int                ... pos = 0.0   	neg = 0.0  
+17. I thought this film                 ... pos = 0.5   	neg = 0.375
+18. Henry Winkler, The F                ... pos = 0.0   	neg = 0.125
+19. I was asking the sam                ... pos = 0.0   	neg = 0.125
+20. I thought they would                ... pos = 1.0   	neg = 0.25 
+21. And the audience ben                ... pos = 0.0   	neg = 0.0  
+22. He sets up- and knoc                ... pos = 0.5   	neg = 1.028
+23. Winkler plays the co                ... pos = 0.125 	neg = 0.875
+24. He hires Sandler to                 ... pos = 0.625 	neg = 0.125
+25. Winkler delivers a g                ... pos = 0.125 	neg = 0.0  
+26. Kathy Bates also hel                ... pos = 0.0   	neg = 0.0  
+27. She is clever and fu                ... pos = 0.5   	neg = 0.25 
+28. Whether she is try t                ... pos = 0.25  	neg = 0.25 
+29. The plot is nothing                 ... pos = 0.625 	neg = 0.375
+30. It moves along at a                 ... pos = 0.5   	neg = 0.0  
+31. Despite the short ti                ... pos = 0.625 	neg = 0.875
+32. They do not even att                ... pos = 1.375 	neg = 0.0  
+33. They basically just                 ... pos = 0.625 	neg = 0.0  
+34. Sometimes he does, s                ... pos = 0.0   	neg = 0    
+35. The rest of the cast                ... pos = 0.0   	neg = 0.125
+36. Besides the performa                ... pos = 0.0   	neg = 0.375
+37. This keeps the film                 ... pos = 0.0   	neg = 0.778
+38. After seeing The Wed                ... pos = 0.0   	neg = 0.375
+39. I was glad to see hi                ... pos = 0.0   	neg = 0.375
+40. They should have wri                ... pos = 0.875 	neg = 0.875
+41. Overall, The Waterbo                ... pos = 0.0   	neg = 0.125
+42. It's just not consis                ... pos = 0.0   	neg = 0.0  
+43. For fifteen minutes                 ... pos = 0.0   	neg = 0.25 
+44. Either way, if you a                ... pos = 1.0   	neg = 0.0  
+45. It may not be consis                ... pos = 0.75  	neg = 0.375
+46. The Movie Page- http                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3574-493 is Positive         ... pos = 17.125 	neg = 12.556
+Overall score of document
+Total Pos = 17.125
+Total Neg = 12.556
+---------------------------------------------------------------------------

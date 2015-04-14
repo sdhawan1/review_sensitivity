@@ -1,0 +1,39 @@
+0. In a review of "The                  ... pos = 0.0   	neg = 0.625
+1. I stand corrected.                   ... pos = 0.125 	neg = 0.0  
+2. "Being John Malkovic                 ... pos = 0.125 	neg = 0.125
+3. It is the most origi                 ... pos = 0.0   	neg = 0.125
+4. If it had only been                  ... pos = 0.5   	neg = 0.375
+5. Craig Schwartz (John                 ... pos = 0.0   	neg = 0.125
+6. Craig, is a puppetee                 ... pos = 0.0   	neg = 0.125
+7. His wife, Lotte (an                  ... pos = 0.875 	neg = 0.875
+8. So Craig aquires a j                 ... pos = 0.0   	neg = 0.0  
+9. Here he meets Maxine                 ... pos = 0.0   	neg = 0.125
+10. Maxine has no intere                ... pos = 0.0   	neg = 0.375
+11. Due to the unusual p                ... pos = 1.0   	neg = 0.0  
+12. Suffice to say that                 ... pos = 0.0   	neg = 0.5  
+13. In fact, I think Cha                ... pos = 0.125 	neg = 0.125
+14. Still, I personally                 ... pos = 1.5   	neg = 0.0  
+15. The script, which is                ... pos = 1.5   	neg = 0.5  
+16. John Cusack is perfe                ... pos = 1.5   	neg = 0.375
+17. However, the real st                ... pos = 1.0   	neg = 0.0  
+18. How the man was conv                ... pos = 0.125 	neg = 0.25 
+19. One last point which                ... pos = 2.125 	neg = 0.125
+20. If there is one man                 ... pos = 0.0   	neg = 0.75 
+21. His hair, by the way                ... pos = 0.125 	neg = 0.25 
+22. Also watch for Brad                 ... pos = 0.125 	neg = 0.25 
+23. As stated, "Being Jo                ... pos = 0.0   	neg = 0.875
+24. I give it a well ear                ... pos = 0.0   	neg = 0.0  
+25. Feel free to e-mail                 ... pos = 0.875 	neg = 0.0  
+26. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+27. Try and catch this o                ... pos = 0.0   	neg = 0.0  
+28. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+29. * * - Pretty bad.                   ... pos = 0     	neg = 1.0  
+30. See it if you've got                ... pos = 0.0   	neg = 0.25 
+31. * - One of the worst                ... pos = 0.0   	neg = 0.375
+32. See it only if you e                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-535 is Positive          ... pos = 12.0  	neg = 8.625
+Overall score of document
+Total Pos = 12.0
+Total Neg = 8.625
+---------------------------------------------------------------------------

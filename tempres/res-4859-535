@@ -1,0 +1,57 @@
+0. Benjamin Martin (Mel                 ... pos = 0.625 	neg = 0.125
+1. The rest of the coun                 ... pos = 0.625 	neg = 0.125
+2. Martin says he will                  ... pos = 0.25  	neg = 0.0  
+3. Martin's friend,  Co                 ... pos = 1.375 	neg = 0.5  
+4. Martin tries to go o                 ... pos = 0.0   	neg = 0.25 
+5. Martin decides to  s                 ... pos = 0.0   	neg = 0.25 
+6. His ambush  tactics                  ... pos = 0.375 	neg = 0.5  
+7. As Benjamin and Gabr                 ... pos = 0.75  	neg = 0.0  
+8. General Cornwallis (                 ... pos = 0.25  	neg = 0.125
+9. This includes going                  ... pos = 0.25  	neg = 0.375
+10. I must admit, "The P                ... pos = 0.375 	neg = 0.25 
+11. I think I expected a                ... pos = 0.625 	neg = 0.75 
+12. Actually,  that's on                ... pos = 0.25  	neg = 1.0  
+13. It switches around a                ... pos = 0.125 	neg = 0.0  
+14. At times  the movie                 ... pos = 1.375 	neg = 0.125
+15. The list goes on and                ... pos = 0.625 	neg = 0.5  
+16. Despite this and a c                ... pos = 0.25  	neg = 0.125
+17. It also features som                ... pos = 1.875 	neg = 0.0  
+18. When  "The Patriot"                 ... pos = 0.375 	neg = 0.625
+19. Mel Gibson gives an                 ... pos = 1.25  	neg = 0.5  
+20. Gibson's acting is i                ... pos = 1.25  	neg = 0.125
+21. Heath Ledger ("10 Th                ... pos = 0.125 	neg = 0.0  
+22. Off the  battlefield                ... pos = 0.375 	neg = 0.75 
+23. Ledger and Gibson ar                ... pos = 1.75  	neg = 0.0  
+24. The only weak link i                ... pos = 0.625 	neg = 1.25 
+25. Not only does  she g                ... pos = 0.5   	neg = 1.375
+26. Last we have Jason I                ... pos = 0.0   	neg = 0.625
+27. Isaac's historically                ... pos = 1.0   	neg = 0.5  
+28. The man  does everyt                ... pos = 0.0   	neg = 0.0  
+29. Yet Isaacs is such a                ... pos = 1.125 	neg = 0.25 
+30. There are a lot of t                ... pos = 0.25  	neg = 0.0  
+31. On the for side we h                ... pos = 2.125 	neg = 0.875
+32. Against it we have a                ... pos = 0.0   	neg = 1.375
+33. You'll have to weigh                ... pos = 0.0   	neg = 0.0  
+34. I felt the battle sc                ... pos = 0.5   	neg = 0.0  
+35. Speaking of the batt                ... pos = 1.0   	neg = 0.125
+36. It involves Benjamin                ... pos = 0.0   	neg = 0.0  
+37. This was a fascinati                ... pos = 1.25  	neg = 0.5  
+38. I'd  best warn those                ... pos = 0.875 	neg = 1.0  
+39. We see all the horro                ... pos = 0.75  	neg = 0.0  
+40. A few of these scene                ... pos = 0.5   	neg = 0.0  
+41. "The Patriot" runs a                ... pos = 0.0   	neg = 0.875
+42. I'd recommend it to                 ... pos = 1.5   	neg = 0.0  
+43. History buffs (like                 ... pos = 2.0   	neg = 0.125
+44. I give the film thre                ... pos = 0.0   	neg = 0.0  
+45. Comments?                           ... pos = 0     	neg = 0.0  
+46. Send to: johnbeachem                ... pos = 0.375 	neg = 0.125
+47. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+48. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+49. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+50. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4859-535 is Positive         ... pos = 29.875 	neg = 17.125
+Overall score of document
+Total Pos = 29.875
+Total Neg = 17.125
+---------------------------------------------------------------------------

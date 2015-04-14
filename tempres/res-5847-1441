@@ -1,0 +1,58 @@
+0. I think it was inevi                 ... pos = 0.25  	neg = 0.125
+1. I'm just surprised n                 ... pos = 0.125 	neg = 0.25 
+2. At least you'd have                  ... pos = 0.0   	neg = 0.0  
+3. In any case, our "Mo                 ... pos = 0.0   	neg = 0.125
+4. Jim Carrey is Truman                 ... pos = 0.25  	neg = 0.25 
+5. The TV series of Tru                 ... pos = 0.375 	neg = 0.25 
+6. He has been televise                 ... pos = 0.0   	neg = 0.125
+7. ), and, in the show'                 ... pos = 0.125 	neg = 0.125
+8. This basic plot has                  ... pos = 0.0   	neg = 0.125
+9. Relying on the Way B                 ... pos = 0.375 	neg = 0.625
+10. Arguably, spin the W                ... pos = 0.5   	neg = 0.125
+11. Much more recently,                 ... pos = 0.125 	neg = 0.125
+12. There was one novell                ... pos = 0.625 	neg = 1.0  
+13. The novella, however                ... pos = 1.375 	neg = 0.5  
+14. Most closely to "The                ... pos = 0.0   	neg = 0.25 
+15. I don't recall how t                ... pos = 0.0   	neg = 0.25 
+16. I suppose the main d                ... pos = 1.0   	neg = 2.375
+17. Yup.                                ... pos = 0     	neg = 0    
+18. At the close of the                 ... pos = 0.25  	neg = 0.125
+19. I suppose also that                 ... pos = 0.0   	neg = 0.875
+20. It fits our media-sa                ... pos = 0.125 	neg = 0    
+21. Anyway, did I actual                ... pos = 0     	neg = 0.0  
+22. Yes and no.                         ... pos = 0     	neg = 0.25 
+23. The "No" comes from                 ... pos = 0.125 	neg = 0.0  
+24. I kept on thinking "                ... pos = 0.5   	neg = 0.0  
+25. There's minor clumsi                ... pos = 0.375 	neg = 0.375
+26. And why didn't they                 ... pos = 0.125 	neg = 0.0  
+27. You have smart peopl                ... pos = 0.25  	neg = 1.125
+28. The most glaring clu                ... pos = 0.125 	neg = 0.625
+29. It's easy to come up                ... pos = 0.25  	neg = 0.0  
+30. You can simply not t                ... pos = 1.0   	neg = 0.75 
+31. You pretty much can                 ... pos = 0.125 	neg = 0.25 
+32. This, though, makes                 ... pos = 0.125 	neg = 0.0  
+33. Alternatively, you c                ... pos = 0.0   	neg = 0.75 
+34. The villagers can co                ... pos = 0.0   	neg = 0.375
+35. (True, this is not "                ... pos = 0.5   	neg = 0.5  
+36. Perhaps best and mos                ... pos = 1.625 	neg = 0.125
+37. "About to go on my w                ... pos = 0.0   	neg = 0.0  
+38. Whoops, the savings                 ... pos = 0.0   	neg = 0.375
+39. "  There's no weirdn                ... pos = 1.125 	neg = 0.25 
+40. One thing, brought u                ... pos = 0.125 	neg = 0.0  
+41. He's known his best                 ... pos = 0.5   	neg = 0.125
+42. Can you trust a seve                ... pos = 0.0   	neg = 0.0  
+43. Well, I did get into                ... pos = 0.0   	neg = 0.0  
+44. It's an entertaining                ... pos = 0.625 	neg = 0.0  
+45. "Truman" may also ma                ... pos = 0.375 	neg = 0.0  
+46. He does well in this                ... pos = 0.125 	neg = 0.125
+47. Think of Steve Marti                ... pos = 0.0   	neg = 0.0  
+48. Yes, there are occas                ... pos = 0.25  	neg = 0.0  
+49. Bilko", but his rang                ... pos = 0.25  	neg = 0.125
+50. --  "The court deter                ... pos = 0.5   	neg = 0.25 
+51. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5847-1441 is Positive        ... pos = 14.5  	neg = 14.0 
+Overall score of document
+Total Pos = 14.5
+Total Neg = 14.0
+---------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+0. Good news: Woody All                 ... pos = 0.75  	neg = 0    
+1. Despite an embarassi                 ... pos = 1.0   	neg = 0.25 
+2. It chronicles life h                 ... pos = 0.5   	neg = 0.0  
+3. This description is                  ... pos = 1.375 	neg = 0.125
+4. The film has been ch                 ... pos = 0.0   	neg = 0.125
+5. This is perhaps hard                 ... pos = 0.125 	neg = 0.125
+6. Ironically, many of                  ... pos = 1.375 	neg = 0.5  
+7. It is to his credt t                 ... pos = 0.125 	neg = 0.75 
+8. (Ottawa dwellers be                  ... pos = 0.0   	neg = 0.125
+9. ).     Allen takes n                 ... pos = 1.25  	neg = 0.0  
+10. The jewish faith, an                ... pos = 0.75  	neg = 0.5  
+11. Not the gimmicks and                ... pos = 1.5   	neg = 0.125
+12. The film is exemplar                ... pos = 1.25  	neg = 1.25 
+13. And no-one is more p                ... pos = 0.0   	neg = 1.0  
+14. A man so incapbable                 ... pos = 0.0   	neg = 0.375
+15. The film benefits fr                ... pos = 0.75  	neg = 0    
+16. The film is structur                ... pos = 0.25  	neg = 0.375
+17. The pairings could b                ... pos = 0.0   	neg = 0.125
+18. Examples of people/c                ... pos = 0.0   	neg = 0.0  
+19. The considerations t                ... pos = 1.0   	neg = 0.25 
+20. (Perhaps that last o                ... pos = 0.75  	neg = 0.25 
+21. Even Robin Williams                 ... pos = 0.375 	neg = 0.625
+22. A lesser filmmaker w                ... pos = 1.125 	neg = 0.625
+23. One of the most nota                ... pos = 0.0   	neg = 0.125
+24. Deconstructing Harry                ... pos = 0.125 	neg = 0.25 
+25. The first is Harry's                ... pos = 0.875 	neg = 0.5  
+26. Which of these is wh                ... pos = 0.5   	neg = 0.25 
+27. The associations tha                ... pos = 0.25  	neg = 0.0  
+28. It is only as the fi                ... pos = 0.625 	neg = 0.25 
+29. Harry turning 'soft'                ... pos = 0.75  	neg = 0.75 
+30. On this basis, an at                ... pos = 1.125 	neg = 0.25 
+31. As filmmaker after f                ... pos = 0.375 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3783-1141 is Positive        ... pos = 18.875 	neg = 10.125
+Overall score of document
+Total Pos = 18.875
+Total Neg = 10.125
+---------------------------------------------------------------------------

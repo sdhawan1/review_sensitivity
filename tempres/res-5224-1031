@@ -1,0 +1,22 @@
+0. URBAN LEGEND Reviewe                 ... pos = 0.875 	neg = 0.0  
+1. Our heroine is beaut                 ... pos = 2.125 	neg = 0.125
+2. Our hero is  handsom                 ... pos = 1.375 	neg = 0.875
+3. Carnage ensues (chec                 ... pos = 0     	neg = 0.25 
+4. Director Jamie Blank                 ... pos = 0.875 	neg = 0.25 
+5. Yikes.                               ... pos = 0     	neg = 0    
+6. Most of the time,  h                 ... pos = 0.25  	neg = 0.125
+7. True, every movie in                 ... pos = 1.5   	neg = 1.375
+8. Yet another disappoi                 ... pos = 0.625 	neg = 0.625
+9. Only a handful of th                 ... pos = 1.375 	neg = 0.0  
+10. Horta leaves a lot                  ... pos = 0.0   	neg = 1.0  
+11. The campy ending als                ... pos = 1.25  	neg = 1.75 
+12. At least the motive                 ... pos = 1.25  	neg = 0.375
+13. " These postmodern r                ... pos = 0.75  	neg = 0.5  
+14. But delivering isola                ... pos = 0.5   	neg = 0.25 
+15. Let's  just say that                ... pos = 0.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5224-1031 is Positive        ... pos = 13.0  	neg = 8.125
+Overall score of document
+Total Pos = 13.0
+Total Neg = 8.125
+---------------------------------------------------------------------------

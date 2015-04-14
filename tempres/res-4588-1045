@@ -1,0 +1,66 @@
+0. by Curtis Edmonds --                 ... pos = 0.0   	neg = 0.25 
+1. And if that sounds f                 ... pos = 0.0   	neg = 0.0  
+2. Ron Howard's EDtv wa                 ... pos = 0.25  	neg = 0.125
+3. What a pity.                         ... pos = 0.125 	neg = 0    
+4. EDtv is everything t                 ... pos = 0.75  	neg = 0.125
+5. The Jim Carrey effor                 ... pos = 0.625 	neg = 0.5  
+6. EDtv is as quirky an                 ... pos = 1.0   	neg = 0.375
+7. It helps that the pr                 ... pos = 0.0   	neg = 0.0  
+8. Where Jim Carrey was                 ... pos = 1.0   	neg = 0.25 
+9. Ed is, perhaps, the                  ... pos = 0.0   	neg = 0.25 
+10. He's picked almost b                ... pos = 1.125 	neg = 0.5  
+11. Whether by design or                ... pos = 0.0   	neg = 0.125
+12. He's got a good up-a                ... pos = 0.75  	neg = 0.125
+13. )  The funniest scen                ... pos = 0.875 	neg = 0.0  
+14. EDtv does a wonderfu                ... pos = 0.875 	neg = 0.0  
+15. And McConaughey's ea                ... pos = 0.5   	neg = 0    
+16. Ed seems like a guy                 ... pos = 0.5   	neg = 0.625
+17. You couldn't ask any                ... pos = 0.0   	neg = 0.0  
+18. To have a good TV sh                ... pos = 1.5   	neg = 0.0  
+19. For one thing, it he                ... pos = 0.0   	neg = 0.0  
+20. The audience was one                ... pos = 0.0   	neg = 0.5  
+21. Every once in a whil                ... pos = 0.0   	neg = 0.25 
+22. The Truman Show audi                ... pos = 0.5   	neg = 0.25 
+23. This may not be all                 ... pos = 0.75  	neg = 0.125
+24. To be honest, it's n                ... pos = 1.0   	neg = 0.125
+25. But the constant ima                ... pos = 0.5   	neg = 0.5  
+26. The audience is a pa                ... pos = 0.625 	neg = 0.375
+27. The pretensious Trum                ... pos = 0.375 	neg = 0.25 
+28. EDtv executives know                ... pos = 1.25  	neg = 0.375
+29. It's a smaller audie                ... pos = 0.0   	neg = 0.0  
+30. We see people watchi                ... pos = 0.0   	neg = 0.0  
+31. Only the teenagers a                ... pos = 0.5   	neg = 0.125
+32. It's a smarter audie                ... pos = 0.0   	neg = 0.25 
+33. The EDtv show runs s                ... pos = 0.5   	neg = 0.375
+34. But most importantly                ... pos = 0.5   	neg = 0.125
+35. Both EDtv and The Tr                ... pos = 0.0   	neg = 0.125
+36. As our technology ex                ... pos = 0.375 	neg = 0.0  
+37. What we're left with                ... pos = 0.0   	neg = 0.25 
+38. EDtv and Truman are                 ... pos = 0.25  	neg = 0.0  
+39. The scene where Ed t                ... pos = 0.125 	neg = 0.125
+40. More than that, EDtv                ... pos = 0.375 	neg = 0.5  
+41. Compare the harried,                ... pos = 1.25  	neg = 0.625
+42. I can't say for sure                ... pos = 0.25  	neg = 0.0  
+43. (If anyone in this c                ... pos = 0.0   	neg = 0.125
+44. )  Howard wisely dec                ... pos = 1.5   	neg = 0.0  
+45. Most of the supporti                ... pos = 1.5   	neg = 0.375
+46. (Not to mention Howa                ... pos = 0.625 	neg = 0.125
+47. )  TV types don't ge                ... pos = 2.5   	neg = 0.0  
+48. In fact, forget I ev                ... pos = 0.25  	neg = 0.0  
+49. Remember Splash?                    ... pos = 0.125 	neg = 0    
+50. Tom Hanks and John C                ... pos = 0.0   	neg = 0    
+51. It's like that:  a g                ... pos = 1.0   	neg = 0.0  
+52. Go see EDtv and forg                ... pos = 0.25  	neg = 0.0  
+53. Wait a second... for                ... pos = 0.25  	neg = 0.0  
+54. I forgot something..                ... pos = 0.0   	neg = 0.125
+55. Fellow members of th                ... pos = 1.25  	neg = 0.0  
+56. Our Liz has just but                ... pos = 0.75  	neg = 0.75 
+57. Enjoy.                              ... pos = 0.375 	neg = 0    
+58. "No children have ev                ... pos = 0.0   	neg = 0.0  
+59. "  -- Sideshow Bob.                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4588-1045 is Positive        ... pos = 29.5  	neg = 10.0 
+Overall score of document
+Total Pos = 29.5
+Total Neg = 10.0
+---------------------------------------------------------------------------

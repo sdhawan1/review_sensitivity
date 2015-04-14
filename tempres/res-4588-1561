@@ -1,0 +1,27 @@
+0. I have heard numerou                 ... pos = 0.5   	neg = 0.125
+1. Well, having seen ED                 ... pos = 0.375 	neg = 0.125
+2. EDtv is funnier and                  ... pos = 0.25  	neg = 0.375
+3. McConaughy stars as                  ... pos = 0.25  	neg = 0.25 
+4. "  This is the brain                 ... pos = 0.125 	neg = 0.375
+5. "The all-Garden chan                 ... pos = 0.0   	neg = 0.125
+6. People would rather                  ... pos = 0.625 	neg = 0    
+7. After a couple of da                 ... pos = 0.25  	neg = 0.0  
+8. But, ED-TV also beco                 ... pos = 0.375 	neg = 0.0  
+9. Especially Ed's brot                 ... pos = 0.0   	neg = 0.0  
+10. And things get reall                ... pos = 0.75  	neg = 0.125
+11. EDtv is somewhat mor                ... pos = 0.625 	neg = 0.125
+12. Not that it is likel                ... pos = 0.125 	neg = 0.25 
+13. But, I can definitel                ... pos = 0.25  	neg = 0.125
+14. Look at The Real Wor                ... pos = 0.125 	neg = 1.5  
+15. Truman was a fairly                 ... pos = 0.625 	neg = 0.125
+16. EDtv is very satisfy                ... pos = 1.25  	neg = 0.125
+17. I especially liked t                ... pos = 0.625 	neg = 0.875
+18. Howard, who also dir                ... pos = 0.5   	neg = 0.0  
+19. It could also be loo                ... pos = 0.0   	neg = 0.125
+20. Either way, it is a                 ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4588-1561 is Positive        ... pos = 7.875 	neg = 4.875
+Overall score of document
+Total Pos = 7.875
+Total Neg = 4.875
+---------------------------------------------------------------------------

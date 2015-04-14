@@ -1,0 +1,77 @@
+0. Produced by: Warner                  ... pos = 0.0   	neg = 0.0  
+1. Directed by Robert Z                 ... pos = 0.0   	neg = 0.25 
+2. Starring: Jodie Fost                 ... pos = 0.0   	neg = 0.0  
+3. In director Robert Z                 ... pos = 1.0   	neg = 0.375
+4. The crowd, which con                 ... pos = 0.75  	neg = 1.125
+5. Inside the car, Dr.                  ... pos = 2.125 	neg = 0.0  
+6. Her idealism, honest                 ... pos = 0.75  	neg = 0.125
+7. Foster's performance                 ... pos = 1.125 	neg = 0.25 
+8. (Foster has previous                 ... pos = 0.0   	neg = 0.0  
+9. ) In addition to fea                 ... pos = 1.0   	neg = 0.375
+10. The film's visually                 ... pos = 0.75  	neg = 0.25 
+11. Eventually all this                 ... pos = 0.75  	neg = 0.0  
+12. Young Ellie (well pl                ... pos = 0.125 	neg = 0.75 
+13. Soon her child's ima                ... pos = 0.25  	neg = 0.25 
+14. Her father, who help                ... pos = 0.25  	neg = 1.625
+15. ". There is a tellin                ... pos = 1.0   	neg = 0.125
+16. The girl's beloved f                ... pos = 0.375 	neg = 0.0  
+17. A priest attempts to                ... pos = 0.0   	neg = 1.0  
+18. Instead, she channel                ... pos = 0.125 	neg = 0.125
+19. Years later, Ellie A                ... pos = 0.0   	neg = 0.25 
+20. There she meets Palm                ... pos = 0.0   	neg = 0.125
+21. Joss's faith in God                 ... pos = 1.0   	neg = 0.25 
+22. It is fitting that J                ... pos = 1.625 	neg = 0.375
+23. One of the functions                ... pos = 1.625 	neg = 0.125
+24. Later, he goes on to                ... pos = 0.5   	neg = 0.125
+25. Although the charact                ... pos = 1.0   	neg = 1.375
+26. Ellie is able to enj                ... pos = 0.5   	neg = 0.5  
+27. Drumlin is a scienti                ... pos = 0.75  	neg = 0.125
+28. To Drumlin, science                 ... pos = 0.0   	neg = 0.25 
+29. I liked what Skerrit                ... pos = 0.75  	neg = 0.625
+30. When Drumlin pulls t                ... pos = 0.25  	neg = 0.0  
+31. After many setbacks,                ... pos = 0.375 	neg = 0.0  
+32. Hadden (in a strong                 ... pos = 1.5   	neg = 0.0  
+33. Hadden is a brillian                ... pos = 1.0   	neg = 0.125
+34. His idiosyncrasies i                ... pos = 0.5   	neg = 0.0  
+35. He offers to fund he                ... pos = 0.875 	neg = 0.0  
+36. Ellie's intensity an                ... pos = 1.0   	neg = 0.875
+37. When a press confere                ... pos = 0.625 	neg = 0.25 
+38. But before she can s                ... pos = 0.375 	neg = 0.5  
+39. It is outrageous beh                ... pos = 0.375 	neg = 0.25 
+40. Naturally, the media                ... pos = 0.125 	neg = 0.125
+41. As was done in Zemec                ... pos = 0.25  	neg = 0.625
+42. Zemeckis had origina                ... pos = 0.25  	neg = 0.125
+43. The inclusion of the                ... pos = 0.875 	neg = 0.625
+44. An exciting thread i                ... pos = 0.625 	neg = 0.25 
+45. I was really impress                ... pos = 1.25  	neg = 0.375
+46. Its visual aspects h                ... pos = 0.5   	neg = 0.0  
+47. The machine reminded                ... pos = 0.0   	neg = 0.0  
+48. Luckily I saw CONTAC                ... pos = 2.25  	neg = 0.75 
+49. It was a sound that                 ... pos = 0.625 	neg = 1.125
+50. Another memorable se                ... pos = 0.875 	neg = 0.375
+51. As a result of her j                ... pos = 0.125 	neg = 0.0  
+52. However, the way the                ... pos = 0.125 	neg = 0.25 
+53. Then, however, the m                ... pos = 0.75  	neg = 0.25 
+54. The coolly rational                 ... pos = 0.375 	neg = 0.25 
+55. Thanks to the cinema                ... pos = 0.125 	neg = 0.375
+56. The special effects                 ... pos = 2.0   	neg = 0.25 
+57. I was particularly i                ... pos = 1.125 	neg = 0.125
+58. To me this functione                ... pos = 0.0   	neg = 0.0  
+59. In a similar vein, t                ... pos = 0.375 	neg = 0.125
+60. While watching this,                ... pos = 1.25  	neg = 2.125
+61. However, viewers lik                ... pos = 1.125 	neg = 0.125
+62. In any case, I admir                ... pos = 1.125 	neg = 0.25 
+63. These are the kinds                 ... pos = 2.0   	neg = 0.25 
+64. Because CONTACT cont                ... pos = 1.0   	neg = 0.125
+65. But the movie doesn'                ... pos = 0.5   	neg = 0.0  
+66. However, even though                ... pos = 0.25  	neg = 0.25 
+67. In my opinion CONTAC                ... pos = 1.25  	neg = 1.0  
+68. As good as the movie                ... pos = 0.75  	neg = 0.25 
+69. During the first par                ... pos = 1.25  	neg = 0.25 
+70. Nevertheless, it is                 ... pos = 1.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3534-270 is Positive         ... pos = 49.125 	neg = 23.625
+Overall score of document
+Total Pos = 49.125
+Total Neg = 23.625
+---------------------------------------------------------------------------

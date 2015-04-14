@@ -1,0 +1,58 @@
+0. **** (out of 4) MY B                 ... pos = 0.375 	neg = 0.375
+1. The previews made it                 ... pos = 0.375 	neg = 0.625
+2. After the opening ti                 ... pos = 0.125 	neg = 0.625
+3. In fact, the movie i                 ... pos = 0.0   	neg = 0.375
+4. It was surprising to                 ... pos = 0.125 	neg = 0.125
+5. Julianne (Julia Robe                 ... pos = 0.125 	neg = 0.0  
+6. They had agreed to m                 ... pos = 0.375 	neg = 0.25 
+7. " If you've seen the                 ... pos = 0.25  	neg = 0.0  
+8. Meanwhile Kimmy (Cam                 ... pos = 2.25  	neg = 0.0  
+9. It's easy to picture                 ... pos = 0.75  	neg = 1.375
+10. P.J.                                ... pos = 0.0   	neg = 0    
+11. Hogan's direction, R                ... pos = 1.5   	neg = 0.75 
+12. The movie is imbued                 ... pos = 2.0   	neg = 0.125
+13. The movie treats all                ... pos = 0.875 	neg = 0.0  
+14. Nobody is evil.                     ... pos = 0     	neg = 0.875
+15. Nobody is "the bad g                ... pos = 0.0   	neg = 1.375
+16. When Julianne spring                ... pos = 0.25  	neg = 0.125
+17. Even the pair of man                ... pos = 0.875 	neg = 0.0  
+18. Other family members                ... pos = 0.0   	neg = 0.0  
+19. MY BEST FRIEND'S WED                ... pos = 0.875 	neg = 0.625
+20. For example, Juliann                ... pos = 0.125 	neg = 0.125
+21. But when she sees th                ... pos = 1.25  	neg = 0.25 
+22. Kimmy confides to Ju                ... pos = 1.0   	neg = 0.375
+23. Her heartfelt confes                ... pos = 1.0   	neg = 0.125
+24. Even the trailers ar                ... pos = 0.625 	neg = 0.5  
+25. I went to the movie                 ... pos = 0.125 	neg = 0.0  
+26. As I said above, I w                ... pos = 1.0   	neg = 0.375
+27. There is one scene,                 ... pos = 0.875 	neg = 0.125
+28. One of Julianne's sc                ... pos = 1.75  	neg = 0.25 
+29. There is a scene whe                ... pos = 0.0   	neg = 0.125
+30. One by one, the othe                ... pos = 0.0   	neg = 0.0  
+31. Soon the whole big e                ... pos = 0.25  	neg = 0.625
+32. After one chorus, th                ... pos = 0.375 	neg = 0.0  
+33. Not wanting the mome                ... pos = 0.25  	neg = 0.125
+34. Everyone in the rest                ... pos = 1.875 	neg = 0.125
+35. The scene is a moder                ... pos = 1.0   	neg = 0.125
+36. What makes it even b                ... pos = 0.125 	neg = 0.125
+37. One by one, the peop                ... pos = 0.0   	neg = 0.125
+38. They collectively ag                ... pos = 0.75  	neg = 0.125
+39. Not only is this a g                ... pos = 0.625 	neg = 0.125
+40. During this scene, t                ... pos = 0.0   	neg = 0.125
+41. Her guilty conscienc                ... pos = 1.125 	neg = 1.0  
+42. Twice I thought the                 ... pos = 0.0   	neg = 0.875
+43. During the credit se                ... pos = 0.5   	neg = 0.125
+44. The notion of treati                ... pos = 0.375 	neg = 1.125
+45. Later, Julianne insi                ... pos = 1.625 	neg = 0.0  
+46. Both times I winced                 ... pos = 0.5   	neg = 0.75 
+47. Both times, the movi                ... pos = 1.375 	neg = 0.875
+48. Hogan's only other n                ... pos = 0.875 	neg = 0.375
+49. One wonders if he wi                ... pos = 1.625 	neg = 0.25 
+50. For the meantime, th                ... pos = 0.0   	neg = 0.0  
+51. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2826-1008 is Positive        ... pos = 32.125 	neg = 16.875
+Overall score of document
+Total Pos = 32.125
+Total Neg = 16.875
+---------------------------------------------------------------------------

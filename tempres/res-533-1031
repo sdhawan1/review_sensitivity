@@ -1,0 +1,18 @@
+0. Rating: *** (out of                  ... pos = 1.5   	neg = 1.125
+1. The new comedy "Blas                 ... pos = 1.25  	neg = 0.25 
+2. The story, once set                  ... pos = 1.75  	neg = 0.625
+3. In shying away from                  ... pos = 0.0   	neg = 0.0  
+4. That Brendan Fraser                  ... pos = 2.875 	neg = 0.125
+5. He, too often cast a                 ... pos = 0.375 	neg = 0.625
+6. Christopher Walken a                 ... pos = 0.5   	neg = 0.125
+7. Writer Bill Kelly an                 ... pos = 0.625 	neg = 0.0  
+8. But the cast is the                  ... pos = 0.75  	neg = 0.125
+9. Š 1999 Jamie Peck E                 ... pos = 0.875 	neg = 0.75 
+10. Roommates do not thi                ... pos = 0.0   	neg = 0.0  
+11. " -Roger Ebert on "I                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-533-1031 is Positive         ... pos = 10.5  	neg = 3.75 
+Overall score of document
+Total Pos = 10.5
+Total Neg = 3.75
+---------------------------------------------------------------------------

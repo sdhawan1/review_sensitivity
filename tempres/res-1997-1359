@@ -1,0 +1,38 @@
+0. Well, the previews h                 ... pos = 0.0   	neg = 0.875
+1. We get plenty of cut                 ... pos = 0.25  	neg = 0.25 
+2. Not a new story, tho                 ... pos = 0.375 	neg = 0    
+3. Some have labeled th                 ... pos = 0.5   	neg = 0.0  
+4. There is some "1984"                 ... pos = 0.875 	neg = 0.75 
+5. Since this is a spec                 ... pos = 0.0   	neg = 0.625
+6. We follow high schoo                 ... pos = 0.25  	neg = 0.125
+7. But Rico is only int                 ... pos = 0.0   	neg = 0.125
+8. Most of the action r                 ... pos = 0.0   	neg = 0.0  
+9. And just so you don'                 ... pos = 0.75  	neg = 0.125
+10. Adult mentors Michae                ... pos = 0.125 	neg = 0.125
+11. Carmen is one of tho                ... pos = 0.0   	neg = 0.125
+12. In this future socie                ... pos = 0.25  	neg = 0.0  
+13. Rico's family is ric                ... pos = 0.875 	neg = 0.25 
+14. Not smart enough for                ... pos = 0.125 	neg = 0.0  
+15. Dizzy joins to be ne                ... pos = 0.0   	neg = 0.75 
+16. The military trappin                ... pos = 0.625 	neg = 0.5  
+17. This unified-world a                ... pos = 0.625 	neg = 0.125
+18. There are such news                 ... pos = 0.25  	neg = 0.0  
+19. They have the exhort                ... pos = 0.0   	neg = 0.375
+20. Once the war with th                ... pos = 0.375 	neg = 0.0  
+21. Inexplicably, no goo                ... pos = 1.25  	neg = 0.25 
+22. Our guys just fire t                ... pos = 0.25  	neg = 0.625
+23. Also unexplained is                 ... pos = 0.125 	neg = 0.375
+24. The ability of huge                 ... pos = 0.25  	neg = 0.875
+25. The bugs on the scre                ... pos = 0.625 	neg = 0.25 
+26. In contrast, the fra                ... pos = 0.125 	neg = 0.0  
+27. Computer graphic ima                ... pos = 0.375 	neg = 0.125
+28. Overseeing Starship'                ... pos = 1.125 	neg = 0.625
+29. This movie does not                 ... pos = 0.0   	neg = 0.0  
+30. Lesser efforts like                 ... pos = 0.5   	neg = 0.125
+31. This movie does not                 ... pos = 0.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-1997-1359 is Positive        ... pos = 11.5  	neg = 8.625
+Overall score of document
+Total Pos = 11.5
+Total Neg = 8.625
+---------------------------------------------------------------------------

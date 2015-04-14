@@ -1,0 +1,36 @@
+0. NOTTING HILL Cast: J                 ... pos = 1.375 	neg = 0.125
+1. Surprising, not much                 ... pos = 0.25  	neg = 0    
+2. Richard Curtis, who                  ... pos = 0.25  	neg = 0.125
+3. The highlights (and                  ... pos = 0.875 	neg = 0.0  
+4. Hugh Grant plays Wil                 ... pos = 0.0   	neg = 0.0  
+5. "  He lives with the                 ... pos = 0.625 	neg = 1.125
+6. Thacker lives a quie                 ... pos = 0.375 	neg = 0.0  
+7. Through a lucky coin                 ... pos = 1.375 	neg = 0.125
+8. Of course, Thacker e                 ... pos = 0.125 	neg = 0.25 
+9. Hugh Grant reprises                  ... pos = 1.5   	neg = 0.0  
+10. His gentleman-like m                ... pos = 1.5   	neg = 0.125
+11. ) would be well advi                ... pos = 0.0   	neg = 0.125
+12. Julia Roberts really                ... pos = 0.25  	neg = 0.5  
+13. A cleverer move woul                ... pos = 0.875 	neg = 0.25 
+14. This would enable An                ... pos = 1.5   	neg = 0    
+15. I'm convinced that R                ... pos = 0.375 	neg = 0.0  
+16. But there's still pl                ... pos = 1.875 	neg = 0.0  
+17. William Thacker's gr                ... pos = 1.125 	neg = 0.0  
+18. One of them fails to                ... pos = 0.375 	neg = 0.375
+19. " "Fifteen million."                ... pos = 0.0   	neg = 0    
+20. There's even a scene                ... pos = 0.0   	neg = 0.0  
+21. The driver stops the                ... pos = 0.0   	neg = 0.5  
+22. "  Once again, Richa                ... pos = 0.0   	neg = 0.125
+23. Although Notting Hil                ... pos = 1.75  	neg = 0.375
+24. I suspect that this                 ... pos = 1.125 	neg = 0.75 
+25. I got the sense that                ... pos = 0.25  	neg = 0.125
+26. Either way, Grant's                 ... pos = 1.125 	neg = 0.0  
+27. He must have somethi                ... pos = 1.0   	neg = 0.0  
+28. But besides this rat                ... pos = 1.125 	neg = 0.25 
+29. And, if you can, I s                ... pos = 0.375 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-4594-1111 is Positive        ... pos = 21.375 	neg = 5.875
+Overall score of document
+Total Pos = 21.375
+Total Neg = 5.875
+---------------------------------------------------------------------------

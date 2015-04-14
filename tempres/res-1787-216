@@ -1,0 +1,54 @@
+0. Whether we like it o                 ... pos = 1.0   	neg = 0.0  
+1. Stephen Sommer's new                 ... pos = 1.75  	neg = 0.0  
+2. Thanks to the popula                 ... pos = 1.75  	neg = 0.0  
+3. The fact that he's b                 ... pos = 0.125 	neg = 0.125
+4. Is the wait worth it                 ... pos = 0.0   	neg = 0.125
+5. Early indications lo                 ... pos = 1.875 	neg = 0.125
+6. The thought of seein                 ... pos = 1.125 	neg = 0.625
+7. But alas, this movie                 ... pos = 1.375 	neg = 0.125
+8. "The Mummy" suffers                  ... pos = 1.25  	neg = 1.25 
+9. The story opens with                 ... pos = 0.0   	neg = 0.0  
+10. Nearly two thousand                 ... pos = 0.625 	neg = 0.0  
+11. For this act of trec                ... pos = 1.375 	neg = 0.375
+12. ) to Egypt.                         ... pos = 0.0   	neg = 0    
+13. (Why?                               ... pos = 0     	neg = 0.0  
+14. I have no idea.                     ... pos = 0     	neg = 0.25 
+15. )  But the Egyptians                ... pos = 1.25  	neg = 0.0  
+16. This elite group is                 ... pos = 0.25  	neg = 0.125
+17. Flash forward to 192                ... pos = 0.0   	neg = 1.125
+18. No points for guessi                ... pos = 0.375 	neg = 0.25 
+19. Soon the locusts are                ... pos = 0.625 	neg = 0    
+20. With me so far?                     ... pos = 0.0   	neg = 0.0  
+21. Good... then perhaps                ... pos = 0.75  	neg = 0.25 
+22. Let's start with the                ... pos = 0.0   	neg = 0.0  
+23. Look, if the Egyptia                ... pos = 0.25  	neg = 1.5  
+24. For that matter, if                 ... pos = 0.125 	neg = 1.0  
+25. If the guy is that e                ... pos = 0.0   	neg = 0.875
+26. times and be done wi                ... pos = 0.5   	neg = 0.125
+27. If they hadn't curse                ... pos = 0.0   	neg = 0.5  
+28. It seems like a sill                ... pos = 0.0   	neg = 0.25 
+29. Or if they simply *m                ... pos = 0.375 	neg = 1.25 
+30. Ever think about sto                ... pos = 0.0   	neg = 0.625
+31. I have no problem wi                ... pos = 0.5   	neg = 1.0  
+32. As it stands, I spen                ... pos = 0.125 	neg = 0.75 
+33. Spotting the various                ... pos = 0.125 	neg = 0.25 
+34. It's not all bad, th                ... pos = 0.0   	neg = 0.875
+35. Much has been writte                ... pos = 1.875 	neg = 0.125
+36. Gone is the moaning,                ... pos = 1.125 	neg = 1.625
+37. The Mummy actually s                ... pos = 0.125 	neg = 0.0  
+38. (Now that's a senten                ... pos = 0.0   	neg = 0.0  
+39. )  Too bad he appear                ... pos = 0.25  	neg = 1.5  
+40. Brendan Fraser also                 ... pos = 0.125 	neg = 0    
+41. Although the script                 ... pos = 2.0   	neg = 0.903
+42. "  This is a man who                ... pos = 1.125 	neg = 0.125
+43. The second half of "                ... pos = 0.375 	neg = 0.375
+44. The tedious opening                 ... pos = 0.125 	neg = 0.875
+45. People don't go to a                ... pos = 1.0   	neg = 0.875
+46. The movie's second h                ... pos = 0.125 	neg = 0.25 
+47. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1787-216 is Positive         ... pos = 26.125 	neg = 20.403
+Overall score of document
+Total Pos = 26.125
+Total Neg = 20.403
+---------------------------------------------------------------------------

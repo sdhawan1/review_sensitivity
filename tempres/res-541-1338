@@ -1,0 +1,22 @@
+0. I always react more                  ... pos = 0.0   	neg = 0.0  
+1. A movie like Dark Ci                 ... pos = 0.125 	neg = 0.0  
+2. People call this a c                 ... pos = 0.5   	neg = 0.125
+3. This film is detaile                 ... pos = 0.625 	neg = 0.25 
+4. A man wakes up finds                 ... pos = 0.125 	neg = 0.0  
+5. He encounters the St                 ... pos = 0.125 	neg = 0.0  
+6. The Strangers will a                 ... pos = 1.125 	neg = 0.125
+7. The are tall, loomin                 ... pos = 0.375 	neg = 0.0  
+8. It seems that movie                  ... pos = 1.25  	neg = 1.25 
+9. I have neglected muc                 ... pos = 0.125 	neg = 1.25 
+10. We get good work fro                ... pos = 0.75  	neg = 0.0  
+11. The plot is also gen                ... pos = 0.375 	neg = 0.125
+12. The end scenes ae ma                ... pos = 0.625 	neg = 0.0  
+13. When we finally see                 ... pos = 0.0   	neg = 0.0  
+14. It may sound like I'                ... pos = 0.0   	neg = 0.125
+15. Great work from the                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-541-1338 is Positive         ... pos = 6.125 	neg = 3.25 
+Overall score of document
+Total Pos = 6.125
+Total Neg = 3.25
+---------------------------------------------------------------------------

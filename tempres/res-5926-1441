@@ -1,0 +1,34 @@
+0. OK, I'm finally gett                 ... pos = 0.0   	neg = 0.0  
+1. From a business poin                 ... pos = 0.0   	neg = 0.5  
+2. I suppose that simpl                 ... pos = 0.25  	neg = 0.0  
+3. The film is truly ep                 ... pos = 0.625 	neg = 0.125
+4. Most TV shows that g                 ... pos = 0.125 	neg = 0.25 
+5. Witness the Beavis a                 ... pos = 0.125 	neg = 0.0  
+6. "South Park" succeed                 ... pos = 1.375 	neg = 0.5  
+7. It's funny throughou                 ... pos = 0.0   	neg = 0.25 
+8. Granted, this is mos                 ... pos = 0.375 	neg = 1.625
+9. Yes, we've known all                 ... pos = 0.375 	neg = 0.25 
+10. It's what we've been                ... pos = 0     	neg = 0.125
+11. "South Park" even ha                ... pos = 0.125 	neg = 0.125
+12. This is not a simple                ... pos = 0.0   	neg = 0.125
+13. A stand is taken, an                ... pos = 0.0   	neg = 0.125
+14. One nice thing about                ... pos = 0.875 	neg = 0.25 
+15. Yes, Damien Son of S                ... pos = 0.125 	neg = 0.875
+16. It's like any other                 ... pos = 0.0   	neg = 0.25 
+17. I winced a few times                ... pos = 0.5   	neg = 0.0  
+18. When a TV series mak                ... pos = 0.0   	neg = 0.875
+19. SP doesn't.                         ... pos = 0     	neg = 0    
+20. Not that there aren'                ... pos = 0.0   	neg = 0.0  
+21. Kenny dies in the ho                ... pos = 0.25  	neg = 0.0  
+22. And the whole Brian                 ... pos = 0.25  	neg = 0.375
+23. For that matter, one                ... pos = 1.125 	neg = 0.375
+24. Broadway shows are p                ... pos = 0.5   	neg = 0.75 
+25. This shouldn't be su                ... pos = 0.0   	neg = 0.125
+26. So, how would Brian                 ... pos = 0     	neg = 0.0  
+27. [1] http://www.wedgi                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5926-1441 is Negative        ... pos = 7.0   	neg = 7.875
+Overall score of document
+Total Pos = 7.0
+Total Neg = 7.875
+---------------------------------------------------------------------------

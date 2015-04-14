@@ -1,0 +1,47 @@
+0. "First rule of Fight                 ... pos = 0.0   	neg = 0.125
+1. " This quote deals d                 ... pos = 0.0   	neg = 0.0  
+2. Director David Finch                 ... pos = 0.0   	neg = 0.0  
+3. With crude humor, an                 ... pos = 0.625 	neg = 0.625
+4. This just goes to sh                 ... pos = 0     	neg = 0.0  
+5. It's very rare that                  ... pos = 0.75  	neg = 0.5  
+6. The story goes like                  ... pos = 0.0   	neg = 0.0  
+7. Edward Norton is an                  ... pos = 0.0   	neg = 0.875
+8. Norton claims that s                 ... pos = 0.125 	neg = 0.375
+9. Apparently the disea                 ... pos = 0.0   	neg = 0.5  
+10. Why any person would                ... pos = 0.0   	neg = 0.75 
+11. Norton is soon assig                ... pos = 0.0   	neg = 0.125
+12. The two men develop                 ... pos = 1.125 	neg = 0.667
+13. How do they come up                 ... pos = 0     	neg = 0.25 
+14. Anyway, their fighti                ... pos = 0.0   	neg = 1.0  
+15. Out of all this mess                ... pos = 0.0   	neg = 0.0  
+16. Fincher shows us tha                ... pos = 0.0   	neg = 0.125
+17. We work in our jobs                 ... pos = 0.0   	neg = 0.125
+18. Our insanity gets to                ... pos = 0.5   	neg = 1.125
+19. Call me crazy, but t                ... pos = 0.0   	neg = 0.5  
+20. I think Fincher was                 ... pos = 0.5   	neg = 1.25 
+21. Even with two good a                ... pos = 0.75  	neg = 0.0  
+22. I couldn't help but                 ... pos = 0.0   	neg = 0.75 
+23. It just shows how de                ... pos = 0.0   	neg = 0.375
+24. I guess Brad Pitt wa                ... pos = 0.0   	neg = 0.125
+25. His bothersome and d                ... pos = 0.875 	neg = 0.625
+26. It only showed me th                ... pos = 0.0   	neg = 0.375
+27. Helena Bonham Carter                ... pos = 0.125 	neg = 0.25 
+28. She just popped up o                ... pos = 0.0   	neg = 0.25 
+29. This continues for w                ... pos = 0.125 	neg = 0.125
+30. The film drags on an                ... pos = 0.0   	neg = 0.875
+31. Unfortunately by the                ... pos = 0.0   	neg = 0.875
+32. Though the conclusio                ... pos = 0.0   	neg = 0.0  
+33. On a side note, the                 ... pos = 0.0   	neg = 0.0  
+34. Fincher will hopeful                ... pos = 0.625 	neg = 0.0  
+35. Concentrating on the                ... pos = 0.75  	neg = 0.25 
+36. Also, I'm afraid tha                ... pos = 0.0   	neg = 0.5  
+37. The last thing the w                ... pos = 0.0   	neg = 0.625
+38. When the film ends,                 ... pos = 0.0   	neg = 0.25 
+39. You'll either enjoy                 ... pos = 0.375 	neg = 0.25 
+40. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3869-789 is Negative         ... pos = 7.25  	neg = 15.417
+Overall score of document
+Total Pos = 7.25
+Total Neg = 15.417
+---------------------------------------------------------------------------

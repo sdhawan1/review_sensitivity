@@ -1,0 +1,42 @@
+0. by Curtis Edmonds --                 ... pos = 1.125 	neg = 0.25 
+1. The competition so f                 ... pos = 0.25  	neg = 0.875
+2. In a movie season th                 ... pos = 1.625 	neg = 0.5  
+3. At first glance, As                  ... pos = 1.125 	neg = 0.5  
+4. (Kinnear's character                 ... pos = 2.125 	neg = 0.625
+5. Good.                                ... pos = 0.75  	neg = 0    
+6. ). Early on, Melvin                  ... pos = 0.0   	neg = 0.875
+7. Wackiness ensues whe                 ... pos = 0.0   	neg = 0.0  
+8. Melvin delivers an e                 ... pos = 0.375 	neg = 0.375
+9. Wacky, right?                        ... pos = 0.0   	neg = 0.375
+10. But then...  we see                 ... pos = 0.0   	neg = 0.0  
+11. Then unlock it, then                ... pos = 0.0   	neg = 0.0  
+12. One-two-three-four-f                ... pos = 0     	neg = 0    
+13. And then Melvin retr                ... pos = 0.375 	neg = 0.125
+14. As Good As It Gets i                ... pos = 1.875 	neg = 1.0  
+15. On the surface, Melv                ... pos = 0.75  	neg = 2.25 
+16. To its credit, As Go                ... pos = 1.125 	neg = 0.125
+17. Although we understa                ... pos = 0.625 	neg = 1.5  
+18. Melvin's OCD is play                ... pos = 0.0   	neg = 0.125
+19. (The set designers r                ... pos = 0.125 	neg = 0.5  
+20. )  Where a lesser mo                ... pos = 1.875 	neg = 0.5  
+21. The part of Melvin w                ... pos = 2.125 	neg = 0.25 
+22. He hasn't had a part                ... pos = 0.0   	neg = 0.0  
+23. Helen Hunt, as the w                ... pos = 1.875 	neg = 0.5  
+24. The script takes Hun                ... pos = 2.375 	neg = 0.0  
+25. I hadn't seen Greg K                ... pos = 1.375 	neg = 0.125
+26. Although he's not in                ... pos = 0.5   	neg = 2.042
+27. Cuba Gooding Jr. tur                ... pos = 0.5   	neg = 1.0  
+28. All honor and credit                ... pos = 1.125 	neg = 0.0  
+29. Brooks is a voice cr                ... pos = 0.25  	neg = 0.25 
+30. He has consistently                 ... pos = 0.5   	neg = 0.25 
+31. I encourage you to s                ... pos = 1.75  	neg = 1.0  
+32. The Hollywood Stock                 ... pos = 0.0   	neg = 0.125
+33. No jury in the world                ... pos = 0.0   	neg = 0.25 
+34. Well, maybe Texas.                  ... pos = 0.0   	neg = 0.0  
+35. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2115-1045 is Positive        ... pos = 26.5  	neg = 16.292
+Overall score of document
+Total Pos = 26.5
+Total Neg = 16.292
+---------------------------------------------------------------------------

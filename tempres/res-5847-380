@@ -1,0 +1,33 @@
+0. Starring: Jim Carrey                 ... pos = 0.0   	neg = 0.125
+1. But after diasappoin                 ... pos = 0.75  	neg = 0.5  
+2. But I doubt you coul                 ... pos = 0.0   	neg = 0.25 
+3. The Truman show is o                 ... pos = 1.125 	neg = 0.125
+4. There is no way to i                 ... pos = 0.0   	neg = 0.125
+5. " The blend of Peter                 ... pos = 2.0   	neg = 0.125
+6. There is something s                 ... pos = 1.0   	neg = 0.125
+7. It may be the use of                 ... pos = 0.875 	neg = 0.5  
+8. Carrey has made a ve                 ... pos = 0.5   	neg = 0.0  
+9. By playing mild-mann                 ... pos = 2.125 	neg = 0.125
+10. That is a side which                ... pos = 0.875 	neg = 0.25 
+11. Truman Burbank was b                ... pos = 0.0   	neg = 0.125
+12. He was chosen before                ... pos = 0.0   	neg = 0.25 
+13. Everything in his en                ... pos = 0.125 	neg = 0.125
+14. Everyone in Truman's                ... pos = 0.25  	neg = 0.125
+15. They are all being w                ... pos = 1.0   	neg = 0.125
+16. But he is the only p                ... pos = 0.5   	neg = 0.25 
+17. The classification o                ... pos = 0.0   	neg = 0.875
+18. The audience reacted                ... pos = 0.0   	neg = 0.0  
+19. I did not laugh much                ... pos = 1.125 	neg = 0.125
+20. The things that made                ... pos = 0.75  	neg = 1.125
+21. So is this going to                 ... pos = 0.0   	neg = 0.125
+22. A drama?                            ... pos = 0.0   	neg = 0    
+23. It really depends on                ... pos = 0.0   	neg = 0.0  
+24. But to me, The Truma                ... pos = 0.25  	neg = 0.875
+25. But above all else,                 ... pos = 1.25  	neg = 0.875
+26. Oscar predictions in                ... pos = 0.375 	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-5847-380 is Positive         ... pos = 14.875 	neg = 8.0  
+Overall score of document
+Total Pos = 14.875
+Total Neg = 8.0
+---------------------------------------------------------------------------

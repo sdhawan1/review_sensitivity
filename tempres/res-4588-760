@@ -1,0 +1,47 @@
+0. Director:   Ron How                 ... pos = 0.375 	neg = 0.125
+1. US Distribution: Uni                 ... pos = 0.125 	neg = 2.0  
+2. It's not a bad film                  ... pos = 1.25  	neg = 0.875
+3. But EDtv wants to be                 ... pos = 0.375 	neg = 0.125
+4. And with The Truman                  ... pos = 0.5   	neg = 1.375
+5. Perhaps I would have                 ... pos = 0.25  	neg = 0.125
+6. Ron Howard has made                  ... pos = 0.875 	neg = 0.25 
+7. The film begins with                 ... pos = 0.375 	neg = 0.0  
+8. "  He brings in the                  ... pos = 0.125 	neg = 0.0  
+9. Uncut.                               ... pos = 0.0   	neg = 0    
+10. Unscripted.                         ... pos = 0     	neg = 0    
+11. Commercial-free.                    ... pos = 0     	neg = 0    
+12. And they think every                ... pos = 0.25  	neg = 0.0  
+13. The lucky man is Ed                 ... pos = 1.375 	neg = 0.125
+14. Ed is a video store                 ... pos = 0.0   	neg = 0.25 
+15. His family is more c                ... pos = 0.375 	neg = 1.0  
+16. Her husband, Al (Mar                ... pos = 0.125 	neg = 0.25 
+17. Ed's brother is Ray                 ... pos = 0.0   	neg = 0.25 
+18. Ray is dating Shari                 ... pos = 0.875 	neg = 0.125
+19. One of the several c                ... pos = 0.75  	neg = 0.75 
+20. There's going to be                 ... pos = 0.0   	neg = 0.375
+21. And, naturally, the                 ... pos = 0.5   	neg = 1.375
+22. If EDtv had defied m                ... pos = 0.0   	neg = 0.25 
+23. But the overall stor                ... pos = 0.25  	neg = 0.875
+24. Here's a note to all                ... pos = 0.25  	neg = 0.0  
+25. We know that they're                ... pos = 0.0   	neg = 0.125
+26. We know that Fame is                ... pos = 0.25  	neg = 0.125
+27. If you're going to m                ... pos = 0.125 	neg = 0.75 
+28. Howard seems way too                ... pos = 0.0   	neg = 1.0  
+29. The human story is t                ... pos = 1.5   	neg = 1.375
+30. But the film is not                 ... pos = 0.125 	neg = 0.125
+31. Ellen DeGeneres is a                ... pos = 0.75  	neg = 0.125
+32. Jenna Elfman is utte                ... pos = 0.625 	neg = 0.25 
+33. Landau is also wonde                ... pos = 1.5   	neg = 0.25 
+34. And McConaughey, whi                ... pos = 1.0   	neg = 0.25 
+35. But EDtv ultimately                 ... pos = 0.0   	neg = 0.0  
+36. One of the film's th                ... pos = 0.75  	neg = 0.125
+37. But the story in EDt                ... pos = 0.125 	neg = 0.375
+38. And the satire doesn                ... pos = 0.125 	neg = 0.125
+39. In the end, EDtv is                 ... pos = 0.25  	neg = 1.028
+40. You might find it en                ... pos = 0.75  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-4588-760 is Negative         ... pos = 16.875 	neg = 17.028
+Overall score of document
+Total Pos = 16.875
+Total Neg = 17.028
+---------------------------------------------------------------------------

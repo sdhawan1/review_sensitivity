@@ -1,0 +1,30 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by John Loga                 ... pos = 0.0   	neg = 0.0  
+2. Photographed by Salv                 ... pos = 0.0   	neg = 0.0  
+3. "Any Given Sunday" i                 ... pos = 0.875 	neg = 0.125
+4. The film gives us it                 ... pos = 1.5   	neg = 0.0  
+5. For true sportsmen,                  ... pos = 0.5   	neg = 0.0  
+6. At the heart of the                  ... pos = 0.625 	neg = 0.0  
+7. If sometimes they se                 ... pos = 0.375 	neg = 1.625
+8. Some reviews have ac                 ... pos = 0.5   	neg = 0.25 
+9. This time he follows                 ... pos = 0.0   	neg = 0.125
+10. Tony has lost a few                 ... pos = 0.75  	neg = 0.875
+11. The new owner  of th                ... pos = 1.125 	neg = 0.25 
+12. A young hotshot quar                ... pos = 0.0   	neg = 0.5  
+13. Tony is cautious, th                ... pos = 0.375 	neg = 0.75 
+14. Egos are a big influ                ... pos = 0.875 	neg = 0.25 
+15. Disagreements  over                 ... pos = 0.125 	neg = 0.0  
+16. And it's an atmosphe                ... pos = 0.25  	neg = 1.375
+17. ". We're so used to                 ... pos = 0.125 	neg = 0.125
+18. It's impressive, tho                ... pos = 0.25  	neg = 0.0  
+19. My only complaint is                ... pos = 0.0   	neg = 0.25 
+20. Stone's best films -                ... pos = 1.125 	neg = 0.625
+21. "Any Given Sunday" i                ... pos = 0.0   	neg = 0.125
+22. While it does all th                ... pos = 0.5   	neg = 0.25 
+23. COPYRIGHT(c) 2000 Ia                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2429-1540 is Positive        ... pos = 10.125 	neg = 7.5  
+Overall score of document
+Total Pos = 10.125
+Total Neg = 7.5
+---------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+0. Cookie's Fortune is                  ... pos = 1.0   	neg = 0.125
+1. However, it's not a                  ... pos = 0.125 	neg = 0.0  
+2. We know how the even                 ... pos = 0.0   	neg = 0.0  
+3. What Cookie's Fortun                 ... pos = 0.125 	neg = 0.25 
+4. The title character,                 ... pos = 1.75  	neg = 0.125
+5. Just as Easter weeke                 ... pos = 0.0   	neg = 0.0  
+6. Her two nieces, Cami                 ... pos = 0.0   	neg = 0.25 
+7. Camille is disgusted                 ... pos = 0.0   	neg = 0.875
+8. Cora, desperately sh                 ... pos = 0.375 	neg = 0.125
+9. The small local poli                 ... pos = 1.25  	neg = 0.125
+10. After Camille and Co                ... pos = 0.0   	neg = 0.125
+11. A match is found in                 ... pos = 1.375 	neg = 0.25 
+12. In reality, Willis w                ... pos = 0.125 	neg = 0.25 
+13. Altman's detailed ch                ... pos = 1.875 	neg = 0    
+14. The interactions bet                ... pos = 1.0   	neg = 0.0  
+15. Everyone in the film                ... pos = 1.0   	neg = 0.0  
+16. Jason and Cora are d                ... pos = 1.125 	neg = 0.125
+17. The one character wh                ... pos = 0.875 	neg = 0.125
+18. Close, with wonderfu                ... pos = 1.25  	neg = 0    
+19. Another actor who de                ... pos = 0.5   	neg = 0.25 
+20. A veteran actor of c                ... pos = 0.75  	neg = 0.125
+21. The natural charm th                ... pos = 0.75  	neg = 0.125
+22. Veteran Academy-awar                ... pos = 2.625 	neg = 0.25 
+23. Cookie's Fortune lac                ... pos = 1.0   	neg = 0.25 
+24. For example: the rom                ... pos = 0.625 	neg = 0.125
+25. And the way Tyler sl                ... pos = 0.125 	neg = 0.0  
+26. `Do you want cream w                ... pos = 0     	neg = 0.125
+27. ' she asks.                         ... pos = 0.125 	neg = 0    
+28. `Yeah,' he replies,                 ... pos = 0.0   	neg = 0.0  
+29. '. Cookie's Fortune                 ... pos = 0.625 	neg = 0.125
+30. The ensemble cast is                ... pos = 0.875 	neg = 0.125
+31. The bottom line: thi                ... pos = 1.375 	neg = 0.125
+32. Feedback Appreciated                ... pos = 0     	neg = 0.0  
+33. movieviews@hotmail.c                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2673-693 is Positive         ... pos = 22.625 	neg = 4.375
+Overall score of document
+Total Pos = 22.625
+Total Neg = 4.375
+---------------------------------------------------------------------------

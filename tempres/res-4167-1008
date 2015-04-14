@@ -1,0 +1,33 @@
+0. **1/2 (out of 4) Geo                 ... pos = 0.625 	neg = 0.125
+1. Val Kilmer was flat                  ... pos = 0.125 	neg = 0.875
+2. Clooney brought the                  ... pos = 0.625 	neg = 0.0  
+3. Not being a fan of E                 ... pos = 1.125 	neg = 0.0  
+4. Now that I've seen h                 ... pos = 1.625 	neg = 0.75 
+5. He's the next Arnold                 ... pos = 0.0   	neg = 0.0  
+6. THE PEACEMAKER is a                  ... pos = 0.875 	neg = 0.125
+7. All the baroque trim                 ... pos = 0.25  	neg = 0.125
+8. There is no love int                 ... pos = 1.0   	neg = 0.625
+9. This was no doubt Le                 ... pos = 0.875 	neg = 0.25 
+10. The effect was that                 ... pos = 0.0   	neg = 0.125
+11. It felt like a quick                ... pos = 0.875 	neg = 0.0  
+12. It didn't shun enoug                ... pos = 0.125 	neg = 0.0  
+13. After an opening seq                ... pos = 0.0   	neg = 0.125
+14. Assigned to assist h                ... pos = 0.875 	neg = 0.125
+15. They track the nukes                ... pos = 0.0   	neg = 1.5  
+16. The ensuing chase sc                ... pos = 0.5   	neg = 0.5  
+17. But the endless dest                ... pos = 0.125 	neg = 0.5  
+18. Kelly and Devoe even                ... pos = 0.0   	neg = 0.0  
+19. They track this last                ... pos = 0.5   	neg = 0.25 
+20. The movie crosses th                ... pos = 0.875 	neg = 0.125
+21. The movie's climax i                ... pos = 0.625 	neg = 0.0  
+22. Can Kelly and Devoe                 ... pos = 0.0   	neg = 0.0  
+23. Well - yes and no.                  ... pos = 0.0   	neg = 0.25 
+24. But even that enigma                ... pos = 0.125 	neg = 0.0  
+25. It would be interest                ... pos = 2.625 	neg = 0.625
+26. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4167-1008 is Positive        ... pos = 14.375 	neg = 7.0  
+Overall score of document
+Total Pos = 14.375
+Total Neg = 7.0
+---------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+0. Luckily, some people                 ... pos = 0.5   	neg = 0.0  
+1. Some people knew it                  ... pos = 0.0   	neg = 0.375
+2. For those of you who                 ... pos = 0.0   	neg = 0    
+3. From the very beginn                 ... pos = 0.5   	neg = 0.375
+4. I guess without blat                 ... pos = 0.25  	neg = 0.0  
+5. Such a dry approach                  ... pos = 0.75  	neg = 0.5  
+6. First thing to do be                 ... pos = 0.125 	neg = 0.0  
+7. Meet the equivalent                  ... pos = 0.0   	neg = 0.0  
+8. Four close friends a                 ... pos = 0.625 	neg = 0.0  
+9. Johnny Rico (Casper                  ... pos = 0.0   	neg = 0.25 
+10. Dizzy Flores (Dina M                ... pos = 0.5   	neg = 0.0  
+11. If you saw these thr                ... pos = 0.5   	neg = 0.0  
+12. The lone non-supermo                ... pos = 0.75  	neg = 0.25 
+13. (Good call - now we                 ... pos = 2.375 	neg = 0.5  
+14. Right off the bat, R                ... pos = 0.125 	neg = 0.625
+15. But a horrific accid                ... pos = 0.0   	neg = 0.0  
+16. With his bags packed                ... pos = 0.0   	neg = 0.75 
+17. Well sorry, Rico Sua                ... pos = 0.625 	neg = 0.625
+18. That's right, the pl                ... pos = 0.5   	neg = 0.25 
+19. With a sudden change                ... pos = 0.25  	neg = 1.625
+20. What STARSHIP TROOPE                ... pos = 2.125 	neg = 0.25 
+21. Nothing is taken ser                ... pos = 0.0   	neg = 0.375
+22. It's almost as much                 ... pos = 0.75  	neg = 0.5  
+23. It's a spoof so subt                ... pos = 0.5   	neg = 0.0  
+24. If you deem this as                 ... pos = 0.25  	neg = 0.75 
+25. It's sci-fi/action/c                ... pos = 0.25  	neg = 0.75 
+26. STARSHIP TROOPERS ju                ... pos = 0.0   	neg = 0.125
+27. Gore is a factor hea                ... pos = 0.0   	neg = 1.5  
+28. Yes, it's graphic, b                ... pos = 0.5   	neg = 0.0  
+29. Not since the old "M                ... pos = 0.5   	neg = 0.25 
+30. People were laughing                ... pos = 0.25  	neg = 0.25 
+31. Perhaps it brings ba                ... pos = 0.625 	neg = 0.0  
+32. With the actors rese                ... pos = 0.5   	neg = 0.125
+33. STARSHIP TROOPERS ha                ... pos = 0.75  	neg = 0.0  
+34. Aside from the inten                ... pos = 0.625 	neg = 1.125
+35. When the spaceship p                ... pos = 1.75  	neg = 0.0  
+36. If you're looking fo                ... pos = 0.125 	neg = 0.75 
+37. A beautiful cast, aw                ... pos = 1.625 	neg = 0.75 
+38. This is brainless he                ... pos = 0.125 	neg = 0.375
+39. Just remember not to                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-195 is Positive         ... pos = 19.625 	neg = 14.0 
+Overall score of document
+Total Pos = 19.625
+Total Neg = 14.0
+---------------------------------------------------------------------------

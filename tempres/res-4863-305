@@ -1,0 +1,41 @@
+0. Christian Critic's M                 ... pos = 0.375 	neg = 0.375
+1. Can I give it back?                  ... pos = 0.0   	neg = 0.0  
+2. "  It's a legitimate                 ... pos = 0.375 	neg = 0.125
+3. The fact that she's                  ... pos = 0.0   	neg = 0.125
+4. They've come because                 ... pos = 0.25  	neg = 1.125
+5. "Why her?                            ... pos = 0     	neg = 0    
+6. " is the question th                 ... pos = 0.0   	neg = 0.25 
+7. What does it mean?                   ... pos = 0.0   	neg = 0.0  
+8. STIGMATA, a new rele                 ... pos = 0.875 	neg = 0.625
+9. Unlike its two recen                 ... pos = 0.5   	neg = 0.375
+10. As such, it has the                 ... pos = 0.625 	neg = 0.0  
+11. After receiving a ro                ... pos = 0.875 	neg = 0.0  
+12. Such wounds are know                ... pos = 0.5   	neg = 0.0  
+13. "  Hearing of these                 ... pos = 0.125 	neg = 0.5  
+14. As Father Kiernan be                ... pos = 0.625 	neg = 0.0  
+15. Cardinal Houseman (J                ... pos = 0.375 	neg = 0.0  
+16. The acting is first                 ... pos = 0.125 	neg = 0.125
+17. Patricia Arquette is                ... pos = 0.5   	neg = 0.25 
+18. She maintains her be                ... pos = 0.0   	neg = 0.375
+19. Gabriel Byrne is app                ... pos = 0.25  	neg = 0.25 
+20. Jonathan Pryce is do                ... pos = 0.625 	neg = 0.875
+21. While the movie is b                ... pos = 0.625 	neg = 0.25 
+22. The concluding scene                ... pos = 1.125 	neg = 0.75 
+23. From a spiritual per                ... pos = 0.125 	neg = 0.125
+24. It is impossible to                 ... pos = 0.125 	neg = 0.125
+25. The "gift of God" co                ... pos = 0.0   	neg = 0.25 
+26. To believe that God                 ... pos = 0.125 	neg = 0.125
+27. It would contradict                 ... pos = 0.0   	neg = 0.0  
+28. Jesus Christ endured                ... pos = 0.0   	neg = 0.75 
+29. The scriptures state                ... pos = 0.25  	neg = 0.5  
+30. )  He did so for a s                ... pos = 0.0   	neg = 0.0  
+31. To think that there                 ... pos = 0.625 	neg = 0.625
+32. Because of his accom                ... pos = 0.875 	neg = 0.375
+33. That is the true gif                ... pos = 1.5   	neg = 0.125
+34. Anything else, espec                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4863-305 is Positive         ... pos = 12.5  	neg = 9.5  
+Overall score of document
+Total Pos = 12.5
+Total Neg = 9.5
+---------------------------------------------------------------------------

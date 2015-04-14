@@ -1,0 +1,42 @@
+0. Written and Directed                 ... pos = 0.25  	neg = 0.0  
+1. You may even have th                 ... pos = 0.0   	neg = 0.75 
+2. That's  how real Cam                 ... pos = 0.0   	neg = 0.0  
+3. Improbable, but true                 ... pos = 0.5   	neg = 0.0  
+4. Crowe was a teenage                  ... pos = 1.375 	neg = 0.25 
+5. William Miller (Patr                 ... pos = 0.0   	neg = 0.125
+6. An English professor                 ... pos = 0.875 	neg = 0.0  
+7. "Drugs!                              ... pos = 0     	neg = 0    
+8. ")  But  when his si                 ... pos = 0.0   	neg = 0.0  
+9. Leafing through the                  ... pos = 0.125 	neg = 0.0  
+10. He's  sucked through                ... pos = 0.0   	neg = 0.0  
+11. His break comes when                ... pos = 0.25  	neg = 0.25 
+12. These people are not                ... pos = 0.375 	neg = 0    
+13. Friendship is the bo                ... pos = 0.125 	neg = 0.125
+14. There he meets the l                ... pos = 0.25  	neg = 0.0  
+15. We inspire  the musi                ... pos = 0.0   	neg = 0.0  
+16. ")  He also meets St                ... pos = 0.625 	neg = 0.0  
+17. The story line of "A                ... pos = 0.875 	neg = 0.375
+18. It's a coming-of-age                ... pos = 0.0   	neg = 0.25 
+19. "The war's over and                 ... pos = 0.0   	neg = 0.0  
+20. ")   But Crowe's une                ... pos = 0.0   	neg = 0.0  
+21. There is a scene on                 ... pos = 0.125 	neg = 0.125
+22. Elton John's "Tiny D                ... pos = 0.875 	neg = 0.125
+23. It's a paean to the                 ... pos = 0.0   	neg = 0    
+24. There are a few mino                ... pos = 0.25  	neg = 0.0  
+25. A confessional scene                ... pos = 0.125 	neg = 0.5  
+26. A few lines smack of                ... pos = 0.625 	neg = 0.125
+27. But most of it is pe                ... pos = 0.0   	neg = 0.125
+28. One of the best mome                ... pos = 1.375 	neg = 0.625
+29. Fugit's debut balanc                ... pos = 0.125 	neg = 0.0  
+30. Hudson is luminous a                ... pos = 0.375 	neg = 0.125
+31. In a performance tha                ... pos = 0.375 	neg = 0.25 
+32. All the cast is outs                ... pos = 1.125 	neg = 0.125
+33. Best of all are  the                ... pos = 1.375 	neg = 0.0  
+34. "Almost Famous" is a                ... pos = 0.75  	neg = 0.125
+35. Cameron Crowe combin                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1444-462 is Positive         ... pos = 13.125 	neg = 4.375
+Overall score of document
+Total Pos = 13.125
+Total Neg = 4.375
+---------------------------------------------------------------------------

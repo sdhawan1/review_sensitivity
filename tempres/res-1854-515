@@ -1,0 +1,34 @@
+0. Cast: Nicolas Cage,                  ... pos = 0.875 	neg = 0.25 
+1. Nicolas Cage plays M                 ... pos = 0.0   	neg = 0.75 
+2. Memphis is ordered t                 ... pos = 0.875 	neg = 0.5  
+3. Memphis sets out to                  ... pos = 0.375 	neg = 0.0  
+4. Gone in Sixty Second                 ... pos = 0.0   	neg = 0.0  
+5. In that sequence, we                 ... pos = 0.375 	neg = 0.25 
+6. Filmmakers can somet                 ... pos = 0.375 	neg = 0.0  
+7. And what follows doe                 ... pos = 1.75  	neg = 0.875
+8. I don't know how he                  ... pos = 0.25  	neg = 0.0  
+9. Of the supporting ca                 ... pos = 1.5   	neg = 0.375
+10. Also, I'm a big fan                 ... pos = 0.75  	neg = 0.125
+11. None of these three                 ... pos = 0.375 	neg = 0.875
+12. Some underrated perf                ... pos = 0.75  	neg = 0.0  
+13. Delroy Lindo (Get Sh                ... pos = 0.25  	neg = 0.0  
+14. I just wish some of                 ... pos = 1.75  	neg = 0.5  
+15. The only real gripe                 ... pos = 0.0   	neg = 0.125
+16. There's no doubt in                 ... pos = 0.875 	neg = 0.625
+17. As it stands, that s                ... pos = 0.0   	neg = 0.375
+18. But if I was making                 ... pos = 0.0   	neg = 0.875
+19. The finale is essent                ... pos = 0.5   	neg = 0.125
+20. It's all been done.                 ... pos = 0.0   	neg = 0.125
+21. The chase is also sh                ... pos = 0.375 	neg = 0.25 
+22. Sure it's a car chas                ... pos = 0.625 	neg = 0.0  
+23. It's very hard to te                ... pos = 0.5   	neg = 0.75 
+24. Finally, there's a s                ... pos = 0.0   	neg = 0.625
+25. Despite those minor                 ... pos = 0.375 	neg = 0.125
+26. It's not thought pro                ... pos = 0.375 	neg = 0.25 
+27. [PG-13]. Reviewed by                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1854-515 is Positive         ... pos = 13.875 	neg = 8.75 
+Overall score of document
+Total Pos = 13.875
+Total Neg = 8.75
+---------------------------------------------------------------------------

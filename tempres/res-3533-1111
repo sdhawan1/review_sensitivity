@@ -1,0 +1,25 @@
+0. Cast: Nicolas Cage,                  ... pos = 1.375 	neg = 0.75 
+1. In fact, the only th                 ... pos = 0.5   	neg = 0.375
+2. Make no mistake - th                 ... pos = 0.625 	neg = 1.25 
+3. And most of the rest                 ... pos = 0.0   	neg = 0.25 
+4. Nicholas Cage, one t                 ... pos = 1.875 	neg = 0.5  
+5. It came as a massive                 ... pos = 0.125 	neg = 1.625
+6. Cage is Rick Santoro                 ... pos = 1.125 	neg = 0.375
+7. At a heavyweight cha                 ... pos = 0.625 	neg = 1.125
+8. Shots are fired from                 ... pos = 0.125 	neg = 1.375
+9. Another mysterious w                 ... pos = 0.5   	neg = 0.25 
+10. De Palma begins the                 ... pos = 0.0   	neg = 0.0  
+11. Cinematographer Step                ... pos = 0.5   	neg = 0.0  
+12. And what a disappoin                ... pos = 0.75  	neg = 0.5  
+13. It's all pretty frus                ... pos = 1.0   	neg = 0.875
+14. Perhaps the most dau                ... pos = 1.25  	neg = 0.25 
+15. Another commits suic                ... pos = 0.875 	neg = 0.25 
+16. If people are going                 ... pos = 2.0   	neg = 0.25 
+17. To keep that up for                 ... pos = 0.0   	neg = 0.125
+18. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3533-1111 is Positive        ... pos = 13.5  	neg = 10.125
+Overall score of document
+Total Pos = 13.5
+Total Neg = 10.125
+---------------------------------------------------------------------------

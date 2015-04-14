@@ -1,0 +1,46 @@
+0. The 1990s produced t                 ... pos = 0.875 	neg = 0    
+1. One was _Gattaca_.                   ... pos = 0.0   	neg = 0.125
+2. The other was _The T                 ... pos = 0.0   	neg = 0.125
+3. Just as _Gattaca_ wa                 ... pos = 0.625 	neg = 0.25 
+4. However, _The Thirte                 ... pos = 0.625 	neg = 0.625
+5. A cutting edge compu                 ... pos = 0.625 	neg = 0.75 
+6. His associate, Dougl                 ... pos = 0.375 	neg = 0.125
+7. Along the way a beau                 ... pos = 0.875 	neg = 0.0  
+8. _The Thirteenth Floo                 ... pos = 1.125 	neg = 1.125
+9. The result is a movi                 ... pos = 0.75  	neg = 0.5  
+10. First, its plot reve                ... pos = 0.25  	neg = 0.125
+11. Second and more seri                ... pos = 0.125 	neg = 0.0  
+12. No wonder it fell th                ... pos = 0.0   	neg = 0.5  
+13. Done in film noir st                ... pos = 0.0   	neg = 0.125
+14. Many audiences will                 ... pos = 1.125 	neg = 1.25 
+15. I recommend a second                ... pos = 0.5   	neg = 0.0  
+16. Despite its philosop                ... pos = 1.125 	neg = 0    
+17. In that sense it is                 ... pos = 1.125 	neg = 0.5  
+18. The moment when Jane                ... pos = 0.875 	neg = 0.5  
+19. In its final moments                ... pos = 0.625 	neg = 0.0  
+20. Although there is a                 ... pos = 2.5   	neg = 0.125
+21. In fact, Hannon Full                ... pos = 1.625 	neg = 0.0  
+22. This is not a film o                ... pos = 0.75  	neg = 0.875
+23. The tragedy is not i                ... pos = 0.0   	neg = 0.125
+24. The major actors, al                ... pos = 0.875 	neg = 0.0  
+25. Bierko, who will be                 ... pos = 0.875 	neg = 1.0  
+26. D'Onofrio as Whitney                ... pos = 1.5   	neg = 0.0  
+27. The lovely Gretchen                 ... pos = 2.875 	neg = 0    
+28. Her voice, however,                 ... pos = 0.625 	neg = 0.125
+29. This could be becaus                ... pos = 0.0   	neg = 1.0  
+30. Some minor flaws, ha                ... pos = 0.125 	neg = 0.0  
+31. There are one or two                ... pos = 0.25  	neg = 0.0  
+32. The script takes the                ... pos = 0.0   	neg = 0.625
+33. The atmosphere becom                ... pos = 0.75  	neg = 0.625
+34. One wonders if even                 ... pos = 0.75  	neg = 0.5  
+35. One can see a group                 ... pos = 0.375 	neg = 0.0  
+36. ". _The Thirteen Flo                ... pos = 1.125 	neg = 0.125
+37. And yet, ultimately,                ... pos = 0.25  	neg = 0.0  
+38. For when good sci-fi                ... pos = 0.75  	neg = 0.25 
+39. If we don't support                 ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-6290-116 is Positive         ... pos = 27.75 	neg = 12.0 
+Overall score of document
+Total Pos = 27.75
+Total Neg = 12.0
+---------------------------------------------------------------------------

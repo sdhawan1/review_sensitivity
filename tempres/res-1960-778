@@ -1,0 +1,40 @@
+0. Starring Giovanni Ri                 ... pos = 0.125 	neg = 0.375
+1. While watching Boile                 ... pos = 0.25  	neg = 0.125
+2. Both films consist o                 ... pos = 0.125 	neg = 0    
+3. Both films follow yo                 ... pos = 0.5   	neg = 0    
+4. And both films are s                 ... pos = 0.875 	neg = 0.125
+5. While Boiler Room wr                 ... pos = 0.75  	neg = 0.125
+6. A generation which h                 ... pos = 0.25  	neg = 0.125
+7. Paying homage to Oli                 ... pos = 1.75  	neg = 0.375
+8. As is true in real l                 ... pos = 0.875 	neg = 0.125
+9. Boiler Room dismisse                 ... pos = 0.25  	neg = 0.125
+10. Another similarity w                ... pos = 0.625 	neg = 0.25 
+11. Some people are conv                ... pos = 1.625 	neg = 0.375
+12. If you want to see a                ... pos = 0.125 	neg = 0.125
+13. If you want to see a                ... pos = 2.125 	neg = 0.125
+14. Giovanni Ribisi give                ... pos = 0.75  	neg = 0    
+15. After dropping out o                ... pos = 0.75  	neg = 0.125
+16. He agrees to take th                ... pos = 0.75  	neg = 0.0  
+17. Learning tricky tech                ... pos = 2.125 	neg = 1.25 
+18. After stumbling into                ... pos = 0.75  	neg = 1.125
+19. At this point, Seth                 ... pos = 0.0   	neg = 0.25 
+20. Ribisi is believable                ... pos = 0.875 	neg = 0.125
+21. The two have perfect                ... pos = 0.5   	neg = 0.5  
+22. The transitions from                ... pos = 0.625 	neg = 0.0  
+23. The supporting cast                 ... pos = 0.375 	neg = 0.125
+24. Ben Affleck shines i                ... pos = 3.625 	neg = 0.25 
+25. The energy of the ca                ... pos = 0.0   	neg = 0.0  
+26. The only major error                ... pos = 0.0   	neg = 1.0  
+27. There is no big plot                ... pos = 0.25  	neg = 0.125
+28. Due to the lack of a                ... pos = 0.625 	neg = 0.125
+29. The movie is not int                ... pos = 0.625 	neg = 0.625
+30. In having trouble to                ... pos = 0.625 	neg = 0.75 
+31. It doesn't seem to k                ... pos = 0.25  	neg = 0.0  
+32. One satisfying concl                ... pos = 0.625 	neg = 0.0  
+33. Otherwise, the movie                ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1960-778 is Positive         ... pos = 25.25 	neg = 8.875
+Overall score of document
+Total Pos = 25.25
+Total Neg = 8.875
+---------------------------------------------------------------------------

@@ -1,0 +1,22 @@
+0. The film Luc Besson                  ... pos = 0.125 	neg = 0.25 
+1. And, its good fun!                   ... pos = 0.75  	neg = 0    
+2. This film wa poorly                  ... pos = 0.0   	neg = 0.75 
+3. ' But I found it enj                 ... pos = 0.5   	neg = 1.0  
+4. The film is knows it                 ... pos = 0.0   	neg = 1.25 
+5. If the film was seri                 ... pos = 0.0   	neg = 0.625
+6. Willis plays a cab d                 ... pos = 0.0   	neg = 0.125
+7. She turns out to be                  ... pos = 0.125 	neg = 0.125
+8. However, they must s                 ... pos = 0.625 	neg = 0.125
+9. Cheesy, eh?                          ... pos = 0     	neg = 0.875
+10. But the film makes u                ... pos = 1.25  	neg = 0.875
+11. Some of the effects                 ... pos = 0.25  	neg = 0.25 
+12. Willis gives his usu                ... pos = 0.125 	neg = 0.875
+13. But, generally, the                 ... pos = 1.5   	neg = 0.0  
+14. Overall, then, I fou                ... pos = 1.0   	neg = 0.0  
+15. Recommended..                       ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5547-1213 is Negative        ... pos = 6.25  	neg = 7.125
+Overall score of document
+Total Pos = 6.25
+Total Neg = 7.125
+---------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+0. Rated R for strong v                 ... pos = 0.625 	neg = 0.0  
+1. Starring: Denzel Was                 ... pos = 0.0   	neg = 0.0  
+2. There has been films                 ... pos = 0.5   	neg = 0.125
+3. In example 'Silence                  ... pos = 1.125 	neg = 0.125
+4. Now we have another                  ... pos = 1.75  	neg = 1.25 
+5. It suffers mostly fr                 ... pos = 1.375 	neg = 1.0  
+6. We have these such s                 ... pos = 1.375 	neg = 0.375
+7. Sadly you can't help                 ... pos = 0.75  	neg = 0.75 
+8. The plot is very int                 ... pos = 0.5   	neg = 0.5  
+9. When trying to inves                 ... pos = 0.25  	neg = 0.625
+10. After a series of mu                ... pos = 0.375 	neg = 1.125
+11. The killer is a clev                ... pos = 0.5   	neg = 0.625
+12. Amelia and Lincoln t                ... pos = 0.0   	neg = 0.375
+13. Even it's clever ide                ... pos = 0.75  	neg = 0.25 
+14. It does have some hi                ... pos = 0.875 	neg = 0.125
+15. The acting in the mo                ... pos = 0.625 	neg = 0.125
+16. The script is well-w                ... pos = 0.125 	neg = 0.25 
+17. However sometimes we                ... pos = 0.375 	neg = 0.125
+18. Some problems with t                ... pos = 1.0   	neg = 1.0  
+19. The plot itself is g                ... pos = 1.75  	neg = 0.75 
+20. The ending is anothe                ... pos = 0.0   	neg = 1.125
+21. Some of the acting i                ... pos = 0.125 	neg = 0.125
+22. Michael Rooker as an                ... pos = 0.0   	neg = 1.0  
+23. Second of all I don'                ... pos = 0.0   	neg = 0.375
+24. Ed O'Neil and Angeli                ... pos = 0.375 	neg = 0.0  
+25. Sadly the film maker                ... pos = 0.0   	neg = 1.25 
+26. The Bone Collector d                ... pos = 0.25  	neg = 0.5  
+27. The Bone Collector i                ... pos = 0.875 	neg = 0.875
+28. There are cliches ga                ... pos = 0.625 	neg = 0.25 
+29. When you see The Bon                ... pos = 0.375 	neg = 0.375
+30. Then again that's ju                ... pos = 0.0   	neg = 0.0  
+31. Reviewed by Brandon                 ... pos = 0.0   	neg = 0.0  
+32. Brandon Herring Http                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3770-1102 is Positive        ... pos = 17.25 	neg = 15.375
+Overall score of document
+Total Pos = 17.25
+Total Neg = 15.375
+---------------------------------------------------------------------------

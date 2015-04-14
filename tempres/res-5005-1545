@@ -1,0 +1,45 @@
+0. Kem Nunn and Stephen                 ... pos = 0.375 	neg = 0.125
+1. for this thing.                      ... pos = 0     	neg = 0.0  
+2. It's campy, it's che                 ... pos = 0.0   	neg = 0.625
+3. Oh yeah, it's almost                 ... pos = 0.5   	neg = 0.25 
+4. Sam Lombardo (Matt D                 ... pos = 0.5   	neg = 0.125
+5. We begin the movie w                 ... pos = 0.125 	neg = 0.25 
+6. That's right folks!                  ... pos = 0.0   	neg = 0    
+7. No sooner has the wo                 ... pos = 0.0   	neg = 1.625
+8. But poor Sam doesn't                 ... pos = 0.0   	neg = 0.75 
+9. Ah!                                  ... pos = 0     	neg = 0    
+10. But what about Suzie                ... pos = 0.0   	neg = 0.0  
+11. Yes...Suzi, the ever                ... pos = 0     	neg = 0.0  
+12. She's hanging around                ... pos = 0.5   	neg = 0.25 
+13. Kelly makes her move                ... pos = 0.0   	neg = 0.0  
+14. Sam (apparently) reb                ... pos = 0.0   	neg = 0.25 
+15. So we get the old `R                ... pos = 0.0   	neg = 0.25 
+16. Then it must be rape                ... pos = 0.375 	neg = 0.125
+17. Detectives Duquette                 ... pos = 0.375 	neg = 0.0  
+18. Then Suzie says SHE                 ... pos = 0.0   	neg = 0.125
+19. Sam's life goes in t                ... pos = 0.0   	neg = 0.5  
+20. His girlfriend won't                ... pos = 0.0   	neg = 0.0  
+21. Fortunately, our her                ... pos = 1.0   	neg = 0    
+22. ) has hired a lawyer                ... pos = 0.375 	neg = 0.25 
+23. Sleazy as hell and w                ... pos = 0.0   	neg = 0.375
+24. It was all a plot.                  ... pos = 0.0   	neg = 0.125
+25. Murray forces Suzy t                ... pos = 0.0   	neg = 0.0  
+26. The scene's a real h                ... pos = 0.0   	neg = 0    
+27. Then we get to the f                ... pos = 0.25  	neg = 0.0  
+28. We can tell you abou                ... pos = 0.25  	neg = 0.0  
+29. Sam was in on the wh                ... pos = 0.875 	neg = 0.125
+30. Then we have the les                ... pos = 0.625 	neg = 0.0  
+31. Now Detective Duquet                ... pos = 0.375 	neg = 0.125
+32. He is sure that it w                ... pos = 0.5   	neg = 0.25 
+33. They made us promise                ... pos = 0.0   	neg = 0.125
+34. And yes, there is on                ... pos = 0.125 	neg = 0.125
+35. Then they try unsucc                ... pos = 0.0   	neg = 0.125
+36. Nekkid high school s                ... pos = 0.0   	neg = 0    
+37. Now that's what we i                ... pos = 0.0   	neg = 0    
+38. '. .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5005-1545 is Positive        ... pos = 7.125 	neg = 6.875
+Overall score of document
+Total Pos = 7.125
+Total Neg = 6.875
+---------------------------------------------------------------------------

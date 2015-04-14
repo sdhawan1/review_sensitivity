@@ -1,0 +1,29 @@
+0. Quentin Tarantino ha                 ... pos = 0.25  	neg = 0.125
+1. Not only is he able                  ... pos = 0.375 	neg = 0.125
+2. Tarantino's knowledg                 ... pos = 0.25  	neg = 0.625
+3. Reservoir Dogs, Pulp                 ... pos = 1.0   	neg = 0    
+4. This is not to say t                 ... pos = 1.25  	neg = 1.0  
+5. ". Jackie Brown, his                 ... pos = 0.125 	neg = 0.0  
+6. It's the story of mi                 ... pos = 0.5   	neg = 0.0  
+7. Jackie Brown (Pam Gr                 ... pos = 0.0   	neg = 0.125
+8. However, after one f                 ... pos = 0.125 	neg = 0.375
+9. They offer her a sim                 ... pos = 0.0   	neg = 0.0  
+10. Either way, piles  o                ... pos = 0.0   	neg = 0.375
+11. Ordell has around ha                ... pos = 0.0   	neg = 0.5  
+12. We are introduced to                ... pos = 0.25  	neg = 0.0  
+13. Sympathetic bail bon                ... pos = 0.375 	neg = 0.125
+14. So let's examine wha                ... pos = 0.25  	neg = 0.0  
+15. Each has their own p                ... pos = 0.5   	neg = 0.125
+16. Obviously, whatever                 ... pos = 0.375 	neg = 0.375
+17. But as Quentin himse                ... pos = 0.0   	neg = 0.25 
+18. "  Although Jackie B                ... pos = 0.625 	neg = 0.25 
+19. Tarantino  shows som                ... pos = 0.5   	neg = 1.0  
+20. It is with a strong                 ... pos = 1.625 	neg = 0.125
+21. It is a stylish, and                ... pos = 1.25  	neg = 0.125
+22. 4 and a half stars o                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-1111 is Positive        ... pos = 9.625 	neg = 5.625
+Overall score of document
+Total Pos = 9.625
+Total Neg = 5.625
+---------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+0. Seen on 20 September                 ... pos = 0.0   	neg = 0.0  
+1. What has an ensemble                 ... pos = 1.125 	neg = 1.875
+2. No, it's not Mayor                   ... pos = 0.0   	neg = 0.25 
+3. It's Cop Land.                       ... pos = 0.0   	neg = 0.25 
+4. A lot of people were                 ... pos = 0.125 	neg = 0.125
+5. Of course, it was fr                 ... pos = 0.0   	neg = 0.25 
+6. I would have left, b                 ... pos = 0.25  	neg = 0.5  
+7. Cop Land would proba                 ... pos = 0.0   	neg = 0.25 
+8. The high-concept                     ... pos = 0.25  	neg = 0.25 
+9. Already, the prospec                 ... pos = 0.0   	neg = 0.125
+10. Sheriff Freddy Hefli                ... pos = 0.375 	neg = 0.125
+11. The worst thing that                ... pos = 0.0   	neg = 0.875
+12. But the American Dre                ... pos = 0.375 	neg = 0.125
+13. Oooooo.                             ... pos = 0     	neg = 0    
+14. How shocking.                       ... pos = 0.375 	neg = 0    
+15. Corrupt cops (Harvey                ... pos = 0.0   	neg = 0.25 
+16. ) work in New York C                ... pos = 0.875 	neg = 0.625
+17. The plot thickens wh                ... pos = 0.625 	neg = 1.25 
+18. Lots of subplots and                ... pos = 0     	neg = 0.25 
+19. The film takes its s                ... pos = 0.0   	neg = 0.5  
+20. That he is deaf in o                ... pos = 0.625 	neg = 0.75 
+21. Ultimately, Cop Land                ... pos = 0.0   	neg = 1.25 
+22. There are simply too                ... pos = 1.125 	neg = 0.25 
+23. I watch soap operas                 ... pos = 0.375 	neg = 0.375
+24. There are so many ot                ... pos = 0.5   	neg = 0.0  
+25. NYPD Blue.                          ... pos = 0.0   	neg = 0    
+26. Tuesday nights on AB                ... pos = 0.0   	neg = 0.0  
+27. Slow and steady buil                ... pos = 0.0   	neg = 0.0  
+28. Throwing dressed                    ... pos = 0.0   	neg = 0.5  
+29. The only actor missi                ... pos = 0.0   	neg = 0.125
+30. One of Three Woman S                ... pos = 0.25  	neg = 0.25 
+31. Most Annoyed Actor w                ... pos = 2.5   	neg = 1.75 
+32. Smartest Actor: Jane                ... pos = 0.625 	neg = 0.0  
+33. Best Ironic Line: Ra                ... pos = 0.875 	neg = 0.0  
+34. I    guess those wer                ... pos = 0.0   	neg = 0.125
+35. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2603-92 is Negative          ... pos = 11.25 	neg = 13.375
+Overall score of document
+Total Pos = 11.25
+Total Neg = 13.375
+---------------------------------------------------------------------------

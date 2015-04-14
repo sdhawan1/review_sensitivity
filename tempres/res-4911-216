@@ -1,0 +1,40 @@
+0. "Never Been Kissed"                  ... pos = 0.125 	neg = 1.375
+1. They'd have a field                  ... pos = 0.125 	neg = 0.5  
+2. They'd also likely a                 ... pos = 0.5   	neg = 0.0  
+3. Ah, thank you, movie                 ... pos = 0.0   	neg = 0.0  
+4. If you've seen the t                 ... pos = 0.0   	neg = 0.0  
+5. Twenty-five year-old                 ... pos = 0.375 	neg = 0.125
+6. Her editor doesn't t                 ... pos = 0.625 	neg = 0.125
+7. Her mission: go unde                 ... pos = 0.0   	neg = 0.25 
+8. It's a choice assisg                 ... pos = 0.0   	neg = 0.0  
+9. The problem is, Josi                 ... pos = 1.5   	neg = 1.5  
+10. "  Because of her pl                ... pos = 0.25  	neg = 1.375
+11. Aldys appears to be                 ... pos = 0.375 	neg = 0.5  
+12. "Try being named aft                ... pos = 0.25  	neg = 0.5  
+13. Even among the monso                ... pos = 0.375 	neg = 0.125
+14. None of us are stran                ... pos = 1.0   	neg = 2.5  
+15. "Never Been Kissed,"                ... pos = 1.375 	neg = 0.5  
+16. It's rather like wat                ... pos = 0.5   	neg = 0.0  
+17. It's crude, shallow,                ... pos = 0.0   	neg = 0.125
+18. I have absolutely no                ... pos = 0.125 	neg = 0.25 
+19. As anyone who has se                ... pos = 0.5   	neg = 0.0  
+20. No surprise there, a                ... pos = 0.25  	neg = 0.375
+21. Barrymore looks like                ... pos = 0.75  	neg = 1.0  
+22. "  No amount of crus                ... pos = 0.0   	neg = 2.125
+23. (See also "The Truth                ... pos = 0.5   	neg = 0.0  
+24. ")  Nonetheless, we                 ... pos = 0.375 	neg = 0.625
+25. One thought ran thro                ... pos = 0.25  	neg = 0.5  
+26. The film asks us to                 ... pos = 0.375 	neg = 0.875
+27. Poor Josie falls in                 ... pos = 0.625 	neg = 0.25 
+28. (Obligatory Dashing                 ... pos = 0.0   	neg = 0.0  
+29. It's all sweet and g                ... pos = 0.125 	neg = 0.625
+30. Would the teenyboppe                ... pos = 0.0   	neg = 0.0  
+31. Probably not.                       ... pos = 0.0   	neg = 0    
+32. Double standards are                ... pos = 0.25  	neg = 0.0  
+33. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4911-216 is Negative         ... pos = 11.875 	neg = 16.125
+Overall score of document
+Total Pos = 11.875
+Total Neg = 16.125
+---------------------------------------------------------------------------

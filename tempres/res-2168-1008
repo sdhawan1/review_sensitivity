@@ -1,0 +1,44 @@
+0. Before I knew much a                 ... pos = 0.125 	neg = 0.375
+1. His sense of self-de                 ... pos = 0.0   	neg = 0.125
+2. Jackie Chan's schtic                 ... pos = 0.0   	neg = 0.25 
+3. His graceful and dar                 ... pos = 0.125 	neg = 0.75 
+4. Combining the two se                 ... pos = 0.0   	neg = 0.875
+5. But whatever the mot                 ... pos = 0.0   	neg = 0.0  
+6. The two look like th                 ... pos = 0.489 	neg = 0.375
+7. Tucker is James Cart                 ... pos = 0.0   	neg = 0.375
+8. He's not very good,                  ... pos = 1.25  	neg = 0.375
+9. Carter ruins an unde                 ... pos = 0.0   	neg = 0.25 
+10. True to Tucker's sch                ... pos = 0.875 	neg = 0.625
+11. He has a million exc                ... pos = 0.5   	neg = 0.0  
+12. He's a nuisance to h                ... pos = 1.0   	neg = 0.375
+13. Meanwhile, the FBI i                ... pos = 0.0   	neg = 0.375
+14. The FBI sees Lee as                 ... pos = 0.375 	neg = 0.0  
+15. The LAPD is all too                 ... pos = 0.625 	neg = 0.375
+16. Turns out Carter isn                ... pos = 0.625 	neg = 0.625
+17. The two team up to s                ... pos = 0.0   	neg = 0.0  
+18. The movie, thankfull                ... pos = 0.0   	neg = 0.375
+19. It's not because of                 ... pos = 0.0   	neg = 0.125
+20. The movie doesn't pu                ... pos = 0.0   	neg = 0.75 
+21. Most of Chan's so-ca                ... pos = 0.25  	neg = 0.25 
+22. That doesn't mean he                ... pos = 0.0   	neg = 0.0  
+23. One of Chan's more a                ... pos = 0.125 	neg = 0.0  
+24. The stunts don't loo                ... pos = 0.125 	neg = 1.0  
+25. Tucker is funnier th                ... pos = 0.0   	neg = 0.125
+26. As I said, his sense                ... pos = 1.5   	neg = 0.25 
+27. His strutting ego wo                ... pos = 0.375 	neg = 0.375
+28. But his strutting is                ... pos = 0.125 	neg = 0.125
+29. You can't help but l                ... pos = 0.0   	neg = 0.0  
+30. The two aren't a nat                ... pos = 1.125 	neg = 0.125
+31. While waiting at a s                ... pos = 0.625 	neg = 0.0  
+32. And in the tradition                ... pos = 0.875 	neg = 0.0  
+33. And that's why this                 ... pos = 0.0   	neg = 0.125
+34. Don't kid yourself.                 ... pos = 0.0   	neg = 0    
+35. You're not going for                ... pos = 0.0   	neg = 0.125
+36. You're going because                ... pos = 0.625 	neg = 0.375
+37. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2168-1008 is Positive        ... pos = 11.739 	neg = 10.25
+Overall score of document
+Total Pos = 11.739
+Total Neg = 10.25
+---------------------------------------------------------------------------

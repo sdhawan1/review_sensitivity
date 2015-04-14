@@ -1,0 +1,36 @@
+0. ---Once in release,                  ... pos = 0.5   	neg = 0.25 
+1. Perhaps it is Julia                  ... pos = 1.125 	neg = 0.25 
+2. Perhaps it is direct                 ... pos = 1.25  	neg = 0.125
+3. Perhaps it is the co                 ... pos = 1.25  	neg = 0.125
+4. `I'm great with peop                 ... pos = 0.0   	neg = 0.25 
+5. She doesn't get the                  ... pos = 0.0   	neg = 0.0  
+6. But that's nothing n                 ... pos = 0.875 	neg = 0.75 
+7. So when from out of                  ... pos = 0.0   	neg = 1.0  
+8. Brockovich is ridicu                 ... pos = 3.0   	neg = 0.875
+9. But fate works in my                 ... pos = 0.5   	neg = 0.0  
+10. .                                   ... pos = 0     	neg = 0    
+11. .                                   ... pos = 0     	neg = 0    
+12. working for the lawy                ... pos = 0.0   	neg = 0.0  
+13. Erin Brockovich isn'                ... pos = 0.875 	neg = 0.0  
+14. In filing some paper                ... pos = 0.375 	neg = 1.125
+15. The movie's only sub                ... pos = 0.75  	neg = 0.25 
+16. The film simply does                ... pos = 0.0   	neg = 0.125
+17. There is already an                 ... pos = 0.75  	neg = 1.25 
+18. The most enjoyable s                ... pos = 1.0   	neg = 0.0  
+19. Erin Brockovich has                 ... pos = 0.5   	neg = 0.125
+20. What doesn't, howeve                ... pos = 0.5   	neg = 0.125
+21. Oscar voters traditi                ... pos = 2.125 	neg = 0.0  
+22. But the Academy's me                ... pos = 0.25  	neg = 0.125
+23. For Steven Soderberg                ... pos = 0.5   	neg = 0.625
+24. Having previously ov                ... pos = 1.0   	neg = 0.375
+25. Other than Roberts a                ... pos = 1.0   	neg = 0.25 
+26. America seems to be                 ... pos = 0.875 	neg = 0.25 
+27. John Grisham's books                ... pos = 0.625 	neg = 0.625
+28. America is equally f                ... pos = 0.875 	neg = 0.125
+29. Erin Brockovich is t                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2945-592 is Positive         ... pos = 20.5  	neg = 9.125
+Overall score of document
+Total Pos = 20.5
+Total Neg = 9.125
+---------------------------------------------------------------------------

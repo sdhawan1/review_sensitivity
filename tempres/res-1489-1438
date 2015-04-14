@@ -1,0 +1,27 @@
+0. Directed by Steven S                 ... pos = 1.25  	neg = 0.125
+1. What I found surpris                 ... pos = 0.125 	neg = 0.0  
+2. For while the film c                 ... pos = 3.375 	neg = 1.0  
+3. At the same  time, t                 ... pos = 0.0   	neg = 0.75 
+4. The film is, ironica                 ... pos = 0.0   	neg = 0.875
+5. The film, as most ev                 ... pos = 0.5   	neg = 0.0  
+6. The film opens just                  ... pos = 0.25  	neg = 0.125
+7. The prisoners take c                 ... pos = 0.0   	neg = 0.0  
+8. But their captors su                 ... pos = 0.75  	neg = 1.25 
+9. For it's not clear w                 ... pos = 0.375 	neg = 0.0  
+10. Working with a free                 ... pos = 0.0   	neg = 0.5  
+11. What follows is seve                ... pos = 0.625 	neg = 0.125
+12. The courtroom sequen                ... pos = 0.25  	neg = 0.5  
+13. Much better are what                ... pos = 2.125 	neg = 0.0  
+14. It's really not terr                ... pos = 0.25  	neg = 0.75 
+15. Neither Hopkins nor                 ... pos = 0.5   	neg = 1.375
+16. And the story doesn'                ... pos = 2.75  	neg = 0.125
+17. The plot also does a                ... pos = 0.75  	neg = 0.375
+18. And the John William                ... pos = 1.875 	neg = 0.5  
+19. These failings, thou                ... pos = 0.25  	neg = 0.25 
+20. For _Amistad_ is cle                ... pos = 0.875 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1489-1438 is Positive        ... pos = 16.875 	neg = 8.75 
+Overall score of document
+Total Pos = 16.875
+Total Neg = 8.75
+---------------------------------------------------------------------------

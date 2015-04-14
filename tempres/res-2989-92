@@ -1,0 +1,61 @@
+0. Andrea and I went to                 ... pos = 0.25  	neg = 0.0  
+1. Here is my review, w                 ... pos = 0.0   	neg = 0.125
+2. I have not felt so c                 ... pos = 0.0   	neg = 0.375
+3. As people who love S                 ... pos = 0.625 	neg = 1.0  
+4. Seen on 16 December                  ... pos = 0.625 	neg = 0.75 
+5. When I held my nose                  ... pos = 1.125 	neg = 1.5  
+6. Movies like Stepmom                  ... pos = 0.625 	neg = 0.25 
+7. It's not only insult                 ... pos = 0.5   	neg = 1.125
+8. Stepmom is the story                 ... pos = 0.375 	neg = 0.125
+9. Isabel tries very ha                 ... pos = 0.5   	neg = 1.5  
+10. Anna and Ben (Jena M                ... pos = 0.125 	neg = 0.25 
+11. All three hurl verba                ... pos = 0.75  	neg = 0.25 
+12. " Luke (Ed Harris) d                ... pos = 0.25  	neg = 0.0  
+13. Why Isabel takes on                 ... pos = 1.25  	neg = 0.5  
+14. The family home is g                ... pos = 0.5   	neg = 0.375
+15. Even Luke's New York                ... pos = 0.375 	neg = 0.375
+16. Even the *emergency                 ... pos = 0.0   	neg = 0.0  
+17. I hate to give anyth                ... pos = 1.875 	neg = 0.0  
+18. Jackie doesn't tell                 ... pos = 0.375 	neg = 0.5  
+19. Brave in that even t                ... pos = 0.5   	neg = 0.25 
+20. She cooks, sews, cha                ... pos = 0.0   	neg = 0.0  
+21. She's always availab                ... pos = 0.375 	neg = 0.625
+22. Horrible in that Ann                ... pos = 0.125 	neg = 0.625
+23. Her brother's squeal                ... pos = 0.5   	neg = 0.125
+24. Stepmom is insulting                ... pos = 0.0   	neg = 0.25 
+25. The two female leads                ... pos = 0.125 	neg = 0.0  
+26. It gets tiresome.                   ... pos = 0.0   	neg = 0.25 
+27. Even when undergoing                ... pos = 0.0   	neg = 0.625
+28. When she's not quilt                ... pos = 0.0   	neg = 0    
+29. On the second level,                ... pos = 0.75  	neg = 0.375
+30. At one point, it is                 ... pos = 0.875 	neg = 0.25 
+31. You "lose your edge.                ... pos = 0.0   	neg = 0    
+32. " Winning the hearts                ... pos = 1.375 	neg = 0.0  
+33. There are no real Am                ... pos = 0.625 	neg = 0.75 
+34. Stepmom is a landsca                ... pos = 0.0   	neg = 1.25 
+35. Finally, Jackie's ca                ... pos = 0.0   	neg = 0.75 
+36. In Stepmom, having c                ... pos = 0.0   	neg = 0.0  
+37. You still have plent                ... pos = 0.0   	neg = 0.0  
+38. There's also plenty                 ... pos = 0.125 	neg = 0.25 
+39. "I like talking to y                ... pos = 0     	neg = 0.5  
+40. ". It's no accident                 ... pos = 0.0   	neg = 0.5  
+41. What's so problemati                ... pos = 0.25  	neg = 0.125
+42. Mom's dying--let's t                ... pos = 0.0   	neg = 0    
+43. Everyone say, "Last                 ... pos = 0.0   	neg = 0    
+44. "   Clearly, there c                ... pos = 1.375 	neg = 0.125
+45. So, Jackie has to *d                ... pos = 0.25  	neg = 0.0  
+46. The idea that they s                ... pos = 1.75  	neg = 0.625
+47. Why Isabel is determ                ... pos = 0.625 	neg = 1.0  
+48. The two-parent nucle                ... pos = 0.0   	neg = 0.125
+49. So few characters ou                ... pos = 2.0   	neg = 0.0  
+50. It's Family Values c                ... pos = 0.0   	neg = 0    
+51. Even the divorce is                 ... pos = 0.0   	neg = 0.125
+52. Luke was tossed out                 ... pos = 0.25  	neg = 0.5  
+53. Directed by Chris Co                ... pos = 0.125 	neg = 0.25 
+54. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2989-92 is Positive          ... pos = 22.125 	neg = 19.375
+Overall score of document
+Total Pos = 22.125
+Total Neg = 19.375
+---------------------------------------------------------------------------

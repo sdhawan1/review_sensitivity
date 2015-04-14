@@ -1,0 +1,49 @@
+0. DIRECTED BY: Martin                  ... pos = 0.625 	neg = 0.0  
+1. Runtime: USA:178  RE                 ... pos = 0.125 	neg = 0.125
+2. "Meet Joe Black" is                  ... pos = 0.875 	neg = 0.125
+3. At the same time it                  ... pos = 0.125 	neg = 1.0  
+4. At first you marvel                  ... pos = 1.375 	neg = 0.125
+5. Then you'll wait for                 ... pos = 0.875 	neg = 0.0  
+6. The script is simply                 ... pos = 0.125 	neg = 1.375
+7. It feels like an ete                 ... pos = 0.0   	neg = 0.0  
+8. Most of the time it                  ... pos = 0.125 	neg = 0.125
+9. The film is based on                 ... pos = 0.0   	neg = 0.125
+10. The story concentrat                ... pos = 0.625 	neg = 0.125
+11. Soon he meets a youn                ... pos = 0.5   	neg = 0.0  
+12. It is Bill's time.                  ... pos = 0.0   	neg = 0.125
+13. But Death has other                 ... pos = 0.0   	neg = 0.0  
+14. It has come down to                 ... pos = 0.125 	neg = 0.125
+15. Our Bill is chosen t                ... pos = 0.0   	neg = 0.25 
+16. Bill introduces Deat                ... pos = 0.0   	neg = 0    
+17. Bill's business part                ... pos = 0.125 	neg = 0.125
+18. That is not all, how                ... pos = 0.125 	neg = 0.125
+19. Bill's youngest daug                ... pos = 1.75  	neg = 0.5  
+20. This relationship is                ... pos = 0.125 	neg = 0.125
+21. It wouldn't be fair                 ... pos = 0.0   	neg = 0.25 
+22. When Joe starts enjo                ... pos = 1.25  	neg = 0.375
+23. It is obvious that a                ... pos = 0.5   	neg = 0.25 
+24. It's one thing to sa                ... pos = 0.125 	neg = 0.375
+25. Four screenwriters h                ... pos = 0.0   	neg = 0.125
+26. It is overlong and t                ... pos = 0.0   	neg = 0.375
+27. On the other hand it                ... pos = 0.625 	neg = 0.0  
+28. Hopkins looks great                 ... pos = 0.125 	neg = 0.75 
+29. His talent and chari                ... pos = 0.375 	neg = 0.375
+30. But Pitt is the one                 ... pos = 0.25  	neg = 0.125
+31. How can you play Dea                ... pos = 0.0   	neg = 0.0  
+32. To me it seems that                 ... pos = 0.375 	neg = 0.25 
+33. They are not creatur                ... pos = 0.25  	neg = 0.0  
+34. Saying that death ta                ... pos = 0.5   	neg = 0.125
+35. Handling such a ridi                ... pos = 1.125 	neg = 1.25 
+36. Speaking in a calm,                 ... pos = 0.5   	neg = 0.125
+37. He looks and acts mo                ... pos = 1.125 	neg = 0.375
+38. Claire Forlani and o                ... pos = 1.125 	neg = 0.625
+39. Unfortunately their                 ... pos = 0.5   	neg = 0.875
+40. In other words this                 ... pos = 0.0   	neg = 0.375
+41. It could (and should                ... pos = 0.0   	neg = 0.125
+42. In the end it seems                 ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4689-657 is Positive         ... pos = 16.5  	neg = 11.875
+Overall score of document
+Total Pos = 16.5
+Total Neg = 11.875
+---------------------------------------------------------------------------

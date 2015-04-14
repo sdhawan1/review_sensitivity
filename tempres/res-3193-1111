@@ -1,0 +1,23 @@
+0. >From the spine-chil                 ... pos = 1.25  	neg = 0.0  
+1. If you don't agree w                 ... pos = 1.125 	neg = 0.375
+2. Victims still run up                 ... pos = 0.5   	neg = 0.0  
+3. No - the difference                  ... pos = 1.875 	neg = 0.75 
+4. Party of Five's Neve                 ... pos = 0.125 	neg = 0.75 
+5. News spreads thick a                 ... pos = 0.5   	neg = 0.25 
+6. A year later, a kill                 ... pos = 0.375 	neg = 0.5  
+7. The same town, the s                 ... pos = 0.375 	neg = 0.375
+8. So as the number of                  ... pos = 0.0   	neg = 1.25 
+9. Could it be the obvi                 ... pos = 1.375 	neg = 0.625
+10. Everyone is a suspec                ... pos = 0.0   	neg = 0.625
+11. And when everyone is                ... pos = 1.875 	neg = 1.0  
+12. Forget the average c                ... pos = 1.375 	neg = 0.125
+13. The only minor grumb                ... pos = 0.75  	neg = 0.75 
+14. Many of Scream's sce                ... pos = 1.25  	neg = 0.375
+15. Yes - it is a scary                 ... pos = 0.25  	neg = 1.0  
+16. It's slick formula o                ... pos = 2.125 	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-3193-1111 is Positive        ... pos = 15.125 	neg = 9.625
+Overall score of document
+Total Pos = 15.125
+Total Neg = 9.625
+---------------------------------------------------------------------------

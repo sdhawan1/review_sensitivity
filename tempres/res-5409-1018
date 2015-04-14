@@ -1,0 +1,32 @@
+0. (originally for The                  ... pos = 0.25  	neg = 0.125
+1. After countless movi                 ... pos = 0.0   	neg = 0.625
+2. The Matrix tells the                 ... pos = 1.0   	neg = 0.5  
+3. Using high-tech impl                 ... pos = 0.0   	neg = 0.0  
+4. However, the questio                 ... pos = 0.125 	neg = 0    
+5. What is the real wor                 ... pos = 0.0   	neg = 0.125
+6. Due to the film's da                 ... pos = 0.75  	neg = 0.125
+7. While Dark City is a                 ... pos = 0.375 	neg = 0.25 
+8. While the special ef                 ... pos = 0.875 	neg = 0.75 
+9. Despite a small budg                 ... pos = 1.0   	neg = 0.875
+10. Not relying solely o                ... pos = 0.625 	neg = 0.5  
+11. As the story involve                ... pos = 1.75  	neg = 0.5  
+12. In terms of visuals,                ... pos = 0.0   	neg = 0.25 
+13. This is largely due                 ... pos = 0.5   	neg = 0.125
+14. Apart from comic boo                ... pos = 0.5   	neg = 0.75 
+15. When combined with t                ... pos = 0.625 	neg = 1.5  
+16. While the film is a                 ... pos = 0.125 	neg = 0.125
+17. While the storyline                 ... pos = 0.875 	neg = 1.0  
+18. Regardless, these fl                ... pos = 0.25  	neg = 0.0  
+19. And there are a lot                 ... pos = 0.25  	neg = 0.375
+20. And of course, the f                ... pos = 0.125 	neg = 0.125
+21. Surprisingly, Keanu                 ... pos = 1.125 	neg = 0.75 
+22. Canadian newcomer Ca                ... pos = 1.181 	neg = 0.25 
+23. Still, one has to ke                ... pos = 1.875 	neg = 0.125
+24. In a movie industry                 ... pos = 0.75  	neg = 0.75 
+25. This film will easil                ... pos = 0.75  	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5409-1018 is Positive        ... pos = 15.681 	neg = 10.75
+Overall score of document
+Total Pos = 15.681
+Total Neg = 10.75
+---------------------------------------------------------------------------

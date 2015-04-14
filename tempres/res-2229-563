@@ -1,0 +1,35 @@
+0. Starring Adam Sandle                 ... pos = 0.0   	neg = 0.625
+1. Rated PG-13.                         ... pos = 0.125 	neg = 0    
+2. Adam Sandler has bec                 ... pos = 0.375 	neg = 0.0  
+3. It's a shame that hi                 ... pos = 2.0   	neg = 1.0  
+4. Now comes Big Daddy,                 ... pos = 0.5   	neg = 0.875
+5. Many parts of Big Da                 ... pos = 0.875 	neg = 0.25 
+6. The boy's father jus                 ... pos = 0.0   	neg = 0.375
+7. At first Sonny decid                 ... pos = 0.0   	neg = 0.0  
+8. When he comes to soc                 ... pos = 0.125 	neg = 0.75 
+9. He does it so that h                 ... pos = 0.125 	neg = 0.0  
+10. " He hopes that this                ... pos = 1.0   	neg = 0.5  
+11. Much to Sonny's surp                ... pos = 0.125 	neg = 0.125
+12. Inevitably, Sonny an                ... pos = 0.0   	neg = 0.0  
+13. But all can't be tha                ... pos = 0.25  	neg = 0.125
+14. I can't say that I w                ... pos = 0.75  	neg = 0.25 
+15. Admittedly some of i                ... pos = 0.5   	neg = 0.125
+16. But David Dugan, who                ... pos = 2.875 	neg = 0.75 
+17. Part of the problem,                ... pos = 0.875 	neg = 0.5  
+18. He has much more suc                ... pos = 1.375 	neg = 0.375
+19. I'm sorry, but it's                 ... pos = 0.125 	neg = 1.625
+20. The action builds up                ... pos = 0.375 	neg = 0.0  
+21. Somebody gag me.                    ... pos = 0     	neg = 0.0  
+22. His movies have thus                ... pos = 0.0   	neg = 1.25 
+23. Whoever inspired San                ... pos = 0.375 	neg = 0.75 
+24. Big Daddy isn't an i                ... pos = 0.75  	neg = 0.625
+25. The laughs are few a                ... pos = 1.125 	neg = 0.0  
+26. I expected better fr                ... pos = 0.0   	neg = 0.875
+27. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+28. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2229-563 is Positive         ... pos = 14.625 	neg = 11.75
+Overall score of document
+Total Pos = 14.625
+Total Neg = 11.75
+---------------------------------------------------------------------------

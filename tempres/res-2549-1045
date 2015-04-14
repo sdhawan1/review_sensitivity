@@ -1,0 +1,80 @@
+0. by Curtis Edmonds --                 ... pos = 0.125 	neg = 0.0  
+1. "All sorts of movies                 ... pos = 0.5   	neg = 0.25 
+2. Say "action movies"                  ... pos = 0.125 	neg = 0.0  
+3. Say "science fiction                 ... pos = 0.0   	neg = 0.375
+4. Saying "Quentin Tara                 ... pos = 0.0   	neg = 0.0  
+5. "Independent movies?                 ... pos = 0.0   	neg = 0    
+6. " Please.                            ... pos = 0     	neg = 0.0  
+7. It's not any better                  ... pos = 0.0   	neg = 0.0  
+8. Say "gushy romantic                  ... pos = 1.0   	neg = 0.0  
+9. (I think I ended up                  ... pos = 1.25  	neg = 0.125
+10. ). Of course, at tha                ... pos = 0.0   	neg = 0.0  
+11. I wish I had.                       ... pos = 0     	neg = 0.375
+12. That way, I'd have a                ... pos = 0.0   	neg = 0.0  
+13. " And I liked The Gr                ... pos = 0.125 	neg = 0.0  
+14. * I like movies with                ... pos = 0.0   	neg = 0.0  
+15. Nitpickers will poin                ... pos = 0.125 	neg = 0.25 
+16. Fine.                               ... pos = 0.0   	neg = 0    
+17. I like Gary Sinise.                 ... pos = 0     	neg = 0.0  
+18. I especially like it                ... pos = 0.0   	neg = 0.0  
+19. The Green Mile isn't                ... pos = 0.0   	neg = 0.25 
+20. And, you know, when                 ... pos = 0.25  	neg = 0.0  
+21. Consider the work of                ... pos = 0.375 	neg = 0.0  
+22. They're both here in                ... pos = 0.0   	neg = 0.0  
+23. Fortunately, instead                ... pos = 0.875 	neg = 0.875
+24. It's fun to see toug                ... pos = 0.5   	neg = 0.0  
+25. (Hanks, of course, h                ... pos = 0.25  	neg = 0.125
+26. And the lumbering, h                ... pos = 0.0   	neg = 0.0  
+27. ). *  I like movies                 ... pos = 0.25  	neg = 0.875
+28. I'm sure you've noti                ... pos = 0.25  	neg = 1.0  
+29. This trend reached i                ... pos = 0.125 	neg = 0.625
+30. (Perhaps, given the                 ... pos = 0.25  	neg = 0.25 
+31. ). But evil wears a                 ... pos = 0.0   	neg = 1.25 
+32. One of the things I                 ... pos = 0.125 	neg = 0.125
+33. You'd expect to see                 ... pos = 0.0   	neg = 0.75 
+34. Most of The Green Mi                ... pos = 0.25  	neg = 0.0  
+35. It's not a homelike                 ... pos = 0.0   	neg = 0.75 
+36. (Morse's character i                ... pos = 0.875 	neg = 0.125
+37. )  The guards have t                ... pos = 0.25  	neg = 0.125
+38. Graham Greene plays                 ... pos = 0.0   	neg = 0.0  
+39. Harry Dean Stanton s                ... pos = 0.0   	neg = 0.125
+40. Michael Jeter makes                 ... pos = 0.5   	neg = 0.875
+41. (Jeter usually annoy                ... pos = 0.75  	neg = 0.0  
+42. ). The banality of e                ... pos = 0.75  	neg = 0.875
+43. Rockwell gets to che                ... pos = 0.125 	neg = 0.0  
+44. His antics liven up                 ... pos = 0.375 	neg = 0.625
+45. But the real evil in                ... pos = 0.0   	neg = 0.75 
+46. The real bad guy on                 ... pos = 0.0   	neg = 1.0  
+47. Percy, you see, just                ... pos = 0.75  	neg = 0.25 
+48. He is vain, petulant                ... pos = 0.0   	neg = 0.75 
+49. Not only does Percy                 ... pos = 0.375 	neg = 0.5  
+50. It's his character t                ... pos = 1.875 	neg = 0.75 
+51. Percy manages to com                ... pos = 0.875 	neg = 0.875
+52. More than anything e                ... pos = 0.0   	neg = 0.75 
+53. *  I like smart stor                ... pos = 0.0   	neg = 0.0  
+54. Finally, the best th                ... pos = 0.375 	neg = 0.125
+55. Frank Darabont pulls                ... pos = 0.75  	neg = 0.75 
+56. The Green Mile is no                ... pos = 0.375 	neg = 0.875
+57. (My theory is that S                ... pos = 0.875 	neg = 0.625
+58. ) What both films sh                ... pos = 0.125 	neg = 0.125
+59. Shawshank is a bette                ... pos = 0.5   	neg = 0.125
+60. The Green Mile is th                ... pos = 0.5   	neg = 0.25 
+61. My boss does these t                ... pos = 0.0   	neg = 0.125
+62. The puzzle is just s                ... pos = 0.125 	neg = 0.5  
+63. Instead of locking t                ... pos = 0.375 	neg = 0.125
+64. The Green Mile is bu                ... pos = 0.125 	neg = 0.125
+65. One piece stacks on                 ... pos = 0.25  	neg = 0.125
+66. And even if you thin                ... pos = 1.125 	neg = 1.0  
+67. Instead of one big s                ... pos = 0.0   	neg = 0.625
+68. (The original novel,                ... pos = 0.0   	neg = 0.125
+69. ). Of course, there                 ... pos = 0.875 	neg = 0.75 
+70. There will be things                ... pos = 0.25  	neg = 0.125
+71. And that, finally, i                ... pos = 0.375 	neg = 0.125
+72. If this is the kind                 ... pos = 1.125 	neg = 0.125
+73. Movie Reviews: http:                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2549-1045 is Negative        ... pos = 22.375 	neg = 23.375
+Overall score of document
+Total Pos = 22.375
+Total Neg = 23.375
+---------------------------------------------------------------------------

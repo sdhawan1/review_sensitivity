@@ -1,0 +1,46 @@
+0. Starring Julia Rober                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Steven S                 ... pos = 0.0   	neg = 0    
+2. Rated R.. Even if th                 ... pos = 0.375 	neg = 0.375
+3. It hasn't happened s                 ... pos = 0.75  	neg = 0.0  
+4. Everywhere else, she                 ... pos = 0.25  	neg = 0.0  
+5. She has a distinctiv                 ... pos = 0.625 	neg = 0.625
+6. Too bad the movie ge                 ... pos = 1.75  	neg = 1.5  
+7. The title character                  ... pos = 1.125 	neg = 0.625
+8. She's desperately ru                 ... pos = 0.0   	neg = 0.375
+9. But finally, via a s                 ... pos = 0.875 	neg = 0.125
+10. Her boss, an elderly                ... pos = 0.5   	neg = 0.75 
+11. She gets into fights                ... pos = 0.0   	neg = 0.25 
+12. But then she goes of                ... pos = 0.125 	neg = 0.625
+13. She soon finds that                 ... pos = 0.625 	neg = 1.375
+14. Needless to say, all                ... pos = 0.5   	neg = 0.0  
+15. So Erin, the gentle                 ... pos = 1.0   	neg = 0.25 
+16. Meanwhile, Erin hers                ... pos = 0.875 	neg = 0.25 
+17. The first half if th                ... pos = 0.125 	neg = 0.625
+18. Julia Roberts is riv                ... pos = 0.125 	neg = 0.375
+19. Her story is interes                ... pos = 0.0   	neg = 0.125
+20. Immediately, she see                ... pos = 0.75  	neg = 0.125
+21. This blissful state                 ... pos = 0.625 	neg = 0.0  
+22. But director Steven                 ... pos = 0.0   	neg = 0.0  
+23. It's downhill from t                ... pos = 0     	neg = 0.0  
+24. The turning point, o                ... pos = 0.875 	neg = 0.125
+25. This shifts Erin Bro                ... pos = 0.125 	neg = 0.25 
+26. The movie manages to                ... pos = 0.75  	neg = 0.25 
+27. Hexavalent chromium                 ... pos = 0.0   	neg = 0.0  
+28. Ironically, though t                ... pos = 1.125 	neg = 2.0  
+29. It's a shame that a                 ... pos = 0.625 	neg = 1.25 
+30. What really pulls yo                ... pos = 0.0   	neg = 0.125
+31. Julia Roberts remain                ... pos = 0.125 	neg = 0.125
+32. Few can outshout Rob                ... pos = 0.0   	neg = 0.0  
+33. Albert Finney, a fou                ... pos = 0.5   	neg = 0.125
+34. He has the perfect c                ... pos = 0.0   	neg = 0    
+35. It helps that he is                 ... pos = 1.0   	neg = 0.125
+36. Those who watch Erin                ... pos = 0.625 	neg = 1.0  
+37. The difference betwe                ... pos = 0.375 	neg = 0.25 
+38. It was the centerpie                ... pos = 0.375 	neg = 0.125
+39. The trouble with Eri                ... pos = 1.25  	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-2945-563 is Positive         ... pos = 18.75 	neg = 15.0 
+Overall score of document
+Total Pos = 18.75
+Total Neg = 15.0
+---------------------------------------------------------------------------

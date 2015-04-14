@@ -1,0 +1,33 @@
+0. Christian Critic's M                 ... pos = 0.0   	neg = 0.5  
+1. "  Indeed.                           ... pos = 0.0   	neg = 0    
+2. And any filmmaker wi                 ... pos = 0.25  	neg = 0.0  
+3. On a more positive n                 ... pos = 1.0   	neg = 0.25 
+4. The mile in question                 ... pos = 0.875 	neg = 0.125
+5. Paul Edgecomb (Tom H                 ... pos = 0.0   	neg = 0.125
+6. Keeping his prisoner                 ... pos = 0.375 	neg = 0.125
+7. It is a responsibili                 ... pos = 0.875 	neg = 0.125
+8. This practice leads                  ... pos = 0.931 	neg = 0    
+9. Into his charge come                 ... pos = 0.0   	neg = 0.125
+10. Immediately, Paul se                ... pos = 0.625 	neg = 0.0  
+11. Perhaps its the way                 ... pos = 0.875 	neg = 0.125
+12. Or perhaps it is the                ... pos = 0.125 	neg = 0.125
+13. Based on Steven King                ... pos = 2.5   	neg = 0.875
+14. While it is Mr. Hank                ... pos = 0.875 	neg = 0.25 
+15. All involved do cred                ... pos = 0.875 	neg = 0.0  
+16. If only the story we                ... pos = 0.625 	neg = 0.125
+17. Writer/director Fran                ... pos = 2.114 	neg = 0.375
+18. Mr. Darabont also ov                ... pos = 2.0   	neg = 0.0  
+19. Was it an accidental                ... pos = 0.375 	neg = 0.25 
+20. By not knowing the r                ... pos = 1.25  	neg = 0.125
+21. This is especially t                ... pos = 0.75  	neg = 0.5  
+22. Much has also been m                ... pos = 1.25  	neg = 0.375
+23. In contrast, there i                ... pos = 0.0   	neg = 0.5  
+24. The genuine "gifts o                ... pos = 1.489 	neg = 0.25 
+25. True spiritual heali                ... pos = 1.0   	neg = 0    
+26. Such believing comes                ... pos = 0.125 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-2549-305 is Positive         ... pos = 21.159 	neg = 5.5  
+Overall score of document
+Total Pos = 21.159
+Total Neg = 5.5
+---------------------------------------------------------------------------

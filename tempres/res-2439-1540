@@ -1,0 +1,35 @@
+0. Rated on a 4-star sc                 ... pos = 0.25  	neg = 0.0  
+1. Written by David Fra                 ... pos = 0.0   	neg = 0.0  
+2. Photographed by John                 ... pos = 0.0   	neg = 0.0  
+3. Ridley Scott's "Glad                 ... pos = 1.375 	neg = 0.125
+4. It needs to spend mo                 ... pos = 0.0   	neg = 0.0  
+5. This is a "hero out                  ... pos = 0.375 	neg = 0.5  
+6. It's like channel-ho                 ... pos = 0.0   	neg = 0.0  
+7. Russell Crowe stars                  ... pos = 0.0   	neg = 0.0  
+8. Marcus is so impress                 ... pos = 0.125 	neg = 0.125
+9. His son Commodus (Jo                 ... pos = 1.0   	neg = 0.375
+10. Commodus kills his f                ... pos = 0.125 	neg = 0.0  
+11. Of course, Maximus e                ... pos = 0.0   	neg = 0.0  
+12. Then  Maximus is kid                ... pos = 0.0   	neg = 0.125
+13. His master, Proximo                 ... pos = 0.125 	neg = 0.0  
+14. There the crowd fall                ... pos = 0.625 	neg = 0.25 
+15. The movie is basical                ... pos = 0.875 	neg = 0.125
+16. That is as it should                ... pos = 0.0   	neg = 0.25 
+17. The problem is that                 ... pos = 0.25  	neg = 0.875
+18. Look at "Ben-Hur" or                ... pos = 0.375 	neg = 0.375
+19. Crowe gives a  great                ... pos = 0.0   	neg = 0.0  
+20. He's a powerful, pas                ... pos = 0.625 	neg = 0.125
+21. We just don't get th                ... pos = 0.5   	neg = 0.0  
+22. Because "Gladiator"                 ... pos = 0.375 	neg = 0.125
+23. We can't  simply enj                ... pos = 0.375 	neg = 0.0  
+24. Roman bloodlust is o                ... pos = 0.25  	neg = 1.125
+25. What we have here, u                ... pos = 1.0   	neg = 0.125
+26. The  overall bold, c                ... pos = 0.125 	neg = 0.625
+27. Strange: "Gladiator"                ... pos = 0.875 	neg = 0.25 
+28. COPYRIGHT(c) 2000 Ia                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2439-1540 is Positive        ... pos = 9.625 	neg = 5.625
+Overall score of document
+Total Pos = 9.625
+Total Neg = 5.625
+---------------------------------------------------------------------------

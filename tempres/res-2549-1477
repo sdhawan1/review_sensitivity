@@ -1,0 +1,52 @@
+0. Year: 1999 Starring                  ... pos = 1.0   	neg = 0.25 
+1. His "Shawshank Redem                 ... pos = 0.625 	neg = 0.0  
+2. "The Green Mile," al                 ... pos = 0.125 	neg = 0.125
+3. Just in time for the                 ... pos = 0.75  	neg = 0.0  
+4. "The Green Mile," th                 ... pos = 0.125 	neg = 0.25 
+5. Two-time Oscar winne                 ... pos = 0.25  	neg = 0.0  
+6. A new prisoner catch                 ... pos = 0.375 	neg = 0.625
+7. To Edgecomb and the                  ... pos = 0.125 	neg = 0.125
+8. Though large, he is                  ... pos = 0.75  	neg = 0.625
+9. Edgecomb suspects Co                 ... pos = 1.625 	neg = 0.125
+10. Other characters in                 ... pos = 1.0   	neg = 0.25 
+11. The mouse, called Mr                ... pos = 0.0   	neg = 0.625
+12. The strong suit of "                ... pos = 0.5   	neg = 0.125
+13. Tom Hanks, excellent                ... pos = 1.125 	neg = 0.125
+14. He's surrounded by a                ... pos = 0.375 	neg = 0.0  
+15. Each would be a fine                ... pos = 0.375 	neg = 0.125
+16. The characters remai                ... pos = 2.0   	neg = 0.0  
+17. The story also conta                ... pos = 0.125 	neg = 2.125
+18. Do they resemble rea                ... pos = 0.0   	neg = 0.0  
+19. No, but they still s                ... pos = 0.0   	neg = 0.25 
+20. In Percy's case, thi                ... pos = 0.0   	neg = 0.375
+21. Some well-known acto                ... pos = 1.875 	neg = 0.125
+22. This film is lifted                 ... pos = 1.125 	neg = 0.5  
+23. Darabont's direction                ... pos = 0.0   	neg = 0.125
+24. He engages in elegan                ... pos = 1.125 	neg = 0.0  
+25. Darabont swells the                 ... pos = 0.625 	neg = 0.0  
+26. Of course, it's not                 ... pos = 0.5   	neg = 0.0  
+27. "The Green Mile" is                 ... pos = 0.25  	neg = 0.125
+28. The film is lengthy,                ... pos = 0.375 	neg = 0.125
+29. It moves fairly quic                ... pos = 0.875 	neg = 1.0  
+30. It's a similar probl                ... pos = 0.625 	neg = 0.25 
+31. " I'm still unclear                 ... pos = 0.0   	neg = 0.25 
+32. They don't add much                 ... pos = 0.125 	neg = 0.125
+33. Other than the unnec                ... pos = 0.25  	neg = 0.625
+34. If you've ever read                 ... pos = 0.125 	neg = 0.0  
+35. The good guys will c                ... pos = 0.25  	neg = 0.875
+36. Furthermore, the scr                ... pos = 0.625 	neg = 0.625
+37. Case in point: when                 ... pos = 0.125 	neg = 0.75 
+38. Contrivances aside,                 ... pos = 0.125 	neg = 0.25 
+39. (How could it be, wi                ... pos = 0.0   	neg = 0.125
+40. ) It's a fable, and                 ... pos = 0.25  	neg = 0    
+41. The emotional climax                ... pos = 1.25  	neg = 0.0  
+42. "The Green Mile" is                 ... pos = 0.625 	neg = 0.375
+43. It's schmaltzier ele                ... pos = 1.375 	neg = 0.0  
+44. You won't receive an                ... pos = 0.75  	neg = 0.75 
+45. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2549-1477 is Positive        ... pos = 24.5  	neg = 13.125
+Overall score of document
+Total Pos = 24.5
+Total Neg = 13.125
+---------------------------------------------------------------------------

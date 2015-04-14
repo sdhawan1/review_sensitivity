@@ -1,0 +1,60 @@
+0. Directed by M Night                  ... pos = 0.0   	neg = 0.0  
+1. Starring Bruce Willi                 ... pos = 0.0   	neg = 0.0  
+2. Running time: 120 mi                 ... pos = 0     	neg = 0.0  
+3. Rated PG for mature                  ... pos = 0.25  	neg = 0    
+4. Reviewed on November                 ... pos = 0.0   	neg = 0.0  
+5. After the success of                 ... pos = 0.125 	neg = 0.375
+6. Opening quietly in m                 ... pos = 0.0   	neg = 0.0  
+7. It made Shyamalan an                 ... pos = 0.125 	neg = 0.25 
+8. A year later, Shyama                 ... pos = 0.0   	neg = 0.0  
+9. Like "The Sixth Sens                 ... pos = 0.125 	neg = 0.0  
+10. But unlike its prede                ... pos = 0.375 	neg = 0.25 
+11. Its paranormal eleme                ... pos = 0.5   	neg = 0.0  
+12. This may disappoint                 ... pos = 1.75  	neg = 0.625
+13. Even more so than "T                ... pos = 1.0   	neg = 0.0  
+14. Both films tease wit                ... pos = 0.25  	neg = 0.375
+15. Indeed, "Unbreakable                ... pos = 0.625 	neg = 0.125
+16. But it is nonetheles                ... pos = 2.25  	neg = 0.125
+17. Willis plays David D                ... pos = 0.25  	neg = 0.125
+18. David's world is thr                ... pos = 0.0   	neg = 0.875
+19. David is the sole su                ... pos = 0.375 	neg = 0.375
+20. Soon, he starts rece                ... pos = 0.375 	neg = 0.125
+21. ". The messenger is                 ... pos = 0.25  	neg = 0.5  
+22. Price's skeletal str                ... pos = 0.625 	neg = 0.25 
+23. He believes that, if                ... pos = 0.75  	neg = 0.5  
+24. After years of searc                ... pos = 0.125 	neg = 0.125
+25. If "Unbreakable" cou                ... pos = 0.0   	neg = 0.25 
+26. In the lingo of grap                ... pos = 1.25  	neg = 0.0  
+27. But this is a very p                ... pos = 0.5   	neg = 1.0  
+28. Whereas most movies                 ... pos = 0.875 	neg = 0.5  
+29. The basic axioms of                 ... pos = 0.625 	neg = 0.0  
+30. While the "realistic                ... pos = 0.625 	neg = 0.25 
+31. Shyamalan handles hi                ... pos = 0.5   	neg = 0.0  
+32. Although the almost                 ... pos = 1.125 	neg = 0.25 
+33. There are times when                ... pos = 0.75  	neg = 0.0  
+34. But, more often than                ... pos = 0.5   	neg = 0.0  
+35. Unfortunately, in do                ... pos = 0.0   	neg = 0.875
+36. Like that picture, "                ... pos = 1.75  	neg = 0.0  
+37. The picture then tak                ... pos = 0.75  	neg = 0.0  
+38. Certainly, Shyamalan                ... pos = 1.875 	neg = 0.125
+39. But his adherence to                ... pos = 0.0   	neg = 0.625
+40. As in "The Sixth Sen                ... pos = 0.989 	neg = 0.5  
+41. His performance here                ... pos = 0.875 	neg = 0.25 
+42. This makes it diffic                ... pos = 0.0   	neg = 0.0  
+43. Jackson is given muc                ... pos = 0.5   	neg = 0.125
+44. Price is the sort of                ... pos = 1.75  	neg = 0.375
+45. Although his role is                ... pos = 2.625 	neg = 0.375
+46. Similarly, Penn does                ... pos = 1.5   	neg = 0.0  
+47. It is through his re                ... pos = 0.75  	neg = 0.25 
+48. Note that this shoul                ... pos = 0.0   	neg = 0.125
+49. The graphic novel ha                ... pos = 0.125 	neg = 0.0  
+50. "Unbreakable" finall                ... pos = 0.375 	neg = 0.0  
+51. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+52. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+53. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3905-1444 is Positive        ... pos = 31.239 	neg = 10.875
+Overall score of document
+Total Pos = 31.239
+Total Neg = 10.875
+---------------------------------------------------------------------------

@@ -1,0 +1,43 @@
+0. Books could be, and                  ... pos = 0.0   	neg = 0.25 
+1. This is a set of mov                 ... pos = 0.75  	neg = 0.5  
+2. The special effects                  ... pos = 0.375 	neg = 0.375
+3. Literally millions o                 ... pos = 0.125 	neg = 0.125
+4. And now, George Luca                 ... pos = 0.75  	neg = 0.0  
+5. Much has been and is                 ... pos = 0.375 	neg = 0.25 
+6. Some fans are angry                  ... pos = 1.375 	neg = 0.25 
+7. Either way, the Spec                 ... pos = 1.0   	neg = 0.25 
+8. Can there be anyone                  ... pos = 0.0   	neg = 0.25 
+9. In a way, Star Wars                  ... pos = 0.375 	neg = 0.25 
+10. It's a story about a                ... pos = 2.5   	neg = 0.125
+11. It's high adventure,                ... pos = 0.5   	neg = 0.25 
+12. Something about this                ... pos = 0.0   	neg = 0.0  
+13. This new release of                 ... pos = 0.75  	neg = 0.25 
+14. Interviews, trailers                ... pos = 0.0   	neg = 0.125
+15. Pictures of before a                ... pos = 0.0   	neg = 0.5  
+16. In some cases, the c                ... pos = 0.125 	neg = 0.5  
+17. The digital matte ef                ... pos = 1.75  	neg = 0.75 
+18. For instance, in my                 ... pos = 0.0   	neg = 0.125
+19. And Mos Eisley Space                ... pos = 1.125 	neg = 0.125
+20. All the starships an                ... pos = 0.875 	neg = 0.75 
+21. Four and a half minu                ... pos = 1.25  	neg = 0.5  
+22. However, much of the                ... pos = 0.25  	neg = 0.125
+23. The negatives, badly                ... pos = 0.5   	neg = 0.375
+24. The audio tracks wer                ... pos = 0.625 	neg = 0.625
+25. And _that_, more tha                ... pos = 0.75  	neg = 0.375
+26. It's really true wha                ... pos = 0.5   	neg = 0.0  
+27. Even letterboxing do                ... pos = 0.0   	neg = 0.0  
+28. In regard to the Sta                ... pos = 1.0   	neg = 0.125
+29. Go and see it more t                ... pos = 0.0   	neg = 0.25 
+30. Take along the young                ... pos = 1.875 	neg = 0.0  
+31. There's magic in thi                ... pos = 0.125 	neg = 1.125
+32. Let's all return to                 ... pos = 0.0   	neg = 0.375
+33. This review is copyr                ... pos = 0.0   	neg = 0.125
+34. Permission granted f                ... pos = 1.625 	neg = 0.0  
+35. All other distributi                ... pos = 0.375 	neg = 0    
+36. --  Chris Meadows ak                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5652-817 is Positive         ... pos = 21.625 	neg = 10.0 
+Overall score of document
+Total Pos = 21.625
+Total Neg = 10.0
+---------------------------------------------------------------------------

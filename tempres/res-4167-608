@@ -1,0 +1,25 @@
+0. Je heet Steven Spiel                 ... pos = 0.0   	neg = 0.125
+1. Wat doe je dan?                      ... pos = 0.0   	neg = 0    
+2. Simpel, je richt de                  ... pos = 0.0   	neg = 0.0  
+3. Als eindresultaat kr                 ... pos = 0.0   	neg = 0.0  
+4. De film begint in Ru                 ... pos = 0.0   	neg = 0.125
+5. Ook de wapens worden                 ... pos = 0.0   	neg = 0.0  
+6. Als afleiding laten                  ... pos = 0     	neg = 0    
+7. Au.                                  ... pos = 0.0   	neg = 0    
+8. De Amerikaanse reger                 ... pos = 0.0   	neg = 0.0  
+9. Zij moeten zo snel m                 ... pos = 0.0   	neg = 0.0  
+10. Na lange  zoektochte                ... pos = 0.0   	neg = 0.0  
+11. Tien  kernbommen wel                ... pos = 0.0   	neg = 0.125
+12. Met als bestemming:                 ... pos = 0.375 	neg = 0    
+13. Het is duidelijk dat                ... pos = 0.0   	neg = 0.125
+14. De spannende autoscÄ                ... pos = 0.375 	neg = 0.125
+15. Maar daar blijft het                ... pos = 0.0   	neg = 0.25 
+16. Een leuke doorsnee a                ... pos = 0     	neg = 0    
+17. Jan / Martijn / Ria                 ... pos = 0.0   	neg = 0.0  
+18. E-mail us at: mailto                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4167-608 is Negative         ... pos = 0.75  	neg = 0.875
+Overall score of document
+Total Pos = 0.75
+Total Neg = 0.875
+---------------------------------------------------------------------------

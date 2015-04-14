@@ -1,0 +1,38 @@
+0. The sequel to The Fu                 ... pos = 0.25  	neg = 0.125
+1. Tommy Lee Jones retu                 ... pos = 0.375 	neg = 0.375
+2. This time, he's afte                 ... pos = 0.25  	neg = 0.125
+3. What follows is abou                 ... pos = 0.625 	neg = 0.25 
+4. When comparing  this                 ... pos = 0.0   	neg = 0.125
+5. But even on it's own                 ... pos = 0.0   	neg = 1.0  
+6. While the original w                 ... pos = 0.625 	neg = 0.375
+7. While The Fugitive g                 ... pos = 1.125 	neg = 0.625
+8. To be honest, I coul                 ... pos = 1.375 	neg = 0.125
+9. Snipes performance i                 ... pos = 1.125 	neg = 0.5  
+10. Tommy Lee Jones is a                ... pos = 0.0   	neg = 0.25 
+11. The sense of deja vu                ... pos = 0.375 	neg = 0.125
+12. I know it's the same                ... pos = 1.625 	neg = 0.375
+13. There's a few 'nudge                ... pos = 0.125 	neg = 0.25 
+14. Nobody even mentions                ... pos = 0.25  	neg = 0.0  
+15. Downey Jnr is OK as                 ... pos = 0.0   	neg = 0.5  
+16. Nobody looks as if t                ... pos = 1.0   	neg = 0.375
+17. The supporting cast                 ... pos = 0.625 	neg = 0.25 
+18. It doesn't fare any                 ... pos = 0.0   	neg = 0.0  
+19. The film starts off                 ... pos = 0.0   	neg = 1.875
+20. As said above, the f                ... pos = 1.0   	neg = 0.25 
+21. If this film wasn't                 ... pos = 0.0   	neg = 0.125
+22. And because of the f                ... pos = 0.125 	neg = 0.125
+23. Stuart Baird, the di                ... pos = 0.0   	neg = 0.375
+24. It's director is the                ... pos = 0.125 	neg = 0.125
+25. Even the plane crash                ... pos = 0.0   	neg = 0.125
+26. The special effects                 ... pos = 1.5   	neg = 0.375
+27. But in the end, U.S                 ... pos = 0.0   	neg = 0.5  
+28. Sure, it's loud and                 ... pos = 0.375 	neg = 0.375
+29. Bored performers and                ... pos = 0.75  	neg = 0.25 
+30. OVERALL RATING=  **                 ... pos = 0.25  	neg = 0.0  
+31. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5482-1213 is Positive        ... pos = 13.875 	neg = 10.25
+Overall score of document
+Total Pos = 13.875
+Total Neg = 10.25
+---------------------------------------------------------------------------

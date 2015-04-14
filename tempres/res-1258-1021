@@ -1,0 +1,33 @@
+0. Jurassic Park was a                  ... pos = 0.375 	neg = 0.125
+1. We began to think...                 ... pos = 0.0   	neg = 0.125
+2. The Lost World shows                 ... pos = 0.0   	neg = 0.875
+3. The movie starts out                 ... pos = 0.25  	neg = 0.0  
+4. John has a propositi                 ... pos = 0.0   	neg = 0.25 
+5. There is "Site B".                   ... pos = 0     	neg = 0.125
+6. The Isla Nablar mues                 ... pos = 0.75  	neg = 0.125
+7. Jurassic Park were o                 ... pos = 0.625 	neg = 0.25 
+8. Hammond knew that ev                 ... pos = 0.0   	neg = 0.125
+9. Ian refused until he                 ... pos = 0.0   	neg = 0.25 
+10. He went there, not f                ... pos = 0.5   	neg = 0.0  
+11. He goes there only t                ... pos = 0.0   	neg = 0.0  
+12. He finds his girlfri                ... pos = 0.0   	neg = 0.0  
+13. No sooner then he fi                ... pos = 0.0   	neg = 0.25 
+14. They are INGEN, John                ... pos = 0.25  	neg = 0    
+15. They begin to mess u                ... pos = 0.0   	neg = 0.0  
+16. The leader is Hammon                ... pos = 0.0   	neg = 0.125
+17. His sidekick if you                 ... pos = 0.375 	neg = 0.375
+18. This movie was great                ... pos = 0.875 	neg = 0.125
+19. You will hear countl                ... pos = 0.125 	neg = 0.75 
+20. "  Well, here's how                 ... pos = 0.0   	neg = 0.375
+21. They are two complet                ... pos = 0.875 	neg = 0.0  
+22. The movie didn't fol                ... pos = 0.0   	neg = 0.125
+23. You can't compare ap                ... pos = 0.5   	neg = 0.25 
+24. Looking solely at th                ... pos = 0.0   	neg = 0.625
+25. If you loved Jurassi                ... pos = 1.25  	neg = 0    
+26. http://us.imdb.com/M                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1258-1021 is Positive        ... pos = 6.75  	neg = 5.25 
+Overall score of document
+Total Pos = 6.75
+Total Neg = 5.25
+---------------------------------------------------------------------------

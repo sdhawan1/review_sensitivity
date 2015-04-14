@@ -1,0 +1,56 @@
+0. `Fight Club' is the                  ... pos = 0.5   	neg = 0.125
+1. It's a sublimely biz                 ... pos = 0.375 	neg = 0.25 
+2. But that's certainly                 ... pos = 0.25  	neg = 0.0  
+3. The trailer would ha                 ... pos = 0.25  	neg = 0.0  
+4. Really, `Fight Club'                 ... pos = 0.125 	neg = 0.0  
+5. Fincher's astounding                 ... pos = 0.0   	neg = 0.625
+6. The director has sho                 ... pos = 0.25  	neg = 0.0  
+7. Fincher has a knack                  ... pos = 0.0   	neg = 0.0  
+8. This is one wild and                 ... pos = 0.125 	neg = 0.875
+9. This is the story of                 ... pos = 0.0   	neg = 1.125
+10. Attending a self-hel                ... pos = 0.0   	neg = 0.75 
+11. He begins appearing                 ... pos = 0.0   	neg = 0.125
+12. It just doesn't work                ... pos = 0.0   	neg = 0.0  
+13. That is, until he me                ... pos = 0.75  	neg = 0.75 
+14. `Fight Club' is Jim                 ... pos = 0.375 	neg = 0.125
+15. For the majority of                 ... pos = 1.125 	neg = 0.0  
+16. There are many detai                ... pos = 0.25  	neg = 0.0  
+17. During these moments                ... pos = 0.0   	neg = 0.0  
+18. After a while, this                 ... pos = 0.625 	neg = 0.0  
+19. There are only 8 sim                ... pos = 0.25  	neg = 0.0  
+20. The first rule: `You                ... pos = 0.125 	neg = 0.0  
+21. ' The second: `You D                ... pos = 0.0   	neg = 0.0  
+22. ' Any questions so f                ... pos = 0.0   	neg = 0.0  
+23. At around the two-ho                ... pos = 0.75  	neg = 0.5  
+24. Is this twist at all                ... pos = 0.0   	neg = 0.125
+25. Certainly not.                      ... pos = 0.25  	neg = 0    
+26. It's goofy but moder                ... pos = 0.625 	neg = 0.625
+27. Some may compare thi                ... pos = 0.75  	neg = 0.0  
+28. Unlike that previous                ... pos = 0.375 	neg = 0.375
+29. Still, it's an inter                ... pos = 1.125 	neg = 0.125
+30. Around Oscar time ne                ... pos = 0.0   	neg = 0.0  
+31. I vote for Norton, w                ... pos = 1.125 	neg = 0.25 
+32. But the memorable ce                ... pos = 2.25  	neg = 0.125
+33. Make a note: Brad Pi                ... pos = 0.125 	neg = 0.0  
+34. Bonham Carter approa                ... pos = 0.75  	neg = 0.25 
+35. The Loaf plays an ov                ... pos = 0.25  	neg = 0.25 
+36. Just thought you'd l                ... pos = 0     	neg = 0.0  
+37. There is a graphic a                ... pos = 0.875 	neg = 1.0  
+38. Fincher corners the                 ... pos = 0.125 	neg = 0.125
+39. Yes indeed, and a he                ... pos = 0.75  	neg = 0.0  
+40. If you think that so                ... pos = 0.5   	neg = 0.125
+41. Right from square on                ... pos = 0.25  	neg = 0.125
+42. Of course, there is                 ... pos = 0.0   	neg = 0.125
+43. For instance, why co                ... pos = 0.375 	neg = 0.375
+44. Live freely, Tyler c                ... pos = 0.375 	neg = 0.0  
+45. Few of these moral m                ... pos = 0.125 	neg = 0.0  
+46. But `Fight Club' del                ... pos = 1.625 	neg = 0.0  
+47. This alone provides                 ... pos = 0.25  	neg = 0.0  
+48. So do it, before I g                ... pos = 0.375 	neg = 0.0  
+49. MOVIE VIEWS by Jamey                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3869-693 is Positive         ... pos = 19.375 	neg = 9.25 
+Overall score of document
+Total Pos = 19.375
+Total Neg = 9.25
+---------------------------------------------------------------------------

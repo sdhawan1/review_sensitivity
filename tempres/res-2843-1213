@@ -1,0 +1,39 @@
+0. Starring Will Smith,                 ... pos = 1.125 	neg = 0.25 
+1. Wild Wild West, the                  ... pos = 0.75  	neg = 0.875
+2. Will Smith plays Jim                 ... pos = 0.125 	neg = 0.0  
+3. He is called by Pres                 ... pos = 0.25  	neg = 0.125
+4. West is paired up wi                 ... pos = 0.0   	neg = 1.0  
+5. ). Before I pile on                  ... pos = 0.875 	neg = 0.625
+6. There's a nice credi                 ... pos = 1.25  	neg = 0.375
+7. There's also a pleas                 ... pos = 0.625 	neg = 0    
+8. Buried deep in the d                 ... pos = 0.25  	neg = 0.25 
+9. And Salma Hayek pops                 ... pos = 0.0   	neg = 0.125
+10. Apart from these fac                ... pos = 0.0   	neg = 0.5  
+11. Firstly, there's lit                ... pos = 0.0   	neg = 0.375
+12. One would expect zin                ... pos = 0.125 	neg = 0.0  
+13. Both of them plod th                ... pos = 0.0   	neg = 0.125
+14. Not even Kenneth Bra                ... pos = 0.875 	neg = 0.625
+15. Therefore, he just c                ... pos = 0.0   	neg = 0.75 
+16. The only enjoyable p                ... pos = 0.5   	neg = 0.625
+17. She appears to be in                ... pos = 0.0   	neg = 1.125
+18. Her character also c                ... pos = 1.875 	neg = 0.625
+19. The 'humour' in the                 ... pos = 0.5   	neg = 0.75 
+20. Will Smith put a lit                ... pos = 0.125 	neg = 0.25 
+21. The script largely b                ... pos = 1.125 	neg = 0.25 
+22. It's also somewhat r                ... pos = 0.75  	neg = 0.75 
+23. It's not a funny sce                ... pos = 0.5   	neg = 0.625
+24. The film also makes                 ... pos = 0.875 	neg = 2.625
+25. There's also problem                ... pos = 0.0   	neg = 0.25 
+26. Jim West and Artemus                ... pos = 1.875 	neg = 0.125
+27. Plot elements are in                ... pos = 0.25  	neg = 0.0  
+28. The main piece of th                ... pos = 0.625 	neg = 1.0  
+29. Why not Loveless bui                ... pos = 0.0   	neg = 0.625
+30. Director Barry Sonne                ... pos = 1.5   	neg = 0.5  
+31. Wild Wild West could                ... pos = 0.125 	neg = 0.625
+32. It's a sad thing whe                ... pos = 0.0   	neg = 1.625
+---------------------------------------------------------------------------
+./temp/tmp-2843-1213 is Negative        ... pos = 16.875 	neg = 18.375
+Overall score of document
+Total Pos = 16.875
+Total Neg = 18.375
+---------------------------------------------------------------------------

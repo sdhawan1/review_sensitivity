@@ -1,0 +1,42 @@
+0. In Don DeLillo's nov                 ... pos = 1.5   	neg = 0.125
+1. They can serve the f                 ... pos = 0.0   	neg = 0.0  
+2. One way a man untriv                 ... pos = 0.0   	neg = 0.25 
+3. " This is the subver                 ... pos = 0.25  	neg = 0.125
+4. Edward Norton plays                  ... pos = 0.0   	neg = 0.0  
+5. He has a respectable                 ... pos = 0.75  	neg = 0.25 
+6. He seeks comfort in                  ... pos = 0.0   	neg = 0.25 
+7. Just as The Narrator                 ... pos = 0.25  	neg = 0.625
+8. As a waiter he urina                 ... pos = 0.0   	neg = 0.0  
+9. As a cinema projecti                 ... pos = 0.5   	neg = 0.0  
+10. As a soap salesman h                ... pos = 0.125 	neg = 0.375
+11. Outside a bar, Tyler                ... pos = 0.0   	neg = 0.0  
+12. He is reluctant at f                ... pos = 0.25  	neg = 0.125
+13. They find a strange                 ... pos = 0.375 	neg = 0.0  
+14. Other men gather to                 ... pos = 0.25  	neg = 0.0  
+15. The first Fight Club                ... pos = 0.125 	neg = 0.125
+16. Men from all walks o                ... pos = 0.125 	neg = 0.75 
+17. The club is an insta                ... pos = 0.125 	neg = 0.125
+18. Tyler Durden becomes                ... pos = 1.0   	neg = 0.125
+19. David Fincher direct                ... pos = 0.25  	neg = 0.625
+20. Astonishing images i                ... pos = 0.0   	neg = 0.0  
+21. The medium of film i                ... pos = 0.875 	neg = 0.5  
+22. And yet none of this                ... pos = 0.75  	neg = 0.0  
+23. Jim Uhls' screenplay                ... pos = 0.25  	neg = 0.0  
+24. The film contains ma                ... pos = 0.0   	neg = 1.0  
+25. Some have expressed                 ... pos = 0.0   	neg = 0.0  
+26. The fight scenes are                ... pos = 1.125 	neg = 0.75 
+27. One beating in parti                ... pos = 0.0   	neg = 0.375
+28. But like A Clockwork                ... pos = 1.0   	neg = 0.625
+29. Stanley Kubrick's fi                ... pos = 0.625 	neg = 0.375
+30. Fight Club takes as                 ... pos = 0.625 	neg = 0.375
+31. Both Norton and Pitt                ... pos = 1.625 	neg = 0.0  
+32. Excellent design, so                ... pos = 1.125 	neg = 0    
+33. There is a staggerin                ... pos = 0.125 	neg = 1.25 
+34. Dangerous and dazzli                ... pos = 1.375 	neg = 0.125
+35. --  Gary Jones  Home                ... pos = 1.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3869-312 is Positive         ... pos = 16.375 	neg = 9.25 
+Overall score of document
+Total Pos = 16.375
+Total Neg = 9.25
+---------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+0. "Mission to Mars" is                 ... pos = 1.0   	neg = 0.875
+1. "Mission" *does* giv                 ... pos = 0.0   	neg = 0.75 
+2. "Mission" has some g                 ... pos = 1.5   	neg = 0.375
+3. I'm sure the directo                 ... pos = 1.625 	neg = 0.25 
+4. Glances don't commun                 ... pos = 1.0   	neg = 0.0  
+5. The film spends an h                 ... pos = 0.0   	neg = 0.25 
+6. A lot of it is a cli                 ... pos = 0.5   	neg = 0.875
+7. There are some spect                 ... pos = 1.375 	neg = 0.875
+8. The sequence with th                 ... pos = 1.5   	neg = 0.5  
+9. Great design, good i                 ... pos = 0.75  	neg = 0.25 
+10. If you're not a die                 ... pos = 1.75  	neg = 1.125
+11. And what the hell, T                ... pos = 0.0   	neg = 0.875
+12. That's just unforgiv                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-977 is Positive         ... pos = 11.0  	neg = 7.0  
+Overall score of document
+Total Pos = 11.0
+Total Neg = 7.0
+---------------------------------------------------------------------------

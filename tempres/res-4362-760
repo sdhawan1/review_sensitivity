@@ -1,0 +1,14 @@
+0. Director: Alexander                  ... pos = 0.0   	neg = 0.0  
+1. US Distribution: Par                 ... pos = 0.75  	neg = 1.5  
+2. True, it's a story a                 ... pos = 0.5   	neg = 0.375
+3. But Election serves                  ... pos = 0.375 	neg = 0.125
+4. The film features fo                 ... pos = 1.875 	neg = 0.0  
+5. Chris Klein is wonde                 ... pos = 1.5   	neg = 0.375
+6. But what really make                 ... pos = 2.5   	neg = 0.125
+7. In short, Election i                 ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4362-760 is Positive         ... pos = 7.5   	neg = 2.75 
+Overall score of document
+Total Pos = 7.5
+Total Neg = 2.75
+---------------------------------------------------------------------------

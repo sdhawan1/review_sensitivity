@@ -1,0 +1,39 @@
+0. Starring Wesley Snip                 ... pos = 0.0   	neg = 0.125
+1. Blade is based on th                 ... pos = 0.875 	neg = 0.125
+2. It is a very stylish                 ... pos = 1.5   	neg = 0.125
+3. Although, at a few p                 ... pos = 0.375 	neg = 0.125
+4. The ideas behind Bla                 ... pos = 1.0   	neg = 0.125
+5. But at times, things                 ... pos = 0.625 	neg = 0.5  
+6. That really doesn't                  ... pos = 0.125 	neg = 0.5  
+7. Blade (Snipes) is ha                 ... pos = 0.0   	neg = 0.125
+8. His mother was bitte                 ... pos = 0.875 	neg = 0.25 
+9. Including a thirst f                 ... pos = 1.25  	neg = 0.125
+10. Blade has spent his                 ... pos = 0.0   	neg = 0.25 
+11. But this isn't as ea                ... pos = 0.625 	neg = 0.125
+12. The government and o                ... pos = 0.5   	neg = 0.0  
+13. Where do vampires ge                ... pos = 0     	neg = 0.0  
+14. Well, in Blade, they                ... pos = 0.0   	neg = 0.0  
+15. I personally thought                ... pos = 1.0   	neg = 0.125
+16. Blade runs up agains                ... pos = 0.0   	neg = 0.75 
+17. He isn't content to                 ... pos = 1.0   	neg = 0.25 
+18. He has managed to tr                ... pos = 0.0   	neg = 0.625
+19. It's up to Blade to                 ... pos = 0.0   	neg = 0.0  
+20. Admittedly, Blade is                ... pos = 0.0   	neg = 0.125
+21. The story is a relat                ... pos = 0.25  	neg = 0.25 
+22. The acting in Blade                 ... pos = 0.0   	neg = 0.125
+23. This isn't a film th                ... pos = 0.625 	neg = 0.125
+24. The movie is played                 ... pos = 0.125 	neg = 0.25 
+25. It's a popcorn movie                ... pos = 0.0   	neg = 0.25 
+26. Blade's production v                ... pos = 0.5   	neg = 0.0  
+27. The combat sequences                ... pos = 0.25  	neg = 0.5  
+28. Although, the MTV-st                ... pos = 0.0   	neg = 0.625
+29. Blade is a fun movie                ... pos = 0.125 	neg = 0.125
+30. This is not the movi                ... pos = 0.0   	neg = 0.125
+31. What Blade excels at                ... pos = 0.875 	neg = 0.125
+32. Very cool.. .                       ... pos = 0.5   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5673-488 is Positive         ... pos = 13.0  	neg = 6.875
+Overall score of document
+Total Pos = 13.0
+Total Neg = 6.875
+---------------------------------------------------------------------------

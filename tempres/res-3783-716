@@ -1,0 +1,36 @@
+0. For his latest film                  ... pos = 0.875 	neg = 0.875
+1. Harry's success as a                 ... pos = 1.5   	neg = 0.375
+2. He is cynical and un                 ... pos = 0.0   	neg = 0.75 
+3. He even tells women                  ... pos = 0.25  	neg = 0.125
+4. " This is tough mate                 ... pos = 0.75  	neg = 0.375
+5. Allen develops the s                 ... pos = 0.25  	neg = 0    
+6. At times, the charac                 ... pos = 1.375 	neg = 0.0  
+7. He also makes use of                 ... pos = 0.875 	neg = 0.875
+8. While this effect he                 ... pos = 0.625 	neg = 0.25 
+9. And perhaps that's t                 ... pos = 0.375 	neg = 0.25 
+10. Allen devotes the fi                ... pos = 1.0   	neg = 0.375
+11. This does not make t                ... pos = 0.25  	neg = 1.5  
+12. A film can have an u                ... pos = 1.75  	neg = 0.0  
+13. Or it can have an un                ... pos = 1.75  	neg = 0.125
+14. Neither of these thi                ... pos = 0.739 	neg = 0.75 
+15. And the theme - that                ... pos = 0.75  	neg = 0.875
+16. Does it still work a                ... pos = 0.0   	neg = 0.0  
+17. Well, sort of.                      ... pos = 0.0   	neg = 0.0  
+18. Here we have the oth                ... pos = 1.125 	neg = 0.5  
+19. Allen might have got                ... pos = 1.75  	neg = 0.625
+20. One of his ex-wives,                ... pos = 0.5   	neg = 0.375
+21. Later, there seems t                ... pos = 0.625 	neg = 0.375
+22. Then Faye inexplicab                ... pos = 0.0   	neg = 0.625
+23. Granted, these momen                ... pos = 2.5   	neg = 0.125
+24. There are, however,                 ... pos = 0.875 	neg = 0.5  
+25. The first fifteen mi                ... pos = 0.5   	neg = 0.75 
+26. I am not saying that                ... pos = 2.875 	neg = 0.625
+27. I am saying, however                ... pos = 1.375 	neg = 0.25 
+28. Aside from the few m                ... pos = 2.125 	neg = 0.25 
+29. After that, the movi                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-3783-716 is Positive         ... pos = 27.489 	neg = 12.625
+Overall score of document
+Total Pos = 27.489
+Total Neg = 12.625
+---------------------------------------------------------------------------

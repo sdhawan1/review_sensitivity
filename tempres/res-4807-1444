@@ -1,0 +1,55 @@
+0. Directed by Eric Lei                 ... pos = 0.0   	neg = 0    
+1. Screenplay by John H                 ... pos = 0.0   	neg = 0.0  
+2. Starring D.B.                        ... pos = 0     	neg = 0.0  
+3. Sweeney, Alfre Wooda                 ... pos = 0     	neg = 0.0  
+4. Running time: 83 min                 ... pos = 0     	neg = 0.0  
+5. Rated PG by the MFCB                 ... pos = 0.125 	neg = 0    
+6. Reviewed on June 13t                 ... pos = 0.0   	neg = 0.0  
+7. When a movie targete                 ... pos = 0.5   	neg = 0.625
+8. There is some of thi                 ... pos = 0.0   	neg = 0.125
+9. Instead, what will e                 ... pos = 1.5   	neg = 0.25 
+10. I first became aware                ... pos = 0.625 	neg = 0.625
+11. I can still remember                ... pos = 0.625 	neg = 0.625
+12. And while "Jurassic                 ... pos = 0.375 	neg = 0.625
+13. For here not only do                ... pos = 1.125 	neg = 0.125
+14. One of the most incr                ... pos = 1.0   	neg = 0.875
+15. And the success of "                ... pos = 0.125 	neg = 0.0  
+16. Check out the way th                ... pos = 0.125 	neg = 0.25 
+17. Granted, the animati                ... pos = 1.0   	neg = 0.375
+18. But  these are minor                ... pos = 1.125 	neg = 0.5  
+19. Of course, there's a                ... pos = 0.0   	neg = 0.25 
+20. Aladar (DB Sweeney)                 ... pos = 0.375 	neg = 0.375
+21. (Realistically, mamm                ... pos = 1.25  	neg = 0.5  
+22. ) Aladar leads a hap                ... pos = 0.875 	neg = 0.0  
+23. Then one evening, a                 ... pos = 0.25  	neg = 0.0  
+24. (This sequence is a                 ... pos = 3.375 	neg = 0.75 
+25. ) The survivors incl                ... pos = 0.0   	neg = 0.625
+26. Swimming to the main                ... pos = 0.25  	neg = 0.75 
+27. (It's not made clear                ... pos = 0.0   	neg = 0.25 
+28. ). They soon come up                ... pos = 0.125 	neg = 0.75 
+29. The dinosaurs are le                ... pos = 0.25  	neg = 0.0  
+30. Kron adheres strictl                ... pos = 3.375 	neg = 0.125
+31. The dinosaurs soon f                ... pos = 0.375 	neg = 0.625
+32. "Dinosaur" is well-w                ... pos = 0.5   	neg = 0.375
+33. But there are some v                ... pos = 1.625 	neg = 0.25 
+34. After an opening ten                ... pos = 0.75  	neg = 0.5  
+35. But this feeling of                 ... pos = 0.0   	neg = 0.375
+36. Much of the characte                ... pos = 0.375 	neg = 0.125
+37. Only Davis, as the g                ... pos = 0.625 	neg = 0.0  
+38. The movie benefits f                ... pos = 0.625 	neg = 0.0  
+39. Images of the sprawl                ... pos = 1.125 	neg = 0.0  
+40. Also helping to rais                ... pos = 1.25  	neg = 0.125
+41. Most kids will enjoy                ... pos = 0.5   	neg = 0.125
+42. There are some nice                 ... pos = 2.0   	neg = 0.375
+43. Parents of very youn                ... pos = 0.875 	neg = 0.625
+44. The destruction of t                ... pos = 0.5   	neg = 0.375
+45. For the most part, t                ... pos = 1.5   	neg = 0.25 
+46. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+47. Archived at The Popc                ... pos = 0.5   	neg = 0.0  
+48. " - Oscar Wilde |  \                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4807-1444 is Positive        ... pos = 31.5  	neg = 13.5 
+Overall score of document
+Total Pos = 31.5
+Total Neg = 13.5
+---------------------------------------------------------------------------

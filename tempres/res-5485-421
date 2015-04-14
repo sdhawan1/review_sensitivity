@@ -1,0 +1,29 @@
+0. During the making of                 ... pos = 0.0   	neg = 0.0  
+1. Western movies and j                 ... pos = 0.0   	neg = 0    
+2. Everyone knew that C                 ... pos = 0.625 	neg = 0.125
+3. After reflecting upo                 ... pos = 0.125 	neg = 0.125
+4. After UNFORGIVEN, th                 ... pos = 0.0   	neg = 0.0  
+5. His latest, TRUE CRI                 ... pos = 1.375 	neg = 0.625
+6. TRUE CRIME tells the                 ... pos = 0.5   	neg = 0    
+7. Ev, as he is known t                 ... pos = 0.5   	neg = 0.375
+8. In the aftermath, Ev                 ... pos = 0.5   	neg = 0.5  
+9. Ev's boss (James Woo                 ... pos = 0.375 	neg = 0.25 
+10. But Ev finds somethi                ... pos = 0.0   	neg = 0.125
+11. After a meeting with                ... pos = 0.125 	neg = 0.125
+12. In the hours leading                ... pos = 0.875 	neg = 0.0  
+13. For most of its 2-pl                ... pos = 0.5   	neg = 0.125
+14. It keeps the viewer                 ... pos = 0.5   	neg = 0.0  
+15. But the last 15 minu                ... pos = 0.5   	neg = 0.125
+16. The ending of TRUE C                ... pos = 0.625 	neg = 0.75 
+17. The film's ending ha                ... pos = 0.125 	neg = 0.625
+18. Maybe part of the pr                ... pos = 1.375 	neg = 0.625
+19. Eastwood uses clever                ... pos = 0.625 	neg = 0.5  
+20. But TRUE CRIME is a                 ... pos = 0.75  	neg = 0.125
+21. I'm glad to see that                ... pos = 0.875 	neg = 0.125
+22. review by Akiva Gott                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5485-421 is Positive         ... pos = 10.875 	neg = 5.375
+Overall score of document
+Total Pos = 10.875
+Total Neg = 5.375
+---------------------------------------------------------------------------

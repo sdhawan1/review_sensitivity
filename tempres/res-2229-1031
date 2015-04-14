@@ -1,0 +1,48 @@
+0. Rating: *** (out of                  ... pos = 1.5   	neg = 0.625
+1. " The line is played                 ... pos = 1.125 	neg = 0.375
+2. See, critics have ne                 ... pos = 1.25  	neg = 0.375
+3. But lo and behold: "                 ... pos = 0.875 	neg = 0.375
+4. Sandler tones his pa                 ... pos = 0.375 	neg = 0.25 
+5. There's no smug inan                 ... pos = 0.25  	neg = 0.25 
+6. " No fingernails-on-                 ... pos = 0.0   	neg = 0.25 
+7. " No sugary sentimen                 ... pos = 0.125 	neg = 0.75 
+8. But for the most par                 ... pos = 0.875 	neg = 0.0  
+9. ". Sandler stars her                 ... pos = 0.625 	neg = 0.75 
+10. All typical Sandler                 ... pos = 0.125 	neg = 0.375
+11. It's an atypical San                ... pos = 0.25  	neg = 0.625
+12. The kid is not his s                ... pos = 0.375 	neg = 0.125
+13. Alas, a reconciliati                ... pos = 0.0   	neg = 0.125
+14. She, sick of his man                ... pos = 0.875 	neg = 0.125
+15. "Hey, Old Man River,                ... pos = 0.0   	neg = 0    
+16. "Zip it.                            ... pos = 0.0   	neg = 0    
+17. " Too late.                         ... pos = 0     	neg = 0.25 
+18. The "Austin Powers"                 ... pos = 0.5   	neg = 0.0  
+19. Let's just say that                 ... pos = 0.25  	neg = 0.375
+20. Yes, Virginia, bodil                ... pos = 0.375 	neg = 0.0  
+21. But in "Big Daddy,"                 ... pos = 0.5   	neg = 0.25 
+22. When two of Sonny's                 ... pos = 1.75  	neg = 0.625
+23. Elsewhere, Sandler's                ... pos = 0.375 	neg = 0.375
+24. Forget that Jar Jar                 ... pos = 0.75  	neg = 0    
+25. Schneider makes for                 ... pos = 0.0   	neg = 0.0  
+26. "I keep hoping the k                ... pos = 0.375 	neg = 1.5  
+27. Duh.                                ... pos = 0     	neg = 0    
+28. Sandler's guaranteed                ... pos = 1.25  	neg = 0.875
+29. They include glib Jo                ... pos = 0.375 	neg = 0.25 
+30. Those Sprouse brothe                ... pos = 0.25  	neg = 0.0  
+31. Let's hope they pass                ... pos = 0.375 	neg = 0.0  
+32. Sandler, too, stays                 ... pos = 0.0   	neg = 0.25 
+33. Here, our leading go                ... pos = 0.875 	neg = 0.375
+34. Drama may never be S                ... pos = 0.5   	neg = 0.25 
+35. Following suit, "Big                ... pos = 0.25  	neg = 0.375
+36. Š 1999 Jamie Peck E                ... pos = 0.125 	neg = 0.125
+37. Armageddon' is cut                ... pos = 0.5   	neg = 0.125
+38. Take almost any 30 s                ... pos = 0.0   	neg = 0.0  
+39. The movie is an assa                ... pos = 0.875 	neg = 0.25 
+40. No matter what they'                ... pos = 0.0   	neg = 0.25 
+41. " -Roger Ebert on "A                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2229-1031 is Positive        ... pos = 18.875 	neg = 11.875
+Overall score of document
+Total Pos = 18.875
+Total Neg = 11.875
+---------------------------------------------------------------------------

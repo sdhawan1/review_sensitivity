@@ -1,0 +1,47 @@
+0. Film Criticism By Za                 ... pos = 0.25  	neg = 0.0  
+1. Dimension.                           ... pos = 0     	neg = 0.0  
+2. Neve Campbell, Court                 ... pos = 0.0   	neg = 0.0  
+3. Directed by Wes Crav                 ... pos = 0.0   	neg = 0    
+4. There was a lot ridi                 ... pos = 0.0   	neg = 0.125
+5. Everyone even modera                 ... pos = 0.0   	neg = 0.375
+6. What would be the "f                 ... pos = 0     	neg = 0.125
+7. This is the end of a                 ... pos = 1.0   	neg = 0.375
+8. No need to worry; "S                 ... pos = 0.875 	neg = 0.5  
+9. So, how does the sto                 ... pos = 0.0   	neg = 0.0  
+10. As opposed to what s                ... pos = 2.375 	neg = 0.125
+11. She works at home as                ... pos = 0.0   	neg = 0.625
+12. But thatâs not                 ... pos = 0.0   	neg = 0.625
+13. Instead, in a tactic                ... pos = 0.75  	neg = 0.375
+14. The rest of the sequ                ... pos = 0.625 	neg = 0.5  
+15. Not only does he sou                ... pos = 1.625 	neg = 0.0  
+16. At the same time, St                ... pos = 2.25  	neg = 0.125
+17. Nevertheless, we lea                ... pos = 0.25  	neg = 0.875
+18. So, it seems that th                ... pos = 0.0   	neg = 1.375
+19. Sometimes both.                     ... pos = 0.0   	neg = 0    
+20. Clever, indeed.                     ... pos = 0.5   	neg = 0    
+21. But, who goes next?                 ... pos = 0.0   	neg = 0.0  
+22. No one knows.                       ... pos = 0.0   	neg = 0.25 
+23. Three different scri                ... pos = 1.375 	neg = 1.75 
+24. Still, all the while                ... pos = 0.625 	neg = 0.125
+25. When Sidney finally                 ... pos = 1.625 	neg = 0.875
+26. Okay, over the years                ... pos = 0.0   	neg = 0.125
+27. No, I donât hav                ... pos = 0.625 	neg = 1.0  
+28. Throughout the film,                ... pos = 0.625 	neg = 0.0  
+29. Granted that thereâ                ... pos = 0.75  	neg = 0.0  
+30. Honestly, I like thi                ... pos = 0.0   	neg = 0.0  
+31. Itâs more class                ... pos = 0.5   	neg = 0.0  
+32. He knows when to hol                ... pos = 1.181 	neg = 0.0  
+33. Some critics have no                ... pos = 1.25  	neg = 0.875
+34. It does the job, I g                ... pos = 2.0   	neg = 1.75 
+35. All in all, "Scream                 ... pos = 0.0   	neg = 0.5  
+36. As a trilogy, "Screa                ... pos = 0.375 	neg = 0.125
+37. Almost sad to see it                ... pos = 0.0   	neg = 0.75 
+38. But then, it does se                ... pos = 1.375 	neg = 0.0  
+39. For now, "Scream" ho                ... pos = 1.0   	neg = 0.125
+40. Not too shabby.. .                  ... pos = 0.0   	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-4511-417 is Positive         ... pos = 23.806 	neg = 14.875
+Overall score of document
+Total Pos = 23.806
+Total Neg = 14.875
+---------------------------------------------------------------------------

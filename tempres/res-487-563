@@ -1,0 +1,42 @@
+0. Starring Matthew Per                 ... pos = 0.0   	neg = 0.0  
+1. Directed by Jonathan                 ... pos = 0.0   	neg = 0    
+2. Rated R.. The Whole                  ... pos = 0.75  	neg = 0.125
+3. Aside from a rare co                 ... pos = 0.25  	neg = 0.375
+4. But director Jonatha                 ... pos = 0.875 	neg = 0.625
+5. The secret to this m                 ... pos = 1.125 	neg = 0.125
+6. Friends's Matthew Pe                 ... pos = 0.5   	neg = 0.0  
+7. One day Nick realize                 ... pos = 0.125 	neg = 1.375
+8. Jimmy has a price on                 ... pos = 0.75  	neg = 0.0  
+9. Nick's antichrist of                 ... pos = 0.0   	neg = 0.625
+10. In Chicago, Nick mee                ... pos = 0.0   	neg = 0.0  
+11. He is instructed to                 ... pos = 0.5   	neg = 0.125
+12. But The Tulip has pl                ... pos = 0.0   	neg = 0.0  
+13. You see, Nick's wife                ... pos = 0.875 	neg = 0.5  
+14. When Gogolack and hi                ... pos = 0.125 	neg = 0.125
+15. But of course a movi                ... pos = 0.625 	neg = 0.375
+16. The kicker is that J                ... pos = 0.0   	neg = 0.125
+17. To claim the money,                 ... pos = 0.25  	neg = 0.125
+18. Thus, Jimmy wants to                ... pos = 0.125 	neg = 0.0  
+19. Lovesick Nick can't                 ... pos = 0.5   	neg = 0.0  
+20. There's a whole lot                 ... pos = 0.375 	neg = 0.0  
+21. But The Whole Nine Y                ... pos = 0.75  	neg = 0.0  
+22. It's hard to tell wh                ... pos = 0.75  	neg = 1.625
+23. It never seems to fl                ... pos = 0.125 	neg = 0.25 
+24. Matthew Perry has ma                ... pos = 0.0   	neg = 0.0  
+25. He's done it in his                 ... pos = 0.0   	neg = 0.125
+26. I never seem to get                 ... pos = 0.625 	neg = 0.625
+27. His masterful comic                 ... pos = 0.75  	neg = 0.0  
+28. Playing alongside Pe                ... pos = 0.25  	neg = 1.0  
+29. His performance here                ... pos = 0.0   	neg = 0.125
+30. Willis's Jimmy Tudes                ... pos = 2.5   	neg = 0.125
+31. There's a scene in T                ... pos = 0.25  	neg = 0.0  
+32. Perry is astonished                 ... pos = 0.75  	neg = 0.125
+33. Perry is far too ruf                ... pos = 0.0   	neg = 1.0  
+34. A lesser movie might                ... pos = 0.375 	neg = 0.75 
+35. But without so much                 ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-487-563 is Positive          ... pos = 15.125 	neg = 10.5 
+Overall score of document
+Total Pos = 15.125
+Total Neg = 10.5
+---------------------------------------------------------------------------

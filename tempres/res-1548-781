@@ -1,0 +1,62 @@
+0. "You'll go ape over                  ... pos = 0.25  	neg = 0.375
+1. "  Okay, there's the                 ... pos = 0.375 	neg = 0.125
+2. Disney's latest anim                 ... pos = 0.75  	neg = 0.0  
+3. Father, mother, and                  ... pos = 0.125 	neg = 0.0  
+4. It's amazing, the ki                 ... pos = 0.0   	neg = 0.0  
+5. Before you know it,                  ... pos = 0.25  	neg = 0.375
+6. Against the wishes o                 ... pos = 0.375 	neg = 0.0  
+7. TARZAN is not so muc                 ... pos = 1.0   	neg = 0.5  
+8. Much of Tarzan's you                 ... pos = 0.625 	neg = 1.875
+9. All he's looking for                 ... pos = 1.75  	neg = 0.125
+10. When you really thin                ... pos = 0.5   	neg = 0.25 
+11. Look back on past Di                ... pos = 0.125 	neg = 0.375
+12. Growing up, Tarzan (                ... pos = 0.25  	neg = 0.0  
+13. One is an ape named                 ... pos = 0.0   	neg = 0.625
+14. Both provide the req                ... pos = 0.75  	neg = 0.375
+15. I'm beginning to thi                ... pos = 0.0   	neg = 0.0  
+16. Just fill in the bla                ... pos = 0.0   	neg = 0.0  
+17. Can you see it?                     ... pos = 0.0   	neg = 0.0  
+18. "Now we have to have                ... pos = 0.625 	neg = 0.625
+19. We've already had a                 ... pos = 0.25  	neg = 1.0  
+20. Well, there we go!                  ... pos = 0.0   	neg = 0.0  
+21. ". Of course, there'                ... pos = 0.625 	neg = 0.625
+22. Together with her fa                ... pos = 0.375 	neg = 0.5  
+23. She discovers the ma                ... pos = 0.875 	neg = 0.5  
+24. Thankfully, those ar                ... pos = 0.0   	neg = 0.0  
+25. However, I found it                 ... pos = 0.875 	neg = 0.125
+26. How does he tell his                ... pos = 0.0   	neg = 0.5  
+27. "Ohh ohh ee - Tarzan                ... pos = 0.125 	neg = 0    
+28. "  Well, regardless                 ... pos = 1.25  	neg = 0.0  
+29. But hey, Tarzan's a                 ... pos = 0.0   	neg = 0.0  
+30. Do you think he date                ... pos = 0.0   	neg = 0.375
+31. Isn't that illegal i                ... pos = 0.0   	neg = 0    
+32. Oh, well.                           ... pos = 0.0   	neg = 0.0  
+33. I don't think Disney                ... pos = 0.125 	neg = 0.125
+34. TARZAN departs from                 ... pos = 0.25  	neg = 0.125
+35. There's lots of musi                ... pos = 1.125 	neg = 0.375
+36. We instead get more                 ... pos = 0.375 	neg = 0.0  
+37. This isn't really a                 ... pos = 1.75  	neg = 0.875
+38. Do yourself a favor                 ... pos = 1.0   	neg = 0.0  
+39. With each new featur                ... pos = 0.375 	neg = 0.0  
+40. Not necessarily by l                ... pos = 0.75  	neg = 0.125
+41. There are a couple o                ... pos = 0.75  	neg = 0.0  
+42. The way he slides do                ... pos = 0.75  	neg = 0.125
+43. "  However, TARZAN d                ... pos = 1.0   	neg = 0.125
+44. Lasting but a few se                ... pos = 0.75  	neg = 0.625
+45. As usual, the voice                 ... pos = 1.625 	neg = 0.125
+46. The one poor choice                 ... pos = 0.125 	neg = 0.125
+47. Going into the film,                ... pos = 0.0   	neg = 0.125
+48. Her performance was                 ... pos = 0.25  	neg = 0.75 
+49. "  Distracting to sa                ... pos = 0.0   	neg = 0.0  
+50. I'll admit I've neve                ... pos = 0.5   	neg = 0.375
+51. But unless you're a                 ... pos = 0.5   	neg = 0.0  
+52. With solid performan                ... pos = 0.625 	neg = 0.0  
+53. Note:  When I wrote                 ... pos = 0.375 	neg = 0.625
+54. This time, I'll just                ... pos = 0.125 	neg = 0.125
+55. 'Nuff said.. .                      ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1548-781 is Positive         ... pos = 25.25 	neg = 14.0 
+Overall score of document
+Total Pos = 25.25
+Total Neg = 14.0
+---------------------------------------------------------------------------

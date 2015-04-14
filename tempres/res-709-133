@@ -1,0 +1,26 @@
+0. "Payback" - Mel Gibs                 ... pos = 0.625 	neg = 1.0  
+1. But the ads do it a                  ... pos = 0.75  	neg = 0.75 
+2. Mel Gibson is Porter                 ... pos = 0.625 	neg = 0.5  
+3. After he and partner                 ... pos = 0.0   	neg = 0.0  
+4. Always ready to hold                 ... pos = 0.625 	neg = 0.0  
+5. Along the way, he ha                 ... pos = 0.0   	neg = 0.375
+6. The only person he c                 ... pos = 1.125 	neg = 0.375
+7. Set in a blue-hued C                 ... pos = 0.25  	neg = 0    
+8. Granted, Porter's ce                 ... pos = 1.875 	neg = 0.0  
+9. But everyone else in                 ... pos = 0.875 	neg = 0.625
+10. And what they deserv                ... pos = 0.875 	neg = 0    
+11. People get shot and                 ... pos = 0.5   	neg = 0.0  
+12. Not everything is sh                ... pos = 0.625 	neg = 0.125
+13. "Payback" largely re                ... pos = 2.5   	neg = 0.0  
+14. Gibson has a knack f                ... pos = 1.0   	neg = 0.25 
+15. And the bad guys - t                ... pos = 0.875 	neg = 1.75 
+16. The only short shrif                ... pos = 0.5   	neg = 0.25 
+17. Beyond that, "Paybac                ... pos = 1.75  	neg = 0.125
+18. (This review was ori                ... pos = 0.375 	neg = 0.125
+19. ). .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-709-133 is Positive          ... pos = 15.75 	neg = 6.25 
+Overall score of document
+Total Pos = 15.75
+Total Neg = 6.25
+---------------------------------------------------------------------------

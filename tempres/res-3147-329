@@ -1,0 +1,36 @@
+0. Those looking for a                  ... pos = 0.75  	neg = 0.0  
+1. Mickey Blue Eyes is                  ... pos = 0.875 	neg = 0.25 
+2. Since this film is P                 ... pos = 0.0   	neg = 0.125
+3. (Heavy use of the f-                 ... pos = 0.0   	neg = 0.0  
+4. )  Not to mention th                 ... pos = 1.125 	neg = 0.0  
+5. Michael Felgate (Gra                 ... pos = 0.75  	neg = 0.125
+6. He’s known Gina Vi                 ... pos = 0.0   	neg = 0.0  
+7. He does, and she’s                 ... pos = 0.625 	neg = 0.0  
+8. She runs away.                       ... pos = 0.0   	neg = 0    
+9. Michael goes searchi                 ... pos = 0.0   	neg = 0.0  
+10. It turns out that Gi                ... pos = 0.0   	neg = 0.25 
+11. Gina says that no ma                ... pos = 0.125 	neg = 0.375
+12. But sooner or later                 ... pos = 0.0   	neg = 0.0  
+13. Michael is forced to                ... pos = 0.25  	neg = 0.75 
+14. This money launderin                ... pos = 0.0   	neg = 0.125
+15. Soon Michael is disp                ... pos = 0.625 	neg = 1.375
+16. Everyone in the film                ... pos = 0.0   	neg = 0.75 
+17. James Caan goes thro                ... pos = 0.75  	neg = 0.0  
+18. Jeanne Tripplehorn h                ... pos = 0.375 	neg = 0.0  
+19. But Hugh Grant (who                 ... pos = 0.125 	neg = 0.5  
+20. Joe Viterelli (who a                ... pos = 1.25  	neg = 0.0  
+21. This is a very simpl                ... pos = 0.75  	neg = 0.125
+22. For this reason, I t                ... pos = 0.375 	neg = 0.0  
+23. Much of the humor ju                ... pos = 0.25  	neg = 0.75 
+24. Rent Mickey Blue Eye                ... pos = 0.875 	neg = 0.0  
+25. Overall Grade: B                    ... pos = 1.0   	neg = 0.0  
+26. The Young-Uns: This                 ... pos = 0.0   	neg = 0.0  
+27. There is also a heav                ... pos = 0.0   	neg = 0.125
+28. There are also  some                ... pos = 0.25  	neg = 0.875
+29. Good Age: 12 and up.                ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3147-329 is Positive         ... pos = 11.875 	neg = 6.5  
+Overall score of document
+Total Pos = 11.875
+Total Neg = 6.5
+---------------------------------------------------------------------------

@@ -1,0 +1,64 @@
+0. Directed by Paul Tho                 ... pos = 0.0   	neg = 0.0  
+1. Screenplay by Anders                 ... pos = 0.0   	neg = 0.0  
+2. Starring Philip  Bak                 ... pos = 0.0   	neg = 0.0  
+3. Running time: 188 mi                 ... pos = 0     	neg = 0.0  
+4. Rated R  for offensi                 ... pos = 0.125 	neg = 0.0  
+5. Reviewed on March 20                 ... pos = 0.0   	neg = 0.0  
+6. I am almost surprise                 ... pos = 0.125 	neg = 0.125
+7. But although I have                  ... pos = 0.625 	neg = 0.375
+8. This is not to say t                 ... pos = 0.75  	neg = 0.375
+9. But  it is one of th                 ... pos = 0.75  	neg = 0.375
+10. "Magnolia" is the br                ... pos = 0.0   	neg = 0.25 
+11. Some critics have re                ... pos = 1.875 	neg = 0.0  
+12. "Magnolia" tells the                ... pos = 0.0   	neg = 0.0  
+13. Jim Kurring (John C                 ... pos = 0.0   	neg = 0.5  
+14. On a routine call, h                ... pos = 0.0   	neg = 0.0  
+15. Claudia's father is                 ... pos = 1.375 	neg = 0.875
+16. The current star of                 ... pos = 0.25  	neg = 0.125
+17. Stanley has raised t                ... pos = 0.5   	neg = 0.125
+18. Smith became famous                 ... pos = 0.875 	neg = 1.125
+19. Meanwhile, Frank T.J                ... pos = 0.0   	neg = 0.125
+20. Mackey's estranged f                ... pos = 0.0   	neg = 0.125
+21. Partridge is cared f                ... pos = 0.5   	neg = 0.25 
+22. Partridge's much you                ... pos = 0.75  	neg = 0.125
+23. There are a number o                ... pos = 0.25  	neg = 0.0  
+24. The  most obvious is                ... pos = 0.375 	neg = 0.125
+25. The movie, obviously                ... pos = 0.875 	neg = 0.375
+26. This theme is almost                ... pos = 3.25  	neg = 0.375
+27. It would be  crimina                ... pos = 0.625 	neg = 0.25 
+28. If the first event                  ... pos = 0.5   	neg = 1.25 
+29. While this in of its                ... pos = 0.5   	neg = 0.375
+30. The struggle between                ... pos = 0.0   	neg = 0.0  
+31. Events  have conspir                ... pos = 0.0   	neg = 0.75 
+32. Both Robards and Hal                ... pos = 0.25  	neg = 0    
+33. Both Moore and Walte                ... pos = 0.0   	neg = 0.25 
+34. Both the Robards/Moo                ... pos = 0.625 	neg = 0.0  
+35. Both Parma and Reill                ... pos = 0.25  	neg = 0.5  
+36. Both Walters and Mac                ... pos = 0.25  	neg = 0.0  
+37. Macy has already suf                ... pos = 0.625 	neg = 0.375
+38. Even at over three h                ... pos = 0.5   	neg = 1.0  
+39. But this is both its                ... pos = 0.125 	neg = 0.125
+40. It is difficult to t                ... pos = 0.625 	neg = 0.5  
+41. Early  on, for examp                ... pos = 0.0   	neg = 0.0  
+42. Sure, it's not integ                ... pos = 2.125 	neg = 0.625
+43. And a few of the sub                ... pos = 0.0   	neg = 0.0  
+44. Blackman and Bowen's                ... pos = 0.0   	neg = 0.0  
+45. It is ironic that, f                ... pos = 0.75  	neg = 0.75 
+46. But  maybe that isn'                ... pos = 0.0   	neg = 0.875
+47. The large cast mainl                ... pos = 0.375 	neg = 0.0  
+48. Cruise's  Oscar-nomi                ... pos = 0.0   	neg = 0    
+49. Here he turns his pu                ... pos = 0.25  	neg = 0.0  
+50. Also excellent  is H                ... pos = 1.75  	neg = 0.125
+51. Really, only Moore                  ... pos = 0.375 	neg = 0.125
+52. Although by no means                ... pos = 0.25  	neg = 1.125
+53. "Magnolia" is a rari                ... pos = 0.75  	neg = 0.125
+54. Brilliantly acted, r                ... pos = 1.25  	neg = 0.125
+55. It is little wonder                 ... pos = 0.5   	neg = 0.375
+56. Copyright Š 2000 Sh                ... pos = 0.0   	neg = 0.0  
+57. Archived at http://w                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4191-1444 is Positive        ... pos = 26.5  	neg = 15.375
+Overall score of document
+Total Pos = 26.5
+Total Neg = 15.375
+---------------------------------------------------------------------------

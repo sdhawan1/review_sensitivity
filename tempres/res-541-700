@@ -1,0 +1,30 @@
+0. Release Date: Februa                 ... pos = 1.25  	neg = 0.125
+1. It's been proposed t                 ... pos = 0.5   	neg = 0.75 
+2. Naturally, then, ing                 ... pos = 0.375 	neg = 0.25 
+3. However, if one can                  ... pos = 1.0   	neg = 0.25 
+4. DARK CITY, by far th                 ... pos = 1.25  	neg = 0.125
+5. The intellectual sci                 ... pos = 0.375 	neg = 0.0  
+6. But Director Alex Pr                 ... pos = 0.125 	neg = 0.375
+7. There's one problem                  ... pos = 0.0   	neg = 0.25 
+8. His answer: suspense                 ... pos = 0.0   	neg = 0.125
+9. Kudos to both he and                 ... pos = 0.5   	neg = 0.0  
+10. The weirdness that i                ... pos = 1.625 	neg = 0.5  
+11. The plot that inhabi                ... pos = 0.0   	neg = 0.125
+12. As many bright minds                ... pos = 0.125 	neg = 0.5  
+13. Imagine that you are                ... pos = 0.375 	neg = 0.75 
+14. In this case, John M                ... pos = 0.375 	neg = 0.125
+15. Headed up by respect                ... pos = 0.625 	neg = 0.125
+16. Their motive is to l                ... pos = 0.375 	neg = 0.375
+17. Most humans fall pre                ... pos = 0.375 	neg = 0.25 
+18. The plot is containe                ... pos = 0.25  	neg = 0.125
+19. Several movies have                 ... pos = 0.25  	neg = 0.375
+20. In DARK CITY, on the                ... pos = 0.625 	neg = 0.0  
+21. One of DARK CITY's p                ... pos = 0.875 	neg = 0.25 
+22. The characters are d                ... pos = 3.0   	neg = 1.25 
+23. Other than that, DAR                ... pos = 0.625 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-541-700 is Positive          ... pos = 14.875 	neg = 7.375
+Overall score of document
+Total Pos = 14.875
+Total Neg = 7.375
+---------------------------------------------------------------------------

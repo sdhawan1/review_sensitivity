@@ -1,0 +1,55 @@
+0. give me a buzz on th                 ... pos = 0.0   	neg = 0.125
+1. It's not fair to pre                 ... pos = 0.0   	neg = 1.125
+2. For instance, I thou                 ... pos = 1.625 	neg = 0.125
+3. So, yes, preconceive                 ... pos = 1.0   	neg = 0.0  
+4. Having said all of t                 ... pos = 0.0   	neg = 0.0  
+5. Sorry, but the ol' m                 ... pos = 0.125 	neg = 1.0  
+6. The screenwriter of                  ... pos = 0.0   	neg = 0.75 
+7. I think "Taxi Driver                 ... pos = 0.625 	neg = 0.375
+8. I hold Schrader resp                 ... pos = 0.875 	neg = 0.0  
+9. Well, if that film i                 ... pos = 0.375 	neg = 0.25 
+10. This is a typical Sc                ... pos = 0.5   	neg = 0.125
+11. It probes the emotio                ... pos = 2.875 	neg = 0.5  
+12. There's no subtlety                 ... pos = 0.0   	neg = 0.75 
+13. It's actually too ob                ... pos = 0.125 	neg = 0.25 
+14. However, I hate to g                ... pos = 0.375 	neg = 0.0  
+15. So I won't.                         ... pos = 0     	neg = 0.0  
+16. This is a film worth                ... pos = 0.25  	neg = 0.125
+17. The performances are                ... pos = 0.25  	neg = 0.125
+18. The story features W                ... pos = 0.625 	neg = 0.5  
+19. He also works as a s                ... pos = 0.0   	neg = 0.0  
+20. His life is an absol                ... pos = 0.0   	neg = 0.125
+21. His daughter says sh                ... pos = 0.875 	neg = 0.0  
+22. His girlfriend, Marg                ... pos = 0.25  	neg = 0.25 
+23. Willem Dafoe, who na                ... pos = 0.25  	neg = 0.875
+24. And that leads us to                ... pos = 0.75  	neg = 0.125
+25. For this unrepentant                ... pos = 0.875 	neg = 0.125
+26. When Wade and Rolfe                 ... pos = 0.0   	neg = 0.125
+27. This contemptable ma                ... pos = 0.5   	neg = 0.0  
+28. Wade tries his best                 ... pos = 0.375 	neg = 1.75 
+29. He is a loser and th                ... pos = 0.5   	neg = 0.875
+30. After an inexperienc                ... pos = 0.875 	neg = 0.25 
+31. He sets out to prove                ... pos = 0.5   	neg = 0.25 
+32. Meanwhile, to add to                ... pos = 0.0   	neg = 0.625
+33. This is supposed to                 ... pos = 1.125 	neg = 0.375
+34. For a little while,                 ... pos = 0.0   	neg = 0.625
+35. But, towards the end                ... pos = 0.25  	neg = 0.75 
+36. He fights that trans                ... pos = 0.0   	neg = 0.5  
+37. I can't say more bec                ... pos = 0.125 	neg = 0.625
+38. )--the very last ima                ... pos = 0.5   	neg = 0.125
+39. After all, he's the                 ... pos = 0.0   	neg = 0    
+40. Nolte could take hom                ... pos = 1.0   	neg = 0.0  
+41. These are definitely                ... pos = 1.5   	neg = 0.625
+42. We want to see what                 ... pos = 0.125 	neg = 0.125
+43. However, this film i                ... pos = 1.0   	neg = 0.5  
+44. A better director wo                ... pos = 0.125 	neg = 0.0  
+45. USELESS TRIVIA--Paul                ... pos = 0.0   	neg = 0.625
+46. If I ever review tha                ... pos = 0.875 	neg = 0.125
+47. There is NO reason f                ... pos = 0.0   	neg = 0.375
+48. ).. . .                             ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3695-1158 is Positive        ... pos = 22.0  	neg = 16.875
+Overall score of document
+Total Pos = 22.0
+Total Neg = 16.875
+---------------------------------------------------------------------------

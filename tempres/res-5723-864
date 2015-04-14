@@ -1,0 +1,43 @@
+0. http://members.aol.c                 ... pos = 0.125 	neg = 0.125
+1. Parents did not appr                 ... pos = 0.0   	neg = 0.375
+2. The show went on to                  ... pos = 0.0   	neg = 0.125
+3. (A-) The phenomenon                  ... pos = 0.125 	neg = 0.25 
+4. Mike Judge, the crea                 ... pos = 0.75  	neg = 0.125
+5. Well, Mike Judge is                  ... pos = 0.0   	neg = 0.125
+6. The style of comedy                  ... pos = 0.0   	neg = 0.75 
+7. Ron Livingston, play                 ... pos = 0.0   	neg = 0.125
+8. His boss Bill, playe                 ... pos = 0.5   	neg = 0.75 
+9. "  Ron is not the ty                 ... pos = 0.0   	neg = 0.125
+10. He pretty much just                 ... pos = 0.125 	neg = 0.625
+11. Other employees at I                ... pos = 0.5   	neg = 0.125
+12. Ron is not happy wit                ... pos = 0.625 	neg = 0.625
+13. He feels trapped.                   ... pos = 0.0   	neg = 0.375
+14. After going to a the                ... pos = 0.125 	neg = 0.25 
+15. He takes this advice                ... pos = 0.125 	neg = 0.0  
+16. He gathers other emp                ... pos = 0.75  	neg = 0.0  
+17. From here, the film                 ... pos = 0.0   	neg = 0.0  
+18. It takes about half                 ... pos = 0.125 	neg = 0.5  
+19. The first half was a                ... pos = 0.875 	neg = 0.5  
+20. All of the performan                ... pos = 0.75  	neg = 0.0  
+21. Peter is also very f                ... pos = 0.75  	neg = 0.125
+22. One of the best perf                ... pos = 0.375 	neg = 0    
+23. She meets Ron, and t                ... pos = 0.0   	neg = 0.0  
+24. The relationship bet                ... pos = 0.0   	neg = 0.125
+25. Jennifer Aniston is                 ... pos = 0.0   	neg = 0.125
+26. She should get a goo                ... pos = 0.75  	neg = 0.125
+27. Sometimes Office Spa                ... pos = 0.5   	neg = 1.0  
+28. Sometimes dialogue d                ... pos = 0.625 	neg = 0.0  
+29. Office Space also ha                ... pos = 0.125 	neg = 0.25 
+30. It was quite a forge                ... pos = 0.75  	neg = 0.5  
+31. It is just another n                ... pos = 0.75  	neg = 0.25 
+32. There are so many co                ... pos = 0.625 	neg = 0.0  
+33. I am getting sick of                ... pos = 0.0   	neg = 0.903
+34. Fortunately, Office                 ... pos = 0.5   	neg = 0.0  
+35. The characters got t                ... pos = 1.5   	neg = 0.25 
+36. The Bottom Line- Yet                ... pos = 0.25  	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-5723-864 is Positive         ... pos = 13.0  	neg = 10.153
+Overall score of document
+Total Pos = 13.0
+Total Neg = 10.153
+---------------------------------------------------------------------------

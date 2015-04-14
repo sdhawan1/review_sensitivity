@@ -1,0 +1,32 @@
+0. starring Casper Van                  ... pos = 0.375 	neg = 0.125
+1. ). Guilt.                            ... pos = 0.0   	neg = 0    
+2. Guilt is something I                 ... pos = 0.0   	neg = 0.25 
+3. But I know so well t                 ... pos = 0.0   	neg = 1.375
+4. Verhoeven went on to                 ... pos = 0.125 	neg = 0.0  
+5. The pic begins with                  ... pos = 0.0   	neg = 0.375
+6. A simple, white on b                 ... pos = 0.25  	neg = 0.125
+7. Is this how a hundre                 ... pos = 0.0   	neg = 0.125
+8. Were the rest of the                 ... pos = 0.0   	neg = 0.25 
+9. They graduate high s                 ... pos = 1.0   	neg = 0.0  
+10. The story is so inco                ... pos = 0.25  	neg = 0.625
+11. (Aside, club lovers                 ... pos = 0.875 	neg = 0.125
+12. ). One plus: Starshi                ... pos = 0.875 	neg = 0.0  
+13. Hysterically funny,                 ... pos = 0.25  	neg = 0.0  
+14. But the cynicism of                 ... pos = 0.5   	neg = 0.375
+15. The storytelling lac                ... pos = 0.0   	neg = 0.125
+16. The politics of the                 ... pos = 0.375 	neg = 0.75 
+17. The actions of the m                ... pos = 1.125 	neg = 0.0  
+18. There's even a creep                ... pos = 0.375 	neg = 1.375
+19. I use the term sicke                ... pos = 0.125 	neg = 0.875
+20. Of course, Verhoeven                ... pos = 0.5   	neg = 0.625
+21. At any rate, a movie                ... pos = 0.0   	neg = 0.375
+22. Exactly ten years ag                ... pos = 0.875 	neg = 0.375
+23. And R-rated, despite                ... pos = 0.0   	neg = 0.0  
+24. Maybe it's asking to                ... pos = 0.125 	neg = 0.625
+25. However, ten year ol                ... pos = 0.625 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1997-1545 is Negative        ... pos = 8.625 	neg = 8.875
+Overall score of document
+Total Pos = 8.625
+Total Neg = 8.875
+---------------------------------------------------------------------------

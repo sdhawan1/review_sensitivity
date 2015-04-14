@@ -1,0 +1,30 @@
+0. Robin Wright Penn re                 ... pos = 0.625 	neg = 0.5  
+1. "  She's right-the s                 ... pos = 0.0   	neg = 0.625
+2. The plot's a sentime                 ... pos = 0.875 	neg = 0.375
+3. Inside is a type-wri                 ... pos = 0.625 	neg = 0.125
+4. The note testifies t                 ... pos = 0.25  	neg = 0.375
+5. Her boss (Robbie Col                 ... pos = 0.25  	neg = 0.0  
+6. The clues in the let                 ... pos = 0.0   	neg = 0.375
+7. His wife Catherine d                 ... pos = 0.0   	neg = 0.0  
+8. Theresa, of course,                  ... pos = 1.875 	neg = 0.375
+9. Romance blooms.                      ... pos = 0.0   	neg = 0    
+10. Both Theresa and Gar                ... pos = 0.375 	neg = 0.375
+11. She dreamed of being                ... pos = 0.25  	neg = 0.0  
+12. Predictably, each in                ... pos = 0.125 	neg = 0.0  
+13. Up to the end, the m                ... pos = 0.625 	neg = 0.125
+14. I won't divulge the                 ... pos = 0.25  	neg = 0.0  
+15. It led me to rethink                ... pos = 0.0   	neg = 0.0  
+16. This is the sort of                 ... pos = 0.0   	neg = 0.125
+17. I was willing to buy                ... pos = 0.375 	neg = 0.25 
+18. Both Penn and Costne                ... pos = 0.614 	neg = 0.125
+19. Paul Newman, who pla                ... pos = 0.25  	neg = 0.125
+20. He's never given a b                ... pos = 0.125 	neg = 0.875
+21. Even in a small supp                ... pos = 0.5   	neg = 0.0  
+22. By the time it was o                ... pos = 0.5   	neg = 0.125
+23. The familiar plot of                ... pos = 1.375 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-3516-1265 is Positive        ... pos = 9.864 	neg = 5.25 
+Overall score of document
+Total Pos = 9.864
+Total Neg = 5.25
+---------------------------------------------------------------------------

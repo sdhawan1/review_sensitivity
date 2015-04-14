@@ -1,0 +1,32 @@
+0. This is an Italian f                 ... pos = 0.0   	neg = 0.125
+1. Most people don't li                 ... pos = 0.0   	neg = 0.0  
+2. If it was in English                 ... pos = 0.375 	neg = 0.25 
+3. It seems almost sacr                 ... pos = 0.5   	neg = 0.25 
+4. To me, it's a cross                  ... pos = 0.25  	neg = 0.0  
+5. The central characte                 ... pos = 1.25  	neg = 0.25 
+6. [Benigni himself has                 ... pos = 1.125 	neg = 0.125
+7. ] His story begins i                 ... pos = 0.0   	neg = 0.0  
+8. There he meets a gir                 ... pos = 0.0   	neg = 0.0  
+9. His courtship is hys                 ... pos = 0.375 	neg = 0.125
+10. I keep remembering s                ... pos = 0.125 	neg = 0.0  
+11. There are the `hat'                 ... pos = 0.25  	neg = 0.125
+12. It is there that he                 ... pos = 0.0   	neg = 0.125
+13. They become an intri                ... pos = 0.0   	neg = 0.0  
+14. Suddenly, it is 1944                ... pos = 0.0   	neg = 0.125
+15. Previously, the Ital                ... pos = 0.125 	neg = 0.0  
+16. But, the Germans beg                ... pos = 0.0   	neg = 0.0  
+17. Guido, his uncle, hi                ... pos = 0.25  	neg = 0.625
+18. Guido, in an attempt                ... pos = 0.5   	neg = 0.75 
+19. The boy loves his to                ... pos = 1.0   	neg = 0.125
+20. Oh, there are so man                ... pos = 1.125 	neg = 0.0  
+21. I can hardly wait fo                ... pos = 0.0   	neg = 0.125
+22. And the sub-titles d                ... pos = 0.0   	neg = 0.125
+23. They are even benefi                ... pos = 1.125 	neg = 0.125
+24. I cannot recommend t                ... pos = 0.625 	neg = 0.25 
+25. I give it an A-, and                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5730-989 is Positive         ... pos = 9.0   	neg = 3.75 
+Overall score of document
+Total Pos = 9.0
+Total Neg = 3.75
+---------------------------------------------------------------------------

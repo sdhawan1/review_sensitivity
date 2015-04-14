@@ -1,0 +1,36 @@
+0. by Curtis Edmonds --                 ... pos = 0.125 	neg = 0.125
+1. I expected to see a                  ... pos = 0.375 	neg = 0.25 
+2. I expected to see cu                 ... pos = 0.875 	neg = 1.625
+3. I expected to hear l                 ... pos = 0.0   	neg = 0.5  
+4. And I expected A Bug                 ... pos = 0.0   	neg = 0.25 
+5. If A Bug's Life did                  ... pos = 1.25  	neg = 0.375
+6. In movies, and life,                 ... pos = 0.125 	neg = 0.0  
+7. What makes A Bug's L                 ... pos = 0.75  	neg = 0.125
+8. A Bug's Life just ha                 ... pos = 0.0   	neg = 0.125
+9. First, you need to k                 ... pos = 0.125 	neg = 0.125
+10. We start off with th                ... pos = 0.25  	neg = 1.125
+11. (To their credit, th                ... pos = 1.5   	neg = 0.125
+12. ) They are opposed b                ... pos = 0.875 	neg = 0.75 
+13. The Ants work like S                ... pos = 0.0   	neg = 0.0  
+14. Along comes Flik, wh                ... pos = 0.375 	neg = 0.125
+15. (Save for his voice,                ... pos = 0.0   	neg = 0.125
+16. )  Flik is an Eagle                 ... pos = 0.0   	neg = 0.125
+17. We know right from t                ... pos = 0.625 	neg = 0.125
+18. When he accidentally                ... pos = 0.375 	neg = 1.5  
+19. He bravely goes fort                ... pos = 0.625 	neg = 0.125
+20. Flik is the closest                 ... pos = 0.75  	neg = 0.375
+21. ). Flik is aided on                 ... pos = 0.375 	neg = 0.125
+22. The troupe provides                 ... pos = 0.0   	neg = 1.125
+23. The top act at the f                ... pos = 0.625 	neg = 0.25 
+24. My only complaint is                ... pos = 1.25  	neg = 0.375
+25. However, this is a m                ... pos = 1.375 	neg = 0.875
+26. A Bug's Life is a la                ... pos = 0.75  	neg = 0.375
+27. Best wishes to them                 ... pos = 1.125 	neg = 0.75 
+28. MovieNation:  Movie                 ... pos = 0.0   	neg = 0.0  
+29. "  -- Sideshow Bob.                 ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1029-1045 is Positive        ... pos = 14.625 	neg = 11.875
+Overall score of document
+Total Pos = 14.625
+Total Neg = 11.875
+---------------------------------------------------------------------------

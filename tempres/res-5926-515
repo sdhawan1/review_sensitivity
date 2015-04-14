@@ -1,0 +1,41 @@
+0. Cast: Trey Parker, M                 ... pos = 0.25  	neg = 1.0  
+1. I've followed it sin                 ... pos = 0.125 	neg = 0.0  
+2. I should also point                  ... pos = 0.5   	neg = 0.125
+3. There have been othe                 ... pos = 0.25  	neg = 0.25 
+4. While South Park:Big                 ... pos = 0.75  	neg = 0.625
+5. As the story goes, t                 ... pos = 1.25  	neg = 0.25 
+6. When they emerge, th                 ... pos = 1.375 	neg = 0.625
+7. This enrages their p                 ... pos = 0.25  	neg = 0.625
+8. What's encouraging a                 ... pos = 0.0   	neg = 0.125
+9. Series creators Trey                 ... pos = 1.0   	neg = 0.125
+10. ) parental responsib                ... pos = 0.375 	neg = 0.0  
+11. Yes you've read corr                ... pos = 0.0   	neg = 0.0  
+12. Don't let that scare                ... pos = 0.25  	neg = 0.75 
+13. Parker and Stone hit                ... pos = 0.0   	neg = 0.0  
+14. No single organizati                ... pos = 0.0   	neg = 0.5  
+15. And what makes the p                ... pos = 0.0   	neg = 0.25 
+16. The situations which                ... pos = 0.5   	neg = 0.0  
+17. Sure the language is                ... pos = 0.25  	neg = 0.25 
+18. However, I don't adv                ... pos = 0.125 	neg = 0.0  
+19. It is definitely not                ... pos = 0.25  	neg = 0.125
+20. Curiously, I think t                ... pos = 0.875 	neg = 0.0  
+21. Why that film is rat                ... pos = 0.125 	neg = 0.25 
+22. Surprisingly, it wou                ... pos = 0.125 	neg = 0.875
+23. Normally I abhor mus                ... pos = 0.875 	neg = 0.0  
+24. And I have to give c                ... pos = 1.125 	neg = 0.125
+25. I've taken a couple                 ... pos = 0.0   	neg = 0.625
+26. In this case, the mu                ... pos = 0.75  	neg = 0.0  
+27. Mocking all differen                ... pos = 0.75  	neg = 0.625
+28. The soundtrack album                ... pos = 0.375 	neg = 0.125
+29. On a sidenote: I wou                ... pos = 1.125 	neg = 0.375
+30. South Park:Bigger, L                ... pos = 1.25  	neg = 0.125
+31. Sure the animation i                ... pos = 1.125 	neg = 0.75 
+32. Those of us who do g                ... pos = 0.5   	neg = 0.0  
+33. [R]. The Jacksonvill                ... pos = 0.0   	neg = 0.0  
+34. No reviews may be re                ... pos = 0.25  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5926-515 is Positive         ... pos = 16.75 	neg = 9.875
+Overall score of document
+Total Pos = 16.75
+Total Neg = 9.875
+---------------------------------------------------------------------------

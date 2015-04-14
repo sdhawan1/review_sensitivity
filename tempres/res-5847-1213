@@ -1,0 +1,37 @@
+0. THE TRUMAN SHOW (PAR                 ... pos = 0.625 	neg = 0.375
+1. In case you've been                  ... pos = 2.125 	neg = 0.125
+2. His life seems so pe                 ... pos = 0.75  	neg = 0.25 
+3. That's right, Burban                 ... pos = 0.375 	neg = 0.125
+4. The film takes the J                 ... pos = 1.0   	neg = 1.125
+5. Luckily, the film re                 ... pos = 1.25  	neg = 0.5  
+6. Talking of Carrey, h                 ... pos = 0.375 	neg = 0.0  
+7. His character is a r                 ... pos = 1.625 	neg = 0.25 
+8. He occasionally fall                 ... pos = 0.25  	neg = 0.5  
+9. He's not completely                  ... pos = 0.625 	neg = 0.0  
+10. Ed Harris brings an                 ... pos = 0.25  	neg = 0.0  
+11. Quiet and well spoke                ... pos = 0.375 	neg = 0    
+12. Unfortunately, he's                 ... pos = 0.125 	neg = 0.875
+13. Also disappointing i                ... pos = 0.875 	neg = 0.375
+14. She plays the role w                ... pos = 0.875 	neg = 1.0  
+15. The supporting cast                 ... pos = 1.75  	neg = 0.5  
+16. The Philip Glass sou                ... pos = 0.875 	neg = 0.25 
+17. Peter Weir keeps the                ... pos = 0.375 	neg = 0.0  
+18. The film is far more                ... pos = 1.25  	neg = 0.125
+19. Although it is sligh                ... pos = 0.0   	neg = 0.375
+20. Sadly, though, the f                ... pos = 0.0   	neg = 0.875
+21. Also, concerning the                ... pos = 0.25  	neg = 0.75 
+22. The screenwriter, An                ... pos = 0.25  	neg = 0.0  
+23. While Christoff's pl                ... pos = 0.25  	neg = 0.25 
+24. Also, there's some f                ... pos = 0.125 	neg = 0.0  
+25. Overall, The Truman                 ... pos = 1.0   	neg = 0.125
+26. Certainly different                 ... pos = 1.125 	neg = 0.375
+27. It offers something                 ... pos = 0.25  	neg = 0.0  
+28. DAVID WILCOCK david.                ... pos = 0.0   	neg = 0.0  
+29. http://wilcockmovie.                ... pos = 0.0   	neg = 0.0  
+30. "You know, for kids"                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5847-1213 is Positive        ... pos = 19.0  	neg = 9.125
+Overall score of document
+Total Pos = 19.0
+Total Neg = 9.125
+---------------------------------------------------------------------------

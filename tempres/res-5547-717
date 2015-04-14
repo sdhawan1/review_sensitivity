@@ -1,0 +1,44 @@
+0. THE FIFTH ELEMENT (C                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 0.25  	neg = 0.375
+3. I just put down on p                 ... pos = 0.625 	neg = 0.0  
+4. I just like to go fo                 ... pos = 0.125 	neg = 0.0  
+5. ". That this is clea                 ... pos = 0.25  	neg = 0.75 
+6. You want a goon squa                 ... pos = 0.0   	neg = 0.125
+7. You want benevolent                  ... pos = 0.625 	neg = 0.125
+8. You want a giant, vi                 ... pos = 0.375 	neg = 1.5  
+9. You want a battered                  ... pos = 1.125 	neg = 0.375
+10. Evil?                               ... pos = 0     	neg = 0.75 
+11. Boy, have you come t                ... pos = 0.25  	neg = 0.0  
+12. Mr. Besson throws st                ... pos = 1.375 	neg = 0.5  
+13. Not exactly high pra                ... pos = 0.5   	neg = 0.125
+14. Its greatest strengt                ... pos = 1.75  	neg = 0    
+15. Save for a fifteen-m                ... pos = 0.5   	neg = 0.375
+16. The scenes in which                 ... pos = 2.625 	neg = 0.25 
+17. Even that staple of                 ... pos = 0.875 	neg = 0.625
+18. Dan Weil's award-wor                ... pos = 0.75  	neg = 0.125
+19. THE FIFTH ELEMENT is                ... pos = 1.0   	neg = 1.375
+20. Why does Mr. Besson                 ... pos = 0.0   	neg = 0.25 
+21. Why, because (in my                 ... pos = 0.375 	neg = 0.375
+22. (fanboy voice off) T                ... pos = 0.0   	neg = 0.875
+23. Tossing every wild i                ... pos = 0.75  	neg = 1.0  
+24. I really couldn't th                ... pos = 0.0   	neg = 0.25 
+25. For that matter, oth                ... pos = 0.375 	neg = 0.25 
+26. At this point I come                ... pos = 0.875 	neg = 0.5  
+27. Why, oh why?                        ... pos = 0     	neg = 0.0  
+28. He seems to be there                ... pos = 0.375 	neg = 1.25 
+29. The Ruby Rhod charac                ... pos = 1.875 	neg = 0.5  
+30. Coming off the best                 ... pos = 0.375 	neg = 0.875
+31. Ian Holm was also ef                ... pos = 0.25  	neg = 0.5  
+32. Gary Oldman is one o                ... pos = 0.625 	neg = 0.125
+33. LEON), is dwarfed by                ... pos = 0.625 	neg = 0.375
+34. Bruce Willis' perfor                ... pos = 0.125 	neg = 0.125
+35. Evil, he's merely al                ... pos = 0.0   	neg = 0.75 
+36. THE FIFTH ELEMENT is                ... pos = 0.125 	neg = 0.625
+37. It doesn't all work                 ... pos = 1.75  	neg = 0.5  
+---------------------------------------------------------------------------
+./temp/tmp-5547-717 is Positive         ... pos = 21.625 	neg = 16.75
+Overall score of document
+Total Pos = 21.625
+Total Neg = 16.75
+---------------------------------------------------------------------------

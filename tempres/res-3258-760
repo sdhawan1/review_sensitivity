@@ -1,0 +1,35 @@
+0. Director:   Jonatha                 ... pos = 0.25  	neg = 0.125
+1. The purpose of Star                  ... pos = 0.25  	neg = 0.125
+2. Sometimes the storie                 ... pos = 0.25  	neg = 0    
+3. Sometimes they're no                 ... pos = 0.0   	neg = 0    
+4. But, with the except                 ... pos = 0.125 	neg = 0.375
+5. Star Trek: Insurrect                 ... pos = 0.0   	neg = 0.375
+6. The film has gotten                  ... pos = 0.375 	neg = 0.375
+7. It's an exciting, of                 ... pos = 0.5   	neg = 0.0  
+8. Some say it's a bit                  ... pos = 0.625 	neg = 0.625
+9. Others say the speci                 ... pos = 0.25  	neg = 1.125
+10. I simply enjoyed the                ... pos = 0.375 	neg = 0.0  
+11. Insurrection, which                 ... pos = 1.875 	neg = 0.125
+12. Of course, these pea                ... pos = 0.25  	neg = 0.0  
+13. The Son'a, who are h                ... pos = 1.375 	neg = 0.375
+14. That's when Captain                 ... pos = 0.875 	neg = 0.25 
+15. So, with his trusty                 ... pos = 0.0   	neg = 0.125
+16. When dealing with a                 ... pos = 1.5   	neg = 0.0  
+17. This is why I believ                ... pos = 1.0   	neg = 0.875
+18. Insurrection, howeve                ... pos = 2.25  	neg = 0    
+19. Stewart is bold as a                ... pos = 1.125 	neg = 0.125
+20. Jonathan Frakes, who                ... pos = 0.125 	neg = 1.875
+21. Frakes showed simila                ... pos = 2.5   	neg = 0.375
+22. This is apparently t                ... pos = 1.625 	neg = 1.0  
+23. If I have any compla                ... pos = 0.5   	neg = 0.5  
+24. I don't think it's t                ... pos = 0.0   	neg = 0.0  
+25. Better yet, why coul                ... pos = 0.25  	neg = 0.0  
+26. Insurrection feels a                ... pos = 0.5   	neg = 0.25 
+27. With it's inherent c                ... pos = 0.25  	neg = 0.0  
+28. I prefer to just enj                ... pos = 1.375 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3258-760 is Positive         ... pos = 20.375 	neg = 9.0  
+Overall score of document
+Total Pos = 20.375
+Total Neg = 9.0
+---------------------------------------------------------------------------

@@ -1,0 +1,55 @@
+0. Approximately one we                 ... pos = 0.625 	neg = 0.25 
+1. New mail continues t                 ... pos = 0.5   	neg = 0.125
+2. This is the best mov                 ... pos = 0.375 	neg = 0.125
+3. " etc.                               ... pos = 0     	neg = 0    
+4. I've responded to th                 ... pos = 0.0   	neg = 0.0  
+5. This will be my fina                 ... pos = 0.875 	neg = 0.375
+6. Here are some of the                 ... pos = 0.5   	neg = 1.0  
+7. As a film critic, I                  ... pos = 0.75  	neg = 0.0  
+8. I am not on a person                 ... pos = 0.0   	neg = 0.125
+9. One reader accuses m                 ... pos = 0.125 	neg = 0.0  
+10. Not so.                             ... pos = 0.0   	neg = 0.0  
+11. I saw the film on op                ... pos = 0.0   	neg = 0.0  
+12. Only later did I dis                ... pos = 0.0   	neg = 0.125
+13. (My exact words: "Wh                ... pos = 0.125 	neg = 0.0  
+14. ")  As I said in my                 ... pos = 0.0   	neg = 0.625
+15. It was only because                 ... pos = 0.375 	neg = 0.125
+16. For the record, I di                ... pos = 0.375 	neg = 0.0  
+17. "  The war scenes ar                ... pos = 1.25  	neg = 0.0  
+18. Is the film signific                ... pos = 0.0   	neg = 0.125
+19. In my eyes, yes.                    ... pos = 0.5   	neg = 0.0  
+20. But if the movie fai                ... pos = 0.25  	neg = 0.125
+21. For that reason alon                ... pos = 0.75  	neg = 0.0  
+22. This doesn't change                 ... pos = 1.0   	neg = 0.125
+23. I found the film ter                ... pos = 0.125 	neg = 0.625
+24. Is he trying to show                ... pos = 0.375 	neg = 0.625
+25. A documentary would'                ... pos = 0.25  	neg = 0.125
+26. Or was Speilberg try                ... pos = 0.0   	neg = 0.625
+27. If so, the war foota                ... pos = 0.0   	neg = 0.5  
+28. One reader criticise                ... pos = 0.875 	neg = 0.0  
+29. "  I'm sorry, but ch                ... pos = 0.875 	neg = 0.75 
+30. If Spielberg didn't                 ... pos = 1.125 	neg = 0.125
+31. By attempting to cre                ... pos = 1.0   	neg = 0.25 
+32. In my own defense: t                ... pos = 1.0   	neg = 0.25 
+33. While the criticisms                ... pos = 0.75  	neg = 0.125
+34. I will also note tha                ... pos = 0.125 	neg = 0.0  
+35. The Raleigh "Indepen                ... pos = 0.0   	neg = 0.0  
+36. Another Internet fil                ... pos = 0.0   	neg = 0.125
+37. Both cited many of t                ... pos = 0.0   	neg = 0.0  
+38. I'm pleased to learn                ... pos = 0.625 	neg = 0.125
+39. And one piece of inf                ... pos = 0.125 	neg = 0.375
+40. ).         One reade                ... pos = 0.875 	neg = 0.0  
+41. She writes:.     Thi                ... pos = 1.125 	neg = 0.125
+42. That's great food-fo                ... pos = 0.0   	neg = 0    
+43. It may prompt me to                 ... pos = 0.0   	neg = 0.0  
+44. Thank you, Linda.                   ... pos = 0.0   	neg = 0    
+45. I'd also like to tha                ... pos = 0.0   	neg = 0.0  
+46. You're welcome.                     ... pos = 0.25  	neg = 0    
+47. I will continue to d                ... pos = 0.125 	neg = 0.0  
+48. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2471-216 is Positive         ... pos = 18.375 	neg = 8.125
+Overall score of document
+Total Pos = 18.375
+Total Neg = 8.125
+---------------------------------------------------------------------------

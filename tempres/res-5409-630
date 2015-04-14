@@ -1,0 +1,58 @@
+0. I have already seen                  ... pos = 0.5   	neg = 0.125
+1. I never do that.                     ... pos = 0.0   	neg = 0.0  
+2. Part of it was my fa                 ... pos = 0.0   	neg = 0.375
+3. But part of it is my                 ... pos = 1.25  	neg = 0.125
+4. Oh, I'm sure there a                 ... pos = 0.5   	neg = 0.125
+5. Very few films can c                 ... pos = 1.625 	neg = 0.25 
+6. The first time I saw                 ... pos = 0.375 	neg = 0.375
+7. When we first meet "                 ... pos = 0.5   	neg = 0.0  
+8. If that sequence did                 ... pos = 0.125 	neg = 0.25 
+9. But then the story k                 ... pos = 0.0   	neg = 0.0  
+10. And without detailin                ... pos = 1.0   	neg = 0.375
+11. He is introduced to                 ... pos = 0.0   	neg = 0.125
+12. The "big secret" wil                ... pos = 0.125 	neg = 0.125
+13. How can I?                          ... pos = 0     	neg = 0.0  
+14. It is impossible to                 ... pos = 0.0   	neg = 0.125
+15. I will, however, nam                ... pos = 0.625 	neg = 0.0  
+16. Whew.                               ... pos = 0     	neg = 0    
+17. The second time I sa                ... pos = 0.0   	neg = 0.125
+18. Neo.                                ... pos = 0.0   	neg = 0    
+19. Morpheus.                           ... pos = 0.0   	neg = 0    
+20. Nebuchadnezzer.                     ... pos = 0     	neg = 0    
+21. Trinity.                            ... pos = 0.0   	neg = 0    
+22. Zion.                               ... pos = 0     	neg = 0    
+23. The Traitor.                        ... pos = 0     	neg = 0.0  
+24. "The One.                           ... pos = 0.0   	neg = 0    
+25. " An argument can be                ... pos = 0.375 	neg = 0.25 
+26. (The articles in www                ... pos = 0.625 	neg = 0.125
+27. I enjoyed it even be                ... pos = 0.375 	neg = 0.0  
+28. (I can't say no to a                ... pos = 0.0   	neg = 0.25 
+29. The third time, it w                ... pos = 0.0   	neg = 0.5  
+30. I focussed more on t                ... pos = 0.0   	neg = 0.0  
+31. It's easy to pick on                ... pos = 0.25  	neg = 0.75 
+32. Like I said earlier,                ... pos = 0.5   	neg = 0.125
+33. The screenplay fully                ... pos = 1.0   	neg = 0.375
+34. There's one sequence                ... pos = 0.125 	neg = 0.375
+35. No.                                 ... pos = 0     	neg = 0.25 
+36. The stinker actor is                ... pos = 0.0   	neg = 1.5  
+37. Ouch.                               ... pos = 0     	neg = 0    
+38. He combines Shakespe                ... pos = 0.0   	neg = 0    
+39. "I know, (pause) EXA                ... pos = 0.375 	neg = 0.0  
+40. " His methodical ann                ... pos = 0.25  	neg = 0.125
+41. Even so, it is rare                 ... pos = 0.875 	neg = 0.25 
+42. It presented a world                ... pos = 0.25  	neg = 0.0  
+43. Then the special eff                ... pos = 0.0   	neg = 0.25 
+44. Then the action sequ                ... pos = 0     	neg = 0.5  
+45. Little nuances betwe                ... pos = 0.875 	neg = 0.25 
+46. The underlying story                ... pos = 0.0   	neg = 0.0  
+47. And even a little ro                ... pos = 0.0   	neg = 0.25 
+48. My prediction: The M                ... pos = 0.125 	neg = 0.375
+49. P.S.                                ... pos = 0.0   	neg = 0    
+50. Whoever you are, sto                ... pos = 0.375 	neg = 0.875
+51. The movie had hardly                ... pos = 0.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5409-630 is Positive         ... pos = 13.0  	neg = 10.75
+Overall score of document
+Total Pos = 13.0
+Total Neg = 10.75
+---------------------------------------------------------------------------

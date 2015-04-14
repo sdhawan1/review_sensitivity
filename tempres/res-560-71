@@ -1,0 +1,55 @@
+0. Visit Online Film Cr                 ... pos = 0.0   	neg = 0.125
+1. Picture this figure                  ... pos = 0.0   	neg = 0.0  
+2. It's not so much poe                 ... pos = 1.25  	neg = 0.0  
+3. Here's the premise:                  ... pos = 1.25  	neg = 0.5  
+4. The position of Bian                 ... pos = 0.125 	neg = 0.125
+5. Now Bianca can date                  ... pos = 0.125 	neg = 0.0  
+6. This seems unlikely,                 ... pos = 0.25  	neg = 0.5  
+7. Here now Â– complica                 ... pos = 0.0   	neg = 0.0  
+8. At  wit's end, Bianc                 ... pos = 1.0   	neg = 0.0  
+9. In a convoluted seri                 ... pos = 0.875 	neg = 1.0  
+10. Hence Bianca is free                ... pos = 0.125 	neg = 0.875
+11. Still with it?                      ... pos = 0.0   	neg = 0    
+12. The basic love stori                ... pos = 1.125 	neg = 0.0  
+13. But the  turns of ro                ... pos = 0.5   	neg = 0.25 
+14. How can viewers beli                ... pos = 1.25  	neg = 0.625
+15. Does Bianca  truly o                ... pos = 0.625 	neg = 0.375
+16. And most  crucially,                ... pos = 0.25  	neg = 0.125
+17. Heaps of  questions                 ... pos = 0.0   	neg = 0.25 
+18. Julia Stiles is the                 ... pos = 0.5   	neg = 0.125
+19. Karen McCullah Lutz'                ... pos = 0.625 	neg = 0.125
+20. A strong facial rese                ... pos = 0.875 	neg = 0.5  
+21. Oleynik is fine as B                ... pos = 0.625 	neg = 0.5  
+22. Larry Miller plays t                ... pos = 0.444 	neg = 0.125
+23. He's an undeveloped                 ... pos = 0.5   	neg = 0.5  
+24. Let it be enough to                 ... pos = 1.75  	neg = 0.125
+25. Needless  to say, hi                ... pos = 0.0   	neg = 0.125
+26. The result does not                 ... pos = 1.5   	neg = 0.75 
+27. In a couple of small                ... pos = 0.0   	neg = 0.125
+28. But the tones of the                ... pos = 1.0   	neg = 0.125
+29. The filthy language                 ... pos = 0.875 	neg = 0.25 
+30. It's almost as thoug                ... pos = 2.125 	neg = 1.375
+31. The film's faults ar                ... pos = 0.25  	neg = 0    
+32. For one, Budweiser m                ... pos = 1.0   	neg = 0.0  
+33. How advisable is it,                ... pos = 1.0   	neg = 0.875
+34. Another, larger flaw                ... pos = 0.125 	neg = 0.25 
+35. Again and again  the                ... pos = 0.0   	neg = 0.125
+36. From silly schtick Â                ... pos = 0.125 	neg = 0.75 
+37. Yes,  there are the                 ... pos = 0.25  	neg = 0.25 
+38. ) and endless sight                 ... pos = 0.0   	neg = 0.0  
+39. Not that a  film mus                ... pos = 1.0   	neg = 0.25 
+40. The satire is done n                ... pos = 0.375 	neg = 0.25 
+41. Oh, besides Mitchell                ... pos = 0.125 	neg = 0.125
+42. The lack of diversit                ... pos = 0.375 	neg = 1.5  
+43. In the current flood                ... pos = 0.75  	neg = 0.125
+44. The tie-in with Shak                ... pos = 0.0   	neg = 0.125
+45. No similar  relation                ... pos = 0.75  	neg = 0.25 
+46. So for the millions                 ... pos = 0.0   	neg = 0.0  
+47. Even the use of Good                ... pos = 0.25  	neg = 0.25 
+48. Get Your Private, Fr                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-560-71 is Positive           ... pos = 26.194 	neg = 14.625
+Overall score of document
+Total Pos = 26.194
+Total Neg = 14.625
+---------------------------------------------------------------------------

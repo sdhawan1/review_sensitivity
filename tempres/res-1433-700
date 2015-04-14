@@ -1,0 +1,23 @@
+0. Release Date: Januar                 ... pos = 1.75  	neg = 0.75 
+1. Indeed, in recent ye                 ... pos = 0.25  	neg = 0.125
+2. Including this year'                 ... pos = 0.375 	neg = 0.125
+3. But for a change of                  ... pos = 1.75  	neg = 0.0  
+4. Marc Norman and Tom                  ... pos = 0.875 	neg = 0.25 
+5. (Will Shakespeare of                 ... pos = 0.125 	neg = 0.375
+6. ) Will is a writer s                 ... pos = 0.25  	neg = 0.125
+7. With the help of the                 ... pos = 2.0   	neg = 0.0  
+8. ". The love story be                 ... pos = 0.75  	neg = 0.0  
+9. Fiennes and Paltrow                  ... pos = 0.375 	neg = 0.625
+10. The supporting roles                ... pos = 0.875 	neg = 0.0  
+11. Even Ben Affleck, le                ... pos = 1.5   	neg = 0.125
+12. The story is well-cr                ... pos = 0.0   	neg = 0.375
+13. The dialogue is bree                ... pos = 2.25  	neg = 0.625
+14. There's something fo                ... pos = 0.375 	neg = 0.0  
+15. Although certainly n                ... pos = 2.375 	neg = 0.25 
+16. Certainly recommenda                ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1433-700 is Positive         ... pos = 16.625 	neg = 3.875
+Overall score of document
+Total Pos = 16.625
+Total Neg = 3.875
+---------------------------------------------------------------------------

@@ -1,0 +1,82 @@
+0. Year: 2000.                          ... pos = 0     	neg = 0    
+1. Starring Giovanni Ri                 ... pos = 0.125 	neg = 0.375
+2. Written by Ben Young                 ... pos = 0.125 	neg = 0    
+3. Directed by Ben Youn                 ... pos = 0.125 	neg = 0    
+4. Rated R.. After view                 ... pos = 0.25  	neg = 1.25 
+5. Either they take the                 ... pos = 0.125 	neg = 0.125
+6. ), or they show you                  ... pos = 0.125 	neg = 0.75 
+7. "Boiler Room" goes f                 ... pos = 0.0   	neg = 0.0  
+8. I can't think of any                 ... pos = 0.125 	neg = 0.25 
+9. Trouble is, the char                 ... pos = 1.25  	neg = 1.125
+10. Huh?                                ... pos = 0     	neg = 0    
+11. Good question.                      ... pos = 0.75  	neg = 0    
+12. This film attempts t                ... pos = 0.0   	neg = 0.0  
+13. And though "Boiler R                ... pos = 0.375 	neg = 0.125
+14. Seth (Giovanni Ribis                ... pos = 0.25  	neg = 0.0  
+15. Though he' s suppose                ... pos = 0.875 	neg = 0.125
+16. Soon, however, Seth'                ... pos = 0.125 	neg = 0    
+17. Seth, desperate to g                ... pos = 0.875 	neg = 0.25 
+18. Marlin is offering y                ... pos = 0.125 	neg = 0.25 
+19. Seth goes to the job                ... pos = 0.125 	neg = 0.125
+20. After joining the fi                ... pos = 0.875 	neg = 0.0  
+21. He meets his co-work                ... pos = 1.5   	neg = 0.625
+22. He's good at his job                ... pos = 0.75  	neg = 0.125
+23. But Seth starts noti                ... pos = 0.5   	neg = 0.0  
+24. J.T.                                ... pos = 0.0   	neg = 0.0  
+25. Marlin can afford to                ... pos = 0.375 	neg = 0.375
+26. Eventually, he disco                ... pos = 0.0   	neg = 1.0  
+27. The films which serv                ... pos = 0.25  	neg = 0.0  
+28. His characters quote                ... pos = 2.625 	neg = 0.25 
+29. Derivative nature as                ... pos = 1.25  	neg = 0.0  
+30. Younger displays som                ... pos = 1.75  	neg = 0.75 
+31. The film utilizes a                 ... pos = 0.625 	neg = 0.0  
+32. The offices at J.T.                 ... pos = 0.0   	neg = 0.0  
+33. Marlin literally are                ... pos = 0.875 	neg = 0.125
+34. They aren't the main                ... pos = 1.0   	neg = 0.25 
+35. Ben Affleck, playing                ... pos = 0.375 	neg = 0.0  
+36. "Boiler Room" is an                 ... pos = 0.75  	neg = 0.875
+37. Younger is still ine                ... pos = 0.625 	neg = 0.625
+38. But I'm willing to o                ... pos = 0.25  	neg = 0.375
+39. "Boiler Room" only h                ... pos = 0.0   	neg = 0.0  
+40. The first hour is qu                ... pos = 0.875 	neg = 0.125
+41. We meet plenty of co                ... pos = 0.875 	neg = 0.0  
+42. Marlin.                             ... pos = 0     	neg = 0    
+43. But Younger, for all                ... pos = 0.0   	neg = 0.0  
+44. Conversations that s                ... pos = 0.75  	neg = 0.375
+45. But why?                            ... pos = 0     	neg = 0.0  
+46. Aren't they essentia                ... pos = 0.5   	neg = 0    
+47. Yes, and it is preci                ... pos = 0.375 	neg = 0.25 
+48. Notice how team lead                ... pos = 0.625 	neg = 0.0  
+49. Notice how Ben Affle                ... pos = 1.875 	neg = 0.125
+50. (In "Glengarry," Mam                ... pos = 0.125 	neg = 0.25 
+51. ) Notice how Seth, t                ... pos = 1.625 	neg = 0.25 
+52. David Mamet is Young                ... pos = 2.25  	neg = 0.375
+53. "Boiler Room's" scri                ... pos = 0.0   	neg = 0.125
+54. Younger also seems t                ... pos = 0.125 	neg = 1.25 
+55. While the film shoul                ... pos = 0.0   	neg = 0.125
+56. Seth's relationship                 ... pos = 0.0   	neg = 1.25 
+57. (Ribisi's "breakdown                ... pos = 0.625 	neg = 0.0  
+58. ) And what was that                 ... pos = 0     	neg = 0.875
+59. Don't even ask.                     ... pos = 0     	neg = 0.0  
+60. The screenplay has h                ... pos = 0.125 	neg = 0.375
+61. It also makes the gr                ... pos = 1.875 	neg = 0.625
+62. It would have been b                ... pos = 0.0   	neg = 0.125
+63. Marlin.                             ... pos = 0     	neg = 0    
+64. Perhaps I'm being to                ... pos = 0.25  	neg = 0.25 
+65. I didn't hate "Boile                ... pos = 0.125 	neg = 0.0  
+66. " Quite the opposite                ... pos = 0.5   	neg = 0.125
+67. The film is good in                 ... pos = 0.0   	neg = 1.25 
+68. ) and a subplot invo                ... pos = 0.25  	neg = 0.0  
+69. Marlin.                             ... pos = 0     	neg = 0    
+70. This part of the fil                ... pos = 0.5   	neg = 0.125
+71. The result is absolu                ... pos = 0.0   	neg = 0.25 
+72. Younger's film also                 ... pos = 0.125 	neg = 0.625
+73. But all these good p                ... pos = 0.375 	neg = 0.75 
+74. "Boiler Room" does a                ... pos = 0.125 	neg = 1.125
+75. For more reviews, go                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1960-1477 is Positive        ... pos = 35.0  	neg = 21.125
+Overall score of document
+Total Pos = 35.0
+Total Neg = 21.125
+---------------------------------------------------------------------------

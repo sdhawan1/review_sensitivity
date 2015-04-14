@@ -1,0 +1,63 @@
+0. Review by Scott Hunt                 ... pos = 0.0   	neg = 0.0  
+1. Visit me at Movie Hu                 ... pos = 0.25  	neg = 0.25 
+2. Suddenly nudged by t                 ... pos = 0.0   	neg = 0.25 
+3. There are many satis                 ... pos = 1.25  	neg = 0.0  
+4. Shining through the                  ... pos = 0.25  	neg = 0.125
+5. Douglas plays Grady                  ... pos = 0.0   	neg = 0.0  
+6. Tripp is a "wonder b                 ... pos = 0.625 	neg = 0.125
+7. In a nice twist, rat                 ... pos = 0.625 	neg = 0.75 
+8. He can't seem to fin                 ... pos = 0.125 	neg = 0.0  
+9. There are other nice                 ... pos = 1.125 	neg = 0.25 
+10. Grady is confronted                 ... pos = 0.0   	neg = 0.25 
+11. She also happens to                 ... pos = 0.0   	neg = 0.125
+12. She's also married t                ... pos = 0.0   	neg = 0.0  
+13. Ouch.                               ... pos = 0     	neg = 0    
+14. Sexy, bright student                ... pos = 0.0   	neg = 0.0  
+15. She would be just as                ... pos = 0.625 	neg = 0.125
+16. The cliché thing wo                ... pos = 0.375 	neg = 0.375
+17. It doesn't happen.                  ... pos = 0.0   	neg = 0.0  
+18. Morose, pensive stud                ... pos = 0.5   	neg = 0.125
+19. Grady finds a kindre                ... pos = 0.75  	neg = 0.25 
+20. James is a compulsiv                ... pos = 0.5   	neg = 0.125
+21. Did I also mention h                ... pos = 0.0   	neg = 0.625
+22. These events are set                ... pos = 0.75  	neg = 0.0  
+23. Tripp is a chrysalis                ... pos = 0.0   	neg = 0.125
+24. He floats through a                 ... pos = 0.0   	neg = 0.0  
+25. The film is about hi                ... pos = 0.5   	neg = 0.125
+26. Or deeper into darkn                ... pos = 0.375 	neg = 0.0  
+27. Leer helps goose Gra                ... pos = 0.125 	neg = 0.125
+28. Much time is spent o                ... pos = 0.125 	neg = 0.125
+29. Grady has an uneasy                 ... pos = 1.25  	neg = 0.375
+30. Leer is indeed talen                ... pos = 0.125 	neg = 0.125
+31. As the two go throug                ... pos = 0.875 	neg = 0.375
+32. By making Leer such                 ... pos = 0.375 	neg = 0.0  
+33. We never learn what                 ... pos = 0.0   	neg = 0.125
+34. He ends up being a w                ... pos = 0.25  	neg = 0.0  
+35. Along with the press                ... pos = 0.875 	neg = 0.0  
+36. A reflection of Grad                ... pos = 0.0   	neg = 0.375
+37. Q is able to crank o                ... pos = 0.5   	neg = 0.5  
+38. Q has long ago bough                ... pos = 0.0   	neg = 0.375
+39. At one point, he add                ... pos = 0.0   	neg = 0.125
+40. He bellows such a si                ... pos = 0.375 	neg = 0.25 
+41. Terry Crabtree (Down                ... pos = 0.0   	neg = 0.0  
+42. Crabtree wants a loo                ... pos = 0.125 	neg = 0.75 
+43. Drag queen date in t                ... pos = 0.125 	neg = 0.5  
+44. Despite the external                ... pos = 0.875 	neg = 0.0  
+45. In contrast to the z                ... pos = 0.875 	neg = 0.125
+46. His fuzzy wall of in                ... pos = 1.0   	neg = 0.5  
+47. Douglas comes across                ... pos = 0.5   	neg = 0.0  
+48. For all his standing                ... pos = 1.0   	neg = 0.75 
+49. There is a slow paci                ... pos = 0.125 	neg = 0.125
+50. For me, a bit too sl                ... pos = 0.0   	neg = 0.25 
+51. Amusing insights are                ... pos = 0.5   	neg = 0.875
+52. There is a key momen                ... pos = 0.0   	neg = 0.25 
+53. I kept thinking the                 ... pos = 0.25  	neg = 1.0  
+54. Alas, it didn't occu                ... pos = 0.0   	neg = 0.0  
+55. Heaven forbid a char                ... pos = 1.0   	neg = 0.75 
+56. Wonder Boys is a tas                ... pos = 0.625 	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-4777-1217 is Positive        ... pos = 20.5  	neg = 13.0 
+Overall score of document
+Total Pos = 20.5
+Total Neg = 13.0
+---------------------------------------------------------------------------

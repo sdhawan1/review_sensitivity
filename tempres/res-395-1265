@@ -1,0 +1,52 @@
+0. Directed by John Las                 ... pos = 0.5   	neg = 0.0  
+1. One of these toys is                 ... pos = 0.0   	neg = 0.125
+2. Woody (Tom Hanks) sa                 ... pos = 0.0   	neg = 0.625
+3. Woody succeeds in hi                 ... pos = 0.875 	neg = 0.0  
+4. Buzz Lightyear (Tim                  ... pos = 0.0   	neg = 0.0  
+5. Potato Head (Don Ric                 ... pos = 0.125 	neg = 0.625
+6. Meanwhile Woody disc                 ... pos = 0.0   	neg = 0.125
+7. Al has collected eve                 ... pos = 0.0   	neg = 0.0  
+8. Now that the collect                 ... pos = 0.0   	neg = 0.125
+9. The Gang is happy ab                 ... pos = 0.625 	neg = 0.25 
+10. If Woody doesn't go                 ... pos = 0.25  	neg = 0.125
+11. Trying to convince h                ... pos = 0.5   	neg = 0.625
+12. While Woody ponders                 ... pos = 0.0   	neg = 0.75 
+13. The new Buzz generat                ... pos = 0.75  	neg = 0.0  
+14. The original "Toy St                ... pos = 1.0   	neg = 0.0  
+15. While most kids' mov                ... pos = 0.625 	neg = 0.25 
+16. Buzz sank into a sui                ... pos = 1.375 	neg = 0.25 
+17. In other words, it's                ... pos = 0.625 	neg = 0.5  
+18. Most of us probably                 ... pos = 0.125 	neg = 0.125
+19. "Toy Story 2" addres                ... pos = 0.5   	neg = 0.0  
+20. Woody is forced to r                ... pos = 0.625 	neg = 0.25 
+21. This is another big                 ... pos = 0     	neg = 0.25 
+22. The theme is introdu                ... pos = 0.75  	neg = 0.25 
+23. On the shelf, Woody                 ... pos = 0.0   	neg = 0.0  
+24. The other toys are s                ... pos = 0.875 	neg = 0.25 
+25. After he's stolen, W                ... pos = 0.375 	neg = 0.375
+26. Of course, in spite                 ... pos = 0.5   	neg = 0.0  
+27. Most of the laughs c                ... pos = 0.0   	neg = 0.0  
+28. The brief substituti                ... pos = 0.75  	neg = 0.25 
+29. Most of the vocal pe                ... pos = 0.25  	neg = 0    
+30. Tom Hanks stands out                ... pos = 0.375 	neg = 0.0  
+31. However, one voice-o                ... pos = 0.125 	neg = 0.375
+32. Kelsey Grammer sound                ... pos = 0.0   	neg = 0.25 
+33. Although he does a l                ... pos = 0.125 	neg = 0.25 
+34. He doesn't have the                 ... pos = 0.0   	neg = 0.625
+35. The animation is eve                ... pos = 0.125 	neg = 0.125
+36. Especially impressiv                ... pos = 0.125 	neg = 0.125
+37. We can now see the d                ... pos = 0.625 	neg = 0.375
+38. We can also see that                ... pos = 0.125 	neg = 0.125
+39. As you can tell from                ... pos = 0.0   	neg = 0.125
+40. To celebrate they ap                ... pos = 0.375 	neg = 0.0  
+41. They made the short                 ... pos = 0.5   	neg = 0.125
+42. On the downside, "To                ... pos = 0.625 	neg = 0.875
+43. Overall, though, I h                ... pos = 0.625 	neg = 0.125
+44. ". Bottom Line:  Thi                ... pos = 0.125 	neg = 0.125
+45. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-395-1265 is Positive         ... pos = 15.875 	neg = 9.75 
+Overall score of document
+Total Pos = 15.875
+Total Neg = 9.75
+---------------------------------------------------------------------------

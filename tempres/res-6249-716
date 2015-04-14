@@ -1,0 +1,26 @@
+0. Jackie Brown  *** (o                 ... pos = 0.0   	neg = 0.0  
+1. Starring Pam Grier,                  ... pos = 0.0   	neg = 0.0  
+2. I suppose Quentin Ta                 ... pos = 1.75  	neg = 1.0  
+3. Personally, I didn't                 ... pos = 0.125 	neg = 1.125
+4. So I guess it's not                  ... pos = 0.0   	neg = 0.125
+5. Don't misunderstand                  ... pos = 0.375 	neg = 0.75 
+6. The story, adapted f                 ... pos = 0.25  	neg = 0.0  
+7. When airline steward                 ... pos = 0.125 	neg = 0.75 
+8. Meanwhile, Jackie fo                 ... pos = 0.0   	neg = 0.5  
+9. " The film spends mo                 ... pos = 0.375 	neg = 0.625
+10. Numerous double-cros                ... pos = 0.375 	neg = 0.0  
+11. " His offbeat humor                 ... pos = 0.75  	neg = 0.875
+12. And as with most "ca                ... pos = 0.125 	neg = 0.125
+13. I think the problem                 ... pos = 0.0   	neg = 0.875
+14. There were times in                 ... pos = 0.75  	neg = 0.375
+15. He has said publicly                ... pos = 1.75  	neg = 0.75 
+16. These characters are                ... pos = 2.125 	neg = 0.625
+17. I figure that a movi                ... pos = 1.375 	neg = 0.125
+18. "Jackie Brown" has t                ... pos = 0.875 	neg = 0.0  
+19. Don't go to see it e                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6249-716 is Positive         ... pos = 11.25 	neg = 8.625
+Overall score of document
+Total Pos = 11.25
+Total Neg = 8.625
+---------------------------------------------------------------------------

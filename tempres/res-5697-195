@@ -1,0 +1,41 @@
+0. "When it's cold, mol                 ... pos = 0.0   	neg = 0    
+1. Everything is clean.                 ... pos = 0.0   	neg = 0.125
+2. ". These are the ess                 ... pos = 0.875 	neg = 0.625
+3. When Mikey delivers                  ... pos = 0.375 	neg = 0.125
+4. His father Jim (Jame                 ... pos = 0.5   	neg = 0.25 
+5. Ben's wife Elena (Jo                 ... pos = 0.75  	neg = 0.0  
+6. Meanwhile, Ben's 14-                 ... pos = 0.75  	neg = 0.125
+7. Tobey Maguire plays                  ... pos = 0.875 	neg = 0.25 
+8. We start the film wi                 ... pos = 0.0   	neg = 0.0  
+9. He compares family t                 ... pos = 1.25  	neg = 0.125
+10. THE ICE STORM is a c                ... pos = 0.875 	neg = 1.25 
+11. Everything parallels                ... pos = 0.0   	neg = 0    
+12. The young teenagers                 ... pos = 0.25  	neg = 2.125
+13. "When it's cold outs                ... pos = 0.0   	neg = 0    
+14. Everything is clean.                ... pos = 0.0   	neg = 0.125
+15. ". Everything is cle                ... pos = 0.125 	neg = 0.125
+16. Even the president i                ... pos = 0.0   	neg = 0.125
+17. How can you expect a                ... pos = 0.125 	neg = 0.125
+18. All the sex and drug                ... pos = 0.0   	neg = 0.375
+19. At first viewing, th                ... pos = 0.25  	neg = 0.5  
+20. You don't get to kno                ... pos = 1.375 	neg = 0.0  
+21. We sadly watch two f                ... pos = 0.125 	neg = 0.75 
+22. At first glance, you                ... pos = 2.125 	neg = 1.125
+23. The acting by all is                ... pos = 0.875 	neg = 0.125
+24. He doesn't seem to b                ... pos = 0.625 	neg = 0.125
+25. Christina Ricci is b                ... pos = 1.0   	neg = 0.625
+26. Still, I say hats of                ... pos = 2.375 	neg = 0.625
+27. Tobey Maguire did a                 ... pos = 1.875 	neg = 0.5  
+28. He was needed, but p                ... pos = 0.0   	neg = 0.375
+29. THE ICE STORM is bei                ... pos = 0.625 	neg = 0.625
+30. I hate to say that I                ... pos = 0.125 	neg = 0.0  
+31. In fact, I can think                ... pos = 0.625 	neg = 0.0  
+32. Even so, it is a ver                ... pos = 1.25  	neg = 0.125
+33. It takes a lot of re                ... pos = 1.5   	neg = 0.0  
+34. Perhaps this is one                 ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5697-195 is Positive         ... pos = 22.75 	neg = 11.5 
+Overall score of document
+Total Pos = 22.75
+Total Neg = 11.5
+---------------------------------------------------------------------------

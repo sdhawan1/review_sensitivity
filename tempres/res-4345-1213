@@ -1,0 +1,36 @@
+0. Starring John Travol                 ... pos = 0.0   	neg = 0.0  
+1. Directed By Steven Z                 ... pos = 0.0   	neg = 0.0  
+2. A new courtroom thri                 ... pos = 0.375 	neg = 0.0  
+3. There's a miracle ev                 ... pos = 0.5   	neg = 0.0  
+4. This interesting veh                 ... pos = 0.75  	neg = 0.125
+5. However, this case p                 ... pos = 0.5   	neg = 0.125
+6. ). Adapted by Schind                 ... pos = 1.0   	neg = 0.25 
+7. In a nice sequence,                  ... pos = 2.125 	neg = 0.125
+8. Although Travolta's                  ... pos = 1.75  	neg = 0.625
+9. William H. Macy is p                 ... pos = 1.0   	neg = 0.5  
+10. Shalhoub, after an e                ... pos = 1.75  	neg = 0.125
+11. Ivanek, sadly, doesn                ... pos = 0.625 	neg = 0.625
+12. Robert Duvall is goo                ... pos = 1.0   	neg = 0.5  
+13. He's fun, but he's n                ... pos = 0.625 	neg = 0.0  
+14. Quinlan appears in a                ... pos = 0.25  	neg = 0.125
+15. John Lithgow and Dan                ... pos = 0.5   	neg = 0.5  
+16. Travolta himself has                ... pos = 0.125 	neg = 0.25 
+17. ) He obviously enjoy                ... pos = 1.125 	neg = 0.375
+18. Travolta is more tha                ... pos = 1.0   	neg = 0.25 
+19. But the movie never                 ... pos = 1.0   	neg = 0.0  
+20. Perhaps placing the                 ... pos = 2.625 	neg = 0.125
+21. But it doesn't work,                ... pos = 0.875 	neg = 0.5  
+22. Apart from the chara                ... pos = 1.75  	neg = 0.125
+23. The direction is imp                ... pos = 1.5   	neg = 0.375
+24. Both the drama and t                ... pos = 0.25  	neg = 0.0  
+25. There's some suitabl                ... pos = 0.375 	neg = 0.125
+26. The pacing is fine,                 ... pos = 0.0   	neg = 0.875
+27. Although flawed, A C                ... pos = 0.75  	neg = 0.125
+28. Although it doesn't                 ... pos = 0.5   	neg = 0.375
+29. It's just a shame th                ... pos = 0.0   	neg = 1.125
+---------------------------------------------------------------------------
+./temp/tmp-4345-1213 is Positive        ... pos = 24.625 	neg = 8.25 
+Overall score of document
+Total Pos = 24.625
+Total Neg = 8.25
+---------------------------------------------------------------------------

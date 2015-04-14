@@ -1,0 +1,38 @@
+0. Cast: Ralph Fiennes,                 ... pos = 2.25  	neg = 1.125
+1. They tease, they tau                 ... pos = 0.0   	neg = 0.5  
+2. Sometimes (like here                 ... pos = 0.25  	neg = 0.0  
+3. I often get angry wh                 ... pos = 0.375 	neg = 0.0  
+4. I have often stated                  ... pos = 0.625 	neg = 0.0  
+5. Since I first saw th                 ... pos = 0.125 	neg = 0.125
+6. Between this, and Th                 ... pos = 0.0   	neg = 0.125
+7. The preview is appea                 ... pos = 0.375 	neg = 0.125
+8. It is just too bad t                 ... pos = 0.0   	neg = 1.5  
+9. All the best parts a                 ... pos = 1.5   	neg = 0.375
+10. This movie deserved                 ... pos = 0.875 	neg = 0.0  
+11. My expectations (whi                ... pos = 0.125 	neg = 0.25 
+12. Now, I do have to sa                ... pos = 0.5   	neg = 0.625
+13. It was nice to look                 ... pos = 0.75  	neg = 0.75 
+14. I did like the use a                ... pos = 0.125 	neg = 0.25 
+15. ) but saving those t                ... pos = 0.0   	neg = 0.0  
+16. The performances, we                ... pos = 0.0   	neg = 0.25 
+17. I know it was a spoo                ... pos = 0.625 	neg = 0.875
+18. But still, I cannot                 ... pos = 0.25  	neg = 0.5  
+19. Fiennes, and Thurman                ... pos = 0.125 	neg = 0.625
+20. Connery (an Oscar wi                ... pos = 0.375 	neg = 0.25 
+21. I couldnt wait to se                ... pos = 0.0   	neg = 0.875
+22. I am still waiting.                 ... pos = 0.0   	neg = 0.125
+23. The only truly watch                ... pos = 0.625 	neg = 2.875
+24. Maybe he should've b                ... pos = 0.0   	neg = 1.0  
+25. The Avengers had so                 ... pos = 0.125 	neg = 0.0  
+26. There were inconsist                ... pos = 0.0   	neg = 0.875
+27. There were just too                 ... pos = 1.0   	neg = 1.5  
+28. So much potential, s                ... pos = 0.125 	neg = 0.0  
+29. Wait for this one on                ... pos = 0.0   	neg = 0.0  
+30. The summer movies ar                ... pos = 1.25  	neg = 0.625
+31. Please  ($$). Want t                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-861-684 is Negative          ... pos = 12.375 	neg = 16.25
+Overall score of document
+Total Pos = 12.375
+Total Neg = 16.25
+---------------------------------------------------------------------------

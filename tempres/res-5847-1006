@@ -1,0 +1,36 @@
+0. Peter Weir's dazzlin                 ... pos = 0.5   	neg = 0.75 
+1. ' Like that 1939 cla                 ... pos = 0.375 	neg = 0.375
+2. In Capra's world, th                 ... pos = 0.125 	neg = 0.375
+3. In Weir's, it's much                 ... pos = 0.625 	neg = 0    
+4. This time, Mr. Smith                 ... pos = 0.0   	neg = 0.0  
+5. Television has never                 ... pos = 0.625 	neg = 0.0  
+6. Starring the elastic                 ... pos = 0.375 	neg = 0.375
+7. In fact, it is a bac                 ... pos = 0.375 	neg = 0.25 
+8. The only guy not wor                 ... pos = 0.5   	neg = 0.5  
+9. He has no idea that                  ... pos = 0.0   	neg = 0.375
+10. Watching on from a s                ... pos = 2.25  	neg = 0.375
+11. One of the many deli                ... pos = 0.875 	neg = 0.5  
+12. Especially creepy is                ... pos = 0.0   	neg = 1.25 
+13. Weir, the Australian                ... pos = 1.0   	neg = 0.0  
+14. We don't go behind t                ... pos = 0.375 	neg = 0.0  
+15. One of the first sig                ... pos = 0.625 	neg = 0.25 
+16. Instead of bringing                 ... pos = 0.25  	neg = 0.25 
+17. Soon, the enormity o                ... pos = 0.25  	neg = 0.5  
+18. Ed Harris as the lor                ... pos = 0.0   	neg = 0    
+19. He tells us that Tru                ... pos = 0.625 	neg = 0.25 
+20. What's going on here                ... pos = 0     	neg = 0.0  
+21. Clearly, the respons                ... pos = 2.125 	neg = 0.25 
+22. Ultimately, `The Tru                ... pos = 0.625 	neg = 0.125
+23. The public sphere is                ... pos = 0.375 	neg = 0.25 
+24. ' Post-O.J., post-Di                ... pos = 2.875 	neg = 0.375
+25. On another level, `T                ... pos = 0.5   	neg = 0.375
+26. When Christof's says                ... pos = 1.0   	neg = 0.0  
+27. `The Truman Show' wi                ... pos = 0.125 	neg = 0.0  
+28. But, as if to remind                ... pos = 0.0   	neg = 1.875
+29. If all the world's a                ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-5847-1006 is Positive        ... pos = 17.375 	neg = 10.375
+Overall score of document
+Total Pos = 17.375
+Total Neg = 10.375
+---------------------------------------------------------------------------

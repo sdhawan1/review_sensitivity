@@ -1,0 +1,46 @@
+0. **1/2 (out of 4) You                 ... pos = 0.0   	neg = 1.125
+1. He's telling you his                 ... pos = 0.25  	neg = 0.0  
+2. "Ho-hum," you yawn,                  ... pos = 0.25  	neg = 0.0  
+3. Well, believe it or                  ... pos = 0.125 	neg = 0.0  
+4. It's as bad as you w                 ... pos = 1.0   	neg = 1.5  
+5. Tim Allen plays Jaso                 ... pos = 0.0   	neg = 0.0  
+6. He's at a sci-fi con                 ... pos = 0.5   	neg = 0.5  
+7. ). Nesmith often tak                 ... pos = 1.375 	neg = 0.0  
+8. One of the "parties"                 ... pos = 0.125 	neg = 0.125
+9. They invite the capt                 ... pos = 0.0   	neg = 0.0  
+10. Once there, the demu                ... pos = 0.625 	neg = 0.875
+11. I say GALAXY QUEST i                ... pos = 0.5   	neg = 1.875
+12. It's one joke, repea                ... pos = 0.25  	neg = 0.25 
+13. What's worse is that                ... pos = 0.0   	neg = 1.125
+14. The second-worst thi                ... pos = 0.0   	neg = 0.375
+15. Cardboard sets and c                ... pos = 0.5   	neg = 0.875
+16. Part of the humor in                ... pos = 0.25  	neg = 0.125
+17. By making the show c                ... pos = 0.0   	neg = 0.875
+18. The WORST thing they                ... pos = 0.875 	neg = 0.875
+19. But they didn't, and                ... pos = 1.875 	neg = 0.25 
+20. Tim Allen in particu                ... pos = 0.0   	neg = 0    
+21. He drinks and has a                 ... pos = 0.0   	neg = 0.5  
+22. But on the other han                ... pos = 1.875 	neg = 0.0  
+23. In other words, Alle                ... pos = 1.0   	neg = 0.875
+24. If Academy Awards we                ... pos = 0.625 	neg = 0.625
+25. Clearly, GALAXY QUES                ... pos = 0.25  	neg = 0.125
+26. The movie also has s                ... pos = 0.0   	neg = 0.0  
+27. The expendable crewm                ... pos = 0.875 	neg = 0.0  
+28. I think we're the gr                ... pos = 0.0   	neg = 0.0  
+29. " Sigourney Weaver,                 ... pos = 0.0   	neg = 0.0  
+30. Why is it always duc                ... pos = 0.0   	neg = 0.125
+31. " . But taken as a w                ... pos = 0.0   	neg = 0.125
+32. And parody is only f                ... pos = 0.0   	neg = 0.125
+33. GALAXY QUEST could n                ... pos = 0.0   	neg = 0.0  
+34. If it is mentioned a                ... pos = 0.125 	neg = 0.25 
+35. If you're a Trekkie                 ... pos = 0.875 	neg = 0.25 
+36. You should take a lo                ... pos = 0.0   	neg = 0.375
+37. But if you don't kno                ... pos = 0.25  	neg = 0.5  
+38. --  ___________ Mart                ... pos = 0.625 	neg = 0.25 
+39. "  -- Alice Brady, r                ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-5750-1008 is Positive        ... pos = 15.125 	neg = 14.875
+Overall score of document
+Total Pos = 15.125
+Total Neg = 14.875
+---------------------------------------------------------------------------

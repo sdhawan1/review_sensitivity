@@ -1,0 +1,38 @@
+0. CrankyCriticŽ movie                 ... pos = 0.875 	neg = 0.375
+1. So, this CrankyCriti                 ... pos = 0.0   	neg = 0.0  
+2. Alex: The answer is:                 ... pos = 0.125 	neg = 0.125
+3. Alex: No, I'm sorry.                 ... pos = 0     	neg = 0.875
+4. "She" is the catch.                  ... pos = 0     	neg = 0.125
+5. The category is "dej                 ... pos = 0.625 	neg = 0.125
+6. What is U.S.                         ... pos = 0.0   	neg = 0.125
+7. Marshals?                            ... pos = 0     	neg = 0.0  
+8. Alex: Nope.                          ... pos = 0     	neg = 0    
+9. Sorry.                               ... pos = 0     	neg = 0.625
+10. The answer to both q                ... pos = 0.0   	neg = 0.125
+11. Which, had the produ                ... pos = 0.0   	neg = 0.25 
+12. .                                   ... pos = 0     	neg = 0    
+13. .                                   ... pos = 0     	neg = 0    
+14. And Then He Stole My                ... pos = 0.0   	neg = 0.0  
+15. ". Sentenced to jail                ... pos = 0.875 	neg = 0.5  
+16. When she tracks this                ... pos = 0.75  	neg = 0.875
+17. Since authorities do                ... pos = 0.125 	neg = 0.25 
+18. You were convicted.                 ... pos = 0.0   	neg = 0.125
+19. They can't try you a                ... pos = 0.25  	neg = 0.0  
+20. It doesn't get in th                ... pos = 1.0   	neg = 0.625
+21. Release on parole af                ... pos = 0.25  	neg = 0.125
+22. Driven by the need t                ... pos = 0.25  	neg = 0.125
+23. You get a cross coun                ... pos = 0.875 	neg = 0.0  
+24. Nothing you haven't                 ... pos = 0.0   	neg = 0.25 
+25. With A-list stars to                ... pos = 1.0   	neg = 0.375
+26. Blink twice and you'                ... pos = 0.0   	neg = 0.0  
+27. On average, a first                 ... pos = 0.25  	neg = 0.0  
+28. Were Cranky able to                 ... pos = 0.125 	neg = 0.375
+29. The Cranky CriticŽ                 ... pos = 0.0   	neg = 0.125
+30. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+31. Cranky on the web at                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5789-912 is Positive         ... pos = 7.625 	neg = 6.5  
+Overall score of document
+Total Pos = 7.625
+Total Neg = 6.5
+---------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+0. You think that these                 ... pos = 0.0   	neg = 0.0  
+1. I once talked to a g                 ... pos = 0.25  	neg = 0.125
+2. Then I sat in a room                 ... pos = 0.375 	neg = 0.375
+3. I even listened to a                 ... pos = 0.125 	neg = 0.125
+4. These people had wha                 ... pos = 0.625 	neg = 0.0  
+5. A little imagination                 ... pos = 0.0   	neg = 0.625
+6. In Richard Donner's                  ... pos = 0.375 	neg = 0.25 
+7. His latest, that NAS                 ... pos = 0.0   	neg = 1.5  
+8. He combs the newspap                 ... pos = 0.0   	neg = 0.125
+9. Upstanding citizen t                 ... pos = 0.875 	neg = 1.25 
+10. Lucky gal, Alice, wh                ... pos = 1.125 	neg = 0.0  
+11. What she doesn't kno                ... pos = 0.0   	neg = 0.25 
+12. He goes to great len                ... pos = 0.125 	neg = 0.0  
+13. But when some secret                ... pos = 0.125 	neg = 0.125
+14. One of the problems                 ... pos = 0.125 	neg = 1.125
+15. Part of this is a re                ... pos = 0.0   	neg = 0.125
+16. It takes forever to                 ... pos = 0.125 	neg = 0.875
+17. At over two hours, t                ... pos = 0.25  	neg = 0.25 
+18. Instead of truly exc                ... pos = 0.625 	neg = 0.0  
+19. They come on down wi                ... pos = 0.625 	neg = 0.625
+20. Big deal, we've seen                ... pos = 0.0   	neg = 0.0  
+21. Watching the film, I                ... pos = 0.125 	neg = 1.0  
+22. Now, when I say it t                ... pos = 0.375 	neg = 0.125
+23. Oh, Donner and scree                ... pos = 1.625 	neg = 0.5  
+24. You see, there were                 ... pos = 0.0   	neg = 0.125
+25. The two just don't c                ... pos = 0.625 	neg = 0.25 
+26. The script in genera                ... pos = 0.0   	neg = 0.5  
+27. Dialog is undistingu                ... pos = 0.5   	neg = 0.625
+28. Even Gibson's usual                 ... pos = 0.875 	neg = 0.5  
+29. Unfortunately, much                 ... pos = 1.375 	neg = 1.625
+30. For example, Jerry p                ... pos = 0.375 	neg = 0.75 
+31. He even goes so far                 ... pos = 0.375 	neg = 1.125
+32. This is convincing e                ... pos = 0.25  	neg = 0.25 
+33. You know what happen                ... pos = 0     	neg = 0.0  
+34. Nothing, zip, nada.                 ... pos = 0.25  	neg = 0.5  
+35. No follow-up whatsoe                ... pos = 0.0   	neg = 0.25 
+36. Okay, here's another                ... pos = 0.0   	neg = 0.25 
+37. A couple of well kno                ... pos = 0.0   	neg = 0.125
+38. Salinger novel "The                 ... pos = 0.0   	neg = 0.0  
+39. Jerry also has a bun                ... pos = 0.0   	neg = 0.0  
+40. Whenever he goes int                ... pos = 0.0   	neg = 0.0  
+41. Leaving out the ques                ... pos = 0.125 	neg = 0.0  
+42. Not when we find out                ... pos = 0.125 	neg = 0.0  
+43. The point becomes to                ... pos = 0.0   	neg = 0.625
+44. Oh, did I mention th                ... pos = 0.0   	neg = 0.125
+45. Yeah, he plays this                 ... pos = 0.0   	neg = 1.0  
+46. That's about it.                    ... pos = 0.0   	neg = 0.0  
+47. For all the presence                ... pos = 0.75  	neg = 0.0  
+48. You can just lump hi                ... pos = 0.375 	neg = 0.0  
+49. This guy was really                 ... pos = 1.0   	neg = 0.5  
+50. Okay, here's my theo                ... pos = 0     	neg = 0.125
+51. This really started                 ... pos = 0.0   	neg = 0.375
+52. The government came                 ... pos = 0.0   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-3930-781 is Negative         ... pos = 14.875 	neg = 19.25
+Overall score of document
+Total Pos = 14.875
+Total Neg = 19.25
+---------------------------------------------------------------------------

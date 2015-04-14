@@ -1,0 +1,29 @@
+0. It's not always a sm                 ... pos = 0.75  	neg = 0.0  
+1. I tremble at the tho                 ... pos = 0.75  	neg = 0.0  
+2. I get angry at those                 ... pos = 1.625 	neg = 0.625
+3. That said, it has be                 ... pos = 0.625 	neg = 0.25 
+4. _A Perfect Murder_,                  ... pos = 1.25  	neg = 0.0  
+5. If nothing else.                     ... pos = 0     	neg = 0.25 
+6. Michael Douglas is p                 ... pos = 0.0   	neg = 0.125
+7. He is married to Emi                 ... pos = 0.875 	neg = 0.125
+8. While the age differ                 ... pos = 0.625 	neg = 0.125
+9. She opts to pursue a                 ... pos = 0.375 	neg = 0.0  
+10. Taylor catches wind                 ... pos = 0.5   	neg = 0.125
+11. (Taylor needs the mo                ... pos = 0.0   	neg = 0.75 
+12. It's a good setup, a                ... pos = 0.75  	neg = 0.0  
+13. I will not reveal th                ... pos = 0.375 	neg = 0.0  
+14. What I liked (and di                ... pos = 1.0   	neg = 0.25 
+15. I appreciated the no                ... pos = 1.0   	neg = 0.0  
+16. The only character w                ... pos = 0.875 	neg = 0.125
+17. But his character se                ... pos = 1.375 	neg = 0.125
+18. Andrew Davis has reb                ... pos = 0.0   	neg = 0.125
+19. But he is clearly no                ... pos = 0.25  	neg = 0.25 
+20. Don't get me wrong.                 ... pos = 0     	neg = 0.75 
+21. I liked _A Perfect M                ... pos = 0.25  	neg = 0.125
+22. I can only speculate                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1007-630 is Positive         ... pos = 13.375 	neg = 4.25 
+Overall score of document
+Total Pos = 13.375
+Total Neg = 4.25
+---------------------------------------------------------------------------

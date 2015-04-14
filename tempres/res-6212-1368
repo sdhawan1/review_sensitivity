@@ -1,0 +1,36 @@
+0. Air Force One A Film                 ... pos = 0.5   	neg = 1.028
+1. I began wondering th                 ... pos = 0.25  	neg = 0.125
+2. The verdict, most de                 ... pos = 0.25  	neg = 0    
+3. Ford (STAR WARS, RAI                 ... pos = 1.125 	neg = 0.25 
+4. THe terrorists deman                 ... pos = 0.25  	neg = 0.25 
+5. The President must r                 ... pos = 0.625 	neg = 0.125
+6. Thinking Marshall ha                 ... pos = 0.0   	neg = 0.0  
+7. However, as a chief                  ... pos = 0.125 	neg = 0.0  
+8. "  Marshall surprise                 ... pos = 0.0   	neg = 0.0  
+9. On the ground, Vice                  ... pos = 0.25  	neg = 0.625
+10. The Music is excitin                ... pos = 0.25  	neg = 0.5  
+11. It seems that no exp                ... pos = 0.25  	neg = 0.5  
+12. The computer special                ... pos = 0.5   	neg = 0.0  
+13. Ford is terrific as                 ... pos = 0.5   	neg = 0.125
+14. So many actors have                 ... pos = 0.0   	neg = 0.5  
+15. Some look good as Mi                ... pos = 0.75  	neg = 1.0  
+16. Ford acts diplomatic                ... pos = 0.375 	neg = 0.125
+17. However, Oldman stea                ... pos = 0.625 	neg = 0.0  
+18. As Ivan Korshunov he                ... pos = 0.375 	neg = 0.25 
+19. While on screen, I l                ... pos = 0.0   	neg = 0.25 
+20. Rude, Nasty, and evi                ... pos = 1.125 	neg = 1.25 
+21. Close is also quite                 ... pos = 2.375 	neg = 0.125
+22. AIR FORCE ONE checks                ... pos = 0.125 	neg = 0.375
+23. Certainly the best a                ... pos = 0.25  	neg = 0.25 
+24. ) then FACE/OFF.                    ... pos = 0     	neg = 0.0  
+25. Could the events in                 ... pos = 0.0   	neg = 0.0  
+26. Probably not.                       ... pos = 0.0   	neg = 0    
+27. Is it far fetched?                  ... pos = 0.0   	neg = 0.125
+28. Definitely, but its                 ... pos = 0.5   	neg = 0.0  
+29. I recommend this fil                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6212-1368 is Positive        ... pos = 11.5  	neg = 7.778
+Overall score of document
+Total Pos = 11.5
+Total Neg = 7.778
+---------------------------------------------------------------------------

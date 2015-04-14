@@ -1,0 +1,73 @@
+0. A Film Review by Mar                 ... pos = 0.0   	neg = 0.0  
+1. Alfred Hitchcock did                 ... pos = 0.0   	neg = 0.0  
+2. The script by Joseph                 ... pos = 0.75  	neg = 0.375
+3. The most compelling                  ... pos = 0.125 	neg = 0.125
+4. I am reminded weekly                 ... pos = 0.25  	neg = 0.75 
+5. Their very mention r                 ... pos = 0.5   	neg = 0.0  
+6. I might as well thre                 ... pos = 0.0   	neg = 0.5  
+7. Or some of the films                 ... pos = 0.0   	neg = 0.0  
+8. "  Or play an audio                  ... pos = 0.0   	neg = 0.0  
+9. So director Gus Van                  ... pos = 0.5   	neg = 0.0  
+10. They will see for  t                ... pos = 1.25  	neg = 0.0  
+11. They will  see  clev                ... pos = 0.625 	neg = 0.0  
+12. Several  kids, I'm s                ... pos = 0.375 	neg = 0.0  
+13. Even if they have se                ... pos = 0.75  	neg = 0.0  
+14. We showed Hitchcock'                ... pos = 0.875 	neg = 0.0  
+15. These students have                 ... pos = 0.25  	neg = 0.0  
+16. So Van  Sant's homag                ... pos = 0.75  	neg = 0.0  
+17. Another reason for a                ... pos = 0.0   	neg = 0.25 
+18. Let's face it - Hitc                ... pos = 0.125 	neg = 0.5  
+19. Granted, perhaps it                 ... pos = 1.5   	neg = 0.875
+20. (Can you tell I don'                ... pos = 0.5   	neg = 0.0  
+21. I know they meant  t                ... pos = 0.0   	neg = 1.0  
+22. )  Many of the perfo                ... pos = 0.625 	neg = 0    
+23. I think Anthony Perk                ... pos = 1.875 	neg = 0.125
+24. This new one  has st                ... pos = 0.375 	neg = 0    
+25. Vince Vaughn plays N                ... pos = 0.0   	neg = 0.0  
+26. Norman  runs a small                ... pos = 0.0   	neg = 0.0  
+27. He lives in an impos                ... pos = 0.0   	neg = 0.125
+28. When a lone young wo                ... pos = 0.25  	neg = 0.75 
+29. (For what is she bei                ... pos = 0.25  	neg = 0.125
+30. Stealing the $400,00                ... pos = 0.0   	neg = 0    
+31. Sleeping with Sam Lo                ... pos = 0.25  	neg = 0.0  
+32. The latter would see                ... pos = 0.125 	neg = 0.0  
+33. )  When Marion's sis                ... pos = 0.0   	neg = 0.125
+34. There's also a priva                ... pos = 0.25  	neg = 0    
+35. The bulk of the plot                ... pos = 0.0   	neg = 0.25 
+36. In his reprise of th                ... pos = 0.0   	neg = 0.25 
+37. Vaughn wears shorter                ... pos = 0.25  	neg = 0.375
+38. His performance is s                ... pos = 0.625 	neg = 0.375
+39. Vaughn is good with                 ... pos = 0.875 	neg = 0.625
+40. Heche's version of M                ... pos = 0.5   	neg = 0.25 
+41. Her face reacts vari                ... pos = 0.125 	neg = 0.125
+42. Julianne Moore is fi                ... pos = 0.125 	neg = 0.125
+43. In a brief comic  re                ... pos = 0.375 	neg = 0.625
+44. No matter who plays                 ... pos = 0.0   	neg = 0.625
+45. Viggo Mortensen, as                 ... pos = 0.5   	neg = 0.0  
+46. Now for what Van San                ... pos = 0.125 	neg = 0.0  
+47. This is his "re-crea                ... pos = 0.125 	neg = 0.125
+48. The dialogue is most                ... pos = 0.875 	neg = 0.25 
+49. What I  liked includ                ... pos = 0.125 	neg = 0.0  
+50. Again, the shower sc                ... pos = 0.25  	neg = 0.125
+51. For its time,  Hitch                ... pos = 0.375 	neg = 0.25 
+52. And  I don't think V                ... pos = 0.0   	neg = 0.125
+53. But this new  shower                ... pos = 0.375 	neg = 0.0  
+54. Particularly impress                ... pos = 0.25  	neg = 0.25 
+55. Characters in this f                ... pos = 1.0   	neg = 0.0  
+56. There are infrequent                ... pos = 0.25  	neg = 0.625
+57. "  We witness at lea                ... pos = 0.125 	neg = 0.75 
+58. A final nice touch i                ... pos = 0.625 	neg = 0.875
+59. Applause to Van Sant                ... pos = 0.625 	neg = 0.125
+60. One scene that could                ... pos = 0.625 	neg = 0.375
+61. It's  delivered by R                ... pos = 0.0   	neg = 0.0  
+62. At least Van Sant ed                ... pos = 0.0   	neg = 0.625
+63. ". A good purpose "P                ... pos = 0.75  	neg = 0.125
+64. After watching both,                ... pos = 0.375 	neg = 0.0  
+65. And as long as they                 ... pos = 0.125 	neg = 1.125
+66. One question I have                 ... pos = 0.0   	neg = 0.75 
+---------------------------------------------------------------------------
+./temp/tmp-6044-71 is Positive          ... pos = 23.5  	neg = 15.75
+Overall score of document
+Total Pos = 23.5
+Total Neg = 15.75
+---------------------------------------------------------------------------

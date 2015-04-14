@@ -1,0 +1,45 @@
+0. I've noticed that cr                 ... pos = 0.0   	neg = 0.25 
+1. Increasingly, film c                 ... pos = 1.5   	neg = 0.75 
+2. Or, in English: movi                 ... pos = 0.25  	neg = 0.0  
+3. Although I've probab                 ... pos = 0.25  	neg = 0.875
+4. Come on, admit it: t                 ... pos = 0.0   	neg = 0.125
+5. After all, movies we                 ... pos = 0.625 	neg = 0.75 
+6. Despite a century of                 ... pos = 1.125 	neg = 0.0  
+7. That's good news ind                 ... pos = 2.25  	neg = 0.125
+8. It actuality, it bea                 ... pos = 0.0   	neg = 0.5  
+9. First things first:                  ... pos = 0.125 	neg = 0    
+10. It's not a great mov                ... pos = 0.0   	neg = 0.625
+11. It only wants to gen                ... pos = 1.0   	neg = 0.0  
+12. And because the film                ... pos = 1.25  	neg = 0.125
+13. Its eagerness to ple                ... pos = 1.375 	neg = 0.125
+14. The story: a psychol                ... pos = 0.0   	neg = 0.0  
+15. Marrow (Liam Nesson)                ... pos = 0.5   	neg = 0.875
+16. The three volunteers                ... pos = 0.875 	neg = 0.25 
+17. But Dr.                             ... pos = 0     	neg = 0.0  
+18. Marrow has more tric                ... pos = 1.0   	neg = 0.0  
+19. He plans to use his                 ... pos = 0.125 	neg = 0.0  
+20. But Dr.                             ... pos = 0     	neg = 0.0  
+21. Marrow soon finds hi                ... pos = 0.25  	neg = 0.0  
+22. Visually, The Haunti                ... pos = 0.25  	neg = 0.375
+23. The film contains so                ... pos = 0.625 	neg = 0.25 
+24. Everything looks gre                ... pos = 0.0   	neg = 0.625
+25. The chills the movie                ... pos = 0.75  	neg = 0.125
+26. The story is, alas,                 ... pos = 0.125 	neg = 0.125
+27. The biggest problem                 ... pos = 0.125 	neg = 1.875
+28. While Eleanor gets s                ... pos = 1.875 	neg = 0.25 
+29. And it's always a sh                ... pos = 0.5   	neg = 1.125
+30. Are these flaws seve                ... pos = 0.5   	neg = 0.0  
+31. Probably not: most h                ... pos = 1.25  	neg = 0.625
+32. And while The Haunti                ... pos = 1.375 	neg = 0.125
+33. It's a fun, slightly                ... pos = 0.375 	neg = 0.25 
+34. This is not a film y                ... pos = 1.375 	neg = 0.125
+35. The cacophony of lig                ... pos = 0.5   	neg = 0.0  
+36. E-Mail: jbarlow@eart                ... pos = 2.0   	neg = 0.5  
+37. I found it satisfyin                ... pos = 0.5   	neg = 0.0  
+38. "   --Renard A. Dell                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-4533-216 is Positive         ... pos = 24.625 	neg = 11.75
+Overall score of document
+Total Pos = 24.625
+Total Neg = 11.75
+---------------------------------------------------------------------------

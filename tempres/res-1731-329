@@ -1,0 +1,23 @@
+0. Mystery Men was supp                 ... pos = 0.0   	neg = 0.25 
+1. It had a hip cast, (                 ... pos = 0.125 	neg = 0.875
+2. Captain Amazing (Gre                 ... pos = 0.0   	neg = 0.25 
+3. What he needs is one                 ... pos = 0.375 	neg = 1.5  
+4. But Cassanova is sma                 ... pos = 0.25  	neg = 0.875
+5. Enter Mr.                            ... pos = 0.0   	neg = 0.0  
+6. Furious, (Stiller) t                 ... pos = 0.5   	neg = 0.0  
+7. They go around each                  ... pos = 0.125 	neg = 1.5  
+8. When their idol Capt                 ... pos = 0.0   	neg = 0.25 
+9. They hold superhero                  ... pos = 0.25  	neg = 0.25 
+10. That's exactly what                 ... pos = 1.125 	neg = 0.625
+11. The performances are                ... pos = 0.375 	neg = 0.778
+12. It's also full of ch                ... pos = 1.125 	neg = 0.875
+13. Universal put $68 mi                ... pos = 0.0   	neg = 0.0  
+14. While well cast, Mys                ... pos = 0.0   	neg = 0.0  
+15. The Young-Uns: The f                ... pos = 0.25  	neg = 0.875
+16. Good Age: 9 & Up. A                 ... pos = 0.75  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1731-329 is Negative         ... pos = 5.25  	neg = 8.903
+Overall score of document
+Total Pos = 5.25
+Total Neg = 8.903
+---------------------------------------------------------------------------

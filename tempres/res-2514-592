@@ -1,0 +1,59 @@
+0. What is pornography?                 ... pos = 0     	neg = 0.125
+1. Is it the showing of                 ... pos = 0.0   	neg = 0.125
+2. Do they need to be s                 ... pos = 0.0   	neg = 0.375
+3. Does the goal of the                 ... pos = 0.75  	neg = 0.25 
+4. The Supreme Court of                 ... pos = 0.25  	neg = 0.0  
+5. " After seeing 8MM,                  ... pos = 0.25  	neg = 0.5  
+6. A multi-millionaire                  ... pos = 0.25  	neg = 0.625
+7. So, her and her atto                 ... pos = 0.625 	neg = 0.625
+8. Welles assures her t                 ... pos = 1.75  	neg = 0.625
+9. He decides that the                  ... pos = 0.25  	neg = 0.125
+10. He soon finds the gi                ... pos = 0.125 	neg = 0.125
+11. So Welles makes his                 ... pos = 0.125 	neg = 0.125
+12. And that is what thi                ... pos = 0.0   	neg = 0.125
+13. It  introduces chara                ... pos = 1.0   	neg = 0.875
+14. His goal is to find                 ... pos = 0.0   	neg = 0.125
+15. He also finds the gi                ... pos = 0.0   	neg = 0.0  
+16. The film deals with                 ... pos = 0.0   	neg = 0.25 
+17. She becomes one of t                ... pos = 1.375 	neg = 0.0  
+18. And they are opposit                ... pos = 0.25  	neg = 0    
+19. She is dealing with                 ... pos = 0.0   	neg = 0.125
+20. He is a new father w                ... pos = 1.125 	neg = 0.5  
+21. At one point, Max Ca                ... pos = 0.125 	neg = 0.0  
+22. " That is a drastic                 ... pos = 0.375 	neg = 0.125
+23. And some  of the ima                ... pos = 0.25  	neg = 0.0  
+24. You, the audience me                ... pos = 0.0   	neg = 0.125
+25. " It is incomprehens                ... pos = 0.75  	neg = 0.875
+26. With that said, my l                ... pos = 0.0   	neg = 0.125
+27. Probably due to the                 ... pos = 0.375 	neg = 0.125
+28. The first realizatio                ... pos = 0.625 	neg = 0.25 
+29. It contains scenes a                ... pos = 0.0   	neg = 0.125
+30. What it is is a frig                ... pos = 1.0   	neg = 0.375
+31. And, as it is warned                ... pos = 0.0   	neg = 0.625
+32. For  that reason, 8M                ... pos = 1.125 	neg = 0.5  
+33. Nicholas Cage is abs                ... pos = 0.0   	neg = 0.125
+34. He acts like your  t                ... pos = 0.875 	neg = 0.125
+35. At one point he hold                ... pos = 0.0   	neg = 0.125
+36. So he calls the vict                ... pos = 0.25  	neg = 0.0  
+37. That is one of his m                ... pos = 0.75  	neg = 0.125
+38. At other times he co                ... pos = 0.75  	neg = 0.0  
+39. Another scene  featu                ... pos = 0.625 	neg = 0.75 
+40. " over and over.                    ... pos = 0.0   	neg = 0    
+41. The response is chil                ... pos = 0.0   	neg = 0.125
+42. Because I want to.                  ... pos = 0     	neg = 0.125
+43. " That is what  this                ... pos = 0.0   	neg = 0.25 
+44. Director Joel Schuma                ... pos = 0.875 	neg = 0.375
+45. Literally, less than                ... pos = 0.375 	neg = 0.0  
+46. That adds a creepy a                ... pos = 1.5   	neg = 0.25 
+47. Quite literally, fro                ... pos = 1.375 	neg = 0.625
+48. When all is said and                ... pos = 0.625 	neg = 0.625
+49. It has it's flaws in                ... pos = 0.375 	neg = 0.5  
+50. But it is good in pr                ... pos = 2.375 	neg = 0.125
+51. I only warn that "yo                ... pos = 0.0   	neg = 0.5  
+52. ". .                                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2514-592 is Positive         ... pos = 23.5  	neg = 13.625
+Overall score of document
+Total Pos = 23.5
+Total Neg = 13.625
+---------------------------------------------------------------------------

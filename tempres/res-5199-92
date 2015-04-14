@@ -1,0 +1,28 @@
+0. Seen on 13 February                  ... pos = 0.625 	neg = 0.875
+1. Robert Duvall gives                  ... pos = 0.625 	neg = 0.0  
+2. Written, produced, a                 ... pos = 0.0   	neg = 0.125
+3. It's easy to see why                 ... pos = 0.25  	neg = 0.0  
+4. It's all about the d                 ... pos = 0.625 	neg = 0.5  
+5. *The Apostle* opens                  ... pos = 0.0   	neg = 0    
+6. Fast-forwarding to t                 ... pos = 0.625 	neg = 0.0  
+7. Sonny definitely has                 ... pos = 0.5   	neg = 0.125
+8. Unlike many movies t                 ... pos = 1.25  	neg = 0.125
+9. Just as he rushes to                 ... pos = 0.875 	neg = 0.25 
+10. Without giving away                 ... pos = 0.75  	neg = 0.375
+11. Duvall's performance                ... pos = 0.0   	neg = 0    
+12. As a gay non-observa                ... pos = 1.625 	neg = 0.125
+13. One of the high poin                ... pos = 0.5   	neg = 0.125
+14. In an era of skeptic                ... pos = 0.625 	neg = 0.25 
+15. The subject matter i                ... pos = 1.0   	neg = 0.125
+16. Religion and faith a                ... pos = 1.75  	neg = 0.75 
+17. There are a lot of g                ... pos = 1.125 	neg = 1.0  
+18. *The Apostle* is all                ... pos = 0.125 	neg = 0.125
+19. Farah Fawcett plays                 ... pos = 0.75  	neg = 0.25 
+20. Mary Lynette Braxton                ... pos = 1.5   	neg = 0    
+21. More movie reviews b                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5199-92 is Positive          ... pos = 15.125 	neg = 5.25 
+Overall score of document
+Total Pos = 15.125
+Total Neg = 5.25
+---------------------------------------------------------------------------

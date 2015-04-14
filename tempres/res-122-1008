@@ -1,0 +1,41 @@
+0. **1/2 (out of 4) DOG                 ... pos = 0.25  	neg = 0.0  
+1. Kevin Smith (Chasing                 ... pos = 0.75  	neg = 1.0  
+2. His ideas are invent                 ... pos = 1.0   	neg = 0.0  
+3. His material is some                 ... pos = 0.375 	neg = 0.125
+4. On the other hand, h                 ... pos = 0.875 	neg = 0.0  
+5. DOGMA is a comic-boo                 ... pos = 0.125 	neg = 0.125
+6. Their plan is to bec                 ... pos = 0.125 	neg = 0.125
+7. Of course, once they                 ... pos = 0.125 	neg = 0.25 
+8. No foul, no harm, ri                 ... pos = 0.0   	neg = 0.5  
+9. The mythic rules of                  ... pos = 0.25  	neg = 0.0  
+10. The hero (Bethany, p                ... pos = 0.5   	neg = 0.125
+11. Her spirit guides ar                ... pos = 0.375 	neg = 0.0  
+12. -- he's played by Al                ... pos = 0.0   	neg = 0.0  
+13. She's aided by two p                ... pos = 0.125 	neg = 0.0  
+14. And the beast trying                ... pos = 2.625 	neg = 1.375
+15. At first glance it s                ... pos = 1.375 	neg = 0.25 
+16. Among other things,                 ... pos = 0.375 	neg = 0.0  
+17. But deeper down, Smi                ... pos = 0.25  	neg = 0.125
+18. He DOES poke fun at                 ... pos = 0.5   	neg = 0.0  
+19. He never takes any c                ... pos = 0.0   	neg = 0.625
+20. There's always a sen                ... pos = 0.0   	neg = 0.0  
+21. No other movie in re                ... pos = 1.125 	neg = 0.25 
+22. Unfortunately this t                ... pos = 0.125 	neg = 1.0  
+23. In order to work in                 ... pos = 1.0   	neg = 0    
+24. Nobody interrupts th                ... pos = 0.75  	neg = 0.0  
+25. Although the discuss                ... pos = 0.625 	neg = 0.0  
+26. A comic book would b                ... pos = 0.125 	neg = 0.125
+27. (On the other hand,                 ... pos = 0.25  	neg = 0.0  
+28. As Metatron said, "I                ... pos = 0.0   	neg = 0.125
+29. "). As a non-Catholi                ... pos = 0.125 	neg = 0.125
+30. I felt like I was th                ... pos = 0.125 	neg = 0.125
+31. In other words, Smit                ... pos = 0.0   	neg = 0.0  
+32. To Catholics with a                 ... pos = 0.625 	neg = 0.0  
+33. For the rest of us,                 ... pos = 0.25  	neg = 0.5  
+34. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-122-1008 is Positive         ... pos = 15.125 	neg = 6.875
+Overall score of document
+Total Pos = 15.125
+Total Neg = 6.875
+---------------------------------------------------------------------------

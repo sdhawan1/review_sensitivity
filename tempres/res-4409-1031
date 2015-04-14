@@ -1,0 +1,34 @@
+0. New Line / 2:32 / 19                 ... pos = 0.875 	neg = 0.875
+1. " The movie is alrea                 ... pos = 0.0   	neg = 0.375
+2. By no means a poor f                 ... pos = 0.0   	neg = 0.875
+3. Don't get me wrong -                 ... pos = 0.5   	neg = 1.25 
+4. Mark Wahlberg (forme                 ... pos = 1.125 	neg = 0.25 
+5. Following an escape                  ... pos = 0.625 	neg = 0.375
+6. His recruiter, porn                  ... pos = 0.375 	neg = 0.125
+7. Of course, his 13-in                 ... pos = 0.25  	neg = 0.0  
+8. The other characters                 ... pos = 2.125 	neg = 0.875
+9. Jack plans to redefi                 ... pos = 0.0   	neg = 0.0  
+10. Eddie plays an integ                ... pos = 1.375 	neg = 0.25 
+11. But as Dirk, Jack, A                ... pos = 1.5   	neg = 0.0  
+12. "Boogie Nights" tell                ... pos = 0.125 	neg = 0.0  
+13. Wahlberg, Reynolds,                 ... pos = 0.625 	neg = 0.0  
+14. Some members of the                 ... pos = 0.875 	neg = 0.25 
+15. You come away wishin                ... pos = 0.25  	neg = 0.375
+16. All of the actors ar                ... pos = 1.125 	neg = 0.0  
+17. What restrains the m                ... pos = 1.125 	neg = 0.375
+18. From then on, "Boogi                ... pos = 1.375 	neg = 0.875
+19. The movie's final se                ... pos = 0.5   	neg = 0.5  
+20. Flaws aside, "Boogie                ... pos = 1.0   	neg = 0.125
+21. It's a visual dynamo                ... pos = 1.25  	neg = 0.0  
+22. That the story event                ... pos = 1.625 	neg = 0.875
+23. And even the movie's                ... pos = 1.5   	neg = 0.25 
+24. When all said and do                ... pos = 0.75  	neg = 0.625
+25. The acting is distin                ... pos = 0.875 	neg = 0.875
+26. In the end, "Boogie                 ... pos = 0.5   	neg = 1.125
+27. Š 1997 Jamie Peck E                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4409-1031 is Positive        ... pos = 22.25 	neg = 11.5 
+Overall score of document
+Total Pos = 22.25
+Total Neg = 11.5
+---------------------------------------------------------------------------

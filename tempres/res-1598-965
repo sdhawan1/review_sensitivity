@@ -1,0 +1,44 @@
+0. Mission to Mars: Hou                 ... pos = 0.5   	neg = 0.5  
+1. Mission to Mars teac                 ... pos = 0.0   	neg = 0.375
+2. That's about the onl                 ... pos = 0.125 	neg = 0.0  
+3. Quite simply, Missio                 ... pos = 0.0   	neg = 0.125
+4. It does have one coo                 ... pos = 0.125 	neg = 1.25 
+5. And not even the dir                 ... pos = 0.0   	neg = 0.0  
+6. Not that they pay mu                 ... pos = 0.125 	neg = 0.0  
+7. .                                    ... pos = 0     	neg = 0    
+8. .                                    ... pos = 0     	neg = 0    
+9. The year is 2020.                    ... pos = 0.0   	neg = 0.125
+10. We know this because                ... pos = 0.625 	neg = 0.375
+11. And the mission is o                ... pos = 0.25  	neg = 0.125
+12. Remember all the hoo                ... pos = 0.25  	neg = 0.125
+13. It matters here.                    ... pos = 0.0   	neg = 0.0  
+14. First, however, ther                ... pos = 0.25  	neg = 0.0  
+15. Though all the time                 ... pos = 0.0   	neg = 0.625
+16. Clunky, contrived--t                ... pos = 0.0   	neg = 0.5  
+17. Mission to Mars coul                ... pos = 0.0   	neg = 0.0  
+18. We are a sophisticat                ... pos = 0.375 	neg = 0.0  
+19. Too, and in large pa                ... pos = 0.375 	neg = 0.25 
+20. I mean, even without                ... pos = 0.25  	neg = 0.625
+21. was it a good idea i                ... pos = 0.75  	neg = 0.125
+22. In addition, all the                ... pos = 1.125 	neg = 0.75 
+23. It doesn't help any                 ... pos = 0.0   	neg = 2.625
+24. But that face: is it                ... pos = 0.125 	neg = 0.125
+25. When we first see it                ... pos = 0.125 	neg = 0.375
+26. The problem is, it j                ... pos = 0.0   	neg = 0.375
+27. I mean, yeah, our 'w                ... pos = 0.25  	neg = 0.375
+28. Now we know everyone                ... pos = 0.25  	neg = 0.75 
+29. ) and a really bad a                ... pos = 0.0   	neg = 1.125
+30. And this is a movie                 ... pos = 0.0   	neg = 0.25 
+31. Regrettably, yes.                   ... pos = 0     	neg = 0.875
+32. To their credit, the                ... pos = 0.875 	neg = 0.375
+33. Including the direct                ... pos = 0.0   	neg = 0.25 
+34. The one good thing a                ... pos = 0.75  	neg = 0.25 
+35. If you were careful,                ... pos = 1.75  	neg = 0.5  
+36. Mission to Mars is f                ... pos = 0.0   	neg = 0.625
+37. (c)2000 Stephen Grah                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1598-965 is Negative         ... pos = 9.25  	neg = 14.75
+Overall score of document
+Total Pos = 9.25
+Total Neg = 14.75
+---------------------------------------------------------------------------

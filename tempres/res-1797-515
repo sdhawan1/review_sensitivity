@@ -1,0 +1,38 @@
+0. Cast: James Woods, K                 ... pos = 0.0   	neg = 0.375
+1. Cook, Leslie Hayman,                 ... pos = 0.0   	neg = 0.625
+2. So what's this movie                 ... pos = 0     	neg = 0.0  
+3. You guessed it... po                 ... pos = 0.0   	neg = 0.5  
+4. The Virgin Suicides                  ... pos = 0.5   	neg = 0.125
+5. When the youngest Li                 ... pos = 0.25  	neg = 0.0  
+6. That's what the pres                 ... pos = 0.0   	neg = 0.0  
+7. Now here's what I sa                 ... pos = 0.0   	neg = 0.25 
+8. Boring, arty, preten                 ... pos = 0.125 	neg = 0.875
+9. The movie lost me ea                 ... pos = 0.0   	neg = 0.0  
+10. The girl's father (J                ... pos = 0.25  	neg = 0.875
+11. Then, as the scene e                ... pos = 0.0   	neg = 0.0  
+12. Is that a joke?                     ... pos = 0.0   	neg = 0.375
+13. Is that supposed to                 ... pos = 0.0   	neg = 0.25 
+14. From then on, the mo                ... pos = 0.0   	neg = 0.125
+15. Performances are the                ... pos = 0.25  	neg = 0.0  
+16. Woods plays the only                ... pos = 0.875 	neg = 0.125
+17. Dunst has the potent                ... pos = 0.0   	neg = 0.125
+18. And while this film                 ... pos = 0.0   	neg = 1.0  
+19. There are also a few                ... pos = 0.5   	neg = 0.5  
+20. As a result, they al                ... pos = 0.625 	neg = 0.625
+21. Perhaps The Virgin S                ... pos = 1.375 	neg = 0.375
+22. We never get any sig                ... pos = 0.125 	neg = 0.625
+23. All we really know i                ... pos = 0.5   	neg = 0.25 
+24. What mother doesn't?                ... pos = 0.0   	neg = 0    
+25. It's certainly no re                ... pos = 0.25  	neg = 0.25 
+26. With The Godfather P                ... pos = 0.25  	neg = 0.25 
+27. With The Virgin Suic                ... pos = 0.0   	neg = 0.25 
+28. Having family connec                ... pos = 0.0   	neg = 0.125
+29. So attention film di                ... pos = 0.125 	neg = 0.0  
+30. Just because they sh                ... pos = 0.0   	neg = 0.125
+31. [R]. Reviewed by Chu                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1797-515 is Negative         ... pos = 6.0   	neg = 9.0  
+Overall score of document
+Total Pos = 6.0
+Total Neg = 9.0
+---------------------------------------------------------------------------

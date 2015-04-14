@@ -1,0 +1,57 @@
+0. The Haunting Starrin                 ... pos = 0.875 	neg = 0.5  
+1. If you've ever seen                  ... pos = 0.5   	neg = 0.0  
+2. They have things lik                 ... pos = 0.0   	neg = 0.25 
+3. But, the one I alway                 ... pos = 0.25  	neg = 0.25 
+4. For instance, the on                 ... pos = 0.875 	neg = 0.0  
+5. They had titles like                 ... pos = 0.0   	neg = 0.5  
+6. Well, after seeing T                 ... pos = 0.0   	neg = 0.0  
+7. Unfortunately, I can                 ... pos = 0.375 	neg = 1.25 
+8. That title would be                  ... pos = 0     	neg = 0.625
+9. Ok, that is a pretty                 ... pos = 0.625 	neg = 1.125
+10. It basically serves                 ... pos = 0.0   	neg = 1.0  
+11. Liam Neeson once aga                ... pos = 0.375 	neg = 0.125
+12. The Haunting is noth                ... pos = 0.125 	neg = 1.375
+13. Before I rant and ra                ... pos = 0.25  	neg = 1.0  
+14. First, the house is                 ... pos = 0.125 	neg = 0.125
+15. It looks beautiful,                 ... pos = 0.875 	neg = 0.5  
+16. It looks so great th                ... pos = 0.375 	neg = 1.375
+17. This is something th                ... pos = 0.375 	neg = 0.5  
+18. Things look so great                ... pos = 1.375 	neg = 0.375
+19. Haunted house films                 ... pos = 1.0   	neg = 0.25 
+20. The Hill House is no                ... pos = 0.125 	neg = 0.125
+21. It is beautiful, but                ... pos = 1.0   	neg = 0.125
+22. Ever heard of Lili T                ... pos = 0.0   	neg = 0.0  
+23. Before this film I d                ... pos = 0.0   	neg = 0.125
+24. She gives the only s                ... pos = 0.0   	neg = 0.125
+25. Despite the dry dial                ... pos = 0.75  	neg = 0.875
+26. Owen Wilson, who pla                ... pos = 0.75  	neg = 0.125
+27. He is basically ther                ... pos = 1.25  	neg = 0.25 
+28. All of the character                ... pos = 1.125 	neg = 0.125
+29. Wilson had potential                ... pos = 0.0   	neg = 0.375
+30. Liam Neeson and Cath                ... pos = 0.0   	neg = 0.125
+31. Their characters mus                ... pos = 2.125 	neg = 0.25 
+32. They just are not be                ... pos = 0.875 	neg = 0.125
+33. The plot is terrible                ... pos = 0     	neg = 0.75 
+34. The opening scene of                ... pos = 1.5   	neg = 0.375
+35. As I sat through the                ... pos = 0.0   	neg = 1.0  
+36. Nell, Lili Taylor's                 ... pos = 0.875 	neg = 0.0  
+37. It makes no sense an                ... pos = 0.0   	neg = 0.625
+38. He forces the viewer                ... pos = 0.375 	neg = 0.0  
+39. For instance, the be                ... pos = 0.0   	neg = 0.125
+40. But, we get zilch fo                ... pos = 0.0   	neg = 0.25 
+41. Plus, two of them ge                ... pos = 0.125 	neg = 0.0  
+42. And the worst part:                 ... pos = 0.0   	neg = 0.875
+43. For some reason, the                ... pos = 0.0   	neg = 0.625
+44. No reason whatsoever                ... pos = 0     	neg = 0.875
+45. Overall, The Hauntin                ... pos = 0.0   	neg = 1.375
+46. Bad plot, confusing                 ... pos = 0.75  	neg = 1.5  
+47. Hopefully, Liam Nees                ... pos = 1.25  	neg = 0.125
+48. Hopefully, Lili Tayl                ... pos = 0.625 	neg = 1.0  
+49. And hopefully, other                ... pos = 1.0   	neg = 1.0  
+50. Rating: 1 ˝ Stars O                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4533-493 is Negative         ... pos = 23.0  	neg = 24.375
+Overall score of document
+Total Pos = 23.0
+Total Neg = 24.375
+---------------------------------------------------------------------------

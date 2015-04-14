@@ -1,0 +1,50 @@
+0. THE GREEN MILE, star                 ... pos = 0.75  	neg = 0.125
+1. Directed by Frank Da                 ... pos = 0.0   	neg = 0    
+2. 1999.                                ... pos = 0     	neg = 0    
+3. After witnessing a f                 ... pos = 1.5   	neg = 0.375
+4. Well, to anyone look                 ... pos = 0.0   	neg = 0.0  
+5. The Green Mile is a                  ... pos = 0.0   	neg = 0.125
+6. As it goes with most                 ... pos = 0.0   	neg = 0.125
+7. However, Darabont do                 ... pos = 0.625 	neg = 0.0  
+8. While the original b                 ... pos = 0.25  	neg = 1.375
+9. Tom Hanks stars in t                 ... pos = 0.0   	neg = 0.0  
+10. His performance is n                ... pos = 0.125 	neg = 0.5  
+11. Hanks plays the youn                ... pos = 0.125 	neg = 0.0  
+12. The older Edgecomb b                ... pos = 0.25  	neg = 0.625
+13. While this bookendin                ... pos = 0.75  	neg = 0.25 
+14. And considering The                 ... pos = 0.375 	neg = 0.75 
+15. With Tom Hanks in th                ... pos = 1.0   	neg = 0.125
+16. And while Hanks's pe                ... pos = 1.125 	neg = 0.375
+17. Ironically though, H                ... pos = 0.0   	neg = 0.5  
+18. In fact, no member o                ... pos = 1.0   	neg = 0.125
+19. The ensemble definit                ... pos = 1.25  	neg = 0.0  
+20. First of all, Doug H                ... pos = 0.375 	neg = 0.375
+21. His performance as t                ... pos = 0.875 	neg = 0.875
+22. He contributes perfe                ... pos = 0.625 	neg = 0.0  
+23. His Percy is dead on                ... pos = 0.875 	neg = 0.125
+24. Secondly, Michael Du                ... pos = 0.625 	neg = 0.0  
+25. Be sure to note his                 ... pos = 0.25  	neg = 0.125
+26. And finally, the imp                ... pos = 0.0   	neg = 0.0  
+27. Heavy advertising ha                ... pos = 0.25  	neg = 0.375
+28. The rest of the ense                ... pos = 1.0   	neg = 0.0  
+29. Each character, from                ... pos = 0.875 	neg = 0.0  
+30. Is there anything wr                ... pos = 0.0   	neg = 0.875
+31. Yes, as minor as the                ... pos = 0.25  	neg = 0.375
+32. The first thing that                ... pos = 0.75  	neg = 0.25 
+33. When trash like The                 ... pos = 1.875 	neg = 0.5  
+34. Now onto the flaws.                 ... pos = 0.0   	neg = 0    
+35. I, for one, have rea                ... pos = 0.0   	neg = 0.0  
+36. While some may see t                ... pos = 1.125 	neg = 0.125
+37. While the film is ve                ... pos = 1.875 	neg = 0.25 
+38. In the end, mostof t                ... pos = 1.875 	neg = 0.25 
+39. However, Darabont tr                ... pos = 0.75  	neg = 0.625
+40. Those flaws may be n                ... pos = 0.0   	neg = 0.375
+41. It has true sentimen                ... pos = 1.625 	neg = 0.0  
+42. As Paul Edgecomb say                ... pos = 1.25  	neg = 0.625
+43. '. The Movie Page- h                ... pos = 0.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2549-493 is Positive         ... pos = 26.375 	neg = 11.5 
+Overall score of document
+Total Pos = 26.375
+Total Neg = 11.5
+---------------------------------------------------------------------------

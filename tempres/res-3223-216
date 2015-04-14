@@ -1,0 +1,66 @@
+0. I'll preface my comm                 ... pos = 0.875 	neg = 0.125
+1. It's been nearly a d                 ... pos = 0.375 	neg = 0.25 
+2. Wondering how the re                 ... pos = 0.125 	neg = 0.375
+3. " no longer seems qu                 ... pos = 0.875 	neg = 0.375
+4. I, along with the re                 ... pos = 1.0   	neg = 0.0  
+5. Anxiety over the pro                 ... pos = 0.0   	neg = 0    
+6. I simply can't relat                 ... pos = 0.0   	neg = 0.0  
+7. Afraid of not gettin                 ... pos = 0.0   	neg = 0.0  
+8. Sorry, that's too fa                 ... pos = 0.125 	neg = 0.875
+9. With that in mind, I                 ... pos = 0.75  	neg = 0.125
+10. "  Slick and humorou                ... pos = 1.25  	neg = 0.125
+11. Their enthusiasm is                 ... pos = 2.75  	neg = 0.25 
+12. As is required by th                ... pos = 1.875 	neg = 0.125
+13. But things soon begi                ... pos = 0.5   	neg = 0.625
+14. (The program that th                ... pos = 0.875 	neg = 0.125
+15. The phony clips of B                ... pos = 0.0   	neg = 0.0  
+16. ).         Zack's fr                ... pos = 0.375 	neg = 0.625
+17. His ego is such that                ... pos = 1.125 	neg = 0.75 
+18. His friend Dean (Pau                ... pos = 0.5   	neg = 0.0  
+19. Dean eventually sele                ... pos = 0.375 	neg = 0.375
+20. Zack wastes no time                 ... pos = 0.75  	neg = 0.875
+21. " she accuses), she                 ... pos = 0.375 	neg = 0    
+22. Their relationship b                ... pos = 0.125 	neg = 0.625
+23. Will Zack fall in lo                ... pos = 0.625 	neg = 0.0  
+24. Does the Pope wear a                ... pos = 0.0   	neg = 0.25 
+25. As I said, nothing a                ... pos = 0.0   	neg = 0.375
+26. The charm of the sto                ... pos = 0.625 	neg = 0.0  
+27. The film's wit is su                ... pos = 1.125 	neg = 0.125
+28. (Taylor, determined                 ... pos = 1.25  	neg = 0.0  
+29. Max.                                ... pos = 0     	neg = 0.0  
+30. ")  And another scen                ... pos = 0.0   	neg = 0.375
+31. My car is a Ford.                   ... pos = 0.25  	neg = 0.125
+32. "  That's the sort o                ... pos = 0.0   	neg = 0.625
+33. Smile.                              ... pos = 0.0   	neg = 0    
+34. Go ahead.                           ... pos = 0.0   	neg = 0.0  
+35. You know you want to                ... pos = 0     	neg = 0.125
+36. The characterization                ... pos = 0.0   	neg = 0.875
+37. Laney's father, play                ... pos = 1.5   	neg = 0.125
+38. And Laney, as played                ... pos = 0.875 	neg = 0.625
+39. Only Taylor and Broc                ... pos = 0.375 	neg = 0.5  
+40. ").         One scen                ... pos = 0.125 	neg = 0.0  
+41. I'll say no more, ex                ... pos = 0.0   	neg = 0.75 
+42. It's a shame that a                 ... pos = 0.375 	neg = 1.875
+43. "  Other scenes are                 ... pos = 0.25  	neg = 0.75 
+44. "  (They're meatball                ... pos = 0.0   	neg = 0.0  
+45. Har har.                            ... pos = 0     	neg = 0    
+46. ).         The movie                ... pos = 2.125 	neg = 0.625
+47. The lovely Janeane G                ... pos = 0.75  	neg = 0.0  
+48. Are we really suppos                ... pos = 1.875 	neg = 0.5  
+49. And that the instant                ... pos = 0.5   	neg = 0.75 
+50. Never mind.                         ... pos = 0.125 	neg = 0    
+51. "She's All That" is                 ... pos = 0.75  	neg = 0.125
+52. I'm not sure that I                 ... pos = 0.25  	neg = 0.0  
+53. I admit, I had a goo                ... pos = 0.75  	neg = 0.0  
+54. It seems there may s                ... pos = 0.375 	neg = 0.625
+55. Semper fi, Zack and                 ... pos = 0     	neg = 0    
+56. E-Mail: jbarlow@eart                ... pos = 0.375 	neg = 0.125
+57. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+58. Thanks.                             ... pos = 0.125 	neg = 0    
+59. -----------== Posted                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-3223-216 is Positive         ... pos = 30.625 	neg = 16.875
+Overall score of document
+Total Pos = 30.625
+Total Neg = 16.875
+---------------------------------------------------------------------------

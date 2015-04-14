@@ -1,0 +1,49 @@
+0. For years, Robert De                 ... pos = 0.0   	neg = 0.0  
+1. Now, in Analyze This                 ... pos = 1.375 	neg = 0.125
+2. DeNiro plays Paul Vi                 ... pos = 0.0   	neg = 0.375
+3. His emotions bring h                 ... pos = 0.625 	neg = 0.0  
+4. He suffers anxiety a                 ... pos = 0.0   	neg = 0.125
+5. Whenever he kills so                 ... pos = 0.125 	neg = 0.0  
+6. He cannot stand to w                 ... pos = 0.125 	neg = 0.125
+7. Worrying about his h                 ... pos = 0.25  	neg = 1.125
+8. DeNiro decides he is                 ... pos = 0.0   	neg = 0.375
+9. The psychiatrist he                  ... pos = 0.125 	neg = 0.125
+10. Ben is very scared t                ... pos = 2.25  	neg = 0.25 
+11. Ben is getting ready                ... pos = 0.375 	neg = 0.25 
+12. Seeing Ben, Paul gai                ... pos = 0.75  	neg = 0.25 
+13. It doesn't take much                ... pos = 0.125 	neg = 0.0  
+14. Some very funny sequ                ... pos = 0.875 	neg = 0.25 
+15. Ben is trying very h                ... pos = 0.75  	neg = 1.625
+16. He thinks that it ha                ... pos = 0.0   	neg = 0.125
+17. As Paul and Ben see                 ... pos = 0.25  	neg = 0.125
+18. Paul will hunt down                 ... pos = 0.875 	neg = 0.125
+19. Robert DeNiro's tale                ... pos = 0.0   	neg = 0.125
+20. DeNiro is one of tod                ... pos = 0.75  	neg = 0.125
+21. It was in Analyze Th                ... pos = 0.0   	neg = 1.0  
+22. Robert DeNiro needs                 ... pos = 0.625 	neg = 0.125
+23. Billy Crystal is rea                ... pos = 0.0   	neg = 0.125
+24. In his past few film                ... pos = 0.0   	neg = 0.75 
+25. In Analyze This, he                 ... pos = 0.25  	neg = 1.0  
+26. His talent was also                 ... pos = 0.0   	neg = 0.625
+27. Lisa Kudrow's talent                ... pos = 0.0   	neg = 0.625
+28. She was hardly in th                ... pos = 0.0   	neg = 0.125
+29. Kudrow has a lot of                 ... pos = 1.25  	neg = 0.0  
+30. At her wedding, when                ... pos = 0.0   	neg = 0.0  
+31. She seemed like her                 ... pos = 1.375 	neg = 0.125
+32. This is the only seq                ... pos = 0.5   	neg = 1.375
+33. It was a disappointm                ... pos = 0.0   	neg = 0.125
+34. The concept for the                 ... pos = 0.75  	neg = 0.375
+35. All of the requireme                ... pos = 1.0   	neg = 0.25 
+36. Don't get me wrong,                 ... pos = 0.625 	neg = 1.625
+37. If the stars were di                ... pos = 1.5   	neg = 0.125
+38. The movie was a good                ... pos = 0.75  	neg = 1.375
+39. Before viewing the f                ... pos = 0.25  	neg = 0.125
+40. It turns out that th                ... pos = 0.0   	neg = 0.0  
+41. The Bottom Line- Suc                ... pos = 0.0   	neg = 0.0  
+42. Such a huge disappoi                ... pos = 0.0   	neg = 0.875
+---------------------------------------------------------------------------
+./temp/tmp-5639-864 is Positive         ... pos = 18.5  	neg = 16.375
+Overall score of document
+Total Pos = 18.5
+Total Neg = 16.375
+---------------------------------------------------------------------------

@@ -1,0 +1,25 @@
+0. Out of Sight is a co                 ... pos = 1.125 	neg = 0.25 
+1. Out of Sight is not                  ... pos = 0.375 	neg = 0.25 
+2. This is clearly one                  ... pos = 0.625 	neg = 0.125
+3. Jack Foley (Clooney)                 ... pos = 0.0   	neg = 0.0  
+4. His approach to bank                 ... pos = 0.0   	neg = 0.625
+5. At the beginning of                  ... pos = 0.125 	neg = 0.0  
+6. After a prison break                 ... pos = 0.0   	neg = 0.625
+7. The story is further                 ... pos = 1.875 	neg = 0.75 
+8. The various characte                 ... pos = 2.375 	neg = 0.0  
+9. The film is not near                 ... pos = 0.125 	neg = 0.5  
+10. Soderbergh while kee                ... pos = 1.25  	neg = 0.375
+11. He freezes the frame                ... pos = 1.375 	neg = 0.25 
+12. Giving the film the                 ... pos = 0.0   	neg = 0.5  
+13. At the core of Out o                ... pos = 0.375 	neg = 0.125
+14. Soderbergh wisely ch                ... pos = 0.375 	neg = 0.25 
+15. This keeps you payin                ... pos = 0.75  	neg = 0.0  
+16. Both leads are quite                ... pos = 0.625 	neg = 0.0  
+17. Also very fine in th                ... pos = 0.875 	neg = 0.125
+18. If you are tired of                 ... pos = 0.75  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-4998-1338 is Positive        ... pos = 13.0  	neg = 4.875
+Overall score of document
+Total Pos = 13.0
+Total Neg = 4.875
+---------------------------------------------------------------------------

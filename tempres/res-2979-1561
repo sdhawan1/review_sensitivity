@@ -1,0 +1,36 @@
+0. Space.                               ... pos = 0     	neg = 0.0  
+1. It is the unforeseen                 ... pos = 0.0   	neg = 0.125
+2. The vastness of time                 ... pos = 0.125 	neg = 0    
+3. The whole of life.                   ... pos = 0.0   	neg = 0.0  
+4. It is mysterious and                 ... pos = 1.25  	neg = 0.125
+5. No wonder such cult                  ... pos = 0.875 	neg = 0.125
+6. Those shows revoluti                 ... pos = 0.0   	neg = 0.375
+7. People traveling at                  ... pos = 0.0   	neg = 0.0  
+8. Every young boy's dr                 ... pos = 0.375 	neg = 0.0  
+9. Of course, in 1977,                  ... pos = 0.125 	neg = 0.125
+10. A black-hole was cre                ... pos = 0.0   	neg = 0.125
+11. Every one was sucked                ... pos = 0.125 	neg = 0.25 
+12. Star Wars and Star T                ... pos = 0.0   	neg = 0.25 
+13. Aside from a few suc                ... pos = 1.5   	neg = 0.0  
+14. Until now.                          ... pos = 0.0   	neg = 0    
+15. Chris Carter, writte                ... pos = 1.375 	neg = 0.125
+16. Agent Fox Mulder (Da                ... pos = 2.125 	neg = 1.25 
+17. These agents work on                ... pos = 0.5   	neg = 0.0  
+18. This time, it is the                ... pos = 0.0   	neg = 0.875
+19. Just why is the gove                ... pos = 0.75  	neg = 0.625
+20. Easy.                               ... pos = 0.25  	neg = 0    
+21. So they, along with                 ... pos = 0.0   	neg = 0.0  
+22. "These men have been                ... pos = 0.0   	neg = 0.25 
+23. When this informatio                ... pos = 1.125 	neg = 0.125
+24. Okay, so X-Files doe                ... pos = 0.0   	neg = 0.125
+25. The action takes pla                ... pos = 0.25  	neg = 0.25 
+26. But, this movie is s                ... pos = 0.25  	neg = 1.75 
+27. Mulder and Scully ar                ... pos = 1.25  	neg = 0.125
+28. We movie lovers are                 ... pos = 0.25  	neg = 0.375
+29. But, with X-Files ab                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-2979-1561 is Positive        ... pos = 13.0  	neg = 7.5  
+Overall score of document
+Total Pos = 13.0
+Total Neg = 7.5
+---------------------------------------------------------------------------

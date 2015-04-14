@@ -1,0 +1,79 @@
+0. In the continuation                  ... pos = 0.125 	neg = 0.25 
+1. What makes this film                 ... pos = 0.0   	neg = 0.125
+2. Avika Goldsman's scr                 ... pos = 0.0   	neg = 0.75 
+3. This coming on the h                 ... pos = 0.375 	neg = 0.875
+4. Situations are devel                 ... pos = 0.875 	neg = 0.375
+5. This is most glaring                 ... pos = 0.0   	neg = 0.25 
+6. The story of Dr. Vic                 ... pos = 0.25  	neg = 0.125
+7. While working on a c                 ... pos = 0.0   	neg = 0.625
+8. Now of course he has                 ... pos = 0.0   	neg = 0.0  
+9. Now the logic of tha                 ... pos = 0.0   	neg = 0.25 
+10. If Mr.                              ... pos = 0     	neg = 0.0  
+11. Freeze wanted to fin                ... pos = 0.625 	neg = 0.375
+12. This is indeed a col                ... pos = 0.0   	neg = 0.125
+13. The development of P                ... pos = 0.125 	neg = 1.0  
+14. She wants to breed a                ... pos = 0.125 	neg = 0.625
+15. She joins with Mr.                  ... pos = 0.0   	neg = 0.0  
+16. Freeze in his plan t                ... pos = 0.375 	neg = 0.75 
+17. The characters have                 ... pos = 0.875 	neg = 0.25 
+18. Batman of course is                 ... pos = 0.125 	neg = 0.375
+19. Now that he has an a                ... pos = 0.125 	neg = 0.75 
+20. George Clooney tries                ... pos = 0.5   	neg = 0.375
+21. To say that his perf                ... pos = 0.0   	neg = 0.375
+22. His best performance                ... pos = 0.625 	neg = 0.0  
+23. Bruce Wayne has the                 ... pos = 1.0   	neg = 0.0  
+24. There is no spark an                ... pos = 0.5   	neg = 0.75 
+25. And even that relati                ... pos = 0.5   	neg = 0.125
+26. Robin comes off less                ... pos = 0.625 	neg = 0.625
+27. Now he's just a spoi                ... pos = 0.0   	neg = 0.0  
+28. In "Batman Forever",                ... pos = 0.125 	neg = 0.25 
+29. Now, Robin is suffer                ... pos = 0.0   	neg = 0.625
+30. Robin's attraction f                ... pos = 1.5   	neg = 0.5  
+31. His later flirtation                ... pos = 0.75  	neg = 0.0  
+32. Chris O'Donnell, onc                ... pos = 0.25  	neg = 0.125
+33. His Robin needs noth                ... pos = 0.75  	neg = 0.375
+34. The less said about                 ... pos = 0.125 	neg = 0.0  
+35. This talented young                 ... pos = 0.125 	neg = 0.0  
+36. She was cast strictl                ... pos = 0.0   	neg = 0.125
+37. This brings us to th                ... pos = 0.0   	neg = 0.375
+38. Arnold Scharzenegger                ... pos = 0.0   	neg = 0.25 
+39. The most rediculous                 ... pos = 0.0   	neg = 0.125
+40. Freeze's imprisonmen                ... pos = 0.0   	neg = 0    
+41. The guards are at le                ... pos = 0.5   	neg = 0.0  
+42. It's almost as ludic                ... pos = 0.0   	neg = 0.25 
+43. Umu Thurman struts a                ... pos = 0.0   	neg = 0.75 
+44. Her Poison Ivy has a                ... pos = 0.0   	neg = 0.625
+45. The only performance                ... pos = 1.375 	neg = 0.0  
+46. These two seasoned v                ... pos = 0.625 	neg = 0.0  
+47. Without going throug                ... pos = 0.75  	neg = 0.625
+48. Mr.                                 ... pos = 0     	neg = 0.0  
+49. Freeze is introduced                ... pos = 0.375 	neg = 0.125
+50. Every villain (even                 ... pos = 0.0   	neg = 1.0  
+51. With this film, Warn                ... pos = 0.125 	neg = 0.5  
+52. The only thing missi                ... pos = 0.25  	neg = 0.0  
+53. You almost wonder if                ... pos = 0.0   	neg = 0.125
+54. The special effects                 ... pos = 0.25  	neg = 0.25 
+55. And it is a case of                 ... pos = 0.125 	neg = 0.75 
+56. Every set, from Ivy'                ... pos = 0.0   	neg = 0.125
+57. There is no one real                ... pos = 0.25  	neg = 0.125
+58. Everything is set fo                ... pos = 0.0   	neg = 0.125
+59. The special effects                 ... pos = 0.375 	neg = 0.875
+60. There are homage thr                ... pos = 1.25  	neg = 0.25 
+61. Joel Schumacher has                 ... pos = 0.0   	neg = 0.5  
+62. Camera angles are po                ... pos = 0.25  	neg = 1.0  
+63. Master shots pepper                 ... pos = 0.0   	neg = 0.0  
+64. Mr. Schumacher is a                 ... pos = 0.75  	neg = 0.125
+65. One just has to look                ... pos = 0.0   	neg = 0.375
+66. But "Batman and Robi                ... pos = 0.0   	neg = 0.625
+67. The film has no styl                ... pos = 0.0   	neg = 0.5  
+68. It is the cinematic                 ... pos = 0.0   	neg = 0.625
+69. It is unfortunate th                ... pos = 0.75  	neg = 0.125
+70. Kill it.                            ... pos = 0.0   	neg = 0.0  
+71. Joel Schumacher's "B                ... pos = 0.0   	neg = 0.5  
+72. * out of ***** stars                ... pos = 0     	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-4883-860 is Negative         ... pos = 19.375 	neg = 23.75
+Overall score of document
+Total Pos = 19.375
+Total Neg = 23.75
+---------------------------------------------------------------------------

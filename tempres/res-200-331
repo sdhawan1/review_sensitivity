@@ -1,0 +1,32 @@
+0. 1999 has been a good                 ... pos = 0.875 	neg = 0.125
+1. We've seen some new                  ... pos = 1.25  	neg = 0.625
+2. But only one film is                 ... pos = 0.625 	neg = 0.125
+3. Directed by well-kno                 ... pos = 0.75  	neg = 0.25 
+4. Craig Schwartz (John                 ... pos = 0.0   	neg = 0.125
+5. He likes being a pup                 ... pos = 0.5   	neg = 0.0  
+6. But like any other p                 ... pos = 0.0   	neg = 0.125
+7. He lives with his wi                 ... pos = 0.375 	neg = 0.625
+8. To support his famil                 ... pos = 0.0   	neg = 0.0  
+9. Low overhead means l                 ... pos = 0.0   	neg = 0.125
+10. There he meets attra                ... pos = 0.875 	neg = 0.0  
+11. One day at his job,                 ... pos = 0.375 	neg = 0.0  
+12. Craig was fascinated                ... pos = 1.0   	neg = 0.25 
+13. He tells this to Max                ... pos = 0.0   	neg = 0    
+14. Maxine wants to sell                ... pos = 0.125 	neg = 0.0  
+15. She even felt transs                ... pos = 0.0   	neg = 0.125
+16. The three are tangle                ... pos = 1.375 	neg = 0.0  
+17. John Malkovich himse                ... pos = 0.0   	neg = 0.125
+18. As Craig takes over                 ... pos = 0.375 	neg = 0.0  
+19. And as the end comes                ... pos = 0.25  	neg = 0.0  
+20. The whole concept of                ... pos = 0.75  	neg = 0.125
+21. The choice of John M                ... pos = 0.0   	neg = 0.125
+22. He is famous, but no                ... pos = 0.375 	neg = 0.125
+23. Everybody knows him,                ... pos = 0.125 	neg = 0.0  
+24. A wonderful movie, t                ... pos = 1.125 	neg = 0.125
+25. And we can sure expe                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-331 is Positive          ... pos = 11.375 	neg = 3.125
+Overall score of document
+Total Pos = 11.375
+Total Neg = 3.125
+---------------------------------------------------------------------------

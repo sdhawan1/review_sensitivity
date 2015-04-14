@@ -1,0 +1,32 @@
+0. After 1993's "Fallin                 ... pos = 0.125 	neg = 0.25 
+1. Since then he has of                 ... pos = 0.0   	neg = 0.0  
+2. Although these disap                 ... pos = 1.75  	neg = 0.75 
+3. It promised to be so                 ... pos = 0.125 	neg = 0.125
+4. It wasn't.                           ... pos = 0.0   	neg = 0    
+5. The plot goes like t                 ... pos = 0.25  	neg = 0.25 
+6. The movie appears to                 ... pos = 0.0   	neg = 1.625
+7. Because murders can                  ... pos = 0.375 	neg = 0.625
+8. By combing through m                 ... pos = 0.0   	neg = 0.0  
+9. With the aid of Max                  ... pos = 0.125 	neg = 0.5  
+10. The plot bears an ob                ... pos = 0.625 	neg = 0.75 
+11. Both films are model                ... pos = 0.375 	neg = 0.75 
+12. "Hardcore" is a much                ... pos = 0.625 	neg = 0.125
+13. "8MM" had a lot of p                ... pos = 0.0   	neg = 0.0  
+14. In its better moment                ... pos = 0.0   	neg = 0.375
+15. One moment of the fi                ... pos = 0.25  	neg = 0.0  
+16. "In Cold Blood" was                 ... pos = 0.0   	neg = 0.25 
+17. Max promises that we                ... pos = 0.125 	neg = 1.125
+18. "  Tom does change-I                ... pos = 0.25  	neg = 0.0  
+19. Schumacher and scree                ... pos = 0.125 	neg = 0.0  
+20. (Walker's "Seven" di                ... pos = 0.125 	neg = 0.0  
+21. Cage tries hard to p                ... pos = 0.0   	neg = 1.875
+22. Phoenix walks away w                ... pos = 0.5   	neg = 0.0  
+23. Other cast members i                ... pos = 0.125 	neg = 0.625
+24. In the last analysis                ... pos = 1.0   	neg = 0.625
+25. However, unlike othe                ... pos = 0.375 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-2514-1265 is Negative        ... pos = 7.25  	neg = 11.25
+Overall score of document
+Total Pos = 7.25
+Total Neg = 11.25
+---------------------------------------------------------------------------

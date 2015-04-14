@@ -1,0 +1,23 @@
+0. Starring: William H.                 ... pos = 0.625 	neg = 1.125
+1. The bumbling "heroes                 ... pos = 0.0   	neg = 0.0  
+2. Furious, The Shovele                 ... pos = 0.625 	neg = 0.625
+3. Mr.                                  ... pos = 0     	neg = 0.0  
+4. Furious is powered b                 ... pos = 0.875 	neg = 0.125
+5. " The Shoveler is a                  ... pos = 0.0   	neg = 0.125
+6. The Bowler argues wi                 ... pos = 0.0   	neg = 0.125
+7. The Blue Raja wears                  ... pos = 0.5   	neg = 0.125
+8. The Spleen was curse                 ... pos = 0.375 	neg = 0.125
+9. Invisible Boy thinks                 ... pos = 0.25  	neg = 1.625
+10. And the Sphinx spout                ... pos = 0     	neg = 1.125
+11. Opinion: The heroes                 ... pos = 0.0   	neg = 1.125
+12. The bad guy knows wh                ... pos = 0.0   	neg = 1.125
+13. From then it's just                 ... pos = 0.0   	neg = 0.875
+14. Guess who wins the l                ... pos = 0.125 	neg = 0.0  
+15. Sometimes going over                ... pos = 0.125 	neg = 1.125
+16. Copyright Š 1999 by                ... pos = 0.0   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1731-416 is Negative         ... pos = 3.5   	neg = 9.5  
+Overall score of document
+Total Pos = 3.5
+Total Neg = 9.5
+---------------------------------------------------------------------------

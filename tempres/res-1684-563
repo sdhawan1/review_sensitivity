@@ -1,0 +1,44 @@
+0. Starring Tom Cruise,                 ... pos = 0.0   	neg = 0.0  
+1. Rated R.. Eyes Wide                  ... pos = 1.625 	neg = 0.5  
+2. It's a Stanley Kubri                 ... pos = 4.25  	neg = 1.125
+3. In an uncharacterist                 ... pos = 0.0   	neg = 0.0  
+4. They play Bill and A                 ... pos = 1.25  	neg = 0.125
+5. He is an M.D., she's                 ... pos = 0.5   	neg = 0.125
+6. At the affair, they                  ... pos = 1.25  	neg = 0.0  
+7. When they return to                  ... pos = 0.375 	neg = 0.25 
+8. He (truthfully) says                 ... pos = 0.25  	neg = 0.125
+9. They proceed to argu                 ... pos = 0.75  	neg = 0.0  
+10. She admits that she                 ... pos = 0.0   	neg = 0.25 
+11. Bill is jolted by Al                ... pos = 0.5   	neg = 0.125
+12. This turns out to be                ... pos = 0.0   	neg = 0.5  
+13. The daughter of the                 ... pos = 0.5   	neg = 0.0  
+14. He almost does the d                ... pos = 0.625 	neg = 0.0  
+15. Then, through a seri                ... pos = 0.625 	neg = 0.25 
+16. Erotic dread mounts                 ... pos = 0.75  	neg = 0.375
+17. Much hoopla has been                ... pos = 0.625 	neg = 0.125
+18. With the help of a c                ... pos = 0.625 	neg = 0.375
+19. European viewers wil                ... pos = 0.375 	neg = 0    
+20. Roger Ebert calls th                ... pos = 0.0   	neg = 0.0  
+21. I am of the potentia                ... pos = 0.625 	neg = 0.125
+22. The first thing one                 ... pos = 1.5   	neg = 0.5  
+23. This is an artful, d                ... pos = 1.625 	neg = 0.25 
+24. From the giant mansi                ... pos = 0.5   	neg = 0.5  
+25. To boot, a great sou                ... pos = 0.0   	neg = 0    
+26. At the core, behind                 ... pos = 1.375 	neg = 0.5  
+27. It looks at sex as a                ... pos = 0.75  	neg = 1.375
+28. It's something super                ... pos = 0.625 	neg = 0.5  
+29. At the end, it seems                ... pos = 2.375 	neg = 0.125
+30. Kubrick elicits wond                ... pos = 1.0   	neg = 0.0  
+31. Tom is completely co                ... pos = 0.25  	neg = 0.5  
+32. Nicole projects a qu                ... pos = 1.5   	neg = 0.125
+33. The movie has some h                ... pos = 1.75  	neg = 0.125
+34. Eyes Wide Shut is no                ... pos = 2.5   	neg = 0.375
+35. Still, this is an im                ... pos = 3.0   	neg = 0.375
+36. Š1999 Eugene Noviko                ... pos = 0.0   	neg = 0.0  
+37. Learn what you don't                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1684-563 is Positive         ... pos = 34.25 	neg = 9.625
+Overall score of document
+Total Pos = 34.25
+Total Neg = 9.625
+---------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+0. Not that I put much                  ... pos = 1.5   	neg = 0.0  
+1. THE INSIDER is an in                 ... pos = 0.5   	neg = 0.125
+2. Two and one-half hou                 ... pos = 0.375 	neg = 0.0  
+3. The movie opens on B                 ... pos = 0.0   	neg = 0.0  
+4. Yet even while he's                  ... pos = 0.25  	neg = 0.25 
+5. Wigand (Crowe) is in                 ... pos = 0.0   	neg = 0.125
+6. Mann's close-up, han                 ... pos = 0.0   	neg = 0.125
+7. The two cross paths                  ... pos = 0.0   	neg = 0.0  
+8. Wigand strongly refu                 ... pos = 0.375 	neg = 0.0  
+9. Bergman smells a big                 ... pos = 0.0   	neg = 0.0  
+10. Meanwhile, the Big B                ... pos = 0.0   	neg = 0.125
+11. Brown & Williamson c                ... pos = 0.125 	neg = 0.0  
+12. They seem to know th                ... pos = 0.125 	neg = 0.125
+13. Luckily for Bergman                 ... pos = 0.5   	neg = 0.125
+14. Part of the reason M                ... pos = 0.625 	neg = 0.25 
+15. No character exists                 ... pos = 0.875 	neg = 0.0  
+16. So although Bergman                 ... pos = 1.25  	neg = 0.0  
+17. Such human motivator                ... pos = 2.0   	neg = 0.0  
+18. Another reason is th                ... pos = 0.0   	neg = 0.25 
+19. Although the movie i                ... pos = 0.25  	neg = 0.25 
+20. Every scene is impor                ... pos = 0.875 	neg = 1.0  
+21. Finally, there are s                ... pos = 0.375 	neg = 0.0  
+22. The first is where M                ... pos = 0.125 	neg = 0.125
+23. For example, they br                ... pos = 0.75  	neg = 0.0  
+24. One should never "cr                ... pos = 0.25  	neg = 0.375
+25. But in two places, t                ... pos = 0.0   	neg = 0.125
+26. The effect is disori                ... pos = 0.0   	neg = 0.5  
+27. The second is in the                ... pos = 0.0   	neg = 0.125
+28. Mann and editor Will                ... pos = 0.0   	neg = 0    
+29. For example, when Wi                ... pos = 0.125 	neg = 0.0  
+30. A burning car sits b                ... pos = 0.0   	neg = 0.375
+31. Plotwise, the car is                ... pos = 1.0   	neg = 0.25 
+32. And finally, the amo                ... pos = 0.875 	neg = 0.0  
+33. Carefully designed s                ... pos = 0.75  	neg = 0.125
+34. To top it all off, P                ... pos = 0.75  	neg = 0.625
+35. THE INSIDER is a suc                ... pos = 0.125 	neg = 0.125
+36. It's a gripping dram                ... pos = 0.375 	neg = 0.375
+37. Check out more curre                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6183-1008 is Positive        ... pos = 15.125 	neg = 5.875
+Overall score of document
+Total Pos = 15.125
+Total Neg = 5.875
+---------------------------------------------------------------------------

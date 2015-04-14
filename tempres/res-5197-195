@@ -1,0 +1,52 @@
+0. Given the opportunit                 ... pos = 0.875 	neg = 0.125
+1. Luckily, I stand a m                 ... pos = 1.125 	neg = 0.0  
+2. But as Matt Damon's                  ... pos = 1.25  	neg = 0.5  
+3. Beethoven looked at                  ... pos = 1.125 	neg = 0.0  
+4. Will grew up an orph                 ... pos = 0.125 	neg = 0.875
+5. On the verge of his                  ... pos = 0.25  	neg = 0.125
+6. He's hot-tempered, h                 ... pos = 1.875 	neg = 1.0  
+7. Example?                             ... pos = 0     	neg = 0.0  
+8. How about solving ma                 ... pos = 0.0   	neg = 0.25 
+9. MIT Professor Lambea                 ... pos = 0.0   	neg = 0.125
+10. Everyday, it appears                ... pos = 1.375 	neg = 0.25 
+11. But one night after                 ... pos = 0.5   	neg = 0.375
+12. Will isn't too inter                ... pos = 0.125 	neg = 0.375
+13. The judge agrees to                 ... pos = 1.625 	neg = 0.125
+14. Particulary reluctan                ... pos = 0.625 	neg = 0.5  
+15. As a last resort, La                ... pos = 1.125 	neg = 0.0  
+16. After losing his wif                ... pos = 1.0   	neg = 0.25 
+17. After an abrasive be                ... pos = 2.125 	neg = 0.125
+18. Williams, who has sp                ... pos = 1.375 	neg = 0.778
+19. The man who has play                ... pos = 0.5   	neg = 0.0  
+20. .                                   ... pos = 0     	neg = 0    
+21. .                                   ... pos = 0     	neg = 0    
+22. he's an even better                 ... pos = 0.5   	neg = 0.0  
+23. Other key characters                ... pos = 1.5   	neg = 0.0  
+24. Affleck and Damon ar                ... pos = 0.25  	neg = 0.0  
+25. Affleck's role is ac                ... pos = 0.625 	neg = 0.5  
+26. Minnie Driver plays                 ... pos = 2.0   	neg = 0.625
+27. The romance is by fa                ... pos = 0.0   	neg = 0.125
+28. It's quite underdeve                ... pos = 0.25  	neg = 0.0  
+29. There is one scene w                ... pos = 0.875 	neg = 0.125
+30. It's a wonderfully a                ... pos = 1.125 	neg = 0.25 
+31. The romance is also                 ... pos = 2.0   	neg = 0.125
+32. Sadly, the movie wou                ... pos = 0.0   	neg = 1.625
+33. Damon proves very im                ... pos = 0.625 	neg = 0.0  
+34. In truly one of the                 ... pos = 1.375 	neg = 0.375
+35. Like Affleck, Damon                 ... pos = 0.125 	neg = 0.375
+36. Director Gus Van San                ... pos = 1.125 	neg = 0.25 
+37. Jean-Yves Escoffier'                ... pos = 0.5   	neg = 0.125
+38. Skarsgĺrd's perform                ... pos = 1.125 	neg = 0    
+39. Coming in at the end                ... pos = 1.375 	neg = 0.125
+40. It jumped way up to                 ... pos = 0.25  	neg = 0.0  
+41. While this film dese                ... pos = 1.25  	neg = 0.625
+42. I would highly recom                ... pos = 0.625 	neg = 1.0  
+43. If you still don't k                ... pos = 0.0   	neg = 0.0  
+44. If you *still* don't                ... pos = 0.125 	neg = 0.125
+45. For those of you who                ... pos = 0.5   	neg = 0.25 
+---------------------------------------------------------------------------
+./temp/tmp-5197-195 is Positive         ... pos = 35.125 	neg = 12.403
+Overall score of document
+Total Pos = 35.125
+Total Neg = 12.403
+---------------------------------------------------------------------------

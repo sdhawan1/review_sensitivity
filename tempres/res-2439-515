@@ -1,0 +1,43 @@
+0. Cast: Russell Crowe,                 ... pos = 0.25  	neg = 0.0  
+1. However the emperor'                 ... pos = 0.125 	neg = 1.75 
+2. Maximus is able to e                 ... pos = 0.125 	neg = 0.25 
+3. Proximo is looking f                 ... pos = 1.0   	neg = 0.125
+4. When emperor Commodu                 ... pos = 0.75  	neg = 0.125
+5. Maximus sees this as                 ... pos = 0.5   	neg = 0.25 
+6. Gladiator begins wit                 ... pos = 0.125 	neg = 0.125
+7. The only downfall of                 ... pos = 0.25  	neg = 0.5  
+8. It's similar to the                  ... pos = 0.875 	neg = 0.25 
+9. The actual gladiator                 ... pos = 0.5   	neg = 0.0  
+10. Many times it's uncl                ... pos = 0.875 	neg = 0.375
+11. We're not sure who's                ... pos = 0.25  	neg = 0.0  
+12. There's an instance                 ... pos = 0.0   	neg = 0.5  
+13. It's comes when Maxi                ... pos = 0.0   	neg = 0.0  
+14. Some flashes and a f                ... pos = 0.125 	neg = 0.375
+15. Russell Crowe should                ... pos = 0.75  	neg = 0.375
+16. For whatever reason                 ... pos = 0.125 	neg = 0.0  
+17. From here on moviego                ... pos = 0.5   	neg = 0.125
+18. He gets the best sce                ... pos = 1.0   	neg = 0.0  
+19. It's both rousing an                ... pos = 0.0   	neg = 0    
+20. Joaquin Phoenix does                ... pos = 1.875 	neg = 0.0  
+21. Commodus is connivin                ... pos = 0.875 	neg = 1.5  
+22. It's a very good (an                ... pos = 1.75  	neg = 0    
+23. Oliver Reed died dur                ... pos = 0.0   	neg = 0.125
+24. I've always been fas                ... pos = 0.75  	neg = 0.5  
+25. It's ironic that thi                ... pos = 1.25  	neg = 0.0  
+26. The film is dedicate                ... pos = 0.5   	neg = 0.5  
+27. Reed's death present                ... pos = 0.0   	neg = 0.375
+28. Rather than recast t                ... pos = 0.625 	neg = 0.125
+29. Ironically, that was                ... pos = 0.0   	neg = 0.625
+30. Anyway, this digital                ... pos = 0.75  	neg = 0.375
+31. Some of the other di                ... pos = 0.875 	neg = 0.5  
+32. It's sad that such a                ... pos = 0.875 	neg = 0.75 
+33. Movies like The Fall                ... pos = 0.0   	neg = 0.5  
+34. Keep in mind that Gl                ... pos = 0.625 	neg = 0.25 
+35. However it's a work                 ... pos = 0.125 	neg = 0.375
+36. Reviewed by Chuck Do                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2439-515 is Positive         ... pos = 19.0  	neg = 11.625
+Overall score of document
+Total Pos = 19.0
+Total Neg = 11.625
+---------------------------------------------------------------------------

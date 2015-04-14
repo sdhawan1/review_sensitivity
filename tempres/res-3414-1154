@@ -1,0 +1,50 @@
+0. There aren't many th                 ... pos = 0.25  	neg = 0.0  
+1. Twenty two young men                 ... pos = 0.5   	neg = 0.25 
+2. Many of them playing                 ... pos = 1.125 	neg = 0    
+3. In small Texas towns                 ... pos = 0.75  	neg = 0.125
+4. The town lives and d                 ... pos = 0.0   	neg = 0.0  
+5. 1983's All  the Righ                 ... pos = 0.75  	neg = 0.0  
+6. Varsity Blues captur                 ... pos = 0.125 	neg = 0.5  
+7. In the past 30 years                 ... pos = 0.375 	neg = 0.0  
+8. He plans on doing wh                 ... pos = 0.0   	neg = 0.0  
+9. Unfortunately, when                  ... pos = 0.0   	neg = 1.0  
+10. The coach must turn                 ... pos = 0.375 	neg = 0.0  
+11. Mox doesn't really b                ... pos = 0.0   	neg = 0.0  
+12. He's working for a s                ... pos = 0.0   	neg = 0.0  
+13. He's  been playing f                ... pos = 0.625 	neg = 0.25 
+14. But when he finally                 ... pos = 0.0   	neg = 0.0  
+15. Suddenly Mox gets wr                ... pos = 0.5   	neg = 0.0  
+16. Mox also begins a bi                ... pos = 0.25  	neg = 0.125
+17. Voight plays this ch                ... pos = 1.25  	neg = 0.0  
+18. Been there, done tha                ... pos = 0.0   	neg = 0.125
+19. This  particular sec                ... pos = 0.0   	neg = 0.0  
+20. Kilmer's character                  ... pos = 0.875 	neg = 0.625
+21. The family drama is                 ... pos = 0.0   	neg = 0.75 
+22. Mox's father is  as                 ... pos = 0.0   	neg = 0.5  
+23. The film also attemp                ... pos = 0.25  	neg = 0.25 
+24. It goes way  too far                ... pos = 0.0   	neg = 0.25 
+25. In one scene, a play                ... pos = 0.5   	neg = 0.375
+26. In another, the boys                ... pos = 0.625 	neg = 0.25 
+27. Neither of these sce                ... pos = 0.25  	neg = 0.25 
+28. Despite all of this,                ... pos = 0.375 	neg = 0.0  
+29. Van Der Beek is soli                ... pos = 1.875 	neg = 0.125
+30. Ron Lester has a ver                ... pos = 2.75  	neg = 0.25 
+31. Ali  Larter also has                ... pos = 0.125 	neg = 0.0  
+32. One scene she finds                 ... pos = 0.625 	neg = 0.0  
+33. Now that WAS funny,                 ... pos = 0.0   	neg = 0.125
+34. Brian Robbins does a                ... pos = 0.875 	neg = 0.0  
+35. Everything is easy t                ... pos = 0.25  	neg = 0.125
+36. I particularly liked                ... pos = 0.125 	neg = 0.5  
+37. I also  enjoyed the                 ... pos = 0.375 	neg = 0.0  
+38. And yes, the film do                ... pos = 0.0   	neg = 0.25 
+39. And the final play o                ... pos = 0.125 	neg = 0.125
+40. These complaints mig                ... pos = 0.625 	neg = 0.75 
+41. The final game,  and                ... pos = 1.0   	neg = 0    
+42. I guess that's the a                ... pos = 0.25  	neg = 0.0  
+43. Larry McGillicuddy -                ... pos = 0     	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3414-1154 is Positive        ... pos = 18.75 	neg = 7.875
+Overall score of document
+Total Pos = 18.75
+Total Neg = 7.875
+---------------------------------------------------------------------------

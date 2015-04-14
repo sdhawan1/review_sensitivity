@@ -1,0 +1,24 @@
+0. Note: Some may consi                 ... pos = 0.125 	neg = 0.125
+1. Be forewarned.                       ... pos = 0.0   	neg = 0.125
+2. --------------------                 ... pos = 2.5   	neg = 1.125
+3. Terrific, but haven'                 ... pos = 0.25  	neg = 0.0  
+4. In the studio's mad                  ... pos = 0.625 	neg = 1.0  
+5. Their    escapades a                 ... pos = 2.125 	neg = 0.5  
+6. The    filmmakers' o                 ... pos = 0.625 	neg = 0.25 
+7. Familiarity breeds c                 ... pos = 0.125 	neg = 0.125
+8. Well, it almost come                 ... pos = 0.375 	neg = 0    
+9. The supporting cast                  ... pos = 0.75  	neg = 0.25 
+10. My hopes were pinned                ... pos = 1.0   	neg = 0.875
+11. Sadly, his formidabl                ... pos = 2.125 	neg = 1.25 
+12. The franchise's inde                ... pos = 1.431 	neg = 1.75 
+13. From its action-pack                ... pos = 2.625 	neg = 0.625
+14. By now, they've beco                ... pos = 0.625 	neg = 0.125
+15. On the plus side, th                ... pos = 2.625 	neg = 0.5  
+16. My cynical,    anyth                ... pos = 0.5   	neg = 1.25 
+17. "                                   ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-2402-717 is Positive         ... pos = 18.431 	neg = 9.875
+Overall score of document
+Total Pos = 18.431
+Total Neg = 9.875
+---------------------------------------------------------------------------

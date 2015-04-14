@@ -1,0 +1,31 @@
+0. You know John Malkov                 ... pos = 0.0   	neg = 0.0  
+1. He's the darkly comp                 ... pos = 0.0   	neg = 0.0  
+2. Few would deny that                  ... pos = 1.0   	neg = 0.125
+3. However, with the we                 ... pos = 0.125 	neg = 0.375
+4. ') Jonze and writer                  ... pos = 0.0   	neg = 0.125
+5. The word quirky does                 ... pos = 0.0   	neg = 0.125
+6. John Cusack plays Cr                 ... pos = 1.0   	neg = 0.0  
+7. You see, LesterCorp.                 ... pos = 0.0   	neg = 0    
+8. is on the 7 1/2 floo                 ... pos = 1.125 	neg = 0.125
+9. On the 7 1/2 floor,                  ... pos = 0.75  	neg = 0.0  
+10. On the 7 1/2 floor,                 ... pos = 0.125 	neg = 0.125
+11. And on the 7 1/2 flo                ... pos = 0.375 	neg = 0.0  
+12. No joke.                            ... pos = 0     	neg = 0.5  
+13. `Being John Malkovic                ... pos = 0.125 	neg = 0.0  
+14. The `love triangle'                 ... pos = 0.5   	neg = 0.125
+15. And yes, Cameron Dia                ... pos = 0.875 	neg = 0.0  
+16. '. John Malkovich is                ... pos = 0.0   	neg = 0.125
+17. As himself, he gives                ... pos = 0.75  	neg = 0    
+18. In the film, we see                 ... pos = 0.125 	neg = 0.5  
+19. Director Spike Jonze                ... pos = 0.0   	neg = 0.25 
+20. With a taut and clev                ... pos = 2.125 	neg = 0.0  
+21. It's hard to write a                ... pos = 0.0   	neg = 0.75 
+22. `Being John Malkovic                ... pos = 0.375 	neg = 0.125
+23. Without giving away                 ... pos = 0.625 	neg = 0.125
+24. A dark comedy classi                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-200-421 is Positive          ... pos = 10.875 	neg = 3.5  
+Overall score of document
+Total Pos = 10.875
+Total Neg = 3.5
+---------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+0. Just in time for Fat                 ... pos = 0.5   	neg = 0.0  
+1. If you can't say any                 ... pos = 0.5   	neg = 0.0  
+2. There's a cast of go                 ... pos = 0.375 	neg = 0.5  
+3. "  That line falls t                 ... pos = 0.0   	neg = 0.375
+4. Confidential") as th                 ... pos = 0.125 	neg = 0.625
+5. The daughter is well                 ... pos = 0.0   	neg = 0.125
+6. John Travolta is the                 ... pos = 0.0   	neg = 0.375
+7. Madeleine Stowe as h                 ... pos = 1.375 	neg = 0.125
+8. Most of the rest of                  ... pos = 2.5   	neg = 0.625
+9. )  One of these colo                 ... pos = 0.125 	neg = 2.0  
+10. Early on there's one                ... pos = 0.0   	neg = 0.25 
+11. Then it's on to the                 ... pos = 0.375 	neg = 0.375
+12. It's the worst kind                 ... pos = 0.125 	neg = 0.375
+13. The whole thing is s                ... pos = 0.0   	neg = 1.0  
+14. There's heavy-handed                ... pos = 0.0   	neg = 1.0  
+15. The general's daught                ... pos = 0.375 	neg = 0.0  
+16. "  In this movie, ou                ... pos = 0.875 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1224-258 is Negative         ... pos = 7.25  	neg = 7.75 
+Overall score of document
+Total Pos = 7.25
+Total Neg = 7.75
+---------------------------------------------------------------------------

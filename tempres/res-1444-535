@@ -1,0 +1,73 @@
+0. At the tail end of t                 ... pos = 0.0   	neg = 0.0  
+1. His mother, Elaine (                 ... pos = 0.5   	neg = 0.0  
+2. Despite his mother,                  ... pos = 0.0   	neg = 0.0  
+3. His talents are disc                 ... pos = 1.25  	neg = 0.375
+4. While waiting for th                 ... pos = 0.0   	neg = 0.125
+5. While first rejected                 ... pos = 0.125 	neg = 0.0  
+6. Actually, Penny and                  ... pos = 0.375 	neg = 0.0  
+7. Band aids are simila                 ... pos = 0.75  	neg = 0.0  
+8. So, now a friend of                  ... pos = 0.125 	neg = 0.125
+9. What was  supposed t                 ... pos = 0.0   	neg = 0.625
+10. Let me get one thing                ... pos = 0.0   	neg = 0.0  
+11. I don't like the 70'                ... pos = 0     	neg = 0.0  
+12. I  don't like what t                ... pos = 0.125 	neg = 0.0  
+13. That said, I love 70                ... pos = 0.625 	neg = 0.0  
+14. Not necessarily what                ... pos = 0.0   	neg = 0.25 
+15. Now, please make not                ... pos = 0.0   	neg = 0.0  
+16. Classic 70's songs f                ... pos = 1.125 	neg = 0.25 
+17. I'm sure you're wond                ... pos = 0.5   	neg = 0.0  
+18. "Almost  Famous" is                 ... pos = 0.25  	neg = 0.125
+19. I don't mean it's fu                ... pos = 1.0   	neg = 0.375
+20. The dialogue is funn                ... pos = 1.0   	neg = 0.25 
+21. It's a tribute to wr                ... pos = 0.375 	neg = 0.25 
+22. Amazingly enough, th                ... pos = 0.125 	neg = 0.0  
+23. You're probably thin                ... pos = 0.5   	neg = 0.0  
+24. Every  performance i                ... pos = 0.75  	neg = 0.5  
+25. Frances McDormand ("                ... pos = 1.75  	neg = 0.875
+26. Philip Seymour Hoffm                ... pos = 0.5   	neg = 0.125
+27. Billy Crudup ("The H                ... pos = 1.75  	neg = 0.75 
+28. " Kate  Hudson is si                ... pos = 1.25  	neg = 0.125
+29. She has  an excellen                ... pos = 1.25  	neg = 0.75 
+30. Tears just  barely c                ... pos = 0.5   	neg = 0.0  
+31. She looks  back, her                ... pos = 0.875 	neg = 0.375
+32. "  It's enough to br                ... pos = 0.25  	neg = 0.0  
+33. Finally we have newc                ... pos = 0.0   	neg = 0.0  
+34. If  this boy doesn't                ... pos = 0.25  	neg = 0.0  
+35. William Miller is ea                ... pos = 1.5   	neg = 0.375
+36. Part of this is due                 ... pos = 0.75  	neg = 0.25 
+37. One of the things th                ... pos = 0.0   	neg = 0.125
+38. Every time a dramati                ... pos = 0.5   	neg = 0.375
+39. Imagine my surprise                 ... pos = 0.0   	neg = 1.0  
+40. Some of my favorites                ... pos = 0.0   	neg = 0.125
+41. These scenes wouldn'                ... pos = 1.25  	neg = 0.0  
+42. Take a scene where E                ... pos = 0.0   	neg = 0.125
+43. He starts off  full                 ... pos = 0.375 	neg = 0.625
+44. Ten  seconds later,                 ... pos = 0.0   	neg = 0.125
+45. This wouldn't have b                ... pos = 0.0   	neg = 0.125
+46. Crowe's real gift is                ... pos = 1.875 	neg = 0.125
+47. In a  lesser movie,                 ... pos = 1.25  	neg = 0.625
+48. Here, even with his                 ... pos = 0.0   	neg = 0.0  
+49. Are there flaws in "                ... pos = 0.25  	neg = 0.0  
+50. Yes, but they're neg                ... pos = 0     	neg = 0.125
+51. I suppose  the prima                ... pos = 1.625 	neg = 0.125
+52. Jason Lee's lead sin                ... pos = 0.375 	neg = 0.0  
+53. I guess this was sup                ... pos = 1.125 	neg = 0.25 
+54. Paquin is one of the                ... pos = 0.125 	neg = 0.25 
+55. Okay, I don't want t                ... pos = 0.0   	neg = 0.25 
+56. These minor complain                ... pos = 0.0   	neg = 0.0  
+57. In a year of mediocr                ... pos = 0.75  	neg = 0.903
+58. While the film does                 ... pos = 0.0   	neg = 0.375
+59. I'd recommend "Almos                ... pos = 0.625 	neg = 0.75 
+60. Comments?                           ... pos = 0     	neg = 0.0  
+61. Send to: johnbeachem                ... pos = 0.375 	neg = 0.125
+62. * * * * - Great flic                ... pos = 0.0   	neg = 0.0  
+63. * * * - Okay movie,                 ... pos = 0.0   	neg = 0.125
+64. * * - Pretty bad, se                ... pos = 0.0   	neg = 1.0  
+65. * - See this one onl                ... pos = 0.375 	neg = 0.0  
+66. Share information ab                ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1444-535 is Positive         ... pos = 31.0  	neg = 14.528
+Overall score of document
+Total Pos = 31.0
+Total Neg = 14.528
+---------------------------------------------------------------------------

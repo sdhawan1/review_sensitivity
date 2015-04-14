@@ -1,0 +1,27 @@
+0. I had this stupid li                 ... pos = 0.125 	neg = 0.375
+1. I thought back, fond                 ... pos = 0.125 	neg = 0.25 
+2. The only dread I fel                 ... pos = 0.625 	neg = 0.125
+3. Okay, maybe I'm bein                 ... pos = 0.25  	neg = 0.375
+4. URBAN LEGEND was obv                 ... pos = 1.75  	neg = 0.75 
+5. LEGEND is competent                  ... pos = 0.375 	neg = 0.125
+6. We've seen it all be                 ... pos = 0.0   	neg = 0.0  
+7. This time around, th                 ... pos = 1.0   	neg = 0.125
+8. There's the Man With                 ... pos = 0.0   	neg = 0.5  
+9. About all that's mis                 ... pos = 0.0   	neg = 0.125
+10. Once the movie gets                 ... pos = 0.25  	neg = 0.75 
+11. But along the way th                ... pos = 0.75  	neg = 0.0  
+12. Robert Englund (the                 ... pos = 0.125 	neg = 0.25 
+13. We'll see a bunch of                ... pos = 0.125 	neg = 0.0  
+14. of horror-movie synt                ... pos = 0.0   	neg = 0.125
+15. I guess it goes with                ... pos = 0.375 	neg = 0.0  
+16. Movies like this ins                ... pos = 0.0   	neg = 0.0  
+17. For instance, why is                ... pos = 0.0   	neg = 0.5  
+18. In ...SUMMER, it was                ... pos = 0.25  	neg = 0.25 
+19. And do the people wh                ... pos = 0.125 	neg = 0.0  
+20. It sure sounds like                 ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-5224-1046 is Positive        ... pos = 6.5   	neg = 4.625
+Overall score of document
+Total Pos = 6.5
+Total Neg = 4.625
+---------------------------------------------------------------------------

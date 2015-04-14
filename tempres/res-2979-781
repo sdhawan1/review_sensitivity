@@ -1,0 +1,56 @@
+0. Apparently not much                  ... pos = 0.125 	neg = 0.375
+1. While doing so, four                 ... pos = 0.0   	neg = 0.25 
+2. As any little boy wo                 ... pos = 0.75  	neg = 0.875
+3. Soon, the oil has tu                 ... pos = 0.5   	neg = 0.125
+4. Help arrives, and in                 ... pos = 0.25  	neg = 0.375
+5. News travels fast as                 ... pos = 0.375 	neg = 0.0  
+6. "Remember that situa                 ... pos = 0.0   	neg = 0    
+7. " the newly arrived                  ... pos = 0.125 	neg = 0.625
+8. "We better come up w                 ... pos = 0.0   	neg = 0.0  
+9. ". Part of the plan                  ... pos = 0.25  	neg = 0.5  
+10. In case you didn't k                ... pos = 0.0   	neg = 0.125
+11. For those of you unf                ... pos = 0.0   	neg = 0.0  
+12. I realize cave-dwell                ... pos = 0.25  	neg = 0.0  
+13. Were you also chosen                ... pos = 0.0   	neg = 0.125
+14. jury?                               ... pos = 0.0   	neg = 0    
+15. I'm sorry, I couldn'                ... pos = 0.0   	neg = 0.625
+16. Briefly, the televis                ... pos = 1.0   	neg = 0.25 
+17. The promotional tagl                ... pos = 0.5   	neg = 0.25 
+18. I wouldn't be going                 ... pos = 0.375 	neg = 0.875
+19. Indeed, much of the                 ... pos = 0.5   	neg = 0.25 
+20. In this way, much of                ... pos = 1.0   	neg = 0.25 
+21. Likewise, the "truth                ... pos = 0.625 	neg = 0.125
+22. Absolute genius.                    ... pos = 0.25  	neg = 0    
+23. The premise of the m                ... pos = 1.25  	neg = 0.375
+24. This film is also we                ... pos = 0.25  	neg = 1.0  
+25. Visually, however, t                ... pos = 0.875 	neg = 0.375
+26. At times, the images                ... pos = 1.75  	neg = 0.625
+27. When you make a movi                ... pos = 0.875 	neg = 0.125
+28. Unfortunately, this                 ... pos = 1.375 	neg = 2.0  
+29. For example, Mulder'                ... pos = 1.5   	neg = 0.125
+30. Likewise, supporting                ... pos = 2.0   	neg = 0.875
+31. On television, FBI A                ... pos = 0.0   	neg = 0.125
+32. When he helps Mulder                ... pos = 0.0   	neg = 0.0  
+33. When Mulder's off-th                ... pos = 0.25  	neg = 0.0  
+34. Maybe the tagline sh                ... pos = 0.5   	neg = 0.25 
+35. Perhaps most disappo                ... pos = 0.0   	neg = 0.75 
+36. "The Cigarette-Smoki                ... pos = 0.625 	neg = 0.25 
+37. This is a real misse                ... pos = 0.875 	neg = 0.625
+38. However, rather than                ... pos = 2.125 	neg = 0.375
+39. A confrontation (vio                ... pos = 0.25  	neg = 0.25 
+40. Just as there is a d                ... pos = 0.625 	neg = 0.5  
+41. The film has a sligh                ... pos = 0.0   	neg = 0.0  
+42. The series is alread                ... pos = 0.125 	neg = 0.125
+43. As it turns out, the                ... pos = 0.0   	neg = 0.375
+44. I'm sure some people                ... pos = 0.375 	neg = 0.0  
+45. Fans of the show wil                ... pos = 1.5   	neg = 0.125
+46. Duchovny and Anderso                ... pos = 0.75  	neg = 0.0  
+47. THE X-FILES:  FIGHT                 ... pos = 0.0   	neg = 1.375
+48. It is decent enterta                ... pos = 1.25  	neg = 0.875
+49. In all, fans of the                 ... pos = 1.125 	neg = 0.625
+---------------------------------------------------------------------------
+./temp/tmp-2979-781 is Positive         ... pos = 27.125 	neg = 18.125
+Overall score of document
+Total Pos = 27.125
+Total Neg = 18.125
+---------------------------------------------------------------------------

@@ -1,0 +1,27 @@
+0. Release Date: June 5                 ... pos = 0.875 	neg = 0.25 
+1. It is to some degree                 ... pos = 0.0   	neg = 0.375
+2. Whether it's his inv                 ... pos = 0.125 	neg = 0.125
+3. Michael Douglas is o                 ... pos = 0.625 	neg = 0.125
+4. He's got a trophy wi                 ... pos = 0.0   	neg = 0.0  
+5. Unfortunately for St                 ... pos = 0.0   	neg = 0.875
+6. Jane).                               ... pos = 0     	neg = 0    
+7. Once Steven finds ou                 ... pos = 0.125 	neg = 0.0  
+8. Ultimately, he makes                 ... pos = 0.0   	neg = 0.125
+9. The movie takes off                  ... pos = 2.5   	neg = 0.625
+10. Steven, icily intens                ... pos = 1.625 	neg = 0.875
+11. David and Emily both                ... pos = 0.0   	neg = 0.125
+12. Finally, Gwyneth Pal                ... pos = 1.5   	neg = 0.125
+13. What makes the confl                ... pos = 1.375 	neg = 0.125
+14. As Sarita Choudhury                 ... pos = 0.75  	neg = 0.125
+15. " . The music is als                ... pos = 0.0   	neg = 0.125
+16. It picks up and move                ... pos = 1.625 	neg = 0.125
+17. This is more than ad                ... pos = 0.5   	neg = 0.25 
+18. A PERFECT MURDER may                ... pos = 1.875 	neg = 0.125
+19. Suspense fans, this                 ... pos = 0     	neg = 0.125
+20. FINAL AWARD FOR "A P                ... pos = 1.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1007-700 is Positive         ... pos = 14.75 	neg = 4.625
+Overall score of document
+Total Pos = 14.75
+Total Neg = 4.625
+---------------------------------------------------------------------------

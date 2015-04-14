@@ -1,0 +1,27 @@
+0. I have to admit, I'm                 ... pos = 0.625 	neg = 0.0  
+1. From the previews, "                 ... pos = 0.125 	neg = 0.875
+2. However, mainly beca                 ... pos = 0.125 	neg = 0.0  
+3. But first:.                          ... pos = 0.0   	neg = 0.875
+4. Poe kills a man duri                 ... pos = 0.125 	neg = 0.625
+5. Finally, Poe is rele                 ... pos = 0.125 	neg = 0.375
+6. As you can probably                  ... pos = 0.0   	neg = 1.125
+7. Bad boy Cameron Poe.                 ... pos = 0.25  	neg = 0.875
+8. If you notice a sens                 ... pos = 0.875 	neg = 0.0  
+9. In short, the bigges                 ... pos = 0.125 	neg = 0.75 
+10. Poe seems to get out                ... pos = 1.375 	neg = 3.125
+11. To boot, the film's                 ... pos = 0.125 	neg = 0.0  
+12. But wait!                           ... pos = 0     	neg = 0.0  
+13. All is not lost.                    ... pos = 0.0   	neg = 0.125
+14. What puts this actio                ... pos = 0.125 	neg = 0.0  
+15. First, the acting an                ... pos = 0.125 	neg = 0.0  
+16. While the southern d                ... pos = 1.125 	neg = 0.125
+17. Furthermore, in many                ... pos = 0.375 	neg = 0.625
+18. However, in "Con Air                ... pos = 1.375 	neg = 0.25 
+19. Second, the movie is                ... pos = 0.625 	neg = 0.75 
+20. All in all, while I                 ... pos = 0.125 	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-4604-1580 is Negative        ... pos = 7.75  	neg = 10.875
+Overall score of document
+Total Pos = 7.75
+Total Neg = 10.875
+---------------------------------------------------------------------------

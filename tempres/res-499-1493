@@ -1,0 +1,54 @@
+0. Director: Tony Kaye                  ... pos = 0.5   	neg = 0.125
+1. It not only takes ba                 ... pos = 1.0   	neg = 0.625
+2. The subject of this                  ... pos = 0.0   	neg = 1.0  
+3. He's the one who ins                 ... pos = 1.625 	neg = 0.125
+4. He's so utterly conv                 ... pos = 0.125 	neg = 0.0  
+5. His name is Derek Vi                 ... pos = 0.25  	neg = 0.125
+6. When we first see hi                 ... pos = 0.125 	neg = 0.625
+7. He so believes in hi                 ... pos = 0.375 	neg = 0.0  
+8. "American History X"                 ... pos = 1.875 	neg = 2.125
+9. We see him at all of                 ... pos = 0.75  	neg = 0.5  
+10. Or at least, that's                 ... pos = 0     	neg = 0.0  
+11. The film's framing d                ... pos = 0.0   	neg = 1.0  
+12. When the film opens,                ... pos = 0.0   	neg = 0.875
+13. Coincidentally, this                ... pos = 0.0   	neg = 0.25 
+14. He's just as intelli                ... pos = 0.75  	neg = 0.0  
+15. He's no longer contr                ... pos = 0.5   	neg = 0.875
+16. But Danny won't.                    ... pos = 0     	neg = 0.0  
+17. He goes to a large s                ... pos = 0.0   	neg = 0.25 
+18. The film circles aro                ... pos = 0.0   	neg = 0.625
+19. We mostly see Derek                 ... pos = 1.0   	neg = 1.5  
+20. To them, the white m                ... pos = 0.875 	neg = 0.125
+21. And frighteningly en                ... pos = 0.625 	neg = 0.0  
+22. "American History X"                ... pos = 0.625 	neg = 0.125
+23. In it, there are som                ... pos = 0.625 	neg = 0.0  
+24. One scene features a                ... pos = 2.375 	neg = 0.125
+25. Another scene uses h                ... pos = 0.125 	neg = 0.875
+26. And another soon-to-                ... pos = 0.5   	neg = 0.375
+27. There's much more to                ... pos = 1.375 	neg = 1.875
+28. Norton walks off wit                ... pos = 0.0   	neg = 1.625
+29. In only the fifth mo                ... pos = 0.5   	neg = 0.0  
+30. There's nothing like                ... pos = 0.375 	neg = 0.875
+31. That he allows the l                ... pos = 0.625 	neg = 0.375
+32. Sadly enough, this i                ... pos = 0.0   	neg = 0.875
+33. It's too unambitious                ... pos = 1.25  	neg = 1.125
+34. The ending, especial                ... pos = 0.375 	neg = 0.25 
+35. Some of the skinhead                ... pos = 1.375 	neg = 0.375
+36. Furlong's Danny neve                ... pos = 0.125 	neg = 0.375
+37. Even Derek's descent                ... pos = 0.125 	neg = 0.0  
+38. Though his fireman f                ... pos = 0.75  	neg = 0.375
+39. As such, one can see                ... pos = 0.0   	neg = 0.0  
+40. Sorta.                              ... pos = 0     	neg = 0    
+41. "American History X"                ... pos = 1.75  	neg = 1.25 
+42. Somewhere, he claims                ... pos = 0.75  	neg = 1.25 
+43. Although he aimed fo                ... pos = 1.125 	neg = 0.5  
+44. Kaye's right in that                ... pos = 0.5   	neg = 0.0  
+45. This will not be a "                ... pos = 0.125 	neg = 0.125
+46. Yet it still gets it                ... pos = 1.0   	neg = 1.125
+47. And even if it isn't                ... pos = 0.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-499-1493 is Positive         ... pos = 27.0  	neg = 24.75
+Overall score of document
+Total Pos = 27.0
+Total Neg = 24.75
+---------------------------------------------------------------------------

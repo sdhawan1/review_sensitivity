@@ -1,0 +1,60 @@
+0. PLEASANTVILLE by DeW                 ... pos = 0.5   	neg = 0.0  
+1. Many complain that P                 ... pos = 0.125 	neg = 0.5  
+2. I do not see the res                 ... pos = 0.0   	neg = 0.5  
+3. Pleasantville is muc                 ... pos = 0.75  	neg = 0.125
+4. David (Tobey Maguire                 ... pos = 0.25  	neg = 0    
+5. The two are teenager                 ... pos = 0.25  	neg = 0.125
+6. David is the kind of                 ... pos = 1.0   	neg = 0.25 
+7. One night, the two a                 ... pos = 0.25  	neg = 0.0  
+8. Suspiciously, a T.V.                 ... pos = 0.0   	neg = 0.0  
+9. repair main (Don Kno                 ... pos = 0.25  	neg = 0.0  
+10. He gives them a new                 ... pos = 0.375 	neg = 0    
+11. The two begin to fig                ... pos = 0.25  	neg = 0.0  
+12. "  Pleasantville is                 ... pos = 0.0   	neg = 0.125
+13. Everything is perfec                ... pos = 0.0   	neg = 0.125
+14. It centers around on                ... pos = 0.0   	neg = 0.0  
+15. They are now Bud and                ... pos = 0.5   	neg = 0.0  
+16. Their new parents ar                ... pos = 0.625 	neg = 0    
+17. (William H. Macy). T                ... pos = 1.25  	neg = 0.0  
+18. Mary Sue does not ab                ... pos = 0.0   	neg = 0.0  
+19. She tries to live th                ... pos = 0.375 	neg = 0.625
+20. She teaches other pe                ... pos = 0.0   	neg = 0.125
+21. She is messing up th                ... pos = 0.0   	neg = 0.125
+22. As the people start                 ... pos = 0.125 	neg = 0.25 
+23. There is a huge prob                ... pos = 0.0   	neg = 0.5  
+24. The city council doe                ... pos = 0.25  	neg = 0.0  
+25. The leader (J.T.                    ... pos = 0.0   	neg = 0.0  
+26. Walsh) has decided t                ... pos = 0.0   	neg = 0.0  
+27. He states he wants t                ... pos = 0.375 	neg = 0    
+28. "  . As a result of                 ... pos = 0.0   	neg = 0.125
+29. This is much like th                ... pos = 0.625 	neg = 0.375
+30. Signs read "No color                ... pos = 0.0   	neg = 0.25 
+31. The performances in                 ... pos = 0.75  	neg = 0.5  
+32. There are the outsid                ... pos = 1.75  	neg = 0.0  
+33. Witherspoon in parti                ... pos = 0.125 	neg = 0.625
+34. "  Tobey Maguire is                 ... pos = 0.5   	neg = 0.125
+35. Then there are the p                ... pos = 2.25  	neg = 1.75 
+36. Walsh who gives a gr                ... pos = 0.125 	neg = 0.0  
+37. The art direction in                ... pos = 0.0   	neg = 0.125
+38. The way the color an                ... pos = 2.0   	neg = 0.0  
+39. Two scenes especiall                ... pos = 0.25  	neg = 0.0  
+40. 1.                                  ... pos = 0     	neg = 0    
+41. The scene in which T                ... pos = 0.0   	neg = 0.0  
+42. 2.                                  ... pos = 0     	neg = 0    
+43. The scene in which J                ... pos = 0.0   	neg = 0.0  
+44. The moral story in P                ... pos = 0.75  	neg = 0.125
+45. Many people look at                 ... pos = 0.125 	neg = 1.0  
+46. If you look deep ins                ... pos = 1.125 	neg = 0.375
+47. You aren't the same                 ... pos = 0.0   	neg = 0    
+48. The people of Pleasa                ... pos = 0.125 	neg = 0.0  
+49. This film should hav                ... pos = 0.875 	neg = 0.25 
+50. Unfortunately, it wa                ... pos = 1.0   	neg = 1.0  
+51. If I were in charge                 ... pos = 6.625 	neg = 0.875
+52. I think the reason i                ... pos = 0.875 	neg = 0.75 
+53. The Bottom Line- An                 ... pos = 1.25  	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1978-864 is Positive         ... pos = 28.625 	neg = 11.75
+Overall score of document
+Total Pos = 28.625
+Total Neg = 11.75
+---------------------------------------------------------------------------

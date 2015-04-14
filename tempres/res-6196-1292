@@ -1,0 +1,17 @@
+0. The Happy Bastard's                  ... pos = 1.125 	neg = 0.25 
+1. If you go expecting                  ... pos = 0.0   	neg = 0.25 
+2. If your expectations                 ... pos = 0.75  	neg = 1.125
+3. The movie casts seve                 ... pos = 0.75  	neg = 0.0  
+4. The story revolves a                 ... pos = 0.0   	neg = 0.0  
+5. That's pretty much i                 ... pos = 0.125 	neg = 0.125
+6. Throughout the movie                 ... pos = 0.5   	neg = 0.75 
+7. Of course, the movie                 ... pos = 0.625 	neg = 1.0  
+8. Most of the actors g                 ... pos = 0.125 	neg = 1.125
+9. I couldn't stop laug                 ... pos = 0.25  	neg = 0.375
+10. If you're one of tho                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-6196-1292 is Negative        ... pos = 4.5   	neg = 5.0  
+Overall score of document
+Total Pos = 4.5
+Total Neg = 5.0
+---------------------------------------------------------------------------

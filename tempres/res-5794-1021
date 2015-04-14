@@ -1,0 +1,35 @@
+0. As I went to the tic                 ... pos = 1.125 	neg = 0.125
+1. I thought this was g                 ... pos = 0.5   	neg = 0.25 
+2. This is why they inv                 ... pos = 0.125 	neg = 0.125
+3. They make it look li                 ... pos = 0.75  	neg = 0.5  
+4. I'm sure if you've s                 ... pos = 0.25  	neg = 0.25 
+5. This is what sucked                  ... pos = 0.0   	neg = 0.125
+6. Congrats Warner Bros                 ... pos = 0.0   	neg = 0.125
+7. Enough about the tra                 ... pos = 0     	neg = 0.0  
+8. The movies' first 45                 ... pos = 0.375 	neg = 0.0  
+9. Basically, it introd                 ... pos = 0.875 	neg = 0.625
+10. I was very disappoin                ... pos = 0.5   	neg = 0.125
+11. Fox, who played a ne                ... pos = 0.125 	neg = 0.75 
+12. This set a sad tone                 ... pos = 0.0   	neg = 0.875
+13. Anyway, the Martians                ... pos = 0.375 	neg = 0.0  
+14. They land in a deser                ... pos = 0.125 	neg = 1.25 
+15. After a fake apology                ... pos = 0.875 	neg = 1.25 
+16. This movie (in terms                ... pos = 0.5   	neg = 0.125
+17. Dusk was critized be                ... pos = 1.125 	neg = 0.125
+18. What I mean is the s                ... pos = 0.5   	neg = 0.375
+19. But this is not what                ... pos = 0.0   	neg = 0.125
+20. If the whole movie c                ... pos = 0.75  	neg = 1.125
+21. As much as I enjoyed                ... pos = 0.625 	neg = 1.25 
+22. Another thing that u                ... pos = 0.0   	neg = 0.25 
+23. Glenn Close was give                ... pos = 0.0   	neg = 0.25 
+24. Another thing was Da                ... pos = 0.0   	neg = 0.5  
+25. Heck, Tom Jones and                 ... pos = 0.0   	neg = 0.125
+26. All these criticisms                ... pos = 0.25  	neg = 0.75 
+27. This was not the cas                ... pos = 0.0   	neg = 0.125
+28. Simply, the movie wa                ... pos = 0.75  	neg = 0.375
+---------------------------------------------------------------------------
+./temp/tmp-5794-1021 is Negative        ... pos = 10.5  	neg = 11.875
+Overall score of document
+Total Pos = 10.5
+Total Neg = 11.875
+---------------------------------------------------------------------------

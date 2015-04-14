@@ -1,0 +1,38 @@
+0. Review by Lars Linda                 ... pos = 0.0   	neg = 0.0  
+1. Frequency n., The nu                 ... pos = 1.5   	neg = 0.0  
+2. When watching the th                 ... pos = 0.0   	neg = 0.0  
+3. The premise, althoug                 ... pos = 0.5   	neg = 0.125
+4. A New York cop, John                 ... pos = 0.75  	neg = 0.25 
+5. Immediately John war                 ... pos = 0.125 	neg = 0.5  
+6. When Frank takes his                 ... pos = 0.625 	neg = 0.75 
+7. It is now up to John                 ... pos = 0.0   	neg = 0.125
+8. (I told you that was                 ... pos = 0.0   	neg = 0.0  
+9. Overall, I was very                  ... pos = 1.125 	neg = 0.125
+10. It's occasional sapp                ... pos = 0.5   	neg = 0.375
+11. I usually don't buy                 ... pos = 1.25  	neg = 0.875
+12. Maybe because the pl                ... pos = 0.125 	neg = 0.25 
+13. Frequency's creepy p                ... pos = 0.0   	neg = 0.0  
+14. What would I do?                    ... pos = 0     	neg = 0.0  
+15. Would I help my own                 ... pos = 0.25  	neg = 0.0  
+16. Or stop some kids fr                ... pos = 0.0   	neg = 0.0  
+17. Or buy stock from Ya                ... pos = 0.0   	neg = 0.0  
+18. (a character in the                 ... pos = 1.25  	neg = 0    
+19. Frequency also remin                ... pos = 0.375 	neg = 0.0  
+20. Both share that "cha                ... pos = 0.0   	neg = 0    
+21. The changes between                 ... pos = 1.75  	neg = 0.0  
+22. Both are also wonder                ... pos = 1.0   	neg = 0.0  
+23. The only difference                 ... pos = 1.5   	neg = 0.375
+24. There are some probl                ... pos = 0.25  	neg = 0.25 
+25. First, there is a ma                ... pos = 0.25  	neg = 0.5  
+26. The plot must have c                ... pos = 0.5   	neg = 0.25 
+27. Another problem is t                ... pos = 0.625 	neg = 0.5  
+28. While in the film, w                ... pos = 0.25  	neg = 0.125
+29. Frequency was a plea                ... pos = 0.625 	neg = 0.125
+30. Even if you know wha                ... pos = 0.0   	neg = 0.625
+31. You may be surprised                ... pos = 0.125 	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-1402-778 is Positive         ... pos = 15.25 	neg = 6.25 
+Overall score of document
+Total Pos = 15.25
+Total Neg = 6.25
+---------------------------------------------------------------------------

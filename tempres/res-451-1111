@@ -1,0 +1,34 @@
+0. Featuring the voices                 ... pos = 0.875 	neg = 0.875
+1. " Such is the story                  ... pos = 0.5   	neg = 0.125
+2. It's almost as if an                 ... pos = 1.5   	neg = 0.0  
+3. But, even when obser                 ... pos = 1.125 	neg = 0.125
+4. It also serves as a                  ... pos = 2.125 	neg = 0.0  
+5. In its most shallow                  ... pos = 0.0   	neg = 0.125
+6. In 1916, the Romanov                 ... pos = 0.25  	neg = 0.0  
+7. The evil, party-cras                 ... pos = 0.5   	neg = 2.0  
+8. Anastasia (Meg Ryan)                 ... pos = 0.25  	neg = 0.75 
+9. Flash forward ten ye                 ... pos = 0.0   	neg = 0.125
+10. The Empress, now res                ... pos = 0.0   	neg = 0.125
+11. Anastasia joins con                 ... pos = 0.0   	neg = 0.0  
+12. Meanwhile in the und                ... pos = 0.25  	neg = 0.125
+13. The inevitable roman                ... pos = 0.375 	neg = 0.25 
+14. The relationship bet                ... pos = 2.0   	neg = 0.25 
+15. Perhaps this is why                 ... pos = 0.5   	neg = 0.125
+16. It's a film that you                ... pos = 1.5   	neg = 0.875
+17. Whilst many have dub                ... pos = 1.25  	neg = 0.125
+18. Much to their credit                ... pos = 1.125 	neg = 0.375
+19. Most of Anastasia's                 ... pos = 1.375 	neg = 0.125
+20. Strangely, most of t                ... pos = 0.75  	neg = 0.625
+21. Rasputin could have                 ... pos = 0.875 	neg = 0.375
+22. If previous animated                ... pos = 1.125 	neg = 1.0  
+23. In fact, the only fi                ... pos = 2.0   	neg = 0.375
+24. But in all fairness,                ... pos = 1.0   	neg = 0.125
+25. And more than that -                ... pos = 1.125 	neg = 0.125
+26. If only Bluth and Go                ... pos = 1.125 	neg = 0.0  
+27. Email bucky@alphalin                ... pos = 0.25  	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-451-1111 is Positive         ... pos = 23.75 	neg = 9.125
+Overall score of document
+Total Pos = 23.75
+Total Neg = 9.125
+---------------------------------------------------------------------------

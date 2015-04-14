@@ -1,0 +1,52 @@
+0. STARRING:   William                  ... pos = 0.0   	neg = 0.0  
+1. Walsh DIRECTOR:   Ga                 ... pos = 0.0   	neg = 1.25 
+2. I'd like to take thi                 ... pos = 0.75  	neg = 0.125
+3. ".         Movie tra                 ... pos = 0.125 	neg = 0.625
+4. Their job is a simpl                 ... pos = 0.375 	neg = 0.25 
+5. But beware: like all                 ... pos = 0.5   	neg = 0.0  
+6. "Chasing Amy," a tho                 ... pos = 0.0   	neg = 0.125
+7. And if I didn't see                  ... pos = 2.0   	neg = 0.0  
+8. The trailers for "Th                 ... pos = 0.25  	neg = 0.875
+9. (Joe's trivia questi                 ... pos = 0.375 	neg = 0.0  
+10. Answer given at the                 ... pos = 0     	neg = 0.0  
+11. ).         As anyone                ... pos = 0.25  	neg = 0.0  
+12. The year is 1958, th                ... pos = 0.0   	neg = 0.5  
+13. David is delighted t                ... pos = 1.0   	neg = 0.75 
+14. Jennifer's actions h                ... pos = 1.375 	neg = 0.125
+15. The basketball team                 ... pos = 0.125 	neg = 0.25 
+16. "Mom" suddenly doesn                ... pos = 0.0   	neg = 0.0  
+17. Teenagers discover o                ... pos = 0.25  	neg = 0.0  
+18. Rock and roll (gasp!                ... pos = 0.0   	neg = 0.0  
+19. ) becomes the music                 ... pos = 0.0   	neg = 0    
+20. And, for the first t                ... pos = 1.0   	neg = 0.0  
+21. Walsh, who died duri                ... pos = 0.375 	neg = 0    
+22. The trailer gives th                ... pos = 0.0   	neg = 0.625
+23. Sure, there are seve                ... pos = 1.0   	neg = 1.375
+24. "Mom" likes to make                 ... pos = 0.25  	neg = 0.625
+25. And the scene in whi                ... pos = 1.0   	neg = 0.375
+26. But writer/director                 ... pos = 1.125 	neg = 0.0  
+27. None of these issues                ... pos = 0.75  	neg = 0.0  
+28. There are no guns, n                ... pos = 1.375 	neg = 2.0  
+29. We also get plenty o                ... pos = 0.375 	neg = 0.0  
+30. "  But the overall t                ... pos = 1.0   	neg = 0.125
+31. I had pegged "What D                ... pos = 0.625 	neg = 0.0  
+32. "Pleasantville" is a                ... pos = 0.75  	neg = 0.125
+33. You have to see it t                ... pos = 0.125 	neg = 0.0  
+34. One of the nicest th                ... pos = 1.625 	neg = 0.625
+35. It's a perfect (and                 ... pos = 0.5   	neg = 0.375
+36. This is the second m                ... pos = 0.375 	neg = 0.125
+37. Beautifully photogra                ... pos = 1.0   	neg = 0.375
+38. Its ambiguous ending                ... pos = 1.125 	neg = 0.75 
+39. How does Jennifer co                ... pos = 0.0   	neg = 0.0  
+40. ), but rather than b                ... pos = 0.875 	neg = 0.5  
+41. (Answer to the trivi                ... pos = 0.25  	neg = 0.125
+42. "  The end credits f                ... pos = 0.875 	neg = 0.25 
+43. ). . E-Mail: jbarlow                ... pos = 0.375 	neg = 0.125
+44. Or, you can subscrib                ... pos = 0.25  	neg = 0.0  
+45. Thanks.. .                          ... pos = 0.125 	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-1978-216 is Positive         ... pos = 24.5  	neg = 13.375
+Overall score of document
+Total Pos = 24.5
+Total Neg = 13.375
+---------------------------------------------------------------------------

@@ -1,0 +1,35 @@
+0. Release Date: Octobe                 ... pos = 0.625 	neg = 1.0  
+1. From there, if it so                 ... pos = 0.75  	neg = 0.75 
+2. Considering this pro                 ... pos = 1.25  	neg = 0.125
+3. And in all fairness,                 ... pos = 0.75  	neg = 0.125
+4. But in this case, it                 ... pos = 1.5   	neg = 0.0  
+5. It's possible to see                 ... pos = 0.375 	neg = 0.0  
+6. Director Ward wants                  ... pos = 1.625 	neg = 0.5  
+7. It doesn't work, for                 ... pos = 0.5   	neg = 0.25 
+8. At times, the movie                  ... pos = 0.75  	neg = 0.125
+9. As a whole, the scri                 ... pos = 1.25  	neg = 0.125
+10. It's a very muddled                 ... pos = 1.0   	neg = 0.0  
+11. Writer Ronald Bass,                 ... pos = 0.25  	neg = 0.0  
+12. The cast has the goo                ... pos = 0.0   	neg = 0.0  
+13. Williams is fun to w                ... pos = 2.0   	neg = 0.25 
+14. Here, he plays the l                ... pos = 0.0   	neg = 0.0  
+15. Chris meets the love                ... pos = 1.125 	neg = 0.0  
+16. They have two kids,                 ... pos = 0.25  	neg = 1.0  
+17. The couple suffers b                ... pos = 0.0   	neg = 0.125
+18. He goes to Heaven, w                ... pos = 0.125 	neg = 0.125
+19. It's there that he m                ... pos = 0.0   	neg = 0.0  
+20. Back on Earth, Annie                ... pos = 0.0   	neg = 0.5  
+21. When Chris learns of                ... pos = 0.0   	neg = 0.5  
+22. The rest of the cast                ... pos = 2.125 	neg = 0.125
+23. Here, his job seems                 ... pos = 0.875 	neg = 0.125
+24. The only one to lend                ... pos = 1.125 	neg = 0.125
+25. This rather mediocre                ... pos = 1.5   	neg = 1.028
+26. WHAT DREAMS MAY COME                ... pos = 1.875 	neg = 0.125
+27. It's watchable for t                ... pos = 0.625 	neg = 0.0  
+28. And unfortunately, i                ... pos = 0.125 	neg = 1.5  
+---------------------------------------------------------------------------
+./temp/tmp-5518-700 is Positive         ... pos = 22.375 	neg = 8.528
+Overall score of document
+Total Pos = 22.375
+Total Neg = 8.528
+---------------------------------------------------------------------------

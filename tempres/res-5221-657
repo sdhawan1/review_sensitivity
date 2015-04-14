@@ -1,0 +1,52 @@
+0. MPAA: Rated R for st                 ... pos = 0.625 	neg = 0.0  
+1. Runtime: France:160.                 ... pos = 1.625 	neg = 0.0  
+2. In history Jeanne D'                 ... pos = 0.125 	neg = 0.5  
+3. She came in a time w                 ... pos = 0.0   	neg = 0.25 
+4. A hero that could re                 ... pos = 1.0   	neg = 0.0  
+5. Director/writer Luc                  ... pos = 0.0   	neg = 0.125
+6. Besson tries to recr                 ... pos = 0.25  	neg = 0.5  
+7. He tries not to show                 ... pos = 0.0   	neg = 0.875
+8. He shows her as a hu                 ... pos = 0.25  	neg = 0    
+9. In a time where bloo                 ... pos = 0.375 	neg = 1.75 
+10. The only support and                ... pos = 0.375 	neg = 0.125
+11. At the age of 13, Je                ... pos = 0.125 	neg = 0.625
+12. This terrible event                 ... pos = 0.125 	neg = 0.625
+13. God is no longer her                ... pos = 0.0   	neg = 0.375
+14. He has become her ob                ... pos = 0.25  	neg = 0    
+15. She starts seeing vi                ... pos = 0.375 	neg = 0.0  
+16. With the help of the                ... pos = 0.875 	neg = 0.0  
+17. After this the film                 ... pos = 0.375 	neg = 0.0  
+18. The movie is filled                 ... pos = 1.0   	neg = 0.125
+19. The film is lost in                 ... pos = 0.25  	neg = 1.0  
+20. Besson's visual styl                ... pos = 0.875 	neg = 0.0  
+21. But the film is far                 ... pos = 0.25  	neg = 0.125
+22. The script needs a l                ... pos = 0.125 	neg = 0.125
+23. Except for Jeanne, t                ... pos = 1.125 	neg = 0.25 
+24. And although a grand                ... pos = 1.5   	neg = 0.375
+25. As for the Maiden of                ... pos = 0.0   	neg = 0.375
+26. In the latter part o                ... pos = 1.625 	neg = 0.0  
+27. Jovovich handles the                ... pos = 0.375 	neg = 0.5  
+28. But though her scree                ... pos = 0.625 	neg = 0.25 
+29. And even Hoffman man                ... pos = 0.5   	neg = 0.0  
+30. Besides casting Jovo                ... pos = 0.25  	neg = 0.75 
+31. There are some visco                ... pos = 0.375 	neg = 0.75 
+32. And some incredibly                 ... pos = 0.5   	neg = 0.5  
+33. Though all those act                ... pos = 1.625 	neg = 0.25 
+34. And thus, there is n                ... pos = 0.0   	neg = 0.375
+35. 'The Messenger' has                 ... pos = 0.0   	neg = 0.0  
+36. There is some relief                ... pos = 0.375 	neg = 0.125
+37. Dustin Hoffman's app                ... pos = 1.375 	neg = 0.0  
+38. Jeanne's character i                ... pos = 0.875 	neg = 0.375
+39. Was she a confused p                ... pos = 0.125 	neg = 0.375
+40. Or was she truly a m                ... pos = 0.625 	neg = 0.125
+41. The film poses as ma                ... pos = 0.0   	neg = 0.375
+42. Bess o Messenger' is                ... pos = 1.125 	neg = 0.375
+43. It is not much that                 ... pos = 0.25  	neg = 0.125
+44. Maybe the sound, the                ... pos = 0.5   	neg = 0.0  
+45. It is an elegant and                ... pos = 0.5   	neg = 0.125
+---------------------------------------------------------------------------
+./temp/tmp-5221-657 is Positive         ... pos = 23.5  	neg = 13.5 
+Overall score of document
+Total Pos = 23.5
+Total Neg = 13.5
+---------------------------------------------------------------------------

@@ -1,0 +1,45 @@
+0. CrankyCriticŽ movie                 ... pos = 0.125 	neg = 0.125
+1. Human sushi.                         ... pos = 0.0   	neg = 0    
+2. Yum.                                 ... pos = 0     	neg = 0    
+3. As far as investment                 ... pos = 1.125 	neg = 0.0  
+4. As far as us folk th                 ... pos = 0.25  	neg = 1.0  
+5. The e-mail that's co                 ... pos = 0.5   	neg = 0.75 
+6. Deep Blue Sea, on th                 ... pos = 0.5   	neg = 0.25 
+7. Even if you don't ra                 ... pos = 0.125 	neg = 0.0  
+8. OK, enough preaching                 ... pos = 0.0   	neg = 0.0  
+9. Let's get down to th                 ... pos = 0.0   	neg = 0.0  
+10. A lovely moonlit nig                ... pos = 0.25  	neg = 0    
+11. Two collegiate coupl                ... pos = 0.0   	neg = 0.125
+12. Girls in bikinis, me                ... pos = 0.25  	neg = 0.0  
+13. This night was not m                ... pos = 0.0   	neg = 0.125
+14. This time out, it is                ... pos = 0.0   	neg = 0.0  
+15. This time the mako s                ... pos = 0.375 	neg = 0.375
+16. How he escaped from                 ... pos = 0.0   	neg = 0.25 
+17. What is known is tha                ... pos = 0.0   	neg = 0.5  
+18. With 48 hours to pro                ... pos = 0.125 	neg = 0.0  
+19. One thing you should                ... pos = 0.0   	neg = 0.0  
+20. It's fast.                          ... pos = 0     	neg = 0.0  
+21. It's intelligent and                ... pos = 0.25  	neg = 0.0  
+22. You know this from t                ... pos = 0     	neg = 0.0  
+23. What you don't know,                ... pos = 0.5   	neg = 0.25 
+24. Gen-1 tips the scale                ... pos = 0.0   	neg = 0.0  
+25. Gen-2 adds ten feet                 ... pos = 0.625 	neg = 0.0  
+26. They hunt in packs.                 ... pos = 0.0   	neg = 0.0  
+27. They can swim backwa                ... pos = 0.0   	neg = 0.0  
+28. They know where all                 ... pos = 0.25  	neg = 0.0  
+29. Just like any prison                ... pos = 0.25  	neg = 0.125
+30. Pick your favorite a                ... pos = 0.0   	neg = 0.0  
+31. The gimmick is great                ... pos = 1.0   	neg = 0.5  
+32. It's shark hunting m                ... pos = 0.75  	neg = 1.875
+33. The effects, a combi                ... pos = 0.0   	neg = 0.625
+34. The killing effects                 ... pos = 0.0   	neg = 0.625
+35. These sharks are so                 ... pos = 0.75  	neg = 0.125
+36. On average, a first                 ... pos = 0.25  	neg = 0.0  
+37. Were Cranky able to                 ... pos = 0.125 	neg = 0.25 
+38. All Rights Reserved.                ... pos = 0.0   	neg = 0    
+---------------------------------------------------------------------------
+./temp/tmp-3081-912 is Positive         ... pos = 8.375 	neg = 7.875
+Overall score of document
+Total Pos = 8.375
+Total Neg = 7.875
+---------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+0. I don't care how ear                 ... pos = 1.0   	neg = 0.375
+1. Finally, a film has                  ... pos = 0.375 	neg = 0.125
+2. Michael Faraday (Bri                 ... pos = 0.25  	neg = 0.0  
+3. After helping the ne                 ... pos = 1.25  	neg = 0.375
+4. Oliver and Cheryl La                 ... pos = 0.75  	neg = 0.0  
+5. He begins to hunt ar                 ... pos = 0.5   	neg = 1.125
+6. He also discovers a                  ... pos = 0.0   	neg = 0    
+7. Will Oliver strike a                 ... pos = 0.125 	neg = 0    
+8. As paranoia mounts,                  ... pos = 0.25  	neg = 0.375
+9. This film uses black                 ... pos = 0.625 	neg = 0.125
+10. To know that their a                ... pos = 0.25  	neg = 0.125
+11. Arlington Road belon                ... pos = 1.125 	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-1717-329 is Positive         ... pos = 6.5   	neg = 2.625
+Overall score of document
+Total Pos = 6.5
+Total Neg = 2.625
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+0. "Lake Placid" marks                  ... pos = 0.375 	neg = 0.375
+1. "  "Placid" claims t                 ... pos = 1.125 	neg = 0.125
+2. ". Paleontologist Ke                 ... pos = 0.125 	neg = 0.25 
+3. Discovering that the                 ... pos = 0.125 	neg = 0.125
+4. They're joined by an                 ... pos = 0.0   	neg = 0.75 
+5. Along the way, the m                 ... pos = 0.0   	neg = 0.125
+6. You know what to exp                 ... pos = 2.25  	neg = 0.625
+7. Unlike its slippery                  ... pos = 0.25  	neg = 0.5  
+8. The result is neithe                 ... pos = 0.0   	neg = 1.375
+9. While director Steve                 ... pos = 0.875 	neg = 0.0  
+10. The body count is su                ... pos = 1.625 	neg = 0.75 
+11. ("Lake Placid" manag                ... pos = 0.0   	neg = 0.0  
+12. The croc itself is m                ... pos = 0.0   	neg = 0.125
+13. Like the snake in "A                ... pos = 0.25  	neg = 1.25 
+14. "Lake Placid" also o                ... pos = 0.0   	neg = 0.375
+15. There is a lot of se                ... pos = 0.125 	neg = 0.125
+16. "  They would have b                ... pos = 0.0   	neg = 0.75 
+17. A movie like this do                ... pos = 0.125 	neg = 0.25 
+18. creature from outer                 ... pos = 0.0   	neg = 0.0  
+19. ), but it does have                 ... pos = 0.0   	neg = 0.0  
+20. Pullman and Fonda se                ... pos = 0.125 	neg = 0.125
+21. Most of the time, th                ... pos = 0.0   	neg = 0.125
+22. Platt and White, on                 ... pos = 0.5   	neg = 0.75 
+23. Read my reviews and                 ... pos = 0.0   	neg = 0.0  
+---------------------------------------------------------------------------
+./temp/tmp-2493-1265 is Negative        ... pos = 7.875 	neg = 8.875
+Overall score of document
+Total Pos = 7.875
+Total Neg = 8.875
+---------------------------------------------------------------------------
